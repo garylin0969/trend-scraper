@@ -1,0 +1,40 @@
+name: Update Ptt Trends
+
+on:
+    schedule:
+        - cron: '*/5 * * * *' # every 5 minutes
+    workflow_dispatch:
+
+jobs:
+    update:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout Repo
+              uses: actions/checkout@v3
+
+            - name: Setup Node.js
+              uses: actions/setup-node@v4
+              with:
+                  node-version: 18
+
+            - name: Install pnpm
+              run: npm install -g pnpm
+
+            - name: Install dependencies
+              run: pnpm install
+
+            - name: Force install Chromium for Puppeteer
+              run: npx puppeteer browsers install chrome
+
+            - name: Run Puppeteer Scraper
+              run: pnpm run scrape:ptt
+
+            - name: Commit and Push Results
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              run: |
+                  git config --global user.name "github-actions[bot]"
+                  git config --global user.email "github-actions[bot]@users.noreply.github.com"
+                  git add data/ptt-trends.json
+                  git diff --cached --quiet || git commit --amend -m "update ptt trends [CI]"
+                  git push --force https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main

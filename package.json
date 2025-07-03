@@ -1,0 +1,24 @@
+{
+    "name": "trend-scraper",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "scrape:google": "tsx scripts/google-trends.ts",
+        "scrape:ptt": "tsx scripts/ptt-trends.ts"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "axios": "^1.10.0",
+        "puppeteer": "^24.11.2"
+    },
+    "devDependencies": {
+        "@types/cheerio": "^1.0.0",
+        "@types/node": "^24.0.10",
+        "tsx": "^4.20.3",
+        "typescript": "^5.8.3"
+    }
+}
