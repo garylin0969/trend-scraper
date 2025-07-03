@@ -2,8 +2,13 @@ import puppeteer from 'puppeteer';
 import fs from 'fs';
 
 interface KomicaTrend {
-    rawText: string;
+    replyCount: number;
+    date: string;
+    time: string;
+    title: string;
+    description: string;
     link: string;
+    rawText: string; // 保留原始文字以備查看
 }
 
 (async () => {
@@ -91,14 +96,37 @@ interface KomicaTrend {
 
                 // 確保還有內容（不是空的）
                 if (rawText) {
-                    trends.push({
-                        rawText,
-                        link,
-                    });
+                    // 切分文字：68|28126604|2025/07/03|11:32|無題|現在的小孩是智力太低還是邏輯太爛|在新分頁開啟
+                    const parts = rawText.split('|');
 
-                    console.log(`✅ 找到第 ${trends.length} 個趨勢`);
-                    console.log(`   文字: ${rawText.substring(0, 100)}...`);
-                    console.log(`   連結: ${link}`);
+                    if (parts.length >= 6) {
+                        const replyCount = parseInt(parts[0].trim()) || 0;
+                        // parts[1] 是 postId，不需要
+                        const date = parts[2].trim();
+                        const time = parts[3].trim();
+                        const title = parts[4].trim();
+                        const description = parts[5].trim();
+
+                        trends.push({
+                            replyCount,
+                            date,
+                            time,
+                            title,
+                            description,
+                            link,
+                            rawText, // 保留原始文字
+                        });
+
+                        console.log(`✅ 找到第 ${trends.length} 個趨勢`);
+                        console.log(`   留言數: ${replyCount}`);
+                        console.log(`   日期: ${date}`);
+                        console.log(`   時間: ${time}`);
+                        console.log(`   標題: ${title}`);
+                        console.log(`   內文: ${description.substring(0, 30)}...`);
+                        console.log(`   連結: ${link}`);
+                    } else {
+                        console.log(`❌ 切分欄位不足，只有 ${parts.length} 個欄位`);
+                    }
                 }
             }
         }
@@ -127,7 +155,10 @@ interface KomicaTrend {
     if (trends.length > 0) {
         console.log('\n📋 前 3 個範例：');
         trends.slice(0, 3).forEach((trend, index) => {
-            console.log(`${index + 1}. 文字：${trend.rawText.substring(0, 80)}...`);
+            console.log(`${index + 1}. 留言數：${trend.replyCount}`);
+            console.log(`   日期：${trend.date} ${trend.time}`);
+            console.log(`   標題：${trend.title}`);
+            console.log(`   內文：${trend.description}`);
             console.log(`   連結：${trend.link}`);
             console.log('');
         });
