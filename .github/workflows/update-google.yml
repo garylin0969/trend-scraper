@@ -2,7 +2,7 @@ name: Update Google Trends
 
 on:
     schedule:
-        - cron: '*/30 * * * *' # 每 30 分鐘執行一次
+        - cron: '*/30 * * * *' # 每 30 分鐘執行一次（UTC）
     workflow_dispatch:
 
 jobs:
@@ -37,5 +37,5 @@ jobs:
                   git config --global user.name "github-actions[bot]"
                   git config --global user.email "github-actions[bot]@users.noreply.github.com"
                   git add data/google-trends.json
-                  git diff --cached --quiet || git commit -m "update google trends [CI]"
+                  git commit -m "update google trends [CI] $(date -u '+%Y-%m-%d %H:%M:%S')" || echo "Nothing to commit"
                   git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
