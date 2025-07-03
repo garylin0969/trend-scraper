@@ -448,14 +448,14 @@ import fs from 'fs';
                     // 只要有標題和連結就視為有效文章（推文數和留言數可以為0）
                     if (title && link) {
                         return {
-                            推文數: recommendScore,
-                            留言數: recommendCount,
-                            標題: title,
-                            連結: link,
-                            作者: author,
-                            分類: board,
-                            發文時間: publishTime,
-                            照片: imageUrl,
+                            recommendScore: recommendScore,
+                            recommendCount: recommendCount,
+                            title: title,
+                            link: link,
+                            author: author,
+                            board: board,
+                            publishTime: publishTime,
+                            imageUrl: imageUrl,
                         };
                     } else {
                         console.log(`容器 ${index + 1} 無效: 標題="${title}", 連結="${link}"`);
@@ -473,8 +473,8 @@ import fs from 'fs';
         const seenLinks = new Set();
 
         for (const article of articleData) {
-            if (article && article.連結 && !seenLinks.has(article.連結)) {
-                seenLinks.add(article.連結);
+            if (article && article.link && !seenLinks.has(article.link)) {
+                seenLinks.add(article.link);
                 uniqueArticles.push(article);
 
                 // 達到目標數量就停止收集（最多20篇，如果不夠就全部收集）
@@ -528,12 +528,12 @@ import fs from 'fs';
 
     console.log(`✅ 擷取完成（按熱門度順序前${finalArticles.length}筆）：`);
     finalArticles.slice(0, 3).forEach((article, index) => {
-        console.log(`${index + 1}. ${article.標題}`);
-        console.log(`   推文數: ${article.推文數}, 留言數: ${article.留言數}`);
-        console.log(`   作者: ${article.作者}, 分類: ${article.分類}`);
-        console.log(`   發文時間: ${article.發文時間}`);
-        console.log(`   照片: ${article.照片 ? '有' : '無'}`);
-        console.log(`   連結: ${article.連結}`);
+        console.log(`${index + 1}. ${article.title}`);
+        console.log(`   推文數: ${article.recommendScore}, 留言數: ${article.recommendCount}`);
+        console.log(`   作者: ${article.author}, 分類: ${article.board}`);
+        console.log(`   發文時間: ${article.publishTime}`);
+        console.log(`   照片: ${article.imageUrl ? '有' : '無'}`);
+        console.log(`   連結: ${article.link}`);
         console.log('---');
     });
     console.log('📊 總共找到', articles.length, '篇文章');
