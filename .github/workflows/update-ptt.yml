@@ -2,12 +2,13 @@ name: Update Ptt Trends
 
 on:
     schedule:
-        - cron: '*/5 * * * *' # every 5 minutes
+        - cron: '*/5 * * * *' # 每 5 分鐘執行一次（UTC）
     workflow_dispatch:
 
 jobs:
     update:
         runs-on: ubuntu-latest
+
         steps:
             - name: Checkout Repo
               uses: actions/checkout@v3
@@ -36,5 +37,5 @@ jobs:
                   git config --global user.name "github-actions[bot]"
                   git config --global user.email "github-actions[bot]@users.noreply.github.com"
                   git add data/ptt-trends.json
-                  git diff --cached --quiet || git commit --amend -m "update ptt trends [CI]"
-                  git push --force https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
+                  git commit -m "update ptt trends [CI] $(date -u '+%Y-%m-%d %H:%M:%S')" || echo "Nothing to commit"
+                  git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
