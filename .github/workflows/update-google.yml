@@ -2,7 +2,7 @@ name: Update Google Trends
 
 on:
     schedule:
-        - cron: '*/30 * * * *' # 每 30 分鐘執行一次（UTC）
+        - cron: '15,45 * * * *' # 每小時第 15 和 45 分鐘執行
     workflow_dispatch:
 
 jobs:

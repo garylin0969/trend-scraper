@@ -2,7 +2,7 @@ name: Update Komica Trends
 
 on:
     schedule:
-        - cron: '*/30 * * * *' # 每 30 分鐘執行一次（UTC）
+        - cron: '7,37 * * * *' # 每小時第 7 和 37 分鐘執行
     workflow_dispatch:
 
 jobs:

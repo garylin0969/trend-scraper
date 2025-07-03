@@ -2,7 +2,7 @@ name: Update Gamer Trends
 
 on:
     schedule:
-        - cron: '0 */1 * * *' # 每 1 小時執行一次
+        - cron: '2 */1 * * *' # 每小時第 2 分鐘執行
     workflow_dispatch:
 
 jobs:

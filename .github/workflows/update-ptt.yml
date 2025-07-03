@@ -2,7 +2,7 @@ name: Update Ptt Trends
 
 on:
     schedule:
-        - cron: '*/5 * * * *' # 每 5 分鐘執行一次（UTC）
+        - cron: '1,11,21,31,41,51 * * * *' # 每 10 分鐘執行（錯開時間）
     workflow_dispatch:
 
 jobs:
