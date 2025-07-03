@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-03T16:19:29.231Z",
+  "updated": "2025-07-03T16:34:36.967Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "-200",
-      "recommendCount": "714",
+      "recommendCount": "715",
       "title": "[新聞] 北檢11檢察官遭肉搜威脅「命債命還」　法務部震怒下令嚴辦",
       "link": "/bbs/Gossiping/M.1751496104.A.4BF",
       "author": "tiger911",
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "282",
+      "recommendCount": "662",
+      "title": "[新聞] 航空後換餐飲？　業者證實經部來電要「軍人優惠」：非常可惡",
+      "link": "/bbs/Gossiping/M.1751552506.A.59E",
+      "author": "Oisiossos",
+      "board": "Gossiping",
+      "publishTime": "2025/07/03 14:21",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "306",
       "recommendCount": "694",
       "title": "[問卦] 給你10億或可以跟任何人交配 二選一",
@@ -64,18 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "273",
-      "recommendCount": "635",
-      "title": "[新聞] 航空後換餐飲？　業者證實經部來電要「軍人優惠」：非常可惡",
-      "link": "/bbs/Gossiping/M.1751552506.A.59E",
-      "author": "Oisiossos",
-      "board": "Gossiping",
-      "publishTime": "2025/07/03 14:21",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "339",
-      "recommendCount": "588",
+      "recommendCount": "590",
       "title": "[新聞] 華航、長榮航空企業工會聲明：支持照顧國軍政策 反對國家將成本轉嫁企業和勞工",
       "link": "/bbs/Stock/M.1751529805.A.1C2",
       "author": "jeff0025",
@@ -154,13 +154,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/HKVERdd/s/bd144b9bbec4034f8db376a47317c0cb"
     },
     {
-      "recommendScore": "337",
-      "recommendCount": "477",
+      "recommendScore": "338",
+      "recommendCount": "478",
       "title": "[花邊] Ayton：謝謝拓荒者，湖人我準備好了",
       "link": "/bbs/NBA/M.1751518469.A.A59",
       "author": "Wojnarowski",
       "board": "NBA",
       "publishTime": "2025/07/03 04:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "250",
+      "recommendCount": "530",
+      "title": "[新聞] 戰略錯誤？賴清德連四講被炎上　他急喊停「這時間」再啟動",
+      "link": "/bbs/Gossiping/M.1751539074.A.CF6",
+      "author": "HisVol",
+      "board": "Gossiping",
+      "publishTime": "2025/07/03 10:37",
       "imageUrl": ""
     },
     {
@@ -174,16 +184,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/L02Tg4k/s/ad4bc96d907a3e5f5c2a0dad7a278a78"
     },
     {
-      "recommendScore": "250",
-      "recommendCount": "528",
-      "title": "[新聞] 戰略錯誤？賴清德連四講被炎上　他急喊停「這時間」再啟動",
-      "link": "/bbs/Gossiping/M.1751539074.A.CF6",
-      "author": "HisVol",
-      "board": "Gossiping",
-      "publishTime": "2025/07/03 10:37",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "164",
       "recommendCount": "576",
       "title": "[新聞] 最強高中生Ray直言「台灣無聊得像坨屎」：大家都像NPC",
@@ -195,7 +195,7 @@
     },
     {
       "recommendScore": "195",
-      "recommendCount": "400",
+      "recommendCount": "401",
       "title": "[問卦] 三立、民視、自由時報的下限大概在哪？",
       "link": "/bbs/Gossiping/M.1751528821.A.717",
       "author": "eunhailoveu",
