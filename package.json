@@ -5,7 +5,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "scrape:google": "tsx scripts/google-trends.ts",
-        "scrape:ptt": "tsx scripts/ptt-trends.ts"
+        "scrape:ptt": "tsx scripts/ptt-trends.ts",
+        "scrape:komica": "tsx scripts/komica-trends.ts"
     },
     "keywords": [],
     "author": "",
