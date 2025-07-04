@@ -53,105 +53,151 @@ interface GamerTrend {
         }
     });
 
-    // 等待一下讓內容完全載入
-    await new Promise((resolve) => setTimeout(resolve, 2000));
+    // 等待數據完全載入 - 改用更智能的等待策略
+    console.log('⏳ 等待數據完全載入...');
 
-    const trends = await page.evaluate(() => {
-        console.log('開始解析熱門話題...');
+    // 等待數據元素載入
+    try {
+        await page.waitForSelector('.index-card__data-content .index-card__data', { timeout: 10000 });
+        console.log('✅ 找到數據元素');
+    } catch (error) {
+        console.log('⚠️  等待數據元素載入超時，繼續執行...');
+    }
 
-        const items = document.querySelectorAll('#postPanel .index-list__column .index-list__item');
-        console.log('找到熱門話題項目數量:', items.length);
+    // 等待一段時間讓動態內容完全載入
+    await new Promise((resolve) => setTimeout(resolve, 3000));
 
-        // 如果找不到項目，嘗試其他選擇器
-        if (items.length === 0) {
-            console.log('找不到熱門話題項目，嘗試其他選擇器...');
-            const alternativeItems = document.querySelectorAll('.index-list__item');
-            console.log('替代選擇器找到項目數量:', alternativeItems.length);
+    // 再次檢查數據是否載入完成
+    const dataLoaded = await page.evaluate(() => {
+        const dataElements = document.querySelectorAll('.index-card__data-content .index-card__data data');
+        let hasValidData = false;
 
-            // 印出頁面結構以便調試
-            const postPanel = document.querySelector('#postPanel');
-            if (postPanel) {
-                console.log('找到 #postPanel，HTML 結構:', postPanel.innerHTML.substring(0, 500));
-            } else {
-                console.log('找不到 #postPanel');
+        dataElements.forEach((element) => {
+            const value = element.textContent?.trim();
+            if (value && value !== '0' && value !== '-' && value !== 'X') {
+                hasValidData = true;
             }
+        });
 
-            return [];
+        console.log(`檢查到 ${dataElements.length} 個數據元素，有效數據: ${hasValidData}`);
+        return hasValidData;
+    });
+
+    if (!dataLoaded) {
+        console.log('⚠️  數據可能還沒完全載入，再等待2秒...');
+        await new Promise((resolve) => setTimeout(resolve, 2000));
+    }
+
+    // 開始抓取數據，如果失敗則重試
+    let trends: GamerTrend[] = [];
+    let retryCount = 0;
+    const maxRetries = 2;
+
+    while (trends.length === 0 && retryCount < maxRetries) {
+        if (retryCount > 0) {
+            console.log(`🔄 第 ${retryCount + 1} 次嘗試抓取數據...`);
+            await new Promise((resolve) => setTimeout(resolve, 3000));
         }
 
-        const trends: GamerTrend[] = [];
+        trends = await page.evaluate(() => {
+            console.log('開始解析熱門話題...');
 
-        items.forEach((item, index) => {
-            try {
-                console.log(`處理第 ${index + 1} 個項目...`);
+            const items = document.querySelectorAll('#postPanel .index-list__column .index-list__item');
+            console.log('找到熱門話題項目數量:', items.length);
 
-                // 看板名稱 - 第一個 .index-list__name
-                const boardNameElements = item.querySelectorAll('.index-list__name');
-                const boardName = boardNameElements[0] ? boardNameElements[0].textContent?.trim() || '' : '';
-                console.log(`   看板名稱: ${boardName}`);
+            // 如果找不到項目，嘗試其他選擇器
+            if (items.length === 0) {
+                console.log('找不到熱門話題項目，嘗試其他選擇器...');
+                const alternativeItems = document.querySelectorAll('.index-list__item');
+                console.log('替代選擇器找到項目數量:', alternativeItems.length);
 
-                // 看板頭像
-                const boardImageElement = item.querySelector('.index-list__profile img');
-                const boardImage = boardImageElement ? boardImageElement.getAttribute('src') || '' : '';
-                console.log(`   看板頭像: ${boardImage}`);
-
-                // 子板名稱 - 第二個 .index-list__name
-                const subBoard = boardNameElements[1] ? boardNameElements[1].textContent?.trim() || '' : '';
-                console.log(`   子板名稱: ${subBoard}`);
-
-                // 標題
-                const titleElement = item.querySelector('.index-list__heading');
-                const title = titleElement ? titleElement.textContent?.trim() || '' : '';
-                console.log(`   標題: ${title}`);
-
-                // 內文簡略
-                const contentElement = item.querySelector('.index-list__msg');
-                const content = contentElement ? contentElement.textContent?.trim() || '' : '';
-                console.log(`   內文: ${content?.substring(0, 50)}...`);
-
-                // 文章圖片
-                const articleImageElement = item.querySelector('.index-list__cover img');
-                const articleImage = articleImageElement ? articleImageElement.getAttribute('src') || '' : '';
-                console.log(`   文章圖片: ${articleImage}`);
-
-                // 文章連結
-                const linkElement = item.querySelector('.index-list__content');
-                const link = linkElement ? linkElement.getAttribute('href') || '' : '';
-                console.log(`   文章連結: ${link}`);
-
-                // 數據區塊 (推、噓、留言) - 根據HTML結構順序提取
-                const dataElements = item.querySelectorAll('.index-card__data');
-                console.log(`   找到數據元素數量: ${dataElements.length}`);
-
-                let gp = 0,
-                    bp = 0,
-                    comments = 0;
-
-                // 根據HTML結構，通常順序是：推、噓、留言
-                if (dataElements.length >= 3) {
-                    const gpElement = dataElements[0].querySelector('data');
-                    const bpElement = dataElements[1].querySelector('data');
-                    const commentsElement = dataElements[2].querySelector('data');
-
-                    if (gpElement) {
-                        gp = parseInt(gpElement.textContent?.trim() || '0') || 0;
-                    }
-                    if (bpElement) {
-                        const bpValue = bpElement.textContent?.trim() || '0';
-                        bp = bpValue === '-' ? 0 : parseInt(bpValue) || 0;
-                    }
-                    if (commentsElement) {
-                        comments = parseInt(commentsElement.textContent?.trim() || '0') || 0;
-                    }
-
-                    console.log(`   順序提取 - GP: ${gp}, BP: ${bp}, 留言: ${comments}`);
+                // 印出頁面結構以便調試
+                const postPanel = document.querySelector('#postPanel');
+                if (postPanel) {
+                    console.log('找到 #postPanel，HTML 結構:', postPanel.innerHTML.substring(0, 500));
                 } else {
-                    console.log('   數據元素不足，嘗試圖標識別方式');
-                    // 備用方案：逐個檢查圖標
+                    console.log('找不到 #postPanel');
+                }
+
+                return [];
+            }
+
+            const trends: GamerTrend[] = [];
+
+            items.forEach((item, index) => {
+                try {
+                    console.log(`處理第 ${index + 1} 個項目...`);
+
+                    // 看板名稱 - 第一個 .index-list__name
+                    const boardNameElements = item.querySelectorAll('.index-list__name');
+                    const boardName = boardNameElements[0] ? boardNameElements[0].textContent?.trim() || '' : '';
+                    console.log(`   看板名稱: ${boardName}`);
+
+                    // 看板頭像 - 修正選擇器，使用多重策略
+                    const boardImageElement =
+                        item.querySelector('.index-list__profile img') || item.querySelector('.index-list__left img');
+                    const boardImage = boardImageElement ? boardImageElement.getAttribute('src') || '' : '';
+                    console.log(`   看板頭像: ${boardImage}`);
+
+                    // 子板名稱 - 第二個 .index-list__name
+                    const subBoard = boardNameElements[1] ? boardNameElements[1].textContent?.trim() || '' : '';
+                    console.log(`   子板名稱: ${subBoard}`);
+
+                    // 標題 - 使用多重選擇器
+                    const titleElement =
+                        item.querySelector('.index-list__heading') || item.querySelector('h3.index-list__heading');
+                    const title = titleElement
+                        ? titleElement.textContent
+                              ?.trim()
+                              .replace(/【.*?】/g, '')
+                              .trim() || ''
+                        : '';
+                    console.log(`   標題: ${title}`);
+
+                    // 內文簡略
+                    const contentElement =
+                        item.querySelector('.index-list__msg') || item.querySelector('p.index-list__msg');
+                    const content = contentElement ? contentElement.textContent?.trim() || '' : '';
+                    console.log(`   內文: ${content?.substring(0, 50)}...`);
+
+                    // 文章圖片 - 使用多重選擇器
+                    const articleImageElement =
+                        item.querySelector('.index-list__cover img') || item.querySelector('.index-list__article img');
+                    const articleImage = articleImageElement ? articleImageElement.getAttribute('src') || '' : '';
+                    console.log(`   文章圖片: ${articleImage}`);
+
+                    // 文章連結 - 使用多重選擇器策略
+                    const linkElement =
+                        item.querySelector('.index-list__content') ||
+                        item.querySelector('a[href*="forum.gamer.com.tw/C.php"]') ||
+                        item.querySelector('a[href*="/C.php"]');
+                    const link = linkElement ? linkElement.getAttribute('href') || '' : '';
+                    console.log(`   文章連結: ${link}`);
+
+                    // 數據區塊 (推、噓、留言) - 使用多重選擇器策略
+                    let dataElements = item.querySelectorAll('.index-card__data-content .index-card__data');
+
+                    // 如果找不到，嘗試其他選擇器
+                    if (dataElements.length === 0) {
+                        dataElements = item.querySelectorAll('.index-card__data');
+                        console.log(`   使用備用選擇器找到數據元素: ${dataElements.length}`);
+                    }
+
+                    console.log(`   找到數據元素數量: ${dataElements.length}`);
+
+                    let gp = 0,
+                        bp = 0,
+                        comments = 0;
+
+                    // 檢查每個數據元素
                     dataElements.forEach((dataEl, dataIndex) => {
                         const iconElement = dataEl.querySelector('.info__icon');
-                        const dataValue = dataEl.querySelector('data');
-                        const value = dataValue ? dataValue.textContent?.trim() || '0' : '0';
+                        const dataValue = dataEl.querySelector('data') || dataEl.querySelector('[data-value]');
+                        let value = '';
+
+                        if (dataValue) {
+                            value = dataValue.textContent?.trim() || dataValue.getAttribute('data-value') || '0';
+                        }
 
                         console.log(`   數據元素 ${dataIndex}: 值=${value}`);
 
@@ -165,7 +211,7 @@ interface GamerTrend {
                                 console.log(`   設定 GP: ${gp}`);
                             } else if (classList.includes('icon-gp') && classList.includes('rotate')) {
                                 // 噓 (BP)
-                                bp = value === '-' ? 0 : parseInt(value) || 0;
+                                bp = value === '-' || value === 'X' ? 0 : parseInt(value) || 0;
                                 console.log(`   設定 BP: ${bp}`);
                             } else if (classList.includes('icon-message')) {
                                 // 留言數
@@ -174,52 +220,80 @@ interface GamerTrend {
                             }
                         }
                     });
-                }
 
-                // 從 data-home-bookmark 屬性中提取作者資訊
-                let author = boardName; // 默認使用看板名稱
-                const bookmarkButton = item.querySelector('[data-home-bookmark]');
-                if (bookmarkButton) {
-                    const bookmarkData = bookmarkButton.getAttribute('data-home-bookmark');
-                    if (bookmarkData) {
-                        try {
-                            const bookmarkObj = JSON.parse(bookmarkData);
-                            if (bookmarkObj.userid) {
-                                author = bookmarkObj.userid;
-                            }
-                        } catch (e) {
-                            console.log('   解析 bookmark 資料失敗');
+                    // 如果還是沒有數據，嘗試直接從HTML中提取
+                    if (gp === 0 && bp === 0 && comments === 0) {
+                        console.log('   嘗試直接從HTML提取數據...');
+                        const htmlContent = item.innerHTML;
+
+                        // 嘗試用正則表達式提取數據
+                        const gpMatch = htmlContent.match(/<data[^>]*>(\d+)<\/data>/);
+                        const commentsMatch = htmlContent.match(/icon-message[^>]*>.*?<data[^>]*>(\d+)<\/data>/s);
+
+                        if (gpMatch) {
+                            gp = parseInt(gpMatch[1]) || 0;
+                            console.log(`   正則提取 GP: ${gp}`);
+                        }
+
+                        if (commentsMatch) {
+                            comments = parseInt(commentsMatch[1]) || 0;
+                            console.log(`   正則提取留言數: ${comments}`);
                         }
                     }
-                }
-                console.log(`   作者: ${author}`);
 
-                if (title && boardName) {
-                    trends.push({
-                        boardName,
-                        boardImage,
-                        subBoard,
-                        title,
-                        content,
-                        articleImage,
-                        gp,
-                        bp,
-                        comments,
-                        link,
-                        author,
-                    });
+                    // 從 data-home-bookmark 屬性中提取作者資訊
+                    let author = boardName; // 默認使用看板名稱
+                    const bookmarkButton = item.querySelector('[data-home-bookmark]');
+                    if (bookmarkButton) {
+                        const bookmarkData = bookmarkButton.getAttribute('data-home-bookmark');
+                        if (bookmarkData) {
+                            try {
+                                const bookmarkObj = JSON.parse(bookmarkData);
+                                if (bookmarkObj.userid) {
+                                    author = bookmarkObj.userid;
+                                }
+                            } catch (e) {
+                                console.log('   解析 bookmark 資料失敗:', e);
+                            }
+                        }
+                    }
+                    console.log(`   作者: ${author}`);
 
-                    console.log(`✅ 找到第 ${trends.length} 個熱門話題`);
-                    console.log(`   推: ${gp}, 噓: ${bp}, 留言: ${comments}`);
+                    // 詳細記錄抓取結果
+                    console.log(`   最終結果 - 推: ${gp}, 噓: ${bp}, 留言: ${comments}`);
+                    console.log(`   連結: ${link}`);
+                    console.log(`   圖片: ${boardImage}`);
+
+                    if (title && boardName) {
+                        trends.push({
+                            boardName,
+                            boardImage,
+                            subBoard,
+                            title,
+                            content,
+                            articleImage,
+                            gp,
+                            bp,
+                            comments,
+                            link,
+                            author,
+                        });
+
+                        console.log(`✅ 找到第 ${trends.length} 個熱門話題`);
+                    } else {
+                        console.log(`❌ 第 ${index + 1} 個項目缺少必要欄位 - 標題: ${title}, 看板: ${boardName}`);
+                    }
+                } catch (error) {
+                    console.log(`❌ 處理第 ${index + 1} 個項目時發生錯誤:`, error);
                 }
-            } catch (error) {
-                console.log(`❌ 處理第 ${index + 1} 個項目時發生錯誤:`, error);
-            }
+            });
+
+            console.log('總共找到:', trends.length, '個熱門話題');
+            return trends;
         });
 
-        console.log('總共找到:', trends.length, '個熱門話題');
-        return trends;
-    });
+        retryCount++;
+    }
 
     await browser.close();
 
