@@ -31,9 +31,24 @@ interface GamerTrend {
     await page.setUserAgent(randomUserAgent);
 
     console.log('⏳ 載入巴哈姆特首頁...');
-    await page.goto('https://www.gamer.com.tw/index.php?ad=N', {
-        waitUntil: 'networkidle2',
-    });
+    try {
+        await page.goto('https://www.gamer.com.tw/index.php?ad=N', {
+            waitUntil: 'networkidle2',
+            timeout: 60000, // 增加超時時間到60秒
+        });
+    } catch (error) {
+        console.log('⚠️ 首次載入失敗，嘗試重新載入...');
+        try {
+            await page.goto('https://www.gamer.com.tw/index.php?ad=N', {
+                waitUntil: 'domcontentloaded', // 改用更寬鬆的等待條件
+                timeout: 60000,
+            });
+        } catch (retryError) {
+            console.log('❌ 重新載入也失敗，關閉瀏覽器');
+            await browser.close();
+            return;
+        }
+    }
 
     // 等待熱門話題區塊載入
     try {
@@ -65,27 +80,40 @@ interface GamerTrend {
     }
 
     // 等待一段時間讓動態內容完全載入
-    await new Promise((resolve) => setTimeout(resolve, 3000));
+    await new Promise((resolve) => setTimeout(resolve, 5000));
+
+    // 滾動頁面以觸發數據載入
+    await page.evaluate(() => {
+        window.scrollTo(0, document.body.scrollHeight);
+    });
+
+    await new Promise((resolve) => setTimeout(resolve, 2000));
+
+    await page.evaluate(() => {
+        window.scrollTo(0, 0);
+    });
 
     // 再次檢查數據是否載入完成
     const dataLoaded = await page.evaluate(() => {
-        const dataElements = document.querySelectorAll('.index-card__data-content .index-card__data data');
+        const dataElements = document.querySelectorAll('.index-card__data data');
         let hasValidData = false;
+        let totalData = 0;
 
         dataElements.forEach((element) => {
             const value = element.textContent?.trim();
-            if (value && value !== '0' && value !== '-' && value !== 'X') {
+            totalData++;
+            if (value && value !== '0' && value !== '-' && value !== 'X' && parseInt(value) > 0) {
                 hasValidData = true;
             }
         });
 
-        console.log(`檢查到 ${dataElements.length} 個數據元素，有效數據: ${hasValidData}`);
+        console.log(`檢查到 ${totalData} 個數據元素，有效數據: ${hasValidData}`);
         return hasValidData;
     });
 
     if (!dataLoaded) {
-        console.log('⚠️  數據可能還沒完全載入，再等待2秒...');
-        await new Promise((resolve) => setTimeout(resolve, 2000));
+        console.log('⚠️  數據可能還沒完全載入，再等待3秒...');
+        await new Promise((resolve) => setTimeout(resolve, 3000));
     }
 
     // 開始抓取數據，如果失敗則重試
@@ -133,56 +161,60 @@ interface GamerTrend {
                     const boardName = boardNameElements[0] ? boardNameElements[0].textContent?.trim() || '' : '';
                     console.log(`   看板名稱: ${boardName}`);
 
-                    // 看板頭像 - 修正選擇器，使用多重策略
-                    const boardImageElement =
-                        item.querySelector('.index-list__profile img') || item.querySelector('.index-list__left img');
+                    // 看板頭像 - 多重選擇器策略
+                    let boardImageElement = item.querySelector('.index-list__profile img');
+                    if (!boardImageElement) {
+                        boardImageElement = item.querySelector('.index-list__left img');
+                    }
                     const boardImage = boardImageElement ? boardImageElement.getAttribute('src') || '' : '';
-                    console.log(`   看板頭像: ${boardImage}`);
+                    console.log(`   看板頭像: ${boardImage} (找到元素: ${!!boardImageElement})`);
 
-                    // 子板名稱 - 第二個 .index-list__name
-                    const subBoard = boardNameElements[1] ? boardNameElements[1].textContent?.trim() || '' : '';
-                    console.log(`   子板名稱: ${subBoard}`);
+                    // 子板名稱 - 第二個 .index-list__name，如果沒有則留空
+                    let subBoard = '';
+                    if (boardNameElements.length > 1) {
+                        subBoard = boardNameElements[1].textContent?.trim() || '';
+                    }
+                    console.log(`   子板名稱: ${subBoard} (找到 ${boardNameElements.length} 個 name 元素)`);
 
-                    // 標題 - 使用多重選擇器
-                    const titleElement =
-                        item.querySelector('.index-list__heading') || item.querySelector('h3.index-list__heading');
-                    const title = titleElement
-                        ? titleElement.textContent
-                              ?.trim()
-                              .replace(/【.*?】/g, '')
-                              .trim() || ''
-                        : '';
-                    console.log(`   標題: ${title}`);
+                    // 標題 - 不移除【】標記，保持原始標題
+                    const titleElement = item.querySelector('.index-list__heading');
+                    const title = titleElement ? titleElement.textContent?.trim() || '' : '';
+                    console.log(`   標題: ${title} (找到元素: ${!!titleElement})`);
 
-                    // 內文簡略
-                    const contentElement =
-                        item.querySelector('.index-list__msg') || item.querySelector('p.index-list__msg');
+                    // 內文簡略 - 多重選擇器策略
+                    let contentElement = item.querySelector('.index-list__msg');
+                    if (!contentElement) {
+                        contentElement = item.querySelector('p.index-list__msg');
+                    }
                     const content = contentElement ? contentElement.textContent?.trim() || '' : '';
-                    console.log(`   內文: ${content?.substring(0, 50)}...`);
+                    console.log(`   內文: ${content?.substring(0, 50)}... (找到元素: ${!!contentElement})`);
 
-                    // 文章圖片 - 使用多重選擇器
-                    const articleImageElement =
-                        item.querySelector('.index-list__cover img') || item.querySelector('.index-list__article img');
+                    // 文章圖片
+                    const articleImageElement = item.querySelector('.index-list__cover img');
                     const articleImage = articleImageElement ? articleImageElement.getAttribute('src') || '' : '';
-                    console.log(`   文章圖片: ${articleImage}`);
+                    console.log(`   文章圖片: ${articleImage} (找到元素: ${!!articleImageElement})`);
 
-                    // 文章連結 - 使用多重選擇器策略
-                    const linkElement =
-                        item.querySelector('.index-list__content') ||
-                        item.querySelector('a[href*="forum.gamer.com.tw/C.php"]') ||
-                        item.querySelector('a[href*="/C.php"]');
-                    const link = linkElement ? linkElement.getAttribute('href') || '' : '';
-                    console.log(`   文章連結: ${link}`);
+                    // 文章連結 - 從 .index-list__content 取得 href
+                    const linkElement = item.querySelector('.index-list__content');
+                    let link = linkElement ? linkElement.getAttribute('href') || '' : '';
+                    console.log(
+                        `   文章連結: ${link} (找到元素: ${!!linkElement}, 有href: ${!!linkElement?.getAttribute(
+                            'href'
+                        )})`
+                    );
 
-                    // 數據區塊 (推、噓、留言) - 使用多重選擇器策略
-                    let dataElements = item.querySelectorAll('.index-card__data-content .index-card__data');
-
-                    // 如果找不到，嘗試其他選擇器
-                    if (dataElements.length === 0) {
-                        dataElements = item.querySelectorAll('.index-card__data');
-                        console.log(`   使用備用選擇器找到數據元素: ${dataElements.length}`);
+                    // 如果連結為空，嘗試其他方法
+                    if (!link) {
+                        const altLinkElement = item.querySelector('a[href*="forum.gamer.com.tw/C.php"]');
+                        const altLink = altLinkElement ? altLinkElement.getAttribute('href') || '' : '';
+                        if (altLink) {
+                            link = altLink;
+                            console.log(`   使用備用連結: ${altLink}`);
+                        }
                     }
 
+                    // 數據區塊 (推、噓、留言) - 改進抓取邏輯
+                    const dataElements = item.querySelectorAll('.index-card__data');
                     console.log(`   找到數據元素數量: ${dataElements.length}`);
 
                     let gp = 0,
@@ -192,54 +224,40 @@ interface GamerTrend {
                     // 檢查每個數據元素
                     dataElements.forEach((dataEl, dataIndex) => {
                         const iconElement = dataEl.querySelector('.info__icon');
-                        const dataValue = dataEl.querySelector('data') || dataEl.querySelector('[data-value]');
-                        let value = '';
+                        const dataValue = dataEl.querySelector('data');
 
-                        if (dataValue) {
-                            value = dataValue.textContent?.trim() || dataValue.getAttribute('data-value') || '0';
-                        }
+                        console.log(`   數據元素 ${dataIndex}: 找到圖標=${!!iconElement}, 找到數值=${!!dataValue}`);
 
-                        console.log(`   數據元素 ${dataIndex}: 值=${value}`);
-
-                        if (iconElement) {
+                        if (dataValue && iconElement) {
+                            const value = dataValue.textContent?.trim() || '';
                             const classList = Array.from(iconElement.classList);
-                            console.log(`   圖標類別: ${classList.join(', ')}`);
+
+                            console.log(`   數據元素 ${dataIndex}: 圖標=${classList.join(', ')}, 值='${value}'`);
 
                             if (classList.includes('icon-gp') && !classList.includes('rotate')) {
                                 // 推 (GP)
-                                gp = parseInt(value) || 0;
-                                console.log(`   設定 GP: ${gp}`);
+                                const numValue = parseInt(value) || 0;
+                                gp = numValue;
+                                console.log(`   設定 GP: ${gp} (原始值: '${value}')`);
                             } else if (classList.includes('icon-gp') && classList.includes('rotate')) {
-                                // 噓 (BP)
-                                bp = value === '-' || value === 'X' ? 0 : parseInt(value) || 0;
-                                console.log(`   設定 BP: ${bp}`);
+                                // 噓 (BP) - 處理 X 和 - 符號
+                                if (value === 'X' || value === '-') {
+                                    bp = 0;
+                                } else {
+                                    const numValue = parseInt(value) || 0;
+                                    bp = numValue;
+                                }
+                                console.log(`   設定 BP: ${bp} (原始值: '${value}')`);
                             } else if (classList.includes('icon-message')) {
                                 // 留言數
-                                comments = parseInt(value) || 0;
-                                console.log(`   設定留言數: ${comments}`);
+                                const numValue = parseInt(value) || 0;
+                                comments = numValue;
+                                console.log(`   設定留言數: ${comments} (原始值: '${value}')`);
                             }
+                        } else {
+                            console.log(`   數據元素 ${dataIndex}: 缺少必要元素`);
                         }
                     });
-
-                    // 如果還是沒有數據，嘗試直接從HTML中提取
-                    if (gp === 0 && bp === 0 && comments === 0) {
-                        console.log('   嘗試直接從HTML提取數據...');
-                        const htmlContent = item.innerHTML;
-
-                        // 嘗試用正則表達式提取數據
-                        const gpMatch = htmlContent.match(/<data[^>]*>(\d+)<\/data>/);
-                        const commentsMatch = htmlContent.match(/icon-message[^>]*>.*?<data[^>]*>(\d+)<\/data>/s);
-
-                        if (gpMatch) {
-                            gp = parseInt(gpMatch[1]) || 0;
-                            console.log(`   正則提取 GP: ${gp}`);
-                        }
-
-                        if (commentsMatch) {
-                            comments = parseInt(commentsMatch[1]) || 0;
-                            console.log(`   正則提取留言數: ${comments}`);
-                        }
-                    }
 
                     // 從 data-home-bookmark 屬性中提取作者資訊
                     let author = boardName; // 默認使用看板名稱
