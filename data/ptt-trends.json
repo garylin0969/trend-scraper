@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-04T05:23:40.805Z",
+  "updated": "2025-07-04T05:39:37.062Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "740",
-      "recommendCount": "936",
+      "recommendScore": "742",
+      "recommendCount": "938",
       "title": "Re: [新聞] 快訊／恐嚇京華城案檢察官！粉專版主今晨聲押禁見",
       "link": "/bbs/Gossiping/M.1751587223.A.DBA",
       "author": "windpeter",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "326",
-      "recommendCount": "753",
+      "recommendScore": "327",
+      "recommendCount": "756",
       "title": "[新聞] 《迷因台式民主》版主貼11檢察官個資恐嚇 今晨聲押禁見",
       "link": "/bbs/Gossiping/M.1751588821.A.1CE",
       "author": "oftheday",
@@ -64,13 +64,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "316",
-      "recommendCount": "712",
-      "title": "[問卦] 給你10億或可以跟任何人交配 二選一",
-      "link": "/bbs/Gossiping/M.1751520586.A.E0A",
-      "author": "ericgary",
+      "recommendScore": "243",
+      "recommendCount": "537",
+      "title": "[新聞] 台美談判樂觀！估計稅率在10%~15%之間",
+      "link": "/bbs/Stock/M.1751598333.A.B2E",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2025/07/04 03:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "312",
+      "recommendCount": "898",
+      "title": "Re: [問卦] 新青安是不是最後一隻老鼠?",
+      "link": "/bbs/Gossiping/M.1751575274.A.4D8",
+      "author": "CenaC",
       "board": "Gossiping",
-      "publishTime": "2025/07/03 05:29",
+      "publishTime": "2025/07/03 20:41",
       "imageUrl": ""
     },
     {
@@ -81,26 +91,6 @@
       "author": "jeff0025",
       "board": "Stock",
       "publishTime": "2025/07/03 08:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "313",
-      "recommendCount": "883",
-      "title": "Re: [問卦] 新青安是不是最後一隻老鼠?",
-      "link": "/bbs/Gossiping/M.1751575274.A.4D8",
-      "author": "CenaC",
-      "board": "Gossiping",
-      "publishTime": "2025/07/03 20:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "234",
-      "recommendCount": "518",
-      "title": "[新聞] 台美談判樂觀！估計稅率在10%~15%之間",
-      "link": "/bbs/Stock/M.1751598333.A.B2E",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2025/07/04 03:05",
       "imageUrl": ""
     },
     {
@@ -124,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "256",
-      "recommendCount": "484",
+      "recommendScore": "257",
+      "recommendCount": "485",
       "title": "[問卦] 到底為什麼不認真抓詐騙高層？",
       "link": "/bbs/Gossiping/M.1751523822.A.EF6",
       "author": "WayneTsai",
@@ -144,8 +134,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/1jBG0ud/s/efd44a38142c3183590791480d95e38e"
     },
     {
-      "recommendScore": "306",
-      "recommendCount": "544",
+      "recommendScore": "310",
+      "recommendCount": "549",
       "title": "[問卦] 早安 北檢檢察官！早安 台灣！",
       "link": "/bbs/Gossiping/M.1751595289.A.5AA",
       "author": "ambitious",
@@ -194,14 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "409",
+      "recommendScore": "209",
+      "recommendCount": "411",
       "title": "[新聞] 彭振聲喪妻震驚社會　中華人權協會喊話檢調：立即停止押人取供惡行",
       "link": "/bbs/Gossiping/M.1751550618.A.EEC",
       "author": "TBOC",
       "board": "Gossiping",
       "publishTime": "2025/07/03 13:50",
       "imageUrl": "https://cache.pttweb.cc/imgur/Opdht5Y/s/8728f13efa96dc2b079035be1e55ecc9"
+    },
+    {
+      "recommendScore": "206",
+      "recommendCount": "410",
+      "title": "[新聞] 大罷免大求職？罷樑失敗民團發言人 轉任綠委助理",
+      "link": "/bbs/Gossiping/M.1751540983.A.721",
+      "author": "ozjucka",
+      "board": "Gossiping",
+      "publishTime": "2025/07/03 11:09",
+      "imageUrl": ""
     }
   ]
 }
