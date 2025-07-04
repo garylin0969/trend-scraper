@@ -1,11 +1,11 @@
 {
-  "updated": "2025-07-04T09:07:50.257Z",
+  "updated": "2025-07-04T09:19:34.095Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "786",
-      "recommendCount": "991",
+      "recommendCount": "994",
       "title": "Re: [新聞] 快訊／恐嚇京華城案檢察官！粉專版主今晨聲押禁見",
       "link": "/bbs/Gossiping/M.1751587223.A.DBA",
       "author": "windpeter",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "318",
-      "recommendCount": "931",
+      "recommendScore": "325",
+      "recommendCount": "948",
       "title": "[新聞] 有片／違規堆高機「削頭奪命」！20歲女外送員亡　驚悚瞬間曝",
       "link": "/bbs/Gossiping/M.1751605038.A.829",
       "author": "WADE0616",
@@ -54,8 +54,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "272",
-      "recommendCount": "607",
+      "recommendScore": "327",
+      "recommendCount": "822",
+      "title": "[新聞] 涉網路張貼法官及檢察官個資 戴姓工程師遭聲押",
+      "link": "/bbs/Gossiping/M.1751607225.A.C13",
+      "author": "TBOC",
+      "board": "Gossiping",
+      "publishTime": "2025/07/04 05:33",
+      "imageUrl": "https://cache.pttweb.cc/imgur/r6hA5SW/s/9ee5a30c96ccab3591e6f78cc7d59152"
+    },
+    {
+      "recommendScore": "274",
+      "recommendCount": "609",
       "title": "[新聞] 台美談判樂觀！估計稅率在10%~15%之間",
       "link": "/bbs/Stock/M.1751598333.A.B2E",
       "author": "DrowningPool",
@@ -72,16 +82,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/04 00:27",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "312",
-      "recommendCount": "780",
-      "title": "[新聞] 涉網路張貼法官及檢察官個資 戴姓工程師遭聲押",
-      "link": "/bbs/Gossiping/M.1751607225.A.C13",
-      "author": "TBOC",
-      "board": "Gossiping",
-      "publishTime": "2025/07/04 05:33",
-      "imageUrl": "https://cache.pttweb.cc/imgur/r6hA5SW/s/9ee5a30c96ccab3591e6f78cc7d59152"
     },
     {
       "recommendScore": "316",
@@ -184,23 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "124",
-      "recommendCount": "494",
-      "title": "[新聞] 柯文哲開庭等一整天才能說話　嗆檢：拿出彭振聲太太的筆錄",
-      "link": "/bbs/Gossiping/M.1751543615.A.B5F",
-      "author": "ihl123456",
-      "board": "Gossiping",
-      "publishTime": "2025/07/03 11:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "179",
-      "recommendCount": "480",
+      "recommendScore": "182",
+      "recommendCount": "484",
       "title": "[新聞] 要求餐廳「軍人折扣」被炎上　經濟部：無",
       "link": "/bbs/Gossiping/M.1751607570.A.1F8",
       "author": "starport",
       "board": "Gossiping",
       "publishTime": "2025/07/04 05:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "125",
+      "recommendCount": "495",
+      "title": "[新聞] 柯文哲開庭等一整天才能說話　嗆檢：拿出彭振聲太太的筆錄",
+      "link": "/bbs/Gossiping/M.1751543615.A.B5F",
+      "author": "ihl123456",
+      "board": "Gossiping",
+      "publishTime": "2025/07/03 11:53",
       "imageUrl": ""
     }
   ]
