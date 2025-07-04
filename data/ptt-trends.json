@@ -1,11 +1,11 @@
 {
-  "updated": "2025-07-04T11:05:27.362Z",
+  "updated": "2025-07-04T11:17:33.998Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "789",
-      "recommendCount": "1000",
+      "recommendScore": "791",
+      "recommendCount": "1003",
       "title": "Re: [新聞] 快訊／恐嚇京華城案檢察官！粉專版主今晨聲押禁見",
       "link": "/bbs/Gossiping/M.1751587223.A.DBA",
       "author": "windpeter",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "362",
-      "recommendCount": "1045",
+      "recommendScore": "365",
+      "recommendCount": "1049",
       "title": "[新聞] 有片／違規堆高機「削頭奪命」！20歲女外送員亡　驚悚瞬間曝",
       "link": "/bbs/Gossiping/M.1751605038.A.829",
       "author": "WADE0616",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "350",
-      "recommendCount": "881",
+      "recommendScore": "349",
+      "recommendCount": "883",
       "title": "[新聞] 涉網路張貼法官及檢察官個資 戴姓工程師遭聲押",
       "link": "/bbs/Gossiping/M.1751607225.A.C13",
       "author": "TBOC",
@@ -84,13 +84,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "319",
-      "recommendCount": "912",
+      "recommendScore": "321",
+      "recommendCount": "915",
       "title": "Re: [問卦] 新青安是不是最後一隻老鼠?",
       "link": "/bbs/Gossiping/M.1751575274.A.4D8",
       "author": "CenaC",
       "board": "Gossiping",
       "publishTime": "2025/07/03 20:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "201",
+      "recommendCount": "640",
+      "title": "[新聞] 卓榮泰：關稅仍積極談判中 爭取最好結果保護產業",
+      "link": "/bbs/Stock/M.1751620764.A.38A",
+      "author": "Kai877",
+      "board": "Stock",
+      "publishTime": "2025/07/04 09:19",
       "imageUrl": ""
     },
     {
@@ -112,16 +122,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/03 22:26",
       "imageUrl": "https://cache.pttweb.cc/imgur/1jBG0ud/s/efd44a38142c3183590791480d95e38e"
-    },
-    {
-      "recommendScore": "198",
-      "recommendCount": "614",
-      "title": "[新聞] 卓榮泰：關稅仍積極談判中 爭取最好結果保護產業",
-      "link": "/bbs/Stock/M.1751620764.A.38A",
-      "author": "Kai877",
-      "board": "Stock",
-      "publishTime": "2025/07/04 09:19",
-      "imageUrl": ""
     },
     {
       "recommendScore": "137",
@@ -154,8 +154,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/5wE6Jom/s/4341b6be2415d9709d85b34658b8e1ac"
     },
     {
-      "recommendScore": "205",
-      "recommendCount": "530",
+      "recommendScore": "204",
+      "recommendCount": "531",
       "title": "[新聞] 要求餐廳「軍人折扣」被炎上　經濟部：無",
       "link": "/bbs/Gossiping/M.1751607570.A.1F8",
       "author": "starport",
@@ -184,16 +184,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/Opdht5Y/s/8728f13efa96dc2b079035be1e55ecc9"
     },
     {
-      "recommendScore": "206",
-      "recommendCount": "410",
-      "title": "[新聞] 大罷免大求職？罷樑失敗民團發言人 轉任綠委助理",
-      "link": "/bbs/Gossiping/M.1751540983.A.721",
-      "author": "ozjucka",
-      "board": "Gossiping",
-      "publishTime": "2025/07/03 11:09",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "125",
       "recommendCount": "498",
       "title": "[新聞] 柯文哲開庭等一整天才能說話　嗆檢：拿出彭振聲太太的筆錄",
@@ -201,6 +191,16 @@
       "author": "ihl123456",
       "board": "Gossiping",
       "publishTime": "2025/07/03 11:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "217",
+      "recommendCount": "443",
+      "title": "Re: [問卦] 北檢：羈押工程師是因為他可能勾結串供",
+      "link": "/bbs/Gossiping/M.1751595795.A.FFF",
+      "author": "deann",
+      "board": "Gossiping",
+      "publishTime": "2025/07/04 02:23",
       "imageUrl": ""
     }
   ]
