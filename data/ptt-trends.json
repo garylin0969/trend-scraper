@@ -1,11 +1,11 @@
 {
-  "updated": "2025-07-05T05:17:38.166Z",
+  "updated": "2025-07-05T05:30:13.722Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "572",
-      "recommendCount": "842",
+      "recommendScore": "602",
+      "recommendCount": "879",
       "title": "[問卦] 北檢撐法治，我們撐北檢！",
       "link": "/bbs/Gossiping/M.1751680585.A.4E1",
       "author": "ambitious",
@@ -34,14 +34,24 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/r6hA5SW/s/9ee5a30c96ccab3591e6f78cc7d59152"
     },
     {
-      "recommendScore": "363",
-      "recommendCount": "678",
+      "recommendScore": "364",
+      "recommendCount": "681",
       "title": "[問卦] 我發這圖會被雞鴨嗎",
       "link": "/bbs/Gossiping/M.1751655632.A.8AA",
       "author": "GGFACE",
       "board": "Gossiping",
       "publishTime": "2025/07/04 19:00",
       "imageUrl": "https://cache.pttweb.cc/imgur/i7lEsoh/s/4a064b48c21dd0ea9d788e2f2c7baeca"
+    },
+    {
+      "recommendScore": "166",
+      "recommendCount": "898",
+      "title": "[新聞] 恐嚇檢察官！北院羈押嫌犯4大理由曝光",
+      "link": "/bbs/Gossiping/M.1751684815.A.07F",
+      "author": "westdoorcard",
+      "board": "Gossiping",
+      "publishTime": "2025/07/05 03:06",
+      "imageUrl": ""
     },
     {
       "recommendScore": "277",
@@ -62,16 +72,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/04 09:47",
       "imageUrl": "https://cache.pttweb.cc/imgur/2Q8zFZU/s/d345f505b0955e09474525c819874bb0"
-    },
-    {
-      "recommendScore": "151",
-      "recommendCount": "876",
-      "title": "[新聞] 恐嚇檢察官！北院羈押嫌犯4大理由曝光",
-      "link": "/bbs/Gossiping/M.1751684815.A.07F",
-      "author": "westdoorcard",
-      "board": "Gossiping",
-      "publishTime": "2025/07/05 03:06",
-      "imageUrl": ""
     },
     {
       "recommendScore": "328",
@@ -115,7 +115,7 @@
     },
     {
       "recommendScore": "329",
-      "recommendCount": "457",
+      "recommendCount": "461",
       "title": "[問卦] 台北的11隻惡犬圖，哪一隻最兇惡?",
       "link": "/bbs/Gossiping/M.1751656576.A.310",
       "author": "utn875",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "314",
-      "recommendCount": "560",
+      "recommendScore": "319",
+      "recommendCount": "567",
       "title": "Re: [爆卦] 北院真的批准羈押了……",
       "link": "/bbs/Gossiping/M.1751674444.A.932",
       "author": "wadeda",
@@ -134,8 +134,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/3vlpVEE/s/095138bf109b5c981f84ada66f8c6cab"
     },
     {
-      "recommendScore": "259",
-      "recommendCount": "597",
+      "recommendScore": "260",
+      "recommendCount": "600",
       "title": "[問卦] 台灣怎麼變這樣！詐騙多成這樣",
       "link": "/bbs/Gossiping/M.1751671659.A.DF5",
       "author": "aallens",
@@ -165,7 +165,7 @@
     },
     {
       "recommendScore": "246",
-      "recommendCount": "440",
+      "recommendCount": "441",
       "title": "[爆卦] 有人貼照片恐嚇要殺政府民代",
       "link": "/bbs/Gossiping/M.1751653951.A.4C5",
       "author": "evaras",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "341",
-      "recommendCount": "490",
+      "recommendScore": "342",
+      "recommendCount": "491",
       "title": "[情報] 所有跡象顯示Horford將會加盟勇士",
       "link": "/bbs/NBA/M.1751610676.A.143",
       "author": "scottaa",
@@ -195,7 +195,7 @@
     },
     {
       "recommendScore": "165",
-      "recommendCount": "537",
+      "recommendCount": "540",
       "title": "[問卦] 法院：同意羈押是因有湮滅證據 勾結共犯",
       "link": "/bbs/Gossiping/M.1751657693.A.C3B",
       "author": "chiafann",
