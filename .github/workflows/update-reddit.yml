@@ -1,8 +1,8 @@
-name: Update Komica Trends
+name: Update Reddit Trends
 
 on:
     schedule:
-        - cron: '18,48 * * * *' # 每小時第 18 和 48 分鐘執行
+        - cron: '28,58 * * * *' # 每小時第 28 和 58 分鐘執行
     workflow_dispatch:
 
 jobs:
@@ -28,7 +28,7 @@ jobs:
               run: npx puppeteer browsers install chrome
 
             - name: Run Puppeteer Scraper
-              run: pnpm run scrape:komica
+              run: pnpm run scrape:reddit
 
             - name: Commit and Push Results
               env:
@@ -36,6 +36,8 @@ jobs:
               run: |
                   git config --global user.name "Gary Lin"
                   git config --global user.email "garylin0969@gmail.com"
-                  git add data/komica-trends.json
-                  git commit -m "update komica trends [CI] $(TZ=Asia/Taipei date '+%Y-%m-%d %H:%M:%S')" || echo "Nothing to commit"
+                  git add data/reddit-all-hot.json
+                  git add data/reddit-taiwanese-hot.json
+                  git add data/reddit-china-irl-hot.json
+                  git commit -m "update reddit trends [CI] $(TZ=Asia/Taipei date '+%Y-%m-%d %H:%M:%S')" || echo "Nothing to commit"
                   git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main

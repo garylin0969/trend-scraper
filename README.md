@@ -19,12 +19,12 @@ Hot Now 整合了以下平台的熱門內容：
 | **PTT**          | 24H 熱門文章 | 爬蟲                             | **本專案** |
 | **Google**       | 熱搜榜       | 爬蟲                             | **本專案** |
 | **巴哈姆特**     | 熱門話題     | 官方 API                         | 主專案     |
-| **Reddit**       | 熱門文章     | 官方 JSON API                    | 主專案     |
+| **Reddit**       | 熱門文章     | 爬蟲 (JSON API)                  | **本專案** |
 | **Komica(K 島)** | 熱門文章     | 爬蟲                             | **本專案** |
 
 ## 🕷️ 本專案負責的爬蟲
 
-本專案專門負責以下三個平台的資料爬取：
+本專案專門負責以下四個平台的資料爬取：
 
 ### 1. PTT 熱門文章
 
@@ -39,7 +39,7 @@ Hot Now 整合了以下平台的熱門內容：
 -   **目標網站**: https://trends.google.com.tw/trending?geo=TW&hours=4
 -   **資料內容**: 台灣 4 小時內熱搜關鍵字
 -   **爬蟲頻率**: **每 30 分鐘** (一天 48 次)
--   **執行時間**: 每小時第 15、45 分鐘
+-   **執行時間**: 每小時第 5、35 分鐘
 -   **儲存位置**: `data/google-trends.json`
 
 ### 3. Komica(K 島) 熱門文章
@@ -47,8 +47,16 @@ Hot Now 整合了以下平台的熱門內容：
 -   **目標網站**: https://gita.komica1.org/00b/catlist.php
 -   **資料內容**: 今日熱門文章 Top 50
 -   **爬蟲頻率**: **每 30 分鐘** (一天 48 次)
--   **執行時間**: 每小時第 7、37 分鐘
+-   **執行時間**: 每小時第 18、48 分鐘
 -   **儲存位置**: `data/komica-trends.json`
+
+### 4. Reddit 熱門文章
+
+-   **目標網站**: Reddit JSON API
+-   **資料內容**: 多個子版塊熱門文章 (r/all、r/Taiwanese、r/China_irl)
+-   **爬蟲頻率**: **每 30 分鐘** (一天 48 次)
+-   **執行時間**: 每小時第 28、58 分鐘
+-   **儲存位置**: `data/reddit-all-hot.json`, `data/reddit-taiwanese-hot.json`, `data/reddit-china-irl-hot.json`
 
 ## 🏗️ 技術架構
 
@@ -65,21 +73,26 @@ Hot Now 整合了以下平台的熱門內容：
 
 ```
 trend-scraper/
-├── scripts/                 # 爬蟲腳本
-│   ├── google-trends.ts     # Google熱搜爬蟲
-│   ├── komica-trends.ts     # K島熱門文章爬蟲
-│   └── ptt-trends.ts        # PTT熱門文章爬蟲
-├── data/                    # 爬蟲資料儲存
-│   ├── google-trends.json   # Google熱搜資料
-│   ├── komica-trends.json   # K島熱門資料
-│   └── ptt-trends.json      # PTT熱門資料
-├── .github/workflows/       # GitHub Actions工作流程
-│   ├── update-google.yml    # Google熱搜自動更新
-│   ├── update-komica.yml    # K島自動更新
-│   └── update-ptt.yml       # PTT自動更新
-├── package.json             # 專案設定
-├── tsconfig.json           # TypeScript設定
-└── pnpm-lock.yaml          # 依賴鎖定檔
+├── scripts/                      # 爬蟲腳本
+│   ├── google-trends.ts          # Google熱搜爬蟲
+│   ├── komica-trends.ts          # K島熱門文章爬蟲
+│   ├── ptt-trends.ts             # PTT熱門文章爬蟲
+│   └── reddit-trends.ts          # Reddit熱門文章爬蟲
+├── data/                         # 爬蟲資料儲存
+│   ├── google-trends.json        # Google熱搜資料
+│   ├── komica-trends.json        # K島熱門資料
+│   ├── ptt-trends.json           # PTT熱門資料
+│   ├── reddit-all-hot.json       # Reddit r/all熱門資料
+│   ├── reddit-taiwanese-hot.json # Reddit r/Taiwanese熱門資料
+│   └── reddit-china-irl-hot.json # Reddit r/China_irl熱門資料
+├── .github/workflows/            # GitHub Actions工作流程
+│   ├── update-google.yml         # Google熱搜自動更新
+│   ├── update-komica.yml         # K島自動更新
+│   ├── update-ptt.yml            # PTT自動更新
+│   └── update-reddit.yml         # Reddit自動更新
+├── package.json                  # 專案設定
+├── tsconfig.json                # TypeScript設定
+└── pnpm-lock.yaml               # 依賴鎖定檔
 ```
 
 ## 🚀 本地開發
@@ -114,6 +127,9 @@ pnpm scrape:ptt
 
 # 爬取 K島 熱門文章
 pnpm scrape:komica
+
+# 爬取 Reddit 熱門文章
+pnpm scrape:reddit
 ```
 
 ## 🤖 自動化部署
@@ -123,20 +139,26 @@ pnpm scrape:komica
 ### Google 熱搜自動更新
 
 -   **檔案**: `.github/workflows/update-google.yml`
--   **執行頻率**: 每小時第 15、45 分鐘
--   **cron 表達式**: `15,45 * * * *`
+-   **執行頻率**: 每小時第 5、35 分鐘
+-   **cron 表達式**: `5,35 * * * *`
 
 ### K 島自動更新
 
 -   **檔案**: `.github/workflows/update-komica.yml`
--   **執行頻率**: 每小時第 7、37 分鐘
--   **cron 表達式**: `7,37 * * * *`
+-   **執行頻率**: 每小時第 18、48 分鐘
+-   **cron 表達式**: `18,48 * * * *`
 
 ### PTT 自動更新
 
 -   **檔案**: `.github/workflows/update-ptt.yml`
 -   **執行頻率**: 每 10 分鐘
 -   **cron 表達式**: `1,11,21,31,41,51 * * * *`
+
+### Reddit 自動更新
+
+-   **檔案**: `.github/workflows/update-reddit.yml`
+-   **執行頻率**: 每小時第 28、58 分鐘
+-   **cron 表達式**: `28,58 * * * *`
 
 ## 📋 爬蟲特色
 
@@ -159,6 +181,13 @@ pnpm scrape:komica
 -   提取完整的討論串資訊
 -   支援回覆數量統計
 
+### Reddit 爬蟲
+
+-   使用 Puppeteer 模擬瀏覽器存取 JSON API
+-   支援多個子版塊同時抓取
+-   智慧型反反爬蟲機制避免 403/429 錯誤
+-   完整的錯誤處理和重試機制
+
 ## 🛡️ 反爬蟲策略
 
 為了確保爬蟲穩定運作，本專案採用了多種反偵測技術：
@@ -175,11 +204,14 @@ pnpm scrape:komica
 
 ### API 端點
 
-| 平台              | API 端點                                                            | 更新頻率   |
-| ----------------- | ------------------------------------------------------------------- | ---------- |
-| **PTT 熱門文章**  | https://garylin0969.github.io/trend-scraper/data/ptt-trends.json    | 每 10 分鐘 |
-| **Google 熱搜榜** | https://garylin0969.github.io/trend-scraper/data/google-trends.json | 每 30 分鐘 |
-| **K 島熱門文章**  | https://garylin0969.github.io/trend-scraper/data/komica-trends.json | 每 30 分鐘 |
+| 平台                   | API 端點                                                                   | 更新頻率   |
+| ---------------------- | -------------------------------------------------------------------------- | ---------- |
+| **PTT 熱門文章**       | https://garylin0969.github.io/trend-scraper/data/ptt-trends.json           | 每 10 分鐘 |
+| **Google 熱搜榜**      | https://garylin0969.github.io/trend-scraper/data/google-trends.json        | 每 30 分鐘 |
+| **K 島熱門文章**       | https://garylin0969.github.io/trend-scraper/data/komica-trends.json        | 每 30 分鐘 |
+| **Reddit r/all**       | https://garylin0969.github.io/trend-scraper/data/reddit-all-hot.json       | 每 30 分鐘 |
+| **Reddit r/Taiwanese** | https://garylin0969.github.io/trend-scraper/data/reddit-taiwanese-hot.json | 每 30 分鐘 |
+| **Reddit r/China_irl** | https://garylin0969.github.io/trend-scraper/data/reddit-china-irl-hot.json | 每 30 分鐘 |
 
 ### CORS 支援
 
@@ -240,6 +272,36 @@ pnpm scrape:komica
             "rawText": "130|28143559|2025/07/05|00:25|中國水世界 夏日季節活動|6月26日貴州榕江縣上游水庫洩洪，河水暴|在新分頁開啟"
         }
     ]
+}
+```
+
+### Reddit 熱門文章
+
+```json
+{
+    "updated": "2025-07-05T10:25:00.000Z",
+    "source": "Reddit r/all 熱門文章",
+    "total_posts": 50,
+    "original_data": {
+        "kind": "Listing",
+        "data": {
+            "children": [
+                {
+                    "kind": "t3",
+                    "data": {
+                        "subreddit": "AskReddit",
+                        "title": "What is something that everyone should know?",
+                        "score": 15420,
+                        "num_comments": 2348,
+                        "author": "example_user",
+                        "created_utc": 1625567890,
+                        "url": "https://www.reddit.com/r/AskReddit/comments/...",
+                        "selftext": "Just curious what life tips you have..."
+                    }
+                }
+            ]
+        }
+    }
 }
 ```
 
