@@ -36,6 +36,21 @@ jobs:
               run: |
                   git config --global user.name "Gary Lin"
                   git config --global user.email "garylin0969@gmail.com"
+
+                  # 先保存爬蟲的新資料
+                  cp data/reddit-all-hot.json /tmp/reddit-all-hot.json
+                  cp data/reddit-taiwanese-hot.json /tmp/reddit-taiwanese-hot.json
+                  cp data/reddit-china-irl-hot.json /tmp/reddit-china-irl-hot.json
+
+                  # 拉取最新的程式碼
+                  git pull origin main
+
+                  # 把新爬到的資料覆蓋回去
+                  cp /tmp/reddit-all-hot.json data/reddit-all-hot.json
+                  cp /tmp/reddit-taiwanese-hot.json data/reddit-taiwanese-hot.json
+                  cp /tmp/reddit-china-irl-hot.json data/reddit-china-irl-hot.json
+
+                  # 提交並推送
                   git add data/reddit-all-hot.json
                   git add data/reddit-taiwanese-hot.json
                   git add data/reddit-china-irl-hot.json
