@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-07T04:50:40.829Z",
+  "updated": "2025-07-07T05:00:54.855Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "192",
-      "recommendCount": "682",
+      "recommendCount": "693",
       "title": "[問卦] 說真的台北市判斷的太神了吧",
       "link": "/bbs/Gossiping/M.1751842501.A.EAF",
       "author": "KZS",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "241",
-      "recommendCount": "521",
+      "recommendScore": "246",
+      "recommendCount": "533",
       "title": "[問卦] 認真問，這次台南怎麼那麼慘？？？",
       "link": "/bbs/Gossiping/M.1751850102.A.466",
       "author": "HisVol",
@@ -155,7 +155,7 @@
     },
     {
       "recommendScore": "97",
-      "recommendCount": "541",
+      "recommendCount": "545",
       "title": "[問卦] 台南高雄今天憑什麼放颱風假？",
       "link": "/bbs/Gossiping/M.1751847382.A.1BF",
       "author": "ihl123456",
@@ -164,8 +164,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "222",
-      "recommendCount": "570",
+      "recommendScore": "238",
+      "recommendCount": "662",
+      "title": "[新聞] 風雨沒有達標就不放假！張善政：就是這麼簡單",
+      "link": "/bbs/Gossiping/M.1751859968.A.810",
+      "author": "GOD5566GOD",
+      "board": "Gossiping",
+      "publishTime": "2025/07/07 03:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "230",
+      "recommendCount": "588",
       "title": "[新聞] 台灣稅率達32％？ 美財長放話：台、歐若未達協議 8／1恢復舊關稅",
       "link": "/bbs/Gossiping/M.1751851339.A.BE2",
       "author": "ozjucka",
@@ -191,16 +201,6 @@
       "author": "TZUYIC",
       "board": "Gossiping",
       "publishTime": "2025/07/06 07:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "336",
-      "recommendCount": "402",
-      "title": "[新聞] 颱風丹娜斯登陸嘉義布袋",
-      "link": "/bbs/TY_Research/M.1751818285.A.402",
-      "author": "kadar",
-      "board": "TY_Research",
-      "publishTime": "2025/07/06 16:11",
       "imageUrl": ""
     }
   ]
