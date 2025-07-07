@@ -8,6 +8,17 @@ Hot Now 是一個整合各大平台熱門內容的資訊聚合網站，讓使用
 
 -   **網站連結**: [https://hotnow.garylin.dev](https://hotnow.garylin.dev)
 -   **主專案**: [https://github.com/garylin0969/hot-now](https://github.com/garylin0969/hot-now)
+-   **Chrome 擴充功能**: [Hot Now ｜熱門話題一把抓](https://chromewebstore.google.com/detail/hot-now%EF%BD%9C%E7%86%B1%E9%96%80%E8%A9%B1%E9%A1%8C%E4%B8%80%E6%8A%8A%E6%8A%93/pcgkeopgenagbemoagdogljeapjhapch)
+
+## 🎯 Chrome 擴充功能
+
+Hot Now 提供了 Chrome 擴充功能，讓你每次開啟新分頁時都能即時掌握最受歡迎的熱門網路討論話題。
+
+### 特色
+
+-   開啟新分頁即可瀏覽熱門話題
+-   不收集個人身份資訊
+-   僅使用 Google Analytics 進行匿名使用行為分析
 
 ## 📊 支援平台
 
