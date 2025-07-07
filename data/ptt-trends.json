@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-07T20:53:59.491Z",
+  "updated": "2025-07-07T21:05:16.691Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "201",
+      "recommendCount": "736",
+      "title": "[問卦] 說真的台北市判斷的太神了吧",
+      "link": "/bbs/Gossiping/M.1751842501.A.EAF",
+      "author": "KZS",
+      "board": "Gossiping",
+      "publishTime": "2025/07/06 22:55",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "366",
       "recommendCount": "672",
       "title": "[爆卦] 佳冬海上太陽能實拍，海上和沙灘",
@@ -102,16 +112,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/07 06:53",
       "imageUrl": "https://cache.pttweb.cc/imgur/ByWoyWw/s/52e407231a64fcb5b86a5770ffda1f3b"
-    },
-    {
-      "recommendScore": "200",
-      "recommendCount": "731",
-      "title": "[問卦] 說真的台北市判斷的太神了吧",
-      "link": "/bbs/Gossiping/M.1751842501.A.EAF",
-      "author": "KZS",
-      "board": "Gossiping",
-      "publishTime": "2025/07/06 22:55",
-      "imageUrl": ""
     },
     {
       "recommendScore": "215",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "271",
-      "recommendCount": "605",
+      "recommendScore": "272",
+      "recommendCount": "606",
       "title": "[問卦] 傻眼 檢方竟然讓家暴男無保請回 今天殺人",
       "link": "/bbs/Gossiping/M.1751877992.A.E9F",
       "author": "syearth",
