@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-07T08:37:32.150Z",
+  "updated": "2025-07-07T08:49:39.323Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "392",
+      "recommendCount": "854",
+      "title": "[新聞] 曹系興起？曹興誠：常有人勸我選總統、萬一選上怎麼辦？",
+      "link": "/bbs/Gossiping/M.1751866533.A.6E9",
+      "author": "runa2",
+      "board": "Gossiping",
+      "publishTime": "2025/07/07 05:35",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "448",
       "recommendCount": "877",
       "title": "[問卦] 會因為要上班這樣支持大罷免嗎？",
@@ -64,16 +74,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "385",
-      "recommendCount": "839",
-      "title": "[新聞] 曹系興起？曹興誠：常有人勸我選總統、萬一選上怎麼辦？",
-      "link": "/bbs/Gossiping/M.1751866533.A.6E9",
-      "author": "runa2",
-      "board": "Gossiping",
-      "publishTime": "2025/07/07 05:35",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "559",
       "recommendCount": "696",
       "title": "[問卦] 反向祭品!若明天北北基沒放，每10推100p",
@@ -94,14 +94,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "352",
-      "recommendCount": "984",
+      "recommendScore": "354",
+      "recommendCount": "998",
       "title": "[新聞] 風雨沒有達標就不放假！張善政：就是這麼簡單",
       "link": "/bbs/Gossiping/M.1751859968.A.810",
       "author": "GOD5566GOD",
       "board": "Gossiping",
       "publishTime": "2025/07/07 03:46",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "326",
+      "recommendCount": "830",
+      "title": "[問卦] 美軍火商：台軍意志薄弱，幾乎毫無價值",
+      "link": "/bbs/Gossiping/M.1751868108.A.A04",
+      "author": "Goo4u",
+      "board": "Gossiping",
+      "publishTime": "2025/07/07 06:01",
+      "imageUrl": "https://cache.pttweb.cc/imgur/1LWrgZq/s/412cb94501c1913266c913e691b01caf"
     },
     {
       "recommendScore": "286",
@@ -114,18 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "307",
-      "recommendCount": "793",
-      "title": "[問卦] 美軍火商：台軍意志薄弱，幾乎毫無價值",
-      "link": "/bbs/Gossiping/M.1751868108.A.A04",
-      "author": "Goo4u",
-      "board": "Gossiping",
-      "publishTime": "2025/07/07 06:01",
-      "imageUrl": "https://cache.pttweb.cc/imgur/1LWrgZq/s/412cb94501c1913266c913e691b01caf"
-    },
-    {
-      "recommendScore": "374",
-      "recommendCount": "665",
+      "recommendScore": "380",
+      "recommendCount": "700",
       "title": "[新聞] 土城姊夫奪2命狂發6限動：都被我殺了！喊「好心通知妹夫」",
       "link": "/bbs/Gossiping/M.1751869310.A.92C",
       "author": "f12sd2e2aa",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "203",
-      "recommendCount": "559",
+      "recommendScore": "207",
+      "recommendCount": "568",
       "title": "[新聞] 能擠進川普10%關稅名單？　綠黨團樂觀：台灣底氣很足",
       "link": "/bbs/Stock/M.1751860234.A.D4E",
       "author": "keel90135",
@@ -165,7 +165,7 @@
     },
     {
       "recommendScore": "270",
-      "recommendCount": "572",
+      "recommendCount": "573",
       "title": "[問卦] 認真問，這次台南怎麼那麼慘？？？",
       "link": "/bbs/Gossiping/M.1751850102.A.466",
       "author": "HisVol",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "94",
-      "recommendCount": "569",
+      "recommendScore": "93",
+      "recommendCount": "571",
       "title": "[問卦] 台南高雄今天憑什麼放颱風假？",
       "link": "/bbs/Gossiping/M.1751847382.A.1BF",
       "author": "ihl123456",
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "240",
-      "recommendCount": "620",
+      "recommendScore": "242",
+      "recommendCount": "623",
       "title": "[新聞] 台灣稅率達32％？ 美財長放話：台、歐若未達協議 8／1恢復舊關稅",
       "link": "/bbs/Gossiping/M.1751851339.A.BE2",
       "author": "ozjucka",
