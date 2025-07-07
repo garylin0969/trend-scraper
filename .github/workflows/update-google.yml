@@ -36,6 +36,17 @@ jobs:
               run: |
                   git config --global user.name "Gary Lin"
                   git config --global user.email "garylin0969@gmail.com"
+
+                  # 先保存爬蟲的新資料
+                  cp data/google-trends.json /tmp/google-trends.json
+
+                  # 拉取最新的程式碼
+                  git pull origin main
+
+                  # 把新爬到的資料覆蓋回去
+                  cp /tmp/google-trends.json data/google-trends.json
+
+                  # 提交並推送
                   git add data/google-trends.json
                   git commit -m "update google trends [CI] $(TZ=Asia/Taipei date '+%Y-%m-%d %H:%M:%S')" || echo "Nothing to commit"
                   git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
