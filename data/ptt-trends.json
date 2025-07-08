@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-08T03:30:33.877Z",
+  "updated": "2025-07-08T03:52:26.970Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,18 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "385",
-      "recommendCount": "1072",
-      "title": "[新聞] 風雨沒有達標就不放假！張善政：就是這麼簡單",
-      "link": "/bbs/Gossiping/M.1751859968.A.810",
-      "author": "GOD5566GOD",
-      "board": "Gossiping",
-      "publishTime": "2025/07/07 03:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "395",
-      "recommendCount": "782",
+      "recommendScore": "397",
+      "recommendCount": "784",
       "title": "[新聞] 獨／光電浮台殘骸漂岸上！經濟部補助1億元計畫「不堪一擊」",
       "link": "/bbs/Gossiping/M.1751887843.A.A32",
       "author": "zoeapezoo",
@@ -64,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "351",
-      "recommendCount": "794",
+      "recommendScore": "352",
+      "recommendCount": "795",
       "title": "[新聞] 媒體人嗆：土城男「無保請回」隔天奪2命 刊司法官照片羈押禁見？",
       "link": "/bbs/Gossiping/M.1751877313.A.B00",
       "author": "TBOC",
@@ -74,8 +64,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/lHSimfG/s/e0a327dd89093bb1359aa17e7c14f9b3"
     },
     {
-      "recommendScore": "540",
-      "recommendCount": "751",
+      "recommendScore": "541",
+      "recommendCount": "753",
       "title": "[新聞] 洋基台灣日第1時間就邀王建民 帕菲克透露40號王牌婉拒理由",
       "link": "/bbs/Baseball/M.1751890047.A.5AF",
       "author": "iamshana",
@@ -91,6 +81,16 @@
       "author": "Nick87061319",
       "board": "Gossiping",
       "publishTime": "2025/07/07 09:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "241",
+      "recommendCount": "915",
+      "title": "[問卦] 現在男生追女生是不是都沒耐心了",
+      "link": "/bbs/Gossiping/M.1751931202.A.AC9",
+      "author": "maki810711",
+      "board": "Gossiping",
+      "publishTime": "2025/07/07 23:33",
       "imageUrl": ""
     },
     {
@@ -124,26 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "227",
-      "recommendCount": "858",
-      "title": "[問卦] 現在男生追女生是不是都沒耐心了",
-      "link": "/bbs/Gossiping/M.1751931202.A.AC9",
-      "author": "maki810711",
-      "board": "Gossiping",
-      "publishTime": "2025/07/07 23:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "219",
-      "recommendCount": "607",
-      "title": "[新聞] 能擠進川普10%關稅名單？　綠黨團樂觀：台灣底氣很足",
-      "link": "/bbs/Stock/M.1751860234.A.D4E",
-      "author": "keel90135",
-      "board": "Stock",
-      "publishTime": "2025/07/07 03:50",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "277",
       "recommendCount": "615",
       "title": "[問卦] 傻眼 檢方竟然讓家暴男無保請回 今天殺人",
@@ -152,6 +132,16 @@
       "board": "Gossiping",
       "publishTime": "2025/07/07 08:46",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "835",
+      "recommendCount": "1388",
+      "title": "[電競] 2025 Mid-Season Invitational-分組賽 D6",
+      "link": "/bbs/LoL/M.1751905935.A.7E4",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/07/07 16:32",
+      "imageUrl": "https://cache.pttweb.cc/imgur/QMIbhEn/s/72d323cc3d48ed29eef19eed6f92a139"
     },
     {
       "recommendScore": "393",
@@ -194,14 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "884",
-      "recommendCount": "1388",
-      "title": "[電競] 2025 Mid-Season Invitational-分組賽 D6",
-      "link": "/bbs/LoL/M.1751905935.A.7E4",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/07/07 16:32",
-      "imageUrl": "https://cache.pttweb.cc/imgur/QMIbhEn/s/72d323cc3d48ed29eef19eed6f92a139"
+      "recommendScore": "253",
+      "recommendCount": "515",
+      "title": "[爆卦] 台南明天增加到16區放假",
+      "link": "/bbs/Gossiping/M.1751893962.A.CB6",
+      "author": "goodman5566",
+      "board": "Gossiping",
+      "publishTime": "2025/07/07 13:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "223",
+      "recommendCount": "539",
+      "title": "Re: [新聞] 土城姊夫奪2命狂發6限動：都被我殺了！喊「好心通知妹夫」",
+      "link": "/bbs/Gossiping/M.1751870161.A.0E0",
+      "author": "rpg",
+      "board": "Gossiping",
+      "publishTime": "2025/07/07 06:36",
+      "imageUrl": ""
     }
   ]
 }
