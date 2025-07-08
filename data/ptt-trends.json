@@ -1,21 +1,11 @@
 {
-  "updated": "2025-07-08T12:23:33.161Z",
+  "updated": "2025-07-08T12:46:50.895Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "547",
+      "recommendScore": "444",
       "recommendCount": "1002",
-      "title": "[問卦] 脆：颱風後 撿不完的太陽能版",
-      "link": "/bbs/Gossiping/M.1751943094.A.8B5",
-      "author": "callhek",
-      "board": "Gossiping",
-      "publishTime": "2025/07/08 02:51",
-      "imageUrl": "https://cache.pttweb.cc/imgur/VbLn17e/s/6dd35c75afdf4ad6dfa89a675cf39287"
-    },
-    {
-      "recommendScore": "443",
-      "recommendCount": "997",
       "title": "[爆卦] 外媒: 台灣制度爛 失聯移工破9萬、4年翻倍",
       "link": "/bbs/Gossiping/M.1751949026.A.DBA",
       "author": "usnavyseal",
@@ -24,8 +14,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "276",
-      "recommendCount": "1147",
+      "recommendScore": "549",
+      "recommendCount": "1004",
+      "title": "[問卦] 脆：颱風後 撿不完的太陽能版",
+      "link": "/bbs/Gossiping/M.1751943094.A.8B5",
+      "author": "callhek",
+      "board": "Gossiping",
+      "publishTime": "2025/07/08 02:51",
+      "imageUrl": "https://cache.pttweb.cc/imgur/VbLn17e/s/6dd35c75afdf4ad6dfa89a675cf39287"
+    },
+    {
+      "recommendScore": "277",
+      "recommendCount": "1148",
       "title": "[問卦] 現在男生追女生是不是都沒耐心了",
       "link": "/bbs/Gossiping/M.1751931202.A.AC9",
       "author": "maki810711",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "355",
-      "recommendCount": "733",
+      "recommendScore": "371",
+      "recommendCount": "766",
       "title": "[問卦] 講真的 南部人都不會生氣？",
       "link": "/bbs/Gossiping/M.1751962454.A.2D7",
       "author": "kenbo",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "337",
-      "recommendCount": "797",
+      "recommendScore": "338",
+      "recommendCount": "800",
       "title": "[問卦] 南部水庫上面放光電板是什麼操作？",
       "link": "/bbs/Gossiping/M.1751947028.A.204",
       "author": "ambitious",
@@ -54,8 +54,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/2s15Prg/s/fbb45ada4a39d865f25ebc8e1fb6d425"
     },
     {
-      "recommendScore": "357",
-      "recommendCount": "750",
+      "recommendScore": "358",
+      "recommendCount": "751",
       "title": "[問卦] 補助一億的海上光電板全毀 在YT燒起來了",
       "link": "/bbs/Gossiping/M.1751936166.A.C9C",
       "author": "newpasta",
@@ -64,8 +64,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/KG9UmGT/s/9c948ffb16329ee79e7b74daabd1ff05"
     },
     {
-      "recommendScore": "306",
-      "recommendCount": "793",
+      "recommendScore": "322",
+      "recommendCount": "843",
       "title": "[問卦] 不懂就問！ 為何大罷免比例會那麼懸殊？",
       "link": "/bbs/Gossiping/M.1751963482.A.EE8",
       "author": "Beatrice322",
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "196",
+      "recommendCount": "627",
+      "title": "[新聞] 周春米颱風天在北歐 縣府：1年前已規劃也掌握防颱",
+      "link": "/bbs/Gossiping/M.1751946715.A.684",
+      "author": "william8403",
+      "board": "Gossiping",
+      "publishTime": "2025/07/08 03:51",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "453",
       "recommendCount": "484",
       "title": "Re: [閒聊] CFO最終雞排戰力指數：2410",
@@ -91,16 +101,6 @@
       "author": "darren2586",
       "board": "LoL",
       "publishTime": "2025/07/08 03:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "194",
-      "recommendCount": "625",
-      "title": "[新聞] 周春米颱風天在北歐 縣府：1年前已規劃也掌握防颱",
-      "link": "/bbs/Gossiping/M.1751946715.A.684",
-      "author": "william8403",
-      "board": "Gossiping",
-      "publishTime": "2025/07/08 03:51",
       "imageUrl": ""
     },
     {
@@ -164,8 +164,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/D4V2EOL/s/38da55bdfa5cc5ac1da156234d3f7a42"
     },
     {
-      "recommendScore": "141",
-      "recommendCount": "532",
+      "recommendScore": "144",
+      "recommendCount": "543",
       "title": "[問卦] 政黑打臉：補助一億的光電是實驗性質",
       "link": "/bbs/Gossiping/M.1751956426.A.106",
       "author": "Alyssa120",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "28",
-      "recommendCount": "474",
+      "recommendScore": "27",
+      "recommendCount": "475",
       "title": "[新聞]首波關稅名單沒台灣 吳思瑤：公布的都是談判相對不順國家",
       "link": "/bbs/Stock/M.1751947874.A.D49",
       "author": "bamama56",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "216",
-      "recommendCount": "536",
+      "recommendScore": "215",
+      "recommendCount": "537",
       "title": "[新聞] 爭取低關稅 我不放棄",
       "link": "/bbs/Stock/M.1751928910.A.F35",
       "author": "keel90135",
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "119",
-      "recommendCount": "468",
+      "recommendScore": "120",
+      "recommendCount": "469",
       "title": "[新聞] 賴清德、談判團隊深夜視訊50分鐘　下令4核心任務爭取合理關稅",
       "link": "/bbs/Stock/M.1751946881.A.26C",
       "author": "zkow",
