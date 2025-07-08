@@ -1,8 +1,18 @@
 {
-  "updated": "2025-07-08T13:23:49.828Z",
+  "updated": "2025-07-08T13:44:07.248Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "449",
+      "recommendCount": "1008",
+      "title": "[爆卦] 外媒: 台灣制度爛 失聯移工破9萬、4年翻倍",
+      "link": "/bbs/Gossiping/M.1751949026.A.DBA",
+      "author": "usnavyseal",
+      "board": "Gossiping",
+      "publishTime": "2025/07/08 04:30",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "552",
       "recommendCount": "1008",
@@ -12,16 +22,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/08 02:51",
       "imageUrl": "https://cache.pttweb.cc/imgur/VbLn17e/s/6dd35c75afdf4ad6dfa89a675cf39287"
-    },
-    {
-      "recommendScore": "446",
-      "recommendCount": "1004",
-      "title": "[爆卦] 外媒: 台灣制度爛 失聯移工破9萬、4年翻倍",
-      "link": "/bbs/Gossiping/M.1751949026.A.DBA",
-      "author": "usnavyseal",
-      "board": "Gossiping",
-      "publishTime": "2025/07/08 04:30",
-      "imageUrl": ""
     },
     {
       "recommendScore": "277",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "387",
-      "recommendCount": "794",
+      "recommendScore": "393",
+      "recommendCount": "803",
       "title": "[問卦] 講真的 南部人都不會生氣？",
       "link": "/bbs/Gossiping/M.1751962454.A.2D7",
       "author": "kenbo",
@@ -44,14 +44,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "341",
-      "recommendCount": "805",
+      "recommendScore": "343",
+      "recommendCount": "807",
       "title": "[問卦] 南部水庫上面放光電板是什麼操作？",
       "link": "/bbs/Gossiping/M.1751947028.A.204",
       "author": "ambitious",
       "board": "Gossiping",
       "publishTime": "2025/07/08 03:57",
       "imageUrl": "https://cache.pttweb.cc/imgur/2s15Prg/s/fbb45ada4a39d865f25ebc8e1fb6d425"
+    },
+    {
+      "recommendScore": "329",
+      "recommendCount": "865",
+      "title": "[問卦] 不懂就問！ 為何大罷免比例會那麼懸殊？",
+      "link": "/bbs/Gossiping/M.1751963482.A.EE8",
+      "author": "Beatrice322",
+      "board": "Gossiping",
+      "publishTime": "2025/07/08 08:31",
+      "imageUrl": ""
     },
     {
       "recommendScore": "359",
@@ -64,18 +74,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/KG9UmGT/s/9c948ffb16329ee79e7b74daabd1ff05"
     },
     {
-      "recommendScore": "324",
-      "recommendCount": "847",
-      "title": "[問卦] 不懂就問！ 為何大罷免比例會那麼懸殊？",
-      "link": "/bbs/Gossiping/M.1751963482.A.EE8",
-      "author": "Beatrice322",
-      "board": "Gossiping",
-      "publishTime": "2025/07/08 08:31",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "431",
-      "recommendCount": "522",
+      "recommendCount": "523",
       "title": "[情報] MSI 2025 CFO最終成績：第5-6名",
       "link": "/bbs/LoL/M.1751945866.A.177",
       "author": "s458963",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "196",
-      "recommendCount": "627",
+      "recommendScore": "197",
+      "recommendCount": "629",
       "title": "[新聞] 周春米颱風天在北歐 縣府：1年前已規劃也掌握防颱",
       "link": "/bbs/Gossiping/M.1751946715.A.684",
       "author": "william8403",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "454",
-      "recommendCount": "485",
+      "recommendScore": "455",
+      "recommendCount": "486",
       "title": "Re: [閒聊] CFO最終雞排戰力指數：2410",
       "link": "/bbs/LoL/M.1751946278.A.E14",
       "author": "darren2586",
@@ -114,8 +114,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/QMIbhEn/s/72d323cc3d48ed29eef19eed6f92a139"
     },
     {
-      "recommendScore": "261",
-      "recommendCount": "640",
+      "recommendScore": "263",
+      "recommendCount": "642",
       "title": "[問卦] 路上有人殺人，我開車撞他會有罪嗎",
       "link": "/bbs/Gossiping/M.1751942857.A.F4F",
       "author": "micoun828",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "26",
-      "recommendCount": "476",
+      "recommendScore": "27",
+      "recommendCount": "477",
       "title": "[新聞]首波關稅名單沒台灣 吳思瑤：公布的都是談判相對不順國家",
       "link": "/bbs/Stock/M.1751947874.A.D49",
       "author": "bamama56",
@@ -185,7 +185,7 @@
     },
     {
       "recommendScore": "248",
-      "recommendCount": "484",
+      "recommendCount": "485",
       "title": "[新聞] 政院：我方尚未收到關稅信件 談判代表仍在美國協商中",
       "link": "/bbs/Stock/M.1751943619.A.45C",
       "author": "zkow",
