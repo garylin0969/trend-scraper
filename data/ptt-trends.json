@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-08T22:49:34.208Z",
+  "updated": "2025-07-08T22:56:28.384Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "412",
-      "recommendCount": "863",
+      "recommendScore": "413",
+      "recommendCount": "864",
       "title": "[問卦] 講真的 南部人都不會生氣？",
       "link": "/bbs/Gossiping/M.1751962454.A.2D7",
       "author": "kenbo",
@@ -125,7 +125,7 @@
     },
     {
       "recommendScore": "353",
-      "recommendCount": "672",
+      "recommendCount": "675",
       "title": "[爆卦] 明天台南部分地區停班停課",
       "link": "/bbs/Gossiping/M.1751982402.A.4E2",
       "author": "lianpig5566",
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "215",
-      "recommendCount": "537",
-      "title": "[新聞] 爭取低關稅 我不放棄",
-      "link": "/bbs/Stock/M.1751928910.A.F35",
-      "author": "keel90135",
-      "board": "Stock",
-      "publishTime": "2025/07/07 22:55",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "250",
       "recommendCount": "487",
       "title": "[新聞] 政院：我方尚未收到關稅信件 談判代表仍在美國協商中",
@@ -201,6 +191,16 @@
       "author": "zkow",
       "board": "Stock",
       "publishTime": "2025/07/08 03:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "85",
+      "recommendCount": "501",
+      "title": "[新聞] 民進黨揭醜化青鳥「資訊操作組合拳」",
+      "link": "/bbs/Gossiping/M.1751948031.A.70E",
+      "author": "westdoorcard",
+      "board": "Gossiping",
+      "publishTime": "2025/07/08 04:13",
       "imageUrl": ""
     }
   ]
