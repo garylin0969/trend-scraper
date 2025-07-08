@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-08T02:57:17.227Z",
+  "updated": "2025-07-08T03:30:33.877Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "393",
-      "recommendCount": "780",
+      "recommendScore": "395",
+      "recommendCount": "782",
       "title": "[新聞] 獨／光電浮台殘骸漂岸上！經濟部補助1億元計畫「不堪一擊」",
       "link": "/bbs/Gossiping/M.1751887843.A.A32",
       "author": "zoeapezoo",
@@ -114,13 +114,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "476",
-      "recommendCount": "837",
+      "recommendScore": "479",
+      "recommendCount": "840",
       "title": "Re: [新聞] 感嘆LeBron事事都挨批　Van Gundy：太多人尊崇Jordan",
       "link": "/bbs/NBA/M.1751875618.A.525",
       "author": "HOlajuwon",
       "board": "NBA",
       "publishTime": "2025/07/07 08:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "227",
+      "recommendCount": "858",
+      "title": "[問卦] 現在男生追女生是不是都沒耐心了",
+      "link": "/bbs/Gossiping/M.1751931202.A.AC9",
+      "author": "maki810711",
+      "board": "Gossiping",
+      "publishTime": "2025/07/07 23:33",
       "imageUrl": ""
     },
     {
@@ -164,34 +174,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "209",
-      "recommendCount": "773",
-      "title": "[問卦] 現在男生追女生是不是都沒耐心了",
-      "link": "/bbs/Gossiping/M.1751931202.A.AC9",
-      "author": "maki810711",
-      "board": "Gossiping",
-      "publishTime": "2025/07/07 23:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "279",
-      "recommendCount": "514",
+      "recommendScore": "280",
+      "recommendCount": "515",
       "title": "[問卦] 南鯤鯓牌樓倒塌代表什麼？",
       "link": "/bbs/Gossiping/M.1751865285.A.D25",
       "author": "Ryan1994",
       "board": "Gossiping",
       "publishTime": "2025/07/07 05:14",
       "imageUrl": "https://cache.pttweb.cc/imgur/hYTBwS1/s/011080efb0002e8ac40f864c36f3ea89"
-    },
-    {
-      "recommendScore": "879",
-      "recommendCount": "1388",
-      "title": "[電競] 2025 Mid-Season Invitational-分組賽 D6",
-      "link": "/bbs/LoL/M.1751905935.A.7E4",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/07/07 16:32",
-      "imageUrl": "https://cache.pttweb.cc/imgur/QMIbhEn/s/72d323cc3d48ed29eef19eed6f92a139"
     },
     {
       "recommendScore": "275",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/07/07 04:17",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "884",
+      "recommendCount": "1388",
+      "title": "[電競] 2025 Mid-Season Invitational-分組賽 D6",
+      "link": "/bbs/LoL/M.1751905935.A.7E4",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/07/07 16:32",
+      "imageUrl": "https://cache.pttweb.cc/imgur/QMIbhEn/s/72d323cc3d48ed29eef19eed6f92a139"
     }
   ]
 }
