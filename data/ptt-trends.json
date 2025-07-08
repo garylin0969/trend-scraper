@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-08T11:28:11.233Z",
+  "updated": "2025-07-08T11:36:47.193Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,16 +34,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "400",
-      "recommendCount": "789",
-      "title": "[新聞] 獨／光電浮台殘骸漂岸上！經濟部補助1億元計畫「不堪一擊」",
-      "link": "/bbs/Gossiping/M.1751887843.A.A32",
-      "author": "zoeapezoo",
-      "board": "Gossiping",
-      "publishTime": "2025/07/07 11:30",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "548",
       "recommendCount": "763",
       "title": "[新聞] 洋基台灣日第1時間就邀王建民 帕菲克透露40號王牌婉拒理由",
@@ -74,8 +64,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/KG9UmGT/s/9c948ffb16329ee79e7b74daabd1ff05"
     },
     {
-      "recommendScore": "318",
-      "recommendCount": "656",
+      "recommendScore": "324",
+      "recommendCount": "667",
       "title": "[問卦] 講真的 南部人都不會生氣？",
       "link": "/bbs/Gossiping/M.1751962454.A.2D7",
       "author": "kenbo",
@@ -201,6 +191,16 @@
       "author": "bamama56",
       "board": "Stock",
       "publishTime": "2025/07/08 04:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "216",
+      "recommendCount": "535",
+      "title": "[新聞] 爭取低關稅 我不放棄",
+      "link": "/bbs/Stock/M.1751928910.A.F35",
+      "author": "keel90135",
+      "board": "Stock",
+      "publishTime": "2025/07/07 22:55",
       "imageUrl": ""
     }
   ]
