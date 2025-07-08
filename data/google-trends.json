@@ -1,30 +1,30 @@
 {
-  "updated": "2025-07-08T19:08:19.074Z",
+  "updated": "2025-07-08T19:36:47.791Z",
   "trends": [
     {
-      "googleTrend": "打雷",
+      "googleTrend": "天氣預報",
+      "searchVolume": "500+",
+      "started": "10 分鐘前"
+    },
+    {
+      "googleTrend": "侯文詠",
       "searchVolume": "200+",
       "started": "3 小時前"
     },
     {
-      "googleTrend": "大雨",
-      "searchVolume": "500+",
-      "started": "1 小時前"
-    },
-    {
-      "googleTrend": "侯文詠",
-      "searchVolume": "100+",
-      "started": "2 小時前"
-    },
-    {
       "googleTrend": "星宇航空",
       "searchVolume": "100+",
-      "started": "20 分鐘前"
+      "started": "50 分鐘前"
     },
     {
-      "googleTrend": "ewc 2025",
+      "googleTrend": "大雨",
       "searchVolume": "100+",
       "started": "2 小時前"
+    },
+    {
+      "googleTrend": "地震速報",
+      "searchVolume": "500+",
+      "started": "1 小時前"
     },
     {
       "googleTrend": "恩妃",
@@ -32,18 +32,13 @@
       "started": "3 小時前"
     },
     {
-      "googleTrend": "地震速報",
-      "searchVolume": "500+",
-      "started": "30 分鐘前"
+      "googleTrend": "ewc 2025",
+      "searchVolume": "100+",
+      "started": "3 小時前"
     },
     {
       "googleTrend": "消防溺水",
-      "searchVolume": "200+",
-      "started": "2 小時前"
-    },
-    {
-      "googleTrend": "旭集",
-      "searchVolume": "1,000+",
+      "searchVolume": "100+",
       "started": "3 小時前"
     },
     {
@@ -52,24 +47,9 @@
       "started": "1 小時前"
     },
     {
-      "googleTrend": "intel",
-      "searchVolume": "100+",
-      "started": "3 小時前"
-    },
-    {
       "googleTrend": "tour de france 2025",
       "searchVolume": "100+",
       "started": "3 小時前"
-    },
-    {
-      "googleTrend": "立陶宛",
-      "searchVolume": "100+",
-      "started": "3 小時前"
-    },
-    {
-      "googleTrend": "華航機票",
-      "searchVolume": "100+",
-      "started": "2 小時前"
     }
   ]
 }
