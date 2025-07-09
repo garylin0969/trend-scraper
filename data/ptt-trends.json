@@ -1,8 +1,18 @@
 {
-  "updated": "2025-07-09T05:01:46.636Z",
+  "updated": "2025-07-09T05:18:50.647Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "372",
+      "recommendCount": "1003",
+      "title": "[新聞] 光電浮台被吹垮 經濟部：新型態實驗 「搜",
+      "link": "/bbs/Gossiping/M.1752028604.A.D4B",
+      "author": "ptt987654321",
+      "board": "Gossiping",
+      "publishTime": "2025/07/09 02:36",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "420",
       "recommendCount": "877",
@@ -11,16 +21,6 @@
       "author": "kenbo",
       "board": "Gossiping",
       "publishTime": "2025/07/08 08:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "360",
-      "recommendCount": "975",
-      "title": "[新聞] 光電浮台被吹垮 經濟部：新型態實驗 「搜",
-      "link": "/bbs/Gossiping/M.1752028604.A.D4B",
-      "author": "ptt987654321",
-      "board": "Gossiping",
-      "publishTime": "2025/07/09 02:36",
       "imageUrl": ""
     },
     {
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "325",
-      "recommendCount": "637",
+      "recommendScore": "329",
+      "recommendCount": "645",
       "title": "[新聞] 停電後到處避難！台南人暖心喊話 苦中作樂 耐心等電",
       "link": "/bbs/Gossiping/M.1752025679.A.030",
       "author": "westdoorcard",
@@ -54,8 +54,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/AudfEJx/s/dd8496e3c053cfa9b0ad0607ffb01aab"
     },
     {
-      "recommendScore": "309",
-      "recommendCount": "587",
+      "recommendScore": "316",
+      "recommendCount": "597",
       "title": "[問卦] 有什麼合法  但是可以報復社會的方法",
       "link": "/bbs/Gossiping/M.1752022381.A.1EB",
       "author": "ASKR",
@@ -144,6 +144,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "174",
+      "recommendCount": "453",
+      "title": "[新聞] 川普自爆嗆習近平「敢犯台就炸爛北京」！錄音檔曝光 習反應錯愕",
+      "link": "/bbs/Gossiping/M.1752031746.A.12D",
+      "author": "k66333",
+      "board": "Gossiping",
+      "publishTime": "2025/07/09 03:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "193",
+      "recommendCount": "529",
+      "title": "[新聞]青鳥街頭圍攻老榮民「滾回你的國家」 他喊到破音：中華民國萬歲",
+      "link": "/bbs/Gossiping/M.1751989778.A.BED",
+      "author": "pl132",
+      "board": "Gossiping",
+      "publishTime": "2025/07/08 15:49",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "64",
       "recommendCount": "439",
       "title": "[新聞] 關稅談判好消息 吳思瑤：爭取到雙方都有談判意願",
@@ -151,16 +171,6 @@
       "author": "DrowningPool",
       "board": "Stock",
       "publishTime": "2025/07/09 03:12",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "193",
-      "recommendCount": "528",
-      "title": "[新聞]青鳥街頭圍攻老榮民「滾回你的國家」 他喊到破音：中華民國萬歲",
-      "link": "/bbs/Gossiping/M.1751989778.A.BED",
-      "author": "pl132",
-      "board": "Gossiping",
-      "publishTime": "2025/07/08 15:49",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/08 05:26",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "719",
-      "recommendCount": "1390",
-      "title": "[電競] 2025 Mid-Season Invitational-分組賽 D7",
-      "link": "/bbs/LoL/M.1751993430.A.594",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/07/08 16:50",
-      "imageUrl": "https://cache.pttweb.cc/imgur/OfvJnol/s/67f7ebce406c12c2dab2c6a1e801661c"
     }
   ]
 }
