@@ -1,18 +1,8 @@
 {
-  "updated": "2025-07-09T04:18:20.001Z",
+  "updated": "2025-07-09T04:34:47.371Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "460",
-      "recommendCount": "1034",
-      "title": "[爆卦] 外媒: 台灣制度爛 失聯移工破9萬、4年翻倍",
-      "link": "/bbs/Gossiping/M.1751949026.A.DBA",
-      "author": "usnavyseal",
-      "board": "Gossiping",
-      "publishTime": "2025/07/08 04:30",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "420",
       "recommendCount": "876",
@@ -21,6 +11,16 @@
       "author": "kenbo",
       "board": "Gossiping",
       "publishTime": "2025/07/08 08:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "329",
+      "recommendCount": "887",
+      "title": "[新聞] 光電浮台被吹垮 經濟部：新型態實驗 「搜",
+      "link": "/bbs/Gossiping/M.1752028604.A.D4B",
+      "author": "ptt987654321",
+      "board": "Gossiping",
+      "publishTime": "2025/07/09 02:36",
       "imageUrl": ""
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "301",
-      "recommendCount": "600",
+      "recommendCount": "601",
       "title": "[新聞] 大罷免變調！竹市府民政處長施淑婷遭網友嗆「放火燒你家、捅死你」",
       "link": "/bbs/Gossiping/M.1751976545.A.A1C",
       "author": "Skyblueway",
@@ -64,16 +64,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "249",
-      "recommendCount": "656",
-      "title": "[新聞] 光電浮台被吹垮 經濟部：新型態實驗 「搜",
-      "link": "/bbs/Gossiping/M.1752028604.A.D4B",
-      "author": "ptt987654321",
-      "board": "Gossiping",
-      "publishTime": "2025/07/09 02:36",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "283",
       "recommendCount": "527",
       "title": "[問卦] 有什麼合法  但是可以報復社會的方法",
@@ -84,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "276",
-      "recommendCount": "506",
+      "recommendScore": "277",
+      "recommendCount": "508",
       "title": "[問卦] 台南人怎麼有辦法忍受停那麼久的電？",
       "link": "/bbs/Gossiping/M.1751988956.A.572",
       "author": "ambitious",
@@ -114,8 +104,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "208",
-      "recommendCount": "631",
+      "recommendScore": "728",
+      "recommendCount": "1390",
+      "title": "[電競] 2025 Mid-Season Invitational-分組賽 D7",
+      "link": "/bbs/LoL/M.1751993430.A.594",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/07/08 16:50",
+      "imageUrl": "https://cache.pttweb.cc/imgur/OfvJnol/s/67f7ebce406c12c2dab2c6a1e801661c"
+    },
+    {
+      "recommendScore": "206",
+      "recommendCount": "636",
       "title": "[問卦] 為啥台北很少在淹水？",
       "link": "/bbs/Gossiping/M.1751985419.A.EB4",
       "author": "zhxl",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "191",
-      "recommendCount": "526",
+      "recommendScore": "193",
+      "recommendCount": "528",
       "title": "[新聞]青鳥街頭圍攻老榮民「滾回你的國家」 他喊到破音：中華民國萬歲",
       "link": "/bbs/Gossiping/M.1751989778.A.BED",
       "author": "pl132",
@@ -165,23 +165,13 @@
     },
     {
       "recommendScore": "133",
-      "recommendCount": "489",
+      "recommendCount": "490",
       "title": "[新聞] 騎多少付多少 Gogoro首創業界推出「0月租」方案",
       "link": "/bbs/Gossiping/M.1751962196.A.B06",
       "author": "ROKOKKKK",
       "board": "Gossiping",
       "publishTime": "2025/07/08 08:09",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "745",
-      "recommendCount": "1390",
-      "title": "[電競] 2025 Mid-Season Invitational-分組賽 D7",
-      "link": "/bbs/LoL/M.1751993430.A.594",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/07/08 16:50",
-      "imageUrl": "https://cache.pttweb.cc/imgur/OfvJnol/s/67f7ebce406c12c2dab2c6a1e801661c"
     },
     {
       "recommendScore": "181",
@@ -201,6 +191,16 @@
       "author": "aatzeng",
       "board": "Stock",
       "publishTime": "2025/07/08 15:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "140",
+      "recommendCount": "620",
+      "title": "Re: [新聞] 快訊／台南市12區7/9停班停課！黃偉哲曝「關鍵原因」：尚未修復",
+      "link": "/bbs/Gossiping/M.1752017588.A.88F",
+      "author": "aatzeng",
+      "board": "Gossiping",
+      "publishTime": "2025/07/08 23:33",
       "imageUrl": ""
     }
   ]
