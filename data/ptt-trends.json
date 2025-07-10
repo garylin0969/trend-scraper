@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-10T20:54:09.453Z",
+  "updated": "2025-07-10T21:05:28.818Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "307",
-      "recommendCount": "667",
+      "recommendScore": "308",
+      "recommendCount": "668",
       "title": "[新聞] 孫女淚喊「我害死了媽媽跟阿姨」 死者母痛批謝男：他真的不是人",
       "link": "/bbs/Gossiping/M.1752139431.A.902",
       "author": "yu1164",
@@ -124,13 +124,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "180",
-      "recommendCount": "671",
+      "recommendScore": "179",
+      "recommendCount": "674",
       "title": "[問卦] 台灣事實查核：矽晶太陽能板不影響水質",
       "link": "/bbs/Gossiping/M.1752143574.A.7AC",
       "author": "touyuan",
       "board": "Gossiping",
       "publishTime": "2025/07/10 10:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "296",
+      "recommendCount": "585",
+      "title": "[問卦] 台南再這樣搞下去  支持率要探底了吧!?",
+      "link": "/bbs/Gossiping/M.1752165619.A.952",
+      "author": "emperor",
+      "board": "Gossiping",
+      "publishTime": "2025/07/10 16:40",
       "imageUrl": ""
     },
     {
@@ -141,16 +151,6 @@
       "author": "ThisisLongID",
       "board": "Gossiping",
       "publishTime": "2025/07/10 04:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "291",
-      "recommendCount": "576",
-      "title": "[問卦] 台南再這樣搞下去  支持率要探底了吧!?",
-      "link": "/bbs/Gossiping/M.1752165619.A.952",
-      "author": "emperor",
-      "board": "Gossiping",
-      "publishTime": "2025/07/10 16:40",
       "imageUrl": ""
     },
     {
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "301",
+      "recommendCount": "746",
+      "title": "[閒聊] ZOD 或將告別主播台",
+      "link": "/bbs/LoL/M.1752127815.A.BFD",
+      "author": "gnoo25se",
+      "board": "LoL",
+      "publishTime": "2025/07/10 06:10",
+      "imageUrl": "https://cache.pttweb.cc/imgur/NjA1TFN/s/77030ed29fdeaa84d802ff8efc138fb1"
+    },
+    {
       "recommendScore": "139",
       "recommendCount": "609",
       "title": "[問卦] 台南粉專：百年最強颱 中北部沒經歷過",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/10 02:00",
       "imageUrl": "https://cache.pttweb.cc/imgur/hu2z7nL/s/273f0085a2910314cdf36ccc270a66ca"
-    },
-    {
-      "recommendScore": "300",
-      "recommendCount": "745",
-      "title": "[閒聊] ZOD 或將告別主播台",
-      "link": "/bbs/LoL/M.1752127815.A.BFD",
-      "author": "gnoo25se",
-      "board": "LoL",
-      "publishTime": "2025/07/10 06:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/NjA1TFN/s/77030ed29fdeaa84d802ff8efc138fb1"
     }
   ]
 }
