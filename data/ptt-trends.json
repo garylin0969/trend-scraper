@@ -1,7 +1,7 @@
 {
-  "updated": "2025-07-10T06:21:03.360Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-07-10T06:37:55.604Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "482",
@@ -191,6 +191,16 @@
       "author": "ThisisLongID",
       "board": "Gossiping",
       "publishTime": "2025/07/10 04:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "285",
+      "recommendCount": "449",
+      "title": "[新聞] 遭2比特犬飛撲攻擊　泰拳男「苦戰5分鐘」逃死崩潰：沒人敢幫忙",
+      "link": "/bbs/Gossiping/M.1752051693.A.030",
+      "author": "kobe8bryant",
+      "board": "Gossiping",
+      "publishTime": "2025/07/09 09:01",
       "imageUrl": ""
     }
   ]
