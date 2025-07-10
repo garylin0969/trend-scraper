@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-10T21:05:28.818Z",
+  "updated": "2025-07-10T21:17:49.421Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,6 +14,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "368",
+      "recommendCount": "1381",
+      "title": "[問卦] 請大家救救台南市學甲區三慶里",
+      "link": "/bbs/Gossiping/M.1752160585.A.A46",
+      "author": "linda17a3",
+      "board": "Gossiping",
+      "publishTime": "2025/07/10 15:16",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "424",
       "recommendCount": "1171",
       "title": "[問卦] 台灣從哪時候開始有天災發生就互相嘲笑?",
@@ -21,16 +31,6 @@
       "author": "jayemshow",
       "board": "Gossiping",
       "publishTime": "2025/07/10 03:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "362",
-      "recommendCount": "1361",
-      "title": "[問卦] 請大家救救台南市學甲區三慶里",
-      "link": "/bbs/Gossiping/M.1752160585.A.A46",
-      "author": "linda17a3",
-      "board": "Gossiping",
-      "publishTime": "2025/07/10 15:16",
       "imageUrl": ""
     },
     {
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "312",
-      "recommendCount": "800",
+      "recommendScore": "313",
+      "recommendCount": "801",
       "title": "[新聞] 中南部災情嚴重 ! 7/12「團結國家十講」第6講台中場取消",
       "link": "/bbs/Gossiping/M.1752138962.A.57C",
       "author": "MightySultan",
@@ -54,8 +54,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/BtgjeDT/s/dad4c170e3f6ee9f21b287f6b3f4c702"
     },
     {
-      "recommendScore": "399",
-      "recommendCount": "711",
+      "recommendScore": "401",
+      "recommendCount": "713",
       "title": "[爆卦] 屏東禁海令",
       "link": "/bbs/Gossiping/M.1752134058.A.828",
       "author": "brianzzy",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "308",
-      "recommendCount": "668",
+      "recommendScore": "310",
+      "recommendCount": "671",
       "title": "[新聞] 孫女淚喊「我害死了媽媽跟阿姨」 死者母痛批謝男：他真的不是人",
       "link": "/bbs/Gossiping/M.1752139431.A.902",
       "author": "yu1164",
@@ -114,8 +114,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "322",
-      "recommendCount": "668",
+      "recommendScore": "306",
+      "recommendCount": "601",
+      "title": "[問卦] 台南再這樣搞下去  支持率要探底了吧!?",
+      "link": "/bbs/Gossiping/M.1752165619.A.952",
+      "author": "emperor",
+      "board": "Gossiping",
+      "publishTime": "2025/07/10 16:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "323",
+      "recommendCount": "669",
       "title": "[爆卦] 這次光電到處飛的原因",
       "link": "/bbs/Gossiping/M.1752144804.A.F23",
       "author": "xa56",
@@ -134,18 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "296",
-      "recommendCount": "585",
-      "title": "[問卦] 台南再這樣搞下去  支持率要探底了吧!?",
-      "link": "/bbs/Gossiping/M.1752165619.A.952",
-      "author": "emperor",
-      "board": "Gossiping",
-      "publishTime": "2025/07/10 16:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "252",
-      "recommendCount": "606",
+      "recommendScore": "253",
+      "recommendCount": "607",
       "title": "[新聞] PO賴清德台南勘災照！林俊憲「巧妙遮住陳亭妃」　她1招反擊",
       "link": "/bbs/Gossiping/M.1752120447.A.47A",
       "author": "ThisisLongID",
@@ -175,13 +175,23 @@
     },
     {
       "recommendScore": "243",
-      "recommendCount": "553",
+      "recommendCount": "554",
       "title": "[問卦] 脆：光電板是矽做的，哪來的毒",
       "link": "/bbs/Gossiping/M.1752098265.A.E18",
       "author": "Superxixai",
       "board": "Gossiping",
       "publishTime": "2025/07/09 21:57",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "138",
+      "recommendCount": "610",
+      "title": "[問卦] 台南粉專：百年最強颱 中北部沒經歷過",
+      "link": "/bbs/Gossiping/M.1752112859.A.0A0",
+      "author": "newpasta",
+      "board": "Gossiping",
+      "publishTime": "2025/07/10 02:00",
+      "imageUrl": "https://cache.pttweb.cc/imgur/hu2z7nL/s/273f0085a2910314cdf36ccc270a66ca"
     },
     {
       "recommendScore": "301",
@@ -192,16 +202,6 @@
       "board": "LoL",
       "publishTime": "2025/07/10 06:10",
       "imageUrl": "https://cache.pttweb.cc/imgur/NjA1TFN/s/77030ed29fdeaa84d802ff8efc138fb1"
-    },
-    {
-      "recommendScore": "139",
-      "recommendCount": "609",
-      "title": "[問卦] 台南粉專：百年最強颱 中北部沒經歷過",
-      "link": "/bbs/Gossiping/M.1752112859.A.0A0",
-      "author": "newpasta",
-      "board": "Gossiping",
-      "publishTime": "2025/07/10 02:00",
-      "imageUrl": "https://cache.pttweb.cc/imgur/hu2z7nL/s/273f0085a2910314cdf36ccc270a66ca"
     }
   ]
 }
