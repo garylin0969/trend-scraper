@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-10T15:32:30.425Z",
+  "updated": "2025-07-10T15:47:19.824Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "390",
-      "recommendCount": "803",
+      "recommendScore": "391",
+      "recommendCount": "805",
       "title": "[新聞] 台南北門雙春里5天沒水沒電 居民祈求神明保佑",
       "link": "/bbs/Gossiping/M.1752143761.A.2CD",
       "author": "muchire",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "307",
-      "recommendCount": "780",
+      "recommendScore": "308",
+      "recommendCount": "783",
       "title": "[新聞] 中南部災情嚴重 ! 7/12「團結國家十講」第6講台中場取消",
       "link": "/bbs/Gossiping/M.1752138962.A.57C",
       "author": "MightySultan",
@@ -75,7 +75,7 @@
     },
     {
       "recommendScore": "315",
-      "recommendCount": "614",
+      "recommendCount": "615",
       "title": "[新聞] 停電滿一百小時…台南市下營區沒停班課又暴雨 住戶：怎麼辦？",
       "link": "/bbs/Gossiping/M.1752129736.A.276",
       "author": "jk182325",
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "228",
-      "recommendCount": "526",
-      "title": "[新聞] 我方近日可望收到美方通知函 知情人士:非最終稅率、要再談判",
-      "link": "/bbs/Stock/M.1752075625.A.5A7",
-      "author": "PealRay",
-      "board": "Stock",
-      "publishTime": "2025/07/09 15:40",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-228",
       "recommendCount": "525",
       "title": "[新聞] 柯文哲認了「橘子拉走千萬」！前幕僚爆「阿北不敢得罪妙天師父」1原因恐繼續押",
@@ -184,8 +174,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/d8jE2Gg/s/5736dbcdd267ab635c615dee2b5009e1"
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "550",
+      "recommendScore": "245",
+      "recommendCount": "551",
       "title": "[問卦] 脆：光電板是矽做的，哪來的毒",
       "link": "/bbs/Gossiping/M.1752098265.A.E18",
       "author": "Superxixai",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/07/10 02:00",
       "imageUrl": "https://cache.pttweb.cc/imgur/hu2z7nL/s/273f0085a2910314cdf36ccc270a66ca"
+    },
+    {
+      "recommendScore": "299",
+      "recommendCount": "741",
+      "title": "[閒聊] ZOD 或將告別主播台",
+      "link": "/bbs/LoL/M.1752127815.A.BFD",
+      "author": "gnoo25se",
+      "board": "LoL",
+      "publishTime": "2025/07/10 06:10",
+      "imageUrl": "https://cache.pttweb.cc/imgur/NjA1TFN/s/77030ed29fdeaa84d802ff8efc138fb1"
     }
   ]
 }
