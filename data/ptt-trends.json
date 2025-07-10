@@ -1,7 +1,7 @@
 {
-  "updated": "2025-07-10T07:10:42.729Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-07-10T07:23:15.693Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "483",
@@ -52,16 +52,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/10 03:18",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "419",
-      "recommendCount": "817",
-      "title": "[新聞] 2勇消救援意外殉職　樂天桃猿小編竟宣傳",
-      "link": "/bbs/Baseball/M.1752045628.A.187",
-      "author": "shun1008",
-      "board": "Baseball",
-      "publishTime": "2025/07/09 07:20",
-      "imageUrl": "https://cache.pttweb.cc/imgur/VSGtFmG/s/d965ca8acd8083684e1c47c996903a53"
     },
     {
       "recommendScore": "469",
@@ -192,6 +182,26 @@
       "board": "Gossiping",
       "publishTime": "2025/07/09 20:29",
       "imageUrl": "https://cache.pttweb.cc/imgur/d8jE2Gg/s/5736dbcdd267ab635c615dee2b5009e1"
+    },
+    {
+      "recommendScore": "241",
+      "recommendCount": "539",
+      "title": "[問卦] 脆：光電板是矽做的，哪來的毒",
+      "link": "/bbs/Gossiping/M.1752098265.A.E18",
+      "author": "Superxixai",
+      "board": "Gossiping",
+      "publishTime": "2025/07/09 21:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "285",
+      "recommendCount": "449",
+      "title": "[新聞] 遭2比特犬飛撲攻擊　泰拳男「苦戰5分鐘」逃死崩潰：沒人敢幫忙",
+      "link": "/bbs/Gossiping/M.1752051693.A.030",
+      "author": "kobe8bryant",
+      "board": "Gossiping",
+      "publishTime": "2025/07/09 09:01",
+      "imageUrl": ""
     }
   ]
 }
