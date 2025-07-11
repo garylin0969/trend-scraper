@@ -1,11 +1,11 @@
 {
-  "updated": "2025-07-11T16:34:05.530Z",
+  "updated": "2025-07-11T16:48:21.747Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "527",
-      "recommendCount": "1446",
+      "recommendScore": "526",
+      "recommendCount": "1447",
       "title": "[新聞] 關稅降到零 汽車產業鏈全瓦解",
       "link": "/bbs/Stock/M.1752204999.A.876",
       "author": "keel90135",
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "717",
-      "recommendCount": "1472",
+      "recommendCount": "1473",
       "title": "[問卦] 台南全村挑戰關電100小時成功",
       "link": "/bbs/Gossiping/M.1752206602.A.662",
       "author": "Skyblueway",
@@ -44,18 +44,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/mzY2I0X/s/3d61817a44b33fb206adbb936178a6a3"
     },
     {
-      "recommendScore": "484",
-      "recommendCount": "1003",
-      "title": "[問卦] 台南再這樣搞下去  支持率要探底了吧!?",
-      "link": "/bbs/Gossiping/M.1752165619.A.952",
-      "author": "emperor",
+      "recommendScore": "591",
+      "recommendCount": "1043",
+      "title": "[爆卦] 總統北門勘災慘遭災民砲轟 震撼畫面流出!",
+      "link": "/bbs/Gossiping/M.1752242241.A.9E7",
+      "author": "Goog1e",
       "board": "Gossiping",
-      "publishTime": "2025/07/10 16:40",
+      "publishTime": "2025/07/11 13:57",
       "imageUrl": ""
     },
     {
-      "recommendScore": "430",
-      "recommendCount": "916",
+      "recommendScore": "431",
+      "recommendCount": "917",
       "title": "[問卦] 台南人怒了：連一口熱飯都無法跟家人吃",
       "link": "/bbs/Gossiping/M.1752211686.A.2BC",
       "author": "Carol787",
@@ -72,16 +72,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/10 20:31",
       "imageUrl": "https://cache.pttweb.cc/imgur/fLsMcrX/s/b414a2c8b627054062876a97b7896544"
-    },
-    {
-      "recommendScore": "562",
-      "recommendCount": "993",
-      "title": "[爆卦] 總統北門勘災慘遭災民砲轟 震撼畫面流出!",
-      "link": "/bbs/Gossiping/M.1752242241.A.9E7",
-      "author": "Goog1e",
-      "board": "Gossiping",
-      "publishTime": "2025/07/11 13:57",
-      "imageUrl": ""
     },
     {
       "recommendScore": "414",
@@ -104,13 +94,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "251",
-      "recommendCount": "698",
+      "recommendScore": "252",
+      "recommendCount": "699",
       "title": "[新聞] 復原急 黃偉哲向中央求援",
       "link": "/bbs/Gossiping/M.1752202397.A.877",
       "author": "PealRay",
       "board": "Gossiping",
       "publishTime": "2025/07/11 02:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "344",
+      "recommendCount": "712",
+      "title": "[新聞] 柯建銘嗆藍白愚蠢!稱刑法100條永遠存在",
+      "link": "/bbs/Gossiping/M.1752216549.A.EB9",
+      "author": "tsengcc",
+      "board": "Gossiping",
+      "publishTime": "2025/07/11 06:49",
       "imageUrl": ""
     },
     {
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "344",
-      "recommendCount": "711",
-      "title": "[新聞] 柯建銘嗆藍白愚蠢!稱刑法100條永遠存在",
-      "link": "/bbs/Gossiping/M.1752216549.A.EB9",
-      "author": "tsengcc",
-      "board": "Gossiping",
-      "publishTime": "2025/07/11 06:49",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "266",
       "recommendCount": "758",
       "title": "[問卦] 台南人：沒遇過強風的酸民 少說風涼話",
@@ -144,8 +134,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/C5MRjbJ/s/55f7d3406aa4374a6efd544a3882b231"
     },
     {
-      "recommendScore": "389",
-      "recommendCount": "690",
+      "recommendScore": "396",
+      "recommendCount": "704",
       "title": "[問卦] 「臺南式」粉專：白你媽",
       "link": "/bbs/Gossiping/M.1752226735.A.AFE",
       "author": "super1314159",
@@ -174,8 +164,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ZMKE7d7/s/b38f1e902e4740b3c0d3e5b357f237d5"
     },
     {
-      "recommendScore": "268",
-      "recommendCount": "761",
+      "recommendScore": "271",
+      "recommendCount": "765",
       "title": "[新聞] 獨家》鄭麗君談判小組12日凌晨返國 知情人士：台美談判未完待續",
       "link": "/bbs/Stock/M.1752233315.A.EF6",
       "author": "lolic",
@@ -185,7 +175,7 @@
     },
     {
       "recommendScore": "230",
-      "recommendCount": "609",
+      "recommendCount": "610",
       "title": "[爆卦] 南部嚴重停電這麼久原因找到了！！！！",
       "link": "/bbs/Gossiping/M.1752224182.A.1FC",
       "author": "enzo50",
@@ -201,6 +191,16 @@
       "author": "paladin90974",
       "board": "Gossiping",
       "publishTime": "2025/07/10 19:35",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "271",
+      "recommendCount": "618",
+      "title": "[新聞] 睡在塑膠椅上的阿嬤，沒屋頂沒電，後壁",
+      "link": "/bbs/Gossiping/M.1752194408.A.1DF",
+      "author": "d8917936",
+      "board": "Gossiping",
+      "publishTime": "2025/07/11 00:40",
       "imageUrl": ""
     }
   ]
