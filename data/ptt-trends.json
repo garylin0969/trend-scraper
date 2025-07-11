@@ -1,11 +1,11 @@
 {
-  "updated": "2025-07-11T13:23:01.208Z",
+  "updated": "2025-07-11T13:42:20.421Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "523",
-      "recommendCount": "1431",
+      "recommendScore": "524",
+      "recommendCount": "1432",
       "title": "[新聞] 關稅降到零 汽車產業鏈全瓦解",
       "link": "/bbs/Stock/M.1752204999.A.876",
       "author": "keel90135",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "713",
-      "recommendCount": "1460",
+      "recommendScore": "715",
+      "recommendCount": "1463",
       "title": "[問卦] 台南全村挑戰關電100小時成功",
       "link": "/bbs/Gossiping/M.1752206602.A.662",
       "author": "Skyblueway",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "430",
-      "recommendCount": "907",
+      "recommendCount": "908",
       "title": "[問卦] 台南人怒了：連一口熱飯都無法跟家人吃",
       "link": "/bbs/Gossiping/M.1752211686.A.2BC",
       "author": "Carol787",
@@ -115,7 +115,7 @@
     },
     {
       "recommendScore": "339",
-      "recommendCount": "698",
+      "recommendCount": "701",
       "title": "[新聞] 柯建銘嗆藍白愚蠢!稱刑法100條永遠存在",
       "link": "/bbs/Gossiping/M.1752216549.A.EB9",
       "author": "tsengcc",
@@ -155,7 +155,7 @@
     },
     {
       "recommendScore": "313",
-      "recommendCount": "871",
+      "recommendCount": "872",
       "title": "[問卦] 建台高中「忘了給學生簽名 又不小心忘了",
       "link": "/bbs/Gossiping/M.1752189140.A.4D0",
       "author": "ergostepo",
@@ -164,8 +164,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ZMKE7d7/s/b38f1e902e4740b3c0d3e5b357f237d5"
     },
     {
-      "recommendScore": "295",
-      "recommendCount": "608",
+      "recommendScore": "296",
+      "recommendCount": "612",
       "title": "[新聞] 賴總統台南勘災 七股災民怨差點沒命「過了5天都沒看到市府的人」",
       "link": "/bbs/Gossiping/M.1752225276.A.3C3",
       "author": "tiger911",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "332",
+      "recommendCount": "578",
+      "title": "[問卦] 「臺南式」粉專：白你媽",
+      "link": "/bbs/Gossiping/M.1752226735.A.AFE",
+      "author": "super1314159",
+      "board": "Gossiping",
+      "publishTime": "2025/07/11 09:38",
+      "imageUrl": "https://cache.pttweb.cc/imgur/AfNqsbv/s/c2357701e4128263d426dac4dc80ae1d"
+    },
+    {
       "recommendScore": "271",
       "recommendCount": "615",
       "title": "[新聞] 睡在塑膠椅上的阿嬤，沒屋頂沒電，後壁",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/11 00:40",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "330",
-      "recommendCount": "567",
-      "title": "[問卦] 「臺南式」粉專：白你媽",
-      "link": "/bbs/Gossiping/M.1752226735.A.AFE",
-      "author": "super1314159",
-      "board": "Gossiping",
-      "publishTime": "2025/07/11 09:38",
-      "imageUrl": "https://cache.pttweb.cc/imgur/AfNqsbv/s/c2357701e4128263d426dac4dc80ae1d"
     }
   ]
 }
