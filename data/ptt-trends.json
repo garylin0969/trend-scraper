@@ -1,11 +1,11 @@
 {
-  "updated": "2025-07-11T07:37:17.341Z",
+  "updated": "2025-07-11T07:46:17.864Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "477",
-      "recommendCount": "1294",
+      "recommendScore": "486",
+      "recommendCount": "1309",
       "title": "[新聞] 關稅降到零 汽車產業鏈全瓦解",
       "link": "/bbs/Stock/M.1752204999.A.876",
       "author": "keel90135",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "611",
-      "recommendCount": "1272",
+      "recommendScore": "639",
+      "recommendCount": "1314",
       "title": "[問卦] 台南全村挑戰關電100小時成功",
       "link": "/bbs/Gossiping/M.1752206602.A.662",
       "author": "Skyblueway",
@@ -24,8 +24,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/yVENy2l/s/087f2a5b1022ab2c2fbbbf8d29e54f1e"
     },
     {
-      "recommendScore": "494",
-      "recommendCount": "1130",
+      "recommendScore": "496",
+      "recommendCount": "1133",
       "title": "[問卦] 台南市長演都不演了",
       "link": "/bbs/Gossiping/M.1752191258.A.713",
       "author": "houseca",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "481",
-      "recommendCount": "996",
+      "recommendScore": "482",
+      "recommendCount": "998",
       "title": "[問卦] 台南再這樣搞下去  支持率要探底了吧!?",
       "link": "/bbs/Gossiping/M.1752165619.A.952",
       "author": "emperor",
@@ -55,7 +55,7 @@
     },
     {
       "recommendScore": "413",
-      "recommendCount": "1252",
+      "recommendCount": "1253",
       "title": "Re: [問卦] 就一個中颱 台南到底要放幾天啊？",
       "link": "/bbs/Gossiping/M.1752179490.A.BF2",
       "author": "ebao2709966",
@@ -64,8 +64,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/fLsMcrX/s/b414a2c8b627054062876a97b7896544"
     },
     {
-      "recommendScore": "409",
-      "recommendCount": "878",
+      "recommendScore": "410",
+      "recommendCount": "886",
       "title": "[新聞] 民怨爆表灌爆臉書 黃偉哲：「我沒有話講」",
       "link": "/bbs/Gossiping/M.1752196881.A.4B9",
       "author": "lunli924",
@@ -94,6 +94,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/BtgjeDT/s/dad4c170e3f6ee9f21b287f6b3f4c702"
     },
     {
+      "recommendScore": "356",
+      "recommendCount": "728",
+      "title": "[問卦] 台南人怒了：連一口熱飯都無法跟家人吃",
+      "link": "/bbs/Gossiping/M.1752211686.A.2BC",
+      "author": "Carol787",
+      "board": "Gossiping",
+      "publishTime": "2025/07/11 05:28",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "403",
       "recommendCount": "726",
       "title": "[爆卦] 屏東禁海令",
@@ -104,13 +114,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "294",
-      "recommendCount": "736",
+      "recommendScore": "293",
+      "recommendCount": "782",
       "title": "[新聞] 堅持用「內亂罪」問責藍委！柯建銘警告藍白：刑法100條沒廢除",
       "link": "/bbs/Gossiping/M.1752208901.A.4CC",
       "author": "zenmeke",
       "board": "Gossiping",
       "publishTime": "2025/07/11 04:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "230",
+      "recommendCount": "654",
+      "title": "[新聞] 復原急 黃偉哲向中央求援",
+      "link": "/bbs/Gossiping/M.1752202397.A.877",
+      "author": "PealRay",
+      "board": "Gossiping",
+      "publishTime": "2025/07/11 02:53",
       "imageUrl": ""
     },
     {
@@ -124,18 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "228",
-      "recommendCount": "649",
-      "title": "[新聞] 復原急 黃偉哲向中央求援",
-      "link": "/bbs/Gossiping/M.1752202397.A.877",
-      "author": "PealRay",
-      "board": "Gossiping",
-      "publishTime": "2025/07/11 02:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "363",
-      "recommendCount": "861",
+      "recommendScore": "364",
+      "recommendCount": "862",
       "title": "Re: [問卦] 請大家救救台南市學甲區三慶里",
       "link": "/bbs/Gossiping/M.1752161669.A.BF5",
       "author": "devidevi",
@@ -144,34 +154,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "297",
-      "recommendCount": "608",
-      "title": "[問卦] 台南人怒了：連一口熱飯都無法跟家人吃",
-      "link": "/bbs/Gossiping/M.1752211686.A.2BC",
-      "author": "Carol787",
-      "board": "Gossiping",
-      "publishTime": "2025/07/11 05:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "305",
-      "recommendCount": "850",
-      "title": "[問卦] 建台高中「忘了給學生簽名 又不小心忘了",
-      "link": "/bbs/Gossiping/M.1752189140.A.4D0",
-      "author": "ergostepo",
-      "board": "Gossiping",
-      "publishTime": "2025/07/10 23:12",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ZMKE7d7/s/b38f1e902e4740b3c0d3e5b357f237d5"
-    },
-    {
       "recommendScore": "250",
-      "recommendCount": "700",
+      "recommendCount": "704",
       "title": "[問卦] 台南人：沒遇過強風的酸民 少說風涼話",
       "link": "/bbs/Gossiping/M.1752199833.A.F0B",
       "author": "borondawon",
       "board": "Gossiping",
       "publishTime": "2025/07/11 02:10",
       "imageUrl": "https://cache.pttweb.cc/imgur/C5MRjbJ/s/55f7d3406aa4374a6efd544a3882b231"
+    },
+    {
+      "recommendScore": "306",
+      "recommendCount": "852",
+      "title": "[問卦] 建台高中「忘了給學生簽名 又不小心忘了",
+      "link": "/bbs/Gossiping/M.1752189140.A.4D0",
+      "author": "ergostepo",
+      "board": "Gossiping",
+      "publishTime": "2025/07/10 23:12",
+      "imageUrl": "https://cache.pttweb.cc/imgur/ZMKE7d7/s/b38f1e902e4740b3c0d3e5b357f237d5"
     },
     {
       "recommendScore": "335",
@@ -185,7 +185,7 @@
     },
     {
       "recommendScore": "186",
-      "recommendCount": "697",
+      "recommendCount": "698",
       "title": "[問卦] 台灣事實查核：矽晶太陽能板不影響水質",
       "link": "/bbs/Gossiping/M.1752143574.A.7AC",
       "author": "touyuan",
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "262",
-      "recommendCount": "697",
+      "recommendScore": "263",
+      "recommendCount": "699",
       "title": "Re: [問卦] 台南再這樣搞下去  支持率要探底了吧!?",
       "link": "/bbs/Gossiping/M.1752176134.A.B45",
       "author": "paladin90974",
