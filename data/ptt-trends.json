@@ -1,17 +1,17 @@
 {
-  "updated": "2025-07-11T06:37:58.083Z",
+  "updated": "2025-07-11T06:50:53.269Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "426",
-      "recommendCount": "1111",
+      "recommendScore": "456",
+      "recommendCount": "1199",
       "title": "[新聞] 關稅降到零 汽車產業鏈全瓦解",
       "link": "/bbs/Stock/M.1752204999.A.876",
       "author": "keel90135",
       "board": "Stock",
       "publishTime": "2025/07/11 03:36",
-      "imageUrl": "https://cache.pttweb.cc/imgur/yVENy2l/s/087f2a5b1022ab2c2fbbbf8d29e54f1e"
+      "imageUrl": ""
     },
     {
       "recommendScore": "569",
@@ -34,7 +34,7 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/mzY2I0X/s/3d61817a44b33fb206adbb936178a6a3"
     },
     {
-      "recommendScore": "367",
+      "recommendScore": "371",
       "recommendCount": "1491",
       "title": "[問卦] 請大家救救台南市學甲區三慶里",
       "link": "/bbs/Gossiping/M.1752160585.A.A46",
@@ -124,18 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "326",
-      "recommendCount": "628",
-      "title": "[新聞] 停電滿一百小時…台南市下營區沒停班課又暴雨 住戶：怎麼辦？",
-      "link": "/bbs/Gossiping/M.1752129736.A.276",
-      "author": "jk182325",
-      "board": "Gossiping",
-      "publishTime": "2025/07/10 06:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "221",
-      "recommendCount": "624",
+      "recommendScore": "225",
+      "recommendCount": "631",
       "title": "[新聞] 復原急 黃偉哲向中央求援",
       "link": "/bbs/Gossiping/M.1752202397.A.877",
       "author": "PealRay",
@@ -164,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "271",
+      "recommendCount": "667",
+      "title": "[新聞] 堅持用「內亂罪」問責藍委！柯建銘警告藍白：刑法100條沒廢除",
+      "link": "/bbs/Gossiping/M.1752208901.A.4CC",
+      "author": "zenmeke",
+      "board": "Gossiping",
+      "publishTime": "2025/07/11 04:41",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "186",
       "recommendCount": "696",
       "title": "[問卦] 台灣事實查核：矽晶太陽能板不影響水質",
@@ -184,16 +184,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/C5MRjbJ/s/55f7d3406aa4374a6efd544a3882b231"
     },
     {
-      "recommendScore": "252",
-      "recommendCount": "604",
-      "title": "[新聞] 堅持用「內亂罪」問責藍委！柯建銘警告藍白：刑法100條沒廢除",
-      "link": "/bbs/Gossiping/M.1752208901.A.4CC",
-      "author": "zenmeke",
-      "board": "Gossiping",
-      "publishTime": "2025/07/11 04:41",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "268",
       "recommendCount": "606",
       "title": "[新聞] 睡在塑膠椅上的阿嬤，沒屋頂沒電，後壁",
@@ -201,6 +191,16 @@
       "author": "d8917936",
       "board": "Gossiping",
       "publishTime": "2025/07/11 00:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "258",
+      "recommendCount": "691",
+      "title": "Re: [問卦] 台南再這樣搞下去  支持率要探底了吧!?",
+      "link": "/bbs/Gossiping/M.1752176134.A.B45",
+      "author": "paladin90974",
+      "board": "Gossiping",
+      "publishTime": "2025/07/10 19:35",
       "imageUrl": ""
     }
   ]
