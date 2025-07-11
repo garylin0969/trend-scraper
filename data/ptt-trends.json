@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-11T04:21:51.799Z",
+  "updated": "2025-07-11T04:44:39.032Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,7 +14,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "363",
+      "recommendScore": "364",
       "recommendCount": "1491",
       "title": "[問卦] 請大家救救台南市學甲區三慶里",
       "link": "/bbs/Gossiping/M.1752160585.A.A46",
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "471",
-      "recommendCount": "979",
+      "recommendCount": "981",
       "title": "[問卦] 台南再這樣搞下去  支持率要探底了吧!?",
       "link": "/bbs/Gossiping/M.1752165619.A.952",
       "author": "emperor",
@@ -44,8 +44,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/mzY2I0X/s/3d61817a44b33fb206adbb936178a6a3"
     },
     {
-      "recommendScore": "391",
-      "recommendCount": "1208",
+      "recommendScore": "393",
+      "recommendCount": "1210",
       "title": "Re: [問卦] 就一個中颱 台南到底要放幾天啊？",
       "link": "/bbs/Gossiping/M.1752179490.A.BF2",
       "author": "ebao2709966",
@@ -74,6 +74,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/BtgjeDT/s/dad4c170e3f6ee9f21b287f6b3f4c702"
     },
     {
+      "recommendScore": "355",
+      "recommendCount": "754",
+      "title": "[新聞] 民怨爆表灌爆臉書 黃偉哲：「我沒有話講」",
+      "link": "/bbs/Gossiping/M.1752196881.A.4B9",
+      "author": "lunli924",
+      "board": "Gossiping",
+      "publishTime": "2025/07/11 01:21",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "403",
       "recommendCount": "726",
       "title": "[爆卦] 屏東禁海令",
@@ -81,16 +91,6 @@
       "author": "brianzzy",
       "board": "Gossiping",
       "publishTime": "2025/07/10 07:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "346",
-      "recommendCount": "731",
-      "title": "[新聞] 民怨爆表灌爆臉書 黃偉哲：「我沒有話講」",
-      "link": "/bbs/Gossiping/M.1752196881.A.4B9",
-      "author": "lunli924",
-      "board": "Gossiping",
-      "publishTime": "2025/07/11 01:21",
       "imageUrl": ""
     },
     {
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "185",
-      "recommendCount": "694",
+      "recommendScore": "186",
+      "recommendCount": "695",
       "title": "[問卦] 台灣事實查核：矽晶太陽能板不影響水質",
       "link": "/bbs/Gossiping/M.1752143574.A.7AC",
       "author": "touyuan",
@@ -154,8 +154,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "274",
-      "recommendCount": "755",
+      "recommendScore": "245",
+      "recommendCount": "574",
+      "title": "[新聞] 關稅降到零 汽車產業鏈全瓦解",
+      "link": "/bbs/Stock/M.1752204999.A.876",
+      "author": "keel90135",
+      "board": "Stock",
+      "publishTime": "2025/07/11 03:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "277",
+      "recommendCount": "761",
       "title": "[問卦] 建台高中「忘了給學生簽名 又不小心忘了",
       "link": "/bbs/Gossiping/M.1752189140.A.4D0",
       "author": "ergostepo",
@@ -174,18 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "246",
-      "recommendCount": "652",
-      "title": "Re: [問卦] 台南再這樣搞下去  支持率要探底了吧!?",
-      "link": "/bbs/Gossiping/M.1752176134.A.B45",
-      "author": "paladin90974",
-      "board": "Gossiping",
-      "publishTime": "2025/07/10 19:35",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "256",
-      "recommendCount": "644",
+      "recommendCount": "649",
       "title": "[新聞] 台美關稅談判…傳我擬放行美牛內臟、絞肉 豬腎萊劑值比照國際",
       "link": "/bbs/Stock/M.1752188913.A.B37",
       "author": "semih",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "245",
-      "recommendCount": "559",
-      "title": "[新聞] 睡在塑膠椅上的阿嬤，沒屋頂沒電，後壁",
-      "link": "/bbs/Gossiping/M.1752194408.A.1DF",
-      "author": "d8917936",
+      "recommendScore": "246",
+      "recommendCount": "652",
+      "title": "Re: [問卦] 台南再這樣搞下去  支持率要探底了吧!?",
+      "link": "/bbs/Gossiping/M.1752176134.A.B45",
+      "author": "paladin90974",
       "board": "Gossiping",
-      "publishTime": "2025/07/11 00:40",
+      "publishTime": "2025/07/10 19:35",
       "imageUrl": ""
     }
   ]
