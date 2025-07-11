@@ -1,8 +1,18 @@
 {
-  "updated": "2025-07-11T05:42:46.075Z",
+  "updated": "2025-07-11T05:54:25.612Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "426",
+      "recommendCount": "1111",
+      "title": "[新聞] 關稅降到零 汽車產業鏈全瓦解",
+      "link": "/bbs/Stock/M.1752204999.A.876",
+      "author": "keel90135",
+      "board": "Stock",
+      "publishTime": "2025/07/11 03:36",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "488",
       "recommendCount": "1116",
@@ -34,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "506",
+      "recommendCount": "955",
+      "title": "[問卦] 台南全村挑戰關電100小時成功",
+      "link": "/bbs/Gossiping/M.1752206602.A.662",
+      "author": "Skyblueway",
+      "board": "Gossiping",
+      "publishTime": "2025/07/11 04:03",
+      "imageUrl": "https://cache.pttweb.cc/imgur/yVENy2l/s/087f2a5b1022ab2c2fbbbf8d29e54f1e"
+    },
+    {
       "recommendScore": "411",
       "recommendCount": "1246",
       "title": "Re: [問卦] 就一個中颱 台南到底要放幾天啊？",
@@ -42,16 +62,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/10 20:31",
       "imageUrl": "https://cache.pttweb.cc/imgur/fLsMcrX/s/b414a2c8b627054062876a97b7896544"
-    },
-    {
-      "recommendScore": "353",
-      "recommendCount": "930",
-      "title": "[新聞] 關稅降到零 汽車產業鏈全瓦解",
-      "link": "/bbs/Stock/M.1752204999.A.876",
-      "author": "keel90135",
-      "board": "Stock",
-      "publishTime": "2025/07/11 03:36",
-      "imageUrl": ""
     },
     {
       "recommendScore": "392",
@@ -64,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "402",
-      "recommendCount": "854",
+      "recommendScore": "401",
+      "recommendCount": "856",
       "title": "[新聞] 台南北門雙春里5天沒水沒電 居民祈求神明保佑",
       "link": "/bbs/Gossiping/M.1752143761.A.2CD",
       "author": "muchire",
@@ -74,24 +84,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "314",
-      "recommendCount": "815",
+      "recommendScore": "315",
+      "recommendCount": "816",
       "title": "[新聞] 中南部災情嚴重 ! 7/12「團結國家十講」第6講台中場取消",
       "link": "/bbs/Gossiping/M.1752138962.A.57C",
       "author": "MightySultan",
       "board": "Gossiping",
       "publishTime": "2025/07/10 09:16",
       "imageUrl": "https://cache.pttweb.cc/imgur/BtgjeDT/s/dad4c170e3f6ee9f21b287f6b3f4c702"
-    },
-    {
-      "recommendScore": "425",
-      "recommendCount": "799",
-      "title": "[問卦] 台南全村挑戰關電100小時成功",
-      "link": "/bbs/Gossiping/M.1752206602.A.662",
-      "author": "Skyblueway",
-      "board": "Gossiping",
-      "publishTime": "2025/07/11 04:03",
-      "imageUrl": "https://cache.pttweb.cc/imgur/yVENy2l/s/087f2a5b1022ab2c2fbbbf8d29e54f1e"
     },
     {
       "recommendScore": "403",
@@ -102,16 +102,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/10 07:54",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "126",
-      "recommendCount": "1137",
-      "title": "[討論] 不妙！柯文哲認了橘子拉走千萬皮箱！",
-      "link": "/bbs/HatePolitics/M.1752126559.A.FDF",
-      "author": "miler22020",
-      "board": "HatePolitics",
-      "publishTime": "2025/07/10 05:49",
-      "imageUrl": "https://cache.pttweb.cc/imgur/euup4c8/s/139a98b4a9b38fbe4aa3e8ea4fe081a8"
     },
     {
       "recommendScore": "326",
@@ -201,6 +191,16 @@
       "author": "paladin90974",
       "board": "Gossiping",
       "publishTime": "2025/07/10 19:35",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-234",
+      "recommendCount": "545",
+      "title": "[新聞] 柯文哲認了「橘子拉走千萬」！前幕僚爆「阿北不敢得罪妙天師父」1原因恐繼續押",
+      "link": "/bbs/Gossiping/M.1752138265.A.E62",
+      "author": "Healine",
+      "board": "Gossiping",
+      "publishTime": "2025/07/10 09:04",
       "imageUrl": ""
     }
   ]
