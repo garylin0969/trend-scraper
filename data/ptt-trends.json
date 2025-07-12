@@ -1,11 +1,11 @@
 {
-  "updated": "2025-07-12T16:18:13.120Z",
+  "updated": "2025-07-12T16:32:59.031Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "216",
-      "recommendCount": "385",
+      "recommendScore": "220",
+      "recommendCount": "395",
       "title": "[新聞] 川普宣布：對墨西哥、歐盟徵收30%關稅",
       "link": "/bbs/Stock/M.1752329909.A.64A",
       "author": "DrowningPool",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "144",
-      "recommendCount": "292",
+      "recommendScore": "143",
+      "recommendCount": "296",
       "title": "[問卦] 台南人這次颱風過後 會醒過來嗎?",
       "link": "/bbs/Gossiping/M.1752255256.A.B3F",
       "author": "sos976431",
@@ -24,13 +24,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "248",
-      "recommendCount": "797",
-      "title": "[情報] LBJ跟湖人的分崎&Lopez本來考慮加入湖人",
-      "link": "/bbs/NBA/M.1752251197.A.B6B",
-      "author": "dragon803",
-      "board": "NBA",
-      "publishTime": "2025/07/11 16:26",
+      "recommendScore": "81",
+      "recommendCount": "248",
+      "title": "[新聞] 台南需要你！南市擴大招募災後重建志工",
+      "link": "/bbs/Gossiping/M.1752332968.A.328",
+      "author": "pm2001",
+      "board": "Gossiping",
+      "publishTime": "2025/07/12 15:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "169",
+      "recommendCount": "189",
+      "title": "[問卦] 發錢 開機聽音樂",
+      "link": "/bbs/Gossiping/M.1752329813.A.BB9",
+      "author": "harrybbs",
+      "board": "Gossiping",
+      "publishTime": "2025/07/12 14:16",
       "imageUrl": ""
     },
     {
@@ -44,28 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "185",
-      "title": "[問卦] 發錢 開機聽音樂",
-      "link": "/bbs/Gossiping/M.1752329813.A.BB9",
-      "author": "harrybbs",
-      "board": "Gossiping",
-      "publishTime": "2025/07/12 14:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "61",
-      "recommendCount": "205",
-      "title": "[新聞] 台南需要你！南市擴大招募災後重建志工",
-      "link": "/bbs/Gossiping/M.1752332968.A.328",
-      "author": "pm2001",
-      "board": "Gossiping",
-      "publishTime": "2025/07/12 15:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "48",
-      "recommendCount": "164",
+      "recommendScore": "47",
+      "recommendCount": "165",
       "title": "[心得] 神明看T1打AL",
       "link": "/bbs/LoL/M.1752255090.A.232",
       "author": "AHQ112",
@@ -74,13 +64,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/pRJwUOd/s/0a80488c1bda3812821fa7f541c382cb"
     },
     {
-      "recommendScore": "-51",
-      "recommendCount": "157",
+      "recommendScore": "-55",
+      "recommendCount": "161",
       "title": "[新聞] 「藍白3招癱瘓台灣、先窮台再統一」 沈伯洋：台灣在笑聲中被拍賣",
       "link": "/bbs/Gossiping/M.1752331867.A.ACD",
       "author": "james7923",
       "board": "Gossiping",
       "publishTime": "2025/07/12 14:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "72",
+      "recommendCount": "261",
+      "title": "[新聞] 關稅談判最新進度! 政院「已約好下輪磋商」：希望8/1期限前完成",
+      "link": "/bbs/Stock/M.1752334143.A.EF1",
+      "author": "goddamnhuge",
+      "board": "Stock",
+      "publishTime": "2025/07/12 15:29",
       "imageUrl": ""
     },
     {
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "67",
+      "recommendCount": "103",
+      "title": "[分享] 台南Josh 今日為教士隊開球",
+      "link": "/bbs/Baseball/M.1752331731.A.4F5",
+      "author": "WaywayPao",
+      "board": "Baseball",
+      "publishTime": "2025/07/12 14:48",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "74",
       "recommendCount": "126",
       "title": "[閒聊] T1決賽重新會師GenG 大家怎麼看？",
@@ -131,36 +141,6 @@
       "author": "Vanced",
       "board": "LoL",
       "publishTime": "2025/07/12 14:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "57",
-      "recommendCount": "210",
-      "title": "[新聞] 關稅談判最新進度! 政院「已約好下輪磋商」：希望8/1期限前完成",
-      "link": "/bbs/Stock/M.1752334143.A.EF1",
-      "author": "goddamnhuge",
-      "board": "Stock",
-      "publishTime": "2025/07/12 15:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "64",
-      "recommendCount": "120",
-      "title": "[問卦] 台南災民是真罵還是假罵?",
-      "link": "/bbs/Gossiping/M.1752251154.A.605",
-      "author": "Arielbank",
-      "board": "Gossiping",
-      "publishTime": "2025/07/11 16:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "62",
-      "recommendCount": "94",
-      "title": "[分享] 台南Josh 今日為教士隊開球",
-      "link": "/bbs/Baseball/M.1752331731.A.4F5",
-      "author": "WaywayPao",
-      "board": "Baseball",
-      "publishTime": "2025/07/12 14:48",
       "imageUrl": ""
     },
     {
@@ -184,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "57",
-      "recommendCount": "86",
+      "recommendScore": "59",
+      "recommendCount": "89",
       "title": "[分享] CPBL戰績",
       "link": "/bbs/Baseball/M.1752329896.A.EF8",
       "author": "nybbnan",
@@ -194,14 +174,34 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "70",
-      "recommendCount": "133",
+      "recommendScore": "69",
+      "recommendCount": "134",
       "title": "[分享] 宏國籃球隊重組消息(不是今年重組",
       "link": "/bbs/basketballTW/M.1752329993.A.E66",
       "author": "joejoe14758",
       "board": "basketballTW",
       "publishTime": "2025/07/12 14:19",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "47",
+      "recommendCount": "83",
+      "title": "[新聞] 美媒曝湖人明年與詹皇分道揚鑣　傳勇士有興趣交易",
+      "link": "/bbs/NBA/M.1752334859.A.002",
+      "author": "access4096",
+      "board": "NBA",
+      "publishTime": "2025/07/12 15:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "53",
+      "recommendCount": "147",
+      "title": "[閒聊] tripleS周心語發表「一個中國」言論",
+      "link": "/bbs/KoreaStar/M.1752329727.A.BEB",
+      "author": "usenwo",
+      "board": "KoreaStar",
+      "publishTime": "2025/07/12 14:15",
+      "imageUrl": "https://cache.pttweb.cc/imgur/X7QreeU/s/c1813394a4a0922aa8ffbd7f90464bcd"
     }
   ]
 }
