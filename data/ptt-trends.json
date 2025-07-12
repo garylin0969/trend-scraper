@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-12T13:34:58.124Z",
+  "updated": "2025-07-12T13:46:35.880Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "87",
-      "recommendCount": "145",
-      "title": "[閒聊] NS2 ZR ZL災情慘重",
-      "link": "/bbs/C_Chat/M.1752241105.A.D7C",
-      "author": "hanx5566",
-      "board": "C_Chat",
-      "publishTime": "2025/07/11 13:38",
-      "imageUrl": "https://cache.pttweb.cc/imgur/yLRNO89/s/2303ba77d91708d5691c28e7a2a473c2"
-    },
-    {
       "recommendScore": "112",
       "recommendCount": "166",
       "title": "[情報] 20250711 5525回到那一天 大巨蛋首唱版",
@@ -171,26 +161,6 @@
       "author": "m230831207",
       "board": "MayDay",
       "publishTime": "2025/07/11 14:20",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-33",
-      "recommendCount": "135",
-      "title": "[新聞] 立院刪撥補台電千億　行政院：舉債普發現金將債留子孫實屬不當",
-      "link": "/bbs/Gossiping/M.1752241091.A.E98",
-      "author": "WuSam",
-      "board": "Gossiping",
-      "publishTime": "2025/07/11 13:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "27",
-      "recommendCount": "158",
-      "title": "[問卦] 不補助台電物價飛升你可以接受？",
-      "link": "/bbs/Gossiping/M.1752241231.A.C2A",
-      "author": "ANDORLESS",
-      "board": "Gossiping",
-      "publishTime": "2025/07/11 13:40",
       "imageUrl": ""
     },
     {
@@ -202,6 +172,36 @@
       "board": "LoL",
       "publishTime": "2025/07/11 17:31",
       "imageUrl": "https://cache.pttweb.cc/imgur/pRJwUOd/s/0a80488c1bda3812821fa7f541c382cb"
+    },
+    {
+      "recommendScore": "84",
+      "recommendCount": "262",
+      "title": "[政治] 確定普發現金1萬元",
+      "link": "/bbs/BaseballXXXX/M.1752243014.A.7C3",
+      "author": "ppgod",
+      "board": "BaseballXXXX",
+      "publishTime": "2025/07/11 14:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "52",
+      "recommendCount": "128",
+      "title": "[討論] 賴清德：社區要利用天災 訓練解決能力",
+      "link": "/bbs/HatePolitics/M.1752243642.A.B28",
+      "author": "omanorboyo",
+      "board": "HatePolitics",
+      "publishTime": "2025/07/11 14:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "60",
+      "recommendCount": "114",
+      "title": "[閒聊] 買遊戲會衝首發還是等評價",
+      "link": "/bbs/C_Chat/M.1752243026.A.B27",
+      "author": "victor87710",
+      "board": "C_Chat",
+      "publishTime": "2025/07/11 14:10",
+      "imageUrl": ""
     }
   ]
 }
