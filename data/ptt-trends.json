@@ -1,11 +1,11 @@
 {
-  "updated": "2025-07-12T17:28:16.790Z",
+  "updated": "2025-07-12T17:37:51.714Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "116",
-      "recommendCount": "382",
+      "recommendScore": "114",
+      "recommendCount": "404",
       "title": "[新聞] 台南需要你！南市擴大招募災後重建志工",
       "link": "/bbs/Gossiping/M.1752332968.A.328",
       "author": "pm2001",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "238",
-      "recommendCount": "423",
+      "recommendScore": "245",
+      "recommendCount": "434",
       "title": "[新聞] 川普宣布：對墨西哥、歐盟徵收30%關稅",
       "link": "/bbs/Stock/M.1752329909.A.64A",
       "author": "DrowningPool",
@@ -24,13 +24,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "149",
-      "recommendCount": "318",
-      "title": "[問卦] 台南人這次颱風過後 會醒過來嗎?",
-      "link": "/bbs/Gossiping/M.1752255256.A.B3F",
-      "author": "sos976431",
-      "board": "Gossiping",
-      "publishTime": "2025/07/11 17:34",
+      "recommendScore": "140",
+      "recommendCount": "441",
+      "title": "[新聞] 關稅談判最新進度! 政院「已約好下輪磋商」：希望8/1期限前完成",
+      "link": "/bbs/Stock/M.1752334143.A.EF1",
+      "author": "goddamnhuge",
+      "board": "Stock",
+      "publishTime": "2025/07/12 15:29",
       "imageUrl": ""
     },
     {
@@ -54,58 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "130",
-      "recommendCount": "410",
-      "title": "[新聞] 關稅談判最新進度! 政院「已約好下輪磋商」：希望8/1期限前完成",
-      "link": "/bbs/Stock/M.1752334143.A.EF1",
-      "author": "goddamnhuge",
-      "board": "Stock",
-      "publishTime": "2025/07/12 15:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-47",
-      "recommendCount": "204",
-      "title": "[新聞] 獨家／台大法律系學霸批普發1萬「只是",
-      "link": "/bbs/Gossiping/M.1752335755.A.35D",
-      "author": "asppsa",
-      "board": "Gossiping",
-      "publishTime": "2025/07/12 15:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "44",
-      "recommendCount": "168",
-      "title": "[心得] 神明看T1打AL",
-      "link": "/bbs/LoL/M.1752255090.A.232",
-      "author": "AHQ112",
-      "board": "LoL",
-      "publishTime": "2025/07/11 17:31",
-      "imageUrl": "https://cache.pttweb.cc/imgur/pRJwUOd/s/0a80488c1bda3812821fa7f541c382cb"
-    },
-    {
-      "recommendScore": "198",
-      "recommendCount": "280",
-      "title": "[情報] 5525+1 回到那一天 臺北最終場 歌單",
-      "link": "/bbs/MayDay/M.1752331874.A.E7C",
-      "author": "mayuuuday",
-      "board": "MayDay",
-      "publishTime": "2025/07/12 14:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "50",
-      "recommendCount": "173",
-      "title": "[新聞] 台中罷團急催票！原先最看好罷免這人 民調仍落後10個百分點",
-      "link": "/bbs/Gossiping/M.1752330235.A.478",
-      "author": "thouloveme",
-      "board": "Gossiping",
-      "publishTime": "2025/07/12 14:23",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ZeQdfbJ/s/1ee831853d1691a0fdde416d59a2970d"
-    },
-    {
-      "recommendScore": "78",
-      "recommendCount": "167",
+      "recommendScore": "92",
+      "recommendCount": "212",
       "title": "[問卦] 為何黑熊青鳥不出動救嘉南？",
       "link": "/bbs/Gossiping/M.1752336119.A.C4E",
       "author": "smallpig02",
@@ -114,13 +64,53 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-61",
-      "recommendCount": "172",
+      "recommendScore": "-53",
+      "recommendCount": "215",
+      "title": "[新聞] 獨家／台大法律系學霸批普發1萬「只是",
+      "link": "/bbs/Gossiping/M.1752335755.A.35D",
+      "author": "asppsa",
+      "board": "Gossiping",
+      "publishTime": "2025/07/12 15:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "202",
+      "recommendCount": "287",
+      "title": "[情報] 5525+1 回到那一天 臺北最終場 歌單",
+      "link": "/bbs/MayDay/M.1752331874.A.E7C",
+      "author": "mayuuuday",
+      "board": "MayDay",
+      "publishTime": "2025/07/12 14:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-63",
+      "recommendCount": "178",
       "title": "[新聞] 「藍白3招癱瘓台灣、先窮台再統一」 沈伯洋：台灣在笑聲中被拍賣",
       "link": "/bbs/Gossiping/M.1752331867.A.ACD",
       "author": "james7923",
       "board": "Gossiping",
       "publishTime": "2025/07/12 14:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "50",
+      "recommendCount": "176",
+      "title": "[新聞] 台中罷團急催票！原先最看好罷免這人 民調仍落後10個百分點",
+      "link": "/bbs/Gossiping/M.1752330235.A.478",
+      "author": "thouloveme",
+      "board": "Gossiping",
+      "publishTime": "2025/07/12 14:23",
+      "imageUrl": "https://cache.pttweb.cc/imgur/ZeQdfbJ/s/1ee831853d1691a0fdde416d59a2970d"
+    },
+    {
+      "recommendScore": "51",
+      "recommendCount": "161",
+      "title": "[新聞] 台灣關稅底線是25%？謝金河揭我國成敗關鍵：能達到這水準就不會輸了",
+      "link": "/bbs/Stock/M.1752336380.A.600",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2025/07/12 16:06",
       "imageUrl": ""
     },
     {
@@ -134,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "79",
-      "recommendCount": "152",
+      "recommendScore": "81",
+      "recommendCount": "154",
       "title": "[新聞] 美媒曝湖人明年與詹皇分道揚鑣　傳勇士有興趣交易",
       "link": "/bbs/NBA/M.1752334859.A.002",
       "author": "access4096",
@@ -144,13 +134,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "47",
-      "recommendCount": "148",
-      "title": "[新聞] 台灣關稅底線是25%？謝金河揭我國成敗關鍵：能達到這水準就不會輸了",
-      "link": "/bbs/Stock/M.1752336380.A.600",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2025/07/12 16:06",
+      "recommendScore": "83",
+      "recommendCount": "123",
+      "title": "[分享] 台南Josh 今日為教士隊開球",
+      "link": "/bbs/Baseball/M.1752331731.A.4F5",
+      "author": "WaywayPao",
+      "board": "Baseball",
+      "publishTime": "2025/07/12 14:48",
       "imageUrl": ""
     },
     {
@@ -164,14 +154,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "81",
-      "recommendCount": "121",
-      "title": "[分享] 台南Josh 今日為教士隊開球",
-      "link": "/bbs/Baseball/M.1752331731.A.4F5",
-      "author": "WaywayPao",
-      "board": "Baseball",
-      "publishTime": "2025/07/12 14:48",
-      "imageUrl": ""
+      "recommendScore": "69",
+      "recommendCount": "157",
+      "title": "[問卦] 台南現在還在停電沒人覺得很扯嗎？",
+      "link": "/bbs/Gossiping/M.1752333578.A.10E",
+      "author": "linda17a3",
+      "board": "Gossiping",
+      "publishTime": "2025/07/12 15:19",
+      "imageUrl": "https://cache.pttweb.cc/imgur/b0fPDZP/s/e0930cc3e1bce616b3b8b78ac58170f3"
     },
     {
       "recommendScore": "78",
@@ -184,18 +174,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "60",
-      "recommendCount": "129",
-      "title": "[問卦] 台南現在還在停電沒人覺得很扯嗎？",
-      "link": "/bbs/Gossiping/M.1752333578.A.10E",
-      "author": "linda17a3",
+      "recommendScore": "51",
+      "recommendCount": "155",
+      "title": "[新聞] 7歲女兒罹罕病「全天候照顧」 媽媽拔管殺了她",
+      "link": "/bbs/Gossiping/M.1752329936.A.1F7",
+      "author": "b33",
       "board": "Gossiping",
-      "publishTime": "2025/07/12 15:19",
-      "imageUrl": "https://cache.pttweb.cc/imgur/b0fPDZP/s/e0930cc3e1bce616b3b8b78ac58170f3"
+      "publishTime": "2025/07/12 14:18",
+      "imageUrl": ""
     },
     {
-      "recommendScore": "46",
-      "recommendCount": "176",
+      "recommendScore": "75",
+      "recommendCount": "155",
+      "title": "[分享] 宏國籃球隊重組消息(不是今年重組",
+      "link": "/bbs/basketballTW/M.1752329993.A.E66",
+      "author": "joejoe14758",
+      "board": "basketballTW",
+      "publishTime": "2025/07/12 14:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "47",
+      "recommendCount": "177",
       "title": "[討論] 去年奧運奪金是不是Djo最好的退休時機?",
       "link": "/bbs/Tennis/M.1752331442.A.2F2",
       "author": "leegiway",
