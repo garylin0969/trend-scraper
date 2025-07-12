@@ -1,7 +1,7 @@
 {
-  "updated": "2025-07-12T09:53:40.116Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-07-12T10:05:34.767Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "274",
@@ -134,16 +134,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "179",
-      "recommendCount": "1502",
-      "title": "[分享] 今日先發",
-      "link": "/bbs/Guardians/M.1752227866.A.F98",
-      "author": "willy911006",
-      "board": "Guardians",
-      "publishTime": "2025/07/11 09:57",
-      "imageUrl": "https://cache.pttweb.cc/imgur/0YGvMJc/s/32f4eba36d6906d4a1ae9cf6d1b028df"
-    },
-    {
       "recommendScore": "151",
       "recommendCount": "295",
       "title": "[新聞] 颱風天狂轟張善政！黃瓊慧被抓包在美搞罷罷免 還問：颱風有",
@@ -191,6 +181,26 @@
       "author": "suchungzen52",
       "board": "Baseball",
       "publishTime": "2025/07/11 11:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-96",
+      "recommendCount": "281",
+      "title": "[新聞] 普發現金是在野黨「癱瘓台灣3招」　沈伯洋：台灣未來在笑聲中被拍賣",
+      "link": "/bbs/Gossiping/M.1752238315.A.E9C",
+      "author": "chopper594",
+      "board": "Gossiping",
+      "publishTime": "2025/07/11 12:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "125",
+      "recommendCount": "282",
+      "title": "[新聞] 賴清德公開讚林俊憲募帆布助災民 陳亭妃當場秒變臉",
+      "link": "/bbs/Gossiping/M.1752239310.A.B5E",
+      "author": "kingfsg7326",
+      "board": "Gossiping",
+      "publishTime": "2025/07/11 13:08",
       "imageUrl": ""
     }
   ]
