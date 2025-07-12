@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-12T16:32:59.031Z",
+  "updated": "2025-07-12T16:55:09.597Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "56",
-      "recommendCount": "143",
-      "title": "[問卦] 台南災情是不是顯示沒有監督的可怕？",
-      "link": "/bbs/Gossiping/M.1752252470.A.15C",
-      "author": "godded",
-      "board": "Gossiping",
-      "publishTime": "2025/07/11 16:47",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "59",
       "recommendCount": "89",
       "title": "[分享] CPBL戰績",
@@ -202,6 +192,16 @@
       "board": "KoreaStar",
       "publishTime": "2025/07/12 14:15",
       "imageUrl": "https://cache.pttweb.cc/imgur/X7QreeU/s/c1813394a4a0922aa8ffbd7f90464bcd"
+    },
+    {
+      "recommendScore": "46",
+      "recommendCount": "123",
+      "title": "[討論] 三星真的這麼不堪嗎？",
+      "link": "/bbs/MobileComm/M.1752258480.A.004",
+      "author": "leokuang",
+      "board": "MobileComm",
+      "publishTime": "2025/07/11 18:28",
+      "imageUrl": ""
     }
   ]
 }
