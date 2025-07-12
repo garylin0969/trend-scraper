@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-12T00:23:35.812Z",
+  "updated": "2025-07-12T00:49:43.225Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "272",
-      "recommendCount": "620",
-      "title": "[新聞] 睡在塑膠椅上的阿嬤，沒屋頂沒電，後壁",
-      "link": "/bbs/Gossiping/M.1752194408.A.1DF",
-      "author": "d8917936",
-      "board": "Gossiping",
-      "publishTime": "2025/07/11 00:40",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "369",
       "recommendCount": "465",
       "title": "[炸裂] 范國宸 再見全壘打",
@@ -201,6 +191,16 @@
       "author": "iammatrix",
       "board": "Gossiping",
       "publishTime": "2025/07/11 07:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "241",
+      "recommendCount": "433",
+      "title": "[問卦] 一人對台南人說一句話打氣？",
+      "link": "/bbs/Gossiping/M.1752207419.A.283",
+      "author": "edieedie",
+      "board": "Gossiping",
+      "publishTime": "2025/07/11 04:16",
       "imageUrl": ""
     }
   ]
