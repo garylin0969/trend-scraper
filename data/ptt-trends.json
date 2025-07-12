@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-12T04:32:07.558Z",
+  "updated": "2025-07-12T04:49:12.683Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -21,16 +21,6 @@
       "author": "Carol787",
       "board": "Gossiping",
       "publishTime": "2025/07/11 05:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "346",
-      "recommendCount": "974",
-      "title": "[新聞] 堅持用「內亂罪」問責藍委！柯建銘警告藍白：刑法100條沒廢除",
-      "link": "/bbs/Gossiping/M.1752208901.A.4CC",
-      "author": "zenmeke",
-      "board": "Gossiping",
-      "publishTime": "2025/07/11 04:41",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "NSwitch",
       "publishTime": "2025/07/11 11:52",
       "imageUrl": "https://cache.pttweb.cc/imgur/duwlLAq/s/02ed22506b5475ee03a7b902944f04db"
+    },
+    {
+      "recommendScore": "233",
+      "recommendCount": "435",
+      "title": "[新聞] DeepSeek 使用率由50%跌至3%",
+      "link": "/bbs/Stock/M.1752226199.A.E55",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2025/07/11 09:29",
+      "imageUrl": ""
     }
   ]
 }
