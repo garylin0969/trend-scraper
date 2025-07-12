@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-12T06:07:24.857Z",
+  "updated": "2025-07-12T06:19:40.031Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "198",
-      "recommendCount": "457",
-      "title": "[問卦] 台南到底是真的嚴重還是抹黑☺?",
-      "link": "/bbs/Gossiping/M.1752214255.A.07B",
-      "author": "fucKMT5566",
-      "board": "Gossiping",
-      "publishTime": "2025/07/11 06:10",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "115",
       "recommendCount": "441",
       "title": "[問卦] 為何八卦板對台南的怨念那麼重...",
@@ -201,6 +191,16 @@
       "author": "westdoorcard",
       "board": "Gossiping",
       "publishTime": "2025/07/11 07:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "238",
+      "recommendCount": "466",
+      "title": "[新聞] 樂天官網-關於官方SNS帳號誤發文事件說",
+      "link": "/bbs/Baseball/M.1752219474.A.012",
+      "author": "AllStar5566",
+      "board": "Baseball",
+      "publishTime": "2025/07/11 07:37",
       "imageUrl": ""
     }
   ]
