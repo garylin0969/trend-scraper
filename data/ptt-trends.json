@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-12T12:21:51.039Z",
+  "updated": "2025-07-12T12:46:33.467Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "41",
-      "recommendCount": "161",
-      "title": "[新聞] 網傳黃偉哲防災還出席餐飲業者活動 南市府：渲染抹黑",
-      "link": "/bbs/Gossiping/M.1752237958.A.CB5",
-      "author": "wuwoeijyh123",
-      "board": "Gossiping",
-      "publishTime": "2025/07/11 12:45",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "89",
       "recommendCount": "128",
       "title": "[分享] CPBL戰績",
@@ -201,6 +191,16 @@
       "author": "nybbnan",
       "board": "Baseball",
       "publishTime": "2025/07/11 13:16",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "87",
+      "recommendCount": "156",
+      "title": "[閒聊] 石油盃入圍賽分組",
+      "link": "/bbs/LoL/M.1752242916.A.2E4",
+      "author": "okitakaede",
+      "board": "LoL",
+      "publishTime": "2025/07/11 14:08",
       "imageUrl": ""
     }
   ]
