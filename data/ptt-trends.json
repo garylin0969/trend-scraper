@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-12T14:05:06.825Z",
+  "updated": "2025-07-12T14:17:28.670Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "87",
-      "recommendCount": "156",
-      "title": "[閒聊] 石油盃入圍賽分組",
-      "link": "/bbs/LoL/M.1752242916.A.2E4",
-      "author": "okitakaede",
-      "board": "LoL",
-      "publishTime": "2025/07/11 14:08",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "65",
       "recommendCount": "136",
       "title": "[新聞] 災後第6天終於見到市長！　台南沿海居民怒嗆「被邊緣化」",
@@ -164,16 +154,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/pRJwUOd/s/0a80488c1bda3812821fa7f541c382cb"
     },
     {
-      "recommendScore": "84",
-      "recommendCount": "262",
-      "title": "[政治] 確定普發現金1萬元",
-      "link": "/bbs/BaseballXXXX/M.1752243014.A.7C3",
-      "author": "ppgod",
-      "board": "BaseballXXXX",
-      "publishTime": "2025/07/11 14:10",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "52",
       "recommendCount": "128",
       "title": "[討論] 賴清德：社區要利用天災 訓練解決能力",
@@ -184,24 +164,44 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "60",
-      "recommendCount": "114",
-      "title": "[閒聊] 買遊戲會衝首發還是等評價",
-      "link": "/bbs/C_Chat/M.1752243026.A.B27",
-      "author": "victor87710",
-      "board": "C_Chat",
-      "publishTime": "2025/07/11 14:10",
+      "recommendScore": "53",
+      "recommendCount": "104",
+      "title": "[問卦] 台南災民是真罵還是假罵?",
+      "link": "/bbs/Gossiping/M.1752251154.A.605",
+      "author": "Arielbank",
+      "board": "Gossiping",
+      "publishTime": "2025/07/11 16:25",
       "imageUrl": ""
     },
     {
-      "recommendScore": "92",
-      "recommendCount": "234",
-      "title": "[鐵道] FATE合作主線心得-我看到了懶散與敷衍",
-      "link": "/bbs/C_Chat/M.1752242660.A.4DE",
-      "author": "shinobunodok",
-      "board": "C_Chat",
-      "publishTime": "2025/07/11 14:04",
-      "imageUrl": "https://cache.pttweb.cc/imgur/zvZ4ydT/s/b14abe0469da36c55d1e74d32907edfc"
+      "recommendScore": "50",
+      "recommendCount": "132",
+      "title": "[問卦] 台南災情是不是顯示沒有監督的可怕？",
+      "link": "/bbs/Gossiping/M.1752252470.A.15C",
+      "author": "godded",
+      "board": "Gossiping",
+      "publishTime": "2025/07/11 16:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "51",
+      "recommendCount": "96",
+      "title": "[討論] 部長跑壘一直都這麼認真嗎?",
+      "link": "/bbs/Baseball/M.1752249726.A.ACD",
+      "author": "pimachu",
+      "board": "Baseball",
+      "publishTime": "2025/07/11 16:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "58",
+      "recommendCount": "96",
+      "title": "[問卦] ptt要維修怎麼辦？",
+      "link": "/bbs/Gossiping/M.1752267424.A.2D9",
+      "author": "ncc5566",
+      "board": "Gossiping",
+      "publishTime": "2025/07/11 20:57",
+      "imageUrl": ""
     }
   ]
 }
