@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-12T07:53:38.968Z",
+  "updated": "2025-07-12T08:06:50.790Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "115",
-      "recommendCount": "441",
-      "title": "[問卦] 為何八卦板對台南的怨念那麼重...",
-      "link": "/bbs/Gossiping/M.1752220553.A.5B0",
-      "author": "westdoorcard",
-      "board": "Gossiping",
-      "publishTime": "2025/07/11 07:55",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "203",
       "recommendCount": "663",
       "title": "[新聞] 普發1萬恐喊卡！賴清德「1關鍵」能秒推翻",
@@ -201,6 +191,16 @@
       "author": "dream0821",
       "board": "Gossiping",
       "publishTime": "2025/07/11 11:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "130",
+      "recommendCount": "391",
+      "title": "[新聞] 「全民普發一萬」過關！ 最晚「十月底前」領",
+      "link": "/bbs/Stock/M.1752235848.A.746",
+      "author": "diefishfish",
+      "board": "Stock",
+      "publishTime": "2025/07/11 12:10",
       "imageUrl": ""
     }
   ]
