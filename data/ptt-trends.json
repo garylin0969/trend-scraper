@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-12T11:17:24.910Z",
+  "updated": "2025-07-12T11:26:59.360Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "123",
-      "recommendCount": "246",
-      "title": "[情報] 高捷抓了ball",
-      "link": "/bbs/Baseball/M.1752232958.A.875",
-      "author": "suchungzen52",
-      "board": "Baseball",
-      "publishTime": "2025/07/11 11:22",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-96",
       "recommendCount": "281",
       "title": "[新聞] 普發現金是在野黨「癱瘓台灣3招」　沈伯洋：台灣未來在笑聲中被拍賣",
@@ -201,6 +191,16 @@
       "author": "runa2",
       "board": "Gossiping",
       "publishTime": "2025/07/11 15:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "124",
+      "recommendCount": "232",
+      "title": "[新聞] 賴清德台南勘災遭嗆　在地居民怒吼不要作秀：30幾小時沒人關心",
+      "link": "/bbs/Gossiping/M.1752249782.A.6AC",
+      "author": "jk182325",
+      "board": "Gossiping",
+      "publishTime": "2025/07/11 16:03",
       "imageUrl": ""
     }
   ]
