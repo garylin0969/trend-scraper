@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-12T09:29:27.903Z",
+  "updated": "2025-07-12T09:38:26.347Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/duwlLAq/s/02ed22506b5475ee03a7b902944f04db"
     },
     {
-      "recommendScore": "233",
-      "recommendCount": "435",
-      "title": "[新聞] DeepSeek 使用率由50%跌至3%",
-      "link": "/bbs/Stock/M.1752226199.A.E55",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2025/07/11 09:29",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "203",
       "recommendCount": "663",
       "title": "[新聞] 普發1萬恐喊卡！賴清德「1關鍵」能秒推翻",
@@ -201,6 +191,16 @@
       "author": "saucy",
       "board": "Gossiping",
       "publishTime": "2025/07/11 09:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "118",
+      "recommendCount": "291",
+      "title": "[新聞] 快訊／發現金確定！60：44票 國民黨版特別條例三讀通過",
+      "link": "/bbs/Gossiping/M.1752236122.A.4ED",
+      "author": "outdowave",
+      "board": "Gossiping",
+      "publishTime": "2025/07/11 12:15",
       "imageUrl": ""
     }
   ]
