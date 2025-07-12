@@ -1,7 +1,7 @@
 {
-  "updated": "2025-07-12T04:58:16.072Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2025-07-12T05:09:18.739Z",
+  "total_found": 19,
+  "returned_count": 19,
   "articles": [
     {
       "recommendScore": "662",
@@ -192,16 +192,6 @@
       "board": "NSwitch",
       "publishTime": "2025/07/11 11:52",
       "imageUrl": "https://cache.pttweb.cc/imgur/duwlLAq/s/02ed22506b5475ee03a7b902944f04db"
-    },
-    {
-      "recommendScore": "233",
-      "recommendCount": "435",
-      "title": "[新聞] DeepSeek 使用率由50%跌至3%",
-      "link": "/bbs/Stock/M.1752226199.A.E55",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2025/07/11 09:29",
-      "imageUrl": ""
     }
   ]
 }
