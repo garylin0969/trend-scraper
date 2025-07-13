@@ -1,18 +1,8 @@
 {
-  "updated": "2025-07-13T14:53:24.551Z",
+  "updated": "2025-07-13T15:05:15.882Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "649",
-      "recommendCount": "1241",
-      "title": "[新聞] 等了6天電還沒來 七股88歲老婦點蠟燭不慎起火喪命",
-      "link": "/bbs/Gossiping/M.1752393960.A.71D",
-      "author": "poeta",
-      "board": "Gossiping",
-      "publishTime": "2025/07/13 08:06",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "323",
       "recommendCount": "1213",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/07/13 03:18",
       "imageUrl": "https://cache.pttweb.cc/imgur/ktt72op/s/20380fdc5b46874cc9cdaecfaf8c71e5"
+    },
+    {
+      "recommendScore": "223",
+      "recommendCount": "704",
+      "title": "[新聞] 關稅談判最新進度! 政院「已約好下輪磋商」：希望8/1期限前完成",
+      "link": "/bbs/Stock/M.1752334143.A.EF1",
+      "author": "goddamnhuge",
+      "board": "Stock",
+      "publishTime": "2025/07/12 15:29",
+      "imageUrl": ""
     }
   ]
 }
