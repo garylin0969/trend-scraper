@@ -1,28 +1,8 @@
 {
-  "updated": "2025-07-14T07:56:34.934Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-07-14T08:08:33.577Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "686",
-      "recommendCount": "1335",
-      "title": "[新聞] 等了6天電還沒來 七股88歲老婦點蠟燭不慎起火喪命",
-      "link": "/bbs/Gossiping/M.1752393960.A.71D",
-      "author": "poeta",
-      "board": "Gossiping",
-      "publishTime": "2025/07/13 08:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "342",
-      "recommendCount": "1283",
-      "title": "[新聞]「救災不能都靠國軍」蕭美琴建議：放假學生回鄉幫忙",
-      "link": "/bbs/Gossiping/M.1752393499.A.0AF",
-      "author": "DamnDre",
-      "board": "Gossiping",
-      "publishTime": "2025/07/13 07:58",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "695",
       "recommendCount": "1125",
@@ -191,6 +171,36 @@
       "author": "ambitious",
       "board": "Gossiping",
       "publishTime": "2025/07/13 12:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "230",
+      "recommendCount": "393",
+      "title": "[新聞] 慟！嘉義8旬老翁颱風過後回祖厝修繕 不慎跌倒身亡",
+      "link": "/bbs/Gossiping/M.1752472553.A.CCD",
+      "author": "dawnstarlove",
+      "board": "Gossiping",
+      "publishTime": "2025/07/14 05:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "257",
+      "recommendCount": "587",
+      "title": "[新聞] 好噁！涼水祭傳「水槍裝尿液」 還有啦啦隊雙眼被噴紅",
+      "link": "/bbs/Baseball/M.1752467544.A.CD7",
+      "author": "a5687920",
+      "board": "Baseball",
+      "publishTime": "2025/07/14 04:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "178",
+      "recommendCount": "424",
+      "title": "[爆卦] 桃園地檢非法拘提我一夜並強佔手機四年",
+      "link": "/bbs/Gossiping/M.1752394742.A.77C",
+      "author": "zhxl",
+      "board": "Gossiping",
+      "publishTime": "2025/07/13 08:19",
       "imageUrl": ""
     }
   ]
