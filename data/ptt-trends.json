@@ -1,8 +1,18 @@
 {
-  "updated": "2025-07-14T11:37:09.498Z",
+  "updated": "2025-07-14T11:45:08.184Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "433",
+      "recommendCount": "1085",
+      "title": "[問卦] 反普發1萬元的圖卡",
+      "link": "/bbs/Gossiping/M.1752477176.A.1A3",
+      "author": "ozjucka",
+      "board": "Gossiping",
+      "publishTime": "2025/07/14 07:12",
+      "imageUrl": "https://cache.pttweb.cc/imgur/rRHSMQ2/s/4f4b61565b1e06ad294ced02ba1bfff7"
+    },
     {
       "recommendScore": "437",
       "recommendCount": "989",
@@ -12,16 +22,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/14 04:26",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "426",
-      "recommendCount": "1072",
-      "title": "[問卦] 反普發1萬元的圖卡",
-      "link": "/bbs/Gossiping/M.1752477176.A.1A3",
-      "author": "ozjucka",
-      "board": "Gossiping",
-      "publishTime": "2025/07/14 07:12",
-      "imageUrl": "https://cache.pttweb.cc/imgur/rRHSMQ2/s/4f4b61565b1e06ad294ced02ba1bfff7"
     },
     {
       "recommendScore": "479",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "300",
-      "recommendCount": "667",
+      "recommendScore": "301",
+      "recommendCount": "668",
       "title": "[新聞] 好噁！涼水祭傳「水槍裝尿液」 還有啦啦隊雙眼被噴紅",
       "link": "/bbs/Baseball/M.1752467544.A.CD7",
       "author": "a5687920",
