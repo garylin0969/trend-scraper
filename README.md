@@ -32,6 +32,7 @@ Hot Now 整合了以下平台的熱門內容：
 | **巴哈姆特**     | 熱門話題     | 官方 API                         | 主專案     |
 | **Reddit**       | 熱門文章     | 爬蟲 (JSON API)                  | **本專案** |
 | **Komica(K 島)** | 熱門文章     | 爬蟲                             | **本專案** |
+| **BBC 中文**     | 熱門新聞     | RSS 爬蟲                         | **本專案** |
 
 ## 🕷️ 本專案負責的爬蟲
 
@@ -69,6 +70,14 @@ Hot Now 整合了以下平台的熱門內容：
 -   **執行時間**: 每小時第 28、58 分鐘
 -   **儲存位置**: `data/reddit-all-hot.json`, `data/reddit-taiwanese-hot.json`, `data/reddit-china-irl-hot.json`
 
+### 5. BBC 中文新聞
+
+-   **目標網站**: https://feeds.bbci.co.uk/zhongwen/trad/rss.xml
+-   **資料內容**: BBC 中文網最新新聞文章
+-   **爬蟲頻率**: **每 30 分鐘** (一天 48 次)
+-   **執行時間**: 每小時第 15、45 分鐘
+-   **儲存位置**: `data/bbc-trends.json`
+
 ## 🏗️ 技術架構
 
 ### 技術棧
@@ -86,11 +95,13 @@ Hot Now 整合了以下平台的熱門內容：
 ```
 trend-scraper/
 ├── scripts/                      # 爬蟲腳本
+│   ├── bbc-trends.ts             # BBC中文新聞爬蟲
 │   ├── google-trends.ts          # Google熱搜爬蟲
 │   ├── komica-trends.ts          # K島熱門文章爬蟲
 │   ├── ptt-trends.ts             # PTT熱門文章爬蟲
 │   └── reddit-trends.ts          # Reddit熱門文章爬蟲
 ├── data/                         # 爬蟲資料儲存
+│   ├── bbc-trends.json           # BBC中文新聞資料
 │   ├── google-trends.json        # Google熱搜資料
 │   ├── komica-trends.json        # K島熱門資料
 │   ├── ptt-trends.json           # PTT熱門資料
@@ -98,6 +109,7 @@ trend-scraper/
 │   ├── reddit-taiwanese-hot.json # Reddit r/Taiwanese熱門資料
 │   └── reddit-china-irl-hot.json # Reddit r/China_irl熱門資料
 ├── .github/workflows/            # GitHub Actions工作流程
+│   ├── bbc-google.yml            # BBC中文新聞自動更新
 │   ├── update-google.yml         # Google熱搜自動更新
 │   ├── update-komica.yml         # K島自動更新
 │   ├── update-ptt.yml            # PTT自動更新
@@ -131,6 +143,9 @@ npx puppeteer browsers install chrome
 ### 執行爬蟲
 
 ```bash
+# 爬取 BBC 中文新聞
+pnpm scrape:bbc
+
 # 爬取 Google 熱搜
 pnpm scrape:google
 
@@ -147,6 +162,12 @@ pnpm scrape:reddit
 ## 🤖 自動化部署
 
 本專案使用 GitHub Actions 實現自動化爬蟲，每個平台都有獨立的工作流程：
+
+### BBC 中文新聞自動更新
+
+-   **檔案**: `.github/workflows/bbc-google.yml`
+-   **執行頻率**: 每小時第 15、45 分鐘
+-   **cron 表達式**: `15,45 * * * *`
 
 ### Google 熱搜自動更新
 
@@ -173,6 +194,13 @@ pnpm scrape:reddit
 -   **cron 表達式**: `28,58 * * * *`
 
 ## 📋 爬蟲特色
+
+### BBC 爬蟲
+
+-   使用 RSS Parser 解析 BBC 中文網 RSS feed
+-   支援縮圖圖片 URL 提取
+-   完整的頻道資訊保存
+-   標準化的日期格式處理
 
 ### PTT 爬蟲
 
@@ -218,6 +246,7 @@ pnpm scrape:reddit
 
 | 平台                   | API 端點                                                                   | 更新頻率   |
 | ---------------------- | -------------------------------------------------------------------------- | ---------- |
+| **BBC 中文新聞**       | https://garylin0969.github.io/trend-scraper/data/bbc-trends.json           | 每 30 分鐘 |
 | **PTT 熱門文章**       | https://garylin0969.github.io/trend-scraper/data/ptt-trends.json           | 每 10 分鐘 |
 | **Google 熱搜榜**      | https://garylin0969.github.io/trend-scraper/data/google-trends.json        | 每 30 分鐘 |
 | **K 島熱門文章**       | https://garylin0969.github.io/trend-scraper/data/komica-trends.json        | 每 30 分鐘 |
@@ -230,6 +259,32 @@ pnpm scrape:reddit
 所有 API 端點都支援 CORS，可以直接在前端應用程式中使用，無需額外的代理服務。
 
 ## 📈 資料格式
+
+### BBC 中文新聞
+
+```json
+{
+    "updated": "2025-07-15T07:41:30.769Z",
+    "channel": {
+        "title": "BBC Chinese",
+        "description": "BBC Chinese - BBC News , 中文 - 主頁",
+        "link": "https://www.bbc.com/zhongwen/trad",
+        "lastBuildDate": "2025-07-15T07:41:16.000Z",
+        "language": "zh-hant",
+        "copyright": "英國廣播公司 版權所有 "
+    },
+    "trends": [
+        {
+            "title": "「魷魚遊戲」下結業潮來襲，香港餐飲業能重返「美食天堂」嗎？",
+            "description": "BBC中文訪問研究飲食文化及經濟學者，以及業內人士，剖析香港餐飲業結業潮的癥結。",
+            "link": "https://www.bbc.com/zhongwen/articles/c1k8ge4zjw0o/trad",
+            "pubDate": "2025-07-15T01:10:24.000Z",
+            "guid": "https://www.bbc.com/zhongwen/articles/c1k8ge4zjw0o/trad#0",
+            "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ed09/live/e6eda9f0-5dbe-11f0-8328-5fcabfbdb3e1.jpg"
+        }
+    ]
+}
+```
 
 ### PTT 熱門文章
 
