@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-15T06:38:50.784Z",
+  "updated": "2025-07-15T06:52:15.420Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "181",
+      "recommendCount": "923",
+      "title": "[問卦] 為何別人的母親死了 鄉民還這麼沒口德",
+      "link": "/bbs/Gossiping/M.1752552043.A.F01",
+      "author": "oppo5566",
+      "board": "Gossiping",
+      "publishTime": "2025/07/15 04:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "445",
       "recommendCount": "969",
       "title": "[問卦] 脆熱議：台男徵友要求55kg以下遭群女砲轟",
@@ -32,16 +42,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/14 09:18",
       "imageUrl": "https://cache.pttweb.cc/imgur/HPFkKVh/s/a9f693dfaf06899bc2df79e99fdb681d"
-    },
-    {
-      "recommendScore": "169",
-      "recommendCount": "878",
-      "title": "[問卦] 為何別人的母親死了 鄉民還這麼沒口德",
-      "link": "/bbs/Gossiping/M.1752552043.A.F01",
-      "author": "oppo5566",
-      "board": "Gossiping",
-      "publishTime": "2025/07/15 04:00",
-      "imageUrl": ""
     },
     {
       "recommendScore": "-69",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "293",
-      "recommendCount": "626",
+      "recommendScore": "296",
+      "recommendCount": "631",
       "title": "[新聞] 柯文哲羈押313天今微笑出庭 將面對審判中檢方第4次聲押",
       "link": "/bbs/Gossiping/M.1752545826.A.333",
       "author": "Aqqqa",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "324",
-      "recommendCount": "637",
+      "recommendScore": "325",
+      "recommendCount": "639",
       "title": "[新聞] 美國九成太陽能板變垃圾，專家呼籲回收迫在眉睫",
       "link": "/bbs/Gossiping/M.1752541259.A.600",
       "author": "mife103",
@@ -104,14 +104,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "304",
-      "recommendCount": "922",
+      "recommendScore": "305",
+      "recommendCount": "923",
       "title": "Re: [討論] 2000年後總冠軍最強副手",
       "link": "/bbs/NBA/M.1752477673.A.CCF",
       "author": "baozi",
       "board": "NBA",
       "publishTime": "2025/07/14 07:21",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "265",
+      "recommendCount": "518",
+      "title": "[爆卦] 網紅說罷免票投同意是教訓青鳥？",
+      "link": "/bbs/Gossiping/M.1752553503.A.7B2",
+      "author": "orange7",
+      "board": "Gossiping",
+      "publishTime": "2025/07/15 04:25",
+      "imageUrl": "https://cache.pttweb.cc/imgur/wP19mkU/s/9bdf63061112f1087b33e2e71cb67d70"
     },
     {
       "recommendScore": "274",
@@ -121,26 +131,6 @@
       "author": "qazxc1156892",
       "board": "Gossiping",
       "publishTime": "2025/07/14 12:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "252",
-      "recommendCount": "489",
-      "title": "[爆卦] 網紅說罷免票投同意是教訓青鳥？",
-      "link": "/bbs/Gossiping/M.1752553503.A.7B2",
-      "author": "orange7",
-      "board": "Gossiping",
-      "publishTime": "2025/07/15 04:25",
-      "imageUrl": "https://cache.pttweb.cc/imgur/wP19mkU/s/9bdf63061112f1087b33e2e71cb67d70"
-    },
-    {
-      "recommendScore": "289",
-      "recommendCount": "491",
-      "title": "[問卦] 卡提諾狂新聞 能臭到什麼程度?",
-      "link": "/bbs/Gossiping/M.1752475454.A.7E7",
-      "author": "kasim65",
-      "board": "Gossiping",
-      "publishTime": "2025/07/14 06:44",
       "imageUrl": ""
     },
     {
@@ -174,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "242",
-      "recommendCount": "483",
+      "recommendScore": "243",
+      "recommendCount": "488",
       "title": "[新聞] 葉元之路口宣講遭「罷免支持者」辱罵、出手攻擊　脫序畫面全都錄",
       "link": "/bbs/Gossiping/M.1752546818.A.E2B",
       "author": "a0580531",
@@ -201,6 +191,16 @@
       "author": "ntupeap",
       "board": "Gossiping",
       "publishTime": "2025/07/14 07:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "215",
+      "recommendCount": "418",
+      "title": "[新聞] 小港人不忍了！超級電池廠爆炸飄惡臭引恐慌　揚言圍廠「不給做」",
+      "link": "/bbs/Gossiping/M.1752484601.A.56B",
+      "author": "tiger911",
+      "board": "Gossiping",
+      "publishTime": "2025/07/14 09:16",
       "imageUrl": ""
     }
   ]
