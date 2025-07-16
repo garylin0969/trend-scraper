@@ -85,7 +85,7 @@ Hot Now 整合了以下平台的熱門內容：
 -   **執行環境**: Node.js 18
 -   **程式語言**: TypeScript
 -   **網頁爬蟲**: Puppeteer
--   **HTTP 請求**: Axios
+-   **RSS 解析**: RSS Parser
 -   **部署平台**: GitHub Page
 -   **自動化**: GitHub Actions
 -   **包管理器**: pnpm
