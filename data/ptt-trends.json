@@ -1,7 +1,7 @@
 {
-  "updated": "2025-07-16T07:07:39.962Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-07-16T07:19:26.231Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "532",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "657",
-      "recommendCount": "1177",
+      "recommendScore": "662",
+      "recommendCount": "1192",
       "title": "[新聞] 快訊／再制裁沈伯洋之父企業！　陸廢止在海關登記註冊",
       "link": "/bbs/Gossiping/M.1752633535.A.BC0",
       "author": "jordanlove",
@@ -105,7 +105,7 @@
     },
     {
       "recommendScore": "295",
-      "recommendCount": "635",
+      "recommendCount": "636",
       "title": "[新聞] 轟藍委墮落成「傅崐萁小弟」 曹興誠：罷免不掉徐巧芯我就活不下去！",
       "link": "/bbs/Gossiping/M.1752589030.A.D25",
       "author": "thouloveme",
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "232",
-      "recommendCount": "485",
-      "title": "[新聞] 南華早報：美國可能取消賴清德過境　「避免影響川習會」",
-      "link": "/bbs/Gossiping/M.1752563801.A.F5F",
-      "author": "XiJinPing87",
-      "board": "Gossiping",
-      "publishTime": "2025/07/15 07:16",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "140",
       "recommendCount": "709",
       "title": "[討論] 沈伯洋：國民黨.民眾黨不准入內拈香",
@@ -191,6 +181,26 @@
       "author": "omanorboyo",
       "board": "HatePolitics",
       "publishTime": "2025/07/15 09:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "262",
+      "recommendCount": "909",
+      "title": "[討論] 震撼彈！恐嚇檢察官草確定要關兩個月了",
+      "link": "/bbs/HatePolitics/M.1752636415.A.616",
+      "author": "Homura",
+      "board": "HatePolitics",
+      "publishTime": "2025/07/16 03:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "251",
+      "recommendCount": "536",
+      "title": "Re: [爆卦] 北檢說柯文哲一直用臉書來帶風向",
+      "link": "/bbs/Gossiping/M.1752568401.A.7F4",
+      "author": "sleepdog56",
+      "board": "Gossiping",
+      "publishTime": "2025/07/15 08:33",
       "imageUrl": ""
     }
   ]
