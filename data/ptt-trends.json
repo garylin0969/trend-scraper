@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-16T18:36:40.906Z",
+  "updated": "2025-07-16T18:50:13.629Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "528",
-      "recommendCount": "987",
+      "recommendScore": "529",
+      "recommendCount": "988",
       "title": "[新聞] 道路驚見簡體字！黃瓊慧批市長哪國人 市府：那是省道",
       "link": "/bbs/Gossiping/M.1752648392.A.E38",
       "author": "kingfsg7326",
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "754",
-      "recommendCount": "1358",
-      "title": "[電競] EWC 2025 電競世界盃 上訴 Day1",
-      "link": "/bbs/LoL/M.1752649766.A.D58",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/07/16 07:09",
-      "imageUrl": "https://cache.pttweb.cc/imgur/gsR4WTL/s/0e037a7554b53fd7dceeb6051c38a97f"
-    },
-    {
       "recommendScore": "205",
       "recommendCount": "632",
       "title": "[新聞] 白台南災區拍影片 災民無奈：可下架嗎",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/07/16 03:59",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "769",
+      "recommendCount": "1358",
+      "title": "[電競] EWC 2025 電競世界盃 上訴 Day1",
+      "link": "/bbs/LoL/M.1752649766.A.D58",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/07/16 07:09",
+      "imageUrl": "https://cache.pttweb.cc/imgur/gsR4WTL/s/0e037a7554b53fd7dceeb6051c38a97f"
     }
   ]
 }
