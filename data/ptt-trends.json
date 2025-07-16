@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-16T23:29:46.395Z",
+  "updated": "2025-07-16T23:39:05.816Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "425",
-      "recommendCount": "713",
+      "recommendCount": "714",
       "title": "Re: [問卦] 惡劣恐嚇北檢民眾 確定羈押兩個月 代表",
       "link": "/bbs/Gossiping/M.1752644251.A.9F2",
       "author": "turbomons",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "348",
-      "recommendCount": "720",
+      "recommendScore": "349",
+      "recommendCount": "722",
       "title": "[新聞] 台電員工不忍了！　轟賴政府：拼命工作不是為了「撥補千億」大內宣",
       "link": "/bbs/Gossiping/M.1752664462.A.B52",
       "author": "kefang",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "295",
-      "recommendCount": "639",
+      "recommendScore": "296",
+      "recommendCount": "640",
       "title": "[問卦] 阿北如果出來再選一次，你會投嗎？",
       "link": "/bbs/Gossiping/M.1752656101.A.425",
       "author": "ihl123456",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "300",
+      "recommendCount": "815",
+      "title": "[問卦] 你真的相信台電員工被要求擺拍大內宣嗎",
+      "link": "/bbs/Gossiping/M.1752678658.A.EAB",
+      "author": "westdoorcard",
+      "board": "Gossiping",
+      "publishTime": "2025/07/16 15:10",
+      "imageUrl": "https://cache.pttweb.cc/imgur/W7cbybr/s/e7fc2fa5a2d891a0d891528b7ea05780"
+    },
+    {
       "recommendScore": "280",
       "recommendCount": "968",
       "title": "[討論] 震撼彈！恐嚇檢察官草確定要關兩個月了",
@@ -192,16 +202,6 @@
       "board": "HatePolitics",
       "publishTime": "2025/07/16 03:26",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "297",
-      "recommendCount": "791",
-      "title": "[問卦] 你真的相信台電員工被要求擺拍大內宣嗎",
-      "link": "/bbs/Gossiping/M.1752678658.A.EAB",
-      "author": "westdoorcard",
-      "board": "Gossiping",
-      "publishTime": "2025/07/16 15:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/W7cbybr/s/e7fc2fa5a2d891a0d891528b7ea05780"
     }
   ]
 }
