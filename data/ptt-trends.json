@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-17T00:25:02.090Z",
+  "updated": "2025-07-17T00:49:35.877Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "534",
-      "recommendCount": "996",
+      "recommendCount": "997",
       "title": "[新聞] 道路驚見簡體字！黃瓊慧批市長哪國人 市府：那是省道",
       "link": "/bbs/Gossiping/M.1752648392.A.E38",
       "author": "kingfsg7326",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "353",
-      "recommendCount": "728",
+      "recommendScore": "354",
+      "recommendCount": "730",
       "title": "[新聞] 台電員工不忍了！　轟賴政府：拼命工作不是為了「撥補千億」大內宣",
       "link": "/bbs/Gossiping/M.1752664462.A.B52",
       "author": "kefang",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "387",
-      "recommendCount": "682",
+      "recommendScore": "389",
+      "recommendCount": "686",
       "title": "[新聞] 黃仁勳：輕視華為、中國製造的人都極其天真",
       "link": "/bbs/Gossiping/M.1752667301.A.B0F",
       "author": "patrick08",
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "-157",
-      "recommendCount": "692",
+      "recommendCount": "693",
       "title": "[新聞] 盧秀燕看台灣經濟困境：關稅若超過10％是重大危機",
       "link": "/bbs/Stock/M.1752656596.A.04F",
       "author": "win8719",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "263",
-      "recommendCount": "602",
+      "recommendScore": "264",
+      "recommendCount": "604",
       "title": "[問卦] 台南人表態後悔投錯票了？  是真的嗎？",
       "link": "/bbs/Gossiping/M.1752655104.A.783",
       "author": "chiafann",
@@ -134,8 +134,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "297",
-      "recommendCount": "642",
+      "recommendScore": "338",
+      "recommendCount": "934",
+      "title": "[問卦] 你真的相信台電員工被要求擺拍大內宣嗎",
+      "link": "/bbs/Gossiping/M.1752678658.A.EAB",
+      "author": "westdoorcard",
+      "board": "Gossiping",
+      "publishTime": "2025/07/16 15:10",
+      "imageUrl": "https://cache.pttweb.cc/imgur/W7cbybr/s/e7fc2fa5a2d891a0d891528b7ea05780"
+    },
+    {
+      "recommendScore": "298",
+      "recommendCount": "643",
       "title": "[問卦] 阿北如果出來再選一次，你會投嗎？",
       "link": "/bbs/Gossiping/M.1752656101.A.425",
       "author": "ihl123456",
@@ -164,14 +174,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "322",
-      "recommendCount": "896",
-      "title": "[問卦] 你真的相信台電員工被要求擺拍大內宣嗎",
-      "link": "/bbs/Gossiping/M.1752678658.A.EAB",
-      "author": "westdoorcard",
+      "recommendScore": "298",
+      "recommendCount": "605",
+      "title": "[新聞] 嘉義5萬片光電板殘骸 無處去",
+      "link": "/bbs/Gossiping/M.1752682685.A.B53",
+      "author": "TonyKart",
       "board": "Gossiping",
-      "publishTime": "2025/07/16 15:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/W7cbybr/s/e7fc2fa5a2d891a0d891528b7ea05780"
+      "publishTime": "2025/07/16 16:18",
+      "imageUrl": ""
     },
     {
       "recommendScore": "205",
@@ -191,16 +201,6 @@
       "author": "ptt987654321",
       "board": "Gossiping",
       "publishTime": "2025/07/16 03:59",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "280",
-      "recommendCount": "968",
-      "title": "[討論] 震撼彈！恐嚇檢察官草確定要關兩個月了",
-      "link": "/bbs/HatePolitics/M.1752636415.A.616",
-      "author": "Homura",
-      "board": "HatePolitics",
-      "publishTime": "2025/07/16 03:26",
       "imageUrl": ""
     }
   ]
