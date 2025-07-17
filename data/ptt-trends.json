@@ -1,7 +1,7 @@
 {
-  "updated": "2025-07-17T18:37:22.839Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-07-17T18:50:51.172Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "491",
@@ -55,7 +55,7 @@
     },
     {
       "recommendScore": "91",
-      "recommendCount": "970",
+      "recommendCount": "972",
       "title": "[新聞] 快訊／卓榮泰決定「全民不普發1萬」 理ꔭ",
       "link": "/bbs/Stock/M.1752731188.A.747",
       "author": "junior020486",
@@ -192,6 +192,16 @@
       "board": "LoL",
       "publishTime": "2025/07/17 08:25",
       "imageUrl": "https://cache.pttweb.cc/imgur/wy0GLTl/s/32064db6d9c01ed2daf769e065dddb6b"
+    },
+    {
+      "recommendScore": "222",
+      "recommendCount": "451",
+      "title": "[問卦] 沒人發現批評北檢聲音變小了嗎",
+      "link": "/bbs/Gossiping/M.1752719618.A.61C",
+      "author": "Max0406",
+      "board": "Gossiping",
+      "publishTime": "2025/07/17 02:33",
+      "imageUrl": ""
     }
   ]
 }
