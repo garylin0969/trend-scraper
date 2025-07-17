@@ -1,14 +1,22 @@
 {
-  "updated": "2025-07-17T09:23:24.426Z",
+  "updated": "2025-07-17T09:49:55.987Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-07-17T09:23:16.000Z",
+    "lastBuildDate": "2025-07-17T09:49:44.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "美國、越南、印尼簽貿易條款，「轉運」約束下東南亞國家該如何應對「選邊站隊」壓力？",
+      "description": "雖然沒有點名中國，但考慮到中國是這兩個國家的第一大貿易夥伴，而且常年被美國指責為中國商品的中轉站，貿易協定勢必會影響兩國與中國的貿易往來。",
+      "link": "https://www.bbc.com/zhongwen/articles/cly8e40ekmyo/trad",
+      "pubDate": "2025-07-17T09:28:13.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cly8e40ekmyo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f40/live/cdcf2860-62df-11f0-80b4-633e269c65cb.jpg"
+    },
     {
       "title": "印度空難後中國「東航慘案」被重提，「可能危及國安」會將真相塵封嗎？",
       "description": "當世界在關心另一起大規模空難之際，三年前發生的中國東方航空MU5735空難傳出了調查進展因維護國安因素而被保密的消息。",
@@ -16,14 +24,6 @@
       "pubDate": "2025-07-17T00:15:56.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c1lj2ynp20vo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/80da/live/f7dff9b0-6189-11f0-b5c5-012c5796682d.jpg"
-    },
-    {
-      "title": "德魯茲人是誰？以色列為何攻擊敘利亞？",
-      "description": "一波新的致命教派暴力席捲敘利亞，凸顯出該國安全局勢的脆弱性。",
-      "link": "https://www.bbc.com/zhongwen/articles/cr4w7ydlyd3o/trad",
-      "pubDate": "2025-07-17T05:57:48.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cr4w7ydlyd3o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/af96/live/cee5bc90-629f-11f0-b903-f515e3045d80.jpg"
     },
     {
       "title": "台灣「大罷免」事件始末、政黨表態及投票流程等一次看",
@@ -56,6 +56,14 @@
       "pubDate": "2025-07-15T01:10:24.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c1k8ge4zjw0o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ed09/live/e6eda9f0-5dbe-11f0-8328-5fcabfbdb3e1.jpg"
+    },
+    {
+      "title": "德魯茲人是誰？以色列為何攻擊敘利亞？",
+      "description": "一波新的致命教派暴力席捲敘利亞，凸顯出該國安全局勢的脆弱性。",
+      "link": "https://www.bbc.com/zhongwen/articles/cr4w7ydlyd3o/trad",
+      "pubDate": "2025-07-17T05:57:48.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cr4w7ydlyd3o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/af96/live/cee5bc90-629f-11f0-b903-f515e3045d80.jpg"
     },
     {
       "title": "特朗普向普京發出最後通牒，烏克蘭人卻感到難抱期望",
@@ -96,14 +104,6 @@
       "pubDate": "2025-07-16T05:32:58.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cp3lx4z5vneo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f0a5/live/7f1b5640-6202-11f0-a40e-a1af2950b220.jpg"
-    },
-    {
-      "title": "歐盟延後對美國的報復性貿易關稅",
-      "description": "反制措施原定於週二開始實施，但目前已推遲至8月初。",
-      "link": "https://www.bbc.com/zhongwen/articles/c5yg7x6p6xjo/trad",
-      "pubDate": "2025-07-14T04:47:28.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5yg7x6p6xjo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/702e/live/500c50a0-6006-11f0-bba6-055e08803492.jpg"
     },
     {
       "title": "台灣提升軍人待遇：加薪、搭機優惠為何引發爭議？",
