@@ -1,10 +1,10 @@
 {
-  "updated": "2025-07-18T05:23:32.320Z",
+  "updated": "2025-07-18T05:51:47.475Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-07-18T05:23:20.000Z",
+    "lastBuildDate": "2025-07-18T05:51:35.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -16,6 +16,14 @@
       "pubDate": "2025-07-17T09:28:13.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cly8e40ekmyo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f40/live/cdcf2860-62df-11f0-80b4-633e269c65cb.jpg"
+    },
+    {
+      "title": "阿富汗資料外洩事件：英國間諜與特種空勤團成員身份遭揭露",
+      "description": "間諜與士兵的個人資料被包含在一項資料外洩事件中，該事件同時揭露了19,000名阿富汗人的姓名。",
+      "link": "https://www.bbc.com/zhongwen/articles/ce8z503e557o/trad",
+      "pubDate": "2025-07-18T05:19:01.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce8z503e557o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2270/live/52db1f70-6324-11f0-bd40-3b148bc1feb0.jpg"
     },
     {
       "title": "台美關稅談判爲何緩慢，特朗普在想什麽",
@@ -46,7 +54,7 @@
       "description": "這項技術由英國科學家率先開發，旨在克服嚴重甚至致命的遺傳疾病。",
       "link": "https://www.bbc.com/zhongwen/articles/cn5k906vqx1o/trad",
       "pubDate": "2025-07-17T10:28:18.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn5k906vqx1o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn5k906vqx1o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d39/live/6cca2ab0-62d5-11f0-905b-155cdf20da10.jpg"
     },
     {
@@ -104,14 +112,6 @@
       "pubDate": "2025-07-16T04:19:14.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c9392k9l9yxo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/caaf/live/10fffab0-6173-11f0-b88e-a91b24149ea3.jpg"
-    },
-    {
-      "title": "中國上半年GDP增長5.3%：關稅壓力下顯「韌性」  但下半年需求端或「斷崖式下跌」",
-      "description": "需求不振確實成為中國經濟需要突破的惡性循環。疫情之後，由於居民信心不足，導致需求減少，企業受到壓力不得不「降本裁員」，但此舉加劇了居民對「就業不穩定」的擔憂，信心更加不足，預防性地減少消費，社會總需求進一步降低。",
-      "link": "https://www.bbc.com/zhongwen/articles/ce8zp58vq69o/trad",
-      "pubDate": "2025-07-15T09:36:06.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce8zp58vq69o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/00c0/live/16309940-615a-11f0-b5c5-012c5796682d.jpg"
     },
     {
       "title": "核武器：哪些國家擁有它們？這些國家是如何獲得的？",
@@ -194,20 +194,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e97f/live/1bd29580-5483-11f0-8f18-517b1c770727.jpg"
     },
     {
+      "title": "中國上半年GDP增長5.3%：關稅壓力下顯「韌性」  但下半年需求端或「斷崖式下跌」",
+      "description": "需求不振確實成為中國經濟需要突破的惡性循環。疫情之後，由於居民信心不足，導致需求減少，企業受到壓力不得不「降本裁員」，但此舉加劇了居民對「就業不穩定」的擔憂，信心更加不足，預防性地減少消費，社會總需求進一步降低。",
+      "link": "https://www.bbc.com/zhongwen/articles/ce8zp58vq69o/trad",
+      "pubDate": "2025-07-15T09:36:06.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce8zp58vq69o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/00c0/live/16309940-615a-11f0-b5c5-012c5796682d.jpg"
+    },
+    {
       "title": "阿富汗資料外洩引發前所未有秘密撤離：值得關注的三大關鍵問題",
       "description": "三年多前，一位英國官員無意中洩漏了一份包含數千名試圖逃離塔利班報復攻擊的人員姓名和聯絡方式的資料集，這使得他們的性命陷入危險境地。三年過去，隨著事件解密，英國應該正視這些問題。",
       "link": "https://www.bbc.com/zhongwen/articles/cp3lx4z5vneo/trad",
       "pubDate": "2025-07-16T05:32:58.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cp3lx4z5vneo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f0a5/live/7f1b5640-6202-11f0-a40e-a1af2950b220.jpg"
-    },
-    {
-      "title": "朝鮮的「西班牙班尼多姆式」度假村迎來首批俄羅斯遊客",
-      "description": "金正恩青年時期大部分時間都在元山（Wonsan）度過，在新度假區建成之前，該城鎮一直是國內精英階層受歡迎的度假勝地。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4g8ddv6m48o/trad",
-      "pubDate": "2025-07-13T10:03:55.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4g8ddv6m48o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ebe7/live/1e435450-5e7c-11f0-b5c5-012c5796682d.png"
     },
     {
       "title": "台灣提升軍人待遇：加薪、搭機優惠為何引發爭議？",
