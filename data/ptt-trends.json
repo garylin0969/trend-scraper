@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-18T10:48:03.102Z",
+  "updated": "2025-07-18T10:56:50.579Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "413",
-      "recommendCount": "707",
+      "recommendScore": "418",
+      "recommendCount": "720",
       "title": "[新聞] 有片／出事了！新北4歲童誤轉消防栓　馬路「全是泡沫」大淹水",
       "link": "/bbs/Gossiping/M.1752824291.A.C0B",
       "author": "pdz",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "375",
-      "recommendCount": "829",
+      "recommendScore": "377",
+      "recommendCount": "831",
       "title": "[新聞] 美製進口車關稅可能降到０！經部堅持「不包括歐系車」台灣賓士怒了",
       "link": "/bbs/Stock/M.1752807391.A.F0A",
       "author": "keel90135",
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-134",
+      "recommendCount": "579",
+      "title": "[爆卦] 郭昱晴fb：我們擔心刑罰超出比例原則",
+      "link": "/bbs/Gossiping/M.1752823090.A.D0C",
+      "author": "tty0102",
+      "board": "Gossiping",
+      "publishTime": "2025/07/18 07:18",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "220",
       "recommendCount": "446",
       "title": "[爆卦] 罷團公然幫黃國昌超渡",
@@ -164,13 +174,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-132",
-      "recommendCount": "575",
-      "title": "[爆卦] 郭昱晴fb：我們擔心刑罰超出比例原則",
-      "link": "/bbs/Gossiping/M.1752823090.A.D0C",
-      "author": "tty0102",
+      "recommendScore": "-195",
+      "recommendCount": "495",
+      "title": "[新聞] 民進黨：支持「虐殺兒童」最重處死刑、藍白別再刻意搬弄是非",
+      "link": "/bbs/Gossiping/M.1752829231.A.4CF",
+      "author": "CrazySept",
       "board": "Gossiping",
-      "publishTime": "2025/07/18 07:18",
+      "publishTime": "2025/07/18 09:00",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "DosTaLiCa",
       "board": "HatePolitics",
       "publishTime": "2025/07/18 06:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-188",
-      "recommendCount": "483",
-      "title": "[新聞] 民進黨：支持「虐殺兒童」最重處死刑、藍白別再刻意搬弄是非",
-      "link": "/bbs/Gossiping/M.1752829231.A.4CF",
-      "author": "CrazySept",
-      "board": "Gossiping",
-      "publishTime": "2025/07/18 09:00",
       "imageUrl": ""
     }
   ]
