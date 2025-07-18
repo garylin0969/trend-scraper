@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-18T08:36:42.585Z",
+  "updated": "2025-07-18T08:49:15.130Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "14",
-      "recommendCount": "1295",
-      "title": "[討論] 特別預算扣除4100億，還有335億",
-      "link": "/bbs/HatePolitics/M.1752741624.A.627",
-      "author": "DosTaLiCa",
-      "board": "HatePolitics",
-      "publishTime": "2025/07/17 08:40",
-      "imageUrl": "https://cache.pttweb.cc/imgur/AMwus0B/s/c65695b91a9042bd9e96d47cb34161d4"
-    },
-    {
       "recommendScore": "220",
       "recommendCount": "445",
       "title": "[爆卦] 罷團公然幫黃國昌超渡",
@@ -201,6 +191,16 @@
       "author": "pdz",
       "board": "Gossiping",
       "publishTime": "2025/07/18 07:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-30",
+      "recommendCount": "445",
+      "title": "[新聞] 快訊／網傳確定不普發一萬　綠黨團否認：行政院尚未決定發不發",
+      "link": "/bbs/Gossiping/M.1752803799.A.3FD",
+      "author": "osalucard",
+      "board": "Gossiping",
+      "publishTime": "2025/07/18 01:56",
       "imageUrl": ""
     }
   ]
