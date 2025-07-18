@@ -1,8 +1,18 @@
 {
-  "updated": "2025-07-18T04:25:35.879Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2025-07-18T04:46:06.586Z",
+  "total_found": 19,
+  "returned_count": 19,
   "articles": [
+    {
+      "recommendScore": "-406",
+      "recommendCount": "1482",
+      "title": "[新聞] 快訊／卓榮泰決定「全民不普發1萬」",
+      "link": "/bbs/Gossiping/M.1752728544.A.3B8",
+      "author": "jim830724",
+      "board": "Gossiping",
+      "publishTime": "2025/07/17 05:02",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "617",
       "recommendCount": "1139",
@@ -14,18 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "629",
-      "recommendCount": "1420",
-      "title": "[爆卦] 兒虐致死加重刑期綠委全反對",
-      "link": "/bbs/Gossiping/M.1752808448.A.15C",
-      "author": "jojoway",
-      "board": "Gossiping",
-      "publishTime": "2025/07/18 03:14",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "525",
-      "recommendCount": "1158",
+      "recommendCount": "1160",
       "title": "[新聞] 柯文哲案開庭！威京法務自爆認罪行賄原因竟是檢察官諭知1事",
       "link": "/bbs/Gossiping/M.1752750623.A.CB1",
       "author": "chopper594",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "388",
-      "recommendCount": "706",
+      "recommendScore": "389",
+      "recommendCount": "707",
       "title": "[問卦] 過去一年政府做的最有感的事是什麼？",
       "link": "/bbs/Gossiping/M.1752758140.A.6A4",
       "author": "qazxc1156892",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "512",
-      "recommendCount": "803",
+      "recommendScore": "516",
+      "recommendCount": "811",
       "title": "[分享] Corbin Carroll 期待能夠加入WBC美國隊",
       "link": "/bbs/Baseball/M.1752798230.A.C75",
       "author": "thnlkj0665",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "266",
-      "recommendCount": "594",
+      "recommendScore": "267",
+      "recommendCount": "595",
       "title": "[新聞] 停電超過10天　台南深綠受災戶悲喊：眼瞎了才投民進黨",
       "link": "/bbs/Gossiping/M.1752756150.A.9B4",
       "author": "emperor",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "320",
-      "recommendCount": "631",
+      "recommendScore": "322",
+      "recommendCount": "633",
       "title": "[新聞] 罷免在即！蔣萬安面諫「一家人槍口不對內」 賴清德臉色鐵青",
       "link": "/bbs/Gossiping/M.1752745071.A.AFC",
       "author": "qa74aq47",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "330",
-      "recommendCount": "647",
+      "recommendScore": "331",
+      "recommendCount": "648",
       "title": "[新聞] 王義川又翻車！公報夾反罷文宣「時間軸」曝光　女鄰長1人扛鍋",
       "link": "/bbs/Gossiping/M.1752761488.A.F7A",
       "author": "bbbb25487",
@@ -135,7 +135,7 @@
     },
     {
       "recommendScore": "160",
-      "recommendCount": "541",
+      "recommendCount": "542",
       "title": "[新聞] 汽車工會痛訴憑什麼遭譏「阿斗」？ 30萬勞工恐失業無人關心 對政府失望",
       "link": "/bbs/Stock/M.1752735277.A.B96",
       "author": "keel90135",
@@ -165,7 +165,7 @@
     },
     {
       "recommendScore": "348",
-      "recommendCount": "496",
+      "recommendCount": "500",
       "title": "[情報] Damian Lillard回拓荒者",
       "link": "/bbs/NBA/M.1752787200.A.E15",
       "author": "shamus0309",
@@ -192,16 +192,6 @@
       "board": "HatePolitics",
       "publishTime": "2025/07/17 08:40",
       "imageUrl": "https://cache.pttweb.cc/imgur/AMwus0B/s/c65695b91a9042bd9e96d47cb34161d4"
-    },
-    {
-      "recommendScore": "217",
-      "recommendCount": "439",
-      "title": "[爆卦] 罷團公然幫黃國昌超渡",
-      "link": "/bbs/Gossiping/M.1752750260.A.3F1",
-      "author": "tty0102",
-      "board": "Gossiping",
-      "publishTime": "2025/07/17 11:04",
-      "imageUrl": ""
     }
   ]
 }
