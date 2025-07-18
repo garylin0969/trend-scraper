@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-18T06:08:16.823Z",
+  "updated": "2025-07-18T06:21:11.411Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "526",
-      "recommendCount": "1162",
+      "recommendCount": "1163",
       "title": "[新聞] 柯文哲案開庭！威京法務自爆認罪行賄原因竟是檢察官諭知1事",
       "link": "/bbs/Gossiping/M.1752750623.A.CB1",
       "author": "chopper594",
@@ -55,7 +55,7 @@
     },
     {
       "recommendScore": "268",
-      "recommendCount": "596",
+      "recommendCount": "598",
       "title": "[新聞] 停電超過10天　台南深綠受災戶悲喊：眼瞎了才投民進黨",
       "link": "/bbs/Gossiping/M.1752756150.A.9B4",
       "author": "emperor",
@@ -94,8 +94,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "303",
-      "recommendCount": "476",
+      "recommendScore": "334",
+      "recommendCount": "745",
+      "title": "[新聞] 美製進口車關稅可能降到０！經部堅持「不包括歐系車」台灣賓士怒了",
+      "link": "/bbs/Stock/M.1752807391.A.F0A",
+      "author": "keel90135",
+      "board": "Stock",
+      "publishTime": "2025/07/18 02:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "304",
+      "recommendCount": "477",
       "title": "Re: [新聞] 沈伯洋收恐嚇信「讓你女兒變第2個小燈泡」　粉絲擔憂：快報警",
       "link": "/bbs/Gossiping/M.1752740288.A.4D1",
       "author": "a9202507",
@@ -111,26 +121,6 @@
       "author": "keel90135",
       "board": "Stock",
       "publishTime": "2025/07/17 06:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "328",
-      "recommendCount": "728",
-      "title": "[新聞] 美製進口車關稅可能降到０！經部堅持「不包括歐系車」台灣賓士怒了",
-      "link": "/bbs/Stock/M.1752807391.A.F0A",
-      "author": "keel90135",
-      "board": "Stock",
-      "publishTime": "2025/07/18 02:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "266",
-      "recommendCount": "546",
-      "title": "Re: [新聞] 卓榮泰決定「全民不普發1萬」理由沒錢了",
-      "link": "/bbs/Gossiping/M.1752732884.A.748",
-      "author": "twwo",
-      "board": "Gossiping",
-      "publishTime": "2025/07/17 06:14",
       "imageUrl": ""
     },
     {
@@ -154,8 +144,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "236",
-      "recommendCount": "537",
+      "recommendScore": "180",
+      "recommendCount": "1101",
+      "title": "[討論] 民進黨擋「兒虐致死加重刑期」？？",
+      "link": "/bbs/HatePolitics/M.1752807318.A.A6A",
+      "author": "kmter5566",
+      "board": "HatePolitics",
+      "publishTime": "2025/07/18 02:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "237",
+      "recommendCount": "539",
       "title": "[新聞] 台鐵總經理不需具軌道背景？工會炸鍋！黃國昌嗆賴：用人唯才很難嗎",
       "link": "/bbs/Gossiping/M.1752799054.A.3C9",
       "author": "leocean9816",
@@ -184,16 +184,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/AMwus0B/s/c65695b91a9042bd9e96d47cb34161d4"
     },
     {
-      "recommendScore": "172",
-      "recommendCount": "1064",
-      "title": "[討論] 民進黨擋「兒虐致死加重刑期」？？",
-      "link": "/bbs/HatePolitics/M.1752807318.A.A6A",
-      "author": "kmter5566",
-      "board": "HatePolitics",
-      "publishTime": "2025/07/18 02:55",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "220",
       "recommendCount": "445",
       "title": "[爆卦] 罷團公然幫黃國昌超渡",
@@ -201,6 +191,16 @@
       "author": "tty0102",
       "board": "Gossiping",
       "publishTime": "2025/07/17 11:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "245",
+      "recommendCount": "521",
+      "title": "[新聞] 快訊／「剴剴條款」通過！虐殺7歲以下童可判死　邱議瑩二讀投同意",
+      "link": "/bbs/Gossiping/M.1752813847.A.A9C",
+      "author": "palajuice",
+      "board": "Gossiping",
+      "publishTime": "2025/07/18 04:44",
       "imageUrl": ""
     }
   ]
