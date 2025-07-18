@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-18T14:47:55.248Z",
+  "updated": "2025-07-18T14:56:21.182Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "500",
-      "recommendCount": "859",
+      "recommendScore": "502",
+      "recommendCount": "862",
       "title": "[新聞] 有片／出事了！新北4歲童誤轉消防栓　馬路「全是泡沫」大淹水",
       "link": "/bbs/Gossiping/M.1752824291.A.C0B",
       "author": "pdz",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "353",
-      "recommendCount": "756",
+      "recommendScore": "352",
+      "recommendCount": "760",
       "title": "[新聞] 大開眼界!「剴剴條款」45綠委二讀反對",
       "link": "/bbs/Gossiping/M.1752826567.A.1DC",
       "author": "googolplex",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-271",
-      "recommendCount": "641",
+      "recommendScore": "-274",
+      "recommendCount": "646",
       "title": "[新聞] 曹興誠「職棒打假球的比其他球員認真」",
       "link": "/bbs/Baseball/M.1752829622.A.937",
       "author": "remora",
@@ -184,6 +184,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ALrhLbk/s/78a3782630331b77e9fdab03e45dc579"
     },
     {
+      "recommendScore": "178",
+      "recommendCount": "434",
+      "title": "[新聞] 曹興誠「職棒打假球的比其他球員認真」",
+      "link": "/bbs/Gossiping/M.1752828742.A.CBE",
+      "author": "sihifu",
+      "board": "Gossiping",
+      "publishTime": "2025/07/18 08:52",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "245",
       "recommendCount": "484",
       "title": "[爆卦] 脆：虐童反對票的圖片是移花接木！造謠！",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/18 06:34",
       "imageUrl": "https://cache.pttweb.cc/imgur/CbaDJZq/s/4820f97fc5a4865cd76d79a2a4277c71"
-    },
-    {
-      "recommendScore": "177",
-      "recommendCount": "433",
-      "title": "[新聞] 曹興誠「職棒打假球的比其他球員認真」",
-      "link": "/bbs/Gossiping/M.1752828742.A.CBE",
-      "author": "sihifu",
-      "board": "Gossiping",
-      "publishTime": "2025/07/18 08:52",
-      "imageUrl": ""
     }
   ]
 }
