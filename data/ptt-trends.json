@@ -1,11 +1,11 @@
 {
-  "updated": "2025-07-18T10:56:50.579Z",
+  "updated": "2025-07-18T11:05:35.707Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "663",
-      "recommendCount": "1071",
+      "recommendScore": "703",
+      "recommendCount": "1131",
       "title": "[問卦] 政黑打臉：什麼都改成死刑 你真的ok？",
       "link": "/bbs/Gossiping/M.1752826951.A.213",
       "author": "Alyssa120",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "324",
-      "recommendCount": "939",
+      "recommendScore": "325",
+      "recommendCount": "947",
       "title": "[新聞] 立院三讀刑法「剴剴條款」投錯按下同意票　邱議瑩道歉了",
       "link": "/bbs/Gossiping/M.1752818184.A.2C7",
       "author": "LeeSeDol",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "418",
-      "recommendCount": "720",
+      "recommendScore": "423",
+      "recommendCount": "730",
       "title": "[新聞] 有片／出事了！新北4歲童誤轉消防栓　馬路「全是泡沫」大淹水",
       "link": "/bbs/Gossiping/M.1752824291.A.C0B",
       "author": "pdz",
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "268",
+      "recommendCount": "586",
+      "title": "[新聞] 大開眼界!「剴剴條款」45綠委二讀反對",
+      "link": "/bbs/Gossiping/M.1752826567.A.1DC",
+      "author": "googolplex",
+      "board": "Gossiping",
+      "publishTime": "2025/07/18 08:16",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-197",
       "recommendCount": "628",
       "title": "[新聞] 普發1萬論戰！卓榮泰：大家別再用「超徵」這2個字　徵收沒有超過的",
@@ -111,16 +121,6 @@
       "author": "palajuice",
       "board": "Gossiping",
       "publishTime": "2025/07/18 04:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "261",
-      "recommendCount": "566",
-      "title": "[新聞] 大開眼界!「剴剴條款」45綠委二讀反對",
-      "link": "/bbs/Gossiping/M.1752826567.A.1DC",
-      "author": "googolplex",
-      "board": "Gossiping",
-      "publishTime": "2025/07/18 08:16",
       "imageUrl": ""
     },
     {
@@ -145,7 +145,7 @@
     },
     {
       "recommendScore": "244",
-      "recommendCount": "557",
+      "recommendCount": "558",
       "title": "[新聞] 台鐵總經理不需具軌道背景？工會炸鍋！黃國昌嗆賴：用人唯才很難嗎",
       "link": "/bbs/Gossiping/M.1752799054.A.3C9",
       "author": "leocean9816",
@@ -155,7 +155,7 @@
     },
     {
       "recommendScore": "-134",
-      "recommendCount": "579",
+      "recommendCount": "581",
       "title": "[爆卦] 郭昱晴fb：我們擔心刑罰超出比例原則",
       "link": "/bbs/Gossiping/M.1752823090.A.D0C",
       "author": "tty0102",
@@ -164,18 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "220",
-      "recommendCount": "446",
-      "title": "[爆卦] 罷團公然幫黃國昌超渡",
-      "link": "/bbs/Gossiping/M.1752750260.A.3F1",
-      "author": "tty0102",
-      "board": "Gossiping",
-      "publishTime": "2025/07/17 11:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-195",
-      "recommendCount": "495",
+      "recommendScore": "-199",
+      "recommendCount": "509",
       "title": "[新聞] 民進黨：支持「虐殺兒童」最重處死刑、藍白別再刻意搬弄是非",
       "link": "/bbs/Gossiping/M.1752829231.A.4CF",
       "author": "CrazySept",
@@ -184,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "210",
-      "recommendCount": "528",
+      "recommendScore": "213",
+      "recommendCount": "534",
       "title": "[新聞] 剴剴條款通過！綠營舉牌「支持」二讀卻投反對　白營傻眼：精神錯亂",
       "link": "/bbs/Gossiping/M.1752819388.A.702",
       "author": "SEVENxELEVEN",
@@ -195,13 +185,23 @@
     },
     {
       "recommendScore": "35",
-      "recommendCount": "708",
+      "recommendCount": "711",
       "title": "[討論] 原來藍白法案最重都要搞成死刑",
       "link": "/bbs/HatePolitics/M.1752819266.A.4D7",
       "author": "DosTaLiCa",
       "board": "HatePolitics",
       "publishTime": "2025/07/18 06:14",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "755",
+      "recommendCount": "1405",
+      "title": "[電競] EWC 2025 電競世界盃 上訴 Day3",
+      "link": "/bbs/LoL/M.1752825819.A.576",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/07/18 08:03",
+      "imageUrl": "https://cache.pttweb.cc/imgur/7EPPUK7/s/2c1c5287e5b862aa3f9ae5a9c07114d4"
     }
   ]
 }
