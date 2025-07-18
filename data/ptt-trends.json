@@ -1,7 +1,7 @@
 {
-  "updated": "2025-07-18T04:46:06.586Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-07-18T05:01:01.538Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "-406",
@@ -75,7 +75,7 @@
     },
     {
       "recommendScore": "516",
-      "recommendCount": "811",
+      "recommendCount": "813",
       "title": "[分享] Corbin Carroll 期待能夠加入WBC美國隊",
       "link": "/bbs/Baseball/M.1752798230.A.C75",
       "author": "thnlkj0665",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "267",
-      "recommendCount": "595",
+      "recommendScore": "268",
+      "recommendCount": "596",
       "title": "[新聞] 停電超過10天　台南深綠受災戶悲喊：眼瞎了才投民進黨",
       "link": "/bbs/Gossiping/M.1752756150.A.9B4",
       "author": "emperor",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "322",
-      "recommendCount": "633",
+      "recommendScore": "323",
+      "recommendCount": "634",
       "title": "[新聞] 罷免在即！蔣萬安面諫「一家人槍口不對內」 賴清德臉色鐵青",
       "link": "/bbs/Gossiping/M.1752745071.A.AFC",
       "author": "qa74aq47",
@@ -192,6 +192,16 @@
       "board": "HatePolitics",
       "publishTime": "2025/07/17 08:40",
       "imageUrl": "https://cache.pttweb.cc/imgur/AMwus0B/s/c65695b91a9042bd9e96d47cb34161d4"
+    },
+    {
+      "recommendScore": "218",
+      "recommendCount": "441",
+      "title": "[爆卦] 罷團公然幫黃國昌超渡",
+      "link": "/bbs/Gossiping/M.1752750260.A.3F1",
+      "author": "tty0102",
+      "board": "Gossiping",
+      "publishTime": "2025/07/17 11:04",
+      "imageUrl": ""
     }
   ]
 }
