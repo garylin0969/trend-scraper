@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-18T21:17:46.484Z",
+  "updated": "2025-07-18T21:29:28.522Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "377",
-      "recommendCount": "814",
+      "recommendScore": "378",
+      "recommendCount": "816",
       "title": "[新聞] 大開眼界!「剴剴條款」45綠委二讀反對",
       "link": "/bbs/Gossiping/M.1752826567.A.1DC",
       "author": "googolplex",
@@ -64,8 +64,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/lfai7QV/s/ff3ed190a517d15d53788d7936993cd0"
     },
     {
-      "recommendScore": "-299",
-      "recommendCount": "698",
+      "recommendScore": "-300",
+      "recommendCount": "699",
       "title": "[新聞] 曹興誠「職棒打假球的比其他球員認真」",
       "link": "/bbs/Baseball/M.1752829622.A.937",
       "author": "remora",
@@ -111,16 +111,6 @@
       "author": "kmter5566",
       "board": "HatePolitics",
       "publishTime": "2025/07/18 02:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "361",
-      "recommendCount": "526",
-      "title": "[情報] Damian Lillard回拓荒者",
-      "link": "/bbs/NBA/M.1752787200.A.E15",
-      "author": "shamus0309",
-      "board": "NBA",
-      "publishTime": "2025/07/17 21:20",
       "imageUrl": ""
     },
     {
@@ -195,12 +185,22 @@
     },
     {
       "recommendScore": "186",
-      "recommendCount": "451",
+      "recommendCount": "452",
       "title": "[新聞] 曹興誠「職棒打假球的比其他球員認真」",
       "link": "/bbs/Gossiping/M.1752828742.A.CBE",
       "author": "sihifu",
       "board": "Gossiping",
       "publishTime": "2025/07/18 08:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "315",
+      "recommendCount": "365",
+      "title": "Re: [分享]小聯盟台灣血統球員 感謝erichsin大大!!",
+      "link": "/bbs/Baseball/M.1752827817.A.F7A",
+      "author": "jingel",
+      "board": "Baseball",
+      "publishTime": "2025/07/18 08:36",
       "imageUrl": ""
     }
   ]
