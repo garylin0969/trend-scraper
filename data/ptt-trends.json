@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-19T03:58:25.460Z",
+  "updated": "2025-07-19T04:15:50.780Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "524",
-      "recommendCount": "895",
+      "recommendScore": "526",
+      "recommendCount": "897",
       "title": "[新聞] 有片／出事了！新北4歲童誤轉消防栓　馬路「全是泡沫」大淹水",
       "link": "/bbs/Gossiping/M.1752824291.A.C0B",
       "author": "pdz",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "347",
-      "recommendCount": "896",
+      "recommendScore": "349",
+      "recommendCount": "899",
       "title": "[問卦] 八又翻！大罷免今晚現場圖！ 人山人海",
       "link": "/bbs/Gossiping/M.1752845887.A.763",
       "author": "chiafann",
@@ -44,8 +44,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/lfai7QV/s/ff3ed190a517d15d53788d7936993cd0"
     },
     {
-      "recommendScore": "-316",
-      "recommendCount": "730",
+      "recommendScore": "-318",
+      "recommendCount": "732",
       "title": "[新聞] 曹興誠「職棒打假球的比其他球員認真」",
       "link": "/bbs/Baseball/M.1752829622.A.937",
       "author": "remora",
@@ -74,14 +74,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "169",
-      "recommendCount": "639",
+      "recommendScore": "173",
+      "recommendCount": "658",
       "title": "[新聞] 台南災區屋頂重建缺工缺料 災民籲市府請台積電協助",
       "link": "/bbs/Gossiping/M.1752885106.A.DD0",
       "author": "lovea",
       "board": "Gossiping",
       "publishTime": "2025/07/19 00:31",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "334",
+      "recommendCount": "817",
+      "title": "[爆卦] ［爆卦］網熱議：法律白話文公然偽造憲法",
+      "link": "/bbs/Gossiping/M.1752860886.A.E2F",
+      "author": "seanfan",
+      "board": "Gossiping",
+      "publishTime": "2025/07/18 17:48",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Zfyfk4b/s/546fc9bf46c24ad295345b01cbe3be77"
     },
     {
       "recommendScore": "-142",
@@ -92,16 +102,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/18 07:18",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "327",
-      "recommendCount": "803",
-      "title": "[爆卦] ［爆卦］網熱議：法律白話文公然偽造憲法",
-      "link": "/bbs/Gossiping/M.1752860886.A.E2F",
-      "author": "seanfan",
-      "board": "Gossiping",
-      "publishTime": "2025/07/18 17:48",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Zfyfk4b/s/546fc9bf46c24ad295345b01cbe3be77"
     },
     {
       "recommendScore": "384",
@@ -174,18 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "262",
-      "recommendCount": "440",
-      "title": "[新聞] 黃仁勳：華為AI晶片取代輝達是時間問題",
-      "link": "/bbs/Stock/M.1752851735.A.4A3",
-      "author": "hvariables",
-      "board": "Stock",
-      "publishTime": "2025/07/18 15:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "256",
-      "recommendCount": "411",
+      "recommendScore": "264",
+      "recommendCount": "422",
       "title": "[新聞] 沉冤昭雪！日檢「不正訊問」遭法院打臉",
       "link": "/bbs/Gossiping/M.1752887970.A.BC7",
       "author": "tonyhsie",
@@ -194,14 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "246",
-      "recommendCount": "495",
-      "title": "[爆卦] 脆：虐童反對票的圖片是移花接木！造謠！",
-      "link": "/bbs/Gossiping/M.1752820465.A.0A2",
-      "author": "linda17a3",
+      "recommendScore": "164",
+      "recommendCount": "478",
+      "title": "[問卦] 南部幾千戶沒屋頂蓋帆布 你忍心不捐款嗎",
+      "link": "/bbs/Gossiping/M.1752890240.A.BD8",
+      "author": "norvasc",
       "board": "Gossiping",
-      "publishTime": "2025/07/18 06:34",
-      "imageUrl": "https://cache.pttweb.cc/imgur/CbaDJZq/s/4820f97fc5a4865cd76d79a2a4277c71"
+      "publishTime": "2025/07/19 01:57",
+      "imageUrl": "https://cache.pttweb.cc/imgur/cE15ola/s/99fe1cc46464aafa411d54e0e4fb30c2"
+    },
+    {
+      "recommendScore": "262",
+      "recommendCount": "440",
+      "title": "[新聞] 黃仁勳：華為AI晶片取代輝達是時間問題",
+      "link": "/bbs/Stock/M.1752851735.A.4A3",
+      "author": "hvariables",
+      "board": "Stock",
+      "publishTime": "2025/07/18 15:15",
+      "imageUrl": ""
     }
   ]
 }
