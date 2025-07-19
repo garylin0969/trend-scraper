@@ -1,11 +1,11 @@
 {
-  "updated": "2025-07-19T03:33:53.232Z",
+  "updated": "2025-07-19T03:58:25.460Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "344",
-      "recommendCount": "1000",
+      "recommendScore": "343",
+      "recommendCount": "1001",
       "title": "[新聞] 立院三讀刑法「剴剴條款」投錯按下同意票　邱議瑩道歉了",
       "link": "/bbs/Gossiping/M.1752818184.A.2C7",
       "author": "LeeSeDol",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "345",
-      "recommendCount": "893",
+      "recommendScore": "347",
+      "recommendCount": "896",
       "title": "[問卦] 八又翻！大罷免今晚現場圖！ 人山人海",
       "link": "/bbs/Gossiping/M.1752845887.A.763",
       "author": "chiafann",
@@ -44,8 +44,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/lfai7QV/s/ff3ed190a517d15d53788d7936993cd0"
     },
     {
-      "recommendScore": "-312",
-      "recommendCount": "724",
+      "recommendScore": "-316",
+      "recommendCount": "730",
       "title": "[新聞] 曹興誠「職棒打假球的比其他球員認真」",
       "link": "/bbs/Baseball/M.1752829622.A.937",
       "author": "remora",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "159",
-      "recommendCount": "610",
+      "recommendScore": "169",
+      "recommendCount": "639",
       "title": "[新聞] 台南災區屋頂重建缺工缺料 災民籲市府請台積電協助",
       "link": "/bbs/Gossiping/M.1752885106.A.DD0",
       "author": "lovea",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "322",
-      "recommendCount": "792",
+      "recommendScore": "327",
+      "recommendCount": "803",
       "title": "[爆卦] ［爆卦］網熱議：法律白話文公然偽造憲法",
       "link": "/bbs/Gossiping/M.1752860886.A.E2F",
       "author": "seanfan",
@@ -174,13 +174,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "257",
-      "recommendCount": "433",
+      "recommendScore": "262",
+      "recommendCount": "440",
       "title": "[新聞] 黃仁勳：華為AI晶片取代輝達是時間問題",
       "link": "/bbs/Stock/M.1752851735.A.4A3",
       "author": "hvariables",
       "board": "Stock",
       "publishTime": "2025/07/18 15:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "256",
+      "recommendCount": "411",
+      "title": "[新聞] 沉冤昭雪！日檢「不正訊問」遭法院打臉",
+      "link": "/bbs/Gossiping/M.1752887970.A.BC7",
+      "author": "tonyhsie",
+      "board": "Gossiping",
+      "publishTime": "2025/07/19 01:19",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/18 06:34",
       "imageUrl": "https://cache.pttweb.cc/imgur/CbaDJZq/s/4820f97fc5a4865cd76d79a2a4277c71"
-    },
-    {
-      "recommendScore": "214",
-      "recommendCount": "404",
-      "title": "[新聞] 太可惡！台南災民修屋頂爆詐騙 被騙19萬",
-      "link": "/bbs/Gossiping/M.1752864574.A.4DB",
-      "author": "BMTH5566",
-      "board": "Gossiping",
-      "publishTime": "2025/07/18 18:49",
-      "imageUrl": ""
     }
   ]
 }
