@@ -1,14 +1,22 @@
 {
-  "updated": "2025-07-20T03:49:40.973Z",
+  "updated": "2025-07-20T04:31:05.355Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-07-20T03:49:31.000Z",
+    "lastBuildDate": "2025-07-20T04:30:57.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "Coldplay 音樂會「出軌門」視頻瘋傳 當事人科技公司CEO已辭職",
+      "description": "該公司表示，其CEO沒有達到預期的行為和問責標準。",
+      "link": "https://www.bbc.com/zhongwen/articles/clyl499zylwo/trad",
+      "pubDate": "2025-07-20T04:23:06.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/clyl499zylwo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/54eb/live/d578c260-64d8-11f0-89ea-4d6f9851f623.jpg"
+    },
     {
       "title": "台灣「大罷免」分析：投票率、仇恨值與民眾黨選民將如何左右勝負？",
       "description": "台灣即將舉行首次全國性「罷免」投票，決定24名在野黨國民黨立委和新竹市長高虹安的去留。國民黨立委若被罷免超過六席，可能改變立法院當前「朝小野大」政治格局，使民進黨再次「完全執政」。",
@@ -32,14 +40,6 @@
       "pubDate": "2025-07-18T08:45:38.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cdxl7w63p1po/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8886/live/95375dc0-63a6-11f0-89ea-4d6f9851f623.jpg"
-    },
-    {
-      "title": "阿富汗資料外洩事件：英國間諜與特種空勤團成員身份遭揭露",
-      "description": "間諜與士兵的個人資料被包含在一項資料外洩事件中，該事件同時揭露了19,000名阿富汗人的姓名。",
-      "link": "https://www.bbc.com/zhongwen/articles/ce8z503e557o/trad",
-      "pubDate": "2025-07-18T05:19:01.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce8z503e557o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2270/live/52db1f70-6324-11f0-bd40-3b148bc1feb0.jpg"
     },
     {
       "title": "「子宮內即被預訂」嬰兒以500英鎊的價格出售：印尼警方破獲嬰兒販賣集團",
@@ -82,20 +82,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d39/live/6cca2ab0-62d5-11f0-905b-155cdf20da10.jpg"
     },
     {
+      "title": "阿富汗資料外洩事件：英國間諜與特種空勤團成員身份遭揭露",
+      "description": "間諜與士兵的個人資料被包含在一項資料外洩事件中，該事件同時揭露了19,000名阿富汗人的姓名。",
+      "link": "https://www.bbc.com/zhongwen/articles/ce8z503e557o/trad",
+      "pubDate": "2025-07-18T05:19:01.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce8z503e557o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2270/live/52db1f70-6324-11f0-bd40-3b148bc1feb0.jpg"
+    },
+    {
       "title": "印度空難後中國「東航慘案」被重提，「可能危及國安」會將真相塵封嗎？",
       "description": "當世界在關心另一起大規模空難之際，三年前發生的中國東方航空MU5735空難傳出了調查進展因維護國安因素而被保密的消息。",
       "link": "https://www.bbc.com/zhongwen/articles/c1lj2ynp20vo/trad",
       "pubDate": "2025-07-17T00:15:56.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c1lj2ynp20vo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/80da/live/f7dff9b0-6189-11f0-b5c5-012c5796682d.jpg"
-    },
-    {
-      "title": "特朗普說「就是更好喝」：美國總統稱可口可樂要「換糖」",
-      "description": "可口可樂公司回應特朗普的言論稱「感謝關心」，但未證實是否要更改汽水配方。",
-      "link": "https://www.bbc.com/zhongwen/articles/cq531n0l038o/trad",
-      "pubDate": "2025-07-17T07:18:42.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cq531n0l038o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0edd/live/e9462cd0-6288-11f0-83d2-4f671b8c1523.jpg"
     },
     {
       "title": "台灣「大罷免」事件始末、政黨表態及投票流程等一次看",
