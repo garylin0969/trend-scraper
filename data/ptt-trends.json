@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-20T13:21:53.955Z",
+  "updated": "2025-07-20T13:41:38.680Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,16 +14,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "363",
-      "recommendCount": "918",
-      "title": "Re: [問卦] 青島集會再現島嶼天光開場 民眾感動落淚",
-      "link": "/bbs/Gossiping/M.1752931942.A.3D0",
-      "author": "YAYA6655",
-      "board": "Gossiping",
-      "publishTime": "2025/07/19 13:32",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "317",
       "recommendCount": "1224",
       "title": "Re: [問卦] 真的很氣罷免活動，正常嗎？",
@@ -34,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "452",
-      "recommendCount": "535",
+      "recommendScore": "453",
+      "recommendCount": "536",
       "title": "[炸裂] 郭泓志",
       "link": "/bbs/Baseball/M.1752994146.A.743",
       "author": "suchungzen52",
@@ -44,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "280",
-      "recommendCount": "619",
+      "recommendScore": "289",
+      "recommendCount": "646",
       "title": "[問卦] 為何沒人要救南部人？",
       "link": "/bbs/Gossiping/M.1753004674.A.84C",
       "author": "leondemon",
@@ -54,13 +44,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "241",
-      "recommendCount": "615",
+      "recommendScore": "242",
+      "recommendCount": "617",
       "title": "[問卦] 為什麼罷團女性比例這麼高？",
       "link": "/bbs/Gossiping/M.1752973257.A.471",
       "author": "Ryan1994",
       "board": "Gossiping",
       "publishTime": "2025/07/20 01:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "177",
+      "recommendCount": "624",
+      "title": "[新聞] 民進黨譴責林國成爆粗辱總統 要求道歉並保留法律追訴權",
+      "link": "/bbs/Gossiping/M.1753014085.A.53F",
+      "author": "linda17a3",
+      "board": "Gossiping",
+      "publishTime": "2025/07/20 12:21",
       "imageUrl": ""
     },
     {
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "370",
-      "recommendCount": "767",
+      "recommendScore": "375",
+      "recommendCount": "777",
       "title": "[新聞] 明星球員就該認真打！洪總直言「明星賽需回歸棒球本質」",
       "link": "/bbs/Baseball/M.1753005512.A.157",
       "author": "leftavoid",
@@ -104,8 +104,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/y6g9z11/s/c5f7300cdda98075d2cda50689a08177"
     },
     {
-      "recommendScore": "251",
-      "recommendCount": "564",
+      "recommendScore": "252",
+      "recommendCount": "565",
       "title": "[問卦] 這樣的無聊生活讓一堆人羨慕死?",
       "link": "/bbs/Gossiping/M.1752969792.A.4A6",
       "author": "Qunnine",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-244",
-      "recommendCount": "475",
+      "recommendScore": "-248",
+      "recommendCount": "479",
       "title": "[新聞] 「打假球比正規認真」惹怒棒球迷曹興誠貧",
       "link": "/bbs/Baseball/M.1752997639.A.688",
       "author": "remora",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "193",
-      "recommendCount": "438",
+      "recommendScore": "194",
+      "recommendCount": "439",
       "title": "[新聞] 災區像孤島！颱風後14天還斷訊 綠委不忍了：政府在哪？",
       "link": "/bbs/Gossiping/M.1752984701.A.526",
       "author": "ytkuang",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "377",
-      "recommendCount": "819",
+      "recommendScore": "380",
+      "recommendCount": "829",
       "title": "[情報] Kuminga陣營想要30M+ 並且不想回勇士",
       "link": "/bbs/NBA/M.1752967707.A.878",
       "author": "OsmanGo",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "301",
-      "recommendCount": "618",
+      "recommendScore": "302",
+      "recommendCount": "620",
       "title": "Re: [新聞] 「綠色恐怖愈來愈濃」馬英九問賴清德：我做得到兩岸和平 為何你不行",
       "link": "/bbs/Gossiping/M.1752980211.A.372",
       "author": "zzzzzzzzzzzy",
@@ -154,24 +154,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "373",
+      "recommendScore": "243",
+      "recommendCount": "374",
       "title": "[問卦] 中國麥當勞女生制服也太色!點餐勃起怎辦",
       "link": "/bbs/Gossiping/M.1752982955.A.7D6",
       "author": "tose4433",
       "board": "Gossiping",
       "publishTime": "2025/07/20 03:42",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "761",
-      "recommendCount": "1393",
-      "title": "[電競] EWC 2025 電競世界盃 第三名賽＋冠軍賽",
-      "link": "/bbs/LoL/M.1752990836.A.596",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/07/20 05:53",
-      "imageUrl": "https://cache.pttweb.cc/imgur/BS1sbW1/s/9141055e222b1afca46ba0eee468785c"
     },
     {
       "recommendScore": "97",
@@ -181,6 +171,16 @@
       "author": "Wojnarowski",
       "board": "NBA",
       "publishTime": "2025/07/19 15:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "166",
+      "recommendCount": "376",
+      "title": "[問卦] 大罷免演講：「罷免就是救災」 如何反駁",
+      "link": "/bbs/Gossiping/M.1752995660.A.E07",
+      "author": "Tsuzichen",
+      "board": "Gossiping",
+      "publishTime": "2025/07/20 07:14",
       "imageUrl": ""
     },
     {
@@ -194,14 +194,14 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/QCaKkUi/s/1440bb26804119ccd2883c8ec59ed6c3"
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "373",
-      "title": "[問卦] 大罷免演講：「罷免就是救災」 如何反駁",
-      "link": "/bbs/Gossiping/M.1752995660.A.E07",
-      "author": "Tsuzichen",
-      "board": "Gossiping",
-      "publishTime": "2025/07/20 07:14",
-      "imageUrl": ""
+      "recommendScore": "702",
+      "recommendCount": "1393",
+      "title": "[電競] EWC 2025 電競世界盃 第三名賽＋冠軍賽",
+      "link": "/bbs/LoL/M.1752990836.A.596",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/07/20 05:53",
+      "imageUrl": "https://cache.pttweb.cc/imgur/BS1sbW1/s/9141055e222b1afca46ba0eee468785c"
     }
   ]
 }
