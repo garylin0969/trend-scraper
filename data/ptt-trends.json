@@ -1,16 +1,26 @@
 {
-  "updated": "2025-07-20T14:07:09.271Z",
+  "updated": "2025-07-20T14:17:57.892Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "394",
-      "recommendCount": "715",
+      "recommendScore": "395",
+      "recommendCount": "717",
       "title": "[新聞] 陳亭妃批通訊癱瘓「零分」災區訊號不穩救災像作戰如何自處？",
       "link": "/bbs/Gossiping/M.1752981296.A.5B5",
       "author": "lycppt",
       "board": "Gossiping",
       "publishTime": "2025/07/20 03:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "232",
+      "recommendCount": "785",
+      "title": "[新聞] 民進黨譴責林國成爆粗辱總統 要求道歉並保留法律追訴權",
+      "link": "/bbs/Gossiping/M.1753014085.A.53F",
+      "author": "linda17a3",
+      "board": "Gossiping",
+      "publishTime": "2025/07/20 12:21",
       "imageUrl": ""
     },
     {
@@ -24,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "455",
-      "recommendCount": "538",
+      "recommendScore": "457",
+      "recommendCount": "540",
       "title": "[炸裂] 郭泓志",
       "link": "/bbs/Baseball/M.1752994146.A.743",
       "author": "suchungzen52",
@@ -34,18 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "213",
-      "recommendCount": "724",
-      "title": "[新聞] 民進黨譴責林國成爆粗辱總統 要求道歉並保留法律追訴權",
-      "link": "/bbs/Gossiping/M.1753014085.A.53F",
-      "author": "linda17a3",
-      "board": "Gossiping",
-      "publishTime": "2025/07/20 12:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "299",
-      "recommendCount": "669",
+      "recommendScore": "301",
+      "recommendCount": "673",
       "title": "[問卦] 為何沒人要救南部人？",
       "link": "/bbs/Gossiping/M.1753004674.A.84C",
       "author": "leondemon",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "383",
-      "recommendCount": "788",
+      "recommendScore": "385",
+      "recommendCount": "793",
       "title": "[新聞] 明星球員就該認真打！洪總直言「明星賽需回歸棒球本質」",
       "link": "/bbs/Baseball/M.1753005512.A.157",
       "author": "leftavoid",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "253",
-      "recommendCount": "567",
+      "recommendScore": "254",
+      "recommendCount": "568",
       "title": "[問卦] 這樣的無聊生活讓一堆人羨慕死?",
       "link": "/bbs/Gossiping/M.1752969792.A.4A6",
       "author": "Qunnine",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "225",
-      "recommendCount": "489",
+      "recommendScore": "226",
+      "recommendCount": "490",
       "title": "[新聞] 颱風後14天仍斷訊「台南災區像孤島」",
       "link": "/bbs/Gossiping/M.1752988454.A.0CB",
       "author": "qweerrt123",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "380",
-      "recommendCount": "829",
+      "recommendScore": "381",
+      "recommendCount": "831",
       "title": "[情報] Kuminga陣營想要30M+ 並且不想回勇士",
       "link": "/bbs/NBA/M.1752967707.A.878",
       "author": "OsmanGo",
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "764",
-      "recommendCount": "1393",
-      "title": "[電競] EWC 2025 電競世界盃 第三名賽＋冠軍賽",
-      "link": "/bbs/LoL/M.1752990836.A.596",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/07/20 05:53",
-      "imageUrl": "https://cache.pttweb.cc/imgur/BS1sbW1/s/9141055e222b1afca46ba0eee468785c"
-    },
-    {
       "recommendScore": "244",
       "recommendCount": "375",
       "title": "[問卦] 中國麥當勞女生制服也太色!點餐勃起怎辦",
@@ -162,6 +152,16 @@
       "board": "Gossiping",
       "publishTime": "2025/07/20 03:42",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "745",
+      "recommendCount": "1393",
+      "title": "[電競] EWC 2025 電競世界盃 第三名賽＋冠軍賽",
+      "link": "/bbs/LoL/M.1752990836.A.596",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/07/20 05:53",
+      "imageUrl": "https://cache.pttweb.cc/imgur/BS1sbW1/s/9141055e222b1afca46ba0eee468785c"
     },
     {
       "recommendScore": "168",
@@ -194,13 +194,13 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/QCaKkUi/s/1440bb26804119ccd2883c8ec59ed6c3"
     },
     {
-      "recommendScore": "256",
-      "recommendCount": "360",
-      "title": "[新聞] 「魔鷹週二就想出賽」洪總尊重但絕不勉強他",
-      "link": "/bbs/Baseball/M.1752993410.A.1C4",
-      "author": "polanco",
-      "board": "Baseball",
-      "publishTime": "2025/07/20 06:36",
+      "recommendScore": "159",
+      "recommendCount": "540",
+      "title": "[新聞] 館長陳之漢喊「我們都是中國人」：幹嘛當美國人的狗？",
+      "link": "/bbs/Gossiping/M.1752998494.A.197",
+      "author": "playla",
+      "board": "Gossiping",
+      "publishTime": "2025/07/20 08:01",
       "imageUrl": ""
     }
   ]
