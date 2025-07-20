@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-20T15:30:14.501Z",
+  "updated": "2025-07-20T15:39:23.295Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "326",
-      "recommendCount": "714",
+      "recommendScore": "328",
+      "recommendCount": "717",
       "title": "[問卦] 為何沒人要救南部人？",
       "link": "/bbs/Gossiping/M.1753004674.A.84C",
       "author": "leondemon",
@@ -114,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "670",
-      "recommendCount": "1392",
-      "title": "[電競] EWC 2025 電競世界盃 第三名賽＋冠軍賽",
-      "link": "/bbs/LoL/M.1752990836.A.596",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/07/20 05:53",
-      "imageUrl": "https://cache.pttweb.cc/imgur/BS1sbW1/s/9141055e222b1afca46ba0eee468785c"
-    },
-    {
       "recommendScore": "196",
       "recommendCount": "442",
       "title": "[新聞] 災區像孤島！颱風後14天還斷訊 綠委不忍了：政府在哪？",
@@ -145,7 +135,7 @@
     },
     {
       "recommendScore": "307",
-      "recommendCount": "627",
+      "recommendCount": "628",
       "title": "Re: [新聞] 「綠色恐怖愈來愈濃」馬英九問賴清德：我做得到兩岸和平 為何你不行",
       "link": "/bbs/Gossiping/M.1752980211.A.372",
       "author": "zzzzzzzzzzzy",
@@ -162,6 +152,16 @@
       "board": "Gossiping",
       "publishTime": "2025/07/20 03:42",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "659",
+      "recommendCount": "1392",
+      "title": "[電競] EWC 2025 電競世界盃 第三名賽＋冠軍賽",
+      "link": "/bbs/LoL/M.1752990836.A.596",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/07/20 05:53",
+      "imageUrl": "https://cache.pttweb.cc/imgur/BS1sbW1/s/9141055e222b1afca46ba0eee468785c"
     },
     {
       "recommendScore": "169",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "159",
+      "recommendCount": "549",
+      "title": "[新聞] 館長陳之漢喊「我們都是中國人」：幹嘛當美國人的狗？",
+      "link": "/bbs/Gossiping/M.1752998494.A.197",
+      "author": "playla",
+      "board": "Gossiping",
+      "publishTime": "2025/07/20 08:01",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "98",
       "recommendCount": "456",
       "title": "[情報] LBJ想獲盛大巡迴告別致敬，而非悄然退役",
@@ -191,16 +201,6 @@
       "author": "Wojnarowski",
       "board": "NBA",
       "publishTime": "2025/07/19 15:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "159",
-      "recommendCount": "548",
-      "title": "[新聞] 館長陳之漢喊「我們都是中國人」：幹嘛當美國人的狗？",
-      "link": "/bbs/Gossiping/M.1752998494.A.197",
-      "author": "playla",
-      "board": "Gossiping",
-      "publishTime": "2025/07/20 08:01",
       "imageUrl": ""
     }
   ]
