@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-20T23:18:35.852Z",
+  "updated": "2025-07-20T23:30:16.934Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,6 +14,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "499",
+      "recommendCount": "813",
+      "title": "Re: [新聞] 獨家》誰授意？小草衝民進黨中央黨部扔雞蛋抗議",
+      "link": "/bbs/Gossiping/M.1753019382.A.53F",
+      "author": "zhanguihan",
+      "board": "Gossiping",
+      "publishTime": "2025/07/20 13:49",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "396",
       "recommendCount": "721",
       "title": "[新聞] 陳亭妃批通訊癱瘓「零分」災區訊號不穩救災像作戰如何自處？",
@@ -24,18 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "494",
-      "recommendCount": "805",
-      "title": "Re: [新聞] 獨家》誰授意？小草衝民進黨中央黨部扔雞蛋抗議",
-      "link": "/bbs/Gossiping/M.1753019382.A.53F",
-      "author": "zhanguihan",
-      "board": "Gossiping",
-      "publishTime": "2025/07/20 13:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "341",
-      "recommendCount": "745",
+      "recommendScore": "342",
+      "recommendCount": "746",
       "title": "[問卦] 為何沒人要救南部人？",
       "link": "/bbs/Gossiping/M.1753004674.A.84C",
       "author": "leondemon",
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "34",
+      "recommendCount": "639",
+      "title": "[新聞] 快新聞／最新！開企業界第一槍　前全聯總裁徐重仁表態挺大罷免",
+      "link": "/bbs/Gossiping/M.1753027631.A.3ED",
+      "author": "johnny9667",
+      "board": "Gossiping",
+      "publishTime": "2025/07/20 16:07",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "278",
       "recommendCount": "562",
       "title": "[問卦] 真的大失敗了的話，然後？",
@@ -81,16 +91,6 @@
       "author": "Demonic1013",
       "board": "Gossiping",
       "publishTime": "2025/07/20 03:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "34",
-      "recommendCount": "619",
-      "title": "[新聞] 快新聞／最新！開企業界第一槍　前全聯總裁徐重仁表態挺大罷免",
-      "link": "/bbs/Gossiping/M.1753027631.A.3ED",
-      "author": "johnny9667",
-      "board": "Gossiping",
-      "publishTime": "2025/07/20 16:07",
       "imageUrl": ""
     },
     {
@@ -124,16 +124,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/y6g9z11/s/c5f7300cdda98075d2cda50689a08177"
     },
     {
-      "recommendScore": "392",
-      "recommendCount": "859",
-      "title": "[情報] Kuminga陣營想要30M+ 並且不想回勇士",
-      "link": "/bbs/NBA/M.1752967707.A.878",
-      "author": "OsmanGo",
-      "board": "NBA",
-      "publishTime": "2025/07/19 23:28",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "196",
       "recommendCount": "442",
       "title": "[新聞] 災區像孤島！颱風後14天還斷訊 綠委不忍了：政府在哪？",
@@ -154,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "277",
-      "recommendCount": "713",
+      "recommendScore": "278",
+      "recommendCount": "714",
       "title": "[新聞] 機械車位突動！父抱兒墜落 一歲寶寶遭夾不治",
       "link": "/bbs/Gossiping/M.1753016360.A.478",
       "author": "herewego",
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "162",
-      "recommendCount": "571",
+      "recommendScore": "163",
+      "recommendCount": "572",
       "title": "[新聞] 館長陳之漢喊「我們都是中國人」：幹嘛當美國人的狗？",
       "link": "/bbs/Gossiping/M.1752998494.A.197",
       "author": "playla",
       "board": "Gossiping",
       "publishTime": "2025/07/20 08:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "232",
+      "recommendCount": "501",
+      "title": "[花邊] WNBA明星賽球員穿「付我們應得的薪水」",
+      "link": "/bbs/NBA/M.1753003974.A.D02",
+      "author": "Kazmier",
+      "board": "NBA",
+      "publishTime": "2025/07/20 09:32",
       "imageUrl": ""
     }
   ]
