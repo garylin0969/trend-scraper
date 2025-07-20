@@ -1,11 +1,11 @@
 {
-  "updated": "2025-07-20T14:55:08.096Z",
+  "updated": "2025-07-20T15:05:23.800Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "296",
-      "recommendCount": "956",
+      "recommendScore": "302",
+      "recommendCount": "980",
       "title": "[新聞] 民進黨譴責林國成爆粗辱總統 要求道歉並保留法律追訴權",
       "link": "/bbs/Gossiping/M.1753014085.A.53F",
       "author": "linda17a3",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "311",
-      "recommendCount": "689",
+      "recommendScore": "318",
+      "recommendCount": "700",
       "title": "[問卦] 為何沒人要救南部人？",
       "link": "/bbs/Gossiping/M.1753004674.A.84C",
       "author": "leondemon",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "392",
-      "recommendCount": "803",
+      "recommendScore": "396",
+      "recommendCount": "809",
       "title": "[新聞] 明星球員就該認真打！洪總直言「明星賽需回歸棒球本質」",
       "link": "/bbs/Baseball/M.1753005512.A.157",
       "author": "leftavoid",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "274",
-      "recommendCount": "556",
+      "recommendScore": "275",
+      "recommendCount": "558",
       "title": "[問卦] 真的大失敗了的話，然後？",
       "link": "/bbs/Gossiping/M.1752983346.A.22E",
       "author": "Demonic1013",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "195",
-      "recommendCount": "441",
+      "recommendScore": "196",
+      "recommendCount": "442",
       "title": "[新聞] 災區像孤島！颱風後14天還斷訊 綠委不忍了：政府在哪？",
       "link": "/bbs/Gossiping/M.1752984701.A.526",
       "author": "ytkuang",
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "714",
+      "recommendCount": "1393",
+      "title": "[電競] EWC 2025 電競世界盃 第三名賽＋冠軍賽",
+      "link": "/bbs/LoL/M.1752990836.A.596",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/07/20 05:53",
+      "imageUrl": "https://cache.pttweb.cc/imgur/BS1sbW1/s/9141055e222b1afca46ba0eee468785c"
+    },
+    {
       "recommendScore": "244",
       "recommendCount": "375",
       "title": "[問卦] 中國麥當勞女生制服也太色!點餐勃起怎辦",
@@ -154,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "168",
-      "recommendCount": "380",
+      "recommendScore": "169",
+      "recommendCount": "381",
       "title": "[問卦] 大罷免演講：「罷免就是救災」 如何反駁",
       "link": "/bbs/Gossiping/M.1752995660.A.E07",
       "author": "Tsuzichen",
@@ -174,18 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "653",
-      "title": "[新聞] 影／吃飯聊政治被隔壁桌打！往後腦勺猛",
-      "link": "/bbs/HatePolitics/M.1752975476.A.9F4",
-      "author": "meredith001",
-      "board": "HatePolitics",
-      "publishTime": "2025/07/20 01:37",
-      "imageUrl": "https://cache.pttweb.cc/imgur/QCaKkUi/s/1440bb26804119ccd2883c8ec59ed6c3"
-    },
-    {
-      "recommendScore": "156",
-      "recommendCount": "544",
+      "recommendScore": "157",
+      "recommendCount": "545",
       "title": "[新聞] 館長陳之漢喊「我們都是中國人」：幹嘛當美國人的狗？",
       "link": "/bbs/Gossiping/M.1752998494.A.197",
       "author": "playla",
@@ -194,14 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "755",
-      "recommendCount": "1393",
-      "title": "[電競] EWC 2025 電競世界盃 第三名賽＋冠軍賽",
-      "link": "/bbs/LoL/M.1752990836.A.596",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/07/20 05:53",
-      "imageUrl": "https://cache.pttweb.cc/imgur/BS1sbW1/s/9141055e222b1afca46ba0eee468785c"
+      "recommendScore": "207",
+      "recommendCount": "653",
+      "title": "[新聞] 影／吃飯聊政治被隔壁桌打！往後腦勺猛",
+      "link": "/bbs/HatePolitics/M.1752975476.A.9F4",
+      "author": "meredith001",
+      "board": "HatePolitics",
+      "publishTime": "2025/07/20 01:37",
+      "imageUrl": "https://cache.pttweb.cc/imgur/QCaKkUi/s/1440bb26804119ccd2883c8ec59ed6c3"
     }
   ]
 }
