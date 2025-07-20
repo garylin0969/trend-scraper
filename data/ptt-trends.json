@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-20T10:32:14.574Z",
+  "updated": "2025-07-20T10:47:24.847Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,16 +34,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "292",
-      "recommendCount": "642",
-      "title": "[問卦] 台南災民怒了：屋頂被掀掉 結果颱風又來",
-      "link": "/bbs/Gossiping/M.1752921286.A.8F8",
-      "author": "Gina4290",
-      "board": "Gossiping",
-      "publishTime": "2025/07/19 10:34",
-      "imageUrl": "https://cache.pttweb.cc/imgur/7MxDc5H/s/55774a14b39026a1ce9b57a891b66be5"
-    },
-    {
       "recommendScore": "316",
       "recommendCount": "1211",
       "title": "Re: [問卦] 真的很氣罷免活動，正常嗎？",
@@ -54,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "436",
-      "recommendCount": "513",
+      "recommendScore": "442",
+      "recommendCount": "520",
       "title": "[炸裂] 郭泓志",
       "link": "/bbs/Baseball/M.1752994146.A.743",
       "author": "suchungzen52",
@@ -65,7 +55,7 @@
     },
     {
       "recommendScore": "272",
-      "recommendCount": "550",
+      "recommendCount": "551",
       "title": "[問卦] 真的大失敗了的話，然後？",
       "link": "/bbs/Gossiping/M.1752983346.A.22E",
       "author": "Demonic1013",
@@ -104,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "210",
-      "recommendCount": "466",
+      "recommendScore": "212",
+      "recommendCount": "469",
       "title": "[新聞] 颱風後14天仍斷訊「台南災區像孤島」",
       "link": "/bbs/Gossiping/M.1752988454.A.0CB",
       "author": "qweerrt123",
@@ -114,8 +104,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/y6g9z11/s/c5f7300cdda98075d2cda50689a08177"
     },
     {
-      "recommendScore": "190",
-      "recommendCount": "433",
+      "recommendScore": "191",
+      "recommendCount": "436",
       "title": "[新聞] 災區像孤島！颱風後14天還斷訊 綠委不忍了：政府在哪？",
       "link": "/bbs/Gossiping/M.1752984701.A.526",
       "author": "ytkuang",
@@ -135,7 +125,7 @@
     },
     {
       "recommendScore": "-228",
-      "recommendCount": "441",
+      "recommendCount": "445",
       "title": "[新聞] 「打假球比正規認真」惹怒棒球迷曹興誠貧",
       "link": "/bbs/Baseball/M.1752997639.A.688",
       "author": "remora",
@@ -144,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "285",
-      "recommendCount": "576",
+      "recommendScore": "287",
+      "recommendCount": "578",
       "title": "Re: [新聞] 「綠色恐怖愈來愈濃」馬英九問賴清德：我做得到兩岸和平 為何你不行",
       "link": "/bbs/Gossiping/M.1752980211.A.372",
       "author": "zzzzzzzzzzzy",
@@ -155,13 +145,23 @@
     },
     {
       "recommendScore": "221",
-      "recommendCount": "335",
+      "recommendCount": "339",
       "title": "[問卦] 中國麥當勞女生制服也太色!點餐勃起怎辦",
       "link": "/bbs/Gossiping/M.1752982955.A.7D6",
       "author": "tose4433",
       "board": "Gossiping",
       "publishTime": "2025/07/20 03:42",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "768",
+      "recommendCount": "1393",
+      "title": "[電競] EWC 2025 電競世界盃 第三名賽＋冠軍賽",
+      "link": "/bbs/LoL/M.1752990836.A.596",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/07/20 05:53",
+      "imageUrl": "https://cache.pttweb.cc/imgur/BS1sbW1/s/9141055e222b1afca46ba0eee468785c"
     },
     {
       "recommendScore": "206",
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "767",
-      "recommendCount": "1393",
-      "title": "[電競] EWC 2025 電競世界盃 第三名賽＋冠軍賽",
-      "link": "/bbs/LoL/M.1752990836.A.596",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/07/20 05:53",
-      "imageUrl": "https://cache.pttweb.cc/imgur/BS1sbW1/s/9141055e222b1afca46ba0eee468785c"
-    },
-    {
       "recommendScore": "-3",
       "recommendCount": "345",
       "title": "[新聞] 大罷免倒數！苗博雅：不要讓民主變成「民選的王」",
@@ -201,6 +191,16 @@
       "author": "HANASUCIA",
       "board": "Gossiping",
       "publishTime": "2025/07/19 12:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "250",
+      "recommendCount": "348",
+      "title": "[新聞] 「魔鷹週二就想出賽」洪總尊重但絕不勉強他",
+      "link": "/bbs/Baseball/M.1752993410.A.1C4",
+      "author": "polanco",
+      "board": "Baseball",
+      "publishTime": "2025/07/20 06:36",
       "imageUrl": ""
     }
   ]
