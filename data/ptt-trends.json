@@ -1,7 +1,7 @@
 {
-  "updated": "2025-07-21T20:46:53.410Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-07-21T20:55:05.208Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "282",
@@ -191,6 +191,16 @@
       "author": "ptt987654321",
       "board": "Gossiping",
       "publishTime": "2025/07/21 08:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "234",
+      "recommendCount": "605",
+      "title": "[新聞] 快訊／柯文哲、應曉薇再延押2月！沈慶京要「全現金1億」才可交保",
+      "link": "/bbs/HatePolitics/M.1753092482.A.985",
+      "author": "Arthurseed",
+      "board": "HatePolitics",
+      "publishTime": "2025/07/21 10:08",
       "imageUrl": ""
     }
   ]
