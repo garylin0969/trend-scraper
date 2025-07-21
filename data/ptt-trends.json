@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-21T23:39:09.444Z",
+  "updated": "2025-07-21T23:47:36.749Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "365",
+      "recommendCount": "890",
+      "title": "[問卦] 為何一堆臉書插畫家都是側翼阿?",
+      "link": "/bbs/Gossiping/M.1753103384.A.5DB",
+      "author": "wegoWU",
+      "board": "Gossiping",
+      "publishTime": "2025/07/21 13:09",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "238",
       "recommendCount": "816",
       "title": "[新聞] 館長喊話726要「掀起革命」：讓台灣人全變中國人",
@@ -61,16 +71,6 @@
       "author": "Napoleon313",
       "board": "Gossiping",
       "publishTime": "2025/07/21 08:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "362",
-      "recommendCount": "880",
-      "title": "[問卦] 為何一堆臉書插畫家都是側翼阿?",
-      "link": "/bbs/Gossiping/M.1753103384.A.5DB",
-      "author": "wegoWU",
-      "board": "Gossiping",
-      "publishTime": "2025/07/21 13:09",
       "imageUrl": ""
     },
     {
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "313",
-      "recommendCount": "554",
+      "recommendScore": "316",
+      "recommendCount": "557",
       "title": "[問卦] 禮拜六晚上八卦大崩潰的機率多高？",
       "link": "/bbs/Gossiping/M.1753105779.A.A8C",
       "author": "ray90910",
