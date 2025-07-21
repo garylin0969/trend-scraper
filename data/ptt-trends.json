@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-21T10:19:58.592Z",
+  "updated": "2025-07-21T10:34:50.473Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "249",
-      "recommendCount": "1123",
+      "recommendScore": "250",
+      "recommendCount": "1125",
       "title": "[新聞] 搶先川普公布台灣關稅稅率！趙少康：我得到的消息就是32%",
       "link": "/bbs/Stock/M.1753069617.A.C40",
       "author": "zkow",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "324",
-      "recommendCount": "895",
+      "recommendCount": "904",
       "title": "[新聞] 快訊／真的是小草！　丟蛋李男曾任民眾黨部高層、蛋洗過程全直播",
       "link": "/bbs/Gossiping/M.1753078641.A.6BB",
       "author": "s7503228",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "316",
-      "recommendCount": "754",
+      "recommendScore": "315",
+      "recommendCount": "755",
       "title": "[問卦] 丟雞蛋完整影片？有丟雞蛋的人的訴求",
       "link": "/bbs/Gossiping/M.1753065579.A.FAE",
       "author": "a0802459",
@@ -124,13 +124,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-185",
-      "recommendCount": "602",
+      "recommendScore": "-189",
+      "recommendCount": "613",
       "title": "[新聞] 評救災100分 郭智輝：921台中多久才復電？",
       "link": "/bbs/Gossiping/M.1753081541.A.CAA",
       "author": "DrowningPool",
       "board": "Gossiping",
       "publishTime": "2025/07/21 07:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "177",
+      "recommendCount": "625",
+      "title": "[新聞] 館長喊話726要「掀起革命」：讓台灣人全變中國人",
+      "link": "/bbs/Gossiping/M.1753085259.A.9B0",
+      "author": "Napoleon313",
+      "board": "Gossiping",
+      "publishTime": "2025/07/21 08:07",
       "imageUrl": ""
     },
     {
@@ -154,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "187",
+      "recommendCount": "578",
+      "title": "[新聞] 鄭麗君本周赴華府談關稅　郭智輝：爭取比競爭國家更好的稅率",
+      "link": "/bbs/Stock/M.1753067750.A.0A1",
+      "author": "zkow",
+      "board": "Stock",
+      "publishTime": "2025/07/21 03:15",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "297",
       "recommendCount": "774",
       "title": "[新聞] 機械車位突動！父抱兒墜落 一歲寶寶遭夾不治",
@@ -164,13 +184,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "186",
-      "recommendCount": "577",
-      "title": "[新聞] 鄭麗君本周赴華府談關稅　郭智輝：爭取比競爭國家更好的稅率",
-      "link": "/bbs/Stock/M.1753067750.A.0A1",
-      "author": "zkow",
-      "board": "Stock",
-      "publishTime": "2025/07/21 03:15",
+      "recommendScore": "386",
+      "recommendCount": "416",
+      "title": "[寶寶] 求集氣，寶寶32w早產正在加護病房",
+      "link": "/bbs/BabyMother/M.1753058491.A.6D5",
+      "author": "k770415",
+      "board": "BabyMother",
+      "publishTime": "2025/07/21 00:41",
       "imageUrl": ""
     },
     {
@@ -181,26 +201,6 @@
       "author": "menesn",
       "board": "Gossiping",
       "publishTime": "2025/07/20 12:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "383",
-      "recommendCount": "413",
-      "title": "[寶寶] 求集氣，寶寶32w早產正在加護病房",
-      "link": "/bbs/BabyMother/M.1753058491.A.6D5",
-      "author": "k770415",
-      "board": "BabyMother",
-      "publishTime": "2025/07/21 00:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "162",
-      "recommendCount": "585",
-      "title": "[新聞] 館長喊話726要「掀起革命」：讓台灣人全變中國人",
-      "link": "/bbs/Gossiping/M.1753085259.A.9B0",
-      "author": "Napoleon313",
-      "board": "Gossiping",
-      "publishTime": "2025/07/21 08:07",
       "imageUrl": ""
     }
   ]
