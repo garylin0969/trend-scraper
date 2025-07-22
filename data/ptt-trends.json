@@ -1,7 +1,7 @@
 {
-  "updated": "2025-07-22T07:08:21.501Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-07-22T07:20:31.316Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "368",
@@ -64,18 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "293",
-      "recommendCount": "1161",
-      "title": "Re: [新聞] 美眾院通過法案「中國是中國，台灣是台灣」禁國防部展示台灣納入中國地圖",
-      "link": "/bbs/Gossiping/M.1753141490.A.90A",
-      "author": "ccs95209",
-      "board": "Gossiping",
-      "publishTime": "2025/07/21 23:44",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-140",
-      "recommendCount": "594",
+      "recommendCount": "597",
       "title": "[新聞] 起風了！百萬YouTuber志祺七七表態「支持罷免王鴻薇」：7/26我會去投票",
       "link": "/bbs/Gossiping/M.1753144814.A.CDF",
       "author": "zoeapezoo",
@@ -84,8 +74,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/hBHIhiV/s/a8d4ab152d7b8c0c5d64edb40c21b463"
     },
     {
-      "recommendScore": "282",
-      "recommendCount": "629",
+      "recommendScore": "294",
+      "recommendCount": "1162",
+      "title": "Re: [新聞] 美眾院通過法案「中國是中國，台灣是台灣」禁國防部展示台灣納入中國地圖",
+      "link": "/bbs/Gossiping/M.1753141490.A.90A",
+      "author": "ccs95209",
+      "board": "Gossiping",
+      "publishTime": "2025/07/21 23:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "284",
+      "recommendCount": "631",
       "title": "[新聞] 災後兩週仍缺工！　台南6旬婦爬屋頂蓋帆布　年邁母親憂心",
       "link": "/bbs/Gossiping/M.1753150155.A.7B1",
       "author": "shawnm80",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "400",
-      "recommendCount": "480",
+      "recommendScore": "401",
+      "recommendCount": "481",
       "title": "[炸裂] 大谷翔平 逆轉兩分砲",
       "link": "/bbs/Baseball/M.1753150894.A.271",
       "author": "Axwell",
@@ -175,7 +175,7 @@
     },
     {
       "recommendScore": "310",
-      "recommendCount": "458",
+      "recommendCount": "459",
       "title": "[花邊] 快艇新賽季輪替陣容",
       "link": "/bbs/NBA/M.1753149141.A.EC6",
       "author": "ClownT",
@@ -192,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/07/21 09:55",
       "imageUrl": "https://cache.pttweb.cc/imgur/rPn697r/s/6f2fe8808ff737e137b622a8150aff54"
+    },
+    {
+      "recommendScore": "88",
+      "recommendCount": "545",
+      "title": "[新聞] 鄭麗君第4輪關稅談判籌碼　經長郭智輝：台積電赴美投資",
+      "link": "/bbs/Stock/M.1753153139.A.D60",
+      "author": "a5687920",
+      "board": "Stock",
+      "publishTime": "2025/07/22 02:58",
+      "imageUrl": ""
     }
   ]
 }
