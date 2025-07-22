@@ -1,11 +1,11 @@
 {
-  "updated": "2025-07-22T14:10:07.269Z",
+  "updated": "2025-07-22T14:22:27.049Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "504",
-      "recommendCount": "803",
+      "recommendScore": "505",
+      "recommendCount": "804",
       "title": "[新聞] 批大罷免「賴皮罷免」 羅大佑表態了：要大破功才行",
       "link": "/bbs/Gossiping/M.1753173076.A.223",
       "author": "lpsa",
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "332",
+      "recommendCount": "488",
+      "title": "[花邊] 快艇新賽季輪替陣容",
+      "link": "/bbs/NBA/M.1753149141.A.EC6",
+      "author": "ClownT",
+      "board": "NBA",
+      "publishTime": "2025/07/22 01:52",
+      "imageUrl": "https://cache.pttweb.cc/imgur/gsxpmzk/s/9d929dc546cd3096ede4e42e960846a3"
+    },
+    {
       "recommendScore": "335",
       "recommendCount": "537",
       "title": "[新聞] 台灣關稅32%瘋傳　中經院長喊「鬼故事太多」：真有內線可去賺旅費",
@@ -122,16 +132,6 @@
       "board": "Stock",
       "publishTime": "2025/07/22 05:10",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "331",
-      "recommendCount": "487",
-      "title": "[花邊] 快艇新賽季輪替陣容",
-      "link": "/bbs/NBA/M.1753149141.A.EC6",
-      "author": "ClownT",
-      "board": "NBA",
-      "publishTime": "2025/07/22 01:52",
-      "imageUrl": "https://cache.pttweb.cc/imgur/gsxpmzk/s/9d929dc546cd3096ede4e42e960846a3"
     },
     {
       "recommendScore": "94",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "226",
-      "recommendCount": "525",
+      "recommendScore": "227",
+      "recommendCount": "526",
       "title": "[問卦] 罷免之後又輸是繼續罷免嗎？",
       "link": "/bbs/Gossiping/M.1753175412.A.C6D",
       "author": "sa8881817",
@@ -184,24 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "156",
-      "recommendCount": "411",
-      "title": "[問卦] 員工旅遊撞726 公司全員留下投同意罷免",
-      "link": "/bbs/Gossiping/M.1753170658.A.867",
-      "author": "norvasc",
-      "board": "Gossiping",
-      "publishTime": "2025/07/22 07:50",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Waio5Sy/s/7850f5549f084cd9dcbbfd0f1e6ff4b1"
-    },
-    {
-      "recommendScore": "132",
-      "recommendCount": "681",
+      "recommendScore": "133",
+      "recommendCount": "705",
       "title": "[問卦] 記者君竹怎麼變了？報導者挺罷免？",
       "link": "/bbs/Gossiping/M.1753181302.A.4E2",
       "author": "shokotan",
       "board": "Gossiping",
       "publishTime": "2025/07/22 10:48",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "157",
+      "recommendCount": "412",
+      "title": "[問卦] 員工旅遊撞726 公司全員留下投同意罷免",
+      "link": "/bbs/Gossiping/M.1753170658.A.867",
+      "author": "norvasc",
+      "board": "Gossiping",
+      "publishTime": "2025/07/22 07:50",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Waio5Sy/s/7850f5549f084cd9dcbbfd0f1e6ff4b1"
     }
   ]
 }
