@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-22T16:49:34.451Z",
+  "updated": "2025-07-22T17:00:01.906Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "405",
-      "recommendCount": "458",
+      "recommendScore": "409",
+      "recommendCount": "462",
       "title": "[分享] 魔鷹賽後跟粉絲說的話(口譯逐字稿)",
       "link": "/bbs/Baseball/M.1753192505.A.A0C",
       "author": "chainstay120",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "389",
-      "recommendCount": "438",
+      "recommendScore": "390",
+      "recommendCount": "439",
       "title": "[分享] 今日 魔鷹",
       "link": "/bbs/Baseball/M.1753191810.A.8EB",
       "author": "willy911006",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "137",
-      "recommendCount": "798",
+      "recommendScore": "143",
+      "recommendCount": "807",
       "title": "[問卦] 記者君竹怎麼變了？報導者挺罷免？",
       "link": "/bbs/Gossiping/M.1753181302.A.4E2",
       "author": "shokotan",
@@ -104,14 +104,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "208",
-      "recommendCount": "651",
+      "recommendScore": "210",
+      "recommendCount": "661",
       "title": "[問卦] 大罷免真的跟太陽花一樣民眾自動發起嗎",
       "link": "/bbs/Gossiping/M.1753185991.A.CEB",
       "author": "westdoorcard",
       "board": "Gossiping",
       "publishTime": "2025/07/22 12:06",
       "imageUrl": "https://cache.pttweb.cc/imgur/zEPthbq/s/46ff7bddfca0fb13d73308cf5dbd99bc"
+    },
+    {
+      "recommendScore": "335",
+      "recommendCount": "493",
+      "title": "[花邊] 快艇新賽季輪替陣容",
+      "link": "/bbs/NBA/M.1753149141.A.EC6",
+      "author": "ClownT",
+      "board": "NBA",
+      "publishTime": "2025/07/22 01:52",
+      "imageUrl": "https://cache.pttweb.cc/imgur/gsxpmzk/s/9d929dc546cd3096ede4e42e960846a3"
     },
     {
       "recommendScore": "127",
@@ -122,16 +132,6 @@
       "board": "Stock",
       "publishTime": "2025/07/22 04:24",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "335",
-      "recommendCount": "491",
-      "title": "[花邊] 快艇新賽季輪替陣容",
-      "link": "/bbs/NBA/M.1753149141.A.EC6",
-      "author": "ClownT",
-      "board": "NBA",
-      "publishTime": "2025/07/22 01:52",
-      "imageUrl": "https://cache.pttweb.cc/imgur/gsxpmzk/s/9d929dc546cd3096ede4e42e960846a3"
     },
     {
       "recommendScore": "336",
@@ -165,7 +165,7 @@
     },
     {
       "recommendScore": "231",
-      "recommendCount": "532",
+      "recommendCount": "533",
       "title": "[問卦] 罷免之後又輸是繼續罷免嗎？",
       "link": "/bbs/Gossiping/M.1753175412.A.C6D",
       "author": "sa8881817",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "156",
+      "recommendCount": "427",
+      "title": "[問卦] 員工旅遊撞726 公司全員留下投同意罷免",
+      "link": "/bbs/Gossiping/M.1753170658.A.867",
+      "author": "norvasc",
+      "board": "Gossiping",
+      "publishTime": "2025/07/22 07:50",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Waio5Sy/s/7850f5549f084cd9dcbbfd0f1e6ff4b1"
+    },
+    {
       "recommendScore": "272",
       "recommendCount": "601",
       "title": "[新聞] 726大罷免／中選會公布25案門檻　「這人」要破10萬同意才算通過",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/22 04:59",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "155",
-      "recommendCount": "425",
-      "title": "[問卦] 員工旅遊撞726 公司全員留下投同意罷免",
-      "link": "/bbs/Gossiping/M.1753170658.A.867",
-      "author": "norvasc",
-      "board": "Gossiping",
-      "publishTime": "2025/07/22 07:50",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Waio5Sy/s/7850f5549f084cd9dcbbfd0f1e6ff4b1"
     }
   ]
 }
