@@ -1,21 +1,11 @@
 {
-  "updated": "2025-07-22T06:08:37.923Z",
+  "updated": "2025-07-22T06:21:29.472Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "408",
-      "recommendCount": "974",
-      "title": "[問卦] 為何一堆臉書插畫家都是側翼阿?",
-      "link": "/bbs/Gossiping/M.1753103384.A.5DB",
-      "author": "wegoWU",
-      "board": "Gossiping",
-      "publishTime": "2025/07/21 13:09",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "367",
-      "recommendCount": "825",
+      "recommendCount": "826",
       "title": "[新聞] 暑自習被罷團吵！國中生發文抱怨竟遭青鳥出征1句",
       "link": "/bbs/Gossiping/M.1753138438.A.765",
       "author": "askemm",
@@ -54,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "370",
-      "recommendCount": "759",
+      "recommendScore": "371",
+      "recommendCount": "761",
       "title": "[問卦] 一審未判決前 被羈押超過一年的人?",
       "link": "/bbs/Gossiping/M.1753110506.A.70E",
       "author": "wild2012",
@@ -84,8 +74,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "270",
-      "recommendCount": "611",
+      "recommendScore": "280",
+      "recommendCount": "1118",
+      "title": "Re: [新聞] 美眾院通過法案「中國是中國，台灣是台灣」禁國防部展示台灣納入中國地圖",
+      "link": "/bbs/Gossiping/M.1753141490.A.90A",
+      "author": "ccs95209",
+      "board": "Gossiping",
+      "publishTime": "2025/07/21 23:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "273",
+      "recommendCount": "614",
       "title": "[新聞] 災後兩週仍缺工！　台南6旬婦爬屋頂蓋帆布　年邁母親憂心",
       "link": "/bbs/Gossiping/M.1753150155.A.7B1",
       "author": "shawnm80",
@@ -94,14 +94,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "273",
-      "recommendCount": "1109",
-      "title": "Re: [新聞] 美眾院通過法案「中國是中國，台灣是台灣」禁國防部展示台灣納入中國地圖",
-      "link": "/bbs/Gossiping/M.1753141490.A.90A",
-      "author": "ccs95209",
-      "board": "Gossiping",
-      "publishTime": "2025/07/21 23:44",
+      "recommendScore": "396",
+      "recommendCount": "476",
+      "title": "[炸裂] 大谷翔平 逆轉兩分砲",
+      "link": "/bbs/Baseball/M.1753150894.A.271",
+      "author": "Axwell",
+      "board": "Baseball",
+      "publishTime": "2025/07/22 02:21",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "-125",
+      "recommendCount": "558",
+      "title": "[新聞] 起風了！百萬YouTuber志祺七七表態「支持罷免王鴻薇」：7/26我會去投票",
+      "link": "/bbs/Gossiping/M.1753144814.A.CDF",
+      "author": "zoeapezoo",
+      "board": "Gossiping",
+      "publishTime": "2025/07/22 00:40",
+      "imageUrl": "https://cache.pttweb.cc/imgur/hBHIhiV/s/a8d4ab152d7b8c0c5d64edb40c21b463"
     },
     {
       "recommendScore": "113",
@@ -112,26 +122,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/21 10:11",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "395",
-      "recommendCount": "475",
-      "title": "[炸裂] 大谷翔平 逆轉兩分砲",
-      "link": "/bbs/Baseball/M.1753150894.A.271",
-      "author": "Axwell",
-      "board": "Baseball",
-      "publishTime": "2025/07/22 02:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-122",
-      "recommendCount": "554",
-      "title": "[新聞] 起風了！百萬YouTuber志祺七七表態「支持罷免王鴻薇」：7/26我會去投票",
-      "link": "/bbs/Gossiping/M.1753144814.A.CDF",
-      "author": "zoeapezoo",
-      "board": "Gossiping",
-      "publishTime": "2025/07/22 00:40",
-      "imageUrl": "https://cache.pttweb.cc/imgur/hBHIhiV/s/a8d4ab152d7b8c0c5d64edb40c21b463"
     },
     {
       "recommendScore": "262",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/07/21 09:55",
       "imageUrl": "https://cache.pttweb.cc/imgur/rPn697r/s/6f2fe8808ff737e137b622a8150aff54"
+    },
+    {
+      "recommendScore": "190",
+      "recommendCount": "476",
+      "title": "[新聞] 陳椒華指放假一周上班才救災 台南市府指汙衊正式提告",
+      "link": "/bbs/Gossiping/M.1753096953.A.11E",
+      "author": "noise",
+      "board": "Gossiping",
+      "publishTime": "2025/07/21 11:22",
+      "imageUrl": ""
     }
   ]
 }
