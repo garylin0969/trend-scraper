@@ -1,21 +1,11 @@
 {
-  "updated": "2025-07-22T03:38:34.588Z",
+  "updated": "2025-07-22T04:03:35.376Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "247",
-      "recommendCount": "1136",
-      "title": "[新聞] 搶先川普公布台灣關稅稅率！趙少康：我得到的消息就是32%",
-      "link": "/bbs/Stock/M.1753069617.A.C40",
-      "author": "zkow",
-      "board": "Stock",
-      "publishTime": "2025/07/21 03:46",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "403",
-      "recommendCount": "960",
+      "recommendCount": "963",
       "title": "[問卦] 為何一堆臉書插畫家都是側翼阿?",
       "link": "/bbs/Gossiping/M.1753103384.A.5DB",
       "author": "wegoWU",
@@ -34,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "332",
-      "recommendCount": "744",
+      "recommendScore": "339",
+      "recommendCount": "764",
       "title": "[新聞] 暑自習被罷團吵！國中生發文抱怨竟遭青鳥出征1句",
       "link": "/bbs/Gossiping/M.1753138438.A.765",
       "author": "askemm",
@@ -64,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "364",
-      "recommendCount": "642",
+      "recommendScore": "365",
+      "recommendCount": "644",
       "title": "[問卦] 禮拜六晚上八卦大崩潰的機率多高？",
       "link": "/bbs/Gossiping/M.1753105779.A.A8C",
       "author": "ray90910",
@@ -115,7 +105,7 @@
     },
     {
       "recommendScore": "262",
-      "recommendCount": "563",
+      "recommendCount": "566",
       "title": "[問卦] 關稅8/1實施 周邊國都已知為啥台灣還不知",
       "link": "/bbs/Gossiping/M.1753085926.A.70C",
       "author": "ptt987654321",
@@ -154,13 +144,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "365",
-      "recommendCount": "508",
+      "recommendScore": "366",
+      "recommendCount": "510",
       "title": "[情報] CP3去快艇",
       "link": "/bbs/NBA/M.1753110571.A.25D",
       "author": "Wojnarowski",
       "board": "NBA",
       "publishTime": "2025/07/21 15:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "340",
+      "recommendCount": "414",
+      "title": "[炸裂] 大谷翔平 逆轉兩分砲",
+      "link": "/bbs/Baseball/M.1753150894.A.271",
+      "author": "Axwell",
+      "board": "Baseball",
+      "publishTime": "2025/07/22 02:21",
       "imageUrl": ""
     },
     {
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-98",
+      "recommendCount": "481",
+      "title": "[新聞] 起風了！百萬YouTuber志祺七七表態「支持罷免王鴻薇」：7/26我會去投票",
+      "link": "/bbs/Gossiping/M.1753144814.A.CDF",
+      "author": "zoeapezoo",
+      "board": "Gossiping",
+      "publishTime": "2025/07/22 00:40",
+      "imageUrl": "https://cache.pttweb.cc/imgur/hBHIhiV/s/a8d4ab152d7b8c0c5d64edb40c21b463"
+    },
+    {
       "recommendScore": "211",
       "recommendCount": "484",
       "title": "[問卦] 什麼談判需要飛美國4次？",
@@ -184,23 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "232",
-      "recommendCount": "590",
-      "title": "[問卦] 這個文宣搞的我好亂",
-      "link": "/bbs/Gossiping/M.1753091712.A.DFE",
-      "author": "Kaspersky",
+      "recommendScore": "230",
+      "recommendCount": "950",
+      "title": "Re: [新聞] 美眾院通過法案「中國是中國，台灣是台灣」禁國防部展示台灣納入中國地圖",
+      "link": "/bbs/Gossiping/M.1753141490.A.90A",
+      "author": "ccs95209",
       "board": "Gossiping",
-      "publishTime": "2025/07/21 09:55",
-      "imageUrl": "https://cache.pttweb.cc/imgur/rPn697r/s/6f2fe8808ff737e137b622a8150aff54"
-    },
-    {
-      "recommendScore": "189",
-      "recommendCount": "474",
-      "title": "[新聞] 陳椒華指放假一周上班才救災 台南市府指汙衊正式提告",
-      "link": "/bbs/Gossiping/M.1753096953.A.11E",
-      "author": "noise",
-      "board": "Gossiping",
-      "publishTime": "2025/07/21 11:22",
+      "publishTime": "2025/07/21 23:44",
       "imageUrl": ""
     }
   ]
