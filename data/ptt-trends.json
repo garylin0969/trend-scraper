@@ -1,7 +1,7 @@
 {
-  "updated": "2025-07-23T09:55:20.645Z",
-  "total_found": 18,
-  "returned_count": 18,
+  "updated": "2025-07-23T10:06:25.887Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "825",
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/5Al8Jia/s/1d3c3aefbd88d048cf54ae86d0699280"
     },
     {
-      "recommendScore": "542",
-      "recommendCount": "849",
+      "recommendScore": "543",
+      "recommendCount": "854",
       "title": "[新聞] 是誰掏空台灣？數字會說話",
       "link": "/bbs/Gossiping/M.1753247024.A.7B6",
       "author": "au4g3wk4k",
@@ -144,6 +144,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/cdflBq6/s/17868f24814f8f2cc00ea994ab81437d"
     },
     {
+      "recommendScore": "223",
+      "recommendCount": "542",
+      "title": "[問卦] 北檢就算了，為什麼北院也同意羈押？",
+      "link": "/bbs/Gossiping/M.1753256656.A.279",
+      "author": "Kobemail5566",
+      "board": "Gossiping",
+      "publishTime": "2025/07/23 07:44",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "294",
       "recommendCount": "613",
       "title": "Re: [問卦] Ptt馬雅人也發聲了！被八卦板趕走？",
@@ -174,13 +184,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/9ysRG8j/s/5eae4585888c0fd025679686a71f94dd"
     },
     {
-      "recommendScore": "210",
-      "recommendCount": "518",
-      "title": "[問卦] 北檢就算了，為什麼北院也同意羈押？",
-      "link": "/bbs/Gossiping/M.1753256656.A.279",
-      "author": "Kobemail5566",
+      "recommendScore": "222",
+      "recommendCount": "448",
+      "title": "[新聞] 樂天女孩嘎琳夜奔商辦大樓　行李箱一推消失3天…球團回應行蹤",
+      "link": "/bbs/Gossiping/M.1753243872.A.DEE",
+      "author": "adamcha",
       "board": "Gossiping",
-      "publishTime": "2025/07/23 07:44",
+      "publishTime": "2025/07/23 04:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "93",
+      "recommendCount": "477",
+      "title": "[問卦] 浴室暖風機根本智商稅?",
+      "link": "/bbs/Gossiping/M.1753230913.A.FC3",
+      "author": "Qunnine",
+      "board": "Gossiping",
+      "publishTime": "2025/07/23 00:35",
       "imageUrl": ""
     }
   ]
