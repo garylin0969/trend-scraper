@@ -1,11 +1,11 @@
 {
-  "updated": "2025-07-23T03:01:27.142Z",
+  "updated": "2025-07-23T03:39:19.711Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "753",
-      "recommendCount": "1142",
+      "recommendScore": "768",
+      "recommendCount": "1163",
       "title": "Re: [問卦] 脆凌晨突然集體發百工挺罷文",
       "link": "/bbs/Gossiping/M.1753204083.A.33A",
       "author": "rockdevil",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "369",
-      "recommendCount": "832",
+      "recommendScore": "375",
+      "recommendCount": "842",
       "title": "[問卦] Threads 熱議：說服台電的堂弟挺大罷免失",
       "link": "/bbs/Gossiping/M.1753198613.A.DE9",
       "author": "cowardlyman",
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "352",
+      "recommendCount": "603",
+      "title": "[新聞] 尹錫悅戒嚴前曾尋求台灣支持？韓媒：韓軍前情報司令密赴台出差",
+      "link": "/bbs/Gossiping/M.1753228852.A.C23",
+      "author": "ctfjuw",
+      "board": "Gossiping",
+      "publishTime": "2025/07/23 00:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "400",
       "recommendCount": "452",
       "title": "[分享] 今日 魔鷹",
@@ -84,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "329",
-      "recommendCount": "561",
-      "title": "[新聞] 尹錫悅戒嚴前曾尋求台灣支持？韓媒：韓軍前情報司令密赴台出差",
-      "link": "/bbs/Gossiping/M.1753228852.A.C23",
-      "author": "ctfjuw",
-      "board": "Gossiping",
-      "publishTime": "2025/07/23 00:00",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "249",
-      "recommendCount": "698",
+      "recommendCount": "702",
       "title": "[問卦] 沒人發現週六結果如何，台灣都會更分裂",
       "link": "/bbs/Gossiping/M.1753201342.A.656",
       "author": "Superxixai",
@@ -144,24 +144,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "164",
-      "recommendCount": "440",
-      "title": "[問卦] 員工旅遊撞726 公司全員留下投同意罷免",
-      "link": "/bbs/Gossiping/M.1753170658.A.867",
-      "author": "norvasc",
-      "board": "Gossiping",
-      "publishTime": "2025/07/22 07:50",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Waio5Sy/s/7850f5549f084cd9dcbbfd0f1e6ff4b1"
-    },
-    {
-      "recommendScore": "-189",
-      "recommendCount": "465",
+      "recommendScore": "-191",
+      "recommendCount": "472",
       "title": "[新聞] 沉寂已久林智堅表態挺罷免 酸「新竹被按下暫停鍵」",
       "link": "/bbs/Gossiping/M.1753189929.A.7CA",
       "author": "thouloveme",
       "board": "Gossiping",
       "publishTime": "2025/07/22 13:12",
       "imageUrl": "https://cache.pttweb.cc/imgur/cdflBq6/s/17868f24814f8f2cc00ea994ab81437d"
+    },
+    {
+      "recommendScore": "165",
+      "recommendCount": "441",
+      "title": "[問卦] 員工旅遊撞726 公司全員留下投同意罷免",
+      "link": "/bbs/Gossiping/M.1753170658.A.867",
+      "author": "norvasc",
+      "board": "Gossiping",
+      "publishTime": "2025/07/22 07:50",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Waio5Sy/s/7850f5549f084cd9dcbbfd0f1e6ff4b1"
     },
     {
       "recommendScore": "279",
@@ -174,8 +174,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "322",
-      "recommendCount": "661",
+      "recommendScore": "189",
+      "recommendCount": "610",
+      "title": "[問卦] 志祺七七=懶人包=垃圾洗腦文",
+      "link": "/bbs/Gossiping/M.1753227305.A.F26",
+      "author": "nicolaschen2",
+      "board": "Gossiping",
+      "publishTime": "2025/07/22 23:35",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "332",
+      "recommendCount": "684",
       "title": "[新聞] 快訊／川普宣布：日本關稅降至15％　開放進口汽車、稻米",
       "link": "/bbs/Stock/M.1753226882.A.FEE",
       "author": "wu73",
@@ -185,22 +195,12 @@
     },
     {
       "recommendScore": "178",
-      "recommendCount": "481",
+      "recommendCount": "482",
       "title": "[問卦] 為什麼路上罷團幾乎都是女的啊？",
       "link": "/bbs/Gossiping/M.1753166864.A.D1A",
       "author": "ed106242",
       "board": "Gossiping",
       "publishTime": "2025/07/22 06:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "185",
-      "recommendCount": "586",
-      "title": "[問卦] 志祺七七=懶人包=垃圾洗腦文",
-      "link": "/bbs/Gossiping/M.1753227305.A.F26",
-      "author": "nicolaschen2",
-      "board": "Gossiping",
-      "publishTime": "2025/07/22 23:35",
       "imageUrl": ""
     }
   ]
