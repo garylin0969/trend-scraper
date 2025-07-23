@@ -1,11 +1,11 @@
 {
-  "updated": "2025-07-23T16:24:03.530Z",
+  "updated": "2025-07-23T16:58:03.901Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "601",
-      "recommendCount": "957",
+      "recommendScore": "604",
+      "recommendCount": "961",
       "title": "[新聞] 是誰掏空台灣？數字會說話",
       "link": "/bbs/Gossiping/M.1753247024.A.7B6",
       "author": "au4g3wk4k",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "414",
-      "recommendCount": "816",
+      "recommendScore": "416",
+      "recommendCount": "824",
       "title": "[新聞] 黃國昌揭國策顧問得標軍方服供站 評選委",
       "link": "/bbs/Gossiping/M.1753266261.A.9C2",
       "author": "lili712",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "521",
-      "recommendCount": "582",
+      "recommendScore": "526",
+      "recommendCount": "587",
       "title": "[炸裂] 魔鷹",
       "link": "/bbs/Baseball/M.1753274424.A.6CA",
       "author": "rochiou28",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "281",
-      "recommendCount": "706",
+      "recommendCount": "716",
       "title": "[新聞] 美煤爆料：LeBron想加入獨行俠！與AD、Irving再當隊友",
       "link": "/bbs/NBA/M.1753255552.A.E80",
       "author": "z72117211",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "298",
-      "recommendCount": "619",
+      "recommendScore": "306",
+      "recommendCount": "633",
       "title": "[問卦] 罷團：你想給你孩子怎樣的未來 該怎麼回",
       "link": "/bbs/Gossiping/M.1753273516.A.8E4",
       "author": "westdoorcard",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "386",
-      "recommendCount": "644",
+      "recommendScore": "388",
+      "recommendCount": "651",
       "title": "[新聞] 獨／民進黨前秘書長林錫耀關說司法人事曝光？　社群媒體瘋傳待司法釐清",
       "link": "/bbs/Gossiping/M.1753262472.A.C19",
       "author": "a559973789",
@@ -74,13 +74,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "309",
-      "recommendCount": "723",
+      "recommendScore": "312",
+      "recommendCount": "728",
       "title": "[問卦] 北檢就算了，為什麼北院也同意羈押？",
       "link": "/bbs/Gossiping/M.1753256656.A.279",
       "author": "Kobemail5566",
       "board": "Gossiping",
       "publishTime": "2025/07/23 07:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "269",
+      "recommendCount": "611",
+      "title": "[問卦] 為什麼表態支持大罷免的比反罷免多？",
+      "link": "/bbs/Gossiping/M.1753269102.A.28E",
+      "author": "ptt888",
+      "board": "Gossiping",
+      "publishTime": "2025/07/23 11:11",
       "imageUrl": ""
     },
     {
@@ -92,16 +102,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/23 02:49",
       "imageUrl": "https://cache.pttweb.cc/imgur/GBZUn8M/s/faa28e71c85ceecf5a9cd70daed76e86"
-    },
-    {
-      "recommendScore": "264",
-      "recommendCount": "600",
-      "title": "[問卦] 為什麼表態支持大罷免的比反罷免多？",
-      "link": "/bbs/Gossiping/M.1753269102.A.28E",
-      "author": "ptt888",
-      "board": "Gossiping",
-      "publishTime": "2025/07/23 11:11",
-      "imageUrl": ""
     },
     {
       "recommendScore": "316",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "375",
-      "recommendCount": "479",
+      "recommendScore": "377",
+      "recommendCount": "482",
       "title": "Re: [爆卦] 暗網TG記錄揭開賴死辦柯P謎團",
       "link": "/bbs/Gossiping/M.1753255663.A.5DF",
       "author": "good123456",
@@ -144,6 +144,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/iRLFBi1/s/d60aa868b25953167e9cfc860bfaa5a0"
     },
     {
+      "recommendScore": "201",
+      "recommendCount": "697",
+      "title": "[新聞] 不漲價但內用「設200元低消」　魯肉飯老闆公告嘆：我店租6萬",
+      "link": "/bbs/Gossiping/M.1753259714.A.57F",
+      "author": "whj0530",
+      "board": "Gossiping",
+      "publishTime": "2025/07/23 08:35",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "352",
       "recommendCount": "718",
       "title": "[新聞] 快訊／川普宣布：日本關稅降至15％　開放進口汽車、稻米",
@@ -151,16 +161,6 @@
       "author": "wu73",
       "board": "Stock",
       "publishTime": "2025/07/22 23:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "199",
-      "recommendCount": "695",
-      "title": "[新聞] 不漲價但內用「設200元低消」　魯肉飯老闆公告嘆：我店租6萬",
-      "link": "/bbs/Gossiping/M.1753259714.A.57F",
-      "author": "whj0530",
-      "board": "Gossiping",
-      "publishTime": "2025/07/23 08:35",
       "imageUrl": ""
     },
     {
@@ -174,13 +174,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "250",
-      "recommendCount": "476",
+      "recommendScore": "251",
+      "recommendCount": "479",
       "title": "[新聞] 驚爆尹錫悅戒嚴前曾赴台灣尋求民進黨政府支持？總統府說話了",
       "link": "/bbs/Gossiping/M.1753250538.A.2B5",
       "author": "enzo50",
       "board": "Gossiping",
       "publishTime": "2025/07/23 06:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "352",
+      "recommendCount": "801",
+      "title": "[轉錄] 蔡英文 Tsai Ing-wen FB 罷免表態",
+      "link": "/bbs/HatePolitics/M.1753279398.A.1F0",
+      "author": "add20716",
+      "board": "HatePolitics",
+      "publishTime": "2025/07/23 14:03",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "adamcha",
       "board": "Gossiping",
       "publishTime": "2025/07/23 04:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "96",
-      "recommendCount": "489",
-      "title": "[問卦] 浴室暖風機根本智商稅?",
-      "link": "/bbs/Gossiping/M.1753230913.A.FC3",
-      "author": "Qunnine",
-      "board": "Gossiping",
-      "publishTime": "2025/07/23 00:35",
       "imageUrl": ""
     }
   ]
