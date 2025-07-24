@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-24T07:08:14.968Z",
+  "updated": "2025-07-24T07:20:30.819Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "364",
-      "recommendCount": "801",
+      "recommendScore": "366",
+      "recommendCount": "803",
       "title": "[問卦] 罷團：你想給你孩子怎樣的未來 該怎麼回",
       "link": "/bbs/Gossiping/M.1753273516.A.8E4",
       "author": "westdoorcard",
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "354",
+      "recommendCount": "729",
+      "title": "[爆卦] 柯文哲臉書",
+      "link": "/bbs/Gossiping/M.1753323897.A.1BF",
+      "author": "ming164",
+      "board": "Gossiping",
+      "publishTime": "2025/07/24 02:24",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "400",
       "recommendCount": "671",
       "title": "[新聞] 獨／民進黨前秘書長林錫耀關說司法人事曝光？　社群媒體瘋傳待司法釐清",
@@ -74,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "351",
-      "recommendCount": "710",
-      "title": "[爆卦] 柯文哲臉書",
-      "link": "/bbs/Gossiping/M.1753323897.A.1BF",
-      "author": "ming164",
-      "board": "Gossiping",
-      "publishTime": "2025/07/24 02:24",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "287",
       "recommendCount": "663",
       "title": "[問卦] 為什麼表態支持大罷免的比反罷免多？",
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "401",
-      "recommendCount": "513",
+      "recommendCount": "514",
       "title": "Re: [爆卦] 暗網TG記錄揭開賴死辦柯P謎團",
       "link": "/bbs/Gossiping/M.1753255663.A.5DF",
       "author": "good123456",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "233",
-      "recommendCount": "624",
+      "recommendScore": "234",
+      "recommendCount": "625",
       "title": "[新聞] 汐止夫妻陳屍屋內！被騙光積蓄250萬「僅車手落網」　詐騙9月奪11命",
       "link": "/bbs/Stock/M.1753312292.A.E7D",
       "author": "keel90135",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "215",
-      "recommendCount": "531",
+      "recommendScore": "216",
+      "recommendCount": "535",
       "title": "[新聞] 快訊／彭振聲喪妻出庭崩潰：我家破人亡！哭到法官緊急休庭10分鐘",
       "link": "/bbs/Gossiping/M.1753327445.A.567",
       "author": "TBOC",
@@ -174,13 +174,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "256",
-      "recommendCount": "725",
+      "recommendScore": "259",
+      "recommendCount": "732",
       "title": "[問卦] 家人買虛擬貨幣礦機，是詐騙嗎？",
       "link": "/bbs/Gossiping/M.1753323424.A.AA9",
       "author": "iamjimhaha",
       "board": "Gossiping",
       "publishTime": "2025/07/24 02:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "222",
+      "recommendCount": "448",
+      "title": "[新聞] 「台灣至少該有一座核電廠」　美海軍少將：防共軍切斷能源",
+      "link": "/bbs/Gossiping/M.1753326957.A.37F",
+      "author": "ianlin1216",
+      "board": "Gossiping",
+      "publishTime": "2025/07/24 03:15",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "CrazySept",
       "board": "Gossiping",
       "publishTime": "2025/07/23 09:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "221",
-      "recommendCount": "435",
-      "title": "[新聞] 「台灣至少該有一座核電廠」　美海軍少將：防共軍切斷能源",
-      "link": "/bbs/Gossiping/M.1753326957.A.37F",
-      "author": "ianlin1216",
-      "board": "Gossiping",
-      "publishTime": "2025/07/24 03:15",
       "imageUrl": ""
     }
   ]
