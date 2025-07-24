@@ -1,7 +1,7 @@
 {
-  "updated": "2025-07-24T10:32:57.754Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2025-07-24T10:48:11.204Z",
+  "total_found": 19,
+  "returned_count": 19,
   "articles": [
     {
       "recommendScore": "366",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "375",
-      "recommendCount": "766",
+      "recommendScore": "376",
+      "recommendCount": "767",
       "title": "[爆卦] 柯文哲臉書",
       "link": "/bbs/Gossiping/M.1753323897.A.1BF",
       "author": "ming164",
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "555",
+      "recommendCount": "1038",
+      "title": "[黑特] 誰跑去八卦板檢舉我啊？",
+      "link": "/bbs/HatePolitics/M.1753340298.A.EDD",
+      "author": "Pietro",
+      "board": "HatePolitics",
+      "publishTime": "2025/07/24 06:58",
+      "imageUrl": "https://cache.pttweb.cc/imgur/K2ddqju/s/f407543d03dc1ce0e1a9f2a486032f3c"
+    },
+    {
       "recommendScore": "309",
       "recommendCount": "686",
       "title": "[新聞] 太扯！中國出「奧步」硬搶台灣隊奪銀賀電 署長鄭世忠痛批：野蠻行為",
@@ -62,16 +72,6 @@
       "board": "HatePolitics",
       "publishTime": "2025/07/23 22:55",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "550",
-      "recommendCount": "1029",
-      "title": "[黑特] 誰跑去八卦板檢舉我啊？",
-      "link": "/bbs/HatePolitics/M.1753340298.A.EDD",
-      "author": "Pietro",
-      "board": "HatePolitics",
-      "publishTime": "2025/07/24 06:58",
-      "imageUrl": "https://cache.pttweb.cc/imgur/K2ddqju/s/f407543d03dc1ce0e1a9f2a486032f3c"
     },
     {
       "recommendScore": "269",
@@ -115,7 +115,7 @@
     },
     {
       "recommendScore": "252",
-      "recommendCount": "500",
+      "recommendCount": "501",
       "title": "[新聞] 「台灣至少該有一座核電廠」　美海軍少將：防共軍切斷能源",
       "link": "/bbs/Gossiping/M.1753326957.A.37F",
       "author": "ianlin1216",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-117",
-      "recommendCount": "451",
+      "recommendScore": "-118",
+      "recommendCount": "452",
       "title": "[新聞] 柯建銘：726票投同意 不去罷免非台灣人",
       "link": "/bbs/Gossiping/M.1753320984.A.20F",
       "author": "lunli924",
@@ -191,16 +191,6 @@
       "author": "Schilling",
       "board": "Gossiping",
       "publishTime": "2025/07/24 04:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "193",
-      "recommendCount": "449",
-      "title": "[新聞] 「不同意罷免」遭出征！永康商圈店家無奈「暫停營業」",
-      "link": "/bbs/Gossiping/M.1753333820.A.400",
-      "author": "googolplex",
-      "board": "Gossiping",
-      "publishTime": "2025/07/24 05:10",
       "imageUrl": ""
     }
   ]
