@@ -1,10 +1,10 @@
 {
-  "updated": "2025-07-25T10:18:15.637Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-07-25T10:33:02.903Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "532",
+      "recommendScore": "531",
       "recommendCount": "1497",
       "title": "[新聞] 快訊／柯文哲爭取「大罷免投票」　北高行政法院駁回聲請",
       "link": "/bbs/Gossiping/M.1753411104.A.CB5",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "698",
-      "recommendCount": "779",
+      "recommendScore": "703",
+      "recommendCount": "787",
       "title": "[情報] 114年5-6月 統一發票中獎號碼",
       "link": "/bbs/Lifeismoney/M.1753422018.A.856",
       "author": "jack801016",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "362",
-      "recommendCount": "796",
+      "recommendScore": "365",
+      "recommendCount": "801",
       "title": "[問卦] 北院違憲了吧",
       "link": "/bbs/Gossiping/M.1753413381.A.F0B",
       "author": "wahas020",
@@ -64,8 +64,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/zl4Osdq/s/06c94e1a83f62c0fa9d86386e386b78f"
     },
     {
-      "recommendScore": "-174",
-      "recommendCount": "648",
+      "recommendScore": "-176",
+      "recommendCount": "658",
       "title": "[問卦] 楊大正怒：為何11年後 我還得唱島嶼天光",
       "link": "/bbs/Gossiping/M.1753425804.A.F7F",
       "author": "norvasc",
@@ -75,7 +75,7 @@
     },
     {
       "recommendScore": "271",
-      "recommendCount": "581",
+      "recommendCount": "584",
       "title": "[問卦] 這麼多個公民團體支持大罷免 代表什麼？",
       "link": "/bbs/Gossiping/M.1753419041.A.C44",
       "author": "oppo5566",
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "115",
+      "recommendCount": "631",
+      "title": "[新聞] 鄭麗君率隊赴美展開第4輪談判　經長郭智輝透露：8/1有結果",
+      "link": "/bbs/Stock/M.1753419571.A.2A9",
+      "author": "ChanHoPark",
+      "board": "Stock",
+      "publishTime": "2025/07/25 04:59",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "221",
       "recommendCount": "639",
       "title": "[新聞] 楊儒門示警：若讓稻米 美壓價恐毀30萬人生計",
@@ -111,16 +121,6 @@
       "author": "shokotan",
       "board": "Gossiping",
       "publishTime": "2025/07/24 11:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "112",
-      "recommendCount": "625",
-      "title": "[新聞] 鄭麗君率隊赴美展開第4輪談判　經長郭智輝透露：8/1有結果",
-      "link": "/bbs/Stock/M.1753419571.A.2A9",
-      "author": "ChanHoPark",
-      "board": "Stock",
-      "publishTime": "2025/07/25 04:59",
       "imageUrl": ""
     },
     {
@@ -135,7 +135,7 @@
     },
     {
       "recommendScore": "206",
-      "recommendCount": "452",
+      "recommendCount": "453",
       "title": "[新聞] 高雄茄萣大晴天卻積淹水 市府解釋是自然現象影響",
       "link": "/bbs/Gossiping/M.1753418323.A.07C",
       "author": "stewartqq",
@@ -164,8 +164,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "383",
+      "recommendCount": "593",
+      "title": "[新聞] 快訊／雙職籃合作確定破局　TPBL發聲明盼「兩聯盟合併」",
+      "link": "/bbs/basketballTW/M.1753428099.A.426",
+      "author": "william8403",
+      "board": "basketballTW",
+      "publishTime": "2025/07/25 07:21",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "217",
-      "recommendCount": "552",
+      "recommendCount": "553",
       "title": "[問卦] 完全執政後會有甚麼劇本",
       "link": "/bbs/Gossiping/M.1753404735.A.482",
       "author": "richer23",
@@ -184,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "376",
-      "recommendCount": "586",
-      "title": "[新聞] 快訊／雙職籃合作確定破局　TPBL發聲明盼「兩聯盟合併」",
-      "link": "/bbs/basketballTW/M.1753428099.A.426",
-      "author": "william8403",
-      "board": "basketballTW",
-      "publishTime": "2025/07/25 07:21",
+      "recommendScore": "721",
+      "recommendCount": "1433",
+      "title": "[電競] 2025 LCK Regular Season W10D3",
+      "link": "/bbs/LoL/M.1753428786.A.734",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/07/25 07:33",
       "imageUrl": ""
     }
   ]
