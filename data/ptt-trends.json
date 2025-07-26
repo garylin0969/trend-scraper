@@ -1,11 +1,11 @@
 {
-  "updated": "2025-07-26T06:49:48.471Z",
+  "updated": "2025-07-26T06:59:05.286Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "497",
-      "recommendCount": "871",
+      "recommendScore": "501",
+      "recommendCount": "877",
       "title": "[新聞] 趙少康亮票有刑責 北市選委會：警方送地檢署偵辦",
       "link": "/bbs/Gossiping/M.1753501621.A.4E9",
       "author": "Wojnarowski",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "372",
-      "recommendCount": "931",
+      "recommendScore": "373",
+      "recommendCount": "932",
       "title": "[新聞] 心虛？大支新歌嗆五月天遭炎上 急刪片尾「文化部補助」畫面重傳",
       "link": "/bbs/Gossiping/M.1753489425.A.7E0",
       "author": "godofsex",
@@ -24,8 +24,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/u4svhMY/s/723ff278d0fc80b76f64b15293820365"
     },
     {
-      "recommendScore": "474",
-      "recommendCount": "818",
+      "recommendScore": "475",
+      "recommendCount": "819",
       "title": "Re: [新聞] 坦言民進黨不夠好！ 吳思瑤哭了：不會忘記大家為民主聖戰流下的淚水",
       "link": "/bbs/Gossiping/M.1753489063.A.B84",
       "author": "nicolaschen2",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "332",
-      "recommendCount": "592",
+      "recommendScore": "355",
+      "recommendCount": "629",
       "title": "[問卦] 脆：把別人一年努力毀掉的人是反社會人",
       "link": "/bbs/Gossiping/M.1753504840.A.9D8",
       "author": "newpasta",
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "230",
+      "recommendCount": "519",
+      "title": "[問卦] 不論輸贏，今天過後就恢復正常嗎==？",
+      "link": "/bbs/Gossiping/M.1753506787.A.584",
+      "author": "Fortran",
+      "board": "Gossiping",
+      "publishTime": "2025/07/26 05:13",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "270",
       "recommendCount": "610",
       "title": "[新聞] 馬英九重話砲轟賴清德：你雖然姓賴 但不值得我們信賴",
@@ -134,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "130",
-      "recommendCount": "533",
+      "recommendScore": "129",
+      "recommendCount": "536",
       "title": "[新聞] 快訊／柯文哲大罷免「確定無法投票」！最高行政法院抗告駁回",
       "link": "/bbs/Gossiping/M.1753499150.A.A5F",
       "author": "Sky77777777",
@@ -154,18 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "215",
-      "recommendCount": "490",
-      "title": "[問卦] 不論輸贏，今天過後就恢復正常嗎==？",
-      "link": "/bbs/Gossiping/M.1753506787.A.584",
-      "author": "Fortran",
-      "board": "Gossiping",
-      "publishTime": "2025/07/26 05:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "200",
-      "recommendCount": "525",
+      "recommendScore": "199",
+      "recommendCount": "528",
       "title": "Re: [問卦] 台南某些區真的好慘",
       "link": "/bbs/Gossiping/M.1753486084.A.48C",
       "author": "kindhearted",
@@ -175,7 +175,7 @@
     },
     {
       "recommendScore": "-162",
-      "recommendCount": "459",
+      "recommendCount": "461",
       "title": "[新聞] 726大罷免／率眾喊「黃國昌臭俗辣」 呂捷：剿共匪不用拿槍",
       "link": "/bbs/Gossiping/M.1753500471.A.6BE",
       "author": "ptt987654321",
@@ -184,23 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "193",
-      "recommendCount": "599",
-      "title": "[新聞] 「投票查不到資料、1小時投不到20人」",
-      "link": "/bbs/HatePolitics/M.1753497438.A.7DD",
-      "author": "jganet",
-      "board": "HatePolitics",
-      "publishTime": "2025/07/26 02:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "248",
-      "recommendCount": "1150",
+      "recommendScore": "251",
+      "recommendCount": "1161",
       "title": "Re: [新聞] 驚悚畫面曝！高雄男大生遭砂石車輾「全身變形亡」　母認屍崩潰",
       "link": "/bbs/Gossiping/M.1753477826.A.990",
       "author": "amanda815625",
       "board": "Gossiping",
       "publishTime": "2025/07/25 21:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "192",
+      "recommendCount": "600",
+      "title": "[新聞] 「投票查不到資料、1小時投不到20人」",
+      "link": "/bbs/HatePolitics/M.1753497438.A.7DD",
+      "author": "jganet",
+      "board": "HatePolitics",
+      "publishTime": "2025/07/26 02:37",
       "imageUrl": ""
     }
   ]
