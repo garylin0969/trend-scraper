@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-26T14:40:32.200Z",
+  "updated": "2025-07-26T14:49:21.563Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,13 +34,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "490",
-      "recommendCount": "1009",
+      "recommendScore": "495",
+      "recommendCount": "1016",
       "title": "[問卦] 覺得台灣還有救的+1！",
       "link": "/bbs/Gossiping/M.1753526180.A.456",
       "author": "ambitious",
       "board": "Gossiping",
       "publishTime": "2025/07/26 10:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "606",
+      "recommendCount": "1191",
+      "title": "[爆卦] 搞老半天還是40%",
+      "link": "/bbs/Gossiping/M.1753530660.A.D02",
+      "author": "winterson",
+      "board": "Gossiping",
+      "publishTime": "2025/07/26 11:51",
       "imageUrl": ""
     },
     {
@@ -54,16 +64,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "597",
-      "recommendCount": "1177",
-      "title": "[爆卦] 搞老半天還是40%",
-      "link": "/bbs/Gossiping/M.1753530660.A.D02",
-      "author": "winterson",
-      "board": "Gossiping",
-      "publishTime": "2025/07/26 11:51",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "542",
       "recommendCount": "948",
       "title": "[新聞] 趙少康亮票有刑責 北市選委會：警方送地檢署偵辦",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "339",
-      "recommendCount": "911",
+      "recommendScore": "341",
+      "recommendCount": "919",
       "title": "[新聞] 盼「大家投票後繼續支持賴清德」蔡英文：一起為心愛的台灣打拚",
       "link": "/bbs/Gossiping/M.1753529409.A.640",
       "author": "village0817",
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "205",
-      "recommendCount": "777",
+      "recommendCount": "789",
       "title": "[新聞] 大罷免25：0慘敗！柯建銘發聲了：真理永遠是真理",
       "link": "/bbs/Gossiping/M.1753532359.A.EE2",
       "author": "Santander",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "286",
-      "recommendCount": "881",
+      "recommendScore": "287",
+      "recommendCount": "884",
       "title": "[新聞] 快訊／大罷免大失敗！　民進黨秘書長林右昌將召開記者會",
       "link": "/bbs/Gossiping/M.1753524532.A.AEF",
       "author": "a5687920",
@@ -122,6 +122,16 @@
       "board": "Gossiping",
       "publishTime": "2025/07/26 00:23",
       "imageUrl": "https://cache.pttweb.cc/imgur/u4svhMY/s/723ff278d0fc80b76f64b15293820365"
+    },
+    {
+      "recommendScore": "-186",
+      "recommendCount": "840",
+      "title": "[爆卦] 賴清德總統臉書",
+      "link": "/bbs/Gossiping/M.1753534694.A.DD5",
+      "author": "Ximcra",
+      "board": "Gossiping",
+      "publishTime": "2025/07/26 12:58",
+      "imageUrl": ""
     },
     {
       "recommendScore": "497",
@@ -144,16 +154,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/Q5Jv12o/s/2280fd01a3216c46c98cf183abfa744a"
     },
     {
-      "recommendScore": "-174",
-      "recommendCount": "807",
-      "title": "[爆卦] 賴清德總統臉書",
-      "link": "/bbs/Gossiping/M.1753534694.A.DD5",
-      "author": "Ximcra",
-      "board": "Gossiping",
-      "publishTime": "2025/07/26 12:58",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "420",
       "recommendCount": "759",
       "title": "[問卦] 脆：把別人一年努力毀掉的人是反社會人",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "192",
-      "recommendCount": "681",
+      "recommendScore": "193",
+      "recommendCount": "685",
       "title": "[新聞] 大罷免大失敗！　黃暐瀚：民意展現不支持民進黨、不支持賴清德",
       "link": "/bbs/Gossiping/M.1753527605.A.C97",
       "author": "osalucard",
@@ -184,24 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "389",
-      "recommendCount": "622",
+      "recommendScore": "416",
+      "recommendCount": "751",
+      "title": "[問卦] 誰是讓你投反罷免的元兇？",
+      "link": "/bbs/Gossiping/M.1753534159.A.991",
+      "author": "THEHELY",
+      "board": "Gossiping",
+      "publishTime": "2025/07/26 12:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "388",
+      "recommendCount": "625",
       "title": "[問卦] 鍾明軒抖內八炯1690元",
       "link": "/bbs/Gossiping/M.1753525740.A.B54",
       "author": "zoeapezoo",
       "board": "Gossiping",
       "publishTime": "2025/07/26 10:29",
       "imageUrl": "https://cache.pttweb.cc/imgur/7XhSQ4S/s/418cfd70d734399bbbe261a63e4f9c6b"
-    },
-    {
-      "recommendScore": "386",
-      "recommendCount": "607",
-      "title": "[問卦] 八卦預期自己翻車又翻車 笑死",
-      "link": "/bbs/Gossiping/M.1753522482.A.161",
-      "author": "DsLove710",
-      "board": "Gossiping",
-      "publishTime": "2025/07/26 09:34",
-      "imageUrl": ""
     }
   ]
 }
