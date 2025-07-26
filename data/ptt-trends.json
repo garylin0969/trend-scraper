@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-26T19:26:37.473Z",
+  "updated": "2025-07-26T19:34:01.253Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "660",
+      "recommendCount": "1346",
+      "title": "[爆卦] 搞老半天還是40%",
+      "link": "/bbs/Gossiping/M.1753530660.A.D02",
+      "author": "winterson",
+      "board": "Gossiping",
+      "publishTime": "2025/07/26 11:51",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "768",
       "recommendCount": "948",
       "title": "[問卦] 幹你娘怎麼敢不發一萬現金？(發錢)",
@@ -31,16 +41,6 @@
       "author": "la1aco",
       "board": "Gossiping",
       "publishTime": "2025/07/25 23:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "658",
-      "recommendCount": "1341",
-      "title": "[爆卦] 搞老半天還是40%",
-      "link": "/bbs/Gossiping/M.1753530660.A.D02",
-      "author": "winterson",
-      "board": "Gossiping",
-      "publishTime": "2025/07/26 11:51",
       "imageUrl": ""
     },
     {
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "458",
-      "recommendCount": "1123",
+      "recommendScore": "464",
+      "recommendCount": "1137",
       "title": "[爆卦] 杜奕瑾FB:罷團挫敗嗎？好像不是喔",
       "link": "/bbs/Gossiping/M.1753543626.A.470",
       "author": "kenbo",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "562",
-      "recommendCount": "1053",
+      "recommendScore": "564",
+      "recommendCount": "1058",
       "title": "[問卦] 誰是讓你投反罷免的元兇？",
       "link": "/bbs/Gossiping/M.1753534159.A.991",
       "author": "THEHELY",
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "517",
+      "recommendCount": "999",
+      "title": "[問卦] 台灣人在脆被全面炎上怒罵中",
+      "link": "/bbs/Gossiping/M.1753529691.A.DF5",
+      "author": "eatk",
+      "board": "Gossiping",
+      "publishTime": "2025/07/26 11:34",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Q5Jv12o/s/2280fd01a3216c46c98cf183abfa744a"
+    },
+    {
       "recommendScore": "542",
       "recommendCount": "949",
       "title": "[新聞] 趙少康亮票有刑責 北市選委會：警方送地檢署偵辦",
@@ -132,16 +142,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/26 03:47",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "516",
-      "recommendCount": "998",
-      "title": "[問卦] 台灣人在脆被全面炎上怒罵中",
-      "link": "/bbs/Gossiping/M.1753529691.A.DF5",
-      "author": "eatk",
-      "board": "Gossiping",
-      "publishTime": "2025/07/26 11:34",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Q5Jv12o/s/2280fd01a3216c46c98cf183abfa744a"
     },
     {
       "recommendScore": "287",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "381",
-      "recommendCount": "950",
+      "recommendScore": "382",
+      "recommendCount": "951",
       "title": "[新聞] 心虛？大支新歌嗆五月天遭炎上 急刪片尾「文化部補助」畫面重傳",
       "link": "/bbs/Gossiping/M.1753489425.A.7E0",
       "author": "godofsex",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "246",
-      "recommendCount": "828",
+      "recommendScore": "247",
+      "recommendCount": "829",
       "title": "[新聞] 挺罷民眾難過落淚「不懂為何那麼多人投不同意」　淚喊誰能幫救台灣",
       "link": "/bbs/Gossiping/M.1753529064.A.147",
       "author": "a128a128",
