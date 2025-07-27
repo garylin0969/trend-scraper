@@ -1,14 +1,22 @@
 {
-  "updated": "2025-07-27T01:53:04.108Z",
+  "updated": "2025-07-27T02:58:41.312Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-07-27T01:52:55.000Z",
+    "lastBuildDate": "2025-07-27T02:58:29.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "特朗普呼籲泰國與柬埔寨停止衝突",
+      "description": "在蘇格蘭打高爾夫球之際，美國總統與泰國和柬埔寨領導人談論了停火事宜。",
+      "link": "https://www.bbc.com/zhongwen/articles/c70x3ndzgkwo/trad",
+      "pubDate": "2025-07-27T02:14:57.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c70x3ndzgkwo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3cb0/live/c5371f10-6a4f-11f0-9f68-659bb63c8a6d.png"
+    },
     {
       "title": "台灣「大罷免」首輪失敗　25人全部留任",
       "description": "台灣史上最大規模的「大罷免」舉行首輪投票，在野國民黨25名立法委員與新竹市市長全部留任，朱立倫呼籲賴清德道歉。",
@@ -26,14 +34,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b60e/live/97e80950-694d-11f0-8dbd-f3d32ebd3327.png"
     },
     {
-      "title": "針對「親中」立委的「大罷免」投票如何撕裂台灣",
-      "description": "中國影響力的陰影引發了的這一場運動，也使到台灣分裂。",
-      "link": "https://www.bbc.com/zhongwen/articles/c0q8q1wy851o/trad",
-      "pubDate": "2025-07-25T06:42:44.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c0q8q1wy851o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/39d4/live/ded629e0-6921-11f0-af20-030418be2ca5.jpg"
-    },
-    {
       "title": "中金黃金內蒙古礦場六名大學生死亡 涉事企業稱年初已檢驗安全",
       "description": "六名中國東北大學學生在參訪中國黃金內蒙古礦場時墜入浮選槽致死。內蒙古政府成立事故調查組、將提級調查事故。涉事企業3名人員被採取刑事強制措施。",
       "link": "https://www.bbc.com/zhongwen/articles/cgq7qg0gdk2o/trad",
@@ -48,6 +48,14 @@
       "pubDate": "2025-07-25T04:27:31.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cly8yze6p4jo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f447/live/70795b40-6910-11f0-8dbd-f3d32ebd3327.jpg"
+    },
+    {
+      "title": "針對「親中」立委的「大罷免」投票如何撕裂台灣",
+      "description": "中國影響力的陰影引發了的這一場運動，也使到台灣分裂。",
+      "link": "https://www.bbc.com/zhongwen/articles/c0q8q1wy851o/trad",
+      "pubDate": "2025-07-25T06:42:44.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c0q8q1wy851o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/39d4/live/ded629e0-6921-11f0-af20-030418be2ca5.jpg"
     },
     {
       "title": "台灣「抽血換學分」案，揭開「體育生制度」權力失衡的冰山一角",
@@ -104,14 +112,6 @@
       "pubDate": "2025-07-23T01:26:22.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cwygqp9lde8o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7c69/live/cd93eea0-66c5-11f0-a4de-6d8ec3aa70c3.jpg"
-    },
-    {
-      "title": "美國富國銀行華人高管在中國「涉案」遭禁離境",
-      "description": "中國外交部證實美國富國銀行高管茅晨月被禁止出境，理由是要接受刑事調查。",
-      "link": "https://www.bbc.com/zhongwen/articles/czxej54kz1zo/trad",
-      "pubDate": "2025-07-22T04:47:02.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/czxej54kz1zo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/73d0/live/3e6f2dc0-66b6-11f0-ad25-1937899a264f.jpg"
     },
     {
       "title": "拆解台灣「大罷免」大敗原因：為何「反共護台」陣營未能撼動藍白基本盤",
