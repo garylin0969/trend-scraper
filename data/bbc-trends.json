@@ -1,14 +1,22 @@
 {
-  "updated": "2025-07-27T03:50:45.839Z",
+  "updated": "2025-07-27T04:32:12.846Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-07-27T03:50:39.000Z",
+    "lastBuildDate": "2025-07-27T04:32:02.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "國際救援組織警告：對加沙的空投是「荒謬地轉移視線」",
+      "description": "一些救援組織表示，向人口稠密的加沙空投食物會危及平民的生命。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5y0d4yyxxeo/trad",
+      "pubDate": "2025-07-27T03:51:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5y0d4yyxxeo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/57ea/live/e78c12c0-6a75-11f0-8dbd-f3d32ebd3327.jpg"
+    },
     {
       "title": "特朗普呼籲泰國與柬埔寨停止衝突",
       "description": "在蘇格蘭打高爾夫球之際，美國總統與泰國和柬埔寨領導人談論了停火事宜。",
@@ -42,14 +50,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4713/live/b542e0c0-6929-11f0-89ea-4d6f9851f623.jpg"
     },
     {
-      "title": "分析：泰柬衝突背後的脆弱友誼",
-      "description": "然而，目前仍然讓人困惑的是，洪森為何決定燒毀這段友誼，激化這場衝突？或許是因為泰國今年決定對詐騙中心施加壓力，或者是他信希望合法化賭博，威脅到柬埔寨自身的賭場產業。",
-      "link": "https://www.bbc.com/zhongwen/articles/cly8yze6p4jo/trad",
-      "pubDate": "2025-07-25T04:27:31.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cly8yze6p4jo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f447/live/70795b40-6910-11f0-8dbd-f3d32ebd3327.jpg"
-    },
-    {
       "title": "針對「親中」立委的「大罷免」投票如何撕裂台灣",
       "description": "中國影響力的陰影引發了的這一場運動，也使到台灣分裂。",
       "link": "https://www.bbc.com/zhongwen/articles/c0q8q1wy851o/trad",
@@ -64,6 +64,14 @@
       "pubDate": "2025-07-25T01:49:57.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cj61lw25l3ko/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/216e/live/a7d4b2a0-6867-11f0-8dbd-f3d32ebd3327.jpg"
+    },
+    {
+      "title": "分析：泰柬衝突背後的脆弱友誼",
+      "description": "然而，目前仍然讓人困惑的是，洪森為何決定燒毀這段友誼，激化這場衝突？或許是因為泰國今年決定對詐騙中心施加壓力，或者是他信希望合法化賭博，威脅到柬埔寨自身的賭場產業。",
+      "link": "https://www.bbc.com/zhongwen/articles/cly8yze6p4jo/trad",
+      "pubDate": "2025-07-25T04:27:31.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cly8yze6p4jo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f447/live/70795b40-6910-11f0-8dbd-f3d32ebd3327.jpg"
     },
     {
       "title": "歐盟委員會主席稱中歐關係正處於「轉折點」",
@@ -104,14 +112,6 @@
       "pubDate": "2025-07-24T03:50:55.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c5y71nn28y2o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e086/live/80914070-67c0-11f0-bdb3-2fec70b719ae.jpg"
-    },
-    {
-      "title": "特朗普為何解除輝達H20禁售令？中國國安部為何促用國產晶片？",
-      "description": "美國允許輝達向中國銷售H20晶片的決定，不僅是對輝達遊說的讓步，更是圍繞稀土礦物的地緣政治策略考量。分析指出，這一點中美雙方心照不宣。",
-      "link": "https://www.bbc.com/zhongwen/articles/cwygqp9lde8o/trad",
-      "pubDate": "2025-07-23T01:26:22.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwygqp9lde8o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7c69/live/cd93eea0-66c5-11f0-a4de-6d8ec3aa70c3.jpg"
     },
     {
       "title": "拆解台灣「大罷免」大敗原因：為何「反共護台」陣營未能撼動藍白基本盤",
@@ -234,20 +234,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/67a0/live/cb9f41b0-60be-11f0-a40e-a1af2950b220.jpg"
     },
     {
+      "title": "特朗普為何解除輝達H20禁售令？中國國安部為何促用國產晶片？",
+      "description": "美國允許輝達向中國銷售H20晶片的決定，不僅是對輝達遊說的讓步，更是圍繞稀土礦物的地緣政治策略考量。分析指出，這一點中美雙方心照不宣。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwygqp9lde8o/trad",
+      "pubDate": "2025-07-23T01:26:22.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwygqp9lde8o/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7c69/live/cd93eea0-66c5-11f0-a4de-6d8ec3aa70c3.jpg"
+    },
+    {
       "title": "中國在西藏修建全球最大水壩 印度為何深感憂慮",
       "description": "此計劃耗資約1.2萬億人民幣，北京稱將以生態保護為優先，並促進藏區繁榮。該工程——亦稱為墨脫水電站——完工後將超越三峽大壩，成為全球最大水力發電站，發電量可達三峽大壩的整整三倍。",
       "link": "https://www.bbc.com/zhongwen/articles/cdjxvkrn4d3o/trad",
       "pubDate": "2025-07-22T03:58:32.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cdjxvkrn4d3o/trad#5",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c698/live/834552b0-66a9-11f0-89ea-4d6f9851f623.jpg"
-    },
-    {
-      "title": "「日本人優先」的極右翼參政黨何以崛起",
-      "description": "在黨魁神谷宗幣的帶領下，參政黨警告外國人正對日本進行「靜默的侵入」，在剛結束的日本參議院選舉中異軍突起。",
-      "link": "https://www.bbc.com/zhongwen/articles/ckg6evp20nvo/trad",
-      "pubDate": "2025-07-22T08:12:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckg6evp20nvo/trad#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ebe/live/f3bc70a0-66cc-11f0-8dbd-f3d32ebd3327.jpg"
     },
     {
       "title": "朝鮮的「西班牙班尼多姆式」度假村迎來首批俄羅斯遊客",
