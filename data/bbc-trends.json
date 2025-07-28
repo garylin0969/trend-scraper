@@ -1,14 +1,22 @@
 {
-  "updated": "2025-07-28T05:52:31.849Z",
+  "updated": "2025-07-28T06:24:12.164Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-07-28T05:52:18.000Z",
+    "lastBuildDate": "2025-07-28T06:24:05.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "美國與歐盟達成貿易協議，對歐洲出口商品徵收15%關稅",
+      "description": "美國總統特朗普與歐盟領袖烏蘇拉·馮德萊恩在蘇格蘭經過「艱難談判」後握手達成協議。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5y20km82kxo/trad",
+      "pubDate": "2025-07-28T06:04:13.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5y20km82kxo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dbc4/live/625dbf60-6b1d-11f0-8dbd-f3d32ebd3327.jpg"
+    },
     {
       "title": "台灣「大罷免」慘敗的五個啟示",
       "description": "這場由公民團體發起、執政民進黨支持的罷免行動，試圖翻轉2024年選舉後「朝小野大」的立法院格局，卻以全面潰敗收場。",
@@ -16,14 +24,6 @@
       "pubDate": "2025-07-27T07:58:31.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c9395g2l5yno/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dab0/live/12cba7f0-6a50-11f0-89ea-4d6f9851f623.jpg"
-    },
-    {
-      "title": "台灣「大罷免」首輪失敗　25人全部留任",
-      "description": "台灣史上最大規模的「大罷免」舉行首輪投票，在野國民黨25名立法委員與新竹市市長全部留任，朱立倫呼籲賴清德道歉。",
-      "link": "https://bbc.in/471du7L",
-      "pubDate": "2025-07-26T00:00:00.000Z",
-      "guid": "https://bbc.in/471du7L#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f60e/live/90080220-6a2a-11f0-89ea-4d6f9851f623.jpg"
     },
     {
       "title": "人體內充斥著真菌：但它們會否造成大腦疾病？",
@@ -58,12 +58,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/57ea/live/e78c12c0-6a75-11f0-8dbd-f3d32ebd3327.jpg"
     },
     {
-      "title": "針對「親中」立委的「大罷免」投票如何撕裂台灣",
-      "description": "中國影響力的陰影引發了的這一場運動，也使到台灣分裂。",
-      "link": "https://www.bbc.com/zhongwen/articles/c0q8q1wy851o/trad",
-      "pubDate": "2025-07-25T06:42:44.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c0q8q1wy851o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/39d4/live/ded629e0-6921-11f0-af20-030418be2ca5.jpg"
+      "title": "台灣「大罷免」首輪失敗　25人全部留任",
+      "description": "台灣史上最大規模的「大罷免」舉行首輪投票，在野國民黨25名立法委員與新竹市市長全部留任，朱立倫呼籲賴清德道歉。",
+      "link": "https://bbc.in/471du7L",
+      "pubDate": "2025-07-26T00:00:00.000Z",
+      "guid": "https://bbc.in/471du7L#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f60e/live/90080220-6a2a-11f0-89ea-4d6f9851f623.jpg"
     },
     {
       "title": "台灣「抽血換學分」案，揭開「體育生制度」權力失衡的冰山一角",
