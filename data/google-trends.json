@@ -1,6 +1,11 @@
 {
-  "updated": "2025-07-28T17:40:48.882Z",
+  "updated": "2025-07-28T18:12:26.214Z",
   "trends": [
+    {
+      "googleTrend": "黃光芹",
+      "searchVolume": "100+",
+      "started": "1 小時前"
+    },
     {
       "googleTrend": "阿凡達",
       "searchVolume": "100+",
@@ -9,17 +14,22 @@
     {
       "googleTrend": "鄭麗文",
       "searchVolume": "200+",
-      "started": "2 小時前"
+      "started": "3 小時前"
     },
     {
       "googleTrend": "台南停課",
       "searchVolume": "200+",
-      "started": "30 分鐘前"
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "盧秀燕",
+      "searchVolume": "100+",
+      "started": "20 分鐘前"
     },
     {
       "googleTrend": "白喬茵",
       "searchVolume": "200+",
-      "started": "2 小時前"
+      "started": "3 小時前"
     },
     {
       "googleTrend": "舒華",
@@ -29,11 +39,6 @@
     {
       "googleTrend": "黃奇斌",
       "searchVolume": "100+",
-      "started": "2 小時前"
-    },
-    {
-      "googleTrend": "amd stock",
-      "searchVolume": "500+",
       "started": "3 小時前"
     },
     {
@@ -44,7 +49,12 @@
     {
       "googleTrend": "游盈隆",
       "searchVolume": "100+",
-      "started": "2 小時前"
+      "started": "3 小時前"
+    },
+    {
+      "googleTrend": "amd",
+      "searchVolume": "200+",
+      "started": "3 小時前"
     }
   ]
 }
