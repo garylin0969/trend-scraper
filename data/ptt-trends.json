@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-29T22:31:38.398Z",
+  "updated": "2025-07-29T22:42:58.744Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "332",
-      "recommendCount": "820",
-      "title": "[新聞] 府稱賴清德暫無出訪計畫　金融時報：川普政府不允許過境紐約後決定",
-      "link": "/bbs/Gossiping/M.1753741942.A.168",
-      "author": "ctfjuw",
-      "board": "Gossiping",
-      "publishTime": "2025/07/28 22:32",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "343",
       "recommendCount": "839",
       "title": "[問卦] 脆「我沒有政治立場」人種大量出沒中？",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/07/29 07:43",
       "imageUrl": "https://cache.pttweb.cc/imgur/7rdwfbF/s/f9135a610c79531a672688f6b5dd26fc"
+    },
+    {
+      "recommendScore": "275",
+      "recommendCount": "537",
+      "title": "[新聞] 快訊／台股10點鐘突然下殺　市場傳言台灣關稅22%",
+      "link": "/bbs/Stock/M.1753764638.A.3B5",
+      "author": "ChanHoPark",
+      "board": "Stock",
+      "publishTime": "2025/07/29 04:50",
+      "imageUrl": ""
     }
   ]
 }
