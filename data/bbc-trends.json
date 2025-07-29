@@ -1,14 +1,22 @@
 {
-  "updated": "2025-07-29T04:34:38.628Z",
+  "updated": "2025-07-29T04:59:42.908Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-07-29T04:34:29.000Z",
+    "lastBuildDate": "2025-07-29T04:59:37.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "特朗普：普京必須在10至12天內同意停火",
+      "description": "美國總統表示，在和平幾無進展的情況下，「沒有理由」再繼續等待。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn72y3gmjyeo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-07-29T04:54:20.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn72y3gmjyeo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2830/live/f34a5340-6bc1-11f0-aecb-f793dee9bba5.jpg"
+    },
     {
       "title": "特朗普與遊客如何助長日本極右勢力的崛起",
       "description": "「參政黨說出了其他人心中的話」：這個曾默默無聞的極右政黨如何撼動日本政壇？",
@@ -40,14 +48,6 @@
       "pubDate": "2025-07-28T04:10:54.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/clymyg0gvpdo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/525a/live/39613560-691f-11f0-8dbd-f3d32ebd3327.jpg"
-    },
-    {
-      "title": "抹茶熱潮席捲全球，致供應告急",
-      "description": "需求激增、熱浪導致茶葉減產、美國對日本徵收關稅，都進一步推高了抹茶的價格。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1mp0kk3zy4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-07-28T00:27:06.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1mp0kk3zy4o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3935/live/0b1bf140-65d7-11f0-90b5-7f02d0e68902.jpg"
     },
     {
       "title": "美國與歐盟達成貿易協議，對歐洲出口商品徵收15%關稅",
@@ -202,14 +202,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1906/live/4543b130-6872-11f0-89ea-4d6f9851f623.png"
     },
     {
-      "title": "台灣「大罷免」：「外省人」選民為何「造反」 ?  國民黨「鐵票」生鏽？",
-      "description": "台灣「外省子弟」為何在此次大罷免中「網路出櫃」或在「街頭造反」，不再支持國民黨主張？「台派」為何與「中華民國派」開始交集？他們是一時衝動還是政治覺醒？這些問題無疑將持續影響台灣民主及社會的變遷。",
-      "link": "https://www.bbc.com/zhongwen/articles/cglzlk26ryro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-07-25T05:11:57.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cglzlk26ryro/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c01/live/a0c7a400-6861-11f0-aac5-39aeca2aa8c7.jpg"
-    },
-    {
       "title": "中共政治局公告引關注，中國領導人習近平正為繼任做準備？",
       "description": "有專家指出，此次政治局新規是國家領導人習近平「提升績效，強化合法性，為繼續留任做下的準備」。",
       "link": "https://www.bbc.com/zhongwen/articles/cy0w240egkxo/trad?at_medium=RSS&at_campaign=rss",
@@ -224,6 +216,14 @@
       "pubDate": "2025-07-18T08:45:38.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cdxl7w63p1po/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8886/live/95375dc0-63a6-11f0-89ea-4d6f9851f623.jpg"
+    },
+    {
+      "title": "抹茶熱潮席捲全球，致供應告急",
+      "description": "需求激增、熱浪導致茶葉減產、美國對日本徵收關稅，都進一步推高了抹茶的價格。",
+      "link": "https://www.bbc.com/zhongwen/articles/c1mp0kk3zy4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-07-28T00:27:06.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1mp0kk3zy4o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3935/live/0b1bf140-65d7-11f0-90b5-7f02d0e68902.jpg"
     },
     {
       "title": "美國太空軍：BBC罕見獲准進入追蹤全球飛彈發射的美軍基地",
