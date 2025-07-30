@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-30T09:14:07.842Z",
+  "updated": "2025-07-30T09:31:46.888Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/5rYrCrf/s/9cd3e3bd1c2d8f02e9fffb751ead1106"
     },
     {
-      "recommendScore": "550",
-      "recommendCount": "977",
+      "recommendScore": "485",
+      "recommendCount": "1073",
+      "title": "[新聞] 賴清德定調第二波罷免與公民同行 王世堅當場反對",
+      "link": "/bbs/Gossiping/M.1753860071.A.ED2",
+      "author": "SAgirl",
+      "board": "Gossiping",
+      "publishTime": "2025/07/30 07:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "558",
+      "recommendCount": "992",
       "title": "[爆卦] 柯建銘註冊大罷免 大成宮商標",
       "link": "/bbs/Gossiping/M.1753850225.A.E0B",
       "author": "Skyblueway",
@@ -34,16 +44,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ShujwZ6/s/8524aaa0907ebb53eaf4fb8ac997793b"
     },
     {
-      "recommendScore": "399",
-      "recommendCount": "904",
-      "title": "[新聞] 賴清德定調第二波罷免與公民同行 王世堅當場反對",
-      "link": "/bbs/Gossiping/M.1753860071.A.ED2",
-      "author": "SAgirl",
-      "board": "Gossiping",
-      "publishTime": "2025/07/30 07:21",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "248",
       "recommendCount": "771",
       "title": "[新聞] 賴總統下令成立雲嘉南前進指揮所 政委陳金德召集進駐",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "321",
-      "recommendCount": "703",
+      "recommendScore": "322",
+      "recommendCount": "704",
       "title": "[問卦] 脆熱議：台南災民真實感受  其實不錯",
       "link": "/bbs/Gossiping/M.1753839380.A.160",
       "author": "norvasc",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "369",
-      "recommendCount": "891",
+      "recommendCount": "892",
       "title": "[問卦] 脆「我沒有政治立場」人種大量出沒中？",
       "link": "/bbs/Gossiping/M.1753796043.A.6C9",
       "author": "super1314159",
@@ -74,8 +74,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/RYDKK5c/s/093e9ade0e3b026f67113a1cc723eff6"
     },
     {
-      "recommendScore": "277",
-      "recommendCount": "656",
+      "recommendScore": "319",
+      "recommendCount": "750",
+      "title": "[新聞] 暗諷？王世堅反對大罷免盼賴總統撤案 王義川：不服命令的，滾啦！",
+      "link": "/bbs/Gossiping/M.1753862682.A.C84",
+      "author": "sukiya",
+      "board": "Gossiping",
+      "publishTime": "2025/07/30 08:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "278",
+      "recommendCount": "658",
       "title": "[問卦] 現在公然造謠說謊都沒有法律責任",
       "link": "/bbs/Gossiping/M.1753826285.A.76B",
       "author": "sevenzgod",
@@ -84,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "317",
-      "recommendCount": "832",
-      "title": "[新聞] 彭博：台美關稅談判卡關　傳美要求「比照日本5500億美元投資」",
-      "link": "/bbs/Stock/M.1753838160.A.B11",
-      "author": "diefishfish",
-      "board": "Stock",
-      "publishTime": "2025/07/30 01:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "232",
-      "recommendCount": "582",
+      "recommendScore": "237",
+      "recommendCount": "591",
       "title": "[爆卦] 王世堅送柯建銘衛生紙",
       "link": "/bbs/Gossiping/M.1753855137.A.10A",
       "author": "RoronoaZoro",
@@ -104,8 +104,28 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/vZrIh3s/s/297619176796283f6f7ba6728f671102"
     },
     {
-      "recommendScore": "279",
-      "recommendCount": "569",
+      "recommendScore": "267",
+      "recommendCount": "577",
+      "title": "[新聞] 林俊憲勘災被民眾攔道致謝！　網質疑擺拍：他是綠資深黨員",
+      "link": "/bbs/Gossiping/M.1753857575.A.C46",
+      "author": "TZUYIC",
+      "board": "Gossiping",
+      "publishTime": "2025/07/30 06:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "317",
+      "recommendCount": "833",
+      "title": "[新聞] 彭博：台美關稅談判卡關　傳美要求「比照日本5500億美元投資」",
+      "link": "/bbs/Stock/M.1753838160.A.B11",
+      "author": "diefishfish",
+      "board": "Stock",
+      "publishTime": "2025/07/30 01:16",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "278",
+      "recommendCount": "571",
       "title": "[問卦] 新竹棒球場這麼簡單的事情查這麼久？",
       "link": "/bbs/Gossiping/M.1753844330.A.4E8",
       "author": "Goo4u",
@@ -124,6 +144,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/aWvnSMT/s/603078dc2c53e4b0793dcaf19121a414"
     },
     {
+      "recommendScore": "180",
+      "recommendCount": "545",
+      "title": "[新聞] 快訊／市犬棕棕遭送回收容所　林智堅道歉了：確實不夠周全與嚴謹",
+      "link": "/bbs/Gossiping/M.1753849830.A.3E5",
+      "author": "CrazySept",
+      "board": "Gossiping",
+      "publishTime": "2025/07/30 04:30",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "199",
       "recommendCount": "553",
       "title": "[新聞] 台大兒醫爆主治醫師將輪值夜班 邱泰源：制度令人敬佩",
@@ -131,16 +161,6 @@
       "author": "jk182325",
       "board": "Gossiping",
       "publishTime": "2025/07/29 13:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "174",
-      "recommendCount": "530",
-      "title": "[新聞] 快訊／市犬棕棕遭送回收容所　林智堅道歉了：確實不夠周全與嚴謹",
-      "link": "/bbs/Gossiping/M.1753849830.A.3E5",
-      "author": "CrazySept",
-      "board": "Gossiping",
-      "publishTime": "2025/07/30 04:30",
       "imageUrl": ""
     },
     {
@@ -154,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "245",
-      "recommendCount": "535",
-      "title": "[新聞] 林俊憲勘災被民眾攔道致謝！　網質疑擺拍：他是綠資深黨員",
-      "link": "/bbs/Gossiping/M.1753857575.A.C46",
-      "author": "TZUYIC",
-      "board": "Gossiping",
-      "publishTime": "2025/07/30 06:39",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "319",
       "recommendCount": "408",
       "title": "[情報] 大巨蛋例行賽首支再見全壘打-張育成",
@@ -174,18 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "125",
-      "recommendCount": "473",
-      "title": "[新聞] 南部豪雨成災！卓榮泰加碼發救助金",
-      "link": "/bbs/Gossiping/M.1753788730.A.DF3",
-      "author": "Carol787",
-      "board": "Gossiping",
-      "publishTime": "2025/07/29 11:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "194",
-      "recommendCount": "551",
+      "recommendScore": "197",
+      "recommendCount": "559",
       "title": "[新聞] 白營擬審卓榮泰、柯建銘、吳釗燮4案 吳思瑤批霸凌：缺乏正當性",
       "link": "/bbs/Gossiping/M.1753846790.A.172",
       "author": "MightySultan",
@@ -194,14 +194,14 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/pC0jhdx/s/54eb6a22862a7657a23f23e4eb4cd116"
     },
     {
-      "recommendScore": "359",
-      "recommendCount": "607",
-      "title": "[閒聊] 出租女友 387 真的被當ATM= =",
-      "link": "/bbs/C_Chat/M.1753836328.A.C92",
-      "author": "k300plus",
-      "board": "C_Chat",
-      "publishTime": "2025/07/30 00:45",
-      "imageUrl": "https://cache.pttweb.cc/imgur/kqA1WPF/s/8357a651ea1ffcf7d925c7d77dc96563"
+      "recommendScore": "125",
+      "recommendCount": "473",
+      "title": "[新聞] 南部豪雨成災！卓榮泰加碼發救助金",
+      "link": "/bbs/Gossiping/M.1753788730.A.DF3",
+      "author": "Carol787",
+      "board": "Gossiping",
+      "publishTime": "2025/07/29 11:32",
+      "imageUrl": ""
     }
   ]
 }
