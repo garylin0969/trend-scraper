@@ -1,14 +1,22 @@
 {
-  "updated": "2025-07-30T04:31:08.098Z",
+  "updated": "2025-07-30T04:58:08.419Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-07-30T04:31:00.000Z",
+    "lastBuildDate": "2025-07-30T04:58:01.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "加沙: 專家警告稱最嚴重的飢荒正在上演",
+      "description": "救援機構警告稱，以色列最近增加援助物資的措施遠遠不夠。",
+      "link": "https://www.bbc.com/zhongwen/articles/c98lel63mnro/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-07-30T04:52:19.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c98lel63mnro/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab74/live/7802f790-6c71-11f0-8f90-c17ebec3ee12.jpg"
+    },
     {
       "title": "英國首相施紀賢：除非以色列同意停火，否則英國將承認巴勒斯坦國",
       "description": "英國首相宣布，除非以色列採取包括同意停火在內的措施，否則將在9月改變政策。",
@@ -40,14 +48,6 @@
       "pubDate": "2025-07-29T00:25:47.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c14g8exxndxo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/40b5/live/44ffec00-6b94-11f0-926c-03b2da9020bc.png"
-    },
-    {
-      "title": "人體內充斥著真菌：但它們會否造成大腦疾病？",
-      "description": "科學家早已了解真菌腦部感染的危險性。然而，近年來一些研究人員開始探索一個可能性：真菌進入大腦的頻率可能遠高於我們過往認知，甚至可能與阿茲海默症等腦部疾病有關。",
-      "link": "https://www.bbc.com/zhongwen/articles/clymyg0gvpdo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-07-28T04:10:54.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/clymyg0gvpdo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/525a/live/39613560-691f-11f0-8dbd-f3d32ebd3327.jpg"
     },
     {
       "title": "觀察：盟友為加沙飢荒震驚，以色列的援助措施是一種姿態",
@@ -194,14 +194,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e97f/live/1bd29580-5483-11f0-8f18-517b1c770727.jpg"
     },
     {
-      "title": "習近平罕見直批地方扎堆發展新能源和AI：「反內卷」運動背後的政績焦慮",
-      "description": "這一口語化的質疑揭示了當前中國地方政府在新興產業佈局上的嚴重同質化問題。",
-      "link": "https://www.bbc.com/zhongwen/articles/c62824dx6pko/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-07-24T23:56:58.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c62824dx6pko/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1906/live/4543b130-6872-11f0-89ea-4d6f9851f623.png"
-    },
-    {
       "title": "歐盟委員會主席稱中歐關係正處於「轉折點」",
       "description": "由於關係緊張，中國與歐盟的峰會只有一天。",
       "link": "https://www.bbc.com/zhongwen/articles/cdjxjrw3v8go/trad?at_medium=RSS&at_campaign=rss",
@@ -232,6 +224,14 @@
       "pubDate": "2025-07-29T05:44:37.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c78zdpqq3dyo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/51b6/live/06fd5980-6b83-11f0-a618-c5727aaeea6a.jpg"
+    },
+    {
+      "title": "人體內充斥著真菌：但它們會否造成大腦疾病？",
+      "description": "科學家早已了解真菌腦部感染的危險性。然而，近年來一些研究人員開始探索一個可能性：真菌進入大腦的頻率可能遠高於我們過往認知，甚至可能與阿茲海默症等腦部疾病有關。",
+      "link": "https://www.bbc.com/zhongwen/articles/clymyg0gvpdo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-07-28T04:10:54.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/clymyg0gvpdo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/525a/live/39613560-691f-11f0-8dbd-f3d32ebd3327.jpg"
     },
     {
       "title": "特朗普為何解除輝達H20禁售令？中國國安部為何促用國產晶片？",
