@@ -1,8 +1,18 @@
 {
-  "updated": "2025-07-31T06:52:19.001Z",
+  "updated": "2025-07-31T07:08:41.637Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "440",
+      "recommendCount": "1485",
+      "title": "[新聞]快訊／高虹安告陳時奮不成反被依誣告判刑",
+      "link": "/bbs/Gossiping/M.1753926438.A.069",
+      "author": "linhu8883324",
+      "board": "Gossiping",
+      "publishTime": "2025/07/31 01:47",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "658",
       "recommendCount": "1434",
@@ -11,16 +21,6 @@
       "author": "SAgirl",
       "board": "Gossiping",
       "publishTime": "2025/07/30 07:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "438",
-      "recommendCount": "1485",
-      "title": "[新聞]快訊／高虹安告陳時奮不成反被依誣告判刑",
-      "link": "/bbs/Gossiping/M.1753926438.A.069",
-      "author": "linhu8883324",
-      "board": "Gossiping",
-      "publishTime": "2025/07/31 01:47",
       "imageUrl": ""
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "444",
-      "recommendCount": "956",
+      "recommendCount": "958",
       "title": "[問卦] 重啟核電，你真的ok嗎？",
       "link": "/bbs/Gossiping/M.1753920304.A.DE9",
       "author": "ambitious",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "260",
-      "recommendCount": "1003",
+      "recommendScore": "261",
+      "recommendCount": "1004",
       "title": "[問卦] 中國提什麼條件，大家願意「兩岸統一」？",
       "link": "/bbs/Gossiping/M.1753866067.A.2B5",
       "author": "kons",
@@ -74,13 +74,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "348",
-      "recommendCount": "718",
+      "recommendScore": "349",
+      "recommendCount": "722",
       "title": "[新聞] 女公關被割喉亡！　妹妹怒嗆台灣政府：殺人沒有死刑",
       "link": "/bbs/Gossiping/M.1753922751.A.EC2",
       "author": "a0580531",
       "board": "Gossiping",
       "publishTime": "2025/07/31 00:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "418",
+      "recommendCount": "918",
+      "title": "[新聞] 高虹安二審判6月 清大教授指法院邏輯謬誤",
+      "link": "/bbs/Gossiping/M.1753931274.A.25A",
+      "author": "Audrey23",
+      "board": "Gossiping",
+      "publishTime": "2025/07/31 03:07",
       "imageUrl": ""
     },
     {
@@ -94,13 +104,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "408",
-      "recommendCount": "888",
-      "title": "[新聞] 高虹安二審判6月 清大教授指法院邏輯謬誤",
-      "link": "/bbs/Gossiping/M.1753931274.A.25A",
-      "author": "Audrey23",
-      "board": "Gossiping",
-      "publishTime": "2025/07/31 03:07",
+      "recommendScore": "414",
+      "recommendCount": "1216",
+      "title": "[新聞] 傳我投資美12兆台幣換15%關稅 傅崐萁：締約要經立院同意",
+      "link": "/bbs/Stock/M.1753936863.A.C8E",
+      "author": "DoncicInPTT",
+      "board": "Stock",
+      "publishTime": "2025/07/31 04:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "494",
+      "recommendCount": "516",
+      "title": "[贈票] 【無名弒2】北中南特映搶先看",
+      "link": "/bbs/movie/M.1753861890.A.240",
+      "author": "cecilia1220",
+      "board": "movie",
+      "publishTime": "2025/07/30 07:51",
       "imageUrl": ""
     },
     {
@@ -114,18 +134,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "487",
-      "recommendCount": "509",
-      "title": "[贈票] 【無名弒2】北中南特映搶先看",
-      "link": "/bbs/movie/M.1753861890.A.240",
-      "author": "cecilia1220",
-      "board": "movie",
-      "publishTime": "2025/07/30 07:51",
-      "imageUrl": ""
+      "recommendScore": "323",
+      "recommendCount": "906",
+      "title": "[問卦] 大家接受這個條件嗎？",
+      "link": "/bbs/Gossiping/M.1753939305.A.C22",
+      "author": "krit1009",
+      "board": "Gossiping",
+      "publishTime": "2025/07/31 05:21",
+      "imageUrl": "https://cache.pttweb.cc/imgur/WmsK91M/s/edc3ae8560da4c7486ba6c075ae6db0f"
     },
     {
-      "recommendScore": "353",
-      "recommendCount": "1419",
+      "recommendScore": "351",
+      "recommendCount": "1422",
       "title": "[討論] 高虹安誣告二審判6個月",
       "link": "/bbs/HatePolitics/M.1753925950.A.5EF",
       "author": "wetteland",
@@ -144,18 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "387",
-      "recommendCount": "1124",
-      "title": "[新聞] 傳我投資美12兆台幣換15%關稅 傅崐萁：締約要經立院同意",
-      "link": "/bbs/Stock/M.1753936863.A.C8E",
-      "author": "DoncicInPTT",
-      "board": "Stock",
-      "publishTime": "2025/07/31 04:41",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "315",
-      "recommendCount": "896",
+      "recommendCount": "899",
       "title": "[請益] 日韓為什麼吞得下去？",
       "link": "/bbs/Stock/M.1753921140.A.FBE",
       "author": "x111222333",
@@ -175,7 +185,7 @@
     },
     {
       "recommendScore": "245",
-      "recommendCount": "872",
+      "recommendCount": "879",
       "title": "[新聞] 我端4000億美元對美投資 爭取與日齊平的15％關稅",
       "link": "/bbs/Gossiping/M.1753924065.A.1D4",
       "author": "d8917936",
@@ -184,23 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "175",
-      "recommendCount": "498",
+      "recommendScore": "176",
+      "recommendCount": "499",
       "title": "[新聞] 背水一戰！柯建銘喊話「823大罷免須大團結才能大成宮」",
       "link": "/bbs/Gossiping/M.1753883400.A.5AA",
       "author": "mars1985",
       "board": "Gossiping",
       "publishTime": "2025/07/30 13:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "34",
-      "recommendCount": "1042",
-      "title": "[討論] 綠很爛，但你們真的想讓藍掌權嗎",
-      "link": "/bbs/HatePolitics/M.1753891155.A.422",
-      "author": "hbkgod619",
-      "board": "HatePolitics",
-      "publishTime": "2025/07/30 15:59",
       "imageUrl": ""
     }
   ]
