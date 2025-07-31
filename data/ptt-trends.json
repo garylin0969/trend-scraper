@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-31T00:27:59.301Z",
+  "updated": "2025-07-31T00:51:43.817Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -55,7 +55,7 @@
     },
     {
       "recommendScore": "527",
-      "recommendCount": "657",
+      "recommendCount": "658",
       "title": "[問卦] 你各位猜猜關稅到底幾趴啦？發錢！",
       "link": "/bbs/Gossiping/M.1753867425.A.B41",
       "author": "black1x2y3z",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "355",
-      "recommendCount": "745",
+      "recommendScore": "358",
+      "recommendCount": "751",
       "title": "[新聞] 台北市長2026選戰起風？PTT爆「民進黨5人名單」網友最愛曝光",
       "link": "/bbs/Gossiping/M.1753879481.A.D9C",
       "author": "iamshana",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "268",
-      "recommendCount": "617",
+      "recommendScore": "269",
+      "recommendCount": "619",
       "title": "[新聞] 王世堅反對賴清德823戰到底　王義川：不服從命令的滾啦",
       "link": "/bbs/Gossiping/M.1753866299.A.6E3",
       "author": "divda",
@@ -155,7 +155,7 @@
     },
     {
       "recommendScore": "267",
-      "recommendCount": "593",
+      "recommendCount": "596",
       "title": "[新聞] 一面倒？多名綠委跟進王義川暗批王世堅 喊話勿傷害內部團結",
       "link": "/bbs/Gossiping/M.1753872109.A.2AE",
       "author": "Wojnarowski",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "325",
-      "recommendCount": "1291",
+      "recommendScore": "324",
+      "recommendCount": "1292",
       "title": "[討論] 傻眼，王義川賴清德在幹嘛？",
       "link": "/bbs/HatePolitics/M.1753865348.A.E9A",
       "author": "TheoEpstein",
@@ -174,13 +174,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/skP0Ai3/s/e55a46d3621c344f012b3ac54c5cf6c9"
     },
     {
-      "recommendScore": "411",
-      "recommendCount": "431",
+      "recommendScore": "414",
+      "recommendCount": "434",
       "title": "[贈票] 【無名弒2】北中南特映搶先看",
       "link": "/bbs/movie/M.1753861890.A.240",
       "author": "cecilia1220",
       "board": "movie",
       "publishTime": "2025/07/30 07:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "310",
+      "recommendCount": "464",
+      "title": "[新聞] 快訊／家寧「一家4人遭起訴」！吞眾量級4千萬收益　還逃稅破千萬",
+      "link": "/bbs/Gossiping/M.1753869167.A.689",
+      "author": "k66333",
+      "board": "Gossiping",
+      "publishTime": "2025/07/30 09:52",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/30 03:39",
       "imageUrl": "https://cache.pttweb.cc/imgur/pC0jhdx/s/54eb6a22862a7657a23f23e4eb4cd116"
-    },
-    {
-      "recommendScore": "309",
-      "recommendCount": "462",
-      "title": "[新聞] 快訊／家寧「一家4人遭起訴」！吞眾量級4千萬收益　還逃稅破千萬",
-      "link": "/bbs/Gossiping/M.1753869167.A.689",
-      "author": "k66333",
-      "board": "Gossiping",
-      "publishTime": "2025/07/30 09:52",
-      "imageUrl": ""
     }
   ]
 }
