@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-31T03:01:54.001Z",
+  "updated": "2025-07-31T03:45:41.680Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "352",
-      "recommendCount": "1200",
+      "recommendScore": "388",
+      "recommendCount": "1305",
       "title": "[新聞]快訊／高虹安告陳時奮不成反被依誣告判刑",
       "link": "/bbs/Gossiping/M.1753926438.A.069",
       "author": "linhu8883324",
@@ -64,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "364",
+      "recommendCount": "790",
+      "title": "[問卦] 重啟核電，你真的ok嗎？",
+      "link": "/bbs/Gossiping/M.1753920304.A.DE9",
+      "author": "ambitious",
+      "board": "Gossiping",
+      "publishTime": "2025/07/31 00:05",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "362",
       "recommendCount": "772",
       "title": "[新聞] 台北市長2026選戰起風？PTT爆「民進黨5人名單」網友最愛曝光",
@@ -71,16 +81,6 @@
       "author": "iamshana",
       "board": "Gossiping",
       "publishTime": "2025/07/30 12:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "357",
-      "recommendCount": "770",
-      "title": "[問卦] 重啟核電，你真的ok嗎？",
-      "link": "/bbs/Gossiping/M.1753920304.A.DE9",
-      "author": "ambitious",
-      "board": "Gossiping",
-      "publishTime": "2025/07/31 00:05",
       "imageUrl": ""
     },
     {
@@ -134,18 +134,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/vZrIh3s/s/297619176796283f6f7ba6728f671102"
     },
     {
-      "recommendScore": "270",
-      "recommendCount": "602",
-      "title": "[新聞] 一面倒？多名綠委跟進王義川暗批王世堅 喊話勿傷害內部團結",
-      "link": "/bbs/Gossiping/M.1753872109.A.2AE",
-      "author": "Wojnarowski",
-      "board": "Gossiping",
-      "publishTime": "2025/07/30 10:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "437",
-      "recommendCount": "458",
+      "recommendScore": "455",
+      "recommendCount": "477",
       "title": "[贈票] 【無名弒2】北中南特映搶先看",
       "link": "/bbs/movie/M.1753861890.A.240",
       "author": "cecilia1220",
@@ -154,13 +144,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "261",
-      "recommendCount": "520",
+      "recommendScore": "271",
+      "recommendCount": "541",
       "title": "[新聞] 女公關被割喉亡！　妹妹怒嗆台灣政府：殺人沒有死刑",
       "link": "/bbs/Gossiping/M.1753922751.A.EC2",
       "author": "a0580531",
       "board": "Gossiping",
       "publishTime": "2025/07/31 00:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "270",
+      "recommendCount": "602",
+      "title": "[新聞] 一面倒？多名綠委跟進王義川暗批王世堅 喊話勿傷害內部團結",
+      "link": "/bbs/Gossiping/M.1753872109.A.2AE",
+      "author": "Wojnarowski",
+      "board": "Gossiping",
+      "publishTime": "2025/07/30 10:41",
       "imageUrl": ""
     },
     {
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "203",
-      "recommendCount": "577",
-      "title": "[新聞] 白營擬審卓榮泰、柯建銘、吳釗燮4案 吳思瑤批霸凌：缺乏正當性",
-      "link": "/bbs/Gossiping/M.1753846790.A.172",
-      "author": "MightySultan",
-      "board": "Gossiping",
-      "publishTime": "2025/07/30 03:39",
-      "imageUrl": "https://cache.pttweb.cc/imgur/pC0jhdx/s/54eb6a22862a7657a23f23e4eb4cd116"
-    },
-    {
       "recommendScore": "35",
       "recommendCount": "1034",
       "title": "[討論] 綠很爛，但你們真的想讓藍掌權嗎",
@@ -201,6 +191,16 @@
       "author": "hbkgod619",
       "board": "HatePolitics",
       "publishTime": "2025/07/30 15:59",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "172",
+      "recommendCount": "486",
+      "title": "[新聞] 背水一戰！柯建銘喊話「823大罷免須大團結才能大成宮」",
+      "link": "/bbs/Gossiping/M.1753883400.A.5AA",
+      "author": "mars1985",
+      "board": "Gossiping",
+      "publishTime": "2025/07/30 13:50",
       "imageUrl": ""
     }
   ]
