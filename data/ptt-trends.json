@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-31T10:48:08.134Z",
+  "updated": "2025-07-31T10:57:51.643Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "478",
+      "recommendCount": "1447",
+      "title": "[新聞] 傳我投資美12兆台幣換15%關稅 傅崐萁：締約要經立院同意",
+      "link": "/bbs/Stock/M.1753936863.A.C8E",
+      "author": "DoncicInPTT",
+      "board": "Stock",
+      "publishTime": "2025/07/31 04:41",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "380",
       "recommendCount": "829",
       "title": "[爆卦] 美麗島民調賴清德大崩盤",
@@ -62,16 +72,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/31 05:57",
       "imageUrl": "https://cache.pttweb.cc/imgur/WRtF3nN/s/82e4219252cd3567e46cada69674262f"
-    },
-    {
-      "recommendScore": "469",
-      "recommendCount": "1430",
-      "title": "[新聞] 傳我投資美12兆台幣換15%關稅 傅崐萁：締約要經立院同意",
-      "link": "/bbs/Stock/M.1753936863.A.C8E",
-      "author": "DoncicInPTT",
-      "board": "Stock",
-      "publishTime": "2025/07/31 04:41",
-      "imageUrl": ""
     },
     {
       "recommendScore": "366",
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "249",
+      "recommendCount": "515",
+      "title": "[新聞] 民調／賴清德滿意度雪崩下滑10個百分點",
+      "link": "/bbs/Gossiping/M.1753943392.A.2D0",
+      "author": "youhow0418",
+      "board": "Gossiping",
+      "publishTime": "2025/07/31 06:29",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "289",
       "recommendCount": "498",
       "title": "[新聞] 「台灣與柬埔寨達成停火協議」瑞士大報搞烏龍　台灣上頭版了",
@@ -162,16 +172,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/31 06:55",
       "imageUrl": "https://cache.pttweb.cc/imgur/2UDubtx/s/fd9dec665f14f238a44b2f75badd32e9"
-    },
-    {
-      "recommendScore": "243",
-      "recommendCount": "500",
-      "title": "[新聞] 民調／賴清德滿意度雪崩下滑10個百分點",
-      "link": "/bbs/Gossiping/M.1753943392.A.2D0",
-      "author": "youhow0418",
-      "board": "Gossiping",
-      "publishTime": "2025/07/31 06:29",
-      "imageUrl": ""
     },
     {
       "recommendScore": "308",
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "241",
-      "recommendCount": "619",
+      "recommendScore": "245",
+      "recommendCount": "629",
       "title": "[新聞] 我方釋出農產品、汽車讓步 對美投資4000億美元 換取與日韓相同15％關稅",
       "link": "/bbs/Stock/M.1753939413.A.BE4",
       "author": "koushimei",
