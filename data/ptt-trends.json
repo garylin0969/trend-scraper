@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-31T13:07:39.002Z",
+  "updated": "2025-07-31T13:26:45.189Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "300",
+      "recommendCount": "594",
+      "title": "[問卦] 脆發起打爆服務處電話討錢行動",
+      "link": "/bbs/Gossiping/M.1753944905.A.1A3",
+      "author": "eatk",
+      "board": "Gossiping",
+      "publishTime": "2025/07/31 06:55",
+      "imageUrl": "https://cache.pttweb.cc/imgur/2UDubtx/s/fd9dec665f14f238a44b2f75badd32e9"
+    },
+    {
       "recommendScore": "256",
       "recommendCount": "912",
       "title": "[新聞] 我端4000億美元對美投資 爭取與日齊平的15％關稅",
@@ -122,16 +132,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/31 01:07",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "290",
-      "recommendCount": "578",
-      "title": "[問卦] 脆發起打爆服務處電話討錢行動",
-      "link": "/bbs/Gossiping/M.1753944905.A.1A3",
-      "author": "eatk",
-      "board": "Gossiping",
-      "publishTime": "2025/07/31 06:55",
-      "imageUrl": "https://cache.pttweb.cc/imgur/2UDubtx/s/fd9dec665f14f238a44b2f75badd32e9"
     },
     {
       "recommendScore": "265",
@@ -144,8 +144,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/IQnBfn3/s/aba0a069c3ce7e2e05cfaff88211bffd"
     },
     {
-      "recommendScore": "251",
-      "recommendCount": "525",
+      "recommendScore": "255",
+      "recommendCount": "530",
       "title": "[新聞] 民調／賴清德滿意度雪崩下滑10個百分點",
       "link": "/bbs/Gossiping/M.1753943392.A.2D0",
       "author": "youhow0418",
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "193",
+      "recommendCount": "516",
+      "title": "[新聞] 下任行政院長是誰？黃暐瀚、郭正亮一致點名「這2人」有機會",
+      "link": "/bbs/Gossiping/M.1753952144.A.B25",
+      "author": "st210113",
+      "board": "Gossiping",
+      "publishTime": "2025/07/31 08:55",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "289",
       "recommendCount": "499",
       "title": "[新聞] 「台灣與柬埔寨達成停火協議」瑞士大報搞烏龍　台灣上頭版了",
@@ -191,16 +201,6 @@
       "author": "koushimei",
       "board": "Stock",
       "publishTime": "2025/07/31 05:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "261",
-      "recommendCount": "707",
-      "title": "[新聞] 台灣最惠關稅15%? 彭博：須加碼對美國投資",
-      "link": "/bbs/Stock/M.1753883310.A.375",
-      "author": "centaurjr",
-      "board": "Stock",
-      "publishTime": "2025/07/30 13:48",
       "imageUrl": ""
     }
   ]
