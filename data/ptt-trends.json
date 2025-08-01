@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-01T20:18:09.521Z",
+  "updated": "2025-08-01T20:32:19.748Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "204",
+      "recommendCount": "487",
+      "title": "[新聞] 認幽靈罷免換自由!黃呂錦茹改口認罪1000萬交保",
+      "link": "/bbs/Gossiping/M.1754030331.A.3A9",
+      "author": "zebirlin",
+      "board": "Gossiping",
+      "publishTime": "2025/08/01 06:38",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "103",
       "recommendCount": "513",
       "title": "[爆卦] 曹興誠鼓吹「正名制憲」、建立「台灣國",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/01 04:27",
       "imageUrl": "https://cache.pttweb.cc/imgur/G8l3AjQ/s/e9611dc576f4d5edc5c3a31a6dd51140"
-    },
-    {
-      "recommendScore": "204",
-      "recommendCount": "486",
-      "title": "[新聞] 認幽靈罷免換自由!黃呂錦茹改口認罪1000萬交保",
-      "link": "/bbs/Gossiping/M.1754030331.A.3A9",
-      "author": "zebirlin",
-      "board": "Gossiping",
-      "publishTime": "2025/08/01 06:38",
-      "imageUrl": ""
     }
   ]
 }
