@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-01T08:20:27.789Z",
+  "updated": "2025-08-01T08:36:56.365Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/eF4K7fD/s/42472d586ee4e919f9f38db3d8a6fada"
     },
     {
-      "recommendScore": "359",
-      "recommendCount": "1302",
+      "recommendScore": "363",
+      "recommendCount": "1312",
       "title": "[爆卦] 跟美國對等關稅細節保密",
       "link": "/bbs/Gossiping/M.1754019558.A.0A0",
       "author": "rz2x",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "754",
-      "recommendCount": "787",
+      "recommendScore": "755",
+      "recommendCount": "788",
       "title": "[問卦] 隨便猜20%中三萬的八卦（發錢）",
       "link": "/bbs/Gossiping/M.1754009263.A.6C5",
       "author": "claymath",
@@ -75,7 +75,7 @@
     },
     {
       "recommendScore": "370",
-      "recommendCount": "864",
+      "recommendCount": "866",
       "title": "[新聞] 快訊／川普宣布：台灣對等關稅稅率20％",
       "link": "/bbs/Stock/M.1754004210.A.7F3",
       "author": "bbbb25487",
@@ -85,7 +85,7 @@
     },
     {
       "recommendScore": "272",
-      "recommendCount": "779",
+      "recommendCount": "782",
       "title": "[新聞] 快訊／賴清德：美國宣布台灣稅率20％",
       "link": "/bbs/Stock/M.1754007454.A.4DB",
       "author": "zkow",
@@ -154,8 +154,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "166",
-      "recommendCount": "522",
+      "recommendScore": "296",
+      "recommendCount": "494",
+      "title": "Re: [新聞] 吳崢：惡意散布假消息絕對告！",
+      "link": "/bbs/Gossiping/M.1754028888.A.CE3",
+      "author": "Lailungsheng",
+      "board": "Gossiping",
+      "publishTime": "2025/08/01 06:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "167",
+      "recommendCount": "524",
       "title": "[新聞] 罷團公告指「賴士葆就是漢奸走狗賣國賊」 公然侮辱獲不起訴",
       "link": "/bbs/Gossiping/M.1754015890.A.77F",
       "author": "SAgirl",
@@ -174,34 +184,24 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/tebMnhA/s/0ef6ccb1f09559858c71e1af532c7aea"
     },
     {
-      "recommendScore": "320",
-      "recommendCount": "425",
+      "recommendScore": "177",
+      "recommendCount": "480",
+      "title": "[問卦] 三立:台灣降的比日韓多",
+      "link": "/bbs/Gossiping/M.1754029216.A.440",
+      "author": "a5687920",
+      "board": "Gossiping",
+      "publishTime": "2025/08/01 06:20",
+      "imageUrl": "https://cache.pttweb.cc/imgur/LXao9Mj/s/ac5d0c4459676b2759fe189a3d163192"
+    },
+    {
+      "recommendScore": "321",
+      "recommendCount": "426",
       "title": "[問卦] 猜猜關稅後telsa model 3的售價會降多少",
       "link": "/bbs/Gossiping/M.1753970340.A.43A",
       "author": "siugwai",
       "board": "Gossiping",
       "publishTime": "2025/07/31 13:59",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "313",
-      "recommendCount": "439",
-      "title": "[問卦] 猜猜看幾%？",
-      "link": "/bbs/Gossiping/M.1753975947.A.CC6",
-      "author": "takizawa5566",
-      "board": "Gossiping",
-      "publishTime": "2025/07/31 15:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "231",
-      "recommendCount": "496",
-      "title": "[問卦] 花蓮傻逼咖啡重新開幕？",
-      "link": "/bbs/Gossiping/M.1753950702.A.26E",
-      "author": "SuperPttMan",
-      "board": "Gossiping",
-      "publishTime": "2025/07/31 08:31",
-      "imageUrl": "https://cache.pttweb.cc/imgur/eslKB5j/s/499bae377eeab141436ba0a3b5c73592"
     }
   ]
 }
