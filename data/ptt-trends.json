@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-01T05:17:29.015Z",
+  "updated": "2025-08-01T05:33:11.555Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -22,16 +22,6 @@
       "board": "Gossiping",
       "publishTime": "2025/07/31 11:41",
       "imageUrl": "https://cache.pttweb.cc/imgur/eF4K7fD/s/42472d586ee4e919f9f38db3d8a6fada"
-    },
-    {
-      "recommendScore": "506",
-      "recommendCount": "1363",
-      "title": "[問卦] 大家接受這個條件嗎？",
-      "link": "/bbs/Gossiping/M.1753939305.A.C22",
-      "author": "krit1009",
-      "board": "Gossiping",
-      "publishTime": "2025/07/31 05:21",
-      "imageUrl": "https://cache.pttweb.cc/imgur/WmsK91M/s/edc3ae8560da4c7486ba6c075ae6db0f"
     },
     {
       "recommendScore": "552",
@@ -115,7 +105,7 @@
     },
     {
       "recommendScore": "273",
-      "recommendCount": "773",
+      "recommendCount": "775",
       "title": "[新聞] 快訊／賴清德：美國宣布台灣稅率20％",
       "link": "/bbs/Stock/M.1754007454.A.4DB",
       "author": "zkow",
@@ -201,6 +191,16 @@
       "author": "youhow0418",
       "board": "Gossiping",
       "publishTime": "2025/07/31 06:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "281",
+      "recommendCount": "475",
+      "title": "Re: [新聞] 快訊／總統府11：30記者會！　說明台灣暫時性20％關稅＆談判進度",
+      "link": "/bbs/Stock/M.1754010425.A.296",
+      "author": "a5687920",
+      "board": "Stock",
+      "publishTime": "2025/08/01 01:07",
       "imageUrl": ""
     }
   ]
