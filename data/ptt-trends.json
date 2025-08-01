@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-01T05:50:43.839Z",
+  "updated": "2025-08-01T06:00:02.039Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,13 +24,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/eF4K7fD/s/42472d586ee4e919f9f38db3d8a6fada"
     },
     {
-      "recommendScore": "734",
-      "recommendCount": "767",
+      "recommendScore": "738",
+      "recommendCount": "771",
       "title": "[問卦] 隨便猜20%中三萬的八卦（發錢）",
       "link": "/bbs/Gossiping/M.1754009263.A.6C5",
       "author": "claymath",
       "board": "Gossiping",
       "publishTime": "2025/08/01 00:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "319",
+      "recommendCount": "1135",
+      "title": "[爆卦] 跟美國對等關稅細節保密",
+      "link": "/bbs/Gossiping/M.1754019558.A.0A0",
+      "author": "rz2x",
+      "board": "Gossiping",
+      "publishTime": "2025/08/01 03:39",
       "imageUrl": ""
     },
     {
@@ -54,17 +64,7 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/88shayw/s/b4695e96ca289ae53d6a7a5a310e8040"
     },
     {
-      "recommendScore": "313",
-      "recommendCount": "1115",
-      "title": "[爆卦] 跟美國對等關稅細節保密",
-      "link": "/bbs/Gossiping/M.1754019558.A.0A0",
-      "author": "rz2x",
-      "board": "Gossiping",
-      "publishTime": "2025/08/01 03:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "446",
+      "recommendScore": "444",
       "recommendCount": "1489",
       "title": "[情報] 20250801總統府對等關稅記者會",
       "link": "/bbs/Stock/M.1754017703.A.DEE",
@@ -74,18 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "406",
-      "recommendCount": "881",
-      "title": "[爆卦] 美麗島民調賴清德大崩盤",
-      "link": "/bbs/Gossiping/M.1753941450.A.BC9",
-      "author": "thouloveme",
-      "board": "Gossiping",
-      "publishTime": "2025/07/31 05:57",
-      "imageUrl": "https://cache.pttweb.cc/imgur/WRtF3nN/s/82e4219252cd3567e46cada69674262f"
-    },
-    {
-      "recommendScore": "521",
-      "recommendCount": "1100",
+      "recommendScore": "522",
+      "recommendCount": "1105",
       "title": "[問卦] 就在剛剛我差點自殺",
       "link": "/bbs/Gossiping/M.1753980576.A.E13",
       "author": "y2718520",
@@ -124,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "269",
-      "recommendCount": "731",
+      "recommendScore": "270",
+      "recommendCount": "732",
       "title": "[新聞] 快訊／總統府11：30記者會！　說明台灣暫時性20％關稅＆談判進度",
       "link": "/bbs/Stock/M.1754009443.A.3D0",
       "author": "DDDDRR",
@@ -135,7 +125,7 @@
     },
     {
       "recommendScore": "221",
-      "recommendCount": "584",
+      "recommendCount": "586",
       "title": "[爆卦] 關稅出爐 總統一早出席美食展",
       "link": "/bbs/Gossiping/M.1754015735.A.6EC",
       "author": "Skyblueway",
@@ -202,6 +192,16 @@
       "board": "Stock",
       "publishTime": "2025/08/01 01:07",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "259",
+      "recommendCount": "626",
+      "title": "[新聞] 賴清德快沒籌碼可談！　《彭博》專欄作家：川普只喜歡「贏家」",
+      "link": "/bbs/Gossiping/M.1753948819.A.F10",
+      "author": "novashine",
+      "board": "Gossiping",
+      "publishTime": "2025/07/31 08:00",
+      "imageUrl": "https://cache.pttweb.cc/imgur/pMMamBZ/s/7c14a192e0e403b696b6814c34e00db7"
     }
   ]
 }
