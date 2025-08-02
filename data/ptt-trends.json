@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-02T15:55:18.497Z",
+  "updated": "2025-08-02T16:05:59.887Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "886",
-      "recommendCount": "935",
+      "recommendScore": "888",
+      "recommendCount": "937",
       "title": "[討論] 台灣棒球魂再現大聯盟！猜猜鄧愷威先發",
       "link": "/bbs/Baseball/M.1754096096.A.61B",
       "author": "siugwai",
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "352",
-      "recommendCount": "1118",
+      "recommendCount": "1120",
       "title": "[新聞] 民進黨秘書長衝至台南 暴雨中親自挖水溝 他批綠台南執政30年救災、治水不利",
       "link": "/bbs/Gossiping/M.1754119318.A.AA5",
       "author": "Elsie1999",
@@ -44,8 +44,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/Lx7c7xj/s/218a22a7a0924a3f903f466703af5930"
     },
     {
-      "recommendScore": "232",
-      "recommendCount": "848",
+      "recommendScore": "234",
+      "recommendCount": "851",
       "title": "[新聞] 何博文雨中挖水溝「賴主席指示全力救災」　南市議員：沒預期他會下來",
       "link": "/bbs/Gossiping/M.1754122396.A.8F2",
       "author": "ntupeap",
@@ -55,7 +55,7 @@
     },
     {
       "recommendScore": "373",
-      "recommendCount": "739",
+      "recommendCount": "740",
       "title": "[新聞] 日本《讀賣新聞》社論罕見批評大罷免：希望賴清德彌補社會裂痕",
       "link": "/bbs/Gossiping/M.1754096689.A.6E7",
       "author": "zoeapezoo",
@@ -65,12 +65,22 @@
     },
     {
       "recommendScore": "311",
-      "recommendCount": "711",
+      "recommendCount": "712",
       "title": "[新聞] 罷免傅崐萁失敗就關店！才過2天　花蓮咖啡廳突PO文「新店規劃中」",
       "link": "/bbs/Gossiping/M.1754100815.A.3DA",
       "author": "t81511270",
       "board": "Gossiping",
       "publishTime": "2025/08/02 02:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "496",
+      "recommendCount": "878",
+      "title": "[問卦] 罷免舞到底是哪個臥底想出來的",
+      "link": "/bbs/Gossiping/M.1754128101.A.BF1",
+      "author": "lwt501cx",
+      "board": "Gossiping",
+      "publishTime": "2025/08/02 09:48",
       "imageUrl": ""
     },
     {
@@ -81,16 +91,6 @@
       "author": "haha98",
       "board": "Stock",
       "publishTime": "2025/08/01 17:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "491",
-      "recommendCount": "871",
-      "title": "[問卦] 罷免舞到底是哪個臥底想出來的",
-      "link": "/bbs/Gossiping/M.1754128101.A.BF1",
-      "author": "lwt501cx",
-      "board": "Gossiping",
-      "publishTime": "2025/08/02 09:48",
       "imageUrl": ""
     },
     {
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "300",
-      "recommendCount": "701",
+      "recommendScore": "301",
+      "recommendCount": "702",
       "title": "[新聞] 無須保密！泰國政府公布十大「讓步清單」換取美19%關稅",
       "link": "/bbs/Stock/M.1754111752.A.479",
       "author": "keel90135",
@@ -135,7 +135,7 @@
     },
     {
       "recommendScore": "239",
-      "recommendCount": "572",
+      "recommendCount": "574",
       "title": "[問卦] 台南人這次淹完會覺醒嗎？？？",
       "link": "/bbs/Gossiping/M.1754121408.A.0A0",
       "author": "y7zj3",
@@ -154,6 +154,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "317",
+      "recommendCount": "484",
+      "title": "Re: [新聞] 高虹安提供「修正版論文」當證據告陳",
+      "link": "/bbs/Gossiping/M.1754140127.A.6A0",
+      "author": "georgez",
+      "board": "Gossiping",
+      "publishTime": "2025/08/02 13:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "134",
+      "recommendCount": "516",
+      "title": "[新聞] 南部豪雨連炸！行政院將編「1000億」預算因應極端氣候",
+      "link": "/bbs/Gossiping/M.1754141140.A.45A",
+      "author": "chiafann",
+      "board": "Gossiping",
+      "publishTime": "2025/08/02 13:25",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-196",
       "recommendCount": "455",
       "title": "[新聞]奮戰到川普宣布!鄭麗君「專業沉穩」令美方改觀　關稅仍有調降空間",
@@ -165,7 +185,7 @@
     },
     {
       "recommendScore": "136",
-      "recommendCount": "469",
+      "recommendCount": "470",
       "title": "[新聞] 柯建銘：主席賴清德下令精準罷免　823背水一戰",
       "link": "/bbs/Gossiping/M.1754095445.A.537",
       "author": "qweerrt123",
@@ -181,26 +201,6 @@
       "author": "Taiwan007",
       "board": "HatePolitics",
       "publishTime": "2025/08/02 00:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "200",
-      "recommendCount": "486",
-      "title": "[爆卦] 台南市停班停課",
-      "link": "/bbs/Gossiping/M.1754088092.A.969",
-      "author": "Daley",
-      "board": "Gossiping",
-      "publishTime": "2025/08/01 22:41",
-      "imageUrl": "https://cache.pttweb.cc/imgur/q87jf0s/s/ac9c619d2ae5078eea5be02a739d5f58"
-    },
-    {
-      "recommendScore": "291",
-      "recommendCount": "448",
-      "title": "Re: [新聞] 高虹安提供「修正版論文」當證據告陳",
-      "link": "/bbs/Gossiping/M.1754140127.A.6A0",
-      "author": "georgez",
-      "board": "Gossiping",
-      "publishTime": "2025/08/02 13:08",
       "imageUrl": ""
     }
   ]
