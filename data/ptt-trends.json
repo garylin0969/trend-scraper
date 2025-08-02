@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-02T13:41:18.899Z",
+  "updated": "2025-08-02T13:50:22.239Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "387",
-      "recommendCount": "959",
+      "recommendScore": "416",
+      "recommendCount": "1019",
       "title": "[問卦] 我敢保證 台南人明年99%不會歸隊了",
       "link": "/bbs/Gossiping/M.1754133963.A.F53",
       "author": "Carol787",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "350",
-      "recommendCount": "1095",
+      "recommendScore": "353",
+      "recommendCount": "1100",
       "title": "[新聞] 民進黨秘書長衝至台南 暴雨中親自挖水溝 他批綠台南執政30年救災、治水不利",
       "link": "/bbs/Gossiping/M.1754119318.A.AA5",
       "author": "Elsie1999",
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "311",
+      "recommendCount": "711",
+      "title": "[新聞] 罷免傅崐萁失敗就關店！才過2天　花蓮咖啡廳突PO文「新店規劃中」",
+      "link": "/bbs/Gossiping/M.1754100815.A.3DA",
+      "author": "t81511270",
+      "board": "Gossiping",
+      "publishTime": "2025/08/02 02:13",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "225",
       "recommendCount": "822",
       "title": "[新聞] 何博文雨中挖水溝「賴主席指示全力救災」　南市議員：沒預期他會下來",
@@ -62,16 +72,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/02 08:13",
       "imageUrl": "https://cache.pttweb.cc/imgur/x8H6kqB/s/926bb0e174dc8c22d3fdfe0ef64bea79"
-    },
-    {
-      "recommendScore": "310",
-      "recommendCount": "710",
-      "title": "[新聞] 罷免傅崐萁失敗就關店！才過2天　花蓮咖啡廳突PO文「新店規劃中」",
-      "link": "/bbs/Gossiping/M.1754100815.A.3DA",
-      "author": "t81511270",
-      "board": "Gossiping",
-      "publishTime": "2025/08/02 02:13",
-      "imageUrl": ""
     },
     {
       "recommendScore": "-179",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "464",
-      "recommendCount": "820",
+      "recommendScore": "467",
+      "recommendCount": "826",
       "title": "[問卦] 罷免舞到底是哪個臥底想出來的",
       "link": "/bbs/Gossiping/M.1754128101.A.BF1",
       "author": "lwt501cx",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "296",
-      "recommendCount": "689",
+      "recommendScore": "297",
+      "recommendCount": "690",
       "title": "[新聞] 無須保密！泰國政府公布十大「讓步清單」換取美19%關稅",
       "link": "/bbs/Stock/M.1754111752.A.479",
       "author": "keel90135",
@@ -144,23 +144,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "247",
-      "recommendCount": "507",
+      "recommendScore": "248",
+      "recommendCount": "508",
       "title": "[新聞] 台南安南區淹大水居民無奈　里長怒轟執政者：下游不整治害逆流",
       "link": "/bbs/Gossiping/M.1754115021.A.CF4",
       "author": "a0580531",
       "board": "Gossiping",
       "publishTime": "2025/08/02 06:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "241",
-      "recommendCount": "485",
-      "title": "[新聞]大罷免失敗怪「普發1萬」？陳柏惟：還這樣想的人可以下車了",
-      "link": "/bbs/Gossiping/M.1754055757.A.3E6",
-      "author": "pl132",
-      "board": "Gossiping",
-      "publishTime": "2025/08/01 13:42",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/08/01 22:41",
       "imageUrl": "https://cache.pttweb.cc/imgur/q87jf0s/s/ac9c619d2ae5078eea5be02a739d5f58"
+    },
+    {
+      "recommendScore": "190",
+      "recommendCount": "643",
+      "title": "[討論] 民進黨明年台南選票絕對死得很難看",
+      "link": "/bbs/HatePolitics/M.1754096239.A.BF1",
+      "author": "Taiwan007",
+      "board": "HatePolitics",
+      "publishTime": "2025/08/02 00:57",
+      "imageUrl": ""
     }
   ]
 }
