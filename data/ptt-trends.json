@@ -1,7 +1,7 @@
 {
-  "updated": "2025-08-02T22:50:24.433Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-08-02T22:57:15.609Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "539",
@@ -191,6 +191,16 @@
       "author": "chopper594",
       "board": "Gossiping",
       "publishTime": "2025/08/02 15:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "257",
+      "recommendCount": "634",
+      "title": "Re: [新聞] 高虹安提供「修正版論文」當證據告陳",
+      "link": "/bbs/Gossiping/M.1754135790.A.003",
+      "author": "giorno78",
+      "board": "Gossiping",
+      "publishTime": "2025/08/02 11:56",
       "imageUrl": ""
     }
   ]
