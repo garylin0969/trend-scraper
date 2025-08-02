@@ -1,14 +1,22 @@
 {
-  "updated": "2025-08-02T07:22:24.468Z",
+  "updated": "2025-08-02T07:47:34.494Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-08-02T07:22:09.000Z",
+    "lastBuildDate": "2025-08-02T07:47:20.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "「沉默螺旋」下的台灣大罷免，中間選民為何說不？",
+      "description": "BBC中文採訪不同縣市投下「不同意票」的選民，除了泛藍及中間選民，也不乏淺綠甚至是來自深綠背景的年輕人。外界也關注，這批選民是否將影響2026年九合一地方選舉，甚至2028年總統大選。",
+      "link": "https://www.bbc.com/zhongwen/articles/c8e1w256l11o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-02T07:36:11.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c8e1w256l11o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b8f0/live/00e4d110-6ebf-11f0-b72a-377c6a30f3b7.jpg"
+    },
     {
       "title": "中美瑞典貿易談判：美方勸中國在「十五五」規劃中向消費型經濟再平衡",
       "description": "最新公佈的經濟數據顯示，中美兩國在目前對外經貿壓力下展現出一定的韌性。中國上半年實現5.3%的經濟增長率，整體超出外界預期，而美國經濟同樣保持了高於預期的增長動能。",
@@ -34,20 +42,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5538/live/2b70e0c0-6d04-11f0-8dbd-f3d32ebd3327.jpg"
     },
     {
-      "title": "分析：特朗普的全球關稅「勝利」可能代價高昂",
-      "description": "美國總統認為這是一場勝利——但如果這一切引發了根本性的重組，最終結果可能不利於他。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx2qyk8wkvgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-01T09:52:06.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx2qyk8wkvgo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b37/live/de948df0-6ebc-11f0-af20-030418be2ca5.jpg"
-    },
-    {
       "title": "新加坡塌陷事件再引移民工人權利爭論",
       "description": "新加坡多名外籍勞工奮力將一名女士從路面大坑中挖出，這再次引發新加坡對於外籍勞工權益保護的討論，民眾疑慮政府行為只是象徵性作秀，政府表示提高外籍勞工權益和保障本地經濟發展有所衝突。",
       "link": "https://www.bbc.com/zhongwen/articles/c14g0m7jdlxo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-08-01T05:00:13.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c14g0m7jdlxo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3fc4/live/8ac5eff0-6e8c-11f0-8dbd-f3d32ebd3327.jpg"
+    },
+    {
+      "title": "分析：特朗普的全球關稅「勝利」可能代價高昂",
+      "description": "美國總統認為這是一場勝利——但如果這一切引發了根本性的重組，最終結果可能不利於他。",
+      "link": "https://www.bbc.com/zhongwen/articles/cx2qyk8wkvgo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-01T09:52:06.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx2qyk8wkvgo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b37/live/de948df0-6ebc-11f0-af20-030418be2ca5.jpg"
     },
     {
       "title": "東南亞與特朗普達成關稅協議的真實體驗：震驚、混亂與空洞的勝利",
@@ -96,14 +104,6 @@
       "pubDate": "2025-07-31T03:57:27.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cvg34gmddzxo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/903e/live/6517c330-6d76-11f0-8dbd-f3d32ebd3327.jpg"
-    },
-    {
-      "title": "印度航空監管機構審計，揭51項安全違規",
-      "description": "在上月致命空難引發外界審視之際，印度航空監管機構詳細說明了印度航空的安全疏失。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgprwezr0go/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-07-31T04:47:16.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgprwezr0go/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c897/live/788d3220-660e-11f0-8dbd-f3d32ebd3327.jpg"
     },
     {
       "title": "北京洪災：專家指近年強降雨等極端天氣增多，民眾抱怨預警缺失",
