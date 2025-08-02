@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-02T16:48:21.648Z",
+  "updated": "2025-08-02T16:57:24.089Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "498",
-      "recommendCount": "880",
+      "recommendScore": "500",
+      "recommendCount": "884",
       "title": "[問卦] 罷免舞到底是哪個臥底想出來的",
       "link": "/bbs/Gossiping/M.1754128101.A.BF1",
       "author": "lwt501cx",
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "251",
+      "recommendCount": "867",
+      "title": "[問卦] 認真問我們國家是哪時候變得這麼對立的？",
+      "link": "/bbs/Gossiping/M.1754107201.A.FD5",
+      "author": "pelin30980",
+      "board": "Gossiping",
+      "publishTime": "2025/08/02 04:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "324",
       "recommendCount": "669",
       "title": "[協尋] 有人直播台南鹽行在淹水，是真的嗎？",
@@ -114,18 +124,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/agjIVdI/s/5087008608e8bb94b175bc8ef7b51343"
     },
     {
-      "recommendScore": "251",
-      "recommendCount": "866",
-      "title": "[問卦] 認真問我們國家是哪時候變得這麼對立的？",
-      "link": "/bbs/Gossiping/M.1754107201.A.FD5",
-      "author": "pelin30980",
-      "board": "Gossiping",
-      "publishTime": "2025/08/02 04:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "303",
-      "recommendCount": "707",
+      "recommendScore": "304",
+      "recommendCount": "710",
       "title": "[新聞] 無須保密！泰國政府公布十大「讓步清單」換取美19%關稅",
       "link": "/bbs/Stock/M.1754111752.A.479",
       "author": "keel90135",
@@ -144,6 +144,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "134",
+      "recommendCount": "571",
+      "title": "[新聞] 南部豪雨連炸！行政院將編「1000億」預算因應極端氣候",
+      "link": "/bbs/Gossiping/M.1754141140.A.45A",
+      "author": "chiafann",
+      "board": "Gossiping",
+      "publishTime": "2025/08/02 13:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "341",
+      "recommendCount": "514",
+      "title": "Re: [新聞] 高虹安提供「修正版論文」當證據告陳",
+      "link": "/bbs/Gossiping/M.1754140127.A.6A0",
+      "author": "georgez",
+      "board": "Gossiping",
+      "publishTime": "2025/08/02 13:08",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "250",
       "recommendCount": "510",
       "title": "[新聞] 台南安南區淹大水居民無奈　里長怒轟執政者：下游不整治害逆流",
@@ -154,44 +174,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "133",
-      "recommendCount": "549",
-      "title": "[新聞] 南部豪雨連炸！行政院將編「1000億」預算因應極端氣候",
-      "link": "/bbs/Gossiping/M.1754141140.A.45A",
-      "author": "chiafann",
-      "board": "Gossiping",
-      "publishTime": "2025/08/02 13:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "335",
-      "recommendCount": "505",
-      "title": "Re: [新聞] 高虹安提供「修正版論文」當證據告陳",
-      "link": "/bbs/Gossiping/M.1754140127.A.6A0",
-      "author": "georgez",
-      "board": "Gossiping",
-      "publishTime": "2025/08/02 13:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-196",
-      "recommendCount": "455",
-      "title": "[新聞]奮戰到川普宣布!鄭麗君「專業沉穩」令美方改觀　關稅仍有調降空間",
-      "link": "/bbs/Gossiping/M.1754068515.A.2FE",
-      "author": "haha98",
-      "board": "Gossiping",
-      "publishTime": "2025/08/01 17:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "282",
-      "recommendCount": "432",
+      "recommendScore": "290",
+      "recommendCount": "442",
       "title": "[問卦] 米可白：棄養就是棄養，不叫妥善安置",
       "link": "/bbs/Gossiping/M.1754140671.A.C38",
       "author": "enzo50",
       "board": "Gossiping",
       "publishTime": "2025/08/02 13:17",
       "imageUrl": "https://cache.pttweb.cc/imgur/tEEJsUU/s/0a65375f32a982968b550298934d262b"
+    },
+    {
+      "recommendScore": "-197",
+      "recommendCount": "456",
+      "title": "[新聞]奮戰到川普宣布!鄭麗君「專業沉穩」令美方改觀　關稅仍有調降空間",
+      "link": "/bbs/Gossiping/M.1754068515.A.2FE",
+      "author": "haha98",
+      "board": "Gossiping",
+      "publishTime": "2025/08/01 17:15",
+      "imageUrl": ""
     },
     {
       "recommendScore": "136",
