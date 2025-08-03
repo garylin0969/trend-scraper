@@ -1,7 +1,7 @@
 {
-  "updated": "2025-08-03T18:49:44.326Z",
-  "total_found": 18,
-  "returned_count": 18,
+  "updated": "2025-08-03T18:58:27.404Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "541",
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "507",
-      "recommendCount": "822",
+      "recommendCount": "823",
       "title": "[問卦] 還有人死守4G吃到飽的嗎",
       "link": "/bbs/Gossiping/M.1754204211.A.156",
       "author": "lianpig5566",
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "341",
+      "recommendCount": "848",
+      "title": "[問卦] 離職警察Call in丁特爆料是真的嗎？",
+      "link": "/bbs/Gossiping/M.1754226412.A.83D",
+      "author": "DogNotSmell",
+      "board": "Gossiping",
+      "publishTime": "2025/08/03 13:06",
+      "imageUrl": "https://cache.pttweb.cc/imgur/fsNAQRk/s/1979c64a4d749dbc6b5098b77746a9a4"
+    },
+    {
       "recommendScore": "300",
       "recommendCount": "508",
       "title": "[新聞] 中國多地暴雨成災　公安部要求不轉發非官方訊息",
@@ -82,16 +92,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/03 03:15",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "338",
-      "recommendCount": "842",
-      "title": "[問卦] 離職警察Call in丁特爆料是真的嗎？",
-      "link": "/bbs/Gossiping/M.1754226412.A.83D",
-      "author": "DogNotSmell",
-      "board": "Gossiping",
-      "publishTime": "2025/08/03 13:06",
-      "imageUrl": "https://cache.pttweb.cc/imgur/fsNAQRk/s/1979c64a4d749dbc6b5098b77746a9a4"
     },
     {
       "recommendScore": "338",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "230",
-      "recommendCount": "434",
+      "recommendScore": "232",
+      "recommendCount": "436",
       "title": "[問卦] 台南災民：治水治你媽啦！",
       "link": "/bbs/Gossiping/M.1754226176.A.972",
       "author": "norvasc",
@@ -144,8 +144,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/XsRz3pf/s/6bf06575334428572bc36c5c325d7b78"
     },
     {
-      "recommendScore": "232",
-      "recommendCount": "483",
+      "recommendScore": "233",
+      "recommendCount": "484",
       "title": "[問卦] 滅火器109年拿三千萬補助去日本沒人講？",
       "link": "/bbs/Gossiping/M.1754211730.A.F79",
       "author": "BMTH5566",
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "206",
+      "recommendCount": "487",
+      "title": "[新聞] 林俊憲挨轟作秀！ 派農具「送便當」  表示情況緊急",
+      "link": "/bbs/Gossiping/M.1754212245.A.F0A",
+      "author": "westdoorcard",
+      "board": "Gossiping",
+      "publishTime": "2025/08/03 09:10",
+      "imageUrl": "https://cache.pttweb.cc/imgur/PBtx2u0/s/a622cecb04ca9a2a5d3701f23aaabb03"
+    },
+    {
       "recommendScore": "194",
       "recommendCount": "401",
       "title": "[問卦] 脆女：為什麼護照不能蓋章 都飛好幾次了",
@@ -174,14 +184,24 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/yT8gR3O/s/f5c593e25b963ebd790a48ac24cb36f6"
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "486",
-      "title": "[新聞] 林俊憲挨轟作秀！ 派農具「送便當」  表示情況緊急",
-      "link": "/bbs/Gossiping/M.1754212245.A.F0A",
-      "author": "westdoorcard",
+      "recommendScore": "175",
+      "recommendCount": "476",
+      "title": "[新聞] 「童帝」曝AV界1殘酷現實 無奈嘆：好好讀書就不用天天跟女優打X！",
+      "link": "/bbs/Gossiping/M.1754175133.A.E1E",
+      "author": "Workforme",
       "board": "Gossiping",
-      "publishTime": "2025/08/03 09:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/PBtx2u0/s/a622cecb04ca9a2a5d3701f23aaabb03"
+      "publishTime": "2025/08/02 22:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "200",
+      "recommendCount": "441",
+      "title": "[情報] 林佳緯抓惹波",
+      "link": "/bbs/Baseball/M.1754221176.A.AAA",
+      "author": "idingdang",
+      "board": "Baseball",
+      "publishTime": "2025/08/03 11:39",
+      "imageUrl": ""
     }
   ]
 }
