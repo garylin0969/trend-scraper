@@ -1,7 +1,7 @@
 {
-  "updated": "2025-08-03T13:06:11.194Z",
-  "total_found": 18,
-  "returned_count": 18,
+  "updated": "2025-08-03T13:23:23.836Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "549",
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "540",
-      "recommendCount": "994",
+      "recommendCount": "995",
       "title": "[爆卦] 王鴻薇：文總去函證交所贊助大支的校長",
       "link": "/bbs/Gossiping/M.1754191561.A.0AA",
       "author": "Skyblueway",
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "468",
-      "recommendCount": "764",
+      "recommendCount": "765",
       "title": "[問卦] 還有人死守4G吃到飽的嗎",
       "link": "/bbs/Gossiping/M.1754204211.A.156",
       "author": "lianpig5566",
@@ -64,34 +64,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "417",
-      "recommendCount": "627",
-      "title": "Re: [新聞] 高虹安提供「修正版論文」當證據告陳",
-      "link": "/bbs/Gossiping/M.1754140127.A.6A0",
-      "author": "georgez",
-      "board": "Gossiping",
-      "publishTime": "2025/08/02 13:08",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "235",
-      "recommendCount": "682",
+      "recommendCount": "688",
       "title": "[新聞] 普發1萬確定了「5種領法」一次看懂！賴清德公布「這1天」前入帳",
       "link": "/bbs/Gossiping/M.1754206244.A.953",
       "author": "au4g3wk4k",
       "board": "Gossiping",
       "publishTime": "2025/08/03 07:30",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "361",
-      "recommendCount": "551",
-      "title": "[問卦] 米可白：棄養就是棄養，不叫妥善安置",
-      "link": "/bbs/Gossiping/M.1754140671.A.C38",
-      "author": "enzo50",
-      "board": "Gossiping",
-      "publishTime": "2025/08/02 13:17",
-      "imageUrl": "https://cache.pttweb.cc/imgur/tEEJsUU/s/0a65375f32a982968b550298934d262b"
     },
     {
       "recommendScore": "106",
@@ -114,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "296",
-      "recommendCount": "501",
+      "recommendScore": "297",
+      "recommendCount": "502",
       "title": "[新聞] 中國多地暴雨成災　公安部要求不轉發非官方訊息",
       "link": "/bbs/Gossiping/M.1754190959.A.7A0",
       "author": "ThisisLongID",
@@ -134,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-303",
+      "recommendCount": "513",
+      "title": "[公告] 大怒灌",
+      "link": "/bbs/Elephants/M.1754221730.A.B8F",
+      "author": "msarthur",
+      "board": "Elephants",
+      "publishTime": "2025/08/03 11:48",
+      "imageUrl": "https://cache.pttweb.cc/imgur/DiGdncT/s/569adc482d01e953b91fa874852cf7d1"
+    },
+    {
       "recommendScore": "366",
       "recommendCount": "699",
       "title": "Re: [新聞] 幕後》大罷免大崩潰！民進黨裝沒事　醫院身心科多了好多碎掉的年輕人",
@@ -144,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "290",
-      "recommendCount": "453",
+      "recommendScore": "291",
+      "recommendCount": "454",
       "title": "[新聞] 太狂！年輕人幹譙「X你媽」　她當眾脫光喊：過來啊來X我",
       "link": "/bbs/Gossiping/M.1754141987.A.50A",
       "author": "losel",
@@ -154,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "134",
-      "recommendCount": "690",
+      "recommendScore": "135",
+      "recommendCount": "693",
       "title": "[問卦] 台南式：一張圖看懂永康大灣仁德容易淹",
       "link": "/bbs/Gossiping/M.1754197934.A.6F3",
       "author": "pricekin",
@@ -164,23 +154,53 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/PLzfFDD/s/24f8dc591b8be1f56f88d474b196a779"
     },
     {
-      "recommendScore": "-284",
-      "recommendCount": "487",
-      "title": "[公告] 大怒灌",
-      "link": "/bbs/Elephants/M.1754221730.A.B8F",
-      "author": "msarthur",
-      "board": "Elephants",
-      "publishTime": "2025/08/03 11:48",
-      "imageUrl": "https://cache.pttweb.cc/imgur/DiGdncT/s/569adc482d01e953b91fa874852cf7d1"
-    },
-    {
-      "recommendScore": "101",
-      "recommendCount": "660",
+      "recommendScore": "102",
+      "recommendCount": "661",
       "title": "[新聞] 台美關稅還能降？鄭麗君回來了 最新說法曝光",
       "link": "/bbs/Stock/M.1754180441.A.1F1",
       "author": "jerrychuang",
       "board": "Stock",
       "publishTime": "2025/08/03 00:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "188",
+      "recommendCount": "532",
+      "title": "脆：慈濟真的不要鬧",
+      "link": "/bbs/Gossiping/M.1754160108.A.014",
+      "author": "Oisiossos",
+      "board": "Gossiping",
+      "publishTime": "2025/08/02 18:41",
+      "imageUrl": "https://cache.pttweb.cc/imgur/rvoLKEt/s/5e6db4b5b0d3d091fac7e872adbe7011"
+    },
+    {
+      "recommendScore": "238",
+      "recommendCount": "1497",
+      "title": "[討論] 為什麼青鳥都不認為黃國昌是個\"好\"立委?",
+      "link": "/bbs/HatePolitics/M.1754181239.A.032",
+      "author": "Borges",
+      "board": "HatePolitics",
+      "publishTime": "2025/08/03 00:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "193",
+      "recommendCount": "397",
+      "title": "[問卦] 脆女：為什麼護照不能蓋章 都飛好幾次了",
+      "link": "/bbs/Gossiping/M.1754182849.A.CD1",
+      "author": "Skyblueway",
+      "board": "Gossiping",
+      "publishTime": "2025/08/03 01:00",
+      "imageUrl": "https://cache.pttweb.cc/imgur/yT8gR3O/s/f5c593e25b963ebd790a48ac24cb36f6"
+    },
+    {
+      "recommendScore": "173",
+      "recommendCount": "474",
+      "title": "[新聞] 「童帝」曝AV界1殘酷現實 無奈嘆：好好讀書就不用天天跟女優打X！",
+      "link": "/bbs/Gossiping/M.1754175133.A.E1E",
+      "author": "Workforme",
+      "board": "Gossiping",
+      "publishTime": "2025/08/02 22:52",
       "imageUrl": ""
     }
   ]
