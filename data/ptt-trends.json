@@ -1,8 +1,18 @@
 {
-  "updated": "2025-08-03T07:40:10.120Z",
+  "updated": "2025-08-03T07:46:59.278Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "598",
+      "recommendCount": "1500",
+      "title": "[問卦] 我敢保證 台南人明年99%不會歸隊了",
+      "link": "/bbs/Gossiping/M.1754133963.A.F53",
+      "author": "Carol787",
+      "board": "Gossiping",
+      "publishTime": "2025/08/02 11:26",
+      "imageUrl": "https://cache.pttweb.cc/imgur/2rebvHH/s/bbfc99013cde806d47ea087952b50fdf"
+    },
     {
       "recommendScore": "609",
       "recommendCount": "1036",
@@ -54,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "332",
+      "recommendCount": "702",
+      "title": "[問卦] 為什麼一大堆文化人支持罷免？",
+      "link": "/bbs/Gossiping/M.1754194057.A.C48",
+      "author": "Nick87061319",
+      "board": "Gossiping",
+      "publishTime": "2025/08/03 04:07",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "173",
       "recommendCount": "714",
       "title": "[新聞] 南部豪雨連炸！行政院將編「1000億」預算因應極端氣候",
@@ -71,16 +91,6 @@
       "author": "chopper594",
       "board": "Gossiping",
       "publishTime": "2025/08/02 15:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "319",
-      "recommendCount": "682",
-      "title": "[問卦] 為什麼一大堆文化人支持罷免？",
-      "link": "/bbs/Gossiping/M.1754194057.A.C48",
-      "author": "Nick87061319",
-      "board": "Gossiping",
-      "publishTime": "2025/08/03 04:07",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "Borges",
       "board": "HatePolitics",
       "publishTime": "2025/08/03 00:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "104",
-      "recommendCount": "625",
-      "title": "[新聞] 台美關稅還能降？鄭麗君回來了 最新說法曝光",
-      "link": "/bbs/Stock/M.1754180441.A.1F1",
-      "author": "jerrychuang",
-      "board": "Stock",
-      "publishTime": "2025/08/03 00:20",
       "imageUrl": ""
     }
   ]
