@@ -1,11 +1,11 @@
 {
-  "updated": "2025-08-04T12:10:21.716Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-08-04T12:24:45.931Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "543",
-      "recommendCount": "994",
+      "recommendScore": "544",
+      "recommendCount": "996",
       "title": "[新聞] 大支被爆兼文總執委 王鴻薇再曝眾多大罷免要角也是",
       "link": "/bbs/Gossiping/M.1754279702.A.F33",
       "author": "SAgirl",
@@ -15,13 +15,33 @@
     },
     {
       "recommendScore": "337",
-      "recommendCount": "946",
+      "recommendCount": "947",
       "title": "[新聞] 台灣不如烏克蘭！美媒： 漢光演習像表演",
       "link": "/bbs/Gossiping/M.1754278114.A.2AE",
       "author": "shawnm80",
       "board": "Gossiping",
       "publishTime": "2025/08/04 03:28",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "406",
+      "recommendCount": "745",
+      "title": "[新聞] 監委調查：中央連3年補助台南近9千萬元清淤、8成疑遭挪為他用",
+      "link": "/bbs/Gossiping/M.1754301642.A.6D0",
+      "author": "stoneruler",
+      "board": "Gossiping",
+      "publishTime": "2025/08/04 10:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "274",
+      "recommendCount": "786",
+      "title": "[新聞] 罷團開撕爆效法納粹 林俊憲:應相忍為大",
+      "link": "/bbs/Gossiping/M.1754286271.A.51F",
+      "author": "Taiwan007",
+      "board": "Gossiping",
+      "publishTime": "2025/08/04 05:44",
+      "imageUrl": "https://cache.pttweb.cc/imgur/DlflqBY/s/483d252010503a6697fa0059331195cc"
     },
     {
       "recommendScore": "293",
@@ -34,16 +54,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "272",
-      "recommendCount": "783",
-      "title": "[新聞] 罷團開撕爆效法納粹 林俊憲:應相忍為大",
-      "link": "/bbs/Gossiping/M.1754286271.A.51F",
-      "author": "Taiwan007",
-      "board": "Gossiping",
-      "publishTime": "2025/08/04 05:44",
-      "imageUrl": "https://cache.pttweb.cc/imgur/DlflqBY/s/483d252010503a6697fa0059331195cc"
-    },
-    {
       "recommendScore": "394",
       "recommendCount": "989",
       "title": "[問卦] 離職警察Call in丁特爆料是真的嗎？",
@@ -54,23 +64,13 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/fsNAQRk/s/1979c64a4d749dbc6b5098b77746a9a4"
     },
     {
-      "recommendScore": "-28",
-      "recommendCount": "1194",
+      "recommendScore": "-27",
+      "recommendCount": "1196",
       "title": "[討論] 台灣有那麼一群邏輯錯亂的人",
       "link": "/bbs/HatePolitics/M.1754277387.A.248",
       "author": "locer",
       "board": "HatePolitics",
       "publishTime": "2025/08/04 03:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "367",
-      "recommendCount": "660",
-      "title": "[新聞] 監委調查：中央連3年補助台南近9千萬元清淤、8成疑遭挪為他用",
-      "link": "/bbs/Gossiping/M.1754301642.A.6D0",
-      "author": "stoneruler",
-      "board": "Gossiping",
-      "publishTime": "2025/08/04 10:00",
       "imageUrl": ""
     },
     {
@@ -114,8 +114,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/eWgVRy7/s/a522099b86cadf9077277f4195bfd33c"
     },
     {
-      "recommendScore": "157",
-      "recommendCount": "453",
+      "recommendScore": "164",
+      "recommendCount": "478",
       "title": "[問卦] 李多慧素顏曝光 網驚：有點醜 你真的ok?",
       "link": "/bbs/Gossiping/M.1754299732.A.11A",
       "author": "norvasc",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "508",
+      "recommendScore": "249",
+      "recommendCount": "517",
       "title": "Re: [爆卦] 德國在台協會譴責了！",
       "link": "/bbs/Gossiping/M.1754291010.A.561",
       "author": "DsLove710",
@@ -144,8 +144,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/fFCvBog/s/0ae7d93f91e409545df0b21e8a02f7f0"
     },
     {
-      "recommendScore": "199",
-      "recommendCount": "451",
+      "recommendScore": "201",
+      "recommendCount": "685",
+      "title": "[新聞] 「關稅」傾聽業者　郭智輝證實：4千億投資美",
+      "link": "/bbs/Stock/M.1754303472.A.333",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2025/08/04 10:31",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "200",
+      "recommendCount": "452",
       "title": "[新聞] 罷團嗆選民低智商　自曝823計劃要做「降智圖卡」：選舉要贏格調要低",
       "link": "/bbs/Gossiping/M.1754267399.A.66B",
       "author": "ggbi4zzz",
@@ -164,8 +174,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/LluPgli/s/e0123cd0ff1eb01662b769ba03452027"
     },
     {
-      "recommendScore": "186",
-      "recommendCount": "416",
+      "recommendScore": "187",
+      "recommendCount": "422",
       "title": "[問卦] 脆：八炯納粹不是瘋狂，是赤裸的愛",
       "link": "/bbs/Gossiping/M.1754292632.A.8D4",
       "author": "jack8587",
