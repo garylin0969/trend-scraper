@@ -1,11 +1,11 @@
 {
-  "updated": "2025-08-04T16:44:01.619Z",
-  "total_found": 18,
-  "returned_count": 18,
+  "updated": "2025-08-04T16:59:04.477Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "495",
-      "recommendCount": "943",
+      "recommendScore": "496",
+      "recommendCount": "945",
       "title": "[新聞] 監委調查：中央連3年補助台南近9千萬元清淤、8成疑遭挪為他用",
       "link": "/bbs/Gossiping/M.1754301642.A.6D0",
       "author": "stoneruler",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "367",
-      "recommendCount": "742",
+      "recommendScore": "368",
+      "recommendCount": "743",
       "title": "[爆卦] 綠營大片「零日攻擊」收視率大爆炸！",
       "link": "/bbs/Gossiping/M.1754305237.A.41A",
       "author": "o0o7221",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "215",
-      "recommendCount": "606",
+      "recommendScore": "217",
+      "recommendCount": "612",
       "title": "[問卦] 李多慧素顏曝光 網驚：有點醜 你真的ok?",
       "link": "/bbs/Gossiping/M.1754299732.A.11A",
       "author": "norvasc",
@@ -182,6 +182,26 @@
       "board": "Baseball",
       "publishTime": "2025/08/04 10:44",
       "imageUrl": "https://cache.pttweb.cc/imgur/d9YKsNt/s/74cedc4185e439fe83a48a575af560e8"
+    },
+    {
+      "recommendScore": "207",
+      "recommendCount": "567",
+      "title": "[討論] 八炯回應了！",
+      "link": "/bbs/HatePolitics/M.1754266521.A.A70",
+      "author": "LeeSeDol",
+      "board": "HatePolitics",
+      "publishTime": "2025/08/04 00:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "134",
+      "recommendCount": "428",
+      "title": "[新聞]鄭麗君昨回台 對美關稅談判恐無法在7日生效前完成",
+      "link": "/bbs/Stock/M.1754275317.A.57C",
+      "author": "zkow",
+      "board": "Stock",
+      "publishTime": "2025/08/04 02:41",
+      "imageUrl": ""
     }
   ]
 }
