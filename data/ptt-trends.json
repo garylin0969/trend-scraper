@@ -1,7 +1,7 @@
 {
-  "updated": "2025-08-04T08:09:40.443Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-08-04T08:23:04.785Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "-428",
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "320",
-      "recommendCount": "891",
+      "recommendCount": "893",
       "title": "[新聞] 台灣不如烏克蘭！美媒： 漢光演習像表演",
       "link": "/bbs/Gossiping/M.1754278114.A.2AE",
       "author": "shawnm80",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "230",
-      "recommendCount": "793",
+      "recommendScore": "243",
+      "recommendCount": "837",
       "title": "[爆卦] 德國在台協會譴責了！",
       "link": "/bbs/Gossiping/M.1754289961.A.983",
       "author": "HisVol",
@@ -34,8 +34,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/vtmlTp3/s/5b0671118dae2c1d9d9758e2f3cfa7b1"
     },
     {
-      "recommendScore": "292",
-      "recommendCount": "1213",
+      "recommendScore": "293",
+      "recommendCount": "1215",
       "title": "[討論] 為何要佔領政黑啊？",
       "link": "/bbs/HatePolitics/M.1754261463.A.6F9",
       "author": "rwhung",
@@ -54,14 +54,24 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/fsNAQRk/s/1979c64a4d749dbc6b5098b77746a9a4"
     },
     {
-      "recommendScore": "-25",
-      "recommendCount": "1114",
+      "recommendScore": "-28",
+      "recommendCount": "1120",
       "title": "[討論] 台灣有那麼一群邏輯錯亂的人",
       "link": "/bbs/HatePolitics/M.1754277387.A.248",
       "author": "locer",
       "board": "HatePolitics",
       "publishTime": "2025/08/04 03:16",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "236",
+      "recommendCount": "662",
+      "title": "[新聞] 罷團開撕爆效法納粹 林俊憲:應相忍為大",
+      "link": "/bbs/Gossiping/M.1754286271.A.51F",
+      "author": "Taiwan007",
+      "board": "Gossiping",
+      "publishTime": "2025/08/04 05:44",
+      "imageUrl": "https://cache.pttweb.cc/imgur/DlflqBY/s/483d252010503a6697fa0059331195cc"
     },
     {
       "recommendScore": "259",
@@ -72,16 +82,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/03 13:02",
       "imageUrl": "https://cache.pttweb.cc/imgur/XsRz3pf/s/6bf06575334428572bc36c5c325d7b78"
-    },
-    {
-      "recommendScore": "231",
-      "recommendCount": "641",
-      "title": "[新聞] 罷團開撕爆效法納粹 林俊憲:應相忍為大",
-      "link": "/bbs/Gossiping/M.1754286271.A.51F",
-      "author": "Taiwan007",
-      "board": "Gossiping",
-      "publishTime": "2025/08/04 05:44",
-      "imageUrl": "https://cache.pttweb.cc/imgur/DlflqBY/s/483d252010503a6697fa0059331195cc"
     },
     {
       "recommendScore": "270",
@@ -134,8 +134,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/PBtx2u0/s/a622cecb04ca9a2a5d3701f23aaabb03"
     },
     {
-      "recommendScore": "144",
-      "recommendCount": "500",
+      "recommendScore": "145",
+      "recommendCount": "502",
       "title": "[新聞] 閩南狼控八炯學納粹　民進黨：譴責任何消費運用納粹符號行為",
       "link": "/bbs/Gossiping/M.1754274854.A.C92",
       "author": "st210113",
@@ -192,6 +192,16 @@
       "board": "C_Chat",
       "publishTime": "2025/08/03 10:01",
       "imageUrl": "https://cache.pttweb.cc/imgur/f5B05j0/s/03219122e02019bbbb16b9ee68c9ca17"
+    },
+    {
+      "recommendScore": "206",
+      "recommendCount": "562",
+      "title": "[討論] 八炯回應了！",
+      "link": "/bbs/HatePolitics/M.1754266521.A.A70",
+      "author": "LeeSeDol",
+      "board": "HatePolitics",
+      "publishTime": "2025/08/04 00:15",
+      "imageUrl": ""
     }
   ]
 }
