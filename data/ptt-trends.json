@@ -1,7 +1,7 @@
 {
-  "updated": "2025-08-04T11:47:44.454Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-08-04T11:54:43.514Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "543",
@@ -22,16 +22,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/04 03:28",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "-432",
-      "recommendCount": "734",
-      "title": "[公告] 大怒灌",
-      "link": "/bbs/Elephants/M.1754221730.A.B8F",
-      "author": "msarthur",
-      "board": "Elephants",
-      "publishTime": "2025/08/03 11:48",
-      "imageUrl": "https://cache.pttweb.cc/imgur/DiGdncT/s/569adc482d01e953b91fa874852cf7d1"
     },
     {
       "recommendScore": "293",
@@ -104,8 +94,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/XsRz3pf/s/6bf06575334428572bc36c5c325d7b78"
     },
     {
-      "recommendScore": "299",
-      "recommendCount": "585",
+      "recommendScore": "303",
+      "recommendCount": "589",
       "title": "[討論] Lebron的運球技術是不是被低估了",
       "link": "/bbs/NBA/M.1754264828.A.466",
       "author": "yj80039",
@@ -192,6 +182,26 @@
       "board": "PC_Shopping",
       "publishTime": "2025/08/03 13:42",
       "imageUrl": "https://cache.pttweb.cc/imgur/W13JlmE/s/088758b2825be848010c700cbff7a010"
+    },
+    {
+      "recommendScore": "208",
+      "recommendCount": "565",
+      "title": "[討論] 八炯回應了！",
+      "link": "/bbs/HatePolitics/M.1754266521.A.A70",
+      "author": "LeeSeDol",
+      "board": "HatePolitics",
+      "publishTime": "2025/08/04 00:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "181",
+      "recommendCount": "406",
+      "title": "[新聞] 隱瞞「梅毒+愛滋」無套女高中師半年　中油男判6年+賠203萬",
+      "link": "/bbs/Gossiping/M.1754223425.A.574",
+      "author": "Comebuy",
+      "board": "Gossiping",
+      "publishTime": "2025/08/03 12:17",
+      "imageUrl": ""
     }
   ]
 }
