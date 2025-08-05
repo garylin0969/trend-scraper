@@ -1,11 +1,11 @@
 {
-  "updated": "2025-08-05T15:10:42.545Z",
+  "updated": "2025-08-05T15:23:47.181Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "498",
-      "recommendCount": "1375",
+      "recommendScore": "497",
+      "recommendCount": "1376",
       "title": "[新聞] 電價恐漲5%！台電負債比高達93.9% 每度電「虧損1元」財務雪崩",
       "link": "/bbs/Gossiping/M.1754362710.A.B52",
       "author": "ptt987654321",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "404",
-      "recommendCount": "1008",
+      "recommendScore": "407",
+      "recommendCount": "1012",
       "title": "[新聞] 綠議員張之豪：根本沒幾個人認同自己是「青鳥」",
       "link": "/bbs/Gossiping/M.1754375614.A.204",
       "author": "kenny1300175",
@@ -24,7 +24,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "624",
+      "recommendScore": "625",
       "recommendCount": "1466",
       "title": "[新聞] 美前國務院顧問表示川普拒絕賴清德的要求",
       "link": "/bbs/Gossiping/M.1754372976.A.CC7",
@@ -44,8 +44,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/DLhZvDf/s/599b638a94b104af9906140c5dbe2e1b"
     },
     {
-      "recommendScore": "253",
-      "recommendCount": "720",
+      "recommendScore": "252",
+      "recommendCount": "722",
       "title": "[新聞] 傳賴清德親邀重量級大老闆救關稅 AIT一句話讓籌碼全作廢",
       "link": "/bbs/Gossiping/M.1754355968.A.A00",
       "author": "Beziehung",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "341",
-      "recommendCount": "742",
+      "recommendScore": "344",
+      "recommendCount": "748",
       "title": "[問卦] 當初畫出三角關係的是不是未來人？",
       "link": "/bbs/Gossiping/M.1754379783.A.9D1",
       "author": "razghot1597",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "292",
-      "recommendCount": "740",
+      "recommendScore": "302",
+      "recommendCount": "755",
       "title": "[問卦] 靠！ 日本試產 2 奈米成功，也太巧了吧~",
       "link": "/bbs/Gossiping/M.1754381329.A.67D",
       "author": "k44754",
@@ -84,8 +84,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/7BRA6i4/s/f64181e42f24b8363b2e7401601f95ef"
     },
     {
-      "recommendScore": "189",
-      "recommendCount": "617",
+      "recommendScore": "190",
+      "recommendCount": "619",
       "title": "[新聞] 曹興誠才喊建台灣國　賴清德今重申：維護",
       "link": "/bbs/Gossiping/M.1754361258.A.5A8",
       "author": "fur",
@@ -94,13 +94,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "247",
-      "recommendCount": "1113",
+      "recommendScore": "162",
+      "recommendCount": "644",
+      "title": "[新聞] 台南水災！謝龍介竟「只勘災2天」　林俊憲酸：我們泡水裡你去聽江蕙",
+      "link": "/bbs/Gossiping/M.1754395643.A.82C",
+      "author": "BBQ2591",
+      "board": "Gossiping",
+      "publishTime": "2025/08/05 12:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "248",
+      "recommendCount": "1116",
       "title": "[問卦] 現在連醫生都對gpt那麼敏感嗎？",
       "link": "/bbs/Gossiping/M.1754377334.A.212",
       "author": "a09651238",
       "board": "Gossiping",
       "publishTime": "2025/08/05 07:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "246",
+      "recommendCount": "523",
+      "title": "[新聞] 比亞迪傳繞道入台 業界：恐摧毀本土生態系",
+      "link": "/bbs/Gossiping/M.1754393382.A.FC9",
+      "author": "AAApower",
+      "board": "Gossiping",
+      "publishTime": "2025/08/05 11:29",
       "imageUrl": ""
     },
     {
@@ -114,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "374",
+      "recommendCount": "812",
+      "title": "[新聞] 獨家》台積電2奈米機密外洩案災情慘重 上千張製程技術照片外流",
+      "link": "/bbs/Stock/M.1754398219.A.BD7",
+      "author": "hugh509",
+      "board": "Stock",
+      "publishTime": "2025/08/05 12:50",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "218",
       "recommendCount": "793",
       "title": "[新聞] 關稅難題卡台積1／台灣對美貿易逆差超過日韓　傳川普只給2條路解套",
@@ -124,28 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "152",
-      "recommendCount": "597",
-      "title": "[新聞] 台南水災！謝龍介竟「只勘災2天」　林俊憲酸：我們泡水裡你去聽江蕙",
-      "link": "/bbs/Gossiping/M.1754395643.A.82C",
-      "author": "BBQ2591",
-      "board": "Gossiping",
-      "publishTime": "2025/08/05 12:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "242",
-      "recommendCount": "505",
-      "title": "[新聞] 比亞迪傳繞道入台 業界：恐摧毀本土生態系",
-      "link": "/bbs/Gossiping/M.1754393382.A.FC9",
-      "author": "AAApower",
-      "board": "Gossiping",
-      "publishTime": "2025/08/05 11:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "287",
-      "recommendCount": "540",
+      "recommendScore": "290",
+      "recommendCount": "544",
       "title": "[問卦] 這間信義區月租8800的房子，你ok嗎？",
       "link": "/bbs/Gossiping/M.1754364829.A.FC3",
       "author": "ambitious",
@@ -164,13 +174,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "350",
-      "recommendCount": "750",
-      "title": "[新聞] 獨家》台積電2奈米機密外洩案災情慘重 上千張製程技術照片外流",
-      "link": "/bbs/Stock/M.1754398219.A.BD7",
-      "author": "hugh509",
-      "board": "Stock",
-      "publishTime": "2025/08/05 12:50",
+      "recommendScore": "281",
+      "recommendCount": "704",
+      "title": "[新聞] 快訊／川普稱台積電要投資3000億美元　下周公布半導體關稅",
+      "link": "/bbs/Gossiping/M.1754402282.A.C44",
+      "author": "WuSam",
+      "board": "Gossiping",
+      "publishTime": "2025/08/05 13:58",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/05 00:16",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "193",
-      "recommendCount": "467",
-      "title": "[問卦] 台灣瑞士加拿大印度被列為談判失敗國...",
-      "link": "/bbs/Gossiping/M.1754339052.A.EBE",
-      "author": "newbrain",
-      "board": "Gossiping",
-      "publishTime": "2025/08/04 20:24",
-      "imageUrl": "https://cache.pttweb.cc/imgur/xot45Us/s/8a16770c556b5a7117ffca69be6ab23d"
     }
   ]
 }
