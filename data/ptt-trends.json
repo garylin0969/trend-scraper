@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-05T18:08:44.586Z",
+  "updated": "2025-08-05T18:21:43.260Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "411",
-      "recommendCount": "1019",
+      "recommendScore": "412",
+      "recommendCount": "1020",
       "title": "[新聞] 綠議員張之豪：根本沒幾個人認同自己是「青鳥」",
       "link": "/bbs/Gossiping/M.1754375614.A.204",
       "author": "kenny1300175",
@@ -44,8 +44,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/DLhZvDf/s/599b638a94b104af9906140c5dbe2e1b"
     },
     {
-      "recommendScore": "312",
-      "recommendCount": "787",
+      "recommendScore": "313",
+      "recommendCount": "788",
       "title": "[問卦] 靠！ 日本試產 2 奈米成功，也太巧了吧~",
       "link": "/bbs/Gossiping/M.1754381329.A.67D",
       "author": "k44754",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "184",
-      "recommendCount": "737",
+      "recommendScore": "185",
+      "recommendCount": "738",
       "title": "[新聞] 台南水災！謝龍介竟「只勘災2天」　林俊憲酸：我們泡水裡你去聽江蕙",
       "link": "/bbs/Gossiping/M.1754395643.A.82C",
       "author": "BBQ2591",
@@ -85,7 +85,7 @@
     },
     {
       "recommendScore": "285",
-      "recommendCount": "588",
+      "recommendCount": "590",
       "title": "[新聞] 比亞迪傳繞道入台 業界：恐摧毀本土生態系",
       "link": "/bbs/Gossiping/M.1754393382.A.FC9",
       "author": "AAApower",
@@ -94,13 +94,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "413",
-      "recommendCount": "912",
+      "recommendScore": "412",
+      "recommendCount": "914",
       "title": "[新聞] 獨家》台積電2奈米機密外洩案災情慘重 上千張製程技術照片外流",
       "link": "/bbs/Stock/M.1754398219.A.BD7",
       "author": "hugh509",
       "board": "Stock",
       "publishTime": "2025/08/05 12:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "322",
+      "recommendCount": "850",
+      "title": "[新聞] 快訊／川普稱台積電要投資3000億美元　下周公布半導體關稅",
+      "link": "/bbs/Gossiping/M.1754402282.A.C44",
+      "author": "WuSam",
+      "board": "Gossiping",
+      "publishTime": "2025/08/05 13:58",
       "imageUrl": ""
     },
     {
@@ -111,16 +121,6 @@
       "author": "fur",
       "board": "Gossiping",
       "publishTime": "2025/08/05 02:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "321",
-      "recommendCount": "844",
-      "title": "[新聞] 快訊／川普稱台積電要投資3000億美元　下周公布半導體關稅",
-      "link": "/bbs/Gossiping/M.1754402282.A.C44",
-      "author": "WuSam",
-      "board": "Gossiping",
-      "publishTime": "2025/08/05 13:58",
       "imageUrl": ""
     },
     {
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "289",
-      "recommendCount": "546",
+      "recommendScore": "288",
+      "recommendCount": "547",
       "title": "[問卦] 這間信義區月租8800的房子，你ok嗎？",
       "link": "/bbs/Gossiping/M.1754364829.A.FC3",
       "author": "ambitious",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "225",
+      "recommendCount": "399",
+      "title": "[新聞] 等1個月還斷訊! 台南災民怒解約中華電信",
+      "link": "/bbs/Gossiping/M.1754384350.A.BDD",
+      "author": "Sky77777777",
+      "board": "Gossiping",
+      "publishTime": "2025/08/05 08:59",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "118",
       "recommendCount": "517",
       "title": "[問卦] 萬一台灣10級地震核能電廠撐不住",
@@ -191,16 +201,6 @@
       "author": "jstar100",
       "board": "Gossiping",
       "publishTime": "2025/08/05 00:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "224",
-      "recommendCount": "398",
-      "title": "[新聞] 等1個月還斷訊! 台南災民怒解約中華電信",
-      "link": "/bbs/Gossiping/M.1754384350.A.BDD",
-      "author": "Sky77777777",
-      "board": "Gossiping",
-      "publishTime": "2025/08/05 08:59",
       "imageUrl": ""
     }
   ]
