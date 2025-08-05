@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-05T15:23:47.181Z",
+  "updated": "2025-08-05T15:39:46.392Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,16 +74,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/NQl4IdF/s/f2f6a48d7b06a28557c376f43a9157cc"
     },
     {
-      "recommendScore": "318",
-      "recommendCount": "815",
-      "title": "[問卦] 房板：新青安年輕夫妻 被政策夾殺爆炸了",
-      "link": "/bbs/Gossiping/M.1754321159.A.ACA",
-      "author": "chiafann",
-      "board": "Gossiping",
-      "publishTime": "2025/08/04 15:25",
-      "imageUrl": "https://cache.pttweb.cc/imgur/7BRA6i4/s/f64181e42f24b8363b2e7401601f95ef"
-    },
-    {
       "recommendScore": "190",
       "recommendCount": "619",
       "title": "[新聞] 曹興誠才喊建台灣國　賴清德今重申：維護",
@@ -114,13 +104,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "246",
-      "recommendCount": "523",
+      "recommendScore": "252",
+      "recommendCount": "532",
       "title": "[新聞] 比亞迪傳繞道入台 業界：恐摧毀本土生態系",
       "link": "/bbs/Gossiping/M.1754393382.A.FC9",
       "author": "AAApower",
       "board": "Gossiping",
       "publishTime": "2025/08/05 11:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "383",
+      "recommendCount": "847",
+      "title": "[新聞] 獨家》台積電2奈米機密外洩案災情慘重 上千張製程技術照片外流",
+      "link": "/bbs/Stock/M.1754398219.A.BD7",
+      "author": "hugh509",
+      "board": "Stock",
+      "publishTime": "2025/08/05 12:50",
       "imageUrl": ""
     },
     {
@@ -131,16 +131,6 @@
       "author": "guoair",
       "board": "Gossiping",
       "publishTime": "2025/08/05 01:12",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "374",
-      "recommendCount": "812",
-      "title": "[新聞] 獨家》台積電2奈米機密外洩案災情慘重 上千張製程技術照片外流",
-      "link": "/bbs/Stock/M.1754398219.A.BD7",
-      "author": "hugh509",
-      "board": "Stock",
-      "publishTime": "2025/08/05 12:50",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/08/05 00:16",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "193",
+      "recommendCount": "467",
+      "title": "[問卦] 台灣瑞士加拿大印度被列為談判失敗國...",
+      "link": "/bbs/Gossiping/M.1754339052.A.EBE",
+      "author": "newbrain",
+      "board": "Gossiping",
+      "publishTime": "2025/08/04 20:24",
+      "imageUrl": "https://cache.pttweb.cc/imgur/xot45Us/s/8a16770c556b5a7117ffca69be6ab23d"
     }
   ]
 }
