@@ -1,10 +1,20 @@
 {
-  "updated": "2025-08-05T17:09:05.758Z",
+  "updated": "2025-08-05T17:41:15.444Z",
   "trends": [
     {
-      "googleTrend": "台積電adr",
-      "searchVolume": "1,000+",
+      "googleTrend": "台灣文博會",
+      "searchVolume": "200+",
       "started": "2 小時前"
+    },
+    {
+      "googleTrend": "台積電adr",
+      "searchVolume": "2,000+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "onds",
+      "searchVolume": "100+",
+      "started": "1 小時前"
     },
     {
       "googleTrend": "tsm",
@@ -12,12 +22,7 @@
       "started": "2 小時前"
     },
     {
-      "googleTrend": "林詩翔",
-      "searchVolume": "500+",
-      "started": "3 小時前"
-    },
-    {
-      "googleTrend": "台灣文博會",
+      "googleTrend": "tsmc",
       "searchVolume": "200+",
       "started": "2 小時前"
     },
@@ -29,22 +34,17 @@
     {
       "googleTrend": "英特爾",
       "searchVolume": "200+",
-      "started": "2 小時前"
-    },
-    {
-      "googleTrend": "tsmc",
-      "searchVolume": "100+",
-      "started": "1 小時前"
+      "started": "3 小時前"
     },
     {
       "googleTrend": "hims",
       "searchVolume": "100+",
-      "started": "2 小時前"
+      "started": "3 小時前"
     },
     {
       "googleTrend": "oklo",
       "searchVolume": "100+",
-      "started": "2 小時前"
+      "started": "3 小時前"
     }
   ]
 }
