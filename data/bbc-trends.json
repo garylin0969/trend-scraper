@@ -1,14 +1,22 @@
 {
-  "updated": "2025-08-05T05:53:06.597Z",
+  "updated": "2025-08-05T06:24:25.564Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-08-05T05:52:54.000Z",
+    "lastBuildDate": "2025-08-05T06:24:11.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "特朗普與普京關係惡化，美俄或將「迎面相撞」?",
+      "description": "「普京號列車」和「特朗普號列車」在烏克蘭問題上是否快要「迎頭相撞」了？",
+      "link": "https://www.bbc.com/zhongwen/articles/c8jp0j332mko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-05T06:17:52.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c8jp0j332mko/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20e7/live/de787800-71bd-11f0-89ea-4d6f9851f623.png"
+    },
     {
       "title": "日本廣島原爆80週年：那些被遺忘的韓國籍倖存者",
       "description": "鮮為人知的是，廣島約20%的直接受害者是韓國人。當時這裡住著約14萬韓國人，因強迫勞動或殖民壓榨而遷居至此。韓國陜川郡被稱為「韓國的廣島」，戰後許多核爆倖存者在此定居。\n",
@@ -32,14 +40,6 @@
       "pubDate": "2025-08-04T04:16:12.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c987140j8y0o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8c44/live/71f58e60-6ecb-11f0-b172-55e938a4abab.jpg"
-    },
-    {
-      "title": "科技製造業成就了亞洲，如今成為特朗普關稅的犧牲品",
-      "description": "特朗普第一任期內的關稅目標是中國——但這次，目標遠不止於此。",
-      "link": "https://www.bbc.com/zhongwen/articles/ce83yze2l1ro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-04T05:59:31.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce83yze2l1ro/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b47/live/67427cd0-6eb2-11f0-bc7d-5bb60edf943a.jpg"
     },
     {
       "title": "邱吉爾的鴨嘴獸死亡之謎是如何解開的",
@@ -80,6 +80,14 @@
       "pubDate": "2025-08-04T04:36:55.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cd7yd1x27gvo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fbed/live/a6b361b0-704a-11f0-89ea-4d6f9851f623.jpg"
+    },
+    {
+      "title": "科技製造業成就了亞洲，如今成為特朗普關稅的犧牲品",
+      "description": "特朗普第一任期內的關稅目標是中國——但這次，目標遠不止於此。",
+      "link": "https://www.bbc.com/zhongwen/articles/ce83yze2l1ro/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-04T05:59:31.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce83yze2l1ro/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b47/live/67427cd0-6eb2-11f0-bc7d-5bb60edf943a.jpg"
     },
     {
       "title": "美國30餘年前冷凍胚胎誕出嬰兒，打破世界紀錄",
