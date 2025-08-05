@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-05T20:55:02.990Z",
+  "updated": "2025-08-05T21:05:54.334Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "331",
-      "recommendCount": "873",
+      "recommendScore": "332",
+      "recommendCount": "874",
       "title": "[新聞] 快訊／川普稱台積電要投資3000億美元　下周公布半導體關稅",
       "link": "/bbs/Gossiping/M.1754402282.A.C44",
       "author": "WuSam",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "826",
+      "recommendCount": "1499",
+      "title": "[Live] 亞洲盃    台灣 VS 菲律賓",
+      "link": "/bbs/basketballTW/M.1754414423.A.ECC",
+      "author": "thnlkj0665",
+      "board": "basketballTW",
+      "publishTime": "2025/08/05 17:20",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "226",
       "recommendCount": "400",
       "title": "[新聞] 等1個月還斷訊! 台南災民怒解約中華電信",
@@ -191,16 +201,6 @@
       "author": "Sky77777777",
       "board": "Gossiping",
       "publishTime": "2025/08/05 08:59",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "825",
-      "recommendCount": "1499",
-      "title": "[Live] 亞洲盃    台灣 VS 菲律賓",
-      "link": "/bbs/basketballTW/M.1754414423.A.ECC",
-      "author": "thnlkj0665",
-      "board": "basketballTW",
-      "publishTime": "2025/08/05 17:20",
       "imageUrl": ""
     }
   ]
