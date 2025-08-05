@@ -1,11 +1,11 @@
 {
-  "updated": "2025-08-05T10:18:20.646Z",
-  "total_found": 18,
-  "returned_count": 18,
+  "updated": "2025-08-05T10:33:10.577Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "494",
-      "recommendCount": "1359",
+      "recommendCount": "1361",
       "title": "[新聞] 電價恐漲5%！台電負債比高達93.9% 每度電「虧損1元」財務雪崩",
       "link": "/bbs/Gossiping/M.1754362710.A.B52",
       "author": "ptt987654321",
@@ -14,7 +14,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "653",
+      "recommendScore": "656",
       "recommendCount": "1466",
       "title": "[新聞] 美前國務院顧問表示川普拒絕賴清德的要求",
       "link": "/bbs/Gossiping/M.1754372976.A.CC7",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "356",
-      "recommendCount": "882",
+      "recommendScore": "362",
+      "recommendCount": "901",
       "title": "[新聞] 綠議員張之豪：根本沒幾個人認同自己是「青鳥」",
       "link": "/bbs/Gossiping/M.1754375614.A.204",
       "author": "kenny1300175",
@@ -55,22 +55,12 @@
     },
     {
       "recommendScore": "245",
-      "recommendCount": "706",
+      "recommendCount": "707",
       "title": "[新聞] 傳賴清德親邀重量級大老闆救關稅 AIT一句話讓籌碼全作廢",
       "link": "/bbs/Gossiping/M.1754355968.A.A00",
       "author": "Beziehung",
       "board": "Gossiping",
       "publishTime": "2025/08/05 01:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "272",
-      "recommendCount": "902",
-      "title": "[新聞] 「關稅」傾聽業者　郭智輝證實：4千億投資美",
-      "link": "/bbs/Stock/M.1754303472.A.333",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2025/08/04 10:31",
       "imageUrl": ""
     },
     {
@@ -124,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "269",
-      "recommendCount": "588",
+      "recommendScore": "277",
+      "recommendCount": "610",
       "title": "[問卦] 當初畫出三角關係的是不是未來人？",
       "link": "/bbs/Gossiping/M.1754379783.A.9D1",
       "author": "razghot1597",
@@ -134,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "276",
-      "recommendCount": "517",
+      "recommendScore": "277",
+      "recommendCount": "519",
       "title": "[問卦] 這間信義區月租8800的房子，你ok嗎？",
       "link": "/bbs/Gossiping/M.1754364829.A.FC3",
       "author": "ambitious",
@@ -164,13 +154,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "201",
-      "recommendCount": "442",
+      "recommendScore": "202",
+      "recommendCount": "448",
       "title": "[新聞] 北市大雷雨狂炸！228公園周邊道路成小河",
       "link": "/bbs/Gossiping/M.1754374011.A.097",
       "author": "cl3bp6",
       "board": "Gossiping",
       "publishTime": "2025/08/05 06:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "210",
+      "recommendCount": "953",
+      "title": "[問卦] 現在連醫生都對gpt那麼敏感嗎？",
+      "link": "/bbs/Gossiping/M.1754377334.A.212",
+      "author": "a09651238",
+      "board": "Gossiping",
+      "publishTime": "2025/08/05 07:02",
       "imageUrl": ""
     },
     {
@@ -181,6 +181,26 @@
       "author": "asppsa",
       "board": "Gossiping",
       "publishTime": "2025/08/04 23:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "352",
+      "recommendCount": "487",
+      "title": "[分享] 咖哩拌不拌？兄弟你哪派！",
+      "link": "/bbs/Baseball/M.1754304267.A.FF4",
+      "author": "f59952",
+      "board": "Baseball",
+      "publishTime": "2025/08/04 10:44",
+      "imageUrl": "https://cache.pttweb.cc/imgur/d9YKsNt/s/74cedc4185e439fe83a48a575af560e8"
+    },
+    {
+      "recommendScore": "288",
+      "recommendCount": "506",
+      "title": "[外絮] 賈霸:得分王LBJ值得，我不是為了紀錄打球",
+      "link": "/bbs/NBA/M.1754315676.A.C5A",
+      "author": "Wojnarowski",
+      "board": "NBA",
+      "publishTime": "2025/08/04 13:54",
       "imageUrl": ""
     }
   ]
