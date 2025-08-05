@@ -1,11 +1,11 @@
 {
-  "updated": "2025-08-05T00:49:46.860Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-08-05T01:22:44.642Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "517",
-      "recommendCount": "979",
+      "recommendScore": "518",
+      "recommendCount": "981",
       "title": "[新聞] 監委調查：中央連3年補助台南近9千萬元清淤、8成疑遭挪為他用",
       "link": "/bbs/Gossiping/M.1754301642.A.6D0",
       "author": "stoneruler",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "397",
-      "recommendCount": "813",
+      "recommendScore": "399",
+      "recommendCount": "820",
       "title": "[爆卦] 綠營大片「零日攻擊」收視率大爆炸！",
       "link": "/bbs/Gossiping/M.1754305237.A.41A",
       "author": "o0o7221",
@@ -55,7 +55,7 @@
     },
     {
       "recommendScore": "226",
-      "recommendCount": "646",
+      "recommendCount": "648",
       "title": "[問卦] 李多慧素顏曝光 網驚：有點醜 你真的ok?",
       "link": "/bbs/Gossiping/M.1754299732.A.11A",
       "author": "norvasc",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-31",
-      "recommendCount": "1200",
+      "recommendScore": "-32",
+      "recommendCount": "1201",
       "title": "[討論] 台灣有那麼一群邏輯錯亂的人",
       "link": "/bbs/HatePolitics/M.1754277387.A.248",
       "author": "locer",
@@ -94,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "270",
-      "recommendCount": "563",
-      "title": "Re: [爆卦] 德國在台協會譴責了！",
-      "link": "/bbs/Gossiping/M.1754291010.A.561",
-      "author": "DsLove710",
-      "board": "Gossiping",
-      "publishTime": "2025/08/04 07:03",
-      "imageUrl": "https://cache.pttweb.cc/imgur/c7J87Hk/s/d3378492dfaf43b95b3f95619173fe71"
-    },
-    {
-      "recommendScore": "218",
-      "recommendCount": "514",
+      "recommendScore": "219",
+      "recommendCount": "519",
       "title": "[新聞] 台南暴雨「百年一遇」水利局：治水有成無重大災害",
       "link": "/bbs/Gossiping/M.1754307885.A.F59",
       "author": "deathdecay",
@@ -114,8 +104,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "254",
-      "recommendCount": "688",
+      "recommendScore": "269",
+      "recommendCount": "564",
+      "title": "Re: [爆卦] 德國在台協會譴責了！",
+      "link": "/bbs/Gossiping/M.1754291010.A.561",
+      "author": "DsLove710",
+      "board": "Gossiping",
+      "publishTime": "2025/08/04 07:03",
+      "imageUrl": "https://cache.pttweb.cc/imgur/c7J87Hk/s/d3378492dfaf43b95b3f95619173fe71"
+    },
+    {
+      "recommendScore": "274",
+      "recommendCount": "732",
       "title": "[問卦] 房板：新青安年輕夫妻 被政策夾殺爆炸了",
       "link": "/bbs/Gossiping/M.1754321159.A.ACA",
       "author": "chiafann",
@@ -125,13 +125,23 @@
     },
     {
       "recommendScore": "168",
-      "recommendCount": "555",
+      "recommendCount": "556",
       "title": "[新聞] 關稅」傾聽業者　郭智輝證實：4千億投資美",
       "link": "/bbs/Gossiping/M.1754304122.A.703",
       "author": "keel90135",
       "board": "Gossiping",
       "publishTime": "2025/08/04 10:42",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "201",
+      "recommendCount": "462",
+      "title": "[問卦] 脆：八炯納粹不是瘋狂，是赤裸的愛",
+      "link": "/bbs/Gossiping/M.1754292632.A.8D4",
+      "author": "jack8587",
+      "board": "Gossiping",
+      "publishTime": "2025/08/04 07:30",
+      "imageUrl": "https://cache.pttweb.cc/imgur/pE9cRGP/s/b57cd3fea3d028d2e75766cd88d07ee1"
     },
     {
       "recommendScore": "148",
@@ -144,18 +154,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/fFCvBog/s/0ae7d93f91e409545df0b21e8a02f7f0"
     },
     {
-      "recommendScore": "202",
-      "recommendCount": "461",
-      "title": "[問卦] 脆：八炯納粹不是瘋狂，是赤裸的愛",
-      "link": "/bbs/Gossiping/M.1754292632.A.8D4",
-      "author": "jack8587",
-      "board": "Gossiping",
-      "publishTime": "2025/08/04 07:30",
-      "imageUrl": "https://cache.pttweb.cc/imgur/pE9cRGP/s/b57cd3fea3d028d2e75766cd88d07ee1"
-    },
-    {
-      "recommendScore": "187",
-      "recommendCount": "538",
+      "recommendScore": "189",
+      "recommendCount": "551",
       "title": "[爆卦] 脆熱議：完全執政才八年，叫什麼叫",
       "link": "/bbs/Gossiping/M.1754312295.A.05B",
       "author": "super1314159",
@@ -165,7 +165,7 @@
     },
     {
       "recommendScore": "346",
-      "recommendCount": "479",
+      "recommendCount": "480",
       "title": "[分享] 咖哩拌不拌？兄弟你哪派！",
       "link": "/bbs/Baseball/M.1754304267.A.FF4",
       "author": "f59952",
@@ -192,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/08/04 04:22",
       "imageUrl": "https://cache.pttweb.cc/imgur/JXgihC8/s/fd5759b8bb3a18a25dab7773b3e461af"
+    },
+    {
+      "recommendScore": "167",
+      "recommendCount": "611",
+      "title": "[新聞] 關稅難題卡台積1／台灣對美貿易逆差超過日韓　傳川普只給2條路解套",
+      "link": "/bbs/Stock/M.1754346309.A.931",
+      "author": "zkow",
+      "board": "Stock",
+      "publishTime": "2025/08/04 22:25",
+      "imageUrl": ""
     }
   ]
 }
