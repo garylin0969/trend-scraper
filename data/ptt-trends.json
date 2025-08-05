@@ -1,11 +1,11 @@
 {
-  "updated": "2025-08-05T15:56:04.039Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-08-05T16:06:26.634Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "497",
-      "recommendCount": "1376",
+      "recommendScore": "498",
+      "recommendCount": "1377",
       "title": "[新聞] 電價恐漲5%！台電負債比高達93.9% 每度電「虧損1元」財務雪崩",
       "link": "/bbs/Gossiping/M.1754362710.A.B52",
       "author": "ptt987654321",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "408",
-      "recommendCount": "1013",
+      "recommendScore": "409",
+      "recommendCount": "1016",
       "title": "[新聞] 綠議員張之豪：根本沒幾個人認同自己是「青鳥」",
       "link": "/bbs/Gossiping/M.1754375614.A.204",
       "author": "kenny1300175",
@@ -44,14 +44,24 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/DLhZvDf/s/599b638a94b104af9906140c5dbe2e1b"
     },
     {
-      "recommendScore": "305",
-      "recommendCount": "764",
+      "recommendScore": "307",
+      "recommendCount": "770",
       "title": "[問卦] 靠！ 日本試產 2 奈米成功，也太巧了吧~",
       "link": "/bbs/Gossiping/M.1754381329.A.67D",
       "author": "k44754",
       "board": "Gossiping",
       "publishTime": "2025/08/05 08:08",
       "imageUrl": "https://cache.pttweb.cc/imgur/NQl4IdF/s/f2f6a48d7b06a28557c376f43a9157cc"
+    },
+    {
+      "recommendScore": "343",
+      "recommendCount": "754",
+      "title": "[問卦] 當初畫出三角關係的是不是未來人？",
+      "link": "/bbs/Gossiping/M.1754379783.A.9D1",
+      "author": "razghot1597",
+      "board": "Gossiping",
+      "publishTime": "2025/08/05 07:43",
+      "imageUrl": ""
     },
     {
       "recommendScore": "252",
@@ -64,13 +74,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "344",
-      "recommendCount": "750",
-      "title": "[問卦] 當初畫出三角關係的是不是未來人？",
-      "link": "/bbs/Gossiping/M.1754379783.A.9D1",
-      "author": "razghot1597",
+      "recommendScore": "178",
+      "recommendCount": "698",
+      "title": "[新聞] 台南水災！謝龍介竟「只勘災2天」　林俊憲酸：我們泡水裡你去聽江蕙",
+      "link": "/bbs/Gossiping/M.1754395643.A.82C",
+      "author": "BBQ2591",
       "board": "Gossiping",
-      "publishTime": "2025/08/05 07:43",
+      "publishTime": "2025/08/05 12:07",
       "imageUrl": ""
     },
     {
@@ -84,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "167",
-      "recommendCount": "673",
-      "title": "[新聞] 台南水災！謝龍介竟「只勘災2天」　林俊憲酸：我們泡水裡你去聽江蕙",
-      "link": "/bbs/Gossiping/M.1754395643.A.82C",
-      "author": "BBQ2591",
-      "board": "Gossiping",
-      "publishTime": "2025/08/05 12:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "262",
-      "recommendCount": "550",
+      "recommendScore": "268",
+      "recommendCount": "562",
       "title": "[新聞] 比亞迪傳繞道入台 業界：恐摧毀本土生態系",
       "link": "/bbs/Gossiping/M.1754393382.A.FC9",
       "author": "AAApower",
@@ -104,23 +104,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "248",
-      "recommendCount": "1118",
-      "title": "[問卦] 現在連醫生都對gpt那麼敏感嗎？",
-      "link": "/bbs/Gossiping/M.1754377334.A.212",
-      "author": "a09651238",
-      "board": "Gossiping",
-      "publishTime": "2025/08/05 07:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "389",
-      "recommendCount": "855",
+      "recommendScore": "394",
+      "recommendCount": "873",
       "title": "[新聞] 獨家》台積電2奈米機密外洩案災情慘重 上千張製程技術照片外流",
       "link": "/bbs/Stock/M.1754398219.A.BD7",
       "author": "hugh509",
       "board": "Stock",
       "publishTime": "2025/08/05 12:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "249",
+      "recommendCount": "1122",
+      "title": "[問卦] 現在連醫生都對gpt那麼敏感嗎？",
+      "link": "/bbs/Gossiping/M.1754377334.A.212",
+      "author": "a09651238",
+      "board": "Gossiping",
+      "publishTime": "2025/08/05 07:02",
       "imageUrl": ""
     },
     {
@@ -131,6 +131,16 @@
       "author": "guoair",
       "board": "Gossiping",
       "publishTime": "2025/08/05 01:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "300",
+      "recommendCount": "771",
+      "title": "[新聞] 快訊／川普稱台積電要投資3000億美元　下周公布半導體關稅",
+      "link": "/bbs/Gossiping/M.1754402282.A.C44",
+      "author": "WuSam",
+      "board": "Gossiping",
+      "publishTime": "2025/08/05 13:58",
       "imageUrl": ""
     },
     {
@@ -152,16 +162,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/05 03:33",
       "imageUrl": "https://cache.pttweb.cc/imgur/0WW6OUS/s/4ff47101a82012204841244e0305bb37"
-    },
-    {
-      "recommendScore": "295",
-      "recommendCount": "736",
-      "title": "[新聞] 快訊／川普稱台積電要投資3000億美元　下周公布半導體關稅",
-      "link": "/bbs/Gossiping/M.1754402282.A.C44",
-      "author": "WuSam",
-      "board": "Gossiping",
-      "publishTime": "2025/08/05 13:58",
-      "imageUrl": ""
     },
     {
       "recommendScore": "209",
@@ -192,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/08/05 00:16",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "193",
+      "recommendCount": "467",
+      "title": "[問卦] 台灣瑞士加拿大印度被列為談判失敗國...",
+      "link": "/bbs/Gossiping/M.1754339052.A.EBE",
+      "author": "newbrain",
+      "board": "Gossiping",
+      "publishTime": "2025/08/04 20:24",
+      "imageUrl": "https://cache.pttweb.cc/imgur/xot45Us/s/8a16770c556b5a7117ffca69be6ab23d"
     }
   ]
 }
