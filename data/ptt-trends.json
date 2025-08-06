@@ -1,8 +1,18 @@
 {
-  "updated": "2025-08-06T14:49:09.118Z",
+  "updated": "2025-08-06T14:58:36.384Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "404",
+      "recommendCount": "1092",
+      "title": "[新聞] 公投辯論PK黃國昌 20歲少女:6歲就參加反核遊行",
+      "link": "/bbs/Gossiping/M.1754484113.A.0E0",
+      "author": "LonerEver",
+      "board": "Gossiping",
+      "publishTime": "2025/08/06 12:41",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "294",
       "recommendCount": "908",
@@ -11,16 +21,6 @@
       "author": "westdoorcard",
       "board": "Gossiping",
       "publishTime": "2025/08/06 02:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "388",
-      "recommendCount": "1052",
-      "title": "[新聞] 公投辯論PK黃國昌 20歲少女:6歲就參加反核遊行",
-      "link": "/bbs/Gossiping/M.1754484113.A.0E0",
-      "author": "LonerEver",
-      "board": "Gossiping",
-      "publishTime": "2025/08/06 12:41",
       "imageUrl": ""
     },
     {
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "213",
+      "recommendCount": "596",
+      "title": "[新聞] 賴清德對823大罷免下軍令狀　民進黨陸戰應援隊成軍",
+      "link": "/bbs/Gossiping/M.1754480222.A.BC3",
+      "author": "Rainbow5566",
+      "board": "Gossiping",
+      "publishTime": "2025/08/06 11:37",
+      "imageUrl": "https://cache.pttweb.cc/imgur/ecFNjYb/s/9a59acfefeddb84178cb26819770b0d6"
+    },
+    {
       "recommendScore": "373",
       "recommendCount": "897",
       "title": "Re: [新聞] 蕭美琴是最有影響力大使？川普政府前顧問：荒謬至極",
@@ -102,16 +112,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/05 23:53",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "211",
-      "recommendCount": "589",
-      "title": "[新聞] 賴清德對823大罷免下軍令狀　民進黨陸戰應援隊成軍",
-      "link": "/bbs/Gossiping/M.1754480222.A.BC3",
-      "author": "Rainbow5566",
-      "board": "Gossiping",
-      "publishTime": "2025/08/06 11:37",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ecFNjYb/s/9a59acfefeddb84178cb26819770b0d6"
     },
     {
       "recommendScore": "396",
@@ -165,7 +165,7 @@
     },
     {
       "recommendScore": "274",
-      "recommendCount": "592",
+      "recommendCount": "595",
       "title": "Re: [問卦] 2奈米技術被偷 我TSMC朋友的看法",
       "link": "/bbs/Gossiping/M.1754474211.A.D5B",
       "author": "gungrandpa",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "220",
-      "recommendCount": "488",
+      "recommendScore": "221",
+      "recommendCount": "489",
       "title": "[新聞] 涉入比亞迪夜宴立院高層事件 《三立》主管停職調查",
       "link": "/bbs/Gossiping/M.1754469894.A.A30",
       "author": "CrazySept",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "289",
-      "recommendCount": "636",
-      "title": "[問卦] 5ch: 日本最終也走到這一步了",
-      "link": "/bbs/Gossiping/M.1754408925.A.85A",
-      "author": "beaver",
+      "recommendScore": "221",
+      "recommendCount": "492",
+      "title": "[問卦] 2奈米技術被偷走  政府毫無動靜正常嗎",
+      "link": "/bbs/Gossiping/M.1754458381.A.D7A",
+      "author": "Crystal0322",
       "board": "Gossiping",
-      "publishTime": "2025/08/05 15:48",
+      "publishTime": "2025/08/06 05:33",
       "imageUrl": ""
     }
   ]
