@@ -1,7 +1,7 @@
 {
-  "updated": "2025-08-06T19:20:50.388Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2025-08-06T19:31:03.466Z",
+  "total_found": 19,
+  "returned_count": 19,
   "articles": [
     {
       "recommendScore": "552",
@@ -85,7 +85,7 @@
     },
     {
       "recommendScore": "227",
-      "recommendCount": "661",
+      "recommendCount": "662",
       "title": "[新聞] 賴清德對823大罷免下軍令狀　民進黨陸戰應援隊成軍",
       "link": "/bbs/Gossiping/M.1754480222.A.BC3",
       "author": "Rainbow5566",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "321",
-      "recommendCount": "676",
+      "recommendScore": "322",
+      "recommendCount": "678",
       "title": "Re: [問卦] 2奈米技術被偷 我TSMC朋友的看法",
       "link": "/bbs/Gossiping/M.1754474211.A.D5B",
       "author": "gungrandpa",
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "264",
+      "recommendCount": "525",
+      "title": "[新聞] 比亞迪餐敘延燒 黃國昌嗆三立：你們主管找吃飯再批評演哪齣？",
+      "link": "/bbs/Gossiping/M.1754452692.A.C7C",
+      "author": "gogobar",
+      "board": "Gossiping",
+      "publishTime": "2025/08/06 03:58",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "230",
       "recommendCount": "552",
       "title": "[問卦] 整個世代的努力 1年多毀了 爽不爽？",
@@ -161,16 +171,6 @@
       "author": "beaver",
       "board": "Gossiping",
       "publishTime": "2025/08/06 03:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "263",
-      "recommendCount": "524",
-      "title": "[新聞] 比亞迪餐敘延燒 黃國昌嗆三立：你們主管找吃飯再批評演哪齣？",
-      "link": "/bbs/Gossiping/M.1754452692.A.C7C",
-      "author": "gogobar",
-      "board": "Gossiping",
-      "publishTime": "2025/08/06 03:58",
       "imageUrl": ""
     },
     {
@@ -184,23 +184,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "256",
-      "recommendCount": "433",
+      "recommendScore": "257",
+      "recommendCount": "434",
       "title": "[新聞] 風災毀損光電板棄置農地流出不明油汙 嘉縣環保局重罰百萬元",
       "link": "/bbs/Gossiping/M.1754482293.A.CDB",
       "author": "ThisisLongID",
       "board": "Gossiping",
       "publishTime": "2025/08/06 12:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "201",
-      "recommendCount": "506",
-      "title": "[新聞] 李大維：美方依然歡迎賴總統過境 「次敏感城市較佳」",
-      "link": "/bbs/Gossiping/M.1754460679.A.5E2",
-      "author": "tiaojio",
-      "board": "Gossiping",
-      "publishTime": "2025/08/06 06:11",
       "imageUrl": ""
     }
   ]
