@@ -1,7 +1,7 @@
 {
-  "updated": "2025-08-06T19:39:56.706Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-08-06T19:47:22.947Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "552",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "278",
-      "recommendCount": "1187",
+      "recommendCount": "1189",
       "title": "[問卦] 反核少女論述來了：把難題丟給下一代",
       "link": "/bbs/Gossiping/M.1754488033.A.61A",
       "author": "lunli924",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "322",
-      "recommendCount": "678",
+      "recommendScore": "324",
+      "recommendCount": "680",
       "title": "Re: [問卦] 2奈米技術被偷 我TSMC朋友的看法",
       "link": "/bbs/Gossiping/M.1754474211.A.D5B",
       "author": "gungrandpa",
@@ -184,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "258",
-      "recommendCount": "436",
+      "recommendScore": "259",
+      "recommendCount": "437",
       "title": "[新聞] 風災毀損光電板棄置農地流出不明油汙 嘉縣環保局重罰百萬元",
       "link": "/bbs/Gossiping/M.1754482293.A.CDB",
       "author": "ThisisLongID",
       "board": "Gossiping",
       "publishTime": "2025/08/06 12:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "201",
+      "recommendCount": "506",
+      "title": "[新聞] 李大維：美方依然歡迎賴總統過境 「次敏感城市較佳」",
+      "link": "/bbs/Gossiping/M.1754460679.A.5E2",
+      "author": "tiaojio",
+      "board": "Gossiping",
+      "publishTime": "2025/08/06 06:11",
       "imageUrl": ""
     }
   ]
