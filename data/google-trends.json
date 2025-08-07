@@ -1,20 +1,30 @@
 {
-  "updated": "2025-08-07T23:09:14.810Z",
+  "updated": "2025-08-07T23:39:06.957Z",
   "trends": [
     {
-      "googleTrend": "gpt-5",
+      "googleTrend": "chatgpt 5",
       "searchVolume": "200+",
-      "started": "3 小時前"
+      "started": "50 分鐘前"
     },
     {
       "googleTrend": "台股夜盤",
-      "searchVolume": "200+",
-      "started": "1 小時前"
+      "searchVolume": "500+",
+      "started": "2 小時前"
     },
     {
       "googleTrend": "美股指數",
-      "searchVolume": "200+",
+      "searchVolume": "2,000+",
       "started": "1 小時前"
+    },
+    {
+      "googleTrend": "al-nassr vs rio ave",
+      "searchVolume": "100+",
+      "started": "30 分鐘前"
+    },
+    {
+      "googleTrend": "黃金",
+      "searchVolume": "200+",
+      "started": "10 分鐘前"
     },
     {
       "googleTrend": "台指期夜盤",
@@ -22,14 +32,14 @@
       "started": "1 小時前"
     },
     {
-      "googleTrend": "道瓊",
+      "googleTrend": "雅虎",
       "searchVolume": "100+",
       "started": "1 小時前"
     },
     {
-      "googleTrend": "黃金價格",
-      "searchVolume": "200+",
-      "started": "2 小時前"
+      "googleTrend": "道瓊",
+      "searchVolume": "100+",
+      "started": "1 小時前"
     }
   ]
 }
