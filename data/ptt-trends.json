@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-08T17:38:39.563Z",
+  "updated": "2025-08-08T17:47:07.881Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "349",
-      "recommendCount": "1329",
+      "recommendScore": "350",
+      "recommendCount": "1344",
       "title": "[新聞] 獨家》公文曝光!大罷免後清算？ 王鴻薇鎖定挺罷「志祺七七」、大支等人頻索資",
       "link": "/bbs/HatePolitics/M.1754654511.A.6BC",
       "author": "wetteland",
@@ -35,12 +35,22 @@
     },
     {
       "recommendScore": "227",
-      "recommendCount": "827",
+      "recommendCount": "829",
       "title": "[問卦] 「棕棕」被送回！農業部：不算棄養",
       "link": "/bbs/Gossiping/M.1754637430.A.A65",
       "author": "didder",
       "board": "Gossiping",
       "publishTime": "2025/08/08 07:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "423",
+      "recommendCount": "992",
+      "title": "[新聞] 台灣關稅不只20％ 經貿辦證實: 暫時性關稅還要疊加原關稅",
+      "link": "/bbs/Gossiping/M.1754659412.A.68C",
+      "author": "CREA",
+      "board": "Gossiping",
+      "publishTime": "2025/08/08 13:23",
       "imageUrl": ""
     },
     {
@@ -54,16 +64,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/Mc8vKoy/s/8aaf74098a274b0915bca47471573000"
     },
     {
-      "recommendScore": "422",
-      "recommendCount": "987",
-      "title": "[新聞] 台灣關稅不只20％ 經貿辦證實: 暫時性關稅還要疊加原關稅",
-      "link": "/bbs/Gossiping/M.1754659412.A.68C",
-      "author": "CREA",
-      "board": "Gossiping",
-      "publishTime": "2025/08/08 13:23",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "277",
       "recommendCount": "978",
       "title": "[問卦] 中研院學者 低生育率：男生愛找妹妹",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "338",
-      "recommendCount": "898",
+      "recommendScore": "339",
+      "recommendCount": "902",
       "title": "[問卦] 政府到底要怎麼做，大家才願意生小孩？",
       "link": "/bbs/Gossiping/M.1754636110.A.AB9",
       "author": "cigxm",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "350",
-      "recommendCount": "775",
+      "recommendScore": "353",
+      "recommendCount": "778",
       "title": "[新聞] 美籍女子來台旅行帶手槍入境...到景點趴趴走 出境前安檢才被發現",
       "link": "/bbs/Gossiping/M.1754626506.A.187",
       "author": "Vicky1016",
@@ -94,13 +94,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "338",
-      "recommendCount": "668",
+      "recommendScore": "339",
+      "recommendCount": "669",
       "title": "[新聞] 獨家／移民署高官帶小17歲女下屬泡溫泉被捉姦　竟辯「網路召妓",
       "link": "/bbs/Gossiping/M.1754619504.A.04F",
       "author": "chirex",
       "board": "Gossiping",
       "publishTime": "2025/08/08 02:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "387",
+      "recommendCount": "774",
+      "title": "［爆卦］柯文哲FB:被關在最炎熱的頂樓，對",
+      "link": "/bbs/Gossiping/M.1754664044.A.300",
+      "author": "cheninher",
+      "board": "Gossiping",
+      "publishTime": "2025/08/08 14:40",
       "imageUrl": ""
     },
     {
@@ -125,23 +135,13 @@
     },
     {
       "recommendScore": "321",
-      "recommendCount": "655",
+      "recommendCount": "659",
       "title": "[新聞] 性平會譴責王義川遭出征！李晏榕被起底老公是香港人挨批不適任",
       "link": "/bbs/Gossiping/M.1754638876.A.A75",
       "author": "Makubex82",
       "board": "Gossiping",
       "publishTime": "2025/08/08 07:41",
       "imageUrl": "https://cache.pttweb.cc/imgur/kfkoHLq/s/8719823b241610b0623f96ec3710f451"
-    },
-    {
-      "recommendScore": "355",
-      "recommendCount": "707",
-      "title": "［爆卦］柯文哲FB:被關在最炎熱的頂樓，對",
-      "link": "/bbs/Gossiping/M.1754664044.A.300",
-      "author": "cheninher",
-      "board": "Gossiping",
-      "publishTime": "2025/08/08 14:40",
-      "imageUrl": ""
     },
     {
       "recommendScore": "354",
@@ -155,7 +155,7 @@
     },
     {
       "recommendScore": "237",
-      "recommendCount": "533",
+      "recommendCount": "534",
       "title": "[新聞] 廢棄光電板放農地「流出紅水」 環境部回應遭批是「光電善後部」",
       "link": "/bbs/Gossiping/M.1754619807.A.8FC",
       "author": "a828215362",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "247",
+      "recommendCount": "523",
+      "title": "[爆卦] 今年出生數很大機率跌破11萬！",
+      "link": "/bbs/Gossiping/M.1754631357.A.849",
+      "author": "cigxm",
+      "board": "Gossiping",
+      "publishTime": "2025/08/08 05:35",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "260",
       "recommendCount": "706",
       "title": "[新聞]「救柯文哲已成一種信念！」他揣測賴清德不放人原因",
@@ -191,16 +201,6 @@
       "author": "kenny1300175",
       "board": "Gossiping",
       "publishTime": "2025/08/08 02:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "246",
-      "recommendCount": "520",
-      "title": "[爆卦] 今年出生數很大機率跌破11萬！",
-      "link": "/bbs/Gossiping/M.1754631357.A.849",
-      "author": "cigxm",
-      "board": "Gossiping",
-      "publishTime": "2025/08/08 05:35",
       "imageUrl": ""
     }
   ]
