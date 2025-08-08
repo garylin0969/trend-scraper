@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-08T13:58:41.512Z",
+  "updated": "2025-08-08T14:10:21.776Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "149",
-      "recommendCount": "512",
-      "title": "[新聞] 聲援王義川！　溫朗東：無法接受沒有程序正義的性平",
-      "link": "/bbs/Gossiping/M.1754575598.A.4AC",
-      "author": "st210113",
-      "board": "Gossiping",
-      "publishTime": "2025/08/07 14:06",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "242",
       "recommendCount": "508",
       "title": "[爆卦] 今年出生數很大機率跌破11萬！",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/08/08 09:31",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "301",
+      "recommendCount": "397",
+      "title": "[標的] 大盤假突破空",
+      "link": "/bbs/Stock/M.1754621316.A.355",
+      "author": "hondata",
+      "board": "Stock",
+      "publishTime": "2025/08/08 02:48",
+      "imageUrl": "https://cache.pttweb.cc/imgur/57vtxGA/s/cdd04e062c7e99fdd70bcaadcc396afc"
     }
   ]
 }
