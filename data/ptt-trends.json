@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-08T15:48:55.787Z",
+  "updated": "2025-08-08T15:57:36.513Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -22,16 +22,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/08 03:14",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "-321",
-      "recommendCount": "847",
-      "title": "[問卦] 北檢聲明稿：請不要對檢察官人身攻擊",
-      "link": "/bbs/Gossiping/M.1754581831.A.398",
-      "author": "westdoorcard",
-      "board": "Gossiping",
-      "publishTime": "2025/08/07 15:50",
-      "imageUrl": "https://cache.pttweb.cc/imgur/At9M0j7/s/c12a337cac5016973feeeb18179f4e09"
     },
     {
       "recommendScore": "334",
@@ -202,6 +192,16 @@
       "board": "Stock",
       "publishTime": "2025/08/08 13:31",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "301",
+      "recommendCount": "397",
+      "title": "[標的] 大盤假突破空",
+      "link": "/bbs/Stock/M.1754621316.A.355",
+      "author": "hondata",
+      "board": "Stock",
+      "publishTime": "2025/08/08 02:48",
+      "imageUrl": "https://cache.pttweb.cc/imgur/57vtxGA/s/cdd04e062c7e99fdd70bcaadcc396afc"
     }
   ]
 }
