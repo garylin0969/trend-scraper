@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-09T15:39:25.539Z",
+  "updated": "2025-08-09T15:53:42.317Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,7 +14,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "371",
+      "recommendScore": "376",
       "recommendCount": "1354",
       "title": "[新聞] 賴清德對災民致歉：這次颱風相當罕見",
       "link": "/bbs/Gossiping/M.1754725044.A.08D",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "396",
-      "recommendCount": "806",
+      "recommendScore": "398",
+      "recommendCount": "810",
       "title": "[問卦] 脆上灣姐：關稅不是問題 降價就好了",
       "link": "/bbs/Gossiping/M.1754728735.A.0A7",
       "author": "Skyblueway",
@@ -55,7 +55,7 @@
     },
     {
       "recommendScore": "327",
-      "recommendCount": "755",
+      "recommendCount": "756",
       "title": "[新聞] 民進黨內參民調賴清德未崩盤 823成派系觀察期",
       "link": "/bbs/Gossiping/M.1754717805.A.1D4",
       "author": "HisVol",
@@ -94,8 +94,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "261",
+      "recommendCount": "659",
+      "title": "[問卦] 核三辯論反方林子倫：綠電更便宜",
+      "link": "/bbs/Gossiping/M.1754740917.A.4F9",
+      "author": "linda17a3",
+      "board": "Gossiping",
+      "publishTime": "2025/08/09 12:01",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "286",
-      "recommendCount": "673",
+      "recommendCount": "677",
       "title": "[問卦] 脆：為了環保多花錢被老公罵",
       "link": "/bbs/Gossiping/M.1754721824.A.BCC",
       "author": "medama",
@@ -104,23 +114,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "98",
-      "recommendCount": "663",
+      "recommendScore": "97",
+      "recommendCount": "668",
       "title": "[爆卦] 台北市人口暴跌最慘",
       "link": "/bbs/Gossiping/M.1754700837.A.2BA",
       "author": "scitamehtam",
       "board": "Gossiping",
       "publishTime": "2025/08/09 00:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "254",
-      "recommendCount": "640",
-      "title": "[問卦] 核三辯論反方林子倫：綠電更便宜",
-      "link": "/bbs/Gossiping/M.1754740917.A.4F9",
-      "author": "linda17a3",
-      "board": "Gossiping",
-      "publishTime": "2025/08/09 12:01",
       "imageUrl": ""
     },
     {
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "218",
-      "recommendCount": "458",
+      "recommendScore": "220",
+      "recommendCount": "463",
       "title": "[問卦] 關稅24.7% 百工百業靜悄悄？",
       "link": "/bbs/Gossiping/M.1754731777.A.0C5",
       "author": "wsad50232",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "264",
-      "recommendCount": "386",
+      "recommendScore": "265",
+      "recommendCount": "389",
       "title": "[新聞] 台積電狂飆新天價 謝金河示警:別高興得太早！小心川普再出招",
       "link": "/bbs/Stock/M.1754730371.A.77E",
       "author": "DamnDre",
@@ -175,12 +175,22 @@
     },
     {
       "recommendScore": "237",
-      "recommendCount": "481",
+      "recommendCount": "482",
       "title": "[問卦] 這一年來讓你愈來愈相信的事？",
       "link": "/bbs/Gossiping/M.1754708034.A.F2A",
       "author": "ethanwu0414",
       "board": "Gossiping",
       "publishTime": "2025/08/09 02:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "168",
+      "recommendCount": "433",
+      "title": "[問卦] 南部傳產倒光光 你真的OK？？",
+      "link": "/bbs/Gossiping/M.1754741628.A.034",
+      "author": "Gina4290",
+      "board": "Gossiping",
+      "publishTime": "2025/08/09 12:13",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/08 23:55",
       "imageUrl": "https://cache.pttweb.cc/imgur/yWafiBy/s/fcc3bc1e70edd4090b929962af24bde6"
-    },
-    {
-      "recommendScore": "186",
-      "recommendCount": "426",
-      "title": "[問卦] 只有我不懂為何要飛美國四趟去談判嗎",
-      "link": "/bbs/Gossiping/M.1754698316.A.83E",
-      "author": "newpasta",
-      "board": "Gossiping",
-      "publishTime": "2025/08/09 00:11",
-      "imageUrl": ""
     }
   ]
 }
