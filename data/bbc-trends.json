@@ -1,14 +1,30 @@
 {
-  "updated": "2025-08-10T05:49:48.633Z",
+  "updated": "2025-08-10T06:23:38.486Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-08-10T05:49:31.000Z",
+    "lastBuildDate": "2025-08-10T06:23:26.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "DeepSeek震撼市場之後是否改變了整個人工智能產業",
+      "description": "專家稱，DeepSeek對美國科技的撼動並未持久。這部分歸因於營運挫折，也源於來自美國與中國公司的激烈競爭。該公司的下一代產品DeepSeek-R2據報已延遲原因之一是高端晶片短缺。",
+      "link": "https://www.bbc.com/zhongwen/articles/cy7ynlj4r35o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-10T06:09:11.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cy7ynlj4r35o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ceda/live/6133c8d0-75a6-11f0-8071-1788c7e8ae0e.jpg"
+    },
+    {
+      "title": "從酸種到全穀麵包，我們該如何作出正確選擇？有什麼需要避免？",
+      "description": "談到麵包，超市裡的選擇多得令人眼花撩亂。然而，我們吃的麵包可能會對健康產生意想不到的影響。那麼，哪種麵包最健康？購買麵包時又該注意些什麼？",
+      "link": "https://www.bbc.com/zhongwen/articles/cx297k2ly0lo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-10T03:31:19.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx297k2ly0lo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a6fe/live/68413d00-7435-11f0-876e-092c0a90f4e0.jpg"
+    },
     {
       "title": "以色列「接管加沙城」： 內塔尼亞胡的險棋和百萬巴勒斯坦人的噩夢",
       "description": "假設哈馬斯在未來幾週內不願屈服——目前並無跡象顯示這將發生——那麼以色列軍方勢必展開戰爭的毀滅性新階段。",
@@ -26,28 +42,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd85/live/809632d0-738f-11f0-a20f-3b86f375586a.jpg"
     },
     {
-      "title": "從酸種到全穀麵包，我們該如何作出正確選擇？有什麼需要避免？",
-      "description": "談到麵包，超市裡的選擇多得令人眼花撩亂。然而，我們吃的麵包可能會對健康產生意想不到的影響。那麼，哪種麵包最健康？購買麵包時又該注意些什麼？",
-      "link": "https://www.bbc.com/zhongwen/articles/cx297k2ly0lo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-10T03:31:19.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx297k2ly0lo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a6fe/live/68413d00-7435-11f0-876e-092c0a90f4e0.jpg"
-    },
-    {
       "title": "世界正變得愈來愈熱，這如何影響我們的大腦",
       "description": "極端高溫會影響每個人的大腦運作，患有神經疾病的人往往受到的影響最為嚴重。原因有很多，例如某些疾病會影響排汗功能。",
       "link": "https://www.bbc.com/zhongwen/articles/cq875kxv44qo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-08-10T03:29:46.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cq875kxv44qo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/99ff/live/b5dcb7e0-710d-11f0-af20-030418be2ca5.jpg"
-    },
-    {
-      "title": "輝達H20：一文讀懂何為晶片後門及潛在風險 ",
-      "description": "專家稱輝達H20晶片專為中國市場設計，符合美國對中國出口管制要求，但其複雜的供應鏈（涉及台積電等代工廠和多家第三方IP供應商）增加了後門風險。但昂貴的AI晶片從設計到生產都要經過不同公司及部門的層層把關，要加入後門並不容易。",
-      "link": "https://www.bbc.com/zhongwen/articles/cglne94k69po/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-08T00:29:23.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cglne94k69po/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8e90/live/bce9cfb0-7346-11f0-af20-030418be2ca5.jpg"
     },
     {
       "title": "OpenAI發佈新版本GPT-5  自稱已達到「博士水平」",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ee8f/live/7bc822b0-55c4-11f0-9074-8989d8c97d87.png"
     },
     {
+      "title": "輝達H20：一文讀懂何為晶片後門及潛在風險 ",
+      "description": "專家稱輝達H20晶片專為中國市場設計，符合美國對中國出口管制要求，但其複雜的供應鏈（涉及台積電等代工廠和多家第三方IP供應商）增加了後門風險。但昂貴的AI晶片從設計到生產都要經過不同公司及部門的層層把關，要加入後門並不容易。",
+      "link": "https://www.bbc.com/zhongwen/articles/cglne94k69po/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-08T00:29:23.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cglne94k69po/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8e90/live/bce9cfb0-7346-11f0-af20-030418be2ca5.jpg"
+    },
+    {
       "title": "Zara廣告因模特「過瘦」而在英國遭禁播",
       "description": "時尚品牌Zara的兩則廣告因模特「瘦得不健康」而被禁播。廣告標準局（ASA）表示，廣告中的陰影和光滑的後髻髮型使一位模特顯得「憔悴」，而另一張照片中的姿勢和低胸襯衫的設計則暴露了模特「突出」的鎖骨。\n",
       "link": "https://www.bbc.com/zhongwen/articles/cx2xvdvg0d8o/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2025-08-01T00:25:28.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx2xny3mr8xo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1e29/live/75a6b230-6d9c-11f0-8dbd-f3d32ebd3327.jpg"
-    },
-    {
-      "title": "尋找不會融化的冰淇淋",
-      "description": "冰淇淋是夏季的標配，但卻容易融化。科學家能否幫助它保持冰凍？",
-      "link": "https://www.bbc.com/zhongwen/articles/cev2djjw27lo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-05T07:06:54.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cev2djjw27lo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/24ec/live/22744f40-71c1-11f0-89ea-4d6f9851f623.jpg"
     }
   ]
 }
