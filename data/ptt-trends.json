@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-10T07:29:15.629Z",
+  "updated": "2025-08-10T07:37:34.260Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "500",
+      "recommendCount": "510",
+      "title": "[發錢] 單日超狂正比雙響砲～發百杯奶",
+      "link": "/bbs/SportLottery/M.1754757334.A.3E4",
+      "author": "wukyo2013",
+      "board": "SportLottery",
+      "publishTime": "2025/08/09 16:35",
+      "imageUrl": "https://cache.pttweb.cc/imgur/fi254DA/s/5ae0e64913002611450c768a97e5321a"
+    },
+    {
       "recommendScore": "304",
       "recommendCount": "784",
       "title": "[問卦] 罷團：300志工只有4個大學生 很可怕",
@@ -42,16 +52,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/10 03:55",
       "imageUrl": "https://cache.pttweb.cc/imgur/0XF6hto/s/a976f18e7c3c7094886c0bc6a7fe70cb"
-    },
-    {
-      "recommendScore": "494",
-      "recommendCount": "504",
-      "title": "[發錢] 單日超狂正比雙響砲～發百杯奶",
-      "link": "/bbs/SportLottery/M.1754757334.A.3E4",
-      "author": "wukyo2013",
-      "board": "SportLottery",
-      "publishTime": "2025/08/09 16:35",
-      "imageUrl": "https://cache.pttweb.cc/imgur/fi254DA/s/5ae0e64913002611450c768a97e5321a"
     },
     {
       "recommendScore": "223",
@@ -184,23 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "231",
-      "recommendCount": "438",
+      "recommendScore": "200",
+      "recommendCount": "465",
+      "title": "[新聞] 提林俊憲拆帆布救災！賴清德喊感謝候選人　陳亭妃台下面無表情",
+      "link": "/bbs/Gossiping/M.1754799726.A.AF4",
+      "author": "Skyblueway",
+      "board": "Gossiping",
+      "publishTime": "2025/08/10 04:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "238",
+      "recommendCount": "452",
       "title": "[新聞] 青鳥殺瘋了! 肉搜起底民進黨性平部主任「老公香港人」:給我下台",
       "link": "/bbs/Gossiping/M.1754794490.A.D7A",
       "author": "googolplex",
       "board": "Gossiping",
       "publishTime": "2025/08/10 02:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "210",
-      "recommendCount": "412",
-      "title": "[新聞] 日本「疊加關稅」解決了！赴美抗議談判奏效　白宮證實：維持15%上限",
-      "link": "/bbs/Stock/M.1754726042.A.55C",
-      "author": "keel90135",
-      "board": "Stock",
-      "publishTime": "2025/08/09 07:54",
       "imageUrl": ""
     }
   ]
