@@ -1,11 +1,11 @@
 {
-  "updated": "2025-08-10T15:29:40.187Z",
+  "updated": "2025-08-10T15:38:54.501Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "376",
-      "recommendCount": "998",
+      "recommendScore": "377",
+      "recommendCount": "1000",
       "title": "[問卦] 罷團：300志工只有4個大學生 很可怕",
       "link": "/bbs/Gossiping/M.1754798121.A.752",
       "author": "zoeapezoo",
@@ -24,8 +24,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/fi254DA/s/5ae0e64913002611450c768a97e5321a"
     },
     {
-      "recommendScore": "253",
-      "recommendCount": "759",
+      "recommendScore": "256",
+      "recommendCount": "762",
       "title": "[問卦] 呂捷被洗臉:核電不該用表決方式延役",
       "link": "/bbs/Gossiping/M.1754819418.A.D79",
       "author": "enzo50",
@@ -44,13 +44,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/Tqc6fdb/s/31e9a72a54c5046b826a461affb968a1"
     },
     {
-      "recommendScore": "369",
-      "recommendCount": "714",
+      "recommendScore": "370",
+      "recommendCount": "715",
       "title": "[新聞] 快訊／只有柯文哲能喊卡！黃國昌拍板執行2年條款",
       "link": "/bbs/Gossiping/M.1754805074.A.6CE",
       "author": "LeeSeDol",
       "board": "Gossiping",
       "publishTime": "2025/08/10 05:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "234",
+      "recommendCount": "581",
+      "title": "[新聞] 提林俊憲拆帆布救災！賴清德喊感謝候選人　陳亭妃台下面無表情",
+      "link": "/bbs/Gossiping/M.1754799726.A.AF4",
+      "author": "Skyblueway",
+      "board": "Gossiping",
+      "publishTime": "2025/08/10 04:22",
       "imageUrl": ""
     },
     {
@@ -62,26 +72,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/10 02:52",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "233",
-      "recommendCount": "580",
-      "title": "[新聞] 提林俊憲拆帆布救災！賴清德喊感謝候選人　陳亭妃台下面無表情",
-      "link": "/bbs/Gossiping/M.1754799726.A.AF4",
-      "author": "Skyblueway",
-      "board": "Gossiping",
-      "publishTime": "2025/08/10 04:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "266",
-      "recommendCount": "1189",
-      "title": "[討論] 台南人到底怎麼忍受賴清德這廢物8年的？",
-      "link": "/bbs/HatePolitics/M.1754753746.A.1A3",
-      "author": "kaminari22tw",
-      "board": "HatePolitics",
-      "publishTime": "2025/08/09 15:35",
-      "imageUrl": "https://cache.pttweb.cc/imgur/eB0wju7/s/0103c0e9ec0b2b7f75a47079cc245458"
     },
     {
       "recommendScore": "374",
@@ -124,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "191",
-      "recommendCount": "454",
+      "recommendScore": "193",
+      "recommendCount": "475",
       "title": "[新聞] 不讓粉底液翻頁 李正皓檢舉李晏榕厭男：若阿川選市長怎辦？",
       "link": "/bbs/Gossiping/M.1754828345.A.DDA",
       "author": "gn07199",
@@ -164,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "278",
-      "recommendCount": "325",
+      "recommendScore": "282",
+      "recommendCount": "329",
       "title": "[問卦] 有人送我茶具 怎麼辦？（發錢）",
       "link": "/bbs/Gossiping/M.1754823401.A.D02",
       "author": "BIA",
@@ -184,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "197",
-      "recommendCount": "384",
-      "title": "[問卦] 論述到一半嗆身家是什麼操作？",
-      "link": "/bbs/Gossiping/M.1754753591.A.11E",
-      "author": "stjchl",
-      "board": "Gossiping",
-      "publishTime": "2025/08/09 15:33",
-      "imageUrl": "https://cache.pttweb.cc/imgur/TA80brr/s/826d9e35db36e3c7d354abc61b324718"
-    },
-    {
       "recommendScore": "156",
       "recommendCount": "378",
       "title": "[問卦] 沒人發現台灣學運都消失了很細思極恐嗎！",
@@ -201,6 +181,26 @@
       "author": "nobody0303",
       "board": "Gossiping",
       "publishTime": "2025/08/09 15:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "229",
+      "recommendCount": "784",
+      "title": "Re: [爆卦] 呂捷公審私訊的網友被網友罵爆",
+      "link": "/bbs/Gossiping/M.1754781545.A.0DC",
+      "author": "l90lT",
+      "board": "Gossiping",
+      "publishTime": "2025/08/09 23:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "852",
+      "recommendCount": "1475",
+      "title": "[討論] [Vtub] Hololive 晚間直播單 (1140810)",
+      "link": "/bbs/C_Chat/M.1754822283.A.E20",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2025/08/10 10:38",
       "imageUrl": ""
     }
   ]
