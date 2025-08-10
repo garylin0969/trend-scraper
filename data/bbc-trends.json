@@ -1,14 +1,22 @@
 {
-  "updated": "2025-08-10T04:55:02.211Z",
+  "updated": "2025-08-10T05:23:00.349Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-08-10T04:54:50.000Z",
+    "lastBuildDate": "2025-08-10T05:22:50.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "以色列「接管加沙城」： 內塔尼亞胡的險棋和百萬巴勒斯坦人的噩夢",
+      "description": "假設哈馬斯在未來幾週內不願屈服——目前並無跡象顯示這將發生——那麼以色列軍方勢必展開戰爭的毀滅性新階段。",
+      "link": "https://www.bbc.com/zhongwen/articles/cj6y1j76343o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-10T05:00:51.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cj6y1j76343o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/927d/live/0aae87c0-75a1-11f0-a975-cb151ca452f4.jpg"
+    },
     {
       "title": "「八炯」納粹言行爭議：台灣政治圈為何頻觸國際紅線？",
       "description": "近月台灣政壇多次出現納粹相關爭議，分析指這反映出台灣歷史教育的結構性問題，大眾對世界史認識淺薄，與國際社會存在明顯落差。",
@@ -16,14 +24,6 @@
       "pubDate": "2025-08-08T01:00:15.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c7075rr0908o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd85/live/809632d0-738f-11f0-a20f-3b86f375586a.jpg"
-    },
-    {
-      "title": "OpenAI發佈新版本GPT-5  自稱已達到「博士水平」",
-      "description": "開發者稱，GPT-5經過訓練後，能夠更誠實地為用戶提供更準確的答案，並且總體而言，它給人的感覺更加人性化。",
-      "link": "https://www.bbc.com/zhongwen/articles/c5ylq0je4v2o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-08T06:46:19.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5ylq0je4v2o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e036/live/3c7ff020-7418-11f0-8071-1788c7e8ae0e.jpg"
     },
     {
       "title": "從酸種到全穀麵包，我們該如何作出正確選擇？有什麼需要避免？",
@@ -48,6 +48,14 @@
       "pubDate": "2025-08-08T00:29:23.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cglne94k69po/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8e90/live/bce9cfb0-7346-11f0-af20-030418be2ca5.jpg"
+    },
+    {
+      "title": "OpenAI發佈新版本GPT-5  自稱已達到「博士水平」",
+      "description": "開發者稱，GPT-5經過訓練後，能夠更誠實地為用戶提供更準確的答案，並且總體而言，它給人的感覺更加人性化。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5ylq0je4v2o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-08T06:46:19.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5ylq0je4v2o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e036/live/3c7ff020-7418-11f0-8071-1788c7e8ae0e.jpg"
     },
     {
       "title": "特朗普與普京會面能迅速終結俄烏戰爭嗎？答案可能是否定的",
@@ -104,14 +112,6 @@
       "pubDate": "2025-08-07T10:15:05.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cdd3e7vjp6no/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/03b8/live/b9fbcf40-71cc-11f0-8dbd-f3d32ebd3327.jpg"
-    },
-    {
-      "title": "美國不滿印度購買俄羅斯石油、對其徵收新稅——特朗普與莫迪關係跌至谷底？",
-      "description": "特朗普的關稅威脅和社群媒體的爆發，引發人們對印度與美國關係現狀的擔憂。",
-      "link": "https://www.bbc.com/zhongwen/articles/cde3d7yr8rwo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-07T10:46:13.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cde3d7yr8rwo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b9f/live/849a5c30-72ae-11f0-89ea-4d6f9851f623.jpg"
     },
     {
       "title": "美擬徵100%半導體關稅　台灣AI晶片廠商供應鏈或轉美國",
@@ -194,6 +194,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e086/live/80914070-67c0-11f0-bdb3-2fec70b719ae.jpg"
     },
     {
+      "title": "美國不滿印度購買俄羅斯石油、對其徵收新稅——特朗普與莫迪關係跌至谷底？",
+      "description": "特朗普的關稅威脅和社群媒體的爆發，引發人們對印度與美國關係現狀的擔憂。",
+      "link": "https://www.bbc.com/zhongwen/articles/cde3d7yr8rwo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-07T10:46:13.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cde3d7yr8rwo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b9f/live/849a5c30-72ae-11f0-89ea-4d6f9851f623.jpg"
+    },
+    {
       "title": "特朗普對俄羅斯能源購買國徵收次級關稅將如何衝擊全球經濟？",
       "description": "進一步的次級關稅可能影響所有與俄羅斯進行能源貿易的國家，其商品在進口到美國時面臨100%的徵稅。",
       "link": "https://www.bbc.com/zhongwen/articles/c05e7l879geo/trad?at_medium=RSS&at_campaign=rss",
@@ -224,14 +232,6 @@
       "pubDate": "2025-08-06T06:38:36.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cdx0n421160o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e6d/live/363d3680-728a-11f0-89ea-4d6f9851f623.jpg"
-    },
-    {
-      "title": "報告指中國留英大學生被要求監視同學",
-      "description": "報告發現講師也正遭受騷擾，英國政府官員表示威脅行為不會被容忍。",
-      "link": "https://www.bbc.com/zhongwen/articles/c987140j8y0o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-04T04:16:12.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c987140j8y0o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8c44/live/71f58e60-6ecb-11f0-b172-55e938a4abab.jpg"
     },
     {
       "title": "台灣「大罷免」慘敗的五個啟示",
