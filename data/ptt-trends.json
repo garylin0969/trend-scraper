@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-11T10:21:08.027Z",
+  "updated": "2025-08-11T10:35:45.487Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/viv86ux/s/691af4636894c4f5eab962dca14aba39"
     },
     {
-      "recommendScore": "441",
-      "recommendCount": "1077",
+      "recommendScore": "446",
+      "recommendCount": "1111",
       "title": "[問卦] 核電廠蓋在家附近 你可以嗎？",
       "link": "/bbs/Gossiping/M.1754896080.A.0CE",
       "author": "cattielin",
@@ -64,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "338",
+      "recommendCount": "668",
+      "title": "[新聞] TVBS民調／跌破三成！賴清德支持度剩28%創就任以來新低",
+      "link": "/bbs/Gossiping/M.1754904355.A.7C1",
+      "author": "LeeSeDol",
+      "board": "Gossiping",
+      "publishTime": "2025/08/11 09:25",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "261",
       "recommendCount": "940",
       "title": "[情報] 台灣關稅20%+N 行政院記者會鄭麗君親說明",
@@ -75,22 +85,12 @@
     },
     {
       "recommendScore": "272",
-      "recommendCount": "585",
+      "recommendCount": "588",
       "title": "[新聞] 不滿卓冠廷、綠支持者攻擊性平部　婦團轟：民進黨要放棄性平價值？",
       "link": "/bbs/Gossiping/M.1754890543.A.F15",
       "author": "a0580531",
       "board": "Gossiping",
       "publishTime": "2025/08/11 05:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "293",
-      "recommendCount": "584",
-      "title": "[新聞] TVBS民調／跌破三成！賴清德支持度剩28%創就任以來新低",
-      "link": "/bbs/Gossiping/M.1754904355.A.7C1",
-      "author": "LeeSeDol",
-      "board": "Gossiping",
-      "publishTime": "2025/08/11 09:25",
       "imageUrl": ""
     },
     {
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-139",
+      "recommendCount": "546",
+      "title": "[新聞] 快訊／柯文哲、應曉薇確定繼續關！　高院駁回2人抗告原因曝",
+      "link": "/bbs/Gossiping/M.1754902740.A.901",
+      "author": "Skyblueway",
+      "board": "Gossiping",
+      "publishTime": "2025/08/11 08:59",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "171",
       "recommendCount": "629",
       "title": "[問卦] 核三到底幹嘛要公投？",
@@ -184,23 +194,13 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/1sLbE3k/s/d7b76da93447bd0f51933ae7c1ccca56"
     },
     {
-      "recommendScore": "327",
-      "recommendCount": "446",
-      "title": "Re: [分享] 樂天完美示範「災難級」行銷和公關的一周",
-      "link": "/bbs/Baseball/M.1754850204.A.888",
-      "author": "chhaiqoo1",
-      "board": "Baseball",
-      "publishTime": "2025/08/10 18:23",
-      "imageUrl": "https://cache.pttweb.cc/imgur/5Kw34jU/s/4994960e90d96467419dd93eef369102"
-    },
-    {
-      "recommendScore": "230",
-      "recommendCount": "615",
-      "title": "[分享] 樂天完美示範「災難級」行銷和公關的一周",
-      "link": "/bbs/Baseball/M.1754829533.A.6AE",
-      "author": "sqark912",
-      "board": "Baseball",
-      "publishTime": "2025/08/10 12:38",
+      "recommendScore": "168",
+      "recommendCount": "460",
+      "title": "[新聞] 台南垃圾量比全台平均高！點名「隨袋徵收」環保局卻指3大困難",
+      "link": "/bbs/Gossiping/M.1754889271.A.A0B",
+      "author": "youhow0418",
+      "board": "Gossiping",
+      "publishTime": "2025/08/11 05:14",
       "imageUrl": ""
     }
   ]
