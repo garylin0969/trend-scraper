@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-11T20:17:51.918Z",
+  "updated": "2025-08-11T20:30:31.005Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "617",
-      "recommendCount": "1287",
+      "recommendScore": "618",
+      "recommendCount": "1288",
       "title": "[新聞] TVBS民調／跌破三成！賴清德支持度剩28%創就任以來新低",
       "link": "/bbs/Gossiping/M.1754904355.A.7C1",
       "author": "LeeSeDol",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "460",
-      "recommendCount": "882",
+      "recommendScore": "462",
+      "recommendCount": "886",
       "title": "[新聞] 快訊／剛表態參選新北市長　黃國昌最新形象照曝光",
       "link": "/bbs/Gossiping/M.1754913760.A.5D4",
       "author": "lamigo",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "305",
+      "recommendCount": "554",
+      "title": "[問卦] 脆熱議：黃士修 辯論會瘋狂羞辱歧視反核",
+      "link": "/bbs/Gossiping/M.1754927286.A.F24",
+      "author": "Carol787",
+      "board": "Gossiping",
+      "publishTime": "2025/08/11 15:48",
+      "imageUrl": "https://cache.pttweb.cc/imgur/FBAc1bE/s/32244acb57531a148e4da194dc98851c"
+    },
+    {
       "recommendScore": "173",
       "recommendCount": "633",
       "title": "[問卦] 核三到底幹嘛要公投？",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/11 01:13",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "302",
-      "recommendCount": "550",
-      "title": "[問卦] 脆熱議：黃士修 辯論會瘋狂羞辱歧視反核",
-      "link": "/bbs/Gossiping/M.1754927286.A.F24",
-      "author": "Carol787",
-      "board": "Gossiping",
-      "publishTime": "2025/08/11 15:48",
-      "imageUrl": "https://cache.pttweb.cc/imgur/FBAc1bE/s/32244acb57531a148e4da194dc98851c"
     }
   ]
 }
