@@ -1,10 +1,10 @@
 {
-  "updated": "2025-08-12T15:31:54.306Z",
+  "updated": "2025-08-12T15:46:25.221Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "1014",
+      "recommendScore": "1008",
       "recommendCount": "1424",
       "title": "[爆卦] 林俊言疑似變造公文",
       "link": "/bbs/Gossiping/M.1755000842.A.6B5",
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/KdaCt2k/s/0a1567671a2978bd1730027f64ae6da7"
     },
     {
-      "recommendScore": "704",
-      "recommendCount": "1085",
+      "recommendScore": "705",
+      "recommendCount": "1087",
       "title": "[新聞] 廁所有人男好心提醒 女大生竟嗆干你屁事",
       "link": "/bbs/Gossiping/M.1754968831.A.991",
       "author": "cl3bp6",
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "619",
-      "recommendCount": "1426",
+      "recommendCount": "1427",
       "title": "[問卦] 一起來幫反核少女想學經歷好嗎",
       "link": "/bbs/Gossiping/M.1754958987.A.797",
       "author": "rz2x",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "441",
-      "recommendCount": "582",
+      "recommendScore": "447",
+      "recommendCount": "591",
       "title": "[情報] 邦魯閣",
       "link": "/bbs/Baseball/M.1754996606.A.28D",
       "author": "HardDDDD",
@@ -74,8 +74,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "289",
-      "recommendCount": "587",
+      "recommendScore": "312",
+      "recommendCount": "733",
+      "title": "[新聞] 要以死控訴司法 陳佩琪突拋明法院跳樓：也請在我面前槍斃柯文哲",
+      "link": "/bbs/Gossiping/M.1754995935.A.866",
+      "author": "ihl123456",
+      "board": "Gossiping",
+      "publishTime": "2025/08/12 10:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "290",
+      "recommendCount": "590",
       "title": "[問卦] 南部老人現在一直在罵…？",
       "link": "/bbs/Gossiping/M.1754980177.A.4E9",
       "author": "aa1477888",
@@ -94,18 +104,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/FBAc1bE/s/32244acb57531a148e4da194dc98851c"
     },
     {
-      "recommendScore": "292",
-      "recommendCount": "700",
-      "title": "[新聞] 要以死控訴司法 陳佩琪突拋明法院跳樓：也請在我面前槍斃柯文哲",
-      "link": "/bbs/Gossiping/M.1754995935.A.866",
-      "author": "ihl123456",
-      "board": "Gossiping",
-      "publishTime": "2025/08/12 10:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "284",
-      "recommendCount": "647",
+      "recommendScore": "288",
+      "recommendCount": "656",
       "title": "[新聞] 綠營慘敗檢討竟喊「民進黨是媒體弱勢」",
       "link": "/bbs/Gossiping/M.1754992720.A.69C",
       "author": "ntupeap",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "320",
-      "recommendCount": "530",
+      "recommendScore": "321",
+      "recommendCount": "532",
       "title": "[問卦] 反核少女學經歷可以去哪上班 ?",
       "link": "/bbs/Gossiping/M.1754964930.A.B6B",
       "author": "dnzteeqrq",
@@ -124,18 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "289",
-      "recommendCount": "684",
-      "title": "[新聞] 怒轟台灣「外交失禮」臨時取消會面　南韓真相和解委員長：禮物都買好了",
-      "link": "/bbs/Gossiping/M.1754926901.A.00A",
-      "author": "w320313",
-      "board": "Gossiping",
-      "publishTime": "2025/08/11 15:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "263",
-      "recommendCount": "525",
+      "recommendScore": "264",
+      "recommendCount": "526",
       "title": "[新聞] 颱風路徑南修 南部居民嘆「已舀水舀到怕」：心好累",
       "link": "/bbs/Gossiping/M.1754973037.A.9D5",
       "author": "schwalbe",
@@ -144,13 +134,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "291",
-      "recommendCount": "657",
+      "recommendScore": "294",
+      "recommendCount": "666",
       "title": "[新聞] 賴清德慘了！美媒分析「共和黨疏遠台灣」：兩大原因造成不願冒險",
       "link": "/bbs/Gossiping/M.1754973855.A.0D5",
       "author": "jordanlove",
       "board": "Gossiping",
       "publishTime": "2025/08/12 04:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "193",
+      "recommendCount": "516",
+      "title": "[新聞] 中颱楊柳進逼！3萬餘國軍待命　國防部：救災視同作戰",
+      "link": "/bbs/Gossiping/M.1755004934.A.9CB",
+      "author": "chopper594",
+      "board": "Gossiping",
+      "publishTime": "2025/08/12 13:22",
       "imageUrl": ""
     },
     {
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "121",
+      "recommendCount": "541",
+      "title": "[新聞] 檢察官回：隨身碟數字即賄款",
+      "link": "/bbs/Gossiping/M.1754998128.A.3B4",
+      "author": "ndhuctc",
+      "board": "Gossiping",
+      "publishTime": "2025/08/12 11:28",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-236",
       "recommendCount": "488",
       "title": "[新聞] 世界僅台灣做到！揭關稅公開透明4作為",
@@ -174,18 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "113",
-      "recommendCount": "525",
-      "title": "[新聞] 檢察官回：隨身碟數字即賄款",
-      "link": "/bbs/Gossiping/M.1754998128.A.3B4",
-      "author": "ndhuctc",
-      "board": "Gossiping",
-      "publishTime": "2025/08/12 11:28",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "269",
-      "recommendCount": "557",
+      "recommendCount": "561",
       "title": "[新聞] 柯文哲案「洩密源」找到了？ 裴偉「偵查中」訪邱佩琳問Excel檔",
       "link": "/bbs/Gossiping/M.1754981075.A.215",
       "author": "cheninher",
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "264",
-      "recommendCount": "427",
+      "recommendScore": "265",
+      "recommendCount": "428",
       "title": "[問卦] 為何颱風和鋒面都精準的跑去高雄台南？",
       "link": "/bbs/Gossiping/M.1754960415.A.EB7",
       "author": "TFBoys",
