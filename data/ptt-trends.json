@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-13T14:55:19.362Z",
+  "updated": "2025-08-13T15:05:20.556Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "293",
+      "recommendCount": "362",
+      "title": "[炸裂] 胡金龍",
+      "link": "/bbs/Baseball/M.1755087997.A.C09",
+      "author": "jack801016",
+      "board": "Baseball",
+      "publishTime": "2025/08/13 12:26",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "286",
       "recommendCount": "353",
       "title": "[炸裂] 大谷翔平",
@@ -191,16 +201,6 @@
       "author": "Workforme",
       "board": "Gossiping",
       "publishTime": "2025/08/12 22:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "385",
-      "recommendCount": "1139",
-      "title": "[公告] 核三延役公投-第四場辯論 置底閒聊區",
-      "link": "/bbs/Gossiping/M.1755050182.A.895",
-      "author": "BlueBird5566",
-      "board": "Gossiping",
-      "publishTime": "2025/08/13 01:56",
       "imageUrl": ""
     }
   ]
