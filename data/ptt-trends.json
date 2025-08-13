@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-13T02:15:33.279Z",
+  "updated": "2025-08-13T02:56:41.779Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,16 +94,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "322",
-      "recommendCount": "534",
-      "title": "[問卦] 反核少女學經歷可以去哪上班 ?",
-      "link": "/bbs/Gossiping/M.1754964930.A.B6B",
-      "author": "dnzteeqrq",
-      "board": "Gossiping",
-      "publishTime": "2025/08/12 02:15",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "265",
       "recommendCount": "528",
       "title": "[新聞] 颱風路徑南修 南部居民嘆「已舀水舀到怕」：心好累",
@@ -184,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "185",
-      "recommendCount": "477",
-      "title": "[心得] 武漢肺炎這波沒跟到的 是不是就輸了",
-      "link": "/bbs/Stock/M.1754966806.A.2D0",
-      "author": "kobeNCKU",
-      "board": "Stock",
-      "publishTime": "2025/08/12 02:46",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "260",
       "recommendCount": "474",
       "title": "[問卦] 台灣最民主自由的時期是？",
@@ -202,6 +182,26 @@
       "board": "Gossiping",
       "publishTime": "2025/08/12 13:33",
       "imageUrl": "https://cache.pttweb.cc/imgur/Rr3QUaT/s/a6ca6b2d67b0250ce2570bd408fa19bb"
+    },
+    {
+      "recommendScore": "-129",
+      "recommendCount": "389",
+      "title": "[新聞] 世界僅台灣做到！揭關稅公開透明4作為",
+      "link": "/bbs/Stock/M.1754986782.A.85F",
+      "author": "a5687920",
+      "board": "Stock",
+      "publishTime": "2025/08/12 08:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "81",
+      "recommendCount": "440",
+      "title": "[新聞] 「核三公投」甘崇緯喊台灣不缺電 節電就能省下一座核電廠",
+      "link": "/bbs/Gossiping/M.1754973929.A.74B",
+      "author": "ptt987654321",
+      "board": "Gossiping",
+      "publishTime": "2025/08/12 04:45",
+      "imageUrl": ""
     }
   ]
 }
