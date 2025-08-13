@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-13T23:38:09.947Z",
+  "updated": "2025-08-13T23:45:40.882Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "459",
-      "recommendCount": "625",
-      "title": "[花邊] MPJ：現在的女生只想當女王卻什麼都不做",
-      "link": "/bbs/NBA/M.1755042187.A.615",
-      "author": "Wojnarowski",
-      "board": "NBA",
-      "publishTime": "2025/08/12 23:43",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "205",
       "recommendCount": "662",
       "title": "[新聞] 柯文哲休庭狂飆檢察官國罵X　北檢聲請調閱法庭影像",
@@ -164,26 +154,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/DFEGSwf/s/135c322b1e2879bb65f778a407bd5614"
     },
     {
-      "recommendScore": "248",
-      "recommendCount": "544",
-      "title": "[新聞] 青鳥女竟用「大體解剖」漫畫嗆父 遭爆領文化部補助",
-      "link": "/bbs/Gossiping/M.1755042013.A.596",
-      "author": "cheninher",
-      "board": "Gossiping",
-      "publishTime": "2025/08/12 23:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "126",
-      "recommendCount": "494",
-      "title": "[新聞] 厲害！最新民調曝「綠營穩坐最大黨」",
-      "link": "/bbs/Gossiping/M.1755042040.A.CA5",
-      "author": "deathdecay",
-      "board": "Gossiping",
-      "publishTime": "2025/08/12 23:40",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "302",
       "recommendCount": "585",
       "title": "[新聞] 不只輝達、超微！白宮證實「分潤制」可能適用其他公司",
@@ -201,6 +171,36 @@
       "author": "ZIDENS",
       "board": "basketballTW",
       "publishTime": "2025/08/13 17:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-66",
+      "recommendCount": "586",
+      "title": "[新聞] 民進黨：核安是科學決定  不是公投決定",
+      "link": "/bbs/Gossiping/M.1755069159.A.4B9",
+      "author": "Kai877",
+      "board": "Gossiping",
+      "publishTime": "2025/08/13 07:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "227",
+      "recommendCount": "418",
+      "title": "[新聞] 颱風天屋頂漏水 高雄77歲翁爬3樓修繕摔落傷重不治",
+      "link": "/bbs/Gossiping/M.1755077399.A.1C2",
+      "author": "usokami",
+      "board": "Gossiping",
+      "publishTime": "2025/08/13 09:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "226",
+      "recommendCount": "439",
+      "title": "[新聞] 快訊／台灣女遊客「拍照打卡」誤闖日本神社平交道 遭列車撞死",
+      "link": "/bbs/Gossiping/M.1755074912.A.F8B",
+      "author": "kensukeshu",
+      "board": "Gossiping",
+      "publishTime": "2025/08/13 08:48",
       "imageUrl": ""
     }
   ]
