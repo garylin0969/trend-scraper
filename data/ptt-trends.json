@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-13T00:23:57.785Z",
+  "updated": "2025-08-13T00:49:31.455Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,16 +24,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "622",
-      "recommendCount": "1431",
-      "title": "[問卦] 一起來幫反核少女想學經歷好嗎",
-      "link": "/bbs/Gossiping/M.1754958987.A.797",
-      "author": "rz2x",
-      "board": "Gossiping",
-      "publishTime": "2025/08/12 00:36",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "811",
       "recommendCount": "1203",
       "title": "Re: [爆卦] 林俊言疑似變造公文",
@@ -54,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "245",
-      "recommendCount": "645",
+      "recommendScore": "247",
+      "recommendCount": "647",
       "title": "[新聞] 中颱楊柳進逼！3萬餘國軍待命　國防部：救災視同作戰",
       "link": "/bbs/Gossiping/M.1755004934.A.9CB",
       "author": "chopper594",
@@ -202,6 +192,16 @@
       "board": "NBA",
       "publishTime": "2025/08/12 03:06",
       "imageUrl": "https://cache.pttweb.cc/imgur/W5IcmCX/s/182b4fcabfdef8cf2e99dd5bf50713d8"
+    },
+    {
+      "recommendScore": "51",
+      "recommendCount": "540",
+      "title": "[新聞] 挨批外交失禮 林明昕：已致歉 詫異南韓官員社群媒體不同反應",
+      "link": "/bbs/Gossiping/M.1754964129.A.828",
+      "author": "HisVol",
+      "board": "Gossiping",
+      "publishTime": "2025/08/12 02:02",
+      "imageUrl": ""
     }
   ]
 }
