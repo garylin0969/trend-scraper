@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-13T14:31:44.334Z",
+  "updated": "2025-08-13T14:47:11.250Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -71,6 +71,16 @@
       "author": "deathdecay",
       "board": "Gossiping",
       "publishTime": "2025/08/12 23:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-65",
+      "recommendCount": "580",
+      "title": "[新聞] 民進黨：核安是科學決定  不是公投決定",
+      "link": "/bbs/Gossiping/M.1755069159.A.4B9",
+      "author": "Kai877",
+      "board": "Gossiping",
+      "publishTime": "2025/08/13 07:12",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/13 01:56",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "220",
-      "recommendCount": "419",
-      "title": "Re: [爆卦] 林俊言疑似變造公文",
-      "link": "/bbs/Gossiping/M.1755047533.A.224",
-      "author": "TBOC",
-      "board": "Gossiping",
-      "publishTime": "2025/08/13 01:12",
-      "imageUrl": "https://cache.pttweb.cc/imgur/cnWafgn/s/4b602dff7b5dd52f5f6d31f245a9f631"
     }
   ]
 }
