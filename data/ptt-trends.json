@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-14T07:11:25.696Z",
+  "updated": "2025-08-14T07:23:52.652Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-67",
-      "recommendCount": "590",
-      "title": "[新聞] 民進黨：核安是科學決定  不是公投決定",
-      "link": "/bbs/Gossiping/M.1755069159.A.4B9",
-      "author": "Kai877",
-      "board": "Gossiping",
-      "publishTime": "2025/08/13 07:12",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "228",
       "recommendCount": "423",
       "title": "[新聞] 颱風天屋頂漏水 高雄77歲翁爬3樓修繕摔落傷重不治",
@@ -201,6 +191,16 @@
       "author": "keel90135",
       "board": "Stock",
       "publishTime": "2025/08/14 01:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "297",
+      "recommendCount": "367",
+      "title": "[炸裂] 胡金龍",
+      "link": "/bbs/Baseball/M.1755087997.A.C09",
+      "author": "jack801016",
+      "board": "Baseball",
+      "publishTime": "2025/08/13 12:26",
       "imageUrl": ""
     }
   ]
