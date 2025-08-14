@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-14T17:54:39.774Z",
+  "updated": "2025-08-14T18:08:03.643Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-173",
-      "recommendCount": "492",
-      "title": "[公告] 怒灌區",
-      "link": "/bbs/basketballTW/M.1755107835.A.84D",
-      "author": "ZIDENS",
-      "board": "basketballTW",
-      "publishTime": "2025/08/13 17:57",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "243",
       "recommendCount": "560",
       "title": "[問卦] 館長：台灣人很少吃釋迦",
@@ -201,6 +191,16 @@
       "author": "poeta",
       "board": "Gossiping",
       "publishTime": "2025/08/14 11:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "95",
+      "recommendCount": "414",
+      "title": "[新聞] 核三重啟 賴總統：非公投能決定  強調核",
+      "link": "/bbs/Gossiping/M.1755147749.A.F64",
+      "author": "linda17a3",
+      "board": "Gossiping",
+      "publishTime": "2025/08/14 05:02",
       "imageUrl": ""
     }
   ]
