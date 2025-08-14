@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-14T11:17:21.898Z",
+  "updated": "2025-08-14T11:27:56.206Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "321",
+      "recommendCount": "606",
+      "title": "[新聞] 經濟部稱郭智輝「僅短暫致意即離席」　侯漢廷打臉：待了3個小時",
+      "link": "/bbs/Gossiping/M.1755158810.A.8AE",
+      "author": "Ryo5566",
+      "board": "Gossiping",
+      "publishTime": "2025/08/14 08:06",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "323",
       "recommendCount": "689",
       "title": "[問卦] 黃士修羞辱吳亞昕「停留在洗腦邪教」",
@@ -102,16 +112,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/14 01:40",
       "imageUrl": "https://cache.pttweb.cc/imgur/4iwrwwr/s/1c5a27a48adc6009ca0a87e159e8434b"
-    },
-    {
-      "recommendScore": "292",
-      "recommendCount": "550",
-      "title": "[新聞] 經濟部稱郭智輝「僅短暫致意即離席」　侯漢廷打臉：待了3個小時",
-      "link": "/bbs/Gossiping/M.1755158810.A.8AE",
-      "author": "Ryo5566",
-      "board": "Gossiping",
-      "publishTime": "2025/08/14 08:06",
-      "imageUrl": ""
     },
     {
       "recommendScore": "-173",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "243",
-      "recommendCount": "508",
+      "recommendScore": "244",
+      "recommendCount": "511",
       "title": "[問卦] 黃士修都提前回答完了 吳亞昕怎麼不換稿",
       "link": "/bbs/Gossiping/M.1755139841.A.20B",
       "author": "borondawon",
