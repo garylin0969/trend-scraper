@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-14T00:23:29.028Z",
+  "updated": "2025-08-14T00:49:33.135Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,6 +14,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/MDsDZKu/s/053a9c1e2b9506c233349dd63c0010e3"
     },
     {
+      "recommendScore": "524",
+      "recommendCount": "1153",
+      "title": "[問卦] 反核人士：黃士修的態度 你真的OK嗎",
+      "link": "/bbs/Gossiping/M.1755096863.A.AEB",
+      "author": "Alberta99170",
+      "board": "Gossiping",
+      "publishTime": "2025/08/13 14:54",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "544",
       "recommendCount": "997",
       "title": "[問卦] 為何吳亞昕學經歷  第一條要放台南人",
@@ -24,18 +34,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/KEzudhz/s/aec39e22d039568cecaac7f841951b42"
     },
     {
-      "recommendScore": "518",
-      "recommendCount": "1125",
-      "title": "[問卦] 反核人士：黃士修的態度 你真的OK嗎",
-      "link": "/bbs/Gossiping/M.1755096863.A.AEB",
-      "author": "Alberta99170",
-      "board": "Gossiping",
-      "publishTime": "2025/08/13 14:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "470",
-      "recommendCount": "919",
+      "recommendScore": "471",
+      "recommendCount": "923",
       "title": "[問卦] 脆熱議：吳亞昕真的很強一開口就打爆",
       "link": "/bbs/Gossiping/M.1755076297.A.86F",
       "author": "super1314159",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "399",
-      "recommendCount": "805",
+      "recommendScore": "398",
+      "recommendCount": "810",
       "title": "[爆卦] 柯文哲fb:傳訊阿苗可以，傳真專家不行",
       "link": "/bbs/Gossiping/M.1755085303.A.56D",
       "author": "cheninher",
@@ -74,8 +74,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/etSvyvs/s/9cddb54c94acf5f52c98806321520245"
     },
     {
-      "recommendScore": "313",
-      "recommendCount": "746",
+      "recommendScore": "312",
+      "recommendCount": "750",
       "title": "[新聞] 狄鶯突宣布重大決定！將再送「孫安佐赴日留學」：他能力很好",
       "link": "/bbs/Gossiping/M.1755079591.A.66E",
       "author": "s110269",
@@ -84,23 +84,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "104",
-      "recommendCount": "1406",
-      "title": "[討論] 所以核廢料放哪裡",
-      "link": "/bbs/HatePolitics/M.1755066935.A.A97",
-      "author": "srwcc",
-      "board": "HatePolitics",
-      "publishTime": "2025/08/13 06:35",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "267",
-      "recommendCount": "701",
+      "recommendCount": "707",
       "title": "[新聞] 遭放鳥轟台「外交失禮」 韓官員再發聲：犯錯就要盡快認錯道歉",
       "link": "/bbs/Gossiping/M.1755085531.A.7CA",
       "author": "Skyblueway",
       "board": "Gossiping",
       "publishTime": "2025/08/13 11:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "105",
+      "recommendCount": "1407",
+      "title": "[討論] 所以核廢料放哪裡",
+      "link": "/bbs/HatePolitics/M.1755066935.A.A97",
+      "author": "srwcc",
+      "board": "HatePolitics",
+      "publishTime": "2025/08/13 06:35",
       "imageUrl": ""
     },
     {
@@ -125,7 +125,7 @@
     },
     {
       "recommendScore": "307",
-      "recommendCount": "650",
+      "recommendCount": "653",
       "title": "[問卦] 黃士修羞辱吳亞昕「停留在洗腦邪教」",
       "link": "/bbs/Gossiping/M.1755089370.A.DEA",
       "author": "norvasc",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "282",
+      "recommendCount": "852",
+      "title": "[新聞] 真相驚人！台灣人還不習慣電子支付嗎？金管會內部數據曝光",
+      "link": "/bbs/Stock/M.1755096501.A.81D",
+      "author": "wu73",
+      "board": "Stock",
+      "publishTime": "2025/08/13 14:48",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "227",
       "recommendCount": "418",
       "title": "[新聞] 颱風天屋頂漏水 高雄77歲翁爬3樓修繕摔落傷重不治",
@@ -191,16 +201,6 @@
       "author": "usokami",
       "board": "Gossiping",
       "publishTime": "2025/08/13 09:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "226",
-      "recommendCount": "439",
-      "title": "[新聞] 快訊／台灣女遊客「拍照打卡」誤闖日本神社平交道 遭列車撞死",
-      "link": "/bbs/Gossiping/M.1755074912.A.F8B",
-      "author": "kensukeshu",
-      "board": "Gossiping",
-      "publishTime": "2025/08/13 08:48",
       "imageUrl": ""
     }
   ]
