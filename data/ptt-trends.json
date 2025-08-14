@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-14T11:27:56.206Z",
+  "updated": "2025-08-14T11:37:01.273Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "183",
-      "recommendCount": "463",
-      "title": "[新聞] 賴清德關心台南沿海屋損受衝擊 黃偉哲：備妥帆布即刻更換",
-      "link": "/bbs/Gossiping/M.1755084708.A.6A7",
-      "author": "blueadam193",
-      "board": "Gossiping",
-      "publishTime": "2025/08/13 11:31",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "210",
       "recommendCount": "693",
       "title": "[問卦] 為什麼南韓遠遠超越台灣了",
@@ -201,6 +191,16 @@
       "author": "keel90135",
       "board": "Stock",
       "publishTime": "2025/08/14 01:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "297",
+      "recommendCount": "367",
+      "title": "[炸裂] 胡金龍",
+      "link": "/bbs/Baseball/M.1755087997.A.C09",
+      "author": "jack801016",
+      "board": "Baseball",
+      "publishTime": "2025/08/13 12:26",
       "imageUrl": ""
     }
   ]
