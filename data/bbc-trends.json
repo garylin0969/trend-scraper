@@ -1,14 +1,22 @@
 {
-  "updated": "2025-08-15T09:22:45.880Z",
+  "updated": "2025-08-15T09:48:19.019Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-08-15T09:22:39.000Z",
+    "lastBuildDate": "2025-08-15T09:48:09.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "台灣想成為AI產業鏈樞紐，但電力夠用嗎？",
+      "description": "台灣政府預估未來五年AI用電需求將暴增八倍，而輝達計劃在台打造的AI超級電腦，最大負載可相當於十萬戶家庭的每日用電量，外界都關注台灣的能源供應是否穩定。",
+      "link": "https://www.bbc.com/zhongwen/articles/cj4eez54yewo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-15T09:24:22.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cj4eez54yewo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9e51/live/7a5e11e0-78e3-11f0-85e4-03ebbfd01895.jpg"
+    },
     {
       "title": "普京與特朗普在阿拉斯加峰會上想要得到什麼？",
       "description": "俄羅斯領導人感到有機會獲得更多的國際認可，而美國總統則希望扮演和平締造者的角色。",
@@ -42,14 +50,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c2ce/live/4d0ff120-798f-11f0-ab3e-bd52082cd0ae.jpg"
     },
     {
-      "title": "AI設計用於抗生素研究，治療淋病和金黃色葡萄球菌超級細菌",
-      "description": "研究人員透露，人工智慧發明了兩種可能殺死抗藥性淋病和抗甲氧西林金黃色葡萄球菌（MRSA）的新型抗生素。",
-      "link": "https://www.bbc.com/zhongwen/articles/c30zv4ndpr8o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-15T05:29:41.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c30zv4ndpr8o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab27/live/472d2a50-798c-11f0-a34f-318be3fb0481.jpg"
-    },
-    {
       "title": "黎智英勾結外國勢力案結案陳詞首日 因健康原因迅速休庭",
       "description": "壹傳媒創辦人黎智英涉嫌串謀勾結外國勢力案，為香港首宗「勾結罪」審訊，本周五（8月15日）結案陳詞，案件進入尾聲。黎智英在審訊中作供52天，先後接受控辯雙方提問，3名主審法官杜麗冰、李素蘭和李運騰亦多次就庭上援引的證供向黎發問。黎的自辯最終會否獲接納，仍取決於法官裁決。",
       "link": "https://www.bbc.com/zhongwen/live/cp89jrd5dmqt/trad?at_medium=RSS&at_campaign=rss",
@@ -74,6 +74,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0095/live/f464cad0-76c0-11f0-a20f-3b86f375586a.jpg"
     },
     {
+      "title": "AI設計用於抗生素研究，治療淋病和金黃色葡萄球菌超級細菌",
+      "description": "研究人員透露，人工智慧發明了兩種可能殺死抗藥性淋病和抗甲氧西林金黃色葡萄球菌（MRSA）的新型抗生素。",
+      "link": "https://www.bbc.com/zhongwen/articles/c30zv4ndpr8o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-15T05:29:41.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c30zv4ndpr8o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab27/live/472d2a50-798c-11f0-a34f-318be3fb0481.jpg"
+    },
+    {
       "title": "台灣工程師看台積電洩密：以前睜隻眼閉隻眼，現在一定要處理",
       "description": "全球晶圓代工龍頭台積電驚傳2奈米營業秘密外洩事件，震動科技界。這些竊密者做了什麼？台灣為何首次動用修訂後的國安法？與中國日本有關嗎？來自業界的竹科工程師怎麼看？台積電二奈米會被日本超越嗎？",
       "link": "https://www.bbc.com/zhongwen/articles/c39dr00mg2zo/trad?at_medium=RSS&at_campaign=rss",
@@ -88,14 +96,6 @@
       "pubDate": "2025-08-15T00:21:05.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn02gwpnx3xo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/be9d/live/57083e40-78e4-11f0-8071-1788c7e8ae0e.jpg"
-    },
-    {
-      "title": "中國「外賣大戰」：誰在買單？ 迫於奔命的商家、騎手還是消費者？",
-      "description": "在過去的幾個月裏，「外賣大戰」是中國民眾最熱議的話題之一。打開支付寶或者淘寶即送優惠券，折扣力度可使消費者幾毛錢即買到一杯奶茶、甚至0元即得奶茶。低價競爭下，騎手、店家、消費者對BBC講述了他們所經歷的「外賣大戰」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn02wrk3w5ko/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-12T08:09:14.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn02wrk3w5ko/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/68f5/live/df68ce60-7260-11f0-8dbd-f3d32ebd3327.jpg"
     },
     {
       "title": "澳洲雄心勃勃，下重注挑戰中國的稀土壟斷地位",
@@ -202,20 +202,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/56a2/live/c9eb5020-71d5-11f0-bb15-e58cf64b3661.jpg"
     },
     {
+      "title": "中國「外賣大戰」：誰在買單？ 迫於奔命的商家、騎手還是消費者？",
+      "description": "在過去的幾個月裏，「外賣大戰」是中國民眾最熱議的話題之一。打開支付寶或者淘寶即送優惠券，折扣力度可使消費者幾毛錢即買到一杯奶茶、甚至0元即得奶茶。低價競爭下，騎手、店家、消費者對BBC講述了他們所經歷的「外賣大戰」。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn02wrk3w5ko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-12T08:09:14.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn02wrk3w5ko/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/68f5/live/df68ce60-7260-11f0-8dbd-f3d32ebd3327.jpg"
+    },
+    {
       "title": "特朗普與普京會面能迅速終結俄烏戰爭嗎？答案可能是否定的",
       "description": "俄羅斯的停火條件包括承認其對克里米亞、頓列茨克、盧甘斯克、扎波羅熱及赫爾松等烏克蘭地區的主權；烏克蘭實現去軍事化、中立化、不得有外國軍隊介入，並舉行新選舉。",
       "link": "https://www.bbc.com/zhongwen/articles/crev9p4jlyvo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-08-08T05:36:09.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/crev9p4jlyvo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/806b/live/48f1a0e0-739d-11f0-a975-cb151ca452f4.jpg"
-    },
-    {
-      "title": "「狩獵女性的遊戲」：台灣「創意私房」案偵結，加害者是如何「成魔」？",
-      "description": "被稱為「台版N號房」的「創意私房」事件，曝光20萬部非法性影像，受害者超過4000人。BBC中文採訪多名社工與檢察官，他們形容這群年輕男性犯罪者，在現實與網路呈現完全不同的人格，「不知道自己怎麼會走到這裡」。",
-      "link": "https://www.bbc.com/zhongwen/articles/ckgdx1en6vxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-07T04:01:42.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckgdx1en6vxo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6920/live/61bcdad0-71c8-11f0-af20-030418be2ca5.png"
     },
     {
       "title": "「八炯」納粹言行爭議：台灣政治圈為何頻觸國際紅線？",
@@ -242,6 +242,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/325f/live/ebb67210-7145-11f0-bb94-c31fa2275e79.jpg"
     },
     {
+      "title": "「狩獵女性的遊戲」：台灣「創意私房」案偵結，加害者是如何「成魔」？",
+      "description": "被稱為「台版N號房」的「創意私房」事件，曝光20萬部非法性影像，受害者超過4000人。BBC中文採訪多名社工與檢察官，他們形容這群年輕男性犯罪者，在現實與網路呈現完全不同的人格，「不知道自己怎麼會走到這裡」。",
+      "link": "https://www.bbc.com/zhongwen/articles/ckgdx1en6vxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-07T04:01:42.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckgdx1en6vxo/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6920/live/61bcdad0-71c8-11f0-af20-030418be2ca5.png"
+    },
+    {
       "title": "台灣「大罷免」慘敗的五個啟示",
       "description": "這場由公民團體發起、執政民進黨支持的罷免行動，試圖翻轉2024年選舉後「朝小野大」的立法院格局，卻以全面潰敗收場。",
       "link": "https://www.bbc.com/zhongwen/articles/c9395g2l5yno/trad?at_medium=RSS&at_campaign=rss",
@@ -264,14 +272,6 @@
       "pubDate": "2025-07-09T06:59:49.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c2d0z78j3dko/trad#5",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d10/live/a52459b0-5c74-11f0-a599-95f050d79014.jpg"
-    },
-    {
-      "title": "柴靜： 從中國官媒的知名記者和「公知」到出走海外的獨立媒體人",
-      "description": "帶著知名調查記者、主持人和「公知」光環，柴靜出走國家媒體，成為獨立媒體人。2017年，為了持續自己的新聞工作，她出走歐洲。",
-      "link": "https://www.bbc.com/zhongwen/articles/cz6ggp5nl7yo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-07-02T00:07:44.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cz6ggp5nl7yo/trad#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ee8f/live/7bc822b0-55c4-11f0-9074-8989d8c97d87.png"
     },
     {
       "title": "波浪能：這種新型潔淨能源為何讓各國趨之若鶩？",
