@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-15T18:36:46.716Z",
+  "updated": "2025-08-15T18:49:14.395Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "795",
+      "recommendCount": "1436",
+      "title": "[電競] 2025 LCK Regular Season W13D3",
+      "link": "/bbs/LoL/M.1755241944.A.8C1",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/08/15 07:12",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "153",
       "recommendCount": "587",
       "title": "[新聞] 「核廢料真的很危險！」陳椒華不同意核三延役：沒綁大選的公投很難過關",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/15 02:23",
       "imageUrl": "https://cache.pttweb.cc/imgur/xFvOIYr/s/40c87f3339df81bb824c27fa2386f78e"
-    },
-    {
-      "recommendScore": "60",
-      "recommendCount": "334",
-      "title": "[新聞] 陸重量級學者稱若被迫武統台灣 一國一制下台積電或收歸國有",
-      "link": "/bbs/Stock/M.1755228622.A.9DC",
-      "author": "brbear",
-      "board": "Stock",
-      "publishTime": "2025/08/15 03:30",
-      "imageUrl": ""
     }
   ]
 }
