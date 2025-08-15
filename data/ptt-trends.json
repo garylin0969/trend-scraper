@@ -1,11 +1,11 @@
 {
-  "updated": "2025-08-15T18:49:14.395Z",
+  "updated": "2025-08-15T18:58:03.072Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "197",
-      "recommendCount": "1396",
+      "recommendScore": "188",
+      "recommendCount": "1476",
       "title": "[心得] 被房貸羞辱的一年，此生不再投民進黨",
       "link": "/bbs/home-sale/M.1755215261.A.510",
       "author": "eqqs",
@@ -184,6 +184,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/hctwoBu/s/5cbe76dad6c9d2a6aefe32b49841dbe3"
     },
     {
+      "recommendScore": "594",
+      "recommendCount": "1157",
+      "title": "[電競] 2025 LCP 賽季決賽 重組賽 換位血戰！",
+      "link": "/bbs/LoL/M.1755249156.A.23A",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/08/15 09:12",
+      "imageUrl": "https://cache.pttweb.cc/imgur/28dyKcA/s/f47278d3b7754bbd6cc5568d0ff8212a"
+    },
+    {
       "recommendScore": "132",
       "recommendCount": "472",
       "title": "[新聞] 「罵成這樣乾脆不要幹了」 凌濤：朱立倫團隊8/24後進入「準交接」",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/15 02:51",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "155",
-      "recommendCount": "313",
-      "title": "[問卦] 普發10000元大概2350億，怎變5900億",
-      "link": "/bbs/Gossiping/M.1755224626.A.332",
-      "author": "kuso2005",
-      "board": "Gossiping",
-      "publishTime": "2025/08/15 02:23",
-      "imageUrl": "https://cache.pttweb.cc/imgur/xFvOIYr/s/40c87f3339df81bb824c27fa2386f78e"
     }
   ]
 }
