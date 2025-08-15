@@ -1,18 +1,8 @@
 {
-  "updated": "2025-08-15T23:45:12.570Z",
+  "updated": "2025-08-15T23:53:17.110Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "190",
-      "recommendCount": "1476",
-      "title": "[心得] 被房貸羞辱的一年，此生不再投民進黨",
-      "link": "/bbs/home-sale/M.1755215261.A.510",
-      "author": "eqqs",
-      "board": "home-sale",
-      "publishTime": "2025/08/14 23:47",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "546",
       "recommendCount": "1198",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/08/15 13:29",
       "imageUrl": "https://cache.pttweb.cc/imgur/lk5omDR/s/4b4260a8dca14ad5a9db2d13cfd3af24"
+    },
+    {
+      "recommendScore": "795",
+      "recommendCount": "1436",
+      "title": "[電競] 2025 LCK Regular Season W13D3",
+      "link": "/bbs/LoL/M.1755241944.A.8C1",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/08/15 07:12",
+      "imageUrl": ""
     }
   ]
 }
