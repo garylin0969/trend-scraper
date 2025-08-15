@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-15T11:43:56.872Z",
+  "updated": "2025-08-15T11:53:36.903Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,13 +34,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "345",
-      "recommendCount": "636",
+      "recommendScore": "346",
+      "recommendCount": "637",
       "title": "[情報] 美國2025年7月PPI",
       "link": "/bbs/Stock/M.1755175080.A.DF5",
       "author": "xephon",
       "board": "Stock",
       "publishTime": "2025/08/14 12:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "436",
+      "recommendCount": "857",
+      "title": "[新聞] 中職》台鋼使用澄清湖棒球場免場地費市府還花800多萬買票分送 審計部要求檢討",
+      "link": "/bbs/Baseball/M.1755221455.A.B85",
+      "author": "kukukuma",
+      "board": "Baseball",
+      "publishTime": "2025/08/15 01:30",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/14 12:30",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "150",
-      "recommendCount": "219",
-      "title": "Re: [新聞] 沈伯洋收恐嚇信「讓你女兒變第2個小",
-      "link": "/bbs/Gossiping/M.1755219686.A.832",
-      "author": "a9202507",
-      "board": "Gossiping",
-      "publishTime": "2025/08/15 01:01",
-      "imageUrl": "https://cache.pttweb.cc/imgur/0jewzYk/s/deae983cae4519959e3dafed51cf8edf"
     }
   ]
 }
