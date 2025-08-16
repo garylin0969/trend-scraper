@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-16T13:53:37.504Z",
+  "updated": "2025-08-16T14:04:57.598Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "59",
-      "recommendCount": "245",
-      "title": "[問卦] 沒人發現今年夏天很不熱嗎？",
-      "link": "/bbs/Gossiping/M.1755266582.A.FAC",
-      "author": "Bowwuwu",
-      "board": "Gossiping",
-      "publishTime": "2025/08/15 14:03",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "170",
       "recommendCount": "275",
       "title": "[討論] 林益全今年底會默默消失嗎？",
@@ -202,6 +192,16 @@
       "board": "Baseball",
       "publishTime": "2025/08/16 01:45",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "90",
+      "recommendCount": "274",
+      "title": "[問卦] 麥當勞是怎麼做到越賣越便宜的？",
+      "link": "/bbs/Gossiping/M.1755327908.A.510",
+      "author": "codechem",
+      "board": "Gossiping",
+      "publishTime": "2025/08/16 07:05",
+      "imageUrl": "https://cache.pttweb.cc/imgur/AuoGFqQ/s/8b8213a8bb91ef5480c70963b3305d40"
     }
   ]
 }
