@@ -1,7 +1,7 @@
 {
-  "updated": "2025-08-16T21:35:28.365Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-08-16T21:43:42.322Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "419",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "367",
-      "recommendCount": "945",
+      "recommendScore": "368",
+      "recommendCount": "946",
       "title": "[新聞] 李珠珢「玩軍旗犯大忌」富邦悍將7連敗！南珉貞下跪道歉了",
       "link": "/bbs/Baseball/M.1755354011.A.C05",
       "author": "er520230",
@@ -191,6 +191,16 @@
       "author": "turndown4wat",
       "board": "Baseball",
       "publishTime": "2025/08/16 15:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "1",
+      "recommendCount": "1500",
+      "title": "[討論] 奇怪 你不信任台電 又要他們管核電",
+      "link": "/bbs/HatePolitics/M.1755306101.A.CB6",
+      "author": "Mimmature",
+      "board": "HatePolitics",
+      "publishTime": "2025/08/16 01:01",
       "imageUrl": ""
     }
   ]
