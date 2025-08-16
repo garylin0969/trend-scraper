@@ -1,7 +1,7 @@
 {
-  "updated": "2025-08-16T22:05:13.622Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-08-16T22:17:46.748Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "419",
@@ -191,6 +191,16 @@
       "author": "mjdrcb",
       "board": "Gossiping",
       "publishTime": "2025/08/16 10:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "1",
+      "recommendCount": "1500",
+      "title": "[討論] 奇怪 你不信任台電 又要他們管核電",
+      "link": "/bbs/HatePolitics/M.1755306101.A.CB6",
+      "author": "Mimmature",
+      "board": "HatePolitics",
+      "publishTime": "2025/08/16 01:01",
       "imageUrl": ""
     }
   ]
