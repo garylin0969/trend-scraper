@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-16T11:34:07.760Z",
+  "updated": "2025-08-16T11:43:38.762Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "183",
-      "recommendCount": "775",
+      "recommendScore": "185",
+      "recommendCount": "779",
       "title": "[新聞] 核三不重啟！20民團辦「為台灣祈福」屏東晚會：以多數決欺負屏東人不是民主",
       "link": "/bbs/Gossiping/M.1755289306.A.C80",
       "author": "iam168888888",
@@ -34,13 +34,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "95",
-      "recommendCount": "614",
+      "recommendScore": "96",
+      "recommendCount": "619",
       "title": "[新聞] 綠委稱手機支付詐騙多 卓榮泰：我都用貨到付款、不給帳號",
       "link": "/bbs/Gossiping/M.1755305310.A.1C1",
       "author": "james7923",
       "board": "Gossiping",
       "publishTime": "2025/08/16 00:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-230",
+      "recommendCount": "591",
+      "title": "[新聞] 快新聞／簡舒培再爆柯文哲收賄鐵證！",
+      "link": "/bbs/Gossiping/M.1755311717.A.931",
+      "author": "asppsa",
+      "board": "Gossiping",
+      "publishTime": "2025/08/16 02:35",
       "imageUrl": ""
     },
     {
@@ -54,18 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-222",
-      "recommendCount": "578",
-      "title": "[新聞] 快新聞／簡舒培再爆柯文哲收賄鐵證！",
-      "link": "/bbs/Gossiping/M.1755311717.A.931",
-      "author": "asppsa",
-      "board": "Gossiping",
-      "publishTime": "2025/08/16 02:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "277",
-      "recommendCount": "701",
+      "recommendScore": "278",
+      "recommendCount": "702",
       "title": "[問卦] 重啟3座核電廠，比補助台電便宜= =..?",
       "link": "/bbs/Gossiping/M.1755264554.A.3FB",
       "author": "sasaki3630",
@@ -104,23 +104,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/wE0jlIS/s/6f60d191ad8d3fe22d74c3f569055b84"
     },
     {
-      "recommendScore": "174",
-      "recommendCount": "409",
-      "title": "[新聞] 川普：只要我在位　習近平不會對台灣動手",
-      "link": "/bbs/Stock/M.1755304132.A.94C",
-      "author": "DDDDRR",
-      "board": "Stock",
-      "publishTime": "2025/08/16 00:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "201",
-      "recommendCount": "431",
+      "recommendScore": "206",
+      "recommendCount": "442",
       "title": "[新聞] 建商不降不賣,單周「零成交」成常態?!房市慘狀可比疫情期",
       "link": "/bbs/Stock/M.1755303284.A.273",
       "author": "cjol",
       "board": "Stock",
       "publishTime": "2025/08/16 00:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "178",
+      "recommendCount": "418",
+      "title": "[新聞] 川普：只要我在位　習近平不會對台灣動手",
+      "link": "/bbs/Stock/M.1755304132.A.94C",
+      "author": "DDDDRR",
+      "board": "Stock",
+      "publishTime": "2025/08/16 00:28",
       "imageUrl": ""
     },
     {
@@ -132,6 +132,16 @@
       "board": "Stock",
       "publishTime": "2025/08/15 13:18",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "6",
+      "recommendCount": "474",
+      "title": "[問卦] 呂捷：我不反核 我主張先檢測再公投",
+      "link": "/bbs/Gossiping/M.1755326701.A.6EF",
+      "author": "zoeapezoo",
+      "board": "Gossiping",
+      "publishTime": "2025/08/16 06:45",
+      "imageUrl": "https://cache.pttweb.cc/imgur/rvaFPhi/s/8be7dde92040f4805a49a62a32212bf9"
     },
     {
       "recommendScore": "212",
@@ -154,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "665",
+      "recommendCount": "1502",
+      "title": "[情報] 今日先發",
+      "link": "/bbs/Elephants/M.1755332838.A.3A5",
+      "author": "nanashin",
+      "board": "Elephants",
+      "publishTime": "2025/08/16 08:27",
+      "imageUrl": "https://cache.pttweb.cc/imgur/9feh4gg/s/fca4f69e712f19e85bb32131bb929c78"
+    },
+    {
       "recommendScore": "213",
       "recommendCount": "293",
       "title": "[閒聊] FoFo IG",
@@ -164,8 +184,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/wQ51sJC/s/b0d7c7d84d93f049ed4b6a4cae3e9737"
     },
     {
-      "recommendScore": "163",
-      "recommendCount": "285",
+      "recommendScore": "164",
+      "recommendCount": "287",
       "title": "[新聞] 邱鎮軍持雲豹能源股票　賴品妤酸「花錢養我」總座急發內部信澄清",
       "link": "/bbs/Stock/M.1755267240.A.F02",
       "author": "DDDDRR",
@@ -182,26 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/15 15:16",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "186",
-      "recommendCount": "388",
-      "title": "Re: [問卦] 被熊吃掉的登山客遺體發現了",
-      "link": "/bbs/Gossiping/M.1755265666.A.7EB",
-      "author": "SpectreMan",
-      "board": "Gossiping",
-      "publishTime": "2025/08/15 13:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "213",
-      "recommendCount": "257",
-      "title": "[分享] 今日 Clayton Kershaw 勝投、終止道奇連敗",
-      "link": "/bbs/Baseball/M.1755319358.A.983",
-      "author": "carlchang092",
-      "board": "Baseball",
-      "publishTime": "2025/08/16 04:42",
-      "imageUrl": "https://cache.pttweb.cc/imgur/gNR6K4X/s/eec77b7c04d4b8aabf8f4a0d826c31f6"
     }
   ]
 }
