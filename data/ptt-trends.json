@@ -1,8 +1,18 @@
 {
-  "updated": "2025-08-16T11:43:38.762Z",
+  "updated": "2025-08-16T11:53:26.580Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "370",
+      "recommendCount": "852",
+      "title": "[問卦] 脆：挖五千公尺洞會挖到地核",
+      "link": "/bbs/Gossiping/M.1755320693.A.FF7",
+      "author": "a12345x",
+      "board": "Gossiping",
+      "publishTime": "2025/08/16 05:04",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "285",
       "recommendCount": "892",
@@ -12,16 +22,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/15 16:37",
       "imageUrl": "https://cache.pttweb.cc/imgur/M54v3Xt/s/1326be311e6e6427b9962da5c2ead6d1"
-    },
-    {
-      "recommendScore": "341",
-      "recommendCount": "768",
-      "title": "[問卦] 脆：挖五千公尺洞會挖到地核",
-      "link": "/bbs/Gossiping/M.1755320693.A.FF7",
-      "author": "a12345x",
-      "board": "Gossiping",
-      "publishTime": "2025/08/16 05:04",
-      "imageUrl": ""
     },
     {
       "recommendScore": "185",
@@ -74,23 +74,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/lk5omDR/s/4b4260a8dca14ad5a9db2d13cfd3af24"
     },
     {
-      "recommendScore": "305",
-      "recommendCount": "506",
-      "title": "[新聞] 王定宇轟「萊爾校長」CF造謠賴清德 國民黨：對號入座恐被踢下車",
-      "link": "/bbs/Gossiping/M.1755306235.A.71E",
-      "author": "hexife",
-      "board": "Gossiping",
-      "publishTime": "2025/08/16 01:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "169",
-      "recommendCount": "560",
+      "recommendScore": "170",
+      "recommendCount": "570",
       "title": "[新聞] 川普：只要我在位　習近平不會對台灣動手",
       "link": "/bbs/Gossiping/M.1755302753.A.31A",
       "author": "GOD5566GOD",
       "board": "Gossiping",
       "publishTime": "2025/08/16 00:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "308",
+      "recommendCount": "512",
+      "title": "[新聞] 王定宇轟「萊爾校長」CF造謠賴清德 國民黨：對號入座恐被踢下車",
+      "link": "/bbs/Gossiping/M.1755306235.A.71E",
+      "author": "hexife",
+      "board": "Gossiping",
+      "publishTime": "2025/08/16 01:03",
       "imageUrl": ""
     },
     {
@@ -144,16 +144,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/rvaFPhi/s/8be7dde92040f4805a49a62a32212bf9"
     },
     {
-      "recommendScore": "212",
-      "recommendCount": "340",
-      "title": "[情報] 川普：高風險",
-      "link": "/bbs/Stock/M.1755258609.A.210",
-      "author": "c259888",
-      "board": "Stock",
-      "publishTime": "2025/08/15 11:50",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "175",
       "recommendCount": "299",
       "title": "[問卦] 對清德宗丟鞋、丟雞蛋、丟書會怎麼樣？",
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "169",
-      "recommendCount": "321",
+      "recommendScore": "170",
+      "recommendCount": "323",
       "title": "[新聞] 美國核電廠確定延役 20 年 ，拚 2050 零碳排放",
       "link": "/bbs/Gossiping/M.1755270992.A.1E7",
       "author": "saiulbb",
       "board": "Gossiping",
       "publishTime": "2025/08/15 15:16",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "186",
+      "recommendCount": "388",
+      "title": "Re: [問卦] 被熊吃掉的登山客遺體發現了",
+      "link": "/bbs/Gossiping/M.1755265666.A.7EB",
+      "author": "SpectreMan",
+      "board": "Gossiping",
+      "publishTime": "2025/08/15 13:47",
       "imageUrl": ""
     }
   ]
