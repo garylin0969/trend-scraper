@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-16T03:25:44.218Z",
+  "updated": "2025-08-16T03:46:45.875Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -64,16 +64,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "332",
-      "recommendCount": "623",
-      "title": "[新聞] 呂秀蓮建議賴清德辭黨主席　王世堅：呂副其實很多看法是對的",
-      "link": "/bbs/Gossiping/M.1755228406.A.170",
-      "author": "HisVol",
-      "board": "Gossiping",
-      "publishTime": "2025/08/15 03:26",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "275",
       "recommendCount": "648",
       "title": "[新聞] 經部二度澄清快樂宴爭議　再胡說就告你",
@@ -134,16 +124,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/hctwoBu/s/5cbe76dad6c9d2a6aefe32b49841dbe3"
     },
     {
-      "recommendScore": "67",
-      "recommendCount": "487",
-      "title": "[新聞] 陸重量級學者稱若被迫武統台灣 一國一制下台積電或收歸國有",
-      "link": "/bbs/Stock/M.1755228622.A.9DC",
-      "author": "brbear",
-      "board": "Stock",
-      "publishTime": "2025/08/15 03:30",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "795",
       "recommendCount": "1436",
       "title": "[電競] 2025 LCK Regular Season W13D3",
@@ -201,6 +181,26 @@
       "author": "keel90135",
       "board": "Stock",
       "publishTime": "2025/08/15 13:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "89",
+      "recommendCount": "362",
+      "title": "[新聞] 告別「處女膜」 婦團正名為「陰道前膜」",
+      "link": "/bbs/Gossiping/M.1755231048.A.E09",
+      "author": "lili712",
+      "board": "Gossiping",
+      "publishTime": "2025/08/15 04:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "312",
+      "recommendCount": "572",
+      "title": "[新聞] 高雄砸錢挺職棒「免場租又送票」 遭審計部點名：收支失衡",
+      "link": "/bbs/Baseball/M.1755230872.A.868",
+      "author": "ruka660101",
+      "board": "Baseball",
+      "publishTime": "2025/08/15 04:07",
       "imageUrl": ""
     }
   ]
