@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-16T20:17:47.160Z",
+  "updated": "2025-08-16T20:29:45.009Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -11,16 +11,6 @@
       "author": "a12345x",
       "board": "Gossiping",
       "publishTime": "2025/08/16 05:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "187",
-      "recommendCount": "784",
-      "title": "[新聞] 核三不重啟！20民團辦「為台灣祈福」屏東晚會：以多數決欺負屏東人不是民主",
-      "link": "/bbs/Gossiping/M.1755289306.A.C80",
-      "author": "iam168888888",
-      "board": "Gossiping",
-      "publishTime": "2025/08/15 20:21",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "turndown4wat",
       "board": "Baseball",
       "publishTime": "2025/08/16 15:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "0",
+      "recommendCount": "1500",
+      "title": "[討論] 奇怪 你不信任台電 又要他們管核電",
+      "link": "/bbs/HatePolitics/M.1755306101.A.CB6",
+      "author": "Mimmature",
+      "board": "HatePolitics",
+      "publishTime": "2025/08/16 01:01",
       "imageUrl": ""
     }
   ]
