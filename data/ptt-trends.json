@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-16T00:49:21.036Z",
+  "updated": "2025-08-16T01:21:43.656Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -72,16 +72,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/15 01:59",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "387",
-      "recommendCount": "604",
-      "title": "Re: [新聞] 沈伯洋收恐嚇信「讓你女兒變第2個小",
-      "link": "/bbs/Gossiping/M.1755219686.A.832",
-      "author": "a9202507",
-      "board": "Gossiping",
-      "publishTime": "2025/08/15 01:01",
-      "imageUrl": "https://cache.pttweb.cc/imgur/0jewzYk/s/deae983cae4519959e3dafed51cf8edf"
     },
     {
       "recommendScore": "437",
@@ -201,6 +191,16 @@
       "author": "brbear",
       "board": "Stock",
       "publishTime": "2025/08/15 03:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "795",
+      "recommendCount": "1436",
+      "title": "[電競] 2025 LCK Regular Season W13D3",
+      "link": "/bbs/LoL/M.1755241944.A.8C1",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/08/15 07:12",
       "imageUrl": ""
     }
   ]
