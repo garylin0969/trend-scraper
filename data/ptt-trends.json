@@ -1,11 +1,11 @@
 {
-  "updated": "2025-08-17T11:43:37.753Z",
+  "updated": "2025-08-17T11:53:34.864Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "398",
-      "recommendCount": "998",
+      "recommendScore": "405",
+      "recommendCount": "1026",
       "title": "[新聞] 雙和醫院急診貼「護病比1:13公告爆爭議",
       "link": "/bbs/Gossiping/M.1755397790.A.A5F",
       "author": "Goo4u",
@@ -41,16 +41,6 @@
       "author": "spectron",
       "board": "Gossiping",
       "publishTime": "2025/08/17 03:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "358",
-      "recommendCount": "742",
-      "title": "[新聞] 扯！彭啓明勘察嘉義災情 目睹業者為省清運成本「現場破碎光電塑膠浮板」",
-      "link": "/bbs/Gossiping/M.1755344760.A.0C0",
-      "author": "s48692003",
-      "board": "Gossiping",
-      "publishTime": "2025/08/16 11:46",
       "imageUrl": ""
     },
     {
@@ -164,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "656",
+      "recommendCount": "1143",
+      "title": "[電競] 2025 LCP 賽季決賽 小組賽 Phase 2 Day 2",
+      "link": "/bbs/LoL/M.1755422046.A.BA8",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/08/17 09:14",
+      "imageUrl": "https://cache.pttweb.cc/imgur/4scHLrE/s/0892a526c916a43eaa7cef0a82807ee9"
+    },
+    {
       "recommendScore": "170",
       "recommendCount": "414",
       "title": "[新聞] 呂秀蓮籲組跨黨內閣 綠委：「當今聖上」不喜歡聽指點人事",
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "666",
-      "recommendCount": "1436",
-      "title": "[電競] 2025 LCK Regular Season W13D5",
-      "link": "/bbs/LoL/M.1755409168.A.30C",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2025/08/17 05:39",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "198",
       "recommendCount": "422",
       "title": "[新聞] NBA／Kuminga續約談判重啟　要求勇士證明自己是「基石」非「籌碼」",
@@ -202,6 +192,16 @@
       "board": "NBA",
       "publishTime": "2025/08/16 15:36",
       "imageUrl": "https://cache.pttweb.cc/imgur/DImGJwK/s/aefda93ed0baa1d2946a9f39c0aff9d2"
+    },
+    {
+      "recommendScore": "698",
+      "recommendCount": "1436",
+      "title": "[電競] 2025 LCK Regular Season W13D5",
+      "link": "/bbs/LoL/M.1755409168.A.30C",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/08/17 05:39",
+      "imageUrl": ""
     }
   ]
 }
