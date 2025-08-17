@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-17T19:16:54.236Z",
+  "updated": "2025-08-17T19:25:37.281Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "305",
-      "recommendCount": "842",
+      "recommendScore": "304",
+      "recommendCount": "843",
       "title": "[問卦] 反核為什麼退流行了？？？",
       "link": "/bbs/Gossiping/M.1755424406.A.473",
       "author": "gn505250",
@@ -164,6 +164,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/rxdbgKI/s/54d43d81c81382152528c3a8677afb75"
     },
     {
+      "recommendScore": "234",
+      "recommendCount": "426",
+      "title": "[心得] 買了緯創 身心受創中",
+      "link": "/bbs/Stock/M.1755426430.A.299",
+      "author": "eric15234",
+      "board": "Stock",
+      "publishTime": "2025/08/17 10:27",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "682",
       "recommendCount": "1191",
       "title": "[電競] 2025 LCP 賽季決賽 小組賽 Phase 2 Day 2",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/17 00:46",
       "imageUrl": "https://cache.pttweb.cc/imgur/qrh2HFY/s/6970242bfc9a01c2de94ffcff4eb8afb"
-    },
-    {
-      "recommendScore": "698",
-      "recommendCount": "1436",
-      "title": "[電競] 2025 LCK Regular Season W13D5",
-      "link": "/bbs/LoL/M.1755409168.A.30C",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2025/08/17 05:39",
-      "imageUrl": ""
     }
   ]
 }
