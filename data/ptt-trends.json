@@ -1,7 +1,7 @@
 {
-  "updated": "2025-08-17T05:09:24.158Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2025-08-17T05:20:59.939Z",
+  "total_found": 19,
+  "returned_count": 19,
   "articles": [
     {
       "recommendScore": "436",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "397",
-      "recommendCount": "618",
+      "recommendScore": "402",
+      "recommendCount": "627",
       "title": "[閒聊] 光陽和他的網軍正在摧毀Biker板",
       "link": "/bbs/biker/M.1755331658.A.CD7",
       "author": "AreLies",
@@ -124,8 +124,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/yoPOQXK/s/aac4874f1b063bf615e31a64ca336483"
     },
     {
-      "recommendScore": "215",
-      "recommendCount": "490",
+      "recommendScore": "217",
+      "recommendCount": "493",
       "title": "[新聞] 台灣2億大廠「驚傳倒閉」！無預警關廠",
       "link": "/bbs/Gossiping/M.1755338650.A.D86",
       "author": "mjdrcb",
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "152",
+      "recommendCount": "375",
+      "title": "[新聞] 呂秀蓮籲組跨黨內閣 綠委：「當今聖上」不喜歡聽指點人事",
+      "link": "/bbs/Gossiping/M.1755370953.A.58D",
+      "author": "godofsex",
+      "board": "Gossiping",
+      "publishTime": "2025/08/16 19:02",
+      "imageUrl": "https://cache.pttweb.cc/imgur/JNmBNg8/s/f07487b8c89f5990c9117b1b7de96fab"
+    },
+    {
       "recommendScore": "689",
       "recommendCount": "1502",
       "title": "[情報] 今日先發",
@@ -182,26 +192,6 @@
       "board": "Elephants",
       "publishTime": "2025/08/16 08:27",
       "imageUrl": "https://cache.pttweb.cc/imgur/9feh4gg/s/fca4f69e712f19e85bb32131bb929c78"
-    },
-    {
-      "recommendScore": "125",
-      "recommendCount": "383",
-      "title": "[問卦] 麥當勞是怎麼做到越賣越便宜的？",
-      "link": "/bbs/Gossiping/M.1755327908.A.510",
-      "author": "codechem",
-      "board": "Gossiping",
-      "publishTime": "2025/08/16 07:05",
-      "imageUrl": "https://cache.pttweb.cc/imgur/AuoGFqQ/s/8b8213a8bb91ef5480c70963b3305d40"
-    },
-    {
-      "recommendScore": "140",
-      "recommendCount": "357",
-      "title": "[新聞] 呂秀蓮籲組跨黨內閣 綠委：「當今聖上」不喜歡聽指點人事",
-      "link": "/bbs/Gossiping/M.1755370953.A.58D",
-      "author": "godofsex",
-      "board": "Gossiping",
-      "publishTime": "2025/08/16 19:02",
-      "imageUrl": "https://cache.pttweb.cc/imgur/JNmBNg8/s/f07487b8c89f5990c9117b1b7de96fab"
     }
   ]
 }
