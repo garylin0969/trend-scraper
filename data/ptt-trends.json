@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-17T18:06:49.230Z",
+  "updated": "2025-08-17T18:18:49.829Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "340",
-      "recommendCount": "456",
+      "recommendScore": "351",
+      "recommendCount": "470",
       "title": "[分享] 今日布坎南",
       "link": "/bbs/Baseball/M.1755425702.A.962",
       "author": "melman87",
@@ -114,8 +114,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "656",
-      "recommendCount": "1143",
+      "recommendScore": "-49",
+      "recommendCount": "378",
+      "title": "[新聞] 賴清德：政府2030年前投入9千億　促民間4兆投資拚淨零轉型",
+      "link": "/bbs/Stock/M.1755420014.A.F74",
+      "author": "zkow",
+      "board": "Stock",
+      "publishTime": "2025/08/17 08:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "682",
+      "recommendCount": "1191",
       "title": "[電競] 2025 LCP 賽季決賽 小組賽 Phase 2 Day 2",
       "link": "/bbs/LoL/M.1755422046.A.BA8",
       "author": "laptic",
@@ -172,16 +182,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/17 00:46",
       "imageUrl": "https://cache.pttweb.cc/imgur/qrh2HFY/s/6970242bfc9a01c2de94ffcff4eb8afb"
-    },
-    {
-      "recommendScore": "-30",
-      "recommendCount": "293",
-      "title": "[新聞] 賴清德：政府2030年前投入9千億　促民間4兆投資拚淨零轉型",
-      "link": "/bbs/Stock/M.1755420014.A.F74",
-      "author": "zkow",
-      "board": "Stock",
-      "publishTime": "2025/08/17 08:40",
-      "imageUrl": ""
     },
     {
       "recommendScore": "147",
