@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-18T13:44:15.182Z",
+  "updated": "2025-08-18T14:06:54.704Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -71,6 +71,16 @@
       "author": "siugwai",
       "board": "Baseball",
       "publishTime": "2025/08/18 04:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "238",
+      "recommendCount": "531",
+      "title": "[情報]大罷免大失敗！新竹特好喝送100杯飲料",
+      "link": "/bbs/Lifeismoney/M.1755443705.A.A4B",
+      "author": "medama",
+      "board": "Lifeismoney",
+      "publishTime": "2025/08/17 15:15",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/18 02:30",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "-143",
-      "recommendCount": "401",
-      "title": "[問卦] 志祺七七提出反核三8大理由",
-      "link": "/bbs/Gossiping/M.1755443427.A.4D1",
-      "author": "renna038766",
-      "board": "Gossiping",
-      "publishTime": "2025/08/17 15:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/oc5tS7w/s/30673201a1c4610dc704b55ba42435e0"
     }
   ]
 }
