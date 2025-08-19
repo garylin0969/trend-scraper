@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-19T06:20:56.611Z",
+  "updated": "2025-08-19T06:37:44.290Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "269",
+      "recommendCount": "436",
+      "title": "[爆卦] 還在調查？第二波都爆開啦！",
+      "link": "/bbs/Gossiping/M.1755569151.A.49B",
+      "author": "p5hang",
+      "board": "Gossiping",
+      "publishTime": "2025/08/19 02:05",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "200",
       "recommendCount": "391",
       "title": "[新聞] 熱斃！高雄苓雅區大停電 交通號誌也停擺",
@@ -91,16 +101,6 @@
       "author": "qqq87112",
       "board": "Gossiping",
       "publishTime": "2025/08/18 09:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "251",
-      "recommendCount": "398",
-      "title": "[爆卦] 還在調查？第二波都爆開啦！",
-      "link": "/bbs/Gossiping/M.1755569151.A.49B",
-      "author": "p5hang",
-      "board": "Gossiping",
-      "publishTime": "2025/08/19 02:05",
       "imageUrl": ""
     },
     {
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "159",
-      "recommendCount": "441",
-      "title": "[問卦] 文言文到底有什麼用？",
-      "link": "/bbs/Gossiping/M.1755498155.A.A0A",
-      "author": "abcde12345",
-      "board": "Gossiping",
-      "publishTime": "2025/08/18 06:22",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "148",
       "recommendCount": "400",
       "title": "[新聞] 交通部再破功 下修今年來台旅客至900萬人次",
@@ -184,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "191",
+      "recommendCount": "351",
+      "title": "[新聞] 花蓮罷團突發聲明「不銷毀志工協議」",
+      "link": "/bbs/Gossiping/M.1755570755.A.9D2",
+      "author": "WuSam",
+      "board": "Gossiping",
+      "publishTime": "2025/08/19 02:32",
+      "imageUrl": "https://cache.pttweb.cc/imgur/MeZOODv/s/5d2a0f2cb83d6cf262de60537941633a"
+    },
+    {
       "recommendScore": "225",
       "recommendCount": "374",
       "title": "[分享] 奶哥專欄：Stephens原本要去樂天",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "49",
-      "recommendCount": "347",
-      "title": "[問卦] 政黑熱議：事實證明 打房根本沒票",
-      "link": "/bbs/Gossiping/M.1755533427.A.5E5",
-      "author": "chiafann",
+      "recommendScore": "174",
+      "recommendCount": "358",
+      "title": "[爆卦] 柯文哲fb: 檢察官瘋問是不是騎車時收錢",
+      "link": "/bbs/Gossiping/M.1755574342.A.19F",
+      "author": "cheninher",
       "board": "Gossiping",
-      "publishTime": "2025/08/18 16:10",
+      "publishTime": "2025/08/19 03:32",
       "imageUrl": ""
     }
   ]
