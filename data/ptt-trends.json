@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-19T23:36:10.380Z",
+  "updated": "2025-08-19T23:44:18.854Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "258",
+      "recommendCount": "721",
+      "title": "[新聞] 要怎麼救中小企業？經長郭智輝提在美設產業園區",
+      "link": "/bbs/Stock/M.1755592231.A.298",
+      "author": "TCB006",
+      "board": "Stock",
+      "publishTime": "2025/08/19 08:30",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "473",
       "recommendCount": "673",
       "title": "[問卦] 正妹網友借錢後封鎖挨告 出庭比男生還壯",
@@ -42,16 +52,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/19 00:28",
       "imageUrl": "https://cache.pttweb.cc/imgur/KjUVaQf/s/485680a3cd443f59cc65d5c4e9dd8689"
-    },
-    {
-      "recommendScore": "254",
-      "recommendCount": "709",
-      "title": "[新聞] 要怎麼救中小企業？經長郭智輝提在美設產業園區",
-      "link": "/bbs/Stock/M.1755592231.A.298",
-      "author": "TCB006",
-      "board": "Stock",
-      "publishTime": "2025/08/19 08:30",
-      "imageUrl": ""
     },
     {
       "recommendScore": "288",
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "256",
+      "recommendCount": "435",
+      "title": "[情報]「台灣先生」谷月涵看好年底前還有上漲空間",
+      "link": "/bbs/Stock/M.1755611617.A.51F",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2025/08/19 13:53",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "246",
       "recommendCount": "486",
       "title": "[爆卦] 脆：挺寬恆蓋同意！",
@@ -121,16 +131,6 @@
       "author": "a96385245",
       "board": "Gossiping",
       "publishTime": "2025/08/19 03:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "224",
-      "recommendCount": "382",
-      "title": "[情報]「台灣先生」谷月涵看好年底前還有上漲空間",
-      "link": "/bbs/Stock/M.1755611617.A.51F",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2025/08/19 13:53",
       "imageUrl": ""
     },
     {
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-199",
-      "recommendCount": "416",
-      "title": "[新聞] 京華城案》證人頻證實「確有其錢」 柯文哲法庭失序轉移焦點？",
-      "link": "/bbs/Gossiping/M.1755560456.A.7BF",
-      "author": "james7923",
-      "board": "Gossiping",
-      "publishTime": "2025/08/18 23:40",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "189",
       "recommendCount": "405",
       "title": "[情報] RTX 5070等級以下全面買得到「老黃原價」",
@@ -201,6 +191,16 @@
       "author": "FT6034",
       "board": "PC_Shopping",
       "publishTime": "2025/08/19 07:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "130",
+      "recommendCount": "449",
+      "title": "[新聞] 快訊／表態願意選新北市長　李四川：若明年要我承擔不會排斥",
+      "link": "/bbs/Gossiping/M.1755573964.A.E82",
+      "author": "k66333",
+      "board": "Gossiping",
+      "publishTime": "2025/08/19 03:26",
       "imageUrl": ""
     }
   ]
