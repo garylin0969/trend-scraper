@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-19T18:56:22.351Z",
+  "updated": "2025-08-19T19:05:15.018Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "254",
+      "recommendCount": "709",
+      "title": "[新聞] 要怎麼救中小企業？經長郭智輝提在美設產業園區",
+      "link": "/bbs/Stock/M.1755592231.A.298",
+      "author": "TCB006",
+      "board": "Stock",
+      "publishTime": "2025/08/19 08:30",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "471",
       "recommendCount": "668",
       "title": "[問卦] 正妹網友借錢後封鎖挨告 出庭比男生還壯",
@@ -32,16 +42,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/19 00:28",
       "imageUrl": "https://cache.pttweb.cc/imgur/KjUVaQf/s/485680a3cd443f59cc65d5c4e9dd8689"
-    },
-    {
-      "recommendScore": "251",
-      "recommendCount": "691",
-      "title": "[新聞] 要怎麼救中小企業？經長郭智輝提在美設產業園區",
-      "link": "/bbs/Stock/M.1755592231.A.298",
-      "author": "TCB006",
-      "board": "Stock",
-      "publishTime": "2025/08/19 08:30",
-      "imageUrl": ""
     },
     {
       "recommendScore": "321",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "282",
-      "recommendCount": "729",
+      "recommendScore": "281",
+      "recommendCount": "731",
       "title": "[新聞] 交通部再破功 下修今年來台旅客至900萬人次",
       "link": "/bbs/Stock/M.1755557540.A.17A",
       "author": "keel90135",
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "224",
+      "recommendCount": "382",
+      "title": "[情報]「台灣先生」谷月涵看好年底前還有上漲空間",
+      "link": "/bbs/Stock/M.1755611617.A.51F",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2025/08/19 13:53",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "155",
       "recommendCount": "403",
       "title": "[新聞] 快新聞／證實了！徐國勇將辭《民視》主持人、823後接民進黨秘書長　內閣小幅改組",
@@ -191,16 +201,6 @@
       "author": "guoair",
       "board": "Gossiping",
       "publishTime": "2025/08/19 07:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-198",
-      "recommendCount": "415",
-      "title": "[新聞] 京華城案》證人頻證實「確有其錢」 柯文哲法庭失序轉移焦點？",
-      "link": "/bbs/Gossiping/M.1755560456.A.7BF",
-      "author": "james7923",
-      "board": "Gossiping",
-      "publishTime": "2025/08/18 23:40",
       "imageUrl": ""
     }
   ]
