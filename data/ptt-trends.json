@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-20T04:48:01.392Z",
+  "updated": "2025-08-20T04:55:20.055Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,13 +154,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "200",
-      "recommendCount": "431",
+      "recommendScore": "198",
+      "recommendCount": "433",
       "title": "[情報] RTX 5070等級以下全面買得到「老黃原價」",
       "link": "/bbs/PC_Shopping/M.1755589590.A.458",
       "author": "FT6034",
       "board": "PC_Shopping",
       "publishTime": "2025/08/19 07:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "177",
+      "recommendCount": "587",
+      "title": "Re: [新聞] 四叉貓曬柯文哲兒「環遊世界看正妹」爽照：陳佩琪重新定義家破人亡",
+      "link": "/bbs/Gossiping/M.1755652257.A.A1D",
+      "author": "cigaretteass",
+      "board": "Gossiping",
+      "publishTime": "2025/08/20 01:10",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "Wojnarowski",
       "board": "Gossiping",
       "publishTime": "2025/08/19 10:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "191",
-      "recommendCount": "293",
-      "title": "[問卦] 南部什麼都合法，那什麼是非法？",
-      "link": "/bbs/Gossiping/M.1755597864.A.A8D",
-      "author": "spiders",
-      "board": "Gossiping",
-      "publishTime": "2025/08/19 10:04",
       "imageUrl": ""
     }
   ]
