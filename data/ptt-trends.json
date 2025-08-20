@@ -1,18 +1,8 @@
 {
-  "updated": "2025-08-20T07:09:39.104Z",
+  "updated": "2025-08-20T07:21:29.540Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "612",
-      "recommendCount": "1015",
-      "title": "[問卦] 北檢檢察官跟法官的智力是不是偏低啊？",
-      "link": "/bbs/Gossiping/M.1755593792.A.3FF",
-      "author": "nicolaschen2",
-      "board": "Gossiping",
-      "publishTime": "2025/08/19 08:56",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "502",
       "recommendCount": "1124",
@@ -25,7 +15,7 @@
     },
     {
       "recommendScore": "256",
-      "recommendCount": "1134",
+      "recommendCount": "1140",
       "title": "[新聞] 詐騙多到惹怒法官！　庭上直噹被害者：能不能聰明點？",
       "link": "/bbs/Gossiping/M.1755650958.A.6AD",
       "author": "seiya2000",
@@ -34,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "366",
-      "recommendCount": "843",
+      "recommendScore": "382",
+      "recommendCount": "870",
       "title": "[問卦] 「反綠又反中」這群人怎麼稱呼？",
       "link": "/bbs/Gossiping/M.1755660698.A.D95",
       "author": "kons",
@@ -54,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "405",
-      "recommendCount": "737",
+      "recommendScore": "421",
+      "recommendCount": "761",
       "title": "[新聞] 陳聖文帶「蘭嶼水」闖國民黨部 藍發言人當場打開喝",
       "link": "/bbs/Gossiping/M.1755663023.A.FDB",
       "author": "zoeapezoo",
@@ -65,7 +55,7 @@
     },
     {
       "recommendScore": "288",
-      "recommendCount": "625",
+      "recommendCount": "628",
       "title": "[新聞] 快訊／台南前議長郭信良涉光電弊案　今晨200萬交保",
       "link": "/bbs/Gossiping/M.1755647328.A.617",
       "author": "jeff0025",
@@ -95,12 +85,22 @@
     },
     {
       "recommendScore": "191",
-      "recommendCount": "544",
+      "recommendCount": "546",
       "title": "[新聞] 快新聞／證實了！徐國勇將辭《民視》主持人、823後接民進黨秘書長　內閣小幅改組",
       "link": "/bbs/Gossiping/M.1755604943.A.5E8",
       "author": "chopper594",
       "board": "Gossiping",
       "publishTime": "2025/08/19 12:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "342",
+      "recommendCount": "647",
+      "title": "[新聞] 「1家烤肉萬家香」光電廠憤斷電　十多戶工廠同時停擺",
+      "link": "/bbs/Gossiping/M.1755661404.A.8D0",
+      "author": "rpg",
+      "board": "Gossiping",
+      "publishTime": "2025/08/20 03:43",
       "imageUrl": ""
     },
     {
@@ -114,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "321",
-      "recommendCount": "616",
-      "title": "[新聞] 「1家烤肉萬家香」光電廠憤斷電　十多戶工廠同時停擺",
-      "link": "/bbs/Gossiping/M.1755661404.A.8D0",
-      "author": "rpg",
-      "board": "Gossiping",
-      "publishTime": "2025/08/20 03:43",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "254",
       "recommendCount": "631",
       "title": "[新聞] 美商務部長倡議補助換股權！台積電ADR開盤跌2.37%",
@@ -134,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "155",
-      "recommendCount": "419",
+      "recommendScore": "157",
+      "recommendCount": "431",
       "title": "[新聞] 快訊／仙塔律師當詐團內鬼慘了！助銷贓黃金豪車　2罪起訴求刑1年",
       "link": "/bbs/Gossiping/M.1755653943.A.E49",
       "author": "qazxc1156892",
@@ -184,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "27",
-      "recommendCount": "411",
+      "recommendScore": "33",
+      "recommendCount": "418",
       "title": "[新聞] 卓榮泰：已給鄭麗君空白假單、隨時可赴美爭取疊加稅率",
       "link": "/bbs/Gossiping/M.1755660392.A.5A4",
       "author": "d8917936",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/08/19 08:53",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "207",
+      "recommendCount": "400",
+      "title": "[新聞] 陳聖文送國民黨「核料廢水」　楊智伃開瓶怒喝：不要只會作秀啦",
+      "link": "/bbs/Gossiping/M.1755662291.A.5EC",
+      "author": "novashine",
+      "board": "Gossiping",
+      "publishTime": "2025/08/20 03:58",
+      "imageUrl": "https://cache.pttweb.cc/imgur/MVEukiU/s/429bd7b9d595eef06c616a23903272da"
     }
   ]
 }
