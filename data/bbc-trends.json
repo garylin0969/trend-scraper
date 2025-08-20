@@ -1,10 +1,10 @@
 {
-  "updated": "2025-08-20T04:49:26.019Z",
+  "updated": "2025-08-20T05:22:33.512Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-08-20T04:49:23.000Z",
+    "lastBuildDate": "2025-08-20T05:22:19.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -18,20 +18,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/655c/live/eab95b60-7ce0-11f0-8302-b340557d621c.jpg"
     },
     {
+      "title": "特朗普究竟終結了多少場戰爭？",
+      "description": "美國總統特朗普聲稱自己結束了七場戰爭——這是真的嗎？",
+      "link": "https://www.bbc.com/zhongwen/articles/c860yd9jdz2o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-20T04:49:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c860yd9jdz2o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9ff4/live/1832bae0-7d32-11f0-83cc-c5da98c419b8.png"
+    },
+    {
+      "title": "朝鮮「完美無瑕」的海灘度假村——只有俄羅斯遊客能夠造訪",
+      "description": "儘管新開幕的元山葛麻度假村被宣傳為北韓促進旅遊業發展的關鍵部分，但目前除俄羅斯遊客外，不對外國人開放。到目前為止，已有兩個俄羅斯旅遊團參觀了該度假村，另一個旅遊團目前正在出發。 BBC俄語組採訪了一位到訪元山葛麻的俄羅斯遊客。",
+      "link": "https://www.bbc.com/zhongwen/articles/c9d0n4649lqo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-20T04:52:06.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c9d0n4649lqo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc8a/live/b1aaf820-777b-11f0-b15a-09fa5f596b3a.jpg"
+    },
+    {
       "title": "第二輪「大罷免」五大看點：動員冷卻了，能緩和台灣社會撕裂嗎？",
       "description": "8月23日台灣將舉行「大罷免」第二輪投票，七名國民黨立委將接受選民考驗，選區集中在台灣中部。此輪選情明顯「降溫」，民進黨也因為執政面臨「內憂外患」減少動員，預計投票結果維持「零席」被罷免。",
       "link": "https://www.bbc.com/zhongwen/articles/cwyp6wrry0vo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-08-20T03:48:24.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cwyp6wrry0vo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ae09/live/345290f0-7d74-11f0-ab3e-bd52082cd0ae.jpg"
-    },
-    {
-      "title": "華盛頓美烏高層會談：有哪些關鍵重點",
-      "description": "烏克蘭總統澤連斯基與美國總統特朗普在橢圓形辦公室的會面，成功避免了又一次災難性的對話。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1w85q7r7z0o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-19T05:04:53.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1w85q7r7z0o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dd94/live/d3115300-7cb8-11f0-bb34-39c864367b51.jpg"
     },
     {
       "title": "如何通過海床的泥土揭示南極海的秘密",
@@ -42,11 +50,19 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4be9/live/74786430-7788-11f0-907d-6ff0082c2def.jpg"
     },
     {
+      "title": "華盛頓美烏高層會談：有哪些關鍵重點",
+      "description": "烏克蘭總統澤連斯基與美國總統特朗普在橢圓形辦公室的會面，成功避免了又一次災難性的對話。",
+      "link": "https://www.bbc.com/zhongwen/articles/c1w85q7r7z0o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-19T05:04:53.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1w85q7r7z0o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dd94/live/d3115300-7cb8-11f0-bb34-39c864367b51.jpg"
+    },
+    {
       "title": "美國國務院撤銷逾6000份國際學生簽證",
       "description": "撤銷簽證涉及的違規行為包括襲擊、酒後駕駛（DUI）、入室盜竊，以及「支持恐怖主義」。",
       "link": "https://www.bbc.com/zhongwen/articles/cev27ezy1l9o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-08-19T07:14:40.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cev27ezy1l9o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cev27ezy1l9o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/299d/live/603811b0-7c5f-11f0-adbd-f7cd4f760c3f.jpg"
     },
     {
@@ -96,22 +112,6 @@
       "pubDate": "2025-08-17T09:41:17.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cdrknr1npgno/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e606/live/f1c76740-7b2c-11f0-83cc-c5da98c419b8.jpg"
-    },
-    {
-      "title": "多媒體直播回顧：黎智英勾結外國勢力案結案陳詞",
-      "description": "壹傳媒創辦人黎智英涉嫌串謀勾結外國勢力案，為香港首宗「勾結罪」審訊，8月15日開始結案陳詞，案件進入尾聲。黎智英在審訊中作供52天，先後接受控辯雙方提問，3名主審法官杜麗冰、李素蘭和李運騰亦多次就庭上援引的證供向黎發問。黎的自辯最終會否獲接納，仍取決於法官裁決。",
-      "link": "https://www.bbc.com/zhongwen/live/cp89jrd5dmqt/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-15T00:00:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/live/cp89jrd5dmqt/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cd7/live/44423830-79b4-11f0-a34f-318be3fb0481.jpg"
-    },
-    {
-      "title": "《南京照相館》與《731》：兩部抗戰電影如何重塑中國的創傷歷史記憶？",
-      "description": "戰後80年，選擇以什麼方式將中國人在20世紀所承受的戰爭苦難記憶傳承下去，被認為是一個意義重大的課題。",
-      "link": "https://www.bbc.com/zhongwen/articles/cy4d0g4q07po/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-15T04:00:54.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cy4d0g4q07po/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/696a/live/610f1df0-7984-11f0-a34f-318be3fb0481.jpg"
     },
     {
       "title": "台灣「重啟核三公投」為何引起爭議？",
@@ -194,12 +194,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e086/live/80914070-67c0-11f0-bdb3-2fec70b719ae.jpg"
     },
     {
-      "title": "分析：特朗普的調停讓歐洲和烏克蘭沮喪，先停火和先達成協議有何區別",
-      "description": "來自歐洲政界的聲音認為特朗普放棄了立即停火的想法，無疑受到普京對過去「停火破裂」的高度爭議性說法的影響。",
-      "link": "https://www.bbc.com/zhongwen/articles/cp37z52gxnjo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-17T07:55:28.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cp37z52gxnjo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d2a2/live/654b5960-7b37-11f0-a34f-318be3fb0481.jpg"
+      "title": "《南京照相館》與《731》：兩部抗戰電影如何重塑中國的創傷歷史記憶？",
+      "description": "戰後80年，選擇以什麼方式將中國人在20世紀所承受的戰爭苦難記憶傳承下去，被認為是一個意義重大的課題。",
+      "link": "https://www.bbc.com/zhongwen/articles/cy4d0g4q07po/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-15T04:00:54.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cy4d0g4q07po/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/696a/live/610f1df0-7984-11f0-a34f-318be3fb0481.jpg"
     },
     {
       "title": "台灣想成為AI產業鏈樞紐，但電力夠用嗎？",
