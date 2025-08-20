@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-20T04:39:00.837Z",
+  "updated": "2025-08-20T04:48:01.392Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "246",
-      "recommendCount": "488",
-      "title": "[爆卦] 脆：挺寬恆蓋同意！",
-      "link": "/bbs/Gossiping/M.1755578318.A.C52",
-      "author": "orange7",
-      "board": "Gossiping",
-      "publishTime": "2025/08/19 04:38",
-      "imageUrl": "https://cache.pttweb.cc/imgur/w2kquOk/s/492ef4e2f930a6b675c1c5acf87e811f"
-    },
-    {
       "recommendScore": "254",
       "recommendCount": "621",
       "title": "[新聞] 美商務部長倡議補助換股權！台積電ADR開盤跌2.37%",
@@ -201,6 +191,16 @@
       "author": "Wojnarowski",
       "board": "Gossiping",
       "publishTime": "2025/08/19 10:31",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "191",
+      "recommendCount": "293",
+      "title": "[問卦] 南部什麼都合法，那什麼是非法？",
+      "link": "/bbs/Gossiping/M.1755597864.A.A8D",
+      "author": "spiders",
+      "board": "Gossiping",
+      "publishTime": "2025/08/19 10:04",
       "imageUrl": ""
     }
   ]
