@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-20T06:21:11.206Z",
+  "updated": "2025-08-20T06:38:13.225Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "328",
+      "recommendCount": "549",
+      "title": "[情報]「台灣先生」谷月涵看好年底前還有上漲空間",
+      "link": "/bbs/Stock/M.1755611617.A.51F",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2025/08/19 13:53",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "377",
       "recommendCount": "698",
       "title": "[新聞] 陳聖文帶「蘭嶼水」闖國民黨部 藍發言人當場打開喝",
@@ -62,16 +72,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/20 04:10",
       "imageUrl": "https://cache.pttweb.cc/imgur/6nVQ4t4/s/fc7ae65a3d26f2ec7cf8df7e76f3b95e"
-    },
-    {
-      "recommendScore": "326",
-      "recommendCount": "547",
-      "title": "[情報]「台灣先生」谷月涵看好年底前還有上漲空間",
-      "link": "/bbs/Stock/M.1755611617.A.51F",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2025/08/19 13:53",
-      "imageUrl": ""
     },
     {
       "recommendScore": "282",
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "252",
+      "recommendCount": "869",
+      "title": "Re: [新聞] 四叉貓曬柯文哲兒「環遊世界看正妹」爽照：陳佩琪重新定義家破人亡",
+      "link": "/bbs/Gossiping/M.1755652257.A.A1D",
+      "author": "cigaretteass",
+      "board": "Gossiping",
+      "publishTime": "2025/08/20 01:10",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "191",
       "recommendCount": "544",
       "title": "[新聞] 快新聞／證實了！徐國勇將辭《民視》主持人、823後接民進黨秘書長　內閣小幅改組",
@@ -91,16 +101,6 @@
       "author": "chopper594",
       "board": "Gossiping",
       "publishTime": "2025/08/19 12:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "246",
-      "recommendCount": "850",
-      "title": "Re: [新聞] 四叉貓曬柯文哲兒「環遊世界看正妹」爽照：陳佩琪重新定義家破人亡",
-      "link": "/bbs/Gossiping/M.1755652257.A.A1D",
-      "author": "cigaretteass",
-      "board": "Gossiping",
-      "publishTime": "2025/08/20 01:10",
       "imageUrl": ""
     },
     {
@@ -145,7 +145,7 @@
     },
     {
       "recommendScore": "254",
-      "recommendCount": "630",
+      "recommendCount": "631",
       "title": "[新聞] 美商務部長倡議補助換股權！台積電ADR開盤跌2.37%",
       "link": "/bbs/Stock/M.1755619776.A.61D",
       "author": "keel90135",
