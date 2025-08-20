@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-20T04:55:20.055Z",
+  "updated": "2025-08-20T05:06:12.895Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "169",
-      "recommendCount": "787",
+      "recommendScore": "183",
+      "recommendCount": "885",
       "title": "[新聞] 詐騙多到惹怒法官！　庭上直噹被害者：能不能聰明點？",
       "link": "/bbs/Gossiping/M.1755650958.A.6AD",
       "author": "seiya2000",
@@ -55,7 +55,7 @@
     },
     {
       "recommendScore": "321",
-      "recommendCount": "539",
+      "recommendCount": "540",
       "title": "[情報]「台灣先生」谷月涵看好年底前還有上漲空間",
       "link": "/bbs/Stock/M.1755611617.A.51F",
       "author": "DrowningPool",
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "200",
-      "recommendCount": "540",
-      "title": "[新聞] 快新聞／國旅寒冬！疫後訪台外客暴跌33%交通部下修全年外客目標「900萬人次」",
-      "link": "/bbs/Gossiping/M.1755579458.A.ABC",
-      "author": "powderzhon",
-      "board": "Gossiping",
-      "publishTime": "2025/08/19 04:57",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "198",
       "recommendCount": "433",
       "title": "[情報] RTX 5070等級以下全面買得到「老黃原價」",
@@ -201,6 +191,16 @@
       "author": "Wojnarowski",
       "board": "Gossiping",
       "publishTime": "2025/08/19 10:31",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "191",
+      "recommendCount": "293",
+      "title": "[問卦] 南部什麼都合法，那什麼是非法？",
+      "link": "/bbs/Gossiping/M.1755597864.A.A8D",
+      "author": "spiders",
+      "board": "Gossiping",
+      "publishTime": "2025/08/19 10:04",
       "imageUrl": ""
     }
   ]
