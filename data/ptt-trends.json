@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-20T23:27:35.334Z",
+  "updated": "2025-08-20T23:35:38.646Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "506",
-      "recommendCount": "990",
+      "recommendScore": "507",
+      "recommendCount": "991",
       "title": "[新聞] 楊智伃喝掉核料廢水！陳聖文反擊「不是在辦比賽」：喝掉很光榮嗎",
       "link": "/bbs/Gossiping/M.1755676217.A.0C3",
       "author": "WuSam",
@@ -34,8 +34,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/6nVQ4t4/s/fc7ae65a3d26f2ec7cf8df7e76f3b95e"
     },
     {
-      "recommendScore": "290",
-      "recommendCount": "809",
+      "recommendScore": "294",
+      "recommendCount": "821",
       "title": "[新聞] 新北議會通過普發現金4.6萬！卓冠廷：請侯市府正視民意",
       "link": "/bbs/Gossiping/M.1755686887.A.FE9",
       "author": "eatk",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "302",
-      "recommendCount": "654",
+      "recommendCount": "656",
       "title": "[新聞] 快訊／台南前議長郭信良涉光電弊案　今晨200萬交保",
       "link": "/bbs/Gossiping/M.1755647328.A.617",
       "author": "jeff0025",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "357",
-      "recommendCount": "611",
+      "recommendScore": "359",
+      "recommendCount": "615",
       "title": "Re: [新聞] 林欽榮喊「 多給1平方就是圖利」　柯文哲律師當庭反擊：",
       "link": "/bbs/Gossiping/M.1755673882.A.D79",
       "author": "zoeapezoo",
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "144",
+      "recommendCount": "531",
+      "title": "[新聞] 酒駕肇事害命「真正終身吊照」！立院初審過關　永不得再考駕照",
+      "link": "/bbs/Gossiping/M.1755675798.A.0B5",
+      "author": "eunhailoveu",
+      "board": "Gossiping",
+      "publishTime": "2025/08/20 07:43",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "145",
       "recommendCount": "472",
       "title": "[問卦] 無照駕駛要坐牢，你真的ok?",
@@ -101,16 +111,6 @@
       "author": "zxc8424",
       "board": "Gossiping",
       "publishTime": "2025/08/20 08:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "143",
-      "recommendCount": "522",
-      "title": "[新聞] 酒駕肇事害命「真正終身吊照」！立院初審過關　永不得再考駕照",
-      "link": "/bbs/Gossiping/M.1755675798.A.0B5",
-      "author": "eunhailoveu",
-      "board": "Gossiping",
-      "publishTime": "2025/08/20 07:43",
       "imageUrl": ""
     },
     {
@@ -125,7 +125,7 @@
     },
     {
       "recommendScore": "185",
-      "recommendCount": "433",
+      "recommendCount": "436",
       "title": "[新聞] 綠完全執政超過8年　曹興誠突喊：為何不禁抖音、小紅書？",
       "link": "/bbs/Gossiping/M.1755680016.A.09E",
       "author": "alwang",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "164",
-      "recommendCount": "595",
+      "recommendScore": "161",
+      "recommendCount": "599",
       "title": "[新聞] 高鐵不再隨到隨搭　史哲：明年實施超尖峰「指定車次自由座」",
       "link": "/bbs/Stock/M.1755686629.A.14F",
       "author": "DDDDRR",
@@ -154,13 +154,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "204",
-      "recommendCount": "427",
+      "recommendScore": "206",
+      "recommendCount": "430",
       "title": "[新聞] 楊智伃喝放核廢場放1晚瓶水　陳聖文嗆「你喝不代表民眾想」：很光榮？",
       "link": "/bbs/Gossiping/M.1755684742.A.47A",
       "author": "xiaoniu",
       "board": "Gossiping",
       "publishTime": "2025/08/20 10:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "255",
+      "recommendCount": "409",
+      "title": "[新聞] 川普稱風電、太陽能發電「世紀騙局」 指控光電殘害農民",
+      "link": "/bbs/Stock/M.1755703970.A.567",
+      "author": "Kai877",
+      "board": "Stock",
+      "publishTime": "2025/08/20 15:32",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "Mapleton",
       "board": "Stock",
       "publishTime": "2025/08/20 05:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "216",
-      "recommendCount": "343",
-      "title": "[問卦] 川普：風電及太陽能是世紀詐欺",
-      "link": "/bbs/Gossiping/M.1755699506.A.98E",
-      "author": "JackYiyo",
-      "board": "Gossiping",
-      "publishTime": "2025/08/20 14:18",
       "imageUrl": ""
     }
   ]
