@@ -1,7 +1,7 @@
 {
-  "updated": "2025-08-21T18:07:36.981Z",
-  "total_found": 18,
-  "returned_count": 18,
+  "updated": "2025-08-21T18:20:04.484Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "311",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "462",
-      "recommendCount": "501",
+      "recommendScore": "466",
+      "recommendCount": "505",
       "title": "[閒聊] 快看電視",
       "link": "/bbs/C_Chat/M.1755771130.A.0C9",
       "author": "windowhihi",
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "497",
+      "recommendCount": "907",
+      "title": "[新聞] 3企業探詢加盟中職搶300萬球迷大餅 蔡其昌穩定6隊體制暫不考慮",
+      "link": "/bbs/Baseball/M.1755775694.A.560",
+      "author": "leftavoid",
+      "board": "Baseball",
+      "publishTime": "2025/08/21 11:28",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "458",
       "recommendCount": "521",
       "title": "[分享] 台鋼9/27大王席 北海道阿嬤來台",
@@ -92,16 +102,6 @@
       "board": "Baseball",
       "publishTime": "2025/08/21 10:54",
       "imageUrl": "https://cache.pttweb.cc/imgur/P3Dm44J/s/0fb29c713eeb430ed57d64d1a944b91d"
-    },
-    {
-      "recommendScore": "490",
-      "recommendCount": "897",
-      "title": "[新聞] 3企業探詢加盟中職搶300萬球迷大餅 蔡其昌穩定6隊體制暫不考慮",
-      "link": "/bbs/Baseball/M.1755775694.A.560",
-      "author": "leftavoid",
-      "board": "Baseball",
-      "publishTime": "2025/08/21 11:28",
-      "imageUrl": ""
     },
     {
       "recommendScore": "365",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "371",
-      "recommendCount": "451",
+      "recommendScore": "372",
+      "recommendCount": "452",
       "title": "Re: [閒聊] 讓小孩學鋼琴有什麼好處",
       "link": "/bbs/C_Chat/M.1755750985.A.B63",
       "author": "a1992540",
@@ -182,6 +182,26 @@
       "board": "Gossiping",
       "publishTime": "2025/08/21 03:31",
       "imageUrl": "https://cache.pttweb.cc/imgur/T9KEauZ/s/fb644561da154c7bdcdcd6f48a511a99"
+    },
+    {
+      "recommendScore": "435",
+      "recommendCount": "905",
+      "title": "[閒聊] 推特熱議：老公帶伴手禮居然是羊羹，氣死",
+      "link": "/bbs/C_Chat/M.1755741538.A.C1F",
+      "author": "LABOYS",
+      "board": "C_Chat",
+      "publishTime": "2025/08/21 01:58",
+      "imageUrl": "https://cache.pttweb.cc/imgur/QMWMTzG/s/2eaefcfc0fc55c112ab7fbe3a0d10152"
+    },
+    {
+      "recommendScore": "333",
+      "recommendCount": "353",
+      "title": "Re: [LIVE] 北聯盃 帕丘卡@洛杉磯銀河 場中",
+      "link": "/bbs/SportLottery/M.1755757019.A.BF9",
+      "author": "lotterywin",
+      "board": "SportLottery",
+      "publishTime": "2025/08/21 06:16",
+      "imageUrl": ""
     }
   ]
 }
