@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-21T03:34:29.107Z",
+  "updated": "2025-08-21T03:50:11.181Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -21,16 +21,6 @@
       "author": "eatk",
       "board": "Gossiping",
       "publishTime": "2025/08/20 10:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "414",
-      "recommendCount": "793",
-      "title": "[新聞] 「1家烤肉萬家香」光電廠憤斷電　十多戶工廠同時停擺",
-      "link": "/bbs/Gossiping/M.1755661404.A.8D0",
-      "author": "rpg",
-      "board": "Gossiping",
-      "publishTime": "2025/08/20 03:43",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "wen9008",
       "board": "Stock",
       "publishTime": "2025/08/20 04:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "171",
+      "recommendCount": "353",
+      "title": "[新聞] OpenAI執行長：AI正在泡沫化",
+      "link": "/bbs/Stock/M.1755665294.A.E16",
+      "author": "MrStone",
+      "board": "Stock",
+      "publishTime": "2025/08/20 04:48",
       "imageUrl": ""
     }
   ]
