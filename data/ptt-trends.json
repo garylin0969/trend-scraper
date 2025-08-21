@@ -1,11 +1,11 @@
 {
-  "updated": "2025-08-21T05:47:35.282Z",
+  "updated": "2025-08-21T05:54:23.076Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "310",
-      "recommendCount": "864",
+      "recommendScore": "312",
+      "recommendCount": "869",
       "title": "[新聞] 新北議會通過普發現金4.6萬！卓冠廷：請侯市府正視民意",
       "link": "/bbs/Gossiping/M.1755686887.A.FE9",
       "author": "eatk",
@@ -44,6 +44,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/mNJsv5G/s/a35b6b3db7830e008e091ad102c8445d"
     },
     {
+      "recommendScore": "181",
+      "recommendCount": "641",
+      "title": "[新聞] 行政院拍板明年軍公教確定不加薪",
+      "link": "/bbs/Gossiping/M.1755745970.A.951",
+      "author": "combo999",
+      "board": "Gossiping",
+      "publishTime": "2025/08/21 03:12",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "309",
       "recommendCount": "513",
       "title": "[新聞] 川普稱風電、太陽能發電「世紀騙局」 指控光電殘害農民",
@@ -74,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "268",
+      "recommendCount": "479",
+      "title": "[新聞] 川普轟綠能「世紀騙局」！害電價創新高",
+      "link": "/bbs/Gossiping/M.1755730008.A.3CA",
+      "author": "Workforme",
+      "board": "Gossiping",
+      "publishTime": "2025/08/20 22:46",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "188",
       "recommendCount": "443",
       "title": "[新聞] 綠完全執政超過8年　曹興誠突喊：為何不禁抖音、小紅書？",
@@ -91,16 +111,6 @@
       "author": "Waitaha",
       "board": "Gossiping",
       "publishTime": "2025/08/20 15:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "258",
-      "recommendCount": "459",
-      "title": "[新聞] 川普轟綠能「世紀騙局」！害電價創新高",
-      "link": "/bbs/Gossiping/M.1755730008.A.3CA",
-      "author": "Workforme",
-      "board": "Gossiping",
-      "publishTime": "2025/08/20 22:46",
       "imageUrl": ""
     },
     {
@@ -124,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "210",
-      "recommendCount": "436",
+      "recommendScore": "211",
+      "recommendCount": "438",
       "title": "[新聞] 楊智伃喝放核廢場放1晚瓶水　陳聖文嗆「你喝不代表民眾想」：很光榮？",
       "link": "/bbs/Gossiping/M.1755684742.A.47A",
       "author": "xiaoniu",
@@ -164,14 +174,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "188",
-      "recommendCount": "304",
+      "recommendScore": "190",
+      "recommendCount": "309",
       "title": "[問卦] 要怎麼吃牢飯？",
       "link": "/bbs/Gossiping/M.1755687295.A.8E6",
       "author": "rdadi",
       "board": "Gossiping",
       "publishTime": "2025/08/20 10:54",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "23",
+      "recommendCount": "340",
+      "title": "[問卦] Sway正式切割館長",
+      "link": "/bbs/Gossiping/M.1755689911.A.53E",
+      "author": "zoeapezoo",
+      "board": "Gossiping",
+      "publishTime": "2025/08/20 11:38",
+      "imageUrl": "https://cache.pttweb.cc/imgur/eDIrY9g/s/04a312ffdb539d0aff7b52a5364fcbe7"
     },
     {
       "recommendScore": "179",
@@ -182,26 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/21 01:18",
       "imageUrl": "https://cache.pttweb.cc/imgur/7BJJ0zn/s/8e3c35c78077bdbe9191062f92fdb0a2"
-    },
-    {
-      "recommendScore": "23",
-      "recommendCount": "336",
-      "title": "[問卦] Sway正式切割館長",
-      "link": "/bbs/Gossiping/M.1755689911.A.53E",
-      "author": "zoeapezoo",
-      "board": "Gossiping",
-      "publishTime": "2025/08/20 11:38",
-      "imageUrl": "https://cache.pttweb.cc/imgur/eDIrY9g/s/04a312ffdb539d0aff7b52a5364fcbe7"
-    },
-    {
-      "recommendScore": "201",
-      "recommendCount": "399",
-      "title": "Re: [新聞] 楊智伃一口乾核廢水！陳聖文發文怒轟「喝掉很光榮？",
-      "link": "/bbs/Gossiping/M.1755726576.A.3DF",
-      "author": "JustBecauseU",
-      "board": "Gossiping",
-      "publishTime": "2025/08/20 21:49",
-      "imageUrl": ""
     }
   ]
 }
