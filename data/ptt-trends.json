@@ -1,18 +1,8 @@
 {
-  "updated": "2025-08-21T04:10:26.998Z",
+  "updated": "2025-08-21T04:22:59.869Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "507",
-      "recommendCount": "897",
-      "title": "[新聞] 陳聖文帶「蘭嶼水」闖國民黨部 藍發言人當場打開喝",
-      "link": "/bbs/Gossiping/M.1755663023.A.FDB",
-      "author": "zoeapezoo",
-      "board": "Gossiping",
-      "publishTime": "2025/08/20 04:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/6nVQ4t4/s/fc7ae65a3d26f2ec7cf8df7e76f3b95e"
-    },
     {
       "recommendScore": "305",
       "recommendCount": "853",
@@ -174,16 +164,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/mNJsv5G/s/a35b6b3db7830e008e091ad102c8445d"
     },
     {
-      "recommendScore": "146",
-      "recommendCount": "650",
-      "title": "Re: [新聞] 川普政府「補貼換入股」　台積電回應來",
-      "link": "/bbs/Stock/M.1755663079.A.3B9",
-      "author": "wen9008",
-      "board": "Stock",
-      "publishTime": "2025/08/20 04:11",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "173",
       "recommendCount": "356",
       "title": "[新聞] OpenAI執行長：AI正在泡沫化",
@@ -202,6 +182,26 @@
       "board": "Gossiping",
       "publishTime": "2025/08/20 11:38",
       "imageUrl": "https://cache.pttweb.cc/imgur/eDIrY9g/s/04a312ffdb539d0aff7b52a5364fcbe7"
+    },
+    {
+      "recommendScore": "140",
+      "recommendCount": "1194",
+      "title": "Re: [新聞] 快新聞／扯！柯文哲不只收邱清章300萬",
+      "link": "/bbs/HatePolitics/M.1755718702.A.B31",
+      "author": "good123456",
+      "board": "HatePolitics",
+      "publishTime": "2025/08/20 19:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "185",
+      "recommendCount": "300",
+      "title": "[問卦] 要怎麼吃牢飯？",
+      "link": "/bbs/Gossiping/M.1755687295.A.8E6",
+      "author": "rdadi",
+      "board": "Gossiping",
+      "publishTime": "2025/08/20 10:54",
+      "imageUrl": ""
     }
   ]
 }
