@@ -1,7 +1,7 @@
 {
-  "updated": "2025-08-21T22:05:31.578Z",
-  "total_found": 18,
-  "returned_count": 18,
+  "updated": "2025-08-21T22:17:43.814Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "531",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "480",
-      "recommendCount": "519",
+      "recommendScore": "481",
+      "recommendCount": "520",
       "title": "[閒聊] 快看電視",
       "link": "/bbs/C_Chat/M.1755771130.A.0C9",
       "author": "windowhihi",
@@ -104,8 +104,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/P3Dm44J/s/0fb29c713eeb430ed57d64d1a944b91d"
     },
     {
-      "recommendScore": "365",
-      "recommendCount": "602",
+      "recommendScore": "366",
+      "recommendCount": "603",
       "title": "[新聞] 黃偉哲臉書貼文「地震！大家平安！」變「去死！」 市府回應了",
       "link": "/bbs/Gossiping/M.1755768252.A.85E",
       "author": "neo19",
@@ -182,6 +182,26 @@
       "board": "Gossiping",
       "publishTime": "2025/08/21 03:31",
       "imageUrl": "https://cache.pttweb.cc/imgur/T9KEauZ/s/fb644561da154c7bdcdcd6f48a511a99"
+    },
+    {
+      "recommendScore": "436",
+      "recommendCount": "906",
+      "title": "[閒聊] 推特熱議：老公帶伴手禮居然是羊羹，氣死",
+      "link": "/bbs/C_Chat/M.1755741538.A.C1F",
+      "author": "LABOYS",
+      "board": "C_Chat",
+      "publishTime": "2025/08/21 01:58",
+      "imageUrl": "https://cache.pttweb.cc/imgur/QMWMTzG/s/2eaefcfc0fc55c112ab7fbe3a0d10152"
+    },
+    {
+      "recommendScore": "-77",
+      "recommendCount": "447",
+      "title": "[新聞] 黃國昌兒子是美國籍？四叉貓質疑：台灣若出事會不會依親出國",
+      "link": "/bbs/Gossiping/M.1755744372.A.976",
+      "author": "eatk",
+      "board": "Gossiping",
+      "publishTime": "2025/08/21 02:46",
+      "imageUrl": "https://cache.pttweb.cc/imgur/8FvTCsZ/s/d78436a80b4572b5ff2e27e537b382ee"
     }
   ]
 }
