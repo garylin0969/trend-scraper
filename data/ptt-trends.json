@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-21T11:05:15.852Z",
+  "updated": "2025-08-21T11:17:15.043Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "705",
+      "recommendCount": "1436",
+      "title": "[電競] 2025 LCK Regular Season W14D2",
+      "link": "/bbs/LoL/M.1755761886.A.997",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/08/21 07:38",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "214",
       "recommendCount": "473",
       "title": "[新聞] 郭智輝喊新台幣兌美元「希望維持31元」",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/21 01:53",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "163",
-      "recommendCount": "534",
-      "title": "[新聞] 阿婆撿回收闖禍！玩具店家7千元公仔遭銷毀　顧客心碎：太離譜",
-      "link": "/bbs/Gossiping/M.1755695149.A.23E",
-      "author": "ruby00514",
-      "board": "Gossiping",
-      "publishTime": "2025/08/20 13:05",
-      "imageUrl": "https://cache.pttweb.cc/imgur/3snTCbm/s/12a3b616b0263e62f5fc979f4057e844"
     }
   ]
 }
