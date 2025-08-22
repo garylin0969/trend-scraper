@@ -1,7 +1,7 @@
 {
-  "updated": "2025-08-21T23:53:15.797Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-08-22T00:22:18.189Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "534",
@@ -192,6 +192,16 @@
       "board": "SportLottery",
       "publishTime": "2025/08/21 06:16",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "-77",
+      "recommendCount": "447",
+      "title": "[新聞] 黃國昌兒子是美國籍？四叉貓質疑：台灣若出事會不會依親出國",
+      "link": "/bbs/Gossiping/M.1755744372.A.976",
+      "author": "eatk",
+      "board": "Gossiping",
+      "publishTime": "2025/08/21 02:46",
+      "imageUrl": "https://cache.pttweb.cc/imgur/8FvTCsZ/s/d78436a80b4572b5ff2e27e537b382ee"
     }
   ]
 }
