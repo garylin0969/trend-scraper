@@ -1,22 +1,14 @@
 {
-  "updated": "2025-08-22T01:52:12.161Z",
+  "updated": "2025-08-22T02:46:26.944Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-08-22T01:52:05.000Z",
+    "lastBuildDate": "2025-08-22T02:46:23.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
-    {
-      "title": "習近平強力推進的雅魯藏布江超級水電站對中國和印度意味著什麼",
-      "description": "這個耗資1.2萬億元人民幣的水電項目不僅凸顯中國在能源和地緣政治上的雄心，也顯示了西藏在中國國家發展戰略中的重要位置。",
-      "link": "https://www.bbc.com/zhongwen/articles/c0r7x709nxeo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-21T12:00:33.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c0r7x709nxeo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ec39/live/10f7e830-7e6e-11f0-a34f-318be3fb0481.jpg"
-    },
     {
       "title": "「台灣大罷免」接近尾聲：女性為何成為這場運動的主要參與者",
       "description": "台灣正經歷震撼政壇的「大罷免運動」。在勝負之外，民間人士組織的「罷團」志工有超過一半以上是女性，甚至達到七成引起高度關注。她們為何成為罷團的骨幹？她們的訴求是什麼？",
@@ -26,20 +18,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9957/live/6bff5600-7e73-11f0-8eec-4ff8283ed204.jpg"
     },
     {
+      "title": "「鄭州同志暴力事件」親歷者接受BBC專訪：傷勢未愈，伙伴被拘",
+      "description": "5月31日，鄭州公園打人事件震驚中國，這場針對同志群體的暴力行為已持續一年有餘。該暴力事件親歷者接受BBC訪問表示，希望正義終將到來。有學者表示，同志線下交友空間萎縮影響深遠。",
+      "link": "https://www.bbc.com/zhongwen/articles/c98lmpd7d1zo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-22T02:34:02.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c98lmpd7d1zo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/abed/live/0dc9deb0-7efb-11f0-94dc-271258a7cead.jpg"
+    },
+    {
+      "title": "習近平強力推進的雅魯藏布江超級水電站對中國和印度意味著什麼",
+      "description": "這個耗資1.2萬億元人民幣的水電項目不僅凸顯中國在能源和地緣政治上的雄心，也顯示了西藏在中國國家發展戰略中的重要位置。",
+      "link": "https://www.bbc.com/zhongwen/articles/c0r7x709nxeo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-21T12:00:33.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c0r7x709nxeo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ec39/live/10f7e830-7e6e-11f0-a34f-318be3fb0481.jpg"
+    },
+    {
       "title": "拯救瀕臨滅絕的中國長江江豚",
       "description": "科學家們正在競相保護長江中被一些人視為「最重要的動物」。",
       "link": "https://www.bbc.com/zhongwen/articles/ckge95yn44xo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-08-22T00:14:05.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ckge95yn44xo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b8d/live/bf10b8d0-7d82-11f0-83cc-c5da98c419b8.jpg"
-    },
-    {
-      "title": "全球核能回潮，台灣「重啟核三」是更安全的選項嗎？",
-      "description": " 隨美國、歐盟、日本都擴大使用核能，有台灣半導體企業家公開批評「非核家園」是落後國際潮流的保守思維。台灣面臨AI用電量壓力和戰爭風險，核能真的能讓台灣變得更安全嗎？",
-      "link": "https://www.bbc.com/zhongwen/articles/clyjgwxk3dxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-20T01:25:50.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/clyjgwxk3dxo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/655c/live/eab95b60-7ce0-11f0-8302-b340557d621c.jpg"
     },
     {
       "title": "美國海軍水兵向中國出售機密被判間諜罪",
@@ -56,6 +56,14 @@
       "pubDate": "2025-08-20T03:48:24.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cwyp6wrry0vo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ae09/live/345290f0-7d74-11f0-ab3e-bd52082cd0ae.jpg"
+    },
+    {
+      "title": "全球核能回潮，台灣「重啟核三」是更安全的選項嗎？",
+      "description": " 隨美國、歐盟、日本都擴大使用核能，有台灣半導體企業家公開批評「非核家園」是落後國際潮流的保守思維。台灣面臨AI用電量壓力和戰爭風險，核能真的能讓台灣變得更安全嗎？",
+      "link": "https://www.bbc.com/zhongwen/articles/clyjgwxk3dxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-20T01:25:50.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/clyjgwxk3dxo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/655c/live/eab95b60-7ce0-11f0-8302-b340557d621c.jpg"
     },
     {
       "title": "外星人很可能存在，但短期內不會來造訪我們",
@@ -104,14 +112,6 @@
       "pubDate": "2025-08-20T08:28:26.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c05evq747p0o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f27b/live/bcb5ec00-7d9a-11f0-ab3e-bd52082cd0ae.jpg"
-    },
-    {
-      "title": "對烏克蘭的「安全保障」實際上意味著什麼？",
-      "description": "旨在防止俄羅斯再次攻擊烏克蘭的保證，這個想法本身就存在矛盾。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx2x4130y2eo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-20T07:16:18.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx2x4130y2eo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ebf2/live/1d685620-7d53-11f0-83cc-c5da98c419b8.jpg"
     },
     {
       "title": "台灣「大罷免」第二輪投票  焦點選區台中民眾怎麼想？",
@@ -202,12 +202,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/696a/live/610f1df0-7984-11f0-a34f-318be3fb0481.jpg"
     },
     {
-      "title": "華盛頓美烏高層會談：有哪些關鍵重點",
-      "description": "烏克蘭總統澤連斯基與美國總統特朗普在橢圓形辦公室的會面，成功避免了又一次災難性的對話。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1w85q7r7z0o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-19T05:04:53.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1w85q7r7z0o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dd94/live/d3115300-7cb8-11f0-bb34-39c864367b51.jpg"
+      "title": "對烏克蘭的「安全保障」實際上意味著什麼？",
+      "description": "旨在防止俄羅斯再次攻擊烏克蘭的保證，這個想法本身就存在矛盾。",
+      "link": "https://www.bbc.com/zhongwen/articles/cx2x4130y2eo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-20T07:16:18.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx2x4130y2eo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ebf2/live/1d685620-7d53-11f0-83cc-c5da98c419b8.jpg"
     },
     {
       "title": "「我們不是朋友」：二戰前夕的大屠殺，至今陰影籠罩中日關係",
