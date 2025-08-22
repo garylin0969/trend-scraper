@@ -1,25 +1,20 @@
 {
-  "updated": "2025-08-22T22:08:25.972Z",
+  "updated": "2025-08-22T22:38:20.111Z",
   "trends": [
+    {
+      "googleTrend": "west ham vs chelsea",
+      "searchVolume": "200+",
+      "started": "1 小時前"
+    },
     {
       "googleTrend": "德甲",
       "searchVolume": "200+",
       "started": "3 小時前"
     },
     {
-      "googleTrend": "west ham vs chelsea",
-      "searchVolume": "100+",
-      "started": "1 小時前"
-    },
-    {
-      "googleTrend": "美國股市",
+      "googleTrend": "道瓊指數",
       "searchVolume": "200+",
-      "started": "10 分鐘前"
-    },
-    {
-      "googleTrend": "比特幣",
-      "searchVolume": "100+",
-      "started": "1 小時前"
+      "started": "30 分鐘前"
     },
     {
       "googleTrend": "英超",
@@ -27,9 +22,14 @@
       "started": "2 小時前"
     },
     {
-      "googleTrend": "七夕",
+      "googleTrend": "比特幣",
       "searchVolume": "100+",
       "started": "1 小時前"
+    },
+    {
+      "googleTrend": "七夕",
+      "searchVolume": "100+",
+      "started": "2 小時前"
     }
   ]
 }
