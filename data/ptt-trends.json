@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-23T07:17:16.953Z",
+  "updated": "2025-08-23T07:26:39.715Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "166",
-      "recommendCount": "282",
-      "title": "[閒聊] 為什麼有這麼多偏激黑鬼滅的人？",
-      "link": "/bbs/C_Chat/M.1755847210.A.204",
-      "author": "ophster",
-      "board": "C_Chat",
-      "publishTime": "2025/08/22 07:20",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "198",
       "recommendCount": "456",
       "title": "[討論] 宋晟睿掉到二輪是誰放槍？",
@@ -202,6 +192,16 @@
       "board": "Baseball",
       "publishTime": "2025/08/22 14:35",
       "imageUrl": "https://cache.pttweb.cc/imgur/LdviK60/s/733400468d17aca1ef5dca91474d81a2"
+    },
+    {
+      "recommendScore": "142",
+      "recommendCount": "299",
+      "title": "[問卦] 拍路人公審的風氣是誰帶起來的?",
+      "link": "/bbs/Gossiping/M.1755863353.A.FD2",
+      "author": "esun1626",
+      "board": "Gossiping",
+      "publishTime": "2025/08/22 11:49",
+      "imageUrl": ""
     }
   ]
 }
