@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-23T13:36:58.141Z",
+  "updated": "2025-08-23T13:44:21.369Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "354",
+      "recommendCount": "1234",
+      "title": "[爆卦] LIVE 賴清德總統針對投票結果發表談話",
+      "link": "/bbs/Gossiping/M.1755946956.A.9FD",
+      "author": "WuSam",
+      "board": "Gossiping",
+      "publishTime": "2025/08/23 11:02",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "339",
       "recommendCount": "564",
       "title": "[問卦] 同意票三倍碾壓 應該算是贏了吧？",
@@ -41,16 +51,6 @@
       "author": "westdoorcard",
       "board": "Gossiping",
       "publishTime": "2025/08/23 09:20",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "344",
-      "recommendCount": "1207",
-      "title": "[爆卦] LIVE 賴清德總統針對投票結果發表談話",
-      "link": "/bbs/Gossiping/M.1755946956.A.9FD",
-      "author": "WuSam",
-      "board": "Gossiping",
-      "publishTime": "2025/08/23 11:02",
       "imageUrl": ""
     },
     {
@@ -64,8 +64,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ZYE0WjK/s/e38a1ba3cae9c7eaf451d1e9c94dd5e0"
     },
     {
-      "recommendScore": "223",
-      "recommendCount": "805",
+      "recommendScore": "225",
+      "recommendCount": "807",
       "title": "[新聞] 獨家》台灣關稅籌碼出爐！保證市場全面開放、台企4年投資2500億美元",
       "link": "/bbs/Gossiping/M.1755912870.A.BC4",
       "author": "semih",
@@ -84,8 +84,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "276",
-      "recommendCount": "551",
+      "recommendScore": "270",
+      "recommendCount": "578",
+      "title": "[問卦] 幹 可以好好做事了吧？",
+      "link": "/bbs/Gossiping/M.1755946112.A.6FF",
+      "author": "abc9bitedi",
+      "board": "Gossiping",
+      "publishTime": "2025/08/23 10:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "277",
+      "recommendCount": "552",
       "title": "[新聞] 罷免暨公投完成投票！賴清德晚間7時召開記者會回應",
       "link": "/bbs/Gossiping/M.1755942901.A.DB9",
       "author": "youhow0418",
@@ -94,23 +104,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "296",
-      "recommendCount": "903",
+      "recommendScore": "297",
+      "recommendCount": "907",
       "title": "[問卦] 核三公投很冷清  台灣人不愛核電嗎",
       "link": "/bbs/Gossiping/M.1755932981.A.B50",
       "author": "Audrey23",
       "board": "Gossiping",
       "publishTime": "2025/08/23 07:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "269",
-      "recommendCount": "572",
-      "title": "[問卦] 幹 可以好好做事了吧？",
-      "link": "/bbs/Gossiping/M.1755946112.A.6FF",
-      "author": "abc9bitedi",
-      "board": "Gossiping",
-      "publishTime": "2025/08/23 10:48",
       "imageUrl": ""
     },
     {
@@ -134,8 +134,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "205",
-      "recommendCount": "540",
+      "recommendScore": "-220",
+      "recommendCount": "534",
+      "title": "[新聞] 賴總統：不希望朝野對立、多團結合作的聲音 我也聽到了",
+      "link": "/bbs/Gossiping/M.1755952309.A.C91",
+      "author": "Aqqqa",
+      "board": "Gossiping",
+      "publishTime": "2025/08/23 12:31",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "210",
+      "recommendCount": "550",
       "title": "[新聞] 核三公投未過！同意票雖領先、投票率太低 廢核平台：結果不具代表性",
       "link": "/bbs/Gossiping/M.1755947308.A.7FB",
       "author": "kk30180",
@@ -174,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-185",
-      "recommendCount": "466",
-      "title": "[新聞] 賴總統：不希望朝野對立、多團結合作的聲音 我也聽到了",
-      "link": "/bbs/Gossiping/M.1755952309.A.C91",
-      "author": "Aqqqa",
-      "board": "Gossiping",
-      "publishTime": "2025/08/23 12:31",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "313",
       "recommendCount": "364",
       "title": "[分享] 今日 達比修 有",
@@ -194,8 +194,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/qCDMuyl/s/78d509b430226c7dbeb2ea1979cccbf8"
     },
     {
-      "recommendScore": "255",
-      "recommendCount": "347",
+      "recommendScore": "256",
+      "recommendCount": "348",
       "title": "[分享] 今日柯邵捷 完投七局無失分",
       "link": "/bbs/Baseball/M.1755951916.A.3CE",
       "author": "yuchiwang",
