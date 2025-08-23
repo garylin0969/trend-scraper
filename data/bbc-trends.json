@@ -1,10 +1,10 @@
 {
-  "updated": "2025-08-23T05:47:15.358Z",
+  "updated": "2025-08-23T06:23:28.670Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-08-23T05:47:10.000Z",
+    "lastBuildDate": "2025-08-23T06:23:22.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -74,6 +74,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/655c/live/eab95b60-7ce0-11f0-8302-b340557d621c.jpg"
     },
     {
+      "title": "外星人很可能存在，但短期內不會來造訪我們",
+      "description": "我們真的能相信自己是宇宙中唯一的生命嗎？可能不是，但這並不代表外星人很快就會造訪我們。這是為什麼呢？",
+      "link": "https://www.bbc.com/zhongwen/articles/crr2xvkn8gno/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-21T00:04:07.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/crr2xvkn8gno/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fb62/live/7cd5fa90-79f2-11f0-87a7-fdfee4a863a8.jpg"
+    },
+    {
       "title": "「中國漁民救了他的命」：《東極島》與二戰中被遺忘的英雄事蹟真相",
       "description": "1942年，一群中國漁民在海上拯救了數百名英軍戰俘的生命。這段過去鮮為人知的歷史，直至今天才被搬上大銀幕。",
       "link": "https://www.bbc.com/zhongwen/articles/crev1y32q4vo/trad?at_medium=RSS&at_campaign=rss",
@@ -90,14 +98,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b8d/live/bf10b8d0-7d82-11f0-83cc-c5da98c419b8.jpg"
     },
     {
-      "title": "美國海軍水兵向中國出售機密被判間諜罪",
-      "description": "該水兵被控向一名中國特工以12,000美元出售有關軍艦位置和武器的詳細信息。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn473j9xej9o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-21T03:37:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn473j9xej9o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c460/live/db3b1490-7e24-11f0-8bbb-651f72492e5b.png"
-    },
-    {
       "title": "為何頓內茨克對烏克蘭防禦如此重要？",
       "description": "對烏克蘭來說，失去頓內茨克西部將意味著失去一道防禦俄軍進一步推進的屏障。",
       "link": "https://www.bbc.com/zhongwen/articles/c78zl7vwl6do/trad?at_medium=RSS&at_campaign=rss",
@@ -106,12 +106,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3fd8/live/e90c2a40-7dd5-11f0-88a2-b9725373e32e.jpg"
     },
     {
-      "title": "外星人很可能存在，但短期內不會來造訪我們",
-      "description": "我們真的能相信自己是宇宙中唯一的生命嗎？可能不是，但這並不代表外星人很快就會造訪我們。這是為什麼呢？",
-      "link": "https://www.bbc.com/zhongwen/articles/crr2xvkn8gno/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-21T00:04:07.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crr2xvkn8gno/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fb62/live/7cd5fa90-79f2-11f0-87a7-fdfee4a863a8.jpg"
+      "title": "美國海軍水兵向中國出售機密被判間諜罪",
+      "description": "該水兵被控向一名中國特工以12,000美元出售有關軍艦位置和武器的詳細信息。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn473j9xej9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-21T03:37:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn473j9xej9o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c460/live/db3b1490-7e24-11f0-8bbb-651f72492e5b.png"
     },
     {
       "title": "台灣「大罷免」第二輪投票  焦點選區台中民眾怎麼想？",
