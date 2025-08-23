@@ -1,10 +1,10 @@
 {
-  "updated": "2025-08-23T05:21:59.353Z",
+  "updated": "2025-08-23T05:47:15.358Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-08-23T05:21:49.000Z",
+    "lastBuildDate": "2025-08-23T05:47:10.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -16,6 +16,14 @@
       "pubDate": "2025-08-22T02:34:02.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c98lmpd7d1zo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/abed/live/0dc9deb0-7efb-11f0-94dc-271258a7cead.jpg"
+    },
+    {
+      "title": "台灣第二輪大罷免：國民黨「常勝軍」面臨去留考驗，這七名立委是誰？",
+      "description": "這次的選區集中在台灣中部，台中的江啓臣、楊瓊瓔、顏寬恆成為焦點。此輪罷免對象大多是立委「常勝軍」，且好幾位出身於政治世家，其中有五位更是在2024大選中取得高於過半的得票數。",
+      "link": "https://www.bbc.com/zhongwen/articles/ckgjyz1dw22o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-18T09:34:25.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckgjyz1dw22o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/40db/live/ee0fa170-7c13-11f0-8db5-596ea140e19b.jpg"
     },
     {
       "title": "「台灣大罷免」接近尾聲：女性為何成為這場運動的主要參與者",
@@ -34,14 +42,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a88d/live/c54e4180-7f40-11f0-ab3e-bd52082cd0ae.jpg"
     },
     {
-      "title": "「中國漁民救了他的命」：《東極島》與二戰中被遺忘的英雄事蹟真相",
-      "description": "1942年，一群中國漁民在海上拯救了數百名英軍戰俘的生命。這段過去鮮為人知的歷史，直至今天才被搬上大銀幕。",
-      "link": "https://www.bbc.com/zhongwen/articles/crev1y32q4vo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-22T06:02:13.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crev1y32q4vo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e440/live/7c646ae0-7f12-11f0-a34f-318be3fb0481.jpg"
-    },
-    {
       "title": "95歲戰俘：我想回朝鮮終老",
       "description": "安學燮試圖越過邊境的行動宣告失敗，此前他已在韓國度過了大半個人生。",
       "link": "https://www.bbc.com/zhongwen/articles/cde3511d3rjo/trad?at_medium=RSS&at_campaign=rss",
@@ -58,36 +58,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ec39/live/10f7e830-7e6e-11f0-a34f-318be3fb0481.jpg"
     },
     {
-      "title": "拯救瀕臨滅絕的中國長江江豚",
-      "description": "科學家們正在競相保護長江中被一些人視為「最重要的動物」。",
-      "link": "https://www.bbc.com/zhongwen/articles/ckge95yn44xo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-22T00:14:05.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckge95yn44xo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b8d/live/bf10b8d0-7d82-11f0-83cc-c5da98c419b8.jpg"
-    },
-    {
-      "title": "「北溪2號」爆炸案：一名烏克蘭人在意大利被捕",
-      "description": "德國檢察官稱，該男子是波羅的海安置爆炸物的小組成員之一。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx2765l2gwwo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-22T03:40:17.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx2765l2gwwo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1fd5/live/143c4a80-7e7e-11f0-9e05-3dbec5559644.jpg"
-    },
-    {
       "title": "第二輪「大罷免」五大看點：動員冷卻了，能緩和台灣社會撕裂嗎？",
       "description": "8月23日台灣將舉行「大罷免」第二輪投票，七名國民黨立委將接受選民考驗，選區集中在台灣中部。此輪選情明顯「降溫」，民進黨也因為執政面臨「內憂外患」減少動員，預計投票結果維持「零席」被罷免。",
       "link": "https://www.bbc.com/zhongwen/articles/cwyp6wrry0vo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-08-20T03:48:24.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cwyp6wrry0vo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ae09/live/345290f0-7d74-11f0-ab3e-bd52082cd0ae.jpg"
-    },
-    {
-      "title": "美國海軍水兵向中國出售機密被判間諜罪",
-      "description": "該水兵被控向一名中國特工以12,000美元出售有關軍艦位置和武器的詳細信息。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn473j9xej9o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-21T03:37:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn473j9xej9o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c460/live/db3b1490-7e24-11f0-8bbb-651f72492e5b.png"
     },
     {
       "title": "全球核能回潮，台灣「重啟核三」是更安全的選項嗎？",
@@ -98,12 +74,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/655c/live/eab95b60-7ce0-11f0-8302-b340557d621c.jpg"
     },
     {
-      "title": "外星人很可能存在，但短期內不會來造訪我們",
-      "description": "我們真的能相信自己是宇宙中唯一的生命嗎？可能不是，但這並不代表外星人很快就會造訪我們。這是為什麼呢？",
-      "link": "https://www.bbc.com/zhongwen/articles/crr2xvkn8gno/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-21T00:04:07.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crr2xvkn8gno/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fb62/live/7cd5fa90-79f2-11f0-87a7-fdfee4a863a8.jpg"
+      "title": "「中國漁民救了他的命」：《東極島》與二戰中被遺忘的英雄事蹟真相",
+      "description": "1942年，一群中國漁民在海上拯救了數百名英軍戰俘的生命。這段過去鮮為人知的歷史，直至今天才被搬上大銀幕。",
+      "link": "https://www.bbc.com/zhongwen/articles/crev1y32q4vo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-22T06:02:13.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/crev1y32q4vo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e440/live/7c646ae0-7f12-11f0-a34f-318be3fb0481.jpg"
+    },
+    {
+      "title": "拯救瀕臨滅絕的中國長江江豚",
+      "description": "科學家們正在競相保護長江中被一些人視為「最重要的動物」。",
+      "link": "https://www.bbc.com/zhongwen/articles/ckge95yn44xo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-22T00:14:05.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckge95yn44xo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b8d/live/bf10b8d0-7d82-11f0-83cc-c5da98c419b8.jpg"
+    },
+    {
+      "title": "美國海軍水兵向中國出售機密被判間諜罪",
+      "description": "該水兵被控向一名中國特工以12,000美元出售有關軍艦位置和武器的詳細信息。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn473j9xej9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-21T03:37:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn473j9xej9o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c460/live/db3b1490-7e24-11f0-8bbb-651f72492e5b.png"
     },
     {
       "title": "為何頓內茨克對烏克蘭防禦如此重要？",
@@ -112,6 +104,14 @@
       "pubDate": "2025-08-21T09:43:43.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c78zl7vwl6do/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3fd8/live/e90c2a40-7dd5-11f0-88a2-b9725373e32e.jpg"
+    },
+    {
+      "title": "外星人很可能存在，但短期內不會來造訪我們",
+      "description": "我們真的能相信自己是宇宙中唯一的生命嗎？可能不是，但這並不代表外星人很快就會造訪我們。這是為什麼呢？",
+      "link": "https://www.bbc.com/zhongwen/articles/crr2xvkn8gno/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-21T00:04:07.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/crr2xvkn8gno/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fb62/live/7cd5fa90-79f2-11f0-87a7-fdfee4a863a8.jpg"
     },
     {
       "title": "台灣「大罷免」第二輪投票  焦點選區台中民眾怎麼想？",
@@ -234,14 +234,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/68f5/live/df68ce60-7260-11f0-8dbd-f3d32ebd3327.jpg"
     },
     {
-      "title": "台灣第二輪大罷免：國民黨「常勝軍」面臨去留考驗，這七名立委是誰？",
-      "description": "這次的選區集中在台灣中部，台中的江啓臣、楊瓊瓔、顏寬恆成為焦點。此輪罷免對象大多是立委「常勝軍」，且好幾位出身於政治世家，其中有五位更是在2024大選中取得高於過半的得票數。",
-      "link": "https://www.bbc.com/zhongwen/articles/ckgjyz1dw22o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-18T09:34:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckgjyz1dw22o/trad#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/40db/live/ee0fa170-7c13-11f0-8db5-596ea140e19b.jpg"
-    },
-    {
       "title": "為什麼澤連斯基不能也不會放棄克里米亞",
       "description": "當美國總統特朗普在華盛頓特區會晤烏克蘭領導人時，這片半島的命運勢必主導整場議程。",
       "link": "https://www.bbc.com/zhongwen/articles/c627d6kzwxvo/trad?at_medium=RSS&at_campaign=rss",
@@ -274,6 +266,22 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6920/live/61bcdad0-71c8-11f0-af20-030418be2ca5.png"
     },
     {
+      "title": "黎智英「勾結外國勢力」案進入結案陳詞階段　一文看懂案情進展",
+      "description": "中國香港特區高等法院再次就壹傳媒創辦人黎智英「串謀勾結外國勢力危害國家安全」案件開庭，聽取結案陳詞。BBC中文匯總拘捕到審判全過程。",
+      "link": "https://www.bbc.com/zhongwen/articles/ce93rnlvng2o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-14T04:14:30.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce93rnlvng2o/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/60e2/live/3b1f5c50-7816-11f0-8071-1788c7e8ae0e.jpg"
+    },
+    {
+      "title": "台灣產假僅八週，「延長產假」修法為何引起社會反彈？",
+      "description": "台灣女性產假只有八週，遠低於亞洲其他地區和國際標準。近期多名立法委員推動修法擬延長產假至10週至14週，卻意外地引發社會上的反對意見。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwy1nprv2pxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-18T09:39:14.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwy1nprv2pxo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5cba/live/9b9193c0-7bed-11f0-97fc-b7b923611923.jpg"
+    },
+    {
       "title": "前任跟蹤我，我開始玩「約會安全」應用程式，但最後地址被洩露",
       "description": "數千名註冊該應用程式的女性的資料外洩後，男性創建了網站和應用程式來羞辱她們。",
       "link": "https://www.bbc.com/zhongwen/articles/c8x578vvg2zo/trad?at_medium=RSS&at_campaign=rss",
@@ -296,14 +304,6 @@
       "pubDate": "2025-08-19T04:42:48.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cr743nx49yvo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/af90/live/617c9040-7cba-11f0-a34f-318be3fb0481.jpg"
-    },
-    {
-      "title": "台灣產假僅八週，「延長產假」修法為何引起社會反彈？",
-      "description": "台灣女性產假只有八週，遠低於亞洲其他地區和國際標準。近期多名立法委員推動修法擬延長產假至10週至14週，卻意外地引發社會上的反對意見。",
-      "link": "https://www.bbc.com/zhongwen/articles/cwy1nprv2pxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-18T09:39:14.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwy1nprv2pxo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5cba/live/9b9193c0-7bed-11f0-97fc-b7b923611923.jpg"
     },
     {
       "title": "如何通過海床的泥土揭示南極海的秘密",
