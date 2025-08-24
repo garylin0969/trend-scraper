@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-24T07:17:24.510Z",
+  "updated": "2025-08-24T07:27:13.395Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "287",
+      "recommendCount": "925",
+      "title": "[新聞] 選後第一槍 邱議瑩：民進黨必須檢討能源政策",
+      "link": "/bbs/Gossiping/M.1756003788.A.E65",
+      "author": "icemaydays",
+      "board": "Gossiping",
+      "publishTime": "2025/08/24 02:49",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-307",
       "recommendCount": "762",
       "title": "[新聞] 賴總統：不希望朝野對立、多團結合作的聲音 我也聽到了",
@@ -31,16 +41,6 @@
       "author": "Aqqqa",
       "board": "Gossiping",
       "publishTime": "2025/08/23 12:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "258",
-      "recommendCount": "814",
-      "title": "[新聞] 選後第一槍 邱議瑩：民進黨必須檢討能源政策",
-      "link": "/bbs/Gossiping/M.1756003788.A.E65",
-      "author": "icemaydays",
-      "board": "Gossiping",
-      "publishTime": "2025/08/24 02:49",
       "imageUrl": ""
     },
     {
@@ -124,13 +124,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "295",
-      "recommendCount": "1465",
+      "recommendScore": "297",
+      "recommendCount": "1485",
       "title": "[討論] 民進黨是那步走錯了 ？",
       "link": "/bbs/HatePolitics/M.1755988759.A.CCA",
       "author": "rs6677",
       "board": "HatePolitics",
       "publishTime": "2025/08/23 22:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "256",
+      "recommendCount": "558",
+      "title": "[問卦] 大罷免結束了 應該會好好治國了吧？",
+      "link": "/bbs/Gossiping/M.1756002679.A.1B2",
+      "author": "chiafann",
+      "board": "Gossiping",
+      "publishTime": "2025/08/24 02:31",
       "imageUrl": ""
     },
     {
@@ -144,13 +154,13 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/kwUXmgW/s/5dbab251b531ccd304f0cecbeb3929dc"
     },
     {
-      "recommendScore": "235",
-      "recommendCount": "505",
-      "title": "[問卦] 大罷免結束了 應該會好好治國了吧？",
-      "link": "/bbs/Gossiping/M.1756002679.A.1B2",
-      "author": "chiafann",
+      "recommendScore": "213",
+      "recommendCount": "525",
+      "title": "[問卦] 罷團忙了一整年接下來要幹嘛？",
+      "link": "/bbs/Gossiping/M.1755996708.A.422",
+      "author": "vestal",
       "board": "Gossiping",
-      "publishTime": "2025/08/24 02:31",
+      "publishTime": "2025/08/24 00:51",
       "imageUrl": ""
     },
     {
@@ -164,16 +174,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/yRkvmiA/s/3e666f19ba8088bf11d8a72981a48ecc"
     },
     {
-      "recommendScore": "201",
-      "recommendCount": "500",
-      "title": "[問卦] 罷團忙了一整年接下來要幹嘛？",
-      "link": "/bbs/Gossiping/M.1755996708.A.422",
-      "author": "vestal",
-      "board": "Gossiping",
-      "publishTime": "2025/08/24 00:51",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "160",
       "recommendCount": "413",
       "title": "[新聞] 卓榮泰多次請辭獲慰留　賴清德：繼續承擔重任一起守住國家",
@@ -184,23 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "265",
-      "recommendCount": "365",
-      "title": "[分享] 今日柯邵捷 完投七局無失分",
-      "link": "/bbs/Baseball/M.1755951916.A.3CE",
-      "author": "yuchiwang",
-      "board": "Baseball",
-      "publishTime": "2025/08/23 12:25",
+      "recommendScore": "94",
+      "recommendCount": "501",
+      "title": "[新聞] 陳聖文揭「公投顯示8成人民不認同」　酸爆黃國昌：應打破洋蔥頭",
+      "link": "/bbs/Gossiping/M.1756000869.A.688",
+      "author": "blue999",
+      "board": "Gossiping",
+      "publishTime": "2025/08/24 02:01",
       "imageUrl": ""
     },
     {
-      "recommendScore": "217",
-      "recommendCount": "464",
-      "title": "[新聞] 快訊／大罷免大失敗！國民黨31：0完封",
-      "link": "/bbs/Gossiping/M.1755944786.A.350",
-      "author": "neo19",
+      "recommendScore": "64",
+      "recommendCount": "458",
+      "title": "[新聞] 大罷免絕非失敗！學者曝「1觀點」勉勵台派：是尚未成功的奮戰",
+      "link": "/bbs/Gossiping/M.1755994715.A.2DA",
+      "author": "james7923",
       "board": "Gossiping",
-      "publishTime": "2025/08/23 10:26",
+      "publishTime": "2025/08/24 00:18",
       "imageUrl": ""
     }
   ]
