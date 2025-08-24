@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-24T13:23:14.742Z",
+  "updated": "2025-08-24T13:37:10.449Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,7 +74,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "294",
+      "recommendScore": "293",
       "recommendCount": "1490",
       "title": "[討論] 民進黨是那步走錯了 ？",
       "link": "/bbs/HatePolitics/M.1755988759.A.CCA",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "311",
-      "recommendCount": "582",
+      "recommendScore": "321",
+      "recommendCount": "597",
       "title": "[討論] coser:伊織萌尺度誇張 把FF當成人展",
       "link": "/bbs/C_Chat/M.1756005447.A.DF7",
       "author": "GTES",
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "117",
+      "recommendCount": "470",
+      "title": "[新聞] 鼓勵平日國旅　觀光署115年擬推獎勵措施",
+      "link": "/bbs/Stock/M.1756013232.A.613",
+      "author": "ChanHoPark",
+      "board": "Stock",
+      "publishTime": "2025/08/24 05:27",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "153",
       "recommendCount": "406",
       "title": "[新聞] 快訊／吳思瑤主張黨團幹部重組「不續任幹事長」　陳培瑜辭書記長",
@@ -174,6 +184,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/cpAV6cX/s/5b9a6e6dc564793f4823fc961fc534a4"
     },
     {
+      "recommendScore": "209",
+      "recommendCount": "336",
+      "title": "[情報] 富邦滿壘大中計",
+      "link": "/bbs/Baseball/M.1756036092.A.614",
+      "author": "jack801016",
+      "board": "Baseball",
+      "publishTime": "2025/08/24 11:48",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "171",
       "recommendCount": "561",
       "title": "[問卦] 為何前朝穩到不行，下一任卻爛到不行？",
@@ -181,26 +201,6 @@
       "author": "PVZVT",
       "board": "Gossiping",
       "publishTime": "2025/08/24 02:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "71",
-      "recommendCount": "417",
-      "title": "[新聞] 823民進黨沒輸?吳思瑤:對的事不因投票輸變錯的",
-      "link": "/bbs/Gossiping/M.1755989299.A.546",
-      "author": "PealRay",
-      "board": "Gossiping",
-      "publishTime": "2025/08/23 22:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "164",
-      "recommendCount": "516",
-      "title": "[新聞] 被鎖家門外花3.4萬！智慧門鎖故障　業者態度惹怒消費者",
-      "link": "/bbs/Gossiping/M.1755998641.A.F64",
-      "author": "ThisisLongID",
-      "board": "Gossiping",
-      "publishTime": "2025/08/24 01:24",
       "imageUrl": ""
     }
   ]
