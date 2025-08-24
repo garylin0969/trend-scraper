@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-24T22:38:29.805Z",
+  "updated": "2025-08-24T22:45:56.223Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -72,16 +72,6 @@
       "board": "C_Chat",
       "publishTime": "2025/08/24 03:17",
       "imageUrl": "https://cache.pttweb.cc/imgur/yRkvmiA/s/3e666f19ba8088bf11d8a72981a48ecc"
-    },
-    {
-      "recommendScore": "293",
-      "recommendCount": "1490",
-      "title": "[討論] 民進黨是那步走錯了 ？",
-      "link": "/bbs/HatePolitics/M.1755988759.A.CCA",
-      "author": "rs6677",
-      "board": "HatePolitics",
-      "publishTime": "2025/08/23 22:39",
-      "imageUrl": ""
     },
     {
       "recommendScore": "234",
@@ -201,6 +191,16 @@
       "author": "jack801016",
       "board": "Baseball",
       "publishTime": "2025/08/24 11:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "126",
+      "recommendCount": "384",
+      "title": "[新聞] 罷免敗！　與柯建銘被點下台　沈伯洋：別找戰犯",
+      "link": "/bbs/Gossiping/M.1756020645.A.099",
+      "author": "keel90135",
+      "board": "Gossiping",
+      "publishTime": "2025/08/24 07:30",
       "imageUrl": ""
     }
   ]
