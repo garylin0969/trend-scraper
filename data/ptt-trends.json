@@ -1,8 +1,18 @@
 {
-  "updated": "2025-08-24T07:43:12.493Z",
+  "updated": "2025-08-24T07:53:26.234Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "248",
+      "recommendCount": "1341",
+      "title": "[新聞] 全國投票率約3成 周春米：代表7成民眾不認同",
+      "link": "/bbs/Gossiping/M.1755949055.A.C39",
+      "author": "shiwenli",
+      "board": "Gossiping",
+      "publishTime": "2025/08/23 11:37",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "485",
       "recommendCount": "1242",
@@ -191,16 +201,6 @@
       "author": "blue999",
       "board": "Gossiping",
       "publishTime": "2025/08/24 02:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "64",
-      "recommendCount": "458",
-      "title": "[新聞] 大罷免絕非失敗！學者曝「1觀點」勉勵台派：是尚未成功的奮戰",
-      "link": "/bbs/Gossiping/M.1755994715.A.2DA",
-      "author": "james7923",
-      "board": "Gossiping",
-      "publishTime": "2025/08/24 00:18",
       "imageUrl": ""
     }
   ]
