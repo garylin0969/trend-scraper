@@ -1,8 +1,18 @@
 {
-  "updated": "2025-08-25T06:51:29.745Z",
+  "updated": "2025-08-25T06:59:32.934Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "452",
+      "recommendCount": "940",
+      "title": "[新聞] 柯建銘：總召任期1年 讚吳思瑤、陳培瑜表現優異將慰留",
+      "link": "/bbs/Gossiping/M.1756026397.A.81C",
+      "author": "loechen",
+      "board": "Gossiping",
+      "publishTime": "2025/08/24 09:06",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "387",
       "recommendCount": "1058",
@@ -104,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "195",
+      "recommendCount": "438",
+      "title": "[問卦] 誰家冷氣只會開26度以上？",
+      "link": "/bbs/Gossiping/M.1756086943.A.128",
+      "author": "fony1029",
+      "board": "Gossiping",
+      "publishTime": "2025/08/25 01:55",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "219",
       "recommendCount": "353",
       "title": "[情報] 富邦滿壘大中計",
@@ -174,33 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "182",
-      "recommendCount": "258",
-      "title": "[情報] 呂彥青 單局被完全打擊",
-      "link": "/bbs/Baseball/M.1756028389.A.BBE",
-      "author": "bloodbat",
-      "board": "Baseball",
-      "publishTime": "2025/08/24 09:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "150",
-      "recommendCount": "521",
-      "title": "Re: [新聞] 「臭俗辣！」桃猿應援團長失言引風波",
-      "link": "/bbs/Baseball/M.1756045751.A.BBE",
-      "author": "colin79813",
-      "board": "Baseball",
-      "publishTime": "2025/08/24 14:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "188",
-      "recommendCount": "419",
-      "title": "[問卦] 德國Emma其實是台灣本土公司?!",
-      "link": "/bbs/Gossiping/M.1756051355.A.63D",
-      "author": "nonplume",
+      "recommendScore": "29",
+      "recommendCount": "341",
+      "title": "[新聞] 快訊／恐嚇京華城案檢察官 遭起訴求刑",
+      "link": "/bbs/Gossiping/M.1756089784.A.ABE",
+      "author": "ergostepo",
       "board": "Gossiping",
-      "publishTime": "2025/08/24 16:02",
+      "publishTime": "2025/08/25 02:43",
       "imageUrl": ""
     }
   ]
