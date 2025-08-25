@@ -1,11 +1,11 @@
 {
-  "updated": "2025-08-25T14:46:23.536Z",
+  "updated": "2025-08-25T14:53:47.393Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "391",
-      "recommendCount": "1260",
+      "recommendCount": "1271",
       "title": "[新聞] 彭啓明：業者若再不處理毀損光電板　政府接手",
       "link": "/bbs/Gossiping/M.1756097367.A.C10",
       "author": "stewartqq",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "636",
-      "recommendCount": "1138",
+      "recommendScore": "707",
+      "recommendCount": "1263",
       "title": "[爆卦] 美國在台協會FB",
       "link": "/bbs/Gossiping/M.1756116633.A.6F5",
       "author": "popoallan",
@@ -34,58 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "368",
-      "recommendCount": "635",
-      "title": "[問卦] 吳宗憲:在台南不能唱屋頂 (被台南人痛罵",
-      "link": "/bbs/Gossiping/M.1756086050.A.7D8",
-      "author": "a5687920",
-      "board": "Gossiping",
-      "publishTime": "2025/08/25 01:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "296",
-      "recommendCount": "673",
-      "title": "[問卦] 誰家冷氣只會開26度以上？",
-      "link": "/bbs/Gossiping/M.1756086943.A.128",
-      "author": "fony1029",
-      "board": "Gossiping",
-      "publishTime": "2025/08/25 01:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "211",
-      "recommendCount": "763",
-      "title": "[新聞] 曝台積電工程師聯誼「固定台詞」 她嘆：像被濃縮成資產清單",
-      "link": "/bbs/Gossiping/M.1756095489.A.458",
-      "author": "crocus",
-      "board": "Gossiping",
-      "publishTime": "2025/08/25 04:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "309",
-      "recommendCount": "807",
-      "title": "[新聞] 快開學了 中小學狂缺2600位老師！鄭英耀知道嗎？",
-      "link": "/bbs/Gossiping/M.1756091003.A.FAA",
-      "author": "andonie",
-      "board": "Gossiping",
-      "publishTime": "2025/08/25 03:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "368",
-      "recommendCount": "557",
-      "title": "[新聞] 老柯笑了！傅崐萁拱柯建銘當會議主席",
-      "link": "/bbs/Gossiping/M.1756102831.A.BA3",
-      "author": "XiJinPing87",
-      "board": "Gossiping",
-      "publishTime": "2025/08/25 06:20",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "220",
-      "recommendCount": "640",
+      "recommendScore": "280",
+      "recommendCount": "783",
       "title": "[新聞] 連署過了！超過6千人附議「核廢料存放公投同意票前3名縣市」",
       "link": "/bbs/Gossiping/M.1756117264.A.F78",
       "author": "iami1002",
@@ -94,8 +44,58 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "370",
+      "recommendCount": "637",
+      "title": "[問卦] 吳宗憲:在台南不能唱屋頂 (被台南人痛罵",
+      "link": "/bbs/Gossiping/M.1756086050.A.7D8",
+      "author": "a5687920",
+      "board": "Gossiping",
+      "publishTime": "2025/08/25 01:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "299",
+      "recommendCount": "677",
+      "title": "[問卦] 誰家冷氣只會開26度以上？",
+      "link": "/bbs/Gossiping/M.1756086943.A.128",
+      "author": "fony1029",
+      "board": "Gossiping",
+      "publishTime": "2025/08/25 01:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "214",
+      "recommendCount": "778",
+      "title": "[新聞] 曝台積電工程師聯誼「固定台詞」 她嘆：像被濃縮成資產清單",
+      "link": "/bbs/Gossiping/M.1756095489.A.458",
+      "author": "crocus",
+      "board": "Gossiping",
+      "publishTime": "2025/08/25 04:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "310",
+      "recommendCount": "809",
+      "title": "[新聞] 快開學了 中小學狂缺2600位老師！鄭英耀知道嗎？",
+      "link": "/bbs/Gossiping/M.1756091003.A.FAA",
+      "author": "andonie",
+      "board": "Gossiping",
+      "publishTime": "2025/08/25 03:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "370",
+      "recommendCount": "560",
+      "title": "[新聞] 老柯笑了！傅崐萁拱柯建銘當會議主席",
+      "link": "/bbs/Gossiping/M.1756102831.A.BA3",
+      "author": "XiJinPing87",
+      "board": "Gossiping",
+      "publishTime": "2025/08/25 06:20",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "162",
-      "recommendCount": "686",
+      "recommendCount": "696",
       "title": "[問卦] 老爸只讓我繼承一間房子怎麼辦",
       "link": "/bbs/Gossiping/M.1756100292.A.D9C",
       "author": "hbkgod619",
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "223",
+      "recommendCount": "333",
+      "title": "[新聞] 德國男入獄前「臨時改性別」！蓄鬍穿女裝　獲准進女子監獄",
+      "link": "/bbs/Gossiping/M.1756117742.A.D5F",
+      "author": "JHENGKUNLIN",
+      "board": "Gossiping",
+      "publishTime": "2025/08/25 10:29",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "194",
       "recommendCount": "360",
       "title": "[新聞] 東園國小少棒奪冠 蔣萬安:孩子們，你們做到了！",
@@ -164,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "174",
+      "recommendCount": "307",
+      "title": "[新聞] 鄭麗君詢答頻跳針　羅智強八字開酸：聽君一席話如聽一席話",
+      "link": "/bbs/Gossiping/M.1756122491.A.7DD",
+      "author": "ifulita",
+      "board": "Gossiping",
+      "publishTime": "2025/08/25 11:48",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "185",
       "recommendCount": "381",
       "title": "Re: [問卦] 可以製圖但不能恐嚇很難懂嗎==",
@@ -182,26 +202,6 @@
       "board": "NBA",
       "publishTime": "2025/08/24 16:03",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "191",
-      "recommendCount": "297",
-      "title": "[新聞] 德國男入獄前「臨時改性別」！蓄鬍穿女裝　獲准進女子監獄",
-      "link": "/bbs/Gossiping/M.1756117742.A.D5F",
-      "author": "JHENGKUNLIN",
-      "board": "Gossiping",
-      "publishTime": "2025/08/25 10:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "158",
-      "recommendCount": "318",
-      "title": "[爆卦] 陸軍司令部下令全面下架/清查/修正錯誤",
-      "link": "/bbs/Gossiping/M.1756087291.A.7F3",
-      "author": "jobli",
-      "board": "Gossiping",
-      "publishTime": "2025/08/25 02:01",
-      "imageUrl": "https://cache.pttweb.cc/imgur/c5ZbjWr/s/0a25f929141c25a68c3b949e9d145d04"
     }
   ]
 }
