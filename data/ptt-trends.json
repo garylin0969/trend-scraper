@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-26T09:31:51.760Z",
+  "updated": "2025-08-26T09:45:35.537Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "118",
+      "recommendCount": "311",
+      "title": "[新聞] 築間火鍋上半年虧4千餘萬 網嘆2大原因：CP值不同了",
+      "link": "/bbs/Stock/M.1756161497.A.4E8",
+      "author": "cjol",
+      "board": "Stock",
+      "publishTime": "2025/08/25 22:38",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "133",
       "recommendCount": "307",
       "title": "[新聞] 鄭麗君證實「美規進口車0關稅」在談判範圍　盼盡快總結性會議",
@@ -192,16 +202,6 @@
       "board": "Baseball",
       "publishTime": "2025/08/25 10:11",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "126",
-      "recommendCount": "383",
-      "title": "[討論] AIT找國民黨開會談美台防衛合作",
-      "link": "/bbs/HatePolitics/M.1756117589.A.BED",
-      "author": "ozjucka",
-      "board": "HatePolitics",
-      "publishTime": "2025/08/25 10:26",
-      "imageUrl": "https://cache.pttweb.cc/imgur/hMxs8Q3/s/f6cf8f6b70da231bb5ee88c824dca7a6"
     }
   ]
 }
