@@ -1,18 +1,8 @@
 {
-  "updated": "2025-08-26T07:31:00.600Z",
+  "updated": "2025-08-26T07:39:26.595Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "577",
-      "recommendCount": "976",
-      "title": "[爆卦] 脆熱議#AI辨識到賴清德罵記者馬的",
-      "link": "/bbs/Gossiping/M.1756107031.A.149",
-      "author": "BMWi3",
-      "board": "Gossiping",
-      "publishTime": "2025/08/25 07:30",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "341",
       "recommendCount": "927",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/08/26 04:02",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "205",
+      "recommendCount": "471",
+      "title": "[閒聊] 日本人：不然你說說看餃子配飯哪裡怪？",
+      "link": "/bbs/C_Chat/M.1756186350.A.915",
+      "author": "LABOYS",
+      "board": "C_Chat",
+      "publishTime": "2025/08/26 05:32",
+      "imageUrl": "https://cache.pttweb.cc/imgur/9opkMCB/s/1e88d1a65573a9f0ba92e657ae14a1e5"
     }
   ]
 }
