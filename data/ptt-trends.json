@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-26T04:10:53.888Z",
+  "updated": "2025-08-26T04:23:31.619Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -41,16 +41,6 @@
       "author": "jordanlove",
       "board": "Gossiping",
       "publishTime": "2025/08/25 09:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "219",
-      "recommendCount": "790",
-      "title": "[新聞] 曝台積電工程師聯誼「固定台詞」 她嘆：像被濃縮成資產清單",
-      "link": "/bbs/Gossiping/M.1756095489.A.458",
-      "author": "crocus",
-      "board": "Gossiping",
-      "publishTime": "2025/08/25 04:18",
       "imageUrl": ""
     },
     {
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "172",
-      "recommendCount": "238",
-      "title": "[標的] 3017 奇鋐 員工旅遊多",
-      "link": "/bbs/Stock/M.1756095374.A.299",
-      "author": "rz2x",
-      "board": "Stock",
-      "publishTime": "2025/08/25 04:16",
+      "recommendScore": "117",
+      "recommendCount": "293",
+      "title": "[新聞] 小草製圖恐嚇院檢遭求刑7個月　民眾黨對比青鳥喊槍斃立委轟雙標",
+      "link": "/bbs/Gossiping/M.1756111078.A.300",
+      "author": "HTC92",
+      "board": "Gossiping",
+      "publishTime": "2025/08/25 08:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "191",
+      "recommendCount": "312",
+      "title": "[新聞] 快訊／經典賽中華隊教練團名單出爐　12強",
+      "link": "/bbs/Baseball/M.1756108147.A.7A0",
+      "author": "suchungzen52",
+      "board": "Baseball",
+      "publishTime": "2025/08/25 07:49",
       "imageUrl": ""
     }
   ]
