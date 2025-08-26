@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-26T08:07:56.167Z",
+  "updated": "2025-08-26T08:20:27.883Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -21,6 +21,16 @@
       "author": "jordanlove",
       "board": "Gossiping",
       "publishTime": "2025/08/25 09:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-215",
+      "recommendCount": "836",
+      "title": "[情報] LBJ：2016決賽後我意識到自己成為了GOAT",
+      "link": "/bbs/NBA/M.1756166588.A.48A",
+      "author": "fraternite",
+      "board": "NBA",
+      "publishTime": "2025/08/26 00:03",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/26 04:02",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "205",
-      "recommendCount": "471",
-      "title": "[閒聊] 日本人：不然你說說看餃子配飯哪裡怪？",
-      "link": "/bbs/C_Chat/M.1756186350.A.915",
-      "author": "LABOYS",
-      "board": "C_Chat",
-      "publishTime": "2025/08/26 05:32",
-      "imageUrl": "https://cache.pttweb.cc/imgur/9opkMCB/s/1e88d1a65573a9f0ba92e657ae14a1e5"
     }
   ]
 }
