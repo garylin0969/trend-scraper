@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-26T09:53:53.424Z",
+  "updated": "2025-08-26T10:06:26.240Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -31,6 +31,16 @@
       "author": "fraternite",
       "board": "NBA",
       "publishTime": "2025/08/26 00:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "212",
+      "recommendCount": "587",
+      "title": "[新聞] 產業出現無薪假趨勢！洪申翰澄清「應該是減班休息」",
+      "link": "/bbs/Stock/M.1756168955.A.6B5",
+      "author": "a5687920",
+      "board": "Stock",
+      "publishTime": "2025/08/26 00:42",
       "imageUrl": ""
     },
     {
@@ -84,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "204",
-      "recommendCount": "393",
+      "recommendScore": "210",
+      "recommendCount": "409",
       "title": "[新聞] 鄭麗君稱關稅戰「無產業被犧牲」　林岱樺酸：那不用通過5900億",
       "link": "/bbs/Stock/M.1756118066.A.5A1",
       "author": "qazxc1156892",
@@ -101,16 +111,6 @@
       "author": "TheoEpstein",
       "board": "NBA",
       "publishTime": "2025/08/26 01:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "193",
-      "recommendCount": "347",
-      "title": "[新聞] 鄭麗君證實「美規進口車0關稅」在談判範圍　盼盡快總結性會議",
-      "link": "/bbs/Stock/M.1756115890.A.4D0",
-      "author": "goddamnhuge",
-      "board": "Stock",
-      "publishTime": "2025/08/25 09:58",
       "imageUrl": ""
     },
     {
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "236",
+      "recommendCount": "538",
+      "title": "[閒聊] 日本人：不然你說說看餃子配飯哪裡怪？",
+      "link": "/bbs/C_Chat/M.1756186350.A.915",
+      "author": "LABOYS",
+      "board": "C_Chat",
+      "publishTime": "2025/08/26 05:32",
+      "imageUrl": "https://cache.pttweb.cc/imgur/9opkMCB/s/1e88d1a65573a9f0ba92e657ae14a1e5"
+    },
+    {
       "recommendScore": "173",
       "recommendCount": "257",
       "title": "Re: [新聞] 女網紅爆「4女1富商」泡裸湯！暈船想扶正　IG被洗版：懂",
@@ -154,8 +164,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "90",
+      "recommendCount": "379",
+      "title": "[轉錄] 林淑芬 臉書",
+      "link": "/bbs/HatePolitics/M.1756184884.A.C83",
+      "author": "CrazySept",
+      "board": "HatePolitics",
+      "publishTime": "2025/08/26 05:08",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Lw8yUAd/s/0735043f9cb58eee6b98dad1de6b1ae5"
+    },
+    {
       "recommendScore": "133",
-      "recommendCount": "307",
+      "recommendCount": "308",
       "title": "[新聞] 鄭麗君證實「美規進口車0關稅」在談判範圍　盼盡快總結性會議",
       "link": "/bbs/car/M.1756117601.A.887",
       "author": "HisVol",
@@ -182,26 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/26 04:51",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "205",
-      "recommendCount": "471",
-      "title": "[閒聊] 日本人：不然你說說看餃子配飯哪裡怪？",
-      "link": "/bbs/C_Chat/M.1756186350.A.915",
-      "author": "LABOYS",
-      "board": "C_Chat",
-      "publishTime": "2025/08/26 05:32",
-      "imageUrl": "https://cache.pttweb.cc/imgur/9opkMCB/s/1e88d1a65573a9f0ba92e657ae14a1e5"
-    },
-    {
-      "recommendScore": "89",
-      "recommendCount": "343",
-      "title": "[轉錄] 林淑芬 臉書",
-      "link": "/bbs/HatePolitics/M.1756184884.A.C83",
-      "author": "CrazySept",
-      "board": "HatePolitics",
-      "publishTime": "2025/08/26 05:08",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Lw8yUAd/s/0735043f9cb58eee6b98dad1de6b1ae5"
     }
   ]
 }
