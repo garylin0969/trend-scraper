@@ -1,11 +1,11 @@
 {
-  "updated": "2025-08-27T22:05:33.790Z",
+  "updated": "2025-08-27T22:17:21.480Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "587",
-      "recommendCount": "971",
+      "recommendScore": "609",
+      "recommendCount": "1003",
       "title": "[爆卦] 美國在台協會FB",
       "link": "/bbs/Gossiping/M.1756274581.A.BB5",
       "author": "popoallan",
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "312",
+      "recommendCount": "423",
+      "title": "[閒聊] T1是不是排毒成功了？",
+      "link": "/bbs/LoL/M.1756291794.A.4AC",
+      "author": "Holmes7",
+      "board": "LoL",
+      "publishTime": "2025/08/27 10:49",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "251",
       "recommendCount": "425",
       "title": "[新聞] 小英男孩涉賄案去年就該辦了 黃國昌爆這",
@@ -174,7 +184,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "661",
+      "recommendScore": "656",
       "recommendCount": "1437",
       "title": "[電競] 2025 LCK Regular Season W15D1",
       "link": "/bbs/LoL/M.1756279802.A.B8D",
@@ -192,16 +202,6 @@
       "board": "HatePolitics",
       "publishTime": "2025/08/27 06:05",
       "imageUrl": "https://cache.pttweb.cc/imgur/kxYJN9i/s/5de98f46b79c36236c81caf5e2e13094"
-    },
-    {
-      "recommendScore": "236",
-      "recommendCount": "415",
-      "title": "[新聞] 「小英男孩」涉貪壓案1年？北檢檢察長遭爆叫檢察官「不要動」",
-      "link": "/bbs/Gossiping/M.1756286963.A.C52",
-      "author": "metroid0104",
-      "board": "Gossiping",
-      "publishTime": "2025/08/27 09:29",
-      "imageUrl": ""
     }
   ]
 }
