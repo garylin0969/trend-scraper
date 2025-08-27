@@ -1,10 +1,10 @@
 {
-  "updated": "2025-08-26T23:47:08.599Z",
+  "updated": "2025-08-27T00:36:45.198Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-08-26T23:47:02.000Z",
+    "lastBuildDate": "2025-08-27T00:36:35.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -26,12 +26,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ccf0/live/ca978910-8154-11f0-a34f-318be3fb0481.jpg"
     },
     {
-      "title": "演練、假血與模擬飛彈：台灣如何準備應對中國大陸的進攻",
-      "description": "台灣總統正在加強防禦力量，但是多數台灣平民仍相信，中國大陸短期內攻台的可能性不大。",
-      "link": "https://www.bbc.com/zhongwen/articles/crr2vzx5g75o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-26T08:15:22.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crr2vzx5g75o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3ce5/live/dc8b52a0-8253-11f0-ab3e-bd52082cd0ae.png"
+      "title": "披頭士背後的那位伯樂：「他們的熱門歌曲、旋律、聲音我都懂」",
+      "description": "布萊恩·愛波斯坦引領披頭士樂隊從卡文俱樂部走向世界舞台。當他在58年前的這一週去世時，樂隊頓時失去了方向。",
+      "link": "https://www.bbc.com/zhongwen/articles/cj3l6j28p6po/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-27T00:23:58.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cj3l6j28p6po/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6927/live/e4155210-825c-11f0-a34f-318be3fb0481.jpg"
+    },
+    {
+      "title": "除了牛奶，還有哪些食物能改善睡眠？背後的原理是什麼？",
+      "description": "飲食與睡眠質量大有關係，但是哪些食物和飲食習慣可以幫助我們擁有良好睡眠？",
+      "link": "https://www.bbc.com/zhongwen/articles/ce3jq9e3l93o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-27T00:22:02.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce3jq9e3l93o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/542e/live/7442d590-825a-11f0-a34f-318be3fb0481.jpg"
     },
     {
       "title": "以色列襲擊加沙醫院致20人死亡，包括5名國際媒體記者",
@@ -46,7 +54,7 @@
       "description": "「爆雷」近五年後，這家陷入困境的房地產巨頭的股票於週一被香港股市摘牌。",
       "link": "https://www.bbc.com/zhongwen/articles/c4gqyrvwg3ro/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-08-25T03:31:09.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gqyrvwg3ro/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gqyrvwg3ro/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2598/live/ed5e6e00-7d80-11f0-98a0-956f61945264.jpg"
     },
     {
@@ -64,6 +72,14 @@
       "pubDate": "2025-08-26T00:18:35.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ce35eeyddleo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d7df/live/0648cc70-8101-11f0-83cc-c5da98c419b8.jpg"
+    },
+    {
+      "title": "演練、假血與模擬飛彈：台灣如何準備應對中國大陸的進攻",
+      "description": "台灣總統正在加強防禦力量，但是多數台灣平民仍相信，中國大陸短期內攻台的可能性不大。",
+      "link": "https://www.bbc.com/zhongwen/articles/crr2vzx5g75o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-26T08:15:22.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/crr2vzx5g75o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3ce5/live/dc8b52a0-8253-11f0-ab3e-bd52082cd0ae.png"
     },
     {
       "title": "歐洲「戰後最大規模圖書盜竊案」，「奪寶奇兵」瞄向俄語珍籍？",
@@ -96,22 +112,6 @@
       "pubDate": "2025-08-24T09:58:31.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c04ry7r6ep0o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a021/live/13969470-80ca-11f0-bcce-776f387155ca.jpg"
-    },
-    {
-      "title": "「鄭州同志暴力事件」親歷者接受BBC專訪：傷勢未愈，伙伴被拘",
-      "description": "5月31日，鄭州公園打人事件震驚中國，這場針對同志群體的暴力行為已持續一年有餘。該暴力事件親歷者接受BBC訪問表示，希望正義終將到來。有學者表示，同志線下交友空間萎縮影響深遠。",
-      "link": "https://www.bbc.com/zhongwen/articles/c98lmpd7d1zo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-22T02:34:02.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c98lmpd7d1zo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/abed/live/0dc9deb0-7efb-11f0-94dc-271258a7cead.jpg"
-    },
-    {
-      "title": "動物園採取性刺激方式阻止虎鯨近親繁殖",
-      "description": "在一家關閉的海洋動物園裡，一頭雄性虎鯨正接受訓練員的性刺激，以阻止它與母親近親繁殖。但此行為引起民眾關於虎鯨保護的擔憂。",
-      "link": "https://www.bbc.com/zhongwen/articles/cm2vd4yvgg4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-24T06:15:35.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm2vd4yvgg4o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8fbf/live/345772e0-80a9-11f0-ab3e-bd52082cd0ae.jpg"
     },
     {
       "title": "台灣國防預算創新高，民眾怎麼看？",
@@ -202,6 +202,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ec39/live/10f7e830-7e6e-11f0-a34f-318be3fb0481.jpg"
     },
     {
+      "title": "「鄭州同志暴力事件」親歷者接受BBC專訪：傷勢未愈，伙伴被拘",
+      "description": "5月31日，鄭州公園打人事件震驚中國，這場針對同志群體的暴力行為已持續一年有餘。該暴力事件親歷者接受BBC訪問表示，希望正義終將到來。有學者表示，同志線下交友空間萎縮影響深遠。",
+      "link": "https://www.bbc.com/zhongwen/articles/c98lmpd7d1zo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-22T02:34:02.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c98lmpd7d1zo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/abed/live/0dc9deb0-7efb-11f0-94dc-271258a7cead.jpg"
+    },
+    {
       "title": "全球核能回潮，台灣「重啟核三」是更安全的選項嗎？",
       "description": " 隨美國、歐盟、日本都擴大使用核能，有台灣半導體企業家公開批評「非核家園」是落後國際潮流的保守思維。台灣面臨AI用電量壓力和戰爭風險，核能真的能讓台灣變得更安全嗎？",
       "link": "https://www.bbc.com/zhongwen/articles/clyjgwxk3dxo/trad?at_medium=RSS&at_campaign=rss",
@@ -224,14 +232,6 @@
       "pubDate": "2025-08-22T00:14:05.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ckge95yn44xo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b8d/live/bf10b8d0-7d82-11f0-83cc-c5da98c419b8.jpg"
-    },
-    {
-      "title": "95歲戰俘：我想回朝鮮終老",
-      "description": "安學燮試圖越過邊境的行動宣告失敗，此前他已在韓國度過了大半個人生。",
-      "link": "https://www.bbc.com/zhongwen/articles/cde3511d3rjo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-22T09:15:31.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cde3511d3rjo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f4be/live/1e73c830-7eff-11f0-a34f-318be3fb0481.jpg"
     },
     {
       "title": "台灣工程師看台積電洩密：以前睜隻眼閉隻眼，現在一定要處理",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/60e2/live/3b1f5c50-7816-11f0-8071-1788c7e8ae0e.jpg"
     },
     {
+      "title": "動物園採取性刺激方式阻止虎鯨近親繁殖",
+      "description": "在一家關閉的海洋動物園裡，一頭雄性虎鯨正接受訓練員的性刺激，以阻止它與母親近親繁殖。但此行為引起民眾關於虎鯨保護的擔憂。",
+      "link": "https://www.bbc.com/zhongwen/articles/cm2vd4yvgg4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-24T06:15:35.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cm2vd4yvgg4o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8fbf/live/345772e0-80a9-11f0-ab3e-bd52082cd0ae.jpg"
+    },
+    {
       "title": "外星人很可能存在，但短期內不會來造訪我們",
       "description": "我們真的能相信自己是宇宙中唯一的生命嗎？可能不是，但這並不代表外星人很快就會造訪我們。這是為什麼呢？",
       "link": "https://www.bbc.com/zhongwen/articles/crr2xvkn8gno/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2025-08-24T05:41:18.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cwy50j4deg2o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/999a/live/a8c02810-80a5-11f0-a34f-318be3fb0481.jpg"
-    },
-    {
-      "title": "特朗普究竟終結了多少場戰爭？",
-      "description": "美國總統特朗普聲稱自己結束了七場戰爭——這是真的嗎？",
-      "link": "https://www.bbc.com/zhongwen/articles/c860yd9jdz2o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-20T04:49:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c860yd9jdz2o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9ff4/live/1832bae0-7d32-11f0-83cc-c5da98c419b8.png"
     }
   ]
 }
