@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-27T16:47:11.718Z",
+  "updated": "2025-08-27T16:55:02.233Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "661",
+      "recommendCount": "1437",
+      "title": "[電競] 2025 LCK Regular Season W15D1",
+      "link": "/bbs/LoL/M.1756279802.A.B8D",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/08/27 07:30",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "177",
       "recommendCount": "365",
       "title": "[新聞] 小英男孩鄭亦麟羈押禁見　全因他「囂張1動作」嗆檢",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/27 04:15",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "178",
-      "recommendCount": "304",
-      "title": "[新聞] 瑞莎離台馬國比賽大豐收！獲「最佳教練」率團狂奪12金5銀！",
-      "link": "/bbs/Gossiping/M.1756254410.A.B98",
-      "author": "jerryyuan",
-      "board": "Gossiping",
-      "publishTime": "2025/08/27 00:26",
-      "imageUrl": "https://cache.pttweb.cc/imgur/MoWHPy7/s/ab00304fb523a2fb3951ff97bebd964a"
     }
   ]
 }
