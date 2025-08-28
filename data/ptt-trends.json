@@ -1,18 +1,8 @@
 {
-  "updated": "2025-08-28T04:06:29.927Z",
+  "updated": "2025-08-28T04:18:13.255Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "859",
-      "recommendCount": "1124",
-      "title": "[爆卦] 地震",
-      "link": "/bbs/Gossiping/M.1756300286.A.D2E",
-      "author": "jasome",
-      "board": "Gossiping",
-      "publishTime": "2025/08/27 13:11",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "710",
       "recommendCount": "874",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/08/27 12:12",
       "imageUrl": "https://cache.pttweb.cc/imgur/veBiXxT/s/e2a78898f22daeed3d4e676a85cd33a4"
+    },
+    {
+      "recommendScore": "656",
+      "recommendCount": "1437",
+      "title": "[電競] 2025 LCK Regular Season W15D1",
+      "link": "/bbs/LoL/M.1756279802.A.B8D",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/08/27 07:30",
+      "imageUrl": ""
     }
   ]
 }
