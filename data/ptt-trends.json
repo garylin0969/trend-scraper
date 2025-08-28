@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-28T23:27:03.137Z",
+  "updated": "2025-08-28T23:34:24.514Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "248",
-      "recommendCount": "573",
-      "title": "[爆卦] 葉丙成博士論文",
-      "link": "/bbs/Gossiping/M.1756337278.A.CFB",
-      "author": "thomasya",
-      "board": "Gossiping",
-      "publishTime": "2025/08/27 23:27",
-      "imageUrl": "https://cache.pttweb.cc/imgur/GcQndje/s/20a992930c25d823ab10b5c3375d94e6"
-    },
-    {
       "recommendScore": "165",
       "recommendCount": "454",
       "title": "[新聞] 快訊／陳歐珀夫妻涉「3貪」！檢求重判24年2月　他滿頭白髮押赴北檢",
@@ -201,6 +191,16 @@
       "author": "flyhuman",
       "board": "Gossiping",
       "publishTime": "2025/08/28 01:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "225",
+      "recommendCount": "476",
+      "title": "[新聞] MLB運動家隊取消台灣少棒總教練開球　球隊公關致歉",
+      "link": "/bbs/Baseball/M.1756359455.A.263",
+      "author": "ZHUGUA",
+      "board": "Baseball",
+      "publishTime": "2025/08/28 05:37",
       "imageUrl": ""
     }
   ]
