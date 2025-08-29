@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-29T15:27:42.113Z",
+  "updated": "2025-08-29T15:35:46.547Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,6 +14,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/xHzkPVy/s/f018f21d34e31798f90f040164ee96f6"
     },
     {
+      "recommendScore": "402",
+      "recommendCount": "1417",
+      "title": "[新聞] 普發現金編10億作業費！藍白轟「比上次多7億」　財政部解答了",
+      "link": "/bbs/Gossiping/M.1756433504.A.0D2",
+      "author": "DoraGmon",
+      "board": "Gossiping",
+      "publishTime": "2025/08/29 02:11",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "385",
       "recommendCount": "1376",
       "title": "[新聞] 藍砍光文化部追加預算！林宜瑾轟大罷免後算帳：為自己蓋了棺過橋早晚的",
@@ -21,16 +31,6 @@
       "author": "iolcst",
       "board": "Gossiping",
       "publishTime": "2025/08/29 04:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "404",
-      "recommendCount": "1411",
-      "title": "[新聞] 普發現金編10億作業費！藍白轟「比上次多7億」　財政部解答了",
-      "link": "/bbs/Gossiping/M.1756433504.A.0D2",
-      "author": "DoraGmon",
-      "board": "Gossiping",
-      "publishTime": "2025/08/29 02:11",
       "imageUrl": ""
     },
     {
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "406",
-      "recommendCount": "611",
+      "recommendScore": "414",
+      "recommendCount": "630",
       "title": "Re: [新聞] 人物／師承林全、綠營門生！業者：鄭亦麟不像幕僚　更像地下老闆",
       "link": "/bbs/Gossiping/M.1756456184.A.D51",
       "author": "Hyuui",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-244",
-      "recommendCount": "592",
+      "recommendScore": "-247",
+      "recommendCount": "595",
       "title": "[新聞] 快新聞／國會現場火爆！黃國昌咆哮失控王義川怒吼反擊：你是在大聲什麼",
       "link": "/bbs/Gossiping/M.1756447387.A.108",
       "author": "LeeSeDol",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "251",
-      "recommendCount": "570",
+      "recommendScore": "252",
+      "recommendCount": "571",
       "title": "Re: [新聞] 柯文哲批「民進黨塞給我的人」作偽證 檢方嗆：誰執政犯法都要坐牢",
       "link": "/bbs/Gossiping/M.1756424730.A.35D",
       "author": "suwy",
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "149",
+      "recommendCount": "399",
+      "title": "[新聞] 藉總統專機夾帶私菸案二審 換罪名全減刑",
+      "link": "/bbs/Gossiping/M.1756443129.A.F3D",
+      "author": "stewartqq",
+      "board": "Gossiping",
+      "publishTime": "2025/08/29 04:52",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "324",
       "recommendCount": "407",
       "title": "[炸裂] Kyle Schwarber No.49",
@@ -174,34 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "146",
-      "recommendCount": "395",
-      "title": "[新聞] 藉總統專機夾帶私菸案二審 換罪名全減刑",
-      "link": "/bbs/Gossiping/M.1756443129.A.F3D",
-      "author": "stewartqq",
-      "board": "Gossiping",
-      "publishTime": "2025/08/29 04:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "183",
-      "recommendCount": "343",
-      "title": "[新聞] 柯建銘傳遭「賴清德意志」勸退! 妻哭了：都75歲了讓他當完這一屆",
-      "link": "/bbs/Gossiping/M.1756440458.A.7D6",
-      "author": "elmoman",
-      "board": "Gossiping",
-      "publishTime": "2025/08/29 04:07",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ri2Ktp1/s/21d532199ec42bb3e9fad63eded84a71"
-    },
-    {
-      "recommendScore": "183",
-      "recommendCount": "495",
+      "recommendScore": "209",
+      "recommendCount": "548",
       "title": "[問卦] 17歲時支持太陽花 覺得熱血 是不是太笨",
       "link": "/bbs/Gossiping/M.1756460994.A.E51",
       "author": "ChordMojo",
       "board": "Gossiping",
       "publishTime": "2025/08/29 09:49",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "184",
+      "recommendCount": "347",
+      "title": "[新聞] 柯建銘傳遭「賴清德意志」勸退! 妻哭了：都75歲了讓他當完這一屆",
+      "link": "/bbs/Gossiping/M.1756440458.A.7D6",
+      "author": "elmoman",
+      "board": "Gossiping",
+      "publishTime": "2025/08/29 04:07",
+      "imageUrl": "https://cache.pttweb.cc/imgur/ri2Ktp1/s/21d532199ec42bb3e9fad63eded84a71"
     }
   ]
 }
