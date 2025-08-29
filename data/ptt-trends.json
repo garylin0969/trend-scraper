@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-29T05:38:23.325Z",
+  "updated": "2025-08-29T05:45:20.729Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "225",
-      "recommendCount": "480",
-      "title": "[新聞] MLB運動家隊取消台灣少棒總教練開球　球隊公關致歉",
-      "link": "/bbs/Baseball/M.1756359455.A.263",
-      "author": "ZHUGUA",
-      "board": "Baseball",
-      "publishTime": "2025/08/28 05:37",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "210",
       "recommendCount": "381",
       "title": "[新聞] 高雄美濃地底藏大片廢棄物 地主勾結砂石業者賺黑心錢",
@@ -201,6 +191,16 @@
       "author": "bluebluelan",
       "board": "Gossiping",
       "publishTime": "2025/08/28 07:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "129",
+      "recommendCount": "377",
+      "title": "[新聞] 駁斥吳子嘉視訊會談說 政院公布鄭麗君會晤美官員照片",
+      "link": "/bbs/Gossiping/M.1756428165.A.ABF",
+      "author": "pm2001",
+      "board": "Gossiping",
+      "publishTime": "2025/08/29 00:42",
       "imageUrl": ""
     }
   ]
