@@ -1,14 +1,22 @@
 {
-  "updated": "2025-08-30T00:34:44.935Z",
+  "updated": "2025-08-30T01:08:54.696Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-08-30T00:34:36.000Z",
+    "lastBuildDate": "2025-08-30T01:08:42.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "坦克、旅遊業與作秀：為什麼金正恩與普京要赴北京？",
+      "description": "BBC韓語、俄語與中文部分析這場在北京閱兵式上，世界主要領導人會面的看點。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwye7pg2nzko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-30T00:35:13.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwye7pg2nzko/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/80c0/live/6ffbebd0-84c5-11f0-9cf6-cbf3e73ce2b9.jpg"
+    },
     {
       "title": "「規模最大」的上合天津峰會  兩個最大鄰國是否在向北京靠攏？",
       "description": "上合組織天津峰會與抗日戰爭勝利閱兵將先後舉行，世界將注視習近平將與普京和莫迪等20多位外國領導人互動。",
@@ -16,14 +24,6 @@
       "pubDate": "2025-08-29T08:14:19.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c9qyzgjr3l5o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/94d3/live/ed2d3790-84a1-11f0-b319-ab41cfc9fe62.jpg"
-    },
-    {
-      "title": "習近平安排會晤金正恩與普京，向特朗普展示手中籌碼",
-      "description": "朝鮮與俄羅斯領導人將於下週出席中國的閱兵儀式——這是習近平的一場勝利。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvg0yv9mp8go/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-28T15:42:40.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvg0yv9mp8go/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bcc5/live/86cdee50-8423-11f0-b391-6936825093bd.jpg"
     },
     {
       "title": "台灣大罷免後內閣改組，賴清德換人會換路線嗎？",
@@ -34,10 +34,10 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d83b/live/16769250-848d-11f0-a010-319ba3e5b774.jpg"
     },
     {
-      "title": "日本豐明市提議限制每日使用手機時間至兩小時引發爭議",
+      "title": "「每日最多兩小時」：日本豐明市倡限使用手機時間引發爭議",
       "description": "市長表示，該提議僅適用於工作和學習以外的時間，不會嚴格執行，而是旨在「鼓勵」居民更好地管理自己的螢幕時間。",
       "link": "https://www.bbc.com/zhongwen/articles/c2063mpr4yro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-29T09:02:49.000Z",
+      "pubDate": "2025-08-30T00:55:04.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c2063mpr4yro/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/09b3/live/f3e589a0-83ae-11f0-bf09-3f04e5569612.jpg"
     },
@@ -64,6 +64,14 @@
       "pubDate": "2025-08-28T00:19:46.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cdj20vkd9m3o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c7ad/live/02b31ad0-832b-11f0-a34f-318be3fb0481.jpg"
+    },
+    {
+      "title": "習近平安排會晤金正恩與普京，向特朗普展示手中籌碼",
+      "description": "朝鮮與俄羅斯領導人將於下週出席中國的閱兵儀式——這是習近平的一場勝利。",
+      "link": "https://www.bbc.com/zhongwen/articles/cvg0yv9mp8go/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-28T15:42:40.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvg0yv9mp8go/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bcc5/live/86cdee50-8423-11f0-b391-6936825093bd.jpg"
     },
     {
       "title": "被拒絕的一代？和領英高管討論人工智能衝擊下年輕人的求職難題",
@@ -104,14 +112,6 @@
       "pubDate": "2025-08-27T08:41:57.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cqlexx5nxe9o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6caa/live/aec26620-830b-11f0-ab3e-bd52082cd0ae.jpg"
-    },
-    {
-      "title": "台灣國防預算創新高佔GDP 3.32%，能讓美國滿意嗎？",
-      "description": "分析指，台灣此舉旨在回應美國的壓力。當局首次採用「北約模式」計算國防開支，把社會韌性、民防等相關預算都算進「廣義」的國防預算，實際上核心軍費增幅有限。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn85nywv6ppo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-26T13:06:26.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn85nywv6ppo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d1c6/live/11045940-8269-11f0-a832-3d1a9236e27e.jpg"
     },
     {
       "title": "俄羅斯導彈擊穿基輔居民樓致23人死亡  歐盟辦公室受損",
@@ -194,6 +194,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e086/live/80914070-67c0-11f0-bdb3-2fec70b719ae.jpg"
     },
     {
+      "title": "台灣國防預算創新高佔GDP 3.32%，能讓美國滿意嗎？",
+      "description": "分析指，台灣此舉旨在回應美國的壓力。當局首次採用「北約模式」計算國防開支，把社會韌性、民防等相關預算都算進「廣義」的國防預算，實際上核心軍費增幅有限。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn85nywv6ppo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-26T13:06:26.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn85nywv6ppo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d1c6/live/11045940-8269-11f0-a832-3d1a9236e27e.jpg"
+    },
+    {
       "title": "拯救中國珍稀金絲猴的戰鬥",
       "description": "BBC記者獲準進入神農架山區，中國科學家正在這裡努力拯救珍惜金絲猴。",
       "link": "https://www.bbc.com/zhongwen/articles/cvg0jzve0reo/trad?at_medium=RSS&at_campaign=rss",
@@ -208,14 +216,6 @@
       "pubDate": "2025-08-26T08:15:22.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/crr2vzx5g75o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3ce5/live/dc8b52a0-8253-11f0-ab3e-bd52082cd0ae.png"
-    },
-    {
-      "title": "「大罷免」失敗後的台灣政局：藍白綠未來兩年的走向將會如何？",
-      "description": "台灣「大罷免」以失敗告終，立法院未來將會繼續「朝小野大」的局面。這是否意味藍綠陣營的政治僵局將無法打破？三大政黨又在這場政治運動中得到和失去了什麼？",
-      "link": "https://www.bbc.com/zhongwen/articles/cj4wp0rek74o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-23T16:05:04.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cj4wp0rek74o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a6de/live/749fa020-802c-11f0-b1b6-55b80ab19c47.jpg"
     },
     {
       "title": "習近平強力推進的雅魯藏布江超級水電站對中國和印度意味著什麼",
