@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-30T15:53:38.650Z",
+  "updated": "2025-08-30T16:05:36.606Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "317",
+      "recommendCount": "442",
+      "title": "[分享] 今日林暉盛",
+      "link": "/bbs/Elephants/M.1756556026.A.C10",
+      "author": "nanashin",
+      "board": "Elephants",
+      "publishTime": "2025/08/30 12:13",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "142",
       "recommendCount": "478",
       "title": "[新聞] 快訊／台電轉虧為盈了！上月賺196億元",
@@ -91,16 +101,6 @@
       "author": "zoeapezoo",
       "board": "Gossiping",
       "publishTime": "2025/08/30 08:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "314",
-      "recommendCount": "437",
-      "title": "[分享] 今日林暉盛",
-      "link": "/bbs/Elephants/M.1756556026.A.C10",
-      "author": "nanashin",
-      "board": "Elephants",
-      "publishTime": "2025/08/30 12:13",
       "imageUrl": ""
     },
     {
@@ -134,18 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "153",
-      "recommendCount": "418",
-      "title": "[新聞] 嘉義3.5萬片光電板未清！ 彭啓明延至9/5：最後期限",
-      "link": "/bbs/Gossiping/M.1756483157.A.9AC",
-      "author": "turndown4wat",
-      "board": "Gossiping",
-      "publishTime": "2025/08/29 15:59",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "286",
-      "recommendCount": "347",
+      "recommendScore": "290",
+      "recommendCount": "351",
       "title": "[分享] 今日CPBL三地人數 三地破萬史上單日新高",
       "link": "/bbs/Baseball/M.1756554269.A.35C",
       "author": "cho840929",
@@ -201,6 +191,16 @@
       "author": "hsuaninteen",
       "board": "Elephants",
       "publishTime": "2025/08/30 11:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "132",
+      "recommendCount": "447",
+      "title": "[新聞] 衝突落幕！總統府代表接受陳情　民眾黨6小時抗爭宣告結束",
+      "link": "/bbs/Gossiping/M.1756533241.A.20F",
+      "author": "Calcifer",
+      "board": "Gossiping",
+      "publishTime": "2025/08/30 05:54",
       "imageUrl": ""
     }
   ]
