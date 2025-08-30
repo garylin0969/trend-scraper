@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-30T12:38:38.120Z",
+  "updated": "2025-08-30T12:54:27.609Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,6 +14,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "307",
+      "recommendCount": "791",
+      "title": "[問卦] 脆：有罷團志工走掉了...",
+      "link": "/bbs/Gossiping/M.1756540692.A.462",
+      "author": "westdoorcard",
+      "board": "Gossiping",
+      "publishTime": "2025/08/30 07:58",
+      "imageUrl": "https://cache.pttweb.cc/imgur/F9hNj3w/s/b7123e066c152e93e81142de79bab88c"
+    },
+    {
       "recommendScore": "416",
       "recommendCount": "733",
       "title": "[爆卦] 陳椒華正式收到台南市警察局通知書 9月到案說明",
@@ -22,16 +32,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/30 01:46",
       "imageUrl": "https://cache.pttweb.cc/imgur/wXyR0De/s/4b8c575456c6aa9db89b9f659544813a"
-    },
-    {
-      "recommendScore": "281",
-      "recommendCount": "733",
-      "title": "[問卦] 脆：有罷團志工走掉了...",
-      "link": "/bbs/Gossiping/M.1756540692.A.462",
-      "author": "westdoorcard",
-      "board": "Gossiping",
-      "publishTime": "2025/08/30 07:58",
-      "imageUrl": "https://cache.pttweb.cc/imgur/F9hNj3w/s/b7123e066c152e93e81142de79bab88c"
     },
     {
       "recommendScore": "215",
@@ -84,14 +84,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "223",
-      "recommendCount": "452",
-      "title": "[新聞] 民調大崩盤!南部綠票倉翻轉 賴清德信任創新低 他驚呼:完蛋了",
-      "link": "/bbs/Gossiping/M.1756471311.A.465",
-      "author": "super5566go",
+      "recommendScore": "152",
+      "recommendCount": "606",
+      "title": "[問卦] 脆熱議：被砍光，誰還能無怨無悔繼續創作",
+      "link": "/bbs/Gossiping/M.1756551493.A.503",
+      "author": "a0802459",
       "board": "Gossiping",
-      "publishTime": "2025/08/29 12:41",
-      "imageUrl": ""
+      "publishTime": "2025/08/30 10:58",
+      "imageUrl": "https://cache.pttweb.cc/imgur/ypDOOiw/s/395a83326ad7c0c67ce11e30bfd09fa8"
     },
     {
       "recommendScore": "322",
@@ -115,7 +115,7 @@
     },
     {
       "recommendScore": "176",
-      "recommendCount": "434",
+      "recommendCount": "435",
       "title": "[問卦] 為啥台灣生育率會搞到世界第一低?哪出錯?",
       "link": "/bbs/Gossiping/M.1756478629.A.FBB",
       "author": "ptt987654321",
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "691",
-      "recommendCount": "1436",
-      "title": "[電競] 2025 LCK Regular Season W15D4",
-      "link": "/bbs/LoL/M.1756531977.A.0F9",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2025/08/30 05:32",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "215",
       "recommendCount": "415",
       "title": "[新聞] 車禍斷電無法逃 車主 2760度高溫燒死",
@@ -182,6 +172,16 @@
       "board": "Gossiping",
       "publishTime": "2025/08/29 13:22",
       "imageUrl": "https://cache.pttweb.cc/imgur/WRaOeAh/s/1543fee3852c4aed4b364b8bc09df837"
+    },
+    {
+      "recommendScore": "748",
+      "recommendCount": "1436",
+      "title": "[電競] 2025 LCK Regular Season W15D4",
+      "link": "/bbs/LoL/M.1756531977.A.0F9",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/08/30 05:32",
+      "imageUrl": ""
     },
     {
       "recommendScore": "160",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-130",
-      "recommendCount": "359",
-      "title": "[爆卦] 黃國昌對警察勒脖",
-      "link": "/bbs/Gossiping/M.1756531767.A.0CC",
-      "author": "shirleyEchi",
-      "board": "Gossiping",
-      "publishTime": "2025/08/30 05:29",
+      "recommendScore": "342",
+      "recommendCount": "1068",
+      "title": "[轉播] 八局下 兄弟4：2味全",
+      "link": "/bbs/Elephants/M.1756554171.A.D00",
+      "author": "hsuaninteen",
+      "board": "Elephants",
+      "publishTime": "2025/08/30 11:42",
       "imageUrl": ""
     }
   ]
