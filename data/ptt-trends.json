@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-30T14:27:21.950Z",
+  "updated": "2025-08-30T14:35:16.243Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "297",
-      "recommendCount": "419",
+      "recommendScore": "307",
+      "recommendCount": "430",
       "title": "[分享] 今日林暉盛",
       "link": "/bbs/Elephants/M.1756556026.A.C10",
       "author": "nanashin",
@@ -111,6 +111,16 @@
       "author": "zoeapezoo",
       "board": "Gossiping",
       "publishTime": "2025/08/30 08:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "136",
+      "recommendCount": "503",
+      "title": "[新聞] 影／黃國昌召近千名小草拆護欄...8警傷 北市警：違集遊法、報檢察官偵辦",
+      "link": "/bbs/Gossiping/M.1756550217.A.0D8",
+      "author": "JinCheng5566",
+      "board": "Gossiping",
+      "publishTime": "2025/08/30 10:36",
       "imageUrl": ""
     },
     {
@@ -134,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "123",
-      "recommendCount": "472",
-      "title": "[新聞] 影／黃國昌召近千名小草拆護欄...8警傷 北市警：違集遊法、報檢察官偵辦",
-      "link": "/bbs/Gossiping/M.1756550217.A.0D8",
-      "author": "JinCheng5566",
-      "board": "Gossiping",
-      "publishTime": "2025/08/30 10:36",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "188",
       "recommendCount": "379",
       "title": "[問卦] 台灣，有人蓋社會住宅嗎= =.....?",
@@ -162,6 +162,16 @@
       "board": "Gossiping",
       "publishTime": "2025/08/29 14:43",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "272",
+      "recommendCount": "330",
+      "title": "[分享] 今日CPBL三地人數 三地破萬史上單日新高",
+      "link": "/bbs/Baseball/M.1756554269.A.35C",
+      "author": "cho840929",
+      "board": "Baseball",
+      "publishTime": "2025/08/30 11:44",
+      "imageUrl": "https://cache.pttweb.cc/imgur/UiHFHTJ/s/46a7de98e5798297fdd57ae6609d3413"
     },
     {
       "recommendScore": "252",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/30 00:17",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "261",
-      "recommendCount": "317",
-      "title": "[分享] 今日CPBL三地人數 三地破萬史上單日新高",
-      "link": "/bbs/Baseball/M.1756554269.A.35C",
-      "author": "cho840929",
-      "board": "Baseball",
-      "publishTime": "2025/08/30 11:44",
-      "imageUrl": "https://cache.pttweb.cc/imgur/UiHFHTJ/s/46a7de98e5798297fdd57ae6609d3413"
     }
   ]
 }
