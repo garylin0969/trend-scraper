@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-30T04:53:55.694Z",
+  "updated": "2025-08-30T05:05:15.135Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "625",
+      "recommendCount": "1327",
+      "title": "[爆卦] 政府把總統府路封起來不給走人行道",
+      "link": "/bbs/Gossiping/M.1756514389.A.5E8",
+      "author": "Ryan1994",
+      "board": "Gossiping",
+      "publishTime": "2025/08/30 00:39",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "444",
-      "recommendCount": "676",
+      "recommendCount": "677",
       "title": "Re: [新聞] 人物／師承林全、綠營門生！業者：鄭亦麟不像幕僚　更像地下老闆",
       "link": "/bbs/Gossiping/M.1756456184.A.D51",
       "author": "Hyuui",
@@ -44,16 +54,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "418",
-      "recommendCount": "729",
-      "title": "[爆卦] 政府把總統府路封起來不給走人行道",
-      "link": "/bbs/Gossiping/M.1756514389.A.5E8",
-      "author": "Ryan1994",
-      "board": "Gossiping",
-      "publishTime": "2025/08/30 00:39",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-253",
       "recommendCount": "603",
       "title": "[新聞] 快新聞／國會現場火爆！黃國昌咆哮失控王義川怒吼反擊：你是在大聲什麼",
@@ -62,6 +62,16 @@
       "board": "Gossiping",
       "publishTime": "2025/08/29 06:03",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "290",
+      "recommendCount": "513",
+      "title": "[爆卦] 陳椒華正式收到台南市警察局通知書 9月到案說明",
+      "link": "/bbs/Gossiping/M.1756518403.A.EE2",
+      "author": "WuSam",
+      "board": "Gossiping",
+      "publishTime": "2025/08/30 01:46",
+      "imageUrl": "https://cache.pttweb.cc/imgur/wXyR0De/s/4b8c575456c6aa9db89b9f659544813a"
     },
     {
       "recommendScore": "281",
@@ -184,18 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "241",
-      "recommendCount": "424",
-      "title": "[閒聊]各位鄉民手上還有微星的4090有危了",
-      "link": "/bbs/PC_Shopping/M.1756463024.A.0E7",
-      "author": "Koogeal",
-      "board": "PC_Shopping",
-      "publishTime": "2025/08/29 10:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "206",
-      "recommendCount": "284",
+      "recommendScore": "224",
+      "recommendCount": "314",
       "title": "Re: [新聞] 呱吉「我不介意600萬標案的謊言」　黃士修：活像沒出過社會的屁孩",
       "link": "/bbs/Gossiping/M.1756489848.A.C91",
       "author": "Hyuui",
