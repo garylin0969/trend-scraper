@@ -1,11 +1,11 @@
 {
-  "updated": "2025-08-31T03:13:29.467Z",
+  "updated": "2025-08-31T03:33:43.279Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "366",
-      "recommendCount": "1485",
+      "recommendScore": "367",
+      "recommendCount": "1486",
       "title": "[問卦] 脆熱議：被砍光，誰還能無怨無悔繼續創作",
       "link": "/bbs/Gossiping/M.1756551493.A.503",
       "author": "a0802459",
@@ -24,8 +24,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/F9hNj3w/s/b7123e066c152e93e81142de79bab88c"
     },
     {
-      "recommendScore": "263",
-      "recommendCount": "862",
+      "recommendScore": "262",
+      "recommendCount": "866",
       "title": "[新聞] 柯建銘：繼續努力讓「賣台、槍殺台灣人」的國民黨走入歷史",
       "link": "/bbs/Gossiping/M.1756543685.A.0EF",
       "author": "lamigo",
@@ -44,16 +44,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/apkEKTY/s/1f9c6c4eec15cdd8fbdb8924409f3c4a"
     },
     {
-      "recommendScore": "368",
-      "recommendCount": "712",
-      "title": "[新聞] 快新聞／日本大量太陽能光電板壽命將至！　回收費用由誰買單仍無共識",
-      "link": "/bbs/Gossiping/M.1756524219.A.BE0",
-      "author": "Sinreigensou",
-      "board": "Gossiping",
-      "publishTime": "2025/08/30 03:23",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "409",
       "recommendCount": "417",
       "title": "[問卦] 今天生日，發錢！",
@@ -61,6 +51,16 @@
       "author": "cscc0831",
       "board": "Gossiping",
       "publishTime": "2025/08/30 16:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "374",
+      "recommendCount": "845",
+      "title": "[討論] 今天大巨蛋的賽後嘉賓真的是世代差距",
+      "link": "/bbs/Baseball/M.1756571611.A.023",
+      "author": "sevenzgod",
+      "board": "Baseball",
+      "publishTime": "2025/08/30 16:33",
       "imageUrl": ""
     },
     {
@@ -74,18 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "352",
-      "recommendCount": "799",
-      "title": "[討論] 今天大巨蛋的賽後嘉賓真的是世代差距",
-      "link": "/bbs/Baseball/M.1756571611.A.023",
-      "author": "sevenzgod",
-      "board": "Baseball",
-      "publishTime": "2025/08/30 16:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "167",
-      "recommendCount": "559",
+      "recommendScore": "166",
+      "recommendCount": "562",
       "title": "[新聞] 影／黃國昌召近千名小草拆護欄...8警傷 北市警：違集遊法、報檢察官偵辦",
       "link": "/bbs/Gossiping/M.1756550217.A.0D8",
       "author": "JinCheng5566",
@@ -115,12 +105,22 @@
     },
     {
       "recommendScore": "254",
-      "recommendCount": "478",
+      "recommendCount": "479",
       "title": "[新聞] 影／黃國昌「伸手勒員警脖子」？影像畫面曝光 當事人也發聲了",
       "link": "/bbs/Gossiping/M.1756560523.A.9F9",
       "author": "zxcelephant",
       "board": "Gossiping",
       "publishTime": "2025/08/30 13:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "202",
+      "recommendCount": "427",
+      "title": "[新聞] 高雄美濃驚見「大峽谷」　不法集團開挖「廢土」換「良土」海撈3億",
+      "link": "/bbs/Gossiping/M.1756567002.A.F4B",
+      "author": "yimoe",
+      "board": "Gossiping",
+      "publishTime": "2025/08/30 15:16",
       "imageUrl": ""
     },
     {
@@ -132,16 +132,6 @@
       "board": "Baseball",
       "publishTime": "2025/08/30 11:44",
       "imageUrl": "https://cache.pttweb.cc/imgur/UiHFHTJ/s/46a7de98e5798297fdd57ae6609d3413"
-    },
-    {
-      "recommendScore": "198",
-      "recommendCount": "409",
-      "title": "[新聞] 高雄美濃驚見「大峽谷」　不法集團開挖「廢土」換「良土」海撈3億",
-      "link": "/bbs/Gossiping/M.1756567002.A.F4B",
-      "author": "yimoe",
-      "board": "Gossiping",
-      "publishTime": "2025/08/30 15:16",
-      "imageUrl": ""
     },
     {
       "recommendScore": "350",
@@ -201,6 +191,16 @@
       "author": "hsuaninteen",
       "board": "Elephants",
       "publishTime": "2025/08/30 11:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-132",
+      "recommendCount": "369",
+      "title": "[爆卦] 黃國昌對警察勒脖",
+      "link": "/bbs/Gossiping/M.1756531767.A.0CC",
+      "author": "shirleyEchi",
+      "board": "Gossiping",
+      "publishTime": "2025/08/30 05:29",
       "imageUrl": ""
     }
   ]
