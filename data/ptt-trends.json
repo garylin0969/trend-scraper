@@ -1,11 +1,11 @@
 {
-  "updated": "2025-08-31T11:43:35.586Z",
+  "updated": "2025-08-31T11:53:29.823Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "589",
-      "recommendCount": "717",
+      "recommendScore": "595",
+      "recommendCount": "723",
       "title": "[情報] Jeremy Lin 林書豪 退休",
       "link": "/bbs/NBA/M.1756599894.A.AA9",
       "author": "ianchou19",
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "304",
-      "recommendCount": "369",
-      "title": "[分享] 今日CPBL三地人數 三地破萬史上單日新高",
-      "link": "/bbs/Baseball/M.1756554269.A.35C",
-      "author": "cho840929",
-      "board": "Baseball",
-      "publishTime": "2025/08/30 11:44",
-      "imageUrl": "https://cache.pttweb.cc/imgur/UiHFHTJ/s/46a7de98e5798297fdd57ae6609d3413"
-    },
-    {
       "recommendScore": "165",
       "recommendCount": "481",
       "title": "[新聞] 數位身分證換發暫緩 年燒千萬元維護挨轟",
@@ -124,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "225",
-      "recommendCount": "515",
+      "recommendScore": "228",
+      "recommendCount": "519",
       "title": "Re: [新聞] 獨／卓揆呼籲「開大水龍頭」 金管會9月1日找八大行庫總座開會",
       "link": "/bbs/Stock/M.1756572301.A.123",
       "author": "gv390",
@@ -135,12 +125,22 @@
     },
     {
       "recommendScore": "152",
-      "recommendCount": "384",
+      "recommendCount": "385",
       "title": "[新聞] 獨／卓揆呼籲「開大水龍頭」 金管會9月1日找八大行庫總座開會",
       "link": "/bbs/Stock/M.1756570047.A.F98",
       "author": "troy30408",
       "board": "Stock",
       "publishTime": "2025/08/30 16:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "132",
+      "recommendCount": "363",
+      "title": "[問卦] 志祺七七為什麼最近10幾部影片這麼少觀看",
+      "link": "/bbs/Gossiping/M.1756565914.A.34B",
+      "author": "CenaC",
+      "board": "Gossiping",
+      "publishTime": "2025/08/30 14:58",
       "imageUrl": ""
     },
     {
@@ -151,16 +151,6 @@
       "author": "teeo",
       "board": "Gossiping",
       "publishTime": "2025/08/31 00:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "133",
-      "recommendCount": "362",
-      "title": "[問卦] 志祺七七為什麼最近10幾部影片這麼少觀看",
-      "link": "/bbs/Gossiping/M.1756565914.A.34B",
-      "author": "CenaC",
-      "board": "Gossiping",
-      "publishTime": "2025/08/30 14:58",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "turndown4wat",
       "board": "Gossiping",
       "publishTime": "2025/08/30 15:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "10",
+      "recommendCount": "568",
+      "title": "[討論] 藍白刪除文化部預算單位公布",
+      "link": "/bbs/HatePolitics/M.1756609625.A.B90",
+      "author": "DosTaLiCa",
+      "board": "HatePolitics",
+      "publishTime": "2025/08/31 03:07",
       "imageUrl": ""
     }
   ]
