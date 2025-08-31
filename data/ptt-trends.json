@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-31T12:21:11.686Z",
+  "updated": "2025-08-31T12:38:46.018Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-207",
+      "recommendCount": "307",
+      "title": "[分享] 象魯閣",
+      "link": "/bbs/Baseball/M.1756636193.A.83E",
+      "author": "a27695961",
+      "board": "Baseball",
+      "publishTime": "2025/08/31 10:29",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "144",
       "recommendCount": "728",
       "title": "[問卦] 為何老一輩都懷念日本殖民的好",
@@ -144,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "152",
-      "recommendCount": "385",
+      "recommendScore": "153",
+      "recommendCount": "388",
       "title": "[新聞] 獨／卓揆呼籲「開大水龍頭」 金管會9月1日找八大行庫總座開會",
       "link": "/bbs/Stock/M.1756570047.A.F98",
       "author": "troy30408",
@@ -155,12 +165,32 @@
     },
     {
       "recommendScore": "132",
-      "recommendCount": "363",
+      "recommendCount": "364",
       "title": "[問卦] 志祺七七為什麼最近10幾部影片這麼少觀看",
       "link": "/bbs/Gossiping/M.1756565914.A.34B",
       "author": "CenaC",
       "board": "Gossiping",
       "publishTime": "2025/08/30 14:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "254",
+      "recommendCount": "275",
+      "title": "[發錢] 本週4勝+41週年隊慶 發錢！",
+      "link": "/bbs/Elephants/M.1756637157.A.794",
+      "author": "jim0619",
+      "board": "Elephants",
+      "publishTime": "2025/08/31 10:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "201",
+      "recommendCount": "408",
+      "title": "[花邊] 77輸球擁抱法國球員後 又被故意上籃得分",
+      "link": "/bbs/NBA/M.1756605048.A.0BF",
+      "author": "kobest",
+      "board": "NBA",
+      "publishTime": "2025/08/31 01:50",
       "imageUrl": ""
     },
     {
@@ -171,36 +201,6 @@
       "author": "kemal969",
       "board": "Gossiping",
       "publishTime": "2025/08/31 04:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "105",
-      "recommendCount": "357",
-      "title": "[問卦] 不是臭沖繩，請問沖繩哪一點贏墾丁？",
-      "link": "/bbs/Gossiping/M.1756569696.A.1E3",
-      "author": "wingxl",
-      "board": "Gossiping",
-      "publishTime": "2025/08/30 16:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "186",
-      "recommendCount": "399",
-      "title": "[問卦] 以前小學生零錢只有10塊是真的嗎？？？",
-      "link": "/bbs/Gossiping/M.1756563584.A.5E6",
-      "author": "gn505250",
-      "board": "Gossiping",
-      "publishTime": "2025/08/30 14:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "8",
-      "recommendCount": "572",
-      "title": "[討論] 藍白刪除文化部預算單位公布",
-      "link": "/bbs/HatePolitics/M.1756609625.A.B90",
-      "author": "DosTaLiCa",
-      "board": "HatePolitics",
-      "publishTime": "2025/08/31 03:07",
       "imageUrl": ""
     }
   ]
