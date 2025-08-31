@@ -1,18 +1,8 @@
 {
-  "updated": "2025-08-31T18:33:26.203Z",
+  "updated": "2025-08-31T18:46:13.154Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "621",
-      "recommendCount": "754",
-      "title": "[情報] Jeremy Lin 林書豪 退休",
-      "link": "/bbs/NBA/M.1756599894.A.AA9",
-      "author": "ianchou19",
-      "board": "NBA",
-      "publishTime": "2025/08/31 00:24",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "329",
       "recommendCount": "765",
@@ -202,6 +192,16 @@
       "board": "HatePolitics",
       "publishTime": "2025/08/31 03:07",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "229",
+      "recommendCount": "264",
+      "title": "Re: [LIVE] 棒球 樂天金鷲 1:0 日本火腿鬥士 場中",
+      "link": "/bbs/SportLottery/M.1756627580.A.EB8",
+      "author": "tomnj",
+      "board": "SportLottery",
+      "publishTime": "2025/08/31 08:06",
+      "imageUrl": "https://cache.pttweb.cc/imgur/tVO0Qiu/s/c909f01c5e4844a0b7149e3458cbb92c"
     }
   ]
 }
