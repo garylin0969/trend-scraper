@@ -1,16 +1,26 @@
 {
-  "updated": "2025-08-31T12:08:03.669Z",
+  "updated": "2025-08-31T12:21:11.686Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "595",
-      "recommendCount": "723",
+      "recommendScore": "614",
+      "recommendCount": "745",
       "title": "[情報] Jeremy Lin 林書豪 退休",
       "link": "/bbs/NBA/M.1756599894.A.AA9",
       "author": "ianchou19",
       "board": "NBA",
       "publishTime": "2025/08/31 00:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "325",
+      "recommendCount": "742",
+      "title": "[新聞] 號召千人「闖官邸」警方要辦了　黃國昌笑回：那就來啊",
+      "link": "/bbs/Gossiping/M.1756611241.A.376",
+      "author": "joe19990815",
+      "board": "Gossiping",
+      "publishTime": "2025/08/31 03:34",
       "imageUrl": ""
     },
     {
@@ -24,16 +34,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "315",
-      "recommendCount": "709",
-      "title": "[新聞] 號召千人「闖官邸」警方要辦了　黃國昌笑回：那就來啊",
-      "link": "/bbs/Gossiping/M.1756611241.A.376",
-      "author": "joe19990815",
-      "board": "Gossiping",
-      "publishTime": "2025/08/31 03:34",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "454",
       "recommendCount": "464",
       "title": "[問卦] 今天生日，發錢！",
@@ -42,6 +42,16 @@
       "board": "Gossiping",
       "publishTime": "2025/08/30 16:24",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "220",
+      "recommendCount": "532",
+      "title": "[新聞] 大罷免失敗翻臉了? 曹興誠:民進黨內部遭大量滲透",
+      "link": "/bbs/Gossiping/M.1756617719.A.205",
+      "author": "Makubex82",
+      "board": "Gossiping",
+      "publishTime": "2025/08/31 05:21",
+      "imageUrl": "https://cache.pttweb.cc/imgur/3tvjkbP/s/3d22b5e754682a6c65b95d63537f9ea4"
     },
     {
       "recommendScore": "397",
@@ -62,26 +72,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/31 00:52",
       "imageUrl": "https://cache.pttweb.cc/imgur/Py4PwWB/s/3bee328ab5df6145f6e45cdf19ef5159"
-    },
-    {
-      "recommendScore": "196",
-      "recommendCount": "474",
-      "title": "[新聞] 大罷免失敗翻臉了? 曹興誠:民進黨內部遭大量滲透",
-      "link": "/bbs/Gossiping/M.1756617719.A.205",
-      "author": "Makubex82",
-      "board": "Gossiping",
-      "publishTime": "2025/08/31 05:21",
-      "imageUrl": "https://cache.pttweb.cc/imgur/3tvjkbP/s/3d22b5e754682a6c65b95d63537f9ea4"
-    },
-    {
-      "recommendScore": "323",
-      "recommendCount": "450",
-      "title": "[分享] 今日林暉盛",
-      "link": "/bbs/Elephants/M.1756556026.A.C10",
-      "author": "nanashin",
-      "board": "Elephants",
-      "publishTime": "2025/08/30 12:13",
-      "imageUrl": ""
     },
     {
       "recommendScore": "219",
@@ -114,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "487",
+      "recommendScore": "166",
+      "recommendCount": "490",
       "title": "[新聞] 數位身分證換發暫緩 年燒千萬元維護挨轟",
       "link": "/bbs/Gossiping/M.1756592067.A.0DE",
       "author": "godofsex",
@@ -144,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "142",
-      "recommendCount": "715",
+      "recommendScore": "144",
+      "recommendCount": "728",
       "title": "[問卦] 為何老一輩都懷念日本殖民的好",
       "link": "/bbs/Gossiping/M.1756601811.A.991",
       "author": "teeo",
@@ -174,13 +164,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "216",
-      "recommendCount": "310",
-      "title": "[分享] 今日林暉盛 中職生涯首勝",
-      "link": "/bbs/Baseball/M.1756555998.A.A71",
-      "author": "kevenchia",
-      "board": "Baseball",
-      "publishTime": "2025/08/30 12:13",
+      "recommendScore": "152",
+      "recommendCount": "356",
+      "title": "[問卦] 務農的老人走了  誰要來務農？",
+      "link": "/bbs/Gossiping/M.1756613332.A.35E",
+      "author": "kemal969",
+      "board": "Gossiping",
+      "publishTime": "2025/08/31 04:08",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "gn505250",
       "board": "Gossiping",
       "publishTime": "2025/08/30 14:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "8",
+      "recommendCount": "572",
+      "title": "[討論] 藍白刪除文化部預算單位公布",
+      "link": "/bbs/HatePolitics/M.1756609625.A.B90",
+      "author": "DosTaLiCa",
+      "board": "HatePolitics",
+      "publishTime": "2025/08/31 03:07",
       "imageUrl": ""
     }
   ]
