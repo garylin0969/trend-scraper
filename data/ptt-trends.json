@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-31T05:28:40.471Z",
+  "updated": "2025-08-31T05:37:15.375Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "749",
-      "recommendCount": "1436",
-      "title": "[電競] 2025 LCK Regular Season W15D4",
-      "link": "/bbs/LoL/M.1756531977.A.0F9",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2025/08/30 05:32",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "137",
       "recommendCount": "457",
       "title": "[新聞] 衝突落幕！總統府代表接受陳情　民眾黨6小時抗爭宣告結束",
@@ -201,6 +191,16 @@
       "author": "Calcifer",
       "board": "Gossiping",
       "publishTime": "2025/08/30 05:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "342",
+      "recommendCount": "1068",
+      "title": "[轉播] 八局下 兄弟4：2味全",
+      "link": "/bbs/Elephants/M.1756554171.A.D00",
+      "author": "hsuaninteen",
+      "board": "Elephants",
+      "publishTime": "2025/08/30 11:42",
       "imageUrl": ""
     }
   ]
