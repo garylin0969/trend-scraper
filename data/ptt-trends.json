@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-31T16:31:11.864Z",
+  "updated": "2025-08-31T16:40:40.942Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "498",
-      "recommendCount": "645",
+      "recommendScore": "502",
+      "recommendCount": "650",
       "title": "[情報] 林書豪IG 宣布退休",
       "link": "/bbs/basketballTW/M.1756599329.A.CF1",
       "author": "SeanLi1013",
@@ -52,16 +52,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/31 00:52",
       "imageUrl": "https://cache.pttweb.cc/imgur/Py4PwWB/s/3bee328ab5df6145f6e45cdf19ef5159"
-    },
-    {
-      "recommendScore": "398",
-      "recommendCount": "890",
-      "title": "[討論] 今天大巨蛋的賽後嘉賓真的是世代差距",
-      "link": "/bbs/Baseball/M.1756571611.A.023",
-      "author": "sevenzgod",
-      "board": "Baseball",
-      "publishTime": "2025/08/30 16:33",
-      "imageUrl": ""
     },
     {
       "recommendScore": "261",
@@ -201,6 +191,16 @@
       "author": "BryceChang",
       "board": "Elephants",
       "publishTime": "2025/08/31 10:23",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "588",
+      "recommendCount": "1474",
+      "title": "[討論] [Vtub] Hololive 晚間直播單 (1140831)",
+      "link": "/bbs/C_Chat/M.1756637296.A.173",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2025/08/31 10:48",
       "imageUrl": ""
     }
   ]
