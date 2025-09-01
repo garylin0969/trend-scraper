@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-01T19:16:57.034Z",
+  "updated": "2025-09-01T19:24:56.979Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -61,6 +61,16 @@
       "author": "coffee112",
       "board": "Gossiping",
       "publishTime": "2025/09/01 09:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "283",
+      "recommendCount": "307",
+      "title": "[活俠] 我發現一件很可怕的事",
+      "link": "/bbs/C_Chat/M.1756726978.A.BBB",
+      "author": "WeiBirdFan",
+      "board": "C_Chat",
+      "publishTime": "2025/09/01 11:42",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2025/09/01 10:38",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "94",
-      "recommendCount": "255",
-      "title": "[問題] Richart信用卡沒辦法切換權益？",
-      "link": "/bbs/creditcard/M.1756689847.A.EBB",
-      "author": "CW82",
-      "board": "creditcard",
-      "publishTime": "2025/09/01 01:24",
-      "imageUrl": "https://cache.pttweb.cc/imgur/WUreeQV/s/6400c6c926bc1f0e77d963f2d48e0456"
     }
   ]
 }
