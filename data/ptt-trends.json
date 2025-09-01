@@ -1,18 +1,8 @@
 {
-  "updated": "2025-08-31T23:53:37.931Z",
+  "updated": "2025-09-01T00:27:22.854Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "646",
-      "recommendCount": "782",
-      "title": "[情報] Jeremy Lin 林書豪 退休",
-      "link": "/bbs/NBA/M.1756599894.A.AA9",
-      "author": "ianchou19",
-      "board": "NBA",
-      "publishTime": "2025/08/31 00:24",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "333",
       "recommendCount": "776",
@@ -21,16 +11,6 @@
       "author": "joe19990815",
       "board": "Gossiping",
       "publishTime": "2025/08/31 03:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "502",
-      "recommendCount": "650",
-      "title": "[情報] 林書豪IG 宣布退休",
-      "link": "/bbs/basketballTW/M.1756599329.A.CF1",
-      "author": "SeanLi1013",
-      "board": "basketballTW",
-      "publishTime": "2025/08/31 00:15",
       "imageUrl": ""
     },
     {
@@ -202,6 +182,26 @@
       "board": "SportLottery",
       "publishTime": "2025/08/31 10:23",
       "imageUrl": "https://cache.pttweb.cc/imgur/xCTNAtQ/s/0f1ce623d56c9de9007d7f41e5a2b1ca"
+    },
+    {
+      "recommendScore": "136",
+      "recommendCount": "333",
+      "title": "[新聞] 小草慘了！警遭黃國昌勒脖被「AI合成」燦笑　警政署：依法偵辦",
+      "link": "/bbs/Gossiping/M.1756645380.A.7A1",
+      "author": "CREA",
+      "board": "Gossiping",
+      "publishTime": "2025/08/31 13:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "66",
+      "recommendCount": "444",
+      "title": "[轉播] 九下 兄弟 10:5 味全 吉力吉撈鞏冠 BB(RBI)",
+      "link": "/bbs/Elephants/M.1756635802.A.C35",
+      "author": "BryceChang",
+      "board": "Elephants",
+      "publishTime": "2025/08/31 10:23",
+      "imageUrl": ""
     }
   ]
 }
