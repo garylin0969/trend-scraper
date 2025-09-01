@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-01T05:06:28.934Z",
+  "updated": "2025-09-01T05:17:49.377Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "235",
+      "recommendCount": "282",
+      "title": "Re: [LIVE] 棒球 樂天金鷲 1:0 日本火腿鬥士 場中",
+      "link": "/bbs/SportLottery/M.1756627580.A.EB8",
+      "author": "tomnj",
+      "board": "SportLottery",
+      "publishTime": "2025/08/31 08:06",
+      "imageUrl": "https://cache.pttweb.cc/imgur/tVO0Qiu/s/c909f01c5e4844a0b7149e3458cbb92c"
+    },
+    {
       "recommendScore": "253",
       "recommendCount": "273",
       "title": "Re: [LIVE] 棒球 中信兄弟@味全龍 場中 &他場閒聊",
@@ -122,16 +132,6 @@
       "board": "SportLottery",
       "publishTime": "2025/08/31 10:23",
       "imageUrl": "https://cache.pttweb.cc/imgur/xCTNAtQ/s/0f1ce623d56c9de9007d7f41e5a2b1ca"
-    },
-    {
-      "recommendScore": "233",
-      "recommendCount": "278",
-      "title": "Re: [LIVE] 棒球 樂天金鷲 1:0 日本火腿鬥士 場中",
-      "link": "/bbs/SportLottery/M.1756627580.A.EB8",
-      "author": "tomnj",
-      "board": "SportLottery",
-      "publishTime": "2025/08/31 08:06",
-      "imageUrl": "https://cache.pttweb.cc/imgur/tVO0Qiu/s/c909f01c5e4844a0b7149e3458cbb92c"
     },
     {
       "recommendScore": "136",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "195",
-      "recommendCount": "490",
+      "recommendScore": "202",
+      "recommendCount": "510",
       "title": "[情報] 脆熱議:聯發科使喚聯盟工作人員",
       "link": "/bbs/Baseball/M.1756642555.A.1F8",
       "author": "ng101281",
