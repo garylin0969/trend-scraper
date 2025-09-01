@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-01T05:40:09.132Z",
+  "updated": "2025-09-01T05:47:26.086Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "129",
+      "recommendCount": "433",
+      "title": "[爆卦] 內政部洗地囉",
+      "link": "/bbs/Gossiping/M.1756651000.A.03F",
+      "author": "nba887215",
+      "board": "Gossiping",
+      "publishTime": "2025/08/31 14:36",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "241",
       "recommendCount": "364",
       "title": "Re: [新聞] 沈伯洋收威脅「不辭立委女兒成小燈泡第二」　王婉諭：悲劇不該再發生",
@@ -105,7 +115,7 @@
     },
     {
       "recommendScore": "-211",
-      "recommendCount": "312",
+      "recommendCount": "313",
       "title": "[分享] 象魯閣",
       "link": "/bbs/Baseball/M.1756636193.A.83E",
       "author": "a27695961",
@@ -191,16 +201,6 @@
       "author": "what62651",
       "board": "Baseball",
       "publishTime": "2025/08/31 17:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "125",
-      "recommendCount": "277",
-      "title": "[問卦] 為何九把刀當初要劈腿？",
-      "link": "/bbs/Gossiping/M.1756622988.A.604",
-      "author": "ericgary",
-      "board": "Gossiping",
-      "publishTime": "2025/08/31 06:49",
       "imageUrl": ""
     }
   ]
