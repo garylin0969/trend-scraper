@@ -1,17 +1,17 @@
 {
-  "updated": "2025-09-01T04:50:31.636Z",
+  "updated": "2025-09-01T05:22:32.361Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-09-01T04:50:23.000Z",
+    "lastBuildDate": "2025-09-01T05:22:23.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
     {
       "title": "正以驚人速度擴張的中國海軍會主宰海洋嗎？",
-      "description": "一位專家表示，北京的造船能力是美國的200倍，稱這種規模「極為驚人」。",
+      "description": "一位專家表示，北京的造船能力是美國的200倍，這種規模「極為驚人」。",
       "link": "https://www.bbc.com/zhongwen/articles/c4gqnz1ezl4o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-09-01T02:49:33.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c4gqnz1ezl4o/trad#0",
@@ -24,6 +24,14 @@
       "pubDate": "2025-08-31T08:16:57.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/clyv43nzgypo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d64/live/c9453b50-863d-11f0-84c8-99de564f0440.jpg"
+    },
+    {
+      "title": "印尼21歲網約車司機之死引發全國性抗議，總統撤議員津貼安撫民心",
+      "description": "上週的抗議涉及廣泛議題，但其中一個核心不滿，集中於國會議員每月津貼增加5,000萬盧比。",
+      "link": "https://www.bbc.com/zhongwen/articles/cedvqp92yggo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-01T05:08:26.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cedvqp92yggo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b316/live/9b1adae0-8666-11f0-b391-6936825093bd.jpg"
     },
     {
       "title": "五年後回看  新冠疫情期間的封鎖對孩子產生什麼長遠影響？",
@@ -42,14 +50,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/80c0/live/6ffbebd0-84c5-11f0-9cf6-cbf3e73ce2b9.jpg"
     },
     {
-      "title": "「規模最大」的上合天津峰會  兩個最大鄰國是否在向北京靠攏？",
-      "description": "上合組織天津峰會與抗日戰爭勝利閱兵將先後舉行，世界將注視習近平將與普京和莫迪等20多位外國領導人互動。",
-      "link": "https://www.bbc.com/zhongwen/articles/c9qyzgjr3l5o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-29T08:14:19.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c9qyzgjr3l5o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/94d3/live/ed2d3790-84a1-11f0-b319-ab41cfc9fe62.jpg"
-    },
-    {
       "title": "普京金正恩確定參加93閱兵，如何觀察背後的權力展示、智能戰爭、盟友變遷以及兩岸角力",
       "description": "過去十年，中國軍隊經歷了大規模改革，解放軍架構調整和反腐行動同時進行，人員變動劇烈；武器裝備更新和國防工業也快速發展。國防預算持續增長，即便在新冠疫情期間也保持增幅，持續高於經濟增速。這使外界觀察中國閱兵時格外注重兩個方面：政治信號和新式武器。",
       "link": "https://www.bbc.com/zhongwen/articles/cwy0j4gl957o/trad?at_medium=RSS&at_campaign=rss",
@@ -58,20 +58,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ccf0/live/ca978910-8154-11f0-a34f-318be3fb0481.jpg"
     },
     {
+      "title": "「規模最大」的上合天津峰會  兩個最大鄰國是否在向北京靠攏？",
+      "description": "上合組織天津峰會與抗日戰爭勝利閱兵將先後舉行，世界將注視習近平將與普京和莫迪等20多位外國領導人互動。",
+      "link": "https://www.bbc.com/zhongwen/articles/c9qyzgjr3l5o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-29T08:14:19.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c9qyzgjr3l5o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/94d3/live/ed2d3790-84a1-11f0-b319-ab41cfc9fe62.jpg"
+    },
+    {
       "title": "受特朗普關稅衝擊，印度與中國尋求重啟商業關係",
       "description": "印度總理莫迪本週末將訪問中國，特朗普的美國關稅政策仍是其關注的焦點。這場會晤會給緊張的雙邊關係帶來哪些變化？",
       "link": "https://www.bbc.com/zhongwen/articles/cglnr9w284po/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-08-31T06:52:09.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cglnr9w284po/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4222/live/f7970d00-862c-11f0-b391-6936825093bd.jpg"
-    },
-    {
-      "title": "也門胡塞武裝證實政府總理在以軍空襲中喪生",
-      "description": "以色列國防軍表示，當以色列戰機襲擊薩那地區的一次集會時，也門胡塞叛軍組織自封的總理拉哈維與其他胡塞高層官員在空襲中喪生。",
-      "link": "https://www.bbc.com/zhongwen/articles/cgr9e0wx7elo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-31T03:09:21.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cgr9e0wx7elo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cff2/live/40b81880-8614-11f0-9cf6-cbf3e73ce2b9.jpg"
     },
     {
       "title": "特朗普政府將解僱大多數「美國之音」記者",
