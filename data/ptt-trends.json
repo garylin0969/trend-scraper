@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-01T13:04:21.478Z",
+  "updated": "2025-09-01T13:20:49.232Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "170",
-      "recommendCount": "236",
-      "title": "[分享] 今日CPBL戰績 8/31 Sun.",
-      "link": "/bbs/Baseball/M.1756645612.A.17D",
-      "author": "jim0619",
-      "board": "Baseball",
-      "publishTime": "2025/08/31 13:06",
-      "imageUrl": "https://cache.pttweb.cc/imgur/uZ6pYGy/s/7ed84f57376969f0d9ca991a687c52bd"
-    },
-    {
       "recommendScore": "110",
       "recommendCount": "246",
       "title": "[新聞] 賴清德滿意度暴跌！侯漢廷斷言：2026台南必變天",
@@ -201,6 +191,16 @@
       "author": "usnavyseal",
       "board": "Gossiping",
       "publishTime": "2025/08/31 15:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "138",
+      "recommendCount": "185",
+      "title": "[新聞] 悍將最後24戰有超難任務 勝率7成5才能逃過單季70敗",
+      "link": "/bbs/Baseball/M.1756723004.A.9BC",
+      "author": "iamshana",
+      "board": "Baseball",
+      "publishTime": "2025/09/01 10:36",
       "imageUrl": ""
     }
   ]
