@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-01T08:56:37.272Z",
+  "updated": "2025-09-01T09:18:50.428Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -42,16 +42,6 @@
       "board": "Gossiping",
       "publishTime": "2025/08/31 10:58",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "152",
-      "recommendCount": "615",
-      "title": "[問卦] 脆:沒有要戰什麼只是帶小孩搭車沒人讓座",
-      "link": "/bbs/Gossiping/M.1756630967.A.43F",
-      "author": "yyyyyuuuuu",
-      "board": "Gossiping",
-      "publishTime": "2025/08/31 09:02",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ZeWpKGP/s/278f6fd100cbebfff81107e2fc326b79"
     },
     {
       "recommendScore": "366",
@@ -201,6 +191,16 @@
       "author": "Wojnarowski",
       "board": "NBA",
       "publishTime": "2025/08/31 10:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "149",
+      "recommendCount": "239",
+      "title": "[情報] 富邦悍將連續兩年八月「十七負」",
+      "link": "/bbs/Baseball/M.1756645110.A.221",
+      "author": "idingdang",
+      "board": "Baseball",
+      "publishTime": "2025/08/31 12:58",
       "imageUrl": ""
     }
   ]
