@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-01T19:33:58.035Z",
+  "updated": "2025-09-01T19:43:28.449Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -12,6 +12,16 @@
       "board": "Gossiping",
       "publishTime": "2025/09/01 03:13",
       "imageUrl": "https://cache.pttweb.cc/imgur/B0XUmsq/s/bba060e610b9a9a46d8527e2a5113299"
+    },
+    {
+      "recommendScore": "371",
+      "recommendCount": "539",
+      "title": "[新聞] NVIDIA 人工智慧加雷射：秒殺上萬小草毫不費力",
+      "link": "/bbs/Stock/M.1756704593.A.F95",
+      "author": "a5687920",
+      "board": "Stock",
+      "publishTime": "2025/09/01 05:29",
+      "imageUrl": ""
     },
     {
       "recommendScore": "368",
@@ -184,23 +194,13 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/2mzkUbx/s/d6dda7f40f55f453d1a822bf4eda7d8c"
     },
     {
-      "recommendScore": "85",
-      "recommendCount": "296",
-      "title": "[新聞] 傳馬英九、洪秀柱將出席九三閱兵 朱立倫：兩岸訪問要遵守法律",
-      "link": "/bbs/Gossiping/M.1756716999.A.F25",
-      "author": "diefishfish",
+      "recommendScore": "123",
+      "recommendCount": "222",
+      "title": "[新聞] 2台人「沖繩潛水」喪命！　魂斷30公尺深海洞窟",
+      "link": "/bbs/Gossiping/M.1756687406.A.747",
+      "author": "jal0309",
       "board": "Gossiping",
-      "publishTime": "2025/09/01 08:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "721",
-      "recommendCount": "1475",
-      "title": "[討論] [Vtub] Hololive 晚間直播單 (1140901)",
-      "link": "/bbs/C_Chat/M.1756723088.A.196",
-      "author": "laptic",
-      "board": "C_Chat",
-      "publishTime": "2025/09/01 10:38",
+      "publishTime": "2025/09/01 00:43",
       "imageUrl": ""
     }
   ]
