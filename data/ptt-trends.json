@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-01T11:34:12.493Z",
+  "updated": "2025-09-01T11:43:52.177Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "149",
+      "recommendCount": "381",
+      "title": "[新聞] 小草慘了！警遭黃國昌勒脖被「AI合成」燦笑　警政署：依法偵辦",
+      "link": "/bbs/Gossiping/M.1756645380.A.7A1",
+      "author": "CREA",
+      "board": "Gossiping",
+      "publishTime": "2025/08/31 13:03",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "134",
       "recommendCount": "660",
       "title": "[請益] 為啥黃仁勳急於發展AI和機器人?",
@@ -64,13 +74,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "133",
-      "recommendCount": "337",
-      "title": "[新聞] 小草慘了！警遭黃國昌勒脖被「AI合成」燦笑　警政署：依法偵辦",
-      "link": "/bbs/Gossiping/M.1756645380.A.7A1",
-      "author": "CREA",
+      "recommendScore": "181",
+      "recommendCount": "312",
+      "title": "[新聞] 沒退位！柯建銘喊任期到明年2月　「黨團六長」今起登記",
+      "link": "/bbs/Gossiping/M.1756698364.A.9C5",
+      "author": "a0580531",
       "board": "Gossiping",
-      "publishTime": "2025/08/31 13:03",
+      "publishTime": "2025/09/01 03:46",
       "imageUrl": ""
     },
     {
@@ -101,6 +111,16 @@
       "author": "vicet",
       "board": "Gossiping",
       "publishTime": "2025/09/01 02:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "88",
+      "recommendCount": "280",
+      "title": "[新聞] 快訊／總統府宣布：趙怡翔、李問任國安會副秘　鄭俊昇任府副秘",
+      "link": "/bbs/Gossiping/M.1756700472.A.8C2",
+      "author": "rz2x",
+      "board": "Gossiping",
+      "publishTime": "2025/09/01 04:21",
       "imageUrl": ""
     },
     {
@@ -181,26 +201,6 @@
       "author": "dahanjian",
       "board": "Baseball",
       "publishTime": "2025/08/31 12:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "148",
-      "recommendCount": "183",
-      "title": "[閒聊]  墊肩辛苦了",
-      "link": "/bbs/Elephants/M.1756641305.A.C42",
-      "author": "hammer311",
-      "board": "Elephants",
-      "publishTime": "2025/08/31 11:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "319",
-      "recommendCount": "563",
-      "title": "[LIVE] 英超-兵工廠 @ 利物浦 (場中)",
-      "link": "/bbs/SportLottery/M.1756652403.A.D2A",
-      "author": "lotterywin",
-      "board": "SportLottery",
-      "publishTime": "2025/08/31 15:00",
       "imageUrl": ""
     }
   ]
