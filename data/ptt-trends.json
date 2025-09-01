@@ -1,8 +1,18 @@
 {
-  "updated": "2025-09-01T05:30:43.374Z",
+  "updated": "2025-09-01T05:40:09.132Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "320",
+      "recommendCount": "653",
+      "title": "[新聞] 美國人看不下去了！批《零日攻擊》「荒誕爛片」　方恩格：應道歉",
+      "link": "/bbs/Gossiping/M.1756651596.A.E83",
+      "author": "semih",
+      "board": "Gossiping",
+      "publishTime": "2025/08/31 14:46",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "297",
       "recommendCount": "588",
@@ -34,13 +44,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ZeWpKGP/s/278f6fd100cbebfff81107e2fc326b79"
     },
     {
-      "recommendScore": "175",
-      "recommendCount": "439",
+      "recommendScore": "184",
+      "recommendCount": "463",
       "title": "[新聞] 大學男生用「抱」阻女同學酒駕挨告 猥褻不成立仍判強制罪緩刑",
       "link": "/bbs/Gossiping/M.1756621230.A.597",
       "author": "ytkuang",
       "board": "Gossiping",
       "publishTime": "2025/08/31 06:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "366",
+      "recommendCount": "804",
+      "title": "[分享] 隊友短打 王柏融沒跑三壘影片",
+      "link": "/bbs/Baseball/M.1756643598.A.B66",
+      "author": "heart1110",
+      "board": "Baseball",
+      "publishTime": "2025/08/31 12:33",
       "imageUrl": ""
     },
     {
@@ -64,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "354",
-      "recommendCount": "785",
-      "title": "[分享] 隊友短打 王柏融沒跑三壘影片",
-      "link": "/bbs/Baseball/M.1756643598.A.B66",
-      "author": "heart1110",
-      "board": "Baseball",
-      "publishTime": "2025/08/31 12:33",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "241",
       "recommendCount": "364",
       "title": "Re: [新聞] 沈伯洋收威脅「不辭立委女兒成小燈泡第二」　王婉諭：悲劇不該再發生",
@@ -81,6 +91,16 @@
       "author": "blackman451",
       "board": "Gossiping",
       "publishTime": "2025/08/31 06:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "134",
+      "recommendCount": "660",
+      "title": "[請益] 為啥黃仁勳急於發展AI和機器人?",
+      "link": "/bbs/Stock/M.1756659816.A.63D",
+      "author": "wwewcwwwf",
+      "board": "Stock",
+      "publishTime": "2025/08/31 17:03",
       "imageUrl": ""
     },
     {
@@ -154,18 +174,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/YD8MKsD/s/3a63c7762217257aa3cc15d94dbf69df"
     },
     {
-      "recommendScore": "125",
-      "recommendCount": "277",
-      "title": "[問卦] 為何九把刀當初要劈腿？",
-      "link": "/bbs/Gossiping/M.1756622988.A.604",
-      "author": "ericgary",
-      "board": "Gossiping",
-      "publishTime": "2025/08/31 06:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "221",
-      "recommendCount": "775",
+      "recommendScore": "228",
+      "recommendCount": "787",
       "title": "[活俠] 為什麼對岸很多人堅持要有完美結局?",
       "link": "/bbs/C_Chat/M.1756635587.A.323",
       "author": "keel90135",
@@ -174,33 +184,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/SPkgLlt/s/b503dfe60af97d05891c19285e020721"
     },
     {
-      "recommendScore": "156",
-      "recommendCount": "276",
-      "title": "[討論] 明年富邦完全體可以進季後嗎？",
-      "link": "/bbs/Baseball/M.1756627862.A.99A",
-      "author": "qmomoyaya",
+      "recommendScore": "233",
+      "recommendCount": "321",
+      "title": "[情報] 鄧愷威要回大聯盟了?",
+      "link": "/bbs/Baseball/M.1756660705.A.1FE",
+      "author": "what62651",
       "board": "Baseball",
-      "publishTime": "2025/08/31 08:11",
+      "publishTime": "2025/08/31 17:18",
       "imageUrl": ""
     },
     {
-      "recommendScore": "171",
-      "recommendCount": "319",
-      "title": "[外絮] Cuban：最後一擊選MJ，讓團隊更好選LBJ",
-      "link": "/bbs/NBA/M.1756637630.A.505",
-      "author": "Wojnarowski",
-      "board": "NBA",
-      "publishTime": "2025/08/31 10:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "155",
-      "recommendCount": "357",
-      "title": "[問題] 王柏融跑壘失誤嗎",
-      "link": "/bbs/Baseball/M.1756642170.A.5A9",
-      "author": "monniea",
-      "board": "Baseball",
-      "publishTime": "2025/08/31 12:09",
+      "recommendScore": "125",
+      "recommendCount": "277",
+      "title": "[問卦] 為何九把刀當初要劈腿？",
+      "link": "/bbs/Gossiping/M.1756622988.A.604",
+      "author": "ericgary",
+      "board": "Gossiping",
+      "publishTime": "2025/08/31 06:49",
       "imageUrl": ""
     }
   ]
