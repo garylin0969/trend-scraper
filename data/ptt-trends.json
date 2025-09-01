@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-01T16:32:09.006Z",
+  "updated": "2025-09-01T16:46:40.209Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "94",
+      "recommendCount": "255",
+      "title": "[問題] Richart信用卡沒辦法切換權益？",
+      "link": "/bbs/creditcard/M.1756689847.A.EBB",
+      "author": "CW82",
+      "board": "creditcard",
+      "publishTime": "2025/09/01 01:24",
+      "imageUrl": "https://cache.pttweb.cc/imgur/WUreeQV/s/6400c6c926bc1f0e77d963f2d48e0456"
+    },
+    {
       "recommendScore": "103",
       "recommendCount": "162",
       "title": "[新聞] 快訊／高雄愛河驚見年輕女屍！全身大面積刺青　身分及死因待查",
@@ -191,16 +201,6 @@
       "author": "qazxc1156892",
       "board": "Gossiping",
       "publishTime": "2025/09/01 01:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "144",
-      "recommendCount": "801",
-      "title": "Re: [新聞] 台文館「阿龍」抄襲事件北檢不起訴",
-      "link": "/bbs/C_Chat/M.1756696595.A.65D",
-      "author": "belmontc",
-      "board": "C_Chat",
-      "publishTime": "2025/09/01 03:16",
       "imageUrl": ""
     }
   ]
