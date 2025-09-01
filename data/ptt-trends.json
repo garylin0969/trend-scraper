@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-01T11:43:52.177Z",
+  "updated": "2025-09-01T11:53:22.623Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -52,6 +52,26 @@
       "board": "Gossiping",
       "publishTime": "2025/08/31 14:36",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "276",
+      "recommendCount": "440",
+      "title": "[爆卦] 自行車的智能感應後燈其實是臺灣人發明",
+      "link": "/bbs/Gossiping/M.1756659904.A.EBA",
+      "author": "lovedog0731",
+      "board": "Gossiping",
+      "publishTime": "2025/08/31 17:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "207",
+      "recommendCount": "435",
+      "title": "[爆卦] 嗷嗚龍寶作者告抄襲裁定不起訴",
+      "link": "/bbs/Gossiping/M.1756651707.A.6AF",
+      "author": "sal60614",
+      "board": "Gossiping",
+      "publishTime": "2025/08/31 14:48",
+      "imageUrl": "https://cache.pttweb.cc/imgur/lNYW0Ne/s/dc8e44d7db3264110f922088940a9d1a"
     },
     {
       "recommendScore": "149",
@@ -144,13 +164,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "118",
-      "recommendCount": "284",
-      "title": "[新聞] 限貸令衝擊！10個月預售屋解約2400件",
-      "link": "/bbs/Stock/M.1756640589.A.F04",
-      "author": "qazxc1156892",
-      "board": "Stock",
-      "publishTime": "2025/08/31 11:43",
+      "recommendScore": "138",
+      "recommendCount": "210",
+      "title": "[問卦] 2025代表字可以選出來了",
+      "link": "/bbs/Gossiping/M.1756656126.A.766",
+      "author": "ME13",
+      "board": "Gossiping",
+      "publishTime": "2025/08/31 16:02",
       "imageUrl": ""
     },
     {
@@ -182,26 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/01 01:57",
       "imageUrl": "https://cache.pttweb.cc/imgur/2mzkUbx/s/d6dda7f40f55f453d1a822bf4eda7d8c"
-    },
-    {
-      "recommendScore": "111",
-      "recommendCount": "211",
-      "title": "[問卦] 為什麼小公主可以整天出國玩？",
-      "link": "/bbs/Gossiping/M.1756643626.A.230",
-      "author": "PalmAngels",
-      "board": "Gossiping",
-      "publishTime": "2025/08/31 12:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "112",
-      "recommendCount": "294",
-      "title": "[分享] 今日王柏融",
-      "link": "/bbs/Baseball/M.1756642437.A.05A",
-      "author": "dahanjian",
-      "board": "Baseball",
-      "publishTime": "2025/08/31 12:13",
-      "imageUrl": ""
     }
   ]
 }
