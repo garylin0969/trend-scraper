@@ -1,10 +1,10 @@
 {
-  "updated": "2025-09-01T08:23:56.157Z",
+  "updated": "2025-09-01T08:51:00.327Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-09-01T08:23:46.000Z",
+    "lastBuildDate": "2025-09-01T08:50:55.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -34,6 +34,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b316/live/9b1adae0-8666-11f0-b391-6936825093bd.jpg"
     },
     {
+      "title": "卡桑旅發言人遭以軍定點清除  生前警告以人質命運將與哈馬斯戰士相同",
+      "description": "現年約40歲的烏拜達，過去幾年曾代表哈馬斯軍事翼「卡桑旅」發表過多場長篇演說，猛烈抨擊以色列。他經常用巴勒斯坦頭巾蒙面，成為中東各地哈馬斯支持者心中的偶像。\n",
+      "link": "https://www.bbc.com/zhongwen/articles/cp94dlg8x75o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-01T08:37:08.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cp94dlg8x75o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7a00/live/a20c7f00-867c-11f0-b391-6936825093bd.jpg"
+    },
+    {
       "title": "五年後回看  新冠疫情期間的封鎖對孩子產生什麼長遠影響？",
       "description": "疫情發生五年後，研究人員逐漸揭開它對兒童的深遠影響。疫情改變的不僅是他們的行為、心理健康、社交能力，還有教育。但這些傷痕究竟有多深，或許要數十年後才能真正明確知道。",
       "link": "https://www.bbc.com/zhongwen/articles/cvgv7xn0pqyo/trad?at_medium=RSS&at_campaign=rss",
@@ -46,7 +54,7 @@
       "description": "BBC韓語、俄語與中文部分析這場在北京閱兵式上，世界主要領導人會面的看點。",
       "link": "https://www.bbc.com/zhongwen/articles/cwye7pg2nzko/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-08-30T00:35:13.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwye7pg2nzko/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwye7pg2nzko/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/80c0/live/6ffbebd0-84c5-11f0-9cf6-cbf3e73ce2b9.jpg"
     },
     {
@@ -88,14 +96,6 @@
       "pubDate": "2025-08-30T00:55:04.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c2063mpr4yro/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/09b3/live/f3e589a0-83ae-11f0-bf09-3f04e5569612.jpg"
-    },
-    {
-      "title": "台灣大罷免後內閣改組，賴清德換人會換路線嗎？",
-      "description": "台灣總統賴清德稱期盼朝野更多對話，但內閣改組既沒有邀請在野陣營人士入閣，也沒有閣員為大罷免負政治責任，分析指未來立法院對立局面恐怕難以改變。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx29z943xy1o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-28T10:39:41.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx29z943xy1o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d83b/live/16769250-848d-11f0-a010-319ba3e5b774.jpg"
     },
     {
       "title": "越南南沙建島低調超車中國  南海造島競賽風雲再起？",
@@ -194,6 +194,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e086/live/80914070-67c0-11f0-bdb3-2fec70b719ae.jpg"
     },
     {
+      "title": "台灣大罷免後內閣改組，賴清德換人會換路線嗎？",
+      "description": "台灣總統賴清德稱期盼朝野更多對話，但內閣改組既沒有邀請在野陣營人士入閣，也沒有閣員為大罷免負政治責任，分析指未來立法院對立局面恐怕難以改變。",
+      "link": "https://www.bbc.com/zhongwen/articles/cx29z943xy1o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-28T10:39:41.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx29z943xy1o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d83b/live/16769250-848d-11f0-a010-319ba3e5b774.jpg"
+    },
+    {
       "title": "台灣國防預算創新高佔GDP 3.32%，能讓美國滿意嗎？",
       "description": "分析指，台灣此舉旨在回應美國的壓力。當局首次採用「北約模式」計算國防開支，把社會韌性、民防等相關預算都算進「廣義」的國防預算，實際上核心軍費增幅有限。",
       "link": "https://www.bbc.com/zhongwen/articles/cn85nywv6ppo/trad?at_medium=RSS&at_campaign=rss",
@@ -224,14 +232,6 @@
       "pubDate": "2025-08-27T08:41:57.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cqlexx5nxe9o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6caa/live/aec26620-830b-11f0-ab3e-bd52082cd0ae.jpg"
-    },
-    {
-      "title": "習近平強力推進的雅魯藏布江超級水電站對中國和印度意味著什麼",
-      "description": "這個耗資1.2萬億元人民幣的水電項目不僅凸顯中國在能源和地緣政治上的雄心，也顯示了西藏在中國國家發展戰略中的重要位置。",
-      "link": "https://www.bbc.com/zhongwen/articles/c0r7x709nxeo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-21T12:00:33.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c0r7x709nxeo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ec39/live/10f7e830-7e6e-11f0-a34f-318be3fb0481.jpg"
     },
     {
       "title": "黎智英「勾結外國勢力」案　一文看懂案情進展",
