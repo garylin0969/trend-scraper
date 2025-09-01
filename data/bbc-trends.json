@@ -1,14 +1,22 @@
 {
-  "updated": "2025-09-01T02:27:51.964Z",
+  "updated": "2025-09-01T03:12:48.186Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-09-01T02:27:41.000Z",
+    "lastBuildDate": "2025-09-01T03:12:39.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "正以驚人速度擴張的中國海軍會主宰海洋嗎？",
+      "description": "一位專家表示，北京的造船能力是美國的200倍，稱這種規模「極為驚人」。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gqnz1ezl4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-01T02:49:33.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gqnz1ezl4o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9f2b/live/8959dab0-8623-11f0-b864-7f7bb1d9abeb.png"
+    },
     {
       "title": "普京莫迪抵達北京參加上合峰會，但美中印貿易戰使峰會蒙上陰影",
       "description": "俄羅斯總統普京和印度總理莫迪抵達中國，與20多位領導人共同出席上海合作組織峰會。這是莫迪七年來首次訪華。",
@@ -16,14 +24,6 @@
       "pubDate": "2025-08-31T08:16:57.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/clyv43nzgypo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d64/live/c9453b50-863d-11f0-84c8-99de564f0440.jpg"
-    },
-    {
-      "title": "受特朗普關稅衝擊，印度與中國尋求重啟商業關係",
-      "description": "印度總理莫迪本週末將訪問中國，特朗普的美國關稅政策仍是其關注的焦點。這場會晤會給緊張的雙邊關係帶來哪些變化？",
-      "link": "https://www.bbc.com/zhongwen/articles/cglnr9w284po/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-31T06:52:09.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cglnr9w284po/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4222/live/f7970d00-862c-11f0-b391-6936825093bd.jpg"
     },
     {
       "title": "五年後回看  新冠疫情期間的封鎖對孩子產生什麼長遠影響？",
@@ -56,6 +56,14 @@
       "pubDate": "2025-08-28T02:54:22.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cwy0j4gl957o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ccf0/live/ca978910-8154-11f0-a34f-318be3fb0481.jpg"
+    },
+    {
+      "title": "受特朗普關稅衝擊，印度與中國尋求重啟商業關係",
+      "description": "印度總理莫迪本週末將訪問中國，特朗普的美國關稅政策仍是其關注的焦點。這場會晤會給緊張的雙邊關係帶來哪些變化？",
+      "link": "https://www.bbc.com/zhongwen/articles/cglnr9w284po/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-31T06:52:09.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cglnr9w284po/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4222/live/f7970d00-862c-11f0-b391-6936825093bd.jpg"
     },
     {
       "title": "也門胡塞武裝證實政府總理在以軍空襲中喪生",
@@ -96,14 +104,6 @@
       "pubDate": "2025-08-28T00:19:46.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cdj20vkd9m3o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c7ad/live/02b31ad0-832b-11f0-a34f-318be3fb0481.jpg"
-    },
-    {
-      "title": "習近平安排會晤金正恩與普京，向特朗普展示手中籌碼",
-      "description": "朝鮮與俄羅斯領導人將於下週出席中國的閱兵儀式——這是習近平的一場勝利。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvg0yv9mp8go/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-28T15:42:40.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvg0yv9mp8go/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bcc5/live/86cdee50-8423-11f0-b391-6936825093bd.jpg"
     },
     {
       "title": "被拒絕的一代？和領英高管討論人工智能衝擊下年輕人的求職難題",
