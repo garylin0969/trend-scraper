@@ -1,35 +1,50 @@
 {
-  "updated": "2025-09-02T22:36:57.170Z",
+  "updated": "2025-09-02T23:08:22.366Z",
   "trends": [
     {
-      "googleTrend": "美網",
+      "googleTrend": "美網公開賽",
+      "searchVolume": "500+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "美國網球公開賽",
       "searchVolume": "200+",
       "started": "40 分鐘前"
     },
     {
-      "googleTrend": "美金",
-      "searchVolume": "100+",
-      "started": "10 分鐘前"
-    },
-    {
-      "googleTrend": "美國網球公開賽",
-      "searchVolume": "100+",
-      "started": "10 分鐘前"
-    },
-    {
       "googleTrend": "黃金",
-      "searchVolume": "100+",
+      "searchVolume": "200+",
       "started": "1 小時前"
     },
     {
-      "googleTrend": "今彩539",
+      "googleTrend": "道奇",
       "searchVolume": "100+",
       "started": "10 分鐘前"
+    },
+    {
+      "googleTrend": "nba",
+      "searchVolume": "100+",
+      "started": "30 分鐘前"
+    },
+    {
+      "googleTrend": "台指夜盤",
+      "searchVolume": "100+",
+      "started": "50 分鐘前"
+    },
+    {
+      "googleTrend": "美金",
+      "searchVolume": "100+",
+      "started": "40 分鐘前"
     },
     {
       "googleTrend": "川普",
       "searchVolume": "200+",
       "started": "3 小時前"
+    },
+    {
+      "googleTrend": "今彩539",
+      "searchVolume": "100+",
+      "started": "40 分鐘前"
     }
   ]
 }
