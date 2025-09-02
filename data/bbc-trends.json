@@ -1,14 +1,22 @@
 {
-  "updated": "2025-09-02T03:11:40.300Z",
+  "updated": "2025-09-02T03:30:40.989Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-09-02T03:11:32.000Z",
+    "lastBuildDate": "2025-09-02T03:30:28.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "莫迪為何進津卻不入京，中印互動背後的「特朗普因素」等觀察重點",
+      "description": "習近平與莫迪的會晤舉行前幾天，特朗普政府才剛對印度加徵高額關稅。和絕大多數參加上合組織峰會的領導人行程不同，莫迪並不會出席中國的93閱兵式。",
+      "link": "https://www.bbc.com/zhongwen/articles/c6202xw5y31o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-02T03:18:01.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c6202xw5y31o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c16f/live/bdbea9e0-86e4-11f0-a344-ff1868f51708.jpg"
+    },
     {
       "title": "中國海軍以驚人速度擴張，正在追上美國",
       "description": "一位專家表示，北京的造船能力是美國的200倍，這種規模「極為驚人」。",
@@ -16,14 +24,6 @@
       "pubDate": "2025-09-01T09:36:32.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c4gqnz1ezl4o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9f2b/live/8959dab0-8623-11f0-b864-7f7bb1d9abeb.png"
-    },
-    {
-      "title": "保護國家安全還是排外？美國德州限制華人擁有或租賃房產",
-      "description": "批評人士擔心德州的一項新法律將具有歧視性，但官員表示這對於打擊「對手」至關重要。",
-      "link": "https://www.bbc.com/zhongwen/articles/c3dp7gle4y2o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-02T00:30:04.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3dp7gle4y2o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c808/live/91cb6440-8419-11f0-b391-6936825093bd.jpg"
     },
     {
       "title": "印尼21歲網約車司機之死引發全國性抗議，總統撤議員津貼安撫民心",
@@ -34,12 +34,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b316/live/9b1adae0-8666-11f0-b391-6936825093bd.jpg"
     },
     {
-      "title": "普京莫迪抵達中國參加上合峰會，但美中印貿易戰使峰會蒙上陰影",
-      "description": "俄羅斯總統普京和印度總理莫迪抵達中國，與20多位領導人共同出席上海合作組織峰會。這是莫迪七年來首次訪華。",
-      "link": "https://www.bbc.com/zhongwen/articles/clyv43nzgypo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-01T05:55:06.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/clyv43nzgypo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d64/live/c9453b50-863d-11f0-84c8-99de564f0440.jpg"
+      "title": "保護國家安全還是排外？美國德州限制華人擁有或租賃房產",
+      "description": "批評人士擔心德州的一項新法律將具有歧視性，但官員表示這對於打擊「對手」至關重要。",
+      "link": "https://www.bbc.com/zhongwen/articles/c3dp7gle4y2o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-02T00:30:04.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3dp7gle4y2o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c808/live/91cb6440-8419-11f0-b391-6936825093bd.jpg"
     },
     {
       "title": "極端高溫如何「融化」你的DNA並加速衰老？",
@@ -66,6 +66,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ccf0/live/ca978910-8154-11f0-a34f-318be3fb0481.jpg"
     },
     {
+      "title": "普京莫迪抵達中國參加上合峰會，但美中印貿易戰使峰會蒙上陰影",
+      "description": "俄羅斯總統普京和印度總理莫迪抵達中國，與20多位領導人共同出席上海合作組織峰會。這是莫迪七年來首次訪華。",
+      "link": "https://www.bbc.com/zhongwen/articles/clyv43nzgypo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-01T05:55:06.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/clyv43nzgypo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d64/live/c9453b50-863d-11f0-84c8-99de564f0440.jpg"
+    },
+    {
       "title": "「規模最大」的上合天津峰會  兩個最大鄰國是否在向北京靠攏？",
       "description": "上合組織天津峰會與抗日戰爭勝利閱兵將先後舉行，世界將注視習近平將與普京和莫迪等20多位外國領導人互動。",
       "link": "https://www.bbc.com/zhongwen/articles/c9qyzgjr3l5o/trad?at_medium=RSS&at_campaign=rss",
@@ -88,14 +96,6 @@
       "pubDate": "2025-08-31T06:52:09.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cglnr9w284po/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4222/live/f7970d00-862c-11f0-b391-6936825093bd.jpg"
-    },
-    {
-      "title": "特朗普政府將解僱大多數「美國之音」記者",
-      "description": "特朗普政府已決定解僱聯邦資助新聞機構「美國之音」（VOA）近500名員工。此舉是特朗普總統削減該機構的最新舉措，白宮曾指責該機構「激進」。",
-      "link": "https://www.bbc.com/zhongwen/articles/ckgedxz5qnvo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-31T07:18:26.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckgedxz5qnvo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fcdb/live/2f7e1010-8628-11f0-b391-6936825093bd.jpg"
     },
     {
       "title": "「每日最多兩小時」：日本豐明市倡限使用手機時間引發爭議",
