@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-02T12:46:53.538Z",
+  "updated": "2025-09-02T13:04:15.168Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "271",
+      "recommendCount": "540",
+      "title": "[新聞] 影／詹皇32秒廣告被狂吐槽！自戴王冠超尷尬球迷酸像「漢堡王」",
+      "link": "/bbs/NBA/M.1756786454.A.C02",
+      "author": "access4096",
+      "board": "NBA",
+      "publishTime": "2025/09/02 04:14",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "154",
       "recommendCount": "514",
       "title": "[新聞] 拳擊／遺憾！林郁婷性別檢測未獲官方確認　只能被迫退出世錦賽",
@@ -151,6 +161,16 @@
       "author": "BMWi3",
       "board": "Gossiping",
       "publishTime": "2025/09/01 15:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "228",
+      "recommendCount": "424",
+      "title": "[問卦] 脆：以後大家都不申請路權 直接走讀",
+      "link": "/bbs/Gossiping/M.1756809175.A.EA8",
+      "author": "chiafann",
+      "board": "Gossiping",
+      "publishTime": "2025/09/02 10:32",
       "imageUrl": ""
     },
     {
@@ -182,26 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/02 06:37",
       "imageUrl": "https://cache.pttweb.cc/imgur/ymIeg64/s/a437f380934972cc0a26f24fcd5ac942"
-    },
-    {
-      "recommendScore": "194",
-      "recommendCount": "324",
-      "title": "[問卦] 誰拍環保少女臉部特寫的",
-      "link": "/bbs/Gossiping/M.1756739458.A.445",
-      "author": "bluehttp",
-      "board": "Gossiping",
-      "publishTime": "2025/09/01 15:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/xQWz9cY/s/85e50174c8fa2651332bae45d994e3e7"
-    },
-    {
-      "recommendScore": "187",
-      "recommendCount": "382",
-      "title": "Re: [爆卦] 沈伯洋：所以現在要打我被害妄想症？",
-      "link": "/bbs/Gossiping/M.1756742657.A.26A",
-      "author": "yochiya",
-      "board": "Gossiping",
-      "publishTime": "2025/09/01 16:04",
-      "imageUrl": "https://cache.pttweb.cc/imgur/iVGDnnY/s/a42d589d8bbb45df2bdf5303ddcd60cf"
     }
   ]
 }
