@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-03T13:33:56.400Z",
+  "updated": "2025-09-03T13:45:43.560Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -134,16 +134,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "266",
-      "recommendCount": "375",
-      "title": "[情報] 富邦悍將 全年戰績淘汰",
-      "link": "/bbs/Baseball/M.1756820211.A.A65",
-      "author": "jack801016",
-      "board": "Baseball",
-      "publishTime": "2025/09/02 13:36",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "256",
       "recommendCount": "435",
       "title": "[爆卦] 今日柯文哲開庭 法官:大家不要訕笑哦！",
@@ -201,6 +191,16 @@
       "author": "seiya2000",
       "board": "Gossiping",
       "publishTime": "2025/09/03 00:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-134",
+      "recommendCount": "354",
+      "title": "[新聞] 四叉貓再爆疑黃國昌美國賓士車運回台灣",
+      "link": "/bbs/Gossiping/M.1756879462.A.5B2",
+      "author": "hbl420ii",
+      "board": "Gossiping",
+      "publishTime": "2025/09/03 06:04",
       "imageUrl": ""
     }
   ]
