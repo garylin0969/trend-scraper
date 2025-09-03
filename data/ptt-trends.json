@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-03T05:43:59.822Z",
+  "updated": "2025-09-03T05:53:37.176Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "327",
-      "recommendCount": "583",
-      "title": "[新聞] SPC-批球員看平板、挑戰不回休息室 鈴木",
-      "link": "/bbs/Baseball/M.1756792020.A.140",
-      "author": "ruka660101",
-      "board": "Baseball",
-      "publishTime": "2025/09/02 05:47",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "231",
       "recommendCount": "544",
       "title": "[問卦] 為什麼吊車大王這麼愛炫富？",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/09/03 01:26",
       "imageUrl": "https://cache.pttweb.cc/imgur/16HLVWO/s/96b93e9fa5a1a678771973a136df62d7"
+    },
+    {
+      "recommendScore": "225",
+      "recommendCount": "473",
+      "title": "[新聞] 國民黨主席最新網路民調超震撼！羅智強30.7%輾壓奪冠",
+      "link": "/bbs/Gossiping/M.1756798379.A.296",
+      "author": "LeeSeDol",
+      "board": "Gossiping",
+      "publishTime": "2025/09/02 07:32",
+      "imageUrl": ""
     }
   ]
 }
