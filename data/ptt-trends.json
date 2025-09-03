@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-03T11:17:08.507Z",
+  "updated": "2025-09-03T11:25:48.368Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -64,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "237",
+      "recommendCount": "520",
+      "title": "[新聞] 外媒：陸在台專屬區鑽探油氣 台灣政府零反應",
+      "link": "/bbs/Gossiping/M.1756872870.A.716",
+      "author": "borondawon",
+      "board": "Gossiping",
+      "publishTime": "2025/09/03 04:14",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "298",
       "recommendCount": "541",
       "title": "[新聞] 沈伯洋針孔案　精神科醫師點過程1關鍵：通常是被害妄想前奏",
@@ -91,16 +101,6 @@
       "author": "w310754",
       "board": "Gossiping",
       "publishTime": "2025/09/03 07:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "222",
-      "recommendCount": "492",
-      "title": "[新聞] 外媒：陸在台專屬區鑽探油氣 台灣政府零反應",
-      "link": "/bbs/Gossiping/M.1756872870.A.716",
-      "author": "borondawon",
-      "board": "Gossiping",
-      "publishTime": "2025/09/03 04:14",
       "imageUrl": ""
     },
     {
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "252",
-      "recommendCount": "350",
+      "recommendScore": "262",
+      "recommendCount": "363",
       "title": "[新聞] 中職》今晚再輸兄弟 富邦將吞史上第1次的不光彩紀錄",
       "link": "/bbs/Baseball/M.1756873751.A.5B4",
       "author": "access4096",
