@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-03T14:17:44.504Z",
+  "updated": "2025-09-03T14:30:16.709Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -134,16 +134,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "256",
-      "recommendCount": "435",
-      "title": "[爆卦] 今日柯文哲開庭 法官:大家不要訕笑哦！",
-      "link": "/bbs/Gossiping/M.1756823093.A.F3F",
-      "author": "WuSam",
-      "board": "Gossiping",
-      "publishTime": "2025/09/02 14:24",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "262",
       "recommendCount": "363",
       "title": "[新聞] 中職》今晚再輸兄弟 富邦將吞史上第1次的不光彩紀錄",
@@ -201,6 +191,16 @@
       "author": "hbl420ii",
       "board": "Gossiping",
       "publishTime": "2025/09/03 06:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "231",
+      "recommendCount": "329",
+      "title": "[新聞] SPC-直球最慢143公里！佐佐木朗希首局挨",
+      "link": "/bbs/Baseball/M.1756865238.A.5DD",
+      "author": "polanco",
+      "board": "Baseball",
+      "publishTime": "2025/09/03 02:07",
       "imageUrl": ""
     }
   ]
