@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-04T04:18:10.171Z",
+  "updated": "2025-09-04T04:30:48.645Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "280",
+      "recommendCount": "582",
+      "title": "[新聞] 獨家／水龍頭開了！行政院今將拍板新青安排除72-2限制、回溯至9月1日",
+      "link": "/bbs/Stock/M.1756950158.A.8A2",
+      "author": "allen1245124",
+      "board": "Stock",
+      "publishTime": "2025/09/04 01:42",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "201",
       "recommendCount": "489",
       "title": "[新聞] 賴清德2.0來了！傳民進黨高層「不逼柯建銘請辭」　改路線調整",
@@ -111,26 +121,6 @@
       "author": "Kevin0906",
       "board": "Baseball",
       "publishTime": "2025/09/03 13:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "272",
-      "recommendCount": "612",
-      "title": "[新聞] 18歲男自撞被燒死！男女「失魂蹲路邊」現況曝　驚悚行車紀錄器畫面流出",
-      "link": "/bbs/Gossiping/M.1756873489.A.A52",
-      "author": "coon182",
-      "board": "Gossiping",
-      "publishTime": "2025/09/03 04:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "262",
-      "recommendCount": "364",
-      "title": "[新聞] 中職》今晚再輸兄弟 富邦將吞史上第1次的不光彩紀錄",
-      "link": "/bbs/Baseball/M.1756873751.A.5B4",
-      "author": "access4096",
-      "board": "Baseball",
-      "publishTime": "2025/09/03 04:29",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "yaoyang30103",
       "board": "Baseball",
       "publishTime": "2025/09/03 12:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "177",
+      "recommendCount": "334",
+      "title": "[新聞] 江祖平火大連環爆料！公開「性侵男」正面照與名字不忍了",
+      "link": "/bbs/Gossiping/M.1756910958.A.61C",
+      "author": "eric12",
+      "board": "Gossiping",
+      "publishTime": "2025/09/03 14:49",
       "imageUrl": ""
     }
   ]
