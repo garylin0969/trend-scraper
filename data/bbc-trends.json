@@ -1,14 +1,22 @@
 {
-  "updated": "2025-09-04T07:46:59.394Z",
+  "updated": "2025-09-04T08:23:20.594Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-09-04T07:46:41.000Z",
+    "lastBuildDate": "2025-09-04T08:23:03.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "中國閱兵大秀對特朗普貿易政策的高危啟示",
+      "description": "BBC記者安東尼·澤克爾分析北京的閱兵展示了特朗普如何在短短數月內促成新的國際盟友關係。",
+      "link": "https://www.bbc.com/zhongwen/articles/clyq9xg8zqqo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-04T07:59:49.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/clyq9xg8zqqo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d416/live/62406460-890e-11f0-83e9-6f8669b06553.jpg"
+    },
     {
       "title": "習近平在國際舞台搶盡風頭，挑戰美國主導的世界秩序",
       "description": "習近平高調展現權力和影響力，正面挑戰美國主導的全球秩序。",
@@ -16,14 +24,6 @@
       "pubDate": "2025-09-04T06:53:28.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c62n30dz1xvo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/689e/live/f0990300-891a-11f0-84c8-99de564f0440.jpg"
-    },
-    {
-      "title": "金正恩高調亮相北京閲兵：多邊外交首秀中的「政治勝利」",
-      "description": "朝、中、俄三國領導人並肩而立的畫面，最近一次出現還在66年前。",
-      "link": "https://www.bbc.com/zhongwen/articles/c8exr10kwzjo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-04T03:53:13.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c8exr10kwzjo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5960/live/f4509120-8938-11f0-84c8-99de564f0440.jpg"
     },
     {
       "title": "印尼總統去看中國閱兵了　國內的「娘子軍」接力抗議",
@@ -48,6 +48,14 @@
       "pubDate": "2025-09-04T06:22:49.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cwy94710qeqo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3c95/live/c9b9a960-88ed-11f0-9cf6-cbf3e73ce2b9.jpg"
+    },
+    {
+      "title": "金正恩高調亮相北京閲兵：多邊外交首秀中的「政治勝利」",
+      "description": "朝、中、俄三國領導人並肩而立的畫面，最近一次出現還在66年前。",
+      "link": "https://www.bbc.com/zhongwen/articles/c8exr10kwzjo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-04T03:53:13.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c8exr10kwzjo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5960/live/f4509120-8938-11f0-84c8-99de564f0440.jpg"
     },
     {
       "title": "BBC記者分析中國閱兵：「給予特朗普的明確訊息」",
@@ -104,14 +112,6 @@
       "pubDate": "2025-09-03T02:18:26.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ce8385lz9zeo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f0a6/live/fe2efc70-87c3-11f0-9cf6-cbf3e73ce2b9.jpg"
-    },
-    {
-      "title": "金正恩攜女兒金主愛抵達北京出席中國閱兵式",
-      "description": "本週三舉行的「抗戰勝利日」閱兵式，將見證金正恩與中國國家主席習近平、俄羅斯總統普京及其他領導人同台。",
-      "link": "https://www.bbc.com/zhongwen/articles/cnv7v9lr2l2o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-03T00:27:48.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cnv7v9lr2l2o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fe58/live/24722d60-8802-11f0-9cf6-cbf3e73ce2b9.jpg"
     },
     {
       "title": "中國「93閱兵」 習近平、金正恩、普京歷史性同框",
@@ -194,6 +194,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c003/live/1cadb8b0-6ead-11f0-89ea-4d6f9851f623.jpg"
     },
     {
+      "title": "金正恩攜女兒金主愛抵達北京出席中國閱兵式",
+      "description": "本週三舉行的「抗戰勝利日」閱兵式，將見證金正恩與中國國家主席習近平、俄羅斯總統普京及其他領導人同台。",
+      "link": "https://www.bbc.com/zhongwen/articles/cnv7v9lr2l2o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-03T00:27:48.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cnv7v9lr2l2o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fe58/live/24722d60-8802-11f0-9cf6-cbf3e73ce2b9.jpg"
+    },
+    {
       "title": "從毛澤東到習近平，一文看清1949年以來17次天安門閱兵的異同",
       "description": "在今年「9·3大閱兵」之際，BBC中文整理過去中國閱兵的歷史，一窺在其中的政治意涵與演變。",
       "link": "https://www.bbc.com/zhongwen/articles/cde3erl8lpdo/trad?at_medium=RSS&at_campaign=rss",
@@ -216,14 +224,6 @@
       "pubDate": "2025-09-03T05:48:48.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c9qyq9rv98jo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a11e/live/0acb3190-88a7-11f0-b391-6936825093bd.jpg"
-    },
-    {
-      "title": "莫迪為何進津卻不入京，中印互動背後的「特朗普因素」等觀察重點",
-      "description": "習近平與莫迪的會晤舉行前幾天，特朗普政府才剛對印度加徵高額關稅。和絕大多數參加上合組織峰會的領導人行程不同，莫迪並不會出席中國的93閱兵式。",
-      "link": "https://www.bbc.com/zhongwen/articles/c6202xw5y31o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-02T03:18:01.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c6202xw5y31o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c16f/live/bdbea9e0-86e4-11f0-a344-ff1868f51708.jpg"
     },
     {
       "title": "武漢大學「性騷擾」案餘波：如何在維權和「誣告」之間尋求解決之道",
