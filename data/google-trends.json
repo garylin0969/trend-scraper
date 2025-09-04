@@ -1,20 +1,30 @@
 {
-  "updated": "2025-09-04T22:37:13.319Z",
+  "updated": "2025-09-04T23:08:30.002Z",
   "trends": [
     {
-      "googleTrend": "台指期夜盤",
+      "googleTrend": "avgo",
+      "searchVolume": "100+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "美國網球公開賽",
       "searchVolume": "200+",
-      "started": "20 分鐘前"
+      "started": "10 分鐘前"
+    },
+    {
+      "googleTrend": "博通股價",
+      "searchVolume": "100+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "氣象預報",
+      "searchVolume": "100+",
+      "started": "10 分鐘前"
     },
     {
       "googleTrend": "台灣大哥大",
       "searchVolume": "100+",
-      "started": "20 分鐘前"
-    },
-    {
-      "googleTrend": "adr",
-      "searchVolume": "100+",
-      "started": "30 分鐘前"
+      "started": "50 分鐘前"
     }
   ]
 }
