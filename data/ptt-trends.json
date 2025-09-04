@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-04T12:23:23.540Z",
+  "updated": "2025-09-04T12:46:41.918Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "161",
+      "recommendCount": "690",
+      "title": "[問卦] 脆：貪污搜不到錢 是因為藏起來了..",
+      "link": "/bbs/Gossiping/M.1756971554.A.D1C",
+      "author": "Crystal0322",
+      "board": "Gossiping",
+      "publishTime": "2025/09/04 07:39",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "417",
       "recommendCount": "844",
       "title": "[情報] Steve Ballmer可能私下繞道塞28M給Kawhi",
@@ -191,16 +201,6 @@
       "author": "EZ78",
       "board": "NBA",
       "publishTime": "2025/09/03 14:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-63",
-      "recommendCount": "578",
-      "title": "[新聞] 「橘子」許芷瑜疑帶賄款1500萬逃亡 檢認為柯文哲交保「會串供」",
-      "link": "/bbs/Gossiping/M.1756956200.A.46D",
-      "author": "osalucard",
-      "board": "Gossiping",
-      "publishTime": "2025/09/04 03:23",
       "imageUrl": ""
     }
   ]
