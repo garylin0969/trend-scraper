@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-04T10:53:49.364Z",
+  "updated": "2025-09-04T11:05:00.299Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -21,6 +21,16 @@
       "author": "allen1245124",
       "board": "Stock",
       "publishTime": "2025/09/04 01:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "396",
+      "recommendCount": "661",
+      "title": "[新聞] 快訊／三立稱「持續聯繫」江祖平怒打臉！砲轟：沒人聯絡我要繼續說謊？",
+      "link": "/bbs/Gossiping/M.1756970630.A.FBA",
+      "author": "nybbnan",
+      "board": "Gossiping",
+      "publishTime": "2025/09/04 07:23",
       "imageUrl": ""
     },
     {
@@ -164,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "137",
+      "recommendCount": "450",
+      "title": "[新聞] 獨家／水龍頭開了！行政院今將拍板新青安排除72-2限制、回溯至9月1日",
+      "link": "/bbs/Gossiping/M.1756950102.A.665",
+      "author": "lycppt",
+      "board": "Gossiping",
+      "publishTime": "2025/09/04 01:41",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-60",
       "recommendCount": "557",
       "title": "[新聞] 「橘子」許芷瑜疑帶賄款1500萬逃亡 檢認為柯文哲交保「會串供」",
@@ -174,16 +194,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "135",
-      "recommendCount": "441",
-      "title": "[新聞] 獨家／水龍頭開了！行政院今將拍板新青安排除72-2限制、回溯至9月1日",
-      "link": "/bbs/Gossiping/M.1756950102.A.665",
-      "author": "lycppt",
-      "board": "Gossiping",
-      "publishTime": "2025/09/04 01:41",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "227",
       "recommendCount": "362",
       "title": "[新聞] 國民黨推「萊爾校長」捏捏球！限量只有3千份　如何獲得一次看",
@@ -191,16 +201,6 @@
       "author": "qishuv",
       "board": "Gossiping",
       "publishTime": "2025/09/04 05:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "208",
-      "recommendCount": "347",
-      "title": "[花邊] Ben Simmons不確定自己是否想繼續打球",
-      "link": "/bbs/NBA/M.1756950863.A.17C",
-      "author": "Kazmier",
-      "board": "NBA",
-      "publishTime": "2025/09/04 01:54",
       "imageUrl": ""
     }
   ]
