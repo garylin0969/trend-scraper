@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-04T17:27:39.690Z",
+  "updated": "2025-09-04T17:35:58.931Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -21,6 +21,16 @@
       "author": "CF661020",
       "board": "Gossiping",
       "publishTime": "2025/09/04 06:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "512",
+      "recommendCount": "1055",
+      "title": "[問卦] 1500萬裝行李箱飛出國 北檢是低能兒？",
+      "link": "/bbs/Gossiping/M.1756973915.A.C9D",
+      "author": "ambitious",
+      "board": "Gossiping",
+      "publishTime": "2025/09/04 08:18",
       "imageUrl": ""
     },
     {
@@ -185,22 +195,12 @@
     },
     {
       "recommendScore": "201",
-      "recommendCount": "487",
+      "recommendCount": "489",
       "title": "[新聞] 柯文哲、應曉薇羈押期將屆滿！法官今提訊2人到庭　進行延押訊問",
       "link": "/bbs/Gossiping/M.1756950523.A.E16",
       "author": "HTC92",
       "board": "Gossiping",
       "publishTime": "2025/09/04 01:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-63",
-      "recommendCount": "578",
-      "title": "[新聞] 「橘子」許芷瑜疑帶賄款1500萬逃亡 檢認為柯文哲交保「會串供」",
-      "link": "/bbs/Gossiping/M.1756956200.A.46D",
-      "author": "osalucard",
-      "board": "Gossiping",
-      "publishTime": "2025/09/04 03:23",
       "imageUrl": ""
     }
   ]
