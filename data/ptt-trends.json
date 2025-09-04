@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-04T11:16:58.412Z",
+  "updated": "2025-09-04T11:26:04.829Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "436",
+      "recommendCount": "543",
+      "title": "[問卦] 發錢！鄰居阿北今天回家就發爆！",
+      "link": "/bbs/Gossiping/M.1756965662.A.609",
+      "author": "gerychen",
+      "board": "Gossiping",
+      "publishTime": "2025/09/04 06:01",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "396",
       "recommendCount": "661",
       "title": "[新聞] 快訊／三立稱「持續聯繫」江祖平怒打臉！砲轟：沒人聯絡我要繼續說謊？",
@@ -54,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "333",
-      "recommendCount": "741",
+      "recommendScore": "335",
+      "recommendCount": "745",
       "title": "[新聞] 家裡藏6千萬到3億現金？陳佩琪痛批瞎掰：檢察官至少先搜到錢再寫進起訴書吧",
       "link": "/bbs/Gossiping/M.1756913920.A.A79",
       "author": "deathdecay",
@@ -64,18 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "392",
-      "recommendCount": "478",
-      "title": "[問卦] 發錢！鄰居阿北今天回家就發爆！",
-      "link": "/bbs/Gossiping/M.1756965662.A.609",
-      "author": "gerychen",
-      "board": "Gossiping",
-      "publishTime": "2025/09/04 06:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "297",
-      "recommendCount": "561",
+      "recommendScore": "305",
+      "recommendCount": "584",
       "title": "[問卦] 無視銀行法72-2條已經是明知違法了吧？",
       "link": "/bbs/Gossiping/M.1756953289.A.766",
       "author": "nicolaschen2",
@@ -94,8 +94,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/QYTzsYG/s/06880d4c68c859b2249cd84a3e71ab7e"
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "500",
+      "recommendScore": "208",
+      "recommendCount": "503",
       "title": "[新聞] 賴清德2.0來了！傳民進黨高層「不逼柯建銘請辭」　改路線調整",
       "link": "/bbs/Gossiping/M.1756909899.A.58A",
       "author": "nightwing",
@@ -114,13 +114,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "198",
-      "recommendCount": "497",
+      "recommendScore": "203",
+      "recommendCount": "510",
       "title": "[問卦] 中天和三立只能選一台關掉你怎麼選？",
       "link": "/bbs/Gossiping/M.1756952051.A.737",
       "author": "zzzzzzzzzzzy",
       "board": "Gossiping",
       "publishTime": "2025/09/04 02:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "266",
+      "recommendCount": "440",
+      "title": "[問卦] 陳思荔檢察官害人自殺有資格談論人權？",
+      "link": "/bbs/Gossiping/M.1756960180.A.BCA",
+      "author": "touurtn",
+      "board": "Gossiping",
+      "publishTime": "2025/09/04 04:29",
       "imageUrl": ""
     },
     {
@@ -164,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "236",
-      "recommendCount": "390",
-      "title": "[問卦] 陳思荔檢察官害人自殺有資格談論人權？",
-      "link": "/bbs/Gossiping/M.1756960180.A.BCA",
-      "author": "touurtn",
-      "board": "Gossiping",
-      "publishTime": "2025/09/04 04:29",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "417",
       "recommendCount": "844",
       "title": "[情報] Steve Ballmer可能私下繞道塞28M給Kawhi",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-60",
+      "recommendCount": "569",
+      "title": "[新聞] 「橘子」許芷瑜疑帶賄款1500萬逃亡 檢認為柯文哲交保「會串供」",
+      "link": "/bbs/Gossiping/M.1756956200.A.46D",
+      "author": "osalucard",
+      "board": "Gossiping",
+      "publishTime": "2025/09/04 03:23",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "137",
       "recommendCount": "450",
       "title": "[新聞] 獨家／水龍頭開了！行政院今將拍板新青安排除72-2限制、回溯至9月1日",
@@ -191,16 +201,6 @@
       "author": "lycppt",
       "board": "Gossiping",
       "publishTime": "2025/09/04 01:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-60",
-      "recommendCount": "557",
-      "title": "[新聞] 「橘子」許芷瑜疑帶賄款1500萬逃亡 檢認為柯文哲交保「會串供」",
-      "link": "/bbs/Gossiping/M.1756956200.A.46D",
-      "author": "osalucard",
-      "board": "Gossiping",
-      "publishTime": "2025/09/04 03:23",
       "imageUrl": ""
     }
   ]
