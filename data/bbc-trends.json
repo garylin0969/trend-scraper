@@ -1,30 +1,14 @@
 {
-  "updated": "2025-09-04T03:48:58.433Z",
+  "updated": "2025-09-04T04:22:52.473Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-09-04T03:48:53.000Z",
+    "lastBuildDate": "2025-09-04T04:22:45.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
-    {
-      "title": "中國93閱兵解析：新武器亮相、將領變動及習近平朋友圈三大看點",
-      "description": "上一次，中朝俄羅斯（蘇聯）站在一起，是在70多年前的朝鮮戰爭，面對的是美國主導的聯合國軍，而即便是在當年「一邊倒」的外交環境下，中、朝、俄三國領導人也從未一同出現並留下照片。",
-      "link": "https://www.bbc.com/zhongwen/articles/c62w2lz6750o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-03T08:24:36.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c62w2lz6750o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4f28/live/544c18e0-88a5-11f0-b391-6936825093bd.jpg"
-    },
-    {
-      "title": "BBC記者分析中國閱兵：「給予特朗普的明確訊息」",
-      "description": "中國展現實力之際，將自己定位為美國全球平衡力量。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gwqqxlkgjo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-03T11:02:09.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gwqqxlkgjo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/90a2/live/98d1e900-889a-11f0-84c8-99de564f0440.jpg"
-    },
     {
       "title": "93閱兵觀察：從新武器看中國軍事力量的五大訊號",
       "description": "撇開宣傳炒作與耀眼的新武器，中國這場閱兵帶來了的五點觀察。",
@@ -34,20 +18,36 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/52a2/live/0e4137c0-88a2-11f0-8b3f-67b2e7d47fb0.jpg"
     },
     {
+      "title": "BBC記者分析中國閱兵：「給予特朗普的明確訊息」",
+      "description": "這場力量展示正值北京將自身定位為美國的全球抗衡力量之際。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gwqqxlkgjo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-03T11:02:09.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gwqqxlkgjo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/90a2/live/98d1e900-889a-11f0-84c8-99de564f0440.jpg"
+    },
+    {
+      "title": "金正恩高調亮相北京閲兵：多邊外交首秀中的「政治勝利」",
+      "description": "朝、中、俄三國領導人並肩而立的畫面，最近一次出現還在66年前。",
+      "link": "https://www.bbc.com/zhongwen/articles/c8exr10kwzjo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-04T03:53:13.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c8exr10kwzjo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5960/live/f4509120-8938-11f0-84c8-99de564f0440.jpg"
+    },
+    {
+      "title": "普京警告：若烏克蘭拒絕協議，俄羅斯將以軍事手段實現所有目標",
+      "description": "特朗普上月在阿拉斯加與普京會晤，使其走出國際孤立，並試圖促成普京與烏克蘭總統澤連斯基會面。普京週三表示：「我從未排除這種可能，但是否有意義？我們得再看。」",
+      "link": "https://www.bbc.com/zhongwen/articles/ckg2we0yr5go/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-04T04:14:13.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckg2we0yr5go/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5c5d/live/6d65e670-88dd-11f0-84c8-99de564f0440.jpg"
+    },
+    {
       "title": "中國民眾如何看待「93閱兵」：中國排面、憶苦思甜、調侃鄰國",
       "description": "在這場「揚國威」的閱兵前後，中國民眾有何反應？有哪些值得注意的元素？",
       "link": "https://www.bbc.com/zhongwen/articles/c4gjggrz27xo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-09-03T08:57:08.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c4gjggrz27xo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/675f/live/92810f60-889d-11f0-9cf6-cbf3e73ce2b9.jpg"
-    },
-    {
-      "title": "圖輯：2025年中國「9·3 大閱兵」",
-      "description": "這是十年來第二次九三閱兵，也是習近平上任後第三次天安門閱兵。中俄朝三國元首次歷史性同框。",
-      "link": "https://www.bbc.com/zhongwen/articles/c9qyq9rv98jo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-03T05:48:48.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c9qyq9rv98jo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a11e/live/0acb3190-88a7-11f0-b391-6936825093bd.jpg"
     },
     {
       "title": "無人機外送：熱騰騰的炸薯條如何送到偏遠地區的家門",
@@ -194,6 +194,22 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c003/live/1cadb8b0-6ead-11f0-89ea-4d6f9851f623.jpg"
     },
     {
+      "title": "中國93閱兵解析：新武器亮相、將領變動及習近平朋友圈三大看點",
+      "description": "上一次，中朝俄羅斯（蘇聯）站在一起，是在70多年前的朝鮮戰爭，面對的是美國主導的聯合國軍，而即便是在當年「一邊倒」的外交環境下，中、朝、俄三國領導人也從未一同出現並留下照片。",
+      "link": "https://www.bbc.com/zhongwen/articles/c62w2lz6750o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-03T08:24:36.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c62w2lz6750o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4f28/live/544c18e0-88a5-11f0-b391-6936825093bd.jpg"
+    },
+    {
+      "title": "圖輯：2025年中國「9·3 大閱兵」",
+      "description": "這是十年來第二次九三閱兵，也是習近平上任後第三次天安門閱兵。中俄朝三國元首次歷史性同框。",
+      "link": "https://www.bbc.com/zhongwen/articles/c9qyq9rv98jo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-03T05:48:48.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c9qyq9rv98jo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a11e/live/0acb3190-88a7-11f0-b391-6936825093bd.jpg"
+    },
+    {
       "title": "送貨司機之死如何引發印尼騷亂",
       "description": "隨著反政府騷亂在印尼各地蔓延，抗議者慘遭殺害，建築物被焚燒，政客的住所被洗劫一空，當局對此採取了武力回應。這次大規模抗議從何而來、又要引到何處去？",
       "link": "https://www.bbc.com/zhongwen/articles/c1dxdn1313no/trad?at_medium=RSS&at_campaign=rss",
@@ -216,22 +232,6 @@
       "pubDate": "2025-09-02T08:27:02.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c05e56qd2e2o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ff3c/live/6428aab0-87c1-11f0-b391-6936825093bd.jpg"
-    },
-    {
-      "title": "中國海軍以驚人速度擴張，正在追上美國",
-      "description": "一位專家表示，北京的造船能力是美國的200倍，這種規模「極為驚人」。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gqnz1ezl4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-01T09:36:32.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gqnz1ezl4o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9f2b/live/8959dab0-8623-11f0-b864-7f7bb1d9abeb.png"
-    },
-    {
-      "title": "「規模最大」的上合天津峰會  兩個最大鄰國是否在向北京靠攏？",
-      "description": "上合組織天津峰會與抗日戰爭勝利閱兵將先後舉行，世界將注視習近平將與普京和莫迪等20多位外國領導人互動。",
-      "link": "https://www.bbc.com/zhongwen/articles/c9qyzgjr3l5o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-29T08:14:19.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c9qyzgjr3l5o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/94d3/live/ed2d3790-84a1-11f0-b319-ab41cfc9fe62.jpg"
     },
     {
       "title": "普京金正恩確定參加93閱兵，如何觀察背後的權力展示、智能戰爭、盟友變遷以及兩岸角力",
@@ -282,6 +282,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c7ad/live/02b31ad0-832b-11f0-a34f-318be3fb0481.jpg"
     },
     {
+      "title": "「規模最大」的上合天津峰會  兩個最大鄰國是否在向北京靠攏？",
+      "description": "上合組織天津峰會與抗日戰爭勝利閱兵將先後舉行，世界將注視習近平將與普京和莫迪等20多位外國領導人互動。",
+      "link": "https://www.bbc.com/zhongwen/articles/c9qyzgjr3l5o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-29T08:14:19.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c9qyzgjr3l5o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/94d3/live/ed2d3790-84a1-11f0-b319-ab41cfc9fe62.jpg"
+    },
+    {
       "title": "極端高溫如何「融化」你的DNA並加速衰老？",
       "description": "醫生們長期以來一直懷疑反覆暴露於熱浪會對身體造成損害。一項研究表明，反覆暴露於高溫可能會像吸煙或飲酒一樣加速老化。",
       "link": "https://www.bbc.com/zhongwen/articles/cjeyqjp50kxo/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2025-08-29T02:04:02.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c36jlkdld0xo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c762/live/e7a911f0-83e2-11f0-83cc-c5da98c419b8.jpg"
-    },
-    {
-      "title": "「每日最多兩小時」：日本豐明市倡限使用手機時間引發爭議",
-      "description": "市長表示，該提議僅適用於工作和學習以外的時間，不會嚴格執行，而是旨在「鼓勵」居民更好地管理自己的螢幕時間。",
-      "link": "https://www.bbc.com/zhongwen/articles/c2063mpr4yro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-30T00:55:04.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c2063mpr4yro/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/09b3/live/f3e589a0-83ae-11f0-bf09-3f04e5569612.jpg"
     }
   ]
 }
