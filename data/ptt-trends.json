@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-05T11:25:38.736Z",
+  "updated": "2025-09-05T11:34:09.891Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "311",
+      "recommendCount": "686",
+      "title": "[新聞] 國內鮮乳消費量今年恐迎來首度下跌 農業部分析原因",
+      "link": "/bbs/Stock/M.1757023914.A.EFE",
+      "author": "keel90135",
+      "board": "Stock",
+      "publishTime": "2025/09/04 22:11",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "332",
       "recommendCount": "669",
       "title": "[新聞] 快訊／應曉薇可以回家了　北院裁定3000萬元、限制住居",
@@ -34,18 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "306",
-      "recommendCount": "678",
-      "title": "[新聞] 國內鮮乳消費量今年恐迎來首度下跌 農業部分析原因",
-      "link": "/bbs/Stock/M.1757023914.A.EFE",
-      "author": "keel90135",
-      "board": "Stock",
-      "publishTime": "2025/09/04 22:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "300",
-      "recommendCount": "566",
+      "recommendScore": "303",
+      "recommendCount": "569",
       "title": "[新聞] 快新聞／不用疊加！美日關稅今正式上路",
       "link": "/bbs/Gossiping/M.1757030083.A.93C",
       "author": "fickleness",
