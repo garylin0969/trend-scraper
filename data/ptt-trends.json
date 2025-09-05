@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-05T10:54:49.967Z",
+  "updated": "2025-09-05T11:05:06.166Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -51,6 +51,16 @@
       "author": "fickleness",
       "board": "Gossiping",
       "publishTime": "2025/09/04 23:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "265",
+      "recommendCount": "633",
+      "title": "[新聞] 檢方用「橘子」許芷瑜未到案當羈押柯文哲理由 法官不採信理由出爐",
+      "link": "/bbs/Gossiping/M.1757055120.A.403",
+      "author": "turbomons",
+      "board": "Gossiping",
+      "publishTime": "2025/09/05 06:52",
       "imageUrl": ""
     },
     {
@@ -164,8 +174,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "218",
-      "recommendCount": "620",
+      "recommendScore": "199",
+      "recommendCount": "365",
+      "title": "[問卦] 一人一句送給萊爾校長",
+      "link": "/bbs/Gossiping/M.1757054829.A.2C8",
+      "author": "ChangHash",
+      "board": "Gossiping",
+      "publishTime": "2025/09/05 06:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "220",
+      "recommendCount": "623",
       "title": "[新聞] 江祖平深夜再發聲！　掀無意識硬上內幕：原來情侶可以這樣喔？",
       "link": "/bbs/Gossiping/M.1757001777.A.A79",
       "author": "eric12",
@@ -182,26 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/04 12:49",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "192",
-      "recommendCount": "461",
-      "title": "[新聞] 檢方用「橘子」許芷瑜未到案當羈押柯文哲理由 法官不採信理由出爐",
-      "link": "/bbs/Gossiping/M.1757055120.A.403",
-      "author": "turbomons",
-      "board": "Gossiping",
-      "publishTime": "2025/09/05 06:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "79",
-      "recommendCount": "431",
-      "title": "[爆卦] 龔益霆 IG 反擊了！！",
-      "link": "/bbs/Gossiping/M.1756986895.A.7CA",
-      "author": "kmter5566",
-      "board": "Gossiping",
-      "publishTime": "2025/09/04 11:54",
-      "imageUrl": "https://cache.pttweb.cc/imgur/AC3rZZb/s/7c98792f7c60eafce218fffa3efc4092"
     }
   ]
 }
