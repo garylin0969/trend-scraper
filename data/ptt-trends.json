@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-05T08:07:17.695Z",
+  "updated": "2025-09-05T08:19:19.108Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "304",
+      "recommendCount": "676",
+      "title": "[新聞] 國內鮮乳消費量今年恐迎來首度下跌 農業部分析原因",
+      "link": "/bbs/Stock/M.1757023914.A.EFE",
+      "author": "keel90135",
+      "board": "Stock",
+      "publishTime": "2025/09/04 22:11",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "330",
       "recommendCount": "661",
       "title": "[新聞] 快訊／應曉薇可以回家了　北院裁定3000萬元、限制住居",
@@ -51,16 +61,6 @@
       "author": "fickleness",
       "board": "Gossiping",
       "publishTime": "2025/09/04 23:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "300",
-      "recommendCount": "672",
-      "title": "[新聞] 國內鮮乳消費量今年恐迎來首度下跌 農業部分析原因",
-      "link": "/bbs/Stock/M.1757023914.A.EFE",
-      "author": "keel90135",
-      "board": "Stock",
-      "publishTime": "2025/09/04 22:11",
       "imageUrl": ""
     },
     {
@@ -104,8 +104,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/u7vPdle/s/ff6b5f33309e20e23bda86c5743bf18d"
     },
     {
-      "recommendScore": "338",
-      "recommendCount": "541",
+      "recommendScore": "339",
+      "recommendCount": "542",
       "title": "[新聞] 傻眼！開學發現「沒棒球隊」 學生控招生被騙",
       "link": "/bbs/Baseball/M.1756992177.A.8E2",
       "author": "ruka660101",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "255",
-      "recommendCount": "706",
+      "recommendScore": "257",
+      "recommendCount": "710",
       "title": "[討論] 為什麼林智勝引退熱度差那麼多？",
       "link": "/bbs/Baseball/M.1757002574.A.CB3",
       "author": "michael23",
@@ -144,14 +144,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "204",
-      "recommendCount": "559",
+      "recommendScore": "205",
+      "recommendCount": "564",
       "title": "[新聞] 快訊／柯文哲7000萬交保",
       "link": "/bbs/Gossiping/M.1757045723.A.414",
       "author": "swommy",
       "board": "Gossiping",
       "publishTime": "2025/09/05 04:15",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "270",
+      "recommendCount": "586",
+      "title": "[爆卦] 黃國昌：怕柯P不願交保",
+      "link": "/bbs/Gossiping/M.1757049040.A.BBD",
+      "author": "enzo50",
+      "board": "Gossiping",
+      "publishTime": "2025/09/05 05:10",
+      "imageUrl": "https://cache.pttweb.cc/imgur/elQTTEs/s/9ef93dceda415f985b063466cd1f422c"
     },
     {
       "recommendScore": "202",
@@ -164,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "211",
-      "recommendCount": "465",
+      "recommendScore": "217",
+      "recommendCount": "472",
       "title": "[新聞] 快訊／柯文哲、應曉薇可以回家了　各以7000萬、3000萬交保",
       "link": "/bbs/Gossiping/M.1757045431.A.9A6",
       "author": "osalucard",
@@ -184,24 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "198",
-      "recommendCount": "399",
+      "recommendScore": "199",
+      "recommendCount": "401",
       "title": "[新聞] 鄭文燦貪汙案又換法官 64期剛分發「舊」人中籤全新合議庭接手",
       "link": "/bbs/Gossiping/M.1756990142.A.477",
       "author": "sixpoint",
       "board": "Gossiping",
       "publishTime": "2025/09/04 12:49",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "79",
-      "recommendCount": "431",
-      "title": "[爆卦] 龔益霆 IG 反擊了！！",
-      "link": "/bbs/Gossiping/M.1756986895.A.7CA",
-      "author": "kmter5566",
-      "board": "Gossiping",
-      "publishTime": "2025/09/04 11:54",
-      "imageUrl": "https://cache.pttweb.cc/imgur/AC3rZZb/s/7c98792f7c60eafce218fffa3efc4092"
     }
   ]
 }
