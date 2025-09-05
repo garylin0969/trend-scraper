@@ -1,17 +1,27 @@
 {
-  "updated": "2025-09-05T13:44:52.212Z",
+  "updated": "2025-09-05T13:53:39.010Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "515",
-      "recommendCount": "1112",
+      "recommendScore": "532",
+      "recommendCount": "1140",
       "title": "[新聞] 快訊／今天不回家！柯文哲只籌到5千萬稱要再深思　下週一再律見",
       "link": "/bbs/Gossiping/M.1757062209.A.D38",
       "author": "kmter5566",
       "board": "Gossiping",
       "publishTime": "2025/09/05 08:50",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "507",
+      "recommendCount": "1058",
+      "title": "[爆卦] 柯文哲正式聲明",
+      "link": "/bbs/Gossiping/M.1757065321.A.604",
+      "author": "KH8019",
+      "board": "Gossiping",
+      "publishTime": "2025/09/05 09:42",
+      "imageUrl": "https://cache.pttweb.cc/imgur/RIVkmRw/s/e1096493d24e67895fbbd29187112ff0"
     },
     {
       "recommendScore": "477",
@@ -22,16 +32,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/05 06:03",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "470",
-      "recommendCount": "971",
-      "title": "[爆卦] 柯文哲正式聲明",
-      "link": "/bbs/Gossiping/M.1757065321.A.604",
-      "author": "KH8019",
-      "board": "Gossiping",
-      "publishTime": "2025/09/05 09:42",
-      "imageUrl": "https://cache.pttweb.cc/imgur/RIVkmRw/s/e1096493d24e67895fbbd29187112ff0"
     },
     {
       "recommendScore": "311",
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "279",
+      "recommendCount": "668",
+      "title": "[新聞] 檢方用「橘子」許芷瑜未到案當羈押柯文哲理由 法官不採信理由出爐",
+      "link": "/bbs/Gossiping/M.1757055120.A.403",
+      "author": "turbomons",
+      "board": "Gossiping",
+      "publishTime": "2025/09/05 06:52",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "303",
       "recommendCount": "570",
       "title": "[新聞] 快新聞／不用疊加！美日關稅今正式上路",
@@ -64,33 +74,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "275",
-      "recommendCount": "658",
-      "title": "[新聞] 檢方用「橘子」許芷瑜未到案當羈押柯文哲理由 法官不採信理由出爐",
-      "link": "/bbs/Gossiping/M.1757055120.A.403",
-      "author": "turbomons",
-      "board": "Gossiping",
-      "publishTime": "2025/09/05 06:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "257",
-      "recommendCount": "491",
-      "title": "[問卦] 一人一句送給萊爾校長",
-      "link": "/bbs/Gossiping/M.1757054829.A.2C8",
-      "author": "ChangHash",
-      "board": "Gossiping",
-      "publishTime": "2025/09/05 06:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "332",
-      "recommendCount": "767",
+      "recommendScore": "353",
+      "recommendCount": "829",
       "title": "Re: [新聞] 快訊／今天不回家！柯文哲只籌到5千萬稱要再深思　下週一再律見",
       "link": "/bbs/Gossiping/M.1757063067.A.EBA",
       "author": "winterson",
       "board": "Gossiping",
       "publishTime": "2025/09/05 09:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "263",
+      "recommendCount": "503",
+      "title": "[問卦] 一人一句送給萊爾校長",
+      "link": "/bbs/Gossiping/M.1757054829.A.2C8",
+      "author": "ChangHash",
+      "board": "Gossiping",
+      "publishTime": "2025/09/05 06:47",
       "imageUrl": ""
     },
     {
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "530",
+      "recommendScore": "245",
+      "recommendCount": "531",
       "title": "[新聞] 一波三折！鄭文燦貪污案法官「3度更換」中籤法官名單曝光",
       "link": "/bbs/Gossiping/M.1756994344.A.A26",
       "author": "TBOC",
@@ -122,6 +122,16 @@
       "board": "Gossiping",
       "publishTime": "2025/09/04 23:11",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "305",
+      "recommendCount": "676",
+      "title": "[爆卦] 黃國昌：怕柯P不願交保",
+      "link": "/bbs/Gossiping/M.1757049040.A.BBD",
+      "author": "enzo50",
+      "board": "Gossiping",
+      "publishTime": "2025/09/05 05:10",
+      "imageUrl": "https://cache.pttweb.cc/imgur/elQTTEs/s/9ef93dceda415f985b063466cd1f422c"
     },
     {
       "recommendScore": "304",
@@ -144,14 +154,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "300",
-      "recommendCount": "664",
-      "title": "[爆卦] 黃國昌：怕柯P不願交保",
-      "link": "/bbs/Gossiping/M.1757049040.A.BBD",
-      "author": "enzo50",
+      "recommendScore": "-261",
+      "recommendCount": "448",
+      "title": "[新聞] 柯文哲7千萬交保 卓榮泰：我希望人人守法",
+      "link": "/bbs/Gossiping/M.1757062717.A.17A",
+      "author": "axsd",
       "board": "Gossiping",
-      "publishTime": "2025/09/05 05:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/elQTTEs/s/9ef93dceda415f985b063466cd1f422c"
+      "publishTime": "2025/09/05 08:58",
+      "imageUrl": ""
     },
     {
       "recommendScore": "205",
@@ -164,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "560",
+      "recommendScore": "249",
+      "recommendCount": "569",
       "title": "[新聞] 獨／不只江祖平！學妹控龔益霆「有男友也要約」 噁男對話曝光：我擅長也很長",
       "link": "/bbs/Gossiping/M.1757053532.A.719",
       "author": "turndown4wat",
@@ -174,14 +184,14 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/SWZMpd4/s/0792d9250730a02ffd9d4458a1f88bd4"
     },
     {
-      "recommendScore": "-230",
-      "recommendCount": "404",
-      "title": "[新聞] 柯文哲7千萬交保 卓榮泰：我希望人人守法",
-      "link": "/bbs/Gossiping/M.1757062717.A.17A",
-      "author": "axsd",
+      "recommendScore": "260",
+      "recommendCount": "414",
+      "title": "Re: [新聞] 快訊／今天不回家！柯文哲只籌到5千萬稱要再深思　下週一再律見",
+      "link": "/bbs/Gossiping/M.1757065686.A.375",
+      "author": "c1823akimo",
       "board": "Gossiping",
-      "publishTime": "2025/09/05 08:58",
-      "imageUrl": ""
+      "publishTime": "2025/09/05 09:48",
+      "imageUrl": "https://cache.pttweb.cc/imgur/W8LyBxy/s/0dada37910b5c00bedc87751980ba2d8"
     },
     {
       "recommendScore": "211",
@@ -191,16 +201,6 @@
       "author": "WuSam",
       "board": "Gossiping",
       "publishTime": "2025/09/05 04:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "218",
-      "recommendCount": "480",
-      "title": "[新聞] 快訊／柯文哲、應曉薇可以回家了　各以7000萬、3000萬交保",
-      "link": "/bbs/Gossiping/M.1757045431.A.9A6",
-      "author": "osalucard",
-      "board": "Gossiping",
-      "publishTime": "2025/09/05 04:10",
       "imageUrl": ""
     }
   ]
