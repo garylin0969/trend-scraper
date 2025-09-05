@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-05T17:53:39.516Z",
+  "updated": "2025-09-05T18:07:23.417Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "343",
+      "recommendCount": "456",
+      "title": "[問卦] 年度金句是否已經出來了？",
+      "link": "/bbs/Gossiping/M.1757073690.A.957",
+      "author": "twelvethflor",
+      "board": "Gossiping",
+      "publishTime": "2025/09/05 12:01",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "312",
       "recommendCount": "578",
       "title": "[新聞]快訊／救柯文哲領嘸百萬!「挺韓直播主」暴走痛罵行員:是在衝X小",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/05 06:25",
       "imageUrl": "https://cache.pttweb.cc/imgur/SWZMpd4/s/0792d9250730a02ffd9d4458a1f88bd4"
-    },
-    {
-      "recommendScore": "78",
-      "recommendCount": "442",
-      "title": "[新聞] 民進黨明展開22縣市巡迴座談 徐國勇：結合賴清德經驗一起往前走",
-      "link": "/bbs/Gossiping/M.1757058125.A.F72",
-      "author": "au4g3wk4k",
-      "board": "Gossiping",
-      "publishTime": "2025/09/05 07:42",
-      "imageUrl": ""
     }
   ]
 }
