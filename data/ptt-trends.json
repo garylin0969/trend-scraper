@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-06T03:33:46.859Z",
+  "updated": "2025-09-06T03:45:32.356Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "347",
+      "recommendCount": "665",
+      "title": "[新聞]快訊／救柯文哲領嘸百萬!「挺韓直播主」暴走痛罵行員:是在衝X小",
+      "link": "/bbs/Gossiping/M.1757069660.A.1C4",
+      "author": "linhu8883324",
+      "board": "Gossiping",
+      "publishTime": "2025/09/05 10:54",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "336",
       "recommendCount": "681",
       "title": "[新聞] 快訊／應曉薇可以回家了　北院裁定3000萬元、限制住居",
@@ -81,16 +91,6 @@
       "author": "haveasecret",
       "board": "Gossiping",
       "publishTime": "2025/09/05 04:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "346",
-      "recommendCount": "664",
-      "title": "[新聞]快訊／救柯文哲領嘸百萬!「挺韓直播主」暴走痛罵行員:是在衝X小",
-      "link": "/bbs/Gossiping/M.1757069660.A.1C4",
-      "author": "linhu8883324",
-      "board": "Gossiping",
-      "publishTime": "2025/09/05 10:54",
       "imageUrl": ""
     },
     {
@@ -134,8 +134,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/elQTTEs/s/9ef93dceda415f985b063466cd1f422c"
     },
     {
-      "recommendScore": "135",
-      "recommendCount": "493",
+      "recommendScore": "136",
+      "recommendCount": "494",
       "title": "[新聞] 喝鮮奶的人變少！台灣銷量恐「首見負成長」　2大主因找到了",
       "link": "/bbs/Gossiping/M.1757066997.A.D5B",
       "author": "keel90135",
