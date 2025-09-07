@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-07T11:53:35.397Z",
+  "updated": "2025-09-07T12:08:16.048Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "580",
-      "recommendCount": "893",
+      "recommendScore": "586",
+      "recommendCount": "899",
       "title": "[分享] 今日 山本由伸 8.2局10K失一分 問天",
       "link": "/bbs/Baseball/M.1757211085.A.5C4",
       "author": "carlchang092",
@@ -91,16 +91,6 @@
       "author": "mars1985",
       "board": "Gossiping",
       "publishTime": "2025/09/06 12:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "137",
-      "recommendCount": "481",
-      "title": "[新聞] 巨大集團籲請政府大幅降息 搶救台灣出口業",
-      "link": "/bbs/Stock/M.1757159764.A.DD2",
-      "author": "keel90135",
-      "board": "Stock",
-      "publishTime": "2025/09/06 11:56",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/09/06 14:28",
       "imageUrl": "https://cache.pttweb.cc/imgur/xNyuGYb/s/a821e11d2e0e3d279304d609bbe8c241"
+    },
+    {
+      "recommendScore": "-133",
+      "recommendCount": "296",
+      "title": "[新聞] 黃國昌回台了！四叉貓：在松山機場入境大廳被抓包",
+      "link": "/bbs/Gossiping/M.1757168486.A.54A",
+      "author": "Mayinggo",
+      "board": "Gossiping",
+      "publishTime": "2025/09/06 14:21",
+      "imageUrl": "https://cache.pttweb.cc/imgur/czd4p1d/s/4bc3ecd55c0277671a5797c878828c54"
     }
   ]
 }
