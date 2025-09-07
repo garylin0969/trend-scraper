@@ -1,14 +1,30 @@
 {
-  "updated": "2025-09-07T03:50:10.600Z",
+  "updated": "2025-09-07T04:22:50.601Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-09-07T03:49:55.000Z",
+    "lastBuildDate": "2025-09-07T04:22:45.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "以色列加強對加沙城攻擊，摧毀第二座高層建築",
+      "description": "以色列繼續擴大在加沙的軍事行動，敦促巴勒斯坦人離開加沙城，向南遷移。以軍已摧毀了加沙市一棟高樓大廈，這是連續兩天內被攻擊的第二棟主要塔樓。",
+      "link": "https://www.bbc.com/zhongwen/articles/czew3p3g9jgo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-07T04:02:48.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/czew3p3g9jgo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d780/live/369b0cb0-8b9e-11f0-b391-6936825093bd.jpg"
+    },
+    {
+      "title": "美方突襲在美現代車廠，拘留多位韓國公民，韓方召開緊急會議",
+      "description": "韓國政府召開緊急會議，表示將迅速應對美國現代汽車工廠大規模移民突擊檢查中數百名韓國公民被捕的事件。首爾已派遣外交官前往位於喬治亞州的工廠。",
+      "link": "https://www.bbc.com/zhongwen/articles/c99gryggl5ko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-07T04:15:20.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c99gryggl5ko/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1fee/live/622e2800-8b97-11f0-9cf6-cbf3e73ce2b9.jpg"
+    },
     {
       "title": "以器官移植求「長生不老」，目前醫學技術下有多可行？",
       "description": "習近平與普京邊攀上天安門城樓邊聊器官移植與長生不老，但這樣真能延年益壽嗎？",
@@ -26,28 +42,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e34b/live/2c2cc250-8982-11f0-9764-d92bc24dc2bc.jpg"
     },
     {
-      "title": "「無法載客的熱氣球」——香港又一場尷尬的「國際盛事」",
-      "description": "香港政府近年力推「盛事經濟」，希望吸引遊客和刺激本地消費，但連番失誤引起外界質疑專業度，甚至影響國際形象。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gj4948r83o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-05T12:27:48.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gj4948r83o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b58e/live/e8a15480-8a4c-11f0-94f4-77b666520245.jpg"
-    },
-    {
-      "title": "千里之外的海參崴，如何被捲入俄烏戰爭",
-      "description": "符拉迪沃斯托克（海參崴）毗鄰中國與朝鮮，卻逃不出俄羅斯入侵烏克蘭戰火的陰霾。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1dq76r4lkro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-05T05:25:33.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1dq76r4lkro/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b346/live/c2d508e0-896c-11f0-84c8-99de564f0440.jpg"
-    },
-    {
       "title": "自閉症與月經：我無法區分生理和心理痛苦",
       "description": "對自閉症者而言，月經的痛苦可能尤其劇烈，這包括應對經痛、荷爾蒙波動和情緒波動，到尋找適合不同身體和生活方式的衛生用品等。",
       "link": "https://www.bbc.com/zhongwen/articles/c9393zp1k2jo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-09-06T00:10:30.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c9393zp1k2jo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e1ba/live/5fb27e80-8806-11f0-850b-8bb62f7d0c0d.jpg"
+    },
+    {
+      "title": "千里之外的海參崴，如何被捲入俄烏戰爭",
+      "description": "符拉迪沃斯托克（海參崴）毗鄰中國與朝鮮，卻逃不出俄羅斯入侵烏克蘭戰火的陰霾。",
+      "link": "https://www.bbc.com/zhongwen/articles/c1dq76r4lkro/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-05T05:25:33.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1dq76r4lkro/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b346/live/c2d508e0-896c-11f0-84c8-99de564f0440.jpg"
+    },
+    {
+      "title": "「無法載客的熱氣球」——香港又一場尷尬的「國際盛事」",
+      "description": "香港政府近年力推「盛事經濟」，希望吸引遊客和刺激本地消費，但連番失誤引起外界質疑專業度，甚至影響國際形象。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gj4948r83o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-05T12:27:48.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gj4948r83o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b58e/live/e8a15480-8a4c-11f0-94f4-77b666520245.jpg"
     },
     {
       "title": "意大利時尚大師阿瑪尼辭世：他如何徹底改變時尚界",
@@ -96,22 +112,6 @@
       "pubDate": "2025-09-04T06:53:28.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c62n30dz1xvo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/689e/live/f0990300-891a-11f0-84c8-99de564f0440.jpg"
-    },
-    {
-      "title": "全球衝突如何推動「占星術」熱潮",
-      "description": "過去五年，每當有重大事件，「astrology（占星）」與「war（戰爭）」的搜索量便會急升：包括2020年2月新冠疫情爆發、2022年2月俄烏戰爭爆發、2025年5月印巴克什米爾衝突，以及同年6月美國對伊朗的空襲。",
-      "link": "https://www.bbc.com/zhongwen/articles/c98l84ypl4qo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-05T03:43:47.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c98l84ypl4qo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/79a2/live/1d6cfd20-84be-11f0-acf0-71f4294565e0.jpg"
-    },
-    {
-      "title": "印尼總統去看中國閱兵了　國內的「娘子軍」接力抗議",
-      "description": "印尼經歷激烈的暴力騷亂後，普拉博沃總統到北京與習近平主席共同觀看閱兵，雅加達則有數百名手持掃帚的婦女遊行至國會。",
-      "link": "https://www.bbc.com/zhongwen/articles/ceq252ew2jno/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-04T06:35:42.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ceq252ew2jno/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cda8/live/a1f3af30-8892-11f0-aed1-db23423f7cc8.jpg"
     },
     {
       "title": "中、俄、朝領袖齊聚北京 外界憂「反西方聯盟」成形",
@@ -202,6 +202,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d416/live/62406460-890e-11f0-83e9-6f8669b06553.jpg"
     },
     {
+      "title": "印尼總統去看中國閱兵了　國內的「娘子軍」接力抗議",
+      "description": "印尼經歷激烈的暴力騷亂後，普拉博沃總統到北京與習近平主席共同觀看閱兵，雅加達則有數百名手持掃帚的婦女遊行至國會。",
+      "link": "https://www.bbc.com/zhongwen/articles/ceq252ew2jno/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-04T06:35:42.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ceq252ew2jno/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cda8/live/a1f3af30-8892-11f0-aed1-db23423f7cc8.jpg"
+    },
+    {
       "title": "BBC記者分析中國閱兵：「給予特朗普的明確訊息」",
       "description": "這場力量展示正值北京將自身定位為美國的全球抗衡力量之際。",
       "link": "https://www.bbc.com/zhongwen/articles/c4gwqqxlkgjo/trad?at_medium=RSS&at_campaign=rss",
@@ -216,14 +224,6 @@
       "pubDate": "2025-09-02T14:03:59.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cde3erl8lpdo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/12ee/live/f532dd50-87e4-11f0-b36e-47414de99d82.jpg"
-    },
-    {
-      "title": "無人機外送：熱騰騰的炸薯條如何送到偏遠地區的家門",
-      "description": "一家瑞典公司希望無人機能為熱食外送開拓新市場。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx292y773z4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-03T23:39:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx292y773z4o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c289/live/df8ca0a0-7d01-11f0-ab3e-bd52082cd0ae.jpg"
     },
     {
       "title": "武漢大學「性騷擾」案餘波：如何在維權和「誣告」之間尋求解決之道",
@@ -282,6 +282,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/52a2/live/0e4137c0-88a2-11f0-8b3f-67b2e7d47fb0.jpg"
     },
     {
+      "title": "全球衝突如何推動「占星術」熱潮",
+      "description": "過去五年，每當有重大事件，「astrology（占星）」與「war（戰爭）」的搜索量便會急升：包括2020年2月新冠疫情爆發、2022年2月俄烏戰爭爆發、2025年5月印巴克什米爾衝突，以及同年6月美國對伊朗的空襲。",
+      "link": "https://www.bbc.com/zhongwen/articles/c98l84ypl4qo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-05T03:43:47.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c98l84ypl4qo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/79a2/live/1d6cfd20-84be-11f0-acf0-71f4294565e0.jpg"
+    },
+    {
       "title": "越南南沙建島低調超車中國  南海造島競賽風雲再起？",
       "description": "高調對抗的菲律賓和「低調」超車北京的的越南在南海的一舉一動都將受到中國嚴密監視或程度不一的反制。在中菲摩擦、美國介入等背景下，專家卻認為南海仍有望維持鬥而不破、熱而不爆的局面。",
       "link": "https://www.bbc.com/zhongwen/articles/cdj20vkd9m3o/trad?at_medium=RSS&at_campaign=rss",
@@ -298,20 +306,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/94d3/live/ed2d3790-84a1-11f0-b319-ab41cfc9fe62.jpg"
     },
     {
-      "title": "極端高溫如何「融化」你的DNA並加速衰老？",
-      "description": "醫生們長期以來一直懷疑反覆暴露於熱浪會對身體造成損害。一項研究表明，反覆暴露於高溫可能會像吸煙或飲酒一樣加速老化。",
-      "link": "https://www.bbc.com/zhongwen/articles/cjeyqjp50kxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-02T00:28:46.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cjeyqjp50kxo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0e57/live/8afff440-870d-11f0-b357-dba5095f4b72.jpg"
-    },
-    {
-      "title": "五年後回看  新冠疫情期間的封鎖對孩子產生什麼長遠影響？",
-      "description": "疫情發生五年後，研究人員逐漸揭開它對兒童的深遠影響。疫情改變的不僅是他們的行為、心理健康、社交能力，還有教育。但這些傷痕究竟有多深，或許要數十年後才能真正明確知道。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgv7xn0pqyo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-01T00:22:52.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgv7xn0pqyo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/061a/live/a1d57e50-84ac-11f0-9cf6-cbf3e73ce2b9.png"
+      "title": "無人機外送：熱騰騰的炸薯條如何送到偏遠地區的家門",
+      "description": "一家瑞典公司希望無人機能為熱食外送開拓新市場。",
+      "link": "https://www.bbc.com/zhongwen/articles/cx292y773z4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-03T23:39:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx292y773z4o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c289/live/df8ca0a0-7d01-11f0-ab3e-bd52082cd0ae.jpg"
     }
   ]
 }
