@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-07T20:05:30.091Z",
+  "updated": "2025-09-07T20:17:30.764Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "546",
-      "recommendCount": "835",
+      "recommendScore": "549",
+      "recommendCount": "839",
       "title": "[分享] 山本由伸 五局無安打亮燈",
       "link": "/bbs/Baseball/M.1757206377.A.630",
       "author": "Axwell",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "744",
+      "recommendCount": "1473",
+      "title": "[電競] 2025 LCK Play-In Final Round",
+      "link": "/bbs/LoL/M.1757223255.A.768",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/09/07 05:34",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "224",
       "recommendCount": "321",
       "title": "[討論] 今天大師兄引退 各位打幾分",
@@ -191,16 +201,6 @@
       "author": "trolleybus99",
       "board": "Baseball",
       "publishTime": "2025/09/07 12:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "235",
-      "recommendCount": "270",
-      "title": "[討論] 有人發現楊崇煇超暖的嗎?",
-      "link": "/bbs/Baseball/M.1757241845.A.DB6",
-      "author": "a3225737",
-      "board": "Baseball",
-      "publishTime": "2025/09/07 10:44",
       "imageUrl": ""
     }
   ]
