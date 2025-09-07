@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-07T22:05:03.752Z",
+  "updated": "2025-09-07T22:17:40.569Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "586",
-      "recommendCount": "899",
+      "recommendScore": "599",
+      "recommendCount": "917",
       "title": "[分享] 今日 山本由伸 8.2局10K失一分 問天",
       "link": "/bbs/Baseball/M.1757211085.A.5C4",
       "author": "carlchang092",
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "239",
+      "recommendCount": "442",
+      "title": "[閒聊] 星鳴特攻開發者指責玩家「幸災樂禍」",
+      "link": "/bbs/C_Chat/M.1757220794.A.7A1",
+      "author": "betweenus020",
+      "board": "C_Chat",
+      "publishTime": "2025/09/07 04:53",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "276",
       "recommendCount": "321",
       "title": "[問卦] 成龍敢從這個大樓跑下來嗎？（發錢）",
@@ -191,16 +201,6 @@
       "author": "laptic",
       "board": "LoL",
       "publishTime": "2025/09/07 05:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "224",
-      "recommendCount": "321",
-      "title": "[討論] 今天大師兄引退 各位打幾分",
-      "link": "/bbs/Baseball/M.1757248221.A.4CB",
-      "author": "trolleybus99",
-      "board": "Baseball",
-      "publishTime": "2025/09/07 12:30",
       "imageUrl": ""
     }
   ]
