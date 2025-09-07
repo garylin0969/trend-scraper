@@ -1,8 +1,18 @@
 {
-  "updated": "2025-09-07T22:28:15.727Z",
+  "updated": "2025-09-07T22:36:15.597Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "1326",
+      "recommendCount": "1498",
+      "title": "[炸裂] 林智勝炸裂",
+      "link": "/bbs/Baseball/M.1757236174.A.A73",
+      "author": "oliverchamps",
+      "board": "Baseball",
+      "publishTime": "2025/09/07 09:09",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "916",
       "recommendCount": "971",
@@ -44,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "176",
-      "recommendCount": "650",
+      "recommendScore": "204",
+      "recommendCount": "737",
       "title": "[問卦] 龔益霆自殺的話  你真的OK嗎",
       "link": "/bbs/Gossiping/M.1757210056.A.FCF",
       "author": "norvasc",
@@ -82,6 +92,16 @@
       "board": "Gossiping",
       "publishTime": "2025/09/07 00:12",
       "imageUrl": "https://cache.pttweb.cc/imgur/EIfBltj/s/0d81fbfc2bf56767c8bd804b941fd011"
+    },
+    {
+      "recommendScore": "356",
+      "recommendCount": "577",
+      "title": "[爆卦] 日本首相 石破茂將辭職下台",
+      "link": "/bbs/Gossiping/M.1757226624.A.0EB",
+      "author": "thnlkj0665",
+      "board": "Gossiping",
+      "publishTime": "2025/09/07 06:30",
+      "imageUrl": ""
     },
     {
       "recommendScore": "165",
@@ -144,8 +164,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/eE9ZZ1o/s/496dc1c4cfbf247969bb69b397c00a74"
     },
     {
-      "recommendScore": "341",
-      "recommendCount": "485",
+      "recommendScore": "346",
+      "recommendCount": "497",
       "title": "[分享] 撿到305轟球的球迷主動把球還給球團",
       "link": "/bbs/Baseball/M.1757240746.A.AA2",
       "author": "idingdang",
@@ -164,6 +184,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/FQfgw4H/s/42c65621e7fc2086903584411f11ff0d"
     },
     {
+      "recommendScore": "316",
+      "recommendCount": "337",
+      "title": "[新聞] 「請你走慢一點」 林智勝加碼透露主審楊崇煇的貼心之舉",
+      "link": "/bbs/Baseball/M.1757252509.A.05B",
+      "author": "iamshana",
+      "board": "Baseball",
+      "publishTime": "2025/09/07 13:41",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-147",
       "recommendCount": "438",
       "title": "[新聞] 快新聞／柯美蘭被爆「現金逾3千萬元」",
@@ -171,36 +201,6 @@
       "author": "zzyyxx77",
       "board": "Gossiping",
       "publishTime": "2025/09/07 03:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "239",
-      "recommendCount": "442",
-      "title": "[閒聊] 星鳴特攻開發者指責玩家「幸災樂禍」",
-      "link": "/bbs/C_Chat/M.1757220794.A.7A1",
-      "author": "betweenus020",
-      "board": "C_Chat",
-      "publishTime": "2025/09/07 04:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "276",
-      "recommendCount": "321",
-      "title": "[問卦] 成龍敢從這個大樓跑下來嗎？（發錢）",
-      "link": "/bbs/Gossiping/M.1757212641.A.461",
-      "author": "BIA",
-      "board": "Gossiping",
-      "publishTime": "2025/09/07 02:37",
-      "imageUrl": "https://cache.pttweb.cc/imgur/uYbexEl/s/75fe3cfa65c9c61ef07400de6c76f6ff"
-    },
-    {
-      "recommendScore": "291",
-      "recommendCount": "306",
-      "title": "[新聞] 「請你走慢一點」 林智勝加碼透露主審楊崇煇的貼心之舉",
-      "link": "/bbs/Baseball/M.1757252509.A.05B",
-      "author": "iamshana",
-      "board": "Baseball",
-      "publishTime": "2025/09/07 13:41",
       "imageUrl": ""
     }
   ]
