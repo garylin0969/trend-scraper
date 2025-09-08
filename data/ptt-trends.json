@@ -1,10 +1,10 @@
 {
-  "updated": "2025-09-08T23:17:59.905Z",
+  "updated": "2025-09-08T23:27:46.722Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "450",
+      "recommendScore": "454",
       "recommendCount": "1483",
       "title": "[新聞] 快訊／北檢要抗告了 重話駁斥柯文哲「什麼都沒查到」",
       "link": "/bbs/Gossiping/M.1757333266.A.E0C",
@@ -15,12 +15,22 @@
     },
     {
       "recommendScore": "423",
-      "recommendCount": "1129",
+      "recommendCount": "1131",
       "title": "[新聞] 柯文哲將成「藍白共主」 綠委譏：未來「國民黨變小白」",
       "link": "/bbs/Gossiping/M.1757318660.A.C0E",
       "author": "KONAMI",
       "board": "Gossiping",
       "publishTime": "2025/09/08 08:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "461",
+      "recommendCount": "903",
+      "title": "[新聞] 快訊／柯文哲才吃完豬腳麵線！黑衣男「撒冥紙」吼：台灣沒司法了嗎",
+      "link": "/bbs/Gossiping/M.1757323163.A.381",
+      "author": "chpen",
+      "board": "Gossiping",
+      "publishTime": "2025/09/08 09:19",
       "imageUrl": ""
     },
     {
@@ -34,18 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "460",
-      "recommendCount": "901",
-      "title": "[新聞] 快訊／柯文哲才吃完豬腳麵線！黑衣男「撒冥紙」吼：台灣沒司法了嗎",
-      "link": "/bbs/Gossiping/M.1757323163.A.381",
-      "author": "chpen",
-      "board": "Gossiping",
-      "publishTime": "2025/09/08 09:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "588",
-      "recommendCount": "952",
+      "recommendScore": "589",
+      "recommendCount": "954",
       "title": "[問卦] 對不起 我現在很亂 弟弟睡一覺走了",
       "link": "/bbs/Gossiping/M.1757333313.A.8C4",
       "author": "Carsr",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "413",
-      "recommendCount": "751",
+      "recommendScore": "414",
+      "recommendCount": "752",
       "title": "[問卦] 阿伯關回去的機率是= =？",
       "link": "/bbs/Gossiping/M.1757335587.A.AAA",
       "author": "ambitious",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "404",
-      "recommendCount": "657",
+      "recommendScore": "405",
+      "recommendCount": "658",
       "title": "[新聞] 幫林智勝跳開場舞「被酸靠關係」　15歲女兒高EQ回應：會更努力",
       "link": "/bbs/Baseball/M.1757301993.A.7D9",
       "author": "whj0530",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "283",
-      "recommendCount": "655",
+      "recommendScore": "302",
+      "recommendCount": "694",
       "title": "[問卦] 什麼人家裡會有超過一台冰箱啊？",
       "link": "/bbs/Gossiping/M.1757345138.A.3C6",
       "author": "netNT",
@@ -154,8 +154,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/0loRBGX/s/d724d0a414ee42ae6028cd37b43b68ae"
     },
     {
-      "recommendScore": "185",
-      "recommendCount": "514",
+      "recommendScore": "186",
+      "recommendCount": "516",
       "title": "[新聞] 柯文哲交保罵賴清德讓國家四分五裂 府：不接受非事實的抹黑",
       "link": "/bbs/Gossiping/M.1757336912.A.683",
       "author": "lili712",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "61",
+      "recommendCount": "468",
+      "title": "[新聞] 快訊／總統府回應柯文哲：不評論司法個案　也不接受非事實的抹黑",
+      "link": "/bbs/Gossiping/M.1757335773.A.CEB",
+      "author": "Waitaha",
+      "board": "Gossiping",
+      "publishTime": "2025/09/08 12:49",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-184",
       "recommendCount": "434",
       "title": "[新聞] 律師戳破柯文哲交保記者會三大謊言：連見陽光都要說謊！",
@@ -191,16 +201,6 @@
       "author": "stupid0319",
       "board": "Gossiping",
       "publishTime": "2025/09/08 08:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "60",
-      "recommendCount": "466",
-      "title": "[新聞] 快訊／總統府回應柯文哲：不評論司法個案　也不接受非事實的抹黑",
-      "link": "/bbs/Gossiping/M.1757335773.A.CEB",
-      "author": "Waitaha",
-      "board": "Gossiping",
-      "publishTime": "2025/09/08 12:49",
       "imageUrl": ""
     }
   ]
