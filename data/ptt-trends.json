@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-08T10:31:56.742Z",
+  "updated": "2025-09-08T10:45:35.977Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "240",
-      "recommendCount": "276",
-      "title": "[討論] 有人發現楊崇煇超暖的嗎?",
-      "link": "/bbs/Baseball/M.1757241845.A.DB6",
-      "author": "a3225737",
-      "board": "Baseball",
-      "publishTime": "2025/09/07 10:44",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "161",
       "recommendCount": "323",
       "title": "[新聞] 江祖平控龔益霆性侵！吳宗憲疑憂槓上三立　低調喊：不好隨便發言",
@@ -201,6 +191,16 @@
       "author": "Kai877",
       "board": "Gossiping",
       "publishTime": "2025/09/07 15:16",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "120",
+      "recommendCount": "276",
+      "title": "[新聞] 柯文哲獲釋是否抗告？ 北檢：仍在研議中",
+      "link": "/bbs/Gossiping/M.1757314964.A.BA8",
+      "author": "HisVol",
+      "board": "Gossiping",
+      "publishTime": "2025/09/08 07:02",
       "imageUrl": ""
     }
   ]
