@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-08T10:45:35.977Z",
+  "updated": "2025-09-08T10:54:07.089Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -42,16 +42,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/07 11:46",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "146",
-      "recommendCount": "693",
-      "title": "[新聞] 2電信停售4G 釘子戶仍達1700萬人",
-      "link": "/bbs/Gossiping/M.1757242125.A.CFE",
-      "author": "x090512319",
-      "board": "Gossiping",
-      "publishTime": "2025/09/07 10:48",
-      "imageUrl": "https://cache.pttweb.cc/imgur/eE9ZZ1o/s/496dc1c4cfbf247969bb69b397c00a74"
     },
     {
       "recommendScore": "346",
@@ -201,6 +191,16 @@
       "author": "HisVol",
       "board": "Gossiping",
       "publishTime": "2025/09/08 07:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "183",
+      "recommendCount": "281",
+      "title": "[分享] 張育豪 再見安打",
+      "link": "/bbs/Baseball/M.1757245341.A.E48",
+      "author": "littledos",
+      "board": "Baseball",
+      "publishTime": "2025/09/07 11:42",
       "imageUrl": ""
     }
   ]
