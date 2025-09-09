@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-09T15:18:13.337Z",
+  "updated": "2025-09-09T15:30:33.523Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -62,16 +62,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/09 04:43",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "409",
-      "recommendCount": "991",
-      "title": "[問卦] 什麼人家裡會有超過一台冰箱啊？",
-      "link": "/bbs/Gossiping/M.1757345138.A.3C6",
-      "author": "netNT",
-      "board": "Gossiping",
-      "publishTime": "2025/09/08 15:25",
-      "imageUrl": "https://cache.pttweb.cc/imgur/0loRBGX/s/d724d0a414ee42ae6028cd37b43b68ae"
     },
     {
       "recommendScore": "422",
@@ -201,6 +191,16 @@
       "author": "ianbh",
       "board": "Gossiping",
       "publishTime": "2025/09/09 02:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "152",
+      "recommendCount": "548",
+      "title": "[新聞] 賴清德承認關稅談判含「投資阿拉斯加」",
+      "link": "/bbs/Gossiping/M.1757408440.A.36B",
+      "author": "kobest",
+      "board": "Gossiping",
+      "publishTime": "2025/09/09 09:00",
       "imageUrl": ""
     }
   ]
