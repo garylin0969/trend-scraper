@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-09T14:17:36.290Z",
+  "updated": "2025-09-09T14:29:52.571Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "387",
+      "recommendCount": "434",
+      "title": "［情報］CPBL 9/9 球員異動",
+      "link": "/bbs/Baseball/M.1757406662.A.FBC",
+      "author": "wps0313",
+      "board": "Baseball",
+      "publishTime": "2025/09/09 08:31",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "289",
       "recommendCount": "689",
       "title": "Re: [新聞] 總統府再回應柯文哲：攻擊元首無助釐清事實　盼民眾黨勇敢面對",
@@ -184,24 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-17",
-      "recommendCount": "419",
-      "title": "[新聞] 賴清德：鎖定四個優先 力推有感施政",
-      "link": "/bbs/Gossiping/M.1757344788.A.8BB",
-      "author": "Santander",
-      "board": "Gossiping",
-      "publishTime": "2025/09/08 15:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "283",
-      "recommendCount": "317",
-      "title": "［情報］CPBL 9/9 球員異動",
-      "link": "/bbs/Baseball/M.1757406662.A.FBC",
-      "author": "wps0313",
-      "board": "Baseball",
-      "publishTime": "2025/09/09 08:31",
-      "imageUrl": ""
+      "recommendScore": "327",
+      "recommendCount": "388",
+      "title": "[閒聊] 馬娘春烏拉拉原型馬過世",
+      "link": "/bbs/C_Chat/M.1757408836.A.4D1",
+      "author": "stevenchiang",
+      "board": "C_Chat",
+      "publishTime": "2025/09/09 09:07",
+      "imageUrl": "https://cache.pttweb.cc/imgur/tR5n21V/s/150a1cabfa799f9ec1facab1eb10a99b"
     }
   ]
 }
