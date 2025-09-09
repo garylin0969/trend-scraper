@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-09T14:05:30.615Z",
+  "updated": "2025-09-09T14:17:36.290Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "162",
+      "recommendCount": "647",
+      "title": "[新聞] 「被說很散慢、沒有拚勁，等於判我死刑」 林書逸哽咽還原失誤當下",
+      "link": "/bbs/Baseball/M.1757415574.A.75B",
+      "author": "iamshana",
+      "board": "Baseball",
+      "publishTime": "2025/09/09 10:59",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "142",
       "recommendCount": "501",
       "title": "[新聞] 賴清德承認關稅談判含「投資阿拉斯加」",
@@ -191,16 +201,6 @@
       "author": "wps0313",
       "board": "Baseball",
       "publishTime": "2025/09/09 08:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "178",
-      "recommendCount": "360",
-      "title": "[新聞] 江祖平自爆遭下藥性侵　檢警還沒動作？串、滅證可能性高",
-      "link": "/bbs/Gossiping/M.1757372598.A.B25",
-      "author": "eric12",
-      "board": "Gossiping",
-      "publishTime": "2025/09/08 23:03",
       "imageUrl": ""
     }
   ]
