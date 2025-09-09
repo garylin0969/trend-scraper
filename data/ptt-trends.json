@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-09T06:08:04.286Z",
+  "updated": "2025-09-09T06:20:56.636Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,6 +14,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "486",
+      "recommendCount": "1423",
+      "title": "[新聞] 總統府再回應柯文哲：攻擊元首無助釐清事實　盼民眾黨勇敢面對",
+      "link": "/bbs/Gossiping/M.1757383670.A.80E",
+      "author": "WuSam",
+      "board": "Gossiping",
+      "publishTime": "2025/09/09 02:07",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "449",
       "recommendCount": "1361",
       "title": "[新聞] 基進、時力、小歐盟、綠黨攜手衝2026選舉 盼淘汰投機白、亂政藍",
@@ -21,16 +31,6 @@
       "author": "st210113",
       "board": "Gossiping",
       "publishTime": "2025/09/09 03:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "466",
-      "recommendCount": "1362",
-      "title": "[新聞] 總統府再回應柯文哲：攻擊元首無助釐清事實　盼民眾黨勇敢面對",
-      "link": "/bbs/Gossiping/M.1757383670.A.80E",
-      "author": "WuSam",
-      "board": "Gossiping",
-      "publishTime": "2025/09/09 02:07",
       "imageUrl": ""
     },
     {
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "514",
-      "recommendCount": "1177",
+      "recommendScore": "515",
+      "recommendCount": "1179",
       "title": "[新聞] 柯文哲開轟：民進黨作夢都沒想到「民眾黨這麼乾淨」",
       "link": "/bbs/Gossiping/M.1757313718.A.880",
       "author": "usokami",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "259",
-      "recommendCount": "515",
-      "title": "[新聞] 快訊／柯文哲已裝上電子腳環！現場訊號不佳　廠商克服中",
-      "link": "/bbs/Gossiping/M.1757312290.A.D66",
-      "author": "a5687920",
+      "recommendScore": "62",
+      "recommendCount": "475",
+      "title": "[新聞] 快訊／總統府回應柯文哲：不評論司法個案　也不接受非事實的抹黑",
+      "link": "/bbs/Gossiping/M.1757335773.A.CEB",
+      "author": "Waitaha",
       "board": "Gossiping",
-      "publishTime": "2025/09/08 06:18",
+      "publishTime": "2025/09/08 12:49",
       "imageUrl": ""
     }
   ]
