@@ -1,11 +1,11 @@
 {
-  "updated": "2025-09-09T15:55:17.239Z",
+  "updated": "2025-09-09T16:06:56.694Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "1440",
-      "recommendCount": "1460",
+      "recommendScore": "1459",
+      "recommendCount": "1479",
       "title": "[閒聊] 活俠傳Steam特價只到9/11的說！",
       "link": "/bbs/C_Chat/M.1757402011.A.4DE",
       "author": "firewater899",
@@ -124,13 +124,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/8jkkxd9/s/34541f420a9bfa476ea0da44eeef4a92"
     },
     {
-      "recommendScore": "97",
-      "recommendCount": "653",
+      "recommendScore": "99",
+      "recommendCount": "662",
       "title": "[新聞] 總統拋 一孩即可聘外傭 勞動部：研議評估中",
       "link": "/bbs/Gossiping/M.1757378309.A.86B",
       "author": "d8917936",
       "board": "Gossiping",
       "publishTime": "2025/09/09 00:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "179",
+      "recommendCount": "748",
+      "title": "[新聞] 「被說很散慢、沒有拚勁，等於判我死刑」 林書逸哽咽還原失誤當下",
+      "link": "/bbs/Baseball/M.1757415574.A.75B",
+      "author": "iamshana",
+      "board": "Baseball",
+      "publishTime": "2025/09/09 10:59",
       "imageUrl": ""
     },
     {
@@ -141,16 +151,6 @@
       "author": "Beziehung",
       "board": "Gossiping",
       "publishTime": "2025/09/09 06:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "177",
-      "recommendCount": "729",
-      "title": "[新聞] 「被說很散慢、沒有拚勁，等於判我死刑」 林書逸哽咽還原失誤當下",
-      "link": "/bbs/Baseball/M.1757415574.A.75B",
-      "author": "iamshana",
-      "board": "Baseball",
-      "publishTime": "2025/09/09 10:59",
       "imageUrl": ""
     },
     {
@@ -184,23 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "152",
-      "recommendCount": "548",
+      "recommendScore": "256",
+      "recommendCount": "446",
+      "title": "[問卦] 幹你娘高雄出事就一直酸暖?",
+      "link": "/bbs/Gossiping/M.1757425502.A.BA4",
+      "author": "latiner123",
+      "board": "Gossiping",
+      "publishTime": "2025/09/09 13:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "154",
+      "recommendCount": "569",
       "title": "[新聞] 賴清德承認關稅談判含「投資阿拉斯加」",
       "link": "/bbs/Gossiping/M.1757408440.A.36B",
       "author": "kobest",
       "board": "Gossiping",
       "publishTime": "2025/09/09 09:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-288",
-      "recommendCount": "853",
-      "title": "[公告] 怒灌",
-      "link": "/bbs/Elephants/M.1757424453.A.732",
-      "author": "msarthur",
-      "board": "Elephants",
-      "publishTime": "2025/09/09 13:27",
       "imageUrl": ""
     }
   ]
