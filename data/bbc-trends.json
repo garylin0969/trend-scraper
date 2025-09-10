@@ -1,30 +1,14 @@
 {
-  "updated": "2025-09-10T03:48:38.399Z",
+  "updated": "2025-09-10T04:22:57.523Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-09-10T03:48:27.000Z",
+    "lastBuildDate": "2025-09-10T04:22:54.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
-    {
-      "title": "日本五年內將迎來第四位首相——下一位會是誰？",
-      "description": "日本下一任領導人將面臨引導一個大幅削弱的政府的挑戰。",
-      "link": "https://www.bbc.com/zhongwen/articles/cj9z0wyx91jo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-09T07:17:44.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cj9z0wyx91jo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4f13/live/052d0b30-8c91-11f0-b391-6936825093bd.jpg"
-    },
-    {
-      "title": "羈押一年後交保，柯文哲回歸如何攪動台灣政壇？",
-      "description": "柯文哲獲准交保，旋即以高調言論重返政壇，首次公開露面便猛烈批評總統賴清德讓台灣「四分五裂」，被視為是攪動台灣政壇的預告。",
-      "link": "https://www.bbc.com/zhongwen/articles/clydxnry27ko/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-09T00:50:35.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/clydxnry27ko/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1b94/live/837fbe20-8cbd-11f0-b9c2-bd45560a4d8f.jpg"
-    },
     {
       "title": "中國進入網貸世代：誰在貸款？誰在放貸？誰能約束？",
       "description": "借錢消費在中國不再是小群體事件，網貸平台逐漸興盛。中國媒體熱衷於報道哪位年輕人債台高築、被逼自殺，但網貸廣告依然鋪天蓋地出現在中國各大社交平台上，宣傳平台借錢「輕鬆」、「無門檻」、「下錢快」。兩位借貸者對BBC中文講述了他們的故事。",
@@ -42,12 +26,36 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b475/live/b10ead30-8d29-11f0-84c8-99de564f0440.jpg"
     },
     {
+      "title": "羈押一年後交保，柯文哲回歸如何攪動台灣政壇？",
+      "description": "柯文哲獲准交保，旋即以高調言論重返政壇，首次公開露面便猛烈批評總統賴清德讓台灣「四分五裂」，被視為是攪動台灣政壇的預告。",
+      "link": "https://www.bbc.com/zhongwen/articles/clydxnry27ko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-09T00:50:35.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/clydxnry27ko/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1b94/live/837fbe20-8cbd-11f0-b9c2-bd45560a4d8f.jpg"
+    },
+    {
+      "title": "英國出版商炮轟谷歌AI概覽工具  進一步蠶食內容製造者的流量",
+      "description": "當谷歌推出AI摘要功能後，英國新聞出版業正面臨前所未有的挑戰。",
+      "link": "https://www.bbc.com/zhongwen/articles/cy50361grrwo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-10T03:58:17.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cy50361grrwo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/497f/live/72462c60-8df9-11f0-84c8-99de564f0440.jpg"
+    },
+    {
       "title": "為什麼沒有西紅柿就沒有馬鈴薯",
       "description": "科學家發現，數百萬年前，茄科植物的兩個物種偶然相遇，孕育出了馬鈴薯。",
       "link": "https://www.bbc.com/zhongwen/articles/cy049wgd8ljo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-09-10T00:07:28.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy049wgd8ljo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a90c/live/da0304f0-8d26-11f0-84c8-99de564f0440.jpg"
+    },
+    {
+      "title": "日本五年內將迎來第四位首相——下一位會是誰？",
+      "description": "日本下一任領導人將面臨引導一個大幅削弱的政府的挑戰。",
+      "link": "https://www.bbc.com/zhongwen/articles/cj9z0wyx91jo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-09T07:17:44.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cj9z0wyx91jo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4f13/live/052d0b30-8c91-11f0-b391-6936825093bd.jpg"
     },
     {
       "title": "「我不敢回去」：BBC探訪受泰國邊境衝突波及的柬埔寨村莊",
@@ -104,14 +112,6 @@
       "pubDate": "2025-09-07T06:20:05.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c5yk50pk8zdo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/46cd/live/e9387a30-8ba6-11f0-84c8-99de564f0440.jpg"
-    },
-    {
-      "title": "卡洛·阿庫蒂斯：從倫敦受洗到成為首位千禧世代聖人",
-      "description": "一位出生於倫敦的男孩即將成為千禧年後的首位聖人。卡洛·阿庫蒂斯（Carlo Acutis）在短暫的一生中創建了多個網站，記錄「奇蹟」以傳播天主教教義，因此有人稱他為「上帝的網紅」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn4l2y0kz0go/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-07T07:36:34.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn4l2y0kz0go/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7460/live/154513d0-8bb7-11f0-9cf6-cbf3e73ce2b9.jpg"
     },
     {
       "title": "BBC專訪台灣駐英代表：如果中國封鎖，台灣須能撐三個月待援",
