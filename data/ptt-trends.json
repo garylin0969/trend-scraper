@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-10T01:10:49.774Z",
+  "updated": "2025-09-10T01:52:24.237Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "433",
+      "recommendCount": "765",
+      "title": "[爆卦] 台女申請難民庇護被加拿大趕走...",
+      "link": "/bbs/Gossiping/M.1757403493.A.0F5",
+      "author": "capssan",
+      "board": "Gossiping",
+      "publishTime": "2025/09/09 07:38",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "407",
       "recommendCount": "750",
       "title": "[新聞] 興達電廠天然氣下午4點外洩未告知大眾？多位里民包圍林欽榮爆推擠",
@@ -91,16 +101,6 @@
       "author": "Only22K",
       "board": "Gossiping",
       "publishTime": "2025/09/09 14:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "432",
-      "recommendCount": "764",
-      "title": "[爆卦] 台女申請難民庇護被加拿大趕走...",
-      "link": "/bbs/Gossiping/M.1757403493.A.0F5",
-      "author": "capssan",
-      "board": "Gossiping",
-      "publishTime": "2025/09/09 07:38",
       "imageUrl": ""
     },
     {
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "372",
-      "recommendCount": "644",
+      "recommendScore": "373",
+      "recommendCount": "645",
       "title": "[問卦] 興達電廠發生爆炸？？",
       "link": "/bbs/Gossiping/M.1757420477.A.D35",
       "author": "BMTH5566",
