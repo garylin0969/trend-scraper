@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-10T13:19:44.443Z",
+  "updated": "2025-09-10T13:33:40.968Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,16 +44,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "331",
-      "recommendCount": "685",
-      "title": "[新聞] 火球炸出來！興達火力發電廠爆炸 小朋友嚇到哭喊：我不要住這邊",
-      "link": "/bbs/Gossiping/M.1757424100.A.5BB",
-      "author": "CREA",
-      "board": "Gossiping",
-      "publishTime": "2025/09/09 13:21",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "284",
       "recommendCount": "650",
       "title": "[爆卦] 興達爆炸後，核二核三發電救援！",
@@ -74,16 +64,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-102",
-      "recommendCount": "1069",
-      "title": "[轉播] 九下 兄弟 2:1 台鋼 林家鋐",
-      "link": "/bbs/Elephants/M.1757423983.A.138",
-      "author": "aquarius0wks",
-      "board": "Elephants",
-      "publishTime": "2025/09/09 13:19",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-193",
       "recommendCount": "541",
       "title": "[新聞] 力挺4本土小黨！呱吉：民眾黨非第三勢力",
@@ -101,16 +81,6 @@
       "author": "youhow0418",
       "board": "Gossiping",
       "publishTime": "2025/09/10 08:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-295",
-      "recommendCount": "872",
-      "title": "[公告] 怒灌",
-      "link": "/bbs/Elephants/M.1757424453.A.732",
-      "author": "msarthur",
-      "board": "Elephants",
-      "publishTime": "2025/09/09 13:27",
       "imageUrl": ""
     },
     {
@@ -202,6 +172,36 @@
       "board": "Stock",
       "publishTime": "2025/09/10 08:22",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "157",
+      "recommendCount": "448",
+      "title": "[問卦] 高雄是怎麼淪落到今天的？",
+      "link": "/bbs/Gossiping/M.1757462667.A.231",
+      "author": "astrayzip",
+      "board": "Gossiping",
+      "publishTime": "2025/09/10 00:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "204",
+      "recommendCount": "474",
+      "title": "[分享] 脆熱議兄弟9局下疑被偷暗號號？",
+      "link": "/bbs/Baseball/M.1757464647.A.5AE",
+      "author": "signm",
+      "board": "Baseball",
+      "publishTime": "2025/09/10 00:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "243",
+      "recommendCount": "254",
+      "title": "[iAPP] PttX - 鄉民神器,啟動!",
+      "link": "/bbs/iOS/M.1757429100.A.2FA",
+      "author": "lily7729",
+      "board": "iOS",
+      "publishTime": "2025/09/09 14:45",
+      "imageUrl": "https://cache.pttweb.cc/imgur/9E9nds8/s/d7e16f14e6d653695c45dd2acce763ba"
     }
   ]
 }
