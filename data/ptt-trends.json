@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-10T13:02:48.176Z",
+  "updated": "2025-09-10T13:19:44.443Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "123",
-      "recommendCount": "318",
-      "title": "[新聞] 快訊／興達電廠爆炸！陳其邁發聲了",
-      "link": "/bbs/Gossiping/M.1757423746.A.10D",
-      "author": "blackman451",
-      "board": "Gossiping",
-      "publishTime": "2025/09/09 13:15",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "160",
       "recommendCount": "401",
       "title": "[新聞] 爆賴清德急找府院黨三巨頭開會對付柯文哲",
@@ -201,6 +191,16 @@
       "author": "leptoneta",
       "board": "Gossiping",
       "publishTime": "2025/09/10 07:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "158",
+      "recommendCount": "297",
+      "title": "[請益] 現在適合信貸下去追大盤嗎？",
+      "link": "/bbs/Stock/M.1757492561.A.D10",
+      "author": "wwwson1256",
+      "board": "Stock",
+      "publishTime": "2025/09/10 08:22",
       "imageUrl": ""
     }
   ]
