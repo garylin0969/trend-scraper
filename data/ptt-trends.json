@@ -1,11 +1,11 @@
 {
-  "updated": "2025-09-10T08:20:07.078Z",
+  "updated": "2025-09-10T08:35:06.366Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "465",
-      "recommendCount": "987",
+      "recommendScore": "500",
+      "recommendCount": "1064",
       "title": "[新聞] 盜採挖出美濃大峽谷！陳其邁才震怒",
       "link": "/bbs/Gossiping/M.1757457843.A.623",
       "author": "goatcheese",
@@ -14,18 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "444",
-      "recommendCount": "798",
-      "title": "[問卦] 幹你娘高雄出事就一直酸暖?",
-      "link": "/bbs/Gossiping/M.1757425502.A.BA4",
-      "author": "latiner123",
-      "board": "Gossiping",
-      "publishTime": "2025/09/09 13:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "154",
-      "recommendCount": "923",
+      "recommendScore": "162",
+      "recommendCount": "976",
       "title": "[新聞] 四叉貓諷柯「關了1年見不到他爸最後一面」 網全怒了",
       "link": "/bbs/Gossiping/M.1757456447.A.2A5",
       "author": "xoara",
@@ -34,8 +24,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "462",
-      "recommendCount": "841",
+      "recommendScore": "447",
+      "recommendCount": "802",
+      "title": "[問卦] 幹你娘高雄出事就一直酸暖?",
+      "link": "/bbs/Gossiping/M.1757425502.A.BA4",
+      "author": "latiner123",
+      "board": "Gossiping",
+      "publishTime": "2025/09/09 13:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "466",
+      "recommendCount": "850",
       "title": "[新聞] 興達電廠天然氣下午4點外洩未告知大眾？多位里民包圍林欽榮爆推擠",
       "link": "/bbs/Gossiping/M.1757428818.A.AA3",
       "author": "Only22K",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "329",
-      "recommendCount": "681",
+      "recommendScore": "331",
+      "recommendCount": "685",
       "title": "[新聞] 火球炸出來！興達火力發電廠爆炸 小朋友嚇到哭喊：我不要住這邊",
       "link": "/bbs/Gossiping/M.1757424100.A.5BB",
       "author": "CREA",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "181",
-      "recommendCount": "780",
+      "recommendScore": "180",
+      "recommendCount": "782",
       "title": "[新聞] 「被說很散慢、沒有拚勁，等於判我死刑」 林書逸哽咽還原失誤當下",
       "link": "/bbs/Baseball/M.1757415574.A.75B",
       "author": "iamshana",
@@ -84,13 +84,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "397",
-      "recommendCount": "444",
+      "recommendScore": "398",
+      "recommendCount": "445",
       "title": "［情報］CPBL 9/9 球員異動",
       "link": "/bbs/Baseball/M.1757406662.A.FBC",
       "author": "wps0313",
       "board": "Baseball",
       "publishTime": "2025/09/09 08:31",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "238",
+      "recommendCount": "463",
+      "title": "[問卦] 高雄興達電廠大爆炸誰該負責？？？",
+      "link": "/bbs/Gossiping/M.1757421905.A.372",
+      "author": "gn505250",
+      "board": "Gossiping",
+      "publishTime": "2025/09/09 12:45",
       "imageUrl": ""
     },
     {
@@ -114,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "230",
-      "recommendCount": "447",
-      "title": "[問卦] 高雄興達電廠大爆炸誰該負責？？？",
-      "link": "/bbs/Gossiping/M.1757421905.A.372",
-      "author": "gn505250",
-      "board": "Gossiping",
-      "publishTime": "2025/09/09 12:45",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "357",
       "recommendCount": "424",
       "title": "[閒聊] 馬娘春烏拉拉原型馬過世",
@@ -132,6 +132,16 @@
       "board": "C_Chat",
       "publishTime": "2025/09/09 09:07",
       "imageUrl": "https://cache.pttweb.cc/imgur/tR5n21V/s/150a1cabfa799f9ec1facab1eb10a99b"
+    },
+    {
+      "recommendScore": "-178",
+      "recommendCount": "495",
+      "title": "[新聞] 力挺4本土小黨！呱吉：民眾黨非第三勢力",
+      "link": "/bbs/Gossiping/M.1757452418.A.13B",
+      "author": "MikaHakkinen",
+      "board": "Gossiping",
+      "publishTime": "2025/09/09 21:13",
+      "imageUrl": ""
     },
     {
       "recommendScore": "-295",
@@ -144,18 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-166",
-      "recommendCount": "473",
-      "title": "[新聞] 力挺4本土小黨！呱吉：民眾黨非第三勢力",
-      "link": "/bbs/Gossiping/M.1757452418.A.13B",
-      "author": "MikaHakkinen",
-      "board": "Gossiping",
-      "publishTime": "2025/09/09 21:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "223",
-      "recommendCount": "456",
+      "recommendScore": "224",
+      "recommendCount": "457",
       "title": "[新聞] 富貴險中求？高雄大樹山頭被整片挖禿 僅判刑約1年且能易科罰金",
       "link": "/bbs/Gossiping/M.1757409046.A.3EB",
       "author": "SEVENxELEVEN",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "198",
-      "recommendCount": "412",
+      "recommendScore": "201",
+      "recommendCount": "415",
       "title": "[問卦] 高雄登革熱疫情疑似比新聞呈現的還嚴重",
       "link": "/bbs/Gossiping/M.1757422326.A.B69",
       "author": "rarly68",
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "117",
-      "recommendCount": "312",
+      "recommendScore": "123",
+      "recommendCount": "318",
       "title": "[新聞] 快訊／興達電廠爆炸！陳其邁發聲了",
       "link": "/bbs/Gossiping/M.1757423746.A.10D",
       "author": "blackman451",
