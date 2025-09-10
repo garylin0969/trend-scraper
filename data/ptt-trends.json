@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-10T05:44:38.713Z",
+  "updated": "2025-09-10T05:53:43.281Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -22,16 +22,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/09 06:07",
       "imageUrl": "https://cache.pttweb.cc/imgur/UeCeGTg/s/74b98f3cf1c041e417b174b021b0894f"
-    },
-    {
-      "recommendScore": "491",
-      "recommendCount": "1083",
-      "title": "[爆卦] 小綠聯盟正式歸隊",
-      "link": "/bbs/Gossiping/M.1757396686.A.FF7",
-      "author": "FoxIz",
-      "board": "Gossiping",
-      "publishTime": "2025/09/09 05:44",
-      "imageUrl": "https://cache.pttweb.cc/imgur/8NZgTYc/s/9ea1968a94bfa7e396ea5e1996b5e35b"
     },
     {
       "recommendScore": "465",
@@ -202,6 +192,16 @@
       "board": "C_Chat",
       "publishTime": "2025/09/09 09:07",
       "imageUrl": "https://cache.pttweb.cc/imgur/tR5n21V/s/150a1cabfa799f9ec1facab1eb10a99b"
+    },
+    {
+      "recommendScore": "-295",
+      "recommendCount": "872",
+      "title": "[公告] 怒灌",
+      "link": "/bbs/Elephants/M.1757424453.A.732",
+      "author": "msarthur",
+      "board": "Elephants",
+      "publishTime": "2025/09/09 13:27",
+      "imageUrl": ""
     }
   ]
 }
