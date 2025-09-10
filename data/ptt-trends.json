@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-10T09:06:06.216Z",
+  "updated": "2025-09-10T09:17:59.159Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "398",
-      "recommendCount": "445",
-      "title": "［情報］CPBL 9/9 球員異動",
-      "link": "/bbs/Baseball/M.1757406662.A.FBC",
-      "author": "wps0313",
-      "board": "Baseball",
-      "publishTime": "2025/09/09 08:31",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "238",
       "recommendCount": "463",
       "title": "[問卦] 高雄興達電廠大爆炸誰該負責？？？",
@@ -114,26 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "163",
-      "recommendCount": "594",
-      "title": "[新聞] 賴清德承認關稅談判含「投資阿拉斯加」",
-      "link": "/bbs/Gossiping/M.1757408440.A.36B",
-      "author": "kobest",
-      "board": "Gossiping",
-      "publishTime": "2025/09/09 09:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "357",
-      "recommendCount": "424",
-      "title": "[閒聊] 馬娘春烏拉拉原型馬過世",
-      "link": "/bbs/C_Chat/M.1757408836.A.4D1",
-      "author": "stevenchiang",
-      "board": "C_Chat",
-      "publishTime": "2025/09/09 09:07",
-      "imageUrl": "https://cache.pttweb.cc/imgur/tR5n21V/s/150a1cabfa799f9ec1facab1eb10a99b"
-    },
-    {
       "recommendScore": "-178",
       "recommendCount": "495",
       "title": "[新聞] 力挺4本土小黨！呱吉：民眾黨非第三勢力",
@@ -151,16 +121,6 @@
       "author": "msarthur",
       "board": "Elephants",
       "publishTime": "2025/09/09 13:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "224",
-      "recommendCount": "457",
-      "title": "[新聞] 富貴險中求？高雄大樹山頭被整片挖禿 僅判刑約1年且能易科罰金",
-      "link": "/bbs/Gossiping/M.1757409046.A.3EB",
-      "author": "SEVENxELEVEN",
-      "board": "Gossiping",
-      "publishTime": "2025/09/09 09:10",
       "imageUrl": ""
     },
     {
@@ -201,6 +161,46 @@
       "author": "blackman451",
       "board": "Gossiping",
       "publishTime": "2025/09/09 13:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "160",
+      "recommendCount": "401",
+      "title": "[新聞] 爆賴清德急找府院黨三巨頭開會對付柯文哲",
+      "link": "/bbs/Gossiping/M.1757433496.A.04A",
+      "author": "deathdecay",
+      "board": "Gossiping",
+      "publishTime": "2025/09/09 15:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "164",
+      "recommendCount": "352",
+      "title": "[新聞] 興達電廠爆炸說明會氣氛火爆 地方狂罵林欽榮：太囂張",
+      "link": "/bbs/Gossiping/M.1757472390.A.53C",
+      "author": "Aqqqa",
+      "board": "Gossiping",
+      "publishTime": "2025/09/10 02:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "172",
+      "recommendCount": "332",
+      "title": "[新聞] 現場畫面曝光！高雄興達火力發電廠驚傳爆炸 傷亡人數尚不明",
+      "link": "/bbs/Gossiping/M.1757421415.A.2C3",
+      "author": "lovesaber",
+      "board": "Gossiping",
+      "publishTime": "2025/09/09 12:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "124",
+      "recommendCount": "360",
+      "title": "[新聞] 博士投書評論柯文哲案…控「檢察官問我誰付費？」 最高檢回",
+      "link": "/bbs/Gossiping/M.1757421194.A.FAF",
+      "author": "Araks",
+      "board": "Gossiping",
+      "publishTime": "2025/09/09 12:33",
       "imageUrl": ""
     }
   ]
