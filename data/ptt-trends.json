@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-10T21:05:36.457Z",
+  "updated": "2025-09-10T21:17:55.839Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-193",
-      "recommendCount": "547",
-      "title": "[新聞] 力挺4本土小黨！呱吉：民眾黨非第三勢力",
-      "link": "/bbs/Gossiping/M.1757452418.A.13B",
-      "author": "MikaHakkinen",
-      "board": "Gossiping",
-      "publishTime": "2025/09/09 21:13",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "322",
       "recommendCount": "487",
       "title": "[問卦] 日本女高中生舉重選手 為什麼這麼女生?",
@@ -201,6 +191,16 @@
       "author": "signm",
       "board": "Baseball",
       "publishTime": "2025/09/10 00:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "177",
+      "recommendCount": "432",
+      "title": "[問卦] 為啥台灣人一到日本就喜歡走路惹？",
+      "link": "/bbs/Gossiping/M.1757467305.A.04D",
+      "author": "amoyui",
+      "board": "Gossiping",
+      "publishTime": "2025/09/10 01:21",
       "imageUrl": ""
     }
   ]
