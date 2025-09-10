@@ -1,8 +1,18 @@
 {
-  "updated": "2025-09-10T19:53:40.100Z",
+  "updated": "2025-09-10T20:06:22.625Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "547",
+      "recommendCount": "1200",
+      "title": "[新聞] 盜採挖出美濃大峽谷！陳其邁才震怒",
+      "link": "/bbs/Gossiping/M.1757457843.A.623",
+      "author": "goatcheese",
+      "board": "Gossiping",
+      "publishTime": "2025/09/09 22:44",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Okq9CpX/s/9fcb4d60823a45b323d8d8b7da52563d"
+    },
     {
       "recommendScore": "185",
       "recommendCount": "1118",
@@ -14,16 +24,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "500",
-      "recommendCount": "1064",
-      "title": "[新聞] 盜採挖出美濃大峽谷！陳其邁才震怒",
-      "link": "/bbs/Gossiping/M.1757457843.A.623",
-      "author": "goatcheese",
-      "board": "Gossiping",
-      "publishTime": "2025/09/09 22:44",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "573",
       "recommendCount": "916",
       "title": "[爆卦] 黃國昌FB",
@@ -31,6 +31,16 @@
       "author": "a0580531",
       "board": "Gossiping",
       "publishTime": "2025/09/10 03:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "390",
+      "recommendCount": "815",
+      "title": "[新聞] 興達電廠爆炸說明會氣氛火爆 地方狂罵林欽榮：太囂張",
+      "link": "/bbs/Gossiping/M.1757472390.A.53C",
+      "author": "Aqqqa",
+      "board": "Gossiping",
+      "publishTime": "2025/09/10 02:46",
       "imageUrl": ""
     },
     {
@@ -124,6 +134,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/wkWXbfy/s/0e2bc88197a4f69de2c1c692260d1a12"
     },
     {
+      "recommendScore": "177",
+      "recommendCount": "432",
+      "title": "[問卦] 為啥台灣人一到日本就喜歡走路惹？",
+      "link": "/bbs/Gossiping/M.1757467305.A.04D",
+      "author": "amoyui",
+      "board": "Gossiping",
+      "publishTime": "2025/09/10 01:21",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "74",
       "recommendCount": "430",
       "title": "[新聞] 陳菊病倒請假9個月 監察院：自願放棄每ꐱ",
@@ -164,6 +184,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/OPq4RFK/s/a4980dcc00e065c7a67487ae9e73f41a"
     },
     {
+      "recommendScore": "179",
+      "recommendCount": "338",
+      "title": "[請益] 現在適合信貸下去追大盤嗎？",
+      "link": "/bbs/Stock/M.1757492561.A.D10",
+      "author": "wwwson1256",
+      "board": "Stock",
+      "publishTime": "2025/09/10 08:22",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "193",
       "recommendCount": "315",
       "title": "[新聞] 快訊／高雄流行音樂中心前水域驚見男浮屍　民眾目擊嚇壞通報",
@@ -171,36 +201,6 @@
       "author": "chpen",
       "board": "Gossiping",
       "publishTime": "2025/09/10 01:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "164",
-      "recommendCount": "352",
-      "title": "[新聞] 興達電廠爆炸說明會氣氛火爆 地方狂罵林欽榮：太囂張",
-      "link": "/bbs/Gossiping/M.1757472390.A.53C",
-      "author": "Aqqqa",
-      "board": "Gossiping",
-      "publishTime": "2025/09/10 02:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "246",
-      "recommendCount": "621",
-      "title": "[轉播] 十下 兄弟 2:2 台鋼 曾昱磬",
-      "link": "/bbs/Elephants/M.1757511940.A.1D0",
-      "author": "aquarius0wks",
-      "board": "Elephants",
-      "publishTime": "2025/09/10 13:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "158",
-      "recommendCount": "297",
-      "title": "[請益] 現在適合信貸下去追大盤嗎？",
-      "link": "/bbs/Stock/M.1757492561.A.D10",
-      "author": "wwwson1256",
-      "board": "Stock",
-      "publishTime": "2025/09/10 08:22",
       "imageUrl": ""
     }
   ]
