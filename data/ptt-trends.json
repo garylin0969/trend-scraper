@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-10T17:36:08.367Z",
+  "updated": "2025-09-10T17:43:40.674Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "141",
+      "recommendCount": "387",
+      "title": "[問卦] 台灣資產中位數350萬你信嗎?",
+      "link": "/bbs/Gossiping/M.1757464043.A.77F",
+      "author": "s454666",
+      "board": "Gossiping",
+      "publishTime": "2025/09/10 00:27",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "204",
       "recommendCount": "474",
       "title": "[分享] 脆熱議兄弟9局下疑被偷暗號號？",
@@ -191,16 +201,6 @@
       "author": "signm",
       "board": "Baseball",
       "publishTime": "2025/09/10 00:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "8",
-      "recommendCount": "531",
-      "title": "[新聞] 「小房間」改判宋晟睿盜壘失敗惹議 聯盟說明關鍵原因",
-      "link": "/bbs/Baseball/M.1757491019.A.CD4",
-      "author": "leftavoid",
-      "board": "Baseball",
-      "publishTime": "2025/09/10 07:56",
       "imageUrl": ""
     }
   ]
