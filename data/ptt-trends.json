@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-11T17:53:28.335Z",
+  "updated": "2025-09-11T18:07:03.426Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -31,6 +31,16 @@
       "author": "erspicu",
       "board": "Gossiping",
       "publishTime": "2025/09/11 10:31",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "141",
+      "recommendCount": "158",
+      "title": "[炸裂] 范國宸",
+      "link": "/bbs/Baseball/M.1757587442.A.9EA",
+      "author": "norel147",
+      "board": "Baseball",
+      "publishTime": "2025/09/11 10:44",
       "imageUrl": ""
     },
     {
@@ -94,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "96",
+      "recommendCount": "110",
+      "title": "[情報] 台鋼雄鷹9/26開球嘉賓-北海道阿嬤",
+      "link": "/bbs/Baseball/M.1757591213.A.B3F",
+      "author": "larry227079",
+      "board": "Baseball",
+      "publishTime": "2025/09/11 11:46",
+      "imageUrl": "https://cache.pttweb.cc/imgur/5pB4Pqm/s/945121aeb8bdd7c5aad5285ba442903c"
+    },
+    {
       "recommendScore": "73",
       "recommendCount": "151",
       "title": "[問卦] 高雄旗山警察分局巡邏箱在美濃大峽谷耶！",
@@ -154,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "81",
-      "recommendCount": "94",
-      "title": "[炸裂] 范國宸",
-      "link": "/bbs/Baseball/M.1757587442.A.9EA",
-      "author": "norel147",
-      "board": "Baseball",
-      "publishTime": "2025/09/11 10:44",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "61",
       "recommendCount": "120",
       "title": "[新聞] 尼泊爾全國動亂！爆發大規模越獄　約1.5萬囚犯脫逃",
@@ -191,16 +201,6 @@
       "author": "meta41110",
       "board": "Gossiping",
       "publishTime": "2025/09/11 10:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "70",
-      "recommendCount": "141",
-      "title": "[閒聊] GenG會選T1還是KT？",
-      "link": "/bbs/LoL/M.1757586983.A.617",
-      "author": "Minguo1016",
-      "board": "LoL",
-      "publishTime": "2025/09/11 10:36",
       "imageUrl": ""
     }
   ]
