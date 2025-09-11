@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-11T21:05:27.528Z",
+  "updated": "2025-09-11T21:17:10.746Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "182",
+      "recommendCount": "187",
+      "title": "Fw: [情報] 42屆小天使招考（9/8～9/17）",
+      "link": "/bbs/Lifeismoney/M.1757570770.A.3E2",
+      "author": "finhisky",
+      "board": "Lifeismoney",
+      "publishTime": "2025/09/11 06:06",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "125",
       "recommendCount": "208",
       "title": "[爆卦] 黃國昌踢爆中國陸生赴民進黨中央黨部",
@@ -31,6 +41,16 @@
       "author": "erspicu",
       "board": "Gossiping",
       "publishTime": "2025/09/11 10:31",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "130",
+      "recommendCount": "176",
+      "title": "[新聞] 不可思議！富邦滿壘大爆發 竟寫高懸34年聯盟紀錄",
+      "link": "/bbs/Baseball/M.1757596781.A.D8B",
+      "author": "Wojnarowski",
+      "board": "Baseball",
+      "publishTime": "2025/09/11 13:19",
       "imageUrl": ""
     },
     {
@@ -144,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "41",
+      "recommendCount": "316",
+      "title": "[求助] 老婆的過激反應，突然的炸彈",
+      "link": "/bbs/marriage/M.1757556729.A.D2C",
+      "author": "reterk",
+      "board": "marriage",
+      "publishTime": "2025/09/11 02:12",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "91",
       "recommendCount": "151",
       "title": "[問題] 爲什麼LCP沒有美女主播？",
@@ -172,36 +202,6 @@
       "board": "Baseball",
       "publishTime": "2025/09/11 11:46",
       "imageUrl": "https://cache.pttweb.cc/imgur/5pB4Pqm/s/945121aeb8bdd7c5aad5285ba442903c"
-    },
-    {
-      "recommendScore": "88",
-      "recommendCount": "209",
-      "title": "[討論] 陳亭妃民調輾壓林俊憲",
-      "link": "/bbs/HatePolitics/M.1757586083.A.0C3",
-      "author": "omanorboyo",
-      "board": "HatePolitics",
-      "publishTime": "2025/09/11 10:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "73",
-      "recommendCount": "151",
-      "title": "[問卦] 高雄旗山警察分局巡邏箱在美濃大峽谷耶！",
-      "link": "/bbs/Gossiping/M.1757582884.A.A3C",
-      "author": "shokotan",
-      "board": "Gossiping",
-      "publishTime": "2025/09/11 09:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "83",
-      "recommendCount": "101",
-      "title": "[分享] 今日 田中幹也",
-      "link": "/bbs/Baseball/M.1757593500.A.D88",
-      "author": "YuPei24",
-      "board": "Baseball",
-      "publishTime": "2025/09/11 12:25",
-      "imageUrl": ""
     }
   ]
 }
