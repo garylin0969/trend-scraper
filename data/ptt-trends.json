@@ -1,28 +1,8 @@
 {
-  "updated": "2025-09-11T14:18:19.858Z",
+  "updated": "2025-09-11T14:30:34.110Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "209",
-      "recommendCount": "466",
-      "title": "[轉播] 11下 兄弟 4:3 台鋼 顏郁軒",
-      "link": "/bbs/Elephants/M.1757513911.A.7AE",
-      "author": "aquarius0wks",
-      "board": "Elephants",
-      "publishTime": "2025/09/10 14:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "142",
-      "recommendCount": "254",
-      "title": "[分享] CPBL戰績",
-      "link": "/bbs/Baseball/M.1757514009.A.E0D",
-      "author": "jerryyuan",
-      "board": "Baseball",
-      "publishTime": "2025/09/10 14:20",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "-37",
       "recommendCount": "193",
@@ -61,16 +41,6 @@
       "author": "abc12812",
       "board": "Gossiping",
       "publishTime": "2025/09/10 19:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "45",
-      "recommendCount": "123",
-      "title": "[新聞] 澄清絕非不參賽 教練：林郁婷性別檢測中",
-      "link": "/bbs/Gossiping/M.1757514379.A.B5D",
-      "author": "westdoorcard",
-      "board": "Gossiping",
-      "publishTime": "2025/09/10 14:26",
       "imageUrl": ""
     },
     {
@@ -174,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "49",
-      "recommendCount": "76",
-      "title": "[分享] 今日鄭浩均AKA宇宙無迪霹靂美",
-      "link": "/bbs/Elephants/M.1757514003.A.8A8",
-      "author": "nanashin",
-      "board": "Elephants",
-      "publishTime": "2025/09/10 14:20",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "45",
       "recommendCount": "115",
       "title": "[閒聊] Peyz 現在在想什麼",
@@ -201,6 +161,46 @@
       "author": "Supergreen",
       "board": "Gossiping",
       "publishTime": "2025/09/11 12:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "40",
+      "recommendCount": "92",
+      "title": "[問卦] 高雄旗山警察分局巡邏箱在美濃大峽谷耶！",
+      "link": "/bbs/Gossiping/M.1757582884.A.A3C",
+      "author": "shokotan",
+      "board": "Gossiping",
+      "publishTime": "2025/09/11 09:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "34",
+      "recommendCount": "77",
+      "title": "[閒聊] 看了總版的OPS+發現",
+      "link": "/bbs/BaseballXXXX/M.1757576191.A.675",
+      "author": "allhighpass",
+      "board": "BaseballXXXX",
+      "publishTime": "2025/09/11 07:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "37",
+      "recommendCount": "62",
+      "title": "[問卦] 美濃是一個什麼樣的地方？",
+      "link": "/bbs/Gossiping/M.1757582635.A.FDA",
+      "author": "k90209",
+      "board": "Gossiping",
+      "publishTime": "2025/09/11 09:23",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "28",
+      "recommendCount": "89",
+      "title": "[情報] Cuban:出售球隊後 交易77的那位不想讓我留在球隊",
+      "link": "/bbs/NBA/M.1757518097.A.3A3",
+      "author": "kakala99",
+      "board": "NBA",
+      "publishTime": "2025/09/10 15:28",
       "imageUrl": ""
     }
   ]
