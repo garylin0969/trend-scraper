@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-11T06:08:34.883Z",
+  "updated": "2025-09-11T06:21:49.318Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "152",
-      "recommendCount": "304",
-      "title": "[心得] 人人買股票的時代來臨了嗎？",
-      "link": "/bbs/Stock/M.1757484574.A.89B",
-      "author": "amazonyahoo",
-      "board": "Stock",
-      "publishTime": "2025/09/10 06:09",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "164",
       "recommendCount": "294",
       "title": "[爆卦] 俄無人機入侵波蘭！北約:不是喔不是這樣",
@@ -201,6 +191,16 @@
       "author": "EstelleRinz",
       "board": "Gossiping",
       "publishTime": "2025/09/10 10:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "144",
+      "recommendCount": "385",
+      "title": "[轉播] 十下 兄弟 2:2 台鋼",
+      "link": "/bbs/Elephants/M.1757511536.A.D59",
+      "author": "aquarius0wks",
+      "board": "Elephants",
+      "publishTime": "2025/09/10 13:38",
       "imageUrl": ""
     }
   ]
