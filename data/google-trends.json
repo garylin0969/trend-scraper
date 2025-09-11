@@ -1,15 +1,20 @@
 {
-  "updated": "2025-09-11T22:37:15.690Z",
+  "updated": "2025-09-11T23:08:59.920Z",
   "trends": [
+    {
+      "googleTrend": "降息",
+      "searchVolume": "500+",
+      "started": "30 分鐘前"
+    },
+    {
+      "googleTrend": "tsla stock",
+      "searchVolume": "100+",
+      "started": "30 分鐘前"
+    },
     {
       "googleTrend": "台積adr",
       "searchVolume": "100+",
-      "started": "10 分鐘前"
-    },
-    {
-      "googleTrend": "tsm",
-      "searchVolume": "100+",
-      "started": "10 分鐘前"
+      "started": "40 分鐘前"
     },
     {
       "googleTrend": "地震",
@@ -20,6 +25,11 @@
       "googleTrend": "地震速報",
       "searchVolume": "100+",
       "started": "3 小時前"
+    },
+    {
+      "googleTrend": "tsm",
+      "searchVolume": "100+",
+      "started": "40 分鐘前"
     }
   ]
 }
