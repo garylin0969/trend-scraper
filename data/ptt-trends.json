@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-11T16:45:12.017Z",
+  "updated": "2025-09-11T16:53:42.309Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -61,6 +61,16 @@
       "author": "qqmachi8787",
       "board": "Gossiping",
       "publishTime": "2025/09/11 10:43",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "88",
+      "recommendCount": "209",
+      "title": "[討論] 陳亭妃民調輾壓林俊憲",
+      "link": "/bbs/HatePolitics/M.1757586083.A.0C3",
+      "author": "omanorboyo",
+      "board": "HatePolitics",
+      "publishTime": "2025/09/11 10:21",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "NUMB43",
       "board": "Gossiping",
       "publishTime": "2025/09/11 08:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "70",
-      "recommendCount": "87",
-      "title": "[閒聊] 中國CS第一人somebody被爆假賽",
-      "link": "/bbs/C_Chat/M.1757581763.A.40B",
-      "author": "kerycheng",
-      "board": "C_Chat",
-      "publishTime": "2025/09/11 09:09",
       "imageUrl": ""
     }
   ]
