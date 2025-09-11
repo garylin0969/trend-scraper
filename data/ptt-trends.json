@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-11T23:17:33.301Z",
+  "updated": "2025-09-11T23:27:14.348Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "109",
+      "recommendCount": "262",
+      "title": "[閒聊] 為什麼武俠是越老越強?",
+      "link": "/bbs/C_Chat/M.1757551520.A.CFC",
+      "author": "Gentlemon",
+      "board": "C_Chat",
+      "publishTime": "2025/09/11 00:45",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "141",
       "recommendCount": "311",
       "title": "[情報] GENG選KT T1打HLE",
@@ -191,16 +201,6 @@
       "author": "F15EX",
       "board": "car",
       "publishTime": "2025/09/11 06:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "33",
-      "recommendCount": "207",
-      "title": "[問卦] 看完Cheap的影片我覺得還是獨裁比較好",
-      "link": "/bbs/Gossiping/M.1757587402.A.477",
-      "author": "qqmachi8787",
-      "board": "Gossiping",
-      "publishTime": "2025/09/11 10:43",
       "imageUrl": ""
     }
   ]
