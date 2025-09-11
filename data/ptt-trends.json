@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-11T17:43:16.836Z",
+  "updated": "2025-09-11T17:53:28.335Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -72,6 +72,16 @@
       "board": "LoL",
       "publishTime": "2025/09/11 11:43",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "91",
+      "recommendCount": "151",
+      "title": "[問題] 爲什麼LCP沒有美女主播？",
+      "link": "/bbs/LoL/M.1757583701.A.5E0",
+      "author": "AHQ112",
+      "board": "LoL",
+      "publishTime": "2025/09/11 09:41",
+      "imageUrl": "https://cache.pttweb.cc/imgur/xBgtJub/s/14d0274320064a3f10a002ea8aaa8e7b"
     },
     {
       "recommendScore": "88",
@@ -191,16 +201,6 @@
       "author": "Minguo1016",
       "board": "LoL",
       "publishTime": "2025/09/11 10:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "74",
-      "recommendCount": "88",
-      "title": "[新聞] WCY-張育成初對決徐若熙首打席就嚇到",
-      "link": "/bbs/Baseball/M.1757582754.A.453",
-      "author": "jal99",
-      "board": "Baseball",
-      "publishTime": "2025/09/11 09:25",
       "imageUrl": ""
     }
   ]
