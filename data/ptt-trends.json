@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-11T00:21:52.218Z",
+  "updated": "2025-09-11T00:49:38.584Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "255",
-      "recommendCount": "621",
+      "recommendScore": "257",
+      "recommendCount": "632",
       "title": "[新聞] 靠投資過生活！他自曝「8個月沒上班」 每月股息加獲利最高近3萬",
       "link": "/bbs/Stock/M.1757474788.A.B11",
       "author": "anti87",
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "221",
-      "recommendCount": "393",
-      "title": "[問卦] 高雄禁航區怎麼這麼大片？",
-      "link": "/bbs/Gossiping/M.1757465093.A.04E",
-      "author": "bb10181128",
-      "board": "Gossiping",
-      "publishTime": "2025/09/10 00:44",
-      "imageUrl": "https://cache.pttweb.cc/imgur/wkWXbfy/s/0e2bc88197a4f69de2c1c692260d1a12"
-    },
-    {
       "recommendScore": "730",
       "recommendCount": "1461",
       "title": "[電競] 2025 LCK Playoffs Upper Round 1A",
@@ -161,16 +151,6 @@
       "author": "laptic",
       "board": "LoL",
       "publishTime": "2025/09/10 07:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "253",
-      "recommendCount": "596",
-      "title": "[分享] 脆熱議兄弟9局下疑被偷暗號號？",
-      "link": "/bbs/Baseball/M.1757464647.A.5AE",
-      "author": "signm",
-      "board": "Baseball",
-      "publishTime": "2025/09/10 00:37",
       "imageUrl": ""
     },
     {
@@ -201,6 +181,26 @@
       "author": "wwwson1256",
       "board": "Stock",
       "publishTime": "2025/09/10 08:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "193",
+      "recommendCount": "315",
+      "title": "[新聞] 快訊／高雄流行音樂中心前水域驚見男浮屍　民眾目擊嚇壞通報",
+      "link": "/bbs/Gossiping/M.1757468329.A.D3C",
+      "author": "chpen",
+      "board": "Gossiping",
+      "publishTime": "2025/09/10 01:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "246",
+      "recommendCount": "621",
+      "title": "[轉播] 十下 兄弟 2:2 台鋼 曾昱磬",
+      "link": "/bbs/Elephants/M.1757511940.A.1D0",
+      "author": "aquarius0wks",
+      "board": "Elephants",
+      "publishTime": "2025/09/10 13:45",
       "imageUrl": ""
     }
   ]
