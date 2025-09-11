@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-11T18:33:21.205Z",
+  "updated": "2025-09-11T18:46:11.695Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "80",
+      "recommendCount": "256",
+      "title": "[新聞] 聯結車疑超載拒檢…警拔槍嚇阻無用駕駛恐吃16萬罰單還扣照",
+      "link": "/bbs/car/M.1757573498.A.866",
+      "author": "F15EX",
+      "board": "car",
+      "publishTime": "2025/09/11 06:51",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "33",
       "recommendCount": "207",
       "title": "[問卦] 看完Cheap的影片我覺得還是獨裁比較好",
@@ -154,6 +164,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/xBgtJub/s/14d0274320064a3f10a002ea8aaa8e7b"
     },
     {
+      "recommendScore": "80",
+      "recommendCount": "139",
+      "title": "[閒聊] 第一次這麼同情童帝...",
+      "link": "/bbs/japanavgirls/M.1757561999.A.273",
+      "author": "SeanLi1013",
+      "board": "japanavgirls",
+      "publishTime": "2025/09/11 03:39",
+      "imageUrl": "https://cache.pttweb.cc/imgur/4aUr1Tt/s/e9da9b4f1d62f1d7fb41cef7889b7666"
+    },
+    {
       "recommendScore": "98",
       "recommendCount": "112",
       "title": "[情報] 台鋼雄鷹9/26開球嘉賓-北海道阿嬤",
@@ -181,26 +201,6 @@
       "author": "shokotan",
       "board": "Gossiping",
       "publishTime": "2025/09/11 09:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "55",
-      "recommendCount": "136",
-      "title": "[問卦] 4x貓會出來公開道歉嗎??",
-      "link": "/bbs/Gossiping/M.1757608203.A.AE2",
-      "author": "whiteadam",
-      "board": "Gossiping",
-      "publishTime": "2025/09/11 16:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "74",
-      "recommendCount": "116",
-      "title": "[新聞] 北市女不滿包裝竟要星巴克員工下跪　出拳打警！慘遭壓制在地上銬",
-      "link": "/bbs/Gossiping/M.1757604960.A.C3D",
-      "author": "yimoe",
-      "board": "Gossiping",
-      "publishTime": "2025/09/11 15:36",
       "imageUrl": ""
     }
   ]
