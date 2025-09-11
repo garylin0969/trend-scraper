@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-11T18:07:03.426Z",
+  "updated": "2025-09-11T18:18:59.509Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "132",
+      "recommendCount": "162",
+      "title": "[新聞] WCY-張育成初對決徐若熙首打席就嚇到",
+      "link": "/bbs/Baseball/M.1757582754.A.453",
+      "author": "jal99",
+      "board": "Baseball",
+      "publishTime": "2025/09/11 09:25",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-44",
       "recommendCount": "247",
       "title": "[新聞] 區域能源正義! 陳其邁:各縣市用電、自己扛起責任",
@@ -54,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "617",
+      "recommendCount": "1475",
+      "title": "[討論] [Vtub] Hololive 晚間直播單 (1140911)",
+      "link": "/bbs/C_Chat/M.1757588211.A.D54",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2025/09/11 10:56",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "77",
       "recommendCount": "177",
       "title": "[新聞] 苦戀高中同學「只被當砲友」她激戰完告白被拒　揮刀刺頸險奪命",
@@ -61,6 +81,26 @@
       "author": "lovea",
       "board": "Gossiping",
       "publishTime": "2025/09/11 09:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "120",
+      "recommendCount": "151",
+      "title": "[閒聊] 中國CS第一人somebody被爆假賽",
+      "link": "/bbs/C_Chat/M.1757581763.A.40B",
+      "author": "kerycheng",
+      "board": "C_Chat",
+      "publishTime": "2025/09/11 09:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "99",
+      "recommendCount": "211",
+      "title": "[新聞] 《星鳴特攻》「光速慘敗」原因揭曉　開發者坦言：溝通失敗",
+      "link": "/bbs/C_Chat/M.1757591421.A.1B4",
+      "author": "paiopapa",
+      "board": "C_Chat",
+      "publishTime": "2025/09/11 11:50",
       "imageUrl": ""
     },
     {
@@ -161,46 +201,6 @@
       "author": "saiulbb",
       "board": "Gossiping",
       "publishTime": "2025/09/11 11:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "59",
-      "recommendCount": "221",
-      "title": "[問卦] Kirk被槍殺證明擁槍派是對的還是錯的？",
-      "link": "/bbs/Gossiping/M.1757583644.A.1C7",
-      "author": "KyrieIrving1",
-      "board": "Gossiping",
-      "publishTime": "2025/09/11 09:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "61",
-      "recommendCount": "120",
-      "title": "[新聞] 尼泊爾全國動亂！爆發大規模越獄　約1.5萬囚犯脫逃",
-      "link": "/bbs/Gossiping/M.1757581100.A.83B",
-      "author": "STAV72",
-      "board": "Gossiping",
-      "publishTime": "2025/09/11 08:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "50",
-      "recommendCount": "115",
-      "title": "[新聞] 開第一槍切割四叉貓！　雪坊優格宣布「未來拒合作」",
-      "link": "/bbs/Gossiping/M.1757586882.A.5C5",
-      "author": "playla",
-      "board": "Gossiping",
-      "publishTime": "2025/09/11 10:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "71",
-      "recommendCount": "99",
-      "title": "[新聞] 抖音「上車歌」台灣爆紅！統一獅啦啦隊神還原　網笑喊：傑憲哥哥上車囉",
-      "link": "/bbs/Gossiping/M.1757585619.A.1C1",
-      "author": "meta41110",
-      "board": "Gossiping",
-      "publishTime": "2025/09/11 10:13",
       "imageUrl": ""
     }
   ]
