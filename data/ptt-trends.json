@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-11T16:53:42.309Z",
+  "updated": "2025-09-11T17:05:27.834Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -61,6 +61,16 @@
       "author": "qqmachi8787",
       "board": "Gossiping",
       "publishTime": "2025/09/11 10:43",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "132",
+      "recommendCount": "294",
+      "title": "[情報] GENG選KT T1打HLE",
+      "link": "/bbs/LoL/M.1757590996.A.777",
+      "author": "a3221715",
+      "board": "LoL",
+      "publishTime": "2025/09/11 11:43",
       "imageUrl": ""
     },
     {
@@ -184,23 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "74",
-      "recommendCount": "88",
-      "title": "[新聞] WCY-張育成初對決徐若熙首打席就嚇到",
-      "link": "/bbs/Baseball/M.1757582754.A.453",
-      "author": "jal99",
-      "board": "Baseball",
-      "publishTime": "2025/09/11 09:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "55",
+      "recommendScore": "70",
       "recommendCount": "141",
-      "title": "[問卦] 王心凌是吹出來的還是真的獨特",
-      "link": "/bbs/Gossiping/M.1757580807.A.53C",
-      "author": "NUMB43",
-      "board": "Gossiping",
-      "publishTime": "2025/09/11 08:53",
+      "title": "[閒聊] GenG會選T1還是KT？",
+      "link": "/bbs/LoL/M.1757586983.A.617",
+      "author": "Minguo1016",
+      "board": "LoL",
+      "publishTime": "2025/09/11 10:36",
       "imageUrl": ""
     }
   ]
