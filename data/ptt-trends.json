@@ -1,8 +1,18 @@
 {
-  "updated": "2025-09-11T21:43:38.996Z",
+  "updated": "2025-09-11T21:53:45.175Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "190",
+      "recommendCount": "372",
+      "title": "[花邊] Adam Silver談Kawhi與快艇事件",
+      "link": "/bbs/NBA/M.1757547848.A.D78",
+      "author": "Kai877",
+      "board": "NBA",
+      "publishTime": "2025/09/10 23:44",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "175",
       "recommendCount": "240",
@@ -192,16 +202,6 @@
       "board": "LoL",
       "publishTime": "2025/09/11 09:41",
       "imageUrl": "https://cache.pttweb.cc/imgur/xBgtJub/s/14d0274320064a3f10a002ea8aaa8e7b"
-    },
-    {
-      "recommendScore": "80",
-      "recommendCount": "139",
-      "title": "[閒聊] 第一次這麼同情童帝...",
-      "link": "/bbs/japanavgirls/M.1757561999.A.273",
-      "author": "SeanLi1013",
-      "board": "japanavgirls",
-      "publishTime": "2025/09/11 03:39",
-      "imageUrl": "https://cache.pttweb.cc/imgur/4aUr1Tt/s/e9da9b4f1d62f1d7fb41cef7889b7666"
     }
   ]
 }
