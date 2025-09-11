@@ -1,8 +1,28 @@
 {
-  "updated": "2025-09-11T22:37:04.658Z",
+  "updated": "2025-09-11T22:43:56.302Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "772",
+      "recommendCount": "1460",
+      "title": "[電競] 2025 LCK Playoffs Upper Round 1B",
+      "link": "/bbs/LoL/M.1757575803.A.EB2",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/09/11 07:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "193",
+      "recommendCount": "300",
+      "title": "[情報] 114年09月11日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1757574614.A.D40",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2025/09/11 07:10",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "190",
       "recommendCount": "372",
@@ -182,26 +202,6 @@
       "board": "Stock",
       "publishTime": "2025/09/11 15:47",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "41",
-      "recommendCount": "316",
-      "title": "[求助] 老婆的過激反應，突然的炸彈",
-      "link": "/bbs/marriage/M.1757556729.A.D2C",
-      "author": "reterk",
-      "board": "marriage",
-      "publishTime": "2025/09/11 02:12",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "93",
-      "recommendCount": "156",
-      "title": "[問題] 爲什麼LCP沒有美女主播？",
-      "link": "/bbs/LoL/M.1757583701.A.5E0",
-      "author": "AHQ112",
-      "board": "LoL",
-      "publishTime": "2025/09/11 09:41",
-      "imageUrl": "https://cache.pttweb.cc/imgur/xBgtJub/s/14d0274320064a3f10a002ea8aaa8e7b"
     }
   ]
 }
