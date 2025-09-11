@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-11T07:29:37.938Z",
+  "updated": "2025-09-11T07:37:24.424Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,16 +54,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "730",
-      "recommendCount": "1461",
-      "title": "[電競] 2025 LCK Playoffs Upper Round 1A",
-      "link": "/bbs/LoL/M.1757489402.A.9AC",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2025/09/10 07:30",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "180",
       "recommendCount": "340",
       "title": "[請益] 現在適合信貸下去追大盤嗎？",
@@ -81,16 +71,6 @@
       "author": "aquarius0wks",
       "board": "Elephants",
       "publishTime": "2025/09/10 13:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "40",
-      "recommendCount": "398",
-      "title": "[新聞] 4小黨聯合盼淘汰白營 楊佩樺爆退黨內幕：台灣基進希望打民進黨！",
-      "link": "/bbs/Gossiping/M.1757489525.A.AD2",
-      "author": "googolplex",
-      "board": "Gossiping",
-      "publishTime": "2025/09/10 07:32",
       "imageUrl": ""
     },
     {
@@ -201,6 +181,26 @@
       "author": "aquarius0wks",
       "board": "Elephants",
       "publishTime": "2025/09/10 13:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "145",
+      "recommendCount": "190",
+      "title": "[爆卦] 射箭女團 世錦賽金牌",
+      "link": "/bbs/Gossiping/M.1757490364.A.AA7",
+      "author": "oncemore",
+      "board": "Gossiping",
+      "publishTime": "2025/09/10 07:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "142",
+      "recommendCount": "254",
+      "title": "[分享] CPBL戰績",
+      "link": "/bbs/Baseball/M.1757514009.A.E0D",
+      "author": "jerryyuan",
+      "board": "Baseball",
+      "publishTime": "2025/09/10 14:20",
       "imageUrl": ""
     }
   ]
