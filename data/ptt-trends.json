@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-11T23:53:40.621Z",
+  "updated": "2025-09-12T00:21:20.606Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "133",
+      "recommendCount": "193",
+      "title": "[情報] 0911 上市外資買賣超排行",
+      "link": "/bbs/Stock/M.1757578369.A.060",
+      "author": "paidzou",
+      "board": "Stock",
+      "publishTime": "2025/09/11 08:12",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "668",
       "recommendCount": "1475",
       "title": "[討論] [Vtub] Hololive 晚間直播單 (1140911)",
@@ -174,33 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "141",
-      "recommendCount": "311",
-      "title": "[情報] GENG選KT T1打HLE",
-      "link": "/bbs/LoL/M.1757590996.A.777",
-      "author": "a3221715",
-      "board": "LoL",
-      "publishTime": "2025/09/11 11:43",
+      "recommendScore": "39",
+      "recommendCount": "172",
+      "title": "[請益] 巴菲特的粉絲去哪了？",
+      "link": "/bbs/Stock/M.1757561107.A.524",
+      "author": "NeihuSnape",
+      "board": "Stock",
+      "publishTime": "2025/09/11 03:25",
       "imageUrl": ""
     },
     {
-      "recommendScore": "73",
-      "recommendCount": "238",
-      "title": "[閒聊] 便當在漲下去  真的活不下去了",
-      "link": "/bbs/WomenTalk/M.1757563688.A.24F",
-      "author": "chengyou66",
-      "board": "WomenTalk",
-      "publishTime": "2025/09/11 04:08",
-      "imageUrl": "https://cache.pttweb.cc/imgur/6GO42x3/s/e7f0be6e759b75bab0f1cd9734b99853"
-    },
-    {
-      "recommendScore": "80",
-      "recommendCount": "256",
-      "title": "[新聞] 聯結車疑超載拒檢…警拔槍嚇阻無用駕駛恐吃16萬罰單還扣照",
-      "link": "/bbs/car/M.1757573498.A.866",
-      "author": "F15EX",
-      "board": "car",
-      "publishTime": "2025/09/11 06:51",
+      "recommendScore": "98",
+      "recommendCount": "157",
+      "title": "[新聞] 美商務部長盧特尼克：與台灣的「大型」貿易協議要來了",
+      "link": "/bbs/Stock/M.1757605679.A.FB4",
+      "author": "TCB006",
+      "board": "Stock",
+      "publishTime": "2025/09/11 15:47",
       "imageUrl": ""
     }
   ]
