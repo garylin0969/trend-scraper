@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-13T16:44:58.651Z",
+  "updated": "2025-09-13T16:53:38.204Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -32,6 +32,16 @@
       "board": "Gossiping",
       "publishTime": "2025/09/12 18:44",
       "imageUrl": "https://cache.pttweb.cc/imgur/lN8eN8x/s/7fa476a509296b7b58bbdd4b3a907ec8"
+    },
+    {
+      "recommendScore": "725",
+      "recommendCount": "1460",
+      "title": "[電競] 2025 LCK Playoffs Upper Round 2A",
+      "link": "/bbs/LoL/M.1757741403.A.3AC",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/09/13 05:30",
+      "imageUrl": ""
     },
     {
       "recommendScore": "226",
@@ -191,16 +201,6 @@
       "author": "TPPKoWenJe",
       "board": "Gossiping",
       "publishTime": "2025/09/13 02:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "179",
-      "recommendCount": "238",
-      "title": "[新聞] 山本由伸連3場至少7局10K只失1分 史上唯一沒勝投",
-      "link": "/bbs/Baseball/M.1757744006.A.D11",
-      "author": "polanco",
-      "board": "Baseball",
-      "publishTime": "2025/09/13 06:13",
       "imageUrl": ""
     }
   ]
