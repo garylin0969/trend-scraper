@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-13T15:04:51.842Z",
+  "updated": "2025-09-13T15:17:01.672Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "240",
-      "recommendCount": "274",
-      "title": "[創作] 無敵鐵金剛",
-      "link": "/bbs/Baseball/M.1757689605.A.99A",
-      "author": "litpepper",
-      "board": "Baseball",
-      "publishTime": "2025/09/12 15:06",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "95",
       "recommendCount": "387",
       "title": "[問卦]小學生：我不要生生喝鮮乳 我要圓環地下道",
@@ -164,16 +154,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/51MnnfR/s/0f96ca6d9da49c60f41f02e5e2452c58"
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "293",
-      "title": "[問卦] 四叉貓粉在脆罵護理師臭鮑被報警提告了",
-      "link": "/bbs/Gossiping/M.1757689490.A.0EF",
-      "author": "BMWi3",
-      "board": "Gossiping",
-      "publishTime": "2025/09/12 15:04",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "139",
       "recommendCount": "324",
       "title": "[問卦] 公館圓環地下道直接填混凝土沒問題嗎",
@@ -201,6 +181,26 @@
       "author": "laptic",
       "board": "C_Chat",
       "publishTime": "2025/09/13 10:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "13",
+      "recommendCount": "272",
+      "title": "[新聞] 陳其邁嗆「做過院長為何不修財劃法？」",
+      "link": "/bbs/Gossiping/M.1757748737.A.AD4",
+      "author": "ssshleo",
+      "board": "Gossiping",
+      "publishTime": "2025/09/13 07:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "2",
+      "recommendCount": "407",
+      "title": "[新聞] 北院尚有21名證人未詰問 高院：柯交保難防勾串",
+      "link": "/bbs/Gossiping/M.1757730522.A.F3D",
+      "author": "TPPKoWenJe",
+      "board": "Gossiping",
+      "publishTime": "2025/09/13 02:28",
       "imageUrl": ""
     }
   ]
