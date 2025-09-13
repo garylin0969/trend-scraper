@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-13T02:57:21.408Z",
+  "updated": "2025-09-13T03:10:34.094Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/Waa5WRC/s/931c5b6fabe7141c86ec83f6d208ac15"
     },
     {
-      "recommendScore": "394",
-      "recommendCount": "1161",
+      "recommendScore": "393",
+      "recommendCount": "1162",
       "title": "[新聞] 快訊／北檢抗告成功！柯文哲、應曉薇交保發回更裁　高院理由曝光",
       "link": "/bbs/Gossiping/M.1757664461.A.29D",
       "author": "bbbb25487",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "577",
-      "recommendCount": "631",
+      "recommendScore": "601",
+      "recommendCount": "657",
       "title": "[心得] 自幹台股免費回測網站，不用會寫程式也不用你登入",
       "link": "/bbs/Stock/M.1757696818.A.BB4",
       "author": "SulaWei",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "487",
-      "recommendCount": "761",
+      "recommendScore": "492",
+      "recommendCount": "771",
       "title": "Re: [問卦] 呱吉剛剛直播爆氣欸！？",
       "link": "/bbs/Gossiping/M.1757692557.A.8B1",
       "author": "fatdoghusky",
@@ -84,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "409",
-      "recommendCount": "563",
-      "title": "[情報] 富邦悍將 林哲瑄 今年球季引退",
-      "link": "/bbs/Baseball/M.1757646181.A.3EF",
-      "author": "jack801016",
-      "board": "Baseball",
-      "publishTime": "2025/09/12 03:03",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "233",
       "recommendCount": "561",
       "title": "[新聞] 陳怡君交保獲釋！　高院破例「自為裁定」：沒義務為檢保全證據",
@@ -102,6 +92,16 @@
       "board": "Gossiping",
       "publishTime": "2025/09/12 12:06",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "309",
+      "recommendCount": "563",
+      "title": "[問卦] 慟！青鳥又製作遺照",
+      "link": "/bbs/Gossiping/M.1757702679.A.281",
+      "author": "zoeapezoo",
+      "board": "Gossiping",
+      "publishTime": "2025/09/12 18:44",
+      "imageUrl": "https://cache.pttweb.cc/imgur/lN8eN8x/s/7fa476a509296b7b58bbdd4b3a907ec8"
     },
     {
       "recommendScore": "278",
@@ -114,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "288",
-      "recommendCount": "529",
-      "title": "[問卦] 慟！青鳥又製作遺照",
-      "link": "/bbs/Gossiping/M.1757702679.A.281",
-      "author": "zoeapezoo",
-      "board": "Gossiping",
-      "publishTime": "2025/09/12 18:44",
-      "imageUrl": "https://cache.pttweb.cc/imgur/lN8eN8x/s/7fa476a509296b7b58bbdd4b3a907ec8"
-    },
-    {
       "recommendScore": "303",
       "recommendCount": "600",
       "title": "[新聞] 獨／「兩餐火鍋」信義店4年虧941萬！內鬼全捐直播主沒錢還遭重判",
@@ -134,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "198",
-      "recommendCount": "546",
+      "recommendScore": "197",
+      "recommendCount": "547",
       "title": "[新聞] 快訊／特助竟是「美濃大峽谷」盜採地主",
       "link": "/bbs/Gossiping/M.1757673472.A.CAF",
       "author": "srwcc",
@@ -144,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "248",
-      "recommendCount": "413",
+      "recommendScore": "250",
+      "recommendCount": "416",
       "title": "[問卦] 江祖平案改由北檢偵辦 要注意什麼？",
       "link": "/bbs/Gossiping/M.1757672239.A.F1A",
       "author": "zoeapezoo",
@@ -175,7 +165,7 @@
     },
     {
       "recommendScore": "217",
-      "recommendCount": "410",
+      "recommendCount": "411",
       "title": "[新聞] 綠能你不能！柯文哲交保發回、陳怡君改交保 法界稱「有黨證無敵」",
       "link": "/bbs/Gossiping/M.1757676858.A.B46",
       "author": "super5566go",
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "328",
-      "recommendCount": "351",
+      "recommendScore": "332",
+      "recommendCount": "355",
       "title": "[贈票]【 一戰再戰】 特映搶先看",
       "link": "/bbs/movie/M.1757659266.A.EFA",
       "author": "haha1121",
       "board": "movie",
       "publishTime": "2025/09/12 06:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "357",
+      "recommendCount": "724",
+      "title": "[討論] 中華隊最強中外野 要選陳傑憲還是林哲瑄",
+      "link": "/bbs/Baseball/M.1757658763.A.78F",
+      "author": "f22313467",
+      "board": "Baseball",
+      "publishTime": "2025/09/12 06:32",
       "imageUrl": ""
     }
   ]
