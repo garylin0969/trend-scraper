@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-13T14:43:15.182Z",
+  "updated": "2025-09-13T14:53:13.765Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "209",
-      "recommendCount": "338",
-      "title": "[討論] 明年富邦是不是大有可為",
-      "link": "/bbs/Baseball/M.1757688693.A.CC5",
-      "author": "tommy123310",
-      "board": "Baseball",
-      "publishTime": "2025/09/12 14:51",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "349",
       "recommendCount": "1220",
       "title": "[轉播] 三局下 兄弟0：8桃猿",
@@ -201,6 +191,16 @@
       "author": "BayAreaUnite",
       "board": "Baseball",
       "publishTime": "2025/09/13 04:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "854",
+      "recommendCount": "1477",
+      "title": "[討論] [Vtub] Hololive 晚間直播單 (1140913)",
+      "link": "/bbs/C_Chat/M.1757760262.A.259",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2025/09/13 10:44",
       "imageUrl": ""
     }
   ]
