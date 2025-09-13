@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-13T02:38:44.974Z",
+  "updated": "2025-09-13T02:57:21.408Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "577",
+      "recommendCount": "631",
+      "title": "[心得] 自幹台股免費回測網站，不用會寫程式也不用你登入",
+      "link": "/bbs/Stock/M.1757696818.A.BB4",
+      "author": "SulaWei",
+      "board": "Stock",
+      "publishTime": "2025/09/12 17:06",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "487",
       "recommendCount": "761",
       "title": "Re: [問卦] 呱吉剛剛直播爆氣欸！？",
@@ -74,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "480",
-      "recommendCount": "525",
-      "title": "[心得] 自幹台股免費回測網站，不用會寫程式也不用你登入",
-      "link": "/bbs/Stock/M.1757696818.A.BB4",
-      "author": "SulaWei",
-      "board": "Stock",
-      "publishTime": "2025/09/12 17:06",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "409",
       "recommendCount": "563",
       "title": "[情報] 富邦悍將 林哲瑄 今年球季引退",
@@ -91,26 +91,6 @@
       "author": "jack801016",
       "board": "Baseball",
       "publishTime": "2025/09/12 03:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "292",
-      "recommendCount": "743",
-      "title": "[新聞] 轉錢給自己「帳戶慘被凍結」　一票苦主怒：很荒謬！行員說話了",
-      "link": "/bbs/Gossiping/M.1757645113.A.FEF",
-      "author": "HisVol",
-      "board": "Gossiping",
-      "publishTime": "2025/09/12 02:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "291",
-      "recommendCount": "603",
-      "title": "[新聞] 「美濃大峽谷」坑3億卻10萬交保　民眾黨：要欺負高雄人多久",
-      "link": "/bbs/Gossiping/M.1757645658.A.B5E",
-      "author": "ptt987654321",
-      "board": "Gossiping",
-      "publishTime": "2025/09/12 02:54",
       "imageUrl": ""
     },
     {
@@ -202,6 +182,26 @@
       "board": "Gossiping",
       "publishTime": "2025/09/12 11:34",
       "imageUrl": "https://cache.pttweb.cc/imgur/mUVvSQ6/s/7b4dac21a938fbe2bc27f12afcf028f4"
+    },
+    {
+      "recommendScore": "276",
+      "recommendCount": "355",
+      "title": "[炸裂] 許庭綸",
+      "link": "/bbs/Baseball/M.1757679260.A.BFA",
+      "author": "Nightking",
+      "board": "Baseball",
+      "publishTime": "2025/09/12 12:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "328",
+      "recommendCount": "351",
+      "title": "[贈票]【 一戰再戰】 特映搶先看",
+      "link": "/bbs/movie/M.1757659266.A.EFA",
+      "author": "haha1121",
+      "board": "movie",
+      "publishTime": "2025/09/12 06:41",
+      "imageUrl": ""
     }
   ]
 }
