@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-13T17:53:36.198Z",
+  "updated": "2025-09-13T18:06:13.176Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "73",
+      "recommendCount": "374",
+      "title": "[新聞] 陳世凱曝3步驟救國旅！再提高鐵延伸屏東、「屏南快速道路」直達恆春",
+      "link": "/bbs/Stock/M.1757732441.A.E3F",
+      "author": "brbear",
+      "board": "Stock",
+      "publishTime": "2025/09/13 03:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "349",
       "recommendCount": "1220",
       "title": "[轉播] 三局下 兄弟0：8桃猿",
@@ -101,6 +111,16 @@
       "author": "hsuaninteen",
       "board": "Elephants",
       "publishTime": "2025/09/13 09:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "140",
+      "recommendCount": "899",
+      "title": "[黑特] 陳智菡：全宇宙應該沒有兩顆太陽",
+      "link": "/bbs/HatePolitics/M.1757735421.A.AF3",
+      "author": "Homura",
+      "board": "HatePolitics",
+      "publishTime": "2025/09/13 03:50",
       "imageUrl": ""
     },
     {
@@ -164,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "183",
+      "recommendCount": "244",
+      "title": "[新聞] 山本由伸連3場至少7局10K只失1分 史上唯一沒勝投",
+      "link": "/bbs/Baseball/M.1757744006.A.D11",
+      "author": "polanco",
+      "board": "Baseball",
+      "publishTime": "2025/09/13 06:13",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "854",
       "recommendCount": "1477",
       "title": "[討論] [Vtub] Hololive 晚間直播單 (1140913)",
@@ -171,36 +201,6 @@
       "author": "laptic",
       "board": "C_Chat",
       "publishTime": "2025/09/13 10:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "13",
-      "recommendCount": "272",
-      "title": "[新聞] 陳其邁嗆「做過院長為何不修財劃法？」",
-      "link": "/bbs/Gossiping/M.1757748737.A.AD4",
-      "author": "ssshleo",
-      "board": "Gossiping",
-      "publishTime": "2025/09/13 07:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "2",
-      "recommendCount": "407",
-      "title": "[新聞] 北院尚有21名證人未詰問 高院：柯交保難防勾串",
-      "link": "/bbs/Gossiping/M.1757730522.A.F3D",
-      "author": "TPPKoWenJe",
-      "board": "Gossiping",
-      "publishTime": "2025/09/13 02:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "179",
-      "recommendCount": "238",
-      "title": "[新聞] 山本由伸連3場至少7局10K只失1分 史上唯一沒勝投",
-      "link": "/bbs/Baseball/M.1757744006.A.D11",
-      "author": "polanco",
-      "board": "Baseball",
-      "publishTime": "2025/09/13 06:13",
       "imageUrl": ""
     }
   ]
