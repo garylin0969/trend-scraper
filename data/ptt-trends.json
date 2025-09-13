@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-13T19:16:09.369Z",
+  "updated": "2025-09-13T19:23:42.368Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -11,6 +11,16 @@
       "author": "abex144312",
       "board": "Gossiping",
       "publishTime": "2025/09/13 04:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "312",
+      "recommendCount": "589",
+      "title": "[新聞] 初選民調遭陳亭妃輾壓！林俊憲回應了：準確性有待商榷",
+      "link": "/bbs/Gossiping/M.1757744413.A.6D4",
+      "author": "LeeSeDol",
+      "board": "Gossiping",
+      "publishTime": "2025/09/13 06:20",
       "imageUrl": ""
     },
     {
@@ -72,6 +82,16 @@
       "board": "Baseball",
       "publishTime": "2025/09/13 09:24",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "182",
+      "recommendCount": "500",
+      "title": "[問卦] 公館圓環地下道直接填混凝土沒問題嗎",
+      "link": "/bbs/Gossiping/M.1757729921.A.1BB",
+      "author": "Ommmmmm5566",
+      "board": "Gossiping",
+      "publishTime": "2025/09/13 02:18",
+      "imageUrl": "https://cache.pttweb.cc/imgur/UaCizhL/s/3a620a48d326d481dbe187001cc35bb2"
     },
     {
       "recommendScore": "186",
@@ -182,26 +202,6 @@
       "board": "Stock",
       "publishTime": "2025/09/12 23:15",
       "imageUrl": "https://cache.pttweb.cc/imgur/51MnnfR/s/0f96ca6d9da49c60f41f02e5e2452c58"
-    },
-    {
-      "recommendScore": "4",
-      "recommendCount": "469",
-      "title": "[新聞] 北院尚有21名證人未詰問 高院：柯交保難防勾串",
-      "link": "/bbs/Gossiping/M.1757730522.A.F3D",
-      "author": "TPPKoWenJe",
-      "board": "Gossiping",
-      "publishTime": "2025/09/13 02:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "146",
-      "recommendCount": "366",
-      "title": "[問卦] 圓環拆除真的這麼多人在意?",
-      "link": "/bbs/Gossiping/M.1757737163.A.F24",
-      "author": "passing",
-      "board": "Gossiping",
-      "publishTime": "2025/09/13 04:19",
-      "imageUrl": ""
     }
   ]
 }
