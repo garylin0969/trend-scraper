@@ -1,8 +1,18 @@
 {
-  "updated": "2025-09-13T19:05:03.873Z",
+  "updated": "2025-09-13T19:16:09.369Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "410",
+      "recommendCount": "753",
+      "title": "[新聞] 興達電廠事故 台電工程師爆料：上面授意拉寬震動值",
+      "link": "/bbs/Gossiping/M.1757738192.A.FC5",
+      "author": "abex144312",
+      "board": "Gossiping",
+      "publishTime": "2025/09/13 04:36",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "347",
       "recommendCount": "600",
@@ -164,14 +174,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "397",
+      "recommendScore": "164",
+      "recommendCount": "399",
       "title": "[新聞] 信網紅9月必跌…他40歲「慘賠1650萬」財富歸零　專家點3大致命錯誤",
       "link": "/bbs/Stock/M.1757718926.A.0EF",
       "author": "keel90135",
       "board": "Stock",
       "publishTime": "2025/09/12 23:15",
       "imageUrl": "https://cache.pttweb.cc/imgur/51MnnfR/s/0f96ca6d9da49c60f41f02e5e2452c58"
+    },
+    {
+      "recommendScore": "4",
+      "recommendCount": "469",
+      "title": "[新聞] 北院尚有21名證人未詰問 高院：柯交保難防勾串",
+      "link": "/bbs/Gossiping/M.1757730522.A.F3D",
+      "author": "TPPKoWenJe",
+      "board": "Gossiping",
+      "publishTime": "2025/09/13 02:28",
+      "imageUrl": ""
     },
     {
       "recommendScore": "146",
@@ -181,26 +201,6 @@
       "author": "passing",
       "board": "Gossiping",
       "publishTime": "2025/09/13 04:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "95",
-      "recommendCount": "387",
-      "title": "[問卦]小學生：我不要生生喝鮮乳 我要圓環地下道",
-      "link": "/bbs/Gossiping/M.1757765560.A.AD6",
-      "author": "a91153456",
-      "board": "Gossiping",
-      "publishTime": "2025/09/13 12:12",
-      "imageUrl": "https://cache.pttweb.cc/imgur/0gTbgoM/s/19aee6fef377b49c42ac773f693cdd68"
-    },
-    {
-      "recommendScore": "204",
-      "recommendCount": "274",
-      "title": "[分享] 今日陳琥",
-      "link": "/bbs/Baseball/M.1757763493.A.F13",
-      "author": "jordan1227",
-      "board": "Baseball",
-      "publishTime": "2025/09/13 11:38",
       "imageUrl": ""
     }
   ]
