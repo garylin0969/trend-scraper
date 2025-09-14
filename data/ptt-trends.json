@@ -1,11 +1,11 @@
 {
-  "updated": "2025-09-14T00:49:48.428Z",
+  "updated": "2025-09-14T01:22:50.277Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "279",
-      "recommendCount": "944",
+      "recommendScore": "286",
+      "recommendCount": "962",
       "title": "[問卦]小學生：我不要生生喝鮮乳 我要圓環地下道",
       "link": "/bbs/Gossiping/M.1757765560.A.AD6",
       "author": "a91153456",
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/0gTbgoM/s/19aee6fef377b49c42ac773f693cdd68"
     },
     {
-      "recommendScore": "387",
-      "recommendCount": "680",
+      "recommendScore": "391",
+      "recommendCount": "685",
       "title": "[新聞] 馬頭山保育區2800噸廢棄物半年未清 協會：拜託陳市長也震怒一下",
       "link": "/bbs/Gossiping/M.1757751192.A.64E",
       "author": "ThisisLongID",
@@ -34,13 +34,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "318",
-      "recommendCount": "596",
+      "recommendScore": "319",
+      "recommendCount": "597",
       "title": "[新聞] 初選民調遭陳亭妃輾壓！林俊憲回應了：準確性有待商榷",
       "link": "/bbs/Gossiping/M.1757744413.A.6D4",
       "author": "LeeSeDol",
       "board": "Gossiping",
       "publishTime": "2025/09/13 06:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "378",
+      "recommendCount": "453",
+      "title": "Re: [新聞] 印尼「營多麵」驗出致癌農藥！900kg全銷毀　不合格名單曝光",
+      "link": "/bbs/Gossiping/M.1757769382.A.9C4",
+      "author": "moonblacktea",
+      "board": "Gossiping",
+      "publishTime": "2025/09/13 13:16",
       "imageUrl": ""
     },
     {
@@ -54,24 +64,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "290",
-      "recommendCount": "599",
+      "recommendScore": "291",
+      "recommendCount": "600",
       "title": "Re: [新聞] 北院尚有21名證人未詰問 高院：柯交保難防勾串",
       "link": "/bbs/Gossiping/M.1757735074.A.0F7",
       "author": "turbomons",
       "board": "Gossiping",
       "publishTime": "2025/09/13 03:44",
       "imageUrl": "https://cache.pttweb.cc/imgur/e0YEG7m/s/93885103738ab602fbefa15c597ebb8b"
-    },
-    {
-      "recommendScore": "367",
-      "recommendCount": "438",
-      "title": "Re: [新聞] 印尼「營多麵」驗出致癌農藥！900kg全銷毀　不合格名單曝光",
-      "link": "/bbs/Gossiping/M.1757769382.A.9C4",
-      "author": "moonblacktea",
-      "board": "Gossiping",
-      "publishTime": "2025/09/13 13:16",
-      "imageUrl": ""
     },
     {
       "recommendScore": "725",
@@ -114,8 +114,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/qFxwpXa/s/d830dbc040afb809137ea5def6a61ede"
     },
     {
-      "recommendScore": "205",
-      "recommendCount": "377",
+      "recommendScore": "212",
+      "recommendCount": "386",
       "title": "[新聞] 公館圓環抗議驚見「蔣萬安遺照」！議員怒轟：死亡威脅不辦嗎？",
       "link": "/bbs/Gossiping/M.1757772327.A.3BF",
       "author": "CREA",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "56",
-      "recommendCount": "395",
+      "recommendScore": "57",
+      "recommendCount": "396",
       "title": "[新聞] 八炯曝罷免輸在網路輿論戰 籲台派自建平",
       "link": "/bbs/Gossiping/M.1757743702.A.A09",
       "author": "CNS3056",
@@ -165,7 +165,7 @@
     },
     {
       "recommendScore": "72",
-      "recommendCount": "378",
+      "recommendCount": "380",
       "title": "[新聞] 陳世凱曝3步驟救國旅！再提高鐵延伸屏東、「屏南快速道路」直達恆春",
       "link": "/bbs/Stock/M.1757732441.A.E3F",
       "author": "brbear",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "192",
+      "recommendCount": "520",
+      "title": "[問卦] 就事論事公館圓環拆不拆",
+      "link": "/bbs/Gossiping/M.1757770457.A.FB1",
+      "author": "Rimi5566",
+      "board": "Gossiping",
+      "publishTime": "2025/09/13 13:34",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "142",
       "recommendCount": "906",
       "title": "[黑特] 陳智菡：全宇宙應該沒有兩顆太陽",
@@ -191,16 +201,6 @@
       "author": "Homura",
       "board": "HatePolitics",
       "publishTime": "2025/09/13 03:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "185",
-      "recommendCount": "500",
-      "title": "[問卦] 就事論事公館圓環拆不拆",
-      "link": "/bbs/Gossiping/M.1757770457.A.FB1",
-      "author": "Rimi5566",
-      "board": "Gossiping",
-      "publishTime": "2025/09/13 13:34",
       "imageUrl": ""
     }
   ]
