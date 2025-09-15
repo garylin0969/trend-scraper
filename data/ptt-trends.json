@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-15T05:30:38.028Z",
+  "updated": "2025-09-15T05:39:31.047Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -134,16 +134,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "590",
-      "recommendCount": "1458",
-      "title": "[電競] 2025 LCK Playoffs Upper Round 2B",
-      "link": "/bbs/LoL/M.1757827808.A.19F",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2025/09/14 05:30",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "225",
       "recommendCount": "364",
       "title": "[新聞] 中職／窮養的桃猿有出息 正面對決兄弟搶2勝施壓季冠軍爭霸",
@@ -201,6 +191,16 @@
       "author": "ThisisLongID",
       "board": "Gossiping",
       "publishTime": "2025/09/14 11:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "125",
+      "recommendCount": "324",
+      "title": "[新聞] 普發現金應讓民眾可捐款國家 郭國文：政院可公布現有基金帳戶",
+      "link": "/bbs/Gossiping/M.1757896378.A.2EF",
+      "author": "asppsa",
+      "board": "Gossiping",
+      "publishTime": "2025/09/15 00:32",
       "imageUrl": ""
     }
   ]
