@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-15T07:45:27.948Z",
+  "updated": "2025-09-15T07:53:45.732Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -64,14 +64,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "305",
-      "recommendCount": "615",
+      "recommendScore": "309",
+      "recommendCount": "626",
       "title": "[爆卦] 賴清德下鄉=去宮廟",
       "link": "/bbs/Gossiping/M.1757845942.A.AE7",
       "author": "q347",
       "board": "Gossiping",
       "publishTime": "2025/09/14 10:32",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "318",
+      "recommendCount": "595",
+      "title": "[新聞] 高雄左營圓環要拆了！改十字路口、施工14個月　居民憂塞爆",
+      "link": "/bbs/Gossiping/M.1757905747.A.D68",
+      "author": "A6",
+      "board": "Gossiping",
+      "publishTime": "2025/09/15 03:09",
+      "imageUrl": "https://cache.pttweb.cc/imgur/eZB5a36/s/6c4781e77d9d204186aded5dcd5e097e"
     },
     {
       "recommendScore": "339",
@@ -121,6 +131,16 @@
       "author": "dragon803",
       "board": "C_Chat",
       "publishTime": "2025/09/14 10:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "217",
+      "recommendCount": "439",
+      "title": "[新聞] 公館圓環封填地下道首個上班日 未如預期大塞、民眾直呼意外",
+      "link": "/bbs/Gossiping/M.1757902365.A.0CA",
+      "author": "b8454",
+      "board": "Gossiping",
+      "publishTime": "2025/09/15 02:12",
       "imageUrl": ""
     },
     {
@@ -182,26 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/15 01:46",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "225",
-      "recommendCount": "364",
-      "title": "[新聞] 中職／窮養的桃猿有出息 正面對決兄弟搶2勝施壓季冠軍爭霸",
-      "link": "/bbs/Baseball/M.1757839969.A.0F9",
-      "author": "HANASUCIA",
-      "board": "Baseball",
-      "publishTime": "2025/09/14 08:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "166",
-      "recommendCount": "455",
-      "title": "[新聞] 無人機工程師3萬5起薪引爆論戰！對岸搶人開價12萬起",
-      "link": "/bbs/Gossiping/M.1757865578.A.003",
-      "author": "zeroBB",
-      "board": "Gossiping",
-      "publishTime": "2025/09/14 15:59",
-      "imageUrl": "https://cache.pttweb.cc/imgur/QgOmlEo/s/b2787aba342721c80c90465063c0c341"
     }
   ]
 }
