@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-15T06:55:20.472Z",
+  "updated": "2025-09-15T07:07:31.433Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -82,16 +82,6 @@
       "board": "Baseball",
       "publishTime": "2025/09/14 07:55",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "267",
-      "recommendCount": "497",
-      "title": "[請益] 要套到什麼時候",
-      "link": "/bbs/Stock/M.1757833509.A.A58",
-      "author": "DOMENKING",
-      "board": "Stock",
-      "publishTime": "2025/09/14 07:05",
-      "imageUrl": "https://cache.pttweb.cc/imgur/MQJr8Rg/s/61886e5596737b8f2c921f694898ffd1"
     },
     {
       "recommendScore": "326",
@@ -201,6 +191,16 @@
       "author": "natyshow",
       "board": "Stock",
       "publishTime": "2025/09/14 10:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "128",
+      "recommendCount": "387",
+      "title": "[新聞] 網自爆騙「麥當勞漢堡」成功8次 律師酸「真勇敢」：妥妥的詐欺罪",
+      "link": "/bbs/Gossiping/M.1757844269.A.DED",
+      "author": "iamshana",
+      "board": "Gossiping",
+      "publishTime": "2025/09/14 10:04",
       "imageUrl": ""
     }
   ]
