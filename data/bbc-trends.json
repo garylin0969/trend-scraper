@@ -1,14 +1,30 @@
 {
-  "updated": "2025-09-15T23:47:35.492Z",
+  "updated": "2025-09-16T00:35:12.654Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-09-15T23:47:24.000Z",
+    "lastBuildDate": "2025-09-16T00:35:06.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "內地「考試移民」瞄向香港，引發DSE攻防戰",
+      "description": "香港政府以「高才通」等計劃吸引新移民，政策允許新移民子女以「本地生」資格入讀資助大學，但隨之而來的內地「考試移民」引發爭議。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn4lwn79k00o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-16T00:25:37.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn4lwn79k00o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c3d8/live/992d4480-9213-11f0-85c7-5bdf6c05d36f.jpg"
+    },
+    {
+      "title": "美國農民受擠壓——對特朗普的忠誠度正面臨考驗",
+      "description": "為什麼這麼多身處「玉米帶」的美國人繼續支持特朗普？即使他們感受到部分由其貿易政策帶來的經濟壓力。",
+      "link": "https://www.bbc.com/zhongwen/articles/c0q7nk9j3lko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-16T00:22:16.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c0q7nk9j3lko/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bf9d/live/15f3c0e0-8fc9-11f0-9cf6-cbf3e73ce2b9.jpg"
+    },
     {
       "title": "澳門立法會選舉：政府大力動員，投票人數創新高，白票廢票破萬",
       "description": "2025年澳門第八屆立法會選舉結束，官方直選投票率達53.35%，比起上屆選舉回升，但空白票、廢票合共過1.3萬張。",
@@ -34,20 +50,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5b2d/live/af63c4c0-9139-11f0-b391-6936825093bd.jpg"
     },
     {
-      "title": "羅馬尼亞成為第二個報告俄羅斯無人機侵入領空的北約國家",
-      "description": "烏克蘭總統澤連斯基稱這次入侵是「俄羅斯明顯擴大戰爭的行動」。",
-      "link": "https://www.bbc.com/zhongwen/articles/c2ejw9787n9o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-15T05:52:48.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c2ejw9787n9o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c439/live/a88b3800-9151-11f0-b391-6936825093bd.jpg"
-    },
-    {
       "title": "喀什米爾年輕世代用社群貼文守護歷史記憶",
       "description": "喀什米爾青年透過社群媒體，以故事保存語言、文化與身份認同。",
       "link": "https://www.bbc.com/zhongwen/articles/c4g522z58v6o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-09-15T02:10:06.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4g522z58v6o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4g522z58v6o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b9f3/live/d9883a10-9120-11f0-84c8-99de564f0440.jpg"
+    },
+    {
+      "title": "羅馬尼亞成為第二個報告俄羅斯無人機侵入領空的北約國家",
+      "description": "烏克蘭總統澤連斯基稱這次入侵是「俄羅斯明顯擴大戰爭的行動」。",
+      "link": "https://www.bbc.com/zhongwen/articles/c2ejw9787n9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-15T05:52:48.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c2ejw9787n9o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c439/live/a88b3800-9151-11f0-b391-6936825093bd.jpg"
     },
     {
       "title": "「我們認識這家人」：猶他州小鎮居民被指控殺害查理·柯克，其鄰居表示難以置信",
@@ -96,22 +112,6 @@
       "pubDate": "2025-09-12T10:56:54.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/czewd15n32yo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bbd3/live/c54316d0-8fbb-11f0-a253-25e46a317db9.jpg"
-    },
-    {
-      "title": "查理·柯克遇害：警方如何在33小時內緝捕兇嫌泰勒·羅賓遜？",
-      "description": "「我們抓到他了。」猶他州州長斯賓塞·考克斯（Spencer Cox）在當局逮捕22歲的泰勒·羅賓遜（Tyler Robinson）後如此表示。羅賓遜被指涉嫌殺害保守派行動人士查理·柯克（Charlie Kirk）。",
-      "link": "https://www.bbc.com/zhongwen/articles/cq8ey70qy51o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-13T00:53:24.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cq8ey70qy51o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9051/live/a68e0cf0-8fe7-11f0-9cf6-cbf3e73ce2b9.jpg"
-    },
-    {
-      "title": "最新款iPhone會令實體SIM卡被淘汰嗎？",
-      "description": "iPhone Air將只支援eSim，其他手機製造商是否也會跟隨，放棄這種熟悉卻麻煩的小塑料卡？",
-      "link": "https://www.bbc.com/zhongwen/articles/cd635j095jjo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-12T22:57:23.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cd635j095jjo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bf83/live/c0655ea0-8ee1-11f0-a84b-ed021aa99e21.jpg"
     },
     {
       "title": "美國保守派領袖柯克遇刺：槍手嫌犯落網 左右翼陣營進一步分裂",
@@ -194,6 +194,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d64/live/c9453b50-863d-11f0-84c8-99de564f0440.jpg"
     },
     {
+      "title": "查理·柯克遇害：警方如何在33小時內緝捕兇嫌泰勒·羅賓遜？",
+      "description": "「我們抓到他了。」猶他州州長斯賓塞·考克斯（Spencer Cox）在當局逮捕22歲的泰勒·羅賓遜（Tyler Robinson）後如此表示。羅賓遜被指涉嫌殺害保守派行動人士查理·柯克（Charlie Kirk）。",
+      "link": "https://www.bbc.com/zhongwen/articles/cq8ey70qy51o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-13T00:53:24.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cq8ey70qy51o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9051/live/a68e0cf0-8fe7-11f0-9cf6-cbf3e73ce2b9.jpg"
+    },
+    {
       "title": "查理·柯克遇害：激勵青年運動的保守派意見領袖",
       "description": "柯克是特朗普頗具影響力的盟友，他在18歲時創立了「美國轉捩點」，在猶他州校園活動上發表演說時遭遇槍擊身亡。",
       "link": "https://www.bbc.com/zhongwen/articles/c0q7w55zy87o/trad?at_medium=RSS&at_campaign=rss",
@@ -224,14 +232,6 @@
       "pubDate": "2025-09-10T10:42:30.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c8exdk63w8no/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cee6/live/c797fd10-8e2b-11f0-b391-6936825093bd.jpg"
-    },
-    {
-      "title": "百歲人口接近10萬，日本人的長壽秘方是什麼？",
-      "description": "截至9月，日本百歲人瑞增至99,763人，其中女性佔88%。",
-      "link": "https://www.bbc.com/zhongwen/articles/c0lk1kp5kzgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-14T02:43:55.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c0lk1kp5kzgo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4756/live/d73da5c0-8fcb-11f0-a984-69b738896393.jpg"
     },
     {
       "title": "澳門立法會換屆：選民和學者如何看待一場「零中間派」選舉？",
@@ -274,6 +274,22 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/68f5/live/df68ce60-7260-11f0-8dbd-f3d32ebd3327.jpg"
     },
     {
+      "title": "百歲人口接近10萬，日本人的長壽秘方是什麼？",
+      "description": "截至9月，日本百歲人瑞增至99,763人，其中女性佔88%。",
+      "link": "https://www.bbc.com/zhongwen/articles/c0lk1kp5kzgo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-14T02:43:55.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c0lk1kp5kzgo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4756/live/d73da5c0-8fcb-11f0-a984-69b738896393.jpg"
+    },
+    {
+      "title": "最新款iPhone會令實體SIM卡被淘汰嗎？",
+      "description": "iPhone Air將只支援eSim，其他手機製造商是否也會跟隨，放棄這種熟悉卻麻煩的小塑料卡？",
+      "link": "https://www.bbc.com/zhongwen/articles/cd635j095jjo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-12T22:57:23.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cd635j095jjo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bf83/live/c0655ea0-8ee1-11f0-a84b-ed021aa99e21.jpg"
+    },
+    {
       "title": "電視烹飪節目正在逐漸消亡——可頌甜甜圈揭示箇中原因",
       "description": "英國為何對曾經備受歡迎的「邊做菜邊聊天」類美食節目失去興趣？這其中的奧秘究竟是什麼？",
       "link": "https://www.bbc.com/zhongwen/articles/clyx7znnpw2o/trad?at_medium=RSS&at_campaign=rss",
@@ -296,22 +312,6 @@
       "pubDate": "2025-09-12T06:06:03.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ckg3893n7pyo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df6f/live/96cdc230-8f09-11f0-b069-3732c8608f35.jpg"
-    },
-    {
-      "title": "英國出版商炮轟谷歌AI概覽工具  進一步蠶食原創者流量",
-      "description": "當谷歌推出AI摘要功能後，英國新聞出版業正面臨前所未有的挑戰。",
-      "link": "https://www.bbc.com/zhongwen/articles/cy50361grrwo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-10T03:58:17.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cy50361grrwo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/497f/live/72462c60-8df9-11f0-84c8-99de564f0440.jpg"
-    },
-    {
-      "title": "為什麼沒有西紅柿就沒有馬鈴薯",
-      "description": "科學家發現，數百萬年前，茄科植物的兩個物種偶然相遇，孕育出了馬鈴薯。",
-      "link": "https://www.bbc.com/zhongwen/articles/cy049wgd8ljo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-10T00:07:28.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cy049wgd8ljo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a90c/live/da0304f0-8d26-11f0-84c8-99de564f0440.jpg"
     }
   ]
 }
