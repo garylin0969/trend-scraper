@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-16T14:18:17.110Z",
+  "updated": "2025-09-16T14:31:19.929Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "201",
+      "recommendCount": "469",
+      "title": "[請益] 這一波到底再亂漲什麼完全看不懂",
+      "link": "/bbs/Stock/M.1758003647.A.EA5",
+      "author": "cops",
+      "board": "Stock",
+      "publishTime": "2025/09/16 06:20",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "200",
       "recommendCount": "404",
       "title": "[新聞] 2個圓環都要拆　台北高雄命運卻南轅北轍",
@@ -164,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "197",
+      "recommendCount": "409",
+      "title": "[標的] 00713 是否停損",
+      "link": "/bbs/Stock/M.1757987355.A.034",
+      "author": "hahaopen",
+      "board": "Stock",
+      "publishTime": "2025/09/16 01:49",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "35",
       "recommendCount": "338",
       "title": "[爆卦] 志祺七七：被斷章取義，不想做了",
@@ -174,16 +194,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/T4U99aJ/s/9c4bd9f909000d4277f12b9f2d779923"
     },
     {
-      "recommendScore": "190",
-      "recommendCount": "398",
-      "title": "[標的] 00713 是否停損",
-      "link": "/bbs/Stock/M.1757987355.A.034",
-      "author": "hahaopen",
-      "board": "Stock",
-      "publishTime": "2025/09/16 01:49",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "150",
       "recommendCount": "329",
       "title": "[問卦] 高雄PM2.5紫爆,卻仍大燒燃煤,還不震怒???",
@@ -191,16 +201,6 @@
       "author": "utn875",
       "board": "Gossiping",
       "publishTime": "2025/09/16 01:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "171",
-      "recommendCount": "293",
-      "title": "[新聞] 網路泡沫時代名分析師：AI大泡沫即將引爆",
-      "link": "/bbs/Stock/M.1757995135.A.8F3",
-      "author": "xephon",
-      "board": "Stock",
-      "publishTime": "2025/09/16 03:58",
       "imageUrl": ""
     }
   ]
