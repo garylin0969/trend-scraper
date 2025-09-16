@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-16T12:23:16.396Z",
+  "updated": "2025-09-16T12:46:54.719Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,6 +94,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "190",
+      "recommendCount": "398",
+      "title": "[標的] 00713 是否停損",
+      "link": "/bbs/Stock/M.1757987355.A.034",
+      "author": "hahaopen",
+      "board": "Stock",
+      "publishTime": "2025/09/16 01:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "301",
+      "recommendCount": "665",
+      "title": "[情報] 勇士對Kuminga最新報價3y/75.2M",
+      "link": "/bbs/NBA/M.1757943111.A.6CF",
+      "author": "sakraypopo",
+      "board": "NBA",
+      "publishTime": "2025/09/15 13:31",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "182",
       "recommendCount": "575",
       "title": "Re: [問卦] 脆上面在狂吹五大建設是又怎麼了嗎",
@@ -101,16 +121,6 @@
       "author": "astrayzip",
       "board": "Gossiping",
       "publishTime": "2025/09/15 21:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "287",
-      "recommendCount": "632",
-      "title": "[情報] 勇士對Kuminga最新報價3y/75.2M",
-      "link": "/bbs/NBA/M.1757943111.A.6CF",
-      "author": "sakraypopo",
-      "board": "NBA",
-      "publishTime": "2025/09/15 13:31",
       "imageUrl": ""
     },
     {
@@ -122,6 +132,16 @@
       "board": "LoL",
       "publishTime": "2025/09/15 13:45",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "235",
+      "recommendCount": "423",
+      "title": "[情報] iOS 26 正式版 登場",
+      "link": "/bbs/iOS/M.1757955617.A.62A",
+      "author": "roman80010",
+      "board": "iOS",
+      "publishTime": "2025/09/15 17:00",
+      "imageUrl": "https://cache.pttweb.cc/imgur/xeS9s4l/s/c72943081e75120462ccd497e6409d46"
     },
     {
       "recommendScore": "114",
@@ -181,26 +201,6 @@
       "author": "teeo",
       "board": "Gossiping",
       "publishTime": "2025/09/16 02:12",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "125",
-      "recommendCount": "255",
-      "title": "[新聞] 賴清德彰化參香 婦人狂吼要為亡兒申冤",
-      "link": "/bbs/Gossiping/M.1757954929.A.EE0",
-      "author": "qq204",
-      "board": "Gossiping",
-      "publishTime": "2025/09/15 16:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "120",
-      "recommendCount": "266",
-      "title": "[標的] 00713 是否停損",
-      "link": "/bbs/Stock/M.1757987355.A.034",
-      "author": "hahaopen",
-      "board": "Stock",
-      "publishTime": "2025/09/16 01:49",
       "imageUrl": ""
     }
   ]
