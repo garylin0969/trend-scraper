@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-16T05:17:38.355Z",
+  "updated": "2025-09-16T05:29:27.267Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "150",
-      "recommendCount": "483",
-      "title": "[新聞] 快訊／三立高層兒龔益霆遭拘提　手機+電腦+電磁儲存裝置全查扣",
-      "link": "/bbs/Gossiping/M.1757914054.A.8CF",
-      "author": "jeff0025",
-      "board": "Gossiping",
-      "publishTime": "2025/09/15 05:27",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "274",
       "recommendCount": "431",
       "title": "[新聞] 快訊／高雄1早驚傳2人落水死亡　男屍「身上綁石塊」漂高雄港",
@@ -201,6 +191,16 @@
       "author": "fixer",
       "board": "HatePolitics",
       "publishTime": "2025/09/15 09:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "184",
+      "recommendCount": "372",
+      "title": "[新聞] 2個圓環都要拆　台北高雄命運卻南轅北轍",
+      "link": "/bbs/Gossiping/M.1757959410.A.954",
+      "author": "ytkuang",
+      "board": "Gossiping",
+      "publishTime": "2025/09/15 18:03",
       "imageUrl": ""
     }
   ]
