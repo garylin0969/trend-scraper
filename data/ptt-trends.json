@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-16T01:58:23.835Z",
+  "updated": "2025-09-16T02:33:20.755Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "251",
-      "recommendCount": "507",
-      "title": "[新聞] 公館圓環封填地下道首個上班日 未如預期大塞、民眾直呼意外",
-      "link": "/bbs/Gossiping/M.1757902365.A.0CA",
-      "author": "b8454",
-      "board": "Gossiping",
-      "publishTime": "2025/09/15 02:12",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-165",
       "recommendCount": "413",
       "title": "[新聞] 批黃國昌有病要看醫生！徐國勇：民眾黨就是裝著葉克膜的貪污黨",
@@ -201,6 +191,16 @@
       "author": "TyuzuChou",
       "board": "Gossiping",
       "publishTime": "2025/09/15 06:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "184",
+      "recommendCount": "630",
+      "title": "[黑特] 看不懂徐國勇在幹嘛?繼續跟在野黨開戰?",
+      "link": "/bbs/HatePolitics/M.1757928252.A.5D6",
+      "author": "fixer",
+      "board": "HatePolitics",
+      "publishTime": "2025/09/15 09:24",
       "imageUrl": ""
     }
   ]
