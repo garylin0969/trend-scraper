@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-17T07:53:40.039Z",
+  "updated": "2025-09-17T08:07:22.435Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -12,6 +12,16 @@
       "board": "Gossiping",
       "publishTime": "2025/09/16 13:06",
       "imageUrl": "https://cache.pttweb.cc/imgur/T4U99aJ/s/9c4bd9f909000d4277f12b9f2d779923"
+    },
+    {
+      "recommendScore": "306",
+      "recommendCount": "1471",
+      "title": "[新聞] 徐國勇：沒有台灣光復節",
+      "link": "/bbs/Gossiping/M.1758063390.A.88B",
+      "author": "semih",
+      "board": "Gossiping",
+      "publishTime": "2025/09/16 22:56",
+      "imageUrl": ""
     },
     {
       "recommendScore": "449",
@@ -54,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "242",
-      "recommendCount": "426",
+      "recommendScore": "276",
+      "recommendCount": "503",
       "title": "[問卦]有網友又發現旗山、美濃幾個可疑的亂挖地",
       "link": "/bbs/Gossiping/M.1758029470.A.B11",
       "author": "a91153456",
@@ -104,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "158",
-      "recommendCount": "349",
+      "recommendScore": "161",
+      "recommendCount": "356",
       "title": "[新聞] 檢察長會勘美濃大峽谷　種田阿嬤攔轎申冤！怒控盜挖2年還派小弟圍事",
       "link": "/bbs/Gossiping/M.1758013804.A.BB1",
       "author": "Kazmier",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/16 13:47",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "676",
-      "recommendCount": "1284",
-      "title": "[閒聊] 今日先發",
-      "link": "/bbs/Lions/M.1758015241.A.750",
-      "author": "willy911006",
-      "board": "Lions",
-      "publishTime": "2025/09/16 09:34",
-      "imageUrl": "https://cache.pttweb.cc/imgur/tHIMFK1/s/8d31c6a37d0c113f3587fd0d4d9ea213"
     }
   ]
 }
