@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-17T06:41:41.368Z",
+  "updated": "2025-09-17T06:54:31.221Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -82,16 +82,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/16 13:31",
       "imageUrl": "https://cache.pttweb.cc/imgur/5L0sVkP/s/cea7afe8ae6818cb27a0ad0d178b7b30"
-    },
-    {
-      "recommendScore": "191",
-      "recommendCount": "389",
-      "title": "[新聞] 供電不穩惹禍？ 高雄建工路整排大斷電 居民怒：煩死了",
-      "link": "/bbs/Gossiping/M.1758005135.A.B1D",
-      "author": "milleniue",
-      "board": "Gossiping",
-      "publishTime": "2025/09/16 06:45",
-      "imageUrl": ""
     },
     {
       "recommendScore": "196",
@@ -201,6 +191,16 @@
       "author": "kakala99",
       "board": "NBA",
       "publishTime": "2025/09/16 10:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "210",
+      "recommendCount": "352",
+      "title": "[情報] CPBL戰績",
+      "link": "/bbs/Baseball/M.1758029680.A.F88",
+      "author": "jerryyuan",
+      "board": "Baseball",
+      "publishTime": "2025/09/16 13:34",
       "imageUrl": ""
     }
   ]
