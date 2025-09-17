@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-17T08:07:22.435Z",
+  "updated": "2025-09-17T08:19:43.176Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -91,6 +91,16 @@
       "author": "herewego",
       "board": "Gossiping",
       "publishTime": "2025/09/16 10:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "223",
+      "recommendCount": "340",
+      "title": "[新聞] 股海明燈谷月涵說話了！　FED一降息股市就跌、AI快泡沫了不投輝達",
+      "link": "/bbs/Stock/M.1758089749.A.589",
+      "author": "ChanHoPark",
+      "board": "Stock",
+      "publishTime": "2025/09/17 06:15",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "jerryyuan",
       "board": "Baseball",
       "publishTime": "2025/09/16 13:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "109",
-      "recommendCount": "281",
-      "title": "[問卦] 只問一句 這砍死人的17歲少年 會被槍決",
-      "link": "/bbs/Gossiping/M.1758030430.A.D7E",
-      "author": "nonpolar",
-      "board": "Gossiping",
-      "publishTime": "2025/09/16 13:47",
       "imageUrl": ""
     }
   ]
