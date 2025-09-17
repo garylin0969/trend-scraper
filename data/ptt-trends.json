@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-17T19:34:42.009Z",
+  "updated": "2025-09-17T19:43:52.517Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "283",
+      "recommendCount": "759",
+      "title": "[新聞] 少年狠殺女大生　雙手刺青父拒道歉：我也不願發生這種事",
+      "link": "/bbs/Gossiping/M.1758093990.A.0BB",
+      "author": "Kazmier",
+      "board": "Gossiping",
+      "publishTime": "2025/09/17 07:26",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "386",
       "recommendCount": "633",
       "title": "[新聞] 快訊／高雄小港晚間突停電！638戶陷黑暗台電曝原因緊急搶修",
@@ -84,6 +94,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "266",
+      "recommendCount": "705",
+      "title": "[新聞] 海鯤號9月海測確定跳票！台船認了不可能完成：一切以安全為前提",
+      "link": "/bbs/Gossiping/M.1758095565.A.1BF",
+      "author": "tan608287",
+      "board": "Gossiping",
+      "publishTime": "2025/09/17 07:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "295",
+      "recommendCount": "485",
+      "title": "[問卦] 幹你娘高普考上榜啦",
+      "link": "/bbs/Gossiping/M.1758080187.A.9FD",
+      "author": "latiner123",
+      "board": "Gossiping",
+      "publishTime": "2025/09/17 03:36",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "260",
       "recommendCount": "514",
       "title": "[新聞] 獨／高雄馬頭山遭埋廢鋁渣…檢測稱不屬有毒廢棄物 遭起訴書直接打臉",
@@ -104,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "173",
-      "recommendCount": "589",
+      "recommendScore": "174",
+      "recommendCount": "590",
       "title": "[新聞] 魏德聖承認台灣三部曲擺爛：這輩子",
       "link": "/bbs/C_Chat/M.1758071274.A.F28",
       "author": "GTES",
@@ -172,36 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/17 12:13",
       "imageUrl": "https://cache.pttweb.cc/imgur/Kwi7ClD/s/90d102363ae0121b2077d0024f167359"
-    },
-    {
-      "recommendScore": "781",
-      "recommendCount": "1460",
-      "title": "[電競] 2025 LCK Playoffs Lower Round 1",
-      "link": "/bbs/LoL/M.1758094203.A.A26",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2025/09/17 07:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "101",
-      "recommendCount": "384",
-      "title": "[新聞] 發言人也被抓！護樹靜坐竟遭警方上銬拖行 王婉諭怒：新北還有民主嗎？",
-      "link": "/bbs/Gossiping/M.1758091441.A.CB6",
-      "author": "catking015",
-      "board": "Gossiping",
-      "publishTime": "2025/09/17 06:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "267",
-      "recommendCount": "289",
-      "title": "[發錢] 大谷",
-      "link": "/bbs/Baseball/M.1758085151.A.728",
-      "author": "L1ON",
-      "board": "Baseball",
-      "publishTime": "2025/09/17 04:59",
-      "imageUrl": "https://cache.pttweb.cc/imgur/TxwWL1M/s/5520b7898f11fc88d97cd609df29d594"
     }
   ]
 }
