@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-17T13:34:09.928Z",
+  "updated": "2025-09-17T13:45:31.710Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "210",
-      "recommendCount": "352",
-      "title": "[情報] CPBL戰績",
-      "link": "/bbs/Baseball/M.1758029680.A.F88",
-      "author": "jerryyuan",
-      "board": "Baseball",
-      "publishTime": "2025/09/16 13:34",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "132",
       "recommendCount": "289",
       "title": "[新聞] 高雄馬頭山國有地遭埋廢鋁渣「清運進度0」 5千萬清運費恐全民埋單",
@@ -201,6 +191,16 @@
       "author": "ctweng13",
       "board": "Gossiping",
       "publishTime": "2025/09/16 22:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "64",
+      "recommendCount": "253",
+      "title": "[新聞] 八家將少年亂刀殺女友！伯公嘆「人乖很老實」：常說不要做壞事",
+      "link": "/bbs/Gossiping/M.1758089758.A.EB6",
+      "author": "vdml",
+      "board": "Gossiping",
+      "publishTime": "2025/09/17 06:15",
       "imageUrl": ""
     }
   ]
