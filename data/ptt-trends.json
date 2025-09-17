@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-17T19:16:44.705Z",
+  "updated": "2025-09-17T19:24:57.786Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "260",
+      "recommendCount": "514",
+      "title": "[新聞] 獨／高雄馬頭山遭埋廢鋁渣…檢測稱不屬有毒廢棄物 遭起訴書直接打臉",
+      "link": "/bbs/Gossiping/M.1758102122.A.FD9",
+      "author": "Lineage097",
+      "board": "Gossiping",
+      "publishTime": "2025/09/17 09:42",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "310",
       "recommendCount": "463",
       "title": "[新聞] 股海明燈谷月涵說話了！　FED一降息股市就跌、AI快泡沫了不投輝達",
@@ -64,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "71",
+      "recommendCount": "627",
+      "title": "[新聞] 徐國勇翻蔣介石手稿嗆蔣萬安：跟你曾祖父爭論！看他怎對付台灣人",
+      "link": "/bbs/Gossiping/M.1758099813.A.F5F",
+      "author": "a5687920",
+      "board": "Gossiping",
+      "publishTime": "2025/09/17 09:03",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "317",
       "recommendCount": "427",
       "title": "[分享] 今日大谷翔平",
@@ -72,6 +92,26 @@
       "board": "Baseball",
       "publishTime": "2025/09/17 04:56",
       "imageUrl": "https://cache.pttweb.cc/imgur/RS3Mlgr/s/e553aa67fd0b39d2eaae963431a48818"
+    },
+    {
+      "recommendScore": "221",
+      "recommendCount": "469",
+      "title": "[新聞] 高雄馬頭山汙染飄重金屬臭味 居民怕被開槍不敢多言",
+      "link": "/bbs/Gossiping/M.1758105853.A.3A2",
+      "author": "emperor",
+      "board": "Gossiping",
+      "publishTime": "2025/09/17 10:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "334",
+      "recommendCount": "354",
+      "title": "[協尋] 拜託大家幫忙找我阿嬤，嘉義市",
+      "link": "/bbs/Gossiping/M.1758111194.A.628",
+      "author": "rainews",
+      "board": "Gossiping",
+      "publishTime": "2025/09/17 12:13",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Kwi7ClD/s/90d102363ae0121b2077d0024f167359"
     },
     {
       "recommendScore": "181",
@@ -162,46 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/17 07:52",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "74",
-      "recommendCount": "370",
-      "title": "[新聞] 行政院推「好孕3方案」補助！生一胎拿10萬、雙胞胎20萬",
-      "link": "/bbs/Gossiping/M.1758111454.A.F7D",
-      "author": "mars1985",
-      "board": "Gossiping",
-      "publishTime": "2025/09/17 12:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "231",
-      "recommendCount": "336",
-      "title": "[情報] ASI涅槃賽",
-      "link": "/bbs/LoL/M.1758090184.A.AC1",
-      "author": "beaglebubu",
-      "board": "LoL",
-      "publishTime": "2025/09/17 06:23",
-      "imageUrl": "https://cache.pttweb.cc/imgur/pMEWQsb/s/88737a943fdc5741c23a0dfac8905fcf"
-    },
-    {
-      "recommendScore": "71",
-      "recommendCount": "280",
-      "title": "[新聞] 謝金河吐槽巴菲特！　他舉「台積電」為例：投資路沒有神仙",
-      "link": "/bbs/Stock/M.1758068616.A.D8C",
-      "author": "BlueBird5566",
-      "board": "Stock",
-      "publishTime": "2025/09/17 00:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "142",
-      "recommendCount": "277",
-      "title": "[爆卦] 供電吃緊，興達電廠全面啟動！",
-      "link": "/bbs/Gossiping/M.1758081525.A.173",
-      "author": "ambitious",
-      "board": "Gossiping",
-      "publishTime": "2025/09/17 03:58",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ZjAk245/s/f77a0028cba7cbc0978b6b67b30cd85f"
     }
   ]
 }
