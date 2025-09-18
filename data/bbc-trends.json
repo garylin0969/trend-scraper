@@ -1,10 +1,10 @@
 {
-  "updated": "2025-09-18T01:52:00.627Z",
+  "updated": "2025-09-18T02:39:46.740Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-09-18T01:51:55.000Z",
+    "lastBuildDate": "2025-09-18T02:39:36.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -18,14 +18,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e217/live/b7670550-93d3-11f0-bab6-4787ef35d8ed.jpg"
     },
     {
-      "title": "特朗普對英國展開第二次國是訪問，讚揚美英關係「非常良好」",
-      "description": "此次訪英行程安排緊湊，涵蓋一系列王室儀典與盛大活動，包括貿易磋商並將觸及多項國際政治議題。",
-      "link": "https://www.bbc.com/zhongwen/articles/cj4yed8kwe2o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-17T06:53:35.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cj4yed8kwe2o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/deb3/live/250ec750-938e-11f0-84c8-99de564f0440.jpg"
-    },
-    {
       "title": "中美元首會面「倒計時」？習近平與特朗普的博弈與期望",
       "description": "近期的中美防長、外長以及貿易代表密集互動引人關注，10月將有兩場重要多邊會議即東盟峰會及亞太經合組織峰會在亞洲舉行，習近平和特朗普可能的會面再次引來關注。",
       "link": "https://www.bbc.com/zhongwen/articles/ce842748rr6o/trad?at_medium=RSS&at_campaign=rss",
@@ -34,36 +26,52 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5040/live/785b8080-9210-11f0-85c7-5bdf6c05d36f.jpg"
     },
     {
-      "title": "香港施政報告2025：加快發展北都、「愛國者治港」原則「已全面貫徹落實」",
-      "description": "今年施政報告主要環繞經濟和民生，香港特首李家超指目前「愛國者治港」原則已在香港「全面貫徹落實」，並強調會加快發展及落實「北部都會區」。",
-      "link": "https://www.bbc.com/zhongwen/articles/ckg3l9208jdo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-17T09:12:52.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckg3l9208jdo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/937a/live/0338fca0-9392-11f0-898b-1d0183764518.jpg"
+      "title": "黃仁勳冀中美「雙贏」，對中企被禁購英偉達晶片傳聞「失望」",
+      "description": "黃仁勳說，美國需要「確保全世界的人都能使用這項技術」，包括中國。",
+      "link": "https://www.bbc.com/zhongwen/articles/c1dqnn745vko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-18T02:19:33.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1dqnn745vko/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b95d/live/c37c6b00-93b5-11f0-af04-cd07e8e3d1e7.jpg"
     },
     {
-      "title": "韓國工程師回憶美國被捕經歷：我們被銬起來還被槍指著",
-      "description": "在美國被拘留的韓國工人表示，他們受到了像罪犯一樣的對待，至今仍感到震驚。",
-      "link": "https://www.bbc.com/zhongwen/articles/cz69gjn6vx6o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-17T07:37:53.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cz69gjn6vx6o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/413e/live/9b24fd80-931e-11f0-b391-6936825093bd.jpg"
+      "title": "從「空軍一號」到「野獸」：特朗普如何出訪英國？",
+      "description": "特朗普本週將對英國進行第二次國事訪問，他的隨行人員預計將包括數百名工作人員和支援人員。",
+      "link": "https://www.bbc.com/zhongwen/articles/c04qdlyxx37o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-18T01:54:19.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c04qdlyxx37o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/62f4/live/217cfe60-9328-11f0-b391-6936825093bd.jpg"
     },
     {
       "title": "分析：就業數據推動美聯儲啟動新一輪降息",
       "description": "美聯儲預計將會宣布降息0.25個百分點，至4%至4.25%區間——這將是自2022年底以來的最低水平。這是美國去年12月以來的首次降息，預計將拉開未來幾個月一系列降息的序幕",
       "link": "https://www.bbc.com/zhongwen/articles/cd9y78zwlx8o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-09-17T06:41:24.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cd9y78zwlx8o/trad#1",
+      "guid": "https://www.bbc.com/zhongwen/articles/cd9y78zwlx8o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1c53/live/6c950a00-9332-11f0-95b6-f751ff87aca7.jpg"
     },
     {
-      "title": "查理·柯克遇害：疑犯在給室友的字條中承認犯案",
-      "description": "這名22歲的男子被控犯有謀殺罪，如果審判罪名成立，將面臨死刑。",
-      "link": "https://www.bbc.com/zhongwen/articles/cp8jmly8572o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-17T04:49:36.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cp8jmly8572o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/31cf/live/c6421a50-936b-11f0-8aaf-e3cc8432d68c.jpg"
+      "title": "香港施政報告2025：加快發展北都、「愛國者治港」原則「已全面貫徹落實」",
+      "description": "今年施政報告主要環繞經濟和民生，香港特首李家超指目前「愛國者治港」原則已在香港「全面貫徹落實」，並強調會加快發展及落實「北部都會區」。",
+      "link": "https://www.bbc.com/zhongwen/articles/ckg3l9208jdo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-17T09:12:52.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckg3l9208jdo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/937a/live/0338fca0-9392-11f0-898b-1d0183764518.jpg"
+    },
+    {
+      "title": "特朗普對英國展開第二次國是訪問，讚揚美英關係「非常良好」",
+      "description": "此次訪英行程安排緊湊，涵蓋一系列王室儀典與盛大活動，包括貿易磋商並將觸及多項國際政治議題。",
+      "link": "https://www.bbc.com/zhongwen/articles/cj4yed8kwe2o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-17T06:53:35.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cj4yed8kwe2o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/deb3/live/250ec750-938e-11f0-84c8-99de564f0440.jpg"
+    },
+    {
+      "title": "韓國工程師回憶美國被捕經歷：我們被銬起來還被槍指著",
+      "description": "在美國被拘留的韓國工人表示，他們受到了像罪犯一樣的對待，至今仍感到震驚。",
+      "link": "https://www.bbc.com/zhongwen/articles/cz69gjn6vx6o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-17T07:37:53.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cz69gjn6vx6o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/413e/live/9b24fd80-931e-11f0-b391-6936825093bd.jpg"
     },
     {
       "title": "中美馬德里經貿會談：「周五習特通話」TikTok爭議有望敲定",
@@ -88,14 +96,6 @@
       "pubDate": "2025-09-17T03:14:16.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cly0qynlng5o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dfbf/live/452a1dc0-92fb-11f0-ba89-ad7477f3387f.jpg"
-    },
-    {
-      "title": "英國撤銷兩人為中國間諜指控，首相府稱「極度失望」",
-      "description": "30歲的卡什和33歲的貝里此前均否認相關指控。",
-      "link": "https://www.bbc.com/zhongwen/articles/cq5j4y8nnxqo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-17T00:20:17.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cq5j4y8nnxqo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c8b9/live/fe9d1660-921d-11f0-9cf6-cbf3e73ce2b9.jpg"
     },
     {
       "title": "中國大陸「考試移民」瞄向香港，引發DSE攻防戰",
