@@ -1,11 +1,11 @@
 {
-  "updated": "2025-09-18T05:44:16.228Z",
+  "updated": "2025-09-18T05:53:43.574Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "477",
-      "recommendCount": "1255",
+      "recommendScore": "510",
+      "recommendCount": "1345",
       "title": "[新聞] 「小沈1500」正妹記者離職 將披綠袍新身分曝",
       "link": "/bbs/Gossiping/M.1758155741.A.BCE",
       "author": "lovekula",
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "213",
+      "recommendCount": "606",
+      "title": "[問卦] 福和橋今天塞爆了耶",
+      "link": "/bbs/Gossiping/M.1758163225.A.C7A",
+      "author": "Johseagull",
+      "board": "Gossiping",
+      "publishTime": "2025/09/18 02:40",
+      "imageUrl": "https://cache.pttweb.cc/imgur/dcmSqSx/s/a22d2b48131d8ac05ac425b0e3ca3e4b"
+    },
+    {
       "recommendScore": "75",
       "recommendCount": "636",
       "title": "[新聞] 徐國勇翻蔣介石手稿嗆蔣萬安：跟你曾祖父爭論！看他怎對付台灣人",
@@ -192,16 +202,6 @@
       "board": "LoL",
       "publishTime": "2025/09/17 07:30",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "176",
-      "recommendCount": "454",
-      "title": "[問卦] 福和橋今天塞爆了耶",
-      "link": "/bbs/Gossiping/M.1758163225.A.C7A",
-      "author": "Johseagull",
-      "board": "Gossiping",
-      "publishTime": "2025/09/18 02:40",
-      "imageUrl": "https://cache.pttweb.cc/imgur/dcmSqSx/s/a22d2b48131d8ac05ac425b0e3ca3e4b"
     }
   ]
 }
