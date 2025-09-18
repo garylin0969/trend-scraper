@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-18T20:18:27.355Z",
+  "updated": "2025-09-18T20:30:27.488Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -134,16 +134,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "242",
-      "recommendCount": "479",
-      "title": "[問卦]美濃阿嬤昨抗議 今天就被人找到家裡\"關心\"",
-      "link": "/bbs/Gossiping/M.1758140867.A.C7E",
-      "author": "a91153456",
-      "board": "Gossiping",
-      "publishTime": "2025/09/17 20:27",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "164",
       "recommendCount": "395",
       "title": "[新聞] 「小沈1500」一戰成名！傳馬郁雯披綠袍選2026　鎖定2選區",
@@ -201,6 +191,16 @@
       "author": "sea130281",
       "board": "Gossiping",
       "publishTime": "2025/09/18 09:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "207",
+      "recommendCount": "373",
+      "title": "[標的] 現在買一張台積電會很韭嗎？",
+      "link": "/bbs/Stock/M.1758172004.A.1C6",
+      "author": "threedo",
+      "board": "Stock",
+      "publishTime": "2025/09/18 05:06",
       "imageUrl": ""
     }
   ]
