@@ -1,11 +1,11 @@
 {
-  "updated": "2025-09-18T14:06:20.946Z",
+  "updated": "2025-09-18T14:18:00.078Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "564",
-      "recommendCount": "1483",
+      "recommendScore": "566",
+      "recommendCount": "1485",
       "title": "[新聞] 「小沈1500」正妹記者離職 將披綠袍新身分曝",
       "link": "/bbs/Gossiping/M.1758155741.A.BCE",
       "author": "lovekula",
@@ -24,14 +24,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "313",
-      "recommendCount": "865",
+      "recommendScore": "318",
+      "recommendCount": "878",
       "title": "[問卦] 福和橋今天塞爆了耶",
       "link": "/bbs/Gossiping/M.1758163225.A.C7A",
       "author": "Johseagull",
       "board": "Gossiping",
       "publishTime": "2025/09/18 02:40",
       "imageUrl": "https://cache.pttweb.cc/imgur/dcmSqSx/s/a22d2b48131d8ac05ac425b0e3ca3e4b"
+    },
+    {
+      "recommendScore": "518",
+      "recommendCount": "532",
+      "title": "[祭品] 大谷翔平全壘打55+",
+      "link": "/bbs/Baseball/M.1758174224.A.621",
+      "author": "L1ON",
+      "board": "Baseball",
+      "publishTime": "2025/09/18 05:43",
+      "imageUrl": ""
     },
     {
       "recommendScore": "289",
@@ -54,16 +64,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/NnwkJZZ/s/5f7c667a58d2ec037f72baae600a6220"
     },
     {
-      "recommendScore": "509",
-      "recommendCount": "523",
-      "title": "[祭品] 大谷翔平全壘打55+",
-      "link": "/bbs/Baseball/M.1758174224.A.621",
-      "author": "L1ON",
-      "board": "Baseball",
-      "publishTime": "2025/09/18 05:43",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "361",
       "recommendCount": "680",
       "title": "[新聞] 震傳媒民調／賴清德不滿意度55%創新高！本命區台南剩37.2%滿意",
@@ -84,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "793",
-      "recommendCount": "1457",
-      "title": "[電競] 2025 LCK Playoffs Lower Round 2",
-      "link": "/bbs/LoL/M.1758180663.A.ED6",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2025/09/18 07:31",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "167",
       "recommendCount": "572",
       "title": "[新聞] 響應釋昭慧 郭國文：普發一萬捐國防 一人一萬挺國力",
@@ -104,8 +94,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "754",
+      "recommendCount": "1457",
+      "title": "[電競] 2025 LCK Playoffs Lower Round 2",
+      "link": "/bbs/LoL/M.1758180663.A.ED6",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/09/18 07:31",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "140",
-      "recommendCount": "487",
+      "recommendCount": "489",
       "title": "[新聞] 快訊／「對不起國家栽培」！謝宜容涉貪",
       "link": "/bbs/Gossiping/M.1758164536.A.9C4",
       "author": "es612",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "188",
-      "recommendCount": "502",
+      "recommendScore": "189",
+      "recommendCount": "503",
       "title": "[心得] 買指數就好，不知道一堆人在白忙什麼？",
       "link": "/bbs/Stock/M.1758168035.A.202",
       "author": "fishman5566",
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "204",
+      "recommendCount": "367",
+      "title": "[標的] 現在買一張台積電會很韭嗎？",
+      "link": "/bbs/Stock/M.1758172004.A.1C6",
+      "author": "threedo",
+      "board": "Stock",
+      "publishTime": "2025/09/18 05:06",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "155",
       "recommendCount": "420",
       "title": "[新聞] 防身變屠殺！ 陣頭少年網購40cm長刀　竟為「討禮物」怒斬殺舊愛",
@@ -164,18 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "199",
-      "recommendCount": "359",
-      "title": "[標的] 現在買一張台積電會很韭嗎？",
-      "link": "/bbs/Stock/M.1758172004.A.1C6",
-      "author": "threedo",
-      "board": "Stock",
-      "publishTime": "2025/09/18 05:06",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "130",
-      "recommendCount": "328",
+      "recommendCount": "335",
       "title": "[新聞] 領走頻道收益不是侵占！家寧媽「誤認」Andy感謝她恩情",
       "link": "/bbs/Gossiping/M.1758157604.A.E03",
       "author": "Xinz",
