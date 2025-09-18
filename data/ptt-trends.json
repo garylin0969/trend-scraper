@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-18T18:20:41.526Z",
+  "updated": "2025-09-18T18:36:45.274Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "376",
+      "recommendCount": "437",
+      "title": "[爆卦] 小比走了",
+      "link": "/bbs/Gossiping/M.1758203893.A.0BE",
+      "author": "OROCHI97",
+      "board": "Gossiping",
+      "publishTime": "2025/09/18 13:58",
+      "imageUrl": "https://cache.pttweb.cc/imgur/dla6och/s/d919406155606df2cd146ff531e82929"
+    },
+    {
       "recommendScore": "142",
       "recommendCount": "496",
       "title": "[新聞] 快訊／「對不起國家栽培」！謝宜容涉貪",
@@ -124,8 +134,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "166",
-      "recommendCount": "385",
+      "recommendScore": "164",
+      "recommendCount": "433",
+      "title": "[新聞] 前立委陳歐珀涉財產不明公益侵占 不起訴確定",
+      "link": "/bbs/Gossiping/M.1758206467.A.193",
+      "author": "hoyumi",
+      "board": "Gossiping",
+      "publishTime": "2025/09/18 14:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "164",
+      "recommendCount": "392",
       "title": "[新聞] 「小沈1500」一戰成名！傳馬郁雯披綠袍選2026　鎖定2選區",
       "link": "/bbs/Gossiping/M.1758168611.A.716",
       "author": "stewartqq",
@@ -164,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "285",
-      "recommendCount": "329",
-      "title": "[爆卦] 小比走了",
-      "link": "/bbs/Gossiping/M.1758203893.A.0BE",
-      "author": "OROCHI97",
-      "board": "Gossiping",
-      "publishTime": "2025/09/18 13:58",
-      "imageUrl": "https://cache.pttweb.cc/imgur/dla6och/s/d919406155606df2cd146ff531e82929"
-    },
-    {
       "recommendScore": "179",
       "recommendCount": "349",
       "title": "[問卦] 44秒31刀很累ㄟ...........",
@@ -184,23 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "199",
-      "recommendCount": "453",
+      "recommendScore": "203",
+      "recommendCount": "459",
       "title": "[問卦] 如果你是大總統要怎麼改善少子化?",
       "link": "/bbs/Gossiping/M.1758188248.A.20A",
       "author": "kingkiller",
       "board": "Gossiping",
       "publishTime": "2025/09/18 09:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "206",
-      "recommendCount": "372",
-      "title": "[標的] 現在買一張台積電會很韭嗎？",
-      "link": "/bbs/Stock/M.1758172004.A.1C6",
-      "author": "threedo",
-      "board": "Stock",
-      "publishTime": "2025/09/18 05:06",
       "imageUrl": ""
     }
   ]
