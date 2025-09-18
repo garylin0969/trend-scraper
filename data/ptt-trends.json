@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-18T11:34:15.945Z",
+  "updated": "2025-09-18T11:43:50.614Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -155,7 +155,7 @@
     },
     {
       "recommendScore": "184",
-      "recommendCount": "494",
+      "recommendCount": "496",
       "title": "[心得] 買指數就好，不知道一堆人在白忙什麼？",
       "link": "/bbs/Stock/M.1758168035.A.202",
       "author": "fishman5566",
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "144",
-      "recommendCount": "343",
-      "title": "[問卦] 這是沙鹿殺人犯 駱耀輝 照片嗎？",
-      "link": "/bbs/Gossiping/M.1758109159.A.4C1",
-      "author": "vincentsoon",
-      "board": "Gossiping",
-      "publishTime": "2025/09/17 11:39",
-      "imageUrl": "https://cache.pttweb.cc/imgur/SLE4jBW/s/97d3530887f21ddb0012786d77183112"
-    },
-    {
       "recommendScore": "82",
       "recommendCount": "426",
       "title": "[新聞] 行政院推「好孕3方案」補助！生一胎拿10萬、雙胞胎20萬",
@@ -201,6 +191,16 @@
       "author": "mars1985",
       "board": "Gossiping",
       "publishTime": "2025/09/17 12:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "196",
+      "recommendCount": "354",
+      "title": "[標的] 現在買一張台積電會很韭嗎？",
+      "link": "/bbs/Stock/M.1758172004.A.1C6",
+      "author": "threedo",
+      "board": "Stock",
+      "publishTime": "2025/09/18 05:06",
       "imageUrl": ""
     }
   ]
