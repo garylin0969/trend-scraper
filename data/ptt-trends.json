@@ -1,8 +1,18 @@
 {
-  "updated": "2025-09-18T04:18:43.494Z",
+  "updated": "2025-09-18T04:31:58.213Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "477",
+      "recommendCount": "1255",
+      "title": "[新聞] 「小沈1500」正妹記者離職 將披綠袍新身分曝",
+      "link": "/bbs/Gossiping/M.1758155741.A.BCE",
+      "author": "lovekula",
+      "board": "Gossiping",
+      "publishTime": "2025/09/18 00:35",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "512",
       "recommendCount": "1006",
@@ -41,26 +51,6 @@
       "author": "chopper594",
       "board": "Gossiping",
       "publishTime": "2025/09/17 13:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "264",
-      "recommendCount": "684",
-      "title": "[新聞] 「小沈1500」正妹記者離職 將披綠袍新身分曝",
-      "link": "/bbs/Gossiping/M.1758155741.A.BCE",
-      "author": "lovekula",
-      "board": "Gossiping",
-      "publishTime": "2025/09/18 00:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "491",
-      "recommendCount": "590",
-      "title": "[炸裂] 大谷翔平 NO.50 連兩季達成50轟",
-      "link": "/bbs/Baseball/M.1758083076.A.22D",
-      "author": "carlchang092",
-      "board": "Baseball",
-      "publishTime": "2025/09/17 04:24",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/09/17 11:39",
       "imageUrl": "https://cache.pttweb.cc/imgur/SLE4jBW/s/97d3530887f21ddb0012786d77183112"
+    },
+    {
+      "recommendScore": "267",
+      "recommendCount": "289",
+      "title": "[發錢] 大谷",
+      "link": "/bbs/Baseball/M.1758085151.A.728",
+      "author": "L1ON",
+      "board": "Baseball",
+      "publishTime": "2025/09/17 04:59",
+      "imageUrl": "https://cache.pttweb.cc/imgur/TxwWL1M/s/5520b7898f11fc88d97cd609df29d594"
     }
   ]
 }
