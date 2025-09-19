@@ -1,10 +1,10 @@
 {
-  "updated": "2025-09-19T09:22:51.341Z",
+  "updated": "2025-09-19T09:47:36.325Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-09-19T09:22:45.000Z",
+    "lastBuildDate": "2025-09-19T09:47:35.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -18,6 +18,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e5a9/live/a9e12b00-9486-11f0-a3f2-ebe3b9e0c5e6.jpg"
     },
     {
+      "title": "一文看清習近平特朗普三次通話：中美元首電話外交奏效嗎？",
+      "description": "第二任期的特朗普將與習近平進行第三次直接通話。BBC中文梳理三次通話，回顧發生的時機和具體成果。",
+      "link": "https://www.bbc.com/zhongwen/articles/czewrl5je47o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-19T09:22:03.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/czewrl5je47o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/690e/live/bcc81680-952a-11f0-921a-d5d32d92f75c.jpg"
+    },
+    {
       "title": "為什麼法國面臨成為新「歐洲病夫」的風險？",
       "description": "法國正處於多重危機的交匯點——但將這場海難歸咎於馬克龍是否公平？",
       "link": "https://www.bbc.com/zhongwen/articles/c2ejngmz1kzo/trad?at_medium=RSS&at_campaign=rss",
@@ -26,20 +34,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a755/live/0b9ce8d0-9481-11f0-84c8-99de564f0440.png"
     },
     {
-      "title": "查理·柯克槍擊案後，美國為何處於危險的十字路口？",
-      "description": "查理·柯克去世後的這一刻，與美國歷史上其他不和諧時期有相似之處，但並沒有完全重複。",
-      "link": "https://www.bbc.com/zhongwen/articles/cgrqxplvkz5o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-19T03:22:31.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cgrqxplvkz5o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/18e9/live/4ff31d80-93b2-11f0-b391-6936825093bd.png"
-    },
-    {
-      "title": "中美元首會面「倒計時」？習近平與特朗普的博弈與期望",
-      "description": "近期的中美防長、外長以及貿易代表密集互動引人關注，10月將有兩場重要多邊會議即東盟峰會及亞太經合組織峰會在亞洲舉行，習近平和特朗普可能的會面再次引來關注。",
-      "link": "https://www.bbc.com/zhongwen/articles/ce842748rr6o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-17T16:58:18.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce842748rr6o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5040/live/785b8080-9210-11f0-85c7-5bdf6c05d36f.jpg"
+      "title": "俄羅斯為何要恢復蘇聯時代的歌唱比賽「Intervision」？",
+      "description": "俄羅斯正在重啟冷戰時期的「國際歌唱大賽」（Intervision），參賽國家包括巴西、中國和沙特阿拉伯，甚至還有一位代表美國的選手。",
+      "link": "https://www.bbc.com/zhongwen/articles/c2knzvjez8zo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-19T09:24:07.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c2knzvjez8zo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/47b9/live/875dff10-9326-11f0-84c8-99de564f0440.jpg"
     },
     {
       "title": "預製菜之爭：民眾和餐飲專家在關心什麼？",
@@ -48,6 +48,22 @@
       "pubDate": "2025-09-18T08:51:43.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c4gz89317e4o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc33/live/db77fa10-946b-11f0-bc01-a3a35aa734ac.jpg"
+    },
+    {
+      "title": "中美元首會面「倒計時」？習近平與特朗普的博弈與期望",
+      "description": "近期的中美防長、外長以及貿易代表密集互動引人關注，10月將有兩場重要多邊會議即東盟峰會及亞太經合組織峰會在亞洲舉行，習近平和特朗普可能的會面再次引來關注。",
+      "link": "https://www.bbc.com/zhongwen/articles/ce842748rr6o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-17T16:58:18.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce842748rr6o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5040/live/785b8080-9210-11f0-85c7-5bdf6c05d36f.jpg"
+    },
+    {
+      "title": "查理·柯克槍擊案後，美國為何處於危險的十字路口？",
+      "description": "查理·柯克去世後的這一刻，與美國歷史上其他不和諧時期有相似之處，但並沒有完全重複。",
+      "link": "https://www.bbc.com/zhongwen/articles/cgrqxplvkz5o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-19T03:22:31.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cgrqxplvkz5o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/18e9/live/4ff31d80-93b2-11f0-b391-6936825093bd.png"
     },
     {
       "title": "阿富汗塔利班：「所有女性撰寫的書都不允許在課堂上教授」",
@@ -74,14 +90,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9217/live/d4032390-881d-11f0-b391-6936825093bd.jpg"
     },
     {
-      "title": "黃仁勳冀中美「雙贏」，對中企被禁購英偉達晶片傳聞「失望」",
-      "description": "黃仁勳說，美國需要「確保全世界的人都能使用這項技術」，包括中國。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1dqnn745vko/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-18T02:19:33.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1dqnn745vko/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b95d/live/c37c6b00-93b5-11f0-af04-cd07e8e3d1e7.jpg"
-    },
-    {
       "title": "亞馬遜巨型魚最終製成奢華手袋，但誰真正獲利？",
       "description": "負責管理曾經瀕危的皮拉魯庫魚資源的社區表示，他們從這種魚在高端時尚產業中的應用中獲益有限。",
       "link": "https://www.bbc.com/zhongwen/articles/cx20nxkkqk0o/trad?at_medium=RSS&at_campaign=rss",
@@ -104,14 +112,6 @@
       "pubDate": "2025-09-18T15:58:30.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cwyle19j5z9o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d55/live/8f0276d0-939c-11f0-afac-7fc88e0d02fd.jpg"
-    },
-    {
-      "title": "中國採礦機構在贊比亞因「生態災難」遭起訴  涉及金額達800億美元",
-      "description": "贊比亞的農民對兩家與中國有關的公司提起了價值800億美元的訴訟，指控它們因一座儲存銅礦廢料的大壩倒塌而造成「生態災難」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx253e8yxpeo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-17T04:27:58.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx253e8yxpeo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8a71/live/154daa40-7398-11f0-856a-e3e76ccaf044.jpg"
     },
     {
       "title": "黃仁勳稱英國將成為「人工智慧超級大國」",
@@ -202,6 +202,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/937a/live/0338fca0-9392-11f0-898b-1d0183764518.jpg"
     },
     {
+      "title": "中國採礦機構在贊比亞因「生態災難」遭起訴  涉及金額達800億美元",
+      "description": "贊比亞的農民對兩家與中國有關的公司提起了價值800億美元的訴訟，指控它們因一座儲存銅礦廢料的大壩倒塌而造成「生態災難」。",
+      "link": "https://www.bbc.com/zhongwen/articles/cx253e8yxpeo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-17T04:27:58.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx253e8yxpeo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8a71/live/154daa40-7398-11f0-856a-e3e76ccaf044.jpg"
+    },
+    {
       "title": "中國大陸「考試移民」瞄向香港，引發DSE攻防戰",
       "description": "香港政府以「高才通」等計劃吸引新移民，政策允許新移民子女以「本地生」資格入讀資助大學，但隨之而來的中國大陸「考試移民」引發爭議。",
       "link": "https://www.bbc.com/zhongwen/articles/cn4lwn79k00o/trad?at_medium=RSS&at_campaign=rss",
@@ -224,14 +232,6 @@
       "pubDate": "2025-09-17T07:37:53.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cz69gjn6vx6o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/413e/live/9b24fd80-931e-11f0-b391-6936825093bd.jpg"
-    },
-    {
-      "title": "澳門立法會選舉：政府大力動員，投票人數創新高，白票廢票破萬",
-      "description": "2025年澳門第八屆立法會選舉結束，官方直選投票率達53.35%，比起上屆選舉回升，但空白票、廢票合共過1.3萬張。",
-      "link": "https://www.bbc.com/zhongwen/articles/cq657nnj29vo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-15T06:26:49.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cq657nnj29vo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a4a2/live/40af0de0-91f3-11f0-aa72-1754a564291f.jpg"
     },
     {
       "title": "中國進入網貸世代：誰在貸款？誰在放貸？誰能約束？",
