@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-19T02:07:14.593Z",
+  "updated": "2025-09-19T02:40:05.614Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "326",
+      "recommendCount": "908",
+      "title": "[情報] 苦命團隊:TO改PO，就全力投入幫Curry爭冠",
+      "link": "/bbs/NBA/M.1758170906.A.332",
+      "author": "OsmanGo",
+      "board": "NBA",
+      "publishTime": "2025/09/18 04:48",
+      "imageUrl": "https://cache.pttweb.cc/imgur/VFdQXXB/s/d49b16a69381db6ca93a8ce0a26570e0"
+    },
+    {
       "recommendScore": "234",
       "recommendCount": "391",
       "title": "[情報] 輝達將收購英特爾股票",
@@ -192,16 +202,6 @@
       "board": "Stock",
       "publishTime": "2025/09/18 11:14",
       "imageUrl": "https://cache.pttweb.cc/imgur/Bomzzep/s/567115195f6d2c4e3f58395b1466c7c7"
-    },
-    {
-      "recommendScore": "321",
-      "recommendCount": "887",
-      "title": "[情報] 苦命團隊:TO改PO，就全力投入幫Curry爭冠",
-      "link": "/bbs/NBA/M.1758170906.A.332",
-      "author": "OsmanGo",
-      "board": "NBA",
-      "publishTime": "2025/09/18 04:48",
-      "imageUrl": "https://cache.pttweb.cc/imgur/VFdQXXB/s/d49b16a69381db6ca93a8ce0a26570e0"
     }
   ]
 }
