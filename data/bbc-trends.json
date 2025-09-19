@@ -1,14 +1,30 @@
 {
-  "updated": "2025-09-19T11:47:34.187Z",
+  "updated": "2025-09-19T12:24:55.116Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-09-19T11:47:32.000Z",
+    "lastBuildDate": "2025-09-19T12:24:47.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "一文看清習近平特朗普三次通話：中美元首電話外交奏效嗎？",
+      "description": "第二任期的特朗普將與習近平進行第三次直接通話。BBC中文梳理三次通話，回顧發生的時機和具體成果。",
+      "link": "https://www.bbc.com/zhongwen/articles/czewrl5je47o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-19T12:13:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/czewrl5je47o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/690e/live/bcc81680-952a-11f0-921a-d5d32d92f75c.jpg"
+    },
+    {
+      "title": "美國重提「台灣地位未定論」，再掀法律戰、外交牌與藍綠對立",
+      "description": "分析指，這是美方針對中國近期「法律戰」的直接回應，旨在爭奪台灣主權的國際話語權，同時也為美中談判增加籌碼。台灣內部則對於美方論述反應兩極，凸顯藍綠陣營對歷史理解的分歧。",
+      "link": "https://www.bbc.com/zhongwen/articles/cpvljgx2m17o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-19T11:45:34.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cpvljgx2m17o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7afc/live/59eae520-951a-11f0-af99-d516f2c36cce.jpg"
+    },
     {
       "title": "特朗普的TikTok交易細節與障礙，以及這對中美意味著什麼",
       "description": "這項交易可能為其他中國企業提供「TikTok模式」，透過授權方式將技術引入美國市場。",
@@ -18,28 +34,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e5a9/live/a9e12b00-9486-11f0-a3f2-ebe3b9e0c5e6.jpg"
     },
     {
-      "title": "一文看清習近平特朗普三次通話：中美元首電話外交奏效嗎？",
-      "description": "第二任期的特朗普將與習近平進行第三次直接通話。BBC中文梳理三次通話，回顧發生的時機和具體成果。",
-      "link": "https://www.bbc.com/zhongwen/articles/czewrl5je47o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-19T09:22:03.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/czewrl5je47o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/690e/live/bcc81680-952a-11f0-921a-d5d32d92f75c.jpg"
-    },
-    {
       "title": "為什麼法國面臨成為新「歐洲病夫」的風險？",
       "description": "法國正處於多重危機的交匯點——但將這場海難歸咎於馬克龍是否公平？",
       "link": "https://www.bbc.com/zhongwen/articles/c2ejngmz1kzo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-09-19T08:09:39.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c2ejngmz1kzo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a755/live/0b9ce8d0-9481-11f0-84c8-99de564f0440.png"
-    },
-    {
-      "title": "俄羅斯為何要恢復蘇聯時代的歌唱比賽「Intervision」？",
-      "description": "俄羅斯正在重啟冷戰時期的「國際歌唱大賽」（Intervision），參賽國家包括巴西、中國和沙特阿拉伯，甚至還有一位代表美國的選手。",
-      "link": "https://www.bbc.com/zhongwen/articles/c2knzvjez8zo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-19T09:24:07.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c2knzvjez8zo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/47b9/live/875dff10-9326-11f0-84c8-99de564f0440.jpg"
     },
     {
       "title": "預製菜之爭：民眾和餐飲專家在關心什麼？",
@@ -56,6 +56,14 @@
       "pubDate": "2025-09-17T16:58:18.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ce842748rr6o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5040/live/785b8080-9210-11f0-85c7-5bdf6c05d36f.jpg"
+    },
+    {
+      "title": "俄羅斯為何要恢復蘇聯時代的歌唱比賽「Intervision」？",
+      "description": "俄羅斯正在重啟冷戰時期的「國際歌唱大賽」（Intervision），參賽國家包括巴西、中國和沙特阿拉伯，甚至還有一位代表美國的選手。",
+      "link": "https://www.bbc.com/zhongwen/articles/c2knzvjez8zo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-19T09:24:07.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c2knzvjez8zo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/47b9/live/875dff10-9326-11f0-84c8-99de564f0440.jpg"
     },
     {
       "title": "查理·柯克槍擊案後，美國為何處於危險的十字路口？",
@@ -96,14 +104,6 @@
       "pubDate": "2025-09-19T00:17:48.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx20nxkkqk0o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bb7a/live/ffaeb270-9457-11f0-84c8-99de564f0440.jpg"
-    },
-    {
-      "title": "BBC專訪巴西總統盧拉——「我與特朗普沒有交集」",
-      "description": "巴西總統盧拉在BBC獨家專訪中表示，特朗普「不是世界皇帝」。",
-      "link": "https://www.bbc.com/zhongwen/articles/ce84zjnk521o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-18T07:56:13.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce84zjnk521o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6bef/live/eaf52a30-93fd-11f0-88f9-857a462f652e.jpg"
     },
     {
       "title": "國民黨主席改選，有誰競爭？",
