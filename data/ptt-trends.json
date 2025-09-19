@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-19T05:37:57.709Z",
+  "updated": "2025-09-19T05:44:50.050Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,16 +24,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "538",
-      "recommendCount": "554",
-      "title": "[祭品] 大谷翔平全壘打55+",
-      "link": "/bbs/Baseball/M.1758174224.A.621",
-      "author": "L1ON",
-      "board": "Baseball",
-      "publishTime": "2025/09/18 05:43",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "480",
       "recommendCount": "568",
       "title": "[爆卦] 小比走了",
@@ -52,16 +42,6 @@
       "board": "Baseball",
       "publishTime": "2025/09/18 20:04",
       "imageUrl": "https://cache.pttweb.cc/imgur/60WxNbZ/s/ba2525c4ea259836a4f9491eced372e1"
-    },
-    {
-      "recommendScore": "377",
-      "recommendCount": "705",
-      "title": "[新聞] 震傳媒民調／賴清德不滿意度55%創新高！本命區台南剩37.2%滿意",
-      "link": "/bbs/Gossiping/M.1758174226.A.BCA",
-      "author": "a0580531",
-      "board": "Gossiping",
-      "publishTime": "2025/09/18 05:43",
-      "imageUrl": ""
     },
     {
       "recommendScore": "756",
@@ -201,6 +181,26 @@
       "author": "joshua0606",
       "board": "HatePolitics",
       "publishTime": "2025/09/18 09:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "127",
+      "recommendCount": "312",
+      "title": "[問卦] 台女：矽膠娃娃能幫你煮飯嗎",
+      "link": "/bbs/Gossiping/M.1758194884.A.DD6",
+      "author": "godofsex",
+      "board": "Gossiping",
+      "publishTime": "2025/09/18 11:28",
+      "imageUrl": "https://cache.pttweb.cc/imgur/J0knt8f/s/5d87dc4cac418bac5391644ec5e9d65c"
+    },
+    {
+      "recommendScore": "145",
+      "recommendCount": "356",
+      "title": "[新聞] 快訊／美濃大峽谷盜採延燒！　又一地主到案遭聲押",
+      "link": "/bbs/Gossiping/M.1758178665.A.FE6",
+      "author": "WuSam",
+      "board": "Gossiping",
+      "publishTime": "2025/09/18 06:57",
       "imageUrl": ""
     }
   ]
