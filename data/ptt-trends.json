@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-20T22:05:14.130Z",
+  "updated": "2025-09-20T22:17:08.078Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "251",
-      "recommendCount": "698",
+      "recommendScore": "252",
+      "recommendCount": "699",
       "title": "[爆卦] 零日攻擊新番：鄭成功上乩身向原住民懺悔",
       "link": "/bbs/Gossiping/M.1758364236.A.ECA",
       "author": "eric2016",
@@ -72,16 +72,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/20 04:02",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "256",
-      "recommendCount": "661",
-      "title": "[爆卦] 賀！玻璃睪丸入圍金音獎最佳嘻哈歌曲",
-      "link": "/bbs/Gossiping/M.1758319813.A.82E",
-      "author": "jobli",
-      "board": "Gossiping",
-      "publishTime": "2025/09/19 22:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/KbzAs5a/s/66293844d173ef505e44423d47680759"
     },
     {
       "recommendScore": "288",
@@ -201,6 +191,16 @@
       "author": "cweilun",
       "board": "Baseball",
       "publishTime": "2025/09/20 03:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "755",
+      "recommendCount": "1457",
+      "title": "[電競] 2025 LCP 賽季決賽 季後賽 敗部決賽",
+      "link": "/bbs/LoL/M.1758359084.A.1F3",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/09/20 09:04",
       "imageUrl": ""
     }
   ]
