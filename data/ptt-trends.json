@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-21T07:33:49.253Z",
+  "updated": "2025-09-21T07:43:28.929Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -75,7 +75,7 @@
     },
     {
       "recommendScore": "334",
-      "recommendCount": "426",
+      "recommendCount": "427",
       "title": "[炸裂] 大谷翔平 NO.53 連兩場開轟",
       "link": "/bbs/Baseball/M.1758424214.A.4B8",
       "author": "carlchang092",
@@ -121,6 +121,16 @@
       "author": "deathdecay",
       "board": "Gossiping",
       "publishTime": "2025/09/20 13:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "728",
+      "recommendCount": "1446",
+      "title": "[電競] 2025 LCK Playoffs Lower Round 3",
+      "link": "/bbs/LoL/M.1758432602.A.6B7",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/09/21 05:30",
       "imageUrl": ""
     },
     {
@@ -174,6 +184,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/OtbMeeH/s/edb4c94ce2ba0863d46c125d834703c4"
     },
     {
+      "recommendScore": "342",
+      "recommendCount": "1035",
+      "title": "[花邊] Kuminga經紀人:每場有機會先發並且最後留在場上",
+      "link": "/bbs/NBA/M.1758363162.A.67D",
+      "author": "kakala99",
+      "board": "NBA",
+      "publishTime": "2025/09/20 10:12",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "130",
       "recommendCount": "404",
       "title": "[問卦] 出國後覺得臺灣很爛正常嗎！？",
@@ -182,26 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/20 08:56",
       "imageUrl": "https://cache.pttweb.cc/imgur/BJ8V5b6/s/78217c6966d050997fd3c058311189a9"
-    },
-    {
-      "recommendScore": "213",
-      "recommendCount": "292",
-      "title": "[問卦] 東京大學選美 東大五姬怎麼選?",
-      "link": "/bbs/Gossiping/M.1758381716.A.058",
-      "author": "ReiKuromiya",
-      "board": "Gossiping",
-      "publishTime": "2025/09/20 15:21",
-      "imageUrl": "https://cache.pttweb.cc/imgur/IFKRTN9/s/ccafa8e894d8e8a91d04f7019a05f2d1"
-    },
-    {
-      "recommendScore": "561",
-      "recommendCount": "1501",
-      "title": "[分享] 今日先發",
-      "link": "/bbs/Elephants/M.1758356572.A.6CC",
-      "author": "octopus4406",
-      "board": "Elephants",
-      "publishTime": "2025/09/20 08:22",
-      "imageUrl": "https://cache.pttweb.cc/imgur/YMb3hBu/s/dd2dc8860e50d41e4e811eee273ca8f5"
     }
   ]
 }
