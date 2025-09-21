@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-21T05:53:47.207Z",
+  "updated": "2025-09-21T06:07:26.637Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "327",
-      "recommendCount": "413",
+      "recommendScore": "331",
+      "recommendCount": "422",
       "title": "[炸裂] 大谷翔平 NO.53 連兩場開轟",
       "link": "/bbs/Baseball/M.1758424214.A.4B8",
       "author": "carlchang092",
@@ -124,13 +124,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "331",
+      "recommendScore": "211",
+      "recommendCount": "335",
       "title": "[討論] 鄉民對鄧愷威的期望是什麼？",
       "link": "/bbs/Baseball/M.1758420355.A.3B6",
       "author": "icemiku",
       "board": "Baseball",
       "publishTime": "2025/09/21 02:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "262",
+      "recommendCount": "386",
+      "title": "[分享] 今日 鄧愷威",
+      "link": "/bbs/Baseball/M.1758427783.A.6E0",
+      "author": "alpacaHong",
+      "board": "Baseball",
+      "publishTime": "2025/09/21 04:09",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "NBA",
       "publishTime": "2025/09/20 10:12",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "144",
-      "recommendCount": "302",
-      "title": "[問卦]台灣殺人只需要賠四百萬 你的感想是什麼？",
-      "link": "/bbs/Gossiping/M.1758372702.A.E3F",
-      "author": "a91153456",
-      "board": "Gossiping",
-      "publishTime": "2025/09/20 12:51",
-      "imageUrl": "https://cache.pttweb.cc/imgur/OtbMeeH/s/edb4c94ce2ba0863d46c125d834703c4"
     }
   ]
 }
