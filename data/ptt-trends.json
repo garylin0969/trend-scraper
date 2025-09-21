@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-21T19:34:03.020Z",
+  "updated": "2025-09-21T19:43:43.598Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "334",
-      "recommendCount": "427",
+      "recommendScore": "340",
+      "recommendCount": "435",
       "title": "[炸裂] 大谷翔平 NO.53 連兩場開轟",
       "link": "/bbs/Baseball/M.1758424214.A.4B8",
       "author": "carlchang092",
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "698",
+      "recommendCount": "1462",
+      "title": "[電競] 2025 LPL Grand Finals",
+      "link": "/bbs/LoL/M.1758439102.A.70B",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/09/21 07:18",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "162",
       "recommendCount": "225",
       "title": "Re: [新聞] 名醫吐槽：柯文哲別再怪因馬桶染HPV了",
@@ -191,16 +201,6 @@
       "author": "gn505250",
       "board": "Gossiping",
       "publishTime": "2025/09/21 06:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-78",
-      "recommendCount": "241",
-      "title": "[新聞] 安倍晉三研究中心成立　賴清德：台海至今不見砲火都要歸功他",
-      "link": "/bbs/Gossiping/M.1758423727.A.043",
-      "author": "joe19990815",
-      "board": "Gossiping",
-      "publishTime": "2025/09/21 03:02",
       "imageUrl": ""
     }
   ]
