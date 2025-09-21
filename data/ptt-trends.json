@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-21T18:33:27.393Z",
+  "updated": "2025-09-21T18:46:05.786Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "111",
+      "recommendCount": "247",
+      "title": "[討論] 為什麼富邦現在流行哭？",
+      "link": "/bbs/Baseball/M.1758456063.A.9A4",
+      "author": "kiki2125",
+      "board": "Baseball",
+      "publishTime": "2025/09/21 12:01",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "91",
       "recommendCount": "199",
       "title": "[新聞] 颱風／樺加沙開眼了！結構扎實持續加速",
@@ -191,16 +201,6 @@
       "author": "Workforme",
       "board": "Gossiping",
       "publishTime": "2025/09/20 22:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "113",
-      "recommendCount": "225",
-      "title": "[新聞] 樺加沙直逼強颱…週一「颱風假」放定了？「暴風圈侵襲機率」5縣市破5成",
-      "link": "/bbs/Gossiping/M.1758392106.A.2AB",
-      "author": "rsreason",
-      "board": "Gossiping",
-      "publishTime": "2025/09/20 18:15",
       "imageUrl": ""
     }
   ]
