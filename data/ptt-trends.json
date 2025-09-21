@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-21T16:05:42.046Z",
+  "updated": "2025-09-21T16:17:57.298Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "128",
+      "recommendCount": "271",
+      "title": "[新聞] 台南要變藍天了？謝龍介曝鄉親喊這次要投他：32年都投綠看不下去了",
+      "link": "/bbs/Gossiping/M.1758454729.A.901",
+      "author": "emuless",
+      "board": "Gossiping",
+      "publishTime": "2025/09/21 11:38",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "142",
       "recommendCount": "270",
       "title": "[新聞]建築師刷1.9萬元開酒 拒認帳怒告幼教女師",
@@ -141,6 +151,16 @@
       "author": "zatti",
       "board": "Gossiping",
       "publishTime": "2025/09/21 02:43",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "372",
+      "recommendCount": "993",
+      "title": "[轉播] 九局下 龍5：2象 gameset",
+      "link": "/bbs/Elephants/M.1758455484.A.C0F",
+      "author": "hsuaninteen",
+      "board": "Elephants",
+      "publishTime": "2025/09/21 11:51",
       "imageUrl": ""
     },
     {
@@ -181,26 +201,6 @@
       "author": "rsreason",
       "board": "Gossiping",
       "publishTime": "2025/09/20 18:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "164",
-      "recommendCount": "499",
-      "title": "[轉播] 六局上 龍5：0象",
-      "link": "/bbs/Elephants/M.1758451732.A.7A0",
-      "author": "hsuaninteen",
-      "board": "Elephants",
-      "publishTime": "2025/09/21 10:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "158",
-      "recommendCount": "173",
-      "title": "[推投] 身材愛好 每票20P",
-      "link": "/bbs/C_Chat/M.1758431413.A.7D9",
-      "author": "s7503228",
-      "board": "C_Chat",
-      "publishTime": "2025/09/21 05:10",
       "imageUrl": ""
     }
   ]
