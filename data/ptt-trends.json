@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-21T23:53:47.920Z",
+  "updated": "2025-09-22T00:23:55.657Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "521",
+      "recommendCount": "1500",
+      "title": "[分享] 今日先發",
+      "link": "/bbs/Elephants/M.1758442168.A.5EC",
+      "author": "justin521",
+      "board": "Elephants",
+      "publishTime": "2025/09/21 08:09",
+      "imageUrl": "https://cache.pttweb.cc/imgur/vvOLJ0u/s/52a7ac20e3601757f3773318a4ed72bf"
+    },
+    {
       "recommendScore": "258",
       "recommendCount": "284",
       "title": "[推投] 身材愛好 每票20P",
@@ -191,16 +201,6 @@
       "author": "laptic",
       "board": "LoL",
       "publishTime": "2025/09/21 07:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "191",
-      "recommendCount": "242",
-      "title": "[心得] 臺大開放式課程-財務報告分析",
-      "link": "/bbs/Stock/M.1758442648.A.A41",
-      "author": "rz2x",
-      "board": "Stock",
-      "publishTime": "2025/09/21 08:17",
       "imageUrl": ""
     }
   ]
