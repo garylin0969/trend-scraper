@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-22T11:43:37.205Z",
+  "updated": "2025-09-22T11:53:53.881Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "374",
-      "recommendCount": "997",
-      "title": "[轉播] 九局下 龍5：2象 gameset",
-      "link": "/bbs/Elephants/M.1758455484.A.C0F",
-      "author": "hsuaninteen",
-      "board": "Elephants",
-      "publishTime": "2025/09/21 11:51",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "134",
       "recommendCount": "236",
       "title": "[新聞] 新竹5人同車4死「生前畫面曝光」　15歲少年棄友跑回家",
@@ -202,6 +192,16 @@
       "board": "SportLottery",
       "publishTime": "2025/09/21 16:55",
       "imageUrl": "https://cache.pttweb.cc/imgur/pfcl2w4/s/0e0c1e35be813b5e17810f457a8097d2"
+    },
+    {
+      "recommendScore": "161",
+      "recommendCount": "208",
+      "title": "[爆卦] 震",
+      "link": "/bbs/Gossiping/M.1758482441.A.2A4",
+      "author": "RockCat0218",
+      "board": "Gossiping",
+      "publishTime": "2025/09/21 19:20",
+      "imageUrl": ""
     }
   ]
 }
