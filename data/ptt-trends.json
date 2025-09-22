@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-22T15:30:46.282Z",
+  "updated": "2025-09-22T15:39:33.852Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "196",
+      "recommendCount": "508",
+      "title": "[問卦] 大家會很後悔小時候打太多電動 沒唸書嗎",
+      "link": "/bbs/Gossiping/M.1758500904.A.D57",
+      "author": "P0GUY",
+      "board": "Gossiping",
+      "publishTime": "2025/09/22 00:28",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "211",
       "recommendCount": "444",
       "title": "[新聞] 成功嶺靶場意外！陸軍士兵臉部重傷 軍方澄清非膛炸而是「不明因素」",
@@ -144,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "113",
+      "recommendCount": "343",
+      "title": "[討論] 王義川今天記者會重點",
+      "link": "/bbs/HatePolitics/M.1758508302.A.C5C",
+      "author": "omanorboyo",
+      "board": "HatePolitics",
+      "publishTime": "2025/09/22 02:31",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "192",
       "recommendCount": "280",
       "title": "[情報] CPBL 9/23 先發投手預告",
@@ -182,26 +202,6 @@
       "board": "SportLottery",
       "publishTime": "2025/09/21 16:55",
       "imageUrl": "https://cache.pttweb.cc/imgur/pfcl2w4/s/0e0c1e35be813b5e17810f457a8097d2"
-    },
-    {
-      "recommendScore": "195",
-      "recommendCount": "302",
-      "title": "[炸裂] Cal Raleigh NO.58 連兩場開轟",
-      "link": "/bbs/Baseball/M.1758497809.A.39F",
-      "author": "carlchang092",
-      "board": "Baseball",
-      "publishTime": "2025/09/21 23:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "151",
-      "recommendCount": "273",
-      "title": "[閒聊] 如果T1過不了LPL#4，被抬走會怎樣？",
-      "link": "/bbs/LoL/M.1758515162.A.0CB",
-      "author": "owo0204",
-      "board": "LoL",
-      "publishTime": "2025/09/22 04:26",
-      "imageUrl": ""
     }
   ]
 }
