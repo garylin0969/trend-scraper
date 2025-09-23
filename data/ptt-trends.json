@@ -1,11 +1,11 @@
 {
-  "updated": "2025-09-23T14:49:15.324Z",
+  "updated": "2025-09-23T14:55:57.942Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "257",
-      "recommendCount": "989",
+      "recommendScore": "258",
+      "recommendCount": "990",
       "title": "[新聞] 大轉彎！政院決定普發一萬不設「不領取」選項 原因曝光",
       "link": "/bbs/Gossiping/M.1758599893.A.F79",
       "author": "chosentwo",
@@ -24,13 +24,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "386",
-      "recommendCount": "1172",
+      "recommendScore": "397",
+      "recommendCount": "1192",
       "title": "Re: [新聞] 黃國昌賓士車找到了！ 四叉貓：登記在高O名下疑躲避財產申報？",
       "link": "/bbs/Gossiping/M.1758617608.A.EB8",
       "author": "sobiNOva",
       "board": "Gossiping",
       "publishTime": "2025/09/23 08:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-257",
+      "recommendCount": "639",
+      "title": "[新聞] 黃國昌賓士車找到了！ 四叉貓：登記在高O名下疑躲避財產申報？",
+      "link": "/bbs/Gossiping/M.1758616325.A.672",
+      "author": "eatk",
+      "board": "Gossiping",
+      "publishTime": "2025/09/23 08:32",
       "imageUrl": ""
     },
     {
@@ -44,14 +54,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-253",
-      "recommendCount": "630",
-      "title": "[新聞] 黃國昌賓士車找到了！ 四叉貓：登記在高O名下疑躲避財產申報？",
-      "link": "/bbs/Gossiping/M.1758616325.A.672",
-      "author": "eatk",
+      "recommendScore": "349",
+      "recommendCount": "700",
+      "title": "[爆卦] 花蓮縣光復鄉淹大水偃塞湖潰堤！",
+      "link": "/bbs/Gossiping/M.1758615869.A.45C",
+      "author": "addison123",
       "board": "Gossiping",
-      "publishTime": "2025/09/23 08:32",
-      "imageUrl": ""
+      "publishTime": "2025/09/23 08:24",
+      "imageUrl": "https://cache.pttweb.cc/imgur/zjvufE6/s/3f3eb61d4e7df6b670afce38a9e7c7bb"
     },
     {
       "recommendScore": "337",
@@ -74,18 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "344",
-      "recommendCount": "688",
-      "title": "[爆卦] 花蓮縣光復鄉淹大水偃塞湖潰堤！",
-      "link": "/bbs/Gossiping/M.1758615869.A.45C",
-      "author": "addison123",
-      "board": "Gossiping",
-      "publishTime": "2025/09/23 08:24",
-      "imageUrl": "https://cache.pttweb.cc/imgur/zjvufE6/s/3f3eb61d4e7df6b670afce38a9e7c7bb"
-    },
-    {
-      "recommendScore": "267",
-      "recommendCount": "417",
+      "recommendScore": "277",
+      "recommendCount": "434",
       "title": "[爆卦] 林欽榮圖利案壓案滿一年",
       "link": "/bbs/Gossiping/M.1758623790.A.D45",
       "author": "suwy",
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "203",
+      "recommendCount": "484",
+      "title": "[新聞] 游盈隆嘆:綠51戰隊找不出一個像黃國昌戰將，怪誰？",
+      "link": "/bbs/Gossiping/M.1758610516.A.D0C",
+      "author": "postar",
+      "board": "Gossiping",
+      "publishTime": "2025/09/23 06:55",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "343",
       "recommendCount": "346",
       "title": "[分享]（抽獎）結緣吧！Topps x MLB 大聯盟球員.",
@@ -114,18 +124,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/dW7m0dl/s/815e3269636eb04338bf0c258b8a5288"
     },
     {
-      "recommendScore": "200",
-      "recommendCount": "480",
-      "title": "[新聞] 游盈隆嘆:綠51戰隊找不出一個像黃國昌戰將，怪誰？",
-      "link": "/bbs/Gossiping/M.1758610516.A.D0C",
-      "author": "postar",
-      "board": "Gossiping",
-      "publishTime": "2025/09/23 06:55",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-110",
-      "recommendCount": "476",
+      "recommendCount": "478",
       "title": "[新聞] 成功嶺靶場意外 沈伯洋：國軍常見裝備長灰塵 缺乏演練保養",
       "link": "/bbs/Gossiping/M.1758604513.A.C54",
       "author": "Kazmier",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "197",
-      "recommendCount": "499",
+      "recommendScore": "200",
+      "recommendCount": "507",
       "title": "[爆卦] 十軍團最新回應懶人包",
       "link": "/bbs/Gossiping/M.1758612236.A.1D0",
       "author": "q347",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "162",
-      "recommendCount": "386",
+      "recommendScore": "167",
+      "recommendCount": "394",
       "title": "[問卦] 為啥打靶意外照片會外流",
       "link": "/bbs/Gossiping/M.1758619451.A.E39",
       "author": "au677777",
