@@ -1,16 +1,26 @@
 {
-  "updated": "2025-09-23T05:17:51.910Z",
+  "updated": "2025-09-23T05:29:48.943Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "499",
-      "recommendCount": "1200",
+      "recommendScore": "518",
+      "recommendCount": "1238",
       "title": "[新聞] 親綠全炸鍋了！卓榮泰指示普發1萬能「不",
       "link": "/bbs/Gossiping/M.1758524106.A.BCF",
       "author": "tmacor1",
       "board": "Gossiping",
       "publishTime": "2025/09/22 06:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "567",
+      "recommendCount": "1156",
+      "title": "[新聞] 獨／成功嶺打靶膛炸！義務役新兵「眼球掉出」右臉重創",
+      "link": "/bbs/Gossiping/M.1758540343.A.C5A",
+      "author": "osalucard",
+      "board": "Gossiping",
+      "publishTime": "2025/09/22 11:25",
       "imageUrl": ""
     },
     {
@@ -21,16 +31,6 @@
       "author": "elmoman",
       "board": "Gossiping",
       "publishTime": "2025/09/22 05:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "545",
-      "recommendCount": "1091",
-      "title": "[新聞] 獨／成功嶺打靶膛炸！義務役新兵「眼球掉出」右臉重創",
-      "link": "/bbs/Gossiping/M.1758540343.A.C5A",
-      "author": "osalucard",
-      "board": "Gossiping",
-      "publishTime": "2025/09/22 11:25",
       "imageUrl": ""
     },
     {
@@ -64,8 +64,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "248",
-      "recommendCount": "474",
+      "recommendScore": "187",
+      "recommendCount": "592",
+      "title": "[新聞] 普發1萬增設「拒領」選項 李忠憲表態一定領：我才不要當沙包！",
+      "link": "/bbs/Gossiping/M.1758577931.A.86E",
+      "author": "MikaHakkinen",
+      "board": "Gossiping",
+      "publishTime": "2025/09/22 21:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "267",
+      "recommendCount": "506",
       "title": "[新聞] 快訊／成功嶺新兵打靶意外「子彈碎片卡腦部」　醫院動員60人搶命",
       "link": "/bbs/Gossiping/M.1758545689.A.E8A",
       "author": "ihcc",
@@ -74,13 +84,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "234",
-      "recommendCount": "491",
+      "recommendScore": "248",
+      "recommendCount": "526",
       "title": "[新聞] 成功嶺靶場意外！陸軍士兵臉部重傷 軍方澄清非膛炸而是「不明因素」",
       "link": "/bbs/Gossiping/M.1758543641.A.FCD",
       "author": "Supergreen",
       "board": "Gossiping",
       "publishTime": "2025/09/22 12:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "161",
+      "recommendCount": "403",
+      "title": "[新聞] 賴清德稱「安倍晉三促成五眼聯盟」　但當時他才2歲",
+      "link": "/bbs/Gossiping/M.1758544043.A.C04",
+      "author": "jodojeda",
+      "board": "Gossiping",
+      "publishTime": "2025/09/22 12:27",
       "imageUrl": ""
     },
     {
@@ -104,18 +124,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "204",
-      "recommendCount": "292",
-      "title": "[情報] 114年09月22日 三大法人買賣金額統計表",
-      "link": "/bbs/Stock/M.1758524858.A.BF2",
-      "author": "coconing",
-      "board": "Stock",
-      "publishTime": "2025/09/22 07:07",
+      "recommendScore": "191",
+      "recommendCount": "280",
+      "title": "[問卦] 明天北部任一縣市放假的話每推50p發到爆",
+      "link": "/bbs/Gossiping/M.1758539078.A.016",
+      "author": "siugwai",
+      "board": "Gossiping",
+      "publishTime": "2025/09/22 11:04",
       "imageUrl": ""
     },
     {
-      "recommendScore": "99",
-      "recommendCount": "348",
+      "recommendScore": "104",
+      "recommendCount": "362",
       "title": "[新聞] 李興文妻上網賣東西被騙20萬　律師林智群這句開酸",
       "link": "/bbs/Gossiping/M.1758527624.A.937",
       "author": "iolcst",
@@ -124,13 +144,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "119",
-      "recommendCount": "314",
-      "title": "[新聞] 賴清德稱「安倍晉三促成五眼聯盟」　但當時他才2歲",
-      "link": "/bbs/Gossiping/M.1758544043.A.C04",
-      "author": "jodojeda",
-      "board": "Gossiping",
-      "publishTime": "2025/09/22 12:27",
+      "recommendScore": "204",
+      "recommendCount": "292",
+      "title": "[情報] 114年09月22日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1758524858.A.BF2",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2025/09/22 07:07",
       "imageUrl": ""
     },
     {
@@ -181,26 +201,6 @@
       "author": "ruka660101",
       "board": "Baseball",
       "publishTime": "2025/09/22 11:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "192",
-      "recommendCount": "484",
-      "title": "[新聞] 打靶炸臉眼珠掉...初判非膛炸 成功嶺二兵命危術後送加護病房",
-      "link": "/bbs/Gossiping/M.1758593089.A.3F1",
-      "author": "pm2001",
-      "board": "Gossiping",
-      "publishTime": "2025/09/23 02:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "139",
-      "recommendCount": "340",
-      "title": "[新聞] 非膛炸！成功嶺18歲士兵打靶「左眼球沒了」 漏夜搶救仍未脫險",
-      "link": "/bbs/Gossiping/M.1758588745.A.FB4",
-      "author": "jobli",
-      "board": "Gossiping",
-      "publishTime": "2025/09/23 00:52",
       "imageUrl": ""
     }
   ]
