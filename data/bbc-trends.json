@@ -1,10 +1,10 @@
 {
-  "updated": "2025-09-23T06:24:17.822Z",
+  "updated": "2025-09-23T06:51:22.459Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-09-23T06:24:14.000Z",
+    "lastBuildDate": "2025-09-23T06:51:10.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -24,6 +24,14 @@
       "pubDate": "2025-09-23T00:19:59.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c5yggymg904o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e902/live/7a4441a0-978a-11f0-a4bc-e5c9e246a537.jpg"
+    },
+    {
+      "title": "颶風、颱風和氣旋：有什麼區別？",
+      "description": "熱帶風暴在不同的地方有不同的名稱。",
+      "link": "https://www.bbc.com/zhongwen/articles/c36k4479gz5o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-23T06:39:31.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c36k4479gz5o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a262/live/701fa4a0-9846-11f0-9a61-23f546a632b5.jpg"
     },
     {
       "title": "樺加沙逼近　兩岸四地嚴陣以待「怪物等級」超強颱風",
@@ -46,7 +54,7 @@
       "description": "台灣現行外傭申請門檻極高，不少家庭早已利用灰色地帶聘雇外籍勞工，凸顯市場的巨大需求。參考鄰近的香港與新加坡，外傭制度確實顯著提升女性勞動參與率，讓台灣各界關注有關政策是否能借鏡國際。\nBBC中文採訪多個家庭，了解他們的期待與擔憂，民間團體和學者則從多方面解析外傭政策對台灣的影響。",
       "link": "https://www.bbc.com/zhongwen/articles/c3rvjd3r9wpo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-09-22T10:11:54.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3rvjd3r9wpo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3rvjd3r9wpo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2ffe/live/84855bb0-979c-11f0-928c-71dbb8619e94.jpg"
     },
     {
@@ -106,14 +114,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7afc/live/59eae520-951a-11f0-af99-d516f2c36cce.jpg"
     },
     {
-      "title": "特朗普的TikTok交易細節與障礙，以及這對中美意味著什麼",
-      "description": "這項交易可能為其他中國企業提供「TikTok模式」，透過授權方式將技術引入美國市場。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvg9060e544o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-19T06:59:22.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvg9060e544o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e5a9/live/a9e12b00-9486-11f0-a3f2-ebe3b9e0c5e6.jpg"
-    },
-    {
       "title": "美中TikTok談判現「突破」？惟中國民眾反應冷淡",
       "description": "美國總統特朗普19日與中國國家主席習近平進行對話，其後在自家社交平台發文稱該通話「富有成效」，並感謝中方批准涉及TikTok的交易協議。對此，中國民眾怎麼看？",
       "link": "https://www.bbc.com/zhongwen/articles/cvgvk78dx07o/trad?at_medium=RSS&at_campaign=rss",
@@ -154,6 +154,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0c60/live/e3f68de0-8fee-11f0-9cf6-cbf3e73ce2b9.jpg"
     },
     {
+      "title": "特朗普的TikTok交易細節與障礙，以及這對中美意味著什麼",
+      "description": "這項交易可能為其他中國企業提供「TikTok模式」，透過授權方式將技術引入美國市場。",
+      "link": "https://www.bbc.com/zhongwen/articles/cvg9060e544o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-19T06:59:22.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvg9060e544o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e5a9/live/a9e12b00-9486-11f0-a3f2-ebe3b9e0c5e6.jpg"
+    },
+    {
       "title": "墨西哥對中國汽車加徵50%關稅  分析稱旨在「安撫美國」",
       "description": "華盛頓近月來不斷敦促北美夥伴「同步」提高對華壁壘，墨西哥此舉因此被視為向美國遞交「投名狀」，意在為2026年《北美自貿協定》例行審核提前爭取籌碼。",
       "link": "https://www.bbc.com/zhongwen/articles/cy85p1ydyzeo/trad?at_medium=RSS&at_campaign=rss",
@@ -184,14 +192,6 @@
       "pubDate": "2025-09-02T23:35:20.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c5y3yz34ewvo/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f29c/live/0334e570-8843-11f0-b391-6936825093bd.jpg"
-    },
-    {
-      "title": "普京莫迪抵達中國參加上合峰會，但美中印貿易戰使峰會蒙上陰影",
-      "description": "俄羅斯總統普京和印度總理莫迪抵達中國，與20多位領導人共同出席上海合作組織峰會。這是莫迪七年來首次訪華。",
-      "link": "https://www.bbc.com/zhongwen/articles/clyv43nzgypo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-01T05:55:06.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/clyv43nzgypo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d64/live/c9453b50-863d-11f0-84c8-99de564f0440.jpg"
     },
     {
       "title": "一文看清習近平特朗普三次通話：中美元首電話外交奏效嗎？",
