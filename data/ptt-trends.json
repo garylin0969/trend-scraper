@@ -1,11 +1,11 @@
 {
-  "updated": "2025-09-23T16:20:15.607Z",
+  "updated": "2025-09-23T16:34:25.908Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "258",
-      "recommendCount": "990",
+      "recommendScore": "259",
+      "recommendCount": "996",
       "title": "[新聞] 大轉彎！政院決定普發一萬不設「不領取」選項 原因曝光",
       "link": "/bbs/Gossiping/M.1758599893.A.F79",
       "author": "chosentwo",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "397",
-      "recommendCount": "1192",
+      "recommendScore": "413",
+      "recommendCount": "1219",
       "title": "Re: [新聞] 黃國昌賓士車找到了！ 四叉貓：登記在高O名下疑躲避財產申報？",
       "link": "/bbs/Gossiping/M.1758617608.A.EB8",
       "author": "sobiNOva",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-257",
-      "recommendCount": "639",
+      "recommendScore": "-264",
+      "recommendCount": "650",
       "title": "[新聞] 黃國昌賓士車找到了！ 四叉貓：登記在高O名下疑躲避財產申報？",
       "link": "/bbs/Gossiping/M.1758616325.A.672",
       "author": "eatk",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "349",
-      "recommendCount": "700",
+      "recommendScore": "351",
+      "recommendCount": "708",
       "title": "[爆卦] 花蓮縣光復鄉淹大水偃塞湖潰堤！",
       "link": "/bbs/Gossiping/M.1758615869.A.45C",
       "author": "addison123",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "196",
-      "recommendCount": "615",
+      "recommendScore": "195",
+      "recommendCount": "616",
       "title": "[新聞] 普發1萬增設「拒領」選項 李忠憲表態一定領：我才不要當沙包！",
       "link": "/bbs/Gossiping/M.1758577931.A.86E",
       "author": "MikaHakkinen",
@@ -84,14 +84,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "277",
-      "recommendCount": "434",
+      "recommendScore": "283",
+      "recommendCount": "449",
       "title": "[爆卦] 林欽榮圖利案壓案滿一年",
       "link": "/bbs/Gossiping/M.1758623790.A.D45",
       "author": "suwy",
       "board": "Gossiping",
       "publishTime": "2025/09/23 10:36",
       "imageUrl": "https://cache.pttweb.cc/imgur/PcMYW4c/s/53585cd3ba18777f69e01da5275af063"
+    },
+    {
+      "recommendScore": "351",
+      "recommendCount": "354",
+      "title": "[分享]（抽獎）結緣吧！Topps x MLB 大聯盟球員.",
+      "link": "/bbs/Baseball/M.1758611934.A.FD7",
+      "author": "jjoes77tw",
+      "board": "Baseball",
+      "publishTime": "2025/09/23 07:18",
+      "imageUrl": "https://cache.pttweb.cc/imgur/dW7m0dl/s/815e3269636eb04338bf0c258b8a5288"
     },
     {
       "recommendScore": "334",
@@ -104,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "346",
-      "recommendCount": "349",
-      "title": "[分享]（抽獎）結緣吧！Topps x MLB 大聯盟球員.",
-      "link": "/bbs/Baseball/M.1758611934.A.FD7",
-      "author": "jjoes77tw",
-      "board": "Baseball",
-      "publishTime": "2025/09/23 07:18",
-      "imageUrl": "https://cache.pttweb.cc/imgur/dW7m0dl/s/815e3269636eb04338bf0c258b8a5288"
-    },
-    {
       "recommendScore": "203",
       "recommendCount": "484",
       "title": "[新聞] 游盈隆嘆:綠51戰隊找不出一個像黃國昌戰將，怪誰？",
@@ -124,8 +124,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-110",
-      "recommendCount": "478",
+      "recommendScore": "234",
+      "recommendCount": "579",
+      "title": "[問卦] 各位是怎麼清醒的？",
+      "link": "/bbs/Gossiping/M.1758620917.A.F91",
+      "author": "godded",
+      "board": "Gossiping",
+      "publishTime": "2025/09/23 09:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-111",
+      "recommendCount": "479",
       "title": "[新聞] 成功嶺靶場意外 沈伯洋：國軍常見裝備長灰塵 缺乏演練保養",
       "link": "/bbs/Gossiping/M.1758604513.A.C54",
       "author": "Kazmier",
@@ -144,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "219",
-      "recommendCount": "543",
-      "title": "[問卦] 各位是怎麼清醒的？",
-      "link": "/bbs/Gossiping/M.1758620917.A.F91",
-      "author": "godded",
-      "board": "Gossiping",
-      "publishTime": "2025/09/23 09:48",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "121",
       "recommendCount": "360",
       "title": "[新聞] 快訊／掏空台鹽4億被求刑12年　落跑前董座陳啓昱獲600萬交保",
@@ -165,13 +165,23 @@
     },
     {
       "recommendScore": "200",
-      "recommendCount": "507",
+      "recommendCount": "508",
       "title": "[爆卦] 十軍團最新回應懶人包",
       "link": "/bbs/Gossiping/M.1758612236.A.1D0",
       "author": "q347",
       "board": "Gossiping",
       "publishTime": "2025/09/23 07:23",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "231",
+      "recommendCount": "441",
+      "title": "[新聞] 成功嶺二兵打靶爆頭「左臉破了大洞」輸血80袋搶命！驚悚中彈畫面曝光",
+      "link": "/bbs/Gossiping/M.1758627353.A.9F3",
+      "author": "chunchie",
+      "board": "Gossiping",
+      "publishTime": "2025/09/23 11:35",
+      "imageUrl": "https://cache.pttweb.cc/imgur/AqmclMk/s/351441f04279e7aeec1a91112d96fb0b"
     },
     {
       "recommendScore": "156",
@@ -184,23 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "167",
-      "recommendCount": "394",
+      "recommendScore": "171",
+      "recommendCount": "400",
       "title": "[問卦] 為啥打靶意外照片會外流",
       "link": "/bbs/Gossiping/M.1758619451.A.E39",
       "author": "au677777",
       "board": "Gossiping",
       "publishTime": "2025/09/23 09:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "220",
-      "recommendCount": "481",
-      "title": "[新聞] 成功嶺新兵打靶左臉重傷 槍枝完好軍方初步排除膛炸",
-      "link": "/bbs/Gossiping/M.1758608244.A.2BA",
-      "author": "znck",
-      "board": "Gossiping",
-      "publishTime": "2025/09/23 06:17",
       "imageUrl": ""
     }
   ]
