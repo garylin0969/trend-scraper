@@ -1,14 +1,22 @@
 {
-  "updated": "2025-09-22T23:47:20.534Z",
+  "updated": "2025-09-23T00:35:50.426Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-09-22T23:47:06.000Z",
+    "lastBuildDate": "2025-09-23T00:35:43.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "芯片巨頭輝達的困境：中國反壟斷這張「牌」可能怎麽用",
+      "description": "專家指出，中國的《反壟斷法》具有高度靈活性，中國如何運用該法，將影響輝達的未來，也預示著中美兩國關係的走向。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5yggymg904o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-23T00:19:59.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5yggymg904o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e902/live/7a4441a0-978a-11f0-a4bc-e5c9e246a537.jpg"
+    },
     {
       "title": "樺加沙逼近　兩岸四地嚴陣以待「怪物等級」超強颱風",
       "description": "超強颱風樺加沙從菲律賓趨向南海，中國大陸、台灣、香港與澳門紛紛採取嚴格措施防範，氣象部門警告其威力或相當於2017年天鴿颱風。",
@@ -26,28 +34,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f742/live/3fc93320-9553-11f0-9cf6-cbf3e73ce2b9.png"
     },
     {
+      "title": "肌酸：這種增強肌肉的補充劑能提升大腦智力嗎",
+      "description": "隨著肌酸越來越受歡迎，研究顯示肌酸也可能有益於短期記憶、情緒和注意力。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5yepwdgg4wo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-23T00:21:54.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5yepwdgg4wo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3caf/live/31745500-9582-11f0-b391-6936825093bd.jpg"
+    },
+    {
       "title": "開放「一孩家庭」請外傭？台灣政府提議為何引發分歧",
       "description": "台灣現行外傭申請門檻極高，不少家庭早已利用灰色地帶聘雇外籍勞工，凸顯市場的巨大需求。參考鄰近的香港與新加坡，外傭制度確實顯著提升女性勞動參與率，讓台灣各界關注有關政策是否能借鏡國際。\nBBC中文採訪多個家庭，了解他們的期待與擔憂，民間團體和學者則從多方面解析外傭政策對台灣的影響。",
       "link": "https://www.bbc.com/zhongwen/articles/c3rvjd3r9wpo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-09-22T10:11:54.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c3rvjd3r9wpo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2ffe/live/84855bb0-979c-11f0-928c-71dbb8619e94.jpg"
-    },
-    {
-      "title": "BBC調查：俄羅斯資助的假新聞網絡如何擾亂歐洲的選舉",
-      "description": "一名臥底記者發現，一個秘密網絡試圖付費發布詆毀摩爾多瓦執政黨的社群媒體貼文。",
-      "link": "https://www.bbc.com/zhongwen/articles/cp9889rk57mo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-22T08:52:12.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cp9889rk57mo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bfdd/live/d65a2150-9562-11f0-b391-6936825093bd.jpg"
-    },
-    {
-      "title": "BBC專訪：韓國總統李在明——將接受特朗普與金正恩達成的凍結核武協議",
-      "description": "李在明告訴BBC，他希望恢復與朝鮮的信任關係。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn4lledv2exo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-22T04:17:07.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn4lledv2exo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6948/live/e69d6730-96ce-11f0-84c8-99de564f0440.jpg"
     },
     {
       "title": "美國H1B簽證費爆增至每年10萬美元  印度中國申請人最多",
@@ -58,6 +58,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fcd6/live/66ddf330-9605-11f0-90f2-5f87cb020b24.jpg"
     },
     {
+      "title": "BBC專訪：韓國總統李在明——將接受特朗普與金正恩達成的凍結核武協議",
+      "description": "李在明告訴BBC，他希望恢復與朝鮮的信任關係。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn4lledv2exo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-22T04:17:07.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn4lledv2exo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6948/live/e69d6730-96ce-11f0-84c8-99de564f0440.jpg"
+    },
+    {
       "title": "英澳加葡承認巴勒斯坦國引發爭議  批評指這是對哈馬斯的獎賞",
       "description": "英國首相施紀賢堅稱，這一決定「不是對哈馬斯的獎賞」，哈馬斯「沒有未來，不能在政府中擔任角色，也不能在安全事務上扮演角色」。",
       "link": "https://www.bbc.com/zhongwen/articles/c5yg4ke0vz4o/trad?at_medium=RSS&at_campaign=rss",
@@ -66,12 +74,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3b9a/live/3fcba430-9700-11f0-90f2-5f87cb020b24.jpg"
     },
     {
-      "title": "減少攝取咖啡因後，你的夢境包括噩夢是否會更加清晰",
-      "description": "目前大多數研究都集中在咖啡因如何影響睡眠，而不是夢境本身的變化。但科學研究發現睡眠品質與做夢之間有密切關聯。",
-      "link": "https://www.bbc.com/zhongwen/articles/c3w55dw467yo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-22T00:20:04.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3w55dw467yo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c1d8/live/f94b0730-9696-11f0-90f2-5f87cb020b24.jpg"
+      "title": "BBC調查：俄羅斯資助的假新聞網絡如何擾亂歐洲的選舉",
+      "description": "一名臥底記者發現，一個秘密網絡試圖付費發布詆毀摩爾多瓦執政黨的社群媒體貼文。",
+      "link": "https://www.bbc.com/zhongwen/articles/cp9889rk57mo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-22T08:52:12.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cp9889rk57mo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bfdd/live/d65a2150-9562-11f0-b391-6936825093bd.jpg"
     },
     {
       "title": "特朗普稱將在韓國APEC會習近平，明年初到訪中國",
@@ -104,14 +112,6 @@
       "pubDate": "2025-09-19T06:59:22.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cvg9060e544o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e5a9/live/a9e12b00-9486-11f0-a3f2-ebe3b9e0c5e6.jpg"
-    },
-    {
-      "title": "尼泊爾Z世代的抗議：我們付出沉重代價，讓政府48小時內倒台",
-      "description": "尼泊爾 Z 世代抗議者在接受BBC採訪時表示，上週那場震撼全國的抗議行動，讓他們既感到自豪，也心碎不已。",
-      "link": "https://www.bbc.com/zhongwen/articles/c7v1rn995gno/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-20T02:06:19.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c7v1rn995gno/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/19eb/live/80e0e7e0-9382-11f0-b391-6936825093bd.jpg"
     },
     {
       "title": "美中TikTok談判現「突破」？惟中國民眾反應冷淡",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/68f5/live/df68ce60-7260-11f0-8dbd-f3d32ebd3327.jpg"
     },
     {
+      "title": "減少攝取咖啡因後，你的夢境包括噩夢是否會更加清晰",
+      "description": "目前大多數研究都集中在咖啡因如何影響睡眠，而不是夢境本身的變化。但科學研究發現睡眠品質與做夢之間有密切關聯。",
+      "link": "https://www.bbc.com/zhongwen/articles/c3w55dw467yo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-22T00:20:04.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3w55dw467yo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c1d8/live/f94b0730-9696-11f0-90f2-5f87cb020b24.jpg"
+    },
+    {
       "title": "我們對蛋白質的關注是否太過分了？",
       "description": "蛋白質成為健康和健身領域的熱門詞彙，在日常飲食中被優先考慮，也受到健身達人的推崇。但專家警告稱，它可能掩蓋了另一種必需營養素——膳食纖維。",
       "link": "https://www.bbc.com/zhongwen/articles/c62qv4p6jygo/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2025-09-17T00:22:34.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c62qv972r32o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fd47/live/e80aa530-92d0-11f0-84c8-99de564f0440.jpg"
-    },
-    {
-      "title": "從「空軍一號」到「野獸」：特朗普如何出訪英國？",
-      "description": "特朗普本週將對英國進行第二次國事訪問，他的隨行人員預計將包括數百名工作人員和支援人員。",
-      "link": "https://www.bbc.com/zhongwen/articles/c04qdlyxx37o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-18T01:54:19.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c04qdlyxx37o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/62f4/live/217cfe60-9328-11f0-b391-6936825093bd.jpg"
     }
   ]
 }
