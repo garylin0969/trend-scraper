@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-23T05:05:54.795Z",
+  "updated": "2025-09-23T05:17:51.910Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "271",
-      "recommendCount": "433",
+      "recommendScore": "289",
+      "recommendCount": "463",
       "title": "[情報] Fred VanVleet十字韌帶撕裂",
       "link": "/bbs/NBA/M.1758571098.A.7A3",
       "author": "dragon803",
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "170",
+      "recommendCount": "294",
+      "title": "[新聞] 印度正押注180億美元來打造晶片強國",
+      "link": "/bbs/Stock/M.1758587245.A.BAC",
+      "author": "TyuzuChou",
+      "board": "Stock",
+      "publishTime": "2025/09/23 00:27",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "204",
       "recommendCount": "343",
       "title": "[新聞] 李政厚表現不振！韓媒狠批「不如預期」恐拖累後輩挑戰美職",
@@ -141,6 +151,16 @@
       "author": "GOD5566GOD",
       "board": "Baseball",
       "publishTime": "2025/09/22 11:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "174",
+      "recommendCount": "418",
+      "title": "[花邊] 小AI:Rasheed Wallace在現今打球會比字母哥還強",
+      "link": "/bbs/NBA/M.1758537221.A.459",
+      "author": "kakala99",
+      "board": "NBA",
+      "publishTime": "2025/09/22 10:33",
       "imageUrl": ""
     },
     {
@@ -164,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "167",
-      "recommendCount": "401",
-      "title": "[花邊] 小AI:Rasheed Wallace在現今打球會比字母哥還強",
-      "link": "/bbs/NBA/M.1758537221.A.459",
-      "author": "kakala99",
-      "board": "NBA",
-      "publishTime": "2025/09/22 10:33",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "192",
       "recommendCount": "484",
       "title": "[新聞] 打靶炸臉眼珠掉...初判非膛炸 成功嶺二兵命危術後送加護病房",
@@ -191,16 +201,6 @@
       "author": "jobli",
       "board": "Gossiping",
       "publishTime": "2025/09/23 00:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "151",
-      "recommendCount": "268",
-      "title": "[新聞] 印度正押注180億美元來打造晶片強國",
-      "link": "/bbs/Stock/M.1758587245.A.BAC",
-      "author": "TyuzuChou",
-      "board": "Stock",
-      "publishTime": "2025/09/23 00:27",
       "imageUrl": ""
     }
   ]
