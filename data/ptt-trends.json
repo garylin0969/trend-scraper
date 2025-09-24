@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-24T14:17:28.378Z",
+  "updated": "2025-09-24T14:29:44.097Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "237",
-      "recommendCount": "492",
-      "title": "[情報] 中國新棒球職業聯賽官宣成立",
-      "link": "/bbs/Baseball/M.1758637681.A.8AB",
-      "author": "WetBro",
-      "board": "Baseball",
-      "publishTime": "2025/09/23 14:28",
-      "imageUrl": "https://cache.pttweb.cc/imgur/uYy8HmZ/s/4230911bc0f3c65e6a6327aea7ba90dd"
-    },
-    {
       "recommendScore": "136",
       "recommendCount": "330",
       "title": "[新聞] 補助扶輪社、獅子會等1.6億 藍轟賴：看不到勞苦民眾",
@@ -201,6 +191,16 @@
       "author": "ctfjuw",
       "board": "Gossiping",
       "publishTime": "2025/09/24 01:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "51",
+      "recommendCount": "231",
+      "title": "[請益] 巴菲特沒跟上台積電這一波是不是虧了？",
+      "link": "/bbs/Stock/M.1758640203.A.B5B",
+      "author": "tu11252007",
+      "board": "Stock",
+      "publishTime": "2025/09/23 15:10",
       "imageUrl": ""
     }
   ]
