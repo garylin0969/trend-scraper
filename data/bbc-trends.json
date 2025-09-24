@@ -1,14 +1,22 @@
 {
-  "updated": "2025-09-23T23:47:06.514Z",
+  "updated": "2025-09-24T00:36:50.294Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-09-23T23:46:56.000Z",
+    "lastBuildDate": "2025-09-24T00:36:30.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "多媒體直播：強颱風樺加沙吹襲華南及港澳台，台灣花蓮兩死三失聯",
+      "description": "香港天文台9月24日凌晨發出十號颶風警報，即俗稱的十號風球。",
+      "link": "https://www.bbc.com/zhongwen/live/cj6x92050n4t/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "",
+      "guid": "https://www.bbc.com/zhongwen/live/cj6x92050n4t/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c7c/live/5ee81750-98d5-11f0-858a-a904eacbef23.jpg"
+    },
     {
       "title": "樺加沙吹襲中國華南地區，香港澳門掛十號風球",
       "description": "超強颱風樺加沙從菲律賓趨向南海，中國大陸、台灣、香港與澳門紛紛採取嚴格措施防範，氣象部門警告其威力或相當於2017年天鴿颱風。",
@@ -26,28 +34,36 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ab3/live/207e33f0-9876-11f0-af33-49fc1d1f447a.jpg"
     },
     {
-      "title": "雙城論壇突延期：兩岸唯一官方交流「卡關」的政治訊號",
-      "description": "雙城論壇是目前兩岸最高層級的官方交流，過去從未中斷。這次在原定開幕日期前三天才突然宣布延期，背後的政治意涵引發各方討論。",
-      "link": "https://www.bbc.com/zhongwen/articles/ckg3kqp49yno/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-23T04:46:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckg3kqp49yno/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/808a/live/d6816850-97e7-11f0-858a-a904eacbef23.jpg"
-    },
-    {
-      "title": "特習通話後美國會代表團訪華「破冰」，如何看待台灣成籌碼說法",
-      "description": "這是六年來衆議院代表圖首次訪問中國，被視為「破冰之旅」。據報雙方談到台灣問題，外界關注台灣會否成為美中談判籌碼。",
-      "link": "https://www.bbc.com/zhongwen/articles/c9wdvn0qyjdo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-23T09:41:57.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c9wdvn0qyjdo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f552/live/337803e0-9859-11f0-b567-dbb771c68d85.jpg"
-    },
-    {
       "title": "1964年後首度一年兩次十號風球　強烈颱風越來越頻密了嗎？",
       "description": "華南地區在密切注視超強颱風樺加沙。氣候變化如何讓極端天氣變得頻繁日益備受關注，颱風是否也是其中之一？",
       "link": "https://www.bbc.com/zhongwen/articles/c4g2388rrljo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-09-23T21:21:51.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c4g2388rrljo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4d8e/live/15349ad0-9875-11f0-928c-71dbb8619e94.jpg"
+    },
+    {
+      "title": "早上或是晚上，何時才是洗澡的好時機？",
+      "description": "無論你屬於哪一派，可能都會好奇：這個選擇對健康有何影響？",
+      "link": "https://www.bbc.com/zhongwen/articles/c0ezx50zzx7o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-24T00:08:12.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c0ezx50zzx7o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dfc9/live/a7890380-9852-11f0-af62-91486a511a31.jpg"
+    },
+    {
+      "title": "人工智能資料中心有何重要意義？",
+      "description": "大量投資投入人工智慧資料中心，但為什麼它們如此昂貴？",
+      "link": "https://www.bbc.com/zhongwen/articles/clyd9vlmknzo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-24T00:13:03.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/clyd9vlmknzo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3527/live/76c28bf0-930b-11f0-a647-dff301f4a439.jpg"
+    },
+    {
+      "title": "雙城論壇突延期：兩岸唯一官方交流「卡關」的政治訊號",
+      "description": "雙城論壇是目前兩岸最高層級的官方交流，過去從未中斷。這次在原定開幕日期前三天才突然宣布延期，背後的政治意涵引發各方討論。",
+      "link": "https://www.bbc.com/zhongwen/articles/ckg3kqp49yno/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-23T04:46:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckg3kqp49yno/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/808a/live/d6816850-97e7-11f0-858a-a904eacbef23.jpg"
     },
     {
       "title": "芯片巨頭輝達的困境：中國反壟斷這張「牌」可能怎麽用",
@@ -64,6 +80,14 @@
       "pubDate": "2025-09-23T06:39:31.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c36k4479gz5o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a262/live/701fa4a0-9846-11f0-9a61-23f546a632b5.jpg"
+    },
+    {
+      "title": "特習通話後美國會代表團訪華「破冰」，如何看待台灣成籌碼說法",
+      "description": "這是六年來衆議院代表圖首次訪問中國，被視為「破冰之旅」。據報雙方談到台灣問題，外界關注台灣會否成為美中談判籌碼。",
+      "link": "https://www.bbc.com/zhongwen/articles/c9wdvn0qyjdo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-23T09:41:57.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c9wdvn0qyjdo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f552/live/337803e0-9859-11f0-b567-dbb771c68d85.jpg"
     },
     {
       "title": "BBC核實影片顯示，巴勒斯坦男子加沙街頭被公開處決",
@@ -88,30 +112,6 @@
       "pubDate": "2025-09-21T08:11:00.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn0xxqy2p19o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fcd6/live/66ddf330-9605-11f0-90f2-5f87cb020b24.jpg"
-    },
-    {
-      "title": "承認巴勒斯坦建國：問題是誰來領導它？",
-      "description": "由於總統已年近90歲，而另一位可能的候選人仍在獄中，找到合適的領導人將是一項挑戰。",
-      "link": "https://www.bbc.com/zhongwen/articles/czx00xw5zvyo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-22T05:38:51.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/czx00xw5zvyo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f742/live/3fc93320-9553-11f0-9cf6-cbf3e73ce2b9.png"
-    },
-    {
-      "title": "BBC專訪：韓國總統李在明——將接受特朗普與金正恩達成的凍結核武協議",
-      "description": "李在明告訴BBC，他希望恢復與朝鮮的信任關係。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn4lledv2exo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-22T04:17:07.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn4lledv2exo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6948/live/e69d6730-96ce-11f0-84c8-99de564f0440.jpg"
-    },
-    {
-      "title": "BBC調查：俄羅斯資助的假新聞網絡如何擾亂歐洲的選舉",
-      "description": "一名臥底記者發現，一個秘密網絡試圖付費發布詆毀摩爾多瓦執政黨的社群媒體貼文。",
-      "link": "https://www.bbc.com/zhongwen/articles/cp9889rk57mo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-22T08:52:12.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cp9889rk57mo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bfdd/live/d65a2150-9562-11f0-b391-6936825093bd.jpg"
     },
     {
       "title": "超強颱風「樺加沙」逼近中國廣東沿岸 香港深圳等地嚴陣以待",
@@ -194,6 +194,22 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f29c/live/0334e570-8843-11f0-b391-6936825093bd.jpg"
     },
     {
+      "title": "BBC調查：俄羅斯資助的假新聞網絡如何擾亂歐洲的選舉",
+      "description": "一名臥底記者發現，一個秘密網絡試圖付費發布詆毀摩爾多瓦執政黨的社群媒體貼文。",
+      "link": "https://www.bbc.com/zhongwen/articles/cp9889rk57mo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-22T08:52:12.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cp9889rk57mo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bfdd/live/d65a2150-9562-11f0-b391-6936825093bd.jpg"
+    },
+    {
+      "title": "承認巴勒斯坦建國：問題是誰來領導它？",
+      "description": "由於總統已年近90歲，而另一位可能的候選人仍在獄中，找到合適的領導人將是一項挑戰。",
+      "link": "https://www.bbc.com/zhongwen/articles/czx00xw5zvyo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-22T05:38:51.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/czx00xw5zvyo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f742/live/3fc93320-9553-11f0-9cf6-cbf3e73ce2b9.png"
+    },
+    {
       "title": "一文看清習近平特朗普三次通話：中美元首電話外交奏效嗎？",
       "description": "第二任期的特朗普將與習近平進行第三次直接通話。BBC中文梳理三次通話，回顧發生的時機和具體成果。",
       "link": "https://www.bbc.com/zhongwen/articles/czewrl5je47o/trad?at_medium=RSS&at_campaign=rss",
@@ -218,28 +234,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc33/live/db77fa10-946b-11f0-bc01-a3a35aa734ac.jpg"
     },
     {
-      "title": "中美元首會面「倒計時」？習近平與特朗普的博弈與期望",
-      "description": "近期的中美防長、外長以及貿易代表密集互動引人關注，10月將有兩場重要多邊會議即東盟峰會及亞太經合組織峰會在亞洲舉行，習近平和特朗普可能的會面再次引來關注。",
-      "link": "https://www.bbc.com/zhongwen/articles/ce842748rr6o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-17T16:58:18.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce842748rr6o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5040/live/785b8080-9210-11f0-85c7-5bdf6c05d36f.jpg"
-    },
-    {
-      "title": "台灣國民黨主席改選，有誰競爭？",
-      "description": "台灣第一大在野黨國民黨主席改選將於10月舉行，共有六名參選人完成領表登記，其中郝龍斌、鄭麗文、羅智強、張亞中被認為是「四足鼎立」。BBC中文逐一分析這些參選者的背景與政治盤勢。",
-      "link": "https://www.bbc.com/zhongwen/articles/cwyle19j5z9o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-20T17:39:10.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwyle19j5z9o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d55/live/8f0276d0-939c-11f0-afac-7fc88e0d02fd.jpg"
-    },
-    {
       "title": "中國進入網貸世代：誰在貸款？誰在放貸？誰能約束？",
       "description": "借錢消費在中國不再是小群體事件，網貸平台逐漸興盛。中國媒體熱衷於報道哪位年輕人債台高築、被逼自殺，但網貸廣告依然鋪天蓋地出現在中國各大社交平台上，宣傳平台借錢「輕鬆」、「無門檻」、「下錢快」。兩位借貸者對BBC中文講述了他們的故事。",
       "link": "https://www.bbc.com/zhongwen/articles/clyjye58eygo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-09-09T03:28:42.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/clyjye58eygo/trad#5",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6f88/live/57925af0-8d1e-11f0-96b1-1dd4e35554aa.jpg"
+    },
+    {
+      "title": "台灣國民黨主席改選，有誰競爭？",
+      "description": "台灣第一大在野黨國民黨主席改選將於10月舉行，共有六名參選人完成領表登記，其中郝龍斌、鄭麗文、羅智強、張亞中被認為是「四足鼎立」。BBC中文逐一分析這些參選者的背景與政治盤勢。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwyle19j5z9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-20T17:39:10.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwyle19j5z9o/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d55/live/8f0276d0-939c-11f0-afac-7fc88e0d02fd.jpg"
     },
     {
       "title": "台灣憲法法庭「實質癱瘓」十個月，誰來保障人民權利？",
@@ -270,7 +278,7 @@
       "description": "隨著肌酸越來越受歡迎，研究顯示肌酸也可能有益於短期記憶、情緒和注意力。",
       "link": "https://www.bbc.com/zhongwen/articles/c5yepwdgg4wo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-09-23T00:21:54.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5yepwdgg4wo/trad#5",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5yepwdgg4wo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3caf/live/31745500-9582-11f0-b391-6936825093bd.jpg"
     },
     {
@@ -304,14 +312,6 @@
       "pubDate": "2025-09-19T09:24:07.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c2knzvjez8zo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/47b9/live/875dff10-9326-11f0-84c8-99de564f0440.jpg"
-    },
-    {
-      "title": "在交談中如何提問，才是建立親密關係的捷徑？",
-      "description": "科學家推測，在任何一次對話中，人們的親密感取決於自我揭露的程度。這一假設得到了試驗的驗證。",
-      "link": "https://www.bbc.com/zhongwen/articles/c62qv972r32o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-17T00:22:34.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c62qv972r32o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fd47/live/e80aa530-92d0-11f0-84c8-99de564f0440.jpg"
     }
   ]
 }
