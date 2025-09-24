@@ -1,10 +1,10 @@
 {
-  "updated": "2025-09-24T08:23:48.363Z",
+  "updated": "2025-09-24T08:50:34.740Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-09-24T08:23:47.000Z",
+    "lastBuildDate": "2025-09-24T08:50:21.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -18,12 +18,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cfa1/live/548cc870-9919-11f0-af62-91486a511a31.jpg"
     },
     {
-      "title": "多媒體直播：強颱風樺加沙吹襲廣東及港澳台，台灣花蓮14人死逾120人失蹤",
+      "title": "多媒體直播：強颱風樺加沙吹襲廣東及港澳台，台灣花蓮15人死多人失蹤",
       "description": "香港天文台9月24日下午已改發八號風球。中國中央氣象台稱「樺加沙」預計於24日傍晚至夜間在廣東陽江至湛江一帶沿海登陸。",
       "link": "https://www.bbc.com/zhongwen/live/cj6x92050n4t/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "",
       "guid": "https://www.bbc.com/zhongwen/live/cj6x92050n4t/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2245/live/0b152ff0-991b-11f0-858a-a904eacbef23.jpg"
+    },
+    {
+      "title": "「中國為何偏愛戰爭？」韓劇台詞激怒中國網友",
+      "description": "韓劇女王新劇《暴風圈》在中國遭抵制，起因是全智賢所扮演角色的一句台詞被指「辱華」。",
+      "link": "https://www.bbc.com/zhongwen/articles/cr4qd6115z5o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-24T08:35:30.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cr4qd6115z5o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/70bb/live/c8e59490-9914-11f0-af62-91486a511a31.jpg"
     },
     {
       "title": "樺加沙吹襲中國華南地區，香港澳門掛十號風球",
@@ -46,16 +54,8 @@
       "description": "北京朝陽公安分局周日發布警情通報，指挑動中國網民討論數日之久的于朦朧跳樓案背後的疑點均為謠言。但民眾對此似乎並不買帳。",
       "link": "https://www.bbc.com/zhongwen/articles/cn82vjdp84jo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-09-23T12:22:24.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn82vjdp84jo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn82vjdp84jo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ab3/live/207e33f0-9876-11f0-af33-49fc1d1f447a.jpg"
-    },
-    {
-      "title": "1964年後首度一年兩次十號風球　強烈颱風越來越頻密了嗎？",
-      "description": "華南地區在密切注視超強颱風樺加沙。氣候變化如何讓極端天氣變得頻繁日益備受關注，颱風是否也是其中之一？",
-      "link": "https://www.bbc.com/zhongwen/articles/c4g2388rrljo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-23T21:21:51.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4g2388rrljo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4d8e/live/15349ad0-9875-11f0-928c-71dbb8619e94.jpg"
     },
     {
       "title": "人工智能資料中心有何重要意義？",
@@ -194,20 +194,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f29c/live/0334e570-8843-11f0-b391-6936825093bd.jpg"
     },
     {
+      "title": "1964年後首度一年兩次十號風球　強烈颱風越來越頻密了嗎？",
+      "description": "華南地區在密切注視超強颱風樺加沙。氣候變化如何讓極端天氣變得頻繁日益備受關注，颱風是否也是其中之一？",
+      "link": "https://www.bbc.com/zhongwen/articles/c4g2388rrljo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-23T21:21:51.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4g2388rrljo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4d8e/live/15349ad0-9875-11f0-928c-71dbb8619e94.jpg"
+    },
+    {
       "title": "BBC調查：俄羅斯資助的假新聞網絡如何擾亂歐洲的選舉",
       "description": "一名臥底記者發現，一個秘密網絡試圖付費發布詆毀摩爾多瓦執政黨的社群媒體貼文。",
       "link": "https://www.bbc.com/zhongwen/articles/cp9889rk57mo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-09-22T08:52:12.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cp9889rk57mo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bfdd/live/d65a2150-9562-11f0-b391-6936825093bd.jpg"
-    },
-    {
-      "title": "承認巴勒斯坦建國：問題是誰來領導它？",
-      "description": "由於總統已年近90歲，而另一位可能的候選人仍在獄中，找到合適的領導人將是一項挑戰。",
-      "link": "https://www.bbc.com/zhongwen/articles/czx00xw5zvyo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-22T05:38:51.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/czx00xw5zvyo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f742/live/3fc93320-9553-11f0-9cf6-cbf3e73ce2b9.png"
     },
     {
       "title": "一文看清習近平特朗普三次通話：中美元首電話外交奏效嗎？",
