@@ -1,8 +1,18 @@
 {
-  "updated": "2025-09-25T09:18:09.118Z",
+  "updated": "2025-09-25T09:30:07.090Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "708",
+      "recommendCount": "896",
+      "title": "[問卦] 中一千萬！分享好運",
+      "link": "/bbs/Gossiping/M.1758781448.A.D7E",
+      "author": "dragonmester",
+      "board": "Gossiping",
+      "publishTime": "2025/09/25 06:24",
+      "imageUrl": "https://cache.pttweb.cc/imgur/KlSEaW8/s/54a227c76db7eec1c8ea0bb759f3a689"
+    },
     {
       "recommendScore": "846",
       "recommendCount": "1034",
@@ -34,18 +44,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/IpPomRt/s/21d1fd32e4e731419b2cd1875292dda1"
     },
     {
-      "recommendScore": "595",
-      "recommendCount": "764",
-      "title": "[問卦] 中一千萬！分享好運",
-      "link": "/bbs/Gossiping/M.1758781448.A.D7E",
-      "author": "dragonmester",
-      "board": "Gossiping",
-      "publishTime": "2025/09/25 06:24",
-      "imageUrl": "https://cache.pttweb.cc/imgur/KlSEaW8/s/54a227c76db7eec1c8ea0bb759f3a689"
-    },
-    {
-      "recommendScore": "572",
-      "recommendCount": "613",
+      "recommendScore": "623",
+      "recommendCount": "672",
       "title": "[情報] 114年7-8月 統一發票中獎號碼",
       "link": "/bbs/Lifeismoney/M.1758778816.A.18F",
       "author": "jack801016",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "238",
-      "recommendCount": "388",
+      "recommendScore": "237",
+      "recommendCount": "389",
       "title": "[新聞] 一起幫幫花蓮！　五月天慨捐500萬賑災...劉若英加碼100萬送暖",
       "link": "/bbs/Gossiping/M.1758731475.A.A0A",
       "author": "william8403",
@@ -124,14 +124,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "192",
-      "recommendCount": "376",
+      "recommendScore": "196",
+      "recommendCount": "385",
       "title": "[新聞] 南韓生育率有救了？新生兒數「連續13個月增長」 3大原因帶動回升",
       "link": "/bbs/Gossiping/M.1758769621.A.2DF",
       "author": "crocus",
       "board": "Gossiping",
       "publishTime": "2025/09/25 03:07",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "222",
+      "recommendCount": "513",
+      "title": "Re: [問卦] 堰塞湖風向也太亂了吧",
+      "link": "/bbs/Gossiping/M.1758758318.A.759",
+      "author": "starfishfish",
+      "board": "Gossiping",
+      "publishTime": "2025/09/24 23:58",
+      "imageUrl": "https://cache.pttweb.cc/imgur/rwNJDTV/s/9b275ea9bf68371c7ffdb65f59c050c7"
     },
     {
       "recommendScore": "160",
@@ -174,18 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "224",
-      "recommendCount": "359",
-      "title": "[閒聊] 爆料者稱網飛積極推進「鬼滅之刃」真人版拍攝",
-      "link": "/bbs/C_Chat/M.1758761175.A.EAD",
-      "author": "yamatobar",
-      "board": "C_Chat",
-      "publishTime": "2025/09/25 00:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "173",
-      "recommendCount": "346",
+      "recommendScore": "181",
+      "recommendCount": "364",
       "title": "[問卦] 哇靠！詐騙集團怎麼會有我的罰單資料？",
       "link": "/bbs/Gossiping/M.1758777624.A.F36",
       "author": "black1x2y3z",
@@ -194,13 +194,13 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/gulLbdS/s/d86f8348cc61574f6745adb99c35198e"
     },
     {
-      "recommendScore": "157",
-      "recommendCount": "356",
-      "title": "[新聞] 遭外流綠委群組對話怒退群 王定宇出聲了：真相只有對造謠者有殺傷力",
-      "link": "/bbs/Gossiping/M.1758725040.A.86D",
-      "author": "Calcifer",
-      "board": "Gossiping",
-      "publishTime": "2025/09/24 14:44",
+      "recommendScore": "224",
+      "recommendCount": "359",
+      "title": "[閒聊] 爆料者稱網飛積極推進「鬼滅之刃」真人版拍攝",
+      "link": "/bbs/C_Chat/M.1758761175.A.EAD",
+      "author": "yamatobar",
+      "board": "C_Chat",
+      "publishTime": "2025/09/25 00:46",
       "imageUrl": ""
     }
   ]
