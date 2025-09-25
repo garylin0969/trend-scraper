@@ -1,7 +1,7 @@
 {
-  "updated": "2025-09-25T18:56:03.778Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-09-25T19:05:29.296Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "1004",
@@ -192,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/09/25 09:51",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "219",
+      "recommendCount": "437",
+      "title": "[問卦] 哇靠！詐騙集團怎麼會有我的罰單資料？",
+      "link": "/bbs/Gossiping/M.1758777624.A.F36",
+      "author": "black1x2y3z",
+      "board": "Gossiping",
+      "publishTime": "2025/09/25 05:20",
+      "imageUrl": "https://cache.pttweb.cc/imgur/gulLbdS/s/d86f8348cc61574f6745adb99c35198e"
     }
   ]
 }
