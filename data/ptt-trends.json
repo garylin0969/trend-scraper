@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-25T04:09:59.559Z",
+  "updated": "2025-09-25T04:22:41.931Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,16 +44,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/IpPomRt/s/21d1fd32e4e731419b2cd1875292dda1"
     },
     {
-      "recommendScore": "305",
-      "recommendCount": "439",
-      "title": "[分享] 今日大谷翔平~問天",
-      "link": "/bbs/Baseball/M.1758687641.A.876",
-      "author": "jerryyuan",
-      "board": "Baseball",
-      "publishTime": "2025/09/24 04:20",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "299",
       "recommendCount": "445",
       "title": "Re: [新聞] 獨家／花蓮堰塞湖溢流17死　中央地方相互指責　檢方分案調查有無人為過失",
@@ -62,6 +52,16 @@
       "board": "Gossiping",
       "publishTime": "2025/09/24 14:13",
       "imageUrl": "https://cache.pttweb.cc/imgur/iTJsuJh/s/fc05b5040bd8b1c2c91083e8e40041ee"
+    },
+    {
+      "recommendScore": "278",
+      "recommendCount": "327",
+      "title": "[炸裂] Cal Raleigh NO.60 雙響、首位捕手60轟",
+      "link": "/bbs/Baseball/M.1758772362.A.5C6",
+      "author": "carlchang092",
+      "board": "Baseball",
+      "publishTime": "2025/09/25 03:52",
+      "imageUrl": ""
     },
     {
       "recommendScore": "160",
@@ -101,26 +101,6 @@
       "author": "br06",
       "board": "Gossiping",
       "publishTime": "2025/09/24 11:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "182",
-      "recommendCount": "333",
-      "title": "[情報] Tanner Scott BS",
-      "link": "/bbs/Baseball/M.1758687543.A.DAF",
-      "author": "alpacaHong",
-      "board": "Baseball",
-      "publishTime": "2025/09/24 04:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "157",
-      "recommendCount": "397",
-      "title": "[問卦] D卡女性：為什麼台灣男生越來越被動？",
-      "link": "/bbs/Gossiping/M.1758687567.A.BCC",
-      "author": "eunhailoveu",
-      "board": "Gossiping",
-      "publishTime": "2025/09/24 04:19",
       "imageUrl": ""
     },
     {
@@ -201,6 +181,26 @@
       "author": "mars1985",
       "board": "Gossiping",
       "publishTime": "2025/09/24 11:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "145",
+      "recommendCount": "281",
+      "title": "[討論] 王八千退群了",
+      "link": "/bbs/HatePolitics/M.1758714007.A.40B",
+      "author": "jojoway",
+      "board": "HatePolitics",
+      "publishTime": "2025/09/24 11:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "89",
+      "recommendCount": "271",
+      "title": "[討論] 外流群組對話是一個好做法嗎？",
+      "link": "/bbs/Baseball/M.1758712752.A.D76",
+      "author": "xz4979265",
+      "board": "Baseball",
+      "publishTime": "2025/09/24 11:19",
       "imageUrl": ""
     }
   ]
