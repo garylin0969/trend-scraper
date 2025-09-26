@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-26T11:43:50.284Z",
+  "updated": "2025-09-26T11:53:40.882Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -62,16 +62,6 @@
       "board": "Baseball",
       "publishTime": "2025/09/25 14:30",
       "imageUrl": "https://cache.pttweb.cc/imgur/brfRgp2/s/3a9d196fffee05b967154489e20893d9"
-    },
-    {
-      "recommendScore": "91",
-      "recommendCount": "553",
-      "title": "[爆卦] 四叉貓在自己臉書公布黃國昌兒子國高中",
-      "link": "/bbs/Gossiping/M.1758800794.A.1A1",
-      "author": "fixer",
-      "board": "Gossiping",
-      "publishTime": "2025/09/25 11:46",
-      "imageUrl": ""
     },
     {
       "recommendScore": "160",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/09/26 08:06",
       "imageUrl": "https://cache.pttweb.cc/imgur/P6ACtvf/s/363b7e6d54cca2dae609cd67d722bad5"
+    },
+    {
+      "recommendScore": "-133",
+      "recommendCount": "359",
+      "title": "[新聞] 「花蓮人是我們的一份子」！王定宇：不論喜歡花蓮政治與否都應伸出援手",
+      "link": "/bbs/Gossiping/M.1758874538.A.EC4",
+      "author": "MightySultan",
+      "board": "Gossiping",
+      "publishTime": "2025/09/26 08:15",
+      "imageUrl": "https://cache.pttweb.cc/imgur/QMiFZPX/s/3a8a3d7f7958e9593d870e91d29a17a4"
     }
   ]
 }
