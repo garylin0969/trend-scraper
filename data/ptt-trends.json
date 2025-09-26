@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-26T10:40:37.825Z",
+  "updated": "2025-09-26T10:47:41.450Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "160",
-      "recommendCount": "1199",
+      "recommendCount": "1203",
       "title": "[新聞] 獨家關鍵對話曝光／黃國昌親自指揮狗仔集團跟監　偷拍綠營政治人物",
       "link": "/bbs/HatePolitics/M.1758847672.A.1E7",
       "author": "wetteland",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-132",
+      "recommendCount": "410",
+      "title": "[新聞] 慟！長輩們都倒在一樓！王定宇痛批：撤離計畫早備妥，地方怠忽造成悲劇",
+      "link": "/bbs/Gossiping/M.1758829309.A.198",
+      "author": "iam168888888",
+      "board": "Gossiping",
+      "publishTime": "2025/09/25 19:41",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "154",
       "recommendCount": "485",
       "title": "[問卦] 堰塞湖剩15%，這叫溢流嗎？？？",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/25 23:14",
       "imageUrl": "https://cache.pttweb.cc/imgur/wcWV1PB/s/f8d904c22b39659bbc0144fca249b57c"
-    },
-    {
-      "recommendScore": "-127",
-      "recommendCount": "402",
-      "title": "[新聞] 慟！長輩們都倒在一樓！王定宇痛批：撤離計畫早備妥，地方怠忽造成悲劇",
-      "link": "/bbs/Gossiping/M.1758829309.A.198",
-      "author": "iam168888888",
-      "board": "Gossiping",
-      "publishTime": "2025/09/25 19:41",
-      "imageUrl": ""
     }
   ]
 }
