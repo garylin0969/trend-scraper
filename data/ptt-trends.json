@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-26T17:05:27.336Z",
+  "updated": "2025-09-26T17:17:47.979Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "240",
-      "recommendCount": "684",
+      "recommendScore": "252",
+      "recommendCount": "747",
       "title": "[問卦] 王瑞德抓到群組抓耙仔了 無恥爛咖",
       "link": "/bbs/Gossiping/M.1758865924.A.773",
       "author": "eatk",
@@ -34,8 +34,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/zoVe9rS/s/fdab8a337dc5f4110e81f441a5b1e8c4"
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "540",
+      "recommendScore": "167",
+      "recommendCount": "552",
       "title": "[新聞] 志工崩潰了！ 大量物資湧光復鄉 怒喊：這不是垃圾場",
       "link": "/bbs/Gossiping/M.1758858520.A.8AB",
       "author": "jin168chen",
@@ -44,13 +44,53 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "264",
-      "recommendCount": "442",
+      "recommendScore": "299",
+      "recommendCount": "428",
+      "title": "[新聞] 「台灣就像我的故鄉」李多慧捐30萬：祈",
+      "link": "/bbs/Gossiping/M.1758874329.A.27E",
+      "author": "THEHELY",
+      "board": "Gossiping",
+      "publishTime": "2025/09/26 08:12",
+      "imageUrl": "https://cache.pttweb.cc/imgur/wRek8b9/s/b515ed400aaad86a302bdafa9b4c3dae"
+    },
+    {
+      "recommendScore": "267",
+      "recommendCount": "447",
       "title": "[新聞] 不尋常！　五角大廈緊急召集「數百名高階將領」返美開會",
       "link": "/bbs/Gossiping/M.1758849580.A.F6F",
       "author": "STAV72",
       "board": "Gossiping",
       "publishTime": "2025/09/26 01:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "193",
+      "recommendCount": "496",
+      "title": "[新聞] 小六生只吃清蒸水煮！胖到80公斤、患脂肪肝　醫揪「1類食物」是元凶",
+      "link": "/bbs/Gossiping/M.1758872020.A.187",
+      "author": "monniea",
+      "board": "Gossiping",
+      "publishTime": "2025/09/26 07:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "159",
+      "recommendCount": "438",
+      "title": "[問卦] 台美快建交了？",
+      "link": "/bbs/Gossiping/M.1758844299.A.BA4",
+      "author": "lonzoball02",
+      "board": "Gossiping",
+      "publishTime": "2025/09/25 23:51",
+      "imageUrl": "https://cache.pttweb.cc/imgur/FluXscW/s/2347587abdc0a5994750fec9b46f5c90"
+    },
+    {
+      "recommendScore": "206",
+      "recommendCount": "459",
+      "title": "[新聞] 柯文哲發言時「手機又響了」 應曉薇批被檢察官認定是賊",
+      "link": "/bbs/Gossiping/M.1758843790.A.F91",
+      "author": "james7923",
+      "board": "Gossiping",
+      "publishTime": "2025/09/25 23:43",
       "imageUrl": ""
     },
     {
@@ -74,16 +114,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/xJ8Wqwn/s/ea0346b131cd7a19c84a6c74c358766c"
     },
     {
-      "recommendScore": "160",
-      "recommendCount": "433",
-      "title": "[問卦] 台美快建交了？",
-      "link": "/bbs/Gossiping/M.1758844299.A.BA4",
-      "author": "lonzoball02",
-      "board": "Gossiping",
-      "publishTime": "2025/09/25 23:51",
-      "imageUrl": "https://cache.pttweb.cc/imgur/FluXscW/s/2347587abdc0a5994750fec9b46f5c90"
-    },
-    {
       "recommendScore": "254",
       "recommendCount": "376",
       "title": "[問卦] 李多慧捐款30萬台幣給花蓮",
@@ -92,16 +122,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/26 08:06",
       "imageUrl": "https://cache.pttweb.cc/imgur/P6ACtvf/s/363b7e6d54cca2dae609cd67d722bad5"
-    },
-    {
-      "recommendScore": "198",
-      "recommendCount": "445",
-      "title": "[新聞] 柯文哲發言時「手機又響了」 應曉薇批被檢察官認定是賊",
-      "link": "/bbs/Gossiping/M.1758843790.A.F91",
-      "author": "james7923",
-      "board": "Gossiping",
-      "publishTime": "2025/09/25 23:43",
-      "imageUrl": ""
     },
     {
       "recommendScore": "-136",
@@ -121,16 +141,6 @@
       "author": "lunli924",
       "board": "Gossiping",
       "publishTime": "2025/09/26 03:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "165",
-      "recommendCount": "422",
-      "title": "[新聞] 小六生只吃清蒸水煮！胖到80公斤、患脂肪肝　醫揪「1類食物」是元凶",
-      "link": "/bbs/Gossiping/M.1758872020.A.187",
-      "author": "monniea",
-      "board": "Gossiping",
-      "publishTime": "2025/09/26 07:33",
       "imageUrl": ""
     },
     {
@@ -154,16 +164,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/0sDNQub/s/001a1fd6f1712dcaf0b8e32a9760a1f2"
     },
     {
-      "recommendScore": "243",
-      "recommendCount": "349",
-      "title": "[新聞] 「台灣就像我的故鄉」李多慧捐30萬：祈",
-      "link": "/bbs/Gossiping/M.1758874329.A.27E",
-      "author": "THEHELY",
-      "board": "Gossiping",
-      "publishTime": "2025/09/26 08:12",
-      "imageUrl": "https://cache.pttweb.cc/imgur/wRek8b9/s/b515ed400aaad86a302bdafa9b4c3dae"
-    },
-    {
       "recommendScore": "272",
       "recommendCount": "294",
       "title": "[分享] 李宗賢 FB",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "207",
+      "recommendCount": "349",
+      "title": "[新聞] 郭董出手了！永齡基金會捐1千萬賑災花蓮支援第一線救災",
+      "link": "/bbs/Gossiping/M.1758848810.A.DF1",
+      "author": "pm2001",
+      "board": "Gossiping",
+      "publishTime": "2025/09/26 01:06",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "155",
       "recommendCount": "475",
       "title": "[花邊] LBJ想避免MJ的默默退休 尋求Kobe巡迴賽",
@@ -191,16 +201,6 @@
       "author": "shaaan",
       "board": "NBA",
       "publishTime": "2025/09/26 05:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "202",
-      "recommendCount": "342",
-      "title": "[新聞] 郭董出手了！永齡基金會捐1千萬賑災花蓮支援第一線救災",
-      "link": "/bbs/Gossiping/M.1758848810.A.DF1",
-      "author": "pm2001",
-      "board": "Gossiping",
-      "publishTime": "2025/09/26 01:06",
       "imageUrl": ""
     }
   ]
