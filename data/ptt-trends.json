@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-26T08:07:50.210Z",
+  "updated": "2025-09-26T08:20:24.945Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "511",
-      "recommendCount": "1211",
+      "recommendCount": "1227",
       "title": "[新聞] 花蓮災民訴苦清淤人力不足！賴清德驚回「好像每一家的老公身體都不好」",
       "link": "/bbs/Gossiping/M.1758814644.A.A27",
       "author": "sera520",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "384",
-      "recommendCount": "914",
+      "recommendScore": "387",
+      "recommendCount": "917",
       "title": "[新聞] 視察受災戶 賴清德竟問小男孩：你的臉怎麼黑麻麻？",
       "link": "/bbs/Gossiping/M.1758799825.A.64B",
       "author": "usnavyseal",
@@ -34,13 +34,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "359",
-      "recommendCount": "792",
-      "title": "[新聞] 花蓮災情情況特殊賴清德授權:國軍能進入",
-      "link": "/bbs/Gossiping/M.1758787625.A.615",
-      "author": "CNS3056",
-      "board": "Gossiping",
-      "publishTime": "2025/09/25 08:07",
+      "recommendScore": "155",
+      "recommendCount": "1186",
+      "title": "[新聞] 獨家關鍵對話曝光／黃國昌親自指揮狗仔集團跟監　偷拍綠營政治人物",
+      "link": "/bbs/HatePolitics/M.1758847672.A.1E7",
+      "author": "wetteland",
+      "board": "HatePolitics",
+      "publishTime": "2025/09/26 00:47",
       "imageUrl": ""
     },
     {
@@ -54,16 +54,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "170",
-      "recommendCount": "1094",
-      "title": "[新聞] 獨家關鍵對話曝光／黃國昌親自指揮狗仔集團跟監　偷拍綠營政治人物",
-      "link": "/bbs/HatePolitics/M.1758847672.A.1E7",
-      "author": "wetteland",
-      "board": "HatePolitics",
-      "publishTime": "2025/09/26 00:47",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "146",
       "recommendCount": "676",
       "title": "[新聞] 群組截圖炸鍋 民進黨團：遺憾對話外流 萬事莫如救災急",
@@ -74,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "356",
-      "recommendCount": "615",
+      "recommendScore": "362",
+      "recommendCount": "624",
       "title": "[新聞] 沈慶京當庭怒吼「我不能怕被整就咬柯文哲」　黃國昌曝檢察官反應：默認了",
       "link": "/bbs/Gossiping/M.1758812163.A.126",
       "author": "emuless",
@@ -94,14 +84,24 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/brfRgp2/s/3a9d196fffee05b967154489e20893d9"
     },
     {
-      "recommendScore": "93",
-      "recommendCount": "544",
+      "recommendScore": "92",
+      "recommendCount": "550",
       "title": "[爆卦] 四叉貓在自己臉書公布黃國昌兒子國高中",
       "link": "/bbs/Gossiping/M.1758800794.A.1A1",
       "author": "fixer",
       "board": "Gossiping",
       "publishTime": "2025/09/25 11:46",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "268",
+      "recommendCount": "386",
+      "title": "[爆卦] 館長脆：捐款100萬物資200萬合計300萬",
+      "link": "/bbs/Gossiping/M.1758803621.A.334",
+      "author": "nhk123871192",
+      "board": "Gossiping",
+      "publishTime": "2025/09/25 12:33",
+      "imageUrl": "https://cache.pttweb.cc/imgur/pA7r0ve/s/c4f7361549afff41678df693b82b52f5"
     },
     {
       "recommendScore": "102",
@@ -112,16 +112,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/25 09:51",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "263",
-      "recommendCount": "380",
-      "title": "[爆卦] 館長脆：捐款100萬物資200萬合計300萬",
-      "link": "/bbs/Gossiping/M.1758803621.A.334",
-      "author": "nhk123871192",
-      "board": "Gossiping",
-      "publishTime": "2025/09/25 12:33",
-      "imageUrl": "https://cache.pttweb.cc/imgur/pA7r0ve/s/c4f7361549afff41678df693b82b52f5"
     },
     {
       "recommendScore": "255",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/09/26 02:43",
       "imageUrl": "https://cache.pttweb.cc/imgur/xJ8Wqwn/s/ea0346b131cd7a19c84a6c74c358766c"
+    },
+    {
+      "recommendScore": "-117",
+      "recommendCount": "383",
+      "title": "[新聞] 慟！長輩們都倒在一樓！王定宇痛批：撤離計畫早備妥，地方怠忽造成悲劇",
+      "link": "/bbs/Gossiping/M.1758829309.A.198",
+      "author": "iam168888888",
+      "board": "Gossiping",
+      "publishTime": "2025/09/25 19:41",
+      "imageUrl": ""
     }
   ]
 }
