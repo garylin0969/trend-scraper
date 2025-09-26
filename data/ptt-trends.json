@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-26T22:17:16.470Z",
+  "updated": "2025-09-26T22:28:18.682Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,6 +124,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/FluXscW/s/2347587abdc0a5994750fec9b46f5c90"
     },
     {
+      "recommendScore": "180",
+      "recommendCount": "602",
+      "title": "[花邊] LBJ想避免MJ的默默退休 尋求Kobe巡迴賽",
+      "link": "/bbs/NBA/M.1758863764.A.3FB",
+      "author": "shaaan",
+      "board": "NBA",
+      "publishTime": "2025/09/26 05:16",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "207",
       "recommendCount": "914",
       "title": "Re: [新聞] 花蓮14死誰的鍋？卓榮泰控撤離不利 前線人員鳴不平:都聽你們安排，我們哪裡有錯?",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/26 01:06",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "208",
-      "recommendCount": "312",
-      "title": "[爆卦] 韓國瑜院長完成236萬元捐款",
-      "link": "/bbs/Gossiping/M.1758893335.A.2FF",
-      "author": "kuso2005",
-      "board": "Gossiping",
-      "publishTime": "2025/09/26 13:28",
-      "imageUrl": "https://cache.pttweb.cc/imgur/RVvOcCU/s/83b9485b8a370cc88ea4b8a891a8a91d"
     }
   ]
 }
