@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-27T14:35:16.793Z",
+  "updated": "2025-09-27T14:43:18.090Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "324",
-      "recommendCount": "514",
+      "recommendScore": "269",
+      "recommendCount": "856",
+      "title": "[新聞] 檢調要查光復鄉撤離通知 花蓮縣府：消防2人一組沿路廣播都有錄影",
+      "link": "/bbs/Gossiping/M.1758963026.A.0D6",
+      "author": "cunankimo",
+      "board": "Gossiping",
+      "publishTime": "2025/09/27 08:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "332",
+      "recommendCount": "526",
       "title": "[新聞] 收到緊急通知！竹北吊車大王「再調怪手、水車」　6點出發前進花蓮",
       "link": "/bbs/Gossiping/M.1758938437.A.DDD",
       "author": "lovea",
@@ -44,16 +54,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "217",
-      "recommendCount": "602",
-      "title": "[新聞] 檢調要查光復鄉撤離通知 花蓮縣府：消防2人一組沿路廣播都有錄影",
-      "link": "/bbs/Gossiping/M.1758963026.A.0D6",
-      "author": "cunankimo",
-      "board": "Gossiping",
-      "publishTime": "2025/09/27 08:50",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "45",
       "recommendCount": "1324",
       "title": "[討論] 花蓮縣政府8月到9月到底做了什麼?",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "145",
-      "recommendCount": "450",
+      "recommendCount": "453",
       "title": "[新聞] 賴清德最新民調曝光跌破眼鏡 吳子嘉驚爆4原因",
       "link": "/bbs/Gossiping/M.1758927311.A.C78",
       "author": "semih",
@@ -74,14 +74,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "260",
-      "recommendCount": "499",
+      "recommendScore": "269",
+      "recommendCount": "527",
       "title": "[問卦] 天啊，災區這間要怎麼清？急！",
       "link": "/bbs/Gossiping/M.1758949738.A.036",
       "author": "xxxcv",
       "board": "Gossiping",
       "publishTime": "2025/09/27 05:08",
       "imageUrl": "https://cache.pttweb.cc/imgur/hzaBQE6/s/18c423e0b5a8b85c6b71b2ae0ae3c2fc"
+    },
+    {
+      "recommendScore": "167",
+      "recommendCount": "444",
+      "title": "[問卦] 為什麼台南風災看不到這種志工盛況啊？",
+      "link": "/bbs/Gossiping/M.1758941258.A.EB8",
+      "author": "snakei14702",
+      "board": "Gossiping",
+      "publishTime": "2025/09/27 02:47",
+      "imageUrl": ""
     },
     {
       "recommendScore": "161",
@@ -91,16 +101,6 @@
       "author": "peter2940",
       "board": "Gossiping",
       "publishTime": "2025/09/27 01:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "164",
-      "recommendCount": "439",
-      "title": "[問卦] 為什麼台南風災看不到這種志工盛況啊？",
-      "link": "/bbs/Gossiping/M.1758941258.A.EB8",
-      "author": "snakei14702",
-      "board": "Gossiping",
-      "publishTime": "2025/09/27 02:47",
       "imageUrl": ""
     },
     {
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "201",
+      "recommendCount": "413",
+      "title": "[問卦] 李多慧捐30萬，為何脆底下還有人酸？",
+      "link": "/bbs/Gossiping/M.1758941333.A.7F9",
+      "author": "juyhnmki",
+      "board": "Gossiping",
+      "publishTime": "2025/09/27 02:48",
+      "imageUrl": "https://cache.pttweb.cc/imgur/aKJ1F2g/s/b84acb0350852209ce3a563998d3705b"
+    },
+    {
       "recommendScore": "764",
       "recommendCount": "1502",
       "title": "[情報] 今日先發",
@@ -122,16 +132,6 @@
       "board": "Elephants",
       "publishTime": "2025/09/27 08:16",
       "imageUrl": "https://cache.pttweb.cc/imgur/KE2nEwW/s/c6fbba4f61ca9afe939865eb1c4fde84"
-    },
-    {
-      "recommendScore": "197",
-      "recommendCount": "405",
-      "title": "[問卦] 李多慧捐30萬，為何脆底下還有人酸？",
-      "link": "/bbs/Gossiping/M.1758941333.A.7F9",
-      "author": "juyhnmki",
-      "board": "Gossiping",
-      "publishTime": "2025/09/27 02:48",
-      "imageUrl": "https://cache.pttweb.cc/imgur/aKJ1F2g/s/b84acb0350852209ce3a563998d3705b"
     },
     {
       "recommendScore": "145",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "135",
-      "recommendCount": "332",
+      "recommendScore": "139",
+      "recommendCount": "339",
       "title": "[新聞] 釋昭慧擬提告　國民黨：普發1萬元政策可受公評",
       "link": "/bbs/Gossiping/M.1758926822.A.CB3",
       "author": "junzi",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "136",
-      "recommendCount": "402",
+      "recommendScore": "137",
+      "recommendCount": "406",
       "title": "[問卦] 為何台南災情沒人幫？花蓮災情一堆人幫？",
       "link": "/bbs/Gossiping/M.1758936293.A.4F8",
       "author": "fadacai99",
