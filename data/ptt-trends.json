@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-27T05:36:26.000Z",
+  "updated": "2025-09-27T05:43:46.463Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "291",
+      "recommendCount": "582",
+      "title": "[新聞] NBA》詹皇想與湖人簽1+1短約遭拒　聯盟高層：根本沒談判等於把詹皇逼入死角",
+      "link": "/bbs/NBA/M.1758877688.A.93C",
+      "author": "access4096",
+      "board": "NBA",
+      "publishTime": "2025/09/26 09:08",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-176",
       "recommendCount": "436",
       "title": "[新聞] 「花蓮人是我們的一份子」！王定宇：不論喜歡花蓮政治與否都應伸出援手",
@@ -102,16 +112,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/26 08:15",
       "imageUrl": "https://cache.pttweb.cc/imgur/QMiFZPX/s/3a8a3d7f7958e9593d870e91d29a17a4"
-    },
-    {
-      "recommendScore": "287",
-      "recommendCount": "566",
-      "title": "[新聞] NBA》詹皇想與湖人簽1+1短約遭拒　聯盟高層：根本沒談判等於把詹皇逼入死角",
-      "link": "/bbs/NBA/M.1758877688.A.93C",
-      "author": "access4096",
-      "board": "NBA",
-      "publishTime": "2025/09/26 09:08",
-      "imageUrl": ""
     },
     {
       "recommendScore": "266",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "204",
-      "recommendCount": "485",
+      "recommendScore": "203",
+      "recommendCount": "486",
       "title": "[閒聊] 哥布林殺手 最新補丁：劍之聖女是處女!?",
       "link": "/bbs/C_Chat/M.1758892861.A.2C1",
       "author": "outsmart33",
