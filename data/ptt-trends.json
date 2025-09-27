@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-27T14:05:17.297Z",
+  "updated": "2025-09-27T14:17:05.807Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "764",
+      "recommendCount": "1502",
+      "title": "[情報] 今日先發",
+      "link": "/bbs/Elephants/M.1758960998.A.97F",
+      "author": "nanashin",
+      "board": "Elephants",
+      "publishTime": "2025/09/27 08:16",
+      "imageUrl": "https://cache.pttweb.cc/imgur/KE2nEwW/s/c6fbba4f61ca9afe939865eb1c4fde84"
+    },
+    {
       "recommendScore": "203",
       "recommendCount": "422",
       "title": "[問卦] 花蓮何為比台南迅速救災及各地捐款呢？",
@@ -122,16 +132,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/27 01:56",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "763",
-      "recommendCount": "1502",
-      "title": "[情報] 今日先發",
-      "link": "/bbs/Elephants/M.1758960998.A.97F",
-      "author": "nanashin",
-      "board": "Elephants",
-      "publishTime": "2025/09/27 08:16",
-      "imageUrl": "https://cache.pttweb.cc/imgur/KE2nEwW/s/c6fbba4f61ca9afe939865eb1c4fde84"
     },
     {
       "recommendScore": "197",
@@ -151,6 +151,16 @@
       "author": "xup654z",
       "board": "Gossiping",
       "publishTime": "2025/09/26 15:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "541",
+      "recommendCount": "1118",
+      "title": "[轉播] 九局上 兄弟2：1桃猿",
+      "link": "/bbs/Elephants/M.1758972953.A.AD9",
+      "author": "hsuaninteen",
+      "board": "Elephants",
+      "publishTime": "2025/09/27 11:35",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "jim0619",
       "board": "Elephants",
       "publishTime": "2025/09/27 00:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "176",
-      "recommendCount": "327",
-      "title": "[花邊] LBJ今夏未參與湖人隊運作",
-      "link": "/bbs/NBA/M.1758935138.A.300",
-      "author": "shaaan",
-      "board": "NBA",
-      "publishTime": "2025/09/27 01:05",
       "imageUrl": ""
     }
   ]
