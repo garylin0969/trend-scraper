@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-27T11:24:24.759Z",
+  "updated": "2025-09-27T11:34:04.241Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "763",
+      "recommendCount": "1502",
+      "title": "[情報] 今日先發",
+      "link": "/bbs/Elephants/M.1758960998.A.97F",
+      "author": "nanashin",
+      "board": "Elephants",
+      "publishTime": "2025/09/27 08:16",
+      "imageUrl": "https://cache.pttweb.cc/imgur/KE2nEwW/s/c6fbba4f61ca9afe939865eb1c4fde84"
+    },
+    {
       "recommendScore": "197",
       "recommendCount": "405",
       "title": "[問卦] 李多慧捐30萬，為何脆底下還有人酸？",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/26 22:47",
       "imageUrl": "https://cache.pttweb.cc/imgur/figwMM3/s/daca271b1d0e1b7ef53f5a4cf2d7bf1b"
-    },
-    {
-      "recommendScore": "758",
-      "recommendCount": "1460",
-      "title": "[電競] 2025 LCK Playoffs Lower Finals",
-      "link": "/bbs/LoL/M.1758944889.A.DBF",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2025/09/27 03:48",
-      "imageUrl": ""
     }
   ]
 }
