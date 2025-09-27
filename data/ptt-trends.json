@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-27T13:43:13.044Z",
+  "updated": "2025-09-27T13:53:36.401Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -31,6 +31,16 @@
       "author": "lovea",
       "board": "Gossiping",
       "publishTime": "2025/09/27 02:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "524",
+      "recommendCount": "1480",
+      "title": "[轉播] 九局下 兄弟7：1桃猿",
+      "link": "/bbs/Elephants/M.1758974349.A.4A1",
+      "author": "hsuaninteen",
+      "board": "Elephants",
+      "publishTime": "2025/09/27 11:59",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "shaaan",
       "board": "NBA",
       "publishTime": "2025/09/27 01:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "137",
-      "recommendCount": "360",
-      "title": "[新聞] 誰最該為花蓮災情負責？YTR網路投票「8成一面倒」13萬人點名",
-      "link": "/bbs/Gossiping/M.1758928124.A.A87",
-      "author": "Workforme",
-      "board": "Gossiping",
-      "publishTime": "2025/09/26 23:08",
       "imageUrl": ""
     }
   ]
