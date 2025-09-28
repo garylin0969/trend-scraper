@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-28T04:18:54.691Z",
+  "updated": "2025-09-28T04:31:25.406Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "72",
-      "recommendCount": "304",
-      "title": "[新聞] 邦交國數下滑 外交部明年度大增109億國際合作交流費",
-      "link": "/bbs/Gossiping/M.1758946972.A.F45",
-      "author": "ThisisLongID",
-      "board": "Gossiping",
-      "publishTime": "2025/09/27 04:22",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "751",
       "recommendCount": "1474",
       "title": "[電競] 2025 LPL Regional Qualifier Day 3",
@@ -202,6 +192,16 @@
       "board": "Baseball",
       "publishTime": "2025/09/27 12:23",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "150",
+      "recommendCount": "264",
+      "title": "[分享] 今日王柏融",
+      "link": "/bbs/Baseball/M.1758971833.A.DD1",
+      "author": "Bystander21",
+      "board": "Baseball",
+      "publishTime": "2025/09/27 11:17",
+      "imageUrl": "https://cache.pttweb.cc/imgur/0xHU5S0/s/3184f868e30dee301809c4cd4189cf38"
     }
   ]
 }
