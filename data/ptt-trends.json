@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-28T21:05:08.543Z",
+  "updated": "2025-09-28T21:16:51.159Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -32,16 +32,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/28 05:04",
       "imageUrl": "https://cache.pttweb.cc/imgur/WIkKzu1/s/bd8ae31cb1715324d75bbd2314a8c5c6"
-    },
-    {
-      "recommendScore": "36",
-      "recommendCount": "1183",
-      "title": "[討論] 花蓮縣政府完了",
-      "link": "/bbs/HatePolitics/M.1759007633.A.1F4",
-      "author": "ketter",
-      "board": "HatePolitics",
-      "publishTime": "2025/09/27 21:13",
-      "imageUrl": ""
     },
     {
       "recommendScore": "250",
@@ -201,6 +191,16 @@
       "author": "hrma",
       "board": "Gossiping",
       "publishTime": "2025/09/27 23:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "107",
+      "recommendCount": "264",
+      "title": "[新聞] 柯文哲又有腎結石 陳佩琪：喝北所水半年就長",
+      "link": "/bbs/Gossiping/M.1759029592.A.622",
+      "author": "GOD5566GOD",
+      "board": "Gossiping",
+      "publishTime": "2025/09/28 03:19",
       "imageUrl": ""
     }
   ]
