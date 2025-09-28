@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-28T21:26:00.112Z",
+  "updated": "2025-09-28T21:34:03.318Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "159",
+      "recommendCount": "269",
+      "title": "[轉播] 五上 兄弟 0:0 樂天 岳政華",
+      "link": "/bbs/Elephants/M.1759054075.A.7D7",
+      "author": "bebtib",
+      "board": "Elephants",
+      "publishTime": "2025/09/28 10:07",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "93",
       "recommendCount": "291",
       "title": "[新聞] 台中虎媽囚禁餓死21歲女兒！密室3年不見天日 宛人間煉獄",
@@ -191,16 +201,6 @@
       "author": "hrma",
       "board": "Gossiping",
       "publishTime": "2025/09/27 23:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "107",
-      "recommendCount": "264",
-      "title": "[新聞] 柯文哲又有腎結石 陳佩琪：喝北所水半年就長",
-      "link": "/bbs/Gossiping/M.1759029592.A.622",
-      "author": "GOD5566GOD",
-      "board": "Gossiping",
-      "publishTime": "2025/09/28 03:19",
       "imageUrl": ""
     }
   ]
