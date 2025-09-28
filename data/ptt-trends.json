@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-28T08:06:56.283Z",
+  "updated": "2025-09-28T08:18:28.428Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "779",
+      "recommendCount": "1444",
+      "title": "[電競] 2025 LCK Grand Finals",
+      "link": "/bbs/LoL/M.1759031548.A.2BF",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/09/28 03:52",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "231",
       "recommendCount": "604",
       "title": "[問卦] 為什麼沒人檢討災害總指揮--內政部長",
@@ -122,16 +132,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/27 16:39",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "765",
-      "recommendCount": "1502",
-      "title": "[情報] 今日先發",
-      "link": "/bbs/Elephants/M.1758960998.A.97F",
-      "author": "nanashin",
-      "board": "Elephants",
-      "publishTime": "2025/09/27 08:16",
-      "imageUrl": "https://cache.pttweb.cc/imgur/KE2nEwW/s/c6fbba4f61ca9afe939865eb1c4fde84"
     },
     {
       "recommendScore": "74",
@@ -184,16 +184,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/R2tVQsp/s/4308767873fc6cfdfe85d0c42f78170b"
     },
     {
-      "recommendScore": "789",
-      "recommendCount": "1288",
-      "title": "[電競] 2025 LCK Grand Finals",
-      "link": "/bbs/LoL/M.1759031548.A.2BF",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2025/09/28 03:52",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "186",
       "recommendCount": "494",
       "title": "[問卦] 光復淹水事件後 發現慈濟義務救災超強欸",
@@ -201,6 +191,16 @@
       "author": "KZS",
       "board": "Gossiping",
       "publishTime": "2025/09/27 15:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "168",
+      "recommendCount": "307",
+      "title": "[問卦] 如果阿共打過來 政府簡訊會怎麼寫？",
+      "link": "/bbs/Gossiping/M.1759015738.A.EE0",
+      "author": "mcuronan",
+      "board": "Gossiping",
+      "publishTime": "2025/09/27 23:28",
       "imageUrl": ""
     }
   ]
