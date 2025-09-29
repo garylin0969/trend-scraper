@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-29T16:06:02.044Z",
+  "updated": "2025-09-29T16:17:58.538Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "115",
+      "recommendCount": "383",
+      "title": "Re: [問卦] 政府一開始就想把堰塞湖放到潰堤嗎",
+      "link": "/bbs/Gossiping/M.1759098616.A.F08",
+      "author": "chrisjohn214",
+      "board": "Gossiping",
+      "publishTime": "2025/09/28 22:30",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "639",
       "recommendCount": "988",
       "title": "[討論] [Vtub] Hololive 晚間直播單 (1140929)",
@@ -191,16 +201,6 @@
       "author": "access4096",
       "board": "Gossiping",
       "publishTime": "2025/09/29 07:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "93",
-      "recommendCount": "135",
-      "title": "[炸裂] 林安可",
-      "link": "/bbs/Baseball/M.1759148164.A.65B",
-      "author": "eunhailoveu",
-      "board": "Baseball",
-      "publishTime": "2025/09/29 12:16",
       "imageUrl": ""
     }
   ]
