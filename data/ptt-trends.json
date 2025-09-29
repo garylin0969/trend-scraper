@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-29T22:53:38.958Z",
+  "updated": "2025-09-29T23:05:45.049Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -52,16 +52,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/29 15:11",
       "imageUrl": "https://cache.pttweb.cc/imgur/BFMOKYu/s/97af8dcb1a7fe397358b80b63bfd55f0"
-    },
-    {
-      "recommendScore": "75",
-      "recommendCount": "433",
-      "title": "[新聞] 美商務部長:台灣晶片製造占全球95% 應",
-      "link": "/bbs/Gossiping/M.1759100663.A.C0B",
-      "author": "semih",
-      "board": "Gossiping",
-      "publishTime": "2025/09/28 23:04",
-      "imageUrl": ""
     },
     {
       "recommendScore": "149",
@@ -154,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "63",
-      "recommendCount": "581",
-      "title": "[黑特] 志工：請問我是做錯什麼事情了嗎？",
-      "link": "/bbs/HatePolitics/M.1759100586.A.5A5",
-      "author": "b1987517",
-      "board": "HatePolitics",
-      "publishTime": "2025/09/28 23:03",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Yi7GWOb/s/6cdd68eca24c0069d9bbda069aeae5f0"
-    },
-    {
       "recommendScore": "639",
       "recommendCount": "988",
       "title": "[討論] [Vtub] Hololive 晚間直播單 (1140929)",
@@ -201,6 +181,26 @@
       "author": "aquarius0wks",
       "board": "Elephants",
       "publishTime": "2025/09/29 12:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "123",
+      "recommendCount": "214",
+      "title": "[轉播] 六上 統一 2:1 兄弟 陳聖平DP",
+      "link": "/bbs/Elephants/M.1759143652.A.E05",
+      "author": "aquarius0wks",
+      "board": "Elephants",
+      "publishTime": "2025/09/29 11:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "190",
+      "recommendCount": "601",
+      "title": "[哈利] JK羅琳首度反擊艾瑪華森",
+      "link": "/bbs/C_Chat/M.1759165317.A.449",
+      "author": "Snomuku",
+      "board": "C_Chat",
+      "publishTime": "2025/09/29 17:01",
       "imageUrl": ""
     }
   ]
