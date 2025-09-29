@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-29T10:32:34.369Z",
+  "updated": "2025-09-29T10:46:15.872Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -52,16 +52,6 @@
       "board": "Elephants",
       "publishTime": "2025/09/29 10:12",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "182",
-      "recommendCount": "244",
-      "title": "[分享] 桃園連兩場滿場",
-      "link": "/bbs/Baseball/M.1759056195.A.67D",
-      "author": "yam1682001",
-      "board": "Baseball",
-      "publishTime": "2025/09/28 10:43",
-      "imageUrl": "https://cache.pttweb.cc/imgur/KFteeMw/s/29380f334e001b27fafdc518f53b3d4d"
     },
     {
       "recommendScore": "90",
@@ -201,6 +191,16 @@
       "author": "semih",
       "board": "Gossiping",
       "publishTime": "2025/09/28 23:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "76",
+      "recommendCount": "164",
+      "title": "[新聞] 副總統勘災要災民迴避？家屬澄清「是不滿花蓮縣府」：言論被扭曲",
+      "link": "/bbs/Gossiping/M.1759131432.A.2BE",
+      "author": "Wojnarowski",
+      "board": "Gossiping",
+      "publishTime": "2025/09/29 07:37",
       "imageUrl": ""
     }
   ]
