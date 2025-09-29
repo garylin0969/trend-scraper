@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-29T20:06:04.317Z",
+  "updated": "2025-09-29T20:17:59.239Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "178",
+      "recommendCount": "617",
+      "title": "Re: [問卦] 政府一開始就想把堰塞湖放到潰堤嗎",
+      "link": "/bbs/Gossiping/M.1759098616.A.F08",
+      "author": "chrisjohn214",
+      "board": "Gossiping",
+      "publishTime": "2025/09/28 22:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "359",
+      "recommendCount": "620",
+      "title": "[分享] Judge vs Raleigh",
+      "link": "/bbs/Baseball/M.1759097797.A.462",
+      "author": "polanco",
+      "board": "Baseball",
+      "publishTime": "2025/09/28 22:16",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "104",
       "recommendCount": "1068",
       "title": "[討論] 緬懷以前八卦？看看現在的八卦吧",
@@ -64,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "271",
-      "recommendCount": "462",
-      "title": "[分享] Judge vs Raleigh",
-      "link": "/bbs/Baseball/M.1759097797.A.462",
-      "author": "polanco",
-      "board": "Baseball",
-      "publishTime": "2025/09/28 22:16",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "122",
       "recommendCount": "588",
       "title": "[新聞]堰塞湖撤離疏失？監院檢調都要查 花蓮縣府：都按SOP且全程錄影",
@@ -101,6 +111,16 @@
       "author": "jclee0000",
       "board": "Baseball",
       "publishTime": "2025/09/29 16:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "148",
+      "recommendCount": "397",
+      "title": "[問卦] 挖土十分鐘就沒力是什麼問題",
+      "link": "/bbs/Gossiping/M.1759103733.A.58A",
+      "author": "wdz1223",
+      "board": "Gossiping",
+      "publishTime": "2025/09/28 23:55",
       "imageUrl": ""
     },
     {
@@ -144,14 +164,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "115",
-      "recommendCount": "383",
-      "title": "Re: [問卦] 政府一開始就想把堰塞湖放到潰堤嗎",
-      "link": "/bbs/Gossiping/M.1759098616.A.F08",
-      "author": "chrisjohn214",
-      "board": "Gossiping",
-      "publishTime": "2025/09/28 22:30",
-      "imageUrl": ""
+      "recommendScore": "63",
+      "recommendCount": "581",
+      "title": "[黑特] 志工：請問我是做錯什麼事情了嗎？",
+      "link": "/bbs/HatePolitics/M.1759100586.A.5A5",
+      "author": "b1987517",
+      "board": "HatePolitics",
+      "publishTime": "2025/09/28 23:03",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Yi7GWOb/s/6cdd68eca24c0069d9bbda069aeae5f0"
     },
     {
       "recommendScore": "639",
@@ -164,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "81",
+      "recommendCount": "194",
+      "title": "[問卦] 現在都不流行下台負責了嗎？",
+      "link": "/bbs/Gossiping/M.1759106462.A.A82",
+      "author": "a1b2c3d4e5",
+      "board": "Gossiping",
+      "publishTime": "2025/09/29 00:41",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "136",
       "recommendCount": "169",
       "title": "[炸裂] 大谷翔平 NO.55",
@@ -172,36 +202,6 @@
       "board": "Baseball",
       "publishTime": "2025/09/28 21:00",
       "imageUrl": "https://cache.pttweb.cc/imgur/wnw32dX/s/310eaecb4fbbd6ad2dd13cb95f11da40"
-    },
-    {
-      "recommendScore": "51",
-      "recommendCount": "297",
-      "title": "[新聞] 美商務部長:台灣晶片製造占全球95% 應",
-      "link": "/bbs/Gossiping/M.1759100663.A.C0B",
-      "author": "semih",
-      "board": "Gossiping",
-      "publishTime": "2025/09/28 23:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "125",
-      "recommendCount": "424",
-      "title": "[轉播] 九下 統一 6:4 兄弟 林吳晉瑋FO game set",
-      "link": "/bbs/Elephants/M.1759149193.A.4D4",
-      "author": "aquarius0wks",
-      "board": "Elephants",
-      "publishTime": "2025/09/29 12:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "123",
-      "recommendCount": "214",
-      "title": "[轉播] 六上 統一 2:1 兄弟 陳聖平DP",
-      "link": "/bbs/Elephants/M.1759143652.A.E05",
-      "author": "aquarius0wks",
-      "board": "Elephants",
-      "publishTime": "2025/09/29 11:00",
-      "imageUrl": ""
     }
   ]
 }
