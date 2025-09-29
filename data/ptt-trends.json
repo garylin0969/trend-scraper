@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-29T19:43:55.205Z",
+  "updated": "2025-09-29T19:53:32.698Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -72,6 +72,16 @@
       "board": "Gossiping",
       "publishTime": "2025/09/29 11:02",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "215",
+      "recommendCount": "345",
+      "title": "[爆卦] 我們的島:9/19預測壩體下降50公尺 (發錢)",
+      "link": "/bbs/Gossiping/M.1759158690.A.F74",
+      "author": "q347",
+      "board": "Gossiping",
+      "publishTime": "2025/09/29 15:11",
+      "imageUrl": "https://cache.pttweb.cc/imgur/BFMOKYu/s/97af8dcb1a7fe397358b80b63bfd55f0"
     },
     {
       "recommendScore": "66",
@@ -191,16 +201,6 @@
       "author": "access4096",
       "board": "Gossiping",
       "publishTime": "2025/09/29 07:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "93",
-      "recommendCount": "135",
-      "title": "[炸裂] 林安可",
-      "link": "/bbs/Baseball/M.1759148164.A.65B",
-      "author": "eunhailoveu",
-      "board": "Baseball",
-      "publishTime": "2025/09/29 12:16",
       "imageUrl": ""
     }
   ]
