@@ -1,10 +1,10 @@
 {
-  "updated": "2025-09-29T04:23:20.141Z",
+  "updated": "2025-09-29T04:48:14.635Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-09-29T04:23:07.000Z",
+    "lastBuildDate": "2025-09-29T04:47:58.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/68f5/live/df68ce60-7260-11f0-8dbd-f3d32ebd3327.jpg"
     },
     {
+      "title": "心臟病的原因及預防方法",
+      "description": "根據世界衛生組織的數據，心血管疾病（CVDs）是全球最常見的死亡原因，每年導致近1,800萬人死亡。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5ygx5rkdnzo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-29T04:29:22.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5ygx5rkdnzo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b25/live/b4b452e0-266e-11f0-b26b-ab62c890638b.jpg"
+    },
+    {
       "title": "人類再登月球：這四位太空人將創造新歷史",
       "description": "美國太空總署在50多年來首次載人登月任務，太空人希望他們的旅程能激勵新一代。",
       "link": "https://www.bbc.com/zhongwen/articles/cx2xpkrvpv5o/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2025-09-25T06:56:38.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c5yk9wx283jo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6d4a/live/b42c5260-99d6-11f0-b696-c3381fbbf59c.jpg"
-    },
-    {
-      "title": "早上或是晚上，何時才是洗澡的好時機？",
-      "description": "無論你屬於哪一派，可能都會好奇：這個選擇對健康有何影響？",
-      "link": "https://www.bbc.com/zhongwen/articles/c0ezx50zzx7o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-24T00:08:12.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c0ezx50zzx7o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dfc9/live/a7890380-9852-11f0-af62-91486a511a31.jpg"
     }
   ]
 }
