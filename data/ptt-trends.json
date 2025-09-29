@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-29T17:17:41.648Z",
+  "updated": "2025-09-29T17:28:49.860Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "140",
+      "recommendCount": "336",
+      "title": "[心得] 前往1000萬的路上",
+      "link": "/bbs/Stock/M.1759085521.A.3F5",
+      "author": "maplain",
+      "board": "Stock",
+      "publishTime": "2025/09/28 18:52",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "115",
       "recommendCount": "152",
       "title": "Re: [LIVE] 英超 兵工廠 @ 紐卡索聯 場中",
@@ -191,16 +201,6 @@
       "author": "aquarius0wks",
       "board": "Elephants",
       "publishTime": "2025/09/29 12:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "123",
-      "recommendCount": "214",
-      "title": "[轉播] 六上 統一 2:1 兄弟 陳聖平DP",
-      "link": "/bbs/Elephants/M.1759143652.A.E05",
-      "author": "aquarius0wks",
-      "board": "Elephants",
-      "publishTime": "2025/09/29 11:00",
       "imageUrl": ""
     }
   ]
