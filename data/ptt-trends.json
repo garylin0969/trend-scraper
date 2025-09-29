@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-28T23:53:26.547Z",
+  "updated": "2025-09-29T00:23:01.664Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -62,6 +62,16 @@
       "board": "Gossiping",
       "publishTime": "2025/09/28 07:37",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "267",
+      "recommendCount": "328",
+      "title": "[分享] 休士頓太空人 無緣連九年季後賽",
+      "link": "/bbs/Baseball/M.1759027132.A.D91",
+      "author": "ayachyan",
+      "board": "Baseball",
+      "publishTime": "2025/09/28 02:38",
+      "imageUrl": "https://cache.pttweb.cc/imgur/45DeFKa/s/dc725a9844a7e4405721b4e5c5ef3e68"
     },
     {
       "recommendScore": "786",
@@ -191,16 +201,6 @@
       "author": "bebtib",
       "board": "Elephants",
       "publishTime": "2025/09/28 10:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "120",
-      "recommendCount": "287",
-      "title": "[新聞] 柯文哲又有腎結石 陳佩琪：喝北所水半年就長",
-      "link": "/bbs/Gossiping/M.1759029592.A.622",
-      "author": "GOD5566GOD",
-      "board": "Gossiping",
-      "publishTime": "2025/09/28 03:19",
       "imageUrl": ""
     }
   ]
