@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-29T10:18:31.526Z",
+  "updated": "2025-09-29T10:32:34.369Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -42,6 +42,16 @@
       "board": "HatePolitics",
       "publishTime": "2025/09/29 06:28",
       "imageUrl": "https://cache.pttweb.cc/imgur/AU4O8JO/s/c4a2ce89bea02385794e65fa720638ab"
+    },
+    {
+      "recommendScore": "66",
+      "recommendCount": "451",
+      "title": "[轉播] 四下 統一 2:1 兄弟 岳政華FO",
+      "link": "/bbs/Elephants/M.1759140757.A.BC7",
+      "author": "aquarius0wks",
+      "board": "Elephants",
+      "publishTime": "2025/09/29 10:12",
+      "imageUrl": ""
     },
     {
       "recommendScore": "182",
@@ -191,16 +201,6 @@
       "author": "semih",
       "board": "Gossiping",
       "publishTime": "2025/09/28 23:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "76",
-      "recommendCount": "164",
-      "title": "[新聞] 副總統勘災要災民迴避？家屬澄清「是不滿花蓮縣府」：言論被扭曲",
-      "link": "/bbs/Gossiping/M.1759131432.A.2BE",
-      "author": "Wojnarowski",
-      "board": "Gossiping",
-      "publishTime": "2025/09/29 07:37",
       "imageUrl": ""
     }
   ]
