@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-29T18:48:13.058Z",
+  "updated": "2025-09-29T18:55:34.205Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "140",
-      "recommendCount": "336",
-      "title": "[心得] 前往1000萬的路上",
-      "link": "/bbs/Stock/M.1759085521.A.3F5",
-      "author": "maplain",
-      "board": "Stock",
-      "publishTime": "2025/09/28 18:52",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "125",
       "recommendCount": "424",
       "title": "[轉播] 九下 統一 6:4 兄弟 林吳晉瑋FO game set",
@@ -201,6 +191,16 @@
       "author": "access4096",
       "board": "Gossiping",
       "publishTime": "2025/09/29 07:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "93",
+      "recommendCount": "135",
+      "title": "[炸裂] 林安可",
+      "link": "/bbs/Baseball/M.1759148164.A.65B",
+      "author": "eunhailoveu",
+      "board": "Baseball",
+      "publishTime": "2025/09/29 12:16",
       "imageUrl": ""
     }
   ]
