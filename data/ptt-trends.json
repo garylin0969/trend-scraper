@@ -1,11 +1,11 @@
 {
-  "updated": "2025-09-29T20:17:59.239Z",
+  "updated": "2025-09-29T20:28:21.503Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "241",
-      "recommendCount": "503",
+      "recommendScore": "273",
+      "recommendCount": "566",
       "title": "[問卦] 葛瑞絲；再說我講啟德就報警",
       "link": "/bbs/Gossiping/M.1759157214.A.04B",
       "author": "eatk",
@@ -31,6 +31,16 @@
       "author": "str8g",
       "board": "Gossiping",
       "publishTime": "2025/09/29 06:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "291",
+      "recommendCount": "306",
+      "title": "[討論] 猜猜世界大賽冠軍 發錢",
+      "link": "/bbs/Baseball/M.1759162039.A.08C",
+      "author": "jclee0000",
+      "board": "Baseball",
+      "publishTime": "2025/09/29 16:07",
       "imageUrl": ""
     },
     {
@@ -64,6 +74,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/AU4O8JO/s/c4a2ce89bea02385794e65fa720638ab"
     },
     {
+      "recommendScore": "237",
+      "recommendCount": "381",
+      "title": "[爆卦] 我們的島:9/19預測壩體下降50公尺 (發錢)",
+      "link": "/bbs/Gossiping/M.1759158690.A.F74",
+      "author": "q347",
+      "board": "Gossiping",
+      "publishTime": "2025/09/29 15:11",
+      "imageUrl": "https://cache.pttweb.cc/imgur/BFMOKYu/s/97af8dcb1a7fe397358b80b63bfd55f0"
+    },
+    {
       "recommendScore": "149",
       "recommendCount": "369",
       "title": "[問卦] 技術官僚已經死透了？",
@@ -91,26 +111,6 @@
       "author": "leocean9816",
       "board": "Gossiping",
       "publishTime": "2025/09/29 11:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "215",
-      "recommendCount": "345",
-      "title": "[爆卦] 我們的島:9/19預測壩體下降50公尺 (發錢)",
-      "link": "/bbs/Gossiping/M.1759158690.A.F74",
-      "author": "q347",
-      "board": "Gossiping",
-      "publishTime": "2025/09/29 15:11",
-      "imageUrl": "https://cache.pttweb.cc/imgur/BFMOKYu/s/97af8dcb1a7fe397358b80b63bfd55f0"
-    },
-    {
-      "recommendScore": "214",
-      "recommendCount": "224",
-      "title": "[討論] 猜猜世界大賽冠軍 發錢",
-      "link": "/bbs/Baseball/M.1759162039.A.08C",
-      "author": "jclee0000",
-      "board": "Baseball",
-      "publishTime": "2025/09/29 16:07",
       "imageUrl": ""
     },
     {
@@ -194,14 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "136",
-      "recommendCount": "169",
-      "title": "[炸裂] 大谷翔平 NO.55",
-      "link": "/bbs/Baseball/M.1759093259.A.9F8",
-      "author": "jerry00116",
-      "board": "Baseball",
-      "publishTime": "2025/09/28 21:00",
-      "imageUrl": "https://cache.pttweb.cc/imgur/wnw32dX/s/310eaecb4fbbd6ad2dd13cb95f11da40"
+      "recommendScore": "104",
+      "recommendCount": "272",
+      "title": "[新聞] 萬用化痰藥退出台灣！胸腔醫怒批「健保奇蹟」：殺價到印尼廠都不做",
+      "link": "/bbs/Gossiping/M.1759160522.A.9E5",
+      "author": "bluehttp",
+      "board": "Gossiping",
+      "publishTime": "2025/09/29 15:42",
+      "imageUrl": ""
     }
   ]
 }
