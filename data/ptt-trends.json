@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-29T12:47:05.838Z",
+  "updated": "2025-09-29T13:04:50.103Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -61,6 +61,16 @@
       "author": "jack801016",
       "board": "Baseball",
       "publishTime": "2025/09/29 10:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "122",
+      "recommendCount": "588",
+      "title": "[新聞]堰塞湖撤離疏失？監院檢調都要查 花蓮縣府：都按SOP且全程錄影",
+      "link": "/bbs/Gossiping/M.1759143754.A.202",
+      "author": "leocean9816",
+      "board": "Gossiping",
+      "publishTime": "2025/09/29 11:02",
       "imageUrl": ""
     },
     {
@@ -164,6 +174,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/4krScE7/s/154f5f50f1446e8932488bb1f83b10e2"
     },
     {
+      "recommendScore": "125",
+      "recommendCount": "424",
+      "title": "[轉播] 九下 統一 6:4 兄弟 林吳晉瑋FO game set",
+      "link": "/bbs/Elephants/M.1759149193.A.4D4",
+      "author": "aquarius0wks",
+      "board": "Elephants",
+      "publishTime": "2025/09/29 12:33",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "28",
       "recommendCount": "217",
       "title": "[爆卦] 蕭副總統出來闢謠了",
@@ -182,26 +202,6 @@
       "board": "Baseball",
       "publishTime": "2025/09/28 21:00",
       "imageUrl": "https://cache.pttweb.cc/imgur/wnw32dX/s/310eaecb4fbbd6ad2dd13cb95f11da40"
-    },
-    {
-      "recommendScore": "123",
-      "recommendCount": "214",
-      "title": "[轉播] 六上 統一 2:1 兄弟 陳聖平DP",
-      "link": "/bbs/Elephants/M.1759143652.A.E05",
-      "author": "aquarius0wks",
-      "board": "Elephants",
-      "publishTime": "2025/09/29 11:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "77",
-      "recommendCount": "165",
-      "title": "[情報] 統一滿壘大中計",
-      "link": "/bbs/Baseball/M.1759143857.A.4F7",
-      "author": "DameTime777",
-      "board": "Baseball",
-      "publishTime": "2025/09/29 11:04",
-      "imageUrl": ""
     }
   ]
 }
