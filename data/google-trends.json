@@ -1,25 +1,30 @@
 {
-  "updated": "2025-09-30T21:08:43.117Z",
+  "updated": "2025-09-30T21:36:58.589Z",
   "trends": [
+    {
+      "googleTrend": "mlb",
+      "searchVolume": "500+",
+      "started": "40 分鐘前"
+    },
     {
       "googleTrend": "歐冠",
       "searchVolume": "200+",
       "started": "1 小時前"
     },
     {
-      "googleTrend": "mlb",
-      "searchVolume": "200+",
-      "started": "10 分鐘前"
+      "googleTrend": "小林村",
+      "searchVolume": "100+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "mlb季後賽",
+      "searchVolume": "100+",
+      "started": "1 小時前"
     },
     {
       "googleTrend": "real madrid",
       "searchVolume": "100+",
       "started": "2 小時前"
-    },
-    {
-      "googleTrend": "停電",
-      "searchVolume": "200+",
-      "started": "3 小時前"
     }
   ]
 }
