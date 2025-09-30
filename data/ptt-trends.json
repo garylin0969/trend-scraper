@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-30T03:57:00.745Z",
+  "updated": "2025-09-30T04:07:11.262Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "295",
+      "recommendCount": "456",
+      "title": "[爆卦] 我們的島:9/19預測壩體下降50公尺 (發錢)",
+      "link": "/bbs/Gossiping/M.1759158690.A.F74",
+      "author": "q347",
+      "board": "Gossiping",
+      "publishTime": "2025/09/29 15:11",
+      "imageUrl": "https://cache.pttweb.cc/imgur/BFMOKYu/s/97af8dcb1a7fe397358b80b63bfd55f0"
+    },
+    {
       "recommendScore": "66",
       "recommendCount": "516",
       "title": "[花邊] 灣區記者:勇士正在被替補球員霸凌 令人難以置信",
@@ -61,6 +71,16 @@
       "author": "kakala99",
       "board": "NBA",
       "publishTime": "2025/09/29 07:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "250",
+      "recommendCount": "326",
+      "title": "[新聞] 悍將史詩級越獄！陳仕朋首局掉6分奪勝史上第一人",
+      "link": "/bbs/Baseball/M.1759148477.A.1D2",
+      "author": "iamshana",
+      "board": "Baseball",
+      "publishTime": "2025/09/29 12:21",
       "imageUrl": ""
     },
     {
@@ -104,14 +124,14 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/AU4O8JO/s/c4a2ce89bea02385794e65fa720638ab"
     },
     {
-      "recommendScore": "238",
-      "recommendCount": "384",
-      "title": "[爆卦] 我們的島:9/19預測壩體下降50公尺 (發錢)",
-      "link": "/bbs/Gossiping/M.1759158690.A.F74",
-      "author": "q347",
-      "board": "Gossiping",
-      "publishTime": "2025/09/29 15:11",
-      "imageUrl": "https://cache.pttweb.cc/imgur/BFMOKYu/s/97af8dcb1a7fe397358b80b63bfd55f0"
+      "recommendScore": "204",
+      "recommendCount": "276",
+      "title": "[情報] 龍魯閣",
+      "link": "/bbs/Baseball/M.1759142877.A.EC0",
+      "author": "jack801016",
+      "board": "Baseball",
+      "publishTime": "2025/09/29 10:47",
+      "imageUrl": ""
     },
     {
       "recommendScore": "149",
@@ -121,16 +141,6 @@
       "author": "herbert0716",
       "board": "Gossiping",
       "publishTime": "2025/09/29 10:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "202",
-      "recommendCount": "270",
-      "title": "[情報] 龍魯閣",
-      "link": "/bbs/Baseball/M.1759142877.A.EC0",
-      "author": "jack801016",
-      "board": "Baseball",
-      "publishTime": "2025/09/29 10:47",
       "imageUrl": ""
     },
     {
@@ -184,23 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "380",
-      "recommendCount": "803",
-      "title": "[轉播] 九下 喵 6:3 爪",
-      "link": "/bbs/Lions/M.1759148502.A.A77",
-      "author": "b1236711",
-      "board": "Lions",
-      "publishTime": "2025/09/29 12:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "136",
-      "recommendCount": "368",
-      "title": "[轉播] 六下 統一 2:2 兄弟 江坤宇H",
-      "link": "/bbs/Elephants/M.1759144667.A.B1F",
-      "author": "aquarius0wks",
-      "board": "Elephants",
-      "publishTime": "2025/09/29 11:17",
+      "recommendScore": "113",
+      "recommendCount": "609",
+      "title": "[討論] 黃國昌坦承透過協會跟拍",
+      "link": "/bbs/HatePolitics/M.1759150377.A.C5C",
+      "author": "Whitening",
+      "board": "HatePolitics",
+      "publishTime": "2025/09/29 12:52",
       "imageUrl": ""
     }
   ]
