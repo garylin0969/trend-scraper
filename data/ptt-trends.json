@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-01T14:05:55.535Z",
+  "updated": "2025-10-01T14:18:03.236Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -51,6 +51,16 @@
       "author": "gguntank",
       "board": "Gossiping",
       "publishTime": "2025/10/01 00:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "414",
+      "recommendCount": "1461",
+      "title": "[轉播] 十局下 兄弟5：3悍將",
+      "link": "/bbs/Elephants/M.1759325767.A.9D2",
+      "author": "hsuaninteen",
+      "board": "Elephants",
+      "publishTime": "2025/10/01 13:36",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/30 22:33",
       "imageUrl": "https://cache.pttweb.cc/imgur/wDGEFvK/s/bb7682eda6061c67a755eb1274af103d"
-    },
-    {
-      "recommendScore": "231",
-      "recommendCount": "418",
-      "title": "[新聞] 快訊／北捷逼讓座遭踢飛「老婦出事了」！超商鬧事被逮",
-      "link": "/bbs/Gossiping/M.1759286327.A.34E",
-      "author": "a0580531",
-      "board": "Gossiping",
-      "publishTime": "2025/10/01 02:38",
-      "imageUrl": ""
     }
   ]
 }
