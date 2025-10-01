@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-01T08:35:33.794Z",
+  "updated": "2025-10-01T08:47:37.992Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "391",
+      "recommendCount": "620",
+      "title": "[新聞] 白髮婦北捷逼讓座遭踹飛　不敢報警原因曝！竊盜判55天遭通緝",
+      "link": "/bbs/Gossiping/M.1759287801.A.BE3",
+      "author": "th2113",
+      "board": "Gossiping",
+      "publishTime": "2025/10/01 03:03",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "458",
       "recommendCount": "612",
       "title": "Re: [問卦] 脆爆料：被踹的阿婆 是會議蟑螂",
@@ -31,16 +41,6 @@
       "author": "historyway",
       "board": "Gossiping",
       "publishTime": "2025/09/30 11:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "376",
-      "recommendCount": "600",
-      "title": "[新聞] 白髮婦北捷逼讓座遭踹飛　不敢報警原因曝！竊盜判55天遭通緝",
-      "link": "/bbs/Gossiping/M.1759287801.A.BE3",
-      "author": "th2113",
-      "board": "Gossiping",
-      "publishTime": "2025/10/01 03:03",
       "imageUrl": ""
     },
     {
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "199",
-      "recommendCount": "449",
+      "recommendScore": "200",
+      "recommendCount": "451",
       "title": "[新聞] 控「黃國昌搶先爆柯文哲上88會館」翻車！鏡報澄清：誤認發文時間",
       "link": "/bbs/Gossiping/M.1759228619.A.170",
       "author": "Wojnarowski",
@@ -114,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-171",
-      "recommendCount": "439",
-      "title": "[新聞] 快新聞／王義川出手了！　霸氣出5題拷問黃國昌：若跟你有關就退出政壇",
-      "link": "/bbs/Gossiping/M.1759221500.A.0F5",
-      "author": "eatk",
-      "board": "Gossiping",
-      "publishTime": "2025/09/30 08:38",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "185",
       "recommendCount": "456",
       "title": "[問卦] 三民自這種垃圾媒體真的沒人能管？",
@@ -134,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "220",
-      "recommendCount": "398",
+      "recommendScore": "221",
+      "recommendCount": "399",
       "title": "[爆卦] 台灣阿童：八炯提告，造謠者喊造謠",
       "link": "/bbs/Gossiping/M.1759271617.A.024",
       "author": "psychohero",
@@ -174,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "203",
-      "recommendCount": "316",
+      "recommendScore": "204",
+      "recommendCount": "318",
       "title": "[新聞] 快訊／預算案55：45未通過！　美政府關閉「倒數4小時」",
       "link": "/bbs/Stock/M.1759278814.A.041",
       "author": "DDDDRR",
@@ -201,6 +191,16 @@
       "author": "EZ78",
       "board": "NBA",
       "publishTime": "2025/09/30 22:35",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "176",
+      "recommendCount": "300",
+      "title": "[新聞] 快訊／高雄澄清湖驚見女浮屍！目擊民眾嚇壞報警打撈",
+      "link": "/bbs/Gossiping/M.1759284267.A.8E1",
+      "author": "jal0309",
+      "board": "Gossiping",
+      "publishTime": "2025/10/01 02:04",
       "imageUrl": ""
     }
   ]
