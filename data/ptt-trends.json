@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-01T04:37:46.919Z",
+  "updated": "2025-10-01T04:46:03.379Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "481",
+      "recommendCount": "585",
+      "title": "[炸裂] 大谷翔平 雙響 道奇單場第五轟",
+      "link": "/bbs/Baseball/M.1759286926.A.E3D",
+      "author": "carlchang092",
+      "board": "Baseball",
+      "publishTime": "2025/10/01 02:48",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "134",
       "recommendCount": "579",
       "title": "[新聞] 衛福部花蓮捐款近5億！陳時中：帳目都會對外公開",
@@ -42,26 +52,6 @@
       "board": "Gossiping",
       "publishTime": "2025/09/30 11:14",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "438",
-      "recommendCount": "531",
-      "title": "[炸裂] 大谷翔平 雙響 道奇單場第五轟",
-      "link": "/bbs/Baseball/M.1759286926.A.E3D",
-      "author": "carlchang092",
-      "board": "Baseball",
-      "publishTime": "2025/10/01 02:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "350",
-      "recommendCount": "513",
-      "title": "[問卦] 吳靜怡grace 9/27 吊車大王逐字稿 (發錢)",
-      "link": "/bbs/Gossiping/M.1759207450.A.268",
-      "author": "q347",
-      "board": "Gossiping",
-      "publishTime": "2025/09/30 04:44",
-      "imageUrl": "https://cache.pttweb.cc/imgur/aHcs9DI/s/c1a1160dd6e480155fb7cc971c729b24"
     },
     {
       "recommendScore": "195",
@@ -175,6 +165,16 @@
     },
     {
       "recommendScore": "198",
+      "recommendCount": "293",
+      "title": "[情報] 洋基滿壘0出局大中計",
+      "link": "/bbs/Baseball/M.1759281171.A.F0C",
+      "author": "alpacaHong",
+      "board": "Baseball",
+      "publishTime": "2025/10/01 01:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "198",
       "recommendCount": "351",
       "title": "[爆卦] 台灣阿童：八炯提告，造謠者喊造謠",
       "link": "/bbs/Gossiping/M.1759271617.A.024",
@@ -184,16 +184,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/wDGEFvK/s/bb7682eda6061c67a755eb1274af103d"
     },
     {
-      "recommendScore": "194",
-      "recommendCount": "287",
-      "title": "[情報] 洋基滿壘0出局大中計",
-      "link": "/bbs/Baseball/M.1759281171.A.F0C",
-      "author": "alpacaHong",
-      "board": "Baseball",
-      "publishTime": "2025/10/01 01:12",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "193",
       "recommendCount": "295",
       "title": "[新聞] 快訊／預算案55：45未通過！　美政府關閉「倒數4小時」",
@@ -201,6 +191,16 @@
       "author": "DDDDRR",
       "board": "Stock",
       "publishTime": "2025/10/01 00:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "180",
+      "recommendCount": "515",
+      "title": "[花邊] 老巴:Curry在我那個年代會打的很掙扎",
+      "link": "/bbs/NBA/M.1759218997.A.1B9",
+      "author": "kakala99",
+      "board": "NBA",
+      "publishTime": "2025/09/30 07:56",
       "imageUrl": ""
     }
   ]
