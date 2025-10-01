@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-01T07:44:38.561Z",
+  "updated": "2025-10-01T07:53:29.404Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "245",
-      "recommendCount": "327",
-      "title": "Re: [新聞] 沈伯洋收恐嚇信「讓你女兒變第2個小燈泡」　粉絲擔憂：快報警",
-      "link": "/bbs/Gossiping/M.1759218626.A.801",
-      "author": "blackman451",
-      "board": "Gossiping",
-      "publishTime": "2025/09/30 07:50",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "220",
       "recommendCount": "398",
       "title": "[爆卦] 台灣阿童：八炯提告，造謠者喊造謠",
@@ -195,12 +185,22 @@
     },
     {
       "recommendScore": "203",
-      "recommendCount": "315",
+      "recommendCount": "316",
       "title": "[新聞] 快訊／預算案55：45未通過！　美政府關閉「倒數4小時」",
       "link": "/bbs/Stock/M.1759278814.A.041",
       "author": "DDDDRR",
       "board": "Stock",
       "publishTime": "2025/10/01 00:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "202",
+      "recommendCount": "299",
+      "title": "[情報] 洋基滿壘0出局大中計",
+      "link": "/bbs/Baseball/M.1759281171.A.F0C",
+      "author": "alpacaHong",
+      "board": "Baseball",
+      "publishTime": "2025/10/01 01:12",
       "imageUrl": ""
     }
   ]
