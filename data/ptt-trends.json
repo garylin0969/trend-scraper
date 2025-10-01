@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-01T22:29:12.373Z",
+  "updated": "2025-10-01T22:37:15.585Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -115,7 +115,7 @@
     },
     {
       "recommendScore": "124",
-      "recommendCount": "483",
+      "recommendCount": "486",
       "title": "[新聞] 前立委莊競程、洪慈庸  出任台灣智庫正副",
       "link": "/bbs/Gossiping/M.1759310116.A.58A",
       "author": "deathdecay",
@@ -124,13 +124,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "225",
-      "recommendCount": "460",
+      "recommendScore": "226",
+      "recommendCount": "462",
       "title": "[問卦] 單親媽媽：離婚後追求者反而跑光 why",
       "link": "/bbs/Gossiping/M.1759295532.A.A99",
       "author": "Carol787",
       "board": "Gossiping",
       "publishTime": "2025/10/01 05:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "174",
+      "recommendCount": "510",
+      "title": "[新聞] 柯文哲民調超越賴清德、緊追盧秀燕　醫估2028大選藍白傷腦筋：誰正誰副很難說",
+      "link": "/bbs/Gossiping/M.1759302618.A.A8E",
+      "author": "HTC92",
+      "board": "Gossiping",
+      "publishTime": "2025/10/01 07:10",
       "imageUrl": ""
     },
     {
@@ -141,16 +151,6 @@
       "author": "quackquack",
       "board": "Baseball",
       "publishTime": "2025/10/01 01:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "173",
-      "recommendCount": "508",
-      "title": "[新聞] 柯文哲民調超越賴清德、緊追盧秀燕　醫估2028大選藍白傷腦筋：誰正誰副很難說",
-      "link": "/bbs/Gossiping/M.1759302618.A.A8E",
-      "author": "HTC92",
-      "board": "Gossiping",
-      "publishTime": "2025/10/01 07:10",
       "imageUrl": ""
     },
     {
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "226",
-      "recommendCount": "413",
-      "title": "[爆卦] 台灣阿童：八炯提告，造謠者喊造謠",
-      "link": "/bbs/Gossiping/M.1759271617.A.024",
-      "author": "psychohero",
-      "board": "Gossiping",
-      "publishTime": "2025/09/30 22:33",
-      "imageUrl": "https://cache.pttweb.cc/imgur/wDGEFvK/s/bb7682eda6061c67a755eb1274af103d"
-    },
-    {
       "recommendScore": "232",
       "recommendCount": "420",
       "title": "[新聞] 快訊／北捷逼讓座遭踢飛「老婦出事了」！超商鬧事被逮",
@@ -201,6 +191,16 @@
       "author": "a0580531",
       "board": "Gossiping",
       "publishTime": "2025/10/01 02:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "228",
+      "recommendCount": "333",
+      "title": "[討論] 今天爪邦戰堪稱中職最好看",
+      "link": "/bbs/Baseball/M.1759327024.A.D07",
+      "author": "jzzy",
+      "board": "Baseball",
+      "publishTime": "2025/10/01 13:57",
       "imageUrl": ""
     }
   ]
