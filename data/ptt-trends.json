@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-02T06:48:03.590Z",
+  "updated": "2025-10-02T06:54:56.036Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "309",
+      "recommendCount": "447",
+      "title": "[分享] 今日 佐佐木朗希",
+      "link": "/bbs/Baseball/M.1759378371.A.2A6",
+      "author": "Axwell",
+      "board": "Baseball",
+      "publishTime": "2025/10/02 04:12",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "434",
       "recommendCount": "1407",
       "title": "[轉播] 八局下 兄弟3：1悍將",
@@ -191,16 +201,6 @@
       "author": "hsuaninteen",
       "board": "Elephants",
       "publishTime": "2025/10/01 12:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "303",
-      "recommendCount": "439",
-      "title": "[分享] 今日 佐佐木朗希",
-      "link": "/bbs/Baseball/M.1759378371.A.2A6",
-      "author": "Axwell",
-      "board": "Baseball",
-      "publishTime": "2025/10/02 04:12",
       "imageUrl": ""
     }
   ]
