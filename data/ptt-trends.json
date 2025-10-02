@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-02T18:46:33.457Z",
+  "updated": "2025-10-02T18:53:56.761Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -52,6 +52,16 @@
       "board": "Gossiping",
       "publishTime": "2025/10/02 06:21",
       "imageUrl": "https://cache.pttweb.cc/imgur/exMqhXz/s/e1759cd88fe526e75577c63f3bd6e33b"
+    },
+    {
+      "recommendScore": "590",
+      "recommendCount": "616",
+      "title": "[閒聊] [推投] 神預測-調查支持隊伍",
+      "link": "/bbs/LoL/M.1759412676.A.C51",
+      "author": "cornsoup",
+      "board": "LoL",
+      "publishTime": "2025/10/02 13:44",
+      "imageUrl": ""
     },
     {
       "recommendScore": "395",
@@ -124,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "304",
-      "recommendCount": "1040",
+      "recommendScore": "310",
+      "recommendCount": "1048",
       "title": "[黑特] 鏡週刊的海外資金2800萬美金被公開了",
       "link": "/bbs/HatePolitics/M.1759390652.A.CB4",
       "author": "goddamnhuge",
@@ -154,13 +164,13 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ZkDGaM5/s/b759b6ae0107c64638e54b7634374f4d"
     },
     {
-      "recommendScore": "361",
-      "recommendCount": "381",
-      "title": "[閒聊] [推投] 神預測-調查支持隊伍",
-      "link": "/bbs/LoL/M.1759412676.A.C51",
-      "author": "cornsoup",
-      "board": "LoL",
-      "publishTime": "2025/10/02 13:44",
+      "recommendScore": "303",
+      "recommendCount": "407",
+      "title": "[公告] 小喜灌",
+      "link": "/bbs/Elephants/M.1759412791.A.605",
+      "author": "msarthur",
+      "board": "Elephants",
+      "publishTime": "2025/10/02 13:46",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "Axwell",
       "board": "Baseball",
       "publishTime": "2025/10/02 04:12",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "289",
-      "recommendCount": "390",
-      "title": "[公告] 小喜灌",
-      "link": "/bbs/Elephants/M.1759412791.A.605",
-      "author": "msarthur",
-      "board": "Elephants",
-      "publishTime": "2025/10/02 13:46",
       "imageUrl": ""
     }
   ]
