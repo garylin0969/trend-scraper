@@ -1,10 +1,10 @@
 {
-  "updated": "2025-10-02T06:23:55.246Z",
+  "updated": "2025-10-02T06:50:05.151Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-10-02T06:23:49.000Z",
+    "lastBuildDate": "2025-10-02T06:49:58.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -26,20 +26,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ccbe/live/27cb5d70-9f4e-11f0-928c-71dbb8619e94.jpg"
     },
     {
+      "title": "無人機、手語與「看起來像個美國人」：移民如何巧妙地躲避特朗普的打擊行動",
+      "description": "BBC巴西組追蹤了WhatsApp群組，以了解對移民的打擊行動如何影響馬薩諸塞州巴西社群的生活、並且加劇焦慮。",
+      "link": "https://www.bbc.com/zhongwen/articles/cj07pgqgdz1o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-02T06:24:46.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cj07pgqgdz1o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0466/live/6b4860f0-9ae1-11f0-b741-177e3e2c2fc7.png"
+    },
+    {
       "title": "工作、旅行還有國家公園，美國政府關門會帶來什麼影響？",
       "description": "這場僵局涵蓋十月及之後的時期，預計將在美國各地造成廣泛的混亂，影響範圍涵蓋從航空旅行到動物園參觀。預計將使約40%的聯邦員工——約80萬人——被迫無薪休假。",
       "link": "https://www.bbc.com/zhongwen/articles/cr5qp88762lo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-10-01T08:35:53.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cr5qp88762lo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0244/live/0623ca90-9e95-11f0-928c-71dbb8619e94.jpg"
-    },
-    {
-      "title": "分析：特朗普推動終結加沙戰爭計劃，勢頭強勁但細節不足",
-      "description": "該計劃意義重大，但它缺乏決定外交協議是否有效的具體細節。",
-      "link": "https://www.bbc.com/zhongwen/articles/c99glxd72r0o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-01T03:47:44.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c99glxd72r0o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d938/live/1f3bb180-9e0b-11f0-bc74-c938242ac6b1.jpg"
     },
     {
       "title": "膠原蛋白：喝的？注射的？還是塗在皮膚上？真的有效嗎？",
@@ -50,12 +50,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0049/live/861c7ea0-9c4b-11f0-928c-71dbb8619e94.jpg"
     },
     {
-      "title": "走上戰場的烏克蘭囚犯士兵：「我知道怎麼殺人，不會因此被定罪」",
-      "description": "約有一萬名烏克蘭囚犯離開監獄遠赴戰爭，但並非所有人都能活著獲得自由。",
-      "link": "https://www.bbc.com/zhongwen/articles/c07v2zprgpmo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-01T06:35:33.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c07v2zprgpmo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/256a/live/090d4650-9d1e-11f0-bc17-37f040c2fadb.jpg"
+      "title": "分析：特朗普推動終結加沙戰爭計劃，勢頭強勁但細節不足",
+      "description": "該計劃意義重大，但它缺乏決定外交協議是否有效的具體細節。",
+      "link": "https://www.bbc.com/zhongwen/articles/c99glxd72r0o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-01T03:47:44.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c99glxd72r0o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d938/live/1f3bb180-9e0b-11f0-bc74-c938242ac6b1.jpg"
     },
     {
       "title": "你應該使用哪種食用油？三個需要避免的常見錯誤",
@@ -64,6 +64,14 @@
       "pubDate": "2025-10-02T03:43:54.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy502vpwqndo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cecb/live/f253c650-9dea-11f0-b3aa-f94b46cdf49f.jpg"
+    },
+    {
+      "title": "走上戰場的烏克蘭囚犯士兵：「我知道怎麼殺人，不會因此被定罪」",
+      "description": "約有一萬名烏克蘭囚犯離開監獄遠赴戰爭，但並非所有人都能活著獲得自由。",
+      "link": "https://www.bbc.com/zhongwen/articles/c07v2zprgpmo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-01T06:35:33.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c07v2zprgpmo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/256a/live/090d4650-9d1e-11f0-bc17-37f040c2fadb.jpg"
     },
     {
       "title": "台灣「教師荒」：為何年輕人不願從事教職？",
@@ -96,14 +104,6 @@
       "pubDate": "2025-09-30T04:19:31.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cm2z54jpe2xo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ccd9/live/0955b080-97b9-11f0-a1d2-01653bf009aa.jpg"
-    },
-    {
-      "title": "阿瑪尼時裝秀絕唱上演  眾星雲集米蘭",
-      "description": "在米蘭舉行的喬治·阿瑪尼（Giorgio Armani）2026年春夏系列時裝秀，是這位意大利設計師在辭世前最後參與創作的一個系列。",
-      "link": "https://www.bbc.com/zhongwen/articles/cj6x0dxgdnwo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-30T07:12:21.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cj6x0dxgdnwo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6849/live/4754e2c0-9dcc-11f0-9f23-2534d63ace40.jpg"
     },
     {
       "title": "賴清德前助理被判為中國充當間諜  謀利近500萬台幣",
@@ -282,6 +282,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0754/live/2b200980-9a26-11f0-928c-71dbb8619e94.png"
     },
     {
+      "title": "阿瑪尼時裝秀絕唱上演  眾星雲集米蘭",
+      "description": "在米蘭舉行的喬治·阿瑪尼（Giorgio Armani）2026年春夏系列時裝秀，是這位意大利設計師在辭世前最後參與創作的一個系列。",
+      "link": "https://www.bbc.com/zhongwen/articles/cj6x0dxgdnwo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-09-30T07:12:21.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cj6x0dxgdnwo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6849/live/4754e2c0-9dcc-11f0-9f23-2534d63ace40.jpg"
+    },
+    {
       "title": "跟投老闆賺下大錢的紐約律所秘書  將巨額遺產捐作獎學金",
       "description": "一位紐約的法律秘書透過模仿老闆的投資決策而致富。她去世後，這一切才曝光——數百萬美元以她的名義被捐出。",
       "link": "https://www.bbc.com/zhongwen/articles/c8exjle7rwgo/trad?at_medium=RSS&at_campaign=rss",
@@ -296,14 +304,6 @@
       "pubDate": "2025-09-29T05:19:05.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c784l5nzz1lo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c729/live/e46183a0-9cf2-11f0-8bba-0b3b1c7a334c.jpg"
-    },
-    {
-      "title": "印度研究者：鞋臭研究如何奪下「搞笑諾貝爾獎」",
-      "description": "兩位研究者說，在印度，幾乎每戶人家都有某種形式的鞋架，若能擁有一個能保持鞋子無臭的鞋架，將大大提升使用體驗。」他們將「臭鞋」視為重新設計傳統鞋架的機會，以提供更好的用戶體驗。",
-      "link": "https://www.bbc.com/zhongwen/articles/cpq5xz4dwp4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-29T05:46:36.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cpq5xz4dwp4o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5d9f/live/a0a88920-9cec-11f0-b741-177e3e2c2fc7.jpg"
     },
     {
       "title": "為什麼老鼠會侵佔我們的城市？",
