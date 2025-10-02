@@ -1,11 +1,11 @@
 {
-  "updated": "2025-10-02T22:43:58.301Z",
+  "updated": "2025-10-02T22:53:57.157Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "810",
-      "recommendCount": "843",
+      "recommendScore": "885",
+      "recommendCount": "923",
       "title": "[閒聊] [推投] 神預測-調查支持隊伍",
       "link": "/bbs/LoL/M.1759412676.A.C51",
       "author": "cornsoup",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "386",
-      "recommendCount": "997",
+      "recommendScore": "393",
+      "recommendCount": "1012",
       "title": "[新聞] 快訊／出獄男追砍多名學童畫面曝！　尖叫四起、地面留血跡",
       "link": "/bbs/Gossiping/M.1759399610.A.428",
       "author": "chunchie",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "525",
-      "recommendCount": "555",
+      "recommendScore": "526",
+      "recommendCount": "556",
       "title": "[祭品] 大谷翔平以投手身分首場季後賽登板",
       "link": "/bbs/Baseball/M.1759388431.A.231",
       "author": "L1ON",
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "170",
+      "recommendCount": "520",
+      "title": "[新聞] 黃國昌爆「養狗仔」 王義川出手了：明天上午赴北檢提告",
+      "link": "/bbs/Gossiping/M.1759412201.A.445",
+      "author": "x5723",
+      "board": "Gossiping",
+      "publishTime": "2025/10/02 13:36",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "237",
       "recommendCount": "991",
       "title": "[問卦] 平心而論，中國真的強大嗎？",
@@ -174,13 +184,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "178",
-      "recommendCount": "494",
-      "title": "[新聞] 黃國昌爆「養狗仔」 王義川出手了：明天上午赴北檢提告",
-      "link": "/bbs/Gossiping/M.1759412201.A.445",
-      "author": "x5723",
+      "recommendScore": "247",
+      "recommendCount": "395",
+      "title": "[問卦] 在台灣犯了什麼罪才會被判20以上",
+      "link": "/bbs/Gossiping/M.1759406656.A.126",
+      "author": "Daniel0712",
       "board": "Gossiping",
-      "publishTime": "2025/10/02 13:36",
+      "publishTime": "2025/10/02 12:04",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "msarthur",
       "board": "Elephants",
       "publishTime": "2025/10/02 13:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "245",
-      "recommendCount": "387",
-      "title": "[問卦] 在台灣犯了什麼罪才會被判20以上",
-      "link": "/bbs/Gossiping/M.1759406656.A.126",
-      "author": "Daniel0712",
-      "board": "Gossiping",
-      "publishTime": "2025/10/02 12:04",
       "imageUrl": ""
     }
   ]
