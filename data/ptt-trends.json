@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-03T15:18:11.257Z",
+  "updated": "2025-10-03T15:28:54.010Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,16 +24,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "291",
-      "recommendCount": "579",
-      "title": "[問卦] 女童家屬：希望兇嫌被判死刑  有機會嗎",
-      "link": "/bbs/Gossiping/M.1759418422.A.FD1",
-      "author": "westdoorcard",
-      "board": "Gossiping",
-      "publishTime": "2025/10/02 15:20",
-      "imageUrl": "https://cache.pttweb.cc/imgur/6r2vdZn/s/6de0f099d64a7aa28bf93198ca8c769b"
-    },
-    {
       "recommendScore": "366",
       "recommendCount": "885",
       "title": "[新聞] 北士科地上權案 三贏局面演變為三輸",
@@ -52,6 +42,16 @@
       "board": "Baseball",
       "publishTime": "2025/10/03 02:41",
       "imageUrl": "https://cache.pttweb.cc/imgur/Urk45to/s/9873dbbab37e701886ff79c19a3e2998"
+    },
+    {
+      "recommendScore": "306",
+      "recommendCount": "403",
+      "title": "[分享] 富邦悍將 睽違五年五連勝",
+      "link": "/bbs/Baseball/M.1759497554.A.8EC",
+      "author": "iahks38",
+      "board": "Baseball",
+      "publishTime": "2025/10/03 13:19",
+      "imageUrl": "https://cache.pttweb.cc/imgur/fV3Bp0X/s/9127a657f3f763660bb9a74952d60e88"
     },
     {
       "recommendScore": "246",
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "218",
-      "recommendCount": "295",
-      "title": "[分享] 富邦悍將 睽違五年五連勝",
-      "link": "/bbs/Baseball/M.1759497554.A.8EC",
-      "author": "iahks38",
-      "board": "Baseball",
-      "publishTime": "2025/10/03 13:19",
-      "imageUrl": "https://cache.pttweb.cc/imgur/fV3Bp0X/s/9127a657f3f763660bb9a74952d60e88"
-    },
-    {
       "recommendScore": "157",
       "recommendCount": "428",
       "title": "[問卦] 「死刑不能解決問題」這論點是不是超弱",
@@ -201,6 +191,16 @@
       "author": "system32",
       "board": "Gossiping",
       "publishTime": "2025/10/03 03:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "154",
+      "recommendCount": "357",
+      "title": "[情報] 龍邦戰板凳清空大場面",
+      "link": "/bbs/Baseball/M.1759494368.A.955",
+      "author": "idingdang",
+      "board": "Baseball",
+      "publishTime": "2025/10/03 12:26",
       "imageUrl": ""
     }
   ]
