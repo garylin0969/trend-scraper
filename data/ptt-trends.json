@@ -1,8 +1,18 @@
 {
-  "updated": "2025-10-03T14:17:44.416Z",
+  "updated": "2025-10-03T14:29:41.433Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "411",
+      "recommendCount": "998",
+      "title": "[問卦] 你會選擇撞砍人犯嗎？",
+      "link": "/bbs/Gossiping/M.1759473690.A.F65",
+      "author": "s2678132",
+      "board": "Gossiping",
+      "publishTime": "2025/10/03 06:41",
+      "imageUrl": "https://cache.pttweb.cc/imgur/K5jshLL/s/45c876e526035680a03ab87a41a09a6d"
+    },
     {
       "recommendScore": "370",
       "recommendCount": "817",
@@ -22,16 +32,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/02 22:22",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "340",
-      "recommendCount": "813",
-      "title": "[問卦] 你會選擇撞砍人犯嗎？",
-      "link": "/bbs/Gossiping/M.1759473690.A.F65",
-      "author": "s2678132",
-      "board": "Gossiping",
-      "publishTime": "2025/10/03 06:41",
-      "imageUrl": "https://cache.pttweb.cc/imgur/K5jshLL/s/45c876e526035680a03ab87a41a09a6d"
     },
     {
       "recommendScore": "291",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "188",
-      "recommendCount": "358",
+      "recommendScore": "201",
+      "recommendCount": "377",
       "title": "[新聞] 綠營點名合作選台北市長 苗博雅未鬆口:王世堅、吳怡農都是好人才",
       "link": "/bbs/Gossiping/M.1759466687.A.B94",
       "author": "hoyumi",
