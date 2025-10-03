@@ -1,8 +1,18 @@
 {
-  "updated": "2025-10-03T19:43:40.697Z",
+  "updated": "2025-10-03T19:53:41.007Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "455",
+      "recommendCount": "1107",
+      "title": "[問卦] 你會選擇撞砍人犯嗎？",
+      "link": "/bbs/Gossiping/M.1759473690.A.F65",
+      "author": "s2678132",
+      "board": "Gossiping",
+      "publishTime": "2025/10/03 06:41",
+      "imageUrl": "https://cache.pttweb.cc/imgur/K5jshLL/s/45c876e526035680a03ab87a41a09a6d"
+    },
     {
       "recommendScore": "321",
       "recommendCount": "702",
@@ -191,16 +201,6 @@
       "author": "Q875566",
       "board": "Stock",
       "publishTime": "2025/10/03 15:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "67",
-      "recommendCount": "351",
-      "title": "[新聞] 10年砍7人！苗栗隨機殺人　矯正署說話了",
-      "link": "/bbs/Gossiping/M.1759488225.A.795",
-      "author": "GOD5566GOD",
-      "board": "Gossiping",
-      "publishTime": "2025/10/03 10:43",
       "imageUrl": ""
     }
   ]
