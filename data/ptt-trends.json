@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-03T07:34:42.906Z",
+  "updated": "2025-10-03T07:43:30.908Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "321",
-      "recommendCount": "1070",
-      "title": "[黑特] 鏡週刊的海外資金2800萬美金被公開了",
-      "link": "/bbs/HatePolitics/M.1759390652.A.CB4",
-      "author": "goddamnhuge",
-      "board": "HatePolitics",
-      "publishTime": "2025/10/02 07:37",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "324",
       "recommendCount": "403",
       "title": "[分享] 今日Cam Schlittler",
@@ -201,6 +191,16 @@
       "author": "copybrown",
       "board": "Gossiping",
       "publishTime": "2025/10/02 10:31",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "201",
+      "recommendCount": "422",
+      "title": "[問卦] 欸不是海鯤號怎麼走到今天這一步的？",
+      "link": "/bbs/Gossiping/M.1759392334.A.110",
+      "author": "zzzzzzzzzzzy",
+      "board": "Gossiping",
+      "publishTime": "2025/10/02 08:05",
       "imageUrl": ""
     }
   ]
