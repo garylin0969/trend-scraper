@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-03T08:33:42.721Z",
+  "updated": "2025-10-03T08:46:21.190Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "372",
+      "recommendCount": "752",
+      "title": "[Vtub] 火威青 畢業",
+      "link": "/bbs/C_Chat/M.1759474893.A.6BF",
+      "author": "dragon803",
+      "board": "C_Chat",
+      "publishTime": "2025/10/03 07:01",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "221",
       "recommendCount": "352",
       "title": "[新聞] 精鏡傳媒海外金流黃國昌出示開曼紙上公司",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/02 08:47",
       "imageUrl": "https://cache.pttweb.cc/imgur/WbCViMR/s/9c4ea770a795074391b22033127abda0"
-    },
-    {
-      "recommendScore": "-153",
-      "recommendCount": "336",
-      "title": "[新聞] 「揭弊女神」馬郁雯宣布離開三立 9年記者生涯畫句點",
-      "link": "/bbs/Gossiping/M.1759406729.A.18B",
-      "author": "emperor",
-      "board": "Gossiping",
-      "publishTime": "2025/10/02 12:05",
-      "imageUrl": ""
     }
   ]
 }
