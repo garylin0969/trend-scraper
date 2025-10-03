@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-03T09:28:17.016Z",
+  "updated": "2025-10-03T09:36:10.252Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -92,6 +92,16 @@
       "board": "Gossiping",
       "publishTime": "2025/10/02 12:04",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "264",
+      "recommendCount": "623",
+      "title": "[問卦] 你會選擇撞砍人犯嗎？",
+      "link": "/bbs/Gossiping/M.1759473690.A.F65",
+      "author": "s2678132",
+      "board": "Gossiping",
+      "publishTime": "2025/10/03 06:41",
+      "imageUrl": "https://cache.pttweb.cc/imgur/K5jshLL/s/45c876e526035680a03ab87a41a09a6d"
     },
     {
       "recommendScore": "324",
@@ -191,16 +201,6 @@
       "author": "LeonardoChen",
       "board": "Gossiping",
       "publishTime": "2025/10/02 22:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "175",
-      "recommendCount": "307",
-      "title": "[新聞] 高中生假冒「鏟子超人」騙贊助 林口高中要學生致歉並退錢",
-      "link": "/bbs/Gossiping/M.1759464156.A.36D",
-      "author": "rpg",
-      "board": "Gossiping",
-      "publishTime": "2025/10/03 04:02",
       "imageUrl": ""
     }
   ]
