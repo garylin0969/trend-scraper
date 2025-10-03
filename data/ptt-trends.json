@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-03T10:39:23.900Z",
+  "updated": "2025-10-03T10:46:31.200Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "340",
+      "recommendCount": "813",
+      "title": "[問卦] 你會選擇撞砍人犯嗎？",
+      "link": "/bbs/Gossiping/M.1759473690.A.F65",
+      "author": "s2678132",
+      "board": "Gossiping",
+      "publishTime": "2025/10/03 06:41",
+      "imageUrl": "https://cache.pttweb.cc/imgur/K5jshLL/s/45c876e526035680a03ab87a41a09a6d"
+    },
+    {
       "recommendScore": "291",
       "recommendCount": "579",
       "title": "[問卦] 女童家屬：希望兇嫌被判死刑  有機會嗎",
@@ -82,16 +92,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/02 12:04",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "264",
-      "recommendCount": "623",
-      "title": "[問卦] 你會選擇撞砍人犯嗎？",
-      "link": "/bbs/Gossiping/M.1759473690.A.F65",
-      "author": "s2678132",
-      "board": "Gossiping",
-      "publishTime": "2025/10/03 06:41",
-      "imageUrl": "https://cache.pttweb.cc/imgur/K5jshLL/s/45c876e526035680a03ab87a41a09a6d"
     },
     {
       "recommendScore": "324",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "389",
-      "recommendCount": "809",
+      "recommendScore": "418",
+      "recommendCount": "856",
       "title": "[Vtub] 火威青 畢業",
       "link": "/bbs/C_Chat/M.1759474893.A.6BF",
       "author": "dragon803",
