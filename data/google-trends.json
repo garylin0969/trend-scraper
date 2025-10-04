@@ -1,10 +1,20 @@
 {
-  "updated": "2025-10-04T23:08:25.692Z",
+  "updated": "2025-10-04T23:36:41.579Z",
   "trends": [
     {
       "googleTrend": "mlb",
+      "searchVolume": "5,000+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "道奇",
       "searchVolume": "2,000+",
       "started": "1 小時前"
+    },
+    {
+      "googleTrend": "mlb直播",
+      "searchVolume": "1,000+",
+      "started": "2 小時前"
     },
     {
       "googleTrend": "hola",
@@ -12,29 +22,19 @@
       "started": "2 小時前"
     },
     {
-      "googleTrend": "道奇",
-      "searchVolume": "1,000+",
-      "started": "30 分鐘前"
-    },
-    {
-      "googleTrend": "mlb直播",
+      "googleTrend": "洋基",
       "searchVolume": "500+",
       "started": "2 小時前"
+    },
+    {
+      "googleTrend": "mlb戰績",
+      "searchVolume": "500+",
+      "started": "1 小時前"
     },
     {
       "googleTrend": "madrid vs villarreal",
       "searchVolume": "200+",
-      "started": "1 小時前"
-    },
-    {
-      "googleTrend": "洋基",
-      "searchVolume": "200+",
       "started": "2 小時前"
-    },
-    {
-      "googleTrend": "道奇賽程",
-      "searchVolume": "500+",
-      "started": "40 分鐘前"
     },
     {
       "googleTrend": "chelsea đấu với liverpool",
@@ -44,22 +44,27 @@
     {
       "googleTrend": "real madrid đấu với villarreal",
       "searchVolume": "100+",
-      "started": "50 分鐘前"
-    },
-    {
-      "googleTrend": "緯來體育台",
-      "searchVolume": "100+",
-      "started": "50 分鐘前"
+      "started": "1 小時前"
     },
     {
       "googleTrend": "體育",
       "searchVolume": "100+",
-      "started": "40 分鐘前"
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "날씨",
+      "searchVolume": "100+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "緯來體育台",
+      "searchVolume": "100+",
+      "started": "1 小時前"
     },
     {
       "googleTrend": "台灣運彩",
       "searchVolume": "100+",
-      "started": "20 分鐘前"
+      "started": "50 分鐘前"
     }
   ]
 }
