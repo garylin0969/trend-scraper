@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-04T23:34:13.113Z",
+  "updated": "2025-10-04T23:43:38.728Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -105,7 +105,7 @@
     },
     {
       "recommendScore": "241",
-      "recommendCount": "1383",
+      "recommendCount": "1384",
       "title": "Re: [新聞] 輝達北士科總部若「胎死腹中」…解約金高達140億元？網直言：沒理由讓它破局",
       "link": "/bbs/Stock/M.1759541613.A.05E",
       "author": "iahc5566",
@@ -114,14 +114,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "193",
-      "recommendCount": "445",
+      "recommendScore": "192",
+      "recommendCount": "446",
       "title": "[問卦] 日本新女黨揆： 日本人給我好好工作去",
       "link": "/bbs/Gossiping/M.1759571172.A.AD1",
       "author": "beaver",
       "board": "Gossiping",
       "publishTime": "2025/10/04 09:46",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "228",
+      "recommendCount": "824",
+      "title": "[問卦] 輝達設總部的土地爭議懶人包，有沒有掛",
+      "link": "/bbs/Gossiping/M.1759583785.A.E84",
+      "author": "kitty1010",
+      "board": "Gossiping",
+      "publishTime": "2025/10/04 13:16",
+      "imageUrl": "https://cache.pttweb.cc/imgur/JG54mJf/s/d77c0a74d9bdb097b37c1e43dde73f4d"
     },
     {
       "recommendScore": "191",
@@ -132,16 +142,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/04 00:43",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "226",
-      "recommendCount": "821",
-      "title": "[問卦] 輝達設總部的土地爭議懶人包，有沒有掛",
-      "link": "/bbs/Gossiping/M.1759583785.A.E84",
-      "author": "kitty1010",
-      "board": "Gossiping",
-      "publishTime": "2025/10/04 13:16",
-      "imageUrl": "https://cache.pttweb.cc/imgur/JG54mJf/s/d77c0a74d9bdb097b37c1e43dde73f4d"
     },
     {
       "recommendScore": "186",
@@ -184,8 +184,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/YwCyrt1/s/b5e256324487673f13b035584ed587e1"
     },
     {
-      "recommendScore": "252",
-      "recommendCount": "415",
+      "recommendScore": "253",
+      "recommendCount": "416",
       "title": "[分享] 宇宙邦迷因FB 萬字文章",
       "link": "/bbs/Baseball/M.1759582525.A.D98",
       "author": "warriors30",
