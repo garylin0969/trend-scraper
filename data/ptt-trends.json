@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-04T09:27:04.279Z",
+  "updated": "2025-10-04T09:34:38.409Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,14 +44,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "283",
-      "recommendCount": "450",
+      "recommendScore": "285",
+      "recommendCount": "453",
       "title": "[請益] 各位現金水位還有幾成？",
       "link": "/bbs/Stock/M.1759503841.A.9E5",
       "author": "Q875566",
       "board": "Stock",
       "publishTime": "2025/10/03 15:04",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "216",
+      "recommendCount": "435",
+      "title": "[新聞] 快訊／新店驚傳砍人！女遭砍頸命危",
+      "link": "/bbs/Gossiping/M.1759545899.A.5C2",
+      "author": "juyhnmki",
+      "board": "Gossiping",
+      "publishTime": "2025/10/04 02:44",
+      "imageUrl": "https://cache.pttweb.cc/imgur/82yoOKo/s/7c5c5903f7b3051211b0bd6b1b639e78"
     },
     {
       "recommendScore": "334",
@@ -74,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "200",
-      "recommendCount": "408",
-      "title": "[新聞] 快訊／新店驚傳砍人！女遭砍頸命危",
-      "link": "/bbs/Gossiping/M.1759545899.A.5C2",
-      "author": "juyhnmki",
-      "board": "Gossiping",
-      "publishTime": "2025/10/04 02:44",
-      "imageUrl": "https://cache.pttweb.cc/imgur/82yoOKo/s/7c5c5903f7b3051211b0bd6b1b639e78"
-    },
-    {
       "recommendScore": "213",
       "recommendCount": "636",
       "title": "[問卦] 「輝達北士科」剛好用來討論圖利罪？",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "167",
-      "recommendCount": "1001",
+      "recommendScore": "164",
+      "recommendCount": "1008",
       "title": "[新聞] 輝達北士科總部若「胎死腹中」…解約金高達140億元？網直言：沒理由讓它破局",
       "link": "/bbs/Stock/M.1759533010.A.35C",
       "author": "mikearice",
