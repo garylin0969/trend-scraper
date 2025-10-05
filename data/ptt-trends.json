@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-05T10:17:31.067Z",
+  "updated": "2025-10-05T10:28:57.158Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "330",
+      "recommendCount": "708",
+      "title": "[問卦] 吊車大王:對小孩唯一要求，不准騎機車",
+      "link": "/bbs/Gossiping/M.1759637003.A.F5F",
+      "author": "kikiki37",
+      "board": "Gossiping",
+      "publishTime": "2025/10/05 04:03",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "352",
       "recommendCount": "502",
       "title": "[炸裂] Teoscar Hernandez 逆轉三分砲",
@@ -51,16 +61,6 @@
       "author": "jerry00116",
       "board": "Baseball",
       "publishTime": "2025/10/05 00:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "321",
-      "recommendCount": "680",
-      "title": "[問卦] 吊車大王:對小孩唯一要求，不准騎機車",
-      "link": "/bbs/Gossiping/M.1759637003.A.F5F",
-      "author": "kikiki37",
-      "board": "Gossiping",
-      "publishTime": "2025/10/05 04:03",
       "imageUrl": ""
     },
     {
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "260",
-      "recommendCount": "410",
+      "recommendScore": "262",
+      "recommendCount": "413",
       "title": "[問卦] 小泉：我選輸是因為票少了...",
       "link": "/bbs/Gossiping/M.1759616632.A.431",
       "author": "BIA",
