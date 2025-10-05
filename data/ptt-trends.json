@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-05T06:19:00.262Z",
+  "updated": "2025-10-05T06:34:25.718Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -134,16 +134,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "190",
-      "recommendCount": "545",
-      "title": "[問卦] 中央對輝達的設廠完全不感興趣嗎",
-      "link": "/bbs/Gossiping/M.1759559326.A.EFA",
-      "author": "MagicYif",
-      "board": "Gossiping",
-      "publishTime": "2025/10/04 06:28",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "275",
       "recommendCount": "372",
       "title": "[公告] 726後失蹤KKC王王冷分身條款十年 水桶",
@@ -202,6 +192,16 @@
       "board": "Baseball",
       "publishTime": "2025/10/05 01:48",
       "imageUrl": "https://cache.pttweb.cc/imgur/Xms4Ffx/s/1d2628e902e8fa564e9e6137f0a7a51d"
+    },
+    {
+      "recommendScore": "-145",
+      "recommendCount": "368",
+      "title": "[新聞] 賴清德批：花蓮撤離民眾 要挨家挨戶 要造冊  要有基本動作",
+      "link": "/bbs/Gossiping/M.1759569691.A.0FA",
+      "author": "Gina4290",
+      "board": "Gossiping",
+      "publishTime": "2025/10/04 09:21",
+      "imageUrl": ""
     }
   ]
 }
