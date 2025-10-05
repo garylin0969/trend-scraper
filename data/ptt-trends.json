@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-05T20:17:44.278Z",
+  "updated": "2025-10-05T20:28:31.634Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/qRfPskv/s/d1ddf3ccb22299b75a601f4020b1795e"
     },
     {
-      "recommendScore": "353",
-      "recommendCount": "771",
+      "recommendScore": "178",
+      "recommendCount": "652",
+      "title": "[新聞] 快新聞／凌濤慘了？指稱劉世芳「魔性訕笑」花蓮　中央災變中心送法辦",
+      "link": "/bbs/Gossiping/M.1759660927.A.2AE",
+      "author": "JioJoin",
+      "board": "Gossiping",
+      "publishTime": "2025/10/05 10:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "356",
+      "recommendCount": "782",
       "title": "[問卦] 吊車大王:對小孩唯一要求，不准騎機車",
       "link": "/bbs/Gossiping/M.1759637003.A.F5F",
       "author": "kikiki37",
@@ -44,16 +54,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "151",
-      "recommendCount": "569",
-      "title": "[新聞] 快新聞／凌濤慘了？指稱劉世芳「魔性訕笑」花蓮　中央災變中心送法辦",
-      "link": "/bbs/Gossiping/M.1759660927.A.2AE",
-      "author": "JioJoin",
-      "board": "Gossiping",
-      "publishTime": "2025/10/05 10:42",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "398",
       "recommendCount": "489",
       "title": "[炸裂] 葉保弟 生涯首轟 逆轉三分砲",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "221",
-      "recommendCount": "616",
+      "recommendScore": "234",
+      "recommendCount": "644",
       "title": "[問卦] 讓你當公務員  你敢讓輝達過關嗎",
       "link": "/bbs/Gossiping/M.1759652145.A.926",
       "author": "Gina4290",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "262",
-      "recommendCount": "414",
+      "recommendScore": "264",
+      "recommendCount": "418",
       "title": "[問卦] 小泉：我選輸是因為票少了...",
       "link": "/bbs/Gossiping/M.1759616632.A.431",
       "author": "BIA",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "199",
-      "recommendCount": "682",
+      "recommendScore": "216",
+      "recommendCount": "720",
       "title": "[問卦] 台灣居然不能圖利輝達笑死",
       "link": "/bbs/Gossiping/M.1759615474.A.B8E",
       "author": "laverne1",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "204",
-      "recommendCount": "407",
+      "recommendScore": "226",
+      "recommendCount": "451",
       "title": "[問卦] 說一個萊爾校長目前有成功的事情？",
       "link": "/bbs/Gossiping/M.1759654790.A.923",
       "author": "eunhailoveu",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "216",
-      "recommendCount": "516",
+      "recommendScore": "234",
+      "recommendCount": "570",
       "title": "[新聞] 李四川︰移轉改約 涉圖利",
       "link": "/bbs/Gossiping/M.1759656018.A.80C",
       "author": "DarkKnight",
@@ -124,18 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "161",
-      "recommendCount": "505",
-      "title": "[問卦] 能力差的人是怎麼當上主管的？",
-      "link": "/bbs/Gossiping/M.1759624459.A.7CB",
-      "author": "cake51640",
-      "board": "Gossiping",
-      "publishTime": "2025/10/05 00:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "297",
-      "recommendCount": "315",
+      "recommendScore": "339",
+      "recommendCount": "358",
       "title": "[推投] 2025「夏番」最喜歡電視動畫「3票」",
       "link": "/bbs/C_Chat/M.1759656299.A.223",
       "author": "MrSatan",
@@ -144,8 +134,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-84",
-      "recommendCount": "328",
+      "recommendScore": "163",
+      "recommendCount": "510",
+      "title": "[問卦] 能力差的人是怎麼當上主管的？",
+      "link": "/bbs/Gossiping/M.1759624459.A.7CB",
+      "author": "cake51640",
+      "board": "Gossiping",
+      "publishTime": "2025/10/05 00:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "108",
+      "recommendCount": "396",
+      "title": "[新聞] 范雲證實「魔性笑聲」是劉世芳：看馬太鞍溪橋斷苦笑",
+      "link": "/bbs/Gossiping/M.1759672717.A.066",
+      "author": "seeseesea",
+      "board": "Gossiping",
+      "publishTime": "2025/10/05 13:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-85",
+      "recommendCount": "329",
       "title": "[問題] 為什麼大谷算勝投啊",
       "link": "/bbs/Baseball/M.1759631679.A.74B",
       "author": "changatcmu",
@@ -165,7 +175,7 @@
     },
     {
       "recommendScore": "161",
-      "recommendCount": "475",
+      "recommendCount": "476",
       "title": "[問卦] 連NV都留不住是不是滿屌的",
       "link": "/bbs/Gossiping/M.1759647150.A.086",
       "author": "heartattack",
@@ -175,7 +185,7 @@
     },
     {
       "recommendScore": "236",
-      "recommendCount": "361",
+      "recommendCount": "362",
       "title": "[分享] Tanner Scott已經9天沒出賽了",
       "link": "/bbs/Baseball/M.1759628903.A.9DA",
       "author": "Mikufans",
@@ -184,24 +194,14 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/Xms4Ffx/s/1d2628e902e8fa564e9e6137f0a7a51d"
     },
     {
-      "recommendScore": "192",
-      "recommendCount": "367",
+      "recommendScore": "193",
+      "recommendCount": "369",
       "title": "[新聞] 網軍頭子抓到了！電視台製作人扮智障小草",
       "link": "/bbs/Gossiping/M.1759626171.A.01B",
       "author": "leocean9816",
       "board": "Gossiping",
       "publishTime": "2025/10/05 01:02",
       "imageUrl": "https://cache.pttweb.cc/imgur/nQP7O9W/s/6ed82a489bdb3589d214227a01a8b068"
-    },
-    {
-      "recommendScore": "209",
-      "recommendCount": "323",
-      "title": "[問卦] 垃圾林俊言有去親戚家中秋烤肉嗎？",
-      "link": "/bbs/Gossiping/M.1759645380.A.E60",
-      "author": "nicolaschen2",
-      "board": "Gossiping",
-      "publishTime": "2025/10/05 06:23",
-      "imageUrl": ""
     }
   ]
 }
