@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-06T08:20:43.561Z",
+  "updated": "2025-10-06T08:35:43.246Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "739",
+      "recommendCount": "1238",
+      "title": "[電競] 2025 亞洲邀請賽 Day 1",
+      "link": "/bbs/LoL/M.1759733528.A.0D6",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/10/06 06:52",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "149",
       "recommendCount": "436",
       "title": "[問卦] 輝達如果成了京華城案不就兩套標準？",
@@ -191,16 +201,6 @@
       "author": "tigotigo5566",
       "board": "Gossiping",
       "publishTime": "2025/10/05 20:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "812",
-      "recommendCount": "1471",
-      "title": "[討論] [Vtub] Hololive 晚間直播單 (1141005)",
-      "link": "/bbs/C_Chat/M.1759661677.A.0E2",
-      "author": "laptic",
-      "board": "C_Chat",
-      "publishTime": "2025/10/05 10:54",
       "imageUrl": ""
     }
   ]
