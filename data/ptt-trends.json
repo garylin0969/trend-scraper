@@ -1,8 +1,18 @@
 {
-  "updated": "2025-10-06T18:55:44.878Z",
+  "updated": "2025-10-06T19:05:35.913Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "568",
+      "recommendCount": "1382",
+      "title": "[新聞] 快訊／館長直播嗆斬賴清德狗頭　刑事局緊急報請新北檢指揮偵辦",
+      "link": "/bbs/Gossiping/M.1759739859.A.1B6",
+      "author": "mark751019",
+      "board": "Gossiping",
+      "publishTime": "2025/10/06 08:37",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "148",
       "recommendCount": "782",
@@ -34,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "490",
-      "recommendCount": "511",
+      "recommendScore": "491",
+      "recommendCount": "512",
       "title": "[推投] 鏈鋸人 最喜歡女角「1票」",
       "link": "/bbs/C_Chat/M.1759742559.A.B67",
       "author": "MrSatan",
@@ -85,7 +95,7 @@
     },
     {
       "recommendScore": "290",
-      "recommendCount": "480",
+      "recommendCount": "482",
       "title": "[新聞] 「以為爸爸睡著」單親父過勞死 10歲雙胞胎伴屍一夜",
       "link": "/bbs/Gossiping/M.1759750126.A.B54",
       "author": "Waitaha",
@@ -174,18 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "201",
-      "recommendCount": "406",
-      "title": "[新聞] 《零日攻擊》「步槍打爆敵軍」超神 網嘲：真的掃把保台",
-      "link": "/bbs/Gossiping/M.1759753213.A.BD4",
-      "author": "chopper594",
-      "board": "Gossiping",
-      "publishTime": "2025/10/06 12:20",
-      "imageUrl": "https://cache.pttweb.cc/imgur/pqZpyjZ/s/ee7f0e17b3de9414c91b144a59c00dbe"
-    },
-    {
       "recommendScore": "209",
-      "recommendCount": "394",
+      "recommendCount": "400",
       "title": "[問卦] 烏山頭水庫也建光電版了！",
       "link": "/bbs/Gossiping/M.1759765690.A.695",
       "author": "starfishfish",
@@ -194,14 +194,14 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/nCy8OWA/s/d7f78710bd14b74e4938c4b6b26d7264"
     },
     {
-      "recommendScore": "204",
-      "recommendCount": "791",
-      "title": "[新聞] 不景氣是真的 待用餐業者曝：領餐人數增2成且多了年輕新面孔",
-      "link": "/bbs/Stock/M.1759716014.A.014",
-      "author": "diefishfish",
-      "board": "Stock",
-      "publishTime": "2025/10/06 02:00",
-      "imageUrl": ""
+      "recommendScore": "201",
+      "recommendCount": "406",
+      "title": "[新聞] 《零日攻擊》「步槍打爆敵軍」超神 網嘲：真的掃把保台",
+      "link": "/bbs/Gossiping/M.1759753213.A.BD4",
+      "author": "chopper594",
+      "board": "Gossiping",
+      "publishTime": "2025/10/06 12:20",
+      "imageUrl": "https://cache.pttweb.cc/imgur/pqZpyjZ/s/ee7f0e17b3de9414c91b144a59c00dbe"
     }
   ]
 }
