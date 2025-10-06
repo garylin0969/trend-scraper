@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-06T11:05:39.343Z",
+  "updated": "2025-10-06T11:17:30.844Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "170",
+      "recommendCount": "362",
+      "title": "[花邊] NBA新規則可能對Curry有利",
+      "link": "/bbs/NBA/M.1759719190.A.A4D",
+      "author": "yochiya",
+      "board": "NBA",
+      "publishTime": "2025/10/06 02:53",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "165",
       "recommendCount": "340",
       "title": "[新聞] 93歲榮民新婚滿9天 妻子火速過戶房產讓他最後只能住榮家",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/05 20:53",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "211",
-      "recommendCount": "337",
-      "title": "[分享] 魔鷹IG",
-      "link": "/bbs/Baseball/M.1759677949.A.A5A",
-      "author": "tony711",
-      "board": "Baseball",
-      "publishTime": "2025/10/05 15:25",
-      "imageUrl": "https://cache.pttweb.cc/imgur/zpgmmsE/s/3e631e977febb616fc1319c9bd1e6429"
     }
   ]
 }
