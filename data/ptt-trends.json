@@ -1,11 +1,11 @@
 {
-  "updated": "2025-10-06T23:43:49.613Z",
+  "updated": "2025-10-06T23:53:29.400Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "577",
-      "recommendCount": "1412",
+      "recommendScore": "576",
+      "recommendCount": "1414",
       "title": "[新聞] 快訊／館長直播嗆斬賴清德狗頭　刑事局緊急報請新北檢指揮偵辦",
       "link": "/bbs/Gossiping/M.1759739859.A.1B6",
       "author": "mark751019",
@@ -15,13 +15,23 @@
     },
     {
       "recommendScore": "288",
-      "recommendCount": "811",
+      "recommendCount": "813",
       "title": "[新聞] 喊話中國「把賴清德狗頭斬下來」　館長：兄弟等你、我日思夜思！",
       "link": "/bbs/Gossiping/M.1759730613.A.669",
       "author": "WhiteWhale",
       "board": "Gossiping",
       "publishTime": "2025/10/06 06:03",
       "imageUrl": "https://cache.pttweb.cc/imgur/0MBO2Ls/s/c0b7d8491c0ada6be3e5956c9c64584d"
+    },
+    {
+      "recommendScore": "507",
+      "recommendCount": "528",
+      "title": "[推投] 鏈鋸人 最喜歡女角「1票」",
+      "link": "/bbs/C_Chat/M.1759742559.A.B67",
+      "author": "MrSatan",
+      "board": "C_Chat",
+      "publishTime": "2025/10/06 09:22",
+      "imageUrl": ""
     },
     {
       "recommendScore": "331",
@@ -34,18 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "503",
-      "recommendCount": "524",
-      "title": "[推投] 鏈鋸人 最喜歡女角「1票」",
-      "link": "/bbs/C_Chat/M.1759742559.A.B67",
-      "author": "MrSatan",
-      "board": "C_Chat",
-      "publishTime": "2025/10/06 09:22",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "327",
-      "recommendCount": "622",
+      "recommendCount": "625",
       "title": "[新聞] 卡苗博雅？傳綠營2026北市「不與他黨合作」　明年1月完成初選",
       "link": "/bbs/Gossiping/M.1759725860.A.4AD",
       "author": "Calcifer",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "221",
-      "recommendCount": "611",
+      "recommendScore": "222",
+      "recommendCount": "612",
       "title": "[新聞] 黃金葛汁摻水壺毒害男同學！3女童和家長被求償101萬...判決出爐",
       "link": "/bbs/Gossiping/M.1759722945.A.984",
       "author": "TllDA",
@@ -74,28 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "192",
-      "recommendCount": "573",
-      "title": "[爆卦] 澤倫斯基點名了！俄飛彈有美/中/台零件",
-      "link": "/bbs/Gossiping/M.1759742950.A.778",
-      "author": "funkboy",
-      "board": "Gossiping",
-      "publishTime": "2025/10/06 09:29",
-      "imageUrl": "https://cache.pttweb.cc/imgur/n5MFl4S/s/d9026e8371bcfa57a8a0b377e2420974"
-    },
-    {
-      "recommendScore": "301",
-      "recommendCount": "511",
-      "title": "[新聞] 「以為爸爸睡著」單親父過勞死 10歲雙胞胎伴屍一夜",
-      "link": "/bbs/Gossiping/M.1759750126.A.B54",
-      "author": "Waitaha",
-      "board": "Gossiping",
-      "publishTime": "2025/10/06 11:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "289",
-      "recommendCount": "548",
+      "recommendScore": "309",
+      "recommendCount": "595",
       "title": "[問卦] 烏山頭水庫也建光電版了！",
       "link": "/bbs/Gossiping/M.1759765690.A.695",
       "author": "starfishfish",
@@ -104,14 +84,44 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/nCy8OWA/s/d7f78710bd14b74e4938c4b6b26d7264"
     },
     {
+      "recommendScore": "194",
+      "recommendCount": "576",
+      "title": "[爆卦] 澤倫斯基點名了！俄飛彈有美/中/台零件",
+      "link": "/bbs/Gossiping/M.1759742950.A.778",
+      "author": "funkboy",
+      "board": "Gossiping",
+      "publishTime": "2025/10/06 09:29",
+      "imageUrl": "https://cache.pttweb.cc/imgur/n5MFl4S/s/d9026e8371bcfa57a8a0b377e2420974"
+    },
+    {
+      "recommendScore": "306",
+      "recommendCount": "518",
+      "title": "[新聞] 「以為爸爸睡著」單親父過勞死 10歲雙胞胎伴屍一夜",
+      "link": "/bbs/Gossiping/M.1759750126.A.B54",
+      "author": "Waitaha",
+      "board": "Gossiping",
+      "publishTime": "2025/10/06 11:28",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "149",
-      "recommendCount": "540",
+      "recommendCount": "543",
       "title": "[問卦] 為何八卦這次不力挺館長言論了",
       "link": "/bbs/Gossiping/M.1759749218.A.E14",
       "author": "Alberta99170",
       "board": "Gossiping",
       "publishTime": "2025/10/06 11:13",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "205",
+      "recommendCount": "440",
+      "title": "[新聞] 《零日攻擊》「步槍打爆敵軍」超神 網嘲：真的掃把保台",
+      "link": "/bbs/Gossiping/M.1759753213.A.BD4",
+      "author": "chopper594",
+      "board": "Gossiping",
+      "publishTime": "2025/10/06 12:20",
+      "imageUrl": "https://cache.pttweb.cc/imgur/pqZpyjZ/s/ee7f0e17b3de9414c91b144a59c00dbe"
     },
     {
       "recommendScore": "274",
@@ -122,16 +132,6 @@
       "board": "Baseball",
       "publishTime": "2025/10/06 00:32",
       "imageUrl": "https://cache.pttweb.cc/imgur/5EGbjuH/s/193c0c3627806f359f642a1626585e94"
-    },
-    {
-      "recommendScore": "204",
-      "recommendCount": "434",
-      "title": "[新聞] 《零日攻擊》「步槍打爆敵軍」超神 網嘲：真的掃把保台",
-      "link": "/bbs/Gossiping/M.1759753213.A.BD4",
-      "author": "chopper594",
-      "board": "Gossiping",
-      "publishTime": "2025/10/06 12:20",
-      "imageUrl": "https://cache.pttweb.cc/imgur/pqZpyjZ/s/ee7f0e17b3de9414c91b144a59c00dbe"
     },
     {
       "recommendScore": "143",
