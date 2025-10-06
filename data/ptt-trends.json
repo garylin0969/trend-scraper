@@ -1,11 +1,11 @@
 {
-  "updated": "2025-10-06T14:48:40.612Z",
+  "updated": "2025-10-06T14:55:35.862Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "144",
-      "recommendCount": "775",
+      "recommendScore": "143",
+      "recommendCount": "776",
       "title": "[新聞] 2026縣市長選舉 民進黨目標5＋1起跳 賴清德心中的「＋1」是這縣市",
       "link": "/bbs/Gossiping/M.1759707440.A.732",
       "author": "semih",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "446",
-      "recommendCount": "467",
+      "recommendScore": "449",
+      "recommendCount": "470",
       "title": "[推投] 鏈鋸人 最喜歡女角「1票」",
       "link": "/bbs/C_Chat/M.1759742559.A.B67",
       "author": "MrSatan",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "421",
-      "recommendCount": "482",
+      "recommendScore": "422",
+      "recommendCount": "483",
       "title": "[炸裂] 胡金龍",
       "link": "/bbs/Baseball/M.1759747545.A.C06",
       "author": "yamai7777",
@@ -85,13 +85,23 @@
     },
     {
       "recommendScore": "166",
-      "recommendCount": "522",
+      "recommendCount": "525",
       "title": "[爆卦] 澤倫斯基點名了！俄飛彈有美/中/台零件",
       "link": "/bbs/Gossiping/M.1759742950.A.778",
       "author": "funkboy",
       "board": "Gossiping",
       "publishTime": "2025/10/06 09:29",
       "imageUrl": "https://cache.pttweb.cc/imgur/n5MFl4S/s/d9026e8371bcfa57a8a0b377e2420974"
+    },
+    {
+      "recommendScore": "227",
+      "recommendCount": "375",
+      "title": "[新聞] 「以為爸爸睡著」單親父過勞死 10歲雙胞胎伴屍一夜",
+      "link": "/bbs/Gossiping/M.1759750126.A.B54",
+      "author": "Waitaha",
+      "board": "Gossiping",
+      "publishTime": "2025/10/06 11:28",
+      "imageUrl": ""
     },
     {
       "recommendScore": "272",
@@ -104,7 +114,7 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/5EGbjuH/s/193c0c3627806f359f642a1626585e94"
     },
     {
-      "recommendScore": "815",
+      "recommendScore": "814",
       "recommendCount": "1463",
       "title": "[電競] 2025 亞洲邀請賽 Day 1",
       "link": "/bbs/LoL/M.1759733528.A.0D6",
@@ -144,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "202",
-      "recommendCount": "353",
+      "recommendScore": "203",
+      "recommendCount": "355",
       "title": "[問卦] 美濃大峽谷又被曝光新的2.0升級版大盆地？",
       "link": "/bbs/Gossiping/M.1759726104.A.4EF",
       "author": "vickyshan",
@@ -154,18 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "212",
-      "recommendCount": "349",
-      "title": "[新聞] 「以為爸爸睡著」單親父過勞死 10歲雙胞胎伴屍一夜",
-      "link": "/bbs/Gossiping/M.1759750126.A.B54",
-      "author": "Waitaha",
-      "board": "Gossiping",
-      "publishTime": "2025/10/06 11:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "128",
-      "recommendCount": "425",
+      "recommendScore": "130",
+      "recommendCount": "436",
       "title": "[問卦] 為何八卦這次不力挺館長言論了",
       "link": "/bbs/Gossiping/M.1759749218.A.E14",
       "author": "Alberta99170",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "198",
+      "recommendCount": "373",
+      "title": "[請益] 這波到底有多少人全倉在車上的？",
+      "link": "/bbs/Stock/M.1759741506.A.4B8",
+      "author": "yamakazi",
+      "board": "Stock",
+      "publishTime": "2025/10/06 09:05",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "203",
       "recommendCount": "786",
       "title": "[新聞] 不景氣是真的 待用餐業者曝：領餐人數增2成且多了年輕新面孔",
@@ -191,16 +201,6 @@
       "author": "diefishfish",
       "board": "Stock",
       "publishTime": "2025/10/06 02:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "196",
-      "recommendCount": "368",
-      "title": "[請益] 這波到底有多少人全倉在車上的？",
-      "link": "/bbs/Stock/M.1759741506.A.4B8",
-      "author": "yamakazi",
-      "board": "Stock",
-      "publishTime": "2025/10/06 09:05",
       "imageUrl": ""
     }
   ]
