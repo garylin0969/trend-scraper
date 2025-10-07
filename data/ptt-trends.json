@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-07T10:48:22.541Z",
+  "updated": "2025-10-07T10:55:20.277Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "391",
-      "recommendCount": "794",
+      "recommendCount": "795",
       "title": "[問卦] 烏山頭水庫也建光電版了！",
       "link": "/bbs/Gossiping/M.1759765690.A.695",
       "author": "starfishfish",
@@ -24,8 +24,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/nCy8OWA/s/d7f78710bd14b74e4938c4b6b26d7264"
     },
     {
-      "recommendScore": "324",
-      "recommendCount": "550",
+      "recommendScore": "325",
+      "recommendCount": "551",
       "title": "[新聞] 「以為爸爸睡著」單親父過勞死 10歲雙胞胎伴屍一夜",
       "link": "/bbs/Gossiping/M.1759750126.A.B54",
       "author": "Waitaha",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "219",
-      "recommendCount": "788",
+      "recommendScore": "223",
+      "recommendCount": "801",
       "title": "[新聞] 檢察官直攻EXCEL檔問選舉用途 柯文哲16次避答怒嗆：你們在刺探秘密？",
       "link": "/bbs/Gossiping/M.1759812389.A.AEB",
       "author": "stewartqq",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-185",
-      "recommendCount": "556",
+      "recommendScore": "-186",
+      "recommendCount": "557",
       "title": "[新聞] 館長嗆斬首賴清德　卓榮泰提醒：當年被槍擊時法律怎麼保護你？",
       "link": "/bbs/Gossiping/M.1759806941.A.638",
       "author": "WuSam",
@@ -124,13 +124,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "143",
-      "recommendCount": "433",
+      "recommendScore": "144",
+      "recommendCount": "435",
       "title": "[新聞] 17歲少年看日出被撞死瞬間曝光 父批警後",
       "link": "/bbs/Gossiping/M.1759765744.A.DD5",
       "author": "yuting90",
       "board": "Gossiping",
       "publishTime": "2025/10/06 15:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "149",
+      "recommendCount": "472",
+      "title": "[新聞] 嗆斬首賴清德要被《國安法》辦了　館長直播：被羈押了請幫我家人",
+      "link": "/bbs/Gossiping/M.1759793195.A.005",
+      "author": "mongi",
+      "board": "Gossiping",
+      "publishTime": "2025/10/06 23:26",
       "imageUrl": ""
     },
     {
@@ -154,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "147",
-      "recommendCount": "469",
-      "title": "[新聞] 嗆斬首賴清德要被《國安法》辦了　館長直播：被羈押了請幫我家人",
-      "link": "/bbs/Gossiping/M.1759793195.A.005",
-      "author": "mongi",
-      "board": "Gossiping",
-      "publishTime": "2025/10/06 23:26",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "151",
       "recommendCount": "414",
       "title": "[新聞] 藍黨魁6強狂提「藍白合」李艷秋酸：乾脆黃國昌來當主席",
@@ -174,18 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "66",
-      "recommendCount": "443",
-      "title": "[問卦]館長:願意聲援我的站出來 搞一場轟轟烈烈",
-      "link": "/bbs/Gossiping/M.1759771233.A.61E",
-      "author": "a91153456",
-      "board": "Gossiping",
-      "publishTime": "2025/10/06 17:20",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ziMeW1d/s/c34b57e835a4449b81b696de66388011"
-    },
-    {
-      "recommendScore": "203",
-      "recommendCount": "326",
+      "recommendScore": "208",
+      "recommendCount": "335",
       "title": "[心得]  空軍畢業了",
       "link": "/bbs/Stock/M.1759825032.A.9A0",
       "author": "Gallon0",
@@ -194,8 +184,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/NIzQoCn/s/8deab1fb4b7b4b4b57339d04e102ac96"
     },
     {
-      "recommendScore": "273",
-      "recommendCount": "284",
+      "recommendScore": "67",
+      "recommendCount": "445",
+      "title": "[問卦]館長:願意聲援我的站出來 搞一場轟轟烈烈",
+      "link": "/bbs/Gossiping/M.1759771233.A.61E",
+      "author": "a91153456",
+      "board": "Gossiping",
+      "publishTime": "2025/10/06 17:20",
+      "imageUrl": "https://cache.pttweb.cc/imgur/ziMeW1d/s/c34b57e835a4449b81b696de66388011"
+    },
+    {
+      "recommendScore": "275",
+      "recommendCount": "286",
       "title": "Re: [LIVE] 棒球 芝加哥小熊@密爾瓦基釀酒人 場中",
       "link": "/bbs/SportLottery/M.1759810196.A.078",
       "author": "tomnj",
