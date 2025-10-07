@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-07T05:38:06.746Z",
+  "updated": "2025-10-07T05:45:00.730Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,14 +24,24 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/0MBO2Ls/s/c0b7d8491c0ada6be3e5956c9c64584d"
     },
     {
-      "recommendScore": "383",
-      "recommendCount": "778",
+      "recommendScore": "384",
+      "recommendCount": "779",
       "title": "[問卦] 烏山頭水庫也建光電版了！",
       "link": "/bbs/Gossiping/M.1759765690.A.695",
       "author": "starfishfish",
       "board": "Gossiping",
       "publishTime": "2025/10/06 15:48",
       "imageUrl": "https://cache.pttweb.cc/imgur/nCy8OWA/s/d7f78710bd14b74e4938c4b6b26d7264"
+    },
+    {
+      "recommendScore": "507",
+      "recommendCount": "644",
+      "title": "[分享] 面對費城球迷的叫囂 朗希：聽不懂英文",
+      "link": "/bbs/Baseball/M.1759804734.A.C4B",
+      "author": "Axwell",
+      "board": "Baseball",
+      "publishTime": "2025/10/07 02:38",
+      "imageUrl": ""
     },
     {
       "recommendScore": "527",
@@ -41,16 +51,6 @@
       "author": "MrSatan",
       "board": "C_Chat",
       "publishTime": "2025/10/06 09:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "505",
-      "recommendCount": "642",
-      "title": "[分享] 面對費城球迷的叫囂 朗希：聽不懂英文",
-      "link": "/bbs/Baseball/M.1759804734.A.C4B",
-      "author": "Axwell",
-      "board": "Baseball",
-      "publishTime": "2025/10/07 02:38",
       "imageUrl": ""
     },
     {
@@ -64,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "198",
+      "recommendCount": "587",
+      "title": "[爆卦] 澤倫斯基點名了！俄飛彈有美/中/台零件",
+      "link": "/bbs/Gossiping/M.1759742950.A.778",
+      "author": "funkboy",
+      "board": "Gossiping",
+      "publishTime": "2025/10/06 09:29",
+      "imageUrl": "https://cache.pttweb.cc/imgur/n5MFl4S/s/d9026e8371bcfa57a8a0b377e2420974"
+    },
+    {
       "recommendScore": "321",
       "recommendCount": "544",
       "title": "[新聞] 「以為爸爸睡著」單親父過勞死 10歲雙胞胎伴屍一夜",
@@ -74,18 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "196",
-      "recommendCount": "581",
-      "title": "[爆卦] 澤倫斯基點名了！俄飛彈有美/中/台零件",
-      "link": "/bbs/Gossiping/M.1759742950.A.778",
-      "author": "funkboy",
-      "board": "Gossiping",
-      "publishTime": "2025/10/06 09:29",
-      "imageUrl": "https://cache.pttweb.cc/imgur/n5MFl4S/s/d9026e8371bcfa57a8a0b377e2420974"
-    },
-    {
-      "recommendScore": "198",
-      "recommendCount": "751",
+      "recommendScore": "199",
+      "recommendCount": "752",
       "title": "[新聞] 黃國昌狗仔斂財／黃國昌假揭弊黑幕臭不可",
       "link": "/bbs/HatePolitics/M.1759791551.A.0CB",
       "author": "moneybuy",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-156",
-      "recommendCount": "475",
+      "recommendScore": "-161",
+      "recommendCount": "481",
       "title": "[新聞] 館長嗆斬首賴清德　卓榮泰提醒：當年被槍擊時法律怎麼保護你？",
       "link": "/bbs/Gossiping/M.1759806941.A.638",
       "author": "WuSam",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "175",
-      "recommendCount": "492",
+      "recommendScore": "176",
+      "recommendCount": "494",
       "title": "[新聞] 花蓮勘災又失言！見受災戶地板拆掉 賴清德竟說「反而好看」",
       "link": "/bbs/Gossiping/M.1759772981.A.0F7",
       "author": "psychohero",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "222",
-      "recommendCount": "474",
+      "recommendScore": "223",
+      "recommendCount": "476",
       "title": "[新聞] 《零日攻擊》「步槍打爆敵軍」超神 網嘲：真的掃把保台",
       "link": "/bbs/Gossiping/M.1759753213.A.BD4",
       "author": "chopper594",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "231",
-      "recommendCount": "455",
+      "recommendScore": "232",
+      "recommendCount": "456",
       "title": "[新聞] 快訊／花蓮「挖土機超人」傷口感染　中秋夜離世",
       "link": "/bbs/Gossiping/M.1759793067.A.2D4",
       "author": "hito0509",
