@@ -1,14 +1,22 @@
 {
-  "updated": "2025-10-07T03:24:54.405Z",
+  "updated": "2025-10-07T03:50:03.112Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-10-07T03:24:42.000Z",
+    "lastBuildDate": "2025-10-07T03:49:57.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "去兒科門診確診「多動症」後  中國Z世代把ADHD用作了流行社交標籤",
+      "description": "ADHD在中國Z世代年輕人中走紅，年輕人們熱衷於用「ADHD」自我介紹。作為一種以腦部過於活躍、注意力難以集中為主要特徵的心理障礙，為什麼它在追求高效的中國社會裡成為流行？年輕人的關注點是什麼？",
+      "link": "https://www.bbc.com/zhongwen/articles/cz08zex8m0jo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-07T03:45:29.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cz08zex8m0jo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1775/live/5d5515a0-a325-11f0-a0e6-8d759cfcece2.jpg"
+    },
     {
       "title": "中國如何挑戰英偉達在AI晶片領域的主導地位",
       "description": "黃仁勳警告，中國在晶片開發上只比美國「落後幾納秒」。英偉達對BBC表示：「競爭無疑已經到來。」",
@@ -40,14 +48,6 @@
       "pubDate": "2025-10-05T02:34:25.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cyv6l83vdgno/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/49d4/live/19a047f0-a0fd-11f0-92db-77261a15b9d2.jpg"
-    },
-    {
-      "title": "AI與人類：那些轉向人工智慧尋求約會和情感建議的人",
-      "description": "越來越多人開始依賴人工智慧來處理感情問題，但這真的是個好主意嗎？",
-      "link": "https://www.bbc.com/zhongwen/articles/c7v1y17p807o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-06T00:27:05.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c7v1y17p807o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f8e/live/906ca900-8a37-11f0-a26a-51aa2f3dec3f.jpg"
     },
     {
       "title": "英國反移民浪潮再起  華人意見為何分歧",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc33/live/db77fa10-946b-11f0-bc01-a3a35aa734ac.jpg"
     },
     {
+      "title": "AI與人類：那些轉向人工智慧尋求約會和情感建議的人",
+      "description": "越來越多人開始依賴人工智慧來處理感情問題，但這真的是個好主意嗎？",
+      "link": "https://www.bbc.com/zhongwen/articles/c7v1y17p807o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-06T00:27:05.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c7v1y17p807o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f8e/live/906ca900-8a37-11f0-a26a-51aa2f3dec3f.jpg"
+    },
+    {
       "title": "科學家培養「迷你人腦」為電腦提供動力",
       "description": "BBC記者走進實驗室，揭示以人類細胞培養的「迷你大腦」驅動電腦的最新研究成果。",
       "link": "https://www.bbc.com/zhongwen/articles/cdx2dp566p2o/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2025-10-02T03:43:54.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy502vpwqndo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cecb/live/f253c650-9dea-11f0-b3aa-f94b46cdf49f.jpg"
-    },
-    {
-      "title": "膠原蛋白：喝的？注射的？還是塗在皮膚上？真的有效嗎？",
-      "description": "藥丸、粉末和乳霜宣稱能補充隨著年齡增長而逐漸流失的天然膠原蛋白。",
-      "link": "https://www.bbc.com/zhongwen/articles/ce9rmj5mrd7o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-02T00:17:51.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce9rmj5mrd7o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0049/live/861c7ea0-9c4b-11f0-928c-71dbb8619e94.jpg"
     }
   ]
 }
