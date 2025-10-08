@@ -1,11 +1,11 @@
 {
-  "updated": "2025-10-08T11:43:44.656Z",
+  "updated": "2025-10-08T11:53:37.172Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "397",
-      "recommendCount": "1013",
+      "recommendScore": "436",
+      "recommendCount": "1124",
       "title": "[新聞] 快訊／輝達進駐北士科卡關　賴清德出手了：中央該幫的一定全力幫",
       "link": "/bbs/Gossiping/M.1759909743.A.2A1",
       "author": "lamigo",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-163",
-      "recommendCount": "593",
+      "recommendScore": "-162",
+      "recommendCount": "594",
       "title": "[新聞] 獨家》為救柯文哲！藍白強推「法庭直播」司法院出招降低傷害",
       "link": "/bbs/Gossiping/M.1759885723.A.136",
       "author": "lycppt",
@@ -64,8 +64,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "254",
-      "recommendCount": "443",
+      "recommendScore": "208",
+      "recommendCount": "479",
+      "title": "[新聞] 災民修屋加碼20萬不是政府出  賑災基金會證實「用捐款付的」！",
+      "link": "/bbs/Gossiping/M.1759904625.A.139",
+      "author": "loutt",
+      "board": "Gossiping",
+      "publishTime": "2025/10/08 06:23",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "255",
+      "recommendCount": "445",
       "title": "[新聞] 影／農地亂象延燒保護區也淪陷！高雄大坪頂現「柏油山」遭倒廢棄物",
       "link": "/bbs/Gossiping/M.1759893606.A.9D2",
       "author": "poeta",
@@ -75,7 +85,7 @@
     },
     {
       "recommendScore": "180",
-      "recommendCount": "490",
+      "recommendCount": "493",
       "title": "[新聞] 賴喊每戶「加碼20萬」助光復房屋修復 蔡正元爆：用捐款付的",
       "link": "/bbs/Gossiping/M.1759889777.A.3BC",
       "author": "osalucard",
@@ -84,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "195",
-      "recommendCount": "431",
+      "recommendScore": "196",
+      "recommendCount": "432",
       "title": "[新聞] 林國成質詢「邁瑩大峽谷」點燃戰火 邱議瑩：快道歉",
       "link": "/bbs/Gossiping/M.1759840614.A.B47",
       "author": "bb10181128",
@@ -104,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "195",
-      "recommendCount": "455",
-      "title": "[新聞] 災民修屋加碼20萬不是政府出  賑災基金會證實「用捐款付的」！",
-      "link": "/bbs/Gossiping/M.1759904625.A.139",
-      "author": "loutt",
-      "board": "Gossiping",
-      "publishTime": "2025/10/08 06:23",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "124",
       "recommendCount": "469",
       "title": "[新聞] 快訊／賴清德：川普若讓中國放棄犯台值得獲諾貝爾獎　白宮回應了",
@@ -121,6 +121,16 @@
       "author": "mongi",
       "board": "Gossiping",
       "publishTime": "2025/10/08 00:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "288",
+      "recommendCount": "417",
+      "title": "Re: [新聞] 獨／柯文哲沒圖利！捷運聯開爭議5年　建商告蔣市府才知查無不法",
+      "link": "/bbs/Gossiping/M.1759910505.A.E70",
+      "author": "metroid0104",
+      "board": "Gossiping",
+      "publishTime": "2025/10/08 08:01",
       "imageUrl": ""
     },
     {
@@ -134,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "297",
-      "recommendCount": "357",
+      "recommendScore": "298",
+      "recommendCount": "358",
       "title": "[分享] 今日 Aaron Judge",
       "link": "/bbs/Baseball/M.1759894724.A.632",
       "author": "alpacaHong",
@@ -192,16 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2025/10/08 02:24",
       "imageUrl": "https://cache.pttweb.cc/imgur/c8TsOmJ/s/19df6b83e3524b2ac3d380b74b612075"
-    },
-    {
-      "recommendScore": "275",
-      "recommendCount": "291",
-      "title": "[閒聊] 舒服哥暫時畢業文",
-      "link": "/bbs/SportLottery/M.1759854371.A.4D1",
-      "author": "boydogboy",
-      "board": "SportLottery",
-      "publishTime": "2025/10/07 16:26",
-      "imageUrl": ""
     }
   ]
 }
