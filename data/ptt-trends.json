@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-08T06:08:25.460Z",
+  "updated": "2025-10-08T06:21:21.982Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "301",
+      "recommendCount": "371",
+      "title": "[炸裂] Aaron Judge開庭",
+      "link": "/bbs/Baseball/M.1759888788.A.7F8",
+      "author": "a4550840",
+      "board": "Baseball",
+      "publishTime": "2025/10/08 01:59",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "189",
       "recommendCount": "421",
       "title": "[新聞] 林國成質詢「邁瑩大峽谷」點燃戰火 邱議瑩：快道歉",
@@ -51,16 +61,6 @@
       "author": "bb10181128",
       "board": "Gossiping",
       "publishTime": "2025/10/07 12:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "297",
-      "recommendCount": "366",
-      "title": "[炸裂] Aaron Judge開庭",
-      "link": "/bbs/Baseball/M.1759888788.A.7F8",
-      "author": "a4550840",
-      "board": "Baseball",
-      "publishTime": "2025/10/08 01:59",
       "imageUrl": ""
     },
     {
@@ -194,14 +194,14 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/kdyHUxU/s/bbfe98389b705a38e5207ce81da08f3c"
     },
     {
-      "recommendScore": "239",
-      "recommendCount": "275",
-      "title": "[情報] Uniopen發文 立即拿10 OP點數（限量）",
-      "link": "/bbs/Lifeismoney/M.1759844367.A.BA5",
-      "author": "seand8088503",
-      "board": "Lifeismoney",
-      "publishTime": "2025/10/07 13:39",
-      "imageUrl": "https://cache.pttweb.cc/imgur/IL8DzFP/s/c66c72569122cda0e0cb158421bc6aab"
+      "recommendScore": "-92",
+      "recommendCount": "293",
+      "title": "[新聞] 台積電會變美積電嗎？賴清德：台灣很樂意讓美國再度偉大",
+      "link": "/bbs/Stock/M.1759846158.A.DDD",
+      "author": "keel90135",
+      "board": "Stock",
+      "publishTime": "2025/10/07 14:09",
+      "imageUrl": ""
     }
   ]
 }
