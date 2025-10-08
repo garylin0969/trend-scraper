@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-08T09:18:08.250Z",
+  "updated": "2025-10-08T09:30:21.016Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "14",
-      "recommendCount": "471",
+      "recommendScore": "13",
+      "recommendCount": "472",
       "title": "[花邊] LBJ沒有要退休",
       "link": "/bbs/NBA/M.1759850293.A.978",
       "author": "spiderfat",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "294",
-      "recommendCount": "354",
+      "recommendScore": "296",
+      "recommendCount": "356",
       "title": "[分享] 今日 Aaron Judge",
       "link": "/bbs/Baseball/M.1759894724.A.632",
       "author": "alpacaHong",
@@ -165,7 +165,7 @@
     },
     {
       "recommendScore": "112",
-      "recommendCount": "470",
+      "recommendCount": "471",
       "title": "[問卦]館長：他媽的 我一切都是為了保護台灣",
       "link": "/bbs/Gossiping/M.1759852795.A.3AA",
       "author": "a91153456",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "285",
+      "recommendCount": "322",
+      "title": "[情報] Uniopen發文 立即拿10 OP點數（限量）",
+      "link": "/bbs/Lifeismoney/M.1759844367.A.BA5",
+      "author": "seand8088503",
+      "board": "Lifeismoney",
+      "publishTime": "2025/10/07 13:39",
+      "imageUrl": "https://cache.pttweb.cc/imgur/IL8DzFP/s/c66c72569122cda0e0cb158421bc6aab"
+    },
+    {
       "recommendScore": "189",
       "recommendCount": "345",
       "title": "[問卦] 顏正國掛了？",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/07 10:55",
       "imageUrl": "https://cache.pttweb.cc/imgur/VMWjpvR/s/60e3a504bf64f9f112558984fc7342c0"
-    },
-    {
-      "recommendScore": "207",
-      "recommendCount": "395",
-      "title": "[出租] 宮島禮吏正面回應黑粉",
-      "link": "/bbs/C_Chat/M.1759890267.A.4D5",
-      "author": "k300plus",
-      "board": "C_Chat",
-      "publishTime": "2025/10/08 02:24",
-      "imageUrl": "https://cache.pttweb.cc/imgur/c8TsOmJ/s/19df6b83e3524b2ac3d380b74b612075"
     }
   ]
 }
