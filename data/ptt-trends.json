@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-08T07:17:35.033Z",
+  "updated": "2025-10-08T07:27:35.787Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "170",
+      "recommendCount": "451",
+      "title": "[新聞] 賴喊每戶「加碼20萬」助光復房屋修復 蔡正元爆：用捐款付的",
+      "link": "/bbs/Gossiping/M.1759889777.A.3BC",
+      "author": "osalucard",
+      "board": "Gossiping",
+      "publishTime": "2025/10/08 02:16",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "119",
       "recommendCount": "459",
       "title": "[新聞] 快訊／賴清德：川普若讓中國放棄犯台值得獲諾貝爾獎　白宮回應了",
@@ -101,16 +111,6 @@
       "author": "mongi",
       "board": "Gossiping",
       "publishTime": "2025/10/08 00:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "165",
-      "recommendCount": "445",
-      "title": "[新聞] 賴喊每戶「加碼20萬」助光復房屋修復 蔡正元爆：用捐款付的",
-      "link": "/bbs/Gossiping/M.1759889777.A.3BC",
-      "author": "osalucard",
-      "board": "Gossiping",
-      "publishTime": "2025/10/08 02:16",
       "imageUrl": ""
     },
     {
@@ -184,8 +184,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/VMWjpvR/s/60e3a504bf64f9f112558984fc7342c0"
     },
     {
-      "recommendScore": "273",
-      "recommendCount": "309",
+      "recommendScore": "274",
+      "recommendCount": "310",
       "title": "[情報] Uniopen發文 立即拿10 OP點數（限量）",
       "link": "/bbs/Lifeismoney/M.1759844367.A.BA5",
       "author": "seand8088503",
