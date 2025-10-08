@@ -1,17 +1,27 @@
 {
-  "updated": "2025-10-08T22:53:49.997Z",
+  "updated": "2025-10-08T23:05:53.080Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "477",
-      "recommendCount": "1272",
+      "recommendScore": "478",
+      "recommendCount": "1277",
       "title": "[新聞] 快訊／輝達進駐北士科卡關　賴清德出手了：中央該幫的一定全力幫",
       "link": "/bbs/Gossiping/M.1759909743.A.2A1",
       "author": "lamigo",
       "board": "Gossiping",
       "publishTime": "2025/10/08 07:49",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "504",
+      "recommendCount": "552",
+      "title": "[心得] SAAB商富代理商超強售後服務",
+      "link": "/bbs/car/M.1759934291.A.7F7",
+      "author": "kf930519",
+      "board": "car",
+      "publishTime": "2025/10/08 14:38",
+      "imageUrl": "https://cache.pttweb.cc/imgur/3bEEnUV/s/b58def6d9322d3682302eb872a008c32"
     },
     {
       "recommendScore": "386",
@@ -22,16 +32,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/08 07:23",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "490",
-      "recommendCount": "538",
-      "title": "[心得] SAAB商富代理商超強售後服務",
-      "link": "/bbs/car/M.1759934291.A.7F7",
-      "author": "kf930519",
-      "board": "car",
-      "publishTime": "2025/10/08 14:38",
-      "imageUrl": "https://cache.pttweb.cc/imgur/3bEEnUV/s/b58def6d9322d3682302eb872a008c32"
     },
     {
       "recommendScore": "259",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "231",
-      "recommendCount": "495",
+      "recommendScore": "233",
+      "recommendCount": "497",
       "title": "[問卦] 台灣新生兒一年掉27%？",
       "link": "/bbs/Gossiping/M.1759921989.A.328",
       "author": "suzhou",
@@ -195,7 +195,7 @@
     },
     {
       "recommendScore": "224",
-      "recommendCount": "429",
+      "recommendCount": "430",
       "title": "[新聞] 輝達最新要求！經濟部證實：不限北士科",
       "link": "/bbs/Stock/M.1759920121.A.4C7",
       "author": "wu73",
