@@ -1,14 +1,22 @@
 {
-  "updated": "2025-10-08T13:24:48.918Z",
+  "updated": "2025-10-08T13:48:46.177Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-10-08T13:24:35.000Z",
+    "lastBuildDate": "2025-10-08T13:48:40.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "間諜案告吹：英國政府「未將中國列為威脅」被指是主要原因",
+      "description": "檢方表示，他們無法從英國政府取得足以達到起訴門檻的證據。",
+      "link": "https://www.bbc.com/zhongwen/articles/ckgy5k4p3l9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-08T13:26:52.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckgy5k4p3l9o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/99b2/live/668aeee0-a3b3-11f0-9871-a159926144cf.jpg"
+    },
     {
       "title": "金價上漲： 市場不確定性加劇，黃金突破每盎司四千美元高位",
       "description": "分析人士指出，美國政府停擺導致經濟數據公佈延遲，是導致金價上漲的原因之一。",
@@ -24,14 +32,6 @@
       "pubDate": "2025-10-08T00:20:10.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cvgrylqyvwgo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9bef/live/4f3ca870-a34d-11f0-b741-177e3e2c2fc7.jpg"
-    },
-    {
-      "title": "美墨非法越境人數降至逾50年來最低水平",
-      "description": "數據顯示，非法越境人數降至自1970年以來最低水平，特朗普持續加強對移民的打擊行動。",
-      "link": "https://www.bbc.com/zhongwen/articles/cz08v9kmj5no/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-08T08:58:54.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cz08v9kmj5no/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aa66/live/b56defc0-a3be-11f0-a293-215081258698.jpg"
     },
     {
       "title": "還原花蓮救災仰仗的「鏟子超人」 龐大民間力量如何突顯政府缺位",
@@ -56,6 +56,14 @@
       "pubDate": "2025-10-08T07:09:07.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cpvlgk9je3po/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5b32/live/96addad0-a415-11f0-8bd5-e15debd0c716.jpg"
+    },
+    {
+      "title": "美墨非法越境人數降至逾50年來最低水平",
+      "description": "數據顯示，非法越境人數降至自1970年以來最低水平，特朗普持續加強對移民的打擊行動。",
+      "link": "https://www.bbc.com/zhongwen/articles/cz08v9kmj5no/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-08T08:58:54.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cz08v9kmj5no/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aa66/live/b56defc0-a3be-11f0-a293-215081258698.jpg"
     },
     {
       "title": "確診「多動症」後  中國Z世代把ADHD用作了流行社交標籤",
@@ -104,14 +112,6 @@
       "pubDate": "2025-10-06T07:33:43.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c04q6nq7qkzo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1211/live/e939d750-9fbe-11f0-b73e-e715acbd6a10.jpg"
-    },
-    {
-      "title": "「優先席」資格戰：為何華人地區常爆發讓座衝突？",
-      "description": "兩岸三地屢因誰應使用博愛座引發衝突，有專家指台北捷運博愛座以深色強調識別效果，是「標籤化」讓座資格，容易激化矛盾，而華人儒家文化的「尊老」價值，也逐漸成為一種群體壓力。",
-      "link": "https://www.bbc.com/zhongwen/articles/c24ryz55v50o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-03T18:59:16.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c24ryz55v50o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fff0/live/b267d4d0-a012-11f0-92db-77261a15b9d2.png"
     },
     {
       "title": "中國遊客停擺 六年後台灣能靠東南亞旅客填補空缺嗎？",
@@ -194,6 +194,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e5a9/live/a9e12b00-9486-11f0-a3f2-ebe3b9e0c5e6.jpg"
     },
     {
+      "title": "「優先席」資格戰：為何華人地區常爆發讓座衝突？",
+      "description": "兩岸三地屢因誰應使用博愛座引發衝突，有專家指台北捷運博愛座以深色強調識別效果，是「標籤化」讓座資格，容易激化矛盾，而華人儒家文化的「尊老」價值，也逐漸成為一種群體壓力。",
+      "link": "https://www.bbc.com/zhongwen/articles/c24ryz55v50o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-03T18:59:16.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c24ryz55v50o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fff0/live/b267d4d0-a012-11f0-92db-77261a15b9d2.png"
+    },
+    {
       "title": "台灣首用「晶片制裁」僅兩天後口風反轉  「晶片外交」效果幾何？",
       "description": "台灣對南非的晶片出口管制在宣佈僅兩天後即被外交部叫停。有分析稱，這顯示台灣在科技外交上的謹慎與面對的挑戰，也可能是忌憚於此類行動將影響到全球半導體供應鏈。",
       "link": "https://www.bbc.com/zhongwen/articles/clyd1d2g5z8o/trad?at_medium=RSS&at_campaign=rss",
@@ -216,14 +224,6 @@
       "pubDate": "2025-10-04T03:25:32.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cdjzknpz8xwo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6349/live/34b0fac0-8d71-11f0-9cf6-cbf3e73ce2b9.jpg"
-    },
-    {
-      "title": "美中科技戰：中國被指禁用輝達AI晶片的五大看點",
-      "description": "北京的最新禁令反映其推動AI技術自給自足的決心。中國監管機構認為本土晶片技術已足夠成熟，足以取代輝達的受限產品。但是華為生產的晶片效能真的超越輝達嗎？\n",
-      "link": "https://www.bbc.com/zhongwen/articles/czdjg4630rno/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-26T00:18:45.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/czdjg4630rno/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7723/live/46f59e30-990a-11f0-a4f9-7b230f03cd8e.jpg"
     },
     {
       "title": "中國推出K字簽證招人才，為何國民如此抵制？",
