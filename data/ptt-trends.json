@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-08T04:06:51.156Z",
+  "updated": "2025-10-08T04:18:25.657Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "297",
+      "recommendCount": "366",
+      "title": "[炸裂] Aaron Judge開庭",
+      "link": "/bbs/Baseball/M.1759888788.A.7F8",
+      "author": "a4550840",
+      "board": "Baseball",
+      "publishTime": "2025/10/08 01:59",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "216",
       "recommendCount": "383",
       "title": "[新聞] 美濃大峽谷爆地主兒是民進黨黨代表　陳其邁被問「敢不敢辦」遭電爆影片曝",
@@ -84,14 +94,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "287",
-      "recommendCount": "301",
-      "title": "Re: [LIVE] 棒球 芝加哥小熊@密爾瓦基釀酒人 場中",
-      "link": "/bbs/SportLottery/M.1759810196.A.078",
-      "author": "tomnj",
-      "board": "SportLottery",
-      "publishTime": "2025/10/07 04:09",
-      "imageUrl": "https://cache.pttweb.cc/imgur/H8Sw79G/s/e213197cfe59317edfa4cd4d8b5aba9a"
+      "recommendScore": "177",
+      "recommendCount": "472",
+      "title": "[新聞] 烏山頭水庫滿布11.5公頃光電板挨轟 農水署嘉南管理處說話了",
+      "link": "/bbs/Gossiping/M.1759888180.A.43C",
+      "author": "junzi",
+      "board": "Gossiping",
+      "publishTime": "2025/10/08 01:49",
+      "imageUrl": ""
     },
     {
       "recommendScore": "229",
@@ -122,6 +132,16 @@
       "board": "Gossiping",
       "publishTime": "2025/10/07 10:55",
       "imageUrl": "https://cache.pttweb.cc/imgur/VMWjpvR/s/60e3a504bf64f9f112558984fc7342c0"
+    },
+    {
+      "recommendScore": "-120",
+      "recommendCount": "444",
+      "title": "[新聞] 獨家》為救柯文哲！藍白強推「法庭直播」司法院出招降低傷害",
+      "link": "/bbs/Gossiping/M.1759885723.A.136",
+      "author": "lycppt",
+      "board": "Gossiping",
+      "publishTime": "2025/10/08 01:08",
+      "imageUrl": ""
     },
     {
       "recommendScore": "139",
@@ -182,26 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/07 15:59",
       "imageUrl": "https://cache.pttweb.cc/imgur/3rxZuSD/s/31e255ed54866d3547dfbea2df64001a"
-    },
-    {
-      "recommendScore": "188",
-      "recommendCount": "409",
-      "title": "Re: [新聞] 檢察官直攻EXCEL檔問選舉用途 柯文哲16次避答怒嗆：你們在刺探秘密？",
-      "link": "/bbs/Gossiping/M.1759842335.A.861",
-      "author": "donkeyNew",
-      "board": "Gossiping",
-      "publishTime": "2025/10/07 13:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "139",
-      "recommendCount": "380",
-      "title": "Re: [問卦] 于朦朧全家被滅門了?",
-      "link": "/bbs/Gossiping/M.1759822140.A.E3A",
-      "author": "tetani",
-      "board": "Gossiping",
-      "publishTime": "2025/10/07 07:29",
-      "imageUrl": ""
     }
   ]
 }
