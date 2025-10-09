@@ -1,14 +1,22 @@
 {
-  "updated": "2025-10-09T11:47:10.941Z",
+  "updated": "2025-10-09T12:24:49.228Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-10-09T11:47:09.000Z",
+    "lastBuildDate": "2025-10-09T12:24:41.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "中國十一黃金周消費增2.7%，旅遊業興旺電影業萎縮",
+      "description": "對於當前中國經濟來說，消費變得越來越重要，尤其是在房地產市場持續低迷、外部貿易環境持續惡化的情況下，國內消費已成為經濟的重要引擎。",
+      "link": "https://www.bbc.com/zhongwen/articles/cvg925gg7dzo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-09T11:59:12.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvg925gg7dzo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/51d6/live/6304da40-a504-11f0-b748-37792a239250.jpg"
+    },
     {
       "title": "以色列哈馬斯接受第一階段和平計劃，72小時內釋放全部在世以方人質",
       "description": "特朗普表示，以色列與哈馬斯已同意其加沙和平協議的第一階段。特朗普在社群媒體上發文寫道：「所有的人質將很快被釋放」，並且「以色列將撤軍至約定線」。",
@@ -32,14 +40,6 @@
       "pubDate": "2025-10-09T00:26:54.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c930zlyng09o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2c9b/live/a51c2ac0-9869-11f0-822d-b77ab3166e1f.jpg"
-    },
-    {
-      "title": "太平洋帕利塞茲致命山火：美國警方因一張ChatGPT生成圖像鎖定嫌犯",
-      "description": "調查人員稱，從一名29歲男子的設備中發現了一張由AI繪製的燃燒城市圖像。",
-      "link": "https://www.bbc.com/zhongwen/articles/c2dn66w82nwo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-09T05:49:08.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c2dn66w82nwo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d6e/live/0e430540-a469-11f0-928c-71dbb8619e94.jpg"
     },
     {
       "title": "愛因斯坦的小提琴在拍賣會上以上百萬美元售出",
@@ -74,6 +74,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bf57/live/95f02230-a3eb-11f0-90de-cfdf69951f7c.jpg"
     },
     {
+      "title": "太平洋帕利塞茲致命山火：美國警方因一張ChatGPT生成圖像鎖定嫌犯",
+      "description": "調查人員稱，從一名29歲男子的設備中發現了一張由AI繪製的燃燒城市圖像。",
+      "link": "https://www.bbc.com/zhongwen/articles/c2dn66w82nwo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-09T05:49:08.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c2dn66w82nwo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d6e/live/0e430540-a469-11f0-928c-71dbb8619e94.jpg"
+    },
+    {
       "title": "間諜案告吹：英國政府「未將中國列為威脅」被指是主要原因",
       "description": "檢方表示，他們無法從英國政府取得足以達到起訴門檻的證據。",
       "link": "https://www.bbc.com/zhongwen/articles/ckgy5k4p3l9o/trad?at_medium=RSS&at_campaign=rss",
@@ -104,14 +112,6 @@
       "pubDate": "2025-10-07T07:21:24.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c4g7vjw1dpjo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c122/live/82494540-a34b-11f0-92db-77261a15b9d2.jpg"
-    },
-    {
-      "title": "中國如何挑戰英偉達在AI晶片領域的主導地位",
-      "description": "黃仁勳警告，中國在晶片開發上只比美國「落後幾納秒」。英偉達對BBC表示：「競爭無疑已經到來。」",
-      "link": "https://www.bbc.com/zhongwen/articles/c5yvwdgn1yyo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-06T06:36:46.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5yvwdgn1yyo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9949/live/85746ea0-9cd6-11f0-8245-f3f629744491.jpg"
     },
     {
       "title": "全球黃金價格創新高 「買金潮」背後反映了什麼？",
@@ -210,6 +210,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1211/live/e939d750-9fbe-11f0-b73e-e715acbd6a10.jpg"
     },
     {
+      "title": "中國如何挑戰英偉達在AI晶片領域的主導地位",
+      "description": "黃仁勳警告，中國在晶片開發上只比美國「落後幾納秒」。英偉達對BBC表示：「競爭無疑已經到來。」",
+      "link": "https://www.bbc.com/zhongwen/articles/c5yvwdgn1yyo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-06T06:36:46.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5yvwdgn1yyo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9949/live/85746ea0-9cd6-11f0-8245-f3f629744491.jpg"
+    },
+    {
       "title": "「優先席」資格戰：為何華人地區常爆發讓座衝突？",
       "description": "兩岸三地屢因誰應使用博愛座引發衝突，有專家指台北捷運博愛座以深色強調識別效果，是「標籤化」讓座資格，容易激化矛盾，而華人儒家文化的「尊老」價值，也逐漸成為一種群體壓力。",
       "link": "https://www.bbc.com/zhongwen/articles/c24ryz55v50o/trad?at_medium=RSS&at_campaign=rss",
@@ -224,14 +232,6 @@
       "pubDate": "2025-09-29T00:17:12.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/clyd1d2g5z8o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f069/live/0b2a3fa0-9abd-11f0-92db-77261a15b9d2.jpg"
-    },
-    {
-      "title": "台灣「教師荒」：為何年輕人不願從事教職？",
-      "description": "台灣教師本來被視為「鐵飯碗」，現在卻出現嚴重的「教師荒」危機，有學校公開甄選教師超過四十次，開學還招不到人。BBC中文採訪多名前教師和現職教師，為何年輕人認為這是份「與想像有落差」的工作？",
-      "link": "https://www.bbc.com/zhongwen/articles/czxw957yk49o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-30T11:17:54.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/czxw957yk49o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0e76/live/a5169b50-9de1-11f0-9108-f9efa9785693.jpg"
     },
     {
       "title": "緬北明家的崛起與覆滅  11人被判死刑後電詐瘟疫能否根除",
