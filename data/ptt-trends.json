@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-09T14:06:35.523Z",
+  "updated": "2025-10-09T14:17:51.785Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "240",
+      "recommendCount": "626",
+      "title": "[新聞] 新光人壽：籲請中央政府協助 共同促成輝達早日進駐北士科",
+      "link": "/bbs/Stock/M.1760008840.A.AE6",
+      "author": "win8719",
+      "board": "Stock",
+      "publishTime": "2025/10/09 11:20",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "238",
       "recommendCount": "654",
       "title": "[問卦] 有人能開導我嗎？工作做得很痛苦怎麼辦",
@@ -191,16 +201,6 @@
       "author": "RGBB",
       "board": "Gossiping",
       "publishTime": "2025/10/09 10:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "146",
-      "recommendCount": "427",
-      "title": "[新聞] 快訊／綠委林宜瑾涉貪！台南地檢署偵結起訴　她自白繳回1412萬求輕判",
-      "link": "/bbs/Gossiping/M.1759994628.A.E1F",
-      "author": "Ryo5566",
-      "board": "Gossiping",
-      "publishTime": "2025/10/09 07:23",
       "imageUrl": ""
     }
   ]
