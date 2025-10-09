@@ -1,18 +1,8 @@
 {
-  "updated": "2025-10-09T07:44:18.284Z",
+  "updated": "2025-10-09T07:53:15.341Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "482",
-      "recommendCount": "1291",
-      "title": "[新聞] 快訊／輝達進駐北士科卡關　賴清德出手了：中央該幫的一定全力幫",
-      "link": "/bbs/Gossiping/M.1759909743.A.2A1",
-      "author": "lamigo",
-      "board": "Gossiping",
-      "publishTime": "2025/10/08 07:49",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "878",
       "recommendCount": "1000",
@@ -202,6 +192,16 @@
       "board": "C_Chat",
       "publishTime": "2025/10/08 22:11",
       "imageUrl": "https://cache.pttweb.cc/imgur/p6Cf5Bs/s/9dd9d8106607c8b2e4cda6f941b888c0"
+    },
+    {
+      "recommendScore": "234",
+      "recommendCount": "444",
+      "title": "[新聞] 輝達最新要求！經濟部證實：不限北士科",
+      "link": "/bbs/Stock/M.1759920121.A.4C7",
+      "author": "wu73",
+      "board": "Stock",
+      "publishTime": "2025/10/08 10:42",
+      "imageUrl": ""
     }
   ]
 }
