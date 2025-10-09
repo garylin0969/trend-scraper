@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-09T07:29:16.353Z",
+  "updated": "2025-10-09T07:37:19.148Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "861",
-      "recommendCount": "973",
+      "recommendScore": "878",
+      "recommendCount": "1000",
       "title": "[心得] SAAB商富代理商超強售後服務",
       "link": "/bbs/car/M.1759934291.A.7F7",
       "author": "kf930519",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "274",
-      "recommendCount": "495",
+      "recommendScore": "275",
+      "recommendCount": "496",
       "title": "[新聞] 震撼空拍！高雄大坪頂保護區遭濫倒廢瀝青 慘變「柏油山」",
       "link": "/bbs/Gossiping/M.1759946859.A.D83",
       "author": "qq204",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "335",
-      "recommendCount": "378",
+      "recommendScore": "348",
+      "recommendCount": "392",
       "title": "[祭品] 看看下一場大谷翔平幾隻全壘打",
       "link": "/bbs/Baseball/M.1759983757.A.9D2",
       "author": "L1ON",
@@ -154,6 +154,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "259",
+      "recommendCount": "451",
+      "title": "[情報] 台積公司2025年9月營收報告",
+      "link": "/bbs/Stock/M.1759987939.A.42D",
+      "author": "rz2x",
+      "board": "Stock",
+      "publishTime": "2025/10/09 05:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "222",
+      "recommendCount": "448",
+      "title": "[花邊] 湖人粉絲提告LBJ詐欺$865.66美元",
+      "link": "/bbs/NBA/M.1759970315.A.1F2",
+      "author": "shauima",
+      "board": "NBA",
+      "publishTime": "2025/10/09 00:38",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "187",
       "recommendCount": "433",
       "title": "[問卦] 江祖平性侵案 士檢為什麼「不辦了」?",
@@ -164,18 +184,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/eFJwEbz/s/5805b94483b01d8be32c0e16976eae42"
     },
     {
-      "recommendScore": "221",
-      "recommendCount": "442",
-      "title": "[花邊] 湖人粉絲提告LBJ詐欺$865.66美元",
-      "link": "/bbs/NBA/M.1759970315.A.1F2",
-      "author": "shauima",
-      "board": "NBA",
-      "publishTime": "2025/10/09 00:38",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "325",
-      "recommendCount": "615",
+      "recommendCount": "620",
       "title": "[新聞] 走過車禍低潮　李振昌獲得東山再起獎",
       "link": "/bbs/Baseball/M.1759979232.A.EA7",
       "author": "flele",
@@ -192,16 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2025/10/08 22:11",
       "imageUrl": "https://cache.pttweb.cc/imgur/p6Cf5Bs/s/9dd9d8106607c8b2e4cda6f941b888c0"
-    },
-    {
-      "recommendScore": "233",
-      "recommendCount": "443",
-      "title": "[新聞] 輝達最新要求！經濟部證實：不限北士科",
-      "link": "/bbs/Stock/M.1759920121.A.4C7",
-      "author": "wu73",
-      "board": "Stock",
-      "publishTime": "2025/10/08 10:42",
-      "imageUrl": ""
     }
   ]
 }
