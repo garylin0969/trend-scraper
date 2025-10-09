@@ -1,14 +1,22 @@
 {
-  "updated": "2025-10-09T05:22:24.406Z",
+  "updated": "2025-10-09T05:47:34.320Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-10-09T05:22:18.000Z",
+    "lastBuildDate": "2025-10-09T05:47:22.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "加薩戰爭：特朗普宣布以巴達成停火協議",
+      "description": "特朗普表示，以色列與哈瑪斯已同意其加薩和平協議的第一階段。特朗普在社群媒體上發文寫道：「所有的人質將很快被釋放」，並且「以色列將撤軍至約定線」。",
+      "link": "https://www.bbc.com/zhongwen/articles/cd9y335nd04o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-09T05:22:53.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cd9y335nd04o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e27a/live/89f11250-a4c7-11f0-b741-177e3e2c2fc7.jpg"
+    },
     {
       "title": "十一長假：香港力推生態旅遊，但熱門景點遭受破壞前景堪憂",
       "description": "環保團體綠色和平在黃金周首日到訪熱門景點橋咀島，發現單日有超過4000人登島，並觀察到不少破壞生態環境的行為，包括穿著球鞋踐踏珊瑚、挖掘海岸生物、違法生火煮食、隨處棄置垃圾等，引起社會廣泛關注。",
@@ -40,14 +48,6 @@
       "pubDate": "2025-10-09T04:35:04.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c2dn6w9x2pdo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e8c8/live/fec4b7f0-a4bb-11f0-b741-177e3e2c2fc7.jpg"
-    },
-    {
-      "title": "加拿大海洋公園威脅將對30頭白鯨實施安樂死",
-      "description": "加拿大一家遊樂園威脅要對30頭白鯨實施安樂死，此前其向中國珠海贈送這批動物的請求遭到加拿大政府拒絕。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gj1redr3po/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-09T00:26:17.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gj1redr3po/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a12b/live/962de1f0-a400-11f0-b741-177e3e2c2fc7.jpg"
     },
     {
       "title": "還原花蓮救災仰仗的「鏟子超人」 龐大民間力量如何突顯政府缺位",
@@ -82,12 +82,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/99b2/live/668aeee0-a3b3-11f0-9871-a159926144cf.jpg"
     },
     {
-      "title": "拉姆斯戴爾在斷網健行期間意外得知榮獲諾貝爾醫學獎",
-      "description": "這位免疫學家在評獎委員會首次試圖聯繫他20小時之後，聯繫上了其他獲獎人、朋友以及諾貝爾大會的官員。",
-      "link": "https://www.bbc.com/zhongwen/articles/cpvlgk9je3po/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-08T07:09:07.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cpvlgk9je3po/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5b32/live/96addad0-a415-11f0-8bd5-e15debd0c716.jpg"
+      "title": "加拿大海洋公園威脅將對30頭白鯨實施安樂死",
+      "description": "加拿大一家遊樂園威脅要對30頭白鯨實施安樂死，此前其向中國珠海贈送這批動物的請求遭到加拿大政府拒絕。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gj1redr3po/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-09T00:26:17.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gj1redr3po/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a12b/live/962de1f0-a400-11f0-b741-177e3e2c2fc7.jpg"
     },
     {
       "title": "確診「多動症」後  中國Z世代把ADHD用作了流行社交標籤",
