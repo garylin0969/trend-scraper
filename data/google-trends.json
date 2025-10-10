@@ -1,9 +1,9 @@
 {
-  "updated": "2025-10-10T23:08:39.322Z",
+  "updated": "2025-10-10T23:36:36.169Z",
   "trends": [
     {
       "googleTrend": "台積電adr",
-      "searchVolume": "1,000+",
+      "searchVolume": "2,000+",
       "started": "1 小時前"
     },
     {
@@ -14,40 +14,30 @@
     {
       "googleTrend": "btc",
       "searchVolume": "200+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "虛擬貨幣",
+      "searchVolume": "200+",
       "started": "1 小時前"
     },
     {
-      "googleTrend": "世界盃資格賽",
+      "googleTrend": "加密貨幣",
+      "searchVolume": "200+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "eth",
       "searchVolume": "200+",
       "started": "3 小時前"
     },
     {
-      "googleTrend": "輝達股價",
-      "searchVolume": "200+",
-      "started": "50 分鐘前"
-    },
-    {
-      "googleTrend": "虛擬貨幣",
+      "googleTrend": "美債",
       "searchVolume": "100+",
-      "started": "50 分鐘前"
-    },
-    {
-      "googleTrend": "eth",
-      "searchVolume": "100+",
-      "started": "2 小時前"
-    },
-    {
-      "googleTrend": "美元指數",
-      "searchVolume": "200+",
       "started": "1 小時前"
     },
     {
       "googleTrend": "美光股價",
-      "searchVolume": "100+",
-      "started": "40 分鐘前"
-    },
-    {
-      "googleTrend": "nvda",
       "searchVolume": "200+",
       "started": "1 小時前"
     },
@@ -57,14 +47,14 @@
       "started": "1 小時前"
     },
     {
-      "googleTrend": "vt",
-      "searchVolume": "100+",
-      "started": "3 小時前"
+      "googleTrend": "美元指數",
+      "searchVolume": "200+",
+      "started": "2 小時前"
     },
     {
-      "googleTrend": "7-11",
+      "googleTrend": "nvidia 股價",
       "searchVolume": "100+",
-      "started": "30 分鐘前"
+      "started": "1 小時前"
     },
     {
       "googleTrend": "海嘯",
@@ -72,9 +62,24 @@
       "started": "2 小時前"
     },
     {
+      "googleTrend": "vt",
+      "searchVolume": "100+",
+      "started": "3 小時前"
+    },
+    {
+      "googleTrend": "nvda",
+      "searchVolume": "200+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "7-11",
+      "searchVolume": "100+",
+      "started": "1 小時前"
+    },
+    {
       "googleTrend": "特斯拉股價",
       "searchVolume": "200+",
-      "started": "1 小時前"
+      "started": "2 小時前"
     }
   ]
 }
