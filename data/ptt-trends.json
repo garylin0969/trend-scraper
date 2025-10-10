@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-10T05:30:16.867Z",
+  "updated": "2025-10-10T05:39:11.400Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "295",
-      "recommendCount": "504",
-      "title": "[情報] 台積公司2025年9月營收報告",
-      "link": "/bbs/Stock/M.1759987939.A.42D",
-      "author": "rz2x",
-      "board": "Stock",
-      "publishTime": "2025/10/09 05:32",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "307",
       "recommendCount": "401",
       "title": "[花邊] MPJ: 想再來台灣一次",
@@ -201,6 +191,16 @@
       "author": "lycppt",
       "board": "Gossiping",
       "publishTime": "2025/10/09 08:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "144",
+      "recommendCount": "311",
+      "title": "[新聞] 林郁婷全運會迎奧運後首戰　強調全力以赴",
+      "link": "/bbs/Gossiping/M.1760023018.A.BDC",
+      "author": "eatk",
+      "board": "Gossiping",
+      "publishTime": "2025/10/09 15:16",
       "imageUrl": ""
     }
   ]
