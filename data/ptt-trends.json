@@ -1,18 +1,8 @@
 {
-  "updated": "2025-10-10T15:53:36.225Z",
+  "updated": "2025-10-10T16:07:40.178Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "305",
-      "recommendCount": "566",
-      "title": "[問卦] 蔡英文死了？",
-      "link": "/bbs/Gossiping/M.1760025607.A.4E7",
-      "author": "ambitious",
-      "board": "Gossiping",
-      "publishTime": "2025/10/09 16:00",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "329",
       "recommendCount": "479",
@@ -201,6 +191,16 @@
       "author": "ricky89004",
       "board": "Baseball",
       "publishTime": "2025/10/10 04:31",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "119",
+      "recommendCount": "366",
+      "title": "[新聞] 台南無照猴載妹！飆速跑山撞死好友　警「輕放」申誡2次",
+      "link": "/bbs/Gossiping/M.1760052349.A.918",
+      "author": "Workforme",
+      "board": "Gossiping",
+      "publishTime": "2025/10/09 23:25",
       "imageUrl": ""
     }
   ]
