@@ -1,11 +1,11 @@
 {
-  "updated": "2025-10-10T18:07:31.504Z",
+  "updated": "2025-10-10T18:20:18.622Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "419",
-      "recommendCount": "435",
+      "recommendScore": "426",
+      "recommendCount": "442",
       "title": "[公告] 神預測－入圍賽階段 預測專區",
       "link": "/bbs/LoL/M.1760106688.A.C65",
       "author": "cornsoup",
@@ -34,8 +34,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/KDo5yaT/s/5abf7bc5b3cafeae06523bda7af98613"
     },
     {
-      "recommendScore": "217",
-      "recommendCount": "560",
+      "recommendScore": "218",
+      "recommendCount": "562",
       "title": "[新聞] 海鯤號今年恐無法交艦　傳唐華要撤查為何那麼多問題",
       "link": "/bbs/Gossiping/M.1760091545.A.E44",
       "author": "loechen",
@@ -64,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "159",
+      "recommendCount": "493",
+      "title": "[新聞] 中國女教師遊台灣後 兩岸差距令其震撼不已",
+      "link": "/bbs/Gossiping/M.1760082230.A.216",
+      "author": "pulagu",
+      "board": "Gossiping",
+      "publishTime": "2025/10/10 07:43",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "293",
       "recommendCount": "435",
       "title": "[新聞] 國慶大典小凸槌　韓國瑜突念賴清德講稿「眉頭一皺」典禮中斷數秒",
@@ -71,16 +81,6 @@
       "author": "qazxc1156892",
       "board": "Gossiping",
       "publishTime": "2025/10/10 04:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "158",
-      "recommendCount": "491",
-      "title": "[新聞] 中國女教師遊台灣後 兩岸差距令其震撼不已",
-      "link": "/bbs/Gossiping/M.1760082230.A.216",
-      "author": "pulagu",
-      "board": "Gossiping",
-      "publishTime": "2025/10/10 07:43",
       "imageUrl": ""
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "266",
-      "recommendCount": "574",
+      "recommendCount": "575",
       "title": "[問卦] 林郁婷國內冠軍戰 對手直接棄權 代表？",
       "link": "/bbs/Gossiping/M.1760094772.A.A80",
       "author": "gn07199",
@@ -145,7 +145,7 @@
     },
     {
       "recommendScore": "251",
-      "recommendCount": "436",
+      "recommendCount": "437",
       "title": "[情報] 西門町自製一番賞580一抽 抽到空氣",
       "link": "/bbs/C_Chat/M.1760090010.A.FEE",
       "author": "GTES",
@@ -164,13 +164,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "344",
+      "recommendScore": "167",
+      "recommendCount": "346",
       "title": "[問卦] 摔倒在地 頭暈、頭重四天了 要看醫生嗎?",
       "link": "/bbs/Gossiping/M.1760097138.A.194",
       "author": "mark751019",
       "board": "Gossiping",
       "publishTime": "2025/10/10 11:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "188",
+      "recommendCount": "346",
+      "title": "[情報] 川普：考慮大幅提高中國關稅",
+      "link": "/bbs/Stock/M.1760110223.A.E05",
+      "author": "rz2x",
+      "board": "Stock",
+      "publishTime": "2025/10/10 15:30",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "wcpsgb",
       "board": "Gossiping",
       "publishTime": "2025/10/10 05:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "186",
-      "recommendCount": "341",
-      "title": "[情報] 川普：考慮大幅提高中國關稅",
-      "link": "/bbs/Stock/M.1760110223.A.E05",
-      "author": "rz2x",
-      "board": "Stock",
-      "publishTime": "2025/10/10 15:30",
       "imageUrl": ""
     }
   ]
