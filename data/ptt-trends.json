@@ -1,11 +1,11 @@
 {
-  "updated": "2025-10-10T06:08:33.767Z",
+  "updated": "2025-10-10T06:21:33.963Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "360",
-      "recommendCount": "847",
+      "recommendScore": "363",
+      "recommendCount": "850",
       "title": "[新聞] 高雄大坪頂保護區綠地變柏油山！市府：合法但未申請　議員氣炸",
       "link": "/bbs/Gossiping/M.1759998367.A.243",
       "author": "qazxc1156892",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "317",
-      "recommendCount": "838",
+      "recommendScore": "318",
+      "recommendCount": "842",
       "title": "[新聞] 新光人壽：籲請中央政府協助 共同促成輝達早日進駐北士科",
       "link": "/bbs/Stock/M.1760008840.A.AE6",
       "author": "win8719",
@@ -34,8 +34,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "383",
+      "recommendCount": "615",
+      "title": "[爆卦] 韓國瑜：要反省光電板、大峽谷",
+      "link": "/bbs/Gossiping/M.1760062774.A.534",
+      "author": "bb10181128",
+      "board": "Gossiping",
+      "publishTime": "2025/10/10 02:19",
+      "imageUrl": "https://cache.pttweb.cc/imgur/7SrleET/s/8c7d4ad8f3bb63c183e07959a884c327"
+    },
+    {
       "recommendScore": "220",
-      "recommendCount": "1061",
+      "recommendCount": "1065",
       "title": "[新聞] 高鐵「寧靜車廂」小孩狂哭！路人氣炸開轟醫嗆：強迫閉嘴有教養嗎",
       "link": "/bbs/Gossiping/M.1759991757.A.3F7",
       "author": "keel90135",
@@ -54,24 +64,14 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/MM0BUlY/s/4f3045c3ba935bd6ee3f3a5a2892558c"
     },
     {
-      "recommendScore": "177",
-      "recommendCount": "847",
+      "recommendScore": "178",
+      "recommendCount": "851",
       "title": "[新聞] 輝達總部 新壽已做最大讓步 破局關鍵在北市府",
       "link": "/bbs/Gossiping/M.1760005549.A.AE7",
       "author": "RGBB",
       "board": "Gossiping",
       "publishTime": "2025/10/09 10:25",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "334",
-      "recommendCount": "546",
-      "title": "[爆卦] 韓國瑜：要反省光電板、大峽谷",
-      "link": "/bbs/Gossiping/M.1760062774.A.534",
-      "author": "bb10181128",
-      "board": "Gossiping",
-      "publishTime": "2025/10/10 02:19",
-      "imageUrl": "https://cache.pttweb.cc/imgur/7SrleET/s/8c7d4ad8f3bb63c183e07959a884c327"
     },
     {
       "recommendScore": "253",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "319",
-      "recommendCount": "468",
+      "recommendScore": "321",
+      "recommendCount": "470",
       "title": "[分享] 今日 佐佐木朗希 三局無失分",
       "link": "/bbs/Baseball/M.1760060373.A.E11",
       "author": "carlchang092",
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "294",
-      "recommendCount": "464",
+      "recommendCount": "465",
       "title": "[新聞] 翁達瑞驚爆騷擾、學倫重大醜聞！爆料者預",
       "link": "/bbs/Gossiping/M.1760004047.A.D1E",
       "author": "ak47good",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "434",
+      "recommendScore": "245",
+      "recommendCount": "435",
       "title": "[分享] 今日大谷翔平",
       "link": "/bbs/Baseball/M.1760060857.A.A8F",
       "author": "devil157",
@@ -135,7 +135,7 @@
     },
     {
       "recommendScore": "191",
-      "recommendCount": "378",
+      "recommendCount": "379",
       "title": "[問卦] 林郁婷：期待跟國內女拳手 以拳會友",
       "link": "/bbs/Gossiping/M.1760014427.A.5C9",
       "author": "Alberta99170",
@@ -144,18 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "245",
-      "recommendCount": "426",
-      "title": "[討論] 為什麼不傳一壘?",
-      "link": "/bbs/Baseball/M.1760060621.A.C2C",
-      "author": "TALUBAN",
-      "board": "Baseball",
-      "publishTime": "2025/10/10 01:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "170",
-      "recommendCount": "441",
+      "recommendScore": "172",
+      "recommendCount": "450",
       "title": "[新聞] 輝達用地 劉世芳:尊重北市合法合規處理契約爭議",
       "link": "/bbs/Gossiping/M.1760023378.A.9F9",
       "author": "tsengcc",
@@ -164,13 +154,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "154",
-      "recommendCount": "341",
+      "recommendScore": "246",
+      "recommendCount": "427",
+      "title": "[討論] 為什麼不傳一壘?",
+      "link": "/bbs/Baseball/M.1760060621.A.C2C",
+      "author": "TALUBAN",
+      "board": "Baseball",
+      "publishTime": "2025/10/10 01:43",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "155",
+      "recommendCount": "342",
       "title": "[新聞] 國防部稱每瓶120元水參考日本　網友揪：1瓶不到27元",
       "link": "/bbs/Gossiping/M.1760013252.A.B66",
       "author": "troyyuan",
       "board": "Gossiping",
       "publishTime": "2025/10/09 12:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "150",
+      "recommendCount": "634",
+      "title": "Re: [問卦] 台灣新生兒一年掉27%？",
+      "link": "/bbs/Gossiping/M.1760055701.A.9E8",
+      "author": "iamdead5566",
+      "board": "Gossiping",
+      "publishTime": "2025/10/10 00:21",
       "imageUrl": ""
     },
     {
@@ -184,18 +194,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/GgMDanh/s/72a93c93f5263e4e9837413bef32a4c0"
     },
     {
-      "recommendScore": "105",
-      "recommendCount": "337",
-      "title": "[新聞] 涉詐助理費1412萬起訴 林宜瑾道歉了：我願意承擔錯誤",
-      "link": "/bbs/Gossiping/M.1760000057.A.ABB",
-      "author": "lycppt",
-      "board": "Gossiping",
-      "publishTime": "2025/10/09 08:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "144",
-      "recommendCount": "311",
+      "recommendScore": "149",
+      "recommendCount": "322",
       "title": "[新聞] 林郁婷全運會迎奧運後首戰　強調全力以赴",
       "link": "/bbs/Gossiping/M.1760023018.A.BDC",
       "author": "eatk",
