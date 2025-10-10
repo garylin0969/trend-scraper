@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-10T06:57:29.881Z",
+  "updated": "2025-10-10T07:08:12.336Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -12,6 +12,16 @@
       "board": "Gossiping",
       "publishTime": "2025/10/09 08:26",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "394",
+      "recommendCount": "644",
+      "title": "[爆卦] 韓國瑜：要反省光電板、大峽谷",
+      "link": "/bbs/Gossiping/M.1760062774.A.534",
+      "author": "bb10181128",
+      "board": "Gossiping",
+      "publishTime": "2025/10/10 02:19",
+      "imageUrl": "https://cache.pttweb.cc/imgur/7SrleET/s/8c7d4ad8f3bb63c183e07959a884c327"
     },
     {
       "recommendScore": "318",
@@ -32,16 +42,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/09 16:00",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "386",
-      "recommendCount": "622",
-      "title": "[爆卦] 韓國瑜：要反省光電板、大峽谷",
-      "link": "/bbs/Gossiping/M.1760062774.A.534",
-      "author": "bb10181128",
-      "board": "Gossiping",
-      "publishTime": "2025/10/10 02:19",
-      "imageUrl": "https://cache.pttweb.cc/imgur/7SrleET/s/8c7d4ad8f3bb63c183e07959a884c327"
     },
     {
       "recommendScore": "178",
@@ -104,8 +104,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/LXywZXk/s/877e561cba841fb3c5113aa45ce9396c"
     },
     {
-      "recommendScore": "155",
-      "recommendCount": "450",
+      "recommendScore": "156",
+      "recommendCount": "452",
       "title": "[新聞] 快訊／綠委林宜瑾涉貪！台南地檢署偵結起訴　她自白繳回1412萬求輕判",
       "link": "/bbs/Gossiping/M.1759994628.A.E1F",
       "author": "Ryo5566",
@@ -144,8 +144,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "156",
-      "recommendCount": "343",
+      "recommendScore": "154",
+      "recommendCount": "642",
+      "title": "Re: [問卦] 台灣新生兒一年掉27%？",
+      "link": "/bbs/Gossiping/M.1760055701.A.9E8",
+      "author": "iamdead5566",
+      "board": "Gossiping",
+      "publishTime": "2025/10/10 00:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "157",
+      "recommendCount": "344",
       "title": "[新聞] 國防部稱每瓶120元水參考日本　網友揪：1瓶不到27元",
       "link": "/bbs/Gossiping/M.1760013252.A.B66",
       "author": "troyyuan",
@@ -154,13 +164,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "152",
-      "recommendCount": "637",
-      "title": "Re: [問卦] 台灣新生兒一年掉27%？",
-      "link": "/bbs/Gossiping/M.1760055701.A.9E8",
-      "author": "iamdead5566",
+      "recommendScore": "215",
+      "recommendCount": "310",
+      "title": "[新聞] 國慶大典小凸槌　韓國瑜突念賴清德講稿「眉頭一皺」典禮中斷數秒",
+      "link": "/bbs/Gossiping/M.1760068808.A.1EA",
+      "author": "qazxc1156892",
       "board": "Gossiping",
-      "publishTime": "2025/10/10 00:21",
+      "publishTime": "2025/10/10 04:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "115",
+      "recommendCount": "458",
+      "title": "[新聞] 揭輝達內幕「絕大部分都反對投資台灣」！",
+      "link": "/bbs/Gossiping/M.1760028708.A.8E4",
+      "author": "MeiHS",
+      "board": "Gossiping",
+      "publishTime": "2025/10/09 16:51",
       "imageUrl": ""
     },
     {
@@ -181,26 +201,6 @@
       "author": "WeiBirdFan",
       "board": "C_Chat",
       "publishTime": "2025/10/10 03:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "113",
-      "recommendCount": "446",
-      "title": "[新聞] 揭輝達內幕「絕大部分都反對投資台灣」！",
-      "link": "/bbs/Gossiping/M.1760028708.A.8E4",
-      "author": "MeiHS",
-      "board": "Gossiping",
-      "publishTime": "2025/10/09 16:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "149",
-      "recommendCount": "322",
-      "title": "[新聞] 林郁婷全運會迎奧運後首戰　強調全力以赴",
-      "link": "/bbs/Gossiping/M.1760023018.A.BDC",
-      "author": "eatk",
-      "board": "Gossiping",
-      "publishTime": "2025/10/09 15:16",
       "imageUrl": ""
     }
   ]
