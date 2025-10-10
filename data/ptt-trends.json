@@ -1,11 +1,11 @@
 {
-  "updated": "2025-10-10T23:17:21.374Z",
+  "updated": "2025-10-10T23:26:36.755Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "528",
-      "recommendCount": "549",
+      "recommendScore": "530",
+      "recommendCount": "551",
       "title": "[公告] 神預測－入圍賽階段 預測專區",
       "link": "/bbs/LoL/M.1760106688.A.C65",
       "author": "cornsoup",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "179",
+      "recommendCount": "363",
+      "title": "[問卦] 名醫踢爆台南光電板謊言",
+      "link": "/bbs/Gossiping/M.1760102997.A.FAB",
+      "author": "gogobar",
+      "board": "Gossiping",
+      "publishTime": "2025/10/10 13:29",
+      "imageUrl": "https://cache.pttweb.cc/imgur/gqOaU85/s/5d771f7f99323b114cce755404f256c0"
+    },
+    {
       "recommendScore": "169",
       "recommendCount": "548",
       "title": "[新聞] 影／加拿大拒絕出口中國！海洋公園威脅：30頭白鯨全數安樂死",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/10 10:39",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "176",
-      "recommendCount": "360",
-      "title": "[問卦] 名醫踢爆台南光電板謊言",
-      "link": "/bbs/Gossiping/M.1760102997.A.FAB",
-      "author": "gogobar",
-      "board": "Gossiping",
-      "publishTime": "2025/10/10 13:29",
-      "imageUrl": "https://cache.pttweb.cc/imgur/gqOaU85/s/5d771f7f99323b114cce755404f256c0"
     }
   ]
 }
