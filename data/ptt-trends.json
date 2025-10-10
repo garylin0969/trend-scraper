@@ -1,17 +1,27 @@
 {
-  "updated": "2025-10-10T20:06:02.866Z",
+  "updated": "2025-10-10T20:18:18.429Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "486",
-      "recommendCount": "504",
+      "recommendScore": "492",
+      "recommendCount": "510",
       "title": "[公告] 神預測－入圍賽階段 預測專區",
       "link": "/bbs/LoL/M.1760106688.A.C65",
       "author": "cornsoup",
       "board": "LoL",
       "publishTime": "2025/10/10 14:31",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "282",
+      "recommendCount": "537",
+      "title": "[問卦] 日本偶像：台灣牛肉麵才60元又好吃！",
+      "link": "/bbs/Gossiping/M.1760087984.A.045",
+      "author": "chen09885",
+      "board": "Gossiping",
+      "publishTime": "2025/10/10 09:19",
+      "imageUrl": "https://cache.pttweb.cc/imgur/KDo5yaT/s/5abf7bc5b3cafeae06523bda7af98613"
     },
     {
       "recommendScore": "329",
@@ -22,16 +32,6 @@
       "board": "Baseball",
       "publishTime": "2025/10/10 01:39",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "281",
-      "recommendCount": "536",
-      "title": "[問卦] 日本偶像：台灣牛肉麵才60元又好吃！",
-      "link": "/bbs/Gossiping/M.1760087984.A.045",
-      "author": "chen09885",
-      "board": "Gossiping",
-      "publishTime": "2025/10/10 09:19",
-      "imageUrl": "https://cache.pttweb.cc/imgur/KDo5yaT/s/5abf7bc5b3cafeae06523bda7af98613"
     },
     {
       "recommendScore": "220",
@@ -154,18 +154,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/2StRdFQ/s/beec813a2a771805fdd65dc96d35a981"
     },
     {
-      "recommendScore": "168",
-      "recommendCount": "534",
-      "title": "[問卦] 精緻女生也太貴了吧？",
-      "link": "/bbs/Gossiping/M.1760062601.A.1A4",
-      "author": "thelittleone",
-      "board": "Gossiping",
-      "publishTime": "2025/10/10 02:16",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "196",
-      "recommendCount": "360",
+      "recommendCount": "361",
       "title": "[情報] 川普：考慮大幅提高中國關稅",
       "link": "/bbs/Stock/M.1760110223.A.E05",
       "author": "rz2x",
@@ -174,13 +164,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "171",
-      "recommendCount": "351",
+      "recommendScore": "170",
+      "recommendCount": "352",
       "title": "[問卦] 摔倒在地 頭暈、頭重四天了 要看醫生嗎?",
       "link": "/bbs/Gossiping/M.1760097138.A.194",
       "author": "mark751019",
       "board": "Gossiping",
       "publishTime": "2025/10/10 11:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "168",
+      "recommendCount": "534",
+      "title": "[問卦] 精緻女生也太貴了吧？",
+      "link": "/bbs/Gossiping/M.1760062601.A.1A4",
+      "author": "thelittleone",
+      "board": "Gossiping",
+      "publishTime": "2025/10/10 02:16",
       "imageUrl": ""
     },
     {
