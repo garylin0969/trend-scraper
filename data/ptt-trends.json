@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-10T15:37:23.768Z",
+  "updated": "2025-10-10T15:44:37.425Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "266",
-      "recommendCount": "511",
+      "recommendScore": "273",
+      "recommendCount": "520",
       "title": "[問卦] 日本偶像：台灣牛肉麵才60元又好吃！",
       "link": "/bbs/Gossiping/M.1760087984.A.045",
       "author": "chen09885",
@@ -34,8 +34,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/KDo5yaT/s/5abf7bc5b3cafeae06523bda7af98613"
     },
     {
-      "recommendScore": "188",
-      "recommendCount": "497",
+      "recommendScore": "190",
+      "recommendCount": "499",
       "title": "[新聞] 韓國瑜國慶致詞點名美濃大峽谷、大罷免 綠批失禮失格、醜化台灣",
       "link": "/bbs/Gossiping/M.1760072079.A.6C8",
       "author": "NTU87",
@@ -44,13 +44,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "200",
-      "recommendCount": "523",
+      "recommendScore": "209",
+      "recommendCount": "540",
       "title": "[新聞] 海鯤號今年恐無法交艦　傳唐華要撤查為何那麼多問題",
       "link": "/bbs/Gossiping/M.1760091545.A.E44",
       "author": "loechen",
       "board": "Gossiping",
       "publishTime": "2025/10/10 10:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "292",
+      "recommendCount": "433",
+      "title": "[新聞] 國慶大典小凸槌　韓國瑜突念賴清德講稿「眉頭一皺」典禮中斷數秒",
+      "link": "/bbs/Gossiping/M.1760068808.A.1EA",
+      "author": "qazxc1156892",
+      "board": "Gossiping",
+      "publishTime": "2025/10/10 04:00",
       "imageUrl": ""
     },
     {
@@ -64,18 +74,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/LXywZXk/s/877e561cba841fb3c5113aa45ce9396c"
     },
     {
-      "recommendScore": "290",
-      "recommendCount": "431",
-      "title": "[新聞] 國慶大典小凸槌　韓國瑜突念賴清德講稿「眉頭一皺」典禮中斷數秒",
-      "link": "/bbs/Gossiping/M.1760068808.A.1EA",
-      "author": "qazxc1156892",
-      "board": "Gossiping",
-      "publishTime": "2025/10/10 04:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "186",
-      "recommendCount": "456",
+      "recommendScore": "187",
+      "recommendCount": "460",
       "title": "[新聞] 高雄淪廢棄物天堂 陳其邁回應扯韓國瑜 白喬茵氣炸離席",
       "link": "/bbs/Gossiping/M.1760079879.A.ECC",
       "author": "usnavyseal",
@@ -85,7 +85,7 @@
     },
     {
       "recommendScore": "153",
-      "recommendCount": "464",
+      "recommendCount": "467",
       "title": "[新聞] 中國女教師遊台灣後 兩岸差距令其震撼不已",
       "link": "/bbs/Gossiping/M.1760082230.A.216",
       "author": "pulagu",
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "237",
+      "recommendCount": "525",
+      "title": "[問卦] 林郁婷國內冠軍戰 對手直接棄權 代表？",
+      "link": "/bbs/Gossiping/M.1760094772.A.A80",
+      "author": "gn07199",
+      "board": "Gossiping",
+      "publishTime": "2025/10/10 11:12",
+      "imageUrl": "https://cache.pttweb.cc/imgur/YxexxRr/s/033a974515005e370cd9ec2e55a6d36b"
+    },
+    {
       "recommendScore": "251",
       "recommendCount": "438",
       "title": "[討論] 為什麼不傳一壘?",
@@ -114,24 +124,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "217",
-      "recommendCount": "458",
+      "recommendScore": "218",
+      "recommendCount": "460",
       "title": "[問卦] 韓國啦啦隊進軍台灣 韓網:台灣沒女人?",
       "link": "/bbs/Gossiping/M.1760075445.A.BEF",
       "author": "ReiKuromiya",
       "board": "Gossiping",
       "publishTime": "2025/10/10 05:50",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "226",
-      "recommendCount": "505",
-      "title": "[問卦] 林郁婷國內冠軍戰 對手直接棄權 代表？",
-      "link": "/bbs/Gossiping/M.1760094772.A.A80",
-      "author": "gn07199",
-      "board": "Gossiping",
-      "publishTime": "2025/10/10 11:12",
-      "imageUrl": "https://cache.pttweb.cc/imgur/YxexxRr/s/033a974515005e370cd9ec2e55a6d36b"
     },
     {
       "recommendScore": "280",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "120",
-      "recommendCount": "474",
+      "recommendScore": "121",
+      "recommendCount": "475",
       "title": "[新聞] 揭輝達內幕「絕大部分都反對投資台灣」！",
       "link": "/bbs/Gossiping/M.1760028708.A.8E4",
       "author": "MeiHS",
@@ -155,7 +155,7 @@
     },
     {
       "recommendScore": "244",
-      "recommendCount": "422",
+      "recommendCount": "423",
       "title": "[情報] 西門町自製一番賞580一抽 抽到空氣",
       "link": "/bbs/C_Chat/M.1760090010.A.FEE",
       "author": "GTES",
@@ -165,7 +165,7 @@
     },
     {
       "recommendScore": "166",
-      "recommendCount": "525",
+      "recommendCount": "526",
       "title": "[問卦] 精緻女生也太貴了吧？",
       "link": "/bbs/Gossiping/M.1760062601.A.1A4",
       "author": "thelittleone",
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "261",
-      "recommendCount": "486",
+      "recommendScore": "262",
+      "recommendCount": "487",
       "title": "[討論] Judge和Harper會不會終生無冠",
       "link": "/bbs/Baseball/M.1760070696.A.ADB",
       "author": "ricky89004",
