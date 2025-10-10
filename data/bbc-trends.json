@@ -1,14 +1,22 @@
 {
-  "updated": "2025-10-10T09:22:49.381Z",
+  "updated": "2025-10-10T09:47:08.337Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-10-10T09:22:42.000Z",
+    "lastBuildDate": "2025-10-10T09:47:01.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "揭秘決定諾貝爾和平獎的那間小屋",
+      "description": "BBC與挪威國家廣播公司獲得了進入他們作出決定的場地的機會。這是諾貝爾獎125年歷史上，媒體首次獲准探訪評選過程的幕後。",
+      "link": "https://www.bbc.com/zhongwen/articles/cqlzqk0e4wro/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-10T09:31:19.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cqlzqk0e4wro/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4729/live/fd89d450-a476-11f0-b741-177e3e2c2fc7.png"
+    },
     {
       "title": "中國十一黃金周消費增2.7%，旅遊業興旺電影業萎縮",
       "description": "對於當前中國經濟來說，消費變得越來越重要，尤其是在房地產市場持續低迷、外部貿易環境持續惡化的情況下，國內消費已成為經濟的重要引擎。",
@@ -46,7 +54,7 @@
       "description": "李創業七個月大罹患小兒麻痺，致使雙腿癱瘓，只能蹲踞前行。童年飽受嘲諷，九歲手術失敗後一度絕望，9歲被騙，做了七年街頭乞丐。 16歲上學，25歲考入醫學院，現於新疆診所行醫，病患稱他「奇蹟醫生」。",
       "link": "https://www.bbc.com/zhongwen/articles/c930zlyng09o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-10-09T00:26:54.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c930zlyng09o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c930zlyng09o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2c9b/live/a51c2ac0-9869-11f0-822d-b77ab3166e1f.jpg"
     },
     {
@@ -104,14 +112,6 @@
       "pubDate": "2025-10-09T04:35:04.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c2dn6w9x2pdo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e8c8/live/fec4b7f0-a4bb-11f0-b741-177e3e2c2fc7.jpg"
-    },
-    {
-      "title": "加拿大海洋公園威脅將對30頭白鯨實施安樂死",
-      "description": "加拿大一家遊樂園威脅要對30頭白鯨實施安樂死，此前其向中國珠海贈送這批動物的請求遭到加拿大政府拒絕。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gj1redr3po/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-09T00:26:17.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gj1redr3po/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a12b/live/962de1f0-a400-11f0-b741-177e3e2c2fc7.jpg"
     },
     {
       "title": "全球黃金價格創新高 「買金潮」背後反映了什麼？",
@@ -210,6 +210,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/49d4/live/19a047f0-a0fd-11f0-92db-77261a15b9d2.jpg"
     },
     {
+      "title": "加拿大海洋公園威脅將對30頭白鯨實施安樂死",
+      "description": "加拿大一家遊樂園威脅要對30頭白鯨實施安樂死，此前其向中國珠海贈送這批動物的請求遭到加拿大政府拒絕。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gj1redr3po/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-09T00:26:17.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gj1redr3po/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a12b/live/962de1f0-a400-11f0-b741-177e3e2c2fc7.jpg"
+    },
+    {
       "title": "美國如何一步步在全球電動車競賽中落後",
       "description": "截至8月，美國電動車的平均交易價格超過57,000美元，比所有汽車的平均價格高出約16%。",
       "link": "https://www.bbc.com/zhongwen/articles/c04q6nq7qkzo/trad?at_medium=RSS&at_campaign=rss",
@@ -224,14 +232,6 @@
       "pubDate": "2025-10-06T06:36:46.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c5yvwdgn1yyo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9949/live/85746ea0-9cd6-11f0-8245-f3f629744491.jpg"
-    },
-    {
-      "title": "「優先席」資格戰：為何華人地區常爆發讓座衝突？",
-      "description": "兩岸三地屢因誰應使用博愛座引發衝突，有專家指台北捷運博愛座以深色強調識別效果，是「標籤化」讓座資格，容易激化矛盾，而華人儒家文化的「尊老」價值，也逐漸成為一種群體壓力。",
-      "link": "https://www.bbc.com/zhongwen/articles/c24ryz55v50o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-03T18:59:16.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c24ryz55v50o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fff0/live/b267d4d0-a012-11f0-92db-77261a15b9d2.png"
     },
     {
       "title": "確診「多動症」後  中國Z世代把ADHD用作了流行社交標籤",
