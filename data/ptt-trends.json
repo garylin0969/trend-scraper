@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-10T03:24:16.421Z",
+  "updated": "2025-10-10T03:41:01.364Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "297",
+      "recommendCount": "552",
+      "title": "[問卦] 蔡英文死了？",
+      "link": "/bbs/Gossiping/M.1760025607.A.4E7",
+      "author": "ambitious",
+      "board": "Gossiping",
+      "publishTime": "2025/10/09 16:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "287",
       "recommendCount": "754",
       "title": "[新聞] 買戰備瓶裝水一瓶120元合理？國防部曝原因：參考日本進口價",
@@ -34,18 +44,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/MM0BUlY/s/4f3045c3ba935bd6ee3f3a5a2892558c"
     },
     {
-      "recommendScore": "295",
-      "recommendCount": "547",
-      "title": "[問卦] 蔡英文死了？",
-      "link": "/bbs/Gossiping/M.1760025607.A.4E7",
-      "author": "ambitious",
-      "board": "Gossiping",
-      "publishTime": "2025/10/09 16:00",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "220",
-      "recommendCount": "1057",
+      "recommendCount": "1059",
       "title": "[新聞] 高鐵「寧靜車廂」小孩狂哭！路人氣炸開轟醫嗆：強迫閉嘴有教養嗎",
       "link": "/bbs/Gossiping/M.1759991757.A.3F7",
       "author": "keel90135",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "285",
-      "recommendCount": "426",
+      "recommendScore": "289",
+      "recommendCount": "430",
       "title": "[分享] 今日 佐佐木朗希 三局無失分",
       "link": "/bbs/Baseball/M.1760060373.A.E11",
       "author": "carlchang092",
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "226",
-      "recommendCount": "412",
-      "title": "[新聞] 新加坡再執行死刑！馬來西亞毒販潘尼爾成今年第12名被絞死犯人",
-      "link": "/bbs/Gossiping/M.1759980975.A.AD6",
-      "author": "bluehttp",
-      "board": "Gossiping",
-      "publishTime": "2025/10/09 03:36",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "230",
       "recommendCount": "405",
       "title": "[討論] 為什麼不傳一壘?",
@@ -201,6 +191,16 @@
       "author": "indoman",
       "board": "Gossiping",
       "publishTime": "2025/10/09 05:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "159",
+      "recommendCount": "418",
+      "title": "[新聞] 輝達用地 劉世芳:尊重北市合法合規處理契約爭議",
+      "link": "/bbs/Gossiping/M.1760023378.A.9F9",
+      "author": "tsengcc",
+      "board": "Gossiping",
+      "publishTime": "2025/10/09 15:22",
       "imageUrl": ""
     }
   ]
