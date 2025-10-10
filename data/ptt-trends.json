@@ -1,8 +1,18 @@
 {
-  "updated": "2025-10-10T08:47:24.686Z",
+  "updated": "2025-10-10T08:54:54.277Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "417",
+      "recommendCount": "687",
+      "title": "[爆卦] 韓國瑜：要反省光電板、大峽谷",
+      "link": "/bbs/Gossiping/M.1760062774.A.534",
+      "author": "bb10181128",
+      "board": "Gossiping",
+      "publishTime": "2025/10/10 02:19",
+      "imageUrl": "https://cache.pttweb.cc/imgur/7SrleET/s/8c7d4ad8f3bb63c183e07959a884c327"
+    },
     {
       "recommendScore": "318",
       "recommendCount": "842",
@@ -34,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "325",
-      "recommendCount": "475",
+      "recommendScore": "326",
+      "recommendCount": "476",
       "title": "[分享] 今日 佐佐木朗希 三局無失分",
       "link": "/bbs/Baseball/M.1760060373.A.E11",
       "author": "carlchang092",
@@ -192,16 +202,6 @@
       "board": "Baseball",
       "publishTime": "2025/10/09 10:39",
       "imageUrl": "https://cache.pttweb.cc/imgur/GgMDanh/s/72a93c93f5263e4e9837413bef32a4c0"
-    },
-    {
-      "recommendScore": "104",
-      "recommendCount": "338",
-      "title": "[新聞] 涉詐助理費1412萬起訴 林宜瑾道歉了：我願意承擔錯誤",
-      "link": "/bbs/Gossiping/M.1760000057.A.ABB",
-      "author": "lycppt",
-      "board": "Gossiping",
-      "publishTime": "2025/10/09 08:54",
-      "imageUrl": ""
     }
   ]
 }
