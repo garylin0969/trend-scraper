@@ -1,14 +1,22 @@
 {
-  "updated": "2025-10-10T01:52:21.395Z",
+  "updated": "2025-10-10T02:40:58.051Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-10-10T01:52:10.000Z",
+    "lastBuildDate": "2025-10-10T02:40:45.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "台灣雙十慶典視像直播",
+      "description": "台灣舉行儀式紀念辛亥革命爆發與中華民國成立114週年，總統賴清德將發表任內第二次國慶演說。",
+      "link": "https://www.bbc.com/zhongwen/articles/cd9y183vywyo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-10T02:07:53.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cd9y183vywyo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/96dc/live/fb7b6440-a506-11f0-b741-177e3e2c2fc7.jpg"
+    },
     {
       "title": "中國十一黃金周消費增2.7%，旅遊業興旺電影業萎縮",
       "description": "對於當前中國經濟來說，消費變得越來越重要，尤其是在房地產市場持續低迷、外部貿易環境持續惡化的情況下，國內消費已成為經濟的重要引擎。",
@@ -32,14 +40,6 @@
       "pubDate": "2025-10-09T09:24:37.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cd9y335nd04o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e27a/live/89f11250-a4c7-11f0-b741-177e3e2c2fc7.jpg"
-    },
-    {
-      "title": "素食漢堡沒了？歐洲議會通過議案禁植物性食品使用肉類名稱",
-      "description": "歐洲議會投票通過，禁止使用「漢堡」或「牛排」等詞語來描述植物性產品。",
-      "link": "https://www.bbc.com/zhongwen/articles/c740pe448p1o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-10T00:14:47.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c740pe448p1o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/abe5/live/20138610-a4bd-11f0-928c-71dbb8619e94.jpg"
     },
     {
       "title": "根據「瘦瘦針」製訂的食譜真能減肥嗎？",
@@ -82,20 +82,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bf57/live/95f02230-a3eb-11f0-90de-cfdf69951f7c.jpg"
     },
     {
+      "title": "素食漢堡沒了？歐洲議會通過議案禁植物性食品使用肉類名稱",
+      "description": "歐洲議會投票通過，禁止使用「漢堡」或「牛排」等詞語來描述植物性產品。",
+      "link": "https://www.bbc.com/zhongwen/articles/c740pe448p1o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-10T00:14:47.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c740pe448p1o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/abe5/live/20138610-a4bd-11f0-928c-71dbb8619e94.jpg"
+    },
+    {
       "title": "愛因斯坦的小提琴在拍賣會上以上百萬美元售出",
       "description": "這把1894年的鄭特勒（Zunterer）小提琴被認為是愛因斯坦的第一把小提琴。",
       "link": "https://www.bbc.com/zhongwen/articles/c2dn6w9x2pdo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-10-09T04:35:04.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c2dn6w9x2pdo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e8c8/live/fec4b7f0-a4bb-11f0-b741-177e3e2c2fc7.jpg"
-    },
-    {
-      "title": "太平洋帕利塞茲致命山火：美國警方因一張ChatGPT生成圖像鎖定嫌犯",
-      "description": "調查人員稱，從一名29歲男子的設備中發現了一張由AI繪製的燃燒城市圖像。",
-      "link": "https://www.bbc.com/zhongwen/articles/c2dn66w82nwo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-09T05:49:08.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c2dn66w82nwo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d6e/live/0e430540-a469-11f0-928c-71dbb8619e94.jpg"
     },
     {
       "title": "間諜案告吹：英國政府「未將中國列為威脅」被指是主要原因",
