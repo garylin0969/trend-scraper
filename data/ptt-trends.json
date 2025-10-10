@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-10T04:33:35.621Z",
+  "updated": "2025-10-10T04:45:20.989Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "220",
+      "recommendCount": "1061",
+      "title": "[新聞] 高鐵「寧靜車廂」小孩狂哭！路人氣炸開轟醫嗆：強迫閉嘴有教養嗎",
+      "link": "/bbs/Gossiping/M.1759991757.A.3F7",
+      "author": "keel90135",
+      "board": "Gossiping",
+      "publishTime": "2025/10/09 06:35",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "287",
       "recommendCount": "754",
       "title": "[新聞] 買戰備瓶裝水一瓶120元合理？國防部曝原因：參考日本進口價",
@@ -42,16 +52,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/09 06:28",
       "imageUrl": "https://cache.pttweb.cc/imgur/MM0BUlY/s/4f3045c3ba935bd6ee3f3a5a2892558c"
-    },
-    {
-      "recommendScore": "220",
-      "recommendCount": "1059",
-      "title": "[新聞] 高鐵「寧靜車廂」小孩狂哭！路人氣炸開轟醫嗆：強迫閉嘴有教養嗎",
-      "link": "/bbs/Gossiping/M.1759991757.A.3F7",
-      "author": "keel90135",
-      "board": "Gossiping",
-      "publishTime": "2025/10/09 06:35",
-      "imageUrl": ""
     },
     {
       "recommendScore": "174",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "307",
-      "recommendCount": "451",
+      "recommendScore": "309",
+      "recommendCount": "453",
       "title": "[分享] 今日 佐佐木朗希 三局無失分",
       "link": "/bbs/Baseball/M.1760060373.A.E11",
       "author": "carlchang092",
@@ -104,14 +104,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "305",
-      "recommendCount": "396",
+      "recommendScore": "307",
+      "recommendCount": "399",
       "title": "[花邊] MPJ: 想再來台灣一次",
       "link": "/bbs/NBA/M.1760001623.A.E0B",
       "author": "BigFly5566",
       "board": "NBA",
       "publishTime": "2025/10/09 09:20",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "238",
+      "recommendCount": "423",
+      "title": "[分享] 今日大谷翔平",
+      "link": "/bbs/Baseball/M.1760060857.A.A8F",
+      "author": "devil157",
+      "board": "Baseball",
+      "publishTime": "2025/10/10 01:47",
+      "imageUrl": "https://cache.pttweb.cc/imgur/LXywZXk/s/877e561cba841fb3c5113aa45ce9396c"
     },
     {
       "recommendScore": "277",
@@ -122,16 +132,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/10 02:19",
       "imageUrl": "https://cache.pttweb.cc/imgur/7SrleET/s/8c7d4ad8f3bb63c183e07959a884c327"
-    },
-    {
-      "recommendScore": "235",
-      "recommendCount": "420",
-      "title": "[分享] 今日大谷翔平",
-      "link": "/bbs/Baseball/M.1760060857.A.A8F",
-      "author": "devil157",
-      "board": "Baseball",
-      "publishTime": "2025/10/10 01:47",
-      "imageUrl": "https://cache.pttweb.cc/imgur/LXywZXk/s/877e561cba841fb3c5113aa45ce9396c"
     },
     {
       "recommendScore": "219",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "238",
-      "recommendCount": "415",
+      "recommendScore": "239",
+      "recommendCount": "416",
       "title": "[討論] 為什麼不傳一壘?",
       "link": "/bbs/Baseball/M.1760060621.A.C2C",
       "author": "TALUBAN",
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "153",
-      "recommendCount": "337",
+      "recommendScore": "154",
+      "recommendCount": "340",
       "title": "[新聞] 國防部稱每瓶120元水參考日本　網友揪：1瓶不到27元",
       "link": "/bbs/Gossiping/M.1760013252.A.B66",
       "author": "troyyuan",
