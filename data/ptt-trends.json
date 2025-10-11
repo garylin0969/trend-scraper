@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-11T05:05:34.783Z",
+  "updated": "2025-10-11T05:17:27.915Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "299",
-      "recommendCount": "647",
+      "recommendScore": "301",
+      "recommendCount": "650",
       "title": "[問卦] 林郁婷國內冠軍戰 對手直接棄權 代表？",
       "link": "/bbs/Gossiping/M.1760094772.A.A80",
       "author": "gn07199",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "209",
-      "recommendCount": "434",
+      "recommendScore": "210",
+      "recommendCount": "435",
       "title": "[問卦] 名醫踢爆台南光電板謊言",
       "link": "/bbs/Gossiping/M.1760102997.A.FAB",
       "author": "gogobar",
@@ -74,8 +74,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/gqOaU85/s/5d771f7f99323b114cce755404f256c0"
     },
     {
+      "recommendScore": "145",
+      "recommendCount": "801",
+      "title": "[新聞] 二寶媽搭高鐵被舉牌！大寶獨留座位上心碎網轟「寧靜車廂」：最爛政策",
+      "link": "/bbs/Gossiping/M.1760153458.A.DE1",
+      "author": "ctfjuw",
+      "board": "Gossiping",
+      "publishTime": "2025/10/11 03:30",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "207",
-      "recommendCount": "400",
+      "recommendCount": "401",
       "title": "[情報] 川普：考慮大幅提高中國關稅",
       "link": "/bbs/Stock/M.1760110223.A.E05",
       "author": "rz2x",
@@ -105,22 +115,12 @@
     },
     {
       "recommendScore": "177",
-      "recommendCount": "572",
+      "recommendCount": "573",
       "title": "[新聞] 影／加拿大拒絕出口中國！海洋公園威脅：30頭白鯨全數安樂死",
       "link": "/bbs/Gossiping/M.1760092741.A.C88",
       "author": "sunnydragon7",
       "board": "Gossiping",
       "publishTime": "2025/10/10 10:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "127",
-      "recommendCount": "660",
-      "title": "[新聞] 二寶媽搭高鐵被舉牌！大寶獨留座位上心碎網轟「寧靜車廂」：最爛政策",
-      "link": "/bbs/Gossiping/M.1760153458.A.DE1",
-      "author": "ctfjuw",
-      "board": "Gossiping",
-      "publishTime": "2025/10/11 03:30",
       "imageUrl": ""
     },
     {
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "251",
-      "recommendCount": "410",
+      "recommendScore": "252",
+      "recommendCount": "412",
       "title": "[閒聊] 洛天依矽膠娃娃被室友侵犯",
       "link": "/bbs/C_Chat/M.1760108449.A.B70",
       "author": "zhtw",
@@ -154,13 +154,33 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/QpK3T9o/s/04cdf0a39166505d6a2c65c89eeacf63"
     },
     {
-      "recommendScore": "147",
-      "recommendCount": "405",
+      "recommendScore": "148",
+      "recommendCount": "406",
       "title": "[問卦] 台灣生育率確定沒救了！",
       "link": "/bbs/Gossiping/M.1760099528.A.1FD",
       "author": "JQK2",
       "board": "Gossiping",
       "publishTime": "2025/10/10 12:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "230",
+      "recommendCount": "385",
+      "title": "[討論] 老虎水手這場是死屍對決嗎",
+      "link": "/bbs/Baseball/M.1760154045.A.E65",
+      "author": "misaka10032",
+      "board": "Baseball",
+      "publishTime": "2025/10/11 03:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "111",
+      "recommendCount": "300",
+      "title": "[新聞] 韓國瑜國慶致詞提三堰塞湖 綠嗆貽笑國際",
+      "link": "/bbs/Gossiping/M.1760117643.A.96B",
+      "author": "poloyabi",
+      "board": "Gossiping",
+      "publishTime": "2025/10/10 17:34",
       "imageUrl": ""
     },
     {
@@ -181,26 +201,6 @@
       "author": "ReiKuromiya",
       "board": "Gossiping",
       "publishTime": "2025/10/10 09:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "890",
-      "recommendCount": "1474",
-      "title": "[討論] [Vtub] Hololive 晚間直播單 (1141010)",
-      "link": "/bbs/C_Chat/M.1760093764.A.949",
-      "author": "laptic",
-      "board": "C_Chat",
-      "publishTime": "2025/10/10 10:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "110",
-      "recommendCount": "295",
-      "title": "[新聞] 韓國瑜國慶致詞提三堰塞湖 綠嗆貽笑國際",
-      "link": "/bbs/Gossiping/M.1760117643.A.96B",
-      "author": "poloyabi",
-      "board": "Gossiping",
-      "publishTime": "2025/10/10 17:34",
       "imageUrl": ""
     }
   ]
