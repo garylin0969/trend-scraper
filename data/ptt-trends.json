@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-11T21:05:07.287Z",
+  "updated": "2025-10-11T21:16:54.566Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "289",
-      "recommendCount": "757",
+      "recommendCount": "763",
       "title": "[新聞]蘇一峰爆「藥水洗光電板」給台南人喝！郭國文：烏山頭業者已提告",
       "link": "/bbs/Gossiping/M.1760184168.A.505",
       "author": "pl132",
@@ -64,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "259",
+      "recommendCount": "470",
+      "title": "[新聞] 富台指暴跌…台股周一開盤恐崩逾1,660點？兩大名師看「支撐在這裡」",
+      "link": "/bbs/Stock/M.1760179216.A.BF1",
+      "author": "diefishfish",
+      "board": "Stock",
+      "publishTime": "2025/10/11 10:40",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "229",
       "recommendCount": "453",
       "title": "[問卦] 急！鄰居說要告我傷害？",
@@ -71,16 +81,6 @@
       "author": "pchion2002",
       "board": "Gossiping",
       "publishTime": "2025/10/11 06:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "258",
-      "recommendCount": "469",
-      "title": "[新聞] 富台指暴跌…台股周一開盤恐崩逾1,660點？兩大名師看「支撐在這裡」",
-      "link": "/bbs/Stock/M.1760179216.A.BF1",
-      "author": "diefishfish",
-      "board": "Stock",
-      "publishTime": "2025/10/11 10:40",
       "imageUrl": ""
     },
     {
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "209",
-      "recommendCount": "415",
+      "recommendScore": "211",
+      "recommendCount": "418",
       "title": "[請益] 開槓桿在10/9要停損還是跟他凹？",
       "link": "/bbs/Stock/M.1760193419.A.39E",
       "author": "hb00",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "98",
+      "recommendCount": "400",
+      "title": "[問卦] 花蓮：別再捐食物和水 剩缺水電無償拉線",
+      "link": "/bbs/Gossiping/M.1760164586.A.161",
+      "author": "callhek",
+      "board": "Gossiping",
+      "publishTime": "2025/10/11 06:36",
+      "imageUrl": "https://cache.pttweb.cc/imgur/B8IrCIv/s/68527280834bd263d1a2ca174a70d2bc"
+    },
+    {
       "recommendScore": "181",
       "recommendCount": "305",
       "title": "[討論] 統一是怎麼玩到輸的？",
@@ -192,16 +202,6 @@
       "board": "Baseball",
       "publishTime": "2025/10/11 12:35",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "99",
-      "recommendCount": "398",
-      "title": "[問卦] 花蓮：別再捐食物和水 剩缺水電無償拉線",
-      "link": "/bbs/Gossiping/M.1760164586.A.161",
-      "author": "callhek",
-      "board": "Gossiping",
-      "publishTime": "2025/10/11 06:36",
-      "imageUrl": "https://cache.pttweb.cc/imgur/B8IrCIv/s/68527280834bd263d1a2ca174a70d2bc"
     }
   ]
 }
