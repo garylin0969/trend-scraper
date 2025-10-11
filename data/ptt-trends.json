@@ -1,11 +1,11 @@
 {
-  "updated": "2025-10-11T00:20:49.391Z",
+  "updated": "2025-10-11T00:41:03.655Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "548",
-      "recommendCount": "569",
+      "recommendScore": "553",
+      "recommendCount": "574",
       "title": "[公告] 神預測－入圍賽階段 預測專區",
       "link": "/bbs/LoL/M.1760106688.A.C65",
       "author": "cornsoup",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "223",
-      "recommendCount": "569",
+      "recommendScore": "225",
+      "recommendCount": "572",
       "title": "[新聞] 海鯤號今年恐無法交艦　傳唐華要撤查為何那麼多問題",
       "link": "/bbs/Gossiping/M.1760091545.A.E44",
       "author": "loechen",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "504",
+      "recommendScore": "164",
+      "recommendCount": "506",
       "title": "[新聞] 中國女教師遊台灣後 兩岸差距令其震撼不已",
       "link": "/bbs/Gossiping/M.1760082230.A.216",
       "author": "pulagu",
@@ -104,18 +104,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/LXywZXk/s/877e561cba841fb3c5113aa45ce9396c"
     },
     {
-      "recommendScore": "201",
-      "recommendCount": "822",
-      "title": "Re: [問卦] 台灣新生兒一年掉27%？",
-      "link": "/bbs/Gossiping/M.1760055701.A.9E8",
-      "author": "iamdead5566",
-      "board": "Gossiping",
-      "publishTime": "2025/10/10 00:21",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "228",
-      "recommendCount": "479",
+      "recommendCount": "480",
       "title": "[問卦] 韓國啦啦隊進軍台灣 韓網:台灣沒女人?",
       "link": "/bbs/Gossiping/M.1760075445.A.BEF",
       "author": "ReiKuromiya",
@@ -144,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "202",
+      "recommendCount": "394",
+      "title": "[情報] 川普：考慮大幅提高中國關稅",
+      "link": "/bbs/Stock/M.1760110223.A.E05",
+      "author": "rz2x",
+      "board": "Stock",
+      "publishTime": "2025/10/10 15:30",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "254",
       "recommendCount": "444",
       "title": "[情報] 西門町自製一番賞580一抽 抽到空氣",
@@ -154,14 +154,14 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/2StRdFQ/s/beec813a2a771805fdd65dc96d35a981"
     },
     {
-      "recommendScore": "200",
-      "recommendCount": "392",
-      "title": "[情報] 川普：考慮大幅提高中國關稅",
-      "link": "/bbs/Stock/M.1760110223.A.E05",
-      "author": "rz2x",
-      "board": "Stock",
-      "publishTime": "2025/10/10 15:30",
-      "imageUrl": ""
+      "recommendScore": "190",
+      "recommendCount": "386",
+      "title": "[問卦] 名醫踢爆台南光電板謊言",
+      "link": "/bbs/Gossiping/M.1760102997.A.FAB",
+      "author": "gogobar",
+      "board": "Gossiping",
+      "publishTime": "2025/10/10 13:29",
+      "imageUrl": "https://cache.pttweb.cc/imgur/gqOaU85/s/5d771f7f99323b114cce755404f256c0"
     },
     {
       "recommendScore": "176",
@@ -172,16 +172,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/10 11:52",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "190",
-      "recommendCount": "382",
-      "title": "[問卦] 名醫踢爆台南光電板謊言",
-      "link": "/bbs/Gossiping/M.1760102997.A.FAB",
-      "author": "gogobar",
-      "board": "Gossiping",
-      "publishTime": "2025/10/10 13:29",
-      "imageUrl": "https://cache.pttweb.cc/imgur/gqOaU85/s/5d771f7f99323b114cce755404f256c0"
     },
     {
       "recommendScore": "170",
@@ -201,6 +191,16 @@
       "author": "sunnydragon7",
       "board": "Gossiping",
       "publishTime": "2025/10/10 10:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "209",
+      "recommendCount": "354",
+      "title": "[情報] 費城人再見失誤 OP邦山",
+      "link": "/bbs/Baseball/M.1760060397.A.604",
+      "author": "Timekeeper",
+      "board": "Baseball",
+      "publishTime": "2025/10/10 01:39",
       "imageUrl": ""
     }
   ]
