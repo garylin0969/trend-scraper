@@ -1,7 +1,7 @@
 {
-  "updated": "2025-10-11T15:53:43.303Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-10-11T16:05:46.083Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "274",
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "166",
-      "recommendCount": "562",
-      "title": "[請益] 中國為何要主動開關稅戰",
-      "link": "/bbs/Stock/M.1760112138.A.200",
-      "author": "enlong777",
-      "board": "Stock",
-      "publishTime": "2025/10/10 16:02",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "128",
       "recommendCount": "338",
       "title": "[新聞] 韓國瑜國慶致詞提三堰塞湖 綠嗆貽笑國際",
@@ -191,6 +181,26 @@
       "author": "waiting0212",
       "board": "Baseball",
       "publishTime": "2025/10/11 10:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "177",
+      "recommendCount": "297",
+      "title": "[討論] 統一是怎麼玩到輸的？",
+      "link": "/bbs/Baseball/M.1760186127.A.C70",
+      "author": "indium111",
+      "board": "Baseball",
+      "publishTime": "2025/10/11 12:35",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "236",
+      "recommendCount": "396",
+      "title": "[討論] 老虎水手這場是死屍對決嗎",
+      "link": "/bbs/Baseball/M.1760154045.A.E65",
+      "author": "misaka10032",
+      "board": "Baseball",
+      "publishTime": "2025/10/11 03:40",
       "imageUrl": ""
     }
   ]
