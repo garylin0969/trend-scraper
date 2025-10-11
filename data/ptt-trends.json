@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-11T03:33:25.845Z",
+  "updated": "2025-10-11T03:45:44.017Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "145",
+      "recommendCount": "398",
+      "title": "[問卦] 台灣生育率確定沒救了！",
+      "link": "/bbs/Gossiping/M.1760099528.A.1FD",
+      "author": "JQK2",
+      "board": "Gossiping",
+      "publishTime": "2025/10/10 12:32",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "246",
       "recommendCount": "403",
       "title": "[閒聊] 洛天依矽膠娃娃被室友侵犯",
@@ -192,16 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2025/10/10 15:00",
       "imageUrl": "https://cache.pttweb.cc/imgur/QpK3T9o/s/04cdf0a39166505d6a2c65c89eeacf63"
-    },
-    {
-      "recommendScore": "144",
-      "recommendCount": "396",
-      "title": "[問卦] 台灣生育率確定沒救了！",
-      "link": "/bbs/Gossiping/M.1760099528.A.1FD",
-      "author": "JQK2",
-      "board": "Gossiping",
-      "publishTime": "2025/10/10 12:32",
-      "imageUrl": ""
     }
   ]
 }
