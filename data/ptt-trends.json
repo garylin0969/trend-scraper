@@ -1,18 +1,8 @@
 {
-  "updated": "2025-10-12T03:26:30.100Z",
+  "updated": "2025-10-12T03:41:01.134Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "240",
-      "recommendCount": "1485",
-      "title": "[新聞] 二寶媽搭高鐵被舉牌！大寶獨留座位上心碎網轟「寧靜車廂」：最爛政策",
-      "link": "/bbs/Gossiping/M.1760153458.A.DE1",
-      "author": "ctfjuw",
-      "board": "Gossiping",
-      "publishTime": "2025/10/11 03:30",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "314",
       "recommendCount": "835",
@@ -34,8 +24,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "255",
-      "recommendCount": "503",
+      "recommendScore": "196",
+      "recommendCount": "473",
+      "title": "[新聞] 47藥品退出台灣 食藥署：不影響用藥",
+      "link": "/bbs/Gossiping/M.1760225311.A.878",
+      "author": "karta328",
+      "board": "Gossiping",
+      "publishTime": "2025/10/11 23:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "257",
+      "recommendCount": "505",
       "title": "[請益] 開槓桿在10/9要停損還是跟他凹？",
       "link": "/bbs/Stock/M.1760193419.A.39E",
       "author": "hb00",
@@ -71,16 +71,6 @@
       "author": "diefishfish",
       "board": "Stock",
       "publishTime": "2025/10/11 10:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "185",
-      "recommendCount": "453",
-      "title": "[新聞] 47藥品退出台灣 食藥署：不影響用藥",
-      "link": "/bbs/Gossiping/M.1760225311.A.878",
-      "author": "karta328",
-      "board": "Gossiping",
-      "publishTime": "2025/10/11 23:28",
       "imageUrl": ""
     },
     {
@@ -144,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "216",
-      "recommendCount": "355",
+      "recommendScore": "217",
+      "recommendCount": "356",
       "title": "[閒聊] 葬送的芙莉蓮 無限期休刊",
       "link": "/bbs/C_Chat/M.1760163073.A.B66",
       "author": "jack34031",
@@ -201,6 +191,16 @@
       "author": "waiting0212",
       "board": "Baseball",
       "publishTime": "2025/10/11 10:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "181",
+      "recommendCount": "448",
+      "title": "[新聞] 律師酸蔣不懂法律被打臉 北市府秀合約：不應混淆、以訛傳訛",
+      "link": "/bbs/Gossiping/M.1760187246.A.4DB",
+      "author": "CREA",
+      "board": "Gossiping",
+      "publishTime": "2025/10/11 12:54",
       "imageUrl": ""
     }
   ]
