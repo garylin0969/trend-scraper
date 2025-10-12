@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-12T12:21:42.829Z",
+  "updated": "2025-10-12T12:39:25.350Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,16 +94,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "265",
-      "recommendCount": "359",
-      "title": "[情報] 宋嘉翔 再見安打",
-      "link": "/bbs/Baseball/M.1760185747.A.031",
-      "author": "BayAreaUnite",
-      "board": "Baseball",
-      "publishTime": "2025/10/11 12:29",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "148",
       "recommendCount": "548",
       "title": "[新聞] 《紐時》驚豔「台灣旅遊」被國際低估！",
@@ -174,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "181",
-      "recommendCount": "307",
-      "title": "[討論] 統一是怎麼玩到輸的？",
-      "link": "/bbs/Baseball/M.1760186127.A.C70",
-      "author": "indium111",
-      "board": "Baseball",
-      "publishTime": "2025/10/11 12:35",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "166",
       "recommendCount": "352",
       "title": "[新聞] 賴清德提「小小小多山的國家」 蔡正元：抄自秘魯共產黨人",
@@ -202,6 +182,26 @@
       "board": "Gossiping",
       "publishTime": "2025/10/12 08:22",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "186",
+      "recommendCount": "294",
+      "title": "[分享] 林佳緯失誤影片",
+      "link": "/bbs/Baseball/M.1760262299.A.2A6",
+      "author": "heart1110",
+      "board": "Baseball",
+      "publishTime": "2025/10/12 09:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "139",
+      "recommendCount": "364",
+      "title": "[新聞] 蘇一峰爆「藥水洗光電板」給台南人喝！郭國文：烏山頭業者已提告",
+      "link": "/bbs/Gossiping/M.1760199054.A.206",
+      "author": "godofsex",
+      "board": "Gossiping",
+      "publishTime": "2025/10/11 16:10",
+      "imageUrl": "https://cache.pttweb.cc/imgur/zf8HA2w/s/e543bf979121092fec022c968afbaadf"
     }
   ]
 }
