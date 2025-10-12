@@ -1,11 +1,11 @@
 {
-  "updated": "2025-10-12T10:29:25.634Z",
+  "updated": "2025-10-12T10:37:26.696Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "332",
-      "recommendCount": "904",
+      "recommendCount": "906",
       "title": "[問卦] 經濟部：再造謠光電板汙染水庫 會提告",
       "link": "/bbs/Gossiping/M.1760182418.A.BC8",
       "author": "Crystal0322",
@@ -24,13 +24,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "111",
-      "recommendCount": "813",
+      "recommendScore": "115",
+      "recommendCount": "871",
       "title": "[問卦] 歐洲朋友來台旅行感想(玻璃心台人勿入)",
       "link": "/bbs/Gossiping/M.1760245100.A.08F",
       "author": "Amed21",
       "board": "Gossiping",
       "publishTime": "2025/10/12 04:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "184",
+      "recommendCount": "692",
+      "title": "[新聞] 共軍封鎖兵推 限電7成 全台能源可撐1年",
+      "link": "/bbs/Gossiping/M.1760234333.A.AF1",
+      "author": "semih",
+      "board": "Gossiping",
+      "publishTime": "2025/10/12 01:58",
       "imageUrl": ""
     },
     {
@@ -44,18 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "180",
-      "recommendCount": "681",
-      "title": "[新聞] 共軍封鎖兵推 限電7成 全台能源可撐1年",
-      "link": "/bbs/Gossiping/M.1760234333.A.AF1",
-      "author": "semih",
-      "board": "Gossiping",
-      "publishTime": "2025/10/12 01:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "275",
-      "recommendCount": "586",
+      "recommendScore": "277",
+      "recommendCount": "591",
       "title": "[新聞] 輝達總部重大進展！ 李四川宣布：明起啟動與新壽共同合意終止契約",
       "link": "/bbs/Gossiping/M.1760235833.A.E47",
       "author": "a96385245",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "90",
-      "recommendCount": "654",
+      "recommendScore": "93",
+      "recommendCount": "671",
       "title": "[問卦] 唐從聖對台大高材生踹老婦的看法還比較對",
       "link": "/bbs/Gossiping/M.1760236075.A.05D",
       "author": "bttnec",
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "288",
+      "recommendCount": "345",
+      "title": "[祭品]  統一獅這場逆轉勝的話 每推77p發到爆！",
+      "link": "/bbs/Baseball/M.1760261619.A.20E",
+      "author": "siugwai",
+      "board": "Baseball",
+      "publishTime": "2025/10/12 09:33",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "267",
       "recommendCount": "484",
       "title": "[新聞] 富台指暴跌…台股周一開盤恐崩逾1,660點？兩大名師看「支撐在這裡」",
@@ -104,28 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "263",
-      "recommendCount": "353",
-      "title": "[炸裂] 林安可炸裂",
-      "link": "/bbs/Baseball/M.1760178540.A.C36",
-      "author": "oliverchamps",
-      "board": "Baseball",
-      "publishTime": "2025/10/11 10:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "147",
-      "recommendCount": "544",
-      "title": "[新聞] 《紐時》驚豔「台灣旅遊」被國際低估！",
-      "link": "/bbs/Stock/M.1760226706.A.896",
-      "author": "cjol",
-      "board": "Stock",
-      "publishTime": "2025/10/11 23:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "153",
-      "recommendCount": "455",
+      "recommendScore": "160",
+      "recommendCount": "471",
       "title": "[問卦] 經濟部：注意！光電板真的沒毒 水質安全",
       "link": "/bbs/Gossiping/M.1760250704.A.B30",
       "author": "Beatrice322",
@@ -134,13 +124,43 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/vjISsJB/s/e0b8169c2c5e6388cd4be66faeb0f5ac"
     },
     {
-      "recommendScore": "256",
-      "recommendCount": "370",
+      "recommendScore": "146",
+      "recommendCount": "545",
+      "title": "[新聞] 《紐時》驚豔「台灣旅遊」被國際低估！",
+      "link": "/bbs/Stock/M.1760226706.A.896",
+      "author": "cjol",
+      "board": "Stock",
+      "publishTime": "2025/10/11 23:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "261",
+      "recommendCount": "378",
       "title": "[新聞] 自曝討厭「像兄弟那樣的豪門隊伍」 波賽樂總是支持挑戰者",
       "link": "/bbs/Baseball/M.1760252887.A.41F",
       "author": "ZHUGUA",
       "board": "Baseball",
       "publishTime": "2025/10/12 07:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "253",
+      "recommendCount": "287",
+      "title": "[問卦] 驚！金城武52歲了！已經是阿伯了(發錢)",
+      "link": "/bbs/Gossiping/M.1760250828.A.383",
+      "author": "la1aco",
+      "board": "Gossiping",
+      "publishTime": "2025/10/12 06:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "157",
+      "recommendCount": "362",
+      "title": "[新聞] 日媒曝台灣慘被「幾乎所有國家」晾著！這國談好貿易協議拖半年不簽約",
+      "link": "/bbs/Gossiping/M.1760250001.A.0F8",
+      "author": "ThisisLongID",
+      "board": "Gossiping",
+      "publishTime": "2025/10/12 06:20",
       "imageUrl": ""
     },
     {
@@ -154,33 +174,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "242",
-      "recommendCount": "275",
-      "title": "[問卦] 驚！金城武52歲了！已經是阿伯了(發錢)",
-      "link": "/bbs/Gossiping/M.1760250828.A.383",
-      "author": "la1aco",
-      "board": "Gossiping",
-      "publishTime": "2025/10/12 06:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "149",
-      "recommendCount": "345",
-      "title": "[新聞] 日媒曝台灣慘被「幾乎所有國家」晾著！這國談好貿易協議拖半年不簽約",
-      "link": "/bbs/Gossiping/M.1760250001.A.0F8",
-      "author": "ThisisLongID",
-      "board": "Gossiping",
-      "publishTime": "2025/10/12 06:20",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "215",
-      "recommendCount": "259",
-      "title": "[祭品]  統一獅這場逆轉勝的話 每推77p發到爆！",
-      "link": "/bbs/Baseball/M.1760261619.A.20E",
-      "author": "siugwai",
+      "recommendScore": "246",
+      "recommendCount": "263",
+      "title": "[發錢] 我想看G4",
+      "link": "/bbs/Baseball/M.1760243245.A.2FF",
+      "author": "Keira1990",
       "board": "Baseball",
-      "publishTime": "2025/10/12 09:33",
+      "publishTime": "2025/10/12 04:27",
       "imageUrl": ""
     },
     {
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "242",
-      "recommendCount": "259",
-      "title": "[發錢] 我想看G4",
-      "link": "/bbs/Baseball/M.1760243245.A.2FF",
-      "author": "Keira1990",
-      "board": "Baseball",
-      "publishTime": "2025/10/12 04:27",
+      "recommendScore": "179",
+      "recommendCount": "905",
+      "title": "[轉播] 季後挑戰G3 四△ 吱3:1喵",
+      "link": "/bbs/Lions/M.1760260035.A.1C6",
+      "author": "Kevin0906",
+      "board": "Lions",
+      "publishTime": "2025/10/12 09:07",
       "imageUrl": ""
     }
   ]
