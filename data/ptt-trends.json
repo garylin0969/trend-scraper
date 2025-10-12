@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-12T15:05:21.295Z",
+  "updated": "2025-10-12T15:17:37.305Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "166",
-      "recommendCount": "352",
-      "title": "[新聞] 賴清德提「小小小多山的國家」 蔡正元：抄自秘魯共產黨人",
-      "link": "/bbs/Gossiping/M.1760195153.A.B94",
-      "author": "Axiom888",
-      "board": "Gossiping",
-      "publishTime": "2025/10/11 15:05",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "112",
       "recommendCount": "321",
       "title": "[新聞] 「小小多山國家」出處？陳麗貴：我改寫聶魯達詩作，何來抄寫？",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/10/12 01:26",
       "imageUrl": "https://cache.pttweb.cc/imgur/CnPWlIn/s/4b3e1c637a502fe9eadc953821c4e35a"
+    },
+    {
+      "recommendScore": "210",
+      "recommendCount": "591",
+      "title": "[情報] 中國外交部回應",
+      "link": "/bbs/Stock/M.1760241998.A.952",
+      "author": "Worldpeaceme",
+      "board": "Stock",
+      "publishTime": "2025/10/12 04:06",
+      "imageUrl": ""
     }
   ]
 }
