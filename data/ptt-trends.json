@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-12T23:17:17.868Z",
+  "updated": "2025-10-12T23:26:21.165Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/QcsmP4x/s/8f8c3b8e36f601244362a64a87a0a07f"
     },
     {
-      "recommendScore": "444",
-      "recommendCount": "742",
+      "recommendScore": "446",
+      "recommendCount": "744",
       "title": "[問卦] 蘇一峰醫生怎麼了？？？",
       "link": "/bbs/Gossiping/M.1760260486.A.7D6",
       "author": "LawLawDer",
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "162",
+      "recommendCount": "411",
+      "title": "[新聞] 「小小多山國家」出處？陳麗貴：我改寫聶魯達詩作，何來抄寫？",
+      "link": "/bbs/Gossiping/M.1760257346.A.559",
+      "author": "NTU87",
+      "board": "Gossiping",
+      "publishTime": "2025/10/12 08:22",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "271",
       "recommendCount": "397",
       "title": "[新聞] 自曝討厭「像兄弟那樣的豪門隊伍」 波賽樂總是支持挑戰者",
@@ -121,16 +131,6 @@
       "author": "ZHUGUA",
       "board": "Baseball",
       "publishTime": "2025/10/12 07:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "161",
-      "recommendCount": "410",
-      "title": "[新聞] 「小小多山國家」出處？陳麗貴：我改寫聶魯達詩作，何來抄寫？",
-      "link": "/bbs/Gossiping/M.1760257346.A.559",
-      "author": "NTU87",
-      "board": "Gossiping",
-      "publishTime": "2025/10/12 08:22",
       "imageUrl": ""
     },
     {
@@ -184,23 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "202",
-      "recommendCount": "328",
-      "title": "[分享] 林佳緯失誤影片",
-      "link": "/bbs/Baseball/M.1760262299.A.2A6",
-      "author": "heart1110",
-      "board": "Baseball",
-      "publishTime": "2025/10/12 09:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "130",
-      "recommendCount": "312",
+      "recommendScore": "135",
+      "recommendCount": "319",
       "title": "[新聞] 47種藥品退出台灣！石崇良:啟動專案進口機制、避免缺藥危機",
       "link": "/bbs/Gossiping/M.1760276122.A.CA4",
       "author": "tsengcc",
       "board": "Gossiping",
       "publishTime": "2025/10/12 13:35",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "203",
+      "recommendCount": "329",
+      "title": "[分享] 林佳緯失誤影片",
+      "link": "/bbs/Baseball/M.1760262299.A.2A6",
+      "author": "heart1110",
+      "board": "Baseball",
+      "publishTime": "2025/10/12 09:44",
       "imageUrl": ""
     }
   ]
