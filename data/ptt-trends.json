@@ -1,18 +1,8 @@
 {
-  "updated": "2025-10-12T07:53:36.723Z",
+  "updated": "2025-10-12T08:06:51.950Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "419",
-      "recommendCount": "909",
-      "title": "[爆卦] 拍總統車隊 警察稱違反刑法135,136,138...",
-      "link": "/bbs/Gossiping/M.1760237045.A.255",
-      "author": "usnavyseal",
-      "board": "Gossiping",
-      "publishTime": "2025/10/12 02:44",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "331",
       "recommendCount": "903",
@@ -34,13 +24,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "227",
-      "recommendCount": "592",
+      "recommendScore": "228",
+      "recommendCount": "594",
       "title": "[新聞] 47藥品退出台灣 食藥署：不影響用藥",
       "link": "/bbs/Gossiping/M.1760225311.A.878",
       "author": "karta328",
       "board": "Gossiping",
       "publishTime": "2025/10/11 23:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "168",
+      "recommendCount": "638",
+      "title": "[新聞] 共軍封鎖兵推 限電7成 全台能源可撐1年",
+      "link": "/bbs/Gossiping/M.1760234333.A.AF1",
+      "author": "semih",
+      "board": "Gossiping",
+      "publishTime": "2025/10/12 01:58",
       "imageUrl": ""
     },
     {
@@ -54,18 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "161",
-      "recommendCount": "611",
-      "title": "[新聞] 共軍封鎖兵推 限電7成 全台能源可撐1年",
-      "link": "/bbs/Gossiping/M.1760234333.A.AF1",
-      "author": "semih",
-      "board": "Gossiping",
-      "publishTime": "2025/10/12 01:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "269",
-      "recommendCount": "566",
+      "recommendScore": "271",
+      "recommendCount": "569",
       "title": "[新聞] 輝達總部重大進展！ 李四川宣布：明起啟動與新壽共同合意終止契約",
       "link": "/bbs/Gossiping/M.1760235833.A.E47",
       "author": "a96385245",
@@ -84,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "87",
+      "recommendCount": "600",
+      "title": "[問卦] 唐從聖對台大高材生踹老婦的看法還比較對",
+      "link": "/bbs/Gossiping/M.1760236075.A.05D",
+      "author": "bttnec",
+      "board": "Gossiping",
+      "publishTime": "2025/10/12 02:27",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "265",
       "recommendCount": "359",
       "title": "[情報] 宋嘉翔 再見安打",
@@ -94,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "85",
-      "recommendCount": "588",
-      "title": "[問卦] 唐從聖對台大高材生踹老婦的看法還比較對",
-      "link": "/bbs/Gossiping/M.1760236075.A.05D",
-      "author": "bttnec",
-      "board": "Gossiping",
-      "publishTime": "2025/10/12 02:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "265",
-      "recommendCount": "482",
+      "recommendScore": "266",
+      "recommendCount": "483",
       "title": "[新聞] 富台指暴跌…台股周一開盤恐崩逾1,660點？兩大名師看「支撐在這裡」",
       "link": "/bbs/Stock/M.1760179216.A.BF1",
       "author": "diefishfish",
@@ -121,6 +111,16 @@
       "author": "oliverchamps",
       "board": "Baseball",
       "publishTime": "2025/10/11 10:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "84",
+      "recommendCount": "570",
+      "title": "[問卦] 歐洲朋友來台旅行感想(玻璃心台人勿入)",
+      "link": "/bbs/Gossiping/M.1760245100.A.08F",
+      "author": "Amed21",
+      "board": "Gossiping",
+      "publishTime": "2025/10/12 04:58",
       "imageUrl": ""
     },
     {
@@ -141,16 +141,6 @@
       "author": "cjol",
       "board": "Stock",
       "publishTime": "2025/10/11 23:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "81",
-      "recommendCount": "527",
-      "title": "[問卦] 歐洲朋友來台旅行感想(玻璃心台人勿入)",
-      "link": "/bbs/Gossiping/M.1760245100.A.08F",
-      "author": "Amed21",
-      "board": "Gossiping",
-      "publishTime": "2025/10/12 04:58",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "indium111",
       "board": "Baseball",
       "publishTime": "2025/10/11 12:35",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "204",
+      "recommendCount": "326",
+      "title": "[討論] 林安可是不是留不住了",
+      "link": "/bbs/Baseball/M.1760178777.A.995",
+      "author": "waiting0212",
+      "board": "Baseball",
+      "publishTime": "2025/10/11 10:32",
       "imageUrl": ""
     }
   ]
