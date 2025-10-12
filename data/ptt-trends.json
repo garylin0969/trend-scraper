@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-12T10:37:26.696Z",
+  "updated": "2025-10-12T10:44:30.064Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "267",
-      "recommendCount": "484",
-      "title": "[新聞] 富台指暴跌…台股周一開盤恐崩逾1,660點？兩大名師看「支撐在這裡」",
-      "link": "/bbs/Stock/M.1760179216.A.BF1",
-      "author": "diefishfish",
-      "board": "Stock",
-      "publishTime": "2025/10/11 10:40",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "160",
       "recommendCount": "471",
       "title": "[問卦] 經濟部：注意！光電板真的沒毒 水質安全",
@@ -201,6 +191,16 @@
       "author": "Kevin0906",
       "board": "Lions",
       "publishTime": "2025/10/12 09:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "183",
+      "recommendCount": "460",
+      "title": "[新聞] 律師酸蔣不懂法律被打臉 北市府秀合約：不應混淆、以訛傳訛",
+      "link": "/bbs/Gossiping/M.1760187246.A.4DB",
+      "author": "CREA",
+      "board": "Gossiping",
+      "publishTime": "2025/10/11 12:54",
       "imageUrl": ""
     }
   ]
