@@ -1,18 +1,8 @@
 {
-  "updated": "2025-10-12T11:43:32.326Z",
+  "updated": "2025-10-12T11:53:24.527Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "471",
-      "recommendCount": "1017",
-      "title": "[爆卦] 拍總統車隊 警察稱違反刑法135,136,138...",
-      "link": "/bbs/Gossiping/M.1760237045.A.255",
-      "author": "usnavyseal",
-      "board": "Gossiping",
-      "publishTime": "2025/10/12 02:44",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "120",
       "recommendCount": "901",
@@ -114,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "148",
+      "recommendCount": "548",
+      "title": "[新聞] 《紐時》驚豔「台灣旅遊」被國際低估！",
+      "link": "/bbs/Stock/M.1760226706.A.896",
+      "author": "cjol",
+      "board": "Stock",
+      "publishTime": "2025/10/11 23:51",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "226",
       "recommendCount": "372",
       "title": "[問卦] 蘇一峰醫生怎麼了？？？",
@@ -122,16 +122,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/12 09:14",
       "imageUrl": "https://cache.pttweb.cc/imgur/czNkNwD/s/19cc58355ba678b5f4e52488a8a6ba90"
-    },
-    {
-      "recommendScore": "146",
-      "recommendCount": "545",
-      "title": "[新聞] 《紐時》驚豔「台灣旅遊」被國際低估！",
-      "link": "/bbs/Stock/M.1760226706.A.896",
-      "author": "cjol",
-      "board": "Stock",
-      "publishTime": "2025/10/11 23:51",
-      "imageUrl": ""
     },
     {
       "recommendScore": "263",
@@ -184,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "210",
-      "recommendCount": "266",
-      "title": "[炸裂] 宋嘉翔",
-      "link": "/bbs/Baseball/M.1760183467.A.2AA",
-      "author": "BayAreaUnite",
-      "board": "Baseball",
-      "publishTime": "2025/10/11 11:51",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "179",
       "recommendCount": "905",
       "title": "[轉播] 季後挑戰G3 四△ 吱3:1喵",
@@ -201,6 +181,26 @@
       "author": "Kevin0906",
       "board": "Lions",
       "publishTime": "2025/10/12 09:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "183",
+      "recommendCount": "460",
+      "title": "[新聞] 律師酸蔣不懂法律被打臉 北市府秀合約：不應混淆、以訛傳訛",
+      "link": "/bbs/Gossiping/M.1760187246.A.4DB",
+      "author": "CREA",
+      "board": "Gossiping",
+      "publishTime": "2025/10/11 12:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "181",
+      "recommendCount": "307",
+      "title": "[討論] 統一是怎麼玩到輸的？",
+      "link": "/bbs/Baseball/M.1760186127.A.C70",
+      "author": "indium111",
+      "board": "Baseball",
+      "publishTime": "2025/10/11 12:35",
       "imageUrl": ""
     }
   ]
