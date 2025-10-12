@@ -1,7 +1,7 @@
 {
-  "updated": "2025-10-12T09:27:09.475Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-10-12T09:34:20.236Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "331",
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "248",
+      "recommendCount": "358",
+      "title": "[新聞] 自曝討厭「像兄弟那樣的豪門隊伍」 波賽樂總是支持挑戰者",
+      "link": "/bbs/Baseball/M.1760252887.A.41F",
+      "author": "ZHUGUA",
+      "board": "Baseball",
+      "publishTime": "2025/10/12 07:08",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "110",
       "recommendCount": "365",
       "title": "[新聞] 《紐時》驚豔「台灣旅遊」被國際低估！",
@@ -131,16 +141,6 @@
       "author": "str8g",
       "board": "Gossiping",
       "publishTime": "2025/10/11 09:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "243",
-      "recommendCount": "350",
-      "title": "[新聞] 自曝討厭「像兄弟那樣的豪門隊伍」 波賽樂總是支持挑戰者",
-      "link": "/bbs/Baseball/M.1760252887.A.41F",
-      "author": "ZHUGUA",
-      "board": "Baseball",
-      "publishTime": "2025/10/12 07:08",
       "imageUrl": ""
     },
     {
@@ -191,6 +191,16 @@
       "author": "CREA",
       "board": "Gossiping",
       "publishTime": "2025/10/11 12:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "181",
+      "recommendCount": "307",
+      "title": "[討論] 統一是怎麼玩到輸的？",
+      "link": "/bbs/Baseball/M.1760186127.A.C70",
+      "author": "indium111",
+      "board": "Baseball",
+      "publishTime": "2025/10/11 12:35",
       "imageUrl": ""
     }
   ]
