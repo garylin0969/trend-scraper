@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-12T19:53:28.816Z",
+  "updated": "2025-10-12T20:05:51.447Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,13 +164,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "122",
-      "recommendCount": "297",
+      "recommendScore": "123",
+      "recommendCount": "298",
       "title": "[新聞] 47種藥品退出台灣！石崇良:啟動專案進口機制、避免缺藥危機",
       "link": "/bbs/Gossiping/M.1760276122.A.CA4",
       "author": "tsengcc",
       "board": "Gossiping",
       "publishTime": "2025/10/12 13:35",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "730",
+      "recommendCount": "1470",
+      "title": "[電競] 2025 亞洲邀請賽 Day 7 (決賽)",
+      "link": "/bbs/LoL/M.1760265245.A.A66",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/10/12 10:34",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "Lions",
       "publishTime": "2025/10/12 08:31",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "180",
-      "recommendCount": "212",
-      "title": "[問卦] 1973年10月9號初鹿堰塞湖事件? (發錢)",
-      "link": "/bbs/Gossiping/M.1760232397.A.572",
-      "author": "q347",
-      "board": "Gossiping",
-      "publishTime": "2025/10/12 01:26",
-      "imageUrl": "https://cache.pttweb.cc/imgur/CnPWlIn/s/4b3e1c637a502fe9eadc953821c4e35a"
     }
   ]
 }
