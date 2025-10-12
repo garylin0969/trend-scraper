@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-12T17:53:28.245Z",
+  "updated": "2025-10-12T18:07:03.191Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "216",
+      "recommendCount": "257",
+      "title": "[問卦] 我想賣光電板茶耶? 有人想買嗎? (發錢)",
+      "link": "/bbs/Gossiping/M.1760276362.A.21B",
+      "author": "q347",
+      "board": "Gossiping",
+      "publishTime": "2025/10/12 13:39",
+      "imageUrl": "https://cache.pttweb.cc/imgur/UZFrzgj/s/4fa9930968df4661b0af2703329e4c53"
+    },
+    {
       "recommendScore": "186",
       "recommendCount": "294",
       "title": "[分享] 林佳緯失誤影片",
@@ -191,16 +201,6 @@
       "author": "tsengcc",
       "board": "Gossiping",
       "publishTime": "2025/10/12 13:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "210",
-      "recommendCount": "591",
-      "title": "[情報] 中國外交部回應",
-      "link": "/bbs/Stock/M.1760241998.A.952",
-      "author": "Worldpeaceme",
-      "board": "Stock",
-      "publishTime": "2025/10/12 04:06",
       "imageUrl": ""
     }
   ]
