@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-13T05:31:07.487Z",
+  "updated": "2025-10-13T05:40:31.733Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "233",
+      "recommendCount": "497",
+      "title": "[新聞] 不只烏山頭！光電板也蓋滿鳳山水庫 陳菁徽一到現場嚇壞",
+      "link": "/bbs/Gossiping/M.1760311538.A.8EC",
+      "author": "mongi",
+      "board": "Gossiping",
+      "publishTime": "2025/10/12 23:25",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "162",
       "recommendCount": "419",
       "title": "[新聞] 「小小多山國家」出處？陳麗貴：我改寫聶魯達詩作，何來抄寫？",
@@ -94,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "201",
-      "recommendCount": "417",
-      "title": "[新聞] 不只烏山頭！光電板也蓋滿鳳山水庫 陳菁徽一到現場嚇壞",
-      "link": "/bbs/Gossiping/M.1760311538.A.8EC",
-      "author": "mongi",
-      "board": "Gossiping",
-      "publishTime": "2025/10/12 23:25",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "257",
       "recommendCount": "315",
       "title": "[問卦] 我想賣光電板茶耶? 有人想買嗎? (發錢)",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "156",
-      "recommendCount": "305",
+      "recommendScore": "158",
+      "recommendCount": "314",
       "title": "[情報] 川普：別擔心中國，一切都會好起來的",
       "link": "/bbs/Stock/M.1760300396.A.CD8",
       "author": "abcqq2323",
