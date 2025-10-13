@@ -1,35 +1,50 @@
 {
-  "updated": "2025-10-12T23:36:41.487Z",
+  "updated": "2025-10-13T00:37:06.015Z",
   "trends": [
     {
+      "googleTrend": "日經指數",
+      "searchVolume": "500+",
+      "started": "20 分鐘前"
+    },
+    {
+      "googleTrend": "台股",
+      "searchVolume": "1,000+",
+      "started": "10 分鐘前"
+    },
+    {
       "googleTrend": "台指期",
-      "searchVolume": "200+",
+      "searchVolume": "500+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "10月連假",
+      "searchVolume": "1,000+",
       "started": "1 小時前"
     },
     {
-      "googleTrend": "美股期貨",
+      "googleTrend": "日股",
+      "searchVolume": "200+",
+      "started": "20 分鐘前"
+    },
+    {
+      "googleTrend": "曾智希",
       "searchVolume": "100+",
       "started": "20 分鐘前"
     },
     {
-      "googleTrend": "10月連假",
-      "searchVolume": "200+",
-      "started": "20 分鐘前"
+      "googleTrend": "十月連假",
+      "searchVolume": "100+",
+      "started": "1 小時前"
     },
     {
       "googleTrend": "台北捷運",
       "searchVolume": "100+",
-      "started": "20 分鐘前"
+      "started": "1 小時前"
     },
     {
       "googleTrend": "星座運勢",
       "searchVolume": "100+",
-      "started": "1 小時前"
-    },
-    {
-      "googleTrend": "聯合新聞網",
-      "searchVolume": "100+",
-      "started": "1 小時前"
+      "started": "2 小時前"
     }
   ]
 }
