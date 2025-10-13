@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-13T23:17:13.277Z",
+  "updated": "2025-10-13T23:26:31.631Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -61,16 +61,6 @@
       "author": "a401",
       "board": "Gossiping",
       "publishTime": "2025/10/13 07:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "263",
-      "recommendCount": "569",
-      "title": "[新聞] 不只烏山頭！光電板也蓋滿鳳山水庫 陳菁徽一到現場嚇壞",
-      "link": "/bbs/Gossiping/M.1760311538.A.8EC",
-      "author": "mongi",
-      "board": "Gossiping",
-      "publishTime": "2025/10/12 23:25",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "palajuice",
       "board": "Gossiping",
       "publishTime": "2025/10/13 04:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-95",
+      "recommendCount": "409",
+      "title": "[閒聊] 想開炮嗎？ 我先來！",
+      "link": "/bbs/Lions/M.1760363301.A.6E3",
+      "author": "tautoulover",
+      "board": "Lions",
+      "publishTime": "2025/10/13 13:48",
       "imageUrl": ""
     }
   ]
