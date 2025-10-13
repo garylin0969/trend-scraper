@@ -1,18 +1,8 @@
 {
-  "updated": "2025-10-13T15:53:45.960Z",
+  "updated": "2025-10-13T16:06:59.218Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "756",
-      "recommendCount": "979",
-      "title": "[炸裂] 林智平",
-      "link": "/bbs/Baseball/M.1760361025.A.430",
-      "author": "edison321",
-      "board": "Baseball",
-      "publishTime": "2025/10/13 13:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/cTekf7l/s/bc11b0129a7920152f967908f51ad6c2"
-    },
     {
       "recommendScore": "486",
       "recommendCount": "1002",
@@ -201,6 +191,16 @@
       "author": "bluehttp",
       "board": "Gossiping",
       "publishTime": "2025/10/13 03:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "183",
+      "recommendCount": "434",
+      "title": "[問卦] 水平智齒 到底要不要拔阿",
+      "link": "/bbs/Gossiping/M.1760344610.A.8D9",
+      "author": "poeta",
+      "board": "Gossiping",
+      "publishTime": "2025/10/13 08:36",
       "imageUrl": ""
     }
   ]
