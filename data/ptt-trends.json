@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-13T22:53:38.224Z",
+  "updated": "2025-10-13T23:05:34.058Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "183",
+      "recommendCount": "729",
+      "title": "[新聞] 快訊／長榮座艙長7點聲明澄清：說我害空服員往生真的太沉重",
+      "link": "/bbs/Gossiping/M.1760339899.A.606",
+      "author": "a401",
+      "board": "Gossiping",
+      "publishTime": "2025/10/13 07:18",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "263",
       "recommendCount": "569",
       "title": "[新聞] 不只烏山頭！光電板也蓋滿鳳山水庫 陳菁徽一到現場嚇壞",
@@ -61,16 +71,6 @@
       "author": "mongi",
       "board": "Gossiping",
       "publishTime": "2025/10/12 23:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "184",
-      "recommendCount": "728",
-      "title": "[新聞] 快訊／長榮座艙長7點聲明澄清：說我害空服員往生真的太沉重",
-      "link": "/bbs/Gossiping/M.1760339899.A.606",
-      "author": "a401",
-      "board": "Gossiping",
-      "publishTime": "2025/10/13 07:18",
       "imageUrl": ""
     },
     {
@@ -174,8 +174,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/2qZXQ16/s/7aa99e5c79cc36173d63f484267aafff"
     },
     {
-      "recommendScore": "234",
-      "recommendCount": "520",
+      "recommendScore": "235",
+      "recommendCount": "522",
       "title": "[新聞] 獅帝芬放出賽名單卻沒登板？林岳平：上場時間點已過",
       "link": "/bbs/Baseball/M.1760370196.A.19C",
       "author": "Wojnarowski",
