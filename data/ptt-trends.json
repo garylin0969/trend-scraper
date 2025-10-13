@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-13T03:35:33.400Z",
+  "updated": "2025-10-13T03:51:15.536Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "252",
+      "recommendCount": "310",
+      "title": "[問卦] 我想賣光電板茶耶? 有人想買嗎? (發錢)",
+      "link": "/bbs/Gossiping/M.1760276362.A.21B",
+      "author": "q347",
+      "board": "Gossiping",
+      "publishTime": "2025/10/12 13:39",
+      "imageUrl": "https://cache.pttweb.cc/imgur/UZFrzgj/s/4fa9930968df4661b0af2703329e4c53"
+    },
+    {
       "recommendScore": "240",
       "recommendCount": "320",
       "title": "[情報] CPBL季後挑戰賽 GAME4 先發投手",
@@ -92,16 +102,6 @@
       "board": "Baseball",
       "publishTime": "2025/10/12 11:38",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "249",
-      "recommendCount": "299",
-      "title": "[問卦] 我想賣光電板茶耶? 有人想買嗎? (發錢)",
-      "link": "/bbs/Gossiping/M.1760276362.A.21B",
-      "author": "q347",
-      "board": "Gossiping",
-      "publishTime": "2025/10/12 13:39",
-      "imageUrl": "https://cache.pttweb.cc/imgur/UZFrzgj/s/4fa9930968df4661b0af2703329e4c53"
     },
     {
       "recommendScore": "153",
@@ -122,6 +122,16 @@
       "board": "Baseball",
       "publishTime": "2025/10/12 04:27",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "156",
+      "recommendCount": "305",
+      "title": "[情報] 川普：別擔心中國，一切都會好起來的",
+      "link": "/bbs/Stock/M.1760300396.A.CD8",
+      "author": "abcqq2323",
+      "board": "Stock",
+      "publishTime": "2025/10/12 20:19",
+      "imageUrl": "https://cache.pttweb.cc/imgur/dNgbDbs/s/09d785f952d554fc25aae06b3fa55202"
     },
     {
       "recommendScore": "179",
@@ -154,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "730",
+      "recommendCount": "1470",
+      "title": "[電競] 2025 亞洲邀請賽 Day 7 (決賽)",
+      "link": "/bbs/LoL/M.1760265245.A.A66",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/10/12 10:34",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "186",
       "recommendCount": "359",
       "title": "[閒聊] 23歲就懷孕很正常嗎",
@@ -162,16 +182,6 @@
       "board": "C_Chat",
       "publishTime": "2025/10/12 11:11",
       "imageUrl": "https://cache.pttweb.cc/imgur/GpkawKe/s/ee46983cfb534cb71b41d53314bea435"
-    },
-    {
-      "recommendScore": "128",
-      "recommendCount": "253",
-      "title": "[情報] 川普：別擔心中國，一切都會好起來的",
-      "link": "/bbs/Stock/M.1760300396.A.CD8",
-      "author": "abcqq2323",
-      "board": "Stock",
-      "publishTime": "2025/10/12 20:19",
-      "imageUrl": "https://cache.pttweb.cc/imgur/dNgbDbs/s/09d785f952d554fc25aae06b3fa55202"
     },
     {
       "recommendScore": "139",
@@ -191,16 +201,6 @@
       "author": "masi",
       "board": "Gossiping",
       "publishTime": "2025/10/12 12:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "118",
-      "recommendCount": "226",
-      "title": "[討論] 中信現在在想什麼？",
-      "link": "/bbs/Baseball/M.1760268111.A.A1D",
-      "author": "slamblock15",
-      "board": "Baseball",
-      "publishTime": "2025/10/12 11:21",
       "imageUrl": ""
     }
   ]
