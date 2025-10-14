@@ -1,18 +1,8 @@
 {
-  "updated": "2025-10-14T13:05:21.813Z",
+  "updated": "2025-10-14T13:22:08.003Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "482",
-      "recommendCount": "896",
-      "title": "[新聞] 馬德抓到了！烏山頭水庫水質檢測多次驗出清潔劑濃度",
-      "link": "/bbs/Gossiping/M.1760424071.A.00C",
-      "author": "lazyjohn",
-      "board": "Gossiping",
-      "publishTime": "2025/10/14 06:41",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "506",
       "recommendCount": "1035",
@@ -64,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "257",
-      "recommendCount": "407",
+      "recommendScore": "258",
+      "recommendCount": "409",
       "title": "[標的] 大盤創今年單日最高成交量在反映啥",
       "link": "/bbs/Stock/M.1760421330.A.9D5",
       "author": "jumpballfan",
@@ -84,6 +74,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "247",
+      "recommendCount": "399",
+      "title": "Re: [新聞] 2026要贏回台中！賴清德定調何欣純出戰台中市長　蔡其昌喊「全力支持」",
+      "link": "/bbs/Gossiping/M.1760441462.A.F88",
+      "author": "ttyui",
+      "board": "Gossiping",
+      "publishTime": "2025/10/14 11:31",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "300",
+      "recommendCount": "930",
+      "title": "[新聞] 北市府開8億分手費遭拒　李四川：新壽計5",
+      "link": "/bbs/Stock/M.1760424632.A.D72",
+      "author": "DDDDRR",
+      "board": "Stock",
+      "publishTime": "2025/10/14 06:50",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "245",
       "recommendCount": "543",
       "title": "[新聞] 獅帝芬放出賽名單卻沒登板？林岳平：上場時間點已過",
@@ -91,16 +101,6 @@
       "author": "Wojnarowski",
       "board": "Baseball",
       "publishTime": "2025/10/13 15:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "302",
-      "recommendCount": "917",
-      "title": "[新聞] 北市府開8億分手費遭拒　李四川：新壽計5",
-      "link": "/bbs/Stock/M.1760424632.A.D72",
-      "author": "DDDDRR",
-      "board": "Stock",
-      "publishTime": "2025/10/14 06:50",
       "imageUrl": ""
     },
     {
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "287",
+      "recommendCount": "301",
+      "title": "Re: [LIVE] 棒球 樂天桃猿 4:3 統一獅 單場",
+      "link": "/bbs/SportLottery/M.1760363484.A.EC6",
+      "author": "b032819",
+      "board": "SportLottery",
+      "publishTime": "2025/10/13 13:51",
+      "imageUrl": "https://cache.pttweb.cc/imgur/JQu5bld/s/422d4652a41ec91e4cb668379275ffe5"
+    },
+    {
       "recommendScore": "262",
       "recommendCount": "312",
       "title": "[問題] 投球看小抄也有用喔",
@@ -134,14 +144,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "284",
-      "recommendCount": "298",
-      "title": "Re: [LIVE] 棒球 樂天桃猿 4:3 統一獅 單場",
-      "link": "/bbs/SportLottery/M.1760363484.A.EC6",
-      "author": "b032819",
-      "board": "SportLottery",
-      "publishTime": "2025/10/13 13:51",
-      "imageUrl": "https://cache.pttweb.cc/imgur/JQu5bld/s/422d4652a41ec91e4cb668379275ffe5"
+      "recommendScore": "173",
+      "recommendCount": "476",
+      "title": "[問卦] 認真問，青鳥一直護航不會良心不安嗎？",
+      "link": "/bbs/Gossiping/M.1760435295.A.32B",
+      "author": "ray90910",
+      "board": "Gossiping",
+      "publishTime": "2025/10/14 09:48",
+      "imageUrl": ""
     },
     {
       "recommendScore": "164",
@@ -151,16 +161,6 @@
       "author": "linjim86",
       "board": "Baseball",
       "publishTime": "2025/10/13 13:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "59",
-      "recommendCount": "416",
-      "title": "[閒聊] 2025世界大賽主題曲Sacrifice 給幾分???",
-      "link": "/bbs/LoL/M.1760360779.A.510",
-      "author": "oldmangoes",
-      "board": "LoL",
-      "publishTime": "2025/10/13 13:06",
       "imageUrl": ""
     },
     {
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "268",
+      "recommendCount": "283",
+      "title": "[閒聊] 活俠傳Steam銷量突破30萬  再接再厲！",
+      "link": "/bbs/C_Chat/M.1760428770.A.557",
+      "author": "firewater899",
+      "board": "C_Chat",
+      "publishTime": "2025/10/14 07:59",
+      "imageUrl": "https://cache.pttweb.cc/imgur/nNY5AAR/s/be2b3aff56bb530cca3c76af8d8f4284"
+    },
+    {
       "recommendScore": "199",
       "recommendCount": "342",
       "title": "[爆卦] 高雄市政府動用全府資源狂轟柯志恩",
@@ -191,16 +201,6 @@
       "author": "Ezimet",
       "board": "Gossiping",
       "publishTime": "2025/10/13 15:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "187",
-      "recommendCount": "343",
-      "title": "Re: [問卦] Cheap說南部人沒有夜生活是真的嗎？",
-      "link": "/bbs/Gossiping/M.1760371266.A.034",
-      "author": "ofpurity",
-      "board": "Gossiping",
-      "publishTime": "2025/10/13 16:01",
       "imageUrl": ""
     }
   ]
