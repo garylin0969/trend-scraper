@@ -1,18 +1,8 @@
 {
-  "updated": "2025-10-14T11:34:13.724Z",
+  "updated": "2025-10-14T11:43:34.836Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "809",
-      "recommendCount": "1043",
-      "title": "[炸裂] 林智平",
-      "link": "/bbs/Baseball/M.1760361025.A.430",
-      "author": "edison321",
-      "board": "Baseball",
-      "publishTime": "2025/10/13 13:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/cTekf7l/s/bc11b0129a7920152f967908f51ad6c2"
-    },
     {
       "recommendScore": "545",
       "recommendCount": "964",
@@ -22,16 +12,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/13 12:46",
       "imageUrl": "https://cache.pttweb.cc/imgur/cTekf7l/s/bc11b0129a7920152f967908f51ad6c2"
-    },
-    {
-      "recommendScore": "233",
-      "recommendCount": "988",
-      "title": "[爆卦]民進黨：別被騙了！水庫合法設置光電板，",
-      "link": "/bbs/Gossiping/M.1760355659.A.CC1",
-      "author": "jiern",
-      "board": "Gossiping",
-      "publishTime": "2025/10/13 11:40",
-      "imageUrl": ""
     },
     {
       "recommendScore": "506",
@@ -94,18 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "279",
-      "recommendCount": "414",
-      "title": "[新聞] SPC-ibon提前開賣「桃猿vs兄弟」冠軍賽",
-      "link": "/bbs/Baseball/M.1760355595.A.34A",
-      "author": "pl726",
-      "board": "Baseball",
-      "publishTime": "2025/10/13 11:39",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "198",
-      "recommendCount": "751",
+      "recommendCount": "752",
       "title": "[新聞] 黃國昌操弄駭客／吸收駭客竊個資　黃國昌遭爆組網路禁衛軍剷除異己",
       "link": "/bbs/HatePolitics/M.1760394397.A.5EC",
       "author": "moneybuy",
@@ -201,6 +171,36 @@
       "author": "oldmangoes",
       "board": "LoL",
       "publishTime": "2025/10/13 13:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "176",
+      "recommendCount": "353",
+      "title": "[討論] 有獅迷可以分享整季看下來的心情嗎？",
+      "link": "/bbs/Baseball/M.1760363404.A.828",
+      "author": "PaulKlein",
+      "board": "Baseball",
+      "publishTime": "2025/10/13 13:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-94",
+      "recommendCount": "410",
+      "title": "[閒聊] 想開炮嗎？ 我先來！",
+      "link": "/bbs/Lions/M.1760363301.A.6E3",
+      "author": "tautoulover",
+      "board": "Lions",
+      "publishTime": "2025/10/13 13:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "199",
+      "recommendCount": "342",
+      "title": "[爆卦] 高雄市政府動用全府資源狂轟柯志恩",
+      "link": "/bbs/Gossiping/M.1760370712.A.2C4",
+      "author": "Ezimet",
+      "board": "Gossiping",
+      "publishTime": "2025/10/13 15:51",
       "imageUrl": ""
     }
   ]
