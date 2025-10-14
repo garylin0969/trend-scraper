@@ -1,8 +1,18 @@
 {
-  "updated": "2025-10-14T11:26:19.304Z",
+  "updated": "2025-10-14T11:34:13.724Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "809",
+      "recommendCount": "1043",
+      "title": "[炸裂] 林智平",
+      "link": "/bbs/Baseball/M.1760361025.A.430",
+      "author": "edison321",
+      "board": "Baseball",
+      "publishTime": "2025/10/13 13:10",
+      "imageUrl": "https://cache.pttweb.cc/imgur/cTekf7l/s/bc11b0129a7920152f967908f51ad6c2"
+    },
     {
       "recommendScore": "545",
       "recommendCount": "964",
@@ -191,16 +201,6 @@
       "author": "oldmangoes",
       "board": "LoL",
       "publishTime": "2025/10/13 13:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "176",
-      "recommendCount": "353",
-      "title": "[討論] 有獅迷可以分享整季看下來的心情嗎？",
-      "link": "/bbs/Baseball/M.1760363404.A.828",
-      "author": "PaulKlein",
-      "board": "Baseball",
-      "publishTime": "2025/10/13 13:50",
       "imageUrl": ""
     }
   ]
