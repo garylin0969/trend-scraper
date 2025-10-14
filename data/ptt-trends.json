@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-14T08:34:22.300Z",
+  "updated": "2025-10-14T08:47:11.952Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "203",
-      "recommendCount": "480",
-      "title": "[問卦] 水平智齒 到底要不要拔阿",
-      "link": "/bbs/Gossiping/M.1760344610.A.8D9",
-      "author": "poeta",
-      "board": "Gossiping",
-      "publishTime": "2025/10/13 08:36",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-94",
       "recommendCount": "410",
       "title": "[閒聊] 想開炮嗎？ 我先來！",
@@ -201,6 +191,16 @@
       "author": "tautoulover",
       "board": "Lions",
       "publishTime": "2025/10/13 13:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "198",
+      "recommendCount": "341",
+      "title": "[爆卦] 高雄市政府動用全府資源狂轟柯志恩",
+      "link": "/bbs/Gossiping/M.1760370712.A.2C4",
+      "author": "Ezimet",
+      "board": "Gossiping",
+      "publishTime": "2025/10/13 15:51",
       "imageUrl": ""
     }
   ]
