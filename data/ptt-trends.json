@@ -1,11 +1,11 @@
 {
-  "updated": "2025-10-14T22:18:01.307Z",
+  "updated": "2025-10-14T22:29:29.306Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "500",
-      "recommendCount": "814",
+      "recommendScore": "502",
+      "recommendCount": "819",
       "title": "Re: [新聞] 2026要贏回台中！賴清德定調何欣純出戰台中市長　蔡其昌喊「全力支持」",
       "link": "/bbs/Gossiping/M.1760441462.A.F88",
       "author": "ttyui",
@@ -34,14 +34,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "344",
-      "recommendCount": "713",
+      "recommendScore": "347",
+      "recommendCount": "717",
       "title": "[問卦] 七大光電協會怒了：聯合提告蘇一峰！",
       "link": "/bbs/Gossiping/M.1760452009.A.5EB",
       "author": "westdoorcard",
       "board": "Gossiping",
       "publishTime": "2025/10/14 14:26",
       "imageUrl": "https://cache.pttweb.cc/imgur/cjlaovj/s/dcc565c7ae3c63d13870408dc511ebe7"
+    },
+    {
+      "recommendScore": "246",
+      "recommendCount": "632",
+      "title": "[新聞] 女疑醉倒躺北車大廳　遭通緝犯當眾侵犯竟無人制止",
+      "link": "/bbs/Gossiping/M.1760450818.A.B8C",
+      "author": "coon182",
+      "board": "Gossiping",
+      "publishTime": "2025/10/14 14:06",
+      "imageUrl": ""
     },
     {
       "recommendScore": "720",
@@ -52,16 +62,6 @@
       "board": "LoL",
       "publishTime": "2025/10/14 05:34",
       "imageUrl": "https://cache.pttweb.cc/imgur/AHmv3wi/s/7f5eb68eaa942f17acbf88b40d88f42c"
-    },
-    {
-      "recommendScore": "245",
-      "recommendCount": "625",
-      "title": "[新聞] 女疑醉倒躺北車大廳　遭通緝犯當眾侵犯竟無人制止",
-      "link": "/bbs/Gossiping/M.1760450818.A.B8C",
-      "author": "coon182",
-      "board": "Gossiping",
-      "publishTime": "2025/10/14 14:06",
-      "imageUrl": ""
     },
     {
       "recommendScore": "239",
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "200",
-      "recommendCount": "756",
-      "title": "[新聞] 黃國昌操弄駭客／吸收駭客竊個資　黃國昌遭爆組網路禁衛軍剷除異己",
-      "link": "/bbs/HatePolitics/M.1760394397.A.5EC",
-      "author": "moneybuy",
-      "board": "HatePolitics",
-      "publishTime": "2025/10/13 22:26",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "120",
       "recommendCount": "413",
       "title": "[心得] 山椒魚：做多請於本週離場",
@@ -174,13 +164,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "176",
-      "recommendCount": "405",
+      "recommendScore": "179",
+      "recommendCount": "413",
       "title": "[新聞] 台灣國軍遭韓媒譏「草莓兵」！裝備過時、間諜滲透：沒美國就完了",
       "link": "/bbs/Gossiping/M.1760436547.A.956",
       "author": "usnavyseal",
       "board": "Gossiping",
       "publishTime": "2025/10/14 10:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "119",
+      "recommendCount": "462",
+      "title": "[新聞] 郭國文：水庫設置光電板，推手是馬英九",
+      "link": "/bbs/Gossiping/M.1760447018.A.7DF",
+      "author": "Tsuzichen",
+      "board": "Gossiping",
+      "publishTime": "2025/10/14 13:03",
       "imageUrl": ""
     },
     {
@@ -194,14 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "118",
-      "recommendCount": "460",
-      "title": "[新聞] 郭國文：水庫設置光電板，推手是馬英九",
-      "link": "/bbs/Gossiping/M.1760447018.A.7DF",
-      "author": "Tsuzichen",
-      "board": "Gossiping",
-      "publishTime": "2025/10/14 13:03",
-      "imageUrl": ""
+      "recommendScore": "297",
+      "recommendCount": "314",
+      "title": "[閒聊] 活俠傳Steam銷量突破30萬  再接再厲！",
+      "link": "/bbs/C_Chat/M.1760428770.A.557",
+      "author": "firewater899",
+      "board": "C_Chat",
+      "publishTime": "2025/10/14 07:59",
+      "imageUrl": "https://cache.pttweb.cc/imgur/nNY5AAR/s/be2b3aff56bb530cca3c76af8d8f4284"
     }
   ]
 }
