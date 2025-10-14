@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-14T04:20:39.406Z",
+  "updated": "2025-10-14T04:33:22.383Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "409",
-      "recommendCount": "853",
+      "recommendScore": "422",
+      "recommendCount": "882",
       "title": "[爆卦] 自稱業者只用清水洗光電板光速被打臉",
       "link": "/bbs/Gossiping/M.1760399639.A.D2D",
       "author": "dodobaho",
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "258",
+      "recommendCount": "380",
+      "title": "[分享] 今日 Blake Snell 八局10K無失分 勝",
+      "link": "/bbs/Baseball/M.1760410945.A.883",
+      "author": "carlchang092",
+      "board": "Baseball",
+      "publishTime": "2025/10/14 03:02",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "278",
       "recommendCount": "413",
       "title": "[新聞] SPC-ibon提前開賣「桃猿vs兄弟」冠軍賽",
@@ -84,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "248",
-      "recommendCount": "366",
-      "title": "[分享] 今日 Blake Snell 八局10K無失分 勝",
-      "link": "/bbs/Baseball/M.1760410945.A.883",
-      "author": "carlchang092",
-      "board": "Baseball",
-      "publishTime": "2025/10/14 03:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "190",
-      "recommendCount": "730",
+      "recommendScore": "193",
+      "recommendCount": "733",
       "title": "[新聞] 黃國昌操弄駭客／吸收駭客竊個資　黃國昌遭爆組網路禁衛軍剷除異己",
       "link": "/bbs/HatePolitics/M.1760394397.A.5EC",
       "author": "moneybuy",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "245",
-      "recommendCount": "539",
+      "recommendScore": "246",
+      "recommendCount": "540",
       "title": "[新聞] 獅帝芬放出賽名單卻沒登板？林岳平：上場時間點已過",
       "link": "/bbs/Baseball/M.1760370196.A.19C",
       "author": "Wojnarowski",
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "122",
-      "recommendCount": "352",
-      "title": "[新聞] 烏山頭光電板清洗惹議　陳亭妃籲中央別再核准准任何水庫光電執照",
-      "link": "/bbs/Gossiping/M.1760329732.A.431",
-      "author": "palajuice",
-      "board": "Gossiping",
-      "publishTime": "2025/10/13 04:28",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "174",
       "recommendCount": "349",
       "title": "[討論] 有獅迷可以分享整季看下來的心情嗎？",
@@ -201,6 +191,16 @@
       "author": "PaulKlein",
       "board": "Baseball",
       "publishTime": "2025/10/13 13:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-94",
+      "recommendCount": "410",
+      "title": "[閒聊] 想開炮嗎？ 我先來！",
+      "link": "/bbs/Lions/M.1760363301.A.6E3",
+      "author": "tautoulover",
+      "board": "Lions",
+      "publishTime": "2025/10/13 13:48",
       "imageUrl": ""
     }
   ]
