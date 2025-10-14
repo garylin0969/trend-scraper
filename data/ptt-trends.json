@@ -1,7 +1,7 @@
 {
-  "updated": "2025-10-14T19:05:45.375Z",
-  "total_found": 18,
-  "returned_count": 18,
+  "updated": "2025-10-14T19:17:05.746Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "491",
@@ -181,6 +181,26 @@
       "author": "usnavyseal",
       "board": "Gossiping",
       "publishTime": "2025/10/14 10:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "293",
+      "recommendCount": "310",
+      "title": "[閒聊] 活俠傳Steam銷量突破30萬  再接再厲！",
+      "link": "/bbs/C_Chat/M.1760428770.A.557",
+      "author": "firewater899",
+      "board": "C_Chat",
+      "publishTime": "2025/10/14 07:59",
+      "imageUrl": "https://cache.pttweb.cc/imgur/nNY5AAR/s/be2b3aff56bb530cca3c76af8d8f4284"
+    },
+    {
+      "recommendScore": "264",
+      "recommendCount": "314",
+      "title": "[問題] 投球看小抄也有用喔",
+      "link": "/bbs/Baseball/M.1760408986.A.13A",
+      "author": "mark882516",
+      "board": "Baseball",
+      "publishTime": "2025/10/14 02:29",
       "imageUrl": ""
     }
   ]
