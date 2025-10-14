@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-14T18:36:59.144Z",
+  "updated": "2025-10-14T18:48:15.012Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "312",
+      "recommendCount": "968",
+      "title": "[新聞] 北市府開8億分手費遭拒　李四川：新壽計5",
+      "link": "/bbs/Stock/M.1760424632.A.D72",
+      "author": "DDDDRR",
+      "board": "Stock",
+      "publishTime": "2025/10/14 06:50",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "199",
       "recommendCount": "755",
       "title": "[新聞] 黃國昌操弄駭客／吸收駭客竊個資　黃國昌遭爆組網路禁衛軍剷除異己",
@@ -131,16 +141,6 @@
       "author": "moneybuy",
       "board": "HatePolitics",
       "publishTime": "2025/10/13 22:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "310",
-      "recommendCount": "964",
-      "title": "[新聞] 北市府開8億分手費遭拒　李四川：新壽計5",
-      "link": "/bbs/Stock/M.1760424632.A.D72",
-      "author": "DDDDRR",
-      "board": "Stock",
-      "publishTime": "2025/10/14 06:50",
       "imageUrl": ""
     },
     {
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "291",
-      "recommendCount": "306",
+      "recommendScore": "292",
+      "recommendCount": "308",
       "title": "[閒聊] 活俠傳Steam銷量突破30萬  再接再厲！",
       "link": "/bbs/C_Chat/M.1760428770.A.557",
       "author": "firewater899",
