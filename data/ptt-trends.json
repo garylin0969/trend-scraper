@@ -1,7 +1,7 @@
 {
-  "updated": "2025-10-15T10:18:13.667Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-10-15T10:32:23.807Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "418",
@@ -191,6 +191,16 @@
       "author": "lycppt",
       "board": "Gossiping",
       "publishTime": "2025/10/15 03:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "168",
+      "recommendCount": "619",
+      "title": "[縱容] 洩密揭寶可夢開發成本超低，獲利率1000%",
+      "link": "/bbs/C_Chat/M.1760488185.A.DDA",
+      "author": "SuperSg",
+      "board": "C_Chat",
+      "publishTime": "2025/10/15 00:29",
       "imageUrl": ""
     }
   ]
