@@ -1,7 +1,7 @@
 {
-  "updated": "2025-10-15T11:17:23.743Z",
-  "total_found": 18,
-  "returned_count": 18,
+  "updated": "2025-10-15T11:26:35.154Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "418",
@@ -182,6 +182,26 @@
       "board": "C_Chat",
       "publishTime": "2025/10/15 00:29",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "187",
+      "recommendCount": "335",
+      "title": "[新聞] 大媽搭公車「拿拖鞋狂搧」優先席老翁!阿伯怒反擊「赤腳貼臉狂踹」衝突畫面曝",
+      "link": "/bbs/Gossiping/M.1760442645.A.6A1",
+      "author": "armorblocks",
+      "board": "Gossiping",
+      "publishTime": "2025/10/14 11:50",
+      "imageUrl": "https://cache.pttweb.cc/imgur/cpeHTyl/s/3ab51ed09e76b446015163365f692f31"
+    },
+    {
+      "recommendScore": "224",
+      "recommendCount": "292",
+      "title": "[分享] 山本由伸：感謝隊友以火力支援我",
+      "link": "/bbs/Baseball/M.1760500897.A.42C",
+      "author": "LABOYS",
+      "board": "Baseball",
+      "publishTime": "2025/10/15 04:01",
+      "imageUrl": "https://cache.pttweb.cc/imgur/1jz8ltJ/s/0b83c3b8de44ca5fa251d650439aae81"
     }
   ]
 }
