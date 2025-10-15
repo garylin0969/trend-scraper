@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-15T05:29:50.631Z",
+  "updated": "2025-10-15T05:39:02.400Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -42,16 +42,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/14 14:06",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "720",
-      "recommendCount": "1391",
-      "title": "[電競] 2025 World Championship - 入圍賽",
-      "link": "/bbs/LoL/M.1760420070.A.54D",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/10/14 05:34",
-      "imageUrl": "https://cache.pttweb.cc/imgur/AHmv3wi/s/7f5eb68eaa942f17acbf88b40d88f42c"
     },
     {
       "recommendScore": "241",
@@ -202,6 +192,16 @@
       "board": "Baseball",
       "publishTime": "2025/10/15 03:00",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "161",
+      "recommendCount": "393",
+      "title": "[問卦] 聯誼現場真的是這樣嗎…..？（有照片）",
+      "link": "/bbs/Gossiping/M.1760491668.A.ABD",
+      "author": "cleversun",
+      "board": "Gossiping",
+      "publishTime": "2025/10/15 01:27",
+      "imageUrl": "https://cache.pttweb.cc/imgur/kOxDFst/s/1fefcf52422e6a568f5a90f56bc19a17"
     }
   ]
 }
