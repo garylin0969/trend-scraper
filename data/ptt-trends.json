@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-15T05:46:19.221Z",
+  "updated": "2025-10-15T05:53:19.928Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "179",
+      "recommendCount": "467",
+      "title": "[問卦] 聯誼現場真的是這樣嗎…..？（有照片）",
+      "link": "/bbs/Gossiping/M.1760491668.A.ABD",
+      "author": "cleversun",
+      "board": "Gossiping",
+      "publishTime": "2025/10/15 01:27",
+      "imageUrl": "https://cache.pttweb.cc/imgur/kOxDFst/s/1fefcf52422e6a568f5a90f56bc19a17"
+    },
+    {
       "recommendScore": "300",
       "recommendCount": "317",
       "title": "[閒聊] 活俠傳Steam銷量突破30萬  再接再厲！",
@@ -174,6 +184,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/nNY5AAR/s/be2b3aff56bb530cca3c76af8d8f4284"
     },
     {
+      "recommendScore": "208",
+      "recommendCount": "397",
+      "title": "[新聞] 日本第六艘大鯨級潛艦「蒼鯨號」下水 配備鋰電池因應中國威脅",
+      "link": "/bbs/Gossiping/M.1760491938.A.17D",
+      "author": "fur",
+      "board": "Gossiping",
+      "publishTime": "2025/10/15 01:32",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "146",
       "recommendCount": "454",
       "title": "[新聞] 談2026台北市長布局 賴清德：蔣萬安沒那麼強、跟韓國瑜差不多",
@@ -181,26 +201,6 @@
       "author": "kabukiada",
       "board": "Gossiping",
       "publishTime": "2025/10/14 11:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "157",
-      "recommendCount": "334",
-      "title": "[分享] 今日大谷翔平",
-      "link": "/bbs/Baseball/M.1760497246.A.804",
-      "author": "jeff1013",
-      "board": "Baseball",
-      "publishTime": "2025/10/15 03:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "206",
-      "recommendCount": "321",
-      "title": "[情報] 114年10月14日 三大法人買賣金額統計表",
-      "link": "/bbs/Stock/M.1760426782.A.251",
-      "author": "coconing",
-      "board": "Stock",
-      "publishTime": "2025/10/14 07:26",
       "imageUrl": ""
     }
   ]
