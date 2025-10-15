@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-15T05:39:02.400Z",
+  "updated": "2025-10-15T05:46:19.221Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -41,6 +41,16 @@
       "author": "coon182",
       "board": "Gossiping",
       "publishTime": "2025/10/14 14:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "219",
+      "recommendCount": "734",
+      "title": "[新聞] 在野瘋傳「藥水洗光電板」　7大公會闢謠：只用清水從未用化學清潔劑",
+      "link": "/bbs/Gossiping/M.1760494654.A.807",
+      "author": "WuSam",
+      "board": "Gossiping",
+      "publishTime": "2025/10/15 02:17",
       "imageUrl": ""
     },
     {
@@ -174,18 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "206",
-      "recommendCount": "321",
-      "title": "[情報] 114年10月14日 三大法人買賣金額統計表",
-      "link": "/bbs/Stock/M.1760426782.A.251",
-      "author": "coconing",
-      "board": "Stock",
-      "publishTime": "2025/10/14 07:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "137",
-      "recommendCount": "295",
+      "recommendScore": "157",
+      "recommendCount": "334",
       "title": "[分享] 今日大谷翔平",
       "link": "/bbs/Baseball/M.1760497246.A.804",
       "author": "jeff1013",
@@ -194,14 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "161",
-      "recommendCount": "393",
-      "title": "[問卦] 聯誼現場真的是這樣嗎…..？（有照片）",
-      "link": "/bbs/Gossiping/M.1760491668.A.ABD",
-      "author": "cleversun",
-      "board": "Gossiping",
-      "publishTime": "2025/10/15 01:27",
-      "imageUrl": "https://cache.pttweb.cc/imgur/kOxDFst/s/1fefcf52422e6a568f5a90f56bc19a17"
+      "recommendScore": "206",
+      "recommendCount": "321",
+      "title": "[情報] 114年10月14日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1760426782.A.251",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2025/10/14 07:26",
+      "imageUrl": ""
     }
   ]
 }
