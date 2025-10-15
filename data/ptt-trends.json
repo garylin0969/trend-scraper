@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-15T12:24:52.813Z",
+  "updated": "2025-10-15T12:47:12.930Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -42,16 +42,6 @@
       "board": "LoL",
       "publishTime": "2025/10/15 03:21",
       "imageUrl": "https://cache.pttweb.cc/imgur/UM4qU04/s/b41048abdb96eddcdee1deb49070e2ec"
-    },
-    {
-      "recommendScore": "387",
-      "recommendCount": "424",
-      "title": "[公告] 神預測－瑞士輪階段 預測專區",
-      "link": "/bbs/LoL/M.1760445078.A.7F0",
-      "author": "cornsoup",
-      "board": "LoL",
-      "publishTime": "2025/10/14 12:31",
-      "imageUrl": ""
     },
     {
       "recommendScore": "276",
@@ -134,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "141",
-      "recommendCount": "368",
-      "title": "[新聞] 貝森特怒斥中國想把全球經濟拖下水 FT 爆料陸官員早預告「地獄烈火」",
-      "link": "/bbs/Stock/M.1760445170.A.FDC",
-      "author": "qazxc1156892",
-      "board": "Stock",
-      "publishTime": "2025/10/14 12:32",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "90",
       "recommendCount": "353",
       "title": "[新聞] 馬太鞍溪潰決釀19死5失聯 檢調朝過失致死、公務員廢弛職務方向偵辦",
@@ -202,6 +182,26 @@
       "board": "Baseball",
       "publishTime": "2025/10/15 03:43",
       "imageUrl": "https://cache.pttweb.cc/imgur/2GPcE83/s/eb05da468d986b1164892459e016be62"
+    },
+    {
+      "recommendScore": "211",
+      "recommendCount": "508",
+      "title": "[新聞] 9塊9人民幣成過去式？ 陸咖啡價格戰卷到2塊9",
+      "link": "/bbs/Stock/M.1760498891.A.451",
+      "author": "ChanHoPark",
+      "board": "Stock",
+      "publishTime": "2025/10/15 03:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "58",
+      "recommendCount": "383",
+      "title": "[討論] 有機會見證MLB大抱團時代嗎？",
+      "link": "/bbs/Baseball/M.1760498149.A.BFE",
+      "author": "Thebulun",
+      "board": "Baseball",
+      "publishTime": "2025/10/15 03:15",
+      "imageUrl": ""
     }
   ]
 }
