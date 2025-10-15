@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-15T08:57:26.943Z",
+  "updated": "2025-10-15T09:08:48.059Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -52,6 +52,16 @@
       "board": "Gossiping",
       "publishTime": "2025/10/14 10:50",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "802",
+      "recommendCount": "1345",
+      "title": "[電競] 2025 World Championship - 瑞士制 Day1",
+      "link": "/bbs/LoL/M.1760498462.A.A40",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/10/15 03:21",
+      "imageUrl": "https://cache.pttweb.cc/imgur/UM4qU04/s/b41048abdb96eddcdee1deb49070e2ec"
     },
     {
       "recommendScore": "194",
@@ -191,16 +201,6 @@
       "author": "ChanHoPark",
       "board": "Stock",
       "publishTime": "2025/10/15 03:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "130",
-      "recommendCount": "285",
-      "title": "Re: [新聞] Sam Altman：ChatGPT年底進入情色領域",
-      "link": "/bbs/Stock/M.1760480491.A.E88",
-      "author": "a000000000",
-      "board": "Stock",
-      "publishTime": "2025/10/14 22:21",
       "imageUrl": ""
     }
   ]
