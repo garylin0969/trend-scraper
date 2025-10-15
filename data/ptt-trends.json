@@ -1,7 +1,7 @@
 {
-  "updated": "2025-10-15T08:20:20.210Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-10-15T08:36:45.829Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "513",
@@ -141,6 +141,16 @@
       "author": "jeff1013",
       "board": "Baseball",
       "publishTime": "2025/10/15 03:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "251",
+      "recommendCount": "364",
+      "title": "[新聞] Sam Altman：ChatGPT年底進入情色領域",
+      "link": "/bbs/Stock/M.1760473968.A.66C",
+      "author": "TyuzuChou",
+      "board": "Stock",
+      "publishTime": "2025/10/14 20:32",
       "imageUrl": ""
     },
     {
