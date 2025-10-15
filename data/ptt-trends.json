@@ -1,7 +1,7 @@
 {
-  "updated": "2025-10-15T11:53:29.294Z",
-  "total_found": 18,
-  "returned_count": 18,
+  "updated": "2025-10-15T12:10:17.394Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "418",
@@ -114,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "146",
-      "recommendCount": "454",
-      "title": "[新聞] 談2026台北市長布局 賴清德：蔣萬安沒那麼強、跟韓國瑜差不多",
-      "link": "/bbs/Gossiping/M.1760442987.A.4E2",
-      "author": "kabukiada",
-      "board": "Gossiping",
-      "publishTime": "2025/10/14 11:56",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "202",
       "recommendCount": "381",
       "title": "[新聞] 賴清德當面問「光電板質詢」爭議　陳亭妃喊冤：我被斷章取義",
@@ -182,6 +172,36 @@
       "board": "Baseball",
       "publishTime": "2025/10/15 04:01",
       "imageUrl": "https://cache.pttweb.cc/imgur/1jz8ltJ/s/0b83c3b8de44ca5fa251d650439aae81"
+    },
+    {
+      "recommendScore": "185",
+      "recommendCount": "318",
+      "title": "[新聞] 柬埔寨詐騙「台灣9公司」被制裁　名單曝光全在大安區",
+      "link": "/bbs/Gossiping/M.1760490391.A.F39",
+      "author": "junzi",
+      "board": "Gossiping",
+      "publishTime": "2025/10/15 01:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "239",
+      "recommendCount": "249",
+      "title": "Re: [LIVE] 足球 巴西@日本 場中",
+      "link": "/bbs/SportLottery/M.1760446564.A.57D",
+      "author": "b032819",
+      "board": "SportLottery",
+      "publishTime": "2025/10/14 12:56",
+      "imageUrl": "https://cache.pttweb.cc/imgur/ZsawGCD/s/679ed6406aa208088b382eec4e101139"
+    },
+    {
+      "recommendScore": "188",
+      "recommendCount": "267",
+      "title": "[分享] Roberts：先發投手投的越長越有利",
+      "link": "/bbs/Baseball/M.1760499819.A.CDF",
+      "author": "LABOYS",
+      "board": "Baseball",
+      "publishTime": "2025/10/15 03:43",
+      "imageUrl": "https://cache.pttweb.cc/imgur/2GPcE83/s/eb05da468d986b1164892459e016be62"
     }
   ]
 }
