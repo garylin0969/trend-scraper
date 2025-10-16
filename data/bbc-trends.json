@@ -1,10 +1,10 @@
 {
-  "updated": "2025-10-16T04:47:57.276Z",
+  "updated": "2025-10-16T05:22:19.670Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-10-16T04:47:53.000Z",
+    "lastBuildDate": "2025-10-16T05:22:10.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -34,6 +34,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a47b/live/749e70c0-aa33-11f0-ba75-093eca1ac29b.jpg"
     },
     {
+      "title": "ChatGPT即將為成人用戶開放驗證過的色情內容",
+      "description": "ChatGPT將從今年12月起開放更多成人用途，包括讓經過驗證的成年用戶體驗色情內容。 此項政策歷經許多討論，引發了正反意見，特別是涉及精神健康的問題。",
+      "link": "https://www.bbc.com/zhongwen/articles/cjr03rjq445o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-16T05:02:30.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cjr03rjq445o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3396/live/8caebd60-aa46-11f0-b2a1-6f537f66f9aa.jpg"
+    },
+    {
       "title": "美中關係定調難，習近平特朗普的「主導權測試」還在持續",
       "description": "最新一輪關稅風波是否會影響即將在韓國舉行的APEC峰會？習近平和特朗普似乎確定的會晤又被打上了問號。",
       "link": "https://www.bbc.com/zhongwen/articles/c891wzzvkxdo/trad?at_medium=RSS&at_campaign=rss",
@@ -46,7 +54,7 @@
       "description": "中國強調，此次徵稅旨在捍衛本土航運產業，免受「歧視性」措施之騷擾，適用範圍涵蓋美國擁有、營運、建造或懸掛美國旗幟的船隻，唯中國建造之船隻豁免其外。華盛頓則宣稱其措施旨在扶植本土航運企業。\n",
       "link": "https://www.bbc.com/zhongwen/articles/cly4vjd8p90o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-10-15T05:40:13.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cly4vjd8p90o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cly4vjd8p90o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e15/live/f59dac50-a97e-11f0-b741-177e3e2c2fc7.jpg"
     },
     {
@@ -104,14 +112,6 @@
       "pubDate": "2025-10-14T04:09:03.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c2emdywkgv2o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f3d8/live/24a11140-a89e-11f0-92db-77261a15b9d2.jpg"
-    },
-    {
-      "title": "「後果將非常嚴重」：矽谷對AI泡沫破裂的擔憂正在升溫",
-      "description": "有些人擔心，AI科技公司價值的快速成長，可能是一個即將破裂的泡沫。",
-      "link": "https://www.bbc.com/zhongwen/articles/ce3y3gdv5yxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-13T01:38:32.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce3y3gdv5yxo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bf9b/live/ff11e480-a5e2-11f0-920e-cb66ee1d5eb0.jpg"
     },
     {
       "title": "以哈互換人質與囚犯 特朗普稱中東迎來「歷史性曙光」",
@@ -282,6 +282,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4cc8/live/ee246be0-a5ea-11f0-920e-cb66ee1d5eb0.png"
     },
     {
+      "title": "「後果將非常嚴重」：矽谷對AI泡沫破裂的擔憂正在升溫",
+      "description": "有些人擔心，AI科技公司價值的快速成長，可能是一個即將破裂的泡沫。",
+      "link": "https://www.bbc.com/zhongwen/articles/ce3y3gdv5yxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-13T01:38:32.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce3y3gdv5yxo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bf9b/live/ff11e480-a5e2-11f0-920e-cb66ee1d5eb0.jpg"
+    },
+    {
       "title": "用臉部熱成像技術解讀你面臨的壓力",
       "description": "薩塞克斯大學的心理學家們正在為一個使用熱像儀研究壓力的研究計畫拍攝這段略帶恐懼的體驗。壓力會改變臉部血流，科學家發現，人類鼻溫的下降可以用來衡量壓力水平，並監測恢復情況。心理學家稱，熱成像技術可能會成為壓力研究領域的「顛覆者」。",
       "link": "https://www.bbc.com/zhongwen/articles/c201r4dnyevo/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2025-10-13T05:32:19.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cnveyz7g6qeo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f16f/live/a1345540-a7eb-11f0-92db-77261a15b9d2.jpg"
-    },
-    {
-      "title": "科技界億萬富翁們似乎正為「世界末日」做準備，我們應該擔心嗎？",
-      "description": "關於電腦智能是否、以及何時會超越人類，還有那之後會發生什麼，這場爭論正越來越激烈。",
-      "link": "https://www.bbc.com/zhongwen/articles/ce3yd5eeeyvo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-11T06:56:38.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce3yd5eeeyvo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2abb/live/00b3aff0-9f88-11f0-928c-71dbb8619e94.jpg"
     }
   ]
 }
