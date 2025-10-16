@@ -1,14 +1,22 @@
 {
-  "updated": "2025-10-16T02:42:47.925Z",
+  "updated": "2025-10-16T03:09:37.510Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-10-16T02:42:38.000Z",
+    "lastBuildDate": "2025-10-16T03:09:24.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "美英聯手查獲太子集團140億美元比特幣，幕後主使陳志涉「龐大電詐帝國」",
+      "description": "美國助理司法部長將太子集團描述為「建立在人類苦難之上的犯罪集團」。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5yl31g7gdpo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-16T02:53:10.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5yl31g7gdpo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a47b/live/749e70c0-aa33-11f0-ba75-093eca1ac29b.jpg"
+    },
     {
       "title": "美中關係定調難，習近平特朗普的「主導權測試」還在持續",
       "description": "最新一輪關稅風波是否會影響即將在韓國舉行的APEC峰會？習近平和特朗普似乎確定的會晤又被打上了問號。",
@@ -24,14 +32,6 @@
       "pubDate": "2025-10-15T05:40:13.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cly4vjd8p90o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e15/live/f59dac50-a97e-11f0-b741-177e3e2c2fc7.jpg"
-    },
-    {
-      "title": "分析：加沙停火特朗普角色至為關鍵，但和平協議仍然渺茫",
-      "description": "特朗普的中東之行是一場勝利之旅，但和平並不會僅僅因為總統的決定而實現。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gjq9ql08lo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-15T06:50:54.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gjq9ql08lo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/25c3/live/86ed3fa0-a992-11f0-928c-71dbb8619e94.jpg"
     },
     {
       "title": "台灣高鐵「寧靜車廂」為何引發「厭童」爭議",
@@ -50,12 +50,36 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d7a8/live/2b7d6790-a8d3-11f0-92db-77261a15b9d2.jpg"
     },
     {
+      "title": "美國呼籲中國釋放30名有影響力的地下教會領袖",
+      "description": "錫安教會由牧師金明日於2007年創立，是中國規模最大的地下教會網絡之一。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwynw7xgze5o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-13T11:39:34.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwynw7xgze5o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/94d5/live/3452f020-a7e7-11f0-9686-5f71961504c1.jpg"
+    },
+    {
+      "title": "荷蘭政府因「經濟安全風險」出手干預在該國營運的中國半導體公司",
+      "description": "此舉旨在保護技術供應，但可能加劇歐盟與中國之間的緊張關係。",
+      "link": "https://www.bbc.com/zhongwen/articles/cq832012jwko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-13T08:21:32.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cq832012jwko/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3f55/live/d7b5ceb0-a803-11f0-b741-177e3e2c2fc7.jpg"
+    },
+    {
       "title": "與特朗普共度24小時：近距離觀察橫掃中東的外交旋風",
       "description": "BBC駐美國國務院記者湯姆·貝特曼說，美國總統為期一天的中東之行是一場勝利之旅，而非著手展開「第二階段」談判、為加沙的長遠未來制定嚴謹細節的外交行動。",
       "link": "https://www.bbc.com/zhongwen/articles/ce861z6jlrlo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-10-15T04:37:01.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ce861z6jlrlo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf43/live/2b559a60-a97a-11f0-b741-177e3e2c2fc7.jpg"
+    },
+    {
+      "title": "分析：加沙停火特朗普角色至為關鍵，但和平協議仍然渺茫",
+      "description": "特朗普的中東之行是一場勝利之旅，但和平並不會僅僅因為總統的決定而實現。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gjq9ql08lo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-15T06:50:54.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gjq9ql08lo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/25c3/live/86ed3fa0-a992-11f0-928c-71dbb8619e94.jpg"
     },
     {
       "title": "一圖勝千言：印度女記者這次佔據了塔利班外長記者會前排",
@@ -80,30 +104,6 @@
       "pubDate": "2025-10-14T05:44:14.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ce3x144qzzdo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bfe9/live/7f440830-a8b4-11f0-b741-177e3e2c2fc7.jpg"
-    },
-    {
-      "title": "荷蘭政府因「經濟安全風險」出手干預在該國營運的中國半導體公司",
-      "description": "此舉旨在保護技術供應，但可能加劇歐盟與中國之間的緊張關係。",
-      "link": "https://www.bbc.com/zhongwen/articles/cq832012jwko/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-13T08:21:32.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cq832012jwko/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3f55/live/d7b5ceb0-a803-11f0-b741-177e3e2c2fc7.jpg"
-    },
-    {
-      "title": "美國呼籲中國釋放30名有影響力的地下教會領袖",
-      "description": "錫安教會由牧師金明日於2007年創立，是中國規模最大的地下教會網絡之一。",
-      "link": "https://www.bbc.com/zhongwen/articles/cwynw7xgze5o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-13T11:39:34.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwynw7xgze5o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/94d5/live/3452f020-a7e7-11f0-9686-5f71961504c1.jpg"
-    },
-    {
-      "title": "美國影后黛安·基頓辭世  伍迪·艾倫長文悼念",
-      "description": "美國導演伍迪·艾倫，為已於週六辭世的影后黛安·基頓，撰寫一篇長而熱情的追憶之文。他將基頓形容為「地球上前所未見、亦難再現的獨特存在」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cj0e8686rypo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-14T06:46:24.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cj0e8686rypo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/005c/live/dd2263c0-a8b9-11f0-92db-77261a15b9d2.jpg"
     },
     {
       "title": "「後果將非常嚴重」：矽谷對AI泡沫破裂的擔憂正在升溫",
@@ -304,14 +304,6 @@
       "pubDate": "2025-10-13T05:32:19.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cnveyz7g6qeo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f16f/live/a1345540-a7eb-11f0-92db-77261a15b9d2.jpg"
-    },
-    {
-      "title": "28 歲就拉皮？年輕世代為何越來越依賴整形手術？",
-      "description": "過往，整形手術只限於上了年紀的富人。但現在，年輕人也開始接受整形手術。",
-      "link": "https://www.bbc.com/zhongwen/articles/c2373958j22o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-13T01:43:45.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c2373958j22o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/05fb/live/f899dc60-a5fc-11f0-928c-71dbb8619e94.jpg"
     },
     {
       "title": "科技界億萬富翁們似乎正為「世界末日」做準備，我們應該擔心嗎？",
