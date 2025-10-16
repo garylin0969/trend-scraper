@@ -1,7 +1,7 @@
 {
-  "updated": "2025-10-16T09:32:06.114Z",
-  "total_found": 18,
-  "returned_count": 18,
+  "updated": "2025-10-16T09:45:10.478Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "366",
@@ -64,16 +64,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/gXB7Bg7/s/17dce497fddb851e53ec46bb0bb4bdc5"
     },
     {
-      "recommendScore": "146",
-      "recommendCount": "400",
-      "title": "[新聞] 快訊／新北檢偵訊完畢！　館長「恐嚇、煽惑他人犯罪」15萬交保",
-      "link": "/bbs/Gossiping/M.1760520706.A.110",
-      "author": "osalucard",
-      "board": "Gossiping",
-      "publishTime": "2025/10/15 09:31",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "101",
       "recommendCount": "506",
       "title": "[新聞] 柯文哲Excel檔數字即萬元「最後一證」 會計師范有偉明天出庭",
@@ -91,16 +81,6 @@
       "author": "DrowningPool",
       "board": "Stock",
       "publishTime": "2025/10/16 05:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "188",
-      "recommendCount": "354",
-      "title": "[新聞] 陳亭妃質詢烏山頭光電板 賴清德嚴肅：澄清謠言要跟執政團隊一致",
-      "link": "/bbs/Gossiping/M.1760520698.A.EBB",
-      "author": "DORAQMON",
-      "board": "Gossiping",
-      "publishTime": "2025/10/15 09:31",
       "imageUrl": ""
     },
     {
@@ -182,6 +162,46 @@
       "board": "Gossiping",
       "publishTime": "2025/10/16 03:03",
       "imageUrl": "https://cache.pttweb.cc/imgur/EqbNwzK/s/91e5e62263f64128b7f7421bfb6b6826"
+    },
+    {
+      "recommendScore": "261",
+      "recommendCount": "556",
+      "title": "[閒聊] Doinb：聽說很多LPL隊伍想買HongQ",
+      "link": "/bbs/LoL/M.1760586292.A.D08",
+      "author": "a125g",
+      "board": "LoL",
+      "publishTime": "2025/10/16 03:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "117",
+      "recommendCount": "317",
+      "title": "[問卦] 統一後最想看到的第一件事是？",
+      "link": "/bbs/Gossiping/M.1760568992.A.C8A",
+      "author": "hondata",
+      "board": "Gossiping",
+      "publishTime": "2025/10/15 22:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "215",
+      "recommendCount": "284",
+      "title": "[情報] 龜龜去國王",
+      "link": "/bbs/NBA/M.1760544669.A.338",
+      "author": "XXXaBg",
+      "board": "NBA",
+      "publishTime": "2025/10/15 16:11",
+      "imageUrl": "https://cache.pttweb.cc/imgur/H1vgGa1/s/6de8c09334848d546b5f2cd03fe3317e"
+    },
+    {
+      "recommendScore": "170",
+      "recommendCount": "555",
+      "title": "[新聞] 傳新壽明北士科舉行動土儀式　北市府諷：不清楚是否為假開工",
+      "link": "/bbs/Stock/M.1760527838.A.844",
+      "author": "DDDDRR",
+      "board": "Stock",
+      "publishTime": "2025/10/15 11:30",
+      "imageUrl": ""
     }
   ]
 }
