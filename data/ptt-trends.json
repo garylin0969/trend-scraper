@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-16T06:08:53.630Z",
+  "updated": "2025-10-16T06:21:48.964Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "283",
+      "recommendCount": "549",
+      "title": "[爆卦] 成大校網封鎖bilibili一類中國網站",
+      "link": "/bbs/Gossiping/M.1760588387.A.700",
+      "author": "LastAttack",
+      "board": "Gossiping",
+      "publishTime": "2025/10/16 04:19",
+      "imageUrl": "https://cache.pttweb.cc/imgur/M23TOfF/s/bc8d708ceb4cb89378368644f0e3e382"
+    },
+    {
       "recommendScore": "236",
       "recommendCount": "750",
       "title": "[新聞] 清寒大學生辦休學不成身亡 最後僅1支手機送給弟弟",
@@ -54,16 +64,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/JIvrFUs/s/56751e303748ed5c88f72b101bca9ad0"
     },
     {
-      "recommendScore": "263",
-      "recommendCount": "511",
-      "title": "[爆卦] 成大校網封鎖bilibili一類中國網站",
-      "link": "/bbs/Gossiping/M.1760588387.A.700",
-      "author": "LastAttack",
-      "board": "Gossiping",
-      "publishTime": "2025/10/16 04:19",
-      "imageUrl": "https://cache.pttweb.cc/imgur/M23TOfF/s/bc8d708ceb4cb89378368644f0e3e382"
-    },
-    {
       "recommendScore": "237",
       "recommendCount": "497",
       "title": "[問卦] 高雄世運場館每年虧3千多萬，誰買單？",
@@ -74,8 +74,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/IoqlD5E/s/4daee7ed3a88070d88a872ed577d4719"
     },
     {
-      "recommendScore": "210",
-      "recommendCount": "652",
+      "recommendScore": "211",
+      "recommendCount": "653",
       "title": "[問卦] 人生真的一定要出國嗎？",
       "link": "/bbs/Gossiping/M.1760510643.A.5B2",
       "author": "robertgarcia",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "98",
-      "recommendCount": "490",
+      "recommendScore": "99",
+      "recommendCount": "492",
       "title": "[新聞] 柯文哲Excel檔數字即萬元「最後一證」 會計師范有偉明天出庭",
       "link": "/bbs/Gossiping/M.1760530893.A.C6D",
       "author": "Supergreen",
