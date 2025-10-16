@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-16T07:17:47.075Z",
+  "updated": "2025-10-16T07:28:51.002Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "306",
-      "recommendCount": "603",
+      "recommendScore": "344",
+      "recommendCount": "684",
       "title": "[爆卦] 成大校網封鎖bilibili一類中國網站",
       "link": "/bbs/Gossiping/M.1760588387.A.700",
       "author": "LastAttack",
@@ -24,8 +24,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/M23TOfF/s/bc8d708ceb4cb89378368644f0e3e382"
     },
     {
-      "recommendScore": "186",
-      "recommendCount": "646",
+      "recommendScore": "187",
+      "recommendCount": "648",
       "title": "[新聞] 北車大廳性侵案成首例 2人為「好友」關係...狂喝3瓶金門高粱",
       "link": "/bbs/Gossiping/M.1760536714.A.C0B",
       "author": "SAgirl",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "241",
-      "recommendCount": "770",
+      "recommendScore": "247",
+      "recommendCount": "790",
       "title": "[新聞] 清寒大學生辦休學不成身亡 最後僅1支手機送給弟弟",
       "link": "/bbs/Gossiping/M.1760576284.A.605",
       "author": "Salcea",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "199",
-      "recommendCount": "492",
+      "recommendScore": "203",
+      "recommendCount": "498",
       "title": "[問卦] 幹你娘國旅難怪沒人玩",
       "link": "/bbs/Gossiping/M.1760574029.A.DA7",
       "author": "a1b2c3d4e5",
@@ -54,8 +54,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/JIvrFUs/s/56751e303748ed5c88f72b101bca9ad0"
     },
     {
-      "recommendScore": "236",
-      "recommendCount": "500",
+      "recommendScore": "237",
+      "recommendCount": "501",
       "title": "[問卦] 高雄世運場館每年虧3千多萬，誰買單？",
       "link": "/bbs/Gossiping/M.1760542174.A.E06",
       "author": "cowardlyman",
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "257",
+      "recommendCount": "389",
+      "title": "[情報] 2330台積電 Q3 17.44",
+      "link": "/bbs/Stock/M.1760592738.A.61B",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2025/10/16 05:32",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "188",
       "recommendCount": "354",
       "title": "[新聞] 陳亭妃質詢烏山頭光電板 賴清德嚴肅：澄清謠言要跟執政團隊一致",
@@ -91,16 +101,6 @@
       "author": "DORAQMON",
       "board": "Gossiping",
       "publishTime": "2025/10/15 09:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "249",
-      "recommendCount": "381",
-      "title": "[情報] 2330台積電 Q3 17.44",
-      "link": "/bbs/Stock/M.1760592738.A.61B",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2025/10/16 05:32",
       "imageUrl": ""
     },
     {
@@ -112,6 +112,16 @@
       "board": "Gossiping",
       "publishTime": "2025/10/15 08:43",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "748",
+      "recommendCount": "1334",
+      "title": "[電競] 2025 World Championship - 瑞士制 Day2",
+      "link": "/bbs/LoL/M.1760585853.A.7BA",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/10/16 03:37",
+      "imageUrl": "https://cache.pttweb.cc/imgur/gXB7Bg7/s/17dce497fddb851e53ec46bb0bb4bdc5"
     },
     {
       "recommendScore": "166",
@@ -134,13 +144,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "225",
-      "recommendCount": "305",
+      "recommendScore": "226",
+      "recommendCount": "306",
       "title": "[問卦] YT是不是掛了",
       "link": "/bbs/Gossiping/M.1760570654.A.56E",
       "author": "AzaciiJank",
       "board": "Gossiping",
       "publishTime": "2025/10/15 23:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "159",
+      "recommendCount": "511",
+      "title": "[新聞] 回擊北市？新壽北士科T17、T18今動土 上午8時綵排",
+      "link": "/bbs/Gossiping/M.1760581009.A.135",
+      "author": "DORAQMON",
+      "board": "Gossiping",
+      "publishTime": "2025/10/16 02:16",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "161",
+      "recommendCount": "293",
+      "title": "[新聞] 5男為20歲正妹混戰釀1死2傷！26歲情敵被捅17刀...倒地噴血亡",
+      "link": "/bbs/Gossiping/M.1760585083.A.29C",
+      "author": "jeff0025",
+      "board": "Gossiping",
+      "publishTime": "2025/10/16 03:24",
       "imageUrl": ""
     },
     {
@@ -154,54 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "161",
-      "recommendCount": "493",
-      "title": "[新聞] 回擊北市？新壽北士科T17、T18今動土 上午8時綵排",
-      "link": "/bbs/Gossiping/M.1760581009.A.135",
-      "author": "DORAQMON",
+      "recommendScore": "167",
+      "recommendCount": "391",
+      "title": "Re: [新聞] 柯文哲Excel檔數字即萬元「最後一證」 會計師范有偉明天出庭",
+      "link": "/bbs/Gossiping/M.1760586338.A.F3B",
+      "author": "turbomons",
       "board": "Gossiping",
-      "publishTime": "2025/10/16 02:16",
-      "imageUrl": ""
+      "publishTime": "2025/10/16 03:45",
+      "imageUrl": "https://cache.pttweb.cc/imgur/e0YEG7m/s/93885103738ab602fbefa15c597ebb8b"
     },
     {
-      "recommendScore": "155",
-      "recommendCount": "283",
-      "title": "[新聞] 5男為20歲正妹混戰釀1死2傷！26歲情敵被捅17刀...倒地噴血亡",
-      "link": "/bbs/Gossiping/M.1760585083.A.29C",
-      "author": "jeff0025",
-      "board": "Gossiping",
-      "publishTime": "2025/10/16 03:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "182",
-      "recommendCount": "436",
+      "recommendScore": "183",
+      "recommendCount": "437",
       "title": "[閒聊] 脆熱議：採訪對Junjia說歡迎回家",
       "link": "/bbs/LoL/M.1760515764.A.10A",
       "author": "bygamantou",
       "board": "LoL",
       "publishTime": "2025/10/15 08:09",
       "imageUrl": "https://cache.pttweb.cc/imgur/rScGQyu/s/6d630785b5b2f0dbe5ecd6deba4a1279"
-    },
-    {
-      "recommendScore": "117",
-      "recommendCount": "311",
-      "title": "[問卦] 統一後最想看到的第一件事是？",
-      "link": "/bbs/Gossiping/M.1760568992.A.C8A",
-      "author": "hondata",
-      "board": "Gossiping",
-      "publishTime": "2025/10/15 22:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "212",
-      "recommendCount": "281",
-      "title": "[情報] 龜龜去國王",
-      "link": "/bbs/NBA/M.1760544669.A.338",
-      "author": "XXXaBg",
-      "board": "NBA",
-      "publishTime": "2025/10/15 16:11",
-      "imageUrl": "https://cache.pttweb.cc/imgur/H1vgGa1/s/6de8c09334848d546b5f2cd03fe3317e"
     }
   ]
 }
