@@ -1,7 +1,7 @@
 {
-  "updated": "2025-10-16T10:32:32.991Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2025-10-16T10:45:57.699Z",
+  "total_found": 18,
+  "returned_count": 18,
   "articles": [
     {
       "recommendScore": "429",
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "213",
+      "recommendCount": "529",
+      "title": "[問卦] 幹你娘國旅難怪沒人玩",
+      "link": "/bbs/Gossiping/M.1760574029.A.DA7",
+      "author": "a1b2c3d4e5",
+      "board": "Gossiping",
+      "publishTime": "2025/10/16 00:20",
+      "imageUrl": "https://cache.pttweb.cc/imgur/JIvrFUs/s/56751e303748ed5c88f72b101bca9ad0"
+    },
+    {
       "recommendScore": "231",
       "recommendCount": "455",
       "title": "[爆卦] 高雄市政府要求公務員臉書帳號造冊",
@@ -42,16 +52,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/16 08:58",
       "imageUrl": "https://cache.pttweb.cc/imgur/z804yoM/s/2b4315246cae7110be249fa2b1282c6d"
-    },
-    {
-      "recommendScore": "209",
-      "recommendCount": "518",
-      "title": "[問卦] 幹你娘國旅難怪沒人玩",
-      "link": "/bbs/Gossiping/M.1760574029.A.DA7",
-      "author": "a1b2c3d4e5",
-      "board": "Gossiping",
-      "publishTime": "2025/10/16 00:20",
-      "imageUrl": "https://cache.pttweb.cc/imgur/JIvrFUs/s/56751e303748ed5c88f72b101bca9ad0"
     },
     {
       "recommendScore": "237",
@@ -174,33 +174,13 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/EqbNwzK/s/91e5e62263f64128b7f7421bfb6b6826"
     },
     {
-      "recommendScore": "146",
-      "recommendCount": "372",
+      "recommendScore": "147",
+      "recommendCount": "375",
       "title": "[新聞] 獨／長榮空姐告別式當天「內勤討請假證明」　航空公司道歉了",
       "link": "/bbs/Gossiping/M.1760540707.A.E7E",
       "author": "FallRed",
       "board": "Gossiping",
       "publishTime": "2025/10/15 15:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "120",
-      "recommendCount": "323",
-      "title": "[問卦] 統一後最想看到的第一件事是？",
-      "link": "/bbs/Gossiping/M.1760568992.A.C8A",
-      "author": "hondata",
-      "board": "Gossiping",
-      "publishTime": "2025/10/15 22:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "261",
-      "recommendCount": "556",
-      "title": "[閒聊] Doinb：聽說很多LPL隊伍想買HongQ",
-      "link": "/bbs/LoL/M.1760586292.A.D08",
-      "author": "a125g",
-      "board": "LoL",
-      "publishTime": "2025/10/16 03:44",
       "imageUrl": ""
     }
   ]
