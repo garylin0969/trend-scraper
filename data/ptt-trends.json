@@ -1,7 +1,7 @@
 {
-  "updated": "2025-10-16T08:20:35.377Z",
-  "total_found": 18,
-  "returned_count": 18,
+  "updated": "2025-10-16T08:36:40.613Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "358",
@@ -181,6 +181,26 @@
       "author": "FallRed",
       "board": "Gossiping",
       "publishTime": "2025/10/15 15:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "173",
+      "recommendCount": "302",
+      "title": "[問卦] 銀行發給我像睪丸的信用卡",
+      "link": "/bbs/Gossiping/M.1760583828.A.9A7",
+      "author": "Amed21",
+      "board": "Gossiping",
+      "publishTime": "2025/10/16 03:03",
+      "imageUrl": "https://cache.pttweb.cc/imgur/EqbNwzK/s/91e5e62263f64128b7f7421bfb6b6826"
+    },
+    {
+      "recommendScore": "117",
+      "recommendCount": "316",
+      "title": "[問卦] 統一後最想看到的第一件事是？",
+      "link": "/bbs/Gossiping/M.1760568992.A.C8A",
+      "author": "hondata",
+      "board": "Gossiping",
+      "publishTime": "2025/10/15 22:56",
       "imageUrl": ""
     }
   ]
