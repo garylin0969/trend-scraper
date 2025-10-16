@@ -1,11 +1,11 @@
 {
-  "updated": "2025-10-16T13:41:52.367Z",
-  "total_found": 18,
-  "returned_count": 18,
+  "updated": "2025-10-16T13:54:21.327Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "678",
-      "recommendCount": "863",
+      "recommendScore": "682",
+      "recommendCount": "872",
       "title": "[公告] 開心區",
       "link": "/bbs/LoL/M.1760606438.A.D54",
       "author": "rainnawind",
@@ -34,8 +34,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/M23TOfF/s/bc8d708ceb4cb89378368644f0e3e382"
     },
     {
-      "recommendScore": "251",
-      "recommendCount": "860",
+      "recommendScore": "714",
+      "recommendCount": "1333",
+      "title": "[電競] 2025 World Championship - 瑞士制 Day2",
+      "link": "/bbs/LoL/M.1760585853.A.7BA",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/10/16 03:37",
+      "imageUrl": "https://cache.pttweb.cc/imgur/gXB7Bg7/s/17dce497fddb851e53ec46bb0bb4bdc5"
+    },
+    {
+      "recommendScore": "261",
+      "recommendCount": "883",
       "title": "[新聞] 清寒大學生辦休學不成身亡 最後僅1支手機送給弟弟",
       "link": "/bbs/Gossiping/M.1760576284.A.605",
       "author": "Salcea",
@@ -84,18 +94,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/IoqlD5E/s/4daee7ed3a88070d88a872ed577d4719"
     },
     {
-      "recommendScore": "788",
-      "recommendCount": "1333",
-      "title": "[電競] 2025 World Championship - 瑞士制 Day2",
-      "link": "/bbs/LoL/M.1760585853.A.7BA",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/10/16 03:37",
-      "imageUrl": "https://cache.pttweb.cc/imgur/gXB7Bg7/s/17dce497fddb851e53ec46bb0bb4bdc5"
-    },
-    {
-      "recommendScore": "274",
-      "recommendCount": "408",
+      "recommendScore": "278",
+      "recommendCount": "412",
       "title": "[情報] 2330台積電 Q3 17.44",
       "link": "/bbs/Stock/M.1760592738.A.61B",
       "author": "DrowningPool",
@@ -114,8 +114,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/e0YEG7m/s/93885103738ab602fbefa15c597ebb8b"
     },
     {
-      "recommendScore": "172",
-      "recommendCount": "323",
+      "recommendScore": "177",
+      "recommendCount": "332",
       "title": "[新聞] 5男為20歲正妹混戰釀1死2傷！26歲情敵被捅17刀...倒地噴血亡",
       "link": "/bbs/Gossiping/M.1760585083.A.29C",
       "author": "jeff0025",
@@ -134,8 +134,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "529",
+      "recommendScore": "201",
+      "recommendCount": "339",
+      "title": "[問卦] 銀行發給我像睪丸的信用卡",
+      "link": "/bbs/Gossiping/M.1760583828.A.9A7",
+      "author": "Amed21",
+      "board": "Gossiping",
+      "publishTime": "2025/10/16 03:03",
+      "imageUrl": "https://cache.pttweb.cc/imgur/EqbNwzK/s/91e5e62263f64128b7f7421bfb6b6826"
+    },
+    {
+      "recommendScore": "167",
+      "recommendCount": "531",
       "title": "[新聞] 回擊北市？新壽北士科T17、T18今動土 上午8時綵排",
       "link": "/bbs/Gossiping/M.1760581009.A.135",
       "author": "DORAQMON",
@@ -174,14 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "188",
-      "recommendCount": "325",
-      "title": "[問卦] 銀行發給我像睪丸的信用卡",
-      "link": "/bbs/Gossiping/M.1760583828.A.9A7",
-      "author": "Amed21",
+      "recommendScore": "147",
+      "recommendCount": "375",
+      "title": "[新聞] 獨／長榮空姐告別式當天「內勤討請假證明」　航空公司道歉了",
+      "link": "/bbs/Gossiping/M.1760540707.A.E7E",
+      "author": "FallRed",
       "board": "Gossiping",
-      "publishTime": "2025/10/16 03:03",
-      "imageUrl": "https://cache.pttweb.cc/imgur/EqbNwzK/s/91e5e62263f64128b7f7421bfb6b6826"
+      "publishTime": "2025/10/15 15:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "176",
+      "recommendCount": "390",
+      "title": "[新聞] 美財長：中國與世界為敵 美國有比稀土更具威力反制手段",
+      "link": "/bbs/Stock/M.1760603464.A.DDC",
+      "author": "justin531xx",
+      "board": "Stock",
+      "publishTime": "2025/10/16 08:31",
+      "imageUrl": ""
     }
   ]
 }
