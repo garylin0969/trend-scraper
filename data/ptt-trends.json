@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-17T03:25:45.662Z",
+  "updated": "2025-10-17T03:42:00.020Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -52,16 +52,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/16 10:36",
       "imageUrl": "https://cache.pttweb.cc/imgur/lXHohYf/s/90e8b43e90e6b7b23a905eff03bf60d6"
-    },
-    {
-      "recommendScore": "693",
-      "recommendCount": "1333",
-      "title": "[電競] 2025 World Championship - 瑞士制 Day2",
-      "link": "/bbs/LoL/M.1760585853.A.7BA",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/10/16 03:37",
-      "imageUrl": "https://cache.pttweb.cc/imgur/gXB7Bg7/s/17dce497fddb851e53ec46bb0bb4bdc5"
     },
     {
       "recommendScore": "329",
@@ -125,7 +115,7 @@
     },
     {
       "recommendScore": "208",
-      "recommendCount": "439",
+      "recommendCount": "440",
       "title": "Re: [問題] 小休旅選擇",
       "link": "/bbs/car/M.1760596236.A.E7F",
       "author": "kkevil",
@@ -194,14 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "182",
-      "recommendCount": "323",
-      "title": "[新聞] 2比特犬發狂攻擊主人！鄰居聽淒厲哭喊　揮斷屠刀仍無法救命",
-      "link": "/bbs/Gossiping/M.1760585386.A.931",
-      "author": "TonyKart",
-      "board": "Gossiping",
-      "publishTime": "2025/10/16 03:29",
+      "recommendScore": "201",
+      "recommendCount": "304",
+      "title": "[閒聊] CFO將於明日對決AL",
+      "link": "/bbs/LoL/M.1760618243.A.261",
+      "author": "yuchiwang",
+      "board": "LoL",
+      "publishTime": "2025/10/16 12:37",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "210",
+      "recommendCount": "335",
+      "title": "[分享] Josh：看好樂天以4:3擊敗中信兄弟奪冠",
+      "link": "/bbs/Baseball/M.1760622163.A.6BF",
+      "author": "gtoselina",
+      "board": "Baseball",
+      "publishTime": "2025/10/16 13:42",
+      "imageUrl": "https://cache.pttweb.cc/imgur/bxwatb3/s/c3e0f1cb1fc5bd0830f63a85a3924f3c"
     }
   ]
 }
