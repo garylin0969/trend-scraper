@@ -1,14 +1,30 @@
 {
-  "updated": "2025-10-16T23:47:40.220Z",
+  "updated": "2025-10-17T00:36:56.756Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-10-16T23:47:33.000Z",
+    "lastBuildDate": "2025-10-17T00:36:44.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "中共四中全會：審議「十五五」規劃，「整肅」高層維穩及歷史角色等幾大看點",
+      "description": "此次會議被視為觀察中國政治走向與政策調整的重要窗口。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn95wn518wgo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-16T23:59:28.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn95wn518wgo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/234d/live/9919f8e0-a351-11f0-92db-77261a15b9d2.jpg"
+    },
+    {
+      "title": "中國亮出「最強稀土牌」：「 卡脖子」方案背後的談判籌碼",
+      "description": "業內普遍認為，中國最新「稀土牌」的潛在影響廣泛，但魔鬼在於細節，新規中存在解釋空間，成為下一輪中美談判的籌碼。",
+      "link": "https://www.bbc.com/zhongwen/articles/cjek039jdkqo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-17T00:02:31.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cjek039jdkqo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2d49/live/ae4cadf0-aaec-11f0-83de-033e77bcbaac.jpg"
+    },
     {
       "title": "中國逮捕30名基督徒，教會擔心這是更大規模鎮壓的開端",
       "description": "錫安這樣的地下教會尤其受到中國2018年新規的影響，新規要求公開禮拜必須獲得政府批准。許多地下教會被迫停止公開活動，轉而舉辦線上禮拜，甚至乾脆關閉。",
@@ -34,20 +50,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a47b/live/749e70c0-aa33-11f0-ba75-093eca1ac29b.jpg"
     },
     {
-      "title": "ChatGPT即將為成人用戶開放驗證過的色情內容",
-      "description": "ChatGPT將從今年12月起開放更多成人用途，包括讓經過驗證的成年用戶體驗色情內容。 此項政策歷經許多討論，引發了正反意見，特別是涉及精神健康的問題。",
-      "link": "https://www.bbc.com/zhongwen/articles/cjr03rjq445o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-16T05:02:30.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cjr03rjq445o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3396/live/8caebd60-aa46-11f0-b2a1-6f537f66f9aa.jpg"
-    },
-    {
       "title": "美中關係定調難，習近平特朗普的「主導權測試」還在持續",
       "description": "最新一輪關稅風波是否會影響即將在韓國舉行的APEC峰會？習近平和特朗普似乎確定的會晤又被打上了問號。",
       "link": "https://www.bbc.com/zhongwen/articles/c891wzzvkxdo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-10-14T09:09:15.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c891wzzvkxdo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c891wzzvkxdo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f6ca/live/b7100960-a8d4-11f0-b741-177e3e2c2fc7.png"
+    },
+    {
+      "title": "ChatGPT即將為成人用戶開放驗證過的色情內容",
+      "description": "ChatGPT將從今年12月起開放更多成人用途，包括讓經過驗證的成年用戶體驗色情內容。 此項政策歷經許多討論，引發了正反意見，特別是涉及精神健康的問題。",
+      "link": "https://www.bbc.com/zhongwen/articles/cjr03rjq445o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-16T05:02:30.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cjr03rjq445o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3396/live/8caebd60-aa46-11f0-b2a1-6f537f66f9aa.jpg"
     },
     {
       "title": "美中貿易戰持續升溫  互徵船隻港口費",
@@ -96,22 +112,6 @@
       "pubDate": "2025-10-15T04:37:01.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ce861z6jlrlo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf43/live/2b559a60-a97a-11f0-b741-177e3e2c2fc7.jpg"
-    },
-    {
-      "title": "分析：加沙停火特朗普角色至為關鍵，但和平協議仍然渺茫",
-      "description": "特朗普的中東之行是一場勝利之旅，但和平並不會僅僅因為總統的決定而實現。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gjq9ql08lo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-15T06:50:54.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gjq9ql08lo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/25c3/live/86ed3fa0-a992-11f0-928c-71dbb8619e94.jpg"
-    },
-    {
-      "title": "一圖勝千言：印度女記者這次佔據了塔利班外長記者會前排",
-      "description": "印度報紙刊登了一張照片，照片顯示，在德里舉行的阿富汗塔利班外交部長新聞發布會上，女記者佔據了前排座位。在此前一次發佈會上，女性記者被排除在外，這樣的安排在印度國內引起軒然大波。",
-      "link": "https://www.bbc.com/zhongwen/articles/c2emdywkgv2o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-14T04:09:03.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c2emdywkgv2o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f3d8/live/24a11140-a89e-11f0-92db-77261a15b9d2.jpg"
     },
     {
       "title": "以哈互換人質與囚犯 特朗普稱中東迎來「歷史性曙光」",
@@ -242,12 +242,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1775/live/5d5515a0-a325-11f0-a0e6-8d759cfcece2.jpg"
     },
     {
-      "title": "中國如何挑戰英偉達在AI晶片領域的主導地位",
-      "description": "黃仁勳警告，中國在晶片開發上只比美國「落後幾納秒」。英偉達對BBC表示：「競爭無疑已經到來。」",
-      "link": "https://www.bbc.com/zhongwen/articles/c5yvwdgn1yyo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-06T06:36:46.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5yvwdgn1yyo/trad#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9949/live/85746ea0-9cd6-11f0-8245-f3f629744491.jpg"
+      "title": "分析：加沙停火特朗普角色至為關鍵，但和平協議仍然渺茫",
+      "description": "特朗普的中東之行是一場勝利之旅，但和平並不會僅僅因為總統的決定而實現。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gjq9ql08lo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-15T06:50:54.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gjq9ql08lo/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/25c3/live/86ed3fa0-a992-11f0-928c-71dbb8619e94.jpg"
     },
     {
       "title": "緬北明家的崛起與覆滅  11人被判死刑後電詐瘟疫能否根除",
