@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-17T09:06:35.049Z",
+  "updated": "2025-10-17T09:18:14.977Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "195",
-      "recommendCount": "334",
-      "title": "[問卦] 8月均薪6萬1646元,以下開放道歉",
-      "link": "/bbs/Gossiping/M.1760605606.A.EE6",
-      "author": "j2f17",
-      "board": "Gossiping",
-      "publishTime": "2025/10/16 09:06",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "222",
       "recommendCount": "363",
       "title": "[新聞] 虧麻了！麻吉大哥又爆倉17億台幣　帳戶僅剩32.8萬美元",
@@ -202,6 +192,16 @@
       "board": "LoL",
       "publishTime": "2025/10/17 06:15",
       "imageUrl": "https://cache.pttweb.cc/imgur/azHO8n9/s/431d2ac4e2e2475c9ad00bdc589cc8a0"
+    },
+    {
+      "recommendScore": "85",
+      "recommendCount": "409",
+      "title": "[請益] 大多數的台灣散戶連「市值」都不懂？",
+      "link": "/bbs/Stock/M.1760607102.A.86A",
+      "author": "stu60001",
+      "board": "Stock",
+      "publishTime": "2025/10/16 09:31",
+      "imageUrl": ""
     }
   ]
 }
