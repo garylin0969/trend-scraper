@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-17T05:29:45.063Z",
+  "updated": "2025-10-17T05:38:27.560Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "278",
-      "recommendCount": "412",
-      "title": "[情報] 2330台積電 Q3 17.44",
-      "link": "/bbs/Stock/M.1760592738.A.61B",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2025/10/16 05:32",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "174",
       "recommendCount": "348",
       "title": "[新聞] 公文要公務員交臉書帳號列管惹議 陳其邁火速拔除三民區長職位",
@@ -201,6 +191,16 @@
       "author": "TomHansen",
       "board": "Baseball",
       "publishTime": "2025/10/16 12:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "202",
+      "recommendCount": "257",
+      "title": "[外絮] Chawy FB",
+      "link": "/bbs/LoL/M.1760607109.A.667",
+      "author": "DillMichel",
+      "board": "LoL",
+      "publishTime": "2025/10/16 09:31",
       "imageUrl": ""
     }
   ]
