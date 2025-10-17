@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-17T10:41:05.610Z",
+  "updated": "2025-10-17T10:48:29.863Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "325",
-      "recommendCount": "1054",
+      "recommendScore": "326",
+      "recommendCount": "1056",
       "title": "[新聞] 遭學費壓垮！台中男大生生前最後訊息曝光　手機留給弟弟賣錢",
       "link": "/bbs/Gossiping/M.1760664420.A.D64",
       "author": "gaiaesque",
@@ -42,6 +42,16 @@
       "board": "C_Chat",
       "publishTime": "2025/10/16 23:43",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "401",
+      "recommendCount": "421",
+      "title": "[祭品] CFO贏AL",
+      "link": "/bbs/LoL/M.1760687538.A.E1F",
+      "author": "w320230",
+      "board": "LoL",
+      "publishTime": "2025/10/17 07:52",
+      "imageUrl": "https://cache.pttweb.cc/imgur/aa9tmrh/s/568d2ce03e0e6ed16185abc1de5ca24b"
     },
     {
       "recommendScore": "837",
@@ -64,16 +74,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "389",
-      "recommendCount": "406",
-      "title": "[祭品] CFO贏AL",
-      "link": "/bbs/LoL/M.1760687538.A.E1F",
-      "author": "w320230",
-      "board": "LoL",
-      "publishTime": "2025/10/17 07:52",
-      "imageUrl": "https://cache.pttweb.cc/imgur/aa9tmrh/s/568d2ce03e0e6ed16185abc1de5ca24b"
-    },
-    {
       "recommendScore": "203",
       "recommendCount": "514",
       "title": "[問卦] 心臟科醫師：這9種食物 給我錢也不吃",
@@ -84,8 +84,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/yw9o93o/s/7e4dd00b4055aac514eb50b865aa7186"
     },
     {
-      "recommendScore": "262",
-      "recommendCount": "420",
+      "recommendScore": "265",
+      "recommendCount": "425",
       "title": "[爆卦] 陳匡怡怒轟鏡週刊是雜狗！",
       "link": "/bbs/Gossiping/M.1760664114.A.B94",
       "author": "cheninher",
