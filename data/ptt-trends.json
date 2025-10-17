@@ -1,8 +1,18 @@
 {
-  "updated": "2025-10-17T06:56:15.694Z",
+  "updated": "2025-10-17T07:06:11.349Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "365",
+      "recommendCount": "1374",
+      "title": "[新聞] 飯店禁一次性用品擴大 礦泉水也不給 實施地點、時間曝",
+      "link": "/bbs/Gossiping/M.1760671753.A.409",
+      "author": "ambitious",
+      "board": "Gossiping",
+      "publishTime": "2025/10/17 03:29",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "685",
       "recommendCount": "876",
@@ -11,16 +21,6 @@
       "author": "rainnawind",
       "board": "LoL",
       "publishTime": "2025/10/16 09:20",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "293",
-      "recommendCount": "1181",
-      "title": "[新聞] 飯店禁一次性用品擴大 礦泉水也不給 實施地點、時間曝",
-      "link": "/bbs/Gossiping/M.1760671753.A.409",
-      "author": "ambitious",
-      "board": "Gossiping",
-      "publishTime": "2025/10/17 03:29",
       "imageUrl": ""
     },
     {
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "280",
-      "recommendCount": "889",
+      "recommendScore": "293",
+      "recommendCount": "968",
       "title": "[新聞] 遭學費壓垮！台中男大生生前最後訊息曝光　手機留給弟弟賣錢",
       "link": "/bbs/Gossiping/M.1760664420.A.D64",
       "author": "gaiaesque",
@@ -134,14 +134,24 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/EmnpGrl/s/27e9e547cc299ad8b0366b9a057ec66a"
     },
     {
-      "recommendScore": "272",
-      "recommendCount": "459",
+      "recommendScore": "273",
+      "recommendCount": "462",
       "title": "[問卦] 婚禮歌單大募集",
       "link": "/bbs/Gossiping/M.1760627230.A.246",
       "author": "nonnon",
       "board": "Gossiping",
       "publishTime": "2025/10/16 15:07",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "195",
+      "recommendCount": "374",
+      "title": "[問卦] 柬埔寨75個台籍殺人犯要放回來了嗎？",
+      "link": "/bbs/Gossiping/M.1760666757.A.B53",
+      "author": "laverne1",
+      "board": "Gossiping",
+      "publishTime": "2025/10/17 02:05",
+      "imageUrl": "https://cache.pttweb.cc/imgur/JeRLcgM/s/e1f186ebb5f0c333d1ee224dd97eb5dc"
     },
     {
       "recommendScore": "179",
@@ -154,24 +164,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "191",
-      "recommendCount": "433",
+      "recommendScore": "193",
+      "recommendCount": "436",
       "title": "[新聞] 美財長：中國與世界為敵 美國有比稀土更具威力反制手段",
       "link": "/bbs/Stock/M.1760603464.A.DDC",
       "author": "justin531xx",
       "board": "Stock",
       "publishTime": "2025/10/16 08:31",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "185",
-      "recommendCount": "355",
-      "title": "[問卦] 柬埔寨75個台籍殺人犯要放回來了嗎？",
-      "link": "/bbs/Gossiping/M.1760666757.A.B53",
-      "author": "laverne1",
-      "board": "Gossiping",
-      "publishTime": "2025/10/17 02:05",
-      "imageUrl": "https://cache.pttweb.cc/imgur/JeRLcgM/s/e1f186ebb5f0c333d1ee224dd97eb5dc"
     },
     {
       "recommendScore": "195",
