@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-17T23:43:31.563Z",
+  "updated": "2025-10-17T23:53:46.754Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,16 +24,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "475",
-      "recommendCount": "1182",
-      "title": "[新聞] 不准用簡體字！經濟部修法：電子遊戲機必須使用正體中文",
-      "link": "/bbs/C_Chat/M.1760658228.A.A37",
-      "author": "chadmu",
-      "board": "C_Chat",
-      "publishTime": "2025/10/16 23:43",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "432",
       "recommendCount": "503",
       "title": "[祭品] CFO贏的話我用屁眼榨甘蔗",
@@ -44,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "465",
-      "recommendCount": "887",
+      "recommendScore": "466",
+      "recommendCount": "890",
       "title": "[情報] 愛爾達新球季確定不播NBA",
       "link": "/bbs/NBA/M.1760684739.A.557",
       "author": "ericf129",
@@ -65,7 +55,7 @@
     },
     {
       "recommendScore": "314",
-      "recommendCount": "612",
+      "recommendCount": "613",
       "title": "[心得] 山椒魚：補充一下本週離場說",
       "link": "/bbs/Stock/M.1760686756.A.DE0",
       "author": "homoho",
@@ -74,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "289",
-      "recommendCount": "543",
+      "recommendScore": "291",
+      "recommendCount": "545",
       "title": "[新聞]深圳14歲男生刺死女同學聽到「要判死刑」才跪地求饒",
       "link": "/bbs/Gossiping/M.1760699978.A.C40",
       "author": "pl132",
@@ -104,8 +94,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/EmnpGrl/s/27e9e547cc299ad8b0366b9a057ec66a"
     },
     {
-      "recommendScore": "270",
-      "recommendCount": "472",
+      "recommendScore": "271",
+      "recommendCount": "474",
       "title": "[問卦] 三立採訪白種元 被韓國人留言嘲諷",
       "link": "/bbs/Gossiping/M.1760709476.A.C84",
       "author": "ReiKuromiya",
@@ -164,6 +154,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/5kCzmV8/s/2a333e58c02dfba77d7c49d6776d22af"
     },
     {
+      "recommendScore": "258",
+      "recommendCount": "393",
+      "title": "[金鐘] 綜藝節目主持人獎",
+      "link": "/bbs/Golden-Award/M.1760711916.A.5EC",
+      "author": "shengju1029",
+      "board": "Golden-Award",
+      "publishTime": "2025/10/17 14:38",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "228",
       "recommendCount": "370",
       "title": "[新聞] 虧麻了！麻吉大哥又爆倉17億台幣　帳戶僅剩32.8萬美元",
@@ -171,16 +171,6 @@
       "author": "jeff0025",
       "board": "Stock",
       "publishTime": "2025/10/16 23:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "256",
-      "recommendCount": "390",
-      "title": "[金鐘] 綜藝節目主持人獎",
-      "link": "/bbs/Golden-Award/M.1760711916.A.5EC",
-      "author": "shengju1029",
-      "board": "Golden-Award",
-      "publishTime": "2025/10/17 14:38",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "osmon54a7",
       "board": "LoL",
       "publishTime": "2025/10/17 04:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "195",
+      "recommendCount": "314",
+      "title": "[閒聊] 今天的CFO給幾分?",
+      "link": "/bbs/LoL/M.1760703502.A.935",
+      "author": "kikiki37",
+      "board": "LoL",
+      "publishTime": "2025/10/17 12:18",
       "imageUrl": ""
     }
   ]
