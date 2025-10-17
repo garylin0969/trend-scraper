@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-17T14:06:05.771Z",
+  "updated": "2025-10-17T14:17:56.803Z",
   "total_found": 18,
   "returned_count": 18,
   "articles": [
@@ -54,7 +54,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "758",
+      "recommendScore": "755",
       "recommendCount": "1397",
       "title": "[電競] 2025 World Championship - 瑞士制 Day3",
       "link": "/bbs/LoL/M.1760681752.A.9B3",
@@ -75,7 +75,7 @@
     },
     {
       "recommendScore": "310",
-      "recommendCount": "581",
+      "recommendCount": "584",
       "title": "[心得] 山椒魚：補充一下本週離場說",
       "link": "/bbs/Stock/M.1760686756.A.DE0",
       "author": "homoho",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "221",
-      "recommendCount": "422",
+      "recommendScore": "222",
+      "recommendCount": "423",
       "title": "[問卦] 柬埔寨75個台籍殺人犯要放回來了嗎？",
       "link": "/bbs/Gossiping/M.1760666757.A.B53",
       "author": "laverne1",
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "214",
+      "recommendCount": "440",
+      "title": "[新聞] 美促陸放行稀土 換關稅休戰期延長3個月以上",
+      "link": "/bbs/Stock/M.1760689783.A.CD7",
+      "author": "coffee112",
+      "board": "Stock",
+      "publishTime": "2025/10/17 08:29",
+      "imageUrl": "https://cache.pttweb.cc/imgur/5kCzmV8/s/2a333e58c02dfba77d7c49d6776d22af"
+    },
+    {
       "recommendScore": "233",
       "recommendCount": "283",
       "title": "[閒聊] 369:我想在karsa對面展示一下我的吶兒",
@@ -172,16 +182,6 @@
       "board": "LoL",
       "publishTime": "2025/10/17 04:11",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "215",
-      "recommendCount": "435",
-      "title": "[新聞] 美促陸放行稀土 換關稅休戰期延長3個月以上",
-      "link": "/bbs/Stock/M.1760689783.A.CD7",
-      "author": "coffee112",
-      "board": "Stock",
-      "publishTime": "2025/10/17 08:29",
-      "imageUrl": "https://cache.pttweb.cc/imgur/5kCzmV8/s/2a333e58c02dfba77d7c49d6776d22af"
     }
   ]
 }
