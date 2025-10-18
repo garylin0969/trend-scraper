@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-18T10:17:45.637Z",
+  "updated": "2025-10-18T10:29:49.161Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "1178",
-      "recommendCount": "1361",
+      "recommendScore": "1179",
+      "recommendCount": "1362",
       "title": "[分享] 今日 大谷翔平 三響、六局10K無失分勝",
       "link": "/bbs/Baseball/M.1760757643.A.F3F",
       "author": "carlchang092",
@@ -44,8 +44,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/Ms7rJle/s/0c5e9fcf79c899a8b4d38bada3f09e08"
     },
     {
-      "recommendScore": "360",
-      "recommendCount": "1187",
+      "recommendScore": "363",
+      "recommendCount": "1193",
       "title": "[新聞] 洪孟楷提「詐騙犯鞭刑」跟進新加坡　綠委氣炸反對：人權倒退",
       "link": "/bbs/Gossiping/M.1760745554.A.3AE",
       "author": "kenny1300175",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "298",
-      "recommendCount": "1164",
+      "recommendScore": "297",
+      "recommendCount": "1165",
       "title": "[新聞] 快新聞／放心喝！研究曝「光電板磨碎泡3月」不影響水質　烏山頭檢測也合格",
       "link": "/bbs/Gossiping/M.1760748278.A.D5E",
       "author": "asppsa",
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "660",
-      "recommendCount": "1359",
-      "title": "[電競] 2025 World Championship - 瑞士制 Day4",
-      "link": "/bbs/LoL/M.1760771173.A.7FA",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/10/18 07:06",
-      "imageUrl": "https://cache.pttweb.cc/imgur/B7hAqOs/s/a08008f2c363541eea08d1113197b9da"
-    },
-    {
       "recommendScore": "282",
       "recommendCount": "472",
       "title": "[討論] 茂野是不是被畫太爛了？",
@@ -202,6 +192,16 @@
       "board": "Baseball",
       "publishTime": "2025/10/18 01:16",
       "imageUrl": "https://cache.pttweb.cc/imgur/cbVbLpf/s/b2b46465e237445f0c3b5ecb787b079a"
+    },
+    {
+      "recommendScore": "692",
+      "recommendCount": "1359",
+      "title": "[電競] 2025 World Championship - 瑞士制 Day4",
+      "link": "/bbs/LoL/M.1760771173.A.7FA",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/10/18 07:06",
+      "imageUrl": "https://cache.pttweb.cc/imgur/B7hAqOs/s/a08008f2c363541eea08d1113197b9da"
     }
   ]
 }
