@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-18T11:16:49.047Z",
+  "updated": "2025-10-18T11:24:59.344Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "307",
-      "recommendCount": "591",
-      "title": "[新聞]深圳14歲男生刺死女同學聽到「要判死刑」才跪地求饒",
-      "link": "/bbs/Gossiping/M.1760699978.A.C40",
-      "author": "pl132",
-      "board": "Gossiping",
-      "publishTime": "2025/10/17 11:19",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "300",
       "recommendCount": "495",
       "title": "[討論] IBB是不是才是對的啊",
@@ -144,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "297",
-      "recommendCount": "426",
+      "recommendScore": "299",
+      "recommendCount": "428",
       "title": "[討論] Kershaw季後賽的定位是什麼?",
       "link": "/bbs/Baseball/M.1760758167.A.ACC",
       "author": "Tanjiro",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/10/17 15:31",
       "imageUrl": "https://cache.pttweb.cc/imgur/RcKg41b/s/35d4882149016d198a7a86414efbf62d"
+    },
+    {
+      "recommendScore": "210",
+      "recommendCount": "468",
+      "title": "[請益] 3000萬可以退休了嗎?",
+      "link": "/bbs/Stock/M.1760700742.A.573",
+      "author": "hittler",
+      "board": "Stock",
+      "publishTime": "2025/10/17 11:32",
+      "imageUrl": ""
     }
   ]
 }
