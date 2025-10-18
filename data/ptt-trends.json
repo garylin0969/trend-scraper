@@ -1,10 +1,10 @@
 {
-  "updated": "2025-10-18T15:54:09.853Z",
+  "updated": "2025-10-18T16:05:57.985Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "1168",
+      "recommendScore": "1169",
       "recommendCount": "1499",
       "title": "[炸裂] 大谷翔平 三響炮",
       "link": "/bbs/Baseball/M.1760755499.A.3E6",
@@ -14,7 +14,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "1177",
+      "recommendScore": "1176",
       "recommendCount": "1364",
       "title": "[分享] 今日 大谷翔平 三響、六局10K無失分勝",
       "link": "/bbs/Baseball/M.1760757643.A.F3F",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "307",
-      "recommendCount": "1196",
+      "recommendScore": "306",
+      "recommendCount": "1197",
       "title": "[新聞] 快新聞／放心喝！研究曝「光電板磨碎泡3月」不影響水質　烏山頭檢測也合格",
       "link": "/bbs/Gossiping/M.1760748278.A.D5E",
       "author": "asppsa",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "396",
-      "recommendCount": "739",
+      "recommendScore": "397",
+      "recommendCount": "740",
       "title": "[爆卦] 國民黨主席選舉 鄭麗文當選",
       "link": "/bbs/Gossiping/M.1760781619.A.434",
       "author": "q347",
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "384",
+      "recommendCount": "496",
+      "title": "[金鐘] 戲劇節目女主角獎",
+      "link": "/bbs/Golden-Award/M.1760800563.A.4FA",
+      "author": "lgng66133",
+      "board": "Golden-Award",
+      "publishTime": "2025/10/18 15:16",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "282",
       "recommendCount": "476",
       "title": "[討論] 茂野是不是被畫太爛了？",
@@ -152,6 +162,16 @@
       "board": "Baseball",
       "publishTime": "2025/10/18 03:21",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "207",
+      "recommendCount": "497",
+      "title": "[問卦] 脆出現大量高雄第一想移居文",
+      "link": "/bbs/Gossiping/M.1760791519.A.8C8",
+      "author": "eatk",
+      "board": "Gossiping",
+      "publishTime": "2025/10/18 12:45",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Mz530GJ/s/5fed3fc190a0cf4a24c0d7a5d7a15f2d"
     },
     {
       "recommendScore": "322",
@@ -182,26 +202,6 @@
       "board": "Baseball",
       "publishTime": "2025/10/18 01:16",
       "imageUrl": "https://cache.pttweb.cc/imgur/cbVbLpf/s/b2b46465e237445f0c3b5ecb787b079a"
-    },
-    {
-      "recommendScore": "194",
-      "recommendCount": "457",
-      "title": "[問卦] 脆出現大量高雄第一想移居文",
-      "link": "/bbs/Gossiping/M.1760791519.A.8C8",
-      "author": "eatk",
-      "board": "Gossiping",
-      "publishTime": "2025/10/18 12:45",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Mz530GJ/s/5fed3fc190a0cf4a24c0d7a5d7a15f2d"
-    },
-    {
-      "recommendScore": "330",
-      "recommendCount": "421",
-      "title": "[金鐘] 戲劇節目女主角獎",
-      "link": "/bbs/Golden-Award/M.1760800563.A.4FA",
-      "author": "lgng66133",
-      "board": "Golden-Award",
-      "publishTime": "2025/10/18 15:16",
-      "imageUrl": ""
     }
   ]
 }
