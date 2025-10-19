@@ -1,8 +1,28 @@
 {
-  "updated": "2025-10-19T13:53:46.886Z",
+  "updated": "2025-10-19T14:05:24.930Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "456",
+      "recommendCount": "635",
+      "title": "[情報] 中信兄弟大中計",
+      "link": "/bbs/Baseball/M.1760873850.A.D17",
+      "author": "gg36967",
+      "board": "Baseball",
+      "publishTime": "2025/10/19 11:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "113",
+      "recommendCount": "617",
+      "title": "[新聞] 蕭美琴：我們已承諾在美投資 不僅台積電",
+      "link": "/bbs/Stock/M.1760798149.A.509",
+      "author": "rz2x",
+      "board": "Stock",
+      "publishTime": "2025/10/18 14:35",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "452",
       "recommendCount": "593",
@@ -14,18 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "114",
-      "recommendCount": "610",
-      "title": "[新聞] 蕭美琴：我們已承諾在美投資 不僅台積電",
-      "link": "/bbs/Stock/M.1760798149.A.509",
-      "author": "rz2x",
-      "board": "Stock",
-      "publishTime": "2025/10/18 14:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "663",
-      "recommendCount": "1395",
+      "recommendScore": "592",
+      "recommendCount": "1394",
       "title": "[電競] 2025 World Championship - 瑞士制 Day5",
       "link": "/bbs/LoL/M.1760857079.A.0C1",
       "author": "f12345678900",
@@ -64,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "200",
+      "recommendCount": "669",
+      "title": "[問卦] 台灣人花16萬買了北海道房子",
+      "link": "/bbs/Gossiping/M.1760831467.A.298",
+      "author": "cici950630",
+      "board": "Gossiping",
+      "publishTime": "2025/10/18 23:51",
+      "imageUrl": "https://cache.pttweb.cc/imgur/wkxUGXn/s/99d23661412d6285d879ad5f37d621c6"
+    },
+    {
       "recommendScore": "267",
       "recommendCount": "592",
       "title": "[討論] 統一獅不考慮出走台南嗎？",
@@ -72,16 +92,6 @@
       "board": "Baseball",
       "publishTime": "2025/10/19 04:40",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "195",
-      "recommendCount": "663",
-      "title": "[問卦] 台灣人花16萬買了北海道房子",
-      "link": "/bbs/Gossiping/M.1760831467.A.298",
-      "author": "cici950630",
-      "board": "Gossiping",
-      "publishTime": "2025/10/18 23:51",
-      "imageUrl": "https://cache.pttweb.cc/imgur/wkxUGXn/s/99d23661412d6285d879ad5f37d621c6"
     },
     {
       "recommendScore": "314",
@@ -191,16 +201,6 @@
       "author": "luckysmallsu",
       "board": "Baseball",
       "publishTime": "2025/10/19 05:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "173",
-      "recommendCount": "311",
-      "title": "[新聞] 「原始級巨獸」現蹤台南大排！全網嚇傻：變異了　震撼畫面曝",
-      "link": "/bbs/Gossiping/M.1760827443.A.D14",
-      "author": "Workforme",
-      "board": "Gossiping",
-      "publishTime": "2025/10/18 22:44",
       "imageUrl": ""
     }
   ]
