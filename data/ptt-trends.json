@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-19T07:05:29.614Z",
+  "updated": "2025-10-19T07:17:21.228Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -42,16 +42,6 @@
       "board": "Stock",
       "publishTime": "2025/10/18 14:35",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "716",
-      "recommendCount": "1358",
-      "title": "[電競] 2025 World Championship - 瑞士制 Day4",
-      "link": "/bbs/LoL/M.1760771173.A.7FA",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/10/18 07:06",
-      "imageUrl": "https://cache.pttweb.cc/imgur/B7hAqOs/s/a08008f2c363541eea08d1113197b9da"
     },
     {
       "recommendScore": "252",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/10/18 16:26",
       "imageUrl": "https://cache.pttweb.cc/imgur/BEfw0rM/s/83d45ccc963901d04d403a7b77b39b11"
+    },
+    {
+      "recommendScore": "-151",
+      "recommendCount": "319",
+      "title": "[討論] TS這賽制根本對全年第ㄧ不公平吧",
+      "link": "/bbs/Baseball/M.1760850325.A.034",
+      "author": "luckysmallsu",
+      "board": "Baseball",
+      "publishTime": "2025/10/19 05:05",
+      "imageUrl": ""
     }
   ]
 }
