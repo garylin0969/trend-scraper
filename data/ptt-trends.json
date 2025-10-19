@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-19T04:24:32.165Z",
+  "updated": "2025-10-19T04:38:13.695Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "107",
-      "recommendCount": "559",
+      "recommendScore": "109",
+      "recommendCount": "563",
       "title": "[新聞] 蕭美琴：我們已承諾在美投資 不僅台積電",
       "link": "/bbs/Stock/M.1760798149.A.509",
       "author": "rz2x",
@@ -164,6 +164,26 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/BEfw0rM/s/83d45ccc963901d04d403a7b77b39b11"
     },
     {
+      "recommendScore": "174",
+      "recommendCount": "512",
+      "title": "[新聞] 不甩新壽了?傳輝達同意「改用北士科T12」取代T17、T18",
+      "link": "/bbs/Gossiping/M.1760840808.A.D0E",
+      "author": "ohfly",
+      "board": "Gossiping",
+      "publishTime": "2025/10/19 02:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "79",
+      "recommendCount": "430",
+      "title": "[問卦] 只有我覺得長榮的班表真的還好嗎？",
+      "link": "/bbs/Gossiping/M.1760766920.A.5BD",
+      "author": "ray90910",
+      "board": "Gossiping",
+      "publishTime": "2025/10/18 05:55",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "152",
       "recommendCount": "269",
       "title": "[討論] 兄弟是不是休太久了 沒在狀況內？",
@@ -182,26 +202,6 @@
       "board": "Baseball",
       "publishTime": "2025/10/18 06:54",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "79",
-      "recommendCount": "429",
-      "title": "[問卦] 只有我覺得長榮的班表真的還好嗎？",
-      "link": "/bbs/Gossiping/M.1760766920.A.5BD",
-      "author": "ray90910",
-      "board": "Gossiping",
-      "publishTime": "2025/10/18 05:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "127",
-      "recommendCount": "520",
-      "title": "[新聞] 分析／缺乏戰功的「鄭主席」難服眾　藍委恐另立黨中央",
-      "link": "/bbs/Gossiping/M.1760793477.A.F6F",
-      "author": "DoncicInPTT",
-      "board": "Gossiping",
-      "publishTime": "2025/10/18 13:17",
-      "imageUrl": "https://cache.pttweb.cc/imgur/x3Q2z0E/s/9708aadeaaa740b0abb07ddffdd867a8"
     }
   ]
 }
