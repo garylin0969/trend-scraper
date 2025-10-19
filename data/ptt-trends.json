@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-19T14:27:49.678Z",
+  "updated": "2025-10-19T14:35:46.044Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -51,6 +51,16 @@
       "author": "ohfly",
       "board": "Gossiping",
       "publishTime": "2025/10/19 02:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "91",
+      "recommendCount": "699",
+      "title": "[轉播] 八下 樂天 2:1 兄弟 岳政華",
+      "link": "/bbs/Elephants/M.1760873682.A.35B",
+      "author": "bebtib",
+      "board": "Elephants",
+      "publishTime": "2025/10/19 11:34",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/18 16:26",
       "imageUrl": "https://cache.pttweb.cc/imgur/BEfw0rM/s/83d45ccc963901d04d403a7b77b39b11"
-    },
-    {
-      "recommendScore": "-157",
-      "recommendCount": "333",
-      "title": "[討論] TS這賽制根本對全年第ㄧ不公平吧",
-      "link": "/bbs/Baseball/M.1760850325.A.034",
-      "author": "luckysmallsu",
-      "board": "Baseball",
-      "publishTime": "2025/10/19 05:05",
-      "imageUrl": ""
     }
   ]
 }
