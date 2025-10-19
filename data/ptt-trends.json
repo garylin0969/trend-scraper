@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-19T06:47:06.727Z",
+  "updated": "2025-10-19T06:54:04.232Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "112",
-      "recommendCount": "591",
+      "recommendScore": "111",
+      "recommendCount": "595",
       "title": "[新聞] 蕭美琴：我們已承諾在美投資 不僅台積電",
       "link": "/bbs/Stock/M.1760798149.A.509",
       "author": "rz2x",
@@ -54,6 +54,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/B7hAqOs/s/a08008f2c363541eea08d1113197b9da"
     },
     {
+      "recommendScore": "252",
+      "recommendCount": "707",
+      "title": "[新聞] 不甩新壽了?傳輝達同意「改用北士科T12」取代T17、T18",
+      "link": "/bbs/Gossiping/M.1760840808.A.D0E",
+      "author": "ohfly",
+      "board": "Gossiping",
+      "publishTime": "2025/10/19 02:26",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "166",
       "recommendCount": "421",
       "title": "[新聞] 洪孟楷提鞭刑打詐！卓冠廷要國民黨「別打假球」：共諜也鞭刑支持嗎？",
@@ -61,16 +71,6 @@
       "author": "yukihira",
       "board": "Gossiping",
       "publishTime": "2025/10/18 08:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "250",
-      "recommendCount": "705",
-      "title": "[新聞] 不甩新壽了?傳輝達同意「改用北士科T12」取代T17、T18",
-      "link": "/bbs/Gossiping/M.1760840808.A.D0E",
-      "author": "ohfly",
-      "board": "Gossiping",
-      "publishTime": "2025/10/19 02:26",
       "imageUrl": ""
     },
     {
@@ -94,14 +94,24 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/g2Mhb59/s/97f3b528a35befd012d87f7e776995cc"
     },
     {
-      "recommendScore": "179",
-      "recommendCount": "619",
+      "recommendScore": "180",
+      "recommendCount": "620",
       "title": "[問卦] 台灣人花16萬買了北海道房子",
       "link": "/bbs/Gossiping/M.1760831467.A.298",
       "author": "cici950630",
       "board": "Gossiping",
       "publishTime": "2025/10/18 23:51",
       "imageUrl": "https://cache.pttweb.cc/imgur/wkxUGXn/s/99d23661412d6285d879ad5f37d621c6"
+    },
+    {
+      "recommendScore": "245",
+      "recommendCount": "541",
+      "title": "[討論] 統一獅不考慮出走台南嗎？",
+      "link": "/bbs/Baseball/M.1760848840.A.D2A",
+      "author": "access",
+      "board": "Baseball",
+      "publishTime": "2025/10/19 04:40",
+      "imageUrl": ""
     },
     {
       "recommendScore": "234",
@@ -114,28 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "241",
-      "recommendCount": "531",
-      "title": "[討論] 統一獅不考慮出走台南嗎？",
-      "link": "/bbs/Baseball/M.1760848840.A.D2A",
-      "author": "access",
-      "board": "Baseball",
-      "publishTime": "2025/10/19 04:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-119",
-      "recommendCount": "394",
-      "title": "[情報] 古林降板",
-      "link": "/bbs/Baseball/M.1760852969.A.C28",
-      "author": "kt2003",
-      "board": "Baseball",
-      "publishTime": "2025/10/19 05:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "174",
-      "recommendCount": "447",
+      "recommendScore": "182",
+      "recommendCount": "458",
       "title": "[新聞] 韓國OL嫌「台灣男生超臭」 網友反擊：熱帶國家誰不流汗？",
       "link": "/bbs/Gossiping/M.1760845826.A.C21",
       "author": "b8103033",
@@ -144,8 +134,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "209",
-      "recommendCount": "440",
+      "recommendScore": "-120",
+      "recommendCount": "399",
+      "title": "[情報] 古林降板",
+      "link": "/bbs/Baseball/M.1760852969.A.C28",
+      "author": "kt2003",
+      "board": "Baseball",
+      "publishTime": "2025/10/19 05:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "208",
+      "recommendCount": "441",
       "title": "[討論] 跟政黑道歉,照約定退出2個月",
       "link": "/bbs/HatePolitics/M.1760782017.A.456",
       "author": "doig",
@@ -184,24 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "102",
-      "recommendCount": "414",
+      "recommendScore": "169",
+      "recommendCount": "531",
+      "title": "[討論] 不給古林勝投資格理由？",
+      "link": "/bbs/Baseball/M.1760853087.A.DA9",
+      "author": "kech9111",
+      "board": "Baseball",
+      "publishTime": "2025/10/19 05:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "101",
+      "recommendCount": "415",
       "title": "[新聞] 鄭麗文掌舵國民黨 民進黨士氣大振：有利2026選情",
       "link": "/bbs/Gossiping/M.1760804796.A.C34",
       "author": "godofsex",
       "board": "Gossiping",
       "publishTime": "2025/10/18 16:26",
       "imageUrl": "https://cache.pttweb.cc/imgur/BEfw0rM/s/83d45ccc963901d04d403a7b77b39b11"
-    },
-    {
-      "recommendScore": "168",
-      "recommendCount": "299",
-      "title": "[新聞] 「原始級巨獸」現蹤台南大排！全網嚇傻：變異了　震撼畫面曝",
-      "link": "/bbs/Gossiping/M.1760827443.A.D14",
-      "author": "Workforme",
-      "board": "Gossiping",
-      "publishTime": "2025/10/18 22:44",
-      "imageUrl": ""
     }
   ]
 }
