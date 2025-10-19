@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-19T04:46:37.782Z",
+  "updated": "2025-10-19T04:53:45.139Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "448",
-      "recommendCount": "584",
+      "recommendScore": "449",
+      "recommendCount": "586",
       "title": "[金鐘] 戲劇節目女主角獎",
       "link": "/bbs/Golden-Award/M.1760800563.A.4FA",
       "author": "lgng66133",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "109",
-      "recommendCount": "565",
+      "recommendScore": "110",
+      "recommendCount": "568",
       "title": "[新聞] 蕭美琴：我們已承諾在美投資 不僅台積電",
       "link": "/bbs/Stock/M.1760798149.A.509",
       "author": "rz2x",
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "160",
-      "recommendCount": "554",
+      "recommendCount": "560",
       "title": "[問卦] 台灣人花16萬買了北海道房子",
       "link": "/bbs/Gossiping/M.1760831467.A.298",
       "author": "cici950630",
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "195",
+      "recommendCount": "555",
+      "title": "[新聞] 不甩新壽了?傳輝達同意「改用北士科T12」取代T17、T18",
+      "link": "/bbs/Gossiping/M.1760840808.A.D0E",
+      "author": "ohfly",
+      "board": "Gossiping",
+      "publishTime": "2025/10/19 02:26",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-97",
       "recommendCount": "313",
       "title": "[新聞] 鄭麗文黨主席選票大幅領先　王婉諭：中國已正式拿下國民黨",
@@ -144,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "186",
-      "recommendCount": "539",
-      "title": "[新聞] 不甩新壽了?傳輝達同意「改用北士科T12」取代T17、T18",
-      "link": "/bbs/Gossiping/M.1760840808.A.D0E",
-      "author": "ohfly",
-      "board": "Gossiping",
-      "publishTime": "2025/10/19 02:26",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "99",
       "recommendCount": "404",
       "title": "[新聞] 鄭麗文掌舵國民黨 民進黨士氣大振：有利2026選情",
@@ -162,6 +162,16 @@
       "board": "Gossiping",
       "publishTime": "2025/10/18 16:26",
       "imageUrl": "https://cache.pttweb.cc/imgur/BEfw0rM/s/83d45ccc963901d04d403a7b77b39b11"
+    },
+    {
+      "recommendScore": "161",
+      "recommendCount": "285",
+      "title": "[新聞] 「原始級巨獸」現蹤台南大排！全網嚇傻：變異了　震撼畫面曝",
+      "link": "/bbs/Gossiping/M.1760827443.A.D14",
+      "author": "Workforme",
+      "board": "Gossiping",
+      "publishTime": "2025/10/18 22:44",
+      "imageUrl": ""
     },
     {
       "recommendScore": "79",
@@ -191,16 +201,6 @@
       "author": "zaibright",
       "board": "Baseball",
       "publishTime": "2025/10/18 10:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "187",
-      "recommendCount": "341",
-      "title": "[新聞] 兄弟小心！樂天G1打線出奇招 大物新秀初先發",
-      "link": "/bbs/Baseball/M.1760770497.A.4EB",
-      "author": "micheal59",
-      "board": "Baseball",
-      "publishTime": "2025/10/18 06:54",
       "imageUrl": ""
     }
   ]
