@@ -1,18 +1,8 @@
 {
-  "updated": "2025-10-20T11:34:38.961Z",
+  "updated": "2025-10-20T11:43:44.691Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "458",
-      "recommendCount": "640",
-      "title": "[情報] 中信兄弟大中計",
-      "link": "/bbs/Baseball/M.1760873850.A.D17",
-      "author": "gg36967",
-      "board": "Baseball",
-      "publishTime": "2025/10/19 11:37",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "466",
       "recommendCount": "803",
@@ -71,16 +61,6 @@
       "author": "cheryl89531",
       "board": "Stock",
       "publishTime": "2025/10/20 03:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "92",
-      "recommendCount": "702",
-      "title": "[轉播] 八下 樂天 2:1 兄弟 岳政華",
-      "link": "/bbs/Elephants/M.1760873682.A.35B",
-      "author": "bebtib",
-      "board": "Elephants",
-      "publishTime": "2025/10/19 11:34",
       "imageUrl": ""
     },
     {
@@ -201,6 +181,26 @@
       "author": "words2012",
       "board": "Gossiping",
       "publishTime": "2025/10/19 19:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "184",
+      "recommendCount": "469",
+      "title": "[問題] 怎麼很多人在怪罪中信的打擊教練莎拉？",
+      "link": "/bbs/Baseball/M.1760925825.A.0E5",
+      "author": "teramars",
+      "board": "Baseball",
+      "publishTime": "2025/10/20 02:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "164",
+      "recommendCount": "438",
+      "title": "[新聞] 輝達總部卡關！新壽喊話「不收市府一毛錢」盼直接談",
+      "link": "/bbs/Gossiping/M.1760875051.A.673",
+      "author": "Waitaha",
+      "board": "Gossiping",
+      "publishTime": "2025/10/19 11:57",
       "imageUrl": ""
     }
   ]
