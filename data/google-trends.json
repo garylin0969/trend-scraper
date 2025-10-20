@@ -1,40 +1,45 @@
 {
-  "updated": "2025-10-20T10:10:14.821Z",
+  "updated": "2025-10-20T10:41:02.985Z",
   "trends": [
+    {
+      "googleTrend": "aws",
+      "searchVolume": "5,000+",
+      "started": "3 小時前"
+    },
     {
       "googleTrend": "大湖里",
       "searchVolume": "5,000+",
-      "started": "2 小時前"
+      "started": "3 小時前"
     },
     {
       "googleTrend": "canva當機",
       "searchVolume": "5,000+",
-      "started": "2 小時前"
+      "started": "3 小時前"
     },
     {
       "googleTrend": "陳光前",
       "searchVolume": "1,000+",
-      "started": "2 小時前"
+      "started": "3 小時前"
+    },
+    {
+      "googleTrend": "10/21停班停課",
+      "searchVolume": "1,000+",
+      "started": "1 小時前"
     },
     {
       "googleTrend": "蔣萬安",
       "searchVolume": "500+",
-      "started": "2 小時前"
+      "started": "3 小時前"
     },
     {
       "googleTrend": "npb",
       "searchVolume": "500+",
-      "started": "20 分鐘前"
+      "started": "50 分鐘前"
     },
     {
-      "googleTrend": "docker",
-      "searchVolume": "200+",
-      "started": "1 小時前"
-    },
-    {
-      "googleTrend": "越南股市",
+      "googleTrend": "日職",
       "searchVolume": "500+",
-      "started": "2 小時前"
+      "started": "40 分鐘前"
     },
     {
       "googleTrend": "李聖傑",
@@ -42,33 +47,43 @@
       "started": "1 小時前"
     },
     {
-      "googleTrend": "韋禮加",
-      "searchVolume": "200+",
-      "started": "30 分鐘前"
-    },
-    {
       "googleTrend": "美洲蟑螂",
-      "searchVolume": "100+",
-      "started": "40 分鐘前"
-    },
-    {
-      "googleTrend": "日職",
       "searchVolume": "200+",
-      "started": "10 分鐘前"
+      "started": "1 小時前"
     },
     {
-      "googleTrend": "員山子分洪道",
+      "googleTrend": "docker",
       "searchVolume": "200+",
       "started": "2 小時前"
     },
     {
-      "googleTrend": "中央",
+      "googleTrend": "三鶯線",
+      "searchVolume": "200+",
+      "started": "3 小時前"
+    },
+    {
+      "googleTrend": "韋禮加",
+      "searchVolume": "200+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "王丹",
+      "searchVolume": "100+",
+      "started": "30 分鐘前"
+    },
+    {
+      "googleTrend": "處置股",
       "searchVolume": "100+",
       "started": "20 分鐘前"
     },
     {
-      "googleTrend": "文化大學停課",
+      "googleTrend": "越南股市",
       "searchVolume": "500+",
+      "started": "3 小時前"
+    },
+    {
+      "googleTrend": "員山子分洪道",
+      "searchVolume": "200+",
       "started": "2 小時前"
     },
     {
@@ -82,14 +97,9 @@
       "started": "3 小時前"
     },
     {
-      "googleTrend": "三鶯線",
-      "searchVolume": "200+",
-      "started": "3 小時前"
-    },
-    {
-      "googleTrend": "太魯閣大橋",
+      "googleTrend": "中央",
       "searchVolume": "100+",
-      "started": "3 小時前"
+      "started": "50 分鐘前"
     }
   ]
 }
