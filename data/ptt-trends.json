@@ -1,11 +1,11 @@
 {
-  "updated": "2025-10-20T23:34:52.004Z",
+  "updated": "2025-10-20T23:44:03.579Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "349",
-      "recommendCount": "970",
+      "recommendScore": "348",
+      "recommendCount": "972",
       "title": "[爆卦] 韓媒震驚報導！台灣總統、市長應援BP",
       "link": "/bbs/Gossiping/M.1760956488.A.5AF",
       "author": "Tsuzichen",
@@ -34,8 +34,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/J3Gtd8q/s/8d935e7fd4cf55d0edd01a54f2db1b31"
     },
     {
-      "recommendScore": "360",
-      "recommendCount": "872",
+      "recommendScore": "361",
+      "recommendCount": "873",
       "title": "[新聞] 高院法官解除監控讓鍾文智跑了！　監察院彈劾",
       "link": "/bbs/Gossiping/M.1760947242.A.60B",
       "author": "jeff0025",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "247",
-      "recommendCount": "489",
+      "recommendScore": "249",
+      "recommendCount": "491",
       "title": "[新聞] 林郁婷全運會女子拳擊拚6連霸　首場打到對手棄賽",
       "link": "/bbs/Gossiping/M.1760958499.A.123",
       "author": "GOD5566GOD",
@@ -124,8 +124,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "141",
+      "recommendCount": "447",
+      "title": "[問卦] 我想問對岸都要十五五規劃了。台灣呢？",
+      "link": "/bbs/Gossiping/M.1760966915.A.2FC",
+      "author": "kauosong",
+      "board": "Gossiping",
+      "publishTime": "2025/10/20 13:28",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "225",
-      "recommendCount": "375",
+      "recommendCount": "376",
       "title": "[問卦] 近10年各縣市「颱風假」天數曝光！ 冠",
       "link": "/bbs/Gossiping/M.1760962535.A.408",
       "author": "fhuocrkt",
@@ -141,16 +151,6 @@
       "author": "loechen",
       "board": "Gossiping",
       "publishTime": "2025/10/20 03:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "140",
-      "recommendCount": "432",
-      "title": "[問卦] 我想問對岸都要十五五規劃了。台灣呢？",
-      "link": "/bbs/Gossiping/M.1760966915.A.2FC",
-      "author": "kauosong",
-      "board": "Gossiping",
-      "publishTime": "2025/10/20 13:28",
       "imageUrl": ""
     },
     {
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "144",
+      "recommendCount": "407",
+      "title": "[請益] 認真問，股票到底要怎樣才會賺錢",
+      "link": "/bbs/Stock/M.1760973919.A.629",
+      "author": "bubblebeauty",
+      "board": "Stock",
+      "publishTime": "2025/10/20 15:25",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "154",
       "recommendCount": "384",
       "title": "[新聞] 北部某醫院爆「心臟未停」摘器官！",
@@ -191,16 +201,6 @@
       "author": "guido",
       "board": "Gossiping",
       "publishTime": "2025/10/20 01:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "270",
-      "recommendCount": "367",
-      "title": "[情報] CPBL台灣大賽 GAME3 先發投手",
-      "link": "/bbs/Baseball/M.1760949113.A.139",
-      "author": "wewe0403",
-      "board": "Baseball",
-      "publishTime": "2025/10/20 08:31",
       "imageUrl": ""
     }
   ]
