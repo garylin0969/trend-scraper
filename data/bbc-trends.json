@@ -1,10 +1,10 @@
 {
-  "updated": "2025-10-20T05:22:41.588Z",
+  "updated": "2025-10-20T05:47:25.453Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-10-20T05:22:33.000Z",
+    "lastBuildDate": "2025-10-20T05:47:13.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -24,6 +24,14 @@
       "pubDate": "2025-10-20T00:22:13.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c4gpz999pkvo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/39bf/live/f9392650-ac62-11f0-aa13-0b0479f6f42a.jpg"
+    },
+    {
+      "title": "從「台獨」到「親中」：鄭麗文當選國民黨主席的啟示",
+      "description": "55歲的鄭麗文以黑馬姿態當選，這位學運出身、曾主張台灣獨立的前民進黨員，如今代表著國民黨的「戰鬥派」和世代交替，以及黨內「非中華民國派」勢力的崛起，外界也關注其「親中」立場將如何牽動兩岸關係和台灣政治。\n",
+      "link": "https://www.bbc.com/zhongwen/articles/c993yr5r8m4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-20T05:32:46.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c993yr5r8m4o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d340/live/04a4b130-ad26-11f0-ae90-93f2490ae321.png"
     },
     {
       "title": "在美國經濟腹地感受中美激烈對峙的一周  「這是中國在對決全世界」",
@@ -46,7 +54,7 @@
       "description": "楊振寧被視為二十世紀最具影響力的物理學家之一。",
       "link": "https://www.bbc.com/zhongwen/articles/c364er077yyo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-10-19T02:19:33.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c364er077yyo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c364er077yyo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/04dc/live/df3e57e0-ac88-11f0-b2a1-6f537f66f9aa.jpg"
     },
     {
@@ -104,14 +112,6 @@
       "pubDate": "2025-10-16T04:08:43.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c891l483y19o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ec15/live/e6fa7e50-aa35-11f0-aa13-0b0479f6f42a.jpg"
-    },
-    {
-      "title": "美英聯手查獲太子集團140億美元比特幣，幕後主使陳志涉「龐大電詐帝國」",
-      "description": "美國助理司法部長將太子集團描述為「建立在人類苦難之上的犯罪集團」。",
-      "link": "https://www.bbc.com/zhongwen/articles/c5yl31g7gdpo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-16T02:53:10.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5yl31g7gdpo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a47b/live/749e70c0-aa33-11f0-ba75-093eca1ac29b.jpg"
     },
     {
       "title": "中國的「五年規劃」是甚麼？這份政策藍圖如何影響國家走向？",
@@ -234,6 +234,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/49d4/live/19a047f0-a0fd-11f0-92db-77261a15b9d2.jpg"
     },
     {
+      "title": "美英聯手查獲太子集團140億美元比特幣，幕後主使陳志涉「龐大電詐帝國」",
+      "description": "美國助理司法部長將太子集團描述為「建立在人類苦難之上的犯罪集團」。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5yl31g7gdpo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-16T02:53:10.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5yl31g7gdpo/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a47b/live/749e70c0-aa33-11f0-ba75-093eca1ac29b.jpg"
+    },
+    {
       "title": "美中關係定調難，習近平特朗普的「主導權測試」還在持續",
       "description": "最新一輪關稅風波是否會影響即將在韓國舉行的APEC峰會？習近平和特朗普似乎確定的會晤又被打上了問號。",
       "link": "https://www.bbc.com/zhongwen/articles/c891wzzvkxdo/trad?at_medium=RSS&at_campaign=rss",
@@ -264,14 +272,6 @@
       "pubDate": "2025-09-09T03:28:42.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/clyjye58eygo/trad#5",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6f88/live/57925af0-8d1e-11f0-96b1-1dd4e35554aa.jpg"
-    },
-    {
-      "title": "預製菜之爭：民眾和餐飲專家在關心什麼？",
-      "description": "羅永浩的一則微博引爆討論，在過去一周時間裡，中國連鎖餐飲品牌西貝被指使用預制菜，身陷輿論風波，預製菜再次成為中國討論中心。中國民眾和餐飲專家討論預製菜時，他們在討論什麼？預製菜真的不可信任嗎？",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gz89317e4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-09-18T08:51:43.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gz89317e4o/trad#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc33/live/db77fa10-946b-11f0-bc01-a3a35aa734ac.jpg"
     },
     {
       "title": "AI機器人「聽見我、陪伴我、回應我」，但它會誘導人自殺嗎？",
