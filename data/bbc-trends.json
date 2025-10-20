@@ -1,22 +1,14 @@
 {
-  "updated": "2025-10-19T23:47:42.744Z",
+  "updated": "2025-10-20T00:40:21.195Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-10-19T23:47:32.000Z",
+    "lastBuildDate": "2025-10-20T00:40:16.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
-    {
-      "title": "華裔諾貝爾獎得主、物理學家楊振寧逝世，享年103歲",
-      "description": "楊振寧被視為二十世紀最具影響力的物理學家之一。",
-      "link": "https://www.bbc.com/zhongwen/articles/c364er077yyo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-19T02:19:33.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c364er077yyo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/04dc/live/df3e57e0-ac88-11f0-b2a1-6f537f66f9aa.jpg"
-    },
     {
       "title": "中共四中全會：審議「十五五」規劃，「整肅」高層及歷史角色等幾大看點",
       "description": "此次會議被視為觀察中國政治走向與政策調整的重要窗口。",
@@ -26,12 +18,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/234d/live/9919f8e0-a351-11f0-92db-77261a15b9d2.jpg"
     },
     {
-      "title": "反特朗普集會席捲美國，「不要國王」示威吸引大批民群",
-      "description": "共和黨人稱這次反對美國總統的示威活動為「仇恨美國集會」，雖然喧鬧但卻和平。",
-      "link": "https://www.bbc.com/zhongwen/articles/c8x1jwqjweeo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-19T05:45:36.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c8x1jwqjweeo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2e1e/live/d99353d0-ac8e-11f0-ba75-093eca1ac29b.jpg"
+      "title": "中共「十五五規劃」：習近平「全面主掌中國經濟後第一個五年發展藍圖」的四個看點",
+      "description": "BBC中文訪問不同背景的學者及分析人士，剖析中共領導人習近平如何透過「規劃」回應不同困境，估算對國內外造成什麼影響。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gpz999pkvo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-20T00:22:13.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gpz999pkvo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/39bf/live/f9392650-ac62-11f0-aa13-0b0479f6f42a.jpg"
+    },
+    {
+      "title": "華裔諾貝爾獎得主、物理學家楊振寧逝世，享年103歲",
+      "description": "楊振寧被視為二十世紀最具影響力的物理學家之一。",
+      "link": "https://www.bbc.com/zhongwen/articles/c364er077yyo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-19T02:19:33.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c364er077yyo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/04dc/live/df3e57e0-ac88-11f0-b2a1-6f537f66f9aa.jpg"
     },
     {
       "title": "普京專機可以穿越歐盟領空飛往布達佩斯嗎？",
@@ -48,6 +48,14 @@
       "pubDate": "2025-10-17T00:02:31.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cjek039jdkqo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2d49/live/ae4cadf0-aaec-11f0-83de-033e77bcbaac.jpg"
+    },
+    {
+      "title": "反特朗普集會席捲美國，「不要國王」示威吸引大批民群",
+      "description": "共和黨人稱這次反對美國總統的示威活動為「仇恨美國集會」，雖然喧鬧但卻和平。",
+      "link": "https://www.bbc.com/zhongwen/articles/c8x1jwqjweeo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-19T05:45:36.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c8x1jwqjweeo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2e1e/live/d99353d0-ac8e-11f0-ba75-093eca1ac29b.jpg"
     },
     {
       "title": "香港立法會選舉：棄選潮下「換血」有準則？誰是接棒者？",
@@ -72,14 +80,6 @@
       "pubDate": "2025-10-17T09:25:14.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ckg4zwe0kq2o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e731/live/846075c0-aafc-11f0-b1ce-8533d05d843d.jpg"
-    },
-    {
-      "title": "在「非常有建設性」的通話後，特朗普稱將在匈牙利與普京會面",
-      "description": "美國總統特朗普表示，在與俄羅斯總統普京週四通話後取得「重大進展」，雙方同意在匈牙利進行面對面會談。\n",
-      "link": "https://www.bbc.com/zhongwen/articles/c205gzpx0n9o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-17T05:22:06.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c205gzpx0n9o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ea26/live/4896a750-ab0e-11f0-aa13-0b0479f6f42a.jpg"
     },
     {
       "title": "中國逮捕30名基督徒，教會擔心這是更大規模鎮壓的開端",
