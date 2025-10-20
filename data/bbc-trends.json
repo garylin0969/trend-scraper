@@ -1,10 +1,10 @@
 {
-  "updated": "2025-10-20T06:24:16.061Z",
+  "updated": "2025-10-20T06:52:17.446Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-10-20T06:24:08.000Z",
+    "lastBuildDate": "2025-10-20T06:52:05.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -42,11 +42,19 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c04d/live/314ba300-a9e9-11f0-8f02-15a9bbd0334e.jpg"
     },
     {
+      "title": "阿聯酋貨機香港降落後衝出跑道墜海　兩機場員工死亡",
+      "description": "一架阿聯酋航空租用的空載貨機在香港機場降落後衝出跑道，將一輛保安巡邏車撞進海裏，車上兩人死亡。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5ypvg9z8gqo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-20T06:35:10.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5ypvg9z8gqo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc3f/live/ca65c050-ad6a-11f0-aa13-0b0479f6f42a.jpg"
+    },
+    {
       "title": "盧浮宮竊案：失竊的珍寶、逃逸途中掉落的皇冠和已知所有細節",
       "description": "巴黎這座世界知名的博物館在週日關閉，因為一群蒙面劫匪洗劫了其中一個展廳。",
       "link": "https://www.bbc.com/zhongwen/articles/cdxrenz5w1po/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-10-20T03:50:13.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cdxrenz5w1po/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cdxrenz5w1po/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c167/live/a7fd4ca0-acec-11f0-b2a1-6f537f66f9aa.jpg"
     },
     {
@@ -96,14 +104,6 @@
       "pubDate": "2025-10-17T06:38:32.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c14plpy2kjeo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1bcc/live/661124d0-ab23-11f0-93f3-35cf52b1b510.jpg"
-    },
-    {
-      "title": "台北車站性侵案：香港女遊客遭公然性侵十分鐘無人制止，「公共冷漠」引關注",
-      "description": "案發時間地點人潮眾多，期間卻無人介入制止，直到一名馬來西亞籍旅客發現並委託友人報案，方有警員到場處理，其後以「乘機性交」等罪名逮捕疑犯，事件引發外界對台灣「治安死角」和「公共冷漠」的質疑。",
-      "link": "https://www.bbc.com/zhongwen/articles/cg5178lyg99o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-17T04:47:52.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cg5178lyg99o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f0a5/live/012112a0-ab0b-11f0-be63-45b6f2bc4402.jpg"
     },
     {
       "title": "中國逮捕30名基督徒，教會擔心這是更大規模鎮壓的開端",
@@ -202,12 +202,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2c9b/live/a51c2ac0-9869-11f0-822d-b77ab3166e1f.jpg"
     },
     {
-      "title": "台灣高鐵「寧靜車廂」為何引發「厭童」爭議",
-      "description": "有台灣民眾表示，因同行嬰孩哭鬧、說話，遭列車人員舉牌提醒，引發外界質疑「寧靜車廂」對兒童不友善，甚至助長「厭童」氛圍。",
-      "link": "https://www.bbc.com/zhongwen/articles/c2drg6g4p91o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-15T09:55:29.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c2drg6g4p91o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d57d/live/f79e07e0-a8c8-11f0-b0df-05ea5e3542cc.jpg"
+      "title": "台北車站性侵案：香港女遊客遭公然性侵十分鐘無人制止，「公共冷漠」引關注",
+      "description": "案發時間地點人潮眾多，期間卻無人介入制止，直到一名馬來西亞籍旅客發現並委託友人報案，方有警員到場處理，其後以「乘機性交」等罪名逮捕疑犯，事件引發外界對台灣「治安死角」和「公共冷漠」的質疑。",
+      "link": "https://www.bbc.com/zhongwen/articles/cg5178lyg99o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-17T04:47:52.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cg5178lyg99o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f0a5/live/012112a0-ab0b-11f0-be63-45b6f2bc4402.jpg"
     },
     {
       "title": "雙十國慶：賴清德推「台灣之盾」防空系統、淡化兩岸論述，釋放哪些政治訊號？",
@@ -242,6 +242,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a47b/live/749e70c0-aa33-11f0-ba75-093eca1ac29b.jpg"
     },
     {
+      "title": "台灣高鐵「寧靜車廂」為何引發「厭童」爭議",
+      "description": "有台灣民眾表示，因同行嬰孩哭鬧、說話，遭列車人員舉牌提醒，引發外界質疑「寧靜車廂」對兒童不友善，甚至助長「厭童」氛圍。",
+      "link": "https://www.bbc.com/zhongwen/articles/c2drg6g4p91o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-15T09:55:29.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c2drg6g4p91o/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d57d/live/f79e07e0-a8c8-11f0-b0df-05ea5e3542cc.jpg"
+    },
+    {
       "title": "美中關係定調難，習近平特朗普的「主導權測試」還在持續",
       "description": "最新一輪關稅風波是否會影響即將在韓國舉行的APEC峰會？習近平和特朗普似乎確定的會晤又被打上了問號。",
       "link": "https://www.bbc.com/zhongwen/articles/c891wzzvkxdo/trad?at_medium=RSS&at_campaign=rss",
@@ -256,14 +264,6 @@
       "pubDate": "2025-10-07T03:45:29.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cz08zex8m0jo/trad#5",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1775/live/5d5515a0-a325-11f0-a0e6-8d759cfcece2.jpg"
-    },
-    {
-      "title": "緬北明家的崛起與覆滅  11人被判死刑後電詐瘟疫能否根除",
-      "description": "緬甸北部果敢地區明氏家族電詐集團39人被中國法院判刑，其中明珍珍等11人死刑。BBC中文盤點這次判決已知與未知的訊息。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gk4n9n95lo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-01T02:02:22.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gk4n9n95lo/trad#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/21f5/live/6a5a7340-9e6a-11f0-9a21-61484cdea1e3.jpg"
     },
     {
       "title": "中國進入網貸世代：誰在貸款？誰在放貸？誰能約束？",
