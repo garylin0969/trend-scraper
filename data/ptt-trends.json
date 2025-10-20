@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-20T15:46:50.422Z",
+  "updated": "2025-10-20T15:53:55.528Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "295",
+      "recommendCount": "478",
+      "title": "[新聞] 若台北市21日停班停課！G3順延一天且無法在大巨蛋進行",
+      "link": "/bbs/Baseball/M.1760955535.A.35A",
+      "author": "DoncicInPTT",
+      "board": "Baseball",
+      "publishTime": "2025/10/20 10:18",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "188",
       "recommendCount": "441",
       "title": "[新聞] 川普飆罵澤倫斯基！　施壓烏克蘭吞辱終戰：普丁想要就能毀了你",
@@ -151,16 +161,6 @@
       "author": "anna1203",
       "board": "Gossiping",
       "publishTime": "2025/10/19 23:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "290",
-      "recommendCount": "471",
-      "title": "[新聞] 若台北市21日停班停課！G3順延一天且無法在大巨蛋進行",
-      "link": "/bbs/Baseball/M.1760955535.A.35A",
-      "author": "DoncicInPTT",
-      "board": "Baseball",
-      "publishTime": "2025/10/20 10:18",
       "imageUrl": ""
     },
     {
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "266",
-      "recommendCount": "362",
+      "recommendScore": "268",
+      "recommendCount": "365",
       "title": "[情報] CPBL台灣大賽 GAME3 先發投手",
       "link": "/bbs/Baseball/M.1760949113.A.139",
       "author": "wewe0403",
