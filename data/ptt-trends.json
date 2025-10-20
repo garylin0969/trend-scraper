@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-20T07:37:33.612Z",
+  "updated": "2025-10-20T07:44:11.562Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "492",
+      "recommendCount": "527",
+      "title": "Re: [閒聊] 靠抽籤打滿規避中韓然後晉級",
+      "link": "/bbs/LoL/M.1760932658.A.953",
+      "author": "AdmiralAdudu",
+      "board": "LoL",
+      "publishTime": "2025/10/20 03:57",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "337",
-      "recommendCount": "703",
+      "recommendCount": "704",
       "title": "[新聞] 獨家／BLACKPINK今晚光速離台！再派專機接送　保姆車維安坐鎮",
       "link": "/bbs/Gossiping/M.1760885261.A.6E4",
       "author": "Alberta99170",
@@ -34,28 +44,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/nFtgvUo/s/8cee0907bdabc3c9fdd9b314b5a04017"
     },
     {
-      "recommendScore": "481",
-      "recommendCount": "516",
-      "title": "Re: [閒聊] 靠抽籤打滿規避中韓然後晉級",
-      "link": "/bbs/LoL/M.1760932658.A.953",
-      "author": "AdmiralAdudu",
-      "board": "LoL",
-      "publishTime": "2025/10/20 03:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "142",
-      "recommendCount": "592",
-      "title": "[新聞] 蕭美琴證實台積電「生態系」也要赴美投資　網怒：台灣命脈都給了",
-      "link": "/bbs/Gossiping/M.1760859546.A.996",
-      "author": "wild2012",
-      "board": "Gossiping",
-      "publishTime": "2025/10/19 07:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "105",
-      "recommendCount": "607",
+      "recommendScore": "104",
+      "recommendCount": "608",
       "title": "[新聞] 德國生育率高於台灣 衛福部「西方取經」尋解",
       "link": "/bbs/Gossiping/M.1760893005.A.828",
       "author": "hoyumi",
@@ -95,7 +85,7 @@
     },
     {
       "recommendScore": "181",
-      "recommendCount": "485",
+      "recommendCount": "487",
       "title": "[新聞] 突破中國稀土鎖喉 台灣可採「城市採礦」",
       "link": "/bbs/Stock/M.1760931993.A.460",
       "author": "cheryl89531",
@@ -104,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "179",
-      "recommendCount": "502",
+      "recommendScore": "177",
+      "recommendCount": "506",
       "title": "[新聞] 網路屢傳「墾丁不如日本」掀風向戰 地方反擊假議題：報導偏頗製造對立",
       "link": "/bbs/Gossiping/M.1760927027.A.46D",
       "author": "fur",
@@ -174,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "79",
-      "recommendCount": "420",
+      "recommendScore": "81",
+      "recommendCount": "423",
       "title": "[新聞] 海鯤號進度延宕 顧立雄：當初設想太樂觀",
       "link": "/bbs/Gossiping/M.1760931166.A.1BE",
       "author": "loechen",
@@ -201,6 +191,16 @@
       "author": "XJY13",
       "board": "Gossiping",
       "publishTime": "2025/10/20 00:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "218",
+      "recommendCount": "382",
+      "title": "[閒聊] 認真討論CFO有機會過韓華嗎?",
+      "link": "/bbs/LoL/M.1760880947.A.175",
+      "author": "Awpmaiak",
+      "board": "LoL",
+      "publishTime": "2025/10/19 13:35",
       "imageUrl": ""
     }
   ]
