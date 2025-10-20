@@ -1,11 +1,11 @@
 {
-  "updated": "2025-10-20T11:53:52.813Z",
+  "updated": "2025-10-20T12:10:03.621Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "466",
-      "recommendCount": "803",
+      "recommendScore": "523",
+      "recommendCount": "903",
       "title": "[問卦] ☂雙北雨下到紫色了 有災情嗎☂",
       "link": "/bbs/Gossiping/M.1760934116.A.85B",
       "author": "seabox",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "339",
-      "recommendCount": "706",
+      "recommendScore": "340",
+      "recommendCount": "707",
       "title": "[新聞] 獨家／BLACKPINK今晚光速離台！再派專機接送　保姆車維安坐鎮",
       "link": "/bbs/Gossiping/M.1760885261.A.6E4",
       "author": "Alberta99170",
@@ -34,8 +34,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "106",
-      "recommendCount": "613",
+      "recommendScore": "262",
+      "recommendCount": "618",
+      "title": "[新聞] 高院法官解除監控讓鍾文智跑了！　監察院彈劾",
+      "link": "/bbs/Gossiping/M.1760947242.A.60B",
+      "author": "jeff0025",
+      "board": "Gossiping",
+      "publishTime": "2025/10/20 08:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "200",
+      "recommendCount": "563",
+      "title": "[新聞] 突破中國稀土鎖喉 台灣可採「城市採礦」",
+      "link": "/bbs/Stock/M.1760931993.A.460",
+      "author": "cheryl89531",
+      "board": "Stock",
+      "publishTime": "2025/10/20 03:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "115",
+      "recommendCount": "625",
       "title": "[新聞] 德國生育率高於台灣 衛福部「西方取經」尋解",
       "link": "/bbs/Gossiping/M.1760893005.A.828",
       "author": "hoyumi",
@@ -45,7 +65,7 @@
     },
     {
       "recommendScore": "248",
-      "recommendCount": "593",
+      "recommendCount": "595",
       "title": "[問卦] 只有我覺得現在是公然賣台嗎？",
       "link": "/bbs/Gossiping/M.1760884082.A.690",
       "author": "ray90910",
@@ -54,18 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "185",
-      "recommendCount": "507",
-      "title": "[新聞] 突破中國稀土鎖喉 台灣可採「城市採礦」",
-      "link": "/bbs/Stock/M.1760931993.A.460",
-      "author": "cheryl89531",
-      "board": "Stock",
-      "publishTime": "2025/10/20 03:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "399",
-      "recommendCount": "877",
+      "recommendScore": "406",
+      "recommendCount": "938",
       "title": "[討論] Jeter:大谷還不是GOAT",
       "link": "/bbs/Baseball/M.1760930634.A.42B",
       "author": "birdlover",
@@ -74,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "175",
-      "recommendCount": "515",
+      "recommendScore": "172",
+      "recommendCount": "519",
       "title": "[新聞] 網路屢傳「墾丁不如日本」掀風向戰 地方反擊假議題：報導偏頗製造對立",
       "link": "/bbs/Gossiping/M.1760927027.A.46D",
       "author": "fur",
@@ -84,13 +94,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "157",
-      "recommendCount": "449",
+      "recommendScore": "155",
+      "recommendCount": "454",
       "title": "[新聞] 台北輸了！台灣「國旅最夯」縣市換高雄",
       "link": "/bbs/Gossiping/M.1760920472.A.6A6",
       "author": "com2",
       "board": "Gossiping",
       "publishTime": "2025/10/20 00:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "237",
+      "recommendCount": "373",
+      "title": "[爆卦] 女神徐閉把中國製風扇當MIT賣割台派韭菜",
+      "link": "/bbs/Gossiping/M.1760886087.A.CD4",
+      "author": "stasis",
+      "board": "Gossiping",
+      "publishTime": "2025/10/19 15:01",
       "imageUrl": ""
     },
     {
@@ -104,38 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "227",
-      "recommendCount": "360",
-      "title": "[爆卦] 女神徐閉把中國製風扇當MIT賣割台派韭菜",
-      "link": "/bbs/Gossiping/M.1760886087.A.CD4",
-      "author": "stasis",
-      "board": "Gossiping",
-      "publishTime": "2025/10/19 15:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "110",
-      "recommendCount": "586",
-      "title": "[轉播] 九下 樂天 2:1 兄弟 江坤宇",
-      "link": "/bbs/Elephants/M.1760875038.A.32E",
-      "author": "bebtib",
-      "board": "Elephants",
-      "publishTime": "2025/10/19 11:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "184",
-      "recommendCount": "436",
-      "title": "[新聞] 川普飆罵澤倫斯基！　施壓烏克蘭吞辱終戰：普丁想要就能毀了你",
-      "link": "/bbs/Gossiping/M.1760916792.A.77A",
-      "author": "anna1203",
-      "board": "Gossiping",
-      "publishTime": "2025/10/19 23:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "85",
-      "recommendCount": "438",
+      "recommendScore": "86",
+      "recommendCount": "448",
       "title": "[新聞] 海鯤號進度延宕 顧立雄：當初設想太樂觀",
       "link": "/bbs/Gossiping/M.1760931166.A.1BE",
       "author": "loechen",
@@ -144,8 +134,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "261",
-      "recommendCount": "394",
+      "recommendScore": "186",
+      "recommendCount": "439",
+      "title": "[新聞] 川普飆罵澤倫斯基！　施壓烏克蘭吞辱終戰：普丁想要就能毀了你",
+      "link": "/bbs/Gossiping/M.1760916792.A.77A",
+      "author": "anna1203",
+      "board": "Gossiping",
+      "publishTime": "2025/10/19 23:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "264",
+      "recommendCount": "397",
       "title": "Re: [新聞] 男工作20年不升遷！50歲時「被現實打醒」後悔了：不應該這樣",
       "link": "/bbs/Gossiping/M.1760920404.A.BA8",
       "author": "XJY13",
@@ -155,7 +155,7 @@
     },
     {
       "recommendScore": "218",
-      "recommendCount": "382",
+      "recommendCount": "383",
       "title": "[閒聊] 認真討論CFO有機會過韓華嗎?",
       "link": "/bbs/LoL/M.1760880947.A.175",
       "author": "Awpmaiak",
@@ -164,8 +164,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "146",
-      "recommendCount": "368",
+      "recommendScore": "152",
+      "recommendCount": "414",
+      "title": "[新聞] 稱沒用藥水清光電板！立委秀證據打臉 經濟部：2個月內制定管制標準",
+      "link": "/bbs/Gossiping/M.1760940901.A.671",
+      "author": "poeta",
+      "board": "Gossiping",
+      "publishTime": "2025/10/20 06:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "149",
+      "recommendCount": "374",
       "title": "[新聞] 北部某醫院爆「心臟未停」摘器官！",
       "link": "/bbs/Gossiping/M.1760922791.A.70F",
       "author": "guido",
@@ -174,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "166",
-      "recommendCount": "458",
+      "recommendScore": "169",
+      "recommendCount": "465",
       "title": "[問卦] 20年前沒這麼嚴重,為啥這2年護理師跑光?",
       "link": "/bbs/Gossiping/M.1760901688.A.F3B",
       "author": "words2012",
@@ -185,22 +195,12 @@
     },
     {
       "recommendScore": "184",
-      "recommendCount": "469",
+      "recommendCount": "480",
       "title": "[問題] 怎麼很多人在怪罪中信的打擊教練莎拉？",
       "link": "/bbs/Baseball/M.1760925825.A.0E5",
       "author": "teramars",
       "board": "Baseball",
       "publishTime": "2025/10/20 02:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "164",
-      "recommendCount": "438",
-      "title": "[新聞] 輝達總部卡關！新壽喊話「不收市府一毛錢」盼直接談",
-      "link": "/bbs/Gossiping/M.1760875051.A.673",
-      "author": "Waitaha",
-      "board": "Gossiping",
-      "publishTime": "2025/10/19 11:57",
       "imageUrl": ""
     }
   ]
