@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-20T05:17:59.069Z",
+  "updated": "2025-10-20T05:30:32.029Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "98",
-      "recommendCount": "578",
+      "recommendCount": "580",
       "title": "[新聞] 德國生育率高於台灣 衛福部「西方取經」尋解",
       "link": "/bbs/Gossiping/M.1760893005.A.828",
       "author": "hoyumi",
@@ -94,8 +94,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/k5o3bG6/s/e7d7d870caf4452d334d3a79d4fd2514"
     },
     {
-      "recommendScore": "338",
-      "recommendCount": "736",
+      "recommendScore": "345",
+      "recommendCount": "748",
       "title": "[討論] Jeter:大谷還不是GOAT",
       "link": "/bbs/Baseball/M.1760930634.A.42B",
       "author": "birdlover",
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "277",
+      "recommendCount": "295",
+      "title": "Re: [閒聊] 靠抽籤打滿規避中韓然後晉級",
+      "link": "/bbs/LoL/M.1760932658.A.953",
+      "author": "AdmiralAdudu",
+      "board": "LoL",
+      "publishTime": "2025/10/20 03:57",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-120",
       "recommendCount": "406",
       "title": "[情報] 古林降板",
@@ -191,16 +201,6 @@
       "author": "Awpmaiak",
       "board": "LoL",
       "publishTime": "2025/10/19 13:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "185",
-      "recommendCount": "584",
-      "title": "[討論] 不給古林勝投資格理由？",
-      "link": "/bbs/Baseball/M.1760853087.A.DA9",
-      "author": "kech9111",
-      "board": "Baseball",
-      "publishTime": "2025/10/19 05:51",
       "imageUrl": ""
     }
   ]
