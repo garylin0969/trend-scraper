@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-21T03:12:52.932Z",
+  "updated": "2025-10-21T03:34:13.638Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "417",
-      "recommendCount": "965",
-      "title": "[討論] Jeter:大谷還不是GOAT",
-      "link": "/bbs/Baseball/M.1760930634.A.42B",
-      "author": "birdlover",
-      "board": "Baseball",
-      "publishTime": "2025/10/20 03:23",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "205",
       "recommendCount": "535",
       "title": "[新聞] 稱沒用藥水清光電板！立委秀證據打臉 經濟部：2個月內制定管制標準",
@@ -131,16 +121,6 @@
       "author": "fhuocrkt",
       "board": "Gossiping",
       "publishTime": "2025/10/20 12:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "88",
-      "recommendCount": "461",
-      "title": "[新聞] 海鯤號進度延宕 顧立雄：當初設想太樂觀",
-      "link": "/bbs/Gossiping/M.1760931166.A.1BE",
-      "author": "loechen",
-      "board": "Gossiping",
-      "publishTime": "2025/10/20 03:32",
       "imageUrl": ""
     },
     {
@@ -202,6 +182,26 @@
       "board": "Gossiping",
       "publishTime": "2025/10/20 08:20",
       "imageUrl": "https://cache.pttweb.cc/imgur/Ft0tZfp/s/d9c17b752ddbd8ef64baff5d7d725d6e"
+    },
+    {
+      "recommendScore": "163",
+      "recommendCount": "337",
+      "title": "[問題] 如何跟沒在看棒球的人解釋大谷的強",
+      "link": "/bbs/Baseball/M.1760942068.A.473",
+      "author": "warmsnow",
+      "board": "Baseball",
+      "publishTime": "2025/10/20 06:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "155",
+      "recommendCount": "336",
+      "title": "[新聞] 川普：不希望中國大陸跟我們玩稀土遊戲",
+      "link": "/bbs/Stock/M.1760941504.A.C3A",
+      "author": "justin531xx",
+      "board": "Stock",
+      "publishTime": "2025/10/20 06:25",
+      "imageUrl": ""
     }
   ]
 }
