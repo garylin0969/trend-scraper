@@ -1,22 +1,14 @@
 {
-  "updated": "2025-10-20T23:47:29.522Z",
+  "updated": "2025-10-21T00:37:35.820Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-10-20T23:47:14.000Z",
+    "lastBuildDate": "2025-10-21T00:37:23.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
-    {
-      "title": "中共四中全會：審議「十五五」規劃，「整肅」高層及歷史角色等幾大看點",
-      "description": "此次會議被視為觀察中國政治走向與政策調整的重要窗口。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn95wn518wgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-16T23:59:28.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn95wn518wgo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/234d/live/9919f8e0-a351-11f0-92db-77261a15b9d2.jpg"
-    },
     {
       "title": "中共「十五五規劃」：習近平「全面主掌中國經濟後第一個五年發展藍圖」的四個看點",
       "description": "BBC中文訪問不同背景的學者及分析人士，剖析中共領導人習近平如何透過「規劃」回應不同困境，估算對國內外造成什麼影響。",
@@ -24,6 +16,14 @@
       "pubDate": "2025-10-20T00:22:13.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c4gpz999pkvo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/39bf/live/f9392650-ac62-11f0-aa13-0b0479f6f42a.jpg"
+    },
+    {
+      "title": "中共四中全會：審議「十五五」規劃，「整肅」高層及歷史角色等幾大看點",
+      "description": "此次會議被視為觀察中國政治走向與政策調整的重要窗口。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn95wn518wgo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-16T23:59:28.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn95wn518wgo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/234d/live/9919f8e0-a351-11f0-92db-77261a15b9d2.jpg"
     },
     {
       "title": "從「台獨」到「親中」：鄭麗文當選國民黨主席的啟示",
@@ -34,19 +34,27 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d340/live/04a4b130-ad26-11f0-ae90-93f2490ae321.png"
     },
     {
-      "title": "在美國經濟腹地感受中美激烈對峙的一周  「這是中國在對決全世界」",
-      "description": "上週，在與國際貨幣基金組織的部長、銀行家和貿易談判代表進行了五天的交談後，BBC經濟事務編輯費薩爾·伊斯蘭對中美又一次對峙的前景進行了評估。",
-      "link": "https://www.bbc.com/zhongwen/articles/c8r05gn5y02o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-20T05:19:51.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c8r05gn5y02o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/65e2/live/c9e00020-ac5a-11f0-bf12-67c1f4bdac34.jpg"
+      "title": "我為什麼在14歲就長白髮了，還有辦法逆轉嗎？",
+      "description": "醫生指出，如果白髮是由缺乏營養而引起，那麼透過補充營養也可能出現逆轉效果。",
+      "link": "https://www.bbc.com/zhongwen/articles/c9d65g26eyjo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-21T00:21:34.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c9d65g26eyjo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/57c0/live/94145f70-a9a0-11f0-92db-77261a15b9d2.jpg"
+    },
+    {
+      "title": "為什麼我會愛上一本名為《雖然想死，但還是想吃辣炒年糕》的書",
+      "description": "這本書透過反思許多人都能體會到的淡淡憂鬱，教導我們欣賞生活中微小的快樂。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwyp1n3rjnyo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-21T00:15:15.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwyp1n3rjnyo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3224/live/a155fe60-ac1a-11f0-ba75-093eca1ac29b.jpg"
     },
     {
       "title": "阿聯酋貨機香港降落後衝出跑道墜海　兩機場員工死亡",
       "description": "一架阿聯酋航空租用的空載貨機在香港機場降落後衝出跑道，將一輛保安巡邏車撞進海裏，車上兩人死亡。",
       "link": "https://www.bbc.com/zhongwen/articles/c5ypvg9z8gqo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-10-20T06:35:10.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5ypvg9z8gqo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5ypvg9z8gqo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc3f/live/ca65c050-ad6a-11f0-aa13-0b0479f6f42a.jpg"
     },
     {
@@ -66,6 +74,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2d49/live/ae4cadf0-aaec-11f0-83de-033e77bcbaac.jpg"
     },
     {
+      "title": "在美國經濟腹地感受中美激烈對峙的一周  「這是中國在對決全世界」",
+      "description": "上週，在與國際貨幣基金組織的部長、銀行家和貿易談判代表進行了五天的交談後，BBC經濟事務編輯費薩爾·伊斯蘭對中美又一次對峙的前景進行了評估。",
+      "link": "https://www.bbc.com/zhongwen/articles/c8r05gn5y02o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-20T05:19:51.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c8r05gn5y02o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/65e2/live/c9e00020-ac5a-11f0-bf12-67c1f4bdac34.jpg"
+    },
+    {
       "title": "俄烏戰爭：美國提供戰斧飛彈能改變戰局嗎？",
       "description": "烏克蘭總統澤連斯基周五與美國總統特朗普會面時，戰斧巡航導彈很可能成為議程上的焦點。",
       "link": "https://www.bbc.com/zhongwen/articles/c986188vjd8o/trad?at_medium=RSS&at_campaign=rss",
@@ -80,14 +96,6 @@
       "pubDate": "2025-10-17T06:38:32.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c14plpy2kjeo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1bcc/live/661124d0-ab23-11f0-93f3-35cf52b1b510.jpg"
-    },
-    {
-      "title": "華裔諾貝爾獎得主、物理學家楊振寧逝世，享年103歲",
-      "description": "楊振寧被視為二十世紀最具影響力的物理學家之一。",
-      "link": "https://www.bbc.com/zhongwen/articles/c364er077yyo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-19T02:19:33.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c364er077yyo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/04dc/live/df3e57e0-ac88-11f0-b2a1-6f537f66f9aa.jpg"
     },
     {
       "title": "反特朗普集會席捲美國，「不要國王」示威吸引大批民群",
