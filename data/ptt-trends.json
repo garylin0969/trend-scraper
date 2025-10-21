@@ -1,11 +1,11 @@
 {
-  "updated": "2025-10-21T13:05:54.041Z",
+  "updated": "2025-10-21T13:23:53.907Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "604",
-      "recommendCount": "1060",
+      "recommendScore": "657",
+      "recommendCount": "1151",
       "title": "[爆卦] 全聯的肉寫298克 但回家量才207克? 少30%?",
       "link": "/bbs/Gossiping/M.1761041048.A.CFB",
       "author": "usnavyseal",
@@ -14,8 +14,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "383",
-      "recommendCount": "947",
+      "recommendScore": "515",
+      "recommendCount": "571",
+      "title": "[問卦] 有當兵的真男人給我進來+1（發錢）",
+      "link": "/bbs/Gossiping/M.1761047056.A.978",
+      "author": "Bastille",
+      "board": "Gossiping",
+      "publishTime": "2025/10/21 11:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "382",
+      "recommendCount": "948",
       "title": "[外絮] Westbrook反感LBJ的虛偽行為",
       "link": "/bbs/NBA/M.1760999624.A.7EF",
       "author": "EZ78",
@@ -25,7 +35,7 @@
     },
     {
       "recommendScore": "253",
-      "recommendCount": "546",
+      "recommendCount": "548",
       "title": "[新聞] 賴清德最新民調34.9％沒起色 「信賴區」剩雲嘉南：其它全崩了",
       "link": "/bbs/Gossiping/M.1761009729.A.737",
       "author": "mongi",
@@ -34,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "189",
-      "recommendCount": "564",
+      "recommendScore": "188",
+      "recommendCount": "565",
       "title": "[請益] 認真問，股票到底要怎樣才會賺錢",
       "link": "/bbs/Stock/M.1760973919.A.629",
       "author": "bubblebeauty",
@@ -44,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "334",
-      "recommendCount": "536",
+      "recommendScore": "337",
+      "recommendCount": "540",
       "title": "[問卦] 這幾個老藝人哪個軍種最猛？",
       "link": "/bbs/Gossiping/M.1761020137.A.9E5",
       "author": "staxsrm",
@@ -65,12 +75,32 @@
     },
     {
       "recommendScore": "194",
-      "recommendCount": "514",
+      "recommendCount": "518",
       "title": "[新聞] 「預算不足」玩不起墾丁…改飛日本5天4夜！業者中槍怒批：摧毀國旅",
       "link": "/bbs/Gossiping/M.1761022749.A.A74",
       "author": "LDMisshit",
       "board": "Gossiping",
       "publishTime": "2025/10/21 04:59",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "156",
+      "recommendCount": "386",
+      "title": "[討論] 兄弟讓二追四是不是穩了？",
+      "link": "/bbs/Baseball/M.1761045911.A.C5E",
+      "author": "t200830217",
+      "board": "Baseball",
+      "publishTime": "2025/10/21 11:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "181",
+      "recommendCount": "512",
+      "title": "[新聞] 快訊／坤達認了閃兵：不敢奢求原諒　緊急取消《玩很大》錄影趕回台灣",
+      "link": "/bbs/Gossiping/M.1761031159.A.704",
+      "author": "zkow",
+      "board": "Gossiping",
+      "publishTime": "2025/10/21 07:19",
       "imageUrl": ""
     },
     {
@@ -84,43 +114,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "327",
-      "recommendCount": "363",
-      "title": "[問卦] 有當兵的真男人給我進來+1（發錢）",
-      "link": "/bbs/Gossiping/M.1761047056.A.978",
-      "author": "Bastille",
-      "board": "Gossiping",
-      "publishTime": "2025/10/21 11:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "232",
-      "recommendCount": "413",
+      "recommendScore": "234",
+      "recommendCount": "420",
       "title": "[問卦] 鏡傳媒8.5億，到底誰給的？",
       "link": "/bbs/Gossiping/M.1761027749.A.51C",
       "author": "nissan168",
       "board": "Gossiping",
       "publishTime": "2025/10/21 06:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "173",
-      "recommendCount": "488",
-      "title": "[新聞] 快訊／坤達認了閃兵：不敢奢求原諒　緊急取消《玩很大》錄影趕回台灣",
-      "link": "/bbs/Gossiping/M.1761031159.A.704",
-      "author": "zkow",
-      "board": "Gossiping",
-      "publishTime": "2025/10/21 07:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "147",
-      "recommendCount": "352",
-      "title": "[討論] 兄弟讓二追四是不是穩了？",
-      "link": "/bbs/Baseball/M.1761045911.A.C5E",
-      "author": "t200830217",
-      "board": "Baseball",
-      "publishTime": "2025/10/21 11:25",
       "imageUrl": ""
     },
     {
@@ -164,13 +164,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "175",
-      "recommendCount": "426",
+      "recommendScore": "176",
+      "recommendCount": "428",
       "title": "[新聞] 快訊／陳柏霖坦承閃兵！花10萬元假裝高血壓　修杰楷失敗他成功",
       "link": "/bbs/Gossiping/M.1761021126.A.C7C",
       "author": "k66333",
       "board": "Gossiping",
       "publishTime": "2025/10/21 04:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "59",
+      "recommendCount": "332",
+      "title": "[炸裂] 打粽（Dazn挑戰沒拍到）",
+      "link": "/bbs/Baseball/M.1761051763.A.29A",
+      "author": "may40510",
+      "board": "Baseball",
+      "publishTime": "2025/10/21 13:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "247",
+      "recommendCount": "380",
+      "title": "[新聞] 柯文哲律師出招！聲請傳喚林俊言檢察官出庭 勘驗偵訊譯文",
+      "link": "/bbs/Gossiping/M.1761024688.A.469",
+      "author": "diefishfish",
+      "board": "Gossiping",
+      "publishTime": "2025/10/21 05:31",
       "imageUrl": ""
     },
     {
@@ -181,26 +201,6 @@
       "author": "beaver",
       "board": "Gossiping",
       "publishTime": "2025/10/21 02:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "246",
-      "recommendCount": "372",
-      "title": "[新聞] 柯文哲律師出招！聲請傳喚林俊言檢察官出庭 勘驗偵訊譯文",
-      "link": "/bbs/Gossiping/M.1761024688.A.469",
-      "author": "diefishfish",
-      "board": "Gossiping",
-      "publishTime": "2025/10/21 05:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "73",
-      "recommendCount": "475",
-      "title": "[轉播] 四上 兄弟2：0樂天 高宇杰",
-      "link": "/bbs/Elephants/M.1761046354.A.837",
-      "author": "hsuaninteen",
-      "board": "Elephants",
-      "publishTime": "2025/10/21 11:32",
       "imageUrl": ""
     }
   ]
