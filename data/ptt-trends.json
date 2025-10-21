@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-21T03:34:13.638Z",
+  "updated": "2025-10-21T03:49:00.172Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -64,16 +64,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "593",
-      "title": "[新聞] 突破中國稀土鎖喉 台灣可採「城市採礦」",
-      "link": "/bbs/Stock/M.1760931993.A.460",
-      "author": "cheryl89531",
-      "board": "Stock",
-      "publishTime": "2025/10/20 03:46",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "250",
       "recommendCount": "499",
       "title": "[新聞] 林郁婷全運會女子拳擊拚6連霸　首場打到對手棄賽",
@@ -124,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "275",
+      "recommendCount": "682",
+      "title": "[外絮] Westbrook反感LBJ的虛偽行為",
+      "link": "/bbs/NBA/M.1760999624.A.7EF",
+      "author": "EZ78",
+      "board": "NBA",
+      "publishTime": "2025/10/20 22:33",
+      "imageUrl": "https://cache.pttweb.cc/imgur/o7EIN0b/s/852375496d90cccbc9eb9ef2f60bc9af"
+    },
+    {
       "recommendScore": "300",
       "recommendCount": "489",
       "title": "[新聞] 若台北市21日停班停課！G3順延一天且無法在大巨蛋進行",
@@ -142,6 +142,16 @@
       "board": "Gossiping",
       "publishTime": "2025/10/20 07:57",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "254",
+      "recommendCount": "341",
+      "title": "[情報] 藍鳥隊晉級世界大賽",
+      "link": "/bbs/Baseball/M.1761015648.A.16B",
+      "author": "alpacaHong",
+      "board": "Baseball",
+      "publishTime": "2025/10/21 03:00",
+      "imageUrl": "https://cache.pttweb.cc/imgur/9IP3SXB/s/a4e57f3c0addf7e527b26d71ec0b9a13"
     },
     {
       "recommendScore": "270",
@@ -191,16 +201,6 @@
       "author": "warmsnow",
       "board": "Baseball",
       "publishTime": "2025/10/20 06:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "155",
-      "recommendCount": "336",
-      "title": "[新聞] 川普：不希望中國大陸跟我們玩稀土遊戲",
-      "link": "/bbs/Stock/M.1760941504.A.C3A",
-      "author": "justin531xx",
-      "board": "Stock",
-      "publishTime": "2025/10/20 06:25",
       "imageUrl": ""
     }
   ]
