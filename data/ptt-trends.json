@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-22T05:06:43.536Z",
+  "updated": "2025-10-22T05:17:56.827Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "836",
-      "recommendCount": "968",
+      "recommendScore": "838",
+      "recommendCount": "970",
       "title": "[問卦] 有當兵的真男人給我進來+1（發錢）",
       "link": "/bbs/Gossiping/M.1761047056.A.978",
       "author": "Bastille",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "451",
-      "recommendCount": "789",
+      "recommendScore": "566",
+      "recommendCount": "994",
       "title": "[爆卦] 環境部針對光電板實驗的鉛超標了",
       "link": "/bbs/Gossiping/M.1761095591.A.3E9",
       "author": "olctw",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "321",
-      "recommendCount": "564",
+      "recommendScore": "324",
+      "recommendCount": "569",
       "title": "[新聞] 「要買稀土先學中文」 陸商務部再祭一招：申請稀土出口一律用中文",
       "link": "/bbs/Gossiping/M.1761052986.A.354",
       "author": "Waitaha",
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "152",
+      "recommendCount": "504",
+      "title": "[新聞]台北市今雨量達停班課標準「蔣萬安卻靜悄悄」臉書仍被灌爆",
+      "link": "/bbs/Gossiping/M.1761089636.A.47C",
+      "author": "linhu8883324",
+      "board": "Gossiping",
+      "publishTime": "2025/10/21 23:33",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "235",
       "recommendCount": "423",
       "title": "[爆卦] 海軍氣海局長：幾張紙就能騙好幾億預算",
@@ -104,23 +114,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "145",
-      "recommendCount": "472",
-      "title": "[新聞]台北市今雨量達停班課標準「蔣萬安卻靜悄悄」臉書仍被灌爆",
-      "link": "/bbs/Gossiping/M.1761089636.A.47C",
-      "author": "linhu8883324",
-      "board": "Gossiping",
-      "publishTime": "2025/10/21 23:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "152",
-      "recommendCount": "349",
+      "recommendScore": "154",
+      "recommendCount": "351",
       "title": "[新聞] 全運會》林郁婷相隔1年多重返擂台 重拳打到對手棄權",
       "link": "/bbs/Gossiping/M.1761027502.A.A41",
       "author": "hbl420ii",
       "board": "Gossiping",
       "publishTime": "2025/10/21 06:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "156",
+      "recommendCount": "379",
+      "title": "[新聞] 輝達總部大轉折！新壽將朝把T17與T18歸還北市府努力",
+      "link": "/bbs/Stock/M.1761056177.A.A65",
+      "author": "okah",
+      "board": "Stock",
+      "publishTime": "2025/10/21 14:16",
       "imageUrl": ""
     },
     {
@@ -134,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "153",
-      "recommendCount": "372",
-      "title": "[新聞] 輝達總部大轉折！新壽將朝把T17與T18歸還北市府努力",
-      "link": "/bbs/Stock/M.1761056177.A.A65",
-      "author": "okah",
-      "board": "Stock",
-      "publishTime": "2025/10/21 14:16",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "179",
       "recommendCount": "604",
       "title": "[轉播] 兄弟2：0樂天",
@@ -154,13 +154,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-115",
-      "recommendCount": "348",
+      "recommendScore": "-116",
+      "recommendCount": "351",
       "title": "[新聞] 公督盟評鑑出爐！29位優秀立委全是民進黨",
       "link": "/bbs/Gossiping/M.1761059935.A.8C0",
       "author": "yochiya",
       "board": "Gossiping",
       "publishTime": "2025/10/21 15:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "173",
+      "recommendCount": "675",
+      "title": "[新聞] 獨家》非洲豬瘟？台中農業局：該做的都已做了",
+      "link": "/bbs/HatePolitics/M.1761098946.A.624",
+      "author": "wetteland",
+      "board": "HatePolitics",
+      "publishTime": "2025/10/22 02:09",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "SportLottery",
       "publishTime": "2025/10/21 10:05",
       "imageUrl": "https://cache.pttweb.cc/imgur/Izul1Jq/s/5ae9a473f1fbc387e2a8eb01dc9658db"
-    },
-    {
-      "recommendScore": "232",
-      "recommendCount": "252",
-      "title": "[發錢] NP 氣勢起來啦!! 8上/9上也算",
-      "link": "/bbs/Elephants/M.1761049829.A.DF8",
-      "author": "supermars",
-      "board": "Elephants",
-      "publishTime": "2025/10/21 12:30",
-      "imageUrl": ""
     }
   ]
 }
