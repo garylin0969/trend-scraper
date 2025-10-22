@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-22T16:07:28.336Z",
+  "updated": "2025-10-22T16:19:54.448Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "318",
+      "recommendCount": "690",
+      "title": "[問卦] 林郁婷的對手每個被打到棄賽？",
+      "link": "/bbs/Gossiping/M.1761123179.A.795",
+      "author": "KyrieIrving1",
+      "board": "Gossiping",
+      "publishTime": "2025/10/22 08:52",
+      "imageUrl": "https://cache.pttweb.cc/imgur/A7265KD/s/c858c356cbc81e77e07c954aeff54cb3"
+    },
+    {
       "recommendScore": "744",
       "recommendCount": "1400",
       "title": "[電競] 2025 World Championship - 瑞士制 Day6",
@@ -44,18 +54,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/6ETMmRf/s/214d6f4d75b9f0052d9708427a44ff53"
     },
     {
-      "recommendScore": "314",
-      "recommendCount": "686",
-      "title": "[問卦] 林郁婷的對手每個被打到棄賽？",
-      "link": "/bbs/Gossiping/M.1761123179.A.795",
-      "author": "KyrieIrving1",
-      "board": "Gossiping",
-      "publishTime": "2025/10/22 08:52",
-      "imageUrl": "https://cache.pttweb.cc/imgur/A7265KD/s/c858c356cbc81e77e07c954aeff54cb3"
-    },
-    {
-      "recommendScore": "258",
-      "recommendCount": "711",
+      "recommendScore": "259",
+      "recommendCount": "713",
       "title": "[新聞] 藝人閃兵案延燒　內政部擬加嚴門檻BMI達45才可免役",
       "link": "/bbs/Gossiping/M.1761111126.A.8A8",
       "author": "abc4",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "274",
-      "recommendCount": "613",
+      "recommendScore": "296",
+      "recommendCount": "668",
       "title": "[新聞] 韓國媒體分析台韓經濟差異，稱台灣沒有半導體就完了",
       "link": "/bbs/Stock/M.1761133296.A.E13",
       "author": "good123456",
@@ -84,8 +84,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "266",
-      "recommendCount": "420",
+      "recommendScore": "247",
+      "recommendCount": "463",
+      "title": "[問卦] 美國大豆農要破產了",
+      "link": "/bbs/Gossiping/M.1761128431.A.06C",
+      "author": "beaver",
+      "board": "Gossiping",
+      "publishTime": "2025/10/22 10:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "267",
+      "recommendCount": "422",
       "title": "[新聞] 日排球王子高橋藍爆「偷吃AV女神河北彩伽」！　背著爆乳網紅女友開房間",
       "link": "/bbs/Gossiping/M.1761110080.A.89A",
       "author": "cl3bp6",
@@ -101,16 +111,6 @@
       "author": "DDDDRR",
       "board": "Stock",
       "publishTime": "2025/10/22 06:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "239",
-      "recommendCount": "450",
-      "title": "[問卦] 美國大豆農要破產了",
-      "link": "/bbs/Gossiping/M.1761128431.A.06C",
-      "author": "beaver",
-      "board": "Gossiping",
-      "publishTime": "2025/10/22 10:20",
       "imageUrl": ""
     },
     {
@@ -154,13 +154,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "118",
-      "recommendCount": "411",
+      "recommendScore": "122",
+      "recommendCount": "417",
       "title": "[新聞] 央行：啟動新台幣鈔券改版　主題擇定後2年半發行",
       "link": "/bbs/Gossiping/M.1761116710.A.EC9",
       "author": "qqq87112",
       "board": "Gossiping",
       "publishTime": "2025/10/22 07:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "168",
+      "recommendCount": "362",
+      "title": "[新聞] 快新聞／大逆轉！台南前議長「關13年改判無罪」　法院曝原因：查無明確金流",
+      "link": "/bbs/Gossiping/M.1761131571.A.A0F",
+      "author": "a5687920",
+      "board": "Gossiping",
+      "publishTime": "2025/10/22 11:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "74",
+      "recommendCount": "451",
+      "title": "[新聞] 蕭美琴提「台積電生態系」赴美！經貿辦：台灣向美政府提議的",
+      "link": "/bbs/Gossiping/M.1761122602.A.D35",
+      "author": "wild2012",
+      "board": "Gossiping",
+      "publishTime": "2025/10/22 08:43",
       "imageUrl": ""
     },
     {
@@ -171,26 +191,6 @@
       "author": "DDDDRR",
       "board": "Stock",
       "publishTime": "2025/10/22 02:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "161",
-      "recommendCount": "353",
-      "title": "[新聞] 快新聞／大逆轉！台南前議長「關13年改判無罪」　法院曝原因：查無明確金流",
-      "link": "/bbs/Gossiping/M.1761131571.A.A0F",
-      "author": "a5687920",
-      "board": "Gossiping",
-      "publishTime": "2025/10/22 11:12",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "71",
-      "recommendCount": "446",
-      "title": "[新聞] 蕭美琴提「台積電生態系」赴美！經貿辦：台灣向美政府提議的",
-      "link": "/bbs/Gossiping/M.1761122602.A.D35",
-      "author": "wild2012",
-      "board": "Gossiping",
-      "publishTime": "2025/10/22 08:43",
       "imageUrl": ""
     },
     {
