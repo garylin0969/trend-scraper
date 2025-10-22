@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-22T07:44:51.407Z",
+  "updated": "2025-10-22T07:53:52.133Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "668",
-      "recommendCount": "1175",
+      "recommendScore": "669",
+      "recommendCount": "1176",
       "title": "[爆卦] 環境部針對光電板實驗的鉛超標了",
       "link": "/bbs/Gossiping/M.1761095591.A.3E9",
       "author": "olctw",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "470",
-      "recommendCount": "495",
+      "recommendScore": "476",
+      "recommendCount": "501",
       "title": "Re: [推薦] 籃球[小律師]NBA開幕戰",
       "link": "/bbs/SportLottery/M.1761108270.A.CD6",
       "author": "lotterywin",
@@ -84,13 +84,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "198",
-      "recommendCount": "805",
+      "recommendScore": "199",
+      "recommendCount": "806",
       "title": "[新聞] 獨家》非洲豬瘟？台中農業局：該做的都已做了",
       "link": "/bbs/HatePolitics/M.1761098946.A.624",
       "author": "wetteland",
       "board": "HatePolitics",
       "publishTime": "2025/10/22 02:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "181",
+      "recommendCount": "506",
+      "title": "[新聞] 藝人閃兵案延燒　內政部擬加嚴門檻BMI達45才可免役",
+      "link": "/bbs/Gossiping/M.1761111126.A.8A8",
+      "author": "abc4",
+      "board": "Gossiping",
+      "publishTime": "2025/10/22 05:32",
       "imageUrl": ""
     },
     {
@@ -104,38 +114,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/qzeqUxP/s/ee36df154196ac109d2ef70fc2f44c3b"
     },
     {
-      "recommendScore": "169",
-      "recommendCount": "389",
-      "title": "[新聞] 快訊／今起全國豬隻禁宰禁運5天！疑非洲1",
-      "link": "/bbs/Gossiping/M.1761100768.A.024",
-      "author": "k66333",
-      "board": "Gossiping",
-      "publishTime": "2025/10/22 02:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "176",
-      "recommendCount": "490",
-      "title": "[新聞] 藝人閃兵案延燒　內政部擬加嚴門檻BMI達45才可免役",
-      "link": "/bbs/Gossiping/M.1761111126.A.8A8",
-      "author": "abc4",
-      "board": "Gossiping",
-      "publishTime": "2025/10/22 05:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "166",
-      "recommendCount": "461",
-      "title": "[新聞] 快訊／非洲豬瘟入侵台灣！台中首現疑似案例　邊境嚴守7年破防",
-      "link": "/bbs/Stock/M.1761099795.A.B86",
-      "author": "DDDDRR",
-      "board": "Stock",
-      "publishTime": "2025/10/22 02:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "283",
-      "recommendCount": "300",
+      "recommendScore": "301",
+      "recommendCount": "318",
       "title": "[祭品] 幫CFO加油 發錢",
       "link": "/bbs/LoL/M.1761112558.A.439",
       "author": "Gavatzky",
@@ -144,8 +124,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "139",
-      "recommendCount": "337",
+      "recommendScore": "170",
+      "recommendCount": "390",
+      "title": "[新聞] 快訊／今起全國豬隻禁宰禁運5天！疑非洲1",
+      "link": "/bbs/Gossiping/M.1761100768.A.024",
+      "author": "k66333",
+      "board": "Gossiping",
+      "publishTime": "2025/10/22 02:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "167",
+      "recommendCount": "462",
+      "title": "[新聞] 快訊／非洲豬瘟入侵台灣！台中首現疑似案例　邊境嚴守7年破防",
+      "link": "/bbs/Stock/M.1761099795.A.B86",
+      "author": "DDDDRR",
+      "board": "Stock",
+      "publishTime": "2025/10/22 02:23",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "138",
+      "recommendCount": "339",
       "title": "[新聞] 快訊／逆轉！重劃區開發涉貪1300萬　台南前議長郭信良二審無罪",
       "link": "/bbs/Gossiping/M.1761098139.A.B6F",
       "author": "ccf52881",
