@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-22T06:08:54.420Z",
+  "updated": "2025-10-22T06:21:56.975Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "375",
+      "recommendCount": "397",
+      "title": "Re: [推薦] 籃球[小律師]NBA開幕戰",
+      "link": "/bbs/SportLottery/M.1761108270.A.CD6",
+      "author": "lotterywin",
+      "board": "SportLottery",
+      "publishTime": "2025/10/22 04:44",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "178",
       "recommendCount": "416",
       "title": "[討論] 兄弟讓二追四是不是穩了？",
@@ -54,23 +64,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "194",
-      "recommendCount": "554",
+      "recommendScore": "195",
+      "recommendCount": "555",
       "title": "[新聞] 快訊／坤達認了閃兵：不敢奢求原諒　緊急取消《玩很大》錄影趕回台灣",
       "link": "/bbs/Gossiping/M.1761031159.A.704",
       "author": "zkow",
       "board": "Gossiping",
       "publishTime": "2025/10/21 07:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "360",
-      "recommendCount": "381",
-      "title": "Re: [推薦] 籃球[小律師]NBA開幕戰",
-      "link": "/bbs/SportLottery/M.1761108270.A.CD6",
-      "author": "lotterywin",
-      "board": "SportLottery",
-      "publishTime": "2025/10/22 04:44",
       "imageUrl": ""
     },
     {
@@ -124,13 +124,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "155",
-      "recommendCount": "354",
-      "title": "[新聞] 全運會》林郁婷相隔1年多重返擂台 重拳打到對手棄權",
-      "link": "/bbs/Gossiping/M.1761027502.A.A41",
-      "author": "hbl420ii",
-      "board": "Gossiping",
-      "publishTime": "2025/10/21 06:18",
+      "recommendScore": "153",
+      "recommendCount": "442",
+      "title": "[新聞] 快訊／非洲豬瘟入侵台灣！台中首現疑似案例　邊境嚴守7年破防",
+      "link": "/bbs/Stock/M.1761099795.A.B86",
+      "author": "DDDDRR",
+      "board": "Stock",
+      "publishTime": "2025/10/22 02:23",
       "imageUrl": ""
     },
     {
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "149",
-      "recommendCount": "429",
-      "title": "[新聞] 快訊／非洲豬瘟入侵台灣！台中首現疑似案例　邊境嚴守7年破防",
-      "link": "/bbs/Stock/M.1761099795.A.B86",
-      "author": "DDDDRR",
-      "board": "Stock",
-      "publishTime": "2025/10/22 02:23",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "132",
       "recommendCount": "315",
       "title": "[新聞] 快訊／逆轉！重劃區開發涉貪1300萬　台南前議長郭信良二審無罪",
@@ -201,6 +191,16 @@
       "author": "hsuaninteen",
       "board": "Elephants",
       "publishTime": "2025/10/21 12:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-187",
+      "recommendCount": "366",
+      "title": "[爆卦] 《鏡週刊》聲明",
+      "link": "/bbs/Gossiping/M.1761029806.A.069",
+      "author": "a96385245",
+      "board": "Gossiping",
+      "publishTime": "2025/10/21 06:56",
       "imageUrl": ""
     }
   ]
