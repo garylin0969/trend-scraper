@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-22T05:40:17.142Z",
+  "updated": "2025-10-22T05:47:48.950Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "605",
-      "recommendCount": "1061",
+      "recommendScore": "611",
+      "recommendCount": "1074",
       "title": "[爆卦] 環境部針對光電板實驗的鉛超標了",
       "link": "/bbs/Gossiping/M.1761095591.A.3E9",
       "author": "olctw",
@@ -84,8 +84,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "150",
-      "recommendCount": "512",
+      "recommendScore": "319",
+      "recommendCount": "339",
+      "title": "Re: [推薦] 籃球[小律師]NBA開幕戰",
+      "link": "/bbs/SportLottery/M.1761108270.A.CD6",
+      "author": "lotterywin",
+      "board": "SportLottery",
+      "publishTime": "2025/10/22 04:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "149",
+      "recommendCount": "516",
       "title": "[新聞]台北市今雨量達停班課標準「蔣萬安卻靜悄悄」臉書仍被灌爆",
       "link": "/bbs/Gossiping/M.1761089636.A.47C",
       "author": "linhu8883324",
@@ -104,13 +114,13 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/qzeqUxP/s/ee36df154196ac109d2ef70fc2f44c3b"
     },
     {
-      "recommendScore": "287",
-      "recommendCount": "305",
-      "title": "Re: [推薦] 籃球[小律師]NBA開幕戰",
-      "link": "/bbs/SportLottery/M.1761108270.A.CD6",
-      "author": "lotterywin",
-      "board": "SportLottery",
-      "publishTime": "2025/10/22 04:44",
+      "recommendScore": "155",
+      "recommendCount": "354",
+      "title": "[新聞] 全運會》林郁婷相隔1年多重返擂台 重拳打到對手棄權",
+      "link": "/bbs/Gossiping/M.1761027502.A.A41",
+      "author": "hbl420ii",
+      "board": "Gossiping",
+      "publishTime": "2025/10/21 06:18",
       "imageUrl": ""
     },
     {
@@ -121,16 +131,6 @@
       "author": "wetteland",
       "board": "HatePolitics",
       "publishTime": "2025/10/22 02:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "155",
-      "recommendCount": "352",
-      "title": "[新聞] 全運會》林郁婷相隔1年多重返擂台 重拳打到對手棄權",
-      "link": "/bbs/Gossiping/M.1761027502.A.A41",
-      "author": "hbl420ii",
-      "board": "Gossiping",
-      "publishTime": "2025/10/21 06:18",
       "imageUrl": ""
     },
     {
@@ -155,12 +155,22 @@
     },
     {
       "recommendScore": "157",
-      "recommendCount": "341",
+      "recommendCount": "347",
       "title": "[新聞] 快訊／今起全國豬隻禁宰禁運5天！疑非洲1",
       "link": "/bbs/Gossiping/M.1761100768.A.024",
       "author": "k66333",
       "board": "Gossiping",
       "publishTime": "2025/10/22 02:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "149",
+      "recommendCount": "429",
+      "title": "[新聞] 快訊／非洲豬瘟入侵台灣！台中首現疑似案例　邊境嚴守7年破防",
+      "link": "/bbs/Stock/M.1761099795.A.B86",
+      "author": "DDDDRR",
+      "board": "Stock",
+      "publishTime": "2025/10/22 02:23",
       "imageUrl": ""
     },
     {
@@ -174,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "132",
+      "recommendCount": "313",
+      "title": "[新聞] 快訊／逆轉！重劃區開發涉貪1300萬　台南前議長郭信良二審無罪",
+      "link": "/bbs/Gossiping/M.1761098139.A.B6F",
+      "author": "ccf52881",
+      "board": "Gossiping",
+      "publishTime": "2025/10/22 01:55",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "179",
       "recommendCount": "604",
       "title": "[轉播] 兄弟2：0樂天",
@@ -181,26 +201,6 @@
       "author": "hsuaninteen",
       "board": "Elephants",
       "publishTime": "2025/10/21 12:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "148",
-      "recommendCount": "423",
-      "title": "[新聞] 快訊／非洲豬瘟入侵台灣！台中首現疑似案例　邊境嚴守7年破防",
-      "link": "/bbs/Stock/M.1761099795.A.B86",
-      "author": "DDDDRR",
-      "board": "Stock",
-      "publishTime": "2025/10/22 02:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "132",
-      "recommendCount": "306",
-      "title": "[新聞] 快訊／逆轉！重劃區開發涉貪1300萬　台南前議長郭信良二審無罪",
-      "link": "/bbs/Gossiping/M.1761098139.A.B6F",
-      "author": "ccf52881",
-      "board": "Gossiping",
-      "publishTime": "2025/10/22 01:55",
       "imageUrl": ""
     }
   ]
