@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-22T10:32:55.083Z",
+  "updated": "2025-10-22T10:47:08.760Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,16 +34,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "687",
-      "recommendCount": "1401",
-      "title": "[電競] 2025 World Championship - 瑞士制 Day6",
-      "link": "/bbs/LoL/M.1761116311.A.AEE",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/10/22 06:58",
-      "imageUrl": "https://cache.pttweb.cc/imgur/6ETMmRf/s/214d6f4d75b9f0052d9708427a44ff53"
-    },
-    {
       "recommendScore": "332",
       "recommendCount": "744",
       "title": "[新聞] 快訊／新壽T17、T18確定合意解約　最快16：30正式向外說明",
@@ -62,6 +52,16 @@
       "board": "Gossiping",
       "publishTime": "2025/10/21 13:23",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "686",
+      "recommendCount": "1401",
+      "title": "[電競] 2025 World Championship - 瑞士制 Day6",
+      "link": "/bbs/LoL/M.1761116311.A.AEE",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/10/22 06:58",
+      "imageUrl": "https://cache.pttweb.cc/imgur/6ETMmRf/s/214d6f4d75b9f0052d9708427a44ff53"
     },
     {
       "recommendScore": "239",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "512",
+      "recommendScore": "249",
+      "recommendCount": "520",
       "title": "[新聞] 快訊／新壽T17、T18確定合意解約　最快16：30正式向外說明",
       "link": "/bbs/Stock/M.1761116186.A.4AC",
       "author": "DDDDRR",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "198",
-      "recommendCount": "817",
+      "recommendScore": "199",
+      "recommendCount": "818",
       "title": "[新聞] 獨家》非洲豬瘟？台中農業局：該做的都已做了",
       "link": "/bbs/HatePolitics/M.1761098946.A.624",
       "author": "wetteland",
@@ -145,7 +145,7 @@
     },
     {
       "recommendScore": "182",
-      "recommendCount": "495",
+      "recommendCount": "497",
       "title": "[新聞] 快訊／非洲豬瘟入侵台灣！台中首現疑似案例　邊境嚴守7年破防",
       "link": "/bbs/Stock/M.1761099795.A.B86",
       "author": "DDDDRR",
