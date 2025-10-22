@@ -1,10 +1,10 @@
 {
-  "updated": "2025-10-22T05:17:56.827Z",
+  "updated": "2025-10-22T05:30:36.531Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "844",
+      "recommendScore": "843",
       "recommendCount": "1494",
       "title": "[爆卦] 全聯的肉寫298克 但回家量才207克? 少30%?",
       "link": "/bbs/Gossiping/M.1761041048.A.CFB",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "178",
-      "recommendCount": "414",
+      "recommendCount": "416",
       "title": "[討論] 兄弟讓二追四是不是穩了？",
       "link": "/bbs/Baseball/M.1761045911.A.C5E",
       "author": "t200830217",
@@ -114,13 +114,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "154",
-      "recommendCount": "351",
+      "recommendScore": "155",
+      "recommendCount": "352",
       "title": "[新聞] 全運會》林郁婷相隔1年多重返擂台 重拳打到對手棄權",
       "link": "/bbs/Gossiping/M.1761027502.A.A41",
       "author": "hbl420ii",
       "board": "Gossiping",
       "publishTime": "2025/10/21 06:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "186",
+      "recommendCount": "742",
+      "title": "[新聞] 獨家》非洲豬瘟？台中農業局：該做的都已做了",
+      "link": "/bbs/HatePolitics/M.1761098946.A.624",
+      "author": "wetteland",
+      "board": "HatePolitics",
+      "publishTime": "2025/10/22 02:09",
       "imageUrl": ""
     },
     {
@@ -144,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "258",
+      "recommendCount": "276",
+      "title": "Re: [推薦] 籃球[小律師]NBA開幕戰",
+      "link": "/bbs/SportLottery/M.1761108270.A.CD6",
+      "author": "lotterywin",
+      "board": "SportLottery",
+      "publishTime": "2025/10/22 04:44",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "179",
       "recommendCount": "604",
       "title": "[轉播] 兄弟2：0樂天",
@@ -161,16 +181,6 @@
       "author": "yochiya",
       "board": "Gossiping",
       "publishTime": "2025/10/21 15:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "173",
-      "recommendCount": "675",
-      "title": "[新聞] 獨家》非洲豬瘟？台中農業局：該做的都已做了",
-      "link": "/bbs/HatePolitics/M.1761098946.A.624",
-      "author": "wetteland",
-      "board": "HatePolitics",
-      "publishTime": "2025/10/22 02:09",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "Elephants",
       "publishTime": "2025/10/21 12:28",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "249",
-      "recommendCount": "255",
-      "title": "Re: [LIVE] 亞冠 武里南聯 @ 墨爾本城 場中",
-      "link": "/bbs/SportLottery/M.1761041132.A.F6B",
-      "author": "b032819",
-      "board": "SportLottery",
-      "publishTime": "2025/10/21 10:05",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Izul1Jq/s/5ae9a473f1fbc387e2a8eb01dc9658db"
     }
   ]
 }
