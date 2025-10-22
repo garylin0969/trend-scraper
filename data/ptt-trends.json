@@ -1,10 +1,10 @@
 {
-  "updated": "2025-10-22T02:11:56.494Z",
+  "updated": "2025-10-22T02:50:14.879Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "847",
+      "recommendScore": "842",
       "recommendCount": "1494",
       "title": "[爆卦] 全聯的肉寫298克 但回家量才207克? 少30%?",
       "link": "/bbs/Gossiping/M.1761041048.A.CFB",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "827",
-      "recommendCount": "959",
+      "recommendScore": "831",
+      "recommendCount": "963",
       "title": "[問卦] 有當兵的真男人給我進來+1（發錢）",
       "link": "/bbs/Gossiping/M.1761047056.A.978",
       "author": "Bastille",
@@ -24,8 +24,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "312",
-      "recommendCount": "554",
+      "recommendScore": "373",
+      "recommendCount": "647",
+      "title": "[爆卦] 環境部針對光電板實驗的鉛超標了",
+      "link": "/bbs/Gossiping/M.1761095591.A.3E9",
+      "author": "olctw",
+      "board": "Gossiping",
+      "publishTime": "2025/10/22 01:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "316",
+      "recommendCount": "559",
       "title": "[新聞] 「要買稀土先學中文」 陸商務部再祭一招：申請稀土出口一律用中文",
       "link": "/bbs/Gossiping/M.1761052986.A.354",
       "author": "Waitaha",
@@ -64,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "204",
-      "recommendCount": "534",
+      "recommendScore": "205",
+      "recommendCount": "538",
       "title": "[新聞] 「預算不足」玩不起墾丁…改飛日本5天4夜！業者中槍怒批：摧毀國旅",
       "link": "/bbs/Gossiping/M.1761022749.A.A74",
       "author": "LDMisshit",
@@ -84,16 +94,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "313",
-      "recommendCount": "383",
-      "title": "[炸裂] George Springer超前三分砲",
-      "link": "/bbs/Baseball/M.1761013830.A.91B",
-      "author": "jo3434",
-      "board": "Baseball",
-      "publishTime": "2025/10/21 02:30",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "82",
       "recommendCount": "398",
       "title": "[炸裂] 打粽（Dazn挑戰沒拍到）",
@@ -101,16 +101,6 @@
       "author": "may40510",
       "board": "Baseball",
       "publishTime": "2025/10/21 13:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "194",
-      "recommendCount": "439",
-      "title": "[新聞] 快訊／坤達涉逃兵今拘提「正好出境」！　柯佳嬿曝原因",
-      "link": "/bbs/Gossiping/M.1761014161.A.86E",
-      "author": "blueadam193",
-      "board": "Gossiping",
-      "publishTime": "2025/10/21 02:36",
       "imageUrl": ""
     },
     {
@@ -164,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "151",
-      "recommendCount": "348",
+      "recommendScore": "152",
+      "recommendCount": "349",
       "title": "[新聞] 全運會》林郁婷相隔1年多重返擂台 重拳打到對手棄權",
       "link": "/bbs/Gossiping/M.1761027502.A.A41",
       "author": "hbl420ii",
@@ -184,6 +174,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "149",
+      "recommendCount": "366",
+      "title": "[新聞] 輝達總部大轉折！新壽將朝把T17與T18歸還北市府努力",
+      "link": "/bbs/Stock/M.1761056177.A.A65",
+      "author": "okah",
+      "board": "Stock",
+      "publishTime": "2025/10/21 14:16",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "130",
+      "recommendCount": "423",
+      "title": "[新聞]台北市今雨量達停班課標準「蔣萬安卻靜悄悄」臉書仍被灌爆",
+      "link": "/bbs/Gossiping/M.1761089636.A.47C",
+      "author": "linhu8883324",
+      "board": "Gossiping",
+      "publishTime": "2025/10/21 23:33",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "179",
       "recommendCount": "604",
       "title": "[轉播] 兄弟2：0樂天",
@@ -191,16 +201,6 @@
       "author": "hsuaninteen",
       "board": "Elephants",
       "publishTime": "2025/10/21 12:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "144",
-      "recommendCount": "394",
-      "title": "[新聞] 政治獻金報告　民進黨結餘最多、白營短絀4625萬「人事費是藍營5倍」",
-      "link": "/bbs/Gossiping/M.1761013346.A.20E",
-      "author": "seiya2000",
-      "board": "Gossiping",
-      "publishTime": "2025/10/21 02:22",
       "imageUrl": ""
     }
   ]
