@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-22T07:17:50.800Z",
+  "updated": "2025-10-22T07:28:53.284Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "654",
-      "recommendCount": "1137",
+      "recommendScore": "665",
+      "recommendCount": "1160",
       "title": "[爆卦] 環境部針對光電板實驗的鉛超標了",
       "link": "/bbs/Gossiping/M.1761095591.A.3E9",
       "author": "olctw",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "446",
-      "recommendCount": "471",
+      "recommendScore": "458",
+      "recommendCount": "483",
       "title": "Re: [推薦] 籃球[小律師]NBA開幕戰",
       "link": "/bbs/SportLottery/M.1761108270.A.CD6",
       "author": "lotterywin",
@@ -64,16 +64,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "196",
-      "recommendCount": "556",
-      "title": "[新聞] 快訊／坤達認了閃兵：不敢奢求原諒　緊急取消《玩很大》錄影趕回台灣",
-      "link": "/bbs/Gossiping/M.1761031159.A.704",
-      "author": "zkow",
-      "board": "Gossiping",
-      "publishTime": "2025/10/21 07:19",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "82",
       "recommendCount": "398",
       "title": "[炸裂] 打粽（Dazn挑戰沒拍到）",
@@ -84,13 +74,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "152",
-      "recommendCount": "523",
+      "recommendScore": "153",
+      "recommendCount": "524",
       "title": "[新聞]台北市今雨量達停班課標準「蔣萬安卻靜悄悄」臉書仍被灌爆",
       "link": "/bbs/Gossiping/M.1761089636.A.47C",
       "author": "linhu8883324",
       "board": "Gossiping",
       "publishTime": "2025/10/21 23:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "196",
+      "recommendCount": "798",
+      "title": "[新聞] 獨家》非洲豬瘟？台中農業局：該做的都已做了",
+      "link": "/bbs/HatePolitics/M.1761098946.A.624",
+      "author": "wetteland",
+      "board": "HatePolitics",
+      "publishTime": "2025/10/22 02:09",
       "imageUrl": ""
     },
     {
@@ -104,18 +104,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/qzeqUxP/s/ee36df154196ac109d2ef70fc2f44c3b"
     },
     {
-      "recommendScore": "198",
-      "recommendCount": "794",
-      "title": "[新聞] 獨家》非洲豬瘟？台中農業局：該做的都已做了",
-      "link": "/bbs/HatePolitics/M.1761098946.A.624",
-      "author": "wetteland",
-      "board": "HatePolitics",
-      "publishTime": "2025/10/22 02:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "169",
-      "recommendCount": "380",
+      "recommendScore": "167",
+      "recommendCount": "385",
       "title": "[新聞] 快訊／今起全國豬隻禁宰禁運5天！疑非洲1",
       "link": "/bbs/Gossiping/M.1761100768.A.024",
       "author": "k66333",
@@ -124,23 +114,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "166",
-      "recommendCount": "458",
-      "title": "[新聞] 快訊／非洲豬瘟入侵台灣！台中首現疑似案例　邊境嚴守7年破防",
-      "link": "/bbs/Stock/M.1761099795.A.B86",
-      "author": "DDDDRR",
-      "board": "Stock",
-      "publishTime": "2025/10/22 02:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "174",
-      "recommendCount": "447",
+      "recommendScore": "180",
+      "recommendCount": "473",
       "title": "[新聞] 藝人閃兵案延燒　內政部擬加嚴門檻BMI達45才可免役",
       "link": "/bbs/Gossiping/M.1761111126.A.8A8",
       "author": "abc4",
       "board": "Gossiping",
       "publishTime": "2025/10/22 05:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "166",
+      "recommendCount": "460",
+      "title": "[新聞] 快訊／非洲豬瘟入侵台灣！台中首現疑似案例　邊境嚴守7年破防",
+      "link": "/bbs/Stock/M.1761099795.A.B86",
+      "author": "DDDDRR",
+      "board": "Stock",
+      "publishTime": "2025/10/22 02:23",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "xamous",
       "board": "Gossiping",
       "publishTime": "2025/10/22 01:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "235",
+      "recommendCount": "358",
+      "title": "[BOX ] Warriors 119:109 Lakers",
+      "link": "/bbs/NBA/M.1761108264.A.4B4",
+      "author": "KC90",
+      "board": "NBA",
+      "publishTime": "2025/10/22 04:44",
       "imageUrl": ""
     }
   ]
