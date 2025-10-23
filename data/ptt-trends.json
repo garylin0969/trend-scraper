@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-23T10:53:48.732Z",
+  "updated": "2025-10-23T11:05:50.802Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "326",
-      "recommendCount": "461",
+      "recommendScore": "334",
+      "recommendCount": "470",
       "title": "[情報] 今日斑馬 40分 15板 0失誤 投籃71.4%",
       "link": "/bbs/NBA/M.1761192884.A.93E",
       "author": "pneumo",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "230",
+      "recommendCount": "332",
+      "title": "[BOX ] Spurs 125:92 Mavericks",
+      "link": "/bbs/NBA/M.1761193432.A.AFE",
+      "author": "love1500274",
+      "board": "NBA",
+      "publishTime": "2025/10/23 04:23",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "86",
       "recommendCount": "342",
       "title": "[問卦] 我就問 法庭直播 真有人會看嗎？",
@@ -191,16 +201,6 @@
       "author": "pigin852789",
       "board": "Gossiping",
       "publishTime": "2025/10/23 01:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "228",
-      "recommendCount": "327",
-      "title": "[BOX ] Spurs 125:92 Mavericks",
-      "link": "/bbs/NBA/M.1761193432.A.AFE",
-      "author": "love1500274",
-      "board": "NBA",
-      "publishTime": "2025/10/23 04:23",
       "imageUrl": ""
     }
   ]
