@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-23T15:06:19.208Z",
+  "updated": "2025-10-23T15:18:14.438Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "340",
-      "recommendCount": "478",
+      "recommendScore": "784",
+      "recommendCount": "1398",
+      "title": "[電競] 2025 World Championship - 瑞士制 Day7",
+      "link": "/bbs/LoL/M.1761202286.A.64A",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/10/23 06:51",
+      "imageUrl": "https://cache.pttweb.cc/imgur/3SqE2TH/s/bf6b0448fd2af22e5e0f7ba4b38886fa"
+    },
+    {
+      "recommendScore": "343",
+      "recommendCount": "484",
       "title": "[情報] 今日斑馬 40分 15板 0失誤 投籃71.4%",
       "link": "/bbs/NBA/M.1761192884.A.93E",
       "author": "pneumo",
@@ -74,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "763",
-      "recommendCount": "1398",
-      "title": "[電競] 2025 World Championship - 瑞士制 Day7",
-      "link": "/bbs/LoL/M.1761202286.A.64A",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/10/23 06:51",
-      "imageUrl": "https://cache.pttweb.cc/imgur/3SqE2TH/s/bf6b0448fd2af22e5e0f7ba4b38886fa"
-    },
-    {
       "recommendScore": "51",
       "recommendCount": "445",
       "title": "[問卦] 支持司機拉幹",
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "271",
+      "recommendCount": "419",
+      "title": "[花邊] Chauncey Billups涉賭被捕",
+      "link": "/bbs/NBA/M.1761222538.A.480",
+      "author": "willy911006",
+      "board": "NBA",
+      "publishTime": "2025/10/23 12:28",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "195",
       "recommendCount": "481",
       "title": "[問卦] 欸 從頭到尾都是司機在嘴秋吧==？",
@@ -121,6 +131,26 @@
       "author": "kingmusk",
       "board": "Gossiping",
       "publishTime": "2025/10/23 07:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "159",
+      "recommendCount": "437",
+      "title": "[新聞] 卓揆下令索機敏資料需首長親核　藍白立委全傻眼：逃避國會監督",
+      "link": "/bbs/Gossiping/M.1761208516.A.F7F",
+      "author": "taiwan08",
+      "board": "Gossiping",
+      "publishTime": "2025/10/23 08:35",
+      "imageUrl": "https://cache.pttweb.cc/imgur/jFRTim2/s/6bdd99f4ded4da3845f9a6068ed762d2"
+    },
+    {
+      "recommendScore": "256",
+      "recommendCount": "333",
+      "title": "[花邊] 斑馬: 這只是開始 我還有很多技巧想加進來",
+      "link": "/bbs/NBA/M.1761203240.A.546",
+      "author": "pneumo",
+      "board": "NBA",
+      "publishTime": "2025/10/23 07:07",
       "imageUrl": ""
     },
     {
@@ -144,18 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "233",
-      "recommendCount": "302",
-      "title": "[花邊] 斑馬: 這只是開始 我還有很多技巧想加進來",
-      "link": "/bbs/NBA/M.1761203240.A.546",
-      "author": "pneumo",
-      "board": "NBA",
-      "publishTime": "2025/10/23 07:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "237",
-      "recommendCount": "347",
+      "recommendScore": "240",
+      "recommendCount": "350",
       "title": "[BOX ] Spurs 125:92 Mavericks",
       "link": "/bbs/NBA/M.1761193432.A.AFE",
       "author": "love1500274",
@@ -181,26 +201,6 @@
       "author": "Roger5566",
       "board": "Stock",
       "publishTime": "2025/10/22 18:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "108",
-      "recommendCount": "368",
-      "title": "[爆卦] Energy 全面暫停活動",
-      "link": "/bbs/Gossiping/M.1761206646.A.688",
-      "author": "f12345678900",
-      "board": "Gossiping",
-      "publishTime": "2025/10/23 08:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "146",
-      "recommendCount": "360",
-      "title": "[新聞] 桃客司機當街和高中生互毆　學生滿臉血仍揮拳！混亂畫面曝",
-      "link": "/bbs/Gossiping/M.1761178710.A.6A5",
-      "author": "kukukuma",
-      "board": "Gossiping",
-      "publishTime": "2025/10/23 00:18",
       "imageUrl": ""
     }
   ]
