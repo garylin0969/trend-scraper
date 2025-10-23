@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-23T05:30:16.662Z",
+  "updated": "2025-10-23T05:39:37.975Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -42,16 +42,6 @@
       "board": "LoL",
       "publishTime": "2025/10/22 06:58",
       "imageUrl": "https://cache.pttweb.cc/imgur/6ETMmRf/s/214d6f4d75b9f0052d9708427a44ff53"
-    },
-    {
-      "recommendScore": "261",
-      "recommendCount": "724",
-      "title": "[新聞] 藝人閃兵案延燒　內政部擬加嚴門檻BMI達45才可免役",
-      "link": "/bbs/Gossiping/M.1761111126.A.8A8",
-      "author": "abc4",
-      "board": "Gossiping",
-      "publishTime": "2025/10/22 05:32",
-      "imageUrl": ""
     },
     {
       "recommendScore": "277",
@@ -164,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "177",
-      "recommendCount": "486",
+      "recommendScore": "180",
+      "recommendCount": "495",
       "title": "[新聞] 桃園客運爆全武行！司機怒摔學生「鼻血狂流」　街頭開打畫面曝",
       "link": "/bbs/Gossiping/M.1761177717.A.FD3",
       "author": "betweenus020",
@@ -174,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "228",
-      "recommendCount": "367",
+      "recommendScore": "229",
+      "recommendCount": "368",
       "title": "[閒聊] HongQ：我真的很想要打進八強淘汰賽",
       "link": "/bbs/LoL/M.1761133884.A.4B0",
       "author": "keel90135",
@@ -202,6 +192,16 @@
       "board": "NBA",
       "publishTime": "2025/10/22 09:27",
       "imageUrl": "https://cache.pttweb.cc/imgur/hn5XHuK/s/b4a5156db881a1aa8202387946de63d4"
+    },
+    {
+      "recommendScore": "52",
+      "recommendCount": "283",
+      "title": "[新聞] 2026民進黨只有一個字「贏」！徐國勇：內參民調滿意度回來了",
+      "link": "/bbs/Gossiping/M.1761185345.A.239",
+      "author": "iam168888888",
+      "board": "Gossiping",
+      "publishTime": "2025/10/23 02:09",
+      "imageUrl": ""
     }
   ]
 }
