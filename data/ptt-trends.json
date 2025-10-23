@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-23T10:45:28.177Z",
+  "updated": "2025-10-23T10:53:48.732Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -92,6 +92,16 @@
       "board": "Gossiping",
       "publishTime": "2025/10/23 03:04",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "763",
+      "recommendCount": "1398",
+      "title": "[電競] 2025 World Championship - 瑞士制 Day7",
+      "link": "/bbs/LoL/M.1761202286.A.64A",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/10/23 06:51",
+      "imageUrl": "https://cache.pttweb.cc/imgur/3SqE2TH/s/bf6b0448fd2af22e5e0f7ba4b38886fa"
     },
     {
       "recommendScore": "274",
@@ -191,16 +201,6 @@
       "author": "love1500274",
       "board": "NBA",
       "publishTime": "2025/10/23 04:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "143",
-      "recommendCount": "352",
-      "title": "[新聞] 桃客司機當街和高中生互毆　學生滿臉血仍揮拳！混亂畫面曝",
-      "link": "/bbs/Gossiping/M.1761178710.A.6A5",
-      "author": "kukukuma",
-      "board": "Gossiping",
-      "publishTime": "2025/10/23 00:18",
       "imageUrl": ""
     }
   ]
