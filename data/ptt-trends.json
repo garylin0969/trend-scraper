@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-23T06:50:05.951Z",
+  "updated": "2025-10-23T06:57:51.756Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "353",
-      "recommendCount": "829",
+      "recommendCount": "835",
       "title": "[新聞] 韓國媒體分析台韓經濟差異，稱台灣沒有半導體就完了",
       "link": "/bbs/Stock/M.1761133296.A.E13",
       "author": "good123456",
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "304",
+      "recommendCount": "426",
+      "title": "[情報] 今日斑馬 40分 15板 0失誤 投籃71.4%",
+      "link": "/bbs/NBA/M.1761192884.A.93E",
+      "author": "pneumo",
+      "board": "NBA",
+      "publishTime": "2025/10/23 04:14",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "263",
       "recommendCount": "621",
       "title": "[問卦] 員山子分洪道太扯了吧?",
@@ -124,16 +134,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "258",
-      "recommendCount": "546",
-      "title": "[新聞] 快訊／新壽T17、T18確定合意解約　最快16：30正式向外說明",
-      "link": "/bbs/Stock/M.1761116186.A.4AC",
-      "author": "DDDDRR",
-      "board": "Stock",
-      "publishTime": "2025/10/22 06:56",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "135",
       "recommendCount": "440",
       "title": "[新聞] 央行：啟動新台幣鈔券改版　主題擇定後2年半發行",
@@ -141,16 +141,6 @@
       "author": "qqq87112",
       "board": "Gossiping",
       "publishTime": "2025/10/22 07:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "279",
-      "recommendCount": "386",
-      "title": "[情報] 今日斑馬 40分 15板 0失誤 投籃71.4%",
-      "link": "/bbs/NBA/M.1761192884.A.93E",
-      "author": "pneumo",
-      "board": "NBA",
-      "publishTime": "2025/10/23 04:14",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/10/22 07:13",
       "imageUrl": "https://cache.pttweb.cc/imgur/pTLtIjH/s/56f02dbf4b956f829e6f38f5023bca48"
+    },
+    {
+      "recommendScore": "151",
+      "recommendCount": "317",
+      "title": "[情報] Smart抓住扭轉Curry的肩膀，被判惡意犯規",
+      "link": "/bbs/NBA/M.1761125262.A.B68",
+      "author": "OsmanGo",
+      "board": "NBA",
+      "publishTime": "2025/10/22 09:27",
+      "imageUrl": "https://cache.pttweb.cc/imgur/hn5XHuK/s/b4a5156db881a1aa8202387946de63d4"
     }
   ]
 }
