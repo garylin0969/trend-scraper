@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-24T14:06:07.993Z",
+  "updated": "2025-10-24T14:18:19.021Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "289",
-      "recommendCount": "516",
-      "title": "[新聞] 1.5億台幣！日職球隊出天價挖角徐若熙",
-      "link": "/bbs/Baseball/M.1761228912.A.8F5",
-      "author": "zephyr105",
-      "board": "Baseball",
-      "publishTime": "2025/10/23 14:15",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "203",
       "recommendCount": "290",
       "title": "[閒聊] CFO最有可能的劇本是？",
@@ -201,6 +191,16 @@
       "author": "qazxsw123",
       "board": "LoL",
       "publishTime": "2025/10/24 12:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-47",
+      "recommendCount": "311",
+      "title": "[BOX ] Thunder 141:135 Pacers",
+      "link": "/bbs/NBA/M.1761274899.A.F0D",
+      "author": "guardyo",
+      "board": "NBA",
+      "publishTime": "2025/10/24 03:01",
       "imageUrl": ""
     }
   ]
