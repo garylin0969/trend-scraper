@@ -1,11 +1,11 @@
 {
-  "updated": "2025-10-24T11:06:25.669Z",
+  "updated": "2025-10-24T11:17:37.035Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "639",
-      "recommendCount": "1155",
+      "recommendScore": "644",
+      "recommendCount": "1172",
       "title": "[新聞] 《時代》稱賴清德魯莽領導人！台灣成「最危險引爆點」　川普需警惕",
       "link": "/bbs/Gossiping/M.1761276105.A.975",
       "author": "DamnDre",
@@ -34,7 +34,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "363",
+      "recommendScore": "365",
       "recommendCount": "1480",
       "title": "[新聞] 學生遭公車司機揍斷鼻梁 姑姑心疼：他很勇敢 說再遇到仍會挺身而出",
       "link": "/bbs/Gossiping/M.1761269794.A.18F",
@@ -42,6 +42,16 @@
       "board": "Gossiping",
       "publishTime": "2025/10/24 01:36",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "391",
+      "recommendCount": "729",
+      "title": "[新聞]幕後》美國洗臉台灣調查局長 太子集團詐騙帝國竟矇過陳白立",
+      "link": "/bbs/Gossiping/M.1761290793.A.E73",
+      "author": "leocean9816",
+      "board": "Gossiping",
+      "publishTime": "2025/10/24 07:26",
+      "imageUrl": "https://cache.pttweb.cc/imgur/QIkvwAS/s/b635bac2482ac4be785bae24f7835d59"
     },
     {
       "recommendScore": "159",
@@ -54,16 +64,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/mFDMnzn/s/70dd57de34668d3a9b6cbacaffd386ba"
     },
     {
-      "recommendScore": "372",
-      "recommendCount": "688",
-      "title": "[新聞]幕後》美國洗臉台灣調查局長 太子集團詐騙帝國竟矇過陳白立",
-      "link": "/bbs/Gossiping/M.1761290793.A.E73",
-      "author": "leocean9816",
-      "board": "Gossiping",
-      "publishTime": "2025/10/24 07:26",
-      "imageUrl": "https://cache.pttweb.cc/imgur/QIkvwAS/s/b635bac2482ac4be785bae24f7835d59"
-    },
-    {
       "recommendScore": "354",
       "recommendCount": "1491",
       "title": "[問卦] 被打的學生是永豐高中數資班",
@@ -74,6 +74,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/QHWlAd8/s/1bdf7199461a5fb56a8a5cd2bd8d8316"
     },
     {
+      "recommendScore": "807",
+      "recommendCount": "1397",
+      "title": "[電競] 2025 World Championship - 瑞士制 Day8",
+      "link": "/bbs/LoL/M.1761288890.A.318",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/10/24 06:54",
+      "imageUrl": "https://cache.pttweb.cc/imgur/7UDFAYb/s/b99dabfb5fc2e02cff30c99998721a8d"
+    },
+    {
       "recommendScore": "205",
       "recommendCount": "763",
       "title": "[新聞] 新台幣紙鈔5面額全改版「不放政治人物」央行納參考",
@@ -82,16 +92,6 @@
       "board": "Stock",
       "publishTime": "2025/10/23 11:55",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "790",
-      "recommendCount": "1397",
-      "title": "[電競] 2025 World Championship - 瑞士制 Day8",
-      "link": "/bbs/LoL/M.1761288890.A.318",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/10/24 06:54",
-      "imageUrl": "https://cache.pttweb.cc/imgur/7UDFAYb/s/b99dabfb5fc2e02cff30c99998721a8d"
     },
     {
       "recommendScore": "225",
@@ -124,24 +124,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "267",
-      "recommendCount": "443",
-      "title": "[BOX ] Nuggets 131:137 Warriors",
-      "link": "/bbs/NBA/M.1761281256.A.AA4",
-      "author": "KC90",
-      "board": "NBA",
-      "publishTime": "2025/10/24 04:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "217",
-      "recommendCount": "381",
+      "recommendScore": "223",
+      "recommendCount": "395",
       "title": "[問卦] 三立記者因 Andy老師遭圍剿 揚言提告",
       "link": "/bbs/Gossiping/M.1761284197.A.58B",
       "author": "eatk",
       "board": "Gossiping",
       "publishTime": "2025/10/24 05:36",
       "imageUrl": "https://cache.pttweb.cc/imgur/KnVSkaf/s/d6e85c3a4c2907f672c0ac12c3c21052"
+    },
+    {
+      "recommendScore": "268",
+      "recommendCount": "444",
+      "title": "[BOX ] Nuggets 131:137 Warriors",
+      "link": "/bbs/NBA/M.1761281256.A.AA4",
+      "author": "KC90",
+      "board": "NBA",
+      "publishTime": "2025/10/24 04:47",
+      "imageUrl": ""
     },
     {
       "recommendScore": "186",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "191",
-      "recommendCount": "407",
+      "recommendScore": "192",
+      "recommendCount": "408",
       "title": "[問卦] 發一萬跟BNT根本相同套路",
       "link": "/bbs/Gossiping/M.1761258628.A.A1F",
       "author": "Superxixai",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "328",
-      "recommendCount": "731",
+      "recommendScore": "329",
+      "recommendCount": "734",
       "title": "[分享] 天使休息室挑戰：吃粉刺、被砸頭、吃蟲",
       "link": "/bbs/Baseball/M.1761274378.A.EA9",
       "author": "zxc906383",
