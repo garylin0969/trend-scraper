@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-24T12:24:25.756Z",
+  "updated": "2025-10-24T12:47:15.368Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/QIkvwAS/s/b635bac2482ac4be785bae24f7835d59"
     },
     {
-      "recommendScore": "351",
-      "recommendCount": "1104",
+      "recommendScore": "355",
+      "recommendCount": "1115",
       "title": "[新聞] 「30歲應有300萬存款」富邦女神慘遭炎上！委屈還原始末：沒跟家裡要過錢",
       "link": "/bbs/Gossiping/M.1761276045.A.8EF",
       "author": "mongi",
@@ -64,6 +64,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/mFDMnzn/s/70dd57de34668d3a9b6cbacaffd386ba"
     },
     {
+      "recommendScore": "761",
+      "recommendCount": "1397",
+      "title": "[電競] 2025 World Championship - 瑞士制 Day8",
+      "link": "/bbs/LoL/M.1761288890.A.318",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/10/24 06:54",
+      "imageUrl": "https://cache.pttweb.cc/imgur/7UDFAYb/s/b99dabfb5fc2e02cff30c99998721a8d"
+    },
+    {
       "recommendScore": "354",
       "recommendCount": "1491",
       "title": "[問卦] 被打的學生是永豐高中數資班",
@@ -74,18 +84,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/QHWlAd8/s/1bdf7199461a5fb56a8a5cd2bd8d8316"
     },
     {
-      "recommendScore": "815",
-      "recommendCount": "1397",
-      "title": "[電競] 2025 World Championship - 瑞士制 Day8",
-      "link": "/bbs/LoL/M.1761288890.A.318",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/10/24 06:54",
-      "imageUrl": "https://cache.pttweb.cc/imgur/7UDFAYb/s/b99dabfb5fc2e02cff30c99998721a8d"
-    },
-    {
-      "recommendScore": "232",
-      "recommendCount": "501",
+      "recommendScore": "249",
+      "recommendCount": "541",
       "title": "[爆卦] 台灣人口連21個月負成長登上美媒Newsweek",
       "link": "/bbs/Gossiping/M.1761298051.A.DAC",
       "author": "usnavyseal",
@@ -114,28 +114,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/KnVSkaf/s/d6e85c3a4c2907f672c0ac12c3c21052"
     },
     {
-      "recommendScore": "310",
-      "recommendCount": "470",
-      "title": "[花邊] Chauncey Billups涉賭被捕",
-      "link": "/bbs/NBA/M.1761222538.A.480",
-      "author": "willy911006",
-      "board": "NBA",
-      "publishTime": "2025/10/23 12:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "218",
-      "recommendCount": "365",
-      "title": "[新聞] 快訊／休旅車猛撞立法院！駕駛竟是柯建銘助理",
-      "link": "/bbs/Gossiping/M.1761222550.A.1F2",
-      "author": "rd5186",
-      "board": "Gossiping",
-      "publishTime": "2025/10/23 12:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "270",
-      "recommendCount": "447",
+      "recommendScore": "271",
+      "recommendCount": "450",
       "title": "[BOX ] Nuggets 131:137 Warriors",
       "link": "/bbs/NBA/M.1761281256.A.AA4",
       "author": "KC90",
@@ -154,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "316",
-      "recommendCount": "811",
+      "recommendScore": "319",
+      "recommendCount": "821",
       "title": "[閒聊] 天氣太熱 台灣男生根本沒辦法穿搭啊",
       "link": "/bbs/C_Chat/M.1761287888.A.B51",
       "author": "s7503228",
@@ -174,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "245",
+      "recommendCount": "326",
+      "title": "[情報] Aaron Gordon 50分生涯新高",
+      "link": "/bbs/NBA/M.1761281424.A.DDF",
+      "author": "laowoik",
+      "board": "NBA",
+      "publishTime": "2025/10/24 04:50",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "195",
       "recommendCount": "413",
       "title": "[問卦] 發一萬跟BNT根本相同套路",
@@ -184,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "243",
-      "recommendCount": "323",
-      "title": "[情報] Aaron Gordon 50分生涯新高",
-      "link": "/bbs/NBA/M.1761281424.A.DDF",
-      "author": "laowoik",
-      "board": "NBA",
-      "publishTime": "2025/10/24 04:50",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "286",
       "recommendCount": "511",
       "title": "[新聞] 1.5億台幣！日職球隊出天價挖角徐若熙",
@@ -201,6 +181,26 @@
       "author": "zephyr105",
       "board": "Baseball",
       "publishTime": "2025/10/23 14:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-47",
+      "recommendCount": "308",
+      "title": "[BOX ] Thunder 141:135 Pacers",
+      "link": "/bbs/NBA/M.1761274899.A.F0D",
+      "author": "guardyo",
+      "board": "NBA",
+      "publishTime": "2025/10/24 03:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "177",
+      "recommendCount": "420",
+      "title": "[問卦] 司機說你錢投不夠正確的做法是什麼？",
+      "link": "/bbs/Gossiping/M.1761230396.A.A30",
+      "author": "Rose5566MVP",
+      "board": "Gossiping",
+      "publishTime": "2025/10/23 14:39",
       "imageUrl": ""
     }
   ]
