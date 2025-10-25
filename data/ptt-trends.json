@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-25T05:53:46.712Z",
+  "updated": "2025-10-25T06:07:14.977Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "695",
+      "recommendCount": "1396",
+      "title": "[電競] 2025 World Championship - 瑞士制 Day9",
+      "link": "/bbs/LoL/M.1761361469.A.20A",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/10/25 03:04",
+      "imageUrl": "https://cache.pttweb.cc/imgur/jP97APo/s/b227ff9d4f22d6d38273dfa059ecd27b"
+    },
+    {
       "recommendScore": "763",
       "recommendCount": "1397",
       "title": "[電競] 2025 World Championship - 瑞士制 Day8",
@@ -42,16 +52,6 @@
       "board": "LoL",
       "publishTime": "2025/10/24 06:54",
       "imageUrl": "https://cache.pttweb.cc/imgur/7UDFAYb/s/b99dabfb5fc2e02cff30c99998721a8d"
-    },
-    {
-      "recommendScore": "697",
-      "recommendCount": "1394",
-      "title": "[電競] 2025 World Championship - 瑞士制 Day9",
-      "link": "/bbs/LoL/M.1761361469.A.20A",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/10/25 03:04",
-      "imageUrl": "https://cache.pttweb.cc/imgur/jP97APo/s/b227ff9d4f22d6d38273dfa059ecd27b"
     },
     {
       "recommendScore": "443",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "210",
-      "recommendCount": "527",
+      "recommendScore": "211",
+      "recommendCount": "528",
       "title": "[新聞] 壯壯「義大利遭竊損失600萬」！　勞力士、愛馬仕數十件精品全沒了",
       "link": "/bbs/Gossiping/M.1761314543.A.010",
       "author": "zephyr105",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "341",
-      "recommendCount": "887",
+      "recommendScore": "342",
+      "recommendCount": "888",
       "title": "[閒聊] 天氣太熱 台灣男生根本沒辦法穿搭啊",
       "link": "/bbs/C_Chat/M.1761287888.A.B51",
       "author": "s7503228",
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "98",
+      "recommendCount": "704",
+      "title": "[新聞] 桃客司機痛毆學生「竟一票人叫好」",
+      "link": "/bbs/Gossiping/M.1761352936.A.F9E",
+      "author": "luxuryer",
+      "board": "Gossiping",
+      "publishTime": "2025/10/25 00:42",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "152",
       "recommendCount": "372",
       "title": "[新聞] 官方管道打不通？彭博：賴清德政府改拉攏",
@@ -162,16 +172,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/24 09:57",
       "imageUrl": "https://cache.pttweb.cc/imgur/MJSmZ6w/s/57470ef570052c49a9c215d1f2f49c96"
-    },
-    {
-      "recommendScore": "100",
-      "recommendCount": "693",
-      "title": "[新聞] 桃客司機痛毆學生「竟一票人叫好」",
-      "link": "/bbs/Gossiping/M.1761352936.A.F9E",
-      "author": "luxuryer",
-      "board": "Gossiping",
-      "publishTime": "2025/10/25 00:42",
-      "imageUrl": ""
     },
     {
       "recommendScore": "212",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "172",
+      "recommendCount": "406",
+      "title": "[新聞] 路透：川普證實 將與習近平討論台灣問題",
+      "link": "/bbs/Gossiping/M.1761364239.A.E7A",
+      "author": "TheAvenGer",
+      "board": "Gossiping",
+      "publishTime": "2025/10/25 03:50",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "201",
       "recommendCount": "303",
       "title": "[新聞] 烏龍！美高中生吃多力多滋遭8警包圍上銬竟是「AI誤判持槍」",
@@ -191,16 +201,6 @@
       "author": "bluehttp",
       "board": "Gossiping",
       "publishTime": "2025/10/25 02:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "168",
-      "recommendCount": "496",
-      "title": "[新聞] 快訊／「這輩子就這樣了」破防！客運司機打斷學生鼻樑　2萬交保",
-      "link": "/bbs/Gossiping/M.1761294896.A.27D",
-      "author": "XXXXGGYY",
-      "board": "Gossiping",
-      "publishTime": "2025/10/24 08:34",
       "imageUrl": ""
     }
   ]
