@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-25T11:05:04.379Z",
+  "updated": "2025-10-25T11:16:48.791Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "128",
+      "recommendCount": "587",
+      "title": "[爆卦] LIVE 陳時中主持 非洲豬瘟應變記者會",
+      "link": "/bbs/Gossiping/M.1761377684.A.47E",
+      "author": "xFANx",
+      "board": "Gossiping",
+      "publishTime": "2025/10/25 07:34",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "335",
       "recommendCount": "412",
       "title": "[祭品] CFO奪得S15英雄聯盟冠軍的話每推100p",
@@ -192,16 +202,6 @@
       "board": "Baseball",
       "publishTime": "2025/10/25 02:32",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "176",
-      "recommendCount": "362",
-      "title": "[閒聊] 睽違了10年 我們是八強！！！！！！",
-      "link": "/bbs/LoL/M.1761376773.A.BFF",
-      "author": "nelson9461",
-      "board": "LoL",
-      "publishTime": "2025/10/25 07:19",
-      "imageUrl": "https://cache.pttweb.cc/imgur/jC07e2y/s/2c79ba5802ef237394fa582f8abfda3f"
     }
   ]
 }
