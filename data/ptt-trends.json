@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-25T16:53:50.278Z",
+  "updated": "2025-10-25T17:05:30.564Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "439",
+      "recommendCount": "484",
+      "title": "[公告] 神預測－八強賽階段 預測專區",
+      "link": "/bbs/LoL/M.1761402072.A.CFA",
+      "author": "cornsoup",
+      "board": "LoL",
+      "publishTime": "2025/10/25 14:21",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "279",
       "recommendCount": "643",
       "title": "[新聞] 路透：川普證實 將與習近平討論台灣問題",
@@ -192,16 +202,6 @@
       "board": "Baseball",
       "publishTime": "2025/10/25 02:32",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "176",
-      "recommendCount": "363",
-      "title": "[閒聊] 睽違了10年 我們是八強！！！！！！",
-      "link": "/bbs/LoL/M.1761376773.A.BFF",
-      "author": "nelson9461",
-      "board": "LoL",
-      "publishTime": "2025/10/25 07:19",
-      "imageUrl": "https://cache.pttweb.cc/imgur/jC07e2y/s/2c79ba5802ef237394fa582f8abfda3f"
     }
   ]
 }
