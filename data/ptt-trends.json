@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-25T10:53:45.049Z",
+  "updated": "2025-10-25T11:05:04.379Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -22,6 +22,16 @@
       "board": "LoL",
       "publishTime": "2025/10/25 07:11",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "421",
+      "recommendCount": "776",
+      "title": "[爆卦] 中央社員工報導賴清德魯莽被懲處了！",
+      "link": "/bbs/Gossiping/M.1761373131.A.954",
+      "author": "cheninher",
+      "board": "Gossiping",
+      "publishTime": "2025/10/25 06:18",
+      "imageUrl": "https://cache.pttweb.cc/imgur/HzEmuDZ/s/10e0247ea200bffacf3624a5d79822d0"
     },
     {
       "recommendScore": "407",
@@ -114,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "443",
-      "recommendCount": "534",
-      "title": "[分享] 成晉IG限動",
-      "link": "/bbs/Baseball/M.1761303590.A.97C",
-      "author": "james9806033",
-      "board": "Baseball",
-      "publishTime": "2025/10/24 10:59",
-      "imageUrl": "https://cache.pttweb.cc/imgur/sGtoUim/s/890440a4659695d93fabb461036d6bd8"
-    },
-    {
       "recommendScore": "335",
       "recommendCount": "412",
       "title": "[祭品] CFO奪得S15英雄聯盟冠軍的話每推100p",
@@ -134,8 +134,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "167",
-      "recommendCount": "390",
+      "recommendScore": "264",
+      "recommendCount": "614",
+      "title": "[新聞] 路透：川普證實 將與習近平討論台灣問題",
+      "link": "/bbs/Gossiping/M.1761364239.A.E7A",
+      "author": "TheAvenGer",
+      "board": "Gossiping",
+      "publishTime": "2025/10/25 03:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "168",
+      "recommendCount": "391",
       "title": "[閒聊] ZEKA沒出的女神之淚在中文轉播台上",
       "link": "/bbs/LoL/M.1761376645.A.27E",
       "author": "daniel0527",
@@ -154,18 +164,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/DVx9jqm/s/954c51eeb499ef6be338a46a746b88af"
     },
     {
-      "recommendScore": "242",
-      "recommendCount": "559",
-      "title": "[新聞] 路透：川普證實 將與習近平討論台灣問題",
-      "link": "/bbs/Gossiping/M.1761364239.A.E7A",
-      "author": "TheAvenGer",
+      "recommendScore": "130",
+      "recommendCount": "470",
+      "title": "[新聞] 非洲豬瘟疫情有變？中央災變中心下午3:30記者會　政委陳時中主持",
+      "link": "/bbs/Gossiping/M.1761356878.A.915",
+      "author": "ccf52881",
       "board": "Gossiping",
-      "publishTime": "2025/10/25 03:50",
+      "publishTime": "2025/10/25 01:47",
       "imageUrl": ""
     },
     {
-      "recommendScore": "216",
-      "recommendCount": "536",
+      "recommendScore": "217",
+      "recommendCount": "539",
       "title": "[新聞] 壯壯「義大利遭竊損失600萬」！　勞力士、愛馬仕數十件精品全沒了",
       "link": "/bbs/Gossiping/M.1761314543.A.010",
       "author": "zephyr105",
@@ -192,16 +202,6 @@
       "board": "LoL",
       "publishTime": "2025/10/25 07:19",
       "imageUrl": "https://cache.pttweb.cc/imgur/jC07e2y/s/2c79ba5802ef237394fa582f8abfda3f"
-    },
-    {
-      "recommendScore": "131",
-      "recommendCount": "454",
-      "title": "[新聞] 非洲豬瘟疫情有變？中央災變中心下午3:30記者會　政委陳時中主持",
-      "link": "/bbs/Gossiping/M.1761356878.A.915",
-      "author": "ccf52881",
-      "board": "Gossiping",
-      "publishTime": "2025/10/25 01:47",
-      "imageUrl": ""
     }
   ]
 }
