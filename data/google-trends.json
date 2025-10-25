@@ -1,15 +1,15 @@
 {
-  "updated": "2025-10-25T03:22:45.790Z",
+  "updated": "2025-10-25T03:43:51.332Z",
   "trends": [
+    {
+      "googleTrend": "nba",
+      "searchVolume": "5,000+",
+      "started": "1 小時前"
+    },
     {
       "googleTrend": "鵜鶘 對 馬刺",
       "searchVolume": "2,000+",
       "started": "3 小時前"
-    },
-    {
-      "googleTrend": "nba",
-      "searchVolume": "5,000+",
-      "started": "40 分鐘前"
     },
     {
       "googleTrend": "火箭 對 活塞",
@@ -18,8 +18,18 @@
     },
     {
       "googleTrend": "錦秀社區",
-      "searchVolume": "1,000+",
+      "searchVolume": "2,000+",
       "started": "1 小時前"
+    },
+    {
+      "googleTrend": "dodgers",
+      "searchVolume": "1,000+",
+      "started": "3 小時前"
+    },
+    {
+      "googleTrend": "拓元",
+      "searchVolume": "2,000+",
+      "started": "10 分鐘前"
     },
     {
       "googleTrend": "尼克 對 塞爾提克",
@@ -27,29 +37,9 @@
       "started": "3 小時前"
     },
     {
-      "googleTrend": "blue jays vs dodgers",
-      "searchVolume": "500+",
-      "started": "2 小時前"
-    },
-    {
-      "googleTrend": "nba 直播",
-      "searchVolume": "500+",
-      "started": "2 小時前"
-    },
-    {
-      "googleTrend": "籃網 對 騎士",
-      "searchVolume": "500+",
-      "started": "3 小時前"
-    },
-    {
-      "googleTrend": "mlb季後賽",
-      "searchVolume": "2,000+",
-      "started": "3 小時前"
-    },
-    {
       "googleTrend": "勇士",
       "searchVolume": "500+",
-      "started": "40 分鐘前"
+      "started": "1 小時前"
     },
     {
       "googleTrend": "apld",
@@ -57,14 +47,24 @@
       "started": "1 小時前"
     },
     {
-      "googleTrend": "snell",
-      "searchVolume": "1,000+",
-      "started": "2 小時前"
+      "googleTrend": "30 分鐘前",
+      "searchVolume": "200+",
+      "started": "30 分鐘前"
     },
     {
       "googleTrend": "lakers vs timberwolves",
       "searchVolume": "200+",
-      "started": "50 分鐘前"
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "20 分鐘前",
+      "searchVolume": "200+",
+      "started": "20 分鐘前"
+    },
+    {
+      "googleTrend": "blue jays",
+      "searchVolume": "500+",
+      "started": "1 小時前"
     },
     {
       "googleTrend": "詩麗吉",
@@ -77,24 +77,9 @@
       "started": "1 小時前"
     },
     {
-      "googleTrend": "40 分鐘前",
-      "searchVolume": "200+",
-      "started": "40 分鐘前"
-    },
-    {
       "googleTrend": "espn nba",
       "searchVolume": "200+",
       "started": "2 小時前"
-    },
-    {
-      "googleTrend": "10 分鐘前",
-      "searchVolume": "200+",
-      "started": "10 分鐘前"
-    },
-    {
-      "googleTrend": "jays",
-      "searchVolume": "200+",
-      "started": "1 小時前"
     },
     {
       "googleTrend": "espn",
@@ -102,14 +87,29 @@
       "started": "3 小時前"
     },
     {
-      "googleTrend": "20 分鐘前",
-      "searchVolume": "200+",
-      "started": "20 分鐘前"
-    },
-    {
-      "googleTrend": "mlb 直播 線上 看",
+      "googleTrend": "1 小時前",
       "searchVolume": "200+",
       "started": "1 小時前"
+    },
+    {
+      "googleTrend": "籃網 對 騎士",
+      "searchVolume": "500+",
+      "started": "3 小時前"
+    },
+    {
+      "googleTrend": "mlb季後賽",
+      "searchVolume": "2,000+",
+      "started": "3 小時前"
+    },
+    {
+      "googleTrend": "10 分鐘前",
+      "searchVolume": "100+",
+      "started": "10 分鐘前"
+    },
+    {
+      "googleTrend": "苗栗風箏節",
+      "searchVolume": "200+",
+      "started": "2 小時前"
     }
   ]
 }
