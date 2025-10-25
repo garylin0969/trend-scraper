@@ -1,8 +1,18 @@
 {
-  "updated": "2025-10-25T09:43:50.625Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-10-25T09:53:46.411Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "519",
+      "recommendCount": "827",
+      "title": "[發錢] 十年了！！！！！！！！！！！！！！！！",
+      "link": "/bbs/LoL/M.1761376567.A.E49",
+      "author": "leawweikeng",
+      "board": "LoL",
+      "publishTime": "2025/10/25 07:16",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "534",
       "recommendCount": "799",
@@ -184,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "229",
-      "recommendCount": "321",
-      "title": "[閒聊] CFO最有可能的劇本是？",
-      "link": "/bbs/LoL/M.1761307400.A.DC3",
-      "author": "qazxsw123",
-      "board": "LoL",
-      "publishTime": "2025/10/24 12:03",
+      "recommendScore": "199",
+      "recommendCount": "493",
+      "title": "[新聞] 新北鶯歌老街冷清 店家做二休五苦撐",
+      "link": "/bbs/Gossiping/M.1761368298.A.A40",
+      "author": "loechen",
+      "board": "Gossiping",
+      "publishTime": "2025/10/25 04:58",
       "imageUrl": ""
     }
   ]
