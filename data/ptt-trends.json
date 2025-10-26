@@ -1,26 +1,26 @@
 {
-  "updated": "2025-10-26T09:17:43.326Z",
+  "updated": "2025-10-26T09:27:18.549Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "784",
-      "recommendCount": "868",
-      "title": "[公告] 神預測－八強賽階段 預測專區",
-      "link": "/bbs/LoL/M.1761402072.A.CFA",
-      "author": "cornsoup",
-      "board": "LoL",
-      "publishTime": "2025/10/25 14:21",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "341",
-      "recommendCount": "1046",
+      "recommendCount": "1059",
       "title": "[新聞] 陰謀論破除！陳梅慧車禍亡 法院認定單純意外",
       "link": "/bbs/Gossiping/M.1761446832.A.39D",
       "author": "Goo4u",
       "board": "Gossiping",
       "publishTime": "2025/10/26 02:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "784",
+      "recommendCount": "869",
+      "title": "[公告] 神預測－八強賽階段 預測專區",
+      "link": "/bbs/LoL/M.1761402072.A.CFA",
+      "author": "cornsoup",
+      "board": "LoL",
+      "publishTime": "2025/10/25 14:21",
       "imageUrl": ""
     },
     {
@@ -54,8 +54,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/lFUSWCZ/s/bbe0e89cba9b74923c02ce1f734f67fa"
     },
     {
-      "recommendScore": "238",
-      "recommendCount": "493",
+      "recommendScore": "239",
+      "recommendCount": "494",
       "title": "[新聞] 高雄廟會封街放鞭炮嚇哭小孩 網痛斥：沒政府了",
       "link": "/bbs/Gossiping/M.1761439551.A.56E",
       "author": "ytkuang",
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "186",
+      "recommendCount": "600",
+      "title": "[爆卦]  吃人夠夠的政府",
+      "link": "/bbs/Gossiping/M.1761458922.A.3F1",
+      "author": "sunrise2015",
+      "board": "Gossiping",
+      "publishTime": "2025/10/26 06:08",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "274",
       "recommendCount": "359",
       "title": "[分享] Roberts：想都不用想就是讓山本自己投完",
@@ -121,16 +131,6 @@
       "author": "shokotan",
       "board": "Gossiping",
       "publishTime": "2025/10/25 12:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "182",
-      "recommendCount": "583",
-      "title": "[爆卦]  吃人夠夠的政府",
-      "link": "/bbs/Gossiping/M.1761458922.A.3F1",
-      "author": "sunrise2015",
-      "board": "Gossiping",
-      "publishTime": "2025/10/26 06:08",
       "imageUrl": ""
     },
     {
@@ -164,14 +164,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "214",
-      "recommendCount": "318",
+      "recommendScore": "216",
+      "recommendCount": "320",
       "title": "[討論] 道奇牛棚是山本由伸變成鬼的動力嗎==",
       "link": "/bbs/Baseball/M.1761445901.A.AD1",
       "author": "wiwi12345678",
       "board": "Baseball",
       "publishTime": "2025/10/26 02:31",
       "imageUrl": "https://cache.pttweb.cc/imgur/iFtGpyI/s/2fe41149aa1b081b239b38a2f45ce125"
+    },
+    {
+      "recommendScore": "161",
+      "recommendCount": "363",
+      "title": "[新聞] IKEA用餐勸女手機關小聲 她丈夫被惹惱持牛排刀怒嗆引警到場",
+      "link": "/bbs/Gossiping/M.1761454818.A.401",
+      "author": "herewego",
+      "board": "Gossiping",
+      "publishTime": "2025/10/26 05:00",
+      "imageUrl": ""
     },
     {
       "recommendScore": "239",
@@ -192,16 +202,6 @@
       "board": "Baseball",
       "publishTime": "2025/10/26 02:45",
       "imageUrl": "https://cache.pttweb.cc/imgur/uDdalZ0/s/b00a1e1c3e103069e86575e1a896ea36"
-    },
-    {
-      "recommendScore": "152",
-      "recommendCount": "347",
-      "title": "[新聞] IKEA用餐勸女手機關小聲 她丈夫被惹惱持牛排刀怒嗆引警到場",
-      "link": "/bbs/Gossiping/M.1761454818.A.401",
-      "author": "herewego",
-      "board": "Gossiping",
-      "publishTime": "2025/10/26 05:00",
-      "imageUrl": ""
     }
   ]
 }
