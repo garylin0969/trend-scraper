@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-26T03:50:28.173Z",
+  "updated": "2025-10-26T03:58:34.160Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "725",
-      "recommendCount": "802",
+      "recommendScore": "732",
+      "recommendCount": "809",
       "title": "[公告] 神預測－八強賽階段 預測專區",
       "link": "/bbs/LoL/M.1761402072.A.CFA",
       "author": "cornsoup",
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "282",
-      "recommendCount": "657",
-      "title": "[新聞] 路透：川普證實 將與習近平討論台灣問題",
-      "link": "/bbs/Gossiping/M.1761364239.A.E7A",
-      "author": "TheAvenGer",
-      "board": "Gossiping",
-      "publishTime": "2025/10/25 03:50",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "254",
       "recommendCount": "654",
       "title": "[新聞] 新北鶯歌老街冷清 店家做二休五苦撐",
@@ -164,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "241",
-      "recommendCount": "579",
+      "recommendScore": "242",
+      "recommendCount": "580",
       "title": "[新聞] 經濟學人：川普若背棄 台灣恐無B計畫",
       "link": "/bbs/Gossiping/M.1761385348.A.886",
       "author": "cheninher",
@@ -202,6 +192,16 @@
       "board": "LoL",
       "publishTime": "2025/10/25 07:19",
       "imageUrl": "https://cache.pttweb.cc/imgur/lKsP6kJ/s/3f5264049f18ac2e939dd252b532abec"
+    },
+    {
+      "recommendScore": "237",
+      "recommendCount": "356",
+      "title": "[閒聊] TES進八強 BLG無緣八強",
+      "link": "/bbs/LoL/M.1761385828.A.E40",
+      "author": "nelson9461",
+      "board": "LoL",
+      "publishTime": "2025/10/25 09:50",
+      "imageUrl": ""
     }
   ]
 }
