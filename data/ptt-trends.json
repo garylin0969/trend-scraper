@@ -1,16 +1,26 @@
 {
-  "updated": "2025-10-26T08:18:54.426Z",
+  "updated": "2025-10-26T08:32:14.287Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "772",
-      "recommendCount": "854",
+      "recommendScore": "778",
+      "recommendCount": "861",
       "title": "[公告] 神預測－八強賽階段 預測專區",
       "link": "/bbs/LoL/M.1761402072.A.CFA",
       "author": "cornsoup",
       "board": "LoL",
       "publishTime": "2025/10/25 14:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "336",
+      "recommendCount": "1008",
+      "title": "[新聞] 陰謀論破除！陳梅慧車禍亡 法院認定單純意外",
+      "link": "/bbs/Gossiping/M.1761446832.A.39D",
+      "author": "Goo4u",
+      "board": "Gossiping",
+      "publishTime": "2025/10/26 02:47",
       "imageUrl": ""
     },
     {
@@ -24,16 +34,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "295",
-      "recommendCount": "863",
-      "title": "[新聞] 陰謀論破除！陳梅慧車禍亡 法院認定單純意外",
-      "link": "/bbs/Gossiping/M.1761446832.A.39D",
-      "author": "Goo4u",
-      "board": "Gossiping",
-      "publishTime": "2025/10/26 02:47",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "383",
       "recommendCount": "455",
       "title": "[閒聊] 大塊人心",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "343",
-      "recommendCount": "485",
+      "recommendScore": "345",
+      "recommendCount": "489",
       "title": "[分享] MLB官網放上山本由伸魔神仔照",
       "link": "/bbs/Baseball/M.1761449322.A.2A2",
       "author": "cmelo1515",
@@ -54,8 +54,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/IaYKFRM/s/4b0041aa6a1968467f6de6606d349190"
     },
     {
-      "recommendScore": "243",
-      "recommendCount": "581",
+      "recommendScore": "244",
+      "recommendCount": "582",
       "title": "[新聞] 經濟學人：川普若背棄 台灣恐無B計畫",
       "link": "/bbs/Gossiping/M.1761385348.A.886",
       "author": "cheninher",
@@ -64,8 +64,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/lFUSWCZ/s/bbe0e89cba9b74923c02ce1f734f67fa"
     },
     {
-      "recommendScore": "230",
-      "recommendCount": "461",
+      "recommendScore": "237",
+      "recommendCount": "490",
       "title": "[新聞] 高雄廟會封街放鞭炮嚇哭小孩 網痛斥：沒政府了",
       "link": "/bbs/Gossiping/M.1761439551.A.56E",
       "author": "ytkuang",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "256",
-      "recommendCount": "693",
+      "recommendScore": "257",
+      "recommendCount": "695",
       "title": "[心得] 貶低TPA的人真的挺可悲",
       "link": "/bbs/LoL/M.1761418824.A.55D",
       "author": "foam0406",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "205",
-      "recommendCount": "383",
+      "recommendScore": "207",
+      "recommendCount": "386",
       "title": "[新聞] 真相大白！3女大生住恆春民宿「老闆兒闖房噴精」　縣府勒令停業",
       "link": "/bbs/Gossiping/M.1761393984.A.55F",
       "author": "access4096",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "273",
-      "recommendCount": "357",
+      "recommendScore": "274",
+      "recommendCount": "358",
       "title": "[分享] Roberts：想都不用想就是讓山本自己投完",
       "link": "/bbs/Baseball/M.1761449967.A.A96",
       "author": "LABOYS",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "136",
-      "recommendCount": "479",
+      "recommendScore": "138",
+      "recommendCount": "481",
       "title": "[新聞]台大名醫自曝「我被騙了」！逃逸移工剖腹費達142萬",
       "link": "/bbs/Gossiping/M.1761396440.A.74C",
       "author": "shokotan",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "117",
-      "recommendCount": "406",
+      "recommendScore": "118",
+      "recommendCount": "408",
       "title": "[問卦] 台灣老街很多都快倒了一堆人還在衝日本?",
       "link": "/bbs/Gossiping/M.1761384850.A.0F8",
       "author": "lichuer",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "187",
-      "recommendCount": "560",
+      "recommendScore": "189",
+      "recommendCount": "562",
       "title": "[新聞] 又見公車糾紛！孩童疑誤按下車鈴 司機爆氣靠站趕母女：不下車我不開",
       "link": "/bbs/Gossiping/M.1761404756.A.552",
       "author": "iamshana",
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "216",
+      "recommendCount": "308",
+      "title": "[新聞] 網喊週一飆2萬8 谷月涵：越漲「獲利了結」",
+      "link": "/bbs/Stock/M.1761388115.A.0C9",
+      "author": "jefflin0824",
+      "board": "Stock",
+      "publishTime": "2025/10/25 10:28",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "214",
       "recommendCount": "318",
       "title": "[討論] 道奇牛棚是山本由伸變成鬼的動力嗎==",
@@ -162,16 +172,6 @@
       "board": "Baseball",
       "publishTime": "2025/10/26 02:31",
       "imageUrl": "https://cache.pttweb.cc/imgur/iFtGpyI/s/2fe41149aa1b081b239b38a2f45ce125"
-    },
-    {
-      "recommendScore": "215",
-      "recommendCount": "306",
-      "title": "[新聞] 網喊週一飆2萬8 谷月涵：越漲「獲利了結」",
-      "link": "/bbs/Stock/M.1761388115.A.0C9",
-      "author": "jefflin0824",
-      "board": "Stock",
-      "publishTime": "2025/10/25 10:28",
-      "imageUrl": ""
     },
     {
       "recommendScore": "239",
@@ -194,8 +194,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/uDdalZ0/s/b00a1e1c3e103069e86575e1a896ea36"
     },
     {
-      "recommendScore": "113",
-      "recommendCount": "326",
+      "recommendScore": "116",
+      "recommendCount": "345",
       "title": "[新聞] 嚴懲虐殺動物 最重擬判刑7年",
       "link": "/bbs/Gossiping/M.1761432742.A.ABA",
       "author": "sony577",
