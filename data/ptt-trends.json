@@ -1,16 +1,26 @@
 {
-  "updated": "2025-10-26T17:28:05.747Z",
-  "total_found": 18,
-  "returned_count": 18,
+  "updated": "2025-10-26T17:36:34.271Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "367",
-      "recommendCount": "1136",
+      "recommendScore": "368",
+      "recommendCount": "1141",
       "title": "[新聞] 陰謀論破除！陳梅慧車禍亡 法院認定單純意外",
       "link": "/bbs/Gossiping/M.1761446832.A.39D",
       "author": "Goo4u",
       "board": "Gossiping",
       "publishTime": "2025/10/26 02:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "255",
+      "recommendCount": "893",
+      "title": "[爆卦]  吃人夠夠的政府",
+      "link": "/bbs/Gossiping/M.1761458922.A.3F1",
+      "author": "sunrise2015",
+      "board": "Gossiping",
+      "publishTime": "2025/10/26 06:08",
       "imageUrl": ""
     },
     {
@@ -21,16 +31,6 @@
       "author": "j341256",
       "board": "Baseball",
       "publishTime": "2025/10/26 11:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "250",
-      "recommendCount": "886",
-      "title": "[爆卦]  吃人夠夠的政府",
-      "link": "/bbs/Gossiping/M.1761458922.A.3F1",
-      "author": "sunrise2015",
-      "board": "Gossiping",
-      "publishTime": "2025/10/26 06:08",
       "imageUrl": ""
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "recommendScore": "207",
-      "recommendCount": "451",
+      "recommendCount": "453",
       "title": "[新聞] IKEA用餐勸女手機關小聲 她丈夫被惹惱持牛排刀怒嗆引警到場",
       "link": "/bbs/Gossiping/M.1761454818.A.401",
       "author": "herewego",
@@ -164,14 +164,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "171",
-      "recommendCount": "318",
+      "recommendScore": "176",
+      "recommendCount": "328",
       "title": "[分享] G5門票大量釋出中？",
       "link": "/bbs/Baseball/M.1761480944.A.977",
       "author": "xz4979265",
       "board": "Baseball",
       "publishTime": "2025/10/26 12:15",
       "imageUrl": "https://cache.pttweb.cc/imgur/gcdbtL0/s/701b3e745abd543d9d5359e8f113f5ac"
+    },
+    {
+      "recommendScore": "219",
+      "recommendCount": "320",
+      "title": "[問卦] 豬瘟加熱到70度會死 90度1hr是規範(發錢",
+      "link": "/bbs/Gossiping/M.1761475783.A.D9D",
+      "author": "q347",
+      "board": "Gossiping",
+      "publishTime": "2025/10/26 10:49",
+      "imageUrl": "https://cache.pttweb.cc/imgur/vM3XhU0/s/7e5c19271919f127f38bc60e505b1e60"
     },
     {
       "recommendScore": "80",
@@ -181,6 +191,16 @@
       "author": "MikaHakkinen",
       "board": "Gossiping",
       "publishTime": "2025/10/25 21:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "101",
+      "recommendCount": "387",
+      "title": "[轉播] 六上 兄弟1：1樂天 岳東華",
+      "link": "/bbs/Elephants/M.1761475056.A.9A1",
+      "author": "hsuaninteen",
+      "board": "Elephants",
+      "publishTime": "2025/10/26 10:37",
       "imageUrl": ""
     }
   ]
