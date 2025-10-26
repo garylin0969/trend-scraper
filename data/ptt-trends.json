@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-26T22:45:22.936Z",
+  "updated": "2025-10-26T22:54:07.339Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "123",
-      "recommendCount": "360",
-      "title": "[新聞] 嚴懲虐殺動物 最重擬判刑7年",
-      "link": "/bbs/Gossiping/M.1761432742.A.ABA",
-      "author": "sony577",
-      "board": "Gossiping",
-      "publishTime": "2025/10/25 22:52",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "178",
       "recommendCount": "330",
       "title": "[分享] G5門票大量釋出中？",
@@ -182,6 +172,16 @@
       "board": "Baseball",
       "publishTime": "2025/10/26 12:15",
       "imageUrl": "https://cache.pttweb.cc/imgur/gcdbtL0/s/701b3e745abd543d9d5359e8f113f5ac"
+    },
+    {
+      "recommendScore": "-160",
+      "recommendCount": "296",
+      "title": "[討論] 只有我覺得賽前吃烤肉 有點不尊重對手嗎",
+      "link": "/bbs/Baseball/M.1761491202.A.5BE",
+      "author": "Crystal0322",
+      "board": "Baseball",
+      "publishTime": "2025/10/26 15:06",
+      "imageUrl": ""
     },
     {
       "recommendScore": "195",
@@ -194,14 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-159",
-      "recommendCount": "290",
-      "title": "[討論] 只有我覺得賽前吃烤肉 有點不尊重對手嗎",
-      "link": "/bbs/Baseball/M.1761491202.A.5BE",
-      "author": "Crystal0322",
-      "board": "Baseball",
-      "publishTime": "2025/10/26 15:06",
-      "imageUrl": ""
+      "recommendScore": "168",
+      "recommendCount": "355",
+      "title": "[問題] 難怪JR會哭，這是PO11搞的嗎",
+      "link": "/bbs/LoL/M.1761484791.A.B2A",
+      "author": "foam0406",
+      "board": "LoL",
+      "publishTime": "2025/10/26 13:19",
+      "imageUrl": "https://cache.pttweb.cc/imgur/N4lMmBE/s/b70e309dd54dcff482a8ddbb2976b405"
     }
   ]
 }
