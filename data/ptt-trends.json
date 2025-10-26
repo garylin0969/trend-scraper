@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-26T02:13:23.725Z",
+  "updated": "2025-10-26T02:50:07.135Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,6 +14,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "558",
+      "recommendCount": "1062",
+      "title": "[爆卦] 中央社員工報導賴清德魯莽被懲處了！",
+      "link": "/bbs/Gossiping/M.1761373131.A.954",
+      "author": "cheninher",
+      "board": "Gossiping",
+      "publishTime": "2025/10/25 06:18",
+      "imageUrl": "https://cache.pttweb.cc/imgur/HzEmuDZ/s/10e0247ea200bffacf3624a5d79822d0"
+    },
+    {
       "recommendScore": "536",
       "recommendCount": "851",
       "title": "[發錢] 十年了！！！！！！！！！！！！！！！！",
@@ -24,18 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "552",
-      "recommendCount": "1053",
-      "title": "[爆卦] 中央社員工報導賴清德魯莽被懲處了！",
-      "link": "/bbs/Gossiping/M.1761373131.A.954",
-      "author": "cheninher",
-      "board": "Gossiping",
-      "publishTime": "2025/10/25 06:18",
-      "imageUrl": "https://cache.pttweb.cc/imgur/HzEmuDZ/s/10e0247ea200bffacf3624a5d79822d0"
-    },
-    {
-      "recommendScore": "713",
-      "recommendCount": "790",
+      "recommendScore": "721",
+      "recommendCount": "798",
       "title": "[公告] 神預測－八強賽階段 預測專區",
       "link": "/bbs/LoL/M.1761402072.A.CFA",
       "author": "cornsoup",
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "398",
-      "recommendCount": "585",
-      "title": "[炸裂] 大谷翔平",
-      "link": "/bbs/Baseball/M.1761360356.A.3FC",
-      "author": "Axwell",
-      "board": "Baseball",
-      "publishTime": "2025/10/25 02:45",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "408",
       "recommendCount": "495",
       "title": "[發錢] 你水滴也疊十年了嗎？",
@@ -155,7 +145,7 @@
     },
     {
       "recommendScore": "282",
-      "recommendCount": "655",
+      "recommendCount": "657",
       "title": "[新聞] 路透：川普證實 將與習近平討論台灣問題",
       "link": "/bbs/Gossiping/M.1761364239.A.E7A",
       "author": "TheAvenGer",
@@ -164,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "252",
-      "recommendCount": "647",
+      "recommendScore": "254",
+      "recommendCount": "651",
       "title": "[新聞] 新北鶯歌老街冷清 店家做二休五苦撐",
       "link": "/bbs/Gossiping/M.1761368298.A.A40",
       "author": "loechen",
@@ -174,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "238",
-      "recommendCount": "564",
+      "recommendScore": "241",
+      "recommendCount": "570",
       "title": "[新聞] 經濟學人：川普若背棄 台灣恐無B計畫",
       "link": "/bbs/Gossiping/M.1761385348.A.886",
       "author": "cheninher",
@@ -194,14 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "291",
-      "recommendCount": "405",
-      "title": "[炸裂] Addison Barger 滿貫砲",
-      "link": "/bbs/Baseball/M.1761359548.A.DBE",
-      "author": "what62651",
-      "board": "Baseball",
-      "publishTime": "2025/10/25 02:32",
-      "imageUrl": ""
+      "recommendScore": "176",
+      "recommendCount": "363",
+      "title": "[閒聊] 睽違了10年 我們是八強！！！！！！",
+      "link": "/bbs/LoL/M.1761376773.A.BFF",
+      "author": "nelson9461",
+      "board": "LoL",
+      "publishTime": "2025/10/25 07:19",
+      "imageUrl": "https://cache.pttweb.cc/imgur/jC07e2y/s/2c79ba5802ef237394fa582f8abfda3f"
+    },
+    {
+      "recommendScore": "157",
+      "recommendCount": "346",
+      "title": "[發錢] 慶祝10年後八強 CFO 太扯啦",
+      "link": "/bbs/LoL/M.1761376773.A.405",
+      "author": "PeterHu0827",
+      "board": "LoL",
+      "publishTime": "2025/10/25 07:19",
+      "imageUrl": "https://cache.pttweb.cc/imgur/lKsP6kJ/s/3f5264049f18ac2e939dd252b532abec"
     }
   ]
 }
