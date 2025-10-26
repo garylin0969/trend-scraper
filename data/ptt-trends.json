@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-26T04:53:48.571Z",
+  "updated": "2025-10-26T05:06:16.256Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "255",
-      "recommendCount": "656",
-      "title": "[新聞] 新北鶯歌老街冷清 店家做二休五苦撐",
-      "link": "/bbs/Gossiping/M.1761368298.A.A40",
-      "author": "loechen",
-      "board": "Gossiping",
-      "publishTime": "2025/10/25 04:58",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "242",
       "recommendCount": "580",
       "title": "[新聞] 經濟學人：川普若背棄 台灣恐無B計畫",
@@ -202,6 +192,16 @@
       "board": "LoL",
       "publishTime": "2025/10/25 07:19",
       "imageUrl": "https://cache.pttweb.cc/imgur/lKsP6kJ/s/3f5264049f18ac2e939dd252b532abec"
+    },
+    {
+      "recommendScore": "237",
+      "recommendCount": "356",
+      "title": "[閒聊] TES進八強 BLG無緣八強",
+      "link": "/bbs/LoL/M.1761385828.A.E40",
+      "author": "nelson9461",
+      "board": "LoL",
+      "publishTime": "2025/10/25 09:50",
+      "imageUrl": ""
     }
   ]
 }
