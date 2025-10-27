@@ -1,18 +1,8 @@
 {
-  "updated": "2025-10-27T06:09:26.257Z",
+  "updated": "2025-10-27T06:22:39.332Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "267",
-      "recommendCount": "937",
-      "title": "[爆卦]  吃人夠夠的政府",
-      "link": "/bbs/Gossiping/M.1761458922.A.3F1",
-      "author": "sunrise2015",
-      "board": "Gossiping",
-      "publishTime": "2025/10/26 06:08",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "429",
       "recommendCount": "537",
@@ -24,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "140",
-      "recommendCount": "524",
+      "recommendScore": "144",
+      "recommendCount": "534",
       "title": "[問卦] 行政院廣告：力挺普發一萬 照顧人民",
       "link": "/bbs/Gossiping/M.1761535379.A.D80",
       "author": "Irene534",
@@ -54,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-203",
-      "recommendCount": "363",
+      "recommendScore": "-204",
+      "recommendCount": "364",
       "title": "[討論] 只有我覺得賽前吃烤肉 有點不尊重對手嗎",
       "link": "/bbs/Baseball/M.1761491202.A.5BE",
       "author": "Crystal0322",
@@ -64,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "226",
-      "recommendCount": "416",
+      "recommendScore": "227",
+      "recommendCount": "417",
       "title": "[外絮] Keria接受採訪卻被詛咒輸掉比賽",
       "link": "/bbs/LoL/M.1761492512.A.75D",
       "author": "sicer",
@@ -74,13 +64,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "232",
-      "recommendCount": "456",
+      "recommendScore": "234",
+      "recommendCount": "460",
       "title": "[爆卦] 必勝客FB",
       "link": "/bbs/Gossiping/M.1761533880.A.36A",
       "author": "seazilicy",
       "board": "Gossiping",
       "publishTime": "2025/10/27 02:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "248",
+      "recommendCount": "508",
+      "title": "[新聞] 洋基隊媒崩潰 痛批當初不搶山本由伸：墮落到這種程度",
+      "link": "/bbs/Baseball/M.1761534461.A.CAF",
+      "author": "Intelnet",
+      "board": "Baseball",
+      "publishTime": "2025/10/27 03:07",
       "imageUrl": ""
     },
     {
@@ -101,16 +101,6 @@
       "author": "liu33",
       "board": "Baseball",
       "publishTime": "2025/10/26 10:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "241",
-      "recommendCount": "498",
-      "title": "[新聞] 洋基隊媒崩潰 痛批當初不搶山本由伸：墮落到這種程度",
-      "link": "/bbs/Baseball/M.1761534461.A.CAF",
-      "author": "Intelnet",
-      "board": "Baseball",
-      "publishTime": "2025/10/27 03:07",
       "imageUrl": ""
     },
     {
@@ -135,13 +125,23 @@
     },
     {
       "recommendScore": "238",
-      "recommendCount": "341",
+      "recommendCount": "342",
       "title": "[問卦] 豬瘟加熱到70度會死 90度1hr是規範(發錢",
       "link": "/bbs/Gossiping/M.1761475783.A.D9D",
       "author": "q347",
       "board": "Gossiping",
       "publishTime": "2025/10/26 10:49",
       "imageUrl": "https://cache.pttweb.cc/imgur/vM3XhU0/s/7e5c19271919f127f38bc60e505b1e60"
+    },
+    {
+      "recommendScore": "186",
+      "recommendCount": "342",
+      "title": "[花邊] 今日Austin Reaves 生涯新高51分",
+      "link": "/bbs/NBA/M.1761536444.A.DE3",
+      "author": "willy911006",
+      "board": "NBA",
+      "publishTime": "2025/10/27 03:40",
+      "imageUrl": ""
     },
     {
       "recommendScore": "118",
@@ -162,16 +162,6 @@
       "board": "Baseball",
       "publishTime": "2025/10/26 12:15",
       "imageUrl": "https://cache.pttweb.cc/imgur/gcdbtL0/s/701b3e745abd543d9d5359e8f113f5ac"
-    },
-    {
-      "recommendScore": "186",
-      "recommendCount": "339",
-      "title": "[花邊] 今日Austin Reaves 生涯新高51分",
-      "link": "/bbs/NBA/M.1761536444.A.DE3",
-      "author": "willy911006",
-      "board": "NBA",
-      "publishTime": "2025/10/27 03:40",
-      "imageUrl": ""
     },
     {
       "recommendScore": "-44",
@@ -201,6 +191,16 @@
       "author": "JCK0417",
       "board": "Baseball",
       "publishTime": "2025/10/26 15:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "207",
+      "recommendCount": "460",
+      "title": "[新聞] 貝森特:中國延後稀土管制 並購買美國大豆",
+      "link": "/bbs/Stock/M.1761488428.A.B01",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2025/10/26 14:20",
       "imageUrl": ""
     }
   ]
