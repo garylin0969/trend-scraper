@@ -1,8 +1,18 @@
 {
-  "updated": "2025-10-27T10:46:57.932Z",
+  "updated": "2025-10-27T10:54:12.401Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "306",
+      "recommendCount": "805",
+      "title": "[新聞] 承認捅了馬蜂窩! 罵賴總統「魯莽」後 美智庫再發聲 : 若開戰 美不會馳援",
+      "link": "/bbs/Gossiping/M.1761545470.A.B21",
+      "author": "shyuantseh",
+      "board": "Gossiping",
+      "publishTime": "2025/10/27 06:11",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "429",
       "recommendCount": "537",
@@ -11,16 +21,6 @@
       "author": "j341256",
       "board": "Baseball",
       "publishTime": "2025/10/26 11:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "302",
-      "recommendCount": "798",
-      "title": "[新聞] 承認捅了馬蜂窩! 罵賴總統「魯莽」後 美智庫再發聲 : 若開戰 美不會馳援",
-      "link": "/bbs/Gossiping/M.1761545470.A.B21",
-      "author": "shyuantseh",
-      "board": "Gossiping",
-      "publishTime": "2025/10/27 06:11",
       "imageUrl": ""
     },
     {
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "277",
-      "recommendCount": "579",
+      "recommendScore": "278",
+      "recommendCount": "580",
       "title": "[BOX ] Lakers 127:120 Kings",
       "link": "/bbs/NBA/M.1761536500.A.6EC",
       "author": "harrybbs",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "285",
-      "recommendCount": "541",
+      "recommendScore": "286",
+      "recommendCount": "542",
       "title": "[爆卦] 必勝客FB",
       "link": "/bbs/Gossiping/M.1761533880.A.36A",
       "author": "seazilicy",
@@ -144,18 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "239",
-      "recommendCount": "343",
-      "title": "[問卦] 豬瘟加熱到70度會死 90度1hr是規範(發錢",
-      "link": "/bbs/Gossiping/M.1761475783.A.D9D",
-      "author": "q347",
-      "board": "Gossiping",
-      "publishTime": "2025/10/26 10:49",
-      "imageUrl": "https://cache.pttweb.cc/imgur/vM3XhU0/s/7e5c19271919f127f38bc60e505b1e60"
-    },
-    {
-      "recommendScore": "178",
-      "recommendCount": "512",
+      "recommendScore": "180",
+      "recommendCount": "514",
       "title": "[新聞] 說好聘金168萬卻裝傻 岳父怒告女婿！法官：契約有效須照付",
       "link": "/bbs/Gossiping/M.1761539884.A.84D",
       "author": "poeta",
@@ -201,6 +191,16 @@
       "author": "JCK0417",
       "board": "Baseball",
       "publishTime": "2025/10/26 15:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "209",
+      "recommendCount": "465",
+      "title": "[新聞] 貝森特:中國延後稀土管制 並購買美國大豆",
+      "link": "/bbs/Stock/M.1761488428.A.B01",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2025/10/26 14:20",
       "imageUrl": ""
     }
   ]
