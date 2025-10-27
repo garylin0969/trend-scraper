@@ -1,11 +1,11 @@
 {
-  "updated": "2025-10-27T15:54:28.751Z",
+  "updated": "2025-10-27T16:07:21.903Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "617",
-      "recommendCount": "850",
+      "recommendScore": "636",
+      "recommendCount": "871",
       "title": "[情報] 職棒36年總冠軍樂天桃猿",
       "link": "/bbs/Baseball/M.1761576052.A.42A",
       "author": "Jun1025",
@@ -14,18 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "331",
-      "recommendCount": "910",
-      "title": "[新聞] 承認捅了馬蜂窩! 罵賴總統「魯莽」後 美智庫再發聲 : 若開戰 美不會馳援",
-      "link": "/bbs/Gossiping/M.1761545470.A.B21",
-      "author": "shyuantseh",
-      "board": "Gossiping",
-      "publishTime": "2025/10/27 06:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-333",
-      "recommendCount": "995",
+      "recommendScore": "-355",
+      "recommendCount": "1107",
       "title": "[公告] 怒灌區",
       "link": "/bbs/Elephants/M.1761576107.A.E04",
       "author": "msarthur",
@@ -34,8 +24,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "155",
-      "recommendCount": "717",
+      "recommendScore": "331",
+      "recommendCount": "919",
+      "title": "[新聞] 承認捅了馬蜂窩! 罵賴總統「魯莽」後 美智庫再發聲 : 若開戰 美不會馳援",
+      "link": "/bbs/Gossiping/M.1761545470.A.B21",
+      "author": "shyuantseh",
+      "board": "Gossiping",
+      "publishTime": "2025/10/27 06:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "156",
+      "recommendCount": "720",
       "title": "[問卦] 行政院廣告：力挺普發一萬 照顧人民",
       "link": "/bbs/Gossiping/M.1761535379.A.D80",
       "author": "Irene534",
@@ -44,8 +44,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/c37CTae/s/f4ee574170c8e7de1c8af5fbbaffa801"
     },
     {
-      "recommendScore": "488",
-      "recommendCount": "512",
+      "recommendScore": "489",
+      "recommendCount": "513",
       "title": "[發錢] 龜龜海嘯 勸世長文",
       "link": "/bbs/NBA/M.1761537745.A.C0F",
       "author": "ZIDENS",
@@ -61,6 +61,16 @@
       "author": "hsuaninteen",
       "board": "Elephants",
       "publishTime": "2025/10/27 14:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "317",
+      "recommendCount": "491",
+      "title": "[冠軍] 大喜灌 2025中職年度總冠軍！！！",
+      "link": "/bbs/Monkeys/M.1761576057.A.4EB",
+      "author": "caca13140405",
+      "board": "Monkeys",
+      "publishTime": "2025/10/27 14:40",
       "imageUrl": ""
     },
     {
@@ -84,38 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "301",
-      "recommendCount": "569",
-      "title": "[爆卦] 必勝客FB",
-      "link": "/bbs/Gossiping/M.1761533880.A.36A",
-      "author": "seazilicy",
-      "board": "Gossiping",
-      "publishTime": "2025/10/27 02:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "282",
-      "recommendCount": "443",
-      "title": "[冠軍] 大喜灌 2025中職年度總冠軍！！！",
-      "link": "/bbs/Monkeys/M.1761576057.A.4EB",
-      "author": "caca13140405",
-      "board": "Monkeys",
-      "publishTime": "2025/10/27 14:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "280",
-      "recommendCount": "816",
-      "title": "[轉播] 11下 樂天9：7兄弟",
-      "link": "/bbs/Elephants/M.1761575600.A.1A9",
-      "author": "hsuaninteen",
-      "board": "Elephants",
-      "publishTime": "2025/10/27 14:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "260",
-      "recommendCount": "433",
+      "recommendScore": "284",
+      "recommendCount": "464",
       "title": "[分享] 7-11樂天桃猿封王優惠",
       "link": "/bbs/Baseball/M.1761576902.A.64A",
       "author": "tony900735",
@@ -124,8 +104,28 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/lfRZEjP/s/587759d43ad4879b6629460f754df0f0"
     },
     {
-      "recommendScore": "234",
-      "recommendCount": "585",
+      "recommendScore": "302",
+      "recommendCount": "572",
+      "title": "[爆卦] 必勝客FB",
+      "link": "/bbs/Gossiping/M.1761533880.A.36A",
+      "author": "seazilicy",
+      "board": "Gossiping",
+      "publishTime": "2025/10/27 02:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "279",
+      "recommendCount": "817",
+      "title": "[轉播] 11下 樂天9：7兄弟",
+      "link": "/bbs/Elephants/M.1761575600.A.1A9",
+      "author": "hsuaninteen",
+      "board": "Elephants",
+      "publishTime": "2025/10/27 14:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "232",
+      "recommendCount": "587",
       "title": "[新聞] 閃兵爆不完！北市役男免役率24％　「自閉症破千」比例遠超全台",
       "link": "/bbs/Gossiping/M.1761545680.A.268",
       "author": "losel",
@@ -135,7 +135,7 @@
     },
     {
       "recommendScore": "231",
-      "recommendCount": "424",
+      "recommendCount": "430",
       "title": "[問卦]硬氣！韓總統:開嗆詐團:動我國民就讓你家破人亡?",
       "link": "/bbs/Gossiping/M.1761552074.A.965",
       "author": "loveyou9527",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "198",
-      "recommendCount": "386",
+      "recommendScore": "206",
+      "recommendCount": "396",
       "title": "[討論] 樂天這一冠最關鍵的人物是誰？",
       "link": "/bbs/Baseball/M.1761576088.A.C53",
       "author": "slamblock15",
@@ -162,6 +162,16 @@
       "board": "Baseball",
       "publishTime": "2025/10/27 03:07",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "278",
+      "recommendCount": "327",
+      "title": "[發錢] 樂天桃猿冠軍",
+      "link": "/bbs/Baseball/M.1761576846.A.B6B",
+      "author": "dragon803",
+      "board": "Baseball",
+      "publishTime": "2025/10/27 14:54",
+      "imageUrl": "https://cache.pttweb.cc/imgur/hryyf2x/s/49202329a01f959b11147128f2a0f81f"
     },
     {
       "recommendScore": "195",
@@ -192,16 +202,6 @@
       "board": "NBA",
       "publishTime": "2025/10/27 03:40",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "256",
-      "recommendCount": "302",
-      "title": "[發錢] 樂天桃猿冠軍",
-      "link": "/bbs/Baseball/M.1761576846.A.B6B",
-      "author": "dragon803",
-      "board": "Baseball",
-      "publishTime": "2025/10/27 14:54",
-      "imageUrl": "https://cache.pttweb.cc/imgur/hryyf2x/s/49202329a01f959b11147128f2a0f81f"
     }
   ]
 }
