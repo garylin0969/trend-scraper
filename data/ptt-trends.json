@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-27T16:48:15.760Z",
+  "updated": "2025-10-27T16:57:18.473Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "197",
+      "recommendCount": "375",
+      "title": "[花邊] 今日Austin Reaves 生涯新高51分",
+      "link": "/bbs/NBA/M.1761536444.A.DE3",
+      "author": "willy911006",
+      "board": "NBA",
+      "publishTime": "2025/10/27 03:40",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "164",
       "recommendCount": "426",
       "title": "[新聞] 2026綠恐輸到剩屏東？　游盈隆：賴清德不再是超級助選員",
@@ -191,16 +201,6 @@
       "author": "STAV72",
       "board": "Gossiping",
       "publishTime": "2025/10/27 01:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "200",
-      "recommendCount": "308",
-      "title": "[發錢] 六年 我等了六年啊",
-      "link": "/bbs/Monkeys/M.1761576681.A.261",
-      "author": "Blackie9211",
-      "board": "Monkeys",
-      "publishTime": "2025/10/27 14:51",
       "imageUrl": ""
     }
   ]
