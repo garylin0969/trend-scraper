@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-27T09:38:24.522Z",
+  "updated": "2025-10-27T09:47:20.389Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "275",
-      "recommendCount": "745",
+      "recommendScore": "278",
+      "recommendCount": "751",
       "title": "[新聞] 承認捅了馬蜂窩! 罵賴總統「魯莽」後 美智庫再發聲 : 若開戰 美不會馳援",
       "link": "/bbs/Gossiping/M.1761545470.A.B21",
       "author": "shyuantseh",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "275",
-      "recommendCount": "526",
+      "recommendScore": "276",
+      "recommendCount": "528",
       "title": "[爆卦] 必勝客FB",
       "link": "/bbs/Gossiping/M.1761533880.A.36A",
       "author": "seazilicy",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "283",
-      "recommendCount": "563",
+      "recommendScore": "284",
+      "recommendCount": "564",
       "title": "[新聞] 洋基隊媒崩潰 痛批當初不搶山本由伸：墮落到這種程度",
       "link": "/bbs/Baseball/M.1761534461.A.CAF",
       "author": "Intelnet",
@@ -184,16 +184,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/gcdbtL0/s/701b3e745abd543d9d5359e8f113f5ac"
     },
     {
-      "recommendScore": "-44",
-      "recommendCount": "372",
-      "title": "[轉播] 三下 兄弟0：0樂天 余德龍",
-      "link": "/bbs/Elephants/M.1761471489.A.D67",
-      "author": "hsuaninteen",
-      "board": "Elephants",
-      "publishTime": "2025/10/26 09:38",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "121",
       "recommendCount": "371",
       "title": "[新聞] 台股上2萬8 市值衝破91兆元 每位國民財富平均已增74萬元",
@@ -201,6 +191,16 @@
       "author": "ChanHoPark",
       "board": "Stock",
       "publishTime": "2025/10/27 03:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "171",
+      "recommendCount": "492",
+      "title": "[新聞] 說好聘金168萬卻裝傻 岳父怒告女婿！法官：契約有效須照付",
+      "link": "/bbs/Gossiping/M.1761539884.A.84D",
+      "author": "poeta",
+      "board": "Gossiping",
+      "publishTime": "2025/10/27 04:38",
       "imageUrl": ""
     }
   ]
