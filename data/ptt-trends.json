@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-28T05:31:09.356Z",
+  "updated": "2025-10-28T05:40:41.567Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "-387",
-      "recommendCount": "1227",
+      "recommendCount": "1228",
       "title": "[公告] 怒灌區",
       "link": "/bbs/Elephants/M.1761576107.A.E04",
       "author": "msarthur",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "114",
+      "recommendCount": "594",
+      "title": "[問卦] 非洲豬瘟 主管機關是台中市長嗎?",
+      "link": "/bbs/Gossiping/M.1761596720.A.DA8",
+      "author": "ota978",
+      "board": "Gossiping",
+      "publishTime": "2025/10/27 20:25",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "178",
       "recommendCount": "325",
       "title": "[討論] 為什麼樂天感覺沒有很高興",
@@ -191,16 +201,6 @@
       "author": "hisaken",
       "board": "Baseball",
       "publishTime": "2025/10/27 14:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "141",
-      "recommendCount": "341",
-      "title": "[新聞] 賴清德最新民調曝光！ 滿意度40.7%",
-      "link": "/bbs/Gossiping/M.1761572238.A.3E3",
-      "author": "DamnDre",
-      "board": "Gossiping",
-      "publishTime": "2025/10/27 13:37",
       "imageUrl": ""
     }
   ]
