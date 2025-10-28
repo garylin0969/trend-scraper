@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-28T03:34:55.302Z",
+  "updated": "2025-10-28T03:50:30.998Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "611",
-      "recommendCount": "740",
+      "recommendScore": "701",
+      "recommendCount": "845",
       "title": "[炸裂] 大谷翔平",
       "link": "/bbs/Baseball/M.1761620097.A.534",
       "author": "jack34031",
@@ -94,16 +94,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "282",
-      "recommendCount": "592",
-      "title": "[BOX ] Lakers 127:120 Kings",
-      "link": "/bbs/NBA/M.1761536500.A.6EC",
-      "author": "harrybbs",
-      "board": "NBA",
-      "publishTime": "2025/10/27 03:41",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "265",
       "recommendCount": "501",
       "title": "[問卦]硬氣！韓總統:開嗆詐團:動我國民就讓你家破人亡?",
@@ -155,7 +145,7 @@
     },
     {
       "recommendScore": "162",
-      "recommendCount": "495",
+      "recommendCount": "505",
       "title": "[新聞] 「為了保護台灣可犧牲生命？」 民調53.2％民眾不認同",
       "link": "/bbs/Gossiping/M.1761577405.A.649",
       "author": "CREA",
@@ -164,13 +154,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "588",
+      "recommendScore": "206",
+      "recommendCount": "593",
       "title": "[新聞] 說好聘金168萬卻裝傻 岳父怒告女婿！法官：契約有效須照付",
       "link": "/bbs/Gossiping/M.1761539884.A.84D",
       "author": "poeta",
       "board": "Gossiping",
       "publishTime": "2025/10/27 04:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "261",
+      "recommendCount": "359",
+      "title": "[分享] 大谷翔平120年來第一位在WS單場4長打",
+      "link": "/bbs/Baseball/M.1761620284.A.DBD",
+      "author": "devil157",
+      "board": "Baseball",
+      "publishTime": "2025/10/28 02:58",
       "imageUrl": ""
     },
     {
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "198",
-      "recommendCount": "377",
-      "title": "[花邊] 今日Austin Reaves 生涯新高51分",
-      "link": "/bbs/NBA/M.1761536444.A.DE3",
-      "author": "willy911006",
-      "board": "NBA",
-      "publishTime": "2025/10/27 03:40",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "178",
       "recommendCount": "325",
       "title": "[討論] 為什麼樂天感覺沒有很高興",
@@ -201,6 +191,16 @@
       "author": "hisaken",
       "board": "Baseball",
       "publishTime": "2025/10/27 14:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "90",
+      "recommendCount": "505",
+      "title": "[新聞] 新華社再發文談統一好處：統一後「愛國者治台」",
+      "link": "/bbs/Gossiping/M.1761567231.A.C92",
+      "author": "kimkimkimkim",
+      "board": "Gossiping",
+      "publishTime": "2025/10/27 12:13",
       "imageUrl": ""
     }
   ]
