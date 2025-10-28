@@ -1,14 +1,22 @@
 {
-  "updated": "2025-10-28T01:52:38.987Z",
+  "updated": "2025-10-28T02:45:06.189Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-10-28T01:52:27.000Z",
+    "lastBuildDate": "2025-10-28T02:45:00.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "APEC慶州峰會將至　反華情緒如何左右中韓互動",
+      "description": "亞太經合組織（APEC）韓國慶州峰會召開在即，首爾街頭仍不時出現反華示威。這似乎要成為峰會期間左右中韓兩國互動的重要元素。",
+      "link": "https://www.bbc.com/zhongwen/articles/cy8vkvp58jno/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-28T02:11:49.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cy8vkvp58jno/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd70/live/336cba70-b34e-11f0-aa13-0b0479f6f42a.jpg"
+    },
     {
       "title": "中國大陸影迷湧港觀影潮：「看到一些無法上映的電影」",
       "description": "「去香港看更多電影、去看自己愛看的電影」逐漸成為中國民眾的共識。審核、配額制度之下，為了在影院看到自己想看的電影，中國觀衆開始尋找自己的方式。",
@@ -32,14 +40,6 @@
       "pubDate": "2025-10-28T00:18:06.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cdegzrj6np0o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3495/live/610a8170-afe7-11f0-86d1-695ef286e506.jpg"
-    },
-    {
-      "title": "特朗普的亞洲一週行——BBC記者分析得失利弊",
-      "description": "美國總統即將展開為期一周的外交活動，你應該了解以下資訊。",
-      "link": "https://www.bbc.com/zhongwen/articles/ckgkq4zl7w1o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-26T05:17:22.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckgkq4zl7w1o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f38/live/aa91a840-b0bf-11f0-a8af-253f37503d9a.jpg"
     },
     {
       "title": "微波如何幫助我們彼此溝通，並聆聽宇宙的聲音",
@@ -66,20 +66,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b74c/live/b9380ce0-b100-11f0-ba75-093eca1ac29b.jpg"
     },
     {
-      "title": "AI深偽影片不僅冒犯真人，還在英國引發環境憂慮",
-      "description": "包括Open AI的Sora在內的平台因其製作超現實影片的能力而走紅。",
-      "link": "https://www.bbc.com/zhongwen/articles/c8743eeglyxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-27T05:55:48.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c8743eeglyxo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ef08/live/156fbc10-af3f-11f0-a743-017a38be2260.jpg"
-    },
-    {
       "title": "中國「北極絲路」首航成功背後的區域政治信號",
       "description": "近年來北極正日益成為大國博弈的焦點，中國在極地等「戰略新邊疆」地帶的行動頻頻成為新焦點。專家稱換，北極已成為區域政治的新戰場。\n\n",
       "link": "https://www.bbc.com/zhongwen/articles/cdx4gdpn2eyo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-10-24T07:19:25.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cdx4gdpn2eyo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f16d/live/b8d0d220-b0a9-11f0-84eb-4d8548a8617c.jpg"
+    },
+    {
+      "title": "AI深偽影片不僅冒犯真人，還在英國引發環境憂慮",
+      "description": "包括Open AI的Sora在內的平台因其製作超現實影片的能力而走紅。",
+      "link": "https://www.bbc.com/zhongwen/articles/c8743eeglyxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-27T05:55:48.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c8743eeglyxo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ef08/live/156fbc10-af3f-11f0-a743-017a38be2260.jpg"
     },
     {
       "title": "台灣「免術換證」訴訟：跨性別者要求廢止「強制手術」的掙扎與爭議",
@@ -154,6 +154,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a2c4/live/4478fa60-a8ed-11f0-928c-71dbb8619e94.jpg"
     },
     {
+      "title": "特朗普的亞洲一週行——BBC記者分析得失利弊",
+      "description": "美國總統即將展開為期一周的外交活動，你應該了解以下資訊。",
+      "link": "https://www.bbc.com/zhongwen/articles/ckgkq4zl7w1o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-26T05:17:22.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckgkq4zl7w1o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f38/live/aa91a840-b0bf-11f0-a8af-253f37503d9a.jpg"
+    },
+    {
       "title": "為何特朗普能在加沙取得突破，卻無法與普京達成協議？",
       "description": "特朗普已放棄競選時的承諾，表示結束這場戰爭比預期要困難得多。這是他少數幾次承認自身力量有限的時刻。\n",
       "link": "https://www.bbc.com/zhongwen/articles/cx2prjw1x11o/trad?at_medium=RSS&at_campaign=rss",
@@ -176,14 +184,6 @@
       "pubDate": "2025-10-21T06:19:16.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c1d0gvrge0yo/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f70e/live/b4cedae0-add5-11f0-be67-e5f02edf63b3.jpg"
-    },
-    {
-      "title": "與特朗普共度24小時：近距離觀察橫掃中東的外交旋風",
-      "description": "BBC駐美國國務院記者湯姆·貝特曼說，美國總統為期一天的中東之行是一場勝利之旅，而非著手展開「第二階段」談判、為加沙的長遠未來制定嚴謹細節的外交行動。",
-      "link": "https://www.bbc.com/zhongwen/articles/ce861z6jlrlo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-15T04:37:01.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce861z6jlrlo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf43/live/2b559a60-a97a-11f0-b741-177e3e2c2fc7.jpg"
     },
     {
       "title": "美中貿易戰持續升溫  互徵船隻港口費",
