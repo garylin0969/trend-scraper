@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-28T07:53:50.761Z",
+  "updated": "2025-10-28T08:07:44.627Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-387",
-      "recommendCount": "1228",
+      "recommendScore": "-388",
+      "recommendCount": "1227",
       "title": "[公告] 怒灌區",
       "link": "/bbs/Elephants/M.1761576107.A.E04",
       "author": "msarthur",
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "274",
-      "recommendCount": "514",
-      "title": "[問卦]硬氣！韓總統:開嗆詐團:動我國民就讓你家破人亡?",
-      "link": "/bbs/Gossiping/M.1761552074.A.965",
-      "author": "loveyou9527",
-      "board": "Gossiping",
-      "publishTime": "2025/10/27 08:01",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "350",
       "recommendCount": "1008",
       "title": "[轉播] 11上 樂天7：7兄弟",
@@ -201,6 +191,16 @@
       "author": "devil157",
       "board": "Baseball",
       "publishTime": "2025/10/28 02:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "279",
+      "recommendCount": "819",
+      "title": "[轉播] 11下 樂天9：7兄弟",
+      "link": "/bbs/Elephants/M.1761575600.A.1A9",
+      "author": "hsuaninteen",
+      "board": "Elephants",
+      "publishTime": "2025/10/27 14:33",
       "imageUrl": ""
     }
   ]
