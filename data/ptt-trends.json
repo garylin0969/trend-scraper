@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-29T06:08:49.190Z",
+  "updated": "2025-10-29T06:21:57.995Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -65,6 +65,16 @@
     },
     {
       "recommendScore": "409",
+      "recommendCount": "561",
+      "title": "[新聞] 卡車撞爛「實驗猴逃脫中」！　美警驚曝：感染3種病毒",
+      "link": "/bbs/Gossiping/M.1761708132.A.A63",
+      "author": "schwalbe",
+      "board": "Gossiping",
+      "publishTime": "2025/10/29 03:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "409",
       "recommendCount": "535",
       "title": "[分享] 大谷翔平破記錄單場9次上壘",
       "link": "/bbs/Baseball/M.1761632746.A.82F",
@@ -94,18 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "388",
-      "recommendCount": "531",
-      "title": "[新聞] 卡車撞爛「實驗猴逃脫中」！　美警驚曝：感染3種病毒",
-      "link": "/bbs/Gossiping/M.1761708132.A.A63",
-      "author": "schwalbe",
-      "board": "Gossiping",
-      "publishTime": "2025/10/29 03:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "137",
-      "recommendCount": "627",
+      "recommendScore": "135",
+      "recommendCount": "647",
       "title": "[新聞] 假牙公司總監駕BMW飆速113公里 逆向撞死打工女判10月",
       "link": "/bbs/Gossiping/M.1761703256.A.A63",
       "author": "wellwed",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "273",
-      "recommendCount": "1264",
+      "recommendScore": "275",
+      "recommendCount": "1266",
       "title": "[新聞] 鄭麗文喊「我是中國人」挨轟　吳宗憲批民進黨：這句話哪有錯？",
       "link": "/bbs/Gossiping/M.1761647390.A.C29",
       "author": "SEVENxELEVEN",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "268",
-      "recommendCount": "604",
+      "recommendScore": "271",
+      "recommendCount": "608",
       "title": "[新聞] 贈豪車又送出國遊學仍留不住　25歲正妹投向9億CEO卻雙亡",
       "link": "/bbs/Gossiping/M.1761646722.A.F69",
       "author": "ashin0709",
@@ -155,7 +155,7 @@
     },
     {
       "recommendScore": "212",
-      "recommendCount": "598",
+      "recommendCount": "599",
       "title": "[問卦] 大家都不生 將面臨人口斷層你真的ok嗎",
       "link": "/bbs/Gossiping/M.1761644863.A.4A1",
       "author": "ambitious",
@@ -164,14 +164,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "686",
-      "recommendCount": "1392",
-      "title": "[電競] 2025 World Championship - 八強賽 Day1",
-      "link": "/bbs/LoL/M.1761631791.A.F88",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/10/28 06:09",
-      "imageUrl": "https://cache.pttweb.cc/imgur/MGZXbYE/s/31ee70bc39e8a6937a123a4d3bc84a4f"
+      "recommendScore": "248",
+      "recommendCount": "526",
+      "title": "[問卦] 日本自衛隊前隊員：刺刀就可幹掉熊",
+      "link": "/bbs/Gossiping/M.1761663704.A.AEB",
+      "author": "beaver",
+      "board": "Gossiping",
+      "publishTime": "2025/10/28 15:01",
+      "imageUrl": ""
     },
     {
       "recommendScore": "335",
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "248",
-      "recommendCount": "525",
-      "title": "[問卦] 日本自衛隊前隊員：刺刀就可幹掉熊",
-      "link": "/bbs/Gossiping/M.1761663704.A.AEB",
-      "author": "beaver",
-      "board": "Gossiping",
-      "publishTime": "2025/10/28 15:01",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-33",
       "recommendCount": "512",
       "title": "[外絮] LBJ自豪地表示自己待過的城市都拿過冠軍",
@@ -201,6 +191,16 @@
       "author": "shaaan",
       "board": "NBA",
       "publishTime": "2025/10/28 06:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "90",
+      "recommendCount": "435",
+      "title": "[新聞] 威廉撐不下去了！閃兵後收入歸零「月扛7萬房貸」：再不行就賣房",
+      "link": "/bbs/Gossiping/M.1761640094.A.E92",
+      "author": "MeiHS",
+      "board": "Gossiping",
+      "publishTime": "2025/10/28 08:28",
       "imageUrl": ""
     }
   ]
