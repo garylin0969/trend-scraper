@@ -1,19 +1,19 @@
 {
-  "updated": "2025-10-30T04:48:34.255Z",
+  "updated": "2025-10-30T05:22:27.973Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-10-30T04:48:24.000Z",
+    "lastBuildDate": "2025-10-30T05:22:16.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
     {
-      "title": "習近平和特朗普在韓國釜山會晤 貿易共識或將出爐",
-      "description": "這是特朗普第二任期以來與習近平首次面對面會晤，預計雙方將圍繞關稅、稀土、農產品採購、TikTok等關鍵分歧領域進行磋商。",
+      "title": "習近平和特朗普在韓國釜山會晤結束 「明年四月訪華」",
+      "description": "這是特朗普第二任期以來與習近平首次面對面會晤。特朗普說「在許多事項上已達成共識」，並表示將在明年四月訪華。",
       "link": "https://www.bbc.com/zhongwen/articles/c0519g2506vo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-30T02:35:01.000Z",
+      "pubDate": "2025-10-30T05:20:10.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c0519g2506vo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f17f/live/59772f90-b536-11f0-810a-3da1c6dc935a.jpg"
     },
@@ -24,6 +24,14 @@
       "pubDate": "2025-10-29T03:15:44.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cvgm3eejp18o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d6c3/live/d2597fb0-b466-11f0-a4c0-017aec83f994.jpg"
+    },
+    {
+      "title": "特朗普聲稱美國將恢復核武試驗，上一次核爆發生在1992年",
+      "description": "他還表示，中國的核計劃「在五年內將趕上美國」。他沒有具體說明試驗將如何進行，但表示「程序將立即開始」。",
+      "link": "https://www.bbc.com/zhongwen/articles/cly91vn4x9vo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-30T04:46:43.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cly91vn4x9vo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dfab/live/bae6ca60-b54a-11f0-a50e-9f233dbf9541.jpg"
     },
     {
       "title": "APEC與「習特會」：元首「場邊會面」頻頻上演，是否能收穫更多實質成果？",
@@ -46,7 +54,7 @@
       "description": "「去香港看更多電影、去看自己愛看的電影」逐漸成為中國民眾的共識。審核、配額制度之下，為了在影院看到自己想看的電影，中國觀衆開始尋找自己的方式。",
       "link": "https://www.bbc.com/zhongwen/articles/c781w03yex5o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-10-27T00:13:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c781w03yex5o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c781w03yex5o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dfaf/live/93e62b80-ae2a-11f0-8da3-e91e0cecafe1.jpg"
     },
     {
@@ -104,14 +112,6 @@
       "pubDate": "2025-10-28T00:18:06.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cdegzrj6np0o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3495/live/610a8170-afe7-11f0-86d1-695ef286e506.jpg"
-    },
-    {
-      "title": "俄羅斯稱成功測試具備無限射程的核動力導彈「海燕」",
-      "description": "這款低空飛行的實驗性武器於2018年首次公布，被讚譽為可具備無限射程，並能避開導彈防禦系統。",
-      "link": "https://www.bbc.com/zhongwen/articles/c201w0q3g17o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-28T05:52:22.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c201w0q3g17o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6675/live/e35b6a40-b267-11f0-a29b-9178454b54ed.jpg"
     },
     {
       "title": "「他們為何撕毀中國國旗？」站在反華爭議中心的韓國年輕人",
@@ -282,6 +282,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2430/live/0bef84c0-b482-11f0-ba75-093eca1ac29b.jpg"
     },
     {
+      "title": "俄羅斯稱成功測試具備無限射程的核動力導彈「海燕」",
+      "description": "這款低空飛行的實驗性武器於2018年首次公布，被讚譽為可具備無限射程，並能避開導彈防禦系統。",
+      "link": "https://www.bbc.com/zhongwen/articles/c201w0q3g17o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-28T05:52:22.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c201w0q3g17o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6675/live/e35b6a40-b267-11f0-a29b-9178454b54ed.jpg"
+    },
+    {
       "title": "中國「北極絲路」首航成功背後的區域政治信號",
       "description": "近年來北極正日益成為大國博弈的焦點，中國在極地等「戰略新邊疆」地帶的行動頻頻成為新焦點。專家稱換，北極已成為區域政治的新戰場。\n\n",
       "link": "https://www.bbc.com/zhongwen/articles/cdx4gdpn2eyo/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2025-10-27T06:46:44.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy7eny33v8mo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b74c/live/b9380ce0-b100-11f0-ba75-093eca1ac29b.jpg"
-    },
-    {
-      "title": "微波如何幫助我們彼此溝通，並聆聽宇宙的聲音",
-      "description": "自從1932年古列爾莫·馬可尼為教宗製造了微波通訊以來，這些超高頻波已經影響到我們生活的無數領域。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gkr3mlmxzo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-28T00:19:47.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gkr3mlmxzo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/95d0/live/badcfdb0-af68-11f0-ba75-093eca1ac29b.png"
     }
   ]
 }
