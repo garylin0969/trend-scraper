@@ -1,7 +1,7 @@
 {
-  "updated": "2025-10-30T10:46:28.871Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-10-30T10:54:08.495Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "348",
@@ -12,6 +12,16 @@
       "board": "Gossiping",
       "publishTime": "2025/10/30 05:39",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "747",
+      "recommendCount": "1394",
+      "title": "[電競] 2025 World Championship - 八強賽 Day3",
+      "link": "/bbs/LoL/M.1761805479.A.3C8",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/10/30 06:24",
+      "imageUrl": "https://cache.pttweb.cc/imgur/NaxORVP/s/f21abf01933b93cb2780b69e99ddf07c"
     },
     {
       "recommendScore": "226",
@@ -44,16 +54,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/anTBuJQ/s/33056d72e48c473254826122810cbcb4"
     },
     {
-      "recommendScore": "792",
-      "recommendCount": "1395",
-      "title": "[電競] 2025 World Championship - 八強賽 Day3",
-      "link": "/bbs/LoL/M.1761805479.A.3C8",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/10/30 06:24",
-      "imageUrl": "https://cache.pttweb.cc/imgur/NaxORVP/s/f21abf01933b93cb2780b69e99ddf07c"
-    },
-    {
       "recommendScore": "306",
       "recommendCount": "557",
       "title": "[新聞] 「川習會」結束了！閉門會談1小時40分",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "287",
-      "recommendCount": "320",
+      "recommendScore": "288",
+      "recommendCount": "321",
       "title": "[討論] 猜猜明天山本投幾球（發錢）",
       "link": "/bbs/Baseball/M.1761799036.A.81C",
       "author": "lity3426",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "132",
-      "recommendCount": "298",
+      "recommendScore": "134",
+      "recommendCount": "303",
       "title": "[新聞]觀光署長認了：國旅住宿太貴！觀光逆差飆8",
       "link": "/bbs/Stock/M.1761808304.A.7C0",
       "author": "XDGEE",
@@ -192,6 +192,16 @@
       "board": "LoL",
       "publishTime": "2025/10/29 13:10",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "163",
+      "recommendCount": "263",
+      "title": "[新聞] 粿粿沒洗澡「突襲王子房間」！美國互動被翻出　IG喊話：永遠e起",
+      "link": "/bbs/Gossiping/M.1761736179.A.C2E",
+      "author": "armorblocks",
+      "board": "Gossiping",
+      "publishTime": "2025/10/29 11:09",
+      "imageUrl": "https://cache.pttweb.cc/imgur/7dV6MJT/s/f9019433129be7c24f0a4b0ae96dbb1c"
     }
   ]
 }
