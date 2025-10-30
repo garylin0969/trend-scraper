@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-30T15:06:31.779Z",
+  "updated": "2025-10-30T15:18:45.462Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,6 +84,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/9K6PwZk/s/8131241b03b3d9452272cb85153b7ac6"
     },
     {
+      "recommendScore": "307",
+      "recommendCount": "341",
+      "title": "[討論] 猜猜明天山本投幾球（發錢）",
+      "link": "/bbs/Baseball/M.1761799036.A.81C",
+      "author": "lity3426",
+      "board": "Baseball",
+      "publishTime": "2025/10/30 04:37",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "159",
       "recommendCount": "515",
       "title": "[新聞] 觀光逆差1-9月飆805萬人次　觀光署長認了：國旅住宿太貴",
@@ -91,16 +101,6 @@
       "author": "ChanHoPark",
       "board": "Gossiping",
       "publishTime": "2025/10/30 05:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "303",
-      "recommendCount": "336",
-      "title": "[討論] 猜猜明天山本投幾球（發錢）",
-      "link": "/bbs/Baseball/M.1761799036.A.81C",
-      "author": "lity3426",
-      "board": "Baseball",
-      "publishTime": "2025/10/30 04:37",
       "imageUrl": ""
     },
     {
@@ -154,8 +154,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-70",
+      "recommendCount": "325",
+      "title": "[新聞] 股市菜鳥「驚天一按」台積電1400元下單100張 財神上門被她送走",
+      "link": "/bbs/Stock/M.1761828677.A.323",
+      "author": "galeolow",
+      "board": "Stock",
+      "publishTime": "2025/10/30 12:51",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "184",
-      "recommendCount": "302",
+      "recommendCount": "303",
       "title": "[情報] G7有需要的話 Snell: 我可以",
       "link": "/bbs/Baseball/M.1761796330.A.DCD",
       "author": "pneumo",
@@ -164,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "139",
-      "recommendCount": "335",
+      "recommendScore": "141",
+      "recommendCount": "341",
       "title": "[新聞]觀光署長認了：國旅住宿太貴！觀光逆差飆8",
       "link": "/bbs/Stock/M.1761808304.A.7C0",
       "author": "XDGEE",
@@ -174,34 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "121",
-      "recommendCount": "331",
-      "title": "[新聞] 國旅春節住宿2晚驚現14萬天價？高市觀光局火速出手了",
-      "link": "/bbs/Gossiping/M.1761812804.A.17B",
-      "author": "Kai877",
-      "board": "Gossiping",
-      "publishTime": "2025/10/30 08:26",
+      "recommendScore": "223",
+      "recommendCount": "344",
+      "title": "[情報] 軟銀鷹 2025日本一",
+      "link": "/bbs/Baseball/M.1761830040.A.DA9",
+      "author": "zxcvbnm00316",
+      "board": "Baseball",
+      "publishTime": "2025/10/30 13:14",
       "imageUrl": ""
     },
     {
-      "recommendScore": "139",
-      "recommendCount": "353",
-      "title": "[問卦] 35歲台男 體態好難維持",
-      "link": "/bbs/Gossiping/M.1761781056.A.8D4",
-      "author": "ilv1181023",
-      "board": "Gossiping",
-      "publishTime": "2025/10/29 23:37",
+      "recommendScore": "228",
+      "recommendCount": "251",
+      "title": "[發錢] 猜林安可&徐若熙去哪隊",
+      "link": "/bbs/Baseball/M.1761825836.A.B7B",
+      "author": "ayachyan",
+      "board": "Baseball",
+      "publishTime": "2025/10/30 12:03",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "206",
-      "recommendCount": "241",
-      "title": "[問卦] 粿粿事件疑問 粿粿是婊 王子奪妻? (發錢)",
-      "link": "/bbs/Gossiping/M.1761787419.A.84C",
-      "author": "q347",
-      "board": "Gossiping",
-      "publishTime": "2025/10/30 01:23",
-      "imageUrl": "https://cache.pttweb.cc/imgur/GEwOBjV/s/a6d85fa7468bee06b6eadd69238165f6"
     }
   ]
 }
