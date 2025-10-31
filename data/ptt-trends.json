@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-31T02:11:19.282Z",
+  "updated": "2025-10-31T02:48:18.154Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -64,23 +64,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-131",
-      "recommendCount": "492",
+      "recommendScore": "-130",
+      "recommendCount": "493",
       "title": "[新聞] 股市菜鳥「驚天一按」台積電1400元下單100張 財神上門被她送走",
       "link": "/bbs/Stock/M.1761828677.A.323",
       "author": "galeolow",
       "board": "Stock",
       "publishTime": "2025/10/30 12:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "309",
-      "recommendCount": "519",
-      "title": "[問題] 道奇是不是就這樣了？",
-      "link": "/bbs/Baseball/M.1761791064.A.A5F",
-      "author": "stu60001",
-      "board": "Baseball",
-      "publishTime": "2025/10/30 02:24",
       "imageUrl": ""
     },
     {
@@ -154,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "264",
-      "recommendCount": "512",
+      "recommendScore": "265",
+      "recommendCount": "518",
       "title": "[新聞] ock.yahoo.com/news_content/url/d/a/121126/3/3i2q4.html",
       "link": "/bbs/Stock/M.1761864280.A.3E9",
       "author": "qazxc1156892",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/10/31 00:55",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "190",
+      "recommendCount": "321",
+      "title": "[問卦]阿緯曾抓到「王子跟自己老婆拍親密合照」",
+      "link": "/bbs/Gossiping/M.1761834541.A.5A2",
+      "author": "a91153456",
+      "board": "Gossiping",
+      "publishTime": "2025/10/30 14:29",
+      "imageUrl": "https://cache.pttweb.cc/imgur/5JTwcUa/s/3bd49c7f0cb004da857c2fad94801773"
     }
   ]
 }
