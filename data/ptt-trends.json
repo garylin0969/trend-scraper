@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-31T07:08:53.791Z",
+  "updated": "2025-10-31T07:20:28.467Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,24 +54,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-135",
-      "recommendCount": "507",
-      "title": "[新聞] 股市菜鳥「驚天一按」台積電1400元下單100張 財神上門被她送走",
-      "link": "/bbs/Stock/M.1761828677.A.323",
-      "author": "galeolow",
-      "board": "Stock",
-      "publishTime": "2025/10/30 12:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "311",
-      "recommendCount": "587",
+      "recommendScore": "321",
+      "recommendCount": "602",
       "title": "[新聞] ock.yahoo.com/news_content/url/d/a/121126/3/3i2q4.html",
       "link": "/bbs/Stock/M.1761864280.A.3E9",
       "author": "qazxc1156892",
       "board": "Stock",
       "publishTime": "2025/10/30 22:44",
       "imageUrl": "https://cache.pttweb.cc/imgur/5K554UR/s/6c765dde0eb3faf7dc56636ef378f207"
+    },
+    {
+      "recommendScore": "-135",
+      "recommendCount": "513",
+      "title": "[新聞] 股市菜鳥「驚天一按」台積電1400元下單100張 財神上門被她送走",
+      "link": "/bbs/Stock/M.1761828677.A.323",
+      "author": "galeolow",
+      "board": "Stock",
+      "publishTime": "2025/10/30 12:51",
+      "imageUrl": ""
     },
     {
       "recommendScore": "325",
@@ -144,16 +144,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/5JTwcUa/s/3bd49c7f0cb004da857c2fad94801773"
     },
     {
-      "recommendScore": "151",
-      "recommendCount": "366",
-      "title": "[新聞]觀光署長認了：國旅住宿太貴！觀光逆差飆8",
-      "link": "/bbs/Stock/M.1761808304.A.7C0",
-      "author": "XDGEE",
-      "board": "Stock",
-      "publishTime": "2025/10/30 07:11",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "244",
       "recommendCount": "372",
       "title": "[情報] 軟銀鷹 2025日本一",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/10/30 08:26",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "210",
+      "recommendCount": "332",
+      "title": "[問卦] 脆熱議：粿粿這影片也綠帽的太誇張",
+      "link": "/bbs/Gossiping/M.1761833945.A.65D",
+      "author": "norvasc",
+      "board": "Gossiping",
+      "publishTime": "2025/10/30 14:19",
+      "imageUrl": "https://cache.pttweb.cc/imgur/qBWMNWH/s/1e4f39a29892c430e26a253d5220ede5"
     }
   ]
 }
