@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-31T09:55:04.001Z",
+  "updated": "2025-10-31T10:06:43.740Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,18 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "703",
-      "recommendCount": "1397",
-      "title": "[電競] 2025 World Championship - 八強賽 Day4",
-      "link": "/bbs/LoL/M.1761890792.A.9FE",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/10/31 06:06",
-      "imageUrl": "https://cache.pttweb.cc/imgur/9RgDofj/s/defb97af2a0a10e6732d8a369e9ee6a1"
-    },
-    {
-      "recommendScore": "330",
-      "recommendCount": "663",
+      "recommendScore": "339",
+      "recommendCount": "683",
       "title": "[爆卦] Cheap約戰沈柏洋",
       "link": "/bbs/Gossiping/M.1761889535.A.BE8",
       "author": "zjeff1",
@@ -62,6 +52,16 @@
       "board": "Gossiping",
       "publishTime": "2025/10/30 11:16",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "689",
+      "recommendCount": "1396",
+      "title": "[電競] 2025 World Championship - 八強賽 Day4",
+      "link": "/bbs/LoL/M.1761890792.A.9FE",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/10/31 06:06",
+      "imageUrl": "https://cache.pttweb.cc/imgur/9RgDofj/s/defb97af2a0a10e6732d8a369e9ee6a1"
     },
     {
       "recommendScore": "192",
@@ -94,8 +94,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/5K554UR/s/6c765dde0eb3faf7dc56636ef378f207"
     },
     {
-      "recommendScore": "-137",
-      "recommendCount": "515",
+      "recommendScore": "-136",
+      "recommendCount": "517",
       "title": "[新聞] 股市菜鳥「驚天一按」台積電1400元下單100張 財神上門被她送走",
       "link": "/bbs/Stock/M.1761828677.A.323",
       "author": "galeolow",
@@ -134,8 +134,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/emg0MQe/s/4eb61238c14f0430ce57c087b01de341"
     },
     {
-      "recommendScore": "287",
-      "recommendCount": "341",
+      "recommendScore": "286",
+      "recommendCount": "342",
       "title": "[祭品] 我願用羅傑十年陽壽換T1 3:0 AL",
       "link": "/bbs/LoL/M.1761893371.A.A64",
       "author": "TroyeSivan",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "500",
+      "recommendScore": "209",
+      "recommendCount": "503",
       "title": "Re: [問卦] 脆：cheap開始試水溫、投名狀",
       "link": "/bbs/Gossiping/M.1761888174.A.CD8",
       "author": "ofpurity",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "261",
-      "recommendCount": "361",
+      "recommendScore": "262",
+      "recommendCount": "362",
       "title": "[分享] 山本由伸 輸球即淘汰成績",
       "link": "/bbs/Baseball/M.1761885752.A.6D4",
       "author": "what62651",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-172",
+      "recommendCount": "438",
+      "title": "[新聞] 快新聞／藍白作何居心？竟拒絕幫沈伯洋譴責中共 吳思瑤怒轟：敵我不分",
+      "link": "/bbs/Gossiping/M.1761895358.A.89E",
+      "author": "NTU87",
+      "board": "Gossiping",
+      "publishTime": "2025/10/31 07:22",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "200",
       "recommendCount": "338",
       "title": "[問卦]阿緯曾抓到「王子跟自己老婆拍親密合照」",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/30 14:29",
       "imageUrl": "https://cache.pttweb.cc/imgur/5JTwcUa/s/3bd49c7f0cb004da857c2fad94801773"
-    },
-    {
-      "recommendScore": "-162",
-      "recommendCount": "420",
-      "title": "[新聞] 快新聞／藍白作何居心？竟拒絕幫沈伯洋譴責中共 吳思瑤怒轟：敵我不分",
-      "link": "/bbs/Gossiping/M.1761895358.A.89E",
-      "author": "NTU87",
-      "board": "Gossiping",
-      "publishTime": "2025/10/31 07:22",
-      "imageUrl": ""
     }
   ]
 }
