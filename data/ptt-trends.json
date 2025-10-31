@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-31T19:25:57.933Z",
+  "updated": "2025-10-31T19:33:58.182Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,6 +14,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "308",
+      "recommendCount": "1036",
+      "title": "[新聞] 俄烏戰爭不該發生！鄭麗文專訪脫口：蒲亭不是獨裁者　是民選產生",
+      "link": "/bbs/Gossiping/M.1761877426.A.AC3",
+      "author": "WhiteWhale",
+      "board": "Gossiping",
+      "publishTime": "2025/10/31 02:23",
+      "imageUrl": "https://cache.pttweb.cc/imgur/2IutIrU/s/a8f901f40222312345fcb3c5477d4128"
+    },
+    {
       "recommendScore": "501",
       "recommendCount": "583",
       "title": "[閒聊] 謝謝你AL",
@@ -24,18 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "307",
-      "recommendCount": "1031",
-      "title": "[新聞] 俄烏戰爭不該發生！鄭麗文專訪脫口：蒲亭不是獨裁者　是民選產生",
-      "link": "/bbs/Gossiping/M.1761877426.A.AC3",
-      "author": "WhiteWhale",
-      "board": "Gossiping",
-      "publishTime": "2025/10/31 02:23",
-      "imageUrl": "https://cache.pttweb.cc/imgur/2IutIrU/s/a8f901f40222312345fcb3c5477d4128"
-    },
-    {
-      "recommendScore": "395",
-      "recommendCount": "791",
+      "recommendScore": "396",
+      "recommendCount": "793",
       "title": "[爆卦] Cheap約戰沈柏洋",
       "link": "/bbs/Gossiping/M.1761889535.A.BE8",
       "author": "zjeff1",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "391",
-      "recommendCount": "719",
+      "recommendScore": "392",
+      "recommendCount": "720",
       "title": "[問卦] 北檢的優秀檢察官會偽造筆錄，優秀在哪?",
       "link": "/bbs/Gossiping/M.1761866637.A.50E",
       "author": "metroid0104",
@@ -105,7 +105,7 @@
     },
     {
       "recommendScore": "-221",
-      "recommendCount": "545",
+      "recommendCount": "546",
       "title": "[新聞] 快新聞／藍白作何居心？竟拒絕幫沈伯洋譴責中共 吳思瑤怒轟：敵我不分",
       "link": "/bbs/Gossiping/M.1761895358.A.89E",
       "author": "NTU87",
@@ -164,8 +164,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/0kpxIJh/s/03f568453d9211dfb5d0599cf674a532"
     },
     {
-      "recommendScore": "58",
-      "recommendCount": "468",
+      "recommendScore": "102",
+      "recommendCount": "560",
+      "title": "[新聞] 「憲法規定我們是中國人」！鄭麗文：知道中國沒有要把台灣變第二個香港",
+      "link": "/bbs/Gossiping/M.1761881412.A.837",
+      "author": "iam168888888",
+      "board": "Gossiping",
+      "publishTime": "2025/10/31 03:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "59",
+      "recommendCount": "469",
       "title": "[新聞] 范姜彥豐爆粿粿出軌「符合誹謗罪要件」",
       "link": "/bbs/Gossiping/M.1761900490.A.F25",
       "author": "crocus",
@@ -191,16 +201,6 @@
       "author": "what62651",
       "board": "Baseball",
       "publishTime": "2025/10/31 04:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "102",
-      "recommendCount": "557",
-      "title": "[新聞] 「憲法規定我們是中國人」！鄭麗文：知道中國沒有要把台灣變第二個香港",
-      "link": "/bbs/Gossiping/M.1761881412.A.837",
-      "author": "iam168888888",
-      "board": "Gossiping",
-      "publishTime": "2025/10/31 03:30",
       "imageUrl": ""
     }
   ]
