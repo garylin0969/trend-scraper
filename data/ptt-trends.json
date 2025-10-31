@@ -1,11 +1,11 @@
 {
-  "updated": "2025-10-31T13:04:46.292Z",
+  "updated": "2025-10-31T13:21:59.989Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "612",
-      "recommendCount": "1141",
+      "recommendScore": "613",
+      "recommendCount": "1143",
       "title": "[新聞] 林俊言遭控不正訊問今勘驗　警告黃景茂律師「再出意見到後面去」",
       "link": "/bbs/Gossiping/M.1761872123.A.720",
       "author": "copybrown",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "307",
-      "recommendCount": "1022",
+      "recommendScore": "308",
+      "recommendCount": "1024",
       "title": "[新聞] 俄烏戰爭不該發生！鄭麗文專訪脫口：蒲亭不是獨裁者　是民選產生",
       "link": "/bbs/Gossiping/M.1761877426.A.AC3",
       "author": "WhiteWhale",
@@ -24,8 +24,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/2IutIrU/s/a8f901f40222312345fcb3c5477d4128"
     },
     {
-      "recommendScore": "383",
-      "recommendCount": "709",
+      "recommendScore": "384",
+      "recommendCount": "710",
       "title": "[問卦] 北檢的優秀檢察官會偽造筆錄，優秀在哪?",
       "link": "/bbs/Gossiping/M.1761866637.A.50E",
       "author": "metroid0104",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "379",
-      "recommendCount": "749",
+      "recommendScore": "384",
+      "recommendCount": "758",
       "title": "[爆卦] Cheap約戰沈柏洋",
       "link": "/bbs/Gossiping/M.1761889535.A.BE8",
       "author": "zjeff1",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "404",
-      "recommendCount": "531",
+      "recommendScore": "426",
+      "recommendCount": "555",
       "title": "[閒聊] Faker繼續維持世界賽BO5對上LPL不敗",
       "link": "/bbs/LoL/M.1761910828.A.900",
       "author": "lgng66133",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "406",
-      "recommendCount": "471",
+      "recommendScore": "453",
+      "recommendCount": "529",
       "title": "[閒聊] 謝謝你AL",
       "link": "/bbs/LoL/M.1761911504.A.FBB",
       "author": "cornsoup",
@@ -64,7 +64,17 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "709",
+      "recommendScore": "396",
+      "recommendCount": "888",
+      "title": "[新聞] 黑豹旗／育達高中遲到遭裁定敗「塞車、下錯交流道」球員吐心聲",
+      "link": "/bbs/Baseball/M.1761880516.A.CA0",
+      "author": "ruka660101",
+      "board": "Baseball",
+      "publishTime": "2025/10/31 03:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "680",
       "recommendCount": "1396",
       "title": "[電競] 2025 World Championship - 八強賽 Day4",
       "link": "/bbs/LoL/M.1761890792.A.9FE",
@@ -72,16 +82,6 @@
       "board": "LoL",
       "publishTime": "2025/10/31 06:06",
       "imageUrl": "https://cache.pttweb.cc/imgur/9RgDofj/s/defb97af2a0a10e6732d8a369e9ee6a1"
-    },
-    {
-      "recommendScore": "394",
-      "recommendCount": "883",
-      "title": "[新聞] 黑豹旗／育達高中遲到遭裁定敗「塞車、下錯交流道」球員吐心聲",
-      "link": "/bbs/Baseball/M.1761880516.A.CA0",
-      "author": "ruka660101",
-      "board": "Baseball",
-      "publishTime": "2025/10/31 03:15",
-      "imageUrl": ""
     },
     {
       "recommendScore": "324",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "213",
-      "recommendCount": "512",
+      "recommendScore": "214",
+      "recommendCount": "513",
       "title": "[新聞] 百噸走私豬險流入高雄！外海攔截已腐爛發臭　市值逾4千萬",
       "link": "/bbs/Gossiping/M.1761869251.A.866",
       "author": "Workforme",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-211",
-      "recommendCount": "522",
+      "recommendScore": "-215",
+      "recommendCount": "528",
       "title": "[新聞] 快新聞／藍白作何居心？竟拒絕幫沈伯洋譴責中共 吳思瑤怒轟：敵我不分",
       "link": "/bbs/Gossiping/M.1761895358.A.89E",
       "author": "NTU87",
@@ -144,13 +144,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "103",
-      "recommendCount": "554",
+      "recommendScore": "232",
+      "recommendCount": "418",
+      "title": "[新聞] 捲入粿粿、王子偷情風波！簡廷芮老公「黑底白字文」強硬發聲",
+      "link": "/bbs/Gossiping/M.1761896256.A.9BB",
+      "author": "Kazmier",
+      "board": "Gossiping",
+      "publishTime": "2025/10/31 07:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "102",
+      "recommendCount": "555",
       "title": "[新聞] 「憲法規定我們是中國人」！鄭麗文：知道中國沒有要把台灣變第二個香港",
       "link": "/bbs/Gossiping/M.1761881412.A.837",
       "author": "iam168888888",
       "board": "Gossiping",
       "publishTime": "2025/10/31 03:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "291",
+      "recommendCount": "324",
+      "title": "[閒聊] 為什麼T1的拉拉拉這麼痛？",
+      "link": "/bbs/LoL/M.1761912277.A.903",
+      "author": "LLsolo",
+      "board": "LoL",
+      "publishTime": "2025/10/31 12:04",
       "imageUrl": ""
     },
     {
@@ -164,18 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "226",
-      "recommendCount": "407",
-      "title": "[新聞] 捲入粿粿、王子偷情風波！簡廷芮老公「黑底白字文」強硬發聲",
-      "link": "/bbs/Gossiping/M.1761896256.A.9BB",
-      "author": "Kazmier",
-      "board": "Gossiping",
-      "publishTime": "2025/10/31 07:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "212",
-      "recommendCount": "409",
+      "recommendScore": "216",
+      "recommendCount": "414",
       "title": "[爆卦] 路透專欄: 台灣逆亞洲綠能轉型 燃氣創新高",
       "link": "/bbs/Gossiping/M.1761891285.A.37A",
       "author": "usnavyseal",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/30 14:29",
       "imageUrl": "https://cache.pttweb.cc/imgur/5JTwcUa/s/3bd49c7f0cb004da857c2fad94801773"
-    },
-    {
-      "recommendScore": "50",
-      "recommendCount": "413",
-      "title": "[新聞] 范姜彥豐爆粿粿出軌「符合誹謗罪要件」",
-      "link": "/bbs/Gossiping/M.1761900490.A.F25",
-      "author": "crocus",
-      "board": "Gossiping",
-      "publishTime": "2025/10/31 08:48",
-      "imageUrl": ""
     }
   ]
 }
