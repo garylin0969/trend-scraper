@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-31T11:17:39.008Z",
+  "updated": "2025-10-31T11:26:45.753Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,7 +44,17 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "724",
+      "recommendScore": "389",
+      "recommendCount": "876",
+      "title": "[新聞] 黑豹旗／育達高中遲到遭裁定敗「塞車、下錯交流道」球員吐心聲",
+      "link": "/bbs/Baseball/M.1761880516.A.CA0",
+      "author": "ruka660101",
+      "board": "Baseball",
+      "publishTime": "2025/10/31 03:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "712",
       "recommendCount": "1396",
       "title": "[電競] 2025 World Championship - 八強賽 Day4",
       "link": "/bbs/LoL/M.1761890792.A.9FE",
@@ -52,16 +62,6 @@
       "board": "LoL",
       "publishTime": "2025/10/31 06:06",
       "imageUrl": "https://cache.pttweb.cc/imgur/9RgDofj/s/defb97af2a0a10e6732d8a369e9ee6a1"
-    },
-    {
-      "recommendScore": "387",
-      "recommendCount": "874",
-      "title": "[新聞] 黑豹旗／育達高中遲到遭裁定敗「塞車、下錯交流道」球員吐心聲",
-      "link": "/bbs/Baseball/M.1761880516.A.CA0",
-      "author": "ruka660101",
-      "board": "Baseball",
-      "publishTime": "2025/10/31 03:15",
-      "imageUrl": ""
     },
     {
       "recommendScore": "324",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "222",
-      "recommendCount": "530",
+      "recommendScore": "226",
+      "recommendCount": "539",
       "title": "Re: [問卦] 脆：cheap開始試水溫、投名狀",
       "link": "/bbs/Gossiping/M.1761888174.A.CD8",
       "author": "ofpurity",
@@ -184,8 +184,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/5JTwcUa/s/3bd49c7f0cb004da857c2fad94801773"
     },
     {
-      "recommendScore": "226",
-      "recommendCount": "281",
+      "recommendScore": "234",
+      "recommendCount": "289",
       "title": "[祭品] T1晉級四強",
       "link": "/bbs/LoL/M.1761903773.A.B61",
       "author": "king8277",
