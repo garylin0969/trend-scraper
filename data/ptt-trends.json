@@ -1,16 +1,26 @@
 {
-  "updated": "2025-10-31T19:17:45.132Z",
+  "updated": "2025-10-31T19:25:57.933Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "620",
-      "recommendCount": "1157",
+      "recommendCount": "1159",
       "title": "[新聞] 林俊言遭控不正訊問今勘驗　警告黃景茂律師「再出意見到後面去」",
       "link": "/bbs/Gossiping/M.1761872123.A.720",
       "author": "copybrown",
       "board": "Gossiping",
       "publishTime": "2025/10/31 00:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "501",
+      "recommendCount": "583",
+      "title": "[閒聊] 謝謝你AL",
+      "link": "/bbs/LoL/M.1761911504.A.FBB",
+      "author": "cornsoup",
+      "board": "LoL",
+      "publishTime": "2025/10/31 11:51",
       "imageUrl": ""
     },
     {
@@ -31,16 +41,6 @@
       "author": "zjeff1",
       "board": "Gossiping",
       "publishTime": "2025/10/31 05:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "499",
-      "recommendCount": "581",
-      "title": "[閒聊] 謝謝你AL",
-      "link": "/bbs/LoL/M.1761911504.A.FBB",
-      "author": "cornsoup",
-      "board": "LoL",
-      "publishTime": "2025/10/31 11:51",
       "imageUrl": ""
     },
     {
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "243",
-      "recommendCount": "576",
+      "recommendScore": "245",
+      "recommendCount": "579",
       "title": "Re: [問卦] 脆：cheap開始試水溫、投名狀",
       "link": "/bbs/Gossiping/M.1761888174.A.CD8",
       "author": "ofpurity",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "307",
-      "recommendCount": "624",
+      "recommendScore": "316",
+      "recommendCount": "634",
       "title": "[問卦] 范姜最新四點聲明：對女兒的愛永遠不變",
       "link": "/bbs/Gossiping/M.1761911658.A.D22",
       "author": "godofsex",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "319",
-      "recommendCount": "334",
+      "recommendScore": "321",
+      "recommendCount": "336",
       "title": "[閒聊] 贏麻發造型！",
       "link": "/bbs/LoL/M.1761912909.A.CCA",
       "author": "bc0727",
@@ -171,6 +171,16 @@
       "author": "crocus",
       "board": "Gossiping",
       "publishTime": "2025/10/31 08:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "225",
+      "recommendCount": "436",
+      "title": "[爆卦] 路透專欄: 台灣逆亞洲綠能轉型 燃氣創新高",
+      "link": "/bbs/Gossiping/M.1761891285.A.37A",
+      "author": "usnavyseal",
+      "board": "Gossiping",
+      "publishTime": "2025/10/31 06:14",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "iam168888888",
       "board": "Gossiping",
       "publishTime": "2025/10/31 03:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "224",
-      "recommendCount": "435",
-      "title": "[爆卦] 路透專欄: 台灣逆亞洲綠能轉型 燃氣創新高",
-      "link": "/bbs/Gossiping/M.1761891285.A.37A",
-      "author": "usnavyseal",
-      "board": "Gossiping",
-      "publishTime": "2025/10/31 06:14",
       "imageUrl": ""
     }
   ]
