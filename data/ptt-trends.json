@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-31T22:39:25.603Z",
+  "updated": "2025-10-31T22:45:34.535Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -82,16 +82,6 @@
       "board": "LoL",
       "publishTime": "2025/10/31 06:06",
       "imageUrl": "https://cache.pttweb.cc/imgur/9RgDofj/s/defb97af2a0a10e6732d8a369e9ee6a1"
-    },
-    {
-      "recommendScore": "325",
-      "recommendCount": "614",
-      "title": "[新聞] ock.yahoo.com/news_content/url/d/a/121126/3/3i2q4.html",
-      "link": "/bbs/Stock/M.1761864280.A.3E9",
-      "author": "qazxc1156892",
-      "board": "Stock",
-      "publishTime": "2025/10/30 22:44",
-      "imageUrl": "https://cache.pttweb.cc/imgur/5K554UR/s/6c765dde0eb3faf7dc56636ef378f207"
     },
     {
       "recommendScore": "217",
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "225",
-      "recommendCount": "437",
+      "recommendScore": "226",
+      "recommendCount": "438",
       "title": "[爆卦] 路透專欄: 台灣逆亞洲綠能轉型 燃氣創新高",
       "link": "/bbs/Gossiping/M.1761891285.A.37A",
       "author": "usnavyseal",
       "board": "Gossiping",
       "publishTime": "2025/10/31 06:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "280",
+      "recommendCount": "388",
+      "title": "[分享] 山本由伸 輸球即淘汰成績",
+      "link": "/bbs/Baseball/M.1761885752.A.6D4",
+      "author": "what62651",
+      "board": "Baseball",
+      "publishTime": "2025/10/31 04:42",
       "imageUrl": ""
     }
   ]
