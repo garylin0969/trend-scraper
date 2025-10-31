@@ -1,11 +1,11 @@
 {
-  "updated": "2025-10-31T15:18:22.341Z",
+  "updated": "2025-10-31T15:29:52.102Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "619",
-      "recommendCount": "1149",
+      "recommendScore": "618",
+      "recommendCount": "1150",
       "title": "[新聞] 林俊言遭控不正訊問今勘驗　警告黃景茂律師「再出意見到後面去」",
       "link": "/bbs/Gossiping/M.1761872123.A.720",
       "author": "copybrown",
@@ -24,13 +24,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/2IutIrU/s/a8f901f40222312345fcb3c5477d4128"
     },
     {
-      "recommendScore": "392",
-      "recommendCount": "781",
+      "recommendScore": "394",
+      "recommendCount": "785",
       "title": "[爆卦] Cheap約戰沈柏洋",
       "link": "/bbs/Gossiping/M.1761889535.A.BE8",
       "author": "zjeff1",
       "board": "Gossiping",
       "publishTime": "2025/10/31 05:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "389",
+      "recommendCount": "717",
+      "title": "[問卦] 北檢的優秀檢察官會偽造筆錄，優秀在哪?",
+      "link": "/bbs/Gossiping/M.1761866637.A.50E",
+      "author": "metroid0104",
+      "board": "Gossiping",
+      "publishTime": "2025/10/30 23:23",
       "imageUrl": ""
     },
     {
@@ -41,16 +51,6 @@
       "author": "cornsoup",
       "board": "LoL",
       "publishTime": "2025/10/31 11:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "390",
-      "recommendCount": "716",
-      "title": "[問卦] 北檢的優秀檢察官會偽造筆錄，優秀在哪?",
-      "link": "/bbs/Gossiping/M.1761866637.A.50E",
-      "author": "metroid0104",
-      "board": "Gossiping",
-      "publishTime": "2025/10/30 23:23",
       "imageUrl": ""
     },
     {
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "241",
-      "recommendCount": "566",
+      "recommendScore": "242",
+      "recommendCount": "567",
       "title": "Re: [問卦] 脆：cheap開始試水溫、投名狀",
       "link": "/bbs/Gossiping/M.1761888174.A.CD8",
       "author": "ofpurity",
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "315",
+      "recommendCount": "330",
+      "title": "[閒聊] 贏麻發造型！",
+      "link": "/bbs/LoL/M.1761912909.A.CCA",
+      "author": "bc0727",
+      "board": "LoL",
+      "publishTime": "2025/10/31 12:15",
+      "imageUrl": "https://cache.pttweb.cc/imgur/0kpxIJh/s/03f568453d9211dfb5d0599cf674a532"
+    },
+    {
       "recommendScore": "102",
       "recommendCount": "557",
       "title": "[新聞] 「憲法規定我們是中國人」！鄭麗文：知道中國沒有要把台灣變第二個香港",
@@ -164,24 +174,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "314",
-      "recommendCount": "329",
-      "title": "[閒聊] 贏麻發造型！",
-      "link": "/bbs/LoL/M.1761912909.A.CCA",
-      "author": "bc0727",
-      "board": "LoL",
-      "publishTime": "2025/10/31 12:15",
-      "imageUrl": "https://cache.pttweb.cc/imgur/0kpxIJh/s/03f568453d9211dfb5d0599cf674a532"
-    },
-    {
-      "recommendScore": "277",
-      "recommendCount": "385",
+      "recommendScore": "278",
+      "recommendCount": "386",
       "title": "[分享] 山本由伸 輸球即淘汰成績",
       "link": "/bbs/Baseball/M.1761885752.A.6D4",
       "author": "what62651",
       "board": "Baseball",
       "publishTime": "2025/10/31 04:42",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "287",
+      "recommendCount": "568",
+      "title": "[問卦] 范姜最新四點聲明：對女兒的愛永遠不變",
+      "link": "/bbs/Gossiping/M.1761911658.A.D22",
+      "author": "godofsex",
+      "board": "Gossiping",
+      "publishTime": "2025/10/31 11:54",
+      "imageUrl": "https://cache.pttweb.cc/imgur/EVd3AUZ/s/801f23617f70ee8b9a1a0ad565513163"
     },
     {
       "recommendScore": "221",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/10/31 06:14",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "282",
-      "recommendCount": "562",
-      "title": "[問卦] 范姜最新四點聲明：對女兒的愛永遠不變",
-      "link": "/bbs/Gossiping/M.1761911658.A.D22",
-      "author": "godofsex",
-      "board": "Gossiping",
-      "publishTime": "2025/10/31 11:54",
-      "imageUrl": "https://cache.pttweb.cc/imgur/EVd3AUZ/s/801f23617f70ee8b9a1a0ad565513163"
     }
   ]
 }
