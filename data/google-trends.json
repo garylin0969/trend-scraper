@@ -1,15 +1,15 @@
 {
-  "updated": "2025-10-31T04:41:47.175Z",
+  "updated": "2025-10-31T05:09:39.730Z",
   "trends": [
+    {
+      "googleTrend": "蔡依林演唱會",
+      "searchVolume": "2,000+",
+      "started": "50 分鐘前"
+    },
     {
       "googleTrend": "kktix",
       "searchVolume": "2,000+",
       "started": "1 小時前"
-    },
-    {
-      "googleTrend": "蔡依林演唱會",
-      "searchVolume": "2,000+",
-      "started": "30 分鐘前"
     },
     {
       "googleTrend": "日月光",
@@ -17,14 +17,9 @@
       "started": "3 小時前"
     },
     {
-      "googleTrend": "華城",
-      "searchVolume": "1,000+",
-      "started": "3 小時前"
-    },
-    {
-      "googleTrend": "林信義",
-      "searchVolume": "500+",
-      "started": "2 小時前"
+      "googleTrend": "netflix",
+      "searchVolume": "2,000+",
+      "started": "30 分鐘前"
     },
     {
       "googleTrend": "ryan rollins",
@@ -34,15 +29,25 @@
     {
       "googleTrend": "星巴克買一送一",
       "searchVolume": "1,000+",
-      "started": "30 分鐘前"
+      "started": "50 分鐘前"
+    },
+    {
+      "googleTrend": "林信義",
+      "searchVolume": "1,000+",
+      "started": "2 小時前"
     },
     {
       "googleTrend": "落日飛車演唱會",
-      "searchVolume": "200+",
+      "searchVolume": "500+",
       "started": "1 小時前"
     },
     {
       "googleTrend": "林家正",
+      "searchVolume": "200+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "德國之聲",
       "searchVolume": "200+",
       "started": "1 小時前"
     },
@@ -54,47 +59,7 @@
     {
       "googleTrend": "台達電",
       "searchVolume": "2,000+",
-      "started": "2 小時前"
-    },
-    {
-      "googleTrend": "穩懋",
-      "searchVolume": "500+",
       "started": "3 小時前"
-    },
-    {
-      "googleTrend": "德國之聲",
-      "searchVolume": "200+",
-      "started": "1 小時前"
-    },
-    {
-      "googleTrend": "亞力",
-      "searchVolume": "500+",
-      "started": "2 小時前"
-    },
-    {
-      "googleTrend": "6274",
-      "searchVolume": "1,000+",
-      "started": "3 小時前"
-    },
-    {
-      "googleTrend": "金像電",
-      "searchVolume": "500+",
-      "started": "3 小時前"
-    },
-    {
-      "googleTrend": "00878 配息",
-      "searchVolume": "1,000+",
-      "started": "3 小時前"
-    },
-    {
-      "googleTrend": "匯率",
-      "searchVolume": "1,000+",
-      "started": "2 小時前"
-    },
-    {
-      "googleTrend": "昆凌",
-      "searchVolume": "200+",
-      "started": "2 小時前"
     },
     {
       "googleTrend": "粉紅超跑",
@@ -104,7 +69,22 @@
     {
       "googleTrend": "disney+",
       "searchVolume": "200+",
-      "started": "20 分鐘前"
+      "started": "40 分鐘前"
+    },
+    {
+      "googleTrend": "昆凌",
+      "searchVolume": "200+",
+      "started": "3 小時前"
+    },
+    {
+      "googleTrend": "亞力",
+      "searchVolume": "500+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "林世偉",
+      "searchVolume": "200+",
+      "started": "3 小時前"
     },
     {
       "googleTrend": "友達",
@@ -112,19 +92,39 @@
       "started": "3 小時前"
     },
     {
-      "googleTrend": "2 小時前",
-      "searchVolume": "200+",
-      "started": "2 小時前"
+      "googleTrend": "李在鎔",
+      "searchVolume": "100+",
+      "started": "20 分鐘前"
     },
     {
-      "googleTrend": "李明璇",
+      "googleTrend": "愛奇藝",
       "searchVolume": "200+",
-      "started": "1 小時前"
+      "started": "10 分鐘前"
     },
     {
       "googleTrend": "普丁",
       "searchVolume": "100+",
-      "started": "40 分鐘前"
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "李明璇",
+      "searchVolume": "200+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "金像電",
+      "searchVolume": "500+",
+      "started": "3 小時前"
+    },
+    {
+      "googleTrend": "wednesday",
+      "searchVolume": "100+",
+      "started": "10 分鐘前"
+    },
+    {
+      "googleTrend": "匯率",
+      "searchVolume": "1,000+",
+      "started": "2 小時前"
     }
   ]
 }
