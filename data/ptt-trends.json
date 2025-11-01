@@ -1,18 +1,8 @@
 {
-  "updated": "2025-11-01T05:45:19.793Z",
+  "updated": "2025-11-01T05:53:16.447Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "400",
-      "recommendCount": "804",
-      "title": "[爆卦] Cheap約戰沈柏洋",
-      "link": "/bbs/Gossiping/M.1761889535.A.BE8",
-      "author": "zjeff1",
-      "board": "Gossiping",
-      "publishTime": "2025/10/31 05:45",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "502",
       "recommendCount": "584",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/10/31 10:39",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "271",
+      "recommendCount": "284",
+      "title": "Re: [LIVE] 棒球 洛杉磯道奇 3:1 多倫多藍鳥 場中",
+      "link": "/bbs/SportLottery/M.1761966950.A.9B5",
+      "author": "tomnj",
+      "board": "SportLottery",
+      "publishTime": "2025/11/01 03:15",
+      "imageUrl": "https://cache.pttweb.cc/imgur/yscLVK7/s/a24db864eca6b56aa42fcb60609c8aa6"
     }
   ]
 }
