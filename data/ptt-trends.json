@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-01T08:45:30.122Z",
+  "updated": "2025-11-01T08:53:37.412Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "60",
-      "recommendCount": "486",
-      "title": "[新聞] 范姜彥豐爆粿粿出軌「符合誹謗罪要件」",
-      "link": "/bbs/Gossiping/M.1761900490.A.F25",
-      "author": "crocus",
-      "board": "Gossiping",
-      "publishTime": "2025/10/31 08:48",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "322",
       "recommendCount": "337",
       "title": "[閒聊] 贏麻發造型！",
@@ -201,6 +191,16 @@
       "author": "mongi",
       "board": "Gossiping",
       "publishTime": "2025/10/31 16:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "210",
+      "recommendCount": "247",
+      "title": "[閒聊] 為什麼T1的拉拉拉這麼痛？",
+      "link": "/bbs/LoL/M.1761912277.A.903",
+      "author": "LLsolo",
+      "board": "LoL",
+      "publishTime": "2025/10/31 12:04",
       "imageUrl": ""
     }
   ]
