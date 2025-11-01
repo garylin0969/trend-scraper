@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-01T05:29:27.916Z",
+  "updated": "2025-11-01T05:38:20.608Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "371",
+      "recommendCount": "587",
+      "title": "[討論] 如果道奇奪冠，大谷或山本 誰值得FMVP",
+      "link": "/bbs/Baseball/M.1761967165.A.4ED",
+      "author": "robinkidd",
+      "board": "Baseball",
+      "publishTime": "2025/11/01 03:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "358",
+      "recommendCount": "527",
+      "title": "[分享] 今日 山本由伸 六局6K失一分勝",
+      "link": "/bbs/Baseball/M.1761966690.A.4A3",
+      "author": "carlchang092",
+      "board": "Baseball",
+      "publishTime": "2025/11/01 03:11",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "680",
       "recommendCount": "1396",
       "title": "[電競] 2025 World Championship - 八強賽 Day4",
@@ -42,6 +62,16 @@
       "board": "LoL",
       "publishTime": "2025/10/31 06:06",
       "imageUrl": "https://cache.pttweb.cc/imgur/9RgDofj/s/defb97af2a0a10e6732d8a369e9ee6a1"
+    },
+    {
+      "recommendScore": "293",
+      "recommendCount": "444",
+      "title": "[討論] 道奇今天4不4塞到一場？",
+      "link": "/bbs/Baseball/M.1761967383.A.A0E",
+      "author": "qk123",
+      "board": "Baseball",
+      "publishTime": "2025/11/01 03:23",
+      "imageUrl": ""
     },
     {
       "recommendScore": "-223",
@@ -74,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "296",
+      "recommendCount": "414",
+      "title": "[分享] 山本由伸：如果G7需要我，我也是能投",
+      "link": "/bbs/Baseball/M.1761968430.A.F5B",
+      "author": "LABOYS",
+      "board": "Baseball",
+      "publishTime": "2025/11/01 03:40",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "242",
       "recommendCount": "445",
       "title": "[新聞] 捲入粿粿、王子偷情風波！簡廷芮老公「黑底白字文」強硬發聲",
@@ -81,6 +121,16 @@
       "author": "Kazmier",
       "board": "Gossiping",
       "publishTime": "2025/10/31 07:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "290",
+      "recommendCount": "409",
+      "title": "[分享] Kiké Hernandez：其實我看不到那球在哪",
+      "link": "/bbs/Baseball/M.1761970294.A.EEC",
+      "author": "LABOYS",
+      "board": "Baseball",
+      "publishTime": "2025/11/01 04:11",
       "imageUrl": ""
     },
     {
@@ -151,56 +201,6 @@
       "author": "BMTH5566",
       "board": "Gossiping",
       "publishTime": "2025/10/31 10:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "271",
-      "recommendCount": "284",
-      "title": "Re: [LIVE] 棒球 洛杉磯道奇 3:1 多倫多藍鳥 場中",
-      "link": "/bbs/SportLottery/M.1761966950.A.9B5",
-      "author": "tomnj",
-      "board": "SportLottery",
-      "publishTime": "2025/11/01 03:15",
-      "imageUrl": "https://cache.pttweb.cc/imgur/yscLVK7/s/a24db864eca6b56aa42fcb60609c8aa6"
-    },
-    {
-      "recommendScore": "213",
-      "recommendCount": "451",
-      "title": "[問卦] 簡廷芮狂吹捧王子留言遭翻出  網驚",
-      "link": "/bbs/Gossiping/M.1761902507.A.1CC",
-      "author": "norvasc",
-      "board": "Gossiping",
-      "publishTime": "2025/10/31 09:21",
-      "imageUrl": "https://cache.pttweb.cc/imgur/fCfD9JS/s/7dddd32b307ef62be804716dc810dcb9"
-    },
-    {
-      "recommendScore": "217",
-      "recommendCount": "322",
-      "title": "[問卦] 王子稱讚阿緯老婆很棒的回覆被隱藏了？",
-      "link": "/bbs/Gossiping/M.1761893341.A.DC8",
-      "author": "newpasta",
-      "board": "Gossiping",
-      "publishTime": "2025/10/31 06:49",
-      "imageUrl": "https://cache.pttweb.cc/imgur/5JTwcUa/s/3bd49c7f0cb004da857c2fad94801773"
-    },
-    {
-      "recommendScore": "168",
-      "recommendCount": "276",
-      "title": "[閒聊] 這場不看是不是今年白看",
-      "link": "/bbs/LoL/M.1761910935.A.C75",
-      "author": "danny2451",
-      "board": "LoL",
-      "publishTime": "2025/10/31 11:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "238",
-      "recommendCount": "253",
-      "title": "[祭品] 今天T1 3:0 AL",
-      "link": "/bbs/LoL/M.1761897317.A.848",
-      "author": "king8277",
-      "board": "LoL",
-      "publishTime": "2025/10/31 07:55",
       "imageUrl": ""
     }
   ]
