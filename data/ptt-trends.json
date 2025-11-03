@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-03T17:19:03.826Z",
+  "updated": "2025-11-03T17:30:32.002Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "144",
+      "recommendCount": "1393",
+      "title": "Re: [問卦] 為何開始有人願意接受和平統一？",
+      "link": "/bbs/Gossiping/M.1762171319.A.304",
+      "author": "colset",
+      "board": "Gossiping",
+      "publishTime": "2025/11/03 12:01",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "351",
       "recommendCount": "606",
       "title": "[新聞] 快訊／台中工人大樓安裝冷氣…失足自18F墜落！當場慘死",
@@ -31,16 +41,6 @@
       "author": "qazxc1156892",
       "board": "Gossiping",
       "publishTime": "2025/11/03 07:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "141",
-      "recommendCount": "1366",
-      "title": "Re: [問卦] 為何開始有人願意接受和平統一？",
-      "link": "/bbs/Gossiping/M.1762171319.A.304",
-      "author": "colset",
-      "board": "Gossiping",
-      "publishTime": "2025/11/03 12:01",
       "imageUrl": ""
     },
     {
@@ -64,8 +64,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/VbEBydK/s/f0b6fc8665991ed1d978f88dc9f6a432"
     },
     {
-      "recommendScore": "564",
-      "recommendCount": "813",
+      "recommendScore": "566",
+      "recommendCount": "817",
       "title": "[閒聊] T1 mic check（蒙多醫生始末）",
       "link": "/bbs/LoL/M.1762176106.A.7E5",
       "author": "p1088",
@@ -124,8 +124,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/JoGMIS1/s/1ddacf278cbb903866f9603d4c5a3ab7"
     },
     {
-      "recommendScore": "208",
-      "recommendCount": "541",
+      "recommendScore": "209",
+      "recommendCount": "542",
       "title": "[新聞] 「神經痛」卻被送進迦樂醫院精神科！屏東女怒控遭虐　衛生局：符合SOP",
       "link": "/bbs/Gossiping/M.1762159567.A.7CA",
       "author": "Tencc",
@@ -154,18 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-147",
-      "recommendCount": "343",
-      "title": "[新聞] 蔣萬安稱不准翡翠水庫設光電板 網曝柯文哲早在下游裝好裝滿！",
-      "link": "/bbs/Gossiping/M.1762151796.A.5D3",
-      "author": "DIAtai",
-      "board": "Gossiping",
-      "publishTime": "2025/11/03 06:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "190",
-      "recommendCount": "524",
+      "recommendScore": "197",
+      "recommendCount": "533",
       "title": "[爆卦] ChatGPT將不再提供醫療、法律或財務建議",
       "link": "/bbs/Gossiping/M.1762181908.A.984",
       "author": "JQK2",
@@ -174,8 +164,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/nwvtEo3/s/e9ca089f32728b464db91747018a05be"
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "357",
+      "recommendScore": "-149",
+      "recommendCount": "345",
+      "title": "[新聞] 蔣萬安稱不准翡翠水庫設光電板 網曝柯文哲早在下游裝好裝滿！",
+      "link": "/bbs/Gossiping/M.1762151796.A.5D3",
+      "author": "DIAtai",
+      "board": "Gossiping",
+      "publishTime": "2025/11/03 06:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "208",
+      "recommendCount": "358",
       "title": "[新聞] 快訊／黃明志被捕照曝光！涉毒押回金馬警區　身上搜出9顆藍藥丸",
       "link": "/bbs/Gossiping/M.1762174745.A.DC1",
       "author": "CREA",
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "177",
-      "recommendCount": "325",
+      "recommendScore": "178",
+      "recommendCount": "328",
       "title": "[爆卦] 國防部合約強制給廠商80%的保障獲利",
       "link": "/bbs/Gossiping/M.1762172137.A.E3D",
       "author": "jobli",
