@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-03T14:18:45.138Z",
+  "updated": "2025-11-03T14:32:17.335Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "234",
-      "recommendCount": "1004",
+      "recommendScore": "235",
+      "recommendCount": "1010",
       "title": "[問卦] 為何開始有人願意接受和平統一？",
       "link": "/bbs/Gossiping/M.1762150009.A.E45",
       "author": "zo6al",
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "204",
+      "recommendCount": "424",
+      "title": "[新聞] WCY-樂天遭爆「摳門養二軍」！球團3點澄",
+      "link": "/bbs/Baseball/M.1762152331.A.756",
+      "author": "leftavoid",
+      "board": "Baseball",
+      "publishTime": "2025/11/03 06:45",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "136",
       "recommendCount": "318",
       "title": "[新聞] 公園內「上空」打籃球最高可以罰6000？高雄警方證實了…工務局也可罰錢",
@@ -171,16 +181,6 @@
       "author": "Lineage097",
       "board": "Gossiping",
       "publishTime": "2025/11/03 06:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "204",
-      "recommendCount": "422",
-      "title": "[新聞] WCY-樂天遭爆「摳門養二軍」！球團3點澄",
-      "link": "/bbs/Baseball/M.1762152331.A.756",
-      "author": "leftavoid",
-      "board": "Baseball",
-      "publishTime": "2025/11/03 06:45",
       "imageUrl": ""
     },
     {
@@ -194,14 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "226",
-      "recommendCount": "254",
-      "title": "Re: [閒聊] 其實Doran也沒有那麼差",
-      "link": "/bbs/LoL/M.1762099840.A.47E",
-      "author": "JEFF11503",
+      "recommendScore": "331",
+      "recommendCount": "473",
+      "title": "[閒聊] T1 mic check（蒙多醫生始末）",
+      "link": "/bbs/LoL/M.1762176106.A.7E5",
+      "author": "p1088",
       "board": "LoL",
-      "publishTime": "2025/11/02 16:10",
-      "imageUrl": ""
+      "publishTime": "2025/11/03 13:21",
+      "imageUrl": "https://cache.pttweb.cc/imgur/03KGPck/s/c9d9ffdb720a53650bc386580fed029e"
     }
   ]
 }
