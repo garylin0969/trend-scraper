@@ -1,10 +1,10 @@
 {
-  "updated": "2025-11-02T23:47:20.499Z",
+  "updated": "2025-11-03T00:40:31.124Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-11-02T23:47:15.000Z",
+    "lastBuildDate": "2025-11-03T00:40:17.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -34,20 +34,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a965/live/6f151380-b734-11f0-aa13-0b0479f6f42a.jpg"
     },
     {
+      "title": "你真的會相信機器人來照顧你的晚年生活嗎？",
+      "description": "這聽起來像是科幻電影裡的情節，但一些科學家認為，這項新技術可以幫助緩解英國醫療體系的壓力。",
+      "link": "https://www.bbc.com/zhongwen/articles/cy7eyjdn5peo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-03T00:03:50.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cy7eyjdn5peo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eca5/live/b7efdbe0-b526-11f0-aadb-fdf63886279a.jpg"
+    },
+    {
       "title": "她是流行天后，他是前總理——為什麼凱蒂·佩里與杜魯多或許能走到一起？",
       "description": "這位加拿大前總理和這位加州歌手都經歷過公眾輿論的起伏。",
       "link": "https://www.bbc.com/zhongwen/articles/cm2776g0m7go/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-11-02T07:15:52.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cm2776g0m7go/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f77e/live/320fa8f0-b663-11f0-b2a1-6f537f66f9aa.jpg"
-    },
-    {
-      "title": "關於安德魯王子失去頭銜、溫莎莊園住宅的情況，我們已知哪些信息？",
-      "description": "白金漢宮週四宣布，安德魯王子已被剝奪「王子」頭銜，並將離開位於溫莎的皇家莊園住宅。",
-      "link": "https://www.bbc.com/zhongwen/articles/c5yd5771qgmo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-31T04:38:41.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5yd5771qgmo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f5bb/live/8703bcf0-b60b-11f0-b2a1-6f537f66f9aa.jpg"
     },
     {
       "title": "持續投入、租賃金器、購買者年輕化……2025大行情下的「買金潮」有何不同？",
@@ -58,12 +58,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/11fe/live/6b30a080-b63b-11f0-aa13-0b0479f6f42a.jpg"
     },
     {
-      "title": "中國打着長遠算盤，習近平與特朗普暫時休戰",
-      "description": "會談有助於穩定世界兩大經濟體之間搖搖欲墜的關係，但競爭仍然存在。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gkv4vjpj0o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-31T03:48:58.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gkv4vjpj0o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2ff4/live/d184f880-b5a1-11f0-b2a1-6f537f66f9aa.jpg"
+      "title": "關於安德魯王子失去頭銜、溫莎莊園住宅的情況，我們已知哪些信息？",
+      "description": "白金漢宮週四宣布，安德魯王子已被剝奪「王子」頭銜，並將離開位於溫莎的皇家莊園住宅。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5yd5771qgmo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-31T04:38:41.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5yd5771qgmo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f5bb/live/8703bcf0-b60b-11f0-b2a1-6f537f66f9aa.jpg"
     },
     {
       "title": "台灣「普發現金一萬元」：政治攻防下，「還稅於民」會常態化嗎？",
@@ -154,6 +154,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6819/live/90e146c0-ae68-11f0-aa13-0b0479f6f42a.jpg"
     },
     {
+      "title": "中國打着長遠算盤，習近平與特朗普暫時休戰",
+      "description": "會談有助於穩定世界兩大經濟體之間搖搖欲墜的關係，但競爭仍然存在。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gkv4vjpj0o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-10-31T03:48:58.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gkv4vjpj0o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2ff4/live/d184f880-b5a1-11f0-b2a1-6f537f66f9aa.jpg"
+    },
+    {
       "title": "特朗普的亞洲一週行——BBC記者分析得失利弊",
       "description": "美國總統即將展開為期一周的外交活動，你應該了解以下資訊。",
       "link": "https://www.bbc.com/zhongwen/articles/ckgkq4zl7w1o/trad?at_medium=RSS&at_campaign=rss",
@@ -184,14 +192,6 @@
       "pubDate": "2025-10-22T04:47:07.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx2prjw1x11o/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/63fd/live/055f6a60-af02-11f0-ba75-093eca1ac29b.jpg"
-    },
-    {
-      "title": "在美國經濟腹地感受中美激烈對峙的一周  「這是中國在對決全世界」",
-      "description": "上週，在與國際貨幣基金組織的部長、銀行家和貿易談判代表進行了五天的交談後，BBC經濟事務編輯費薩爾·伊斯蘭對中美又一次對峙的前景進行了評估。",
-      "link": "https://www.bbc.com/zhongwen/articles/c8r05gn5y02o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-20T05:19:51.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c8r05gn5y02o/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/65e2/live/c9e00020-ac5a-11f0-bf12-67c1f4bdac34.jpg"
     },
     {
       "title": "APEC與「習特會」：元首「場邊會面」頻頻上演，是否能收穫更多實質成果？",
