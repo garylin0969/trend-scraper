@@ -1,8 +1,18 @@
 {
-  "updated": "2025-11-03T08:41:36.083Z",
+  "updated": "2025-11-03T08:52:53.909Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "492",
+      "recommendCount": "883",
+      "title": "[新聞] 獨家／扯！民宿管家神經痛求送醫 控被關精神科餵藥毆打",
+      "link": "/bbs/Gossiping/M.1762092899.A.377",
+      "author": "Tencc",
+      "board": "Gossiping",
+      "publishTime": "2025/11/02 14:14",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "571",
       "recommendCount": "1054",
@@ -11,16 +21,6 @@
       "author": "zkow",
       "board": "Baseball",
       "publishTime": "2025/11/02 23:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "487",
-      "recommendCount": "878",
-      "title": "[新聞] 獨家／扯！民宿管家神經痛求送醫 控被關精神科餵藥毆打",
-      "link": "/bbs/Gossiping/M.1762092899.A.377",
-      "author": "Tencc",
-      "board": "Gossiping",
-      "publishTime": "2025/11/02 14:14",
       "imageUrl": ""
     },
     {
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "186",
+      "recommendCount": "672",
+      "title": "[請益] 信貸利率4% 應該繼續投資嗎？",
+      "link": "/bbs/Stock/M.1762094548.A.56D",
+      "author": "shore199006",
+      "board": "Stock",
+      "publishTime": "2025/11/02 14:42",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "358",
       "recommendCount": "466",
       "title": "[分享] Kike 9局下以為球隊輸球了",
@@ -42,16 +52,6 @@
       "board": "Baseball",
       "publishTime": "2025/11/03 02:00",
       "imageUrl": "https://cache.pttweb.cc/imgur/VbEBydK/s/f0b6fc8665991ed1d978f88dc9f6a432"
-    },
-    {
-      "recommendScore": "184",
-      "recommendCount": "670",
-      "title": "[請益] 信貸利率4% 應該繼續投資嗎？",
-      "link": "/bbs/Stock/M.1762094548.A.56D",
-      "author": "shore199006",
-      "board": "Stock",
-      "publishTime": "2025/11/02 14:42",
-      "imageUrl": ""
     },
     {
       "recommendScore": "216",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "338",
-      "recommendCount": "352",
+      "recommendScore": "344",
+      "recommendCount": "358",
       "title": "[公告] 神預測－總決賽階段 預測專區",
       "link": "/bbs/LoL/M.1762088809.A.EE3",
       "author": "cornsoup",
