@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-04T19:34:07.421Z",
+  "updated": "2025-11-04T19:43:21.334Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "225",
-      "recommendCount": "757",
+      "recommendScore": "226",
+      "recommendCount": "762",
       "title": "[分享] 據悉 CPB 立春聯賽 參賽隊伍",
       "link": "/bbs/Baseball/M.1762248190.A.45D",
       "author": "bsp0919",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "202",
+      "recommendCount": "567",
+      "title": "[問卦] 王子承認了欸",
+      "link": "/bbs/Gossiping/M.1762267523.A.61E",
+      "author": "AoyamaNanami",
+      "board": "Gossiping",
+      "publishTime": "2025/11/04 14:45",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "249",
       "recommendCount": "376",
       "title": "[BOX ] Lakers 123:115 Trail Blazers",
@@ -191,16 +201,6 @@
       "author": "harrybbs",
       "board": "NBA",
       "publishTime": "2025/11/04 05:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "203",
-      "recommendCount": "565",
-      "title": "[問卦] 王子承認了欸",
-      "link": "/bbs/Gossiping/M.1762267523.A.61E",
-      "author": "AoyamaNanami",
-      "board": "Gossiping",
-      "publishTime": "2025/11/04 14:45",
       "imageUrl": ""
     }
   ]
