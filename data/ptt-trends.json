@@ -1,18 +1,8 @@
 {
-  "updated": "2025-11-04T20:18:52.267Z",
+  "updated": "2025-11-04T20:32:25.146Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "406",
-      "recommendCount": "673",
-      "title": "[新聞] 快訊／大馬警方宣布：正式通緝黃明志！",
-      "link": "/bbs/Gossiping/M.1762248929.A.65A",
-      "author": "Skyblueway",
-      "board": "Gossiping",
-      "publishTime": "2025/11/04 09:35",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "393",
       "recommendCount": "657",
@@ -134,13 +124,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "235",
-      "recommendCount": "385",
+      "recommendScore": "236",
+      "recommendCount": "386",
       "title": "[新聞] 《大賣空》本尊出手了！重押做空輝達與Palantir",
       "link": "/bbs/Stock/M.1762253290.A.4B2",
       "author": "xephon",
       "board": "Stock",
       "publishTime": "2025/11/04 10:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "285",
+      "recommendCount": "374",
+      "title": "[閒聊] 本週決賽 你心底比較支持T1還是KT",
+      "link": "/bbs/LoL/M.1762253661.A.1C5",
+      "author": "Gina4290",
+      "board": "LoL",
+      "publishTime": "2025/11/04 10:54",
       "imageUrl": ""
     },
     {
@@ -151,16 +151,6 @@
       "author": "mongi",
       "board": "Gossiping",
       "publishTime": "2025/11/04 01:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "283",
-      "recommendCount": "372",
-      "title": "[閒聊] 本週決賽 你心底比較支持T1還是KT",
-      "link": "/bbs/LoL/M.1762253661.A.1C5",
-      "author": "Gina4290",
-      "board": "LoL",
-      "publishTime": "2025/11/04 10:54",
       "imageUrl": ""
     },
     {
@@ -184,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "203",
-      "recommendCount": "569",
+      "recommendScore": "206",
+      "recommendCount": "575",
       "title": "[問卦] 王子承認了欸",
       "link": "/bbs/Gossiping/M.1762267523.A.61E",
       "author": "AoyamaNanami",
@@ -201,6 +191,16 @@
       "author": "harrybbs",
       "board": "NBA",
       "publishTime": "2025/11/04 05:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "185",
+      "recommendCount": "339",
+      "title": "[新聞] 許褚轉世！陸170公斤壯哥秀8塊腹肌 體脂",
+      "link": "/bbs/Gossiping/M.1762224945.A.20A",
+      "author": "schwalbe",
+      "board": "Gossiping",
+      "publishTime": "2025/11/04 02:55",
       "imageUrl": ""
     }
   ]
