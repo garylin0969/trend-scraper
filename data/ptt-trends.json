@@ -1,11 +1,11 @@
 {
-  "updated": "2025-11-04T17:05:26.932Z",
+  "updated": "2025-11-04T17:17:51.684Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "401",
-      "recommendCount": "654",
+      "recommendScore": "406",
+      "recommendCount": "670",
       "title": "[新聞] 快訊／大馬警方宣布：正式通緝黃明志！",
       "link": "/bbs/Gossiping/M.1762248929.A.65A",
       "author": "Skyblueway",
@@ -85,12 +85,22 @@
     },
     {
       "recommendScore": "219",
-      "recommendCount": "570",
+      "recommendCount": "577",
       "title": "[問卦] 軍武版：台海戰爭 台灣率先開仗 勝率最高",
       "link": "/bbs/Gossiping/M.1762234329.A.2A6",
       "author": "TCB006",
       "board": "Gossiping",
       "publishTime": "2025/11/04 05:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "213",
+      "recommendCount": "563",
+      "title": "[問卦] NBA版現在的人氣也太慘了吧….",
+      "link": "/bbs/Gossiping/M.1762255581.A.239",
+      "author": "peter080808",
+      "board": "Gossiping",
+      "publishTime": "2025/11/04 11:26",
       "imageUrl": ""
     },
     {
@@ -104,14 +114,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "240",
-      "recommendCount": "410",
+      "recommendScore": "239",
+      "recommendCount": "411",
       "title": "[問卦] 館長和賴氏宗族秘書長合照",
       "link": "/bbs/Gossiping/M.1762235771.A.D82",
       "author": "boppin",
       "board": "Gossiping",
       "publishTime": "2025/11/04 05:56",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "226",
+      "recommendCount": "755",
+      "title": "[分享] 據悉 CPB 立春聯賽 參賽隊伍",
+      "link": "/bbs/Baseball/M.1762248190.A.45D",
+      "author": "bsp0919",
+      "board": "Baseball",
+      "publishTime": "2025/11/04 09:23",
+      "imageUrl": "https://cache.pttweb.cc/imgur/eb0ggEK/s/8a7e159fb1b3bc337378670bd4713a01"
     },
     {
       "recommendScore": "203",
@@ -124,38 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "209",
-      "recommendCount": "539",
-      "title": "[問卦] NBA版現在的人氣也太慘了吧….",
-      "link": "/bbs/Gossiping/M.1762255581.A.239",
-      "author": "peter080808",
-      "board": "Gossiping",
-      "publishTime": "2025/11/04 11:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "221",
-      "recommendCount": "742",
-      "title": "[分享] 據悉 CPB 立春聯賽 參賽隊伍",
-      "link": "/bbs/Baseball/M.1762248190.A.45D",
-      "author": "bsp0919",
-      "board": "Baseball",
-      "publishTime": "2025/11/04 09:23",
-      "imageUrl": "https://cache.pttweb.cc/imgur/eb0ggEK/s/8a7e159fb1b3bc337378670bd4713a01"
-    },
-    {
-      "recommendScore": "142",
-      "recommendCount": "450",
-      "title": "[新聞] 海鯤號沒滲水!顧立雄:11月再進行一次浮航測試",
-      "link": "/bbs/Gossiping/M.1762212219.A.5E0",
-      "author": "jobli",
-      "board": "Gossiping",
-      "publishTime": "2025/11/03 23:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "276",
-      "recommendCount": "361",
+      "recommendScore": "278",
+      "recommendCount": "365",
       "title": "[閒聊] 本週決賽 你心底比較支持T1還是KT",
       "link": "/bbs/LoL/M.1762253661.A.1C5",
       "author": "Gina4290",
@@ -164,8 +154,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "221",
-      "recommendCount": "365",
+      "recommendScore": "142",
+      "recommendCount": "452",
+      "title": "[新聞] 海鯤號沒滲水!顧立雄:11月再進行一次浮航測試",
+      "link": "/bbs/Gossiping/M.1762212219.A.5E0",
+      "author": "jobli",
+      "board": "Gossiping",
+      "publishTime": "2025/11/03 23:23",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "228",
+      "recommendCount": "373",
       "title": "[新聞] 《大賣空》本尊出手了！重押做空輝達與Palantir",
       "link": "/bbs/Stock/M.1762253290.A.4B2",
       "author": "xephon",
