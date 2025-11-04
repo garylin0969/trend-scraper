@@ -1,14 +1,22 @@
 {
-  "updated": "2025-11-04T08:23:52.138Z",
+  "updated": "2025-11-04T08:52:06.780Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-11-04T08:23:44.000Z",
+    "lastBuildDate": "2025-11-04T08:52:00.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "文件披露中國曾脅迫英國大學放棄新疆人權研究",
+      "description": "文件顯示，中國方面試圖阻止的是人權與現代奴役制教授羅拉·墨菲所領導的研究。該研究聚焦於新疆維吾爾穆斯林群體遭受強迫勞動的指控。",
+      "link": "https://www.bbc.com/zhongwen/articles/cr5e76dyj10o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-04T08:31:50.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cr5e76dyj10o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fa9c/live/b3163e70-b896-11f0-ba75-093eca1ac29b.jpg"
+    },
     {
       "title": "巴厘島叫停著名景點懸崖電梯工程  由中企承建",
       "description": "玻璃電梯建設工程位於懸崖邊、總高度達182米。當地居民與遊客紛紛表達憤怒，指控該工程破壞了自然景觀，並加劇了侵蝕。",
@@ -18,12 +26,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c88/live/56bab120-b877-11f0-8b47-f14fc6b70e5b.png"
     },
     {
-      "title": "中國全運會：跨越歷史和時代的國家敘事",
-      "description": "粵港澳跨境合辦中國全運會開創了先例，是否能如一些政客所願，再度像北京奧運一樣提升港人的國家認同？",
-      "link": "https://www.bbc.com/zhongwen/articles/c04dndq6reko/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-11-02T01:17:43.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c04dndq6reko/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3af1/live/1124b8f0-50d9-11f0-a466-d54f65b60deb.jpg"
+      "title": "歌手黃明志涉台灣網紅命案，馬來西亞警方將朝「謀殺罪」調查",
+      "description": "馬來西亞歌手黃明志捲入台灣女網紅命案，大馬警方宣布轉為援引「謀殺罪」調查，不排除扣查他，並指會調查死者生前是否遭性侵。",
+      "link": "https://www.bbc.com/zhongwen/articles/czxk1dg5np8o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-04T08:28:25.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/czxk1dg5np8o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/50c2/live/ba311430-b956-11f0-ba75-093eca1ac29b.jpg"
     },
     {
       "title": "星巴克將出售其在中國業務的多數股權",
@@ -42,12 +50,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6c6a/live/07514e70-b749-11f0-ba75-093eca1ac29b.jpg"
     },
     {
-      "title": "大學第一年過得不如預期？你並不孤單",
-      "description": "許多新生懷抱著高度期待，認為大學將會是人生中最美好的幾年。",
-      "link": "https://www.bbc.com/zhongwen/articles/cdeg66n94ezo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-11-04T00:24:37.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cdeg66n94ezo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c40c/live/a82d4070-b667-11f0-b2a1-6f537f66f9aa.jpg"
+      "title": "中國全運會：跨越歷史和時代的國家敘事",
+      "description": "粵港澳跨境合辦中國全運會開創了先例，是否能如一些政客所願，再度像北京奧運一樣提升港人的國家認同？",
+      "link": "https://www.bbc.com/zhongwen/articles/c04dndq6reko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-02T01:17:43.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c04dndq6reko/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3af1/live/1124b8f0-50d9-11f0-a466-d54f65b60deb.jpg"
     },
     {
       "title": "觀點：中國究竟如何在英國從事情報活動？",
@@ -274,6 +282,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1bcc/live/661124d0-ab23-11f0-93f3-35cf52b1b510.jpg"
     },
     {
+      "title": "大學第一年過得不如預期？你並不孤單",
+      "description": "許多新生懷抱著高度期待，認為大學將會是人生中最美好的幾年。",
+      "link": "https://www.bbc.com/zhongwen/articles/cdeg66n94ezo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-04T00:24:37.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cdeg66n94ezo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c40c/live/a82d4070-b667-11f0-b2a1-6f537f66f9aa.jpg"
+    },
+    {
       "title": "秋葉變色的奧秘：防曬還是防蟲？",
       "description": "科學家了解葉片變色的生物化學過程，但為何演化出秋季色彩，至今仍是未解之謎。",
       "link": "https://www.bbc.com/zhongwen/articles/ckgkdzr2jnmo/trad?at_medium=RSS&at_campaign=rss",
@@ -288,14 +304,6 @@
       "pubDate": "2025-11-03T05:51:13.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn97878g34lo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/66bd/live/fd4b3e60-b4c1-11f0-9ba4-690ca23769a4.jpg"
-    },
-    {
-      "title": "陳志：「詐騙帝國」神秘主謀，被指策劃140億美元加密貨幣詐騙案",
-      "description": "年僅37歲的陳志被指控為「龐大網路詐騙帝國的幕後主謀」，他是如何發家？如何締造這個空殼帝國？自從上週制裁宣布以來，外界就再也沒有他的消息或蹤跡。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgwn184nx8o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-24T04:27:01.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgwn184nx8o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ebf1/live/c920ff80-b084-11f0-ba75-093eca1ac29b.jpg"
     },
     {
       "title": "人工智能引發的裁員潮真的到來了嗎？",
