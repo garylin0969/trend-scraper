@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-04T04:54:17.186Z",
+  "updated": "2025-11-04T05:06:41.270Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "335",
-      "recommendCount": "849",
+      "recommendScore": "334",
+      "recommendCount": "850",
       "title": "[爆卦] ChatGPT將不再提供醫療、法律或財務建議",
       "link": "/bbs/Gossiping/M.1762181908.A.984",
       "author": "JQK2",
@@ -54,8 +54,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/nwvtEo3/s/e9ca089f32728b464db91747018a05be"
     },
     {
-      "recommendScore": "618",
-      "recommendCount": "883",
+      "recommendScore": "620",
+      "recommendCount": "885",
       "title": "[閒聊] T1 mic check（蒙多醫生始末）",
       "link": "/bbs/LoL/M.1762176106.A.7E5",
       "author": "p1088",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "384",
-      "recommendCount": "783",
+      "recommendScore": "391",
+      "recommendCount": "792",
       "title": "[新聞] 桃猿二軍洗衣投幣？鑰匙不夠？再爆更多問題球團給出回應",
       "link": "/bbs/Baseball/M.1762216504.A.A42",
       "author": "leftavoid",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "341",
-      "recommendCount": "498",
+      "recommendScore": "342",
+      "recommendCount": "499",
       "title": "[問卦] 豬瘟養豬場廚餘根本沒煮？（發錢）",
       "link": "/bbs/Gossiping/M.1762158233.A.D3D",
       "author": "BIA",
@@ -102,6 +102,16 @@
       "board": "HatePolitics",
       "publishTime": "2025/11/03 22:13",
       "imageUrl": "https://cache.pttweb.cc/imgur/WZjwXh5/s/9dfab20a2b67c4140d432731f24b0c06"
+    },
+    {
+      "recommendScore": "248",
+      "recommendCount": "505",
+      "title": "[新聞] 快訊／護理女神謝侑芯變謀殺案！　吉隆坡警方證實",
+      "link": "/bbs/Gossiping/M.1762225624.A.4B3",
+      "author": "a0580531",
+      "board": "Gossiping",
+      "publishTime": "2025/11/04 03:07",
+      "imageUrl": ""
     },
     {
       "recommendScore": "219",
@@ -144,18 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "238",
-      "recommendCount": "475",
-      "title": "[新聞] 快訊／護理女神謝侑芯變謀殺案！　吉隆坡警方證實",
-      "link": "/bbs/Gossiping/M.1762225624.A.4B3",
-      "author": "a0580531",
-      "board": "Gossiping",
-      "publishTime": "2025/11/04 03:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-166",
-      "recommendCount": "342",
+      "recommendScore": "-165",
+      "recommendCount": "344",
       "title": "[新聞] 快訊／確定了！揭弊女神馬郁雯將爭取2026席次　鎖定北市「這區」",
       "link": "/bbs/Gossiping/M.1762181606.A.BFE",
       "author": "STi2011",
@@ -165,7 +165,7 @@
     },
     {
       "recommendScore": "203",
-      "recommendCount": "380",
+      "recommendCount": "381",
       "title": "[爆卦] 國防部合約強制給廠商80%的保障獲利",
       "link": "/bbs/Gossiping/M.1762172137.A.E3D",
       "author": "jobli",
@@ -174,13 +174,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "264",
-      "recommendCount": "626",
+      "recommendScore": "269",
+      "recommendCount": "632",
       "title": "[討論] NBA 3連霸VS MLB 2連霸哪個難？",
       "link": "/bbs/NBA/M.1762170824.A.327",
       "author": "a26895983",
       "board": "NBA",
       "publishTime": "2025/11/03 11:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "133",
+      "recommendCount": "414",
+      "title": "[新聞] 海鯤號沒滲水!顧立雄:11月再進行一次浮航測試",
+      "link": "/bbs/Gossiping/M.1762212219.A.5E0",
+      "author": "jobli",
+      "board": "Gossiping",
+      "publishTime": "2025/11/03 23:23",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "DIAtai",
       "board": "Gossiping",
       "publishTime": "2025/11/03 06:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "133",
-      "recommendCount": "409",
-      "title": "[新聞] 海鯤號沒滲水!顧立雄:11月再進行一次浮航測試",
-      "link": "/bbs/Gossiping/M.1762212219.A.5E0",
-      "author": "jobli",
-      "board": "Gossiping",
-      "publishTime": "2025/11/03 23:23",
       "imageUrl": ""
     }
   ]
