@@ -1,7 +1,7 @@
 {
-  "updated": "2025-11-04T19:53:48.957Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-11-04T20:06:56.812Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "406",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "318",
-      "recommendCount": "562",
+      "recommendScore": "317",
+      "recommendCount": "563",
       "title": "[心得] 跟弘達買車的慘痛教訓",
       "link": "/bbs/car/M.1762235621.A.179",
       "author": "rr444",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "234",
-      "recommendCount": "621",
+      "recommendScore": "235",
+      "recommendCount": "622",
       "title": "[問卦] NBA版現在的人氣也太慘了吧….",
       "link": "/bbs/Gossiping/M.1762255581.A.239",
       "author": "peter080808",
@@ -184,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "202",
-      "recommendCount": "567",
+      "recommendScore": "203",
+      "recommendCount": "569",
       "title": "[問卦] 王子承認了欸",
       "link": "/bbs/Gossiping/M.1762267523.A.61E",
       "author": "AoyamaNanami",
       "board": "Gossiping",
       "publishTime": "2025/11/04 14:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "249",
+      "recommendCount": "376",
+      "title": "[BOX ] Lakers 123:115 Trail Blazers",
+      "link": "/bbs/NBA/M.1762234143.A.9BB",
+      "author": "harrybbs",
+      "board": "NBA",
+      "publishTime": "2025/11/04 05:29",
       "imageUrl": ""
     }
   ]
