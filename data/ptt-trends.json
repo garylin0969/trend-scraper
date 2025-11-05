@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-05T15:39:37.311Z",
+  "updated": "2025-11-05T15:55:30.254Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,6 +14,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "415",
+      "recommendCount": "692",
+      "title": "[新聞] 吳怡農掰了？　段宜康：綠台北市長人選「不一定在黨內」",
+      "link": "/bbs/Gossiping/M.1762333770.A.6EA",
+      "author": "keel90135",
+      "board": "Gossiping",
+      "publishTime": "2025/11/05 09:09",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "312",
       "recommendCount": "805",
       "title": "[新聞] 快訊／太子集團詐騙洗錢　9名被告5萬至70萬交保",
@@ -24,18 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "411",
-      "recommendCount": "686",
-      "title": "[新聞] 吳怡農掰了？　段宜康：綠台北市長人選「不一定在黨內」",
-      "link": "/bbs/Gossiping/M.1762333770.A.6EA",
-      "author": "keel90135",
-      "board": "Gossiping",
-      "publishTime": "2025/11/05 09:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "315",
-      "recommendCount": "567",
+      "recommendScore": "316",
+      "recommendCount": "569",
       "title": "[新聞] 鳳山溪變色！PH值1.88強酸廢水直灌　電鍍廠用「廁所繞道」掩護",
       "link": "/bbs/Gossiping/M.1762310017.A.D8C",
       "author": "jeff0025",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "259",
-      "recommendCount": "663",
+      "recommendScore": "258",
+      "recommendCount": "667",
       "title": "[新聞] 存股族要噴錢了？補充保費新制2.11%「躲不掉」月配息1.9萬試算結果曝光",
       "link": "/bbs/Stock/M.1762339779.A.4AC",
       "author": "xephon",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "221",
-      "recommendCount": "468",
+      "recommendScore": "223",
+      "recommendCount": "473",
       "title": "[問卦] 李珠珢把台男送的小泡芙退回去了",
       "link": "/bbs/Gossiping/M.1762334821.A.287",
       "author": "ReiKuromiya",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "318",
+      "recommendScore": "245",
+      "recommendCount": "319",
       "title": "[情報] 中職36年最佳進步獎-李吳永勤",
       "link": "/bbs/Baseball/M.1762344006.A.6D8",
       "author": "idingdang",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "94",
-      "recommendCount": "329",
-      "title": "[新聞] 快訊／民進黨選對會拍板　提名蘇巧慧參選新北市長",
-      "link": "/bbs/Gossiping/M.1762331562.A.39E",
-      "author": "Uranus20",
-      "board": "Gossiping",
-      "publishTime": "2025/11/05 08:32",
+      "recommendScore": "213",
+      "recommendCount": "495",
+      "title": "[心得] 弘達事件後續",
+      "link": "/bbs/car/M.1762338633.A.2F4",
+      "author": "rr444",
+      "board": "car",
+      "publishTime": "2025/11/05 10:30",
       "imageUrl": ""
     }
   ]
