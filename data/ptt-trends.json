@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-05T06:50:58.880Z",
+  "updated": "2025-11-05T06:58:37.443Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "301",
-      "recommendCount": "554",
+      "recommendScore": "303",
+      "recommendCount": "557",
       "title": "[問卦] 太子集團特助為什麼笑那麼開心？？",
       "link": "/bbs/Gossiping/M.1762303250.A.A6B",
       "author": "seabox",
@@ -34,8 +34,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/WkW1W7v/s/7da7a37570e6f1a08810c8565ca6d3cd"
     },
     {
-      "recommendScore": "283",
-      "recommendCount": "497",
+      "recommendScore": "285",
+      "recommendCount": "500",
       "title": "[新聞] 鳳山溪變色！PH值1.88強酸廢水直灌　電鍍廠用「廁所繞道」掩護",
       "link": "/bbs/Gossiping/M.1762310017.A.D8C",
       "author": "jeff0025",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "259",
-      "recommendCount": "647",
+      "recommendScore": "257",
+      "recommendCount": "656",
       "title": "[新聞] 魔法對抗魔法！　車停家門口 你停、我也停寧吞紅單也不讓",
       "link": "/bbs/Gossiping/M.1762302811.A.3F3",
       "author": "zxxl",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "271",
-      "recommendCount": "741",
+      "recommendScore": "272",
+      "recommendCount": "742",
       "title": "[問卦] 王子承認了欸",
       "link": "/bbs/Gossiping/M.1762267523.A.61E",
       "author": "AoyamaNanami",
@@ -82,16 +82,6 @@
       "board": "Gossiping",
       "publishTime": "2025/11/05 01:23",
       "imageUrl": "https://cache.pttweb.cc/imgur/WkW1W7v/s/7da7a37570e6f1a08810c8565ca6d3cd"
-    },
-    {
-      "recommendScore": "277",
-      "recommendCount": "626",
-      "title": "[花邊] 龜龜：金塊不想讓我回去",
-      "link": "/bbs/NBA/M.1762239314.A.A50",
-      "author": "bm1041644",
-      "board": "NBA",
-      "publishTime": "2025/11/04 06:55",
-      "imageUrl": ""
     },
     {
       "recommendScore": "301",
@@ -114,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-142",
-      "recommendCount": "560",
+      "recommendScore": "-141",
+      "recommendCount": "563",
       "title": "[新聞] 健保開源 補充保費採年結 防堵拆單",
       "link": "/bbs/Stock/M.1762304181.A.747",
       "author": "ChanHoPark",
@@ -145,7 +135,7 @@
     },
     {
       "recommendScore": "-190",
-      "recommendCount": "522",
+      "recommendCount": "526",
       "title": "[公告] CPB怒灌串",
       "link": "/bbs/Elephants/M.1762273836.A.26B",
       "author": "msarthur",
@@ -174,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "168",
+      "recommendCount": "342",
+      "title": "[新聞] 快新聞／盛況空前！普發一萬開放登記僅3小時　湧入近39萬人申請",
+      "link": "/bbs/Gossiping/M.1762313097.A.871",
+      "author": "qweerrt123",
+      "board": "Gossiping",
+      "publishTime": "2025/11/05 03:24",
+      "imageUrl": "https://cache.pttweb.cc/imgur/zfC60o8/s/80197813c52d74115d5c71542d9dafa7"
+    },
+    {
       "recommendScore": "214",
       "recommendCount": "778",
       "title": "Re: [討論] 中國棒球發展起來對台灣球迷好嗎",
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "335",
-      "title": "[新聞] 快新聞／盛況空前！普發一萬開放登記僅3小時　湧入近39萬人申請",
-      "link": "/bbs/Gossiping/M.1762313097.A.871",
-      "author": "qweerrt123",
-      "board": "Gossiping",
-      "publishTime": "2025/11/05 03:24",
-      "imageUrl": "https://cache.pttweb.cc/imgur/zfC60o8/s/80197813c52d74115d5c71542d9dafa7"
-    },
-    {
       "recommendScore": "157",
       "recommendCount": "293",
       "title": "[情報] 谷月涵：台積電永遠可以投資",
@@ -201,6 +191,16 @@
       "author": "DrowningPool",
       "board": "Stock",
       "publishTime": "2025/11/05 03:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "310",
+      "recommendCount": "636",
+      "title": "[情報] 今永昇太成為自由球員",
+      "link": "/bbs/Baseball/M.1762265738.A.966",
+      "author": "EZ78",
+      "board": "Baseball",
+      "publishTime": "2025/11/04 14:15",
       "imageUrl": ""
     }
   ]
