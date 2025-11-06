@@ -1,11 +1,11 @@
 {
-  "updated": "2025-11-06T14:06:17.750Z",
+  "updated": "2025-11-06T14:18:04.537Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "272",
-      "recommendCount": "1362",
+      "recommendScore": "270",
+      "recommendCount": "1366",
       "title": "[新聞] 徐國勇：新加坡有鞭刑 非完全民主國家",
       "link": "/bbs/Gossiping/M.1762385585.A.FDF",
       "author": "semih",
@@ -14,13 +14,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "688",
-      "recommendCount": "897",
+      "recommendScore": "689",
+      "recommendCount": "899",
       "title": "[情報] 富邦悍將新總教練 後藤光尊",
       "link": "/bbs/Baseball/M.1762408980.A.E7F",
       "author": "Axwell",
       "board": "Baseball",
       "publishTime": "2025/11/06 06:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "281",
+      "recommendCount": "933",
+      "title": "[新聞] 二代健保改革惹議 政院踩煞車：暫緩規劃",
+      "link": "/bbs/Stock/M.1762430607.A.830",
+      "author": "iamthebest08",
+      "board": "Stock",
+      "publishTime": "2025/11/06 12:03",
       "imageUrl": ""
     },
     {
@@ -34,23 +44,13 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/vFxB61x/s/7c072de9a223008fd847059cefa70fff"
     },
     {
-      "recommendScore": "100",
-      "recommendCount": "758",
+      "recommendScore": "99",
+      "recommendCount": "759",
       "title": "[新聞] 股民補充保費收定了！ 石崇良：謝謝高股息、 高股利者貢獻",
       "link": "/bbs/Stock/M.1762407491.A.25B",
       "author": "westdoorcard",
       "board": "Stock",
       "publishTime": "2025/11/06 05:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "253",
-      "recommendCount": "853",
-      "title": "[新聞] 二代健保改革惹議 政院踩煞車：暫緩規劃",
-      "link": "/bbs/Stock/M.1762430607.A.830",
-      "author": "iamthebest08",
-      "board": "Stock",
-      "publishTime": "2025/11/06 12:03",
       "imageUrl": ""
     },
     {
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "216",
+      "recommendCount": "533",
+      "title": "[新聞] 19歲男大生喪母...40歲高中女師惜惜竟滾床8次　引爆三角戀結局曝",
+      "link": "/bbs/Gossiping/M.1762414313.A.F46",
+      "author": "moneybuy",
+      "board": "Gossiping",
+      "publishTime": "2025/11/06 07:31",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "361",
       "recommendCount": "604",
       "title": "Re: [閒聊] 北海道積丹町獵友會拒絕出動獵熊",
@@ -84,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "215",
-      "recommendCount": "527",
-      "title": "[新聞] 19歲男大生喪母...40歲高中女師惜惜竟滾床8次　引爆三角戀結局曝",
-      "link": "/bbs/Gossiping/M.1762414313.A.F46",
-      "author": "moneybuy",
-      "board": "Gossiping",
-      "publishTime": "2025/11/06 07:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "260",
-      "recommendCount": "496",
+      "recommendScore": "263",
+      "recommendCount": "510",
       "title": "[新聞] 太子集團層峰派對淫亂內幕曝　總務長出口海量台灣女模網紅性服務",
       "link": "/bbs/Gossiping/M.1762419490.A.25A",
       "author": "cosmite",
@@ -104,8 +104,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/IoaudCZ/s/61560c477919d3fb55156fa13940114d"
     },
     {
-      "recommendScore": "134",
-      "recommendCount": "419",
+      "recommendScore": "138",
+      "recommendCount": "436",
       "title": "[新聞] 普發1萬是「癱瘓台灣第3招」先窮台再統一沈伯洋：台灣在笑聲中被拍賣",
       "link": "/bbs/Gossiping/M.1762423359.A.8F6",
       "author": "richard520",
@@ -114,8 +114,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/dSIeRmk/s/fa2717c60189f6b970962d9f0dec78fb"
     },
     {
-      "recommendScore": "184",
-      "recommendCount": "464",
+      "recommendScore": "185",
+      "recommendCount": "465",
       "title": "[BOX ] Spurs 116:118 Lakers",
       "link": "/bbs/NBA/M.1762409275.A.2A9",
       "author": "harrybbs",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "193",
-      "recommendCount": "392",
+      "recommendScore": "194",
+      "recommendCount": "394",
       "title": "[新聞] 謝侑芯身亡後Onlyfans「突上傳大尺度作品」助理發聲",
       "link": "/bbs/Gossiping/M.1762394939.A.3D4",
       "author": "poeta",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "115",
-      "recommendCount": "417",
+      "recommendScore": "116",
+      "recommendCount": "418",
       "title": "[問卦]零日攻擊銷量慘淡 主編：廣告行銷失敗",
       "link": "/bbs/Gossiping/M.1762394005.A.C02",
       "author": "medama",
@@ -164,18 +164,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/9ToOaCs/s/4988e1deee50a492f4584c88c26bbd35"
     },
     {
-      "recommendScore": "163",
-      "recommendCount": "415",
-      "title": "[問卦] 我怎麼感覺整個社會都在鼓吹鼓勵詐騙？",
-      "link": "/bbs/Gossiping/M.1762355586.A.C53",
-      "author": "judasprist",
-      "board": "Gossiping",
-      "publishTime": "2025/11/05 15:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "66",
-      "recommendCount": "355",
+      "recommendScore": "61",
+      "recommendCount": "373",
       "title": "[問卦] 大谷翔平妻子的胸圍被前男友曝光",
       "link": "/bbs/Gossiping/M.1762418981.A.683",
       "author": "ReiKuromiya",
@@ -184,8 +174,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/rIbo9EV/s/936a6f53c62349b4c852ef7a7e9da52f"
     },
     {
+      "recommendScore": "164",
+      "recommendCount": "420",
+      "title": "[問卦] 我怎麼感覺整個社會都在鼓吹鼓勵詐騙？",
+      "link": "/bbs/Gossiping/M.1762355586.A.C53",
+      "author": "judasprist",
+      "board": "Gossiping",
+      "publishTime": "2025/11/05 15:13",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "328",
-      "recommendCount": "1093",
+      "recommendCount": "1094",
       "title": "Re: [討論] 好像有人不知道事情的嚴重性",
       "link": "/bbs/Baseball/M.1762394528.A.2BF",
       "author": "milleniue",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "130",
-      "recommendCount": "370",
-      "title": "[新聞] 快訊／趙少康慘了！大罷免亮票2次　檢認「故意的」起訴求重刑",
-      "link": "/bbs/Gossiping/M.1762393676.A.E79",
-      "author": "qazxc1156892",
+      "recommendScore": "253",
+      "recommendCount": "507",
+      "title": "[新聞] 桃園推「可負擔住宅」青年族群買得起　每坪2字頭不能炒",
+      "link": "/bbs/Gossiping/M.1762409755.A.ACB",
+      "author": "dosiris",
       "board": "Gossiping",
-      "publishTime": "2025/11/06 01:47",
+      "publishTime": "2025/11/06 06:15",
       "imageUrl": ""
     }
   ]
