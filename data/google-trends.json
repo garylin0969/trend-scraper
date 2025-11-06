@@ -1,20 +1,20 @@
 {
-  "updated": "2025-11-06T22:38:51.221Z",
+  "updated": "2025-11-06T23:08:46.245Z",
   "trends": [
     {
       "googleTrend": "美股",
-      "searchVolume": "2,000+",
+      "searchVolume": "5,000+",
       "started": "1 小時前"
     },
     {
-      "googleTrend": "美國股市",
+      "googleTrend": "颱風",
+      "searchVolume": "1,000+",
+      "started": "10 分鐘前"
+    },
+    {
+      "googleTrend": "台積電adr",
       "searchVolume": "500+",
       "started": "1 小時前"
-    },
-    {
-      "googleTrend": "tsla stock",
-      "searchVolume": "200+",
-      "started": "50 分鐘前"
     },
     {
       "googleTrend": "台股夜盤",
@@ -22,34 +22,64 @@
       "started": "1 小時前"
     },
     {
-      "googleTrend": "台積電adr",
-      "searchVolume": "200+",
-      "started": "40 分鐘前"
+      "googleTrend": "tesla stock",
+      "searchVolume": "100+",
+      "started": "1 小時前"
     },
     {
-      "googleTrend": "颱風動態",
+      "googleTrend": "特斯拉股價",
       "searchVolume": "200+",
-      "started": "10 分鐘前"
+      "started": "1 小時前"
     },
     {
-      "googleTrend": "nvda股價",
+      "googleTrend": "tsm stock",
+      "searchVolume": "100+",
+      "started": "20 分鐘前"
+    },
+    {
+      "googleTrend": "tsm",
       "searchVolume": "100+",
       "started": "30 分鐘前"
     },
     {
-      "googleTrend": "特斯拉股價",
+      "googleTrend": "tsla",
       "searchVolume": "100+",
-      "started": "40 分鐘前"
+      "started": "1 小時前"
     },
     {
       "googleTrend": "那斯達克指數",
+      "searchVolume": "200+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "nvidia 股價",
+      "searchVolume": "200+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "mu stock",
+      "searchVolume": "100+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "tsla stock",
+      "searchVolume": "100+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "nvda stock",
+      "searchVolume": "100+",
+      "started": "50 分鐘前"
+    },
+    {
+      "googleTrend": "台指夜盤",
       "searchVolume": "100+",
       "started": "40 分鐘前"
     },
     {
       "googleTrend": "費城半導體",
       "searchVolume": "100+",
-      "started": "20 分鐘前"
+      "started": "50 分鐘前"
     }
   ]
 }
