@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-06T07:34:53.585Z",
+  "updated": "2025-11-06T07:44:03.506Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "256",
-      "recommendCount": "1314",
+      "recommendCount": "1316",
       "title": "[新聞] 徐國勇：新加坡有鞭刑 非完全民主國家",
       "link": "/bbs/Gossiping/M.1762385585.A.FDF",
       "author": "semih",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "524",
-      "recommendCount": "691",
+      "recommendScore": "581",
+      "recommendCount": "762",
       "title": "[情報] 富邦悍將新總教練 後藤光尊",
       "link": "/bbs/Baseball/M.1762408980.A.E7F",
       "author": "Axwell",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "301",
-      "recommendCount": "637",
+      "recommendScore": "302",
+      "recommendCount": "638",
       "title": "[問卦] 徐閉：YES我第一天登記！",
       "link": "/bbs/Gossiping/M.1762388786.A.1DA",
       "author": "kuso2005",
@@ -84,8 +84,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/XtvDiNU/s/4e405efd328af25f4b3e79da0352eae1"
     },
     {
-      "recommendScore": "348",
-      "recommendCount": "583",
+      "recommendScore": "349",
+      "recommendCount": "586",
       "title": "Re: [閒聊] 北海道積丹町獵友會拒絕出動獵熊",
       "link": "/bbs/C_Chat/M.1762396017.A.70C",
       "author": "peterboon",
@@ -94,13 +94,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "285",
-      "recommendCount": "716",
+      "recommendScore": "284",
+      "recommendCount": "718",
       "title": "[心得] 弘達事件後續",
       "link": "/bbs/car/M.1762338633.A.2F4",
       "author": "rr444",
       "board": "car",
       "publishTime": "2025/11/05 10:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "212",
+      "recommendCount": "431",
+      "title": "[新聞] 女星夏于喬父親要坐牢！吸金9億判刑2年4月定讞　檢啟動防逃",
+      "link": "/bbs/Gossiping/M.1762400300.A.C9D",
+      "author": "rubberking",
+      "board": "Gossiping",
+      "publishTime": "2025/11/06 03:38",
       "imageUrl": ""
     },
     {
@@ -111,16 +121,6 @@
       "author": "westdoorcard",
       "board": "Stock",
       "publishTime": "2025/11/06 05:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "201",
-      "recommendCount": "411",
-      "title": "[新聞] 女星夏于喬父親要坐牢！吸金9億判刑2年4月定讞　檢啟動防逃",
-      "link": "/bbs/Gossiping/M.1762400300.A.C9D",
-      "author": "rubberking",
-      "board": "Gossiping",
-      "publishTime": "2025/11/06 03:38",
       "imageUrl": ""
     },
     {
@@ -165,13 +165,23 @@
     },
     {
       "recommendScore": "163",
-      "recommendCount": "412",
+      "recommendCount": "413",
       "title": "[問卦] 我怎麼感覺整個社會都在鼓吹鼓勵詐騙？",
       "link": "/bbs/Gossiping/M.1762355586.A.C53",
       "author": "judasprist",
       "board": "Gossiping",
       "publishTime": "2025/11/05 15:13",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "112",
+      "recommendCount": "399",
+      "title": "[問卦]零日攻擊銷量慘淡 主編：廣告行銷失敗",
+      "link": "/bbs/Gossiping/M.1762394005.A.C02",
+      "author": "medama",
+      "board": "Gossiping",
+      "publishTime": "2025/11/06 01:53",
+      "imageUrl": "https://cache.pttweb.cc/imgur/9ToOaCs/s/4988e1deee50a492f4584c88c26bbd35"
     },
     {
       "recommendScore": "253",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/11/05 08:32",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "111",
-      "recommendCount": "397",
-      "title": "[問卦]零日攻擊銷量慘淡 主編：廣告行銷失敗",
-      "link": "/bbs/Gossiping/M.1762394005.A.C02",
-      "author": "medama",
-      "board": "Gossiping",
-      "publishTime": "2025/11/06 01:53",
-      "imageUrl": "https://cache.pttweb.cc/imgur/9ToOaCs/s/4988e1deee50a492f4584c88c26bbd35"
     }
   ]
 }
