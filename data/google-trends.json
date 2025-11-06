@@ -1,35 +1,55 @@
 {
-  "updated": "2025-11-06T22:08:36.645Z",
+  "updated": "2025-11-06T22:38:51.221Z",
   "trends": [
     {
       "googleTrend": "美股",
-      "searchVolume": "1,000+",
-      "started": "30 分鐘前"
+      "searchVolume": "2,000+",
+      "started": "1 小時前"
     },
     {
-      "googleTrend": "歐聯",
-      "searchVolume": "200+",
-      "started": "3 小時前"
+      "googleTrend": "美國股市",
+      "searchVolume": "500+",
+      "started": "1 小時前"
     },
     {
-      "googleTrend": "道瓊指數",
+      "googleTrend": "tsla stock",
       "searchVolume": "200+",
-      "started": "30 分鐘前"
+      "started": "50 分鐘前"
     },
     {
       "googleTrend": "台股夜盤",
-      "searchVolume": "100+",
-      "started": "30 分鐘前"
+      "searchVolume": "200+",
+      "started": "1 小時前"
     },
     {
       "googleTrend": "台積電adr",
       "searchVolume": "200+",
+      "started": "40 分鐘前"
+    },
+    {
+      "googleTrend": "颱風動態",
+      "searchVolume": "200+",
       "started": "10 分鐘前"
     },
     {
-      "googleTrend": "tsla",
+      "googleTrend": "nvda股價",
+      "searchVolume": "100+",
+      "started": "30 分鐘前"
+    },
+    {
+      "googleTrend": "特斯拉股價",
       "searchVolume": "100+",
       "started": "40 分鐘前"
+    },
+    {
+      "googleTrend": "那斯達克指數",
+      "searchVolume": "100+",
+      "started": "40 分鐘前"
+    },
+    {
+      "googleTrend": "費城半導體",
+      "searchVolume": "100+",
+      "started": "20 分鐘前"
     }
   ]
 }
