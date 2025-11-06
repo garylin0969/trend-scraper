@@ -1,10 +1,35 @@
 {
-  "updated": "2025-11-06T21:37:01.844Z",
+  "updated": "2025-11-06T22:08:36.645Z",
   "trends": [
+    {
+      "googleTrend": "美股",
+      "searchVolume": "1,000+",
+      "started": "30 分鐘前"
+    },
     {
       "googleTrend": "歐聯",
       "searchVolume": "200+",
       "started": "3 小時前"
+    },
+    {
+      "googleTrend": "道瓊指數",
+      "searchVolume": "200+",
+      "started": "30 分鐘前"
+    },
+    {
+      "googleTrend": "台股夜盤",
+      "searchVolume": "100+",
+      "started": "30 分鐘前"
+    },
+    {
+      "googleTrend": "台積電adr",
+      "searchVolume": "200+",
+      "started": "10 分鐘前"
+    },
+    {
+      "googleTrend": "tsla",
+      "searchVolume": "100+",
+      "started": "40 分鐘前"
     }
   ]
 }
