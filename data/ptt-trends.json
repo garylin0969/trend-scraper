@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-07T06:50:34.492Z",
+  "updated": "2025-11-07T06:58:36.006Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "381",
+      "recommendCount": "554",
+      "title": "[討論] 大家是從什麼時候關注大谷的？",
+      "link": "/bbs/Baseball/M.1762487017.A.EF2",
+      "author": "mavescott",
+      "board": "Baseball",
+      "publishTime": "2025/11/07 03:43",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "154",
       "recommendCount": "541",
       "title": "[新聞] 普發1萬是「癱瘓台灣第3招」先窮台再統一沈伯洋：台灣在笑聲中被拍賣",
@@ -52,16 +62,6 @@
       "board": "Gossiping",
       "publishTime": "2025/11/06 10:02",
       "imageUrl": "https://cache.pttweb.cc/imgur/dSIeRmk/s/fa2717c60189f6b970962d9f0dec78fb"
-    },
-    {
-      "recommendScore": "376",
-      "recommendCount": "549",
-      "title": "[討論] 大家是從什麼時候關注大谷的？",
-      "link": "/bbs/Baseball/M.1762487017.A.EF2",
-      "author": "mavescott",
-      "board": "Baseball",
-      "publishTime": "2025/11/07 03:43",
-      "imageUrl": ""
     },
     {
       "recommendScore": "227",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "170",
-      "recommendCount": "397",
+      "recommendScore": "171",
+      "recommendCount": "398",
       "title": "[問卦] 現在是無政府狀態了嗎？",
       "link": "/bbs/Gossiping/M.1762474407.A.EDF",
       "author": "ssjayss",
@@ -194,14 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "183",
-      "recommendCount": "339",
-      "title": "[問卦] 黃婕竟是詐團成員 被抓了？",
-      "link": "/bbs/Gossiping/M.1762476883.A.65B",
-      "author": "kingfsg7326",
-      "board": "Gossiping",
-      "publishTime": "2025/11/07 00:54",
-      "imageUrl": "https://cache.pttweb.cc/imgur/BcJTxpb/s/6be296c3ed6ce1cce5477781287170ec"
+      "recommendScore": "21",
+      "recommendCount": "366",
+      "title": "[新聞] 賴總統：組觀光國家隊　推2030國內觀光產值達兆元",
+      "link": "/bbs/Stock/M.1762492279.A.BE8",
+      "author": "vancepeng",
+      "board": "Stock",
+      "publishTime": "2025/11/07 05:11",
+      "imageUrl": ""
     }
   ]
 }
