@@ -1,10 +1,10 @@
 {
-  "updated": "2025-11-07T10:18:35.652Z",
+  "updated": "2025-11-07T10:32:46.560Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "486",
+      "recommendScore": "492",
       "recommendCount": "1374",
       "title": "[新聞] 賴清德親令經濟部「不要再搞綠電」2027前重啟核三",
       "link": "/bbs/Gossiping/M.1762497817.A.EC8",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "505",
-      "recommendCount": "1094",
+      "recommendScore": "506",
+      "recommendCount": "1095",
       "title": "[新聞] 稱「麥可喬丹、麥可傑克森」同姓遭罵翻",
       "link": "/bbs/Gossiping/M.1762483158.A.0AD",
       "author": "osalucard",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "602",
-      "recommendCount": "1116",
+      "recommendScore": "603",
+      "recommendCount": "1118",
       "title": "[問卦] 台灣的司法在包庇太子集團？",
       "link": "/bbs/Gossiping/M.1762473920.A.23A",
       "author": "stu60001",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "462",
-      "recommendCount": "1176",
+      "recommendCount": "1178",
       "title": "[新聞] 孝子照顧母親多年　遭姊妹排除千萬信託！憤而持刀行兇",
       "link": "/bbs/Gossiping/M.1762443578.A.57B",
       "author": "jing1219",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "428",
-      "recommendCount": "620",
+      "recommendScore": "431",
+      "recommendCount": "623",
       "title": "[討論] 大家是從什麼時候關注大谷的？",
       "link": "/bbs/Baseball/M.1762487017.A.EF2",
       "author": "mavescott",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "275",
-      "recommendCount": "599",
+      "recommendCount": "600",
       "title": "[新聞] 張善政緊張了？「鴨子滑水」經營桃園　王義川親回何志偉參選傳聞",
       "link": "/bbs/Gossiping/M.1762487300.A.36B",
       "author": "Sparda",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "218",
-      "recommendCount": "443",
+      "recommendScore": "221",
+      "recommendCount": "450",
       "title": "[新聞] 盧秀燕自稱媽媽 綠轟：總統不就叫阿公？",
       "link": "/bbs/Gossiping/M.1762492640.A.172",
       "author": "gn07199",
@@ -94,13 +94,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "29",
-      "recommendCount": "462",
+      "recommendScore": "27",
+      "recommendCount": "464",
       "title": "[新聞] 賴總統：組觀光國家隊　推2030國內觀光產值達兆元",
       "link": "/bbs/Stock/M.1762492279.A.BE8",
       "author": "vancepeng",
       "board": "Stock",
       "publishTime": "2025/11/07 05:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "261",
+      "recommendCount": "462",
+      "title": "[問卦] 檢察官打詐都不帶公文喔",
+      "link": "/bbs/Gossiping/M.1762490498.A.B59",
+      "author": "wwl0909",
+      "board": "Gossiping",
+      "publishTime": "2025/11/07 04:41",
       "imageUrl": ""
     },
     {
@@ -111,16 +121,6 @@
       "author": "usnavyseal",
       "board": "Gossiping",
       "publishTime": "2025/11/06 11:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "258",
-      "recommendCount": "458",
-      "title": "[問卦] 檢察官打詐都不帶公文喔",
-      "link": "/bbs/Gossiping/M.1762490498.A.B59",
-      "author": "wwl0909",
-      "board": "Gossiping",
-      "publishTime": "2025/11/07 04:41",
       "imageUrl": ""
     },
     {
@@ -154,8 +154,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "201",
+      "recommendCount": "509",
+      "title": "[新聞] 陸女機器人疑「活人扮演」　團隊「現場剪開衣服」證明",
+      "link": "/bbs/Gossiping/M.1762489640.A.B26",
+      "author": "palajuice",
+      "board": "Gossiping",
+      "publishTime": "2025/11/07 04:27",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "140",
-      "recommendCount": "419",
+      "recommendCount": "422",
       "title": "[新聞] 幕後／賴清德親令經濟部「不要再搞綠電」2027前重啟核三",
       "link": "/bbs/Stock/M.1762498817.A.C4B",
       "author": "kload",
@@ -181,16 +191,6 @@
       "author": "hk410050",
       "board": "Gossiping",
       "publishTime": "2025/11/06 14:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "202",
-      "recommendCount": "496",
-      "title": "[新聞] 陸女機器人疑「活人扮演」　團隊「現場剪開衣服」證明",
-      "link": "/bbs/Gossiping/M.1762489640.A.B26",
-      "author": "palajuice",
-      "board": "Gossiping",
-      "publishTime": "2025/11/07 04:27",
       "imageUrl": ""
     },
     {
