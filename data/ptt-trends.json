@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-07T15:47:31.672Z",
+  "updated": "2025-11-07T15:54:02.046Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "611",
-      "recommendCount": "1143",
+      "recommendScore": "612",
+      "recommendCount": "1144",
       "title": "[問卦] 台灣的司法在包庇太子集團？",
       "link": "/bbs/Gossiping/M.1762473920.A.23A",
       "author": "stu60001",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "182",
-      "recommendCount": "422",
+      "recommendScore": "181",
+      "recommendCount": "423",
       "title": "[新聞] 王義川認輸了！未聲請再議　告狗仔偷拍確定不起訴",
       "link": "/bbs/Gossiping/M.1762507411.A.425",
       "author": "qazxc1156892",
@@ -141,16 +141,6 @@
       "author": "ssjayss",
       "board": "Gossiping",
       "publishTime": "2025/11/07 00:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "201",
-      "recommendCount": "443",
-      "title": "[請益] 美股這波是在跌什麼？",
-      "link": "/bbs/Stock/M.1762444127.A.708",
-      "author": "pinraychen",
-      "board": "Stock",
-      "publishTime": "2025/11/06 15:48",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "Baseball",
       "publishTime": "2025/11/07 00:49",
       "imageUrl": "https://cache.pttweb.cc/imgur/zuyRYot/s/ff68165e62902f5687e6bd719e91ce68"
+    },
+    {
+      "recommendScore": "216",
+      "recommendCount": "325",
+      "title": "[新聞] 川普宣布減肥藥降價　藥廠高層當場暈倒",
+      "link": "/bbs/Gossiping/M.1762486090.A.81E",
+      "author": "william8403",
+      "board": "Gossiping",
+      "publishTime": "2025/11/07 03:28",
+      "imageUrl": ""
     }
   ]
 }
