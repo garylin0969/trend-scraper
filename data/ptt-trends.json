@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-07T03:51:43.747Z",
+  "updated": "2025-11-07T04:06:56.670Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "201",
-      "recommendCount": "427",
-      "title": "[問卦] 中國疑似用真人套皮發表機器人",
-      "link": "/bbs/Gossiping/M.1762401777.A.4DB",
-      "author": "eatk",
-      "board": "Gossiping",
-      "publishTime": "2025/11/06 04:02",
-      "imageUrl": "https://cache.pttweb.cc/imgur/NLgQp9t/s/03c0c1bc23458e15a4fcac85f0729caa"
-    },
-    {
       "recommendScore": "162",
       "recommendCount": "326",
       "title": "[新聞] 路透：Meta內部文件揭約10%營收來自詐騙廣告 每日曝光150億則",
@@ -201,6 +191,16 @@
       "author": "keel90135",
       "board": "Stock",
       "publishTime": "2025/11/06 23:23",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "163",
+      "recommendCount": "321",
+      "title": "[問卦] 到底為什麼太子集團交保金這麼少？",
+      "link": "/bbs/Gossiping/M.1762426415.A.0B5",
+      "author": "addison123",
+      "board": "Gossiping",
+      "publishTime": "2025/11/06 10:53",
       "imageUrl": ""
     }
   ]
