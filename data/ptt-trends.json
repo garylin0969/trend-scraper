@@ -1,11 +1,11 @@
 {
-  "updated": "2025-11-07T04:45:38.799Z",
+  "updated": "2025-11-07T04:54:00.628Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "377",
-      "recommendCount": "1279",
+      "recommendScore": "378",
+      "recommendCount": "1280",
       "title": "[新聞] 二代健保改革惹議 政院踩煞車：暫緩規劃",
       "link": "/bbs/Stock/M.1762430607.A.830",
       "author": "iamthebest08",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "526",
-      "recommendCount": "985",
+      "recommendScore": "548",
+      "recommendCount": "1017",
       "title": "[問卦] 台灣的司法在包庇太子集團？",
       "link": "/bbs/Gossiping/M.1762473920.A.23A",
       "author": "stu60001",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "341",
-      "recommendCount": "720",
+      "recommendScore": "370",
+      "recommendCount": "789",
       "title": "[新聞] 稱「麥可喬丹、麥可傑克森」同姓遭罵翻",
       "link": "/bbs/Gossiping/M.1762483158.A.0AD",
       "author": "osalucard",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "447",
-      "recommendCount": "1132",
+      "recommendScore": "448",
+      "recommendCount": "1134",
       "title": "[新聞] 孝子照顧母親多年　遭姊妹排除千萬信託！憤而持刀行兇",
       "link": "/bbs/Gossiping/M.1762443578.A.57B",
       "author": "jing1219",
@@ -74,8 +74,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/dSIeRmk/s/fa2717c60189f6b970962d9f0dec78fb"
     },
     {
-      "recommendScore": "226",
-      "recommendCount": "577",
+      "recommendScore": "227",
+      "recommendCount": "578",
       "title": "[新聞] 19歲男大生喪母...40歲高中女師惜惜竟滾床8次　引爆三角戀結局曝",
       "link": "/bbs/Gossiping/M.1762414313.A.F46",
       "author": "moneybuy",
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "238",
+      "recommendCount": "432",
+      "title": "[問卦] 洗錢45億的太子集團交保卻不用戴電子腳鐐",
+      "link": "/bbs/Gossiping/M.1762428585.A.012",
+      "author": "usnavyseal",
+      "board": "Gossiping",
+      "publishTime": "2025/11/06 11:29",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "59",
       "recommendCount": "466",
       "title": "[問卦] 大谷翔平妻子的胸圍被前男友曝光",
@@ -112,16 +122,6 @@
       "board": "Gossiping",
       "publishTime": "2025/11/06 08:49",
       "imageUrl": "https://cache.pttweb.cc/imgur/rIbo9EV/s/936a6f53c62349b4c852ef7a7e9da52f"
-    },
-    {
-      "recommendScore": "237",
-      "recommendCount": "431",
-      "title": "[問卦] 洗錢45億的太子集團交保卻不用戴電子腳鐐",
-      "link": "/bbs/Gossiping/M.1762428585.A.012",
-      "author": "usnavyseal",
-      "board": "Gossiping",
-      "publishTime": "2025/11/06 11:29",
-      "imageUrl": ""
     },
     {
       "recommendScore": "187",
@@ -134,13 +134,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "195",
-      "recommendCount": "435",
+      "recommendScore": "196",
+      "recommendCount": "436",
       "title": "[請益] 美股這波是在跌什麼？",
       "link": "/bbs/Stock/M.1762444127.A.708",
       "author": "pinraychen",
       "board": "Stock",
       "publishTime": "2025/11/06 15:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "268",
+      "recommendCount": "532",
+      "title": "[新聞] 桃園推「可負擔住宅」青年族群買得起　每坪2字頭不能炒",
+      "link": "/bbs/Gossiping/M.1762409755.A.ACB",
+      "author": "dosiris",
+      "board": "Gossiping",
+      "publishTime": "2025/11/06 06:15",
       "imageUrl": ""
     },
     {
@@ -164,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "266",
-      "recommendCount": "529",
-      "title": "[新聞] 桃園推「可負擔住宅」青年族群買得起　每坪2字頭不能炒",
-      "link": "/bbs/Gossiping/M.1762409755.A.ACB",
-      "author": "dosiris",
-      "board": "Gossiping",
-      "publishTime": "2025/11/06 06:15",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "197",
       "recommendCount": "387",
       "title": "[新聞] 陳柏惟「Michael宗祠」駁館長　徐巧芯笑：他們姓Jordan和Jackson",
@@ -184,18 +184,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "171",
-      "recommendCount": "348",
-      "title": "[新聞] 路透：Meta內部文件揭約10%營收來自詐騙廣告 每日曝光150億則",
-      "link": "/bbs/Stock/M.1762471424.A.F25",
-      "author": "keel90135",
-      "board": "Stock",
-      "publishTime": "2025/11/06 23:23",
+      "recommendScore": "254",
+      "recommendCount": "381",
+      "title": "[討論] 大家是從什麼時候關注大谷的？",
+      "link": "/bbs/Baseball/M.1762487017.A.EF2",
+      "author": "mavescott",
+      "board": "Baseball",
+      "publishTime": "2025/11/07 03:43",
       "imageUrl": ""
     },
     {
-      "recommendScore": "176",
-      "recommendCount": "424",
+      "recommendScore": "181",
+      "recommendCount": "434",
       "title": "[外絮] 記者：LBJ的離隊傳言是想要他的球隊造謠",
       "link": "/bbs/NBA/M.1762474442.A.8B2",
       "author": "Wojnarowski",
