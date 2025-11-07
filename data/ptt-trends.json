@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-07T19:53:31.382Z",
+  "updated": "2025-11-07T20:06:22.867Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "816",
-      "recommendCount": "840",
+      "recommendScore": "820",
+      "recommendCount": "844",
       "title": "[抽獎] 感謝洽友們，所以我想回饋STEAM遊戲序號",
       "link": "/bbs/C_Chat/M.1762510068.A.627",
       "author": "Dinaya",
@@ -85,7 +85,7 @@
     },
     {
       "recommendScore": "167",
-      "recommendCount": "565",
+      "recommendCount": "566",
       "title": "[新聞] 出軌王子協議談不攏！粿粿控「范姜脾氣硬」片段被挖：沒錯絕對不道歉",
       "link": "/bbs/Gossiping/M.1762501136.A.6AE",
       "author": "crocus",
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "224",
+      "recommendCount": "577",
+      "title": "[新聞] 陸女機器人疑「活人扮演」　團隊「現場剪開衣服」證明",
+      "link": "/bbs/Gossiping/M.1762489640.A.B26",
+      "author": "palajuice",
+      "board": "Gossiping",
+      "publishTime": "2025/11/07 04:27",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "157",
       "recommendCount": "476",
       "title": "[新聞] 幕後／賴清德親令經濟部「不要再搞綠電」2027前重啟核三",
@@ -111,16 +121,6 @@
       "author": "kload",
       "board": "Stock",
       "publishTime": "2025/11/07 07:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "223",
-      "recommendCount": "572",
-      "title": "[新聞] 陸女機器人疑「活人扮演」　團隊「現場剪開衣服」證明",
-      "link": "/bbs/Gossiping/M.1762489640.A.B26",
-      "author": "palajuice",
-      "board": "Gossiping",
-      "publishTime": "2025/11/07 04:27",
       "imageUrl": ""
     },
     {
@@ -184,6 +184,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/BcJTxpb/s/6be296c3ed6ce1cce5477781287170ec"
     },
     {
+      "recommendScore": "171",
+      "recommendCount": "592",
+      "title": "[討論] Cooper Flagg 表現符合狀元嗎?!",
+      "link": "/bbs/NBA/M.1762513296.A.828",
+      "author": "matlab2009",
+      "board": "NBA",
+      "publishTime": "2025/11/07 11:01",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "296",
       "recommendCount": "364",
       "title": "[分享] 克蕭：翔平對我從未敲安，我能吹一輩子",
@@ -192,16 +202,6 @@
       "board": "Baseball",
       "publishTime": "2025/11/07 00:49",
       "imageUrl": "https://cache.pttweb.cc/imgur/zuyRYot/s/ff68165e62902f5687e6bd719e91ce68"
-    },
-    {
-      "recommendScore": "173",
-      "recommendCount": "590",
-      "title": "[討論] Cooper Flagg 表現符合狀元嗎?!",
-      "link": "/bbs/NBA/M.1762513296.A.828",
-      "author": "matlab2009",
-      "board": "NBA",
-      "publishTime": "2025/11/07 11:01",
-      "imageUrl": ""
     }
   ]
 }
