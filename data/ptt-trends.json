@@ -1,11 +1,11 @@
 {
-  "updated": "2025-11-08T09:53:36.621Z",
+  "updated": "2025-11-08T10:05:37.473Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "879",
-      "recommendCount": "903",
+      "recommendScore": "880",
+      "recommendCount": "904",
       "title": "[抽獎] 感謝洽友們，所以我想回饋STEAM遊戲序號",
       "link": "/bbs/C_Chat/M.1762510068.A.627",
       "author": "Dinaya",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "670",
-      "recommendCount": "1073",
+      "recommendScore": "673",
+      "recommendCount": "1084",
       "title": "Re: [問卦]  Cheap在台中高工演講被學生嗆？",
       "link": "/bbs/Gossiping/M.1762570706.A.9AA",
       "author": "ofpurity",
@@ -24,8 +24,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/oVpqFd3/s/92fcdf1d63ab702059445c5782741c86"
     },
     {
-      "recommendScore": "633",
-      "recommendCount": "679",
+      "recommendScore": "634",
+      "recommendCount": "680",
       "title": "[分享] Alex Vesia 的最新 Instagram 消息",
       "link": "/bbs/Baseball/M.1762555910.A.1B9",
       "author": "LABOYS",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "239",
-      "recommendCount": "587",
+      "recommendScore": "250",
+      "recommendCount": "619",
       "title": "[新聞] 小提琴家遭逼車攔停砍傷手腕「功力大減」惡煞賠償終判1年半",
       "link": "/bbs/Gossiping/M.1762584734.A.AF4",
       "author": "losel",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "94",
-      "recommendCount": "885",
+      "recommendScore": "92",
+      "recommendCount": "888",
       "title": "[問卦]  Cheap在台中高工演講被學生嗆？",
       "link": "/bbs/Gossiping/M.1762558789.A.1F4",
       "author": "xup654z",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "280",
-      "recommendCount": "792",
+      "recommendScore": "281",
+      "recommendCount": "793",
       "title": "[問卦]通背拳趙鴻剛為了巴掌比賽 下半生直接GG",
       "link": "/bbs/Gossiping/M.1762529280.A.145",
       "author": "a91153456",
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "358",
+      "recommendCount": "426",
+      "title": "[閒聊] 戴資穎正式宣佈退役",
+      "link": "/bbs/Badminton/M.1762523665.A.86A",
+      "author": "yiche",
+      "board": "Badminton",
+      "publishTime": "2025/11/07 13:54",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "207",
       "recommendCount": "577",
       "title": "[新聞] 領個10萬元竟這麼難！銀行、警察、金管會「無限跳針」 他耗4小時才領到",
@@ -81,16 +91,6 @@
       "author": "Axiom888",
       "board": "Gossiping",
       "publishTime": "2025/11/07 14:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "357",
-      "recommendCount": "425",
-      "title": "[閒聊] 戴資穎正式宣佈退役",
-      "link": "/bbs/Badminton/M.1762523665.A.86A",
-      "author": "yiche",
-      "board": "Badminton",
-      "publishTime": "2025/11/07 13:54",
       "imageUrl": ""
     },
     {
@@ -124,18 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "173",
-      "recommendCount": "418",
-      "title": "[新聞] 樂天桃猿爆發飲食、住宿風波 台媒「被禁問」相關議題",
-      "link": "/bbs/Baseball/M.1762581253.A.B3F",
-      "author": "ZHUGUA",
-      "board": "Baseball",
-      "publishTime": "2025/11/08 05:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "108",
-      "recommendCount": "462",
+      "recommendScore": "110",
+      "recommendCount": "483",
       "title": "[新聞] 補充保費議題「沒有轉彎」　陳時中：2萬門檻太低衝擊小資族",
       "link": "/bbs/Stock/M.1762580343.A.867",
       "author": "DDDDRR",
@@ -144,13 +134,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "168",
-      "recommendCount": "358",
+      "recommendScore": "173",
+      "recommendCount": "422",
+      "title": "[新聞] 樂天桃猿爆發飲食、住宿風波 台媒「被禁問」相關議題",
+      "link": "/bbs/Baseball/M.1762581253.A.B3F",
+      "author": "ZHUGUA",
+      "board": "Baseball",
+      "publishTime": "2025/11/08 05:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "170",
+      "recommendCount": "360",
       "title": "[問卦] 超扯！原來太子集團2016年就來臺？",
       "link": "/bbs/Gossiping/M.1762562768.A.805",
       "author": "s820912gmail",
       "board": "Gossiping",
       "publishTime": "2025/11/08 00:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "172",
+      "recommendCount": "309",
+      "title": "[問卦] 早上罵cheap的帳號怎都消失不回了",
+      "link": "/bbs/Gossiping/M.1762575591.A.09F",
+      "author": "enlong777",
+      "board": "Gossiping",
+      "publishTime": "2025/11/08 04:19",
       "imageUrl": ""
     },
     {
@@ -164,18 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "170",
-      "recommendCount": "306",
-      "title": "[問卦] 早上罵cheap的帳號怎都消失不回了",
-      "link": "/bbs/Gossiping/M.1762575591.A.09F",
-      "author": "enlong777",
-      "board": "Gossiping",
-      "publishTime": "2025/11/08 04:19",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "168",
-      "recommendCount": "322",
+      "recommendCount": "323",
       "title": "[問卦] 以前沒有手機，大學生晚上都在幹嘛？？？",
       "link": "/bbs/Gossiping/M.1762533888.A.562",
       "author": "aft7795",
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "246",
-      "recommendCount": "569",
+      "recommendScore": "247",
+      "recommendCount": "572",
       "title": "[BOX ] Mavericks 104:118 Grizzlies",
       "link": "/bbs/NBA/M.1762572951.A.EF1",
       "author": "steven183",
