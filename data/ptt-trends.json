@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-08T13:01:24.173Z",
+  "updated": "2025-11-08T13:14:07.414Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -64,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "155",
+      "recommendCount": "633",
+      "title": "[新聞] 補充保費議題「沒有轉彎」　陳時中：2萬門檻太低衝擊小資族",
+      "link": "/bbs/Stock/M.1762580343.A.867",
+      "author": "DDDDRR",
+      "board": "Stock",
+      "publishTime": "2025/11/08 05:39",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "364",
       "recommendCount": "436",
       "title": "[閒聊] 戴資穎正式宣佈退役",
@@ -71,16 +81,6 @@
       "author": "yiche",
       "board": "Badminton",
       "publishTime": "2025/11/07 13:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "151",
-      "recommendCount": "628",
-      "title": "[新聞] 補充保費議題「沒有轉彎」　陳時中：2萬門檻太低衝擊小資族",
-      "link": "/bbs/Stock/M.1762580343.A.867",
-      "author": "DDDDRR",
-      "board": "Stock",
-      "publishTime": "2025/11/08 05:39",
       "imageUrl": ""
     },
     {
@@ -185,7 +185,7 @@
     },
     {
       "recommendScore": "180",
-      "recommendCount": "308",
+      "recommendCount": "309",
       "title": "[新聞] NBA/昔日射手不如當年　獨行俠傳評估交易湯普森可能性",
       "link": "/bbs/NBA/M.1762578006.A.16B",
       "author": "access4096",
