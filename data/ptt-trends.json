@@ -1,10 +1,10 @@
 {
-  "updated": "2025-11-08T06:20:29.596Z",
+  "updated": "2025-11-08T06:36:17.627Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "480",
+      "recommendScore": "479",
       "recommendCount": "1374",
       "title": "[新聞] 賴清德親令經濟部「不要再搞綠電」2027前重啟核三",
       "link": "/bbs/Gossiping/M.1762497817.A.EC8",
@@ -24,24 +24,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "612",
-      "recommendCount": "656",
-      "title": "[分享] Alex Vesia 的最新 Instagram 消息",
-      "link": "/bbs/Baseball/M.1762555910.A.1B9",
-      "author": "LABOYS",
-      "board": "Baseball",
-      "publishTime": "2025/11/07 22:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "502",
-      "recommendCount": "802",
+      "recommendScore": "535",
+      "recommendCount": "850",
       "title": "Re: [問卦]  Cheap在台中高工演講被學生嗆？",
       "link": "/bbs/Gossiping/M.1762570706.A.9AA",
       "author": "ofpurity",
       "board": "Gossiping",
       "publishTime": "2025/11/08 02:58",
       "imageUrl": "https://cache.pttweb.cc/imgur/oVpqFd3/s/92fcdf1d63ab702059445c5782741c86"
+    },
+    {
+      "recommendScore": "615",
+      "recommendCount": "660",
+      "title": "[分享] Alex Vesia 的最新 Instagram 消息",
+      "link": "/bbs/Baseball/M.1762555910.A.1B9",
+      "author": "LABOYS",
+      "board": "Baseball",
+      "publishTime": "2025/11/07 22:51",
+      "imageUrl": ""
     },
     {
       "recommendScore": "174",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "273",
-      "recommendCount": "772",
+      "recommendScore": "274",
+      "recommendCount": "776",
       "title": "[問卦]通背拳趙鴻剛為了巴掌比賽 下半生直接GG",
       "link": "/bbs/Gossiping/M.1762529280.A.145",
       "author": "a91153456",
@@ -64,8 +64,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/86ymDEo/s/e1e9b68d863d0afe4f5950c41be5d523"
     },
     {
-      "recommendScore": "159",
-      "recommendCount": "481",
+      "recommendScore": "158",
+      "recommendCount": "482",
       "title": "[新聞] 幕後／賴清德親令經濟部「不要再搞綠電」2027前重啟核三",
       "link": "/bbs/Stock/M.1762498817.A.C4B",
       "author": "kload",
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "113",
+      "recommendCount": "848",
+      "title": "[問卦]  Cheap在台中高工演講被學生嗆？",
+      "link": "/bbs/Gossiping/M.1762558789.A.1F4",
+      "author": "xup654z",
+      "board": "Gossiping",
+      "publishTime": "2025/11/07 23:39",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "196",
       "recommendCount": "448",
       "title": "[新聞] 王義川認輸了！未聲請再議　告狗仔偷拍確定不起訴",
@@ -91,16 +101,6 @@
       "author": "qazxc1156892",
       "board": "Gossiping",
       "publishTime": "2025/11/07 09:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "117",
-      "recommendCount": "831",
-      "title": "[問卦]  Cheap在台中高工演講被學生嗆？",
-      "link": "/bbs/Gossiping/M.1762558789.A.1F4",
-      "author": "xup654z",
-      "board": "Gossiping",
-      "publishTime": "2025/11/07 23:39",
       "imageUrl": ""
     },
     {
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-85",
+      "recommendCount": "405",
+      "title": "[新聞] NCC人事全封殺！卓揆怒：沒誠信只有在野黨的會過、誰敢冒險合作？",
+      "link": "/bbs/Gossiping/M.1762516086.A.194",
+      "author": "NTU87",
+      "board": "Gossiping",
+      "publishTime": "2025/11/07 11:48",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "184",
       "recommendCount": "329",
       "title": "[問卦] 10年了  台灣有什麼進步的地方嗎？",
@@ -141,16 +151,6 @@
       "author": "HTC92",
       "board": "Gossiping",
       "publishTime": "2025/11/07 09:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-86",
-      "recommendCount": "403",
-      "title": "[新聞] NCC人事全封殺！卓揆怒：沒誠信只有在野黨的會過、誰敢冒險合作？",
-      "link": "/bbs/Gossiping/M.1762516086.A.194",
-      "author": "NTU87",
-      "board": "Gossiping",
-      "publishTime": "2025/11/07 11:48",
       "imageUrl": ""
     },
     {
@@ -195,7 +195,7 @@
     },
     {
       "recommendScore": "162",
-      "recommendCount": "560",
+      "recommendCount": "563",
       "title": "[爆卦] 三重姊妹遭弟砍殺 信託受益人是三姊弟",
       "link": "/bbs/Gossiping/M.1762525984.A.F4C",
       "author": "common5566",
