@@ -1,14 +1,22 @@
 {
-  "updated": "2025-11-09T03:54:04.420Z",
+  "updated": "2025-11-09T04:23:06.553Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-11-09T03:53:55.000Z",
+    "lastBuildDate": "2025-11-09T04:22:54.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "美國政府停擺傷及航空業，逾千航班被取消",
+      "description": "由於聯邦政府停擺，導致航空運力持續下降，數千個航班延誤或取消。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5y071qdvqno/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-09T03:52:10.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5y071qdvqno/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6c57/live/ae258c20-bcee-11f0-81cd-cf982342e1e7.jpg"
+    },
     {
       "title": "中共「二十大」後軍方中央委員、候補委員都去哪兒啦？ 落馬、遞補被跳過、被調查？",
       "description": "中共二十屆四中全會一口氣開除多名將領引起輿論大嘩，中央委員中的委員變化能說明甚麼？",
@@ -40,14 +48,6 @@
       "pubDate": "2025-11-06T00:13:23.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c7v80np7853o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0b64/live/2ac6e410-b982-11f0-ba33-09d35dfa6f46.jpg"
-    },
-    {
-      "title": "COP30：世界領袖抨擊特朗普在氣候問題上的不作為",
-      "description": "世界各國領導人在貝倫舉行的COP30氣候高峰會上發表講話，抨擊特朗普在氣候變遷方面的紀錄。",
-      "link": "https://www.bbc.com/zhongwen/articles/c051vy10eq9o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-11-07T04:08:51.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c051vy10eq9o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f22/live/90240cd0-bb43-11f0-9494-47f20ee206c1.jpg"
     },
     {
       "title": "量子科技比人工智慧（AI）更重要嗎？",
