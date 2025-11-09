@@ -1,11 +1,11 @@
 {
-  "updated": "2025-11-09T10:05:25.051Z",
+  "updated": "2025-11-09T10:17:36.932Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "428",
-      "recommendCount": "1012",
+      "recommendScore": "429",
+      "recommendCount": "1020",
       "title": "[新聞] 央視發布影片起底沈伯洋 威脅展開全球抓",
       "link": "/bbs/Gossiping/M.1762660415.A.4D4",
       "author": "xamous",
@@ -14,7 +14,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "812",
+      "recommendScore": "798",
       "recommendCount": "1333",
       "title": "[電競] 2025 World Championship - 冠軍賽 3點",
       "link": "/bbs/LoL/M.1762661442.A.0B6",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "344",
-      "recommendCount": "376",
+      "recommendScore": "345",
+      "recommendCount": "378",
       "title": "Re: [LIVE] 墨超 普馬斯@藍十字 場中",
       "link": "/bbs/SportLottery/M.1762665412.A.462",
       "author": "lotterywin",
@@ -84,18 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "129",
-      "recommendCount": "458",
-      "title": "[問題] 山本由伸為了冠軍連續出場值得嗎？",
-      "link": "/bbs/Baseball/M.1762599973.A.37F",
-      "author": "aventardorsv",
-      "board": "Baseball",
-      "publishTime": "2025/11/08 11:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "296",
-      "recommendCount": "323",
+      "recommendScore": "304",
+      "recommendCount": "331",
       "title": "Re: [LIVE] 日甲 神戶勝利船@大阪飛腳 場中",
       "link": "/bbs/SportLottery/M.1762674713.A.7A1",
       "author": "lotterywin",
@@ -104,13 +94,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "203",
-      "recommendCount": "548",
+      "recommendScore": "202",
+      "recommendCount": "553",
       "title": "[問卦] dyson為何隕落了？",
       "link": "/bbs/Gossiping/M.1762660019.A.6C2",
       "author": "YU0121",
       "board": "Gossiping",
       "publishTime": "2025/11/09 03:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "130",
+      "recommendCount": "459",
+      "title": "[問題] 山本由伸為了冠軍連續出場值得嗎？",
+      "link": "/bbs/Baseball/M.1762599973.A.37F",
+      "author": "aventardorsv",
+      "board": "Baseball",
+      "publishTime": "2025/11/08 11:06",
       "imageUrl": ""
     },
     {
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "197",
-      "recommendCount": "329",
+      "recommendScore": "200",
+      "recommendCount": "333",
       "title": "[新聞] 張善政2026危險了？詹江村曝「民進黨亮王牌」：沒想到怕什麼來什麼",
       "link": "/bbs/Gossiping/M.1762664623.A.D8C",
       "author": "Sparda",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "213",
-      "recommendCount": "544",
+      "recommendScore": "214",
+      "recommendCount": "545",
       "title": "[問卦] 有了淘寶，發現台灣買什麼最盤？",
       "link": "/bbs/Gossiping/M.1762619618.A.C70",
       "author": "Goo4u",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "108",
-      "recommendCount": "380",
+      "recommendScore": "111",
+      "recommendCount": "387",
       "title": "[新聞] 網傳「台灣捐80億歐元交換蕭美琴演講」總統府駁斥",
       "link": "/bbs/Gossiping/M.1762669790.A.61C",
       "author": "magensky",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "56",
-      "recommendCount": "315",
+      "recommendScore": "58",
+      "recommendCount": "318",
       "title": "[問卦] 為啥網紅孫女躺鐵道燒不起來？",
       "link": "/bbs/Gossiping/M.1762662016.A.E01",
       "author": "lpbrother",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "146",
+      "recommendCount": "265",
+      "title": "[新聞] 動保反撲殺熊…前秋田縣知事接投訴就掛電話 怒嗆「把熊送去你家」",
+      "link": "/bbs/Gossiping/M.1762653143.A.EE3",
+      "author": "ThisisLongID",
+      "board": "Gossiping",
+      "publishTime": "2025/11/09 01:52",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "152",
       "recommendCount": "231",
       "title": "[閒聊] T1第一場MVP要給誰?",
@@ -191,16 +201,6 @@
       "author": "Allensert",
       "board": "LoL",
       "publishTime": "2025/11/09 08:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "146",
-      "recommendCount": "263",
-      "title": "[新聞] 動保反撲殺熊…前秋田縣知事接投訴就掛電話 怒嗆「把熊送去你家」",
-      "link": "/bbs/Gossiping/M.1762653143.A.EE3",
-      "author": "ThisisLongID",
-      "board": "Gossiping",
-      "publishTime": "2025/11/09 01:52",
       "imageUrl": ""
     }
   ]
