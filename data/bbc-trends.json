@@ -1,21 +1,21 @@
 {
-  "updated": "2025-11-09T06:50:04.925Z",
+  "updated": "2025-11-09T07:22:19.237Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-11-09T06:49:51.000Z",
+    "lastBuildDate": "2025-11-09T07:22:16.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
     {
-      "title": "美國政府停擺傷及航空業，逾千航班被取消",
-      "description": "由於聯邦政府停擺，導致航空運力持續下降，數千個航班延誤或取消。",
-      "link": "https://www.bbc.com/zhongwen/articles/c5y071qdvqno/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-11-09T03:52:10.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5y071qdvqno/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6c57/live/ae258c20-bcee-11f0-81cd-cf982342e1e7.jpg"
+      "title": "中國官媒罕有揭示嚴打詐騙活動內幕",
+      "description": "在中國國家電視台的全程監控下，緬甸的詐騙集團被繩之以法。",
+      "link": "https://www.bbc.com/zhongwen/articles/cvgv022v18qo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-09T07:19:02.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvgv022v18qo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dcd9/live/14401410-bbd4-11f0-ae46-bd64331f0fd4.png"
     },
     {
       "title": "中共「二十大」後軍方中央委員、候補委員都去哪兒啦？ 落馬、遞補被跳過、被調查？",
@@ -26,12 +26,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/46a4/live/c5bfc660-ba38-11f0-aa13-0b0479f6f42a.jpg"
     },
     {
-      "title": "美國前眾議長佩洛西宣布後年退休：美媒稱「時代終結」特朗普批其為「國家負擔」",
-      "description": "美國眾議院前議長佩洛西宣布2027年將從國會退休，結束了她數十年來作為美國政壇最有影響力人物之一的政壇生涯。她同時也是知名的中國人權批評者，數年前訪問台灣在國際間引發激烈爭辯及北京強硬的反彈。",
-      "link": "https://www.bbc.com/zhongwen/articles/cjr0qw4qrd9o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-11-07T07:25:08.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cjr0qw4qrd9o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/36ae/live/c5c41230-bba3-11f0-ba75-093eca1ac29b.jpg"
+      "title": "美國政府停擺傷及航空業，逾千航班被取消",
+      "description": "由於聯邦政府停擺，導致航空運力持續下降，數千個航班延誤或取消。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5y071qdvqno/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-09T03:52:10.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5y071qdvqno/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6c57/live/ae258c20-bcee-11f0-81cd-cf982342e1e7.jpg"
     },
     {
       "title": "奧運金牌劍后江旻憓參選香港立法會的風風雨雨",
@@ -56,6 +56,14 @@
       "pubDate": "2025-11-07T00:12:58.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx2pg42n09lo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9298/live/02a3f780-bac1-11f0-b2a1-6f537f66f9aa.jpg"
+    },
+    {
+      "title": "美國前眾議長佩洛西宣布後年退休：美媒稱「時代終結」特朗普批其為「國家負擔」",
+      "description": "美國眾議院前議長佩洛西宣布2027年將從國會退休，結束了她數十年來作為美國政壇最有影響力人物之一的政壇生涯。她同時也是知名的中國人權批評者，數年前訪問台灣在國際間引發激烈爭辯及北京強硬的反彈。",
+      "link": "https://www.bbc.com/zhongwen/articles/cjr0qw4qrd9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-07T07:25:08.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cjr0qw4qrd9o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/36ae/live/c5c41230-bba3-11f0-ba75-093eca1ac29b.jpg"
     },
     {
       "title": "美國最高法院允許特朗普政府要求在護照上註明出生性別",
@@ -96,14 +104,6 @@
       "pubDate": "2025-11-06T07:41:44.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cpwv0zeqxr4o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/466f/live/0bfb0b30-b6ab-11f0-aa13-0b0479f6f42a.png"
-    },
-    {
-      "title": "歌手黃明志涉台灣網紅命案，大馬警方朝「謀殺罪」調查、延長收押",
-      "description": "馬來西亞歌手黃明志捲入台灣女網紅命案，大馬警方宣布轉為援引「謀殺罪」調查，並指會調查死者生前是否遭性侵。",
-      "link": "https://www.bbc.com/zhongwen/articles/czxk1dg5np8o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-11-05T10:03:38.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/czxk1dg5np8o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/50c2/live/ba311430-b956-11f0-ba75-093eca1ac29b.jpg"
     },
     {
       "title": "法國就「性愛娃娃醜聞」對Shein展開調查",
