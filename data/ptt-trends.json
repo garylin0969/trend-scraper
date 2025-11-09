@@ -1,18 +1,8 @@
 {
-  "updated": "2025-11-09T07:35:29.171Z",
+  "updated": "2025-11-09T07:43:24.143Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "836",
-      "recommendCount": "1332",
-      "title": "[電競] 2025 World Championship - 冠軍賽 3點",
-      "link": "/bbs/LoL/M.1762661442.A.0B6",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/11/09 04:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/SGnjRzA/s/ac2f2ff42c1aa7e7d1ecd4b21e7d5599"
-    },
     {
       "recommendScore": "352",
       "recommendCount": "845",
@@ -22,6 +12,16 @@
       "board": "Gossiping",
       "publishTime": "2025/11/09 03:53",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "824",
+      "recommendCount": "1332",
+      "title": "[電競] 2025 World Championship - 冠軍賽 3點",
+      "link": "/bbs/LoL/M.1762661442.A.0B6",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/11/09 04:10",
+      "imageUrl": "https://cache.pttweb.cc/imgur/SGnjRzA/s/ac2f2ff42c1aa7e7d1ecd4b21e7d5599"
     },
     {
       "recommendScore": "500",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "318",
-      "recommendCount": "339",
+      "recommendScore": "324",
+      "recommendCount": "345",
       "title": "Re: [LIVE] 墨超 普馬斯@藍十字 場中",
       "link": "/bbs/SportLottery/M.1762665412.A.462",
       "author": "lotterywin",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "159",
+      "recommendCount": "265",
+      "title": "[新聞] 張善政2026危險了？詹江村曝「民進黨亮王牌」：沒想到怕什麼來什麼",
+      "link": "/bbs/Gossiping/M.1762664623.A.D8C",
+      "author": "Sparda",
+      "board": "Gossiping",
+      "publishTime": "2025/11/09 05:03",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "116",
       "recommendCount": "436",
       "title": "[新聞] 鐵飯碗不香了？他待公職24年吐真相　嘆：不會讓子女考公",
@@ -191,16 +201,6 @@
       "author": "playla",
       "board": "Gossiping",
       "publishTime": "2025/11/08 09:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "154",
-      "recommendCount": "258",
-      "title": "[新聞] 張善政2026危險了？詹江村曝「民進黨亮王牌」：沒想到怕什麼來什麼",
-      "link": "/bbs/Gossiping/M.1762664623.A.D8C",
-      "author": "Sparda",
-      "board": "Gossiping",
-      "publishTime": "2025/11/09 05:03",
       "imageUrl": ""
     }
   ]
