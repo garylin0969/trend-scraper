@@ -1,20 +1,10 @@
 {
-  "updated": "2025-11-09T08:06:40.675Z",
+  "updated": "2025-11-09T08:18:26.560Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "380",
-      "recommendCount": "890",
-      "title": "[新聞] 央視發布影片起底沈伯洋 威脅展開全球抓",
-      "link": "/bbs/Gossiping/M.1762660415.A.4D4",
-      "author": "xamous",
-      "board": "Gossiping",
-      "publishTime": "2025/11/09 03:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "849",
+      "recommendScore": "875",
       "recommendCount": "1332",
       "title": "[電競] 2025 World Championship - 冠軍賽 3點",
       "link": "/bbs/LoL/M.1762661442.A.0B6",
@@ -22,6 +12,16 @@
       "board": "LoL",
       "publishTime": "2025/11/09 04:10",
       "imageUrl": "https://cache.pttweb.cc/imgur/SGnjRzA/s/ac2f2ff42c1aa7e7d1ecd4b21e7d5599"
+    },
+    {
+      "recommendScore": "384",
+      "recommendCount": "901",
+      "title": "[新聞] 央視發布影片起底沈伯洋 威脅展開全球抓",
+      "link": "/bbs/Gossiping/M.1762660415.A.4D4",
+      "author": "xamous",
+      "board": "Gossiping",
+      "publishTime": "2025/11/09 03:53",
+      "imageUrl": ""
     },
     {
       "recommendScore": "506",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "331",
-      "recommendCount": "352",
+      "recommendScore": "335",
+      "recommendCount": "357",
       "title": "Re: [LIVE] 墨超 普馬斯@藍十字 場中",
       "link": "/bbs/SportLottery/M.1762665412.A.462",
       "author": "lotterywin",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "169",
-      "recommendCount": "460",
+      "recommendScore": "171",
+      "recommendCount": "473",
       "title": "[問卦] dyson為何隕落了？",
       "link": "/bbs/Gossiping/M.1762660019.A.6C2",
       "author": "YU0121",
@@ -155,7 +155,7 @@
     },
     {
       "recommendScore": "170",
-      "recommendCount": "284",
+      "recommendCount": "288",
       "title": "[新聞] 張善政2026危險了？詹江村曝「民進黨亮王牌」：沒想到怕什麼來什麼",
       "link": "/bbs/Gossiping/M.1762664623.A.D8C",
       "author": "Sparda",
@@ -171,16 +171,6 @@
       "author": "omanorboyo",
       "board": "car",
       "publishTime": "2025/11/08 11:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "48",
-      "recommendCount": "384",
-      "title": "[新聞] 竹市棒球場重啟無期傳味全龍擬解約 市議員楊玲宜批高虹安市府惡搞自食惡果",
-      "link": "/bbs/Baseball/M.1762589664.A.925",
-      "author": "go190214",
-      "board": "Baseball",
-      "publishTime": "2025/11/08 08:14",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "NBA",
       "publishTime": "2025/11/08 08:34",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "57",
+      "recommendCount": "272",
+      "title": "[問卦] 為啥網紅孫女躺鐵道燒不起來？",
+      "link": "/bbs/Gossiping/M.1762662016.A.E01",
+      "author": "lpbrother",
+      "board": "Gossiping",
+      "publishTime": "2025/11/09 04:20",
+      "imageUrl": "https://cache.pttweb.cc/imgur/rLQkmgJ/s/efd2147a01acf50e7b0dccfe1532615c"
     }
   ]
 }
