@@ -1,11 +1,11 @@
 {
-  "updated": "2025-11-09T09:17:49.457Z",
+  "updated": "2025-11-09T09:27:55.571Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "406",
-      "recommendCount": "959",
+      "recommendScore": "412",
+      "recommendCount": "976",
       "title": "[新聞] 央視發布影片起底沈伯洋 威脅展開全球抓",
       "link": "/bbs/Gossiping/M.1762660415.A.4D4",
       "author": "xamous",
@@ -14,7 +14,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "832",
+      "recommendScore": "808",
       "recommendCount": "1333",
       "title": "[電競] 2025 World Championship - 冠軍賽 3點",
       "link": "/bbs/LoL/M.1762661442.A.0B6",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "194",
-      "recommendCount": "523",
+      "recommendScore": "196",
+      "recommendCount": "526",
       "title": "[問卦] dyson為何隕落了？",
       "link": "/bbs/Gossiping/M.1762660019.A.6C2",
       "author": "YU0121",
@@ -134,18 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "211",
-      "recommendCount": "537",
-      "title": "[問卦] 有了淘寶，發現台灣買什麼最盤？",
-      "link": "/bbs/Gossiping/M.1762619618.A.C70",
-      "author": "Goo4u",
-      "board": "Gossiping",
-      "publishTime": "2025/11/08 16:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "189",
-      "recommendCount": "317",
+      "recommendScore": "195",
+      "recommendCount": "326",
       "title": "[新聞] 張善政2026危險了？詹江村曝「民進黨亮王牌」：沒想到怕什麼來什麼",
       "link": "/bbs/Gossiping/M.1762664623.A.D8C",
       "author": "Sparda",
@@ -154,14 +144,34 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "245",
-      "recommendCount": "268",
+      "recommendScore": "252",
+      "recommendCount": "276",
       "title": "Re: [LIVE] 日甲 神戶勝利船@大阪飛腳 場中",
       "link": "/bbs/SportLottery/M.1762674713.A.7A1",
       "author": "lotterywin",
       "board": "SportLottery",
       "publishTime": "2025/11/09 07:51",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "212",
+      "recommendCount": "540",
+      "title": "[問卦] 有了淘寶，發現台灣買什麼最盤？",
+      "link": "/bbs/Gossiping/M.1762619618.A.C70",
+      "author": "Goo4u",
+      "board": "Gossiping",
+      "publishTime": "2025/11/08 16:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "56",
+      "recommendCount": "305",
+      "title": "[問卦] 為啥網紅孫女躺鐵道燒不起來？",
+      "link": "/bbs/Gossiping/M.1762662016.A.E01",
+      "author": "lpbrother",
+      "board": "Gossiping",
+      "publishTime": "2025/11/09 04:20",
+      "imageUrl": "https://cache.pttweb.cc/imgur/rLQkmgJ/s/efd2147a01acf50e7b0dccfe1532615c"
     },
     {
       "recommendScore": "85",
@@ -174,33 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "57",
-      "recommendCount": "301",
-      "title": "[問卦] 為啥網紅孫女躺鐵道燒不起來？",
-      "link": "/bbs/Gossiping/M.1762662016.A.E01",
-      "author": "lpbrother",
-      "board": "Gossiping",
-      "publishTime": "2025/11/09 04:20",
-      "imageUrl": "https://cache.pttweb.cc/imgur/rLQkmgJ/s/efd2147a01acf50e7b0dccfe1532615c"
-    },
-    {
-      "recommendScore": "116",
-      "recommendCount": "440",
-      "title": "[新聞] 鐵飯碗不香了？他待公職24年吐真相　嘆：不會讓子女考公",
-      "link": "/bbs/Gossiping/M.1762593594.A.171",
-      "author": "playla",
-      "board": "Gossiping",
-      "publishTime": "2025/11/08 09:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "91",
-      "recommendCount": "333",
+      "recommendScore": "94",
+      "recommendCount": "343",
       "title": "[新聞] 網傳「台灣捐80億歐元交換蕭美琴演講」總統府駁斥",
       "link": "/bbs/Gossiping/M.1762669790.A.61C",
       "author": "magensky",
       "board": "Gossiping",
       "publishTime": "2025/11/09 06:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "151",
+      "recommendCount": "230",
+      "title": "[閒聊] T1第一場MVP要給誰?",
+      "link": "/bbs/LoL/M.1762675768.A.B5E",
+      "author": "Allensert",
+      "board": "LoL",
+      "publishTime": "2025/11/09 08:09",
       "imageUrl": ""
     }
   ]
