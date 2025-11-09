@@ -1,18 +1,8 @@
 {
-  "updated": "2025-11-09T08:31:51.602Z",
+  "updated": "2025-11-09T08:45:26.042Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "893",
-      "recommendCount": "1332",
-      "title": "[電競] 2025 World Championship - 冠軍賽 3點",
-      "link": "/bbs/LoL/M.1762661442.A.0B6",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2025/11/09 04:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/SGnjRzA/s/ac2f2ff42c1aa7e7d1ecd4b21e7d5599"
-    },
     {
       "recommendScore": "388",
       "recommendCount": "910",
@@ -24,8 +14,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "509",
-      "recommendCount": "549",
+      "recommendScore": "849",
+      "recommendCount": "1333",
+      "title": "[電競] 2025 World Championship - 冠軍賽 3點",
+      "link": "/bbs/LoL/M.1762661442.A.0B6",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2025/11/09 04:10",
+      "imageUrl": "https://cache.pttweb.cc/imgur/SGnjRzA/s/ac2f2ff42c1aa7e7d1ecd4b21e7d5599"
+    },
+    {
+      "recommendScore": "510",
+      "recommendCount": "550",
       "title": "[祭品] 任一隊拿出怪角獲勝抽10位500P",
       "link": "/bbs/LoL/M.1762657979.A.053",
       "author": "geminitea",
@@ -75,23 +75,13 @@
     },
     {
       "recommendScore": "337",
-      "recommendCount": "360",
+      "recommendCount": "362",
       "title": "Re: [LIVE] 墨超 普馬斯@藍十字 場中",
       "link": "/bbs/SportLottery/M.1762665412.A.462",
       "author": "lotterywin",
       "board": "SportLottery",
       "publishTime": "2025/11/09 05:16",
       "imageUrl": "https://cache.pttweb.cc/imgur/HtChKPv/s/dd12a1fde1f67e8d1ae4f88f1a05145f"
-    },
-    {
-      "recommendScore": "245",
-      "recommendCount": "685",
-      "title": "[新聞] 不婚不生＝遺產不保？藍委擬修《民法》刪「兄弟姐妹特留份」",
-      "link": "/bbs/Gossiping/M.1762590755.A.FA6",
-      "author": "aza0290",
-      "board": "Gossiping",
-      "publishTime": "2025/11/08 08:32",
-      "imageUrl": ""
     },
     {
       "recommendScore": "129",
@@ -104,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "290",
-      "recommendCount": "336",
+      "recommendScore": "291",
+      "recommendCount": "337",
       "title": "Re: [新聞] 3817億美元，巴菲特如此操作意味著什麼？",
       "link": "/bbs/Stock/M.1762594615.A.362",
       "author": "allenc38",
@@ -124,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "278",
-      "recommendCount": "327",
+      "recommendScore": "279",
+      "recommendCount": "328",
       "title": "[閒聊] ]誰會是本次世界賽冠軍？Faker: BLG",
       "link": "/bbs/LoL/M.1762647404.A.0E2",
       "author": "hulululu1297",
@@ -134,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "175",
-      "recommendCount": "479",
+      "recommendScore": "181",
+      "recommendCount": "494",
       "title": "[問卦] dyson為何隕落了？",
       "link": "/bbs/Gossiping/M.1762660019.A.6C2",
       "author": "YU0121",
@@ -194,13 +184,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/rLQkmgJ/s/efd2147a01acf50e7b0dccfe1532615c"
     },
     {
-      "recommendScore": "155",
-      "recommendCount": "355",
-      "title": "[花邊] Dirk:我為獨行俠球迷感到難過",
-      "link": "/bbs/NBA/M.1762590888.A.97B",
-      "author": "Tonybrothers",
-      "board": "NBA",
-      "publishTime": "2025/11/08 08:34",
+      "recommendScore": "143",
+      "recommendCount": "257",
+      "title": "[新聞] 動保反撲殺熊…前秋田縣知事接投訴就掛電話 怒嗆「把熊送去你家」",
+      "link": "/bbs/Gossiping/M.1762653143.A.EE3",
+      "author": "ThisisLongID",
+      "board": "Gossiping",
+      "publishTime": "2025/11/09 01:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "102",
+      "recommendCount": "226",
+      "title": "[新聞] 台女躲班機廁所吞雲吐霧吸電子煙 遭長榮空姐扭送航警",
+      "link": "/bbs/Gossiping/M.1762607841.A.F5B",
+      "author": "poeta",
+      "board": "Gossiping",
+      "publishTime": "2025/11/08 13:17",
       "imageUrl": ""
     }
   ]
