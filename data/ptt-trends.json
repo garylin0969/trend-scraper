@@ -1,8 +1,48 @@
 {
-  "updated": "2025-11-10T23:36:47.236Z",
+  "updated": "2025-11-10T23:44:32.395Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "170",
+      "recommendCount": "407",
+      "title": "[問卦] 台灣這種海景房怎搞不起來的卦",
+      "link": "/bbs/Gossiping/M.1762737745.A.B79",
+      "author": "andrewmiho",
+      "board": "Gossiping",
+      "publishTime": "2025/11/10 01:22",
+      "imageUrl": "https://cache.pttweb.cc/imgur/cRMBfuz/s/7d01b0da87d5fdbf5a9874690c45a12a"
+    },
+    {
+      "recommendScore": "181",
+      "recommendCount": "337",
+      "title": "[情報] 2330台積電10月營收 mom+11% yoy+16.9%",
+      "link": "/bbs/Stock/M.1762752752.A.DBD",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2025/11/10 05:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "179",
+      "recommendCount": "270",
+      "title": "[新聞] 中職／桃猿衝擊換帥18小時過去 官方社群仍0公告",
+      "link": "/bbs/Baseball/M.1762753882.A.936",
+      "author": "lamigo",
+      "board": "Baseball",
+      "publishTime": "2025/11/10 05:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "200",
+      "recommendCount": "320",
+      "title": "[情報] 三上悠亞加盟福爾摩沙夢想家",
+      "link": "/bbs/basketballTW/M.1762747127.A.86D",
+      "author": "Once1225",
+      "board": "basketballTW",
+      "publishTime": "2025/11/10 03:58",
+      "imageUrl": "https://cache.pttweb.cc/imgur/wK3h5Yu/s/2de5686bf3fbe50e85afcdf8055ba831"
+    },
     {
       "recommendScore": "149",
       "recommendCount": "253",
@@ -12,6 +52,36 @@
       "board": "LoL",
       "publishTime": "2025/11/10 02:56",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "136",
+      "recommendCount": "213",
+      "title": "[閒聊] 明年你們還是會不相信T1嗎",
+      "link": "/bbs/LoL/M.1762752654.A.936",
+      "author": "waiting0212",
+      "board": "LoL",
+      "publishTime": "2025/11/10 05:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "130",
+      "recommendCount": "218",
+      "title": "[分享] 樂天桃猿FB更新",
+      "link": "/bbs/Baseball/M.1762769618.A.FFB",
+      "author": "ZHUGUA",
+      "board": "Baseball",
+      "publishTime": "2025/11/10 10:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "162",
+      "recommendCount": "408",
+      "title": "[情報] 蝦皮雙11滿千折300",
+      "link": "/bbs/Lifeismoney/M.1762768566.A.7A2",
+      "author": "seenbox",
+      "board": "Lifeismoney",
+      "publishTime": "2025/11/10 09:56",
+      "imageUrl": "https://cache.pttweb.cc/imgur/TnSqF2c/s/748e0dd5b346c588606cf1cd040300d7"
     },
     {
       "recommendScore": "168",
@@ -24,6 +94,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "102",
+      "recommendCount": "169",
+      "title": "[討論] 現在樂天要怎樣才能順利平息風波？",
+      "link": "/bbs/Baseball/M.1762766746.A.31F",
+      "author": "YukiApple",
+      "board": "Baseball",
+      "publishTime": "2025/11/10 09:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "111",
+      "recommendCount": "163",
+      "title": "[閒聊] Keria:其實我還藏了一手秘密武器",
+      "link": "/bbs/LoL/M.1762749413.A.597",
+      "author": "cow60106",
+      "board": "LoL",
+      "publishTime": "2025/11/10 04:36",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "100",
       "recommendCount": "166",
       "title": "[新聞] 剪接川普談話挨轟假新聞　BBC總裁辭職下台",
@@ -31,6 +121,16 @@
       "author": "a0580531",
       "board": "Gossiping",
       "publishTime": "2025/11/10 00:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "87",
+      "recommendCount": "230",
+      "title": "[問卦] 有人說全麻接近死亡體驗是真的嗎????????",
+      "link": "/bbs/Gossiping/M.1762745326.A.D9B",
+      "author": "VVizZ",
+      "board": "Gossiping",
+      "publishTime": "2025/11/10 03:28",
       "imageUrl": ""
     },
     {
@@ -54,152 +154,52 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "119",
+      "recommendCount": "160",
+      "title": "Re: [討論] 小文是不是解套了",
+      "link": "/bbs/Baseball/M.1762750387.A.E54",
+      "author": "kobe089",
+      "board": "Baseball",
+      "publishTime": "2025/11/10 04:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "102",
+      "recommendCount": "146",
+      "title": "[閒聊] 明年大概幾月大家才會開始相信Geng?",
+      "link": "/bbs/LoL/M.1762754701.A.43A",
+      "author": "swbthj",
+      "board": "LoL",
+      "publishTime": "2025/11/10 06:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "85",
+      "recommendCount": "222",
+      "title": "[閒聊] 世界賽年度一隊陣容",
+      "link": "/bbs/LoL/M.1762752403.A.9BE",
+      "author": "Santana9",
+      "board": "LoL",
+      "publishTime": "2025/11/10 05:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "91",
+      "recommendCount": "191",
+      "title": "Re: [閒聊] 真的有人會站著給好運姐掃大欸",
+      "link": "/bbs/LoL/M.1762750788.A.DF5",
+      "author": "nickerChen",
+      "board": "LoL",
+      "publishTime": "2025/11/10 04:59",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "98",
       "recommendCount": "183",
       "title": "[問卦] 推估2025年出生人口跌破11萬人而非2035",
       "link": "/bbs/Gossiping/M.1762741962.A.6D9",
       "author": "Zilinker",
       "board": "Gossiping",
-      "publishTime": "2025/11/10 02:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "97",
-      "recommendCount": "188",
-      "title": "[閒聊] Rumor: Riot正在考慮比賽中教練與選手溝通規則",
-      "link": "/bbs/LoL/M.1762733954.A.28B",
-      "author": "c871111116",
-      "board": "LoL",
-      "publishTime": "2025/11/10 00:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "46",
-      "recommendCount": "135",
-      "title": "[花邊] SGA：我不喜歡我們贏得總冠軍的方式",
-      "link": "/bbs/NBA/M.1762734038.A.C28",
-      "author": "ljk476820",
-      "board": "NBA",
-      "publishTime": "2025/11/10 00:20",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-22",
-      "recommendCount": "167",
-      "title": "[新聞] 快新聞／中國可惡至極！央視點名沈伯洋「揚言全球抓捕」　警政署霸氣出手了",
-      "link": "/bbs/Gossiping/M.1762741907.A.19C",
-      "author": "qweerrt123",
-      "board": "Gossiping",
-      "publishTime": "2025/11/10 02:31",
-      "imageUrl": "https://cache.pttweb.cc/imgur/XSfHkLb/s/87ccd1801eb7f30e325ae2c08558024f"
-    },
-    {
-      "recommendScore": "46",
-      "recommendCount": "113",
-      "title": "[新聞] 搶頭香登記參選高雄市長 邱議瑩喊「我準備好了」",
-      "link": "/bbs/Gossiping/M.1762741842.A.C00",
-      "author": "KMT5566",
-      "board": "Gossiping",
-      "publishTime": "2025/11/10 02:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "93",
-      "recommendCount": "123",
-      "title": "[分享] Pages被Clase涉賭壞球釣到揮空",
-      "link": "/bbs/Baseball/M.1762732648.A.54B",
-      "author": "cocytus39",
-      "board": "Baseball",
-      "publishTime": "2025/11/09 23:57",
-      "imageUrl": "https://cache.pttweb.cc/imgur/oJhHe2c/s/115f8eea3c2494b4abe51e8726916d21"
-    },
-    {
-      "recommendScore": "97",
-      "recommendCount": "103",
-      "title": "[無用] 請假事宜",
-      "link": "/bbs/KanColle/M.1762752768.A.763",
-      "author": "dhero",
-      "board": "KanColle",
-      "publishTime": "2025/11/10 05:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "89",
-      "recommendCount": "300",
-      "title": "[閒聊] 第五把kt上路約瑞科換哪一隻能贏？",
-      "link": "/bbs/LoL/M.1762731759.A.0C8",
-      "author": "oldmangoes",
-      "board": "LoL",
-      "publishTime": "2025/11/09 23:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "73",
-      "recommendCount": "174",
-      "title": "[新聞] AIT約鄭麗文下周「面試」急確認藍營國防預算立場",
-      "link": "/bbs/HatePolitics/M.1762746792.A.33C",
-      "author": "wowbenny",
-      "board": "HatePolitics",
-      "publishTime": "2025/11/10 03:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "69",
-      "recommendCount": "96",
-      "title": "[閒聊] 10歲女孩：跟大叔講了你也不懂啦",
-      "link": "/bbs/C_Chat/M.1762738613.A.49C",
-      "author": "LABOYS",
-      "board": "C_Chat",
-      "publishTime": "2025/11/10 01:36",
-      "imageUrl": "https://cache.pttweb.cc/imgur/yo4reuE/s/eae7fcdeee0db755be6199a14a72e058"
-    },
-    {
-      "recommendScore": "217",
-      "recommendCount": "420",
-      "title": "[LIVE] 網球 弗里茨 @ 穆塞蒂 場中",
-      "link": "/bbs/SportLottery/M.1762778172.A.E0C",
-      "author": "Rayswei",
-      "board": "SportLottery",
-      "publishTime": "2025/11/10 12:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "146",
-      "recommendCount": "340",
-      "title": "[LIVE] 韓籃 全州宙斯 @ 昌原獵鷹 場中",
-      "link": "/bbs/SportLottery/M.1762767002.A.B6C",
-      "author": "Rayswei",
-      "board": "SportLottery",
-      "publishTime": "2025/11/10 09:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "67",
-      "recommendCount": "95",
-      "title": "Re: [閒聊] 最新的世界賽助攻榜",
-      "link": "/bbs/LoL/M.1762743236.A.7E0",
-      "author": "darren2586",
-      "board": "LoL",
-      "publishTime": "2025/11/10 02:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "63",
-      "recommendCount": "91",
-      "title": "[閒聊] 真實電競已預約跳傘 準備兌現承諾",
-      "link": "/bbs/LoL/M.1762734311.A.AED",
-      "author": "A00610lol",
-      "board": "LoL",
-      "publishTime": "2025/11/10 00:25",
-      "imageUrl": "https://cache.pttweb.cc/imgur/83lwblF/s/ee40cd961d121e3db59e185760524e49"
-    },
-    {
-      "recommendScore": "94",
-      "recommendCount": "294",
-      "title": "Re: [閒聊] Doran是所有冠軍上路中LCK冠軍最多的",
-      "link": "/bbs/LoL/M.1762741946.A.088",
-      "author": "maayaleaf",
-      "board": "LoL",
       "publishTime": "2025/11/10 02:32",
       "imageUrl": ""
     }
