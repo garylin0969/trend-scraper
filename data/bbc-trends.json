@@ -1,10 +1,10 @@
 {
-  "updated": "2025-11-10T04:49:52.970Z",
+  "updated": "2025-11-10T05:22:43.655Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-11-10T04:49:47.000Z",
+    "lastBuildDate": "2025-11-10T05:22:38.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -18,12 +18,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/80e4/live/1d215600-bba4-11f0-ba75-093eca1ac29b.jpg"
     },
     {
+      "title": "BBC總裁蒂姆·戴維為何辭職？紀錄片剪輯事件究竟是怎麼回事？",
+      "description": "BBC總裁蒂姆·戴維和新聞主管黛博拉·特內斯已辭職。BBC此前因一檔名為《全景》（Panorama）的紀錄片而備受指責，該紀錄片被指控錯誤剪輯了特朗普的演講，使其看起來像是在煽動人們襲擊美國國會大廈。",
+      "link": "https://www.bbc.com/zhongwen/articles/cdrzpn41xlvo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-10T04:55:21.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cdrzpn41xlvo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6f48/live/01244400-bdf0-11f0-9ab2-ddcb1ef217a7.jpg"
+    },
+    {
       "title": "中國政協非換屆年10名高官集中去職  引發整治裸官升級和機構調整猜測",
       "description": "這次大規模去職引起了廣泛的關注和猜測，比如中共加大力度整治「裸官」的現象，也有認為這是政協進行機構調整，或者是當前大規模反腐的一部分。 這些猜測各有支撐論據，也有質疑的聲音。",
       "link": "https://www.bbc.com/zhongwen/articles/cx2n4lq9xrko/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-11-10T02:37:28.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx2n4lq9xrko/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a1be/live/d7d92f60-bbf2-11f0-a9b4-ab95792b4f31.jpg"
+    },
+    {
+      "title": "美國如何超車中國成為非洲最大外國投資者",
+      "description": "2023年美國在非洲的投資額為78億美元，而中國的投資額為40億美元。這是自2012年以來，美國首次重新奪回領先地位。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwyk2r1lkv1o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-10T05:00:56.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwyk2r1lkv1o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d6e7/live/d2772a60-bde9-11f0-8456-eff94716b162.jpg"
     },
     {
       "title": "中國官媒罕有揭示嚴打詐騙活動內幕",
@@ -38,24 +54,8 @@
       "description": "中共二十屆四中全會一口氣開除多名將領引起輿論大嘩，中央委員中的委員變化能說明甚麼？",
       "link": "https://www.bbc.com/zhongwen/articles/c5y43dg221no/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-11-07T00:04:01.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5y43dg221no/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5y43dg221no/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/46a4/live/c5bfc660-ba38-11f0-aa13-0b0479f6f42a.jpg"
-    },
-    {
-      "title": "英國向丹麥取經，意欲嚴改移民制度",
-      "description": "內政大臣馬曼婷借鏡歐洲一些最嚴格的移民法。",
-      "link": "https://www.bbc.com/zhongwen/articles/cr7mpr713x2o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-11-09T08:58:43.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cr7mpr713x2o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/66a3/live/d8e45bf0-bcf1-11f0-9e90-25c8d8cab49f.jpg"
-    },
-    {
-      "title": "量子科技比人工智慧（AI）更重要嗎？",
-      "description": "量子力學令人嘆為觀止的複雜性或許是其目前並不如AI那樣引人注目的原因之一，但前景極為廣闊。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx2pg42n09lo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-11-07T00:12:58.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx2pg42n09lo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9298/live/02a3f780-bac1-11f0-b2a1-6f537f66f9aa.jpg"
     },
     {
       "title": "中國全運會：跨越歷史和時代的國家敘事",
@@ -82,6 +82,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4516/live/662029f0-bb7f-11f0-aa13-0b0479f6f42a.jpg"
     },
     {
+      "title": "英國向丹麥取經，意欲嚴改移民制度",
+      "description": "內政大臣馬曼婷借鏡歐洲一些最嚴格的移民法。",
+      "link": "https://www.bbc.com/zhongwen/articles/cr7mpr713x2o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-09T08:58:43.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cr7mpr713x2o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/66a3/live/d8e45bf0-bcf1-11f0-9e90-25c8d8cab49f.jpg"
+    },
+    {
       "title": "「十五五」規劃透露中國三大經濟戰略主線  從對標美國轉向搶佔科技高地？",
       "description": "科技自主戰略等三條主線有望成為未來五年中國經濟社會發展的核心軌跡，深刻影響中國未來的產業結構與社會發展。",
       "link": "https://www.bbc.com/zhongwen/articles/c7v80np7853o/trad?at_medium=RSS&at_campaign=rss",
@@ -104,14 +112,6 @@
       "pubDate": "2025-11-06T08:15:21.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c3epwvnyx9eo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aae1/live/fdde0f60-bade-11f0-b2a1-6f537f66f9aa.jpg"
-    },
-    {
-      "title": "法國就「性愛娃娃醜聞」對Shein展開調查",
-      "description": "線上零售商希音（Shein）、Temu、速賣通（AliExpress）和Wish等電商，因涉嫌讓未成年人輕易存取其平台上的成人色情內容，正接受調查。",
-      "link": "https://www.bbc.com/zhongwen/articles/c5y057ldvn1o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-11-05T06:08:50.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5y057ldvn1o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0356/live/51d13a20-ba03-11f0-aa13-0b0479f6f42a.jpg"
     },
     {
       "title": "美國首位女性眾議院議長退休　回顧佩洛西從政生涯、與中台關係強硬",
@@ -282,6 +282,22 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/caa9/live/38cb21b0-b8c5-11f0-ba75-093eca1ac29b.jpg"
     },
     {
+      "title": "量子科技比人工智慧（AI）更重要嗎？",
+      "description": "量子力學令人嘆為觀止的複雜性或許是其目前並不如AI那樣引人注目的原因之一，但前景極為廣闊。",
+      "link": "https://www.bbc.com/zhongwen/articles/cx2pg42n09lo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-07T00:12:58.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx2pg42n09lo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9298/live/02a3f780-bac1-11f0-b2a1-6f537f66f9aa.jpg"
+    },
+    {
+      "title": "法國就「性愛娃娃醜聞」對Shein展開調查",
+      "description": "線上零售商希音（Shein）、Temu、速賣通（AliExpress）和Wish等電商，因涉嫌讓未成年人輕易存取其平台上的成人色情內容，正接受調查。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5y057ldvn1o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-05T06:08:50.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5y057ldvn1o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0356/live/51d13a20-ba03-11f0-aa13-0b0479f6f42a.jpg"
+    },
+    {
       "title": "「AI教母」李飛飛：「很自豪自己與眾不同」",
       "description": "英國國王今日將在聖詹姆士宮舉行典禮，頒發「2025年伊麗莎白女王工程獎」予李教授及其他六位得主。",
       "link": "https://www.bbc.com/zhongwen/articles/c5yp28l0v8zo/trad?at_medium=RSS&at_campaign=rss",
@@ -296,22 +312,6 @@
       "pubDate": "2025-11-04T08:31:50.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cr5e76dyj10o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fa9c/live/b3163e70-b896-11f0-ba75-093eca1ac29b.jpg"
-    },
-    {
-      "title": "觀點：中國究竟如何在英國從事情報活動？",
-      "description": "如今中國構成的國家安全威脅已超越了傳統的間諜活動範疇。要在「享受經濟利益」與「管控安全風險」之間取得平衡，一直是英國歷屆政府的難題。",
-      "link": "https://www.bbc.com/zhongwen/articles/cqx3z1v21qjo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-11-03T01:12:42.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cqx3z1v21qjo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ff7d/live/b3d97950-b623-11f0-b5d6-bd32ddec1cad.jpg"
-    },
-    {
-      "title": "為什麼一天刷兩次牙不一定是最好的？",
-      "description": "牙科專家表示，即使是最認真刷牙的人也可能會犯一些錯誤。",
-      "link": "https://www.bbc.com/zhongwen/articles/cddrg6p70yro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-11-04T23:54:57.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cddrg6p70yro/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df1f/live/330fc5d0-b59d-11f0-99a1-9f4dd3d6a1a3.jpg"
     }
   ]
 }
