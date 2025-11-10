@@ -1,10 +1,10 @@
 {
-  "updated": "2025-11-10T06:52:41.874Z",
+  "updated": "2025-11-10T07:22:37.301Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-11-10T06:52:32.000Z",
+    "lastBuildDate": "2025-11-10T07:22:27.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -42,11 +42,19 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d6e7/live/d2772a60-bde9-11f0-8456-eff94716b162.jpg"
     },
     {
+      "title": "昔日美國FBI頭號通緝黑客獄中直面BBC記者",
+      "description": "「坦克」潘楚科夫是全球數一數二的知名網絡罪犯，他在美國科羅拉多州的監獄裏接受BBC獨家專訪。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gp04z2e28o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-10T07:10:53.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gp04z2e28o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cdb3/live/9611fb20-bbde-11f0-ae46-bd64331f0fd4.jpg"
+    },
+    {
       "title": "中國官媒罕有揭示嚴打詐騙活動內幕",
       "description": "在中國國家電視台的全程監控下，緬甸的詐騙集團被繩之以法。",
       "link": "https://www.bbc.com/zhongwen/articles/cvgv022v18qo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-11-09T07:19:02.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgv022v18qo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvgv022v18qo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dcd9/live/14401410-bbd4-11f0-ae46-bd64331f0fd4.png"
     },
     {
@@ -98,14 +106,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0b64/live/2ac6e410-b982-11f0-ba33-09d35dfa6f46.jpg"
     },
     {
-      "title": "特朗普打造「稀土北約」產業鏈抗衡中國  美國能「彎道超車」嗎？",
-      "description": "美國結合盟友，想要重建稀土產業鏈挑戰中國的壟斷地位。特朗普能成功嗎？哪個國家有機會在下一個十年搶到主導權？",
-      "link": "https://www.bbc.com/zhongwen/articles/cdxrww04xw5o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-11-05T02:08:51.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cdxrww04xw5o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2023/live/e6920df0-b9eb-11f0-aa13-0b0479f6f42a.jpg"
-    },
-    {
       "title": "美國民主黨人曼達尼當選紐約市長：他將在任期內做什麼，你需要了解些什麼？",
       "description": "自從民主社會主義者曼達尼首次宣布競選紐約市長以來，來自皇后區的這位34歲州議員憑藉著大膽的左翼綱領，從默默無聞一躍成為全國知名人士。",
       "link": "https://www.bbc.com/zhongwen/articles/c3epwvnyx9eo/trad?at_medium=RSS&at_campaign=rss",
@@ -154,6 +154,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9a40/live/222ea2c0-b4b4-11f0-b2a1-6f537f66f9aa.jpg"
     },
     {
+      "title": "特朗普打造「稀土北約」產業鏈抗衡中國  美國能「彎道超車」嗎？",
+      "description": "美國結合盟友，想要重建稀土產業鏈挑戰中國的壟斷地位。特朗普能成功嗎？哪個國家有機會在下一個十年搶到主導權？",
+      "link": "https://www.bbc.com/zhongwen/articles/cdxrww04xw5o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-05T02:08:51.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cdxrww04xw5o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2023/live/e6920df0-b9eb-11f0-aa13-0b0479f6f42a.jpg"
+    },
+    {
       "title": "中美元首會晤協議細節陸續出爐，華盛頓與北京是否「休戰」在望？",
       "description": "隨著更多協議細節出爐，外界越來越清楚，兩大強國到底是「休戰」在望，還是正開啟新一輪較量。",
       "link": "https://www.bbc.com/zhongwen/articles/cy9pyqr3j8eo/trad?at_medium=RSS&at_campaign=rss",
@@ -168,14 +176,6 @@
       "pubDate": "2025-11-05T08:50:21.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cr7mjpdlj0go/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a0a0/live/306082c0-ba1b-11f0-912e-27e14044cef4.png"
-    },
-    {
-      "title": "中國打着長遠算盤，習近平與特朗普暫時休戰",
-      "description": "會談有助於穩定世界兩大經濟體之間搖搖欲墜的關係，但競爭仍然存在。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gkv4vjpj0o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-10-31T03:48:58.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gkv4vjpj0o/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2ff4/live/d184f880-b5a1-11f0-b2a1-6f537f66f9aa.jpg"
     },
     {
       "title": "特朗普的亞洲一週行——BBC記者分析得失利弊",
