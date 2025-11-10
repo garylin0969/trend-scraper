@@ -1,8 +1,18 @@
 {
-  "updated": "2025-11-10T07:45:25.753Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2025-11-10T07:53:15.804Z",
+  "total_found": 19,
+  "returned_count": 19,
   "articles": [
+    {
+      "recommendScore": "570",
+      "recommendCount": "830",
+      "title": "[情報] 2025世界賽FMVP:姑媽Gumayusi",
+      "link": "/bbs/LoL/M.1762691150.A.497",
+      "author": "jumpballfan",
+      "board": "LoL",
+      "publishTime": "2025/11/09 12:25",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "466",
       "recommendCount": "1122",
@@ -181,26 +191,6 @@
       "author": "SEVENxELEVEN",
       "board": "Gossiping",
       "publishTime": "2025/11/09 07:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "235",
-      "recommendCount": "353",
-      "title": "[閒聊] 明年是不是奧批奧最有機會的一年?",
-      "link": "/bbs/LoL/M.1762691205.A.122",
-      "author": "Kobe58121051",
-      "board": "LoL",
-      "publishTime": "2025/11/09 12:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "230",
-      "recommendCount": "355",
-      "title": "Re: [閒聊] 多蘭這時的心情是什麼",
-      "link": "/bbs/LoL/M.1762690501.A.3C1",
-      "author": "A22813079",
-      "board": "LoL",
-      "publishTime": "2025/11/09 12:15",
       "imageUrl": ""
     }
   ]
