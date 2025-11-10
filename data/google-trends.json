@@ -1,10 +1,25 @@
 {
-  "updated": "2025-11-10T22:38:49.465Z",
+  "updated": "2025-11-10T23:08:38.548Z",
   "trends": [
     {
       "googleTrend": "氣象",
+      "searchVolume": "1,000+",
+      "started": "50 分鐘前"
+    },
+    {
+      "googleTrend": "thời tiết",
       "searchVolume": "500+",
-      "started": "20 分鐘前"
+      "started": "30 分鐘前"
+    },
+    {
+      "googleTrend": "weather",
+      "searchVolume": "500+",
+      "started": "30 分鐘前"
+    },
+    {
+      "googleTrend": "台風情報",
+      "searchVolume": "100+",
+      "started": "50 分鐘前"
     }
   ]
 }
