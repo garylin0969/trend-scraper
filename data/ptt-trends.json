@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-11T05:45:09.461Z",
+  "updated": "2025-11-11T05:53:18.450Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,6 +104,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/hfgb3CB/s/50eceb4ccbab4ccf8611f1a446ed51cc"
     },
     {
+      "recommendScore": "255",
+      "recommendCount": "331",
+      "title": "[情報] AD現在看起來好大隻喔",
+      "link": "/bbs/NBA/M.1762832117.A.DAF",
+      "author": "sezna",
+      "board": "NBA",
+      "publishTime": "2025/11/11 03:35",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "123",
       "recommendCount": "394",
       "title": "[問卦] 到底什麼原因館長從綠變藍？",
@@ -114,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "461",
+      "recommendScore": "212",
+      "recommendCount": "470",
       "title": "[情報] Nico預計會被開除",
       "link": "/bbs/NBA/M.1762788039.A.537",
       "author": "dragon803",
@@ -124,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "188",
-      "recommendCount": "367",
+      "recommendScore": "187",
+      "recommendCount": "368",
       "title": "[外絮] 最新報告顯示沒有LBJ，NBA依然蓬勃發展",
       "link": "/bbs/NBA/M.1762767789.A.D96",
       "author": "shaaan",
@@ -191,16 +201,6 @@
       "author": "huihuiiiii",
       "board": "Baseball",
       "publishTime": "2025/11/10 14:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "146",
-      "recommendCount": "383",
-      "title": "[新聞] 近七成員工薪資 低於平均",
-      "link": "/bbs/Stock/M.1762809532.A.B4F",
-      "author": "Sinreigensou",
-      "board": "Stock",
-      "publishTime": "2025/11/10 21:18",
       "imageUrl": ""
     }
   ]
