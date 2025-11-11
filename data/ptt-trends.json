@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-11T07:46:27.944Z",
+  "updated": "2025-11-11T07:53:18.609Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "238",
+      "recommendCount": "515",
+      "title": "[閒聊] 晨晨(統神兒子)驚爆偷課手遊一萬多",
+      "link": "/bbs/C_Chat/M.1762836266.A.FE5",
+      "author": "peterboon",
+      "board": "C_Chat",
+      "publishTime": "2025/11/11 04:44",
+      "imageUrl": "https://cache.pttweb.cc/imgur/VshTr3i/s/92deea9e968c309c5859929cee07a20e"
+    },
+    {
       "recommendScore": "120",
       "recommendCount": "352",
       "title": "[問卦] 新疆風景好屌=.=為啥陸客還要來台?",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/11/11 01:51",
       "imageUrl": "https://cache.pttweb.cc/imgur/UbS8anF/s/8175ebbd823add66fb5fcecca9ed4a20"
-    },
-    {
-      "recommendScore": "89",
-      "recommendCount": "336",
-      "title": "[問卦] 下輩子會想當日本人嗎",
-      "link": "/bbs/Gossiping/M.1762781865.A.536",
-      "author": "michael7384",
-      "board": "Gossiping",
-      "publishTime": "2025/11/10 13:37",
-      "imageUrl": ""
     }
   ]
 }
