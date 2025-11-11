@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-11T06:08:56.450Z",
+  "updated": "2025-11-11T06:21:49.187Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,14 +34,24 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/RaDYdJ7/s/35fa4c6224b2cc0487b57824290d52e8"
     },
     {
-      "recommendScore": "-234",
-      "recommendCount": "451",
+      "recommendScore": "-238",
+      "recommendCount": "458",
       "title": "[新聞] 正式官宣「長沙旺旺黑皮隊」成立！稱棒球是「回家」的運動",
       "link": "/bbs/Baseball/M.1762781421.A.AC1",
       "author": "katsuura",
       "board": "Baseball",
       "publishTime": "2025/11/10 13:30",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "-216",
+      "recommendCount": "470",
+      "title": "[情報] CPB正式官宣 長沙旺旺黑皮隊",
+      "link": "/bbs/Baseball/M.1762774979.A.66B",
+      "author": "WetBro",
+      "board": "Baseball",
+      "publishTime": "2025/11/10 11:42",
+      "imageUrl": "https://cache.pttweb.cc/imgur/PGodBXJ/s/c71a1acaf56b0e9c920ec893e6b3a104"
     },
     {
       "recommendScore": "328",
@@ -54,16 +64,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/8H0nzhR/s/9d6442e69f3f86119cb3c0dd128e1206"
     },
     {
-      "recommendScore": "-213",
-      "recommendCount": "463",
-      "title": "[情報] CPB正式官宣 長沙旺旺黑皮隊",
-      "link": "/bbs/Baseball/M.1762774979.A.66B",
-      "author": "WetBro",
-      "board": "Baseball",
-      "publishTime": "2025/11/10 11:42",
-      "imageUrl": "https://cache.pttweb.cc/imgur/PGodBXJ/s/c71a1acaf56b0e9c920ec893e6b3a104"
-    },
-    {
       "recommendScore": "204",
       "recommendCount": "402",
       "title": "[新聞] 基市明天上班上課 謝國樑：雨勢非常大 民眾要做好防颱",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "326",
-      "recommendCount": "625",
+      "recommendScore": "348",
+      "recommendCount": "661",
       "title": "[新聞] SPC-樂天球員不忍了！半夜群聚直播　林泓育酸：",
       "link": "/bbs/Baseball/M.1762827927.A.B0C",
       "author": "AllStar5566",
@@ -102,6 +102,16 @@
       "board": "TY_Research",
       "publishTime": "2025/11/10 09:34",
       "imageUrl": "https://cache.pttweb.cc/imgur/hfgb3CB/s/50eceb4ccbab4ccf8611f1a446ed51cc"
+    },
+    {
+      "recommendScore": "263",
+      "recommendCount": "329",
+      "title": "[分享] 今井：既然要挑戰MLB，目標就要是冠軍",
+      "link": "/bbs/Baseball/M.1762814471.A.7A8",
+      "author": "LABOYS",
+      "board": "Baseball",
+      "publishTime": "2025/11/10 22:41",
+      "imageUrl": ""
     },
     {
       "recommendScore": "255",
@@ -134,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "240",
-      "recommendCount": "301",
-      "title": "[分享] 今井：既然要挑戰MLB，目標就要是冠軍",
-      "link": "/bbs/Baseball/M.1762814471.A.7A8",
-      "author": "LABOYS",
-      "board": "Baseball",
-      "publishTime": "2025/11/10 22:41",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "104",
       "recommendCount": "347",
       "title": "[新聞] 快訊／造謠用80億歐元讓蕭美琴進歐洲議會！　刑事局出手查原PO",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "147",
-      "recommendCount": "373",
+      "recommendScore": "145",
+      "recommendCount": "377",
       "title": "[新聞] 被砍一個月「18假」！8義務役氣到圍毆違規下士 下場出爐",
       "link": "/bbs/Gossiping/M.1762757703.A.ED6",
       "author": "ks32437",
@@ -184,23 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "120",
-      "recommendCount": "344",
-      "title": "[問卦] 新疆風景好屌=.=為啥陸客還要來台?",
-      "link": "/bbs/Gossiping/M.1762815463.A.DF4",
-      "author": "lichuer",
-      "board": "Gossiping",
-      "publishTime": "2025/11/10 22:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "223",
-      "recommendCount": "328",
+      "recommendScore": "227",
+      "recommendCount": "332",
       "title": "[分享] 林泓育 threads",
       "link": "/bbs/Baseball/M.1762785624.A.E84",
       "author": "huihuiiiii",
       "board": "Baseball",
       "publishTime": "2025/11/10 14:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "114",
+      "recommendCount": "350",
+      "title": "[閒聊] Cryin：LCK別那啥了，該讓我們贏一次",
+      "link": "/bbs/LoL/M.1762829077.A.DBA",
+      "author": "mike37",
+      "board": "LoL",
+      "publishTime": "2025/11/11 02:44",
       "imageUrl": ""
     }
   ]
