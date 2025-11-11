@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-11T05:31:42.493Z",
+  "updated": "2025-11-11T05:45:09.461Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "181",
-      "recommendCount": "337",
-      "title": "[情報] 2330台積電10月營收 mom+11% yoy+16.9%",
-      "link": "/bbs/Stock/M.1762752752.A.DBD",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2025/11/10 05:32",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "120",
       "recommendCount": "344",
       "title": "[問卦] 新疆風景好屌=.=為啥陸客還要來台?",
@@ -201,6 +191,16 @@
       "author": "huihuiiiii",
       "board": "Baseball",
       "publishTime": "2025/11/10 14:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "146",
+      "recommendCount": "383",
+      "title": "[新聞] 近七成員工薪資 低於平均",
+      "link": "/bbs/Stock/M.1762809532.A.B4F",
+      "author": "Sinreigensou",
+      "board": "Stock",
+      "publishTime": "2025/11/10 21:18",
       "imageUrl": ""
     }
   ]
