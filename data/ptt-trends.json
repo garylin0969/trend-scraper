@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-11T11:05:48.727Z",
+  "updated": "2025-11-11T11:17:31.890Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "322",
+      "recommendCount": "432",
+      "title": "[情報] AD現在看起來好大隻喔",
+      "link": "/bbs/NBA/M.1762832117.A.DAF",
+      "author": "sezna",
+      "board": "NBA",
+      "publishTime": "2025/11/11 03:35",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-246",
       "recommendCount": "468",
       "title": "[新聞] 正式官宣「長沙旺旺黑皮隊」成立！稱棒球是「回家」的運動",
@@ -42,16 +52,6 @@
       "board": "Gossiping",
       "publishTime": "2025/11/11 04:33",
       "imageUrl": "https://cache.pttweb.cc/imgur/DQFWf6R/s/e08ae7ac7cd5fee427b5a7a089deecce"
-    },
-    {
-      "recommendScore": "310",
-      "recommendCount": "415",
-      "title": "[情報] AD現在看起來好大隻喔",
-      "link": "/bbs/NBA/M.1762832117.A.DAF",
-      "author": "sezna",
-      "board": "NBA",
-      "publishTime": "2025/11/11 03:35",
-      "imageUrl": ""
     },
     {
       "recommendScore": "-217",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "262",
-      "recommendCount": "556",
+      "recommendScore": "264",
+      "recommendCount": "568",
       "title": "[閒聊] 晨晨(統神兒子)驚爆偷課手遊一萬多",
       "link": "/bbs/C_Chat/M.1762836266.A.FE5",
       "author": "peterboon",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "171",
-      "recommendCount": "451",
+      "recommendScore": "173",
+      "recommendCount": "458",
       "title": "[新聞] 近七成員工薪資 低於平均",
       "link": "/bbs/Stock/M.1762809532.A.B4F",
       "author": "Sinreigensou",
