@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-11T03:47:20.214Z",
+  "updated": "2025-11-11T03:59:36.533Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "160",
-      "recommendCount": "353",
-      "title": "[問題] 「二遊」到底是什麼意思？",
-      "link": "/bbs/C_Chat/M.1762746553.A.39E",
-      "author": "leptoneta",
-      "board": "C_Chat",
-      "publishTime": "2025/11/10 03:49",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "212",
       "recommendCount": "308",
       "title": "[分享] 林泓育 threads",
@@ -202,6 +192,16 @@
       "board": "Baseball",
       "publishTime": "2025/11/10 05:51",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "200",
+      "recommendCount": "320",
+      "title": "[情報] 三上悠亞加盟福爾摩沙夢想家",
+      "link": "/bbs/basketballTW/M.1762747127.A.86D",
+      "author": "Once1225",
+      "board": "basketballTW",
+      "publishTime": "2025/11/10 03:58",
+      "imageUrl": "https://cache.pttweb.cc/imgur/wK3h5Yu/s/2de5686bf3fbe50e85afcdf8055ba831"
     }
   ]
 }
