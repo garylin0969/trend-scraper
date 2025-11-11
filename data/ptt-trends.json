@@ -1,7 +1,7 @@
 {
-  "updated": "2025-11-11T07:30:04.581Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-11-11T07:38:44.761Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "223",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-216",
-      "recommendCount": "470",
+      "recommendScore": "-217",
+      "recommendCount": "472",
       "title": "[情報] CPB正式官宣 長沙旺旺黑皮隊",
       "link": "/bbs/Baseball/M.1762774979.A.66B",
       "author": "WetBro",
@@ -71,6 +71,16 @@
       "author": "skn60694",
       "board": "Gossiping",
       "publishTime": "2025/11/10 14:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "285",
+      "recommendCount": "378",
+      "title": "[情報] AD現在看起來好大隻喔",
+      "link": "/bbs/NBA/M.1762832117.A.DAF",
+      "author": "sezna",
+      "board": "NBA",
+      "publishTime": "2025/11/11 03:35",
       "imageUrl": ""
     },
     {
@@ -101,16 +111,6 @@
       "author": "LABOYS",
       "board": "Baseball",
       "publishTime": "2025/11/10 22:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "255",
-      "recommendCount": "331",
-      "title": "[情報] AD現在看起來好大隻喔",
-      "link": "/bbs/NBA/M.1762832117.A.DAF",
-      "author": "sezna",
-      "board": "NBA",
-      "publishTime": "2025/11/11 03:35",
       "imageUrl": ""
     },
     {
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "121",
+      "recommendCount": "364",
+      "title": "[閒聊] Cryin：LCK別那啥了，該讓我們贏一次",
+      "link": "/bbs/LoL/M.1762829077.A.DBA",
+      "author": "mike37",
+      "board": "LoL",
+      "publishTime": "2025/11/11 02:44",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "120",
       "recommendCount": "352",
       "title": "[問卦] 新疆風景好屌=.=為啥陸客還要來台?",
@@ -184,14 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "114",
-      "recommendCount": "350",
-      "title": "[閒聊] Cryin：LCK別那啥了，該讓我們贏一次",
-      "link": "/bbs/LoL/M.1762829077.A.DBA",
-      "author": "mike37",
-      "board": "LoL",
-      "publishTime": "2025/11/11 02:44",
-      "imageUrl": ""
+      "recommendScore": "83",
+      "recommendCount": "380",
+      "title": "[問卦] 脆：台灣有事 、日本炸翻北京",
+      "link": "/bbs/Gossiping/M.1762825888.A.8EF",
+      "author": "a0802459",
+      "board": "Gossiping",
+      "publishTime": "2025/11/11 01:51",
+      "imageUrl": "https://cache.pttweb.cc/imgur/UbS8anF/s/8175ebbd823add66fb5fcecca9ed4a20"
     }
   ]
 }
