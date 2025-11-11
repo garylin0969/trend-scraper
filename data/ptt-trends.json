@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-11T04:54:28.185Z",
+  "updated": "2025-11-11T05:07:07.060Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "228",
-      "recommendCount": "312",
-      "title": "[爆卦] 地震",
-      "link": "/bbs/Gossiping/M.1762750878.A.5D8",
-      "author": "jasome",
-      "board": "Gossiping",
-      "publishTime": "2025/11/10 05:01",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "207",
       "recommendCount": "461",
       "title": "[情報] Nico預計會被開除",
@@ -201,6 +191,16 @@
       "author": "DrowningPool",
       "board": "Stock",
       "publishTime": "2025/11/10 05:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "120",
+      "recommendCount": "344",
+      "title": "[問卦] 新疆風景好屌=.=為啥陸客還要來台?",
+      "link": "/bbs/Gossiping/M.1762815463.A.DF4",
+      "author": "lichuer",
+      "board": "Gossiping",
+      "publishTime": "2025/11/10 22:57",
       "imageUrl": ""
     }
   ]
