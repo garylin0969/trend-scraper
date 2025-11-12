@@ -1,18 +1,8 @@
 {
-  "updated": "2025-11-12T20:31:55.476Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-11-12T20:45:21.613Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "581",
-      "recommendCount": "1293",
-      "title": "[新聞] 快訊/10多年前殺妻剛假釋！桃園惡男又勒",
-      "link": "/bbs/Gossiping/M.1762916117.A.3F5",
-      "author": "sixpoint",
-      "board": "Gossiping",
-      "publishTime": "2025/11/12 02:55",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "511",
       "recommendCount": "1126",
@@ -34,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "426",
-      "recommendCount": "986",
+      "recommendScore": "425",
+      "recommendCount": "987",
       "title": "Re: [新聞] 警赴機場逮人！造謠台灣花巨資換蕭美琴演講　網友：反串文不違法",
       "link": "/bbs/Gossiping/M.1762951753.A.40F",
       "author": "dino1230",
@@ -191,6 +181,26 @@
       "author": "clear123",
       "board": "Baseball",
       "publishTime": "2025/11/12 05:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "210",
+      "recommendCount": "376",
+      "title": "[新聞] 「各方面都輾壓蔣萬安」 曹興誠：賴總統應徵召沈伯洋選北市長",
+      "link": "/bbs/Gossiping/M.1762915304.A.B23",
+      "author": "seiya2000",
+      "board": "Gossiping",
+      "publishTime": "2025/11/12 02:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "256",
+      "recommendCount": "441",
+      "title": "[花邊] 吉巴:勇士隊的鬥志有問題",
+      "link": "/bbs/NBA/M.1762939224.A.0CF",
+      "author": "kakala99",
+      "board": "NBA",
+      "publishTime": "2025/11/12 09:20",
       "imageUrl": ""
     }
   ]
