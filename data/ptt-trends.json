@@ -1,7 +1,7 @@
 {
-  "updated": "2025-11-13T20:45:42.882Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-11-13T20:54:01.317Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "811",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "290",
-      "recommendCount": "649",
+      "recommendCount": "650",
       "title": "[新聞] 通報太子集團涉洗錢52次被疑機制失靈",
       "link": "/bbs/Gossiping/M.1763031749.A.28C",
       "author": "novashine",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "171",
-      "recommendCount": "381",
+      "recommendScore": "170",
+      "recommendCount": "385",
       "title": "[新聞]  美國總統川普表示需要外籍勞工",
       "link": "/bbs/Stock/M.1763035595.A.E60",
       "author": "MrPanda",
@@ -191,6 +191,16 @@
       "author": "RageBird",
       "board": "Gossiping",
       "publishTime": "2025/11/13 07:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "198",
+      "recommendCount": "338",
+      "title": "[問卦] 普發1萬的轉帳明細，寫哪4個字最公道?",
+      "link": "/bbs/Gossiping/M.1763040958.A.681",
+      "author": "inmee",
+      "board": "Gossiping",
+      "publishTime": "2025/11/13 13:35",
       "imageUrl": ""
     }
   ]
