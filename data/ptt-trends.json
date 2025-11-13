@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-13T03:27:07.168Z",
+  "updated": "2025-11-13T03:48:27.395Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "499",
-      "recommendCount": "869",
-      "title": "[新聞] 樂天報價50M想留黃子鵬 台鋼開更大（60M)",
-      "link": "/bbs/Baseball/M.1762919210.A.62A",
-      "author": "zxc906383",
-      "board": "Baseball",
-      "publishTime": "2025/11/12 03:46",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "271",
       "recommendCount": "593",
       "title": "[新聞] 王義川質疑北市府解約涉圖利　網友傻眼：真的準備抓蔣萬安跟黃仁勳",
@@ -201,6 +191,16 @@
       "author": "XXXaBg",
       "board": "NBA",
       "publishTime": "2025/11/12 20:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-209",
+      "recommendCount": "347",
+      "title": "[新聞] 旺旺贊助長沙黑皮隊是統戰？黃國昌：去運動就要給人戴帽子？民進黨爭點氣",
+      "link": "/bbs/Baseball/M.1762951557.A.480",
+      "author": "pinfangfan",
+      "board": "Baseball",
+      "publishTime": "2025/11/12 12:45",
       "imageUrl": ""
     }
   ]
