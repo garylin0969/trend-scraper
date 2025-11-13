@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-13T06:43:37.574Z",
+  "updated": "2025-11-13T06:56:02.968Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "314",
+      "recommendCount": "677",
+      "title": "[問卦] 赤鬼：哈哈 笑死 你們自己腦補我單身",
+      "link": "/bbs/Gossiping/M.1763002582.A.8AB",
+      "author": "newpasta",
+      "board": "Gossiping",
+      "publishTime": "2025/11/13 02:56",
+      "imageUrl": "https://cache.pttweb.cc/imgur/ZGxCj32/s/fbe104053b2e471be17fbe51500c9979"
+    },
+    {
       "recommendScore": "555",
       "recommendCount": "1217",
       "title": "[情報] ADOR公告 Haerin 及 Hyein回歸",
@@ -64,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "502",
-      "recommendCount": "1265",
+      "recommendScore": "505",
+      "recommendCount": "1268",
       "title": "[情報] Daniel、Hani和Minji也已確認回歸。",
       "link": "/bbs/KoreaStar/M.1762944789.A.230",
       "author": "XDGEE",
@@ -74,24 +84,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "283",
-      "recommendCount": "622",
-      "title": "[問卦] 赤鬼：哈哈 笑死 你們自己腦補我單身",
-      "link": "/bbs/Gossiping/M.1763002582.A.8AB",
-      "author": "newpasta",
-      "board": "Gossiping",
-      "publishTime": "2025/11/13 02:56",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ZGxCj32/s/fbe104053b2e471be17fbe51500c9979"
-    },
-    {
       "recommendScore": "208",
-      "recommendCount": "641",
+      "recommendCount": "643",
       "title": "[新聞] 遭中共通緝！沈伯洋沒在怕　現身德國國會：勇敢的台灣人絕不退縮",
       "link": "/bbs/Gossiping/M.1762953790.A.C99",
       "author": "Skyblueway",
       "board": "Gossiping",
       "publishTime": "2025/11/12 13:23",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "277",
+      "recommendCount": "550",
+      "title": "[問卦] 烏克蘭爆出後方政客貪污32億 震撼全國",
+      "link": "/bbs/Gossiping/M.1762993520.A.30E",
+      "author": "Beatrice322",
+      "board": "Gossiping",
+      "publishTime": "2025/11/13 00:25",
+      "imageUrl": "https://cache.pttweb.cc/imgur/yhXWxTU/s/21ef4cfef2936d87eb8d3ca4186e5e18"
     },
     {
       "recommendScore": "268",
@@ -104,28 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "274",
-      "recommendCount": "536",
-      "title": "[問卦] 烏克蘭爆出後方政客貪污32億 震撼全國",
-      "link": "/bbs/Gossiping/M.1762993520.A.30E",
-      "author": "Beatrice322",
-      "board": "Gossiping",
-      "publishTime": "2025/11/13 00:25",
-      "imageUrl": "https://cache.pttweb.cc/imgur/yhXWxTU/s/21ef4cfef2936d87eb8d3ca4186e5e18"
-    },
-    {
-      "recommendScore": "-167",
-      "recommendCount": "489",
-      "title": "[新聞] 超扯！高虹安市府惡搞新竹棒球場 破壞現場被法官認證",
-      "link": "/bbs/Baseball/M.1762940849.A.8E1",
-      "author": "indium111",
-      "board": "Baseball",
-      "publishTime": "2025/11/12 09:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "399",
-      "recommendCount": "557",
+      "recommendScore": "417",
+      "recommendCount": "582",
       "title": "[標的] 2408南亞科衝浪空",
       "link": "/bbs/Stock/M.1762998609.A.AAE",
       "author": "yousking",
@@ -134,8 +124,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "227",
-      "recommendCount": "465",
+      "recommendScore": "-168",
+      "recommendCount": "490",
+      "title": "[新聞] 超扯！高虹安市府惡搞新竹棒球場 破壞現場被法官認證",
+      "link": "/bbs/Baseball/M.1762940849.A.8E1",
+      "author": "indium111",
+      "board": "Baseball",
+      "publishTime": "2025/11/12 09:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "230",
+      "recommendCount": "475",
       "title": "[新聞] 普發1萬入帳秒被鎖！跳出「金流異常」變警示戶　大票苦主領不了錢",
       "link": "/bbs/Gossiping/M.1763004902.A.977",
       "author": "STAV72",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "265",
-      "recommendCount": "443",
+      "recommendScore": "266",
+      "recommendCount": "444",
       "title": "[情報] Beal賽季報銷",
       "link": "/bbs/NBA/M.1762978218.A.7A9",
       "author": "XXXaBg",
@@ -174,18 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-214",
-      "recommendCount": "358",
-      "title": "[新聞] 旺旺贊助長沙黑皮隊是統戰？黃國昌：去運動就要給人戴帽子？民進黨爭點氣",
-      "link": "/bbs/Baseball/M.1762951557.A.480",
-      "author": "pinfangfan",
-      "board": "Baseball",
-      "publishTime": "2025/11/12 12:45",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "50",
-      "recommendCount": "400",
+      "recommendCount": "432",
       "title": "[新聞] 賴總統拜託工業界「幫員工加薪」 促進台灣經濟",
       "link": "/bbs/Stock/M.1762998241.A.D69",
       "author": "brbear",
@@ -194,14 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "184",
-      "recommendCount": "339",
-      "title": "[新聞] 蔣萬安緊張了?曹興誠力薦沈伯洋參選 吳思瑤超振奮：絕對K.O.",
-      "link": "/bbs/Gossiping/M.1762979812.A.BA4",
-      "author": "leocean9816",
-      "board": "Gossiping",
-      "publishTime": "2025/11/12 20:36",
-      "imageUrl": "https://cache.pttweb.cc/imgur/9HeLdwU/s/1e12044cc6056e8ea14ed2ce57ef7eeb"
+      "recommendScore": "-215",
+      "recommendCount": "359",
+      "title": "[新聞] 旺旺贊助長沙黑皮隊是統戰？黃國昌：去運動就要給人戴帽子？民進黨爭點氣",
+      "link": "/bbs/Baseball/M.1762951557.A.480",
+      "author": "pinfangfan",
+      "board": "Baseball",
+      "publishTime": "2025/11/12 12:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "398",
+      "recommendCount": "911",
+      "title": "[閒聊] Gumayusi 和 Doran 續約進展",
+      "link": "/bbs/LoL/M.1762999526.A.C72",
+      "author": "jason911152",
+      "board": "LoL",
+      "publishTime": "2025/11/13 02:05",
+      "imageUrl": "https://cache.pttweb.cc/imgur/1meR5zA/s/8825b6ada39a510cc82bd6837df40385"
     }
   ]
 }
