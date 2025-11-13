@@ -1,18 +1,8 @@
 {
-  "updated": "2025-11-13T05:55:38.065Z",
+  "updated": "2025-11-13T06:08:47.103Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "521",
-      "recommendCount": "1148",
-      "title": "[新聞] 太子集團「爆乳妹」15萬交保惹議 台北地院：檢察官命交保的",
-      "link": "/bbs/Gossiping/M.1762927549.A.ACF",
-      "author": "poeta",
-      "board": "Gossiping",
-      "publishTime": "2025/11/12 06:05",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "515",
       "recommendCount": "1135",
@@ -201,6 +191,16 @@
       "author": "pinfangfan",
       "board": "Baseball",
       "publishTime": "2025/11/12 12:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "50",
+      "recommendCount": "400",
+      "title": "[新聞] 賴總統拜託工業界「幫員工加薪」 促進台灣經濟",
+      "link": "/bbs/Stock/M.1762998241.A.D69",
+      "author": "brbear",
+      "board": "Stock",
+      "publishTime": "2025/11/13 01:44",
       "imageUrl": ""
     }
   ]
