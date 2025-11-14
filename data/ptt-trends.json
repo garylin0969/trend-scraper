@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-14T08:36:05.075Z",
+  "updated": "2025-11-14T08:47:44.861Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "404",
-      "recommendCount": "523",
+      "recommendScore": "406",
+      "recommendCount": "525",
       "title": "[分享] 2025 國聯MVP：大谷翔平",
       "link": "/bbs/Baseball/M.1763079893.A.B7A",
       "author": "polanco",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "407",
-      "recommendCount": "625",
+      "recommendCount": "626",
       "title": "[情報] 2025 美聯MVP：Aaron Judge",
       "link": "/bbs/Baseball/M.1763081669.A.FF1",
       "author": "Axwell",
@@ -74,23 +74,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "252",
-      "recommendCount": "416",
+      "recommendScore": "258",
+      "recommendCount": "423",
       "title": "[情報] Corbin Carroll加入WBC美國隊",
       "link": "/bbs/Baseball/M.1763089784.A.F57",
       "author": "leemz",
       "board": "Baseball",
       "publishTime": "2025/11/14 03:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "289",
-      "recommendCount": "551",
-      "title": "[情報] 大賣空哥關閉所管理的基金",
-      "link": "/bbs/Stock/M.1763023381.A.A09",
-      "author": "netsphere",
-      "board": "Stock",
-      "publishTime": "2025/11/13 08:43",
       "imageUrl": ""
     },
     {
@@ -174,8 +164,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/HytTNOV/s/ce93175e39b20b89367e9a9f0038d718"
     },
     {
-      "recommendScore": "616",
-      "recommendCount": "1075",
+      "recommendScore": "617",
+      "recommendCount": "1076",
       "title": "[分享] 一年前的今天 玉米大戰高永表",
       "link": "/bbs/Baseball/M.1763030319.A.D2B",
       "author": "kmjhome",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/11/13 09:56",
       "imageUrl": "https://cache.pttweb.cc/imgur/vVX2mgT/s/b673c055e490e8c4aae4b56cfa74645c"
+    },
+    {
+      "recommendScore": "154",
+      "recommendCount": "369",
+      "title": "[新聞] 民進黨割稻尾大翻車！38%民眾認為普發1萬功勞歸功「藍白合」",
+      "link": "/bbs/Gossiping/M.1763086084.A.8AF",
+      "author": "mongi",
+      "board": "Gossiping",
+      "publishTime": "2025/11/14 02:08",
+      "imageUrl": "https://cache.pttweb.cc/imgur/iXT4KeJ/s/9a6f9736435aecb362f3b3b5f9e65ec6"
     }
   ]
 }
