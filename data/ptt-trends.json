@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-14T05:47:30.116Z",
+  "updated": "2025-11-14T05:54:16.508Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "397",
-      "recommendCount": "508",
+      "recommendScore": "398",
+      "recommendCount": "510",
       "title": "[分享] 2025 國聯MVP：大谷翔平",
       "link": "/bbs/Baseball/M.1763079893.A.B7A",
       "author": "polanco",
@@ -74,8 +74,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/RfG7Qyi/s/4b119e226544474c6d3e9f4fb9d8c549"
     },
     {
-      "recommendScore": "398",
-      "recommendCount": "610",
+      "recommendScore": "399",
+      "recommendCount": "612",
       "title": "[情報] 2025 美聯MVP：Aaron Judge",
       "link": "/bbs/Baseball/M.1763081669.A.FF1",
       "author": "Axwell",
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "237",
+      "recommendCount": "386",
+      "title": "[情報] Corbin Carroll加入WBC美國隊",
+      "link": "/bbs/Baseball/M.1763089784.A.F57",
+      "author": "leemz",
+      "board": "Baseball",
+      "publishTime": "2025/11/14 03:09",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "241",
       "recommendCount": "408",
       "title": "[問卦] 普發1萬的轉帳明細，寫哪4個字最公道?",
@@ -111,16 +121,6 @@
       "author": "inmee",
       "board": "Gossiping",
       "publishTime": "2025/11/13 13:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "236",
-      "recommendCount": "384",
-      "title": "[情報] Corbin Carroll加入WBC美國隊",
-      "link": "/bbs/Baseball/M.1763089784.A.F57",
-      "author": "leemz",
-      "board": "Baseball",
-      "publishTime": "2025/11/14 03:09",
       "imageUrl": ""
     },
     {
@@ -194,14 +194,14 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/vVX2mgT/s/b673c055e490e8c4aae4b56cfa74645c"
     },
     {
-      "recommendScore": "236",
-      "recommendCount": "270",
-      "title": "[新聞] 球芽基金攜手安芝儇走入偏鄉 以笑容與行動傳遞棒球夢想能量",
-      "link": "/bbs/Baseball/M.1763041248.A.2D1",
-      "author": "micheal59",
-      "board": "Baseball",
-      "publishTime": "2025/11/13 13:40",
-      "imageUrl": ""
+      "recommendScore": "163",
+      "recommendCount": "551",
+      "title": "義大利披薩老闆罵台灣人只點5個披薩",
+      "link": "/bbs/Gossiping/M.1763089656.A.74E",
+      "author": "callhek",
+      "board": "Gossiping",
+      "publishTime": "2025/11/14 03:07",
+      "imageUrl": "https://cache.pttweb.cc/imgur/GsUvhMh/s/1b5579e666aca92a9754e1b574f61b6e"
     }
   ]
 }
