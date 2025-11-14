@@ -1,11 +1,11 @@
 {
-  "updated": "2025-11-14T16:07:30.138Z",
+  "updated": "2025-11-14T16:19:51.140Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "261",
-      "recommendCount": "1136",
+      "recommendScore": "264",
+      "recommendCount": "1139",
       "title": "[新聞] 遭陸懸賞抓人 閩南狼今赴派出所自首：警察不抓我也沒有辦法",
       "link": "/bbs/Gossiping/M.1763099859.A.EC2",
       "author": "tiger911",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "277",
-      "recommendCount": "806",
+      "recommendScore": "280",
+      "recommendCount": "813",
       "title": "[新聞] 小六生持美工刀嗆女老師　踹桌喊：繳學費是來讓你罵的嗎",
       "link": "/bbs/Gossiping/M.1763101486.A.93D",
       "author": "RRADA",
@@ -54,8 +54,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/RfG7Qyi/s/4b119e226544474c6d3e9f4fb9d8c549"
     },
     {
-      "recommendScore": "419",
-      "recommendCount": "540",
+      "recommendScore": "420",
+      "recommendCount": "541",
       "title": "[分享] 2025 國聯MVP：大谷翔平",
       "link": "/bbs/Baseball/M.1763079893.A.B7A",
       "author": "polanco",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "305",
-      "recommendCount": "471",
+      "recommendCount": "473",
       "title": "[新聞] 快新聞／王義川能選贏桃園？藍議員憂「他很厲害」　張善政：我嚇得戰戰競競",
       "link": "/bbs/Gossiping/M.1763110812.A.7DB",
       "author": "sukiyasuica",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "265",
-      "recommendCount": "830",
+      "recommendScore": "268",
+      "recommendCount": "834",
       "title": "義大利披薩老闆罵台灣人只點5個披薩",
       "link": "/bbs/Gossiping/M.1763089656.A.74E",
       "author": "callhek",
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "232",
+      "recommendCount": "646",
+      "title": "[新聞] 新手媽拚命顧孩撐家仍遭老公滅門　生前「為了寶寶我不能死」心聲曝",
+      "link": "/bbs/Gossiping/M.1763110307.A.0AE",
+      "author": "g01794827",
+      "board": "Gossiping",
+      "publishTime": "2025/11/14 08:51",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "409",
       "recommendCount": "631",
       "title": "[情報] 2025 美聯MVP：Aaron Judge",
@@ -111,16 +121,6 @@
       "author": "Axwell",
       "board": "Baseball",
       "publishTime": "2025/11/14 00:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "226",
-      "recommendCount": "638",
-      "title": "[新聞] 新手媽拚命顧孩撐家仍遭老公滅門　生前「為了寶寶我不能死」心聲曝",
-      "link": "/bbs/Gossiping/M.1763110307.A.0AE",
-      "author": "g01794827",
-      "board": "Gossiping",
-      "publishTime": "2025/11/14 08:51",
       "imageUrl": ""
     },
     {
@@ -144,8 +144,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "283",
-      "recommendCount": "307",
+      "recommendScore": "223",
+      "recommendCount": "469",
+      "title": "[新聞] 台美聯合聲明 央行：不操縱匯率",
+      "link": "/bbs/Stock/M.1763128319.A.DC6",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2025/11/14 13:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "284",
+      "recommendCount": "308",
       "title": "[發錢] 大谷翔平又在刷了",
       "link": "/bbs/Baseball/M.1763081134.A.231",
       "author": "L1ON",
@@ -155,7 +165,7 @@
     },
     {
       "recommendScore": "104",
-      "recommendCount": "380",
+      "recommendCount": "384",
       "title": "[新聞] 立法院今三讀藍版《財劃法》　卓榮泰批再修惡：將尋求憲政救濟",
       "link": "/bbs/Gossiping/M.1763120821.A.661",
       "author": "Calcifer",
@@ -184,23 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "158",
-      "recommendCount": "405",
+      "recommendScore": "160",
+      "recommendCount": "410",
       "title": "[新聞] 經濟學人：新台幣被低估程度全球之冠",
       "link": "/bbs/Stock/M.1763099199.A.C9A",
       "author": "anti87",
       "board": "Stock",
       "publishTime": "2025/11/14 05:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "263",
-      "recommendCount": "618",
-      "title": "[閒聊] 大家會想看到宙斯回娘家嗎?",
-      "link": "/bbs/LoL/M.1763088473.A.965",
-      "author": "crowley",
-      "board": "LoL",
-      "publishTime": "2025/11/14 02:47",
       "imageUrl": ""
     }
   ]
