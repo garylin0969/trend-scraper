@@ -1,11 +1,11 @@
 {
-  "updated": "2025-11-14T00:49:49.519Z",
+  "updated": "2025-11-14T01:22:35.509Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "824",
-      "recommendCount": "1057",
+      "recommendScore": "827",
+      "recommendCount": "1060",
       "title": "Re: [閒聊] 多蘭的生涯算不算是一種爽文？",
       "link": "/bbs/LoL/M.1763018080.A.AA4",
       "author": "ilove640",
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "380",
-      "recommendCount": "801",
+      "recommendCount": "806",
       "title": "[問卦]馬太鞍又變這樣 到底還能不能繼續住人…？",
       "link": "/bbs/Gossiping/M.1763012402.A.08A",
       "author": "a91153456",
@@ -34,8 +34,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/Uewr9K0/s/218432da5d0cb289f7beef9a7b270033"
     },
     {
-      "recommendScore": "344",
-      "recommendCount": "776",
+      "recommendScore": "348",
+      "recommendCount": "789",
       "title": "[新聞] 科技夫妻失業釀滅門！他21刀殺妻...再抱6月兒踱步1小時下手雙亡",
       "link": "/bbs/Gossiping/M.1763033749.A.E05",
       "author": "chimeptt",
@@ -44,14 +44,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "303",
-      "recommendCount": "682",
+      "recommendScore": "306",
+      "recommendCount": "688",
       "title": "[新聞] 通報太子集團涉洗錢52次被疑機制失靈",
       "link": "/bbs/Gossiping/M.1763031749.A.28C",
       "author": "novashine",
       "board": "Gossiping",
       "publishTime": "2025/11/13 11:02",
       "imageUrl": "https://cache.pttweb.cc/imgur/5ZAM21x/s/185f08e75636e5bd1bf1aadf7128764a"
+    },
+    {
+      "recommendScore": "260",
+      "recommendCount": "598",
+      "title": "[新聞] 太子集團在台洗錢「10銀行6年通報52次異常」　調查局挨轟回應了",
+      "link": "/bbs/Gossiping/M.1763074639.A.166",
+      "author": "Workforme",
+      "board": "Gossiping",
+      "publishTime": "2025/11/13 22:57",
+      "imageUrl": ""
     },
     {
       "recommendScore": "278",
@@ -71,16 +81,6 @@
       "author": "yousking",
       "board": "Stock",
       "publishTime": "2025/11/13 01:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "214",
-      "recommendCount": "481",
-      "title": "[新聞] 太子集團在台洗錢「10銀行6年通報52次異常」　調查局挨轟回應了",
-      "link": "/bbs/Gossiping/M.1763074639.A.166",
-      "author": "Workforme",
-      "board": "Gossiping",
-      "publishTime": "2025/11/13 22:57",
       "imageUrl": ""
     },
     {
@@ -114,13 +114,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "212",
-      "recommendCount": "425",
+      "recommendScore": "214",
+      "recommendCount": "434",
       "title": "[新聞] 快訊／胡釋安認了讓粿粿借住家中！發3聲明「不知情被牽連」譴責出軌行為",
       "link": "/bbs/Gossiping/M.1763029522.A.7D0",
       "author": "zkow",
       "board": "Gossiping",
       "publishTime": "2025/11/13 10:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "157",
+      "recommendCount": "525",
+      "title": "[新聞] 美要台至少投資10.8兆台幣",
+      "link": "/bbs/Gossiping/M.1763072811.A.963",
+      "author": "semih",
+      "board": "Gossiping",
+      "publishTime": "2025/11/13 22:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "227",
+      "recommendCount": "384",
+      "title": "[問卦] 普發1萬的轉帳明細，寫哪4個字最公道?",
+      "link": "/bbs/Gossiping/M.1763040958.A.681",
+      "author": "inmee",
+      "board": "Gossiping",
+      "publishTime": "2025/11/13 13:35",
       "imageUrl": ""
     },
     {
@@ -144,28 +164,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/1meR5zA/s/8825b6ada39a510cc82bd6837df40385"
     },
     {
-      "recommendScore": "137",
-      "recommendCount": "483",
-      "title": "[新聞] 美要台至少投資10.8兆台幣",
-      "link": "/bbs/Gossiping/M.1763072811.A.963",
-      "author": "semih",
-      "board": "Gossiping",
-      "publishTime": "2025/11/13 22:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "223",
-      "recommendCount": "375",
-      "title": "[問卦] 普發1萬的轉帳明細，寫哪4個字最公道?",
-      "link": "/bbs/Gossiping/M.1763040958.A.681",
-      "author": "inmee",
-      "board": "Gossiping",
-      "publishTime": "2025/11/13 13:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "178",
-      "recommendCount": "406",
+      "recommendScore": "179",
+      "recommendCount": "411",
       "title": "[新聞]  美國總統川普表示需要外籍勞工",
       "link": "/bbs/Stock/M.1763035595.A.E60",
       "author": "MrPanda",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "135",
-      "recommendCount": "515",
+      "recommendScore": "136",
+      "recommendCount": "516",
       "title": "[BOX ] Warriors 125:120 Spurs",
       "link": "/bbs/NBA/M.1763005697.A.FF7",
       "author": "jason911152",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "199",
-      "recommendCount": "376",
+      "recommendScore": "200",
+      "recommendCount": "383",
       "title": "[問卦] 台灣是什麼時候一步步變成詐騙天堂的?",
       "link": "/bbs/Gossiping/M.1763019913.A.02D",
       "author": "RageBird",
