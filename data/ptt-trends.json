@@ -1,58 +1,8 @@
 {
-  "updated": "2025-11-14T20:45:18.937Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2025-11-14T20:53:45.655Z",
+  "total_found": 18,
+  "returned_count": 18,
   "articles": [
-    {
-      "recommendScore": "265",
-      "recommendCount": "1141",
-      "title": "[新聞] 遭陸懸賞抓人 閩南狼今赴派出所自首：警察不抓我也沒有辦法",
-      "link": "/bbs/Gossiping/M.1763099859.A.EC2",
-      "author": "tiger911",
-      "board": "Gossiping",
-      "publishTime": "2025/11/14 05:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "317",
-      "recommendCount": "758",
-      "title": "[新聞] 質疑圖利輝達被轟爆 王義川改口了「北市府方向是對的」",
-      "link": "/bbs/Gossiping/M.1763090418.A.FD3",
-      "author": "poeta",
-      "board": "Gossiping",
-      "publishTime": "2025/11/14 03:20",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "233",
-      "recommendCount": "824",
-      "title": "[新聞] 美要台至少投資10.8兆台幣",
-      "link": "/bbs/Gossiping/M.1763072811.A.963",
-      "author": "semih",
-      "board": "Gossiping",
-      "publishTime": "2025/11/13 22:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "283",
-      "recommendCount": "820",
-      "title": "[新聞] 小六生持美工刀嗆女老師　踹桌喊：繳學費是來讓你罵的嗎",
-      "link": "/bbs/Gossiping/M.1763101486.A.93D",
-      "author": "RRADA",
-      "board": "Gossiping",
-      "publishTime": "2025/11/14 06:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "236",
-      "recommendCount": "571",
-      "title": "[問卦] 調查局：這六年已勾勒太子集團輪廓 啥意",
-      "link": "/bbs/Gossiping/M.1763081212.A.5EE",
-      "author": "gn07199",
-      "board": "Gossiping",
-      "publishTime": "2025/11/14 00:46",
-      "imageUrl": "https://cache.pttweb.cc/imgur/RfG7Qyi/s/4b119e226544474c6d3e9f4fb9d8c549"
-    },
     {
       "recommendScore": "422",
       "recommendCount": "543",
@@ -124,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "252",
-      "recommendCount": "570",
+      "recommendScore": "253",
+      "recommendCount": "571",
       "title": "[新聞] 台美聯合聲明 央行：不操縱匯率",
       "link": "/bbs/Stock/M.1763128319.A.DC6",
       "author": "DrowningPool",
@@ -134,13 +84,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "857",
+      "recommendScore": "246",
+      "recommendCount": "865",
       "title": "[新聞] 台灣遊客「16人吃5披薩」遭公審！義大利老闆錄影嗆：滾吧該死的",
       "link": "/bbs/Gossiping/M.1763130065.A.847",
       "author": "Gunbuster",
       "board": "Gossiping",
       "publishTime": "2025/11/14 14:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "238",
+      "recommendCount": "498",
+      "title": "[爆卦] 館長事件懶人包完結篇",
+      "link": "/bbs/Gossiping/M.1763139415.A.F1C",
+      "author": "matlab2009",
+      "board": "Gossiping",
+      "publishTime": "2025/11/14 16:56",
       "imageUrl": ""
     },
     {
@@ -151,16 +111,6 @@
       "author": "kingfsg7326",
       "board": "Gossiping",
       "publishTime": "2025/11/14 00:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "236",
-      "recommendCount": "494",
-      "title": "[爆卦] 館長事件懶人包完結篇",
-      "link": "/bbs/Gossiping/M.1763139415.A.F1C",
-      "author": "matlab2009",
-      "board": "Gossiping",
-      "publishTime": "2025/11/14 16:56",
       "imageUrl": ""
     },
     {
@@ -202,6 +152,36 @@
       "board": "SportLottery",
       "publishTime": "2025/11/14 14:40",
       "imageUrl": "https://cache.pttweb.cc/imgur/bLd0nQW/s/dbc759a09af1ab93a89233badc11c256"
+    },
+    {
+      "recommendScore": "202",
+      "recommendCount": "409",
+      "title": "[新聞] 太子集團錢怎匯到台灣的？李家同指金融體系出事了：我收個海外版稅銀行必查",
+      "link": "/bbs/Gossiping/M.1763101850.A.AE4",
+      "author": "richshen",
+      "board": "Gossiping",
+      "publishTime": "2025/11/14 06:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "164",
+      "recommendCount": "416",
+      "title": "[新聞] 經濟學人：新台幣被低估程度全球之冠",
+      "link": "/bbs/Stock/M.1763099199.A.C9A",
+      "author": "anti87",
+      "board": "Stock",
+      "publishTime": "2025/11/14 05:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "162",
+      "recommendCount": "393",
+      "title": "[新聞] 民進黨割稻尾大翻車！38%民眾認為普發1萬功勞歸功「藍白合」",
+      "link": "/bbs/Gossiping/M.1763086084.A.8AF",
+      "author": "mongi",
+      "board": "Gossiping",
+      "publishTime": "2025/11/14 02:08",
+      "imageUrl": "https://cache.pttweb.cc/imgur/iXT4KeJ/s/9a6f9736435aecb362f3b3b5f9e65ec6"
     }
   ]
 }
