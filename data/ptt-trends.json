@@ -1,11 +1,11 @@
 {
-  "updated": "2025-11-15T16:18:16.417Z",
+  "updated": "2025-11-15T16:31:46.339Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "319",
-      "recommendCount": "663",
+      "recommendScore": "321",
+      "recommendCount": "665",
       "title": "[新聞] 光電加嚴環評！6環團聯合聲明反對 名醫開砲：世界奇觀",
       "link": "/bbs/Gossiping/M.1763190167.A.B98",
       "author": "kinki999",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "374",
-      "recommendCount": "609",
+      "recommendScore": "375",
+      "recommendCount": "610",
       "title": "[新聞] 快新聞／非沈不投！藍民調「沈伯洋全國知名度72%」　網力挺選北市長",
       "link": "/bbs/Gossiping/M.1763164217.A.57D",
       "author": "JAL96",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "245",
-      "recommendCount": "324",
+      "recommendScore": "246",
+      "recommendCount": "327",
       "title": "[情報] 今日咖哩",
       "link": "/bbs/NBA/M.1763183866.A.AE9",
       "author": "steven183",
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "222",
+      "recommendCount": "239",
+      "title": "Re: [LIVE] 網球 德米瑙爾@J.辛納 場中",
+      "link": "/bbs/SportLottery/M.1763220603.A.15A",
+      "author": "lotterywin",
+      "board": "SportLottery",
+      "publishTime": "2025/11/15 15:30",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "872",
       "recommendCount": "1458",
       "title": "[實況] Hide on bush #KR1 (T1 Faker)",
@@ -124,8 +134,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/Pgi41HY/s/afc16bd7621d13c732066a7a9249d663"
     },
     {
-      "recommendScore": "160",
-      "recommendCount": "462",
+      "recommendScore": "162",
+      "recommendCount": "466",
       "title": "[問卦] 42歲失業,真的很難找工作嗎?",
       "link": "/bbs/Gossiping/M.1763169554.A.BBF",
       "author": "lelena",
@@ -134,18 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "196",
-      "recommendCount": "213",
-      "title": "Re: [LIVE] 網球 德米瑙爾@J.辛納 場中",
-      "link": "/bbs/SportLottery/M.1763220603.A.15A",
-      "author": "lotterywin",
-      "board": "SportLottery",
-      "publishTime": "2025/11/15 15:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "83",
-      "recommendCount": "263",
+      "recommendScore": "86",
+      "recommendCount": "267",
       "title": "[新聞] 墾丁人潮10年蒸發600萬　房東撐不住拋售金雞母",
       "link": "/bbs/Gossiping/M.1763179752.A.1A0",
       "author": "asd63312337",
@@ -164,6 +164,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "134",
+      "recommendCount": "310",
+      "title": "[問卦] 驚! 光電收購1度9.59元 !?",
+      "link": "/bbs/Gossiping/M.1763188412.A.680",
+      "author": "TouchAgain",
+      "board": "Gossiping",
+      "publishTime": "2025/11/15 06:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "180",
+      "recommendCount": "269",
+      "title": "[閒聊] FAKER 冠軍造型 粉絲投票環節",
+      "link": "/bbs/LoL/M.1763203549.A.1FE",
+      "author": "daniel70730",
+      "board": "LoL",
+      "publishTime": "2025/11/15 10:45",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "766",
       "recommendCount": "1473",
       "title": "[討論] [Vtub] Hololive 晚間直播單 (1141115)",
@@ -174,28 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "179",
-      "recommendCount": "268",
-      "title": "[閒聊] FAKER 冠軍造型 粉絲投票環節",
-      "link": "/bbs/LoL/M.1763203549.A.1FE",
-      "author": "daniel70730",
-      "board": "LoL",
-      "publishTime": "2025/11/15 10:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "133",
-      "recommendCount": "308",
-      "title": "[問卦] 驚! 光電收購1度9.59元 !?",
-      "link": "/bbs/Gossiping/M.1763188412.A.680",
-      "author": "TouchAgain",
-      "board": "Gossiping",
-      "publishTime": "2025/11/15 06:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "124",
-      "recommendCount": "372",
+      "recommendScore": "125",
+      "recommendCount": "373",
       "title": "[問卦] 大師兄：館長便當店都照勞基法 所以沒賺",
       "link": "/bbs/Gossiping/M.1763180974.A.15C",
       "author": "Elsie1999",
