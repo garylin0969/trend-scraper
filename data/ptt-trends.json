@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-15T11:34:05.809Z",
+  "updated": "2025-11-15T11:43:30.636Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -134,16 +134,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "265",
-      "recommendCount": "466",
-      "title": "[閒聊] Oner：我才應該是FMVP吧?",
-      "link": "/bbs/LoL/M.1763120538.A.80E",
-      "author": "keel90135",
-      "board": "LoL",
-      "publishTime": "2025/11/14 11:42",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "84",
       "recommendCount": "393",
       "title": "[新聞] 藍白強硬通過光電修法 經部深夜回擊國家釀「四輸」",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/11/15 07:58",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "870",
+      "recommendCount": "1452",
+      "title": "[實況] Hide on bush #KR1 (T1 Faker)",
+      "link": "/bbs/LoL/M.1763193189.A.EEC",
+      "author": "cornsoup",
+      "board": "LoL",
+      "publishTime": "2025/11/15 07:53",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Pgi41HY/s/afc16bd7621d13c732066a7a9249d663"
     }
   ]
 }
