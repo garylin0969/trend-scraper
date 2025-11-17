@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-17T07:30:08.313Z",
+  "updated": "2025-11-17T07:38:28.123Z",
   "total_found": 19,
   "returned_count": 19,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "386",
-      "recommendCount": "871",
+      "recommendScore": "388",
+      "recommendCount": "880",
       "title": "Re: [閒聊] 被拉麵店老闆認出是熟客後再也不去了",
       "link": "/bbs/C_Chat/M.1763348678.A.B60",
       "author": "Fate1095",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "281",
-      "recommendCount": "695",
+      "recommendScore": "282",
+      "recommendCount": "701",
       "title": "[爆卦] 在台中勇敢跟炸街89理論的下場",
       "link": "/bbs/Gossiping/M.1763343137.A.2AB",
       "author": "P0GUY",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "251",
-      "recommendCount": "629",
+      "recommendScore": "253",
+      "recommendCount": "631",
       "title": "[問卦] 慶元大師兄反擊了！！！",
       "link": "/bbs/Gossiping/M.1763345831.A.B28",
       "author": "shenlou",
@@ -84,8 +84,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/Acsg8xk/s/064e92d8f10fb537bc973722b841fd89"
     },
     {
-      "recommendScore": "124",
-      "recommendCount": "419",
+      "recommendScore": "254",
+      "recommendCount": "358",
+      "title": "[新聞] AI變危機! 謝金河示警:輝達,台積電危險了",
+      "link": "/bbs/Stock/M.1763359559.A.7E1",
+      "author": "dnol",
+      "board": "Stock",
+      "publishTime": "2025/11/17 06:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "126",
+      "recommendCount": "423",
       "title": "[新聞] 館長陳之漢遭爆性騷擾員工 洪申翰：屬實可罰百萬、請新北勞工局主動查明",
       "link": "/bbs/Gossiping/M.1763346955.A.095",
       "author": "Wesley995",
@@ -104,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "233",
-      "recommendCount": "329",
-      "title": "[新聞] AI變危機! 謝金河示警:輝達,台積電危險了",
-      "link": "/bbs/Stock/M.1763359559.A.7E1",
-      "author": "dnol",
-      "board": "Stock",
-      "publishTime": "2025/11/17 06:05",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "136",
       "recommendCount": "362",
       "title": "[問卦] 八炯:更多間諜看起來低能像豆豆先生那樣",
@@ -124,8 +124,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/qcmFrO5/s/3c6bd6fe2743c334ec21304391027d16"
     },
     {
-      "recommendScore": "144",
-      "recommendCount": "400",
+      "recommendScore": "150",
+      "recommendCount": "415",
       "title": "[新聞] 環評法修惡 光電業喊關門或出走",
       "link": "/bbs/Stock/M.1763341320.A.C34",
       "author": "a5687920",
@@ -174,8 +174,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/g1zGsre/s/53e7d9cb6ea268f040dcfac1cb3d3c02"
     },
     {
-      "recommendScore": "-240",
-      "recommendCount": "350",
+      "recommendScore": "-241",
+      "recommendCount": "351",
       "title": "[討論] 中職迷無法理性討論",
       "link": "/bbs/Baseball/M.1763341405.A.961",
       "author": "jason88772",
@@ -184,14 +184,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "255",
-      "recommendCount": "285",
-      "title": "[發錢] 大逆轉",
-      "link": "/bbs/NBA/M.1763351736.A.096",
-      "author": "dragon803",
-      "board": "NBA",
-      "publishTime": "2025/11/17 03:55",
-      "imageUrl": ""
+      "recommendScore": "278",
+      "recommendCount": "747",
+      "title": "[討論] 黃小潔事件-BYOC主辦方發文",
+      "link": "/bbs/C_Chat/M.1763343896.A.9E1",
+      "author": "Teng0615",
+      "board": "C_Chat",
+      "publishTime": "2025/11/17 01:44",
+      "imageUrl": "https://cache.pttweb.cc/imgur/jy5RJb1/s/9530d6c4ed935dc7543eb5c32b0ef129"
     }
   ]
 }
