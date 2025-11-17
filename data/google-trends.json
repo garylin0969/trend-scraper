@@ -1,30 +1,55 @@
 {
-  "updated": "2025-11-17T22:08:57.006Z",
+  "updated": "2025-11-17T22:38:48.082Z",
   "trends": [
     {
-      "googleTrend": "道瓊工業平均指數",
+      "googleTrend": "豪雨特報",
+      "searchVolume": "1,000+",
+      "started": "20 分鐘前"
+    },
+    {
+      "googleTrend": "費城半導體指數",
       "searchVolume": "200+",
+      "started": "50 分鐘前"
+    },
+    {
+      "googleTrend": "費半",
+      "searchVolume": "1,000+",
       "started": "30 分鐘前"
     },
     {
-      "googleTrend": "輝達股價",
+      "googleTrend": "那斯達克指數",
+      "searchVolume": "100+",
+      "started": "20 分鐘前"
+    },
+    {
+      "googleTrend": "國際金融",
       "searchVolume": "200+",
       "started": "40 分鐘前"
     },
     {
+      "googleTrend": "539開獎號碼",
+      "searchVolume": "200+",
+      "started": "30 分鐘前"
+    },
+    {
+      "googleTrend": "台指期夜盤",
+      "searchVolume": "200+",
+      "started": "20 分鐘前"
+    },
+    {
       "googleTrend": "vix指數",
+      "searchVolume": "100+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "美光",
       "searchVolume": "100+",
       "started": "1 小時前"
     },
     {
-      "googleTrend": "iu",
-      "searchVolume": "100+",
-      "started": "3 小時前"
-    },
-    {
       "googleTrend": "ai",
       "searchVolume": "100+",
-      "started": "2 小時前"
+      "started": "3 小時前"
     }
   ]
 }
