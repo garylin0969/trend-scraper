@@ -1,17 +1,27 @@
 {
-  "updated": "2025-11-17T13:05:30.729Z",
+  "updated": "2025-11-17T13:23:04.239Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "460",
-      "recommendCount": "962",
+      "recommendScore": "593",
+      "recommendCount": "1245",
       "title": "[外絮] T1 X (Thank you Gumayusi)",
       "link": "/bbs/LoL/M.1763380890.A.C05",
       "author": "Im22Yo",
       "board": "LoL",
       "publishTime": "2025/11/17 12:01",
       "imageUrl": "https://cache.pttweb.cc/imgur/7FxxkmF/s/6b268b58a092882b6d39c933565a0d2a"
+    },
+    {
+      "recommendScore": "419",
+      "recommendCount": "572",
+      "title": "[新聞] AI變危機! 謝金河示警:輝達,台積電危險了",
+      "link": "/bbs/Stock/M.1763359559.A.7E1",
+      "author": "dnol",
+      "board": "Stock",
+      "publishTime": "2025/11/17 06:05",
+      "imageUrl": ""
     },
     {
       "recommendScore": "423",
@@ -21,16 +31,6 @@
       "author": "Fate1095",
       "board": "C_Chat",
       "publishTime": "2025/11/17 03:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "417",
-      "recommendCount": "570",
-      "title": "[新聞] AI變危機! 謝金河示警:輝達,台積電危險了",
-      "link": "/bbs/Stock/M.1763359559.A.7E1",
-      "author": "dnol",
-      "board": "Stock",
-      "publishTime": "2025/11/17 06:05",
       "imageUrl": ""
     },
     {
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "160",
-      "recommendCount": "455",
+      "recommendScore": "161",
+      "recommendCount": "459",
       "title": "[新聞] 環評法修惡 光電業喊關門或出走",
       "link": "/bbs/Stock/M.1763341320.A.C34",
       "author": "a5687920",
@@ -134,8 +134,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/qcmFrO5/s/3c6bd6fe2743c334ec21304391027d16"
     },
     {
-      "recommendScore": "292",
-      "recommendCount": "328",
+      "recommendScore": "293",
+      "recommendCount": "329",
       "title": "[發錢] 大逆轉",
       "link": "/bbs/NBA/M.1763351736.A.096",
       "author": "dragon803",
@@ -184,6 +184,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/sKW4DF8/s/7d52dcd46db0a3ce7d11fb223d8ee7a5"
     },
     {
+      "recommendScore": "341",
+      "recommendCount": "1185",
+      "title": "[討論] 台灣幹嘛弄資源發展籃球不弄足球？",
+      "link": "/bbs/C_Chat/M.1763357083.A.C21",
+      "author": "gary861226",
+      "board": "C_Chat",
+      "publishTime": "2025/11/17 05:24",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-249",
       "recommendCount": "367",
       "title": "[討論] 中職迷無法理性討論",
@@ -191,16 +201,6 @@
       "author": "jason88772",
       "board": "Baseball",
       "publishTime": "2025/11/17 01:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "340",
-      "recommendCount": "1178",
-      "title": "[討論] 台灣幹嘛弄資源發展籃球不弄足球？",
-      "link": "/bbs/C_Chat/M.1763357083.A.C21",
-      "author": "gary861226",
-      "board": "C_Chat",
-      "publishTime": "2025/11/17 05:24",
       "imageUrl": ""
     }
   ]
