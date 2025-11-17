@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-17T16:48:52.480Z",
+  "updated": "2025-11-17T16:58:10.274Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,6 +14,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "463",
+      "recommendCount": "565",
+      "title": "[閒聊] 幹你娘T1",
+      "link": "/bbs/LoL/M.1763383883.A.123",
+      "author": "a851019",
+      "board": "LoL",
+      "publishTime": "2025/11/17 12:51",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "432",
       "recommendCount": "590",
       "title": "[新聞] AI變危機! 謝金河示警:輝達,台積電危險了",
@@ -21,16 +31,6 @@
       "author": "dnol",
       "board": "Stock",
       "publishTime": "2025/11/17 06:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "462",
-      "recommendCount": "564",
-      "title": "[閒聊] 幹你娘T1",
-      "link": "/bbs/LoL/M.1763383883.A.123",
-      "author": "a851019",
-      "board": "LoL",
-      "publishTime": "2025/11/17 12:51",
       "imageUrl": ""
     },
     {
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "291",
-      "recommendCount": "691",
+      "recommendScore": "293",
+      "recommendCount": "693",
       "title": "[問卦] 小偉po出館長要給他2000萬的證據了！！",
       "link": "/bbs/Gossiping/M.1763378851.A.B7E",
       "author": "Beatrice322",
@@ -84,8 +84,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ExV49AE/s/ded2c9be3c8feaf17308a3b7d7d422c9"
     },
     {
-      "recommendScore": "307",
-      "recommendCount": "563",
+      "recommendScore": "309",
+      "recommendCount": "565",
       "title": "[新聞] 來自台灣！網美紐約高檔餐廳「吃霸王餐」被抓　想肉償抵餐費",
       "link": "/bbs/Gossiping/M.1763362345.A.EB2",
       "author": "vdml",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "218",
-      "recommendCount": "501",
+      "recommendScore": "219",
+      "recommendCount": "502",
       "title": "[新聞] 不排斥選台北市長？沈伯洋喊「戰士很難選擇戰場」：黨中央怎麼做、我就怎麼做",
       "link": "/bbs/Gossiping/M.1763369329.A.3B7",
       "author": "googolplex",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "210",
-      "recommendCount": "368",
+      "recommendScore": "212",
+      "recommendCount": "370",
       "title": "[閒聊] 你們這次會支持Gumayusi還是T1？",
       "link": "/bbs/LoL/M.1763381931.A.5E0",
       "author": "maybeyeah",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "149",
-      "recommendCount": "402",
+      "recommendScore": "150",
+      "recommendCount": "403",
       "title": "[新聞] 遭中國通緝「我更該出國」！沈伯洋：讓大家知道他們喜歡狐假虎威",
       "link": "/bbs/Gossiping/M.1763354488.A.673",
       "author": "AAApower",
