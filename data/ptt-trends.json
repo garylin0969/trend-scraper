@@ -1,8 +1,18 @@
 {
-  "updated": "2025-11-17T19:17:24.242Z",
+  "updated": "2025-11-17T19:26:54.282Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "658",
+      "recommendCount": "1384",
+      "title": "[外絮] T1 X (Thank you Gumayusi)",
+      "link": "/bbs/LoL/M.1763380890.A.C05",
+      "author": "Im22Yo",
+      "board": "LoL",
+      "publishTime": "2025/11/17 12:01",
+      "imageUrl": "https://cache.pttweb.cc/imgur/7FxxkmF/s/6b268b58a092882b6d39c933565a0d2a"
+    },
     {
       "recommendScore": "340",
       "recommendCount": "1175",
@@ -124,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "186",
-      "recommendCount": "535",
+      "recommendScore": "187",
+      "recommendCount": "537",
       "title": "[問卦] 香港人：台灣人講話很虛偽",
       "link": "/bbs/Gossiping/M.1763337014.A.4B2",
       "author": "amoyui",
@@ -191,16 +201,6 @@
       "author": "AAApower",
       "board": "Gossiping",
       "publishTime": "2025/11/17 04:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "214",
-      "recommendCount": "358",
-      "title": "[新聞] 曹興誠點名沈伯洋選台北市長…國民黨秒公布民調！顏若芳酸：可見多害怕",
-      "link": "/bbs/Gossiping/M.1763372787.A.657",
-      "author": "sukiya",
-      "board": "Gossiping",
-      "publishTime": "2025/11/17 09:46",
       "imageUrl": ""
     }
   ]
