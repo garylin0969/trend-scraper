@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-17T10:33:44.182Z",
+  "updated": "2025-11-17T10:47:23.438Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,6 +14,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "392",
+      "recommendCount": "534",
+      "title": "[新聞] AI變危機! 謝金河示警:輝達,台積電危險了",
+      "link": "/bbs/Stock/M.1763359559.A.7E1",
+      "author": "dnol",
+      "board": "Stock",
+      "publishTime": "2025/11/17 06:05",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "415",
       "recommendCount": "883",
       "title": "Re: [新聞] 館長遭員工爆「便當店用料高級」　2網紅笑：故事獵奇成業配範本",
@@ -24,23 +34,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "302",
-      "recommendCount": "739",
+      "recommendScore": "303",
+      "recommendCount": "740",
       "title": "[爆卦] 在台中勇敢跟炸街89理論的下場",
       "link": "/bbs/Gossiping/M.1763343137.A.2AB",
       "author": "P0GUY",
       "board": "Gossiping",
       "publishTime": "2025/11/17 01:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "385",
-      "recommendCount": "526",
-      "title": "[新聞] AI變危機! 謝金河示警:輝達,台積電危險了",
-      "link": "/bbs/Stock/M.1763359559.A.7E1",
-      "author": "dnol",
-      "board": "Stock",
-      "publishTime": "2025/11/17 06:05",
       "imageUrl": ""
     },
     {
@@ -54,8 +54,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ExV49AE/s/ded2c9be3c8feaf17308a3b7d7d422c9"
     },
     {
-      "recommendScore": "259",
-      "recommendCount": "469",
+      "recommendScore": "260",
+      "recommendCount": "470",
       "title": "[新聞] 臭氣沖天！高雄燕巢知名月世界山坡變成「垃圾山」",
       "link": "/bbs/Gossiping/M.1763337822.A.0BC",
       "author": "q347",
@@ -84,8 +84,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/Acsg8xk/s/064e92d8f10fb537bc973722b841fd89"
     },
     {
-      "recommendScore": "237",
-      "recommendCount": "442",
+      "recommendScore": "239",
+      "recommendCount": "447",
       "title": "[新聞] 來自台灣！網美紐約高檔餐廳「吃霸王餐」被抓　想肉償抵餐費",
       "link": "/bbs/Gossiping/M.1763362345.A.EB2",
       "author": "vdml",
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "133",
-      "recommendCount": "444",
+      "recommendCount": "447",
       "title": "[新聞] 館長陳之漢遭爆性騷擾員工 洪申翰：屬實可罰百萬、請新北勞工局主動查明",
       "link": "/bbs/Gossiping/M.1763346955.A.095",
       "author": "Wesley995",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "275",
-      "recommendCount": "397",
+      "recommendScore": "276",
+      "recommendCount": "398",
       "title": "[花邊] Ayton:我從來沒說過在湖人我很快樂",
       "link": "/bbs/NBA/M.1763294172.A.0D8",
       "author": "kakala99",
@@ -114,13 +114,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "152",
-      "recommendCount": "440",
+      "recommendScore": "153",
+      "recommendCount": "441",
       "title": "[新聞] 環評法修惡 光電業喊關門或出走",
       "link": "/bbs/Stock/M.1763341320.A.C34",
       "author": "a5687920",
       "board": "Stock",
       "publishTime": "2025/11/17 01:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "166",
+      "recommendCount": "376",
+      "title": "[新聞] 不排斥選台北市長？沈伯洋喊「戰士很難選擇戰場」：黨中央怎麼做、我就怎麼做",
+      "link": "/bbs/Gossiping/M.1763369329.A.3B7",
+      "author": "googolplex",
+      "board": "Gossiping",
+      "publishTime": "2025/11/17 08:48",
       "imageUrl": ""
     },
     {
@@ -144,18 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "162",
-      "recommendCount": "360",
-      "title": "[新聞] 不排斥選台北市長？沈伯洋喊「戰士很難選擇戰場」：黨中央怎麼做、我就怎麼做",
-      "link": "/bbs/Gossiping/M.1763369329.A.3B7",
-      "author": "googolplex",
-      "board": "Gossiping",
-      "publishTime": "2025/11/17 08:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "136",
-      "recommendCount": "372",
+      "recommendScore": "137",
+      "recommendCount": "373",
       "title": "[新聞] 遭中國通緝「我更該出國」！沈伯洋：讓大家知道他們喜歡狐假虎威",
       "link": "/bbs/Gossiping/M.1763354488.A.673",
       "author": "AAApower",
@@ -175,7 +175,7 @@
     },
     {
       "recommendScore": "297",
-      "recommendCount": "644",
+      "recommendCount": "645",
       "title": "[閒聊] 黃小潔這咖也太噁心了吧！？",
       "link": "/bbs/C_Chat/M.1763339297.A.CED",
       "author": "h2030625",
@@ -194,14 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "279",
-      "recommendCount": "753",
-      "title": "[討論] 黃小潔事件-BYOC主辦方發文",
-      "link": "/bbs/C_Chat/M.1763343896.A.9E1",
-      "author": "Teng0615",
-      "board": "C_Chat",
-      "publishTime": "2025/11/17 01:44",
-      "imageUrl": "https://cache.pttweb.cc/imgur/jy5RJb1/s/9530d6c4ed935dc7543eb5c32b0ef129"
+      "recommendScore": "-152",
+      "recommendCount": "415",
+      "title": "[新聞] 賴清德：政黨競爭但大家是同一國　侵略者最怕的就是團結的力量",
+      "link": "/bbs/Gossiping/M.1763361441.A.827",
+      "author": "st210113",
+      "board": "Gossiping",
+      "publishTime": "2025/11/17 06:37",
+      "imageUrl": ""
     }
   ]
 }
