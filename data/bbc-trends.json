@@ -1,14 +1,22 @@
 {
-  "updated": "2025-11-18T01:09:29.282Z",
+  "updated": "2025-11-18T01:52:36.204Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-11-18T01:09:20.000Z",
+    "lastBuildDate": "2025-11-18T01:52:29.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "高市早苗台灣言論與中日外交風波：中國旅遊警示會給日本帶來甚麼？",
+      "description": "中國持續抗議日本首相高市早苗涉及台灣安全的言論，對日本頒布旅遊禁令。分析人士認為中國大陸赴日遊客可能急減60%。",
+      "link": "https://www.bbc.com/zhongwen/articles/cly9mnkyen8o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-18T01:22:41.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cly9mnkyen8o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/27c4/live/7175b0a0-c3e9-11f0-8456-eff94716b162.jpg"
+    },
     {
       "title": "「台灣有事，就是日本有事」？高市早苗發言引發中日外交風波，北京將如何反制",
       "description": "日本高市早苗首相的涉台發言引發一連串的中日外交風波，中國以強勢的戰狼外交風格回應讓中日關係的脆弱本質立即曝光。中國強勢批評高市言論干涉內政，將造成嚴重後果。",
@@ -18,7 +26,7 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/56d8/live/091cec10-c120-11f0-8b03-8dbd258435ad.jpg"
     },
     {
-      "title": "英國庇護新規上路，移民門檻大幅提高",
+      "title": "英國計劃改革庇護申請政策，移民門檻恐大幅提高",
       "description": "內政大臣將宣布重大政策改革，包括規定獲庇護者需等待20年才能申請永久定居。",
       "link": "https://www.bbc.com/zhongwen/articles/ckgzje62n3po/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-11-17T06:46:38.000Z",
@@ -46,16 +54,8 @@
       "description": "中國官方近日先後對台灣民進黨籍立委沈伯洋，以及網紅「八炯」與「閩南狼」發布通緝令並懸賞追捕，指他們涉「從事分裂國家活動」。學者分析，北京對台政治人物的制裁行動正逐步升級。",
       "link": "https://www.bbc.com/zhongwen/articles/cn7en7lzln6o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-11-14T08:24:35.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn7en7lzln6o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn7en7lzln6o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7862/live/198c63a0-c12f-11f0-983a-b995b07fb303.png"
-    },
-    {
-      "title": "他每天使用醫用大麻，擔心被認為是「癮君子」",
-      "description": "最新數據顯示，2024年7月英國已有超過5萬份私人醫用大麻處方——如今可能更多。\n",
-      "link": "https://www.bbc.com/zhongwen/articles/cgr48w8r2njo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-11-17T00:16:17.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cgr48w8r2njo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4456/live/01ef7d60-bf1b-11f0-8669-5560f5c90fbe.png"
     },
     {
       "title": "美國將協助韓國建造核「攻擊型」潛艇——這意味著什麼？",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1bcc/live/661124d0-ab23-11f0-93f3-35cf52b1b510.jpg"
     },
     {
+      "title": "他每天使用醫用大麻，擔心被認為是「癮君子」",
+      "description": "最新數據顯示，2024年7月英國已有超過5萬份私人醫用大麻處方——如今可能更多。\n",
+      "link": "https://www.bbc.com/zhongwen/articles/cgr48w8r2njo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-17T00:16:17.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cgr48w8r2njo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4456/live/01ef7d60-bf1b-11f0-8669-5560f5c90fbe.png"
+    },
+    {
       "title": "好萊塢「真實版神奇女俠」：挑戰死亡、逃過火劫、打破紀錄",
       "description": "基蒂·奧尼爾在職業與個人生活中不斷打破障礙。她是1970年代好萊塢備受推崇，知名度數一數二的特技女演員；她自幼失聰，但拒絕讓這成為其人生障礙。",
       "link": "https://www.bbc.com/zhongwen/articles/cwy5z3v7k01o/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2025-11-13T09:30:40.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c5y0vlknq7lo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/309c/live/ca13b720-bfde-11f0-bbea-2df62eb90585.jpg"
-    },
-    {
-      "title": "「他本可以成就非凡」：Netflix新劇集如何喚起對美國悲劇總統加菲爾德的回憶",
-      "description": "19世紀末，詹姆斯·加菲爾德承諾推動進步與改革，但在就職僅四個月後，他遭槍擊身亡。全新劇集《雷殛元首》探討他的生平與政治遺產。",
-      "link": "https://www.bbc.com/zhongwen/articles/cm27prpyee6o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-11-13T00:10:23.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm27prpyee6o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d2ec/live/747074c0-be30-11f0-8669-5560f5c90fbe.jpg"
     }
   ]
 }
