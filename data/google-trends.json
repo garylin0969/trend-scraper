@@ -1,44 +1,34 @@
 {
-  "updated": "2025-11-18T23:08:35.641Z",
+  "updated": "2025-11-18T23:36:37.220Z",
   "trends": [
     {
       "googleTrend": "美股",
-      "searchVolume": "2,000+",
+      "searchVolume": "5,000+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "weather",
+      "searchVolume": "1,000+",
       "started": "1 小時前"
     },
     {
       "googleTrend": "thời tiết",
       "searchVolume": "500+",
-      "started": "30 分鐘前"
-    },
-    {
-      "googleTrend": "weather",
-      "searchVolume": "500+",
-      "started": "40 分鐘前"
-    },
-    {
-      "googleTrend": "台指期夜盤",
-      "searchVolume": "500+",
       "started": "1 小時前"
     },
     {
       "googleTrend": "輝達",
-      "searchVolume": "500+",
-      "started": "1 小時前"
+      "searchVolume": "1,000+",
+      "started": "2 小時前"
     },
     {
       "googleTrend": "台南天氣",
-      "searchVolume": "100+",
-      "started": "30 分鐘前"
-    },
-    {
-      "googleTrend": "台北天氣",
       "searchVolume": "200+",
-      "started": "30 分鐘前"
+      "started": "1 小時前"
     },
     {
-      "googleTrend": "美股即時",
-      "searchVolume": "100+",
+      "googleTrend": "台指期夜盤",
+      "searchVolume": "1,000+",
       "started": "1 小時前"
     },
     {
@@ -47,19 +37,19 @@
       "started": "1 小時前"
     },
     {
-      "googleTrend": "台指期",
-      "searchVolume": "200+",
-      "started": "1 小時前"
-    },
-    {
-      "googleTrend": "那斯達克指數",
+      "googleTrend": "美股即時",
       "searchVolume": "200+",
       "started": "1 小時前"
     },
     {
       "googleTrend": "世界盃資格賽",
-      "searchVolume": "100+",
+      "searchVolume": "200+",
       "started": "1 小時前"
+    },
+    {
+      "googleTrend": "台指期",
+      "searchVolume": "100+",
+      "started": "2 小時前"
     },
     {
       "googleTrend": "費城半導體指數",
@@ -67,14 +57,9 @@
       "started": "1 小時前"
     },
     {
-      "googleTrend": "鉅亨網",
-      "searchVolume": "100+",
-      "started": "40 分鐘前"
-    },
-    {
       "googleTrend": "今彩539開獎號碼",
       "searchVolume": "100+",
-      "started": "40 分鐘前"
+      "started": "1 小時前"
     }
   ]
 }
