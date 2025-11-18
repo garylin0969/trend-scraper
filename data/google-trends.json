@@ -1,20 +1,25 @@
 {
-  "updated": "2025-11-18T22:39:08.756Z",
+  "updated": "2025-11-18T23:08:35.641Z",
   "trends": [
     {
       "googleTrend": "美股",
       "searchVolume": "2,000+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "thời tiết",
+      "searchVolume": "500+",
       "started": "30 分鐘前"
     },
     {
-      "googleTrend": "今天天氣",
+      "googleTrend": "weather",
       "searchVolume": "500+",
-      "started": "10 分鐘前"
+      "started": "40 分鐘前"
     },
     {
       "googleTrend": "台指期夜盤",
       "searchVolume": "500+",
-      "started": "30 分鐘前"
+      "started": "1 小時前"
     },
     {
       "googleTrend": "輝達",
@@ -22,19 +27,29 @@
       "started": "1 小時前"
     },
     {
-      "googleTrend": "氣溫",
-      "searchVolume": "200+",
-      "started": "20 分鐘前"
-    },
-    {
-      "googleTrend": "weather",
-      "searchVolume": "200+",
-      "started": "10 分鐘前"
-    },
-    {
-      "googleTrend": "世界盃資格賽",
+      "googleTrend": "台南天氣",
       "searchVolume": "100+",
-      "started": "40 分鐘前"
+      "started": "30 分鐘前"
+    },
+    {
+      "googleTrend": "台北天氣",
+      "searchVolume": "200+",
+      "started": "30 分鐘前"
+    },
+    {
+      "googleTrend": "美股即時",
+      "searchVolume": "100+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "nvidia stock",
+      "searchVolume": "100+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "台指期",
+      "searchVolume": "200+",
+      "started": "1 小時前"
     },
     {
       "googleTrend": "那斯達克指數",
@@ -42,24 +57,24 @@
       "started": "1 小時前"
     },
     {
-      "googleTrend": "費城半導體指數",
-      "searchVolume": "100+",
-      "started": "50 分鐘前"
-    },
-    {
-      "googleTrend": "美股即時",
-      "searchVolume": "100+",
-      "started": "30 分鐘前"
-    },
-    {
-      "googleTrend": "台指期夜盤指數",
+      "googleTrend": "世界盃資格賽",
       "searchVolume": "100+",
       "started": "1 小時前"
     },
     {
+      "googleTrend": "費城半導體指數",
+      "searchVolume": "100+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "鉅亨網",
+      "searchVolume": "100+",
+      "started": "40 分鐘前"
+    },
+    {
       "googleTrend": "今彩539開獎號碼",
       "searchVolume": "100+",
-      "started": "10 分鐘前"
+      "started": "40 分鐘前"
     }
   ]
 }
