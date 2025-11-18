@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-18T08:48:37.564Z",
+  "updated": "2025-11-18T08:57:31.755Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -82,16 +82,6 @@
       "board": "SportLottery",
       "publishTime": "2025/11/18 00:41",
       "imageUrl": "https://cache.pttweb.cc/imgur/S0Cc8JQ/s/a2122650bc283d321babdb9143fa8422"
-    },
-    {
-      "recommendScore": "228",
-      "recommendCount": "526",
-      "title": "[新聞] 不排斥選台北市長？沈伯洋喊「戰士很難選擇戰場」：黨中央怎麼做、我就怎麼做",
-      "link": "/bbs/Gossiping/M.1763369329.A.3B7",
-      "author": "googolplex",
-      "board": "Gossiping",
-      "publishTime": "2025/11/17 08:48",
-      "imageUrl": ""
     },
     {
       "recommendScore": "321",
@@ -184,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "287",
-      "recommendCount": "545",
+      "recommendScore": "288",
+      "recommendCount": "546",
       "title": "[情報] T1 X(Thank you Smash)",
       "link": "/bbs/LoL/M.1763427084.A.7C0",
       "author": "oDNSoIce",
@@ -201,6 +191,16 @@
       "author": "micheal59",
       "board": "Baseball",
       "publishTime": "2025/11/17 12:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "287",
+      "recommendCount": "391",
+      "title": "[情報] GEN X(Welcome Ryu)",
+      "link": "/bbs/LoL/M.1763445649.A.892",
+      "author": "oDNSoIce",
+      "board": "LoL",
+      "publishTime": "2025/11/18 06:00",
       "imageUrl": ""
     }
   ]
