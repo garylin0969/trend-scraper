@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-19T05:06:35.812Z",
+  "updated": "2025-11-19T05:18:04.373Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "233",
-      "recommendCount": "745",
+      "recommendScore": "245",
+      "recommendCount": "779",
       "title": "[新聞] 小三數學「1897-392」答1500被扣分！老師曝正解　家長吵翻：有瑕疵",
       "link": "/bbs/Gossiping/M.1763490136.A.FD9",
       "author": "yiao",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "199",
-      "recommendCount": "528",
+      "recommendScore": "205",
+      "recommendCount": "540",
       "title": "[新聞] 太子集團洗錢案遭指「美方要求才查緝」",
       "link": "/bbs/Gossiping/M.1763506154.A.4DE",
       "author": "Workforme",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "330",
-      "recommendCount": "363",
+      "recommendScore": "331",
+      "recommendCount": "364",
       "title": "[推投] 你最喜歡哪種伊布",
       "link": "/bbs/C_Chat/M.1763473353.A.8F0",
       "author": "victor87710",
@@ -84,6 +84,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "256",
+      "recommendCount": "738",
+      "title": "[新聞] 狂戳中國痛點？傳高市早苗「將拜靖國神社」　他威脅1下場：掀驚濤駭浪",
+      "link": "/bbs/Gossiping/M.1763512814.A.04F",
+      "author": "luxuryer",
+      "board": "Gossiping",
+      "publishTime": "2025/11/19 00:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "156",
+      "recommendCount": "426",
+      "title": "[問卦]黃明志:贊助全跑了拜託給我工作 什麼都做",
+      "link": "/bbs/Gossiping/M.1763457618.A.08E",
+      "author": "a91153456",
+      "board": "Gossiping",
+      "publishTime": "2025/11/18 09:20",
+      "imageUrl": "https://cache.pttweb.cc/imgur/c7VXQxa/s/a26f15ffef9873d65442cba532c20d0e"
+    },
+    {
       "recommendScore": "164",
       "recommendCount": "403",
       "title": "[新聞] 房市崩落又崩落！全台預售屋單月成交剩2千棟　買氣創57個月新低",
@@ -92,16 +112,6 @@
       "board": "Stock",
       "publishTime": "2025/11/18 07:42",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "156",
-      "recommendCount": "425",
-      "title": "[問卦]黃明志:贊助全跑了拜託給我工作 什麼都做",
-      "link": "/bbs/Gossiping/M.1763457618.A.08E",
-      "author": "a91153456",
-      "board": "Gossiping",
-      "publishTime": "2025/11/18 09:20",
-      "imageUrl": "https://cache.pttweb.cc/imgur/c7VXQxa/s/a26f15ffef9873d65442cba532c20d0e"
     },
     {
       "recommendScore": "437",
@@ -124,13 +134,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "234",
-      "recommendCount": "685",
-      "title": "[新聞] 狂戳中國痛點？傳高市早苗「將拜靖國神社」　他威脅1下場：掀驚濤駭浪",
-      "link": "/bbs/Gossiping/M.1763512814.A.04F",
-      "author": "luxuryer",
+      "recommendScore": "313",
+      "recommendCount": "438",
+      "title": "[閒聊] T1卡車來囉",
+      "link": "/bbs/LoL/M.1763520231.A.02F",
+      "author": "dragontiger",
+      "board": "LoL",
+      "publishTime": "2025/11/19 02:43",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "106",
+      "recommendCount": "568",
+      "title": "[問卦] 會不會台灣其實比中國落後？",
+      "link": "/bbs/Gossiping/M.1763509050.A.612",
+      "author": "peanut0823",
       "board": "Gossiping",
-      "publishTime": "2025/11/19 00:40",
+      "publishTime": "2025/11/18 23:37",
       "imageUrl": ""
     },
     {
@@ -164,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "99",
-      "recommendCount": "543",
-      "title": "[問卦] 會不會台灣其實比中國落後？",
-      "link": "/bbs/Gossiping/M.1763509050.A.612",
-      "author": "peanut0823",
-      "board": "Gossiping",
-      "publishTime": "2025/11/18 23:37",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "101",
       "recommendCount": "391",
       "title": "[新聞] 黃國昌列貪汙被告 北檢分案偵辦中",
@@ -191,16 +201,6 @@
       "author": "wang7752",
       "board": "LoL",
       "publishTime": "2025/11/18 11:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "285",
-      "recommendCount": "407",
-      "title": "[閒聊] T1卡車來囉",
-      "link": "/bbs/LoL/M.1763520231.A.02F",
-      "author": "dragontiger",
-      "board": "LoL",
-      "publishTime": "2025/11/19 02:43",
       "imageUrl": ""
     }
   ]
