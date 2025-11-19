@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-19T13:42:16.139Z",
+  "updated": "2025-11-19T13:54:40.778Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "337",
-      "recommendCount": "370",
-      "title": "[推投] 你最喜歡哪種伊布",
-      "link": "/bbs/C_Chat/M.1763473353.A.8F0",
-      "author": "victor87710",
-      "board": "C_Chat",
-      "publishTime": "2025/11/18 13:42",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "336",
       "recommendCount": "643",
       "title": "[閒聊] HLE esports 直播",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/11/19 00:48",
       "imageUrl": "https://cache.pttweb.cc/imgur/KWhyyYq/s/5790b2a40901591cf1d7f3fdbd12167d"
+    },
+    {
+      "recommendScore": "185",
+      "recommendCount": "357",
+      "title": "[情報] CFO FB Thank you HongQ",
+      "link": "/bbs/LoL/M.1763535750.A.29C",
+      "author": "Doica2445",
+      "board": "LoL",
+      "publishTime": "2025/11/19 07:02",
+      "imageUrl": "https://cache.pttweb.cc/imgur/KtfIqe3/s/938cf4eb0b73577b92bac9f15de65e6a"
     }
   ]
 }
