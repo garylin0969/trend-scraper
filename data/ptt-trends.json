@@ -1,11 +1,11 @@
 {
-  "updated": "2025-11-19T12:24:01.637Z",
+  "updated": "2025-11-19T12:47:09.880Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "374",
-      "recommendCount": "963",
+      "recommendScore": "387",
+      "recommendCount": "988",
       "title": "[新聞] 調查局長認：太子集團過去幾年只能監控",
       "link": "/bbs/Gossiping/M.1763531178.A.631",
       "author": "gn07199",
@@ -24,6 +24,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/gUQg1yi/s/1ba2e7dcb66e0dec654f2e96dbf5a06c"
     },
     {
+      "recommendScore": "327",
+      "recommendCount": "966",
+      "title": "[外絮] T1 Peyz 新加入 (簽約到2028年)",
+      "link": "/bbs/LoL/M.1763550156.A.922",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/11/19 11:02",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "249",
       "recommendCount": "814",
       "title": "[新聞] 小三數學「1897-392」答1500被扣分！老師曝正解　家長吵翻：有瑕疵",
@@ -31,16 +41,6 @@
       "author": "yiao",
       "board": "Gossiping",
       "publishTime": "2025/11/18 18:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "301",
-      "recommendCount": "902",
-      "title": "[外絮] T1 Peyz 新加入 (簽約到2028年)",
-      "link": "/bbs/LoL/M.1763550156.A.922",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2025/11/19 11:02",
       "imageUrl": ""
     },
     {
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "303",
-      "recommendCount": "694",
+      "recommendScore": "304",
+      "recommendCount": "697",
       "title": "[閒聊] 睡午覺夢到CFO幾個小八卦",
       "link": "/bbs/LoL/M.1763534702.A.B69",
       "author": "nickex951",
@@ -64,8 +64,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/SI8sTiw/s/a22ad09a6064c7b724ccefe1269e67e7"
     },
     {
-      "recommendScore": "336",
-      "recommendCount": "476",
+      "recommendScore": "338",
+      "recommendCount": "478",
       "title": "[閒聊] 大將限時動態",
       "link": "/bbs/LoL/M.1763537604.A.2BF",
       "author": "fr75520",
@@ -75,13 +75,23 @@
     },
     {
       "recommendScore": "271",
-      "recommendCount": "778",
+      "recommendCount": "779",
       "title": "[新聞] 狂戳中國痛點？傳高市早苗「將拜靖國神社」　他威脅1下場：掀驚濤駭浪",
       "link": "/bbs/Gossiping/M.1763512814.A.04F",
       "author": "luxuryer",
       "board": "Gossiping",
       "publishTime": "2025/11/19 00:40",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "335",
+      "recommendCount": "370",
+      "title": "[發錢] 來猜活塞可以幾連勝",
+      "link": "/bbs/NBA/M.1763532672.A.305",
+      "author": "steven183",
+      "board": "NBA",
+      "publishTime": "2025/11/19 06:11",
+      "imageUrl": "https://cache.pttweb.cc/imgur/7nAVRQK/s/1aaf59f23dc894148b856d65744fad1f"
     },
     {
       "recommendScore": "337",
@@ -91,6 +101,16 @@
       "author": "victor87710",
       "board": "C_Chat",
       "publishTime": "2025/11/18 13:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "198",
+      "recommendCount": "462",
+      "title": "[新聞] 一家五口擠「錦新大樓」天道盟砍身障者逼簽60萬本票",
+      "link": "/bbs/Gossiping/M.1763524298.A.F5F",
+      "author": "s1777001",
+      "board": "Gossiping",
+      "publishTime": "2025/11/19 03:51",
       "imageUrl": ""
     },
     {
@@ -104,28 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "196",
-      "recommendCount": "458",
-      "title": "[新聞] 一家五口擠「錦新大樓」天道盟砍身障者逼簽60萬本票",
-      "link": "/bbs/Gossiping/M.1763524298.A.F5F",
-      "author": "s1777001",
-      "board": "Gossiping",
-      "publishTime": "2025/11/19 03:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "326",
-      "recommendCount": "361",
-      "title": "[發錢] 來猜活塞可以幾連勝",
-      "link": "/bbs/NBA/M.1763532672.A.305",
-      "author": "steven183",
-      "board": "NBA",
-      "publishTime": "2025/11/19 06:11",
-      "imageUrl": "https://cache.pttweb.cc/imgur/7nAVRQK/s/1aaf59f23dc894148b856d65744fad1f"
-    },
-    {
-      "recommendScore": "348",
-      "recommendCount": "484",
+      "recommendScore": "349",
+      "recommendCount": "485",
       "title": "[閒聊] T1卡車來囉",
       "link": "/bbs/LoL/M.1763520231.A.02F",
       "author": "dragontiger",
@@ -144,8 +144,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/IvFxFQv/s/497df22c04eed7de4028de7254a837b5"
     },
     {
-      "recommendScore": "122",
-      "recommendCount": "603",
+      "recommendScore": "123",
+      "recommendCount": "605",
       "title": "[問卦] 會不會台灣其實比中國落後？",
       "link": "/bbs/Gossiping/M.1763509050.A.612",
       "author": "peanut0823",
@@ -155,7 +155,7 @@
     },
     {
       "recommendScore": "141",
-      "recommendCount": "443",
+      "recommendCount": "444",
       "title": "[新聞] 調查局：早就掌握太子集團來台洗錢 黃國昌批：只會配合綠媒大內宣",
       "link": "/bbs/Gossiping/M.1763524782.A.618",
       "author": "Gina4290",
@@ -174,8 +174,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "373",
-      "recommendCount": "766",
+      "recommendScore": "198",
+      "recommendCount": "433",
+      "title": "[新聞] 台積電AZ廠獲利暴跌99％！外媒揭「美國製造」舉步維艱",
+      "link": "/bbs/Gossiping/M.1763537547.A.C62",
+      "author": "CTC0115",
+      "board": "Gossiping",
+      "publishTime": "2025/11/19 07:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "374",
+      "recommendCount": "768",
       "title": "[閒聊] 喬老師:如果他遵照這些規則的話...",
       "link": "/bbs/C_Chat/M.1763522756.A.76C",
       "author": "Teng0615",
@@ -191,16 +201,6 @@
       "author": "kqP5641",
       "board": "LoL",
       "publishTime": "2025/11/18 12:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "190",
-      "recommendCount": "418",
-      "title": "[新聞] 台積電AZ廠獲利暴跌99％！外媒揭「美國製造」舉步維艱",
-      "link": "/bbs/Gossiping/M.1763537547.A.C62",
-      "author": "CTC0115",
-      "board": "Gossiping",
-      "publishTime": "2025/11/19 07:32",
       "imageUrl": ""
     }
   ]
