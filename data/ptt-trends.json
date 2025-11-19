@@ -1,11 +1,11 @@
 {
-  "updated": "2025-11-19T13:22:49.749Z",
+  "updated": "2025-11-19T13:42:16.139Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "393",
-      "recommendCount": "1004",
+      "recommendCount": "1008",
       "title": "[新聞] 調查局長認：太子集團過去幾年只能監控",
       "link": "/bbs/Gossiping/M.1763531178.A.631",
       "author": "gn07199",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "211",
-      "recommendCount": "561",
+      "recommendScore": "212",
+      "recommendCount": "563",
       "title": "[新聞] 太子集團洗錢案遭指「美方要求才查緝」",
       "link": "/bbs/Gossiping/M.1763506154.A.4DE",
       "author": "Workforme",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "304",
-      "recommendCount": "697",
+      "recommendScore": "306",
+      "recommendCount": "700",
       "title": "[閒聊] 睡午覺夢到CFO幾個小八卦",
       "link": "/bbs/LoL/M.1763534702.A.B69",
       "author": "nickex951",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "341",
-      "recommendCount": "481",
+      "recommendCount": "482",
       "title": "[閒聊] 大將限時動態",
       "link": "/bbs/LoL/M.1763537604.A.2BF",
       "author": "fr75520",
@@ -74,8 +74,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/Y3DtmY0/s/9adc35818a411036171746b8cdc93d65"
     },
     {
-      "recommendScore": "344",
-      "recommendCount": "379",
+      "recommendScore": "345",
+      "recommendCount": "381",
       "title": "[發錢] 來猜活塞可以幾連勝",
       "link": "/bbs/NBA/M.1763532672.A.305",
       "author": "steven183",
@@ -134,24 +134,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "246",
-      "recommendCount": "455",
-      "title": "[問卦] 脆：全聯藍莓 特價比原價貴",
-      "link": "/bbs/Gossiping/M.1763521079.A.3B4",
-      "author": "cosmite",
-      "board": "Gossiping",
-      "publishTime": "2025/11/19 02:57",
-      "imageUrl": "https://cache.pttweb.cc/imgur/IvFxFQv/s/497df22c04eed7de4028de7254a837b5"
-    },
-    {
-      "recommendScore": "145",
-      "recommendCount": "451",
+      "recommendScore": "144",
+      "recommendCount": "453",
       "title": "[新聞] 調查局：早就掌握太子集團來台洗錢 黃國昌批：只會配合綠媒大內宣",
       "link": "/bbs/Gossiping/M.1763524782.A.618",
       "author": "Gina4290",
       "board": "Gossiping",
       "publishTime": "2025/11/19 03:59",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "246",
+      "recommendCount": "457",
+      "title": "[問卦] 脆：全聯藍莓 特價比原價貴",
+      "link": "/bbs/Gossiping/M.1763521079.A.3B4",
+      "author": "cosmite",
+      "board": "Gossiping",
+      "publishTime": "2025/11/19 02:57",
+      "imageUrl": "https://cache.pttweb.cc/imgur/IvFxFQv/s/497df22c04eed7de4028de7254a837b5"
     },
     {
       "recommendScore": "124",
@@ -164,18 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "437",
-      "recommendCount": "664",
-      "title": "[實況] 亞冠 中華台北 @ 土庫曼 (單場)",
-      "link": "/bbs/SportLottery/M.1763473032.A.78A",
-      "author": "lotterywin",
-      "board": "SportLottery",
-      "publishTime": "2025/11/18 13:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "208",
-      "recommendCount": "453",
+      "recommendScore": "210",
+      "recommendCount": "456",
       "title": "[新聞] 台積電AZ廠獲利暴跌99％！外媒揭「美國製造」舉步維艱",
       "link": "/bbs/Gossiping/M.1763537547.A.C62",
       "author": "CTC0115",
@@ -194,14 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "238",
-      "recommendCount": "420",
+      "recommendScore": "239",
+      "recommendCount": "424",
       "title": "[BOX ] Jazz 125:140 Lakers",
       "link": "/bbs/NBA/M.1763532327.A.C27",
       "author": "jack34031",
       "board": "NBA",
       "publishTime": "2025/11/19 06:05",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "169",
+      "recommendCount": "428",
+      "title": "[問卦] 慟！台灣能源政策 全球評比竟是倒數第9",
+      "link": "/bbs/Gossiping/M.1763513308.A.706",
+      "author": "westdoorcard",
+      "board": "Gossiping",
+      "publishTime": "2025/11/19 00:48",
+      "imageUrl": "https://cache.pttweb.cc/imgur/KWhyyYq/s/5790b2a40901591cf1d7f3fdbd12167d"
     }
   ]
 }
