@@ -1,7 +1,7 @@
 {
-  "updated": "2025-11-20T04:32:27.098Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-11-20T04:46:13.760Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "402",
@@ -134,13 +134,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "269",
-      "recommendCount": "407",
+      "recommendScore": "271",
+      "recommendCount": "409",
       "title": "[閒聊] 到目前為止  轉會期誰的操作最靠北",
       "link": "/bbs/LoL/M.1763559545.A.060",
       "author": "denny811012",
       "board": "LoL",
       "publishTime": "2025/11/19 13:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "226",
+      "recommendCount": "385",
+      "title": "[新聞] 台灣被看扁！　WBC奪冠賠率「倒數第5」",
+      "link": "/bbs/Baseball/M.1763598934.A.F32",
+      "author": "lamigo",
+      "board": "Baseball",
+      "publishTime": "2025/11/20 00:35",
       "imageUrl": ""
     },
     {
@@ -184,14 +194,14 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/KtfIqe3/s/938cf4eb0b73577b92bac9f15de65e6a"
     },
     {
-      "recommendScore": "212",
-      "recommendCount": "354",
-      "title": "[新聞] 台灣被看扁！　WBC奪冠賠率「倒數第5」",
-      "link": "/bbs/Baseball/M.1763598934.A.F32",
-      "author": "lamigo",
-      "board": "Baseball",
-      "publishTime": "2025/11/20 00:35",
-      "imageUrl": ""
+      "recommendScore": "193",
+      "recommendCount": "277",
+      "title": "[閒聊] 乳摸:Canyon昨天下午來HLE飯都吃完才走",
+      "link": "/bbs/LoL/M.1763550185.A.303",
+      "author": "a125g",
+      "board": "LoL",
+      "publishTime": "2025/11/19 11:03",
+      "imageUrl": "https://cache.pttweb.cc/imgur/i5YdO8b/s/9818f8a6e1906e34ddd861ef79767537"
     }
   ]
 }
