@@ -1,19 +1,34 @@
 {
-  "updated": "2025-11-20T23:08:59.690Z",
+  "updated": "2025-11-20T23:37:19.663Z",
   "trends": [
     {
       "googleTrend": "台指期夜盤",
+      "searchVolume": "2,000+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "美國股市",
       "searchVolume": "1,000+",
       "started": "1 小時前"
     },
     {
-      "googleTrend": "weather",
+      "googleTrend": "台指期",
       "searchVolume": "200+",
-      "started": "30 分鐘前"
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "sports",
+      "searchVolume": "200+",
+      "started": "2 小時前"
     },
     {
       "googleTrend": "vix指數",
-      "searchVolume": "100+",
+      "searchVolume": "200+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "威力彩",
+      "searchVolume": "200+",
       "started": "1 小時前"
     },
     {
@@ -22,29 +37,14 @@
       "started": "3 小時前"
     },
     {
-      "googleTrend": "台指期",
-      "searchVolume": "200+",
+      "googleTrend": "那斯達克指數",
+      "searchVolume": "100+",
       "started": "1 小時前"
     },
     {
-      "googleTrend": "tsm",
-      "searchVolume": "200+",
-      "started": "50 分鐘前"
-    },
-    {
-      "googleTrend": "sports",
+      "googleTrend": "融資餘額",
       "searchVolume": "100+",
-      "started": "2 小時前"
-    },
-    {
-      "googleTrend": "那斯達克指數",
-      "searchVolume": "100+",
-      "started": "30 分鐘前"
-    },
-    {
-      "googleTrend": "tsm stock",
-      "searchVolume": "100+",
-      "started": "50 分鐘前"
+      "started": "20 分鐘前"
     },
     {
       "googleTrend": "地震速報",
@@ -52,19 +52,34 @@
       "started": "3 小時前"
     },
     {
+      "googleTrend": "tsm stock",
+      "searchVolume": "200+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "tsm",
+      "searchVolume": "200+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "美元指數",
+      "searchVolume": "100+",
+      "started": "1 小時前"
+    },
+    {
       "googleTrend": "國際金融",
+      "searchVolume": "100+",
+      "started": "3 小時前"
+    },
+    {
+      "googleTrend": "qqq",
       "searchVolume": "100+",
       "started": "3 小時前"
     },
     {
       "googleTrend": "費城半導體指數",
       "searchVolume": "100+",
-      "started": "50 分鐘前"
-    },
-    {
-      "googleTrend": "qqq",
-      "searchVolume": "100+",
-      "started": "2 小時前"
+      "started": "1 小時前"
     }
   ]
 }
