@@ -1,15 +1,25 @@
 {
-  "updated": "2025-11-20T22:08:51.894Z",
+  "updated": "2025-11-20T22:37:47.062Z",
   "trends": [
     {
       "googleTrend": "美股",
-      "searchVolume": "2,000+",
-      "started": "30 分鐘前"
+      "searchVolume": "5,000+",
+      "started": "1 小時前"
     },
     {
-      "googleTrend": "美股大跌",
+      "googleTrend": "台指期夜盤",
       "searchVolume": "500+",
-      "started": "1 小時前"
+      "started": "40 分鐘前"
+    },
+    {
+      "googleTrend": "美國股市",
+      "searchVolume": "500+",
+      "started": "40 分鐘前"
+    },
+    {
+      "googleTrend": "今天天氣",
+      "searchVolume": "200+",
+      "started": "20 分鐘前"
     },
     {
       "googleTrend": "地震",
@@ -17,14 +27,34 @@
       "started": "2 小時前"
     },
     {
-      "googleTrend": "美國股市",
+      "googleTrend": "sports",
+      "searchVolume": "100+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "vix指數",
+      "searchVolume": "100+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "tsm",
       "searchVolume": "200+",
-      "started": "10 分鐘前"
+      "started": "20 分鐘前"
+    },
+    {
+      "googleTrend": "威力彩",
+      "searchVolume": "200+",
+      "started": "30 分鐘前"
+    },
+    {
+      "googleTrend": "費城半導體指數",
+      "searchVolume": "100+",
+      "started": "20 分鐘前"
     },
     {
       "googleTrend": "美股即時新聞",
       "searchVolume": "100+",
-      "started": "2 小時前"
+      "started": "3 小時前"
     },
     {
       "googleTrend": "地震速報",
@@ -32,9 +62,14 @@
       "started": "2 小時前"
     },
     {
-      "googleTrend": "比特幣走勢",
-      "searchVolume": "200+",
-      "started": "3 小時前"
+      "googleTrend": "qqq",
+      "searchVolume": "100+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "台指期",
+      "searchVolume": "100+",
+      "started": "40 分鐘前"
     }
   ]
 }
