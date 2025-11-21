@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-21T14:17:50.739Z",
+  "updated": "2025-11-21T14:30:51.364Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "265",
-      "recommendCount": "711",
+      "recommendScore": "267",
+      "recommendCount": "715",
       "title": "[新聞] 揭中國CPB目的「明顯鎖定台灣」 蔡其昌示警：以後棒球也不能拿國旗加油",
       "link": "/bbs/Baseball/M.1763717721.A.473",
       "author": "iam168888888",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "223",
-      "recommendCount": "543",
+      "recommendScore": "233",
+      "recommendCount": "563",
       "title": "[問卦] 中國：不用聯合國同意 我就可直接打日本",
       "link": "/bbs/Gossiping/M.1763726692.A.3B8",
       "author": "beaver",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "218",
-      "recommendCount": "454",
+      "recommendScore": "219",
+      "recommendCount": "458",
       "title": "[問卦] 誰說大腸鏡不用麻醉的！！！！",
       "link": "/bbs/Gossiping/M.1763709871.A.4B0",
       "author": "Amed21",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "73",
-      "recommendCount": "393",
+      "recommendScore": "74",
+      "recommendCount": "394",
       "title": "[新聞] 影射馬郁雯「1500 1H2S」陪睡　造謠+低價「雙重詆毀」判4月",
       "link": "/bbs/Gossiping/M.1763701663.A.6D0",
       "author": "st210113",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "112",
+      "recommendCount": "425",
+      "title": "[新聞] 台美達成共識！　金融時報：台灣估投資4000億美元換關稅優惠",
+      "link": "/bbs/Stock/M.1763722413.A.A32",
+      "author": "qazxc1156892",
+      "board": "Stock",
+      "publishTime": "2025/11/21 10:53",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "263",
       "recommendCount": "303",
       "title": "[發錢] 謝謝黃子鵬來台鋼！澄清虎王降臨！",
@@ -191,16 +201,6 @@
       "author": "chainstay120",
       "board": "Baseball",
       "publishTime": "2025/11/21 03:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "110",
-      "recommendCount": "418",
-      "title": "[新聞] 台美達成共識！　金融時報：台灣估投資4000億美元換關稅優惠",
-      "link": "/bbs/Stock/M.1763722413.A.A32",
-      "author": "qazxc1156892",
-      "board": "Stock",
-      "publishTime": "2025/11/21 10:53",
       "imageUrl": ""
     }
   ]
