@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-21T07:45:42.478Z",
+  "updated": "2025-11-21T07:53:49.996Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "353",
+      "recommendCount": "679",
+      "title": "[心得] 山椒魚盤勢觀察",
+      "link": "/bbs/Stock/M.1763690982.A.203",
+      "author": "homoho",
+      "board": "Stock",
+      "publishTime": "2025/11/21 02:09",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "177",
       "recommendCount": "968",
       "title": "[心得] 竹北高鐵通勤與育兒的絕望感",
@@ -54,18 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "346",
-      "recommendCount": "665",
-      "title": "[心得] 山椒魚盤勢觀察",
-      "link": "/bbs/Stock/M.1763690982.A.203",
-      "author": "homoho",
-      "board": "Stock",
-      "publishTime": "2025/11/21 02:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "295",
-      "recommendCount": "606",
+      "recommendScore": "306",
+      "recommendCount": "635",
       "title": "[問卦] 12年來出生數腰斬 台灣做錯了什麼",
       "link": "/bbs/Gossiping/M.1763690533.A.F94",
       "author": "westdoorcard",
@@ -124,6 +124,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "180",
+      "recommendCount": "386",
+      "title": "[請益] 這波到底在跌什麼？",
+      "link": "/bbs/Stock/M.1763701696.A.23C",
+      "author": "HonLin",
+      "board": "Stock",
+      "publishTime": "2025/11/21 05:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "249",
+      "recommendCount": "288",
+      "title": "[發錢] 謝謝黃子鵬來台鋼！澄清虎王降臨！",
+      "link": "/bbs/Baseball/M.1763697026.A.62B",
+      "author": "chainstay120",
+      "board": "Baseball",
+      "publishTime": "2025/11/21 03:50",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "195",
       "recommendCount": "380",
       "title": "[問卦] 館長「TRUE飯」起死回生了！！",
@@ -132,16 +152,6 @@
       "board": "Gossiping",
       "publishTime": "2025/11/20 09:36",
       "imageUrl": "https://cache.pttweb.cc/imgur/rF40dwz/s/05f0ded90037eb10662751075c0ce2a1"
-    },
-    {
-      "recommendScore": "233",
-      "recommendCount": "271",
-      "title": "[發錢] 謝謝黃子鵬來台鋼！澄清虎王降臨！",
-      "link": "/bbs/Baseball/M.1763697026.A.62B",
-      "author": "chainstay120",
-      "board": "Baseball",
-      "publishTime": "2025/11/21 03:50",
-      "imageUrl": ""
     },
     {
       "recommendScore": "181",
@@ -184,23 +194,13 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/72OBguR/s/8e1c305cdc07b6421ab36450fa4b8a87"
     },
     {
-      "recommendScore": "129",
-      "recommendCount": "419",
+      "recommendScore": "131",
+      "recommendCount": "424",
       "title": "[新聞]馬斯克炸裂預言！未來工作可有可無、金錢無所謂　AI＋機器人搞定",
       "link": "/bbs/Gossiping/M.1763650346.A.47C",
       "author": "pl132",
       "board": "Gossiping",
       "publishTime": "2025/11/20 14:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-120",
-      "recommendCount": "277",
-      "title": "[新聞] 藍白逼全民慘賠2萬！ 國會幕僚：惡修財劃法釀財政災難",
-      "link": "/bbs/Gossiping/M.1763681577.A.67A",
-      "author": "zzyyxx77",
-      "board": "Gossiping",
-      "publishTime": "2025/11/20 23:32",
       "imageUrl": ""
     }
   ]
