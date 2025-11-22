@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-22T17:17:06.018Z",
+  "updated": "2025-11-22T17:27:31.307Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "235",
-      "recommendCount": "283",
-      "title": "[情報] 林安可與西武獅完成簽約",
-      "link": "/bbs/Baseball/M.1763745467.A.687",
-      "author": "paul012011",
-      "board": "Baseball",
-      "publishTime": "2025/11/21 17:17",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "139",
       "recommendCount": "1034",
       "title": "[黑特] 現在統派跟草聯合戰線了嗎?",
@@ -164,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "141",
+      "recommendCount": "279",
+      "title": "[新聞] 「一刀未剪」被抓包刪掉賴清德「台灣人有錢有閒」！三立：誤解",
+      "link": "/bbs/Gossiping/M.1763810942.A.0BB",
+      "author": "deathdecay",
+      "board": "Gossiping",
+      "publishTime": "2025/11/22 11:29",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "88",
       "recommendCount": "434",
       "title": "[問卦] 沒人發現台北這兩年越來越進步嗎？",
@@ -174,13 +174,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "141",
-      "recommendCount": "275",
-      "title": "[新聞] 「一刀未剪」被抓包刪掉賴清德「台灣人有錢有閒」！三立：誤解",
-      "link": "/bbs/Gossiping/M.1763810942.A.0BB",
-      "author": "deathdecay",
+      "recommendScore": "120",
+      "recommendCount": "343",
+      "title": "[問卦] 台大醫學和台幣一億，你選哪一個？",
+      "link": "/bbs/Gossiping/M.1763820772.A.E94",
+      "author": "new1974",
       "board": "Gossiping",
-      "publishTime": "2025/11/22 11:29",
+      "publishTime": "2025/11/22 14:12",
       "imageUrl": ""
     },
     {
@@ -194,14 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "116",
-      "recommendCount": "333",
-      "title": "[問卦] 台大醫學和台幣一億，你選哪一個？",
-      "link": "/bbs/Gossiping/M.1763820772.A.E94",
-      "author": "new1974",
-      "board": "Gossiping",
-      "publishTime": "2025/11/22 14:12",
-      "imageUrl": ""
+      "recommendScore": "242",
+      "recommendCount": "494",
+      "title": "[閒聊] 戀戀紅茶：iG在跟Doggo談",
+      "link": "/bbs/LoL/M.1763805590.A.C06",
+      "author": "anjuchika",
+      "board": "LoL",
+      "publishTime": "2025/11/22 09:59",
+      "imageUrl": "https://cache.pttweb.cc/imgur/juwf1Lb/s/9fc3fed7b865722ef9c997848e92b921"
     }
   ]
 }
