@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-22T23:37:00.105Z",
+  "updated": "2025-11-22T23:44:02.679Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "170",
+      "recommendCount": "511",
+      "title": "[問卦] 台大醫學和台幣一億，你選哪一個？",
+      "link": "/bbs/Gossiping/M.1763820772.A.E94",
+      "author": "new1974",
+      "board": "Gossiping",
+      "publishTime": "2025/11/22 14:12",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "297",
       "recommendCount": "699",
       "title": "[閒聊] 台鐵警語廣告遭批凌亂 網友反力挺台鐵",
@@ -71,16 +81,6 @@
       "author": "shutout5566",
       "board": "Gossiping",
       "publishTime": "2025/11/22 07:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "167",
-      "recommendCount": "492",
-      "title": "[問卦] 台大醫學和台幣一億，你選哪一個？",
-      "link": "/bbs/Gossiping/M.1763820772.A.E94",
-      "author": "new1974",
-      "board": "Gossiping",
-      "publishTime": "2025/11/22 14:12",
       "imageUrl": ""
     },
     {
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "310",
-      "recommendCount": "541",
+      "recommendScore": "311",
+      "recommendCount": "543",
       "title": "[金馬] 最佳女主角",
       "link": "/bbs/Golden-Award/M.1763821661.A.840",
       "author": "lgng66133",
@@ -194,8 +194,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/yyd8eed/s/ba3de20e49e9d44bc8b31508f6167bb9"
     },
     {
-      "recommendScore": "155",
-      "recommendCount": "274",
+      "recommendScore": "156",
+      "recommendCount": "275",
       "title": "[標的] 下禮拜的台股是開盤直接停損了嗎？",
       "link": "/bbs/Stock/M.1763818411.A.C50",
       "author": "k99t",
