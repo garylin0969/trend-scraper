@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-22T16:32:32.919Z",
+  "updated": "2025-11-22T16:46:03.808Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "162",
-      "recommendCount": "1067",
+      "recommendCount": "1068",
       "title": "[問卦] 烏克蘭一開始投降比較划算吧？",
       "link": "/bbs/Gossiping/M.1763780914.A.CFC",
       "author": "astrayzip",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "132",
-      "recommendCount": "738",
+      "recommendScore": "131",
+      "recommendCount": "746",
       "title": "[問卦] 去日本的灣灣也太窮了吧笑死",
       "link": "/bbs/Gossiping/M.1763816125.A.F8B",
       "author": "gogobar",
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "139",
+      "recommendCount": "1034",
+      "title": "[黑特] 現在統派跟草聯合戰線了嗎?",
+      "link": "/bbs/HatePolitics/M.1763799341.A.D2F",
+      "author": "lead0722",
+      "board": "HatePolitics",
+      "publishTime": "2025/11/22 08:15",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "68",
       "recommendCount": "318",
       "title": "[新聞] 粿粿同母異父哥哥是富二代！不爽范姜彥豐吃軟飯　拿錢挺妹告酸民",
@@ -131,16 +141,6 @@
       "author": "betweenus020",
       "board": "Gossiping",
       "publishTime": "2025/11/22 00:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "138",
-      "recommendCount": "1032",
-      "title": "[黑特] 現在統派跟草聯合戰線了嗎?",
-      "link": "/bbs/HatePolitics/M.1763799341.A.D2F",
-      "author": "lead0722",
-      "board": "HatePolitics",
-      "publishTime": "2025/11/22 08:15",
       "imageUrl": ""
     },
     {
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "292",
-      "recommendCount": "503",
+      "recommendScore": "293",
+      "recommendCount": "504",
       "title": "[金馬] 最佳女主角",
       "link": "/bbs/Golden-Award/M.1763821661.A.840",
       "author": "lgng66133",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "86",
-      "recommendCount": "429",
+      "recommendScore": "88",
+      "recommendCount": "434",
       "title": "[問卦] 沒人發現台北這兩年越來越進步嗎？",
       "link": "/bbs/Gossiping/M.1763788986.A.3EC",
       "author": "robertgarcia",
@@ -184,24 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "243",
-      "recommendCount": "491",
-      "title": "[閒聊] 戀戀紅茶：iG在跟Doggo談",
-      "link": "/bbs/LoL/M.1763805590.A.C06",
-      "author": "anjuchika",
-      "board": "LoL",
-      "publishTime": "2025/11/22 09:59",
-      "imageUrl": "https://cache.pttweb.cc/imgur/juwf1Lb/s/9fc3fed7b865722ef9c997848e92b921"
-    },
-    {
-      "recommendScore": "135",
-      "recommendCount": "265",
+      "recommendScore": "134",
+      "recommendCount": "268",
       "title": "[新聞] 「一刀未剪」被抓包刪掉賴清德「台灣人有錢有閒」！三立：誤解",
       "link": "/bbs/Gossiping/M.1763810942.A.0BB",
       "author": "deathdecay",
       "board": "Gossiping",
       "publishTime": "2025/11/22 11:29",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "242",
+      "recommendCount": "494",
+      "title": "[閒聊] 戀戀紅茶：iG在跟Doggo談",
+      "link": "/bbs/LoL/M.1763805590.A.C06",
+      "author": "anjuchika",
+      "board": "LoL",
+      "publishTime": "2025/11/22 09:59",
+      "imageUrl": "https://cache.pttweb.cc/imgur/juwf1Lb/s/9fc3fed7b865722ef9c997848e92b921"
     }
   ]
 }
