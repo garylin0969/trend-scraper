@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-22T15:05:08.643Z",
+  "updated": "2025-11-22T15:17:52.199Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "181",
-      "recommendCount": "388",
+      "recommendScore": "182",
+      "recommendCount": "389",
       "title": "[新聞] 林岱樺闖邱議瑩地盤辦造勢 檢方警告 ：發言後果自負",
       "link": "/bbs/Gossiping/M.1763797039.A.DCB",
       "author": "shutout5566",
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "332",
-      "recommendCount": "677",
+      "recommendCount": "678",
       "title": "[閒聊] 日本鄉民：觀光客減少後買模型這麼簡單呀",
       "link": "/bbs/C_Chat/M.1763779535.A.D86",
       "author": "LABOYS",
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "117",
+      "recommendCount": "585",
+      "title": "[問卦] 去日本的灣灣也太窮了吧笑死",
+      "link": "/bbs/Gossiping/M.1763816125.A.F8B",
+      "author": "gogobar",
+      "board": "Gossiping",
+      "publishTime": "2025/11/22 12:55",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "70",
       "recommendCount": "316",
       "title": "[新聞] 粿粿同母異父哥哥是富二代！不爽范姜彥豐吃軟飯　拿錢挺妹告酸民",
@@ -124,23 +134,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "136",
-      "recommendCount": "1027",
+      "recommendScore": "137",
+      "recommendCount": "1028",
       "title": "[黑特] 現在統派跟草聯合戰線了嗎?",
       "link": "/bbs/HatePolitics/M.1763799341.A.D2F",
       "author": "lead0722",
       "board": "HatePolitics",
       "publishTime": "2025/11/22 08:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "108",
-      "recommendCount": "541",
-      "title": "[問卦] 去日本的灣灣也太窮了吧笑死",
-      "link": "/bbs/Gossiping/M.1763816125.A.F8B",
-      "author": "gogobar",
-      "board": "Gossiping",
-      "publishTime": "2025/11/22 12:55",
       "imageUrl": ""
     },
     {
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "81",
-      "recommendCount": "421",
+      "recommendScore": "82",
+      "recommendCount": "422",
       "title": "[問卦] 沒人發現台北這兩年越來越進步嗎？",
       "link": "/bbs/Gossiping/M.1763788986.A.3EC",
       "author": "robertgarcia",
@@ -174,8 +174,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "246",
+      "recommendScore": "275",
       "recommendCount": "475",
+      "title": "[金馬] 最佳女主角",
+      "link": "/bbs/Golden-Award/M.1763821661.A.840",
+      "author": "lgng66133",
+      "board": "Golden-Award",
+      "publishTime": "2025/11/22 14:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "246",
+      "recommendCount": "477",
       "title": "[閒聊] 戀戀紅茶：iG在跟Doggo談",
       "link": "/bbs/LoL/M.1763805590.A.C06",
       "author": "anjuchika",
@@ -192,16 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2025/11/22 03:12",
       "imageUrl": "https://cache.pttweb.cc/imgur/yyd8eed/s/ba3de20e49e9d44bc8b31508f6167bb9"
-    },
-    {
-      "recommendScore": "158",
-      "recommendCount": "296",
-      "title": "[新聞]麻吉大哥崩盤 黃立成加密幣帳戶遭完全清算",
-      "link": "/bbs/Stock/M.1763746695.A.8FD",
-      "author": "Roger5566",
-      "board": "Stock",
-      "publishTime": "2025/11/21 17:38",
-      "imageUrl": ""
     }
   ]
 }
