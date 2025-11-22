@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-22T16:46:03.808Z",
+  "updated": "2025-11-22T16:53:43.082Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "129",
+      "recommendCount": "758",
+      "title": "[問卦] 去日本的灣灣也太窮了吧笑死",
+      "link": "/bbs/Gossiping/M.1763816125.A.F8B",
+      "author": "gogobar",
+      "board": "Gossiping",
+      "publishTime": "2025/11/22 12:55",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "263",
       "recommendCount": "444",
       "title": "[新聞] 台南廢棄物山大火「燒到天亮」！驚人畫面曝　恐延燒一周",
@@ -41,16 +51,6 @@
       "author": "kmter5566",
       "board": "Gossiping",
       "publishTime": "2025/11/22 06:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "131",
-      "recommendCount": "746",
-      "title": "[問卦] 去日本的灣灣也太窮了吧笑死",
-      "link": "/bbs/Gossiping/M.1763816125.A.F8B",
-      "author": "gogobar",
-      "board": "Gossiping",
-      "publishTime": "2025/11/22 12:55",
       "imageUrl": ""
     },
     {
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "185",
-      "recommendCount": "392",
+      "recommendScore": "184",
+      "recommendCount": "393",
       "title": "[新聞] 林岱樺闖邱議瑩地盤辦造勢 檢方警告 ：發言後果自負",
       "link": "/bbs/Gossiping/M.1763797039.A.DCB",
       "author": "shutout5566",
