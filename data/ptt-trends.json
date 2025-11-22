@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-22T07:34:54.325Z",
+  "updated": "2025-11-22T07:43:17.307Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "379",
-      "recommendCount": "1005",
+      "recommendScore": "382",
+      "recommendCount": "1011",
       "title": "[問卦] reddit熱議:後悔搬到台灣",
       "link": "/bbs/Gossiping/M.1763748059.A.4CD",
       "author": "g5637128",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "301",
-      "recommendCount": "635",
+      "recommendScore": "304",
+      "recommendCount": "646",
       "title": "[問卦] 為何台灣關稅談到全球最高12兆？",
       "link": "/bbs/Gossiping/M.1763783832.A.AE4",
       "author": "f1248983",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "290",
-      "recommendCount": "594",
+      "recommendScore": "291",
+      "recommendCount": "598",
       "title": "[新聞] 「環工碩士里長」摧毀月世界成垃圾山！民進黨開除黨籍",
       "link": "/bbs/Gossiping/M.1763764038.A.28D",
       "author": "novashine",
@@ -74,16 +74,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "254",
-      "recommendCount": "577",
-      "title": "[新聞] 快訊／立法院三讀通過修法　2026九合一選舉將恢復「公投綁大選」",
-      "link": "/bbs/Gossiping/M.1763710784.A.54B",
-      "author": "Beziehung",
-      "board": "Gossiping",
-      "publishTime": "2025/11/21 07:39",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "129",
       "recommendCount": "527",
       "title": "[新聞] 台美達成共識！　金融時報：台灣估投資4000億美元換關稅優惠",
@@ -94,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "154",
-      "recommendCount": "899",
+      "recommendScore": "157",
+      "recommendCount": "909",
       "title": "[問卦] 烏克蘭一開始投降比較划算吧？",
       "link": "/bbs/Gossiping/M.1763780914.A.CFC",
       "author": "astrayzip",
@@ -115,12 +105,22 @@
     },
     {
       "recommendScore": "250",
-      "recommendCount": "398",
+      "recommendCount": "399",
       "title": "[新聞] 影／居民隱憂終爆發！台南後壁烏樹林暫置場深夜大火 大批消防灌救中",
       "link": "/bbs/Gossiping/M.1763769150.A.663",
       "author": "freedomwing5",
       "board": "Gossiping",
       "publishTime": "2025/11/21 23:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "118",
+      "recommendCount": "400",
+      "title": "[新聞] 才剛發！　全民國防手冊被當廢紙「丟回收」",
+      "link": "/bbs/Gossiping/M.1763731589.A.575",
+      "author": "ThisisLongID",
+      "board": "Gossiping",
+      "publishTime": "2025/11/21 13:26",
       "imageUrl": ""
     },
     {
@@ -131,16 +131,6 @@
       "author": "bamama56",
       "board": "C_Chat",
       "publishTime": "2025/11/22 02:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "116",
-      "recommendCount": "397",
-      "title": "[新聞] 才剛發！　全民國防手冊被當廢紙「丟回收」",
-      "link": "/bbs/Gossiping/M.1763731589.A.575",
-      "author": "ThisisLongID",
-      "board": "Gossiping",
-      "publishTime": "2025/11/21 13:26",
       "imageUrl": ""
     },
     {
@@ -155,7 +145,7 @@
     },
     {
       "recommendScore": "44",
-      "recommendCount": "388",
+      "recommendCount": "391",
       "title": "[新聞] 壓垮婚姻稻草 粿粿爆料范姜每天打電動",
       "link": "/bbs/Gossiping/M.1763778751.A.501",
       "author": "oppo5566",
@@ -164,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "303",
-      "recommendCount": "618",
+      "recommendScore": "304",
+      "recommendCount": "628",
       "title": "[閒聊] 日本鄉民：觀光客減少後買模型這麼簡單呀",
       "link": "/bbs/C_Chat/M.1763779535.A.D86",
       "author": "LABOYS",
@@ -174,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "232",
-      "recommendCount": "277",
+      "recommendScore": "233",
+      "recommendCount": "278",
       "title": "[情報] 林安可與西武獅完成簽約",
       "link": "/bbs/Baseball/M.1763745467.A.687",
       "author": "paul012011",
@@ -201,6 +191,16 @@
       "author": "Tosca",
       "board": "Gossiping",
       "publishTime": "2025/11/21 08:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "59",
+      "recommendCount": "290",
+      "title": "[新聞] 粿粿同母異父哥哥是富二代！不爽范姜彥豐吃軟飯　拿錢挺妹告酸民",
+      "link": "/bbs/Gossiping/M.1763771391.A.133",
+      "author": "betweenus020",
+      "board": "Gossiping",
+      "publishTime": "2025/11/22 00:29",
       "imageUrl": ""
     }
   ]
