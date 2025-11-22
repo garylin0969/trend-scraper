@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-22T04:49:52.960Z",
+  "updated": "2025-11-22T04:56:13.454Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "352",
-      "recommendCount": "952",
+      "recommendScore": "353",
+      "recommendCount": "956",
       "title": "[問卦] reddit熱議:後悔搬到台灣",
       "link": "/bbs/Gossiping/M.1763748059.A.4CD",
       "author": "g5637128",
@@ -34,8 +34,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/wWW2Npb/s/dc17a457fe2d08f04976003bcbe6736a"
     },
     {
-      "recommendScore": "314",
-      "recommendCount": "836",
+      "recommendScore": "315",
+      "recommendCount": "837",
       "title": "[新聞] 揭中國CPB目的「明顯鎖定台灣」 蔡其昌示警：以後棒球也不能拿國旗加油",
       "link": "/bbs/Baseball/M.1763717721.A.473",
       "author": "iam168888888",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "279",
-      "recommendCount": "558",
+      "recommendCount": "559",
       "title": "[新聞] 「環工碩士里長」摧毀月世界成垃圾山！民進黨開除黨籍",
       "link": "/bbs/Gossiping/M.1763764038.A.28D",
       "author": "novashine",
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "128",
+      "recommendCount": "520",
+      "title": "[新聞] 台美達成共識！　金融時報：台灣估投資4000億美元換關稅優惠",
+      "link": "/bbs/Stock/M.1763722413.A.A32",
+      "author": "qazxc1156892",
+      "board": "Stock",
+      "publishTime": "2025/11/21 10:53",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "150",
       "recommendCount": "467",
       "title": "[新聞] 男留言「1500 1H2S?」辱馬郁雯還辯「1500」是時間 被法官打臉",
@@ -81,16 +91,6 @@
       "author": "zoeapezoo",
       "board": "Gossiping",
       "publishTime": "2025/11/21 04:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "128",
-      "recommendCount": "517",
-      "title": "[新聞] 台美達成共識！　金融時報：台灣估投資4000億美元換關稅優惠",
-      "link": "/bbs/Stock/M.1763722413.A.A32",
-      "author": "qazxc1156892",
-      "board": "Stock",
-      "publishTime": "2025/11/21 10:53",
       "imageUrl": ""
     },
     {
@@ -135,7 +135,7 @@
     },
     {
       "recommendScore": "113",
-      "recommendCount": "390",
+      "recommendCount": "392",
       "title": "[新聞] 才剛發！　全民國防手冊被當廢紙「丟回收」",
       "link": "/bbs/Gossiping/M.1763731589.A.575",
       "author": "ThisisLongID",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "359",
-      "recommendCount": "892",
+      "recommendScore": "363",
+      "recommendCount": "898",
       "title": "[新聞] 「2A待遇不比台灣差」 道破中職非青棒首選",
       "link": "/bbs/Baseball/M.1763771734.A.9EA",
       "author": "ZHUGUA",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "242",
+      "recommendCount": "579",
+      "title": "[閒聊] 台鐵警語廣告遭批凌亂 網友反力挺台鐵",
+      "link": "/bbs/C_Chat/M.1763777351.A.070",
+      "author": "bamama56",
+      "board": "C_Chat",
+      "publishTime": "2025/11/22 02:09",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "93",
       "recommendCount": "364",
       "title": "[新聞] 男網友留言影射女記者「1500 1H2S」被告加重誹謗　法官判4月有期徒刑",
@@ -191,16 +201,6 @@
       "author": "au4g3wk4k",
       "board": "Gossiping",
       "publishTime": "2025/11/21 05:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "233",
-      "recommendCount": "565",
-      "title": "[閒聊] 台鐵警語廣告遭批凌亂 網友反力挺台鐵",
-      "link": "/bbs/C_Chat/M.1763777351.A.070",
-      "author": "bamama56",
-      "board": "C_Chat",
-      "publishTime": "2025/11/22 02:09",
       "imageUrl": ""
     }
   ]
