@@ -1,8 +1,18 @@
 {
-  "updated": "2025-11-22T13:01:15.949Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2025-11-22T13:13:33.519Z",
+  "total_found": 18,
+  "returned_count": 18,
   "articles": [
+    {
+      "recommendScore": "395",
+      "recommendCount": "840",
+      "title": "[問卦] 為何台灣關稅談到全球最高12兆？",
+      "link": "/bbs/Gossiping/M.1763783832.A.AE4",
+      "author": "f1248983",
+      "board": "Gossiping",
+      "publishTime": "2025/11/22 03:57",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "400",
       "recommendCount": "1044",
@@ -34,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "160",
-      "recommendCount": "1062",
+      "recommendScore": "162",
+      "recommendCount": "1067",
       "title": "[問卦] 烏克蘭一開始投降比較划算吧？",
       "link": "/bbs/Gossiping/M.1763780914.A.CFC",
       "author": "astrayzip",
@@ -54,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "250",
-      "recommendCount": "425",
+      "recommendScore": "251",
+      "recommendCount": "426",
       "title": "[新聞] 台南廢棄物山大火「燒到天亮」！驚人畫面曝　恐延燒一周",
       "link": "/bbs/Gossiping/M.1763793423.A.6F8",
       "author": "kmter5566",
@@ -104,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "176",
-      "recommendCount": "368",
+      "recommendScore": "178",
+      "recommendCount": "375",
       "title": "[新聞] 林岱樺闖邱議瑩地盤辦造勢 檢方警告 ：發言後果自負",
       "link": "/bbs/Gossiping/M.1763797039.A.DCB",
       "author": "shutout5566",
@@ -144,23 +154,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "127",
-      "recommendCount": "989",
-      "title": "[黑特] 現在統派跟草聯合戰線了嗎?",
-      "link": "/bbs/HatePolitics/M.1763799341.A.D2F",
-      "author": "lead0722",
-      "board": "HatePolitics",
-      "publishTime": "2025/11/22 08:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "269",
-      "recommendCount": "404",
+      "recommendScore": "272",
+      "recommendCount": "408",
       "title": "[閒聊] 脆熱議，Peyz家的豪華別墅",
       "link": "/bbs/LoL/M.1763792371.A.D7D",
       "author": "hololive45P",
       "board": "LoL",
       "publishTime": "2025/11/22 06:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "127",
+      "recommendCount": "994",
+      "title": "[黑特] 現在統派跟草聯合戰線了嗎?",
+      "link": "/bbs/HatePolitics/M.1763799341.A.D2F",
+      "author": "lead0722",
+      "board": "HatePolitics",
+      "publishTime": "2025/11/22 08:15",
       "imageUrl": ""
     },
     {
@@ -172,36 +182,6 @@
       "board": "NBA",
       "publishTime": "2025/11/21 14:16",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "23",
-      "recommendCount": "286",
-      "title": "[新聞] 快新聞／不甩政院版本！藍白再強渡關山財劃法 吳思瑤怒了：名列惡法之首",
-      "link": "/bbs/Gossiping/M.1763781974.A.A9C",
-      "author": "NTU87",
-      "board": "Gossiping",
-      "publishTime": "2025/11/22 03:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "76",
-      "recommendCount": "414",
-      "title": "[問卦] 沒人發現台北這兩年越來越進步嗎？",
-      "link": "/bbs/Gossiping/M.1763788986.A.3EC",
-      "author": "robertgarcia",
-      "board": "Gossiping",
-      "publishTime": "2025/11/22 05:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "138",
-      "recommendCount": "335",
-      "title": "[閒聊] 脆熱議：國文老師說「主人公」是支語",
-      "link": "/bbs/C_Chat/M.1763781176.A.F36",
-      "author": "renna038766",
-      "board": "C_Chat",
-      "publishTime": "2025/11/22 03:12",
-      "imageUrl": "https://cache.pttweb.cc/imgur/yyd8eed/s/ba3de20e49e9d44bc8b31508f6167bb9"
     }
   ]
 }
