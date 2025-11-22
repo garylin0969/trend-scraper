@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-22T14:17:21.189Z",
+  "updated": "2025-11-22T14:28:27.112Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "258",
-      "recommendCount": "436",
+      "recommendScore": "259",
+      "recommendCount": "440",
       "title": "[新聞] 台南廢棄物山大火「燒到天亮」！驚人畫面曝　恐延燒一周",
       "link": "/bbs/Gossiping/M.1763793423.A.6F8",
       "author": "kmter5566",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "407",
-      "recommendCount": "1011",
+      "recommendCount": "1012",
       "title": "[新聞] 「2A待遇不比台灣差」 道破中職非青棒首選",
       "link": "/bbs/Baseball/M.1763771734.A.9EA",
       "author": "ZHUGUA",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "125",
-      "recommendCount": "1004",
+      "recommendScore": "127",
+      "recommendCount": "1006",
       "title": "[黑特] 現在統派跟草聯合戰線了嗎?",
       "link": "/bbs/HatePolitics/M.1763799341.A.D2F",
       "author": "lead0722",
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "182",
-      "recommendCount": "416",
-      "title": "[新聞] 美國男籃最大危機！洛杉磯奧運詹皇、柯瑞表態參賽機率低",
-      "link": "/bbs/NBA/M.1763734610.A.2C0",
-      "author": "thnlkj0665",
-      "board": "NBA",
-      "publishTime": "2025/11/21 14:16",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "24",
       "recommendCount": "288",
       "title": "[新聞] 快新聞／不甩政院版本！藍白再強渡關山財劃法 吳思瑤怒了：名列惡法之首",
@@ -164,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "79",
-      "recommendCount": "419",
+      "recommendScore": "80",
+      "recommendCount": "420",
       "title": "[問卦] 沒人發現台北這兩年越來越進步嗎？",
       "link": "/bbs/Gossiping/M.1763788986.A.3EC",
       "author": "robertgarcia",
@@ -195,13 +185,23 @@
     },
     {
       "recommendScore": "243",
-      "recommendCount": "466",
+      "recommendCount": "468",
       "title": "[閒聊] 戀戀紅茶：iG在跟Doggo談",
       "link": "/bbs/LoL/M.1763805590.A.C06",
       "author": "anjuchika",
       "board": "LoL",
       "publishTime": "2025/11/22 09:59",
       "imageUrl": "https://cache.pttweb.cc/imgur/juwf1Lb/s/9fc3fed7b865722ef9c997848e92b921"
+    },
+    {
+      "recommendScore": "212",
+      "recommendCount": "425",
+      "title": "[BOX ] Trail Blazers 127:123 Warriors",
+      "link": "/bbs/NBA/M.1763789777.A.D01",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2025/11/22 05:36",
+      "imageUrl": ""
     }
   ]
 }
