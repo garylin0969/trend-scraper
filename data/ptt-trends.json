@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-22T19:43:16.873Z",
+  "updated": "2025-11-22T19:54:20.981Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,6 +14,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "136",
+      "recommendCount": "869",
+      "title": "[問卦] 去日本的灣灣也太窮了吧笑死",
+      "link": "/bbs/Gossiping/M.1763816125.A.F8B",
+      "author": "gogobar",
+      "board": "Gossiping",
+      "publishTime": "2025/11/22 12:55",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "164",
       "recommendCount": "1073",
       "title": "[問卦] 烏克蘭一開始投降比較划算吧？",
@@ -24,18 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "137",
-      "recommendCount": "836",
-      "title": "[問卦] 去日本的灣灣也太窮了吧笑死",
-      "link": "/bbs/Gossiping/M.1763816125.A.F8B",
-      "author": "gogobar",
-      "board": "Gossiping",
-      "publishTime": "2025/11/22 12:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "266",
-      "recommendCount": "449",
+      "recommendScore": "267",
+      "recommendCount": "450",
       "title": "[新聞] 台南廢棄物山大火「燒到天亮」！驚人畫面曝　恐延燒一周",
       "link": "/bbs/Gossiping/M.1763793423.A.6F8",
       "author": "kmter5566",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "408",
-      "recommendCount": "1017",
+      "recommendScore": "409",
+      "recommendCount": "1018",
       "title": "[新聞] 「2A待遇不比台灣差」 道破中職非青棒首選",
       "link": "/bbs/Baseball/M.1763771734.A.9EA",
       "author": "ZHUGUA",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "185",
-      "recommendCount": "395",
+      "recommendScore": "186",
+      "recommendCount": "396",
       "title": "[新聞] 林岱樺闖邱議瑩地盤辦造勢 檢方警告 ：發言後果自負",
       "link": "/bbs/Gossiping/M.1763797039.A.DCB",
       "author": "shutout5566",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "140",
-      "recommendCount": "413",
+      "recommendScore": "141",
+      "recommendCount": "419",
       "title": "[問卦] 台大醫學和台幣一億，你選哪一個？",
       "link": "/bbs/Gossiping/M.1763820772.A.E94",
       "author": "new1974",
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "149",
+      "recommendCount": "298",
+      "title": "[新聞] 「一刀未剪」被抓包刪掉賴清德「台灣人有錢有閒」！三立：誤解",
+      "link": "/bbs/Gossiping/M.1763810942.A.0BB",
+      "author": "deathdecay",
+      "board": "Gossiping",
+      "publishTime": "2025/11/22 11:29",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "305",
       "recommendCount": "528",
       "title": "[金馬] 最佳女主角",
@@ -151,16 +161,6 @@
       "author": "hololive45P",
       "board": "LoL",
       "publishTime": "2025/11/22 06:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "146",
-      "recommendCount": "294",
-      "title": "[新聞] 「一刀未剪」被抓包刪掉賴清德「台灣人有錢有閒」！三立：誤解",
-      "link": "/bbs/Gossiping/M.1763810942.A.0BB",
-      "author": "deathdecay",
-      "board": "Gossiping",
-      "publishTime": "2025/11/22 11:29",
       "imageUrl": ""
     },
     {
@@ -195,7 +195,7 @@
     },
     {
       "recommendScore": "140",
-      "recommendCount": "337",
+      "recommendCount": "338",
       "title": "[閒聊] 脆熱議：國文老師說「主人公」是支語",
       "link": "/bbs/C_Chat/M.1763781176.A.F36",
       "author": "renna038766",
