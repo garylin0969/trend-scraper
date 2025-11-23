@@ -1,6 +1,11 @@
 {
-  "updated": "2025-11-23T12:12:53.681Z",
+  "updated": "2025-11-23T12:49:30.863Z",
   "trends": [
+    {
+      "googleTrend": "理仁柏舍",
+      "searchVolume": "1,000+",
+      "started": "2 小時前"
+    },
     {
       "googleTrend": "olivia rodrigo",
       "searchVolume": "1,000+",
@@ -12,19 +17,14 @@
       "started": "2 小時前"
     },
     {
-      "googleTrend": "中島美嘉",
-      "searchVolume": "200+",
-      "started": "40 分鐘前"
-    },
-    {
       "googleTrend": "樂天",
       "searchVolume": "500+",
       "started": "1 小時前"
     },
     {
-      "googleTrend": "徐若熙",
+      "googleTrend": "監所男子囚生記",
       "searchVolume": "200+",
-      "started": "50 分鐘前"
+      "started": "30 分鐘前"
     },
     {
       "googleTrend": "狂客音樂祭",
@@ -32,19 +32,34 @@
       "started": "2 小時前"
     },
     {
-      "googleTrend": "fia",
-      "searchVolume": "1,000+",
-      "started": "3 小時前"
-    },
-    {
-      "googleTrend": "游庭皓",
-      "searchVolume": "100+",
-      "started": "40 分鐘前"
+      "googleTrend": "中島美嘉",
+      "searchVolume": "200+",
+      "started": "1 小時前"
     },
     {
       "googleTrend": "郭雪芙",
       "searchVolume": "200+",
       "started": "2 小時前"
+    },
+    {
+      "googleTrend": "徐若熙",
+      "searchVolume": "200+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "dsq",
+      "searchVolume": "500+",
+      "started": "3 小時前"
+    },
+    {
+      "googleTrend": "游庭皓",
+      "searchVolume": "100+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "越南",
+      "searchVolume": "100+",
+      "started": "20 分鐘前"
     },
     {
       "googleTrend": "麥拉倫",
@@ -54,7 +69,7 @@
     {
       "googleTrend": "鹹酥雞",
       "searchVolume": "200+",
-      "started": "1 小時前"
+      "started": "2 小時前"
     }
   ]
 }
