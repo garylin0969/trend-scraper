@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-25T19:07:45.572Z",
+  "updated": "2025-11-25T19:17:59.174Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/plib9uM/s/07c7d959818e5dfdaa0c10d8d8c927b3"
     },
     {
-      "recommendScore": "504",
-      "recommendCount": "795",
+      "recommendScore": "508",
+      "recommendCount": "802",
       "title": "[新聞] 3高中生「性侵殺害」女軍人 北韓下令：立即處決",
       "link": "/bbs/Gossiping/M.1764035750.A.167",
       "author": "Chang0212",
@@ -34,14 +34,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "336",
-      "recommendCount": "565",
+      "recommendScore": "346",
+      "recommendCount": "581",
       "title": "[新聞] 高雄垃圾山再現！旗山也淪「廢棄物天堂」環保局怒追幕後黑手",
       "link": "/bbs/Gossiping/M.1764062051.A.840",
       "author": "a0580531",
       "board": "Gossiping",
       "publishTime": "2025/11/25 09:14",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "286",
+      "recommendCount": "624",
+      "title": "[爆卦] 台南人行道笑話",
+      "link": "/bbs/Gossiping/M.1764044478.A.C71",
+      "author": "markingf",
+      "board": "Gossiping",
+      "publishTime": "2025/11/25 04:21",
+      "imageUrl": "https://cache.pttweb.cc/imgur/RdtPnlH/s/4a9817b8b1840c027f8332be5f463c4b"
     },
     {
       "recommendScore": "548",
@@ -52,16 +62,6 @@
       "board": "Baseball",
       "publishTime": "2025/11/25 05:06",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "282",
-      "recommendCount": "618",
-      "title": "[爆卦] 台南人行道笑話",
-      "link": "/bbs/Gossiping/M.1764044478.A.C71",
-      "author": "markingf",
-      "board": "Gossiping",
-      "publishTime": "2025/11/25 04:21",
-      "imageUrl": "https://cache.pttweb.cc/imgur/RdtPnlH/s/4a9817b8b1840c027f8332be5f463c4b"
     },
     {
       "recommendScore": "248",
@@ -75,7 +75,7 @@
     },
     {
       "recommendScore": "17",
-      "recommendCount": "831",
+      "recommendCount": "850",
       "title": "[問卦]高雄:路太寬太危險 所以把路變窄會更安全",
       "link": "/bbs/Gossiping/M.1764059074.A.056",
       "author": "a91153456",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "212",
-      "recommendCount": "452",
+      "recommendScore": "214",
+      "recommendCount": "461",
       "title": "[問卦] 南市府出面：監測空污中 很安全 無危害",
       "link": "/bbs/Gossiping/M.1764055575.A.C4D",
       "author": "Carol787",
@@ -115,7 +115,7 @@
     },
     {
       "recommendScore": "238",
-      "recommendCount": "490",
+      "recommendCount": "492",
       "title": "[新聞] 政院翻車？今原要給「財劃法試算表」 賴士葆批：財長說算不出來",
       "link": "/bbs/Gossiping/M.1764042266.A.5B2",
       "author": "iolcst",
@@ -124,8 +124,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "273",
-      "recommendCount": "321",
+      "recommendScore": "193",
+      "recommendCount": "426",
+      "title": "[爆卦] 烏克蘭同意和平協議條款",
+      "link": "/bbs/Gossiping/M.1764077462.A.198",
+      "author": "H2",
+      "board": "Gossiping",
+      "publishTime": "2025/11/25 13:31",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "289",
+      "recommendCount": "339",
       "title": "[爆卦] 綠党神秘電話力保國票霸凌老董脫身！",
       "link": "/bbs/Gossiping/M.1764061828.A.303",
       "author": "CoolCool2",
@@ -175,7 +185,7 @@
     },
     {
       "recommendScore": "222",
-      "recommendCount": "545",
+      "recommendCount": "549",
       "title": "[討論] 出大事！中國制裁日本成效浮現了！",
       "link": "/bbs/HatePolitics/M.1764055286.A.A30",
       "author": "TheoEpstein",
@@ -191,16 +201,6 @@
       "author": "polanco",
       "board": "Baseball",
       "publishTime": "2025/11/24 22:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "143",
-      "recommendCount": "431",
-      "title": "[新聞] 陳智菡：北市議員選戰不覺得被禮讓　國民黨超額提名吃不到民眾黨選票",
-      "link": "/bbs/Gossiping/M.1764027040.A.6F6",
-      "author": "LeeSeDol",
-      "board": "Gossiping",
-      "publishTime": "2025/11/24 23:30",
       "imageUrl": ""
     }
   ]
