@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-25T22:48:47.235Z",
+  "updated": "2025-11-25T22:54:54.564Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "280",
-      "recommendCount": "315",
-      "title": "[新聞] 演員李順載今天凌晨病逝 享耆壽90歲",
-      "link": "/bbs/KoreaStar/M.1764024726.A.B63",
-      "author": "jinyi",
-      "board": "KoreaStar",
-      "publishTime": "2025/11/24 22:52",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "164",
       "recommendCount": "347",
       "title": "[問卦] 政黑:石綿是防火材料 燒了不會產生廢氣",
@@ -202,6 +192,16 @@
       "board": "HatePolitics",
       "publishTime": "2025/11/25 07:21",
       "imageUrl": "https://cache.pttweb.cc/imgur/93LdaMk/s/ad706ca30b42685bbf2ae51c05cfafbf"
+    },
+    {
+      "recommendScore": "144",
+      "recommendCount": "433",
+      "title": "[新聞] 陳智菡：北市議員選戰不覺得被禮讓　國民黨超額提名吃不到民眾黨選票",
+      "link": "/bbs/Gossiping/M.1764027040.A.6F6",
+      "author": "LeeSeDol",
+      "board": "Gossiping",
+      "publishTime": "2025/11/24 23:30",
+      "imageUrl": ""
     }
   ]
 }
