@@ -1,11 +1,11 @@
 {
-  "updated": "2025-11-25T12:10:50.493Z",
+  "updated": "2025-11-25T12:25:32.351Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "776",
-      "recommendCount": "858",
+      "recommendScore": "782",
+      "recommendCount": "865",
       "title": "[情報] 114年9-10月 統一發票中獎號碼",
       "link": "/bbs/Lifeismoney/M.1764049206.A.076",
       "author": "jack801016",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "675",
-      "recommendCount": "699",
+      "recommendScore": "677",
+      "recommendCount": "701",
       "title": "[發錢] 感謝意甲之12/38輪…350杯",
       "link": "/bbs/SportLottery/M.1764034184.A.8F6",
       "author": "lotterywin",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "532",
-      "recommendCount": "881",
+      "recommendCount": "882",
       "title": "[情報] 愛爾達關於2026 WBC MLB 轉播授權公告",
       "link": "/bbs/Baseball/M.1764047178.A.7BB",
       "author": "SungKyungMW",
@@ -55,7 +55,7 @@
     },
     {
       "recommendScore": "245",
-      "recommendCount": "565",
+      "recommendCount": "567",
       "title": "[問卦] 環保局掛保證：台南火災 絕對沒有石棉瓦",
       "link": "/bbs/Gossiping/M.1764039688.A.306",
       "author": "chiafann",
@@ -64,8 +64,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/tSsi0sK/s/33434524cc0935bff621db00eb0781e3"
     },
     {
-      "recommendScore": "271",
-      "recommendCount": "588",
+      "recommendScore": "273",
+      "recommendCount": "590",
       "title": "[爆卦] 台南人行道笑話",
       "link": "/bbs/Gossiping/M.1764044478.A.C71",
       "author": "markingf",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "279",
-      "recommendCount": "461",
+      "recommendScore": "282",
+      "recommendCount": "473",
       "title": "[新聞] 高雄垃圾山再現！旗山也淪「廢棄物天堂」環保局怒追幕後黑手",
       "link": "/bbs/Gossiping/M.1764062051.A.840",
       "author": "a0580531",
@@ -104,8 +104,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "201",
-      "recommendCount": "435",
+      "recommendScore": "22",
+      "recommendCount": "681",
+      "title": "[問卦]高雄:路太寬太危險 所以把路變窄會更安全",
+      "link": "/bbs/Gossiping/M.1764059074.A.056",
+      "author": "a91153456",
+      "board": "Gossiping",
+      "publishTime": "2025/11/25 08:24",
+      "imageUrl": "https://cache.pttweb.cc/imgur/1sBB305/s/403de30a4ac87c9bdb7db2f5ec8608d5"
+    },
+    {
+      "recommendScore": "203",
+      "recommendCount": "440",
       "title": "[問卦] 南市府出面：監測空污中 很安全 無危害",
       "link": "/bbs/Gossiping/M.1764055575.A.C4D",
       "author": "Carol787",
@@ -114,24 +124,14 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/pH7U8yn/s/d0e30fd8d060000ddac0042d48f66deb"
     },
     {
-      "recommendScore": "235",
-      "recommendCount": "486",
+      "recommendScore": "236",
+      "recommendCount": "487",
       "title": "[新聞] 政院翻車？今原要給「財劃法試算表」 賴士葆批：財長說算不出來",
       "link": "/bbs/Gossiping/M.1764042266.A.5B2",
       "author": "iolcst",
       "board": "Gossiping",
       "publishTime": "2025/11/25 03:44",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "24",
-      "recommendCount": "652",
-      "title": "[問卦]高雄:路太寬太危險 所以把路變窄會更安全",
-      "link": "/bbs/Gossiping/M.1764059074.A.056",
-      "author": "a91153456",
-      "board": "Gossiping",
-      "publishTime": "2025/11/25 08:24",
-      "imageUrl": "https://cache.pttweb.cc/imgur/1sBB305/s/403de30a4ac87c9bdb7db2f5ec8608d5"
     },
     {
       "recommendScore": "257",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "248",
-      "recommendCount": "698",
+      "recommendScore": "249",
+      "recommendCount": "699",
       "title": "[新聞] 特稿／樂天集團終於認知桃猿已事態嚴重！記者會背後訊息意味濃厚",
       "link": "/bbs/Baseball/M.1764029404.A.364",
       "author": "nybbnan",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "205",
+      "recommendCount": "423",
+      "title": "[新聞] 台積電正式提告羅唯仁 公司完整聲明來了",
+      "link": "/bbs/Stock/M.1764065141.A.745",
+      "author": "EDFR",
+      "board": "Stock",
+      "publishTime": "2025/11/25 10:05",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "202",
       "recommendCount": "314",
       "title": "[分享] 今井達也：想打敗道奇這樣的奪冠熱門",
@@ -192,16 +202,6 @@
       "board": "Baseball",
       "publishTime": "2025/11/24 22:28",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "175",
-      "recommendCount": "360",
-      "title": "[問卦] 台南垃圾山火災裡面有石棉瓦？",
-      "link": "/bbs/Gossiping/M.1763991128.A.989",
-      "author": "oldman7788",
-      "board": "Gossiping",
-      "publishTime": "2025/11/24 13:32",
-      "imageUrl": "https://cache.pttweb.cc/imgur/VO7mZ3j/s/8508840ade106f80ade3a17d9ef775e5"
     }
   ]
 }
