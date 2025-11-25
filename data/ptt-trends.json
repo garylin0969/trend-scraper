@@ -1,11 +1,11 @@
 {
-  "updated": "2025-11-25T09:55:44.788Z",
+  "updated": "2025-11-25T10:07:27.086Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "704",
-      "recommendCount": "766",
+      "recommendScore": "710",
+      "recommendCount": "775",
       "title": "[情報] 114年9-10月 統一發票中獎號碼",
       "link": "/bbs/Lifeismoney/M.1764049206.A.076",
       "author": "jack801016",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "658",
-      "recommendCount": "681",
+      "recommendScore": "660",
+      "recommendCount": "683",
       "title": "[發錢] 感謝意甲之12/38輪…350杯",
       "link": "/bbs/SportLottery/M.1764034184.A.8F6",
       "author": "lotterywin",
@@ -24,8 +24,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/plib9uM/s/07c7d959818e5dfdaa0c10d8d8c927b3"
     },
     {
-      "recommendScore": "472",
-      "recommendCount": "744",
+      "recommendScore": "476",
+      "recommendCount": "751",
       "title": "[新聞] 3高中生「性侵殺害」女軍人 北韓下令：立即處決",
       "link": "/bbs/Gossiping/M.1764035750.A.167",
       "author": "Chang0212",
@@ -54,13 +54,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/tSsi0sK/s/33434524cc0935bff621db00eb0781e3"
     },
     {
-      "recommendScore": "287",
-      "recommendCount": "515",
+      "recommendScore": "288",
+      "recommendCount": "516",
       "title": "[新聞] 最新民調輸謝龍介　林俊憲哭笑不得：奇怪民調、我會輸給他？",
       "link": "/bbs/Gossiping/M.1763992210.A.613",
       "author": "qazxc1156892",
       "board": "Gossiping",
       "publishTime": "2025/11/24 13:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "499",
+      "recommendCount": "836",
+      "title": "[情報] 愛爾達關於2026 WBC MLB 轉播授權公告",
+      "link": "/bbs/Baseball/M.1764047178.A.7BB",
+      "author": "SungKyungMW",
+      "board": "Baseball",
+      "publishTime": "2025/11/25 05:06",
       "imageUrl": ""
     },
     {
@@ -74,34 +84,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "495",
-      "recommendCount": "831",
-      "title": "[情報] 愛爾達關於2026 WBC MLB 轉播授權公告",
-      "link": "/bbs/Baseball/M.1764047178.A.7BB",
-      "author": "SungKyungMW",
-      "board": "Baseball",
-      "publishTime": "2025/11/25 05:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "247",
-      "recommendCount": "527",
+      "recommendScore": "253",
+      "recommendCount": "535",
       "title": "[爆卦] 台南人行道笑話",
       "link": "/bbs/Gossiping/M.1764044478.A.C71",
       "author": "markingf",
       "board": "Gossiping",
       "publishTime": "2025/11/25 04:21",
       "imageUrl": "https://cache.pttweb.cc/imgur/RdtPnlH/s/4a9817b8b1840c027f8332be5f463c4b"
-    },
-    {
-      "recommendScore": "176",
-      "recommendCount": "405",
-      "title": "[新聞] 試營運現況曝光！台派咖啡店「罷傅失敗關店」台南重生　半小時預約全滿",
-      "link": "/bbs/Gossiping/M.1763978664.A.1AE",
-      "author": "copybrown",
-      "board": "Gossiping",
-      "publishTime": "2025/11/24 10:04",
-      "imageUrl": ""
     },
     {
       "recommendScore": "256",
@@ -145,13 +135,23 @@
     },
     {
       "recommendScore": "161",
-      "recommendCount": "334",
+      "recommendCount": "335",
       "title": "[問卦] 政黑:石綿是防火材料 燒了不會產生廢氣",
       "link": "/bbs/Gossiping/M.1764040992.A.6D8",
       "author": "a5687920",
       "board": "Gossiping",
       "publishTime": "2025/11/25 03:23",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "159",
+      "recommendCount": "351",
+      "title": "[問卦] 南市府出面：監測空污中 很安全 無危害",
+      "link": "/bbs/Gossiping/M.1764055575.A.C4D",
+      "author": "Carol787",
+      "board": "Gossiping",
+      "publishTime": "2025/11/25 07:26",
+      "imageUrl": "https://cache.pttweb.cc/imgur/pH7U8yn/s/d0e30fd8d060000ddac0042d48f66deb"
     },
     {
       "recommendScore": "247",
@@ -162,16 +162,6 @@
       "board": "Baseball",
       "publishTime": "2025/11/25 00:10",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "153",
-      "recommendCount": "337",
-      "title": "[問卦] 南市府出面：監測空污中 很安全 無危害",
-      "link": "/bbs/Gossiping/M.1764055575.A.C4D",
-      "author": "Carol787",
-      "board": "Gossiping",
-      "publishTime": "2025/11/25 07:26",
-      "imageUrl": "https://cache.pttweb.cc/imgur/pH7U8yn/s/d0e30fd8d060000ddac0042d48f66deb"
     },
     {
       "recommendScore": "246",
@@ -201,6 +191,16 @@
       "author": "polanco",
       "board": "Baseball",
       "publishTime": "2025/11/24 22:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "143",
+      "recommendCount": "427",
+      "title": "[新聞] 陳智菡：北市議員選戰不覺得被禮讓　國民黨超額提名吃不到民眾黨選票",
+      "link": "/bbs/Gossiping/M.1764027040.A.6F6",
+      "author": "LeeSeDol",
+      "board": "Gossiping",
+      "publishTime": "2025/11/24 23:30",
       "imageUrl": ""
     }
   ]
