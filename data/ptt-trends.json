@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-26T07:06:56.645Z",
+  "updated": "2025-11-26T07:18:20.063Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -51,6 +51,16 @@
       "author": "Induction",
       "board": "Gossiping",
       "publishTime": "2025/11/25 18:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "227",
+      "recommendCount": "589",
+      "title": "[問卦] 怎麼台灣方突然定調2027要開戰了？",
+      "link": "/bbs/Gossiping/M.1764136198.A.DB4",
+      "author": "Alberta99170",
+      "board": "Gossiping",
+      "publishTime": "2025/11/26 05:49",
       "imageUrl": ""
     },
     {
@@ -134,8 +144,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "267",
-      "recommendCount": "476",
+      "recommendScore": "193",
+      "recommendCount": "353",
+      "title": "[問卦] 開口閉口都是韌性 到底是啥小",
+      "link": "/bbs/Gossiping/M.1764128681.A.F38",
+      "author": "poeta",
+      "board": "Gossiping",
+      "publishTime": "2025/11/26 03:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "275",
+      "recommendCount": "494",
       "title": "[新聞] 中國棒球搞統戰？曹錦輝、林益全傳西進",
       "link": "/bbs/Baseball/M.1764124870.A.405",
       "author": "access4096",
@@ -144,13 +164,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "183",
-      "recommendCount": "336",
-      "title": "[問卦] 開口閉口都是韌性 到底是啥小",
-      "link": "/bbs/Gossiping/M.1764128681.A.F38",
-      "author": "poeta",
-      "board": "Gossiping",
-      "publishTime": "2025/11/26 03:44",
+      "recommendScore": "62",
+      "recommendCount": "377",
+      "title": "[新聞] 被問「怎麼贏大谷翔平」？ 李洋：運動部會支持經費補助",
+      "link": "/bbs/Baseball/M.1764131451.A.3A9",
+      "author": "iamshana",
+      "board": "Baseball",
+      "publishTime": "2025/11/26 04:30",
       "imageUrl": ""
     },
     {
@@ -181,26 +201,6 @@
       "author": "Irene534",
       "board": "Gossiping",
       "publishTime": "2025/11/26 02:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "64",
-      "recommendCount": "348",
-      "title": "[新聞] 被問「怎麼贏大谷翔平」？ 李洋：運動部會支持經費補助",
-      "link": "/bbs/Baseball/M.1764131451.A.3A9",
-      "author": "iamshana",
-      "board": "Baseball",
-      "publishTime": "2025/11/26 04:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "140",
-      "recommendCount": "377",
-      "title": "[新聞] 快新聞／台南烏樹林大火「石棉瓦恐影響健康」？環境部出面闢謠",
-      "link": "/bbs/Gossiping/M.1764116912.A.4F3",
-      "author": "STi2011",
-      "board": "Gossiping",
-      "publishTime": "2025/11/26 00:28",
       "imageUrl": ""
     }
   ]
