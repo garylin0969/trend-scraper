@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-26T18:20:02.290Z",
+  "updated": "2025-11-26T18:36:15.100Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "228",
-      "recommendCount": "950",
+      "recommendScore": "229",
+      "recommendCount": "957",
       "title": "[新聞] 賴清德證實北京2027年侵台？　總統府駁斥：錯誤的片面解讀",
       "link": "/bbs/Gossiping/M.1764160027.A.CB9",
       "author": "lamigo",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "310",
-      "recommendCount": "714",
+      "recommendScore": "312",
+      "recommendCount": "717",
       "title": "[問卦] 這波芒果感洗下去  民眾應該都有感了吧",
       "link": "/bbs/Gossiping/M.1764151755.A.602",
       "author": "oppo5566",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "295",
-      "recommendCount": "540",
+      "recommendScore": "296",
+      "recommendCount": "541",
       "title": "[新聞] 中國棒球搞統戰？曹錦輝、林益全傳西進",
       "link": "/bbs/Baseball/M.1764124870.A.405",
       "author": "access4096",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "135",
+      "recommendCount": "532",
+      "title": "[問卦] 統一後大家的生活會變好嗎？",
+      "link": "/bbs/Gossiping/M.1764146532.A.FF0",
+      "author": "ComeThrough",
+      "board": "Gossiping",
+      "publishTime": "2025/11/26 08:42",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "171",
       "recommendCount": "450",
       "title": "[問卦] 為何軍武板鄉民這麼勇 都傾向開戰上戰場",
@@ -191,16 +201,6 @@
       "author": "Irene534",
       "board": "Gossiping",
       "publishTime": "2025/11/26 02:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "134",
-      "recommendCount": "525",
-      "title": "[問卦] 統一後大家的生活會變好嗎？",
-      "link": "/bbs/Gossiping/M.1764146532.A.FF0",
-      "author": "ComeThrough",
-      "board": "Gossiping",
-      "publishTime": "2025/11/26 08:42",
       "imageUrl": ""
     }
   ]
