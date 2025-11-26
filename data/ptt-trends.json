@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-26T11:44:13.722Z",
+  "updated": "2025-11-26T11:53:17.378Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "185",
+      "recommendCount": "548",
+      "title": "[新聞] 快訊／賴清德11：30召開記者會說明增1.25兆國防特別預算",
+      "link": "/bbs/Stock/M.1764123852.A.A0D",
+      "author": "zkow",
+      "board": "Stock",
+      "publishTime": "2025/11/26 02:24",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "226",
       "recommendCount": "663",
       "title": "[問卦] 日本:只用168小時全殲中國海軍的八卦",
@@ -61,16 +71,6 @@
       "author": "realtw",
       "board": "Gossiping",
       "publishTime": "2025/11/26 04:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "185",
-      "recommendCount": "545",
-      "title": "[新聞] 快訊／賴清德11：30召開記者會說明增1.25兆國防特別預算",
-      "link": "/bbs/Stock/M.1764123852.A.A0D",
-      "author": "zkow",
-      "board": "Stock",
-      "publishTime": "2025/11/26 02:24",
       "imageUrl": ""
     },
     {
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "217",
-      "recommendCount": "403",
+      "recommendScore": "219",
+      "recommendCount": "407",
       "title": "[問卦] 開口閉口都是韌性 到底是啥小",
       "link": "/bbs/Gossiping/M.1764128681.A.F38",
       "author": "poeta",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "54",
-      "recommendCount": "455",
+      "recommendScore": "53",
+      "recommendCount": "456",
       "title": "[新聞] 被問「怎麼贏大谷翔平」？ 李洋：運動部會支持經費補助",
       "link": "/bbs/Baseball/M.1764131451.A.3A9",
       "author": "iamshana",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "211",
-      "recommendCount": "519",
+      "recommendScore": "215",
+      "recommendCount": "526",
       "title": "[新聞] 獨家／星巴克殺手進軍台灣！「瑞幸咖啡」強勢登台　首店就選它隔壁",
       "link": "/bbs/Stock/M.1764137374.A.79C",
       "author": "ChanHoPark",
@@ -145,7 +145,7 @@
     },
     {
       "recommendScore": "264",
-      "recommendCount": "330",
+      "recommendCount": "331",
       "title": "[新聞] 中職／歷時384小時…樂天貼文感謝古久保健二打造幸福桃猿",
       "link": "/bbs/Baseball/M.1764073297.A.021",
       "author": "CREA",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "275",
-      "recommendCount": "484",
+      "recommendScore": "276",
+      "recommendCount": "485",
       "title": "[BOX ] Clippers 118:135 Lakers",
       "link": "/bbs/NBA/M.1764139661.A.175",
       "author": "jason911152",
