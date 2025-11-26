@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-26T04:14:17.106Z",
+  "updated": "2025-11-26T04:31:44.345Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -22,16 +22,6 @@
       "board": "Gossiping",
       "publishTime": "2025/11/25 09:14",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "289",
-      "recommendCount": "629",
-      "title": "[爆卦] 台南人行道笑話",
-      "link": "/bbs/Gossiping/M.1764044478.A.C71",
-      "author": "markingf",
-      "board": "Gossiping",
-      "publishTime": "2025/11/25 04:21",
-      "imageUrl": "https://cache.pttweb.cc/imgur/RdtPnlH/s/4a9817b8b1840c027f8332be5f463c4b"
     },
     {
       "recommendScore": "552",
@@ -174,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "149",
-      "recommendCount": "339",
-      "title": "[新聞] 高三學長「被撞一下肩膀」暴走！拖行學妹3層樓、強剪頭髮",
-      "link": "/bbs/Gossiping/M.1764044114.A.07B",
-      "author": "touurtn",
-      "board": "Gossiping",
-      "publishTime": "2025/11/25 04:15",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-33",
       "recommendCount": "389",
       "title": "[新聞] 王義川：我就是台灣國立委　藍委敢去中國喊「我是中華民國立委」？",
@@ -202,6 +182,26 @@
       "board": "Gossiping",
       "publishTime": "2025/11/25 13:39",
       "imageUrl": "https://cache.pttweb.cc/imgur/9mV4DsI/s/c35cfd7b7ca5d8657eb859dd05ff866f"
+    },
+    {
+      "recommendScore": "129",
+      "recommendCount": "332",
+      "title": "[新聞] 快新聞／台南烏樹林大火「石棉瓦恐影響健康」？環境部出面闢謠",
+      "link": "/bbs/Gossiping/M.1764116912.A.4F3",
+      "author": "STi2011",
+      "board": "Gossiping",
+      "publishTime": "2025/11/26 00:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "149",
+      "recommendCount": "1491",
+      "title": "[討論] 不願意打仗也不願意討論後果？",
+      "link": "/bbs/Military/M.1764089600.A.7E3",
+      "author": "ptgeorge2",
+      "board": "Military",
+      "publishTime": "2025/11/25 16:53",
+      "imageUrl": ""
     }
   ]
 }
