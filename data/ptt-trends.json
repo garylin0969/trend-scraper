@@ -1,11 +1,11 @@
 {
-  "updated": "2025-11-26T13:07:18.305Z",
+  "updated": "2025-11-26T13:25:05.370Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "573",
-      "recommendCount": "1347",
+      "recommendScore": "574",
+      "recommendCount": "1349",
       "title": "[問卦] 怎麼台灣方突然定調2027要開戰了？",
       "link": "/bbs/Gossiping/M.1764136198.A.DB4",
       "author": "Alberta99170",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "181",
-      "recommendCount": "1239",
+      "recommendScore": "180",
+      "recommendCount": "1241",
       "title": "[新聞] 賴清德：北京以2027武統台灣為目標　加速侵台軍事整備",
       "link": "/bbs/Gossiping/M.1764135763.A.0E3",
       "author": "Kazmier",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "320",
-      "recommendCount": "892",
+      "recommendScore": "319",
+      "recommendCount": "894",
       "title": "[協尋] 求救！ 爸爸在阿布達比被警察抓走",
       "link": "/bbs/Gossiping/M.1764091877.A.0AE",
       "author": "karta1103084",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "416",
-      "recommendCount": "655",
+      "recommendScore": "418",
+      "recommendCount": "657",
       "title": "Re: [協尋] 求救！ 爸爸在阿布達比被警察抓走",
       "link": "/bbs/Gossiping/M.1764096816.A.9FC",
       "author": "Induction",
@@ -64,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "266",
+      "recommendCount": "590",
+      "title": "[問卦] 這波芒果感洗下去  民眾應該都有感了吧",
+      "link": "/bbs/Gossiping/M.1764151755.A.602",
+      "author": "oppo5566",
+      "board": "Gossiping",
+      "publishTime": "2025/11/26 10:09",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "185",
       "recommendCount": "550",
       "title": "[新聞] 快訊／賴清德11：30召開記者會說明增1.25兆國防特別預算",
@@ -71,16 +81,6 @@
       "author": "zkow",
       "board": "Stock",
       "publishTime": "2025/11/26 02:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "258",
-      "recommendCount": "573",
-      "title": "[問卦] 這波芒果感洗下去  民眾應該都有感了吧",
-      "link": "/bbs/Gossiping/M.1764151755.A.602",
-      "author": "oppo5566",
-      "board": "Gossiping",
-      "publishTime": "2025/11/26 10:09",
       "imageUrl": ""
     },
     {
@@ -95,12 +95,22 @@
     },
     {
       "recommendScore": "218",
-      "recommendCount": "412",
+      "recommendCount": "413",
       "title": "[問卦] 開口閉口都是韌性 到底是啥小",
       "link": "/bbs/Gossiping/M.1764128681.A.F38",
       "author": "poeta",
       "board": "Gossiping",
       "publishTime": "2025/11/26 03:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "37",
+      "recommendCount": "511",
+      "title": "[新聞] 快新聞／賴清德認了「北京2027年目標完成武統」！今提兩項行動方案反制",
+      "link": "/bbs/Gossiping/M.1764150483.A.33F",
+      "author": "alpesor",
+      "board": "Gossiping",
+      "publishTime": "2025/11/26 09:48",
       "imageUrl": ""
     },
     {
@@ -124,16 +134,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "33",
-      "recommendCount": "495",
-      "title": "[新聞] 快新聞／賴清德認了「北京2027年目標完成武統」！今提兩項行動方案反制",
-      "link": "/bbs/Gossiping/M.1764150483.A.33F",
-      "author": "alpesor",
-      "board": "Gossiping",
-      "publishTime": "2025/11/26 09:48",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "292",
       "recommendCount": "535",
       "title": "[新聞] 中國棒球搞統戰？曹錦輝、林益全傳西進",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "216",
-      "recommendCount": "541",
+      "recommendScore": "217",
+      "recommendCount": "542",
       "title": "[新聞] 獨家／星巴克殺手進軍台灣！「瑞幸咖啡」強勢登台　首店就選它隔壁",
       "link": "/bbs/Stock/M.1764137374.A.79C",
       "author": "ChanHoPark",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "183",
-      "recommendCount": "429",
+      "recommendScore": "187",
+      "recommendCount": "433",
       "title": "Re: [新聞] 賴喊不接受陸「一國兩制台灣方案」：將確立是不可觸碰的紅線",
       "link": "/bbs/Gossiping/M.1764142103.A.404",
       "author": "iPadProPlus",
@@ -174,13 +174,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "206",
-      "recommendCount": "356",
+      "recommendScore": "207",
+      "recommendCount": "358",
       "title": "[新聞] 丟不停…高雄花旗山莊又傳垃圾入侵 大馬路旁直接偷倒營建廢土",
       "link": "/bbs/Gossiping/M.1764123547.A.FAA",
       "author": "ptt987654321",
       "board": "Gossiping",
       "publishTime": "2025/11/26 02:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "295",
+      "recommendCount": "307",
+      "title": "[iAPP] 小資算熱量 - 為自己記下每一餐",
+      "link": "/bbs/iOS/M.1764122888.A.4E0",
+      "author": "lucasbard",
+      "board": "iOS",
+      "publishTime": "2025/11/26 02:08",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "Irene534",
       "board": "Gossiping",
       "publishTime": "2025/11/26 02:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "287",
-      "recommendCount": "299",
-      "title": "[iAPP] 小資算熱量 - 為自己記下每一餐",
-      "link": "/bbs/iOS/M.1764122888.A.4E0",
-      "author": "lucasbard",
-      "board": "iOS",
-      "publishTime": "2025/11/26 02:08",
       "imageUrl": ""
     }
   ]
