@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-27T08:58:26.652Z",
+  "updated": "2025-11-27T09:10:00.408Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "181",
-      "recommendCount": "493",
+      "recommendScore": "186",
+      "recommendCount": "505",
       "title": "[新聞] 傳中國瑞幸咖啡登台　經濟部：必要時將啟動行政調查",
       "link": "/bbs/Stock/M.1764203439.A.240",
       "author": "a5687920",
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "203",
+      "recommendCount": "778",
+      "title": "[討論] 小草對香港大火開玩笑後被香港人罵翻",
+      "link": "/bbs/HatePolitics/M.1764206311.A.FC7",
+      "author": "wowbenny",
+      "board": "HatePolitics",
+      "publishTime": "2025/11/27 01:18",
+      "imageUrl": "https://cache.pttweb.cc/imgur/zMVIq4M/s/8af01297f5c7184fe714606cfa071f8c"
+    },
+    {
       "recommendScore": "198",
       "recommendCount": "474",
       "title": "[新聞] 高市：日本無立場認定台灣法律地位 有責任與中國建立良好關係",
@@ -84,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "201",
-      "recommendCount": "763",
-      "title": "[討論] 小草對香港大火開玩笑後被香港人罵翻",
-      "link": "/bbs/HatePolitics/M.1764206311.A.FC7",
-      "author": "wowbenny",
-      "board": "HatePolitics",
-      "publishTime": "2025/11/27 01:18",
-      "imageUrl": "https://cache.pttweb.cc/imgur/zMVIq4M/s/8af01297f5c7184fe714606cfa071f8c"
-    },
-    {
-      "recommendScore": "-188",
-      "recommendCount": "324",
+      "recommendScore": "-189",
+      "recommendCount": "328",
       "title": "[新聞] 李洋留不住了！中國棒球聯賽5隊總教練有3個來自台灣",
       "link": "/bbs/Baseball/M.1764203988.A.140",
       "author": "monniea",
@@ -132,6 +132,16 @@
       "board": "Gossiping",
       "publishTime": "2025/11/27 01:10",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "212",
+      "recommendCount": "336",
+      "title": "[情報] 咖喱受傷",
+      "link": "/bbs/NBA/M.1764222433.A.1D3",
+      "author": "Skyblueway",
+      "board": "NBA",
+      "publishTime": "2025/11/27 05:47",
+      "imageUrl": "https://cache.pttweb.cc/imgur/sUJOINu/s/d0e462f35db0bb0b9f461b44d3a083ac"
     },
     {
       "recommendScore": "148",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/11/26 12:37",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "100",
-      "recommendCount": "401",
-      "title": "[問卦] 中國高樓滅火技術是不是走太前面了？",
-      "link": "/bbs/Gossiping/M.1764210687.A.D17",
-      "author": "frzqp3814396",
-      "board": "Gossiping",
-      "publishTime": "2025/11/27 02:31",
-      "imageUrl": "https://cache.pttweb.cc/imgur/9lAemR7/s/3627ee45bbd1c68a96fbdb3bc1a57f62"
     }
   ]
 }
