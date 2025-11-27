@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-27T04:20:31.131Z",
+  "updated": "2025-11-27T04:35:32.347Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,16 +54,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "238",
-      "recommendCount": "701",
-      "title": "[問卦] 日本:只用168小時全殲中國海軍的八卦",
-      "link": "/bbs/Gossiping/M.1764131195.A.14C",
-      "author": "realtw",
-      "board": "Gossiping",
-      "publishTime": "2025/11/26 04:26",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "41",
       "recommendCount": "550",
       "title": "[新聞] 快新聞／賴清德認了「北京2027年目標完成武統」！今提兩項行動方案反制",
@@ -81,16 +71,6 @@
       "author": "iPadProPlus",
       "board": "Gossiping",
       "publishTime": "2025/11/26 07:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "49",
-      "recommendCount": "467",
-      "title": "[新聞] 被問「怎麼贏大谷翔平」？ 李洋：運動部會支持經費補助",
-      "link": "/bbs/Baseball/M.1764131451.A.3A9",
-      "author": "iamshana",
-      "board": "Baseball",
-      "publishTime": "2025/11/26 04:30",
       "imageUrl": ""
     },
     {
@@ -134,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "161",
+      "recommendCount": "420",
+      "title": "[新聞] 傳中國瑞幸咖啡登台　經濟部：必要時將啟動行政調查",
+      "link": "/bbs/Stock/M.1764203439.A.240",
+      "author": "a5687920",
+      "board": "Stock",
+      "publishTime": "2025/11/27 00:30",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-43",
       "recommendCount": "834",
       "title": "Re: [問卦] 我們下跪中國，真的能換到和平嗎？",
@@ -141,16 +131,6 @@
       "author": "TouchAgain",
       "board": "Gossiping",
       "publishTime": "2025/11/26 22:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "153",
-      "recommendCount": "410",
-      "title": "[新聞] 傳中國瑞幸咖啡登台　經濟部：必要時將啟動行政調查",
-      "link": "/bbs/Stock/M.1764203439.A.240",
-      "author": "a5687920",
-      "board": "Stock",
-      "publishTime": "2025/11/27 00:30",
       "imageUrl": ""
     },
     {
@@ -202,6 +182,26 @@
       "board": "C_Chat",
       "publishTime": "2025/11/26 04:57",
       "imageUrl": "https://cache.pttweb.cc/imgur/SGEVyjk/s/931ee43349e39056b69012ed2c07434e"
+    },
+    {
+      "recommendScore": "105",
+      "recommendCount": "339",
+      "title": "[新聞] 賴清德：我當總統 兩岸發生戰爭機率最低",
+      "link": "/bbs/Gossiping/M.1764170376.A.448",
+      "author": "Omight",
+      "board": "Gossiping",
+      "publishTime": "2025/11/26 15:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-162",
+      "recommendCount": "287",
+      "title": "[新聞] 李洋留不住了！中國棒球聯賽5隊總教練有3個來自台灣",
+      "link": "/bbs/Baseball/M.1764203988.A.140",
+      "author": "monniea",
+      "board": "Baseball",
+      "publishTime": "2025/11/27 00:39",
+      "imageUrl": ""
     }
   ]
 }
