@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-27T05:06:30.764Z",
+  "updated": "2025-11-27T05:17:57.506Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "353",
-      "recommendCount": "1001",
+      "recommendScore": "364",
+      "recommendCount": "1021",
       "title": "[新聞] 香港大火竟諷「無限城、101煙火」 港網友怒：看到台灣人的真面目",
       "link": "/bbs/Gossiping/M.1764208146.A.2AC",
       "author": "Rostislav",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "332",
-      "recommendCount": "758",
+      "recommendScore": "333",
+      "recommendCount": "760",
       "title": "[問卦] 這波芒果感洗下去  民眾應該都有感了吧",
       "link": "/bbs/Gossiping/M.1764151755.A.602",
       "author": "oppo5566",
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-49",
+      "recommendCount": "853",
+      "title": "Re: [問卦] 我們下跪中國，真的能換到和平嗎？",
+      "link": "/bbs/Gossiping/M.1764196780.A.3D6",
+      "author": "TouchAgain",
+      "board": "Gossiping",
+      "publishTime": "2025/11/26 22:39",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "171",
       "recommendCount": "408",
       "title": "[問卦] 發生什麼事會讓你覺得真的要打了？",
@@ -121,16 +131,6 @@
       "author": "copybrown",
       "board": "Gossiping",
       "publishTime": "2025/11/26 09:12",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-49",
-      "recommendCount": "851",
-      "title": "Re: [問卦] 我們下跪中國，真的能換到和平嗎？",
-      "link": "/bbs/Gossiping/M.1764196780.A.3D6",
-      "author": "TouchAgain",
-      "board": "Gossiping",
-      "publishTime": "2025/11/26 22:39",
       "imageUrl": ""
     },
     {
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "130",
-      "recommendCount": "394",
+      "recommendScore": "131",
+      "recommendCount": "397",
       "title": "[問卦] 為什感覺台灣方一直想碰瓷大陸",
       "link": "/bbs/Gossiping/M.1764150084.A.E77",
       "author": "enlong777",
@@ -174,14 +174,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-170",
-      "recommendCount": "302",
+      "recommendScore": "-172",
+      "recommendCount": "305",
       "title": "[新聞] 李洋留不住了！中國棒球聯賽5隊總教練有3個來自台灣",
       "link": "/bbs/Baseball/M.1764203988.A.140",
       "author": "monniea",
       "board": "Baseball",
       "publishTime": "2025/11/27 00:39",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "190",
+      "recommendCount": "694",
+      "title": "[討論] 小草對香港大火開玩笑後被香港人罵翻",
+      "link": "/bbs/HatePolitics/M.1764206311.A.FC7",
+      "author": "wowbenny",
+      "board": "HatePolitics",
+      "publishTime": "2025/11/27 01:18",
+      "imageUrl": "https://cache.pttweb.cc/imgur/zMVIq4M/s/8af01297f5c7184fe714606cfa071f8c"
     },
     {
       "recommendScore": "106",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/11/26 15:19",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "193",
-      "recommendCount": "685",
-      "title": "[討論] 小草對香港大火開玩笑後被香港人罵翻",
-      "link": "/bbs/HatePolitics/M.1764206311.A.FC7",
-      "author": "wowbenny",
-      "board": "HatePolitics",
-      "publishTime": "2025/11/27 01:18",
-      "imageUrl": "https://cache.pttweb.cc/imgur/zMVIq4M/s/8af01297f5c7184fe714606cfa071f8c"
     }
   ]
 }
