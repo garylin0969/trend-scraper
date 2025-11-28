@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-28T05:45:55.653Z",
+  "updated": "2025-11-28T05:53:37.140Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -42,16 +42,6 @@
       "board": "Gossiping",
       "publishTime": "2025/11/27 13:29",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "281",
-      "recommendCount": "430",
-      "title": "[情報] 咖喱受傷",
-      "link": "/bbs/NBA/M.1764222433.A.1D3",
-      "author": "Skyblueway",
-      "board": "NBA",
-      "publishTime": "2025/11/27 05:47",
-      "imageUrl": "https://cache.pttweb.cc/imgur/sUJOINu/s/d0e462f35db0bb0b9f461b44d3a083ac"
     },
     {
       "recommendScore": "185",
@@ -201,6 +191,16 @@
       "author": "TAMASABUROU",
       "board": "Gossiping",
       "publishTime": "2025/11/27 07:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "31",
+      "recommendCount": "1318",
+      "title": "[討論] 請問小草：不跪舔就叫挑釁？",
+      "link": "/bbs/HatePolitics/M.1764256846.A.599",
+      "author": "c24253994",
+      "board": "HatePolitics",
+      "publishTime": "2025/11/27 15:20",
       "imageUrl": ""
     }
   ]
