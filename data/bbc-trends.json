@@ -1,14 +1,22 @@
 {
-  "updated": "2025-11-28T06:24:14.070Z",
+  "updated": "2025-11-28T06:52:58.286Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-11-28T06:24:04.000Z",
+    "lastBuildDate": "2025-11-28T06:52:47.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "宏福苑大火：追責聲中再有兩人遭廉署拘捕，香港全面檢視愈百翻新項目",
+      "description": "香港廉政公署11月28日拘捕負責監督宏福苑維修的工程顧問公司兩名董事並展開搜證。此前警方於27日拘捕3人，分別為工程公司的兩名董事和一名工程顧問。",
+      "link": "https://www.bbc.com/zhongwen/articles/clykevkpvz7o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-28T06:49:25.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/clykevkpvz7o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9120/live/16d8d9b0-cc22-11f0-8462-255accdc9392.jpg"
+    },
     {
       "title": "香港宏福苑大火26小時：不斷攀升的死亡數字，在希望和絕望中掙扎的親人",
       "description": "11月26日下午，香港大埔屋苑宏福苑發生五級火警，至今已造成至少94人死亡。這場大火在創下香港火災傷亡紀錄的同時，也留下了眾多悲傷的家庭。\n\n",
@@ -16,14 +24,6 @@
       "pubDate": "2025-11-28T05:59:53.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cz7nqgerjg4o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b86e/live/ad4fb5a0-cb80-11f0-a892-01d657345866.png"
-    },
-    {
-      "title": "大埔五級火災增至94死76傷：至少63年來最嚴重，料週五早上完成爆破救援工作",
-      "description": "香港大埔發生致命大火，一個正在大維修的屋苑多棟大廈起火，造成至少94人死亡，包括一名消防員殉職。這是香港至少63年來最致命的火災。",
-      "link": "https://www.bbc.com/zhongwen/articles/c36ze1n44e1o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-11-28T05:47:28.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c36ze1n44e1o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/65e8/live/929af090-cba7-11f0-9b12-8751a987e19a.jpg"
     },
     {
       "title": "普京在莫斯科與美方會談前，加強對烏克蘭的領土要求",
@@ -40,6 +40,14 @@
       "pubDate": "2025-11-27T15:44:32.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c058pvn2d02o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fb79/live/f7369dd0-cb96-11f0-8b24-8191145688b1.png"
+    },
+    {
+      "title": "大埔五級火災增至94死76傷：至少63年來最嚴重，料週五早上完成爆破救援工作",
+      "description": "香港大埔發生致命大火，一個正在大維修的屋苑多棟大廈起火，造成至少94人死亡，包括一名消防員殉職。這是香港至少63年來最致命的火災。",
+      "link": "https://www.bbc.com/zhongwen/articles/c36ze1n44e1o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-28T05:47:28.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c36ze1n44e1o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/65e8/live/929af090-cba7-11f0-9b12-8751a987e19a.jpg"
     },
     {
       "title": "分析：激烈外交斡旋後，烏克蘭離和平究竟還有多遠？",
