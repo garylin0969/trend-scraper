@@ -1,18 +1,8 @@
 {
-  "updated": "2025-11-29T08:19:22.567Z",
+  "updated": "2025-11-29T08:34:54.137Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "266",
-      "recommendCount": "835",
-      "title": "[新聞] 快訊／2027年核三有望重啟 卓榮泰：安全無虞的情況下做規劃",
-      "link": "/bbs/Gossiping/M.1764318393.A.D88",
-      "author": "william8403",
-      "board": "Gossiping",
-      "publishTime": "2025/11/28 08:26",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "240",
       "recommendCount": "1185",
@@ -34,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "267",
-      "recommendCount": "932",
+      "recommendScore": "270",
+      "recommendCount": "935",
       "title": "[新聞] 太扯！日本歌手大陸開唱 竟遭強制斷電下台！錯愕表情曝光 網友不忍了",
       "link": "/bbs/Gossiping/M.1764380555.A.499",
       "author": "copybrown",
@@ -44,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "262",
-      "recommendCount": "682",
+      "recommendScore": "261",
+      "recommendCount": "683",
       "title": "[討論] 目前台灣史上最爛的總統是誰?",
       "link": "/bbs/HatePolitics/M.1764380576.A.E1C",
       "author": "carpfish",
@@ -54,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "60",
-      "recommendCount": "629",
+      "recommendScore": "63",
+      "recommendCount": "635",
       "title": "[問卦] 為什麼這裡支持統一的比例那麼高?",
       "link": "/bbs/Gossiping/M.1764386734.A.C95",
       "author": "richshen",
@@ -65,7 +55,7 @@
     },
     {
       "recommendScore": "326",
-      "recommendCount": "453",
+      "recommendCount": "454",
       "title": "[情報] 軟銀將正式簽下徐若熙",
       "link": "/bbs/Baseball/M.1764349597.A.73B",
       "author": "SeanLi1013",
@@ -74,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "240",
-      "recommendCount": "497",
+      "recommendScore": "241",
+      "recommendCount": "498",
       "title": "[問卦] 烏克蘭又爆出重大貪污醜聞？",
       "link": "/bbs/Gossiping/M.1764375660.A.1A3",
       "author": "KyleSeager",
@@ -84,13 +74,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "190",
-      "recommendCount": "376",
+      "recommendScore": "191",
+      "recommendCount": "379",
       "title": "[新聞] 「天道盟公主」色誘中風翁想奪產竟虐死人 判12年還要賠130萬",
       "link": "/bbs/Gossiping/M.1764378825.A.53B",
       "author": "micheal59",
       "board": "Gossiping",
       "publishTime": "2025/11/29 01:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "173",
+      "recommendCount": "466",
+      "title": "[新聞] 青鳥連署公投 明年進入大罷免延長賽",
+      "link": "/bbs/Gossiping/M.1764397444.A.70D",
+      "author": "au4g3wk4k",
+      "board": "Gossiping",
+      "publishTime": "2025/11/29 06:24",
       "imageUrl": ""
     },
     {
@@ -154,18 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "147",
-      "recommendCount": "400",
-      "title": "[新聞] 青鳥連署公投 明年進入大罷免延長賽",
-      "link": "/bbs/Gossiping/M.1764397444.A.70D",
-      "author": "au4g3wk4k",
-      "board": "Gossiping",
-      "publishTime": "2025/11/29 06:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "266",
-      "recommendCount": "551",
+      "recommendScore": "268",
+      "recommendCount": "553",
       "title": "[情報]  2025上海萬代南夢宮嘉年華取消",
       "link": "/bbs/C_Chat/M.1764386489.A.969",
       "author": "googlexxxx",
@@ -184,8 +174,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/zDUme4s/s/8500c4ca9ab6136888964525cef7d4bf"
     },
     {
-      "recommendScore": "239",
-      "recommendCount": "400",
+      "recommendScore": "243",
+      "recommendCount": "408",
       "title": "[BOX ] Mavericks 119:129 Lakers",
       "link": "/bbs/NBA/M.1764394962.A.587",
       "author": "jason911152",
@@ -201,6 +191,16 @@
       "author": "DrowningPool",
       "board": "Stock",
       "publishTime": "2025/11/28 09:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "240",
+      "recommendCount": "560",
+      "title": "[討論] 古林跟若熙的價值有差那麼多嗎",
+      "link": "/bbs/Baseball/M.1764350738.A.9F1",
+      "author": "Sunpayus",
+      "board": "Baseball",
+      "publishTime": "2025/11/28 17:25",
       "imageUrl": ""
     }
   ]
