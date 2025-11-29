@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-29T06:37:12.991Z",
+  "updated": "2025-11-29T06:48:59.126Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "236",
+      "recommendCount": "1165",
+      "title": "[新聞] 史上最貴「1針1億元」罕病將納健保　衛福部12月新制搶先看",
+      "link": "/bbs/Gossiping/M.1764334403.A.A6C",
+      "author": "humbler",
+      "board": "Gossiping",
+      "publishTime": "2025/11/28 12:53",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "273",
       "recommendCount": "622",
       "title": "[新聞] 女檢吳亞芝洩密給詐團律師男友桃檢竟「簽結」 職務法庭將自行判斷",
@@ -31,16 +41,6 @@
       "author": "zoeapezoo",
       "board": "Gossiping",
       "publishTime": "2025/11/28 14:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "204",
-      "recommendCount": "956",
-      "title": "[新聞] 史上最貴「1針1億元」罕病將納健保　衛福部12月新制搶先看",
-      "link": "/bbs/Gossiping/M.1764334403.A.A6C",
-      "author": "humbler",
-      "board": "Gossiping",
-      "publishTime": "2025/11/28 12:53",
       "imageUrl": ""
     },
     {
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "321",
-      "recommendCount": "447",
+      "recommendScore": "323",
+      "recommendCount": "450",
       "title": "[情報] 軟銀將正式簽下徐若熙",
       "link": "/bbs/Baseball/M.1764349597.A.73B",
       "author": "SeanLi1013",
@@ -74,13 +74,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "234",
-      "recommendCount": "482",
+      "recommendScore": "235",
+      "recommendCount": "485",
       "title": "[問卦] 烏克蘭又爆出重大貪污醜聞？",
       "link": "/bbs/Gossiping/M.1764375660.A.1A3",
       "author": "KyleSeager",
       "board": "Gossiping",
       "publishTime": "2025/11/29 00:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "55",
+      "recommendCount": "535",
+      "title": "[問卦] 為什麼這裡支持統一的比例那麼高?",
+      "link": "/bbs/Gossiping/M.1764386734.A.C95",
+      "author": "richshen",
+      "board": "Gossiping",
+      "publishTime": "2025/11/29 03:25",
       "imageUrl": ""
     },
     {
@@ -104,18 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "52",
-      "recommendCount": "509",
-      "title": "[問卦] 為什麼這裡支持統一的比例那麼高?",
-      "link": "/bbs/Gossiping/M.1764386734.A.C95",
-      "author": "richshen",
-      "board": "Gossiping",
-      "publishTime": "2025/11/29 03:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "171",
-      "recommendCount": "341",
+      "recommendScore": "173",
+      "recommendCount": "345",
       "title": "[新聞] 「天道盟公主」色誘中風翁想奪產竟虐死人 判12年還要賠130萬",
       "link": "/bbs/Gossiping/M.1764378825.A.53B",
       "author": "micheal59",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "243",
-      "recommendCount": "509",
+      "recommendScore": "247",
+      "recommendCount": "513",
       "title": "Re: [新聞] 快訊／2027年核三有望重啟 卓榮泰：安全無虞的情況下做規劃",
       "link": "/bbs/Gossiping/M.1764353423.A.001",
       "author": "lfnet4",
@@ -194,14 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "192",
-      "recommendCount": "343",
-      "title": "[情報] 中國出版疑似禁止日本相關",
-      "link": "/bbs/C_Chat/M.1764321361.A.93B",
-      "author": "neverlive",
-      "board": "C_Chat",
-      "publishTime": "2025/11/28 09:16",
-      "imageUrl": "https://cache.pttweb.cc/imgur/gYqlEIb/s/808b6ec4cfefdd64dd1c13392c41ca2a"
+      "recommendScore": "114",
+      "recommendCount": "273",
+      "title": "[新聞] 賴清德赴台南公開點名「陳亭妃不能質詢我」藍議員爆玄機",
+      "link": "/bbs/Gossiping/M.1764386043.A.CA2",
+      "author": "GOD5566GOD",
+      "board": "Gossiping",
+      "publishTime": "2025/11/29 03:14",
+      "imageUrl": ""
     }
   ]
 }
