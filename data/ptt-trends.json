@@ -1,11 +1,11 @@
 {
-  "updated": "2025-12-01T15:32:44.060Z",
+  "updated": "2025-12-01T15:46:19.723Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "422",
-      "recommendCount": "650",
+      "recommendScore": "423",
+      "recommendCount": "651",
       "title": "[閒聊] 出租女友 404 日文文字情報",
       "link": "/bbs/C_Chat/M.1764571690.A.D29",
       "author": "k300plus",
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "826",
-      "recommendCount": "1474",
-      "title": "[討論] [Vtub] Hololive 晚間直播單（1141201）",
-      "link": "/bbs/C_Chat/M.1764586495.A.64B",
-      "author": "laptic",
-      "board": "C_Chat",
-      "publishTime": "2025/12/01 10:54",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "131",
       "recommendCount": "371",
       "title": "[問卦] 50嵐這品牌為何可以屹立不搖?",
@@ -201,6 +191,16 @@
       "author": "getlonely",
       "board": "Gossiping",
       "publishTime": "2025/11/30 16:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "815",
+      "recommendCount": "1474",
+      "title": "[討論] [Vtub] Hololive 晚間直播單（1141201）",
+      "link": "/bbs/C_Chat/M.1764586495.A.64B",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2025/12/01 10:54",
       "imageUrl": ""
     }
   ]
