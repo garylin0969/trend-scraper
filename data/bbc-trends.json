@@ -1,14 +1,22 @@
 {
-  "updated": "2025-12-01T05:24:05.432Z",
+  "updated": "2025-12-01T05:51:05.885Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-12-01T05:23:58.000Z",
+    "lastBuildDate": "2025-12-01T05:50:58.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "竹棚爭議、「官進民退」到「以災亂港」：香港宏福苑大火後的輿情興起和轉向",
+      "description": "BBC中文梳理網絡輿論焦點興起和轉向、官方應對口吻及手法，回看火災之後網絡、民間和官方持續關注的焦點。",
+      "link": "https://www.bbc.com/zhongwen/articles/cvg1ej1d10mo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-01T05:31:10.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvg1ej1d10mo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/786b/live/b8aa1e90-ce69-11f0-9fb5-5f3a3703a365.jpg"
+    },
     {
       "title": "香港大埔宏福苑大火倖存者：第一次覺得死亡和我有關",
       "description": "「那一刻，我見到熊熊烈火的時候……第一次覺得死亡和我有關係。」在宏福苑大火中的倖存者李先生在獲救之後，告訴BBC中文。",
@@ -24,14 +32,6 @@
       "pubDate": "2025-11-30T12:55:21.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/clykevkpvz7o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8de9/live/1f89a2c0-cdd4-11f0-8c06-f5d460985095.jpg"
-    },
-    {
-      "title": "「這本可避免」：香港大火後的怒火與未解疑問",
-      "description": "「當類似事件發生時，就會引發一個問題：是否存在制度上的弱點？」",
-      "link": "https://www.bbc.com/zhongwen/articles/cn81yn3q0vzo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-11-29T10:16:15.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn81yn3q0vzo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/583c/live/f8ea78d0-cc19-11f0-8c06-f5d460985095.jpg"
     },
     {
       "title": "盧比奧：美烏就和平協議的協商富有成效但仍有很多工作要做",
@@ -56,6 +56,14 @@
       "pubDate": "2025-12-01T04:48:25.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cde6lw3yx0ro/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9766/live/37149ce0-ce62-11f0-8c06-f5d460985095.jpg"
+    },
+    {
+      "title": "「這本可避免」：香港大火後的怒火與未解疑問",
+      "description": "「當類似事件發生時，就會引發一個問題：是否存在制度上的弱點？」",
+      "link": "https://www.bbc.com/zhongwen/articles/cn81yn3q0vzo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-29T10:16:15.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn81yn3q0vzo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/583c/live/f8ea78d0-cc19-11f0-8c06-f5d460985095.jpg"
     },
     {
       "title": "香港宏福苑大火：金屬棚架真的比竹棚安全嗎？還有什麼關鍵因素？",
@@ -88,14 +96,6 @@
       "pubDate": "2025-11-29T09:47:06.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx2epxl95v3o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/39c8/live/ef681fd0-cc94-11f0-a892-01d657345866.jpg"
-    },
-    {
-      "title": "香港大埔宏福苑五級火警：為何發生連環大火？同類火災會否重現？",
-      "description": "香港不少屋苑正進行類似大型維修，港府稱已即時安排巡查維修的屋苑，檢視棚架及建築物料的安全。",
-      "link": "https://www.bbc.com/zhongwen/articles/c058pvn2d02o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-11-27T15:44:32.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c058pvn2d02o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fb79/live/f7369dd0-cb96-11f0-8b24-8191145688b1.png"
     },
     {
       "title": "香港宏福苑大火26小時：不斷攀升的死亡數字，在希望和絕望中掙扎的親人",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c0d/live/06524c60-ae32-11f0-ba75-093eca1ac29b.jpg"
     },
     {
+      "title": "香港大埔宏福苑五級火警：為何發生連環大火？同類火災會否重現？",
+      "description": "香港不少屋苑正進行類似大型維修，港府稱已即時安排巡查維修的屋苑，檢視棚架及建築物料的安全。",
+      "link": "https://www.bbc.com/zhongwen/articles/c058pvn2d02o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-27T15:44:32.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c058pvn2d02o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fb79/live/f7369dd0-cb96-11f0-8b24-8191145688b1.png"
+    },
+    {
       "title": "貓開始成為人類夥伴的時間，比你想像的要晚得多",
       "description": "秉持典型的貓科風格，貓花了好一段時間才決定何時、何地要與我們一同坐上沙發。",
       "link": "https://www.bbc.com/zhongwen/articles/cly5kxjgl3lo/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2025-11-27T07:14:33.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c5yjxpndg4ko/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/347a/live/fd6644f0-c950-11f0-a892-01d657345866.jpg"
-    },
-    {
-      "title": "先天患亨特綜合症男孩接受全球首個基因治療，效果讓醫生震驚",
-      "description": "亨特綜合症幾乎只發生在男孩身上，極為罕見，全球每10萬名男性新生兒中僅有一例。",
-      "link": "https://www.bbc.com/zhongwen/articles/cewj2v8qd54o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-11-26T09:39:38.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cewj2v8qd54o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/02f8/live/8c2cdf40-c96b-11f0-8c06-f5d460985095.jpg"
     }
   ]
 }
