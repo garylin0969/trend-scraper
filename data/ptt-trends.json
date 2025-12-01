@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-01T10:34:37.038Z",
+  "updated": "2025-12-01T10:48:08.818Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "63",
-      "recommendCount": "180",
-      "title": "[問卦] 幾十億的建設為什麼都砸在高雄上？",
-      "link": "/bbs/Gossiping/M.1764499092.A.905",
-      "author": "ambitious",
-      "board": "Gossiping",
-      "publishTime": "2025/11/30 10:38",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "48",
       "recommendCount": "170",
       "title": "[爆卦] 2025 全球軍事排名",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/11/30 12:58",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "86",
+      "recommendCount": "124",
+      "title": "[情報] YOASOBI 亞巡 有台北",
+      "link": "/bbs/C_Chat/M.1764503213.A.EE0",
+      "author": "jerry00116",
+      "board": "C_Chat",
+      "publishTime": "2025/11/30 11:46",
+      "imageUrl": "https://cache.pttweb.cc/imgur/6ckwQMJ/s/9cdc7b052eb43df9fb159d286fee1cd4"
     }
   ]
 }
