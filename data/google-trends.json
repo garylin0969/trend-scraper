@@ -1,6 +1,21 @@
 {
-  "updated": "2025-12-01T23:09:10.883Z",
+  "updated": "2025-12-01T23:38:16.282Z",
   "trends": [
+    {
+      "googleTrend": "天氣台北",
+      "searchVolume": "500+",
+      "started": "30 分鐘前"
+    },
+    {
+      "googleTrend": "鏡週刊",
+      "searchVolume": "100+",
+      "started": "50 分鐘前"
+    },
+    {
+      "googleTrend": "高雄停水",
+      "searchVolume": "100+",
+      "started": "2 小時前"
+    },
     {
       "googleTrend": "道瓊工業指數",
       "searchVolume": "500+",
@@ -14,12 +29,7 @@
     {
       "googleTrend": "費城半導體指數",
       "searchVolume": "100+",
-      "started": "50 分鐘前"
-    },
-    {
-      "googleTrend": "台股夜盤",
-      "searchVolume": "100+",
-      "started": "50 分鐘前"
+      "started": "1 小時前"
     }
   ]
 }
