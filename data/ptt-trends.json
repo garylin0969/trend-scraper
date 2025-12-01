@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-01T14:06:41.947Z",
+  "updated": "2025-12-01T14:18:19.034Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "111",
+      "recommendCount": "299",
+      "title": "[新聞] 王維中未入味全60人名單　傳可能成韓職亞洲外援人選",
+      "link": "/bbs/Baseball/M.1764573529.A.41E",
+      "author": "megstar",
+      "board": "Baseball",
+      "publishTime": "2025/12/01 07:18",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "137",
       "recommendCount": "331",
       "title": "[新聞] 不甩丈夫阻攔！中國女大阪勝尾寺搞破壞闖禁制區、毀台灣達摩陣",
@@ -192,16 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2025/11/30 14:17",
       "imageUrl": "https://cache.pttweb.cc/imgur/yxtQaVQ/s/ebcd8e04723da76821c616279d8aa9bf"
-    },
-    {
-      "recommendScore": "164",
-      "recommendCount": "222",
-      "title": "Re: [閒聊] 濱崎步亞洲巡演上海站取消 真的演了",
-      "link": "/bbs/C_Chat/M.1764517478.A.5DC",
-      "author": "AoyamaNanami",
-      "board": "C_Chat",
-      "publishTime": "2025/11/30 15:44",
-      "imageUrl": ""
     }
   ]
 }
