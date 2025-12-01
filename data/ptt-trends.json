@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-01T05:35:20.466Z",
+  "updated": "2025-12-01T05:48:04.915Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,26 +24,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "192",
-      "recommendCount": "330",
-      "title": "[BOX ] Mavericks 114:110 Clippers",
-      "link": "/bbs/NBA/M.1764480890.A.246",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2025/11/30 05:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "130",
-      "recommendCount": "237",
-      "title": "[新聞] 台南半夜臭醒！塑膠味瀰漫全城 環保局回應了",
-      "link": "/bbs/Gossiping/M.1764480919.A.805",
-      "author": "seiya2000",
-      "board": "Gossiping",
-      "publishTime": "2025/11/30 05:35",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "138",
       "recommendCount": "280",
       "title": "[問卦] 海鯤號送國外原廠調整 不是500億國造嗎",
@@ -51,16 +31,6 @@
       "author": "ergostepo",
       "board": "Gossiping",
       "publishTime": "2025/11/30 07:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "125",
-      "recommendCount": "539",
-      "title": "[新聞] 獨家／健保給付「億元罕藥」惹議！醫師、網友轟：壓縮其他病的健保資源",
-      "link": "/bbs/Gossiping/M.1764481023.A.21A",
-      "author": "MarkSloan",
-      "board": "Gossiping",
-      "publishTime": "2025/11/30 05:37",
       "imageUrl": ""
     },
     {
@@ -202,6 +172,36 @@
       "board": "Gossiping",
       "publishTime": "2025/11/30 07:36",
       "imageUrl": "https://cache.pttweb.cc/imgur/fqfRFkX/s/54a2c42f70b99b3013f230f8c37f39fa"
+    },
+    {
+      "recommendScore": "113",
+      "recommendCount": "130",
+      "title": "[發錢] Max又一勝+角田P10",
+      "link": "/bbs/FORMULA1/M.1764523915.A.799",
+      "author": "Pixis",
+      "board": "FORMULA1",
+      "publishTime": "2025/11/30 17:31",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "87",
+      "recommendCount": "251",
+      "title": "[問卦] 美國到底打不打得贏中共？",
+      "link": "/bbs/Gossiping/M.1764499863.A.B94",
+      "author": "shala",
+      "board": "Gossiping",
+      "publishTime": "2025/11/30 10:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "90",
+      "recommendCount": "145",
+      "title": "[新聞] 她一夜激戰2男懷上雙胞胎！　DNA結果曝「兩個孩子不同爸」",
+      "link": "/bbs/Gossiping/M.1764485651.A.C8C",
+      "author": "moneybuy",
+      "board": "Gossiping",
+      "publishTime": "2025/11/30 06:54",
+      "imageUrl": ""
     }
   ]
 }
