@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-01T11:44:21.679Z",
+  "updated": "2025-12-01T11:53:42.547Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "86",
-      "recommendCount": "124",
-      "title": "[情報] YOASOBI 亞巡 有台北",
-      "link": "/bbs/C_Chat/M.1764503213.A.EE0",
-      "author": "jerry00116",
-      "board": "C_Chat",
-      "publishTime": "2025/11/30 11:46",
-      "imageUrl": "https://cache.pttweb.cc/imgur/6ckwQMJ/s/9cdc7b052eb43df9fb159d286fee1cd4"
-    },
-    {
       "recommendScore": "89",
       "recommendCount": "136",
       "title": "Re: [情報] Ayasa 北京演唱會預計正常舉辦",
@@ -202,6 +192,16 @@
       "board": "C_Chat",
       "publishTime": "2025/11/30 14:17",
       "imageUrl": "https://cache.pttweb.cc/imgur/yxtQaVQ/s/ebcd8e04723da76821c616279d8aa9bf"
+    },
+    {
+      "recommendScore": "76",
+      "recommendCount": "200",
+      "title": "[新聞] 3歲女童溺斃泳池 恆春鎮公所管理員過失致死罪將入監",
+      "link": "/bbs/Gossiping/M.1764509332.A.B94",
+      "author": "forgetme",
+      "board": "Gossiping",
+      "publishTime": "2025/11/30 13:28",
+      "imageUrl": ""
     }
   ]
 }
