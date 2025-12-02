@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-02T03:30:26.274Z",
+  "updated": "2025-12-02T03:52:34.293Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,16 +44,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/qn8zJEM/s/db1b066ea5bda905076321593c1817e4"
     },
     {
-      "recommendScore": "164",
-      "recommendCount": "522",
-      "title": "[新聞] 年輕人滿意度突破9成 陳其邁:高科技與演唱會並進",
-      "link": "/bbs/Gossiping/M.1764559960.A.FC0",
-      "author": "tsukiji",
-      "board": "Gossiping",
-      "publishTime": "2025/12/01 03:32",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "649",
       "recommendCount": "1499",
       "title": "[Live] 世界盃亞洲區資格賽    日本 VS 台灣",
@@ -64,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "284",
-      "recommendCount": "569",
+      "recommendScore": "285",
+      "recommendCount": "571",
       "title": "[新聞] 高國豪私約二嫂釀3兄弟互打互告 攻城獅：私領域自行處理",
       "link": "/bbs/basketballTW/M.1764588265.A.B26",
       "author": "micheal59",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/12/01 05:02",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "190",
+      "recommendCount": "260",
+      "title": "[閒聊] 你現在的電腦螢幕是怎麼配置的",
+      "link": "/bbs/C_Chat/M.1764561384.A.A76",
+      "author": "LABOYS",
+      "board": "C_Chat",
+      "publishTime": "2025/12/01 03:56",
+      "imageUrl": "https://cache.pttweb.cc/imgur/mT2nC8i/s/3b2934af3f260785588ab3858bca1018"
     }
   ]
 }
