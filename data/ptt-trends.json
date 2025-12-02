@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-02T11:39:36.383Z",
+  "updated": "2025-12-02T11:47:05.857Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "368",
+      "recommendScore": "208",
+      "recommendCount": "369",
       "title": "[新聞] 高志綱遭爆外遇林倪安！　對話、照片疑曝光",
       "link": "/bbs/Baseball/M.1764650980.A.F3F",
       "author": "DDDDRR",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "147",
-      "recommendCount": "344",
+      "recommendScore": "149",
+      "recommendCount": "349",
       "title": "[新聞] OpenAI危險了！DeepSeek正式發佈V3.2 性能勝GPT-5 High追平谷歌Gemini-3.0",
       "link": "/bbs/Stock/M.1764658070.A.DB5",
       "author": "pmes9866",
@@ -64,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "140",
+      "recommendCount": "302",
+      "title": "[新聞] 無糖茶價格飆升！這款逼近40元　漲幅近12%消費者傻眼",
+      "link": "/bbs/Stock/M.1764647071.A.681",
+      "author": "brbear",
+      "board": "Stock",
+      "publishTime": "2025/12/02 03:44",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "187",
       "recommendCount": "300",
       "title": "[BOX ] Mavericks 131:121 Nuggets",
@@ -82,16 +92,6 @@
       "board": "C_Chat",
       "publishTime": "2025/12/02 09:09",
       "imageUrl": "https://cache.pttweb.cc/imgur/TSLXkRX/s/baaa96f3c2536c8fe2cf1103dd862259"
-    },
-    {
-      "recommendScore": "138",
-      "recommendCount": "299",
-      "title": "[新聞] 無糖茶價格飆升！這款逼近40元　漲幅近12%消費者傻眼",
-      "link": "/bbs/Stock/M.1764647071.A.681",
-      "author": "brbear",
-      "board": "Stock",
-      "publishTime": "2025/12/02 03:44",
-      "imageUrl": ""
     },
     {
       "recommendScore": "172",
@@ -124,6 +124,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/4zUIqZY/s/ebe3bf701f2980e1ae5796b21f2c9123"
     },
     {
+      "recommendScore": "164",
+      "recommendCount": "293",
+      "title": "[新聞] 中職》高志綱遭爆與網紅林倪安婚外情 獅隊：若違隊規最重開除",
+      "link": "/bbs/Baseball/M.1764654267.A.0A8",
+      "author": "EDFR",
+      "board": "Baseball",
+      "publishTime": "2025/12/02 05:44",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "182",
       "recommendCount": "289",
       "title": "[閒聊] FF14 為什麼台灣人這麼愛取黑人ID",
@@ -141,16 +151,6 @@
       "author": "tooth9",
       "board": "Stock",
       "publishTime": "2025/12/01 14:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "162",
-      "recommendCount": "291",
-      "title": "[新聞] 中職》高志綱遭爆與網紅林倪安婚外情 獅隊：若違隊規最重開除",
-      "link": "/bbs/Baseball/M.1764654267.A.0A8",
-      "author": "EDFR",
-      "board": "Baseball",
-      "publishTime": "2025/12/02 05:44",
       "imageUrl": ""
     },
     {
@@ -174,6 +174,26 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/E20B1ze/s/17ed1a04f3a6292ac659c4d99640f739"
     },
     {
+      "recommendScore": "170",
+      "recommendCount": "291",
+      "title": "[新聞] YSF-高志綱妻子委請律師發聲明：從未發",
+      "link": "/bbs/Baseball/M.1764669125.A.B3E",
+      "author": "nybbnan",
+      "board": "Baseball",
+      "publishTime": "2025/12/02 09:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "175",
+      "recommendCount": "284",
+      "title": "[分享] 樂天桃園新管理層人員異動結果",
+      "link": "/bbs/Baseball/M.1764667263.A.0FC",
+      "author": "same60710",
+      "board": "Baseball",
+      "publishTime": "2025/12/02 09:21",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "168",
       "recommendCount": "252",
       "title": "[情報] 今日盧峻翔",
@@ -181,26 +201,6 @@
       "author": "lb01833364",
       "board": "basketballTW",
       "publishTime": "2025/12/01 13:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "165",
-      "recommendCount": "502",
-      "title": "[閒聊] 資訊工程科的學生用Macbook…？",
-      "link": "/bbs/C_Chat/M.1764656273.A.4E9",
-      "author": "kuoyipong",
-      "board": "C_Chat",
-      "publishTime": "2025/12/02 06:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "166",
-      "recommendCount": "270",
-      "title": "[分享] 樂天桃園新管理層人員異動結果",
-      "link": "/bbs/Baseball/M.1764667263.A.0FC",
-      "author": "same60710",
-      "board": "Baseball",
-      "publishTime": "2025/12/02 09:21",
       "imageUrl": ""
     }
   ]
