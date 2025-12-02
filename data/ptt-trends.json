@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-02T09:40:21.665Z",
+  "updated": "2025-12-02T09:50:41.375Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "336",
-      "recommendCount": "588",
+      "recommendScore": "360",
+      "recommendCount": "617",
       "title": "[Vtub] 天音彼方 畢業",
       "link": "/bbs/C_Chat/M.1764662842.A.F52",
       "author": "dragon803",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "157",
-      "recommendCount": "376",
+      "recommendScore": "161",
+      "recommendCount": "384",
       "title": "[花邊] 記者：JJ讓LBJ的10分紀錄繼續延續",
       "link": "/bbs/NBA/M.1764653182.A.2EE",
       "author": "Wojnarowski",
@@ -134,18 +134,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ZiaRmi5/s/c1750215239a9422cadde576705b836f"
     },
     {
-      "recommendScore": "-123",
-      "recommendCount": "284",
-      "title": "[新聞] 快新聞／藍白得寸進尺！竟要求總統國情報告即問即答　鍾佳濱一劍封喉",
-      "link": "/bbs/Gossiping/M.1764582228.A.407",
-      "author": "TPPKoWenJe",
-      "board": "Gossiping",
-      "publishTime": "2025/12/01 09:43",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "183",
-      "recommendCount": "292",
+      "recommendCount": "293",
       "title": "[BOX ] Mavericks 131:121 Nuggets",
       "link": "/bbs/NBA/M.1764649064.A.DE0",
       "author": "jason911152",
@@ -154,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "129",
-      "recommendCount": "284",
+      "recommendScore": "130",
+      "recommendCount": "291",
       "title": "[新聞] 無糖茶價格飆升！這款逼近40元　漲幅近12%消費者傻眼",
       "link": "/bbs/Stock/M.1764647071.A.681",
       "author": "brbear",
@@ -164,8 +154,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "163",
-      "recommendCount": "323",
+      "recommendScore": "126",
+      "recommendCount": "296",
+      "title": "[新聞] OpenAI危險了！DeepSeek正式發佈V3.2 性能勝GPT-5 High追平谷歌Gemini-3.0",
+      "link": "/bbs/Stock/M.1764658070.A.DB5",
+      "author": "pmes9866",
+      "board": "Stock",
+      "publishTime": "2025/12/02 06:47",
+      "imageUrl": "https://cache.pttweb.cc/imgur/n4AGk2t/s/8a622912aadd7ea0be1871bb1f1390db"
+    },
+    {
+      "recommendScore": "162",
+      "recommendCount": "327",
       "title": "[BOX ] Suns 125:108 Lakers",
       "link": "/bbs/NBA/M.1764653102.A.5E1",
       "author": "jason911152",
@@ -174,24 +174,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "169",
-      "recommendCount": "264",
+      "recommendScore": "172",
+      "recommendCount": "267",
       "title": "[閒聊] 村田雄介兒子：原來我房間照片這麼熱門",
       "link": "/bbs/C_Chat/M.1764647900.A.742",
       "author": "RockZelda",
       "board": "C_Chat",
       "publishTime": "2025/12/02 03:58",
       "imageUrl": "https://cache.pttweb.cc/imgur/4zUIqZY/s/ebe3bf701f2980e1ae5796b21f2c9123"
-    },
-    {
-      "recommendScore": "118",
-      "recommendCount": "285",
-      "title": "[新聞] OpenAI危險了！DeepSeek正式發佈V3.2 性能勝GPT-5 High追平谷歌Gemini-3.0",
-      "link": "/bbs/Stock/M.1764658070.A.DB5",
-      "author": "pmes9866",
-      "board": "Stock",
-      "publishTime": "2025/12/02 06:47",
-      "imageUrl": "https://cache.pttweb.cc/imgur/n4AGk2t/s/8a622912aadd7ea0be1871bb1f1390db"
     },
     {
       "recommendScore": "23",
@@ -201,6 +191,16 @@
       "author": "Audrey23",
       "board": "Gossiping",
       "publishTime": "2025/12/01 11:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "825",
+      "recommendCount": "1474",
+      "title": "[討論] [Vtub] Hololive 晚間直播單（1141201）",
+      "link": "/bbs/C_Chat/M.1764586495.A.64B",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2025/12/01 10:54",
       "imageUrl": ""
     }
   ]
