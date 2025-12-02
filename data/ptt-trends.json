@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-02T08:21:47.367Z",
+  "updated": "2025-12-02T08:43:30.669Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -22,16 +22,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/01 10:41",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "356",
-      "recommendCount": "465",
-      "title": "[問卦] 教召查出來長這樣什麼意思",
-      "link": "/bbs/Gossiping/M.1764578236.A.855",
-      "author": "a159ddd",
-      "board": "Gossiping",
-      "publishTime": "2025/12/01 08:37",
-      "imageUrl": "https://cache.pttweb.cc/imgur/qn8zJEM/s/db1b066ea5bda905076321593c1817e4"
     },
     {
       "recommendScore": "649",
@@ -64,18 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "232",
-      "recommendCount": "354",
-      "title": "[閒聊] 高市早苗今在阿拉伯投資會議 喊巨人名言",
-      "link": "/bbs/C_Chat/M.1764577437.A.EE2",
-      "author": "Adolf5566",
-      "board": "C_Chat",
-      "publishTime": "2025/12/01 08:23",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "145",
-      "recommendCount": "374",
+      "recommendCount": "375",
       "title": "[問卦] 三航廈花了一千多億費時七年 合理嗎？",
       "link": "/bbs/Gossiping/M.1764588238.A.632",
       "author": "YU0121",
@@ -84,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "189",
-      "recommendCount": "337",
+      "recommendScore": "195",
+      "recommendCount": "347",
       "title": "[新聞] 高志綱遭爆外遇林倪安！　對話、照片疑曝光",
       "link": "/bbs/Baseball/M.1764650980.A.F3F",
       "author": "DDDDRR",
@@ -104,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "189",
-      "recommendCount": "291",
+      "recommendScore": "190",
+      "recommendCount": "293",
       "title": "[BOX ] Clippers 123:140 Heat",
       "link": "/bbs/NBA/M.1764644061.A.887",
       "author": "jason911152",
@@ -114,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "151",
-      "recommendCount": "355",
+      "recommendScore": "152",
+      "recommendCount": "358",
       "title": "[花邊] 記者：JJ讓LBJ的10分紀錄繼續延續",
       "link": "/bbs/NBA/M.1764653182.A.2EE",
       "author": "Wojnarowski",
@@ -164,13 +144,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "158",
-      "recommendCount": "317",
+      "recommendScore": "161",
+      "recommendCount": "320",
       "title": "[BOX ] Suns 125:108 Lakers",
       "link": "/bbs/NBA/M.1764653102.A.5E1",
       "author": "jason911152",
       "board": "NBA",
       "publishTime": "2025/12/02 05:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "127",
+      "recommendCount": "274",
+      "title": "[新聞] 無糖茶價格飆升！這款逼近40元　漲幅近12%消費者傻眼",
+      "link": "/bbs/Stock/M.1764647071.A.681",
+      "author": "brbear",
+      "board": "Stock",
+      "publishTime": "2025/12/02 03:44",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "laptic",
       "board": "C_Chat",
       "publishTime": "2025/12/01 10:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "179",
+      "recommendCount": "274",
+      "title": "[閒聊] FF14 為什麼台灣人這麼愛取黑人ID",
+      "link": "/bbs/C_Chat/M.1764634529.A.F92",
+      "author": "victor87710",
+      "board": "C_Chat",
+      "publishTime": "2025/12/02 00:15",
       "imageUrl": ""
     }
   ]
