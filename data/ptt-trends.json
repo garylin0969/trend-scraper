@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-02T04:32:14.022Z",
+  "updated": "2025-12-02T04:48:55.685Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -61,16 +61,6 @@
       "author": "micheal59",
       "board": "basketballTW",
       "publishTime": "2025/12/01 11:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "142",
-      "recommendCount": "464",
-      "title": "[新聞] 以為陸客沒消失！日本人見「我是台灣人」徽章改口：變可愛了",
-      "link": "/bbs/Gossiping/M.1764564414.A.8F0",
-      "author": "LoveMakeLove",
-      "board": "Gossiping",
-      "publishTime": "2025/12/01 04:46",
       "imageUrl": ""
     },
     {
@@ -144,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "111",
-      "recommendCount": "299",
+      "recommendScore": "110",
+      "recommendCount": "301",
       "title": "[新聞] 王維中未入味全60人名單　傳可能成韓職亞洲外援人選",
       "link": "/bbs/Baseball/M.1764573529.A.41E",
       "author": "megstar",
@@ -154,13 +144,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "234",
-      "recommendCount": "429",
+      "recommendScore": "237",
+      "recommendCount": "433",
       "title": "[情報] 本季至今各隊罰球數據",
       "link": "/bbs/NBA/M.1764588972.A.295",
       "author": "jeff1013",
       "board": "NBA",
       "publishTime": "2025/12/01 11:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "216",
+      "recommendCount": "263",
+      "title": "[討論] 投球姿勢看起來很省力的投手?",
+      "link": "/bbs/Baseball/M.1764603312.A.741",
+      "author": "jj840917",
+      "board": "Baseball",
+      "publishTime": "2025/12/01 15:35",
       "imageUrl": ""
     },
     {
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "211",
-      "recommendCount": "253",
-      "title": "[討論] 投球姿勢看起來很省力的投手?",
-      "link": "/bbs/Baseball/M.1764603312.A.741",
-      "author": "jj840917",
-      "board": "Baseball",
-      "publishTime": "2025/12/01 15:35",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "91",
       "recommendCount": "341",
       "title": "[問卦] 大陸物流也太誇張了，大家看法？",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/12/01 12:22",
       "imageUrl": "https://cache.pttweb.cc/imgur/ZiaRmi5/s/c1750215239a9422cadde576705b836f"
+    },
+    {
+      "recommendScore": "167",
+      "recommendCount": "262",
+      "title": "[BOX ] Clippers 123:140 Heat",
+      "link": "/bbs/NBA/M.1764644061.A.887",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2025/12/02 02:54",
+      "imageUrl": ""
     }
   ]
 }
