@@ -1,21 +1,11 @@
 {
-  "updated": "2025-12-02T10:40:34.529Z",
+  "updated": "2025-12-02T10:50:51.798Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "184",
-      "recommendCount": "578",
-      "title": "[問卦] 全聯員工：全聯倒掉 民眾沒有代替品",
-      "link": "/bbs/Gossiping/M.1764585719.A.490",
-      "author": "newpasta",
-      "board": "Gossiping",
-      "publishTime": "2025/12/01 10:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "381",
-      "recommendCount": "646",
+      "recommendScore": "393",
+      "recommendCount": "664",
       "title": "[Vtub] 天音彼方 畢業",
       "link": "/bbs/C_Chat/M.1764662842.A.F52",
       "author": "dragon803",
@@ -34,8 +24,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "205",
-      "recommendCount": "365",
+      "recommendScore": "175",
+      "recommendCount": "410",
+      "title": "[花邊] 記者：JJ讓LBJ的10分紀錄繼續延續",
+      "link": "/bbs/NBA/M.1764653182.A.2EE",
+      "author": "Wojnarowski",
+      "board": "NBA",
+      "publishTime": "2025/12/02 05:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "207",
+      "recommendCount": "368",
       "title": "[新聞] 高志綱遭爆外遇林倪安！　對話、照片疑曝光",
       "link": "/bbs/Baseball/M.1764650980.A.F3F",
       "author": "DDDDRR",
@@ -54,18 +54,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "168",
-      "recommendCount": "395",
-      "title": "[花邊] 記者：JJ讓LBJ的10分紀錄繼續延續",
-      "link": "/bbs/NBA/M.1764653182.A.2EE",
-      "author": "Wojnarowski",
-      "board": "NBA",
-      "publishTime": "2025/12/02 05:26",
-      "imageUrl": ""
+      "recommendScore": "148",
+      "recommendCount": "339",
+      "title": "[新聞] OpenAI危險了！DeepSeek正式發佈V3.2 性能勝GPT-5 High追平谷歌Gemini-3.0",
+      "link": "/bbs/Stock/M.1764658070.A.DB5",
+      "author": "pmes9866",
+      "board": "Stock",
+      "publishTime": "2025/12/02 06:47",
+      "imageUrl": "https://cache.pttweb.cc/imgur/n4AGk2t/s/8a622912aadd7ea0be1871bb1f1390db"
     },
     {
-      "recommendScore": "227",
-      "recommendCount": "278",
+      "recommendScore": "228",
+      "recommendCount": "279",
       "title": "[討論] 投球姿勢看起來很省力的投手?",
       "link": "/bbs/Baseball/M.1764603312.A.741",
       "author": "jj840917",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "191",
-      "recommendCount": "294",
+      "recommendScore": "192",
+      "recommendCount": "295",
       "title": "[BOX ] Clippers 123:140 Heat",
       "link": "/bbs/NBA/M.1764644061.A.887",
       "author": "jason911152",
@@ -94,6 +94,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "186",
+      "recommendCount": "297",
+      "title": "[BOX ] Mavericks 131:121 Nuggets",
+      "link": "/bbs/NBA/M.1764649064.A.DE0",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2025/12/02 04:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "137",
+      "recommendCount": "298",
+      "title": "[新聞] 無糖茶價格飆升！這款逼近40元　漲幅近12%消費者傻眼",
+      "link": "/bbs/Stock/M.1764647071.A.681",
+      "author": "brbear",
+      "board": "Stock",
+      "publishTime": "2025/12/02 03:44",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "93",
       "recommendCount": "348",
       "title": "[問卦] 大陸物流也太誇張了，大家看法？",
@@ -104,38 +124,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ZiaRmi5/s/c1750215239a9422cadde576705b836f"
     },
     {
-      "recommendScore": "184",
-      "recommendCount": "295",
-      "title": "[BOX ] Mavericks 131:121 Nuggets",
-      "link": "/bbs/NBA/M.1764649064.A.DE0",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2025/12/02 04:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "131",
-      "recommendCount": "304",
-      "title": "[新聞] OpenAI危險了！DeepSeek正式發佈V3.2 性能勝GPT-5 High追平谷歌Gemini-3.0",
-      "link": "/bbs/Stock/M.1764658070.A.DB5",
-      "author": "pmes9866",
-      "board": "Stock",
-      "publishTime": "2025/12/02 06:47",
-      "imageUrl": "https://cache.pttweb.cc/imgur/n4AGk2t/s/8a622912aadd7ea0be1871bb1f1390db"
-    },
-    {
-      "recommendScore": "132",
-      "recommendCount": "293",
-      "title": "[新聞] 無糖茶價格飆升！這款逼近40元　漲幅近12%消費者傻眼",
-      "link": "/bbs/Stock/M.1764647071.A.681",
-      "author": "brbear",
-      "board": "Stock",
-      "publishTime": "2025/12/02 03:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "164",
-      "recommendCount": "335",
+      "recommendScore": "168",
+      "recommendCount": "339",
       "title": "[BOX ] Suns 125:108 Lakers",
       "link": "/bbs/NBA/M.1764653102.A.5E1",
       "author": "jason911152",
@@ -152,6 +142,16 @@
       "board": "C_Chat",
       "publishTime": "2025/12/02 03:58",
       "imageUrl": "https://cache.pttweb.cc/imgur/4zUIqZY/s/ebe3bf701f2980e1ae5796b21f2c9123"
+    },
+    {
+      "recommendScore": "201",
+      "recommendCount": "457",
+      "title": "[Holo] 天音かなた 畢業說明(推特)",
+      "link": "/bbs/C_Chat/M.1764666558.A.805",
+      "author": "loveSETSUNA",
+      "board": "C_Chat",
+      "publishTime": "2025/12/02 09:09",
+      "imageUrl": "https://cache.pttweb.cc/imgur/TSLXkRX/s/baaa96f3c2536c8fe2cf1103dd862259"
     },
     {
       "recommendScore": "23",
@@ -184,24 +184,24 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "183",
+      "recommendCount": "284",
+      "title": "[閒聊] FF14 為什麼台灣人這麼愛取黑人ID",
+      "link": "/bbs/C_Chat/M.1764634529.A.F92",
+      "author": "victor87710",
+      "board": "C_Chat",
+      "publishTime": "2025/12/02 00:15",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "129",
-      "recommendCount": "224",
+      "recommendCount": "226",
       "title": "[新聞] 麻吉大哥又爆了！比特幣閃崩 讓他資產208萬美元只剩36萬",
       "link": "/bbs/Stock/M.1764600031.A.15D",
       "author": "tooth9",
       "board": "Stock",
       "publishTime": "2025/12/01 14:40",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "182",
-      "recommendCount": "201",
-      "title": "[推投] 鳴潮-最喜歡的黎那汐塔版本",
-      "link": "/bbs/C_Chat/M.1764587157.A.3C8",
-      "author": "s2637726",
-      "board": "C_Chat",
-      "publishTime": "2025/12/01 11:05",
-      "imageUrl": "https://cache.pttweb.cc/imgur/0tZ7KFT/s/258146efa60a81aacd5319a15caca412"
     }
   ]
 }
