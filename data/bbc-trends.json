@@ -1,10 +1,10 @@
 {
-  "updated": "2025-12-02T08:24:04.315Z",
+  "updated": "2025-12-02T08:53:13.964Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-12-02T08:23:59.000Z",
+    "lastBuildDate": "2025-12-02T08:53:07.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -42,11 +42,19 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3072/live/b8833320-cd4c-11f0-8c06-f5d460985095.jpg"
     },
     {
+      "title": "美英達成藥品「零關稅協議」",
+      "description": "該協議是在威脅對品牌藥品進口徵收高達100%關稅之後達成的。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwyx6118gxyo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-02T08:42:43.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwyx6118gxyo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d7a1/live/f33b4ce0-cece-11f0-8741-59a8e037abac.jpg"
+    },
+    {
       "title": "白宮醫生公佈特朗普MRI檢查結果：顯示「完全正常」",
       "description": "此一公布正值民主黨人士因擔憂特朗普年齡而要求公開檢查結果之際。",
       "link": "https://www.bbc.com/zhongwen/articles/c8jwe1zp0zpo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-12-02T03:52:44.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c8jwe1zp0zpo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c8jwe1zp0zpo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3ef2/live/8f3ee280-cf03-11f0-bdb0-ab4ab31f90fa.jpg"
     },
     {
@@ -64,14 +72,6 @@
       "pubDate": "2025-12-01T03:21:52.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c4g9dygllw7o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a2d0/live/c7e33f30-ce5b-11f0-a892-01d657345866.jpg"
-    },
-    {
-      "title": "「Rage bait」（憤怒誘餌）：2025年牛津年度詞彙出爐",
-      "description": "根據牛津大學出版社，其定義為故意設計的線上內容，用透過令人沮喪、挑釁或冒犯的方式，引發觀看者憤怒或憤慨。",
-      "link": "https://www.bbc.com/zhongwen/articles/cde6lw3yx0ro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-01T04:48:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cde6lw3yx0ro/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9766/live/37149ce0-ce62-11f0-8c06-f5d460985095.jpg"
     },
     {
       "title": "「這本可避免」：香港大火後的怒火與未解疑問",
@@ -282,6 +282,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fb79/live/f7369dd0-cb96-11f0-8b24-8191145688b1.png"
     },
     {
+      "title": "「Rage bait」（憤怒誘餌）：2025年牛津年度詞彙出爐",
+      "description": "根據牛津大學出版社，其定義為故意設計的線上內容，用透過令人沮喪、挑釁或冒犯的方式，引發觀看者憤怒或憤慨。",
+      "link": "https://www.bbc.com/zhongwen/articles/cde6lw3yx0ro/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-01T04:48:25.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cde6lw3yx0ro/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9766/live/37149ce0-ce62-11f0-8c06-f5d460985095.jpg"
+    },
+    {
       "title": "高樓大廈火災中，如何提高生還的機會？",
       "description": "本週香港發生嚴重大火後，全球數以百萬計的人或許都在思考：「如果我所住的大廈起火，我應該怎麼辦？」",
       "link": "https://www.bbc.com/zhongwen/articles/cx2epxl95v3o/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2025-11-30T02:40:16.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy47p0j3j5xo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3069/live/839fd7e0-cb48-11f0-a892-01d657345866.jpg"
-    },
-    {
-      "title": "「這是魔鬼之手」：大熱新片再議關於左撇子的多種迷思",
-      "description": "左撇子常被視為「錯誤」，但同時也被視為「天才」的象徵。鄒時擎的最新劇情片《左撇子女孩》取材自她本人在台灣作為左撇子所遭受的偏見。",
-      "link": "https://www.bbc.com/zhongwen/articles/cjdrn0nnmgno/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-11-27T05:46:28.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cjdrn0nnmgno/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6f0d/live/f2eb9c60-cb43-11f0-a892-01d657345866.jpg"
     }
   ]
 }
