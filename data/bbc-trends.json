@@ -1,14 +1,22 @@
 {
-  "updated": "2025-12-03T08:53:08.009Z",
+  "updated": "2025-12-03T09:23:47.319Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-12-03T08:52:55.000Z",
+    "lastBuildDate": "2025-12-03T09:23:42.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "台灣的對美右翼媒體攻勢：賴清德與蕭美琴的外交新策略能成功嗎？",
+      "description": "賴清德與蕭美琴將罕見的專訪機會給予美國主流大媒體之外的媒體，這場攻勢的核心動機何在？這個戰略會成功嗎？",
+      "link": "https://www.bbc.com/zhongwen/articles/c5yq53qpj6wo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-03T09:15:42.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5yq53qpj6wo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ae1e/live/010ed070-d029-11f0-8d66-e797ff22b6b0.jpg"
+    },
     {
       "title": "竹棚爭議、「官進民退」到「以災亂港」：香港宏福苑大火後的輿情興起和轉向",
       "description": "BBC中文梳理網絡輿論焦點興起和轉向、官方應對口吻及手法，回看火災之後網絡、民間和官方持續關注的焦點。",
@@ -46,7 +54,7 @@
       "description": "在英國和整個歐洲，汽車變得越來越長、越來越寬、越來越重。",
       "link": "https://www.bbc.com/zhongwen/articles/cp3413n6dwvo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-12-03T04:04:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cp3413n6dwvo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cp3413n6dwvo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c28e/live/e45ae640-cf6e-11f0-9fb5-5f3a3703a365.jpg"
     },
     {
@@ -96,14 +104,6 @@
       "pubDate": "2025-11-29T10:16:15.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn81yn3q0vzo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/583c/live/f8ea78d0-cc19-11f0-8c06-f5d460985095.jpg"
-    },
-    {
-      "title": "開戰車的女人：台灣軍隊性別平等了嗎？",
-      "description": "30歲的鄭宇君入伍八年，今年駕駛著美製M1A2T主力戰車頻頻在媒體前操演，成為了陸軍「女性代表」的面孔。但在表面風光背後，台灣軍隊真的有達到性別平等嗎？女性如何在男性主導的組織裡打破「天花板」？",
-      "link": "https://www.bbc.com/zhongwen/articles/cj69kxly35eo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-11-30T01:58:38.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cj69kxly35eo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bf5c/live/47f55b90-cbfa-11f0-a892-01d657345866.jpg"
     },
     {
       "title": "從「吃壽司」到宣布2027年防衛備戰，賴清德為何由低調轉為強硬？",
@@ -234,12 +234,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/721c/live/485fa170-c90d-11f0-9fb5-5f3a3703a365.jpg"
     },
     {
-      "title": "香港宏福苑大火26小時：不斷攀升的死亡數字，在希望和絕望中掙扎的親人",
-      "description": "11月26日下午，香港大埔屋苑宏福苑發生五級火警，至今已造成至少94人死亡。這場大火在創下香港火災傷亡紀錄的同時，也留下了眾多悲傷的家庭。\n\n",
-      "link": "https://www.bbc.com/zhongwen/articles/cz7nqgerjg4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-11-28T05:59:53.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cz7nqgerjg4o/trad#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b86e/live/ad4fb5a0-cb80-11f0-a892-01d657345866.png"
+      "title": "開戰車的女人：台灣軍隊性別平等了嗎？",
+      "description": "30歲的鄭宇君入伍八年，今年駕駛著美製M1A2T主力戰車頻頻在媒體前操演，成為了陸軍「女性代表」的面孔。但在表面風光背後，台灣軍隊真的有達到性別平等嗎？女性如何在男性主導的組織裡打破「天花板」？",
+      "link": "https://www.bbc.com/zhongwen/articles/cj69kxly35eo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-30T01:58:38.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cj69kxly35eo/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bf5c/live/47f55b90-cbfa-11f0-a892-01d657345866.jpg"
     },
     {
       "title": "高市早苗言論風波，台灣捲入中日角力為何力求低調？",
@@ -282,6 +282,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c05f/live/2d9a9af0-ccb1-11f0-bb41-61d84bfa8432.jpg"
     },
     {
+      "title": "香港宏福苑大火26小時：不斷攀升的死亡數字，在希望和絕望中掙扎的親人",
+      "description": "11月26日下午，香港大埔屋苑宏福苑發生五級火警，至今已造成至少94人死亡。這場大火在創下香港火災傷亡紀錄的同時，也留下了眾多悲傷的家庭。\n\n",
+      "link": "https://www.bbc.com/zhongwen/articles/cz7nqgerjg4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-11-28T05:59:53.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cz7nqgerjg4o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b86e/live/ad4fb5a0-cb80-11f0-a892-01d657345866.png"
+    },
+    {
       "title": "香港大埔宏福苑五級火警：為何發生連環大火？同類火災會否重現？",
       "description": "香港不少屋苑正進行類似大型維修，港府稱已即時安排巡查維修的屋苑，檢視棚架及建築物料的安全。",
       "link": "https://www.bbc.com/zhongwen/articles/c058pvn2d02o/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2025-11-29T09:47:06.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx2epxl95v3o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/39c8/live/ef681fd0-cc94-11f0-a892-01d657345866.jpg"
-    },
-    {
-      "title": "貓開始成為人類夥伴的時間，比你想像的要晚得多",
-      "description": "秉持典型的貓科風格，貓花了好一段時間才決定何時、何地要與我們一同坐上沙發。",
-      "link": "https://www.bbc.com/zhongwen/articles/cly5kxjgl3lo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-01T00:24:26.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cly5kxjgl3lo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f57/live/c8bb1440-ca0b-11f0-86af-23a21b51892f.jpg"
     }
   ]
 }
