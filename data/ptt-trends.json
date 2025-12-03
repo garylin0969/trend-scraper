@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-03T13:26:12.337Z",
+  "updated": "2025-12-03T13:44:15.128Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "84",
-      "recommendCount": "161",
-      "title": "[新聞] 扁：賴有望2026翻轉藍綠版圖",
-      "link": "/bbs/Gossiping/M.1764682239.A.5FB",
-      "author": "TonyKart",
-      "board": "Gossiping",
-      "publishTime": "2025/12/02 13:30",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-46",
       "recommendCount": "198",
       "title": "[新聞] 首位台灣得主！唐鳳獲頒「諾貝爾替代獎」正命獎：榮耀獻給台灣",
@@ -202,6 +192,16 @@
       "board": "C_Chat",
       "publishTime": "2025/12/02 22:16",
       "imageUrl": "https://cache.pttweb.cc/imgur/BMofdd6/s/a6962128eac9186f2e93d4e412bc7da2"
+    },
+    {
+      "recommendScore": "142",
+      "recommendCount": "248",
+      "title": "[新聞] 林書逸轉戰富邦 喚回最好時光",
+      "link": "/bbs/Baseball/M.1764711351.A.A47",
+      "author": "kensukeshu",
+      "board": "Baseball",
+      "publishTime": "2025/12/02 21:35",
+      "imageUrl": ""
     }
   ]
 }
