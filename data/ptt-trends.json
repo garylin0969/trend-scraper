@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-03T17:42:20.337Z",
+  "updated": "2025-12-03T17:54:38.903Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "195",
+      "recommendCount": "313",
+      "title": "[情報] 小明劍魔結婚了",
+      "link": "/bbs/C_Chat/M.1764698372.A.77E",
+      "author": "Winux",
+      "board": "C_Chat",
+      "publishTime": "2025/12/02 17:59",
+      "imageUrl": "https://cache.pttweb.cc/imgur/oWyAHuc/s/062232981cb7a6cd0d84034d435506f9"
+    },
+    {
       "recommendScore": "185",
       "recommendCount": "341",
       "title": "[閒聊] 出租女友 404 高手瑠夏",
@@ -144,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "174",
-      "recommendCount": "275",
-      "title": "[情報] 小明劍魔結婚了",
-      "link": "/bbs/C_Chat/M.1764698372.A.77E",
-      "author": "Winux",
-      "board": "C_Chat",
-      "publishTime": "2025/12/02 17:59",
-      "imageUrl": "https://cache.pttweb.cc/imgur/oWyAHuc/s/062232981cb7a6cd0d84034d435506f9"
-    },
-    {
       "recommendScore": "52",
       "recommendCount": "380",
       "title": "[問卦] 台鐵自強號根本智障",
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "149",
+      "recommendCount": "248",
+      "title": "[情報] 大縮減《絕地戰兵2》容量154GB縮成23GB",
+      "link": "/bbs/C_Chat/M.1764730288.A.89E",
+      "author": "basala5417",
+      "board": "C_Chat",
+      "publishTime": "2025/12/03 02:51",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "103",
       "recommendCount": "211",
       "title": "[新聞] 陳亭妃政見會拒納提問　林俊憲嗆不是去唸稿：真材實料還是草包？",
@@ -191,16 +201,6 @@
       "author": "bengowa",
       "board": "NBA",
       "publishTime": "2025/12/03 01:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-108",
-      "recommendCount": "233",
-      "title": "[新聞] 賴總統：台物價穩、經濟強歸功全民 執政黨使命是「化為有感政策」",
-      "link": "/bbs/Gossiping/M.1764750062.A.A78",
-      "author": "ccf52881",
-      "board": "Gossiping",
-      "publishTime": "2025/12/03 08:21",
       "imageUrl": ""
     }
   ]
