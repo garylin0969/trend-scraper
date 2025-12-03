@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-03T06:08:37.657Z",
+  "updated": "2025-12-03T06:21:56.792Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "73",
-      "recommendCount": "296",
-      "title": "[新聞] 最新民調！賴清德、卓榮泰執政滿意度回溫 總統信任度破四成",
-      "link": "/bbs/Gossiping/M.1764656120.A.A4C",
-      "author": "dk2ftrmrn",
-      "board": "Gossiping",
-      "publishTime": "2025/12/02 06:15",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "240",
       "recommendCount": "508",
       "title": "[Holo] 天音かなた 畢業說明(推特)",
@@ -202,6 +192,16 @@
       "board": "PC_Shopping",
       "publishTime": "2025/12/02 11:25",
       "imageUrl": "https://cache.pttweb.cc/imgur/NFBKysn/s/1e74aa85b5175773b5c0761ef8068073"
+    },
+    {
+      "recommendScore": "862",
+      "recommendCount": "1484",
+      "title": "[討論] [Vtub] Hololive 晚間直播單 (1141202)",
+      "link": "/bbs/C_Chat/M.1764671645.A.781",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2025/12/02 10:34",
+      "imageUrl": ""
     }
   ]
 }
