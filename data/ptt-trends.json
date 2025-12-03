@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-03T06:44:53.184Z",
+  "updated": "2025-12-03T06:57:29.782Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "150",
-      "recommendCount": "376",
-      "title": "[新聞] OpenAI危險了！DeepSeek正式發佈V3.2 性能勝GPT-5 High追平谷歌Gemini-3.0",
-      "link": "/bbs/Stock/M.1764658070.A.DB5",
-      "author": "pmes9866",
-      "board": "Stock",
-      "publishTime": "2025/12/02 06:47",
-      "imageUrl": "https://cache.pttweb.cc/imgur/n4AGk2t/s/8a622912aadd7ea0be1871bb1f1390db"
-    },
-    {
       "recommendScore": "100",
       "recommendCount": "404",
       "title": "[問卦] D卡:男友竟獨自升等艙位拋下我在經濟艙",
@@ -201,6 +191,16 @@
       "author": "laptic",
       "board": "C_Chat",
       "publishTime": "2025/12/02 10:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "101",
+      "recommendCount": "287",
+      "title": "[新聞] 柯文哲陷弊案聲請法庭直播 北院「這理由」打槍只能延後播",
+      "link": "/bbs/Gossiping/M.1764671944.A.5F8",
+      "author": "chekove",
+      "board": "Gossiping",
+      "publishTime": "2025/12/02 10:39",
       "imageUrl": ""
     }
   ]
