@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-04T06:57:42.961Z",
+  "updated": "2025-12-04T07:09:03.719Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "91",
-      "recommendCount": "167",
-      "title": "[情報] 南亞科11月營收",
-      "link": "/bbs/Stock/M.1764745639.A.8D3",
-      "author": "HiIm5566",
-      "board": "Stock",
-      "publishTime": "2025/12/03 07:07",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "58",
       "recommendCount": "142",
       "title": "[情報] 2025/12/03 記憶體報價 崩",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/12/03 14:46",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "160",
+      "recommendCount": "468",
+      "title": "[Vtub] 關於Hololive的工作量",
+      "link": "/bbs/C_Chat/M.1764814083.A.361",
+      "author": "qqq3892005",
+      "board": "C_Chat",
+      "publishTime": "2025/12/04 02:08",
+      "imageUrl": "https://cache.pttweb.cc/imgur/vujhTsh/s/730f4acfe7adb77cb172888055e7e33d"
     }
   ]
 }
