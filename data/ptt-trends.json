@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-04T08:42:58.642Z",
+  "updated": "2025-12-04T08:57:13.438Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,16 +154,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/vujhTsh/s/730f4acfe7adb77cb172888055e7e33d"
     },
     {
-      "recommendScore": "39",
-      "recommendCount": "112",
-      "title": "[花邊] 帕森斯批評LBJ為了紀錄而刷分",
-      "link": "/bbs/NBA/M.1764751831.A.41C",
-      "author": "shaaan",
-      "board": "NBA",
-      "publishTime": "2025/12/03 08:50",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "72",
       "recommendCount": "114",
       "title": "[新聞] 國產發球機可模擬大谷翔平球路　2週後進駐國訓中心",
@@ -201,6 +191,16 @@
       "author": "danny0830",
       "board": "MobilePay",
       "publishTime": "2025/12/03 11:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-6",
+      "recommendCount": "104",
+      "title": "[新聞] 林飛帆搖旗「大罷免2.0」:民意壓力是解決問題唯一關鍵",
+      "link": "/bbs/Gossiping/M.1764769037.A.E98",
+      "author": "deathdecay",
+      "board": "Gossiping",
+      "publishTime": "2025/12/03 13:37",
       "imageUrl": ""
     }
   ]
