@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-04T15:07:26.914Z",
+  "updated": "2025-12-04T15:19:19.232Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "41",
-      "recommendCount": "113",
-      "title": "[問卦] 日本人說頭殼壞掉才想跟中國打仗",
-      "link": "/bbs/Gossiping/M.1764774571.A.C3C",
-      "author": "beaver",
-      "board": "Gossiping",
-      "publishTime": "2025/12/03 15:09",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-29",
       "recommendCount": "64",
       "title": "[新聞] 快新聞／怒斥藍白要總統「即問即答」違憲！卓揆霸氣喊：要被咆哮我去就好",
@@ -201,6 +191,16 @@
       "author": "lgng66133",
       "board": "BaseballXXXX",
       "publishTime": "2025/12/04 09:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "18",
+      "recommendCount": "58",
+      "title": "Re: [閒聊] B站有可能被台灣封鎖嗎？",
+      "link": "/bbs/C_Chat/M.1764836406.A.D25",
+      "author": "pufferfish72",
+      "board": "C_Chat",
+      "publishTime": "2025/12/04 08:20",
       "imageUrl": ""
     }
   ]
