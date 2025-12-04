@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-04T06:22:08.063Z",
+  "updated": "2025-12-04T06:44:52.552Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "34",
+      "recommendCount": "161",
+      "title": "[外絮] LBJ感嘆失誤與缺乏能量導致湖人輸太陽",
+      "link": "/bbs/NBA/M.1764758417.A.DC3",
+      "author": "shaaan",
+      "board": "NBA",
+      "publishTime": "2025/12/03 10:40",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-28",
       "recommendCount": "159",
       "title": "[新聞] 為何藍白這麼壞還有人支持？學者揭真相：民主必然的風險",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/03 14:46",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "160",
-      "recommendCount": "468",
-      "title": "[Vtub] 關於Hololive的工作量",
-      "link": "/bbs/C_Chat/M.1764814083.A.361",
-      "author": "qqq3892005",
-      "board": "C_Chat",
-      "publishTime": "2025/12/04 02:08",
-      "imageUrl": "https://cache.pttweb.cc/imgur/vujhTsh/s/730f4acfe7adb77cb172888055e7e33d"
     }
   ]
 }
