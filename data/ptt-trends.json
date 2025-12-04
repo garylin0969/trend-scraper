@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-04T16:50:30.431Z",
+  "updated": "2025-12-04T17:00:52.430Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -11,6 +11,16 @@
       "author": "semih",
       "board": "Gossiping",
       "publishTime": "2025/12/03 23:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "118",
+      "recommendCount": "252",
+      "title": "[新聞] 台美關稅進入最後協議！　美商務部長：台灣將訓練美國勞工",
+      "link": "/bbs/Stock/M.1764805791.A.C48",
+      "author": "hugh509",
+      "board": "Stock",
+      "publishTime": "2025/12/03 23:49",
       "imageUrl": ""
     },
     {
@@ -62,6 +72,16 @@
       "board": "C_Chat",
       "publishTime": "2025/12/04 02:08",
       "imageUrl": "https://cache.pttweb.cc/imgur/vujhTsh/s/730f4acfe7adb77cb172888055e7e33d"
+    },
+    {
+      "recommendScore": "55",
+      "recommendCount": "108",
+      "title": "[問卦] 科技業去美國，台灣剩？",
+      "link": "/bbs/Gossiping/M.1764806125.A.F73",
+      "author": "slovea",
+      "board": "Gossiping",
+      "publishTime": "2025/12/03 23:55",
+      "imageUrl": ""
     },
     {
       "recommendScore": "-6",
@@ -181,26 +201,6 @@
       "author": "MarkZuck",
       "board": "HatePolitics",
       "publishTime": "2025/12/04 00:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "51",
-      "recommendCount": "252",
-      "title": "[新聞] 柯志恩稱「高雄55年都是民進黨執政」　張博洋酸：忘了韓國瑜？",
-      "link": "/bbs/HatePolitics/M.1764807228.A.4A0",
-      "author": "Spinner3",
-      "board": "HatePolitics",
-      "publishTime": "2025/12/04 00:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-30",
-      "recommendCount": "124",
-      "title": "[新聞] 藍白擋國防預算引爆國安危機　民團再出招！廢憲訴法公投「連署破3萬」",
-      "link": "/bbs/Gossiping/M.1764805173.A.E89",
-      "author": "james7923",
-      "board": "Gossiping",
-      "publishTime": "2025/12/03 23:39",
       "imageUrl": ""
     }
   ]
