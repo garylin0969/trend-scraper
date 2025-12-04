@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-04T14:18:36.820Z",
+  "updated": "2025-12-04T14:33:02.142Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "52",
-      "recommendCount": "102",
-      "title": "[情報] NPB選手會堅決反對一軍採用突破僵局制",
-      "link": "/bbs/Baseball/M.1764772135.A.474",
-      "author": "Fitzwilliam",
-      "board": "Baseball",
-      "publishTime": "2025/12/03 14:28",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "63",
       "recommendCount": "106",
       "title": "[情報] Giannis可能即將離開公鹿",
@@ -201,6 +191,16 @@
       "author": "EZ78",
       "board": "NBA",
       "publishTime": "2025/12/03 19:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "43",
+      "recommendCount": "143",
+      "title": "Re: [花邊] Chris Paul將被送回家離隊解約",
+      "link": "/bbs/NBA/M.1764773833.A.BB0",
+      "author": "bm1041644",
+      "board": "NBA",
+      "publishTime": "2025/12/03 14:57",
       "imageUrl": ""
     }
   ]
