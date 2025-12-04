@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-04T20:18:39.011Z",
+  "updated": "2025-12-04T20:33:05.375Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "100",
+      "recommendCount": "138",
+      "title": "[新聞] 安了！富邦悍將大約網羅林岱安有影",
+      "link": "/bbs/Baseball/M.1764849692.A.89B",
+      "author": "kensukeshu",
+      "board": "Baseball",
+      "publishTime": "2025/12/04 12:01",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "73",
       "recommendCount": "156",
       "title": "[花邊] Lue：不喜歡看到球隊這樣對待CP3",
@@ -191,16 +201,6 @@
       "author": "shunhahahaha",
       "board": "SportLottery",
       "publishTime": "2025/12/04 14:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "30",
-      "recommendCount": "129",
-      "title": "[新聞] 美商務部長談台美關稅協議 暗示投資金額超過3000億美元",
-      "link": "/bbs/Stock/M.1764806487.A.49A",
-      "author": "jeff0025",
-      "board": "Stock",
-      "publishTime": "2025/12/04 00:01",
       "imageUrl": ""
     }
   ]
