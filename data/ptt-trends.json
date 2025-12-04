@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-04T02:14:56.975Z",
+  "updated": "2025-12-04T02:55:40.648Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,26 +34,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "258",
-      "recommendCount": "509",
-      "title": "[閒聊] LCK引入「教練語音」功能，使教練團和隊",
-      "link": "/bbs/LoL/M.1764730023.A.ED8",
-      "author": "AoyamaNanami",
-      "board": "LoL",
-      "publishTime": "2025/12/03 02:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "175",
-      "recommendCount": "312",
-      "title": "[新聞] 「小草女神」選台中議員！劉芩妤騎單車掃街自帶女神光",
-      "link": "/bbs/Gossiping/M.1764729612.A.07A",
-      "author": "CTC0115",
-      "board": "Gossiping",
-      "publishTime": "2025/12/03 02:40",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "158",
       "recommendCount": "348",
       "title": "[標的] MOMO購物（富邦媒）怎麼慘成這樣？",
@@ -71,16 +51,6 @@
       "author": "Vanced",
       "board": "Gossiping",
       "publishTime": "2025/12/03 03:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "149",
-      "recommendCount": "248",
-      "title": "[情報] 大縮減《絕地戰兵2》容量154GB縮成23GB",
-      "link": "/bbs/C_Chat/M.1764730288.A.89E",
-      "author": "basala5417",
-      "board": "C_Chat",
-      "publishTime": "2025/12/03 02:51",
       "imageUrl": ""
     },
     {
@@ -174,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "39",
-      "recommendCount": "279",
-      "title": "[新聞] 考試寫「中華民國」被扣分！高中生怨：是國家本名　校方急澄清",
-      "link": "/bbs/Gossiping/M.1764729424.A.C79",
-      "author": "seiya2000",
-      "board": "Gossiping",
-      "publishTime": "2025/12/03 02:37",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "63",
       "recommendCount": "215",
       "title": "[問卦] 商務艙的優勢到底是什麼",
@@ -194,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "75",
+      "recommendCount": "174",
+      "title": "[新聞] 女教師躲暴雨遭「性侵2次」 他噁喊：老天都在幫我",
+      "link": "/bbs/Gossiping/M.1764814708.A.2E3",
+      "author": "kent",
+      "board": "Gossiping",
+      "publishTime": "2025/12/04 02:18",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "96",
       "recommendCount": "177",
       "title": "[問卦] 我媽被詐騙，繼續匯款，講不聽怎麼辦",
@@ -201,6 +171,36 @@
       "author": "Superxixai",
       "board": "Gossiping",
       "publishTime": "2025/12/03 16:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "82",
+      "recommendCount": "195",
+      "title": "[新聞] 俄羅斯已做好與歐洲開戰的準備！普丁：將快速結束且無人可以跟我談和平",
+      "link": "/bbs/Stock/M.1764768448.A.178",
+      "author": "anti87",
+      "board": "Stock",
+      "publishTime": "2025/12/03 13:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "116",
+      "recommendCount": "185",
+      "title": "[情報] 今年NBA最常被過的球員",
+      "link": "/bbs/NBA/M.1764731287.A.8FF",
+      "author": "EZ78",
+      "board": "NBA",
+      "publishTime": "2025/12/03 03:08",
+      "imageUrl": "https://cache.pttweb.cc/imgur/RKRAwIZ/s/fc1fe52c72d289c700c54faa6e67d87d"
+    },
+    {
+      "recommendScore": "-28",
+      "recommendCount": "159",
+      "title": "[新聞] 為何藍白這麼壞還有人支持？學者揭真相：民主必然的風險",
+      "link": "/bbs/Gossiping/M.1764747287.A.2B1",
+      "author": "CF661020",
+      "board": "Gossiping",
+      "publishTime": "2025/12/03 07:34",
       "imageUrl": ""
     }
   ]
