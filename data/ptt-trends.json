@@ -1,18 +1,8 @@
 {
-  "updated": "2025-12-04T07:53:18.073Z",
+  "updated": "2025-12-04T08:09:04.264Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "427",
-      "recommendCount": "957",
-      "title": "[花邊] Chris Paul將被送回家離隊解約",
-      "link": "/bbs/NBA/M.1764748738.A.35B",
-      "author": "EZ78",
-      "board": "NBA",
-      "publishTime": "2025/12/03 07:58",
-      "imageUrl": "https://cache.pttweb.cc/imgur/JpzCSqH/s/e125c0da3b09b5436afcb722bb99b3f7"
-    },
     {
       "recommendScore": "377",
       "recommendCount": "661",
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "76",
-      "recommendCount": "106",
-      "title": "[情報] 1203 上市外資買賣超排行",
-      "link": "/bbs/Stock/M.1764749047.A.B30",
-      "author": "paidzou",
-      "board": "Stock",
-      "publishTime": "2025/12/03 08:04",
+      "recommendScore": "72",
+      "recommendCount": "114",
+      "title": "[新聞] 國產發球機可模擬大谷翔平球路　2週後進駐國訓中心",
+      "link": "/bbs/Baseball/M.1764752596.A.414",
+      "author": "Axwell",
+      "board": "Baseball",
+      "publishTime": "2025/12/03 09:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "49",
+      "recommendCount": "132",
+      "title": "[新聞] 韓國電子入境卡將台灣列為中國　外交部交涉籲儘速更正",
+      "link": "/bbs/Gossiping/M.1764750973.A.531",
+      "author": "ctfjuw",
+      "board": "Gossiping",
+      "publishTime": "2025/12/03 08:36",
       "imageUrl": ""
     }
   ]
