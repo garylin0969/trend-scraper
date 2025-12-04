@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-04T21:29:54.061Z",
+  "updated": "2025-12-04T21:38:30.778Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "94",
+      "recommendCount": "270",
+      "title": "[新聞] 小紅書涉詐造成2億財損 內政部停止解析",
+      "link": "/bbs/MobileComm/M.1764839692.A.DD5",
+      "author": "juice3028",
+      "board": "MobileComm",
+      "publishTime": "2025/12/04 09:14",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "138",
       "recommendCount": "220",
       "title": "[情報] TWICE台北大巨蛋加場 3/20",
@@ -121,6 +131,16 @@
       "author": "darren2586",
       "board": "NBA",
       "publishTime": "2025/12/04 01:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "110",
+      "recommendCount": "309",
+      "title": "[花邊] Melo講CP3事件:處理方式應該要有所尊重",
+      "link": "/bbs/NBA/M.1764831138.A.A3B",
+      "author": "pneumo",
+      "board": "NBA",
+      "publishTime": "2025/12/04 06:52",
       "imageUrl": ""
     },
     {
@@ -182,26 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2025/12/04 02:08",
       "imageUrl": "https://cache.pttweb.cc/imgur/vujhTsh/s/730f4acfe7adb77cb172888055e7e33d"
-    },
-    {
-      "recommendScore": "63",
-      "recommendCount": "140",
-      "title": "[新聞] 興富發法說會／房市漸回暖 未來3年迎交屋高峰、年年完工量逾700億元",
-      "link": "/bbs/Stock/M.1764829995.A.299",
-      "author": "empliu",
-      "board": "Stock",
-      "publishTime": "2025/12/04 06:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "198",
-      "recommendCount": "379",
-      "title": "[LIVE] 印超 孟買城 @ 果阿邦 場中",
-      "link": "/bbs/SportLottery/M.1764858326.A.408",
-      "author": "shunhahahaha",
-      "board": "SportLottery",
-      "publishTime": "2025/12/04 14:25",
-      "imageUrl": ""
     }
   ]
 }
