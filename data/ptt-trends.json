@@ -1,18 +1,8 @@
 {
-  "updated": "2025-12-04T12:10:35.878Z",
+  "updated": "2025-12-04T12:25:33.202Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "158",
-      "recommendCount": "348",
-      "title": "[標的] MOMO購物（富邦媒）怎麼慘成這樣？",
-      "link": "/bbs/Stock/M.1764763943.A.314",
-      "author": "medama",
-      "board": "Stock",
-      "publishTime": "2025/12/03 12:12",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "108",
       "recommendCount": "329",
@@ -202,6 +192,16 @@
       "board": "Stock",
       "publishTime": "2025/12/03 13:13",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "71",
+      "recommendCount": "145",
+      "title": "[閒聊] 黑暗集會75 超開心的太歲",
+      "link": "/bbs/C_Chat/M.1764775975.A.863",
+      "author": "ldksos2603",
+      "board": "C_Chat",
+      "publishTime": "2025/12/03 15:32",
+      "imageUrl": "https://cache.pttweb.cc/imgur/sqN2aPc/s/879ebefab8414961c9619d8922c6cd7a"
     }
   ]
 }
