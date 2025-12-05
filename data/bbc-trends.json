@@ -1,14 +1,22 @@
 {
-  "updated": "2025-12-05T08:23:51.125Z",
+  "updated": "2025-12-05T09:23:13.144Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-12-05T08:23:43.000Z",
+    "lastBuildDate": "2025-12-05T09:23:09.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "馬克龍訪華受高規格接待，兩國恐難在俄烏及台灣問題上「各取所需」",
+      "description": "馬克龍訪中期間，正值歐中貿易摩擦、俄烏戰爭進行談判以及日中關係因為台灣問題風波不斷之際，外界因此關注馬克龍此次與習近平會面時，是否會觸及俄烏戰爭及台海問題?",
+      "link": "https://www.bbc.com/zhongwen/articles/cvg18e1djzeo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-05T09:01:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvg18e1djzeo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5885/live/72138f70-d1ac-11f0-a892-01d657345866.jpg"
+    },
     {
       "title": "香港宏福苑大火：兩字之差的「獨立委員會」能否滿足訴求？",
       "description": "檢討和追責，是公眾對宏福苑世紀災難調查的訴求。香港特首宣佈成立不具法定權力的調查機構，法律界人士甚至前政府高官表達了擔憂，傳召權的缺失和調查廣度是討論焦點。",
@@ -40,14 +48,6 @@
       "pubDate": "2025-12-05T03:39:33.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c0r9vgd8zqjo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4cab/live/065c3500-d0f0-11f0-a892-01d657345866.jpg"
-    },
-    {
-      "title": "六塊腹肌也難擋，他們仍在反覆打減重針",
-      "description": "隨著減重藥物愈加流行，專家警告在缺乏監督下為追求快速美容效果而使用的風險。",
-      "link": "https://www.bbc.com/zhongwen/articles/clyd1zmn3d4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-05T00:20:48.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/clyd1zmn3d4o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/144c/live/4103a0d0-caba-11f0-9fb5-5f3a3703a365.jpg"
     },
     {
       "title": "台灣的對美右翼媒體攻勢：賴清德與蕭美琴的外交新策略能成功嗎？",
@@ -82,20 +82,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d15b/live/44035520-d0c1-11f0-8c06-f5d460985095.jpg"
     },
     {
-      "title": "製造「兒童款」性愛娃娃的中國工廠被叫停生產",
-      "description": "網上零售商Shein（希音），因銷售外觀呈兒童樣貌的娃娃引發公眾強烈抗議後，﻿已在全球範圍內禁售所有性愛娃娃。",
-      "link": "https://www.bbc.com/zhongwen/articles/c7vm7j3glnmo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-04T07:07:19.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c7vm7j3glnmo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e85/live/b1b0fa70-d042-11f0-a892-01d657345866.jpg"
-    },
-    {
       "title": "觀察：美俄莫斯科會談揭示了普京怎樣的心態",
       "description": "最新一輪外交斡旋揭示了俄羅斯總統普京的情緒和意圖：他並不準備簽署和平協議，亦不會接受目前擺上桌面上的這些協議。",
       "link": "https://www.bbc.com/zhongwen/articles/crrk7kee9x5o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-12-04T03:41:14.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/crrk7kee9x5o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aa08/live/09df4ca0-d0c1-11f0-af52-8b8ee9abdc67.jpg"
+    },
+    {
+      "title": "六塊腹肌也難擋，他們仍在反覆打減重針",
+      "description": "隨著減重藥物愈加流行，專家警告在缺乏監督下為追求快速美容效果而使用的風險。",
+      "link": "https://www.bbc.com/zhongwen/articles/clyd1zmn3d4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-05T00:20:48.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/clyd1zmn3d4o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/144c/live/4103a0d0-caba-11f0-9fb5-5f3a3703a365.jpg"
     },
     {
       "title": "追蹤解析美軍戰機與軍艦在委內瑞拉附近的部署",
