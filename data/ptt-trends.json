@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-05T05:08:11.251Z",
+  "updated": "2025-12-05T05:20:22.952Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -82,6 +82,16 @@
       "board": "Stock",
       "publishTime": "2025/12/04 12:08",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "144",
+      "recommendCount": "151",
+      "title": "[發錢] 12/5NBA幸運轟分享",
+      "link": "/bbs/SportLottery/M.1764909380.A.52A",
+      "author": "flyhigh0408",
+      "board": "SportLottery",
+      "publishTime": "2025/12/05 04:36",
+      "imageUrl": "https://cache.pttweb.cc/imgur/QOePMKU/s/5b70189315dfad046f3ac559f9fd1f76"
     },
     {
       "recommendScore": "311",
@@ -191,16 +201,6 @@
       "author": "paidzou",
       "board": "Stock",
       "publishTime": "2025/12/04 08:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "47",
-      "recommendCount": "117",
-      "title": "[新聞] 高雄市長初選在即 賴瑞隆8歲小孩被控毆打同學…賴：配合學校調查",
-      "link": "/bbs/Gossiping/M.1764860844.A.6F4",
-      "author": "tty0102",
-      "board": "Gossiping",
-      "publishTime": "2025/12/04 15:07",
       "imageUrl": ""
     }
   ]
