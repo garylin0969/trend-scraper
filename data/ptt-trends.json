@@ -1,8 +1,18 @@
 {
-  "updated": "2025-12-05T22:05:42.487Z",
+  "updated": "2025-12-05T22:17:41.520Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "256",
+      "recommendCount": "621",
+      "title": "[問卦] 現在的HR都愛問一些奇怪問題嗎",
+      "link": "/bbs/Gossiping/M.1764902029.A.7BD",
+      "author": "victor87710",
+      "board": "Gossiping",
+      "publishTime": "2025/12/05 02:33",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "298",
       "recommendCount": "474",
@@ -11,6 +21,96 @@
       "author": "willy911006",
       "board": "NBA",
       "publishTime": "2025/12/05 02:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "149",
+      "recommendCount": "422",
+      "title": "[新聞] 卓榮泰：新式核能可能重新定義非核家園",
+      "link": "/bbs/Gossiping/M.1764940701.A.5A4",
+      "author": "borondawon",
+      "board": "Gossiping",
+      "publishTime": "2025/12/05 13:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "180",
+      "recommendCount": "398",
+      "title": "[新聞] 兒涉霸凌同學…賴瑞隆喊抱歉 受害家長怒打臉",
+      "link": "/bbs/Gossiping/M.1764917292.A.C15",
+      "author": "a0580531",
+      "board": "Gossiping",
+      "publishTime": "2025/12/05 06:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "168",
+      "recommendCount": "373",
+      "title": "Re: [新聞] 不只一人受害！賴瑞隆兒涉「校園霸凌3同學」　校方還原時間軸",
+      "link": "/bbs/Gossiping/M.1764890751.A.2EF",
+      "author": "PCC9169",
+      "board": "Gossiping",
+      "publishTime": "2025/12/04 23:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "125",
+      "recommendCount": "343",
+      "title": "[問卦] 為什麼黑熊學院講座幾乎都是女的？",
+      "link": "/bbs/Gossiping/M.1764937520.A.584",
+      "author": "Takasteric",
+      "board": "Gossiping",
+      "publishTime": "2025/12/05 12:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "197",
+      "recommendCount": "684",
+      "title": "[討論] Michael Jordan在現代還會一樣偉大嗎？",
+      "link": "/bbs/NBA/M.1764939857.A.035",
+      "author": "ChrisDavis",
+      "board": "NBA",
+      "publishTime": "2025/12/05 13:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "148",
+      "recommendCount": "247",
+      "title": "Re: [問卦] 11/4離職 11/26出包，公司叫離職的負責?",
+      "link": "/bbs/Gossiping/M.1764902766.A.C59",
+      "author": "CircusWorld",
+      "board": "Gossiping",
+      "publishTime": "2025/12/05 02:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "116",
+      "recommendCount": "301",
+      "title": "[問卦] 只有我覺得台灣這幾年越來越像對岸？",
+      "link": "/bbs/Gossiping/M.1764892736.A.1CD",
+      "author": "zakijudelo",
+      "board": "Gossiping",
+      "publishTime": "2025/12/04 23:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "138",
+      "recommendCount": "258",
+      "title": "[花邊] 八村：LBJ有告訴我，絕殺球會傳給我！",
+      "link": "/bbs/NBA/M.1764904152.A.5AD",
+      "author": "yniori",
+      "board": "NBA",
+      "publishTime": "2025/12/05 03:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "37",
+      "recommendCount": "299",
+      "title": "[新聞] 不只禁小紅書？卓榮泰加碼：TikTok若不改善政府也不能容忍",
+      "link": "/bbs/Gossiping/M.1764943687.A.782",
+      "author": "pttjordy",
+      "board": "Gossiping",
+      "publishTime": "2025/12/05 14:08",
       "imageUrl": ""
     },
     {
@@ -24,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "104",
+      "recommendCount": "310",
+      "title": "[情報] LBJ進總決賽比得10分以下的場次還多",
+      "link": "/bbs/NBA/M.1764916095.A.1EA",
+      "author": "KC90",
+      "board": "NBA",
+      "publishTime": "2025/12/05 06:28",
+      "imageUrl": "https://cache.pttweb.cc/imgur/WqLvbl1/s/1c560428db801831654607a8a8206bc9"
+    },
+    {
       "recommendScore": "85",
       "recommendCount": "185",
       "title": "[BOX ] Lakers 123:120 Raptors",
@@ -32,6 +142,26 @@
       "board": "NBA",
       "publishTime": "2025/12/05 02:58",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "63",
+      "recommendCount": "233",
+      "title": "[新聞] 高雄鯛魚排檢出禁藥大烏龍 女研究員深夜帶往刑大調查",
+      "link": "/bbs/Gossiping/M.1764903226.A.583",
+      "author": "a5687920",
+      "board": "Gossiping",
+      "publishTime": "2025/12/05 02:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "90",
+      "recommendCount": "242",
+      "title": "[問卦]館長:每次我出事的時候 根本沒半個人挺我",
+      "link": "/bbs/Gossiping/M.1764943029.A.511",
+      "author": "a91153456",
+      "board": "Gossiping",
+      "publishTime": "2025/12/05 13:57",
+      "imageUrl": "https://cache.pttweb.cc/imgur/nII0z6o/s/dde28e82b6a2b23eeb8933c5bf6aade6"
     },
     {
       "recommendScore": "144",
@@ -44,163 +174,33 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/QOePMKU/s/5b70189315dfad046f3ac559f9fd1f76"
     },
     {
+      "recommendScore": "418",
+      "recommendCount": "559",
+      "title": "[討論] [Vtub] Hololive 日間直播單 (1141205)",
+      "link": "/bbs/C_Chat/M.1764889375.A.2CB",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2025/12/04 23:02",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "60",
-      "recommendCount": "110",
-      "title": "[花邊] 八村：LBJ有告訴我，絕殺球會傳給我！",
-      "link": "/bbs/NBA/M.1764904152.A.5AD",
-      "author": "yniori",
-      "board": "NBA",
-      "publishTime": "2025/12/05 03:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "47",
       "recommendCount": "124",
-      "title": "[情報] KOC:Harden當初並不想要快艇簽CP3",
-      "link": "/bbs/NBA/M.1764951036.A.5A7",
-      "author": "EZ78",
+      "title": "[情報] AR本季在沒有Doncic時 場均41分10助攻",
+      "link": "/bbs/NBA/M.1764948681.A.9A2",
+      "author": "NTD300w",
       "board": "NBA",
-      "publishTime": "2025/12/05 16:10",
+      "publishTime": "2025/12/05 15:31",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "54",
-      "recommendCount": "67",
-      "title": "[閒聊] 猜喵選走誰",
-      "link": "/bbs/BaseballXXXX/M.1764931215.A.382",
-      "author": "cplusplus426",
-      "board": "BaseballXXXX",
-      "publishTime": "2025/12/05 10:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "58",
-      "recommendCount": "122",
-      "title": "[BOX ] Lakers 123:120 Raptors",
-      "link": "/bbs/Lakers/M.1764903688.A.F2D",
-      "author": "jason911152",
-      "board": "Lakers",
-      "publishTime": "2025/12/05 03:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "64",
-      "recommendCount": "120",
-      "title": "[新聞] 柾國Winter 傳聞 BigHit、SM 回應無可奉",
-      "link": "/bbs/KoreaStar/M.1764910143.A.A4F",
-      "author": "Player02",
-      "board": "KoreaStar",
-      "publishTime": "2025/12/05 04:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "65",
-      "recommendCount": "171",
-      "title": "Re: [閒聊] 石油王背刺YORO這波是不是蠻成功的",
-      "link": "/bbs/C_Chat/M.1764955873.A.514",
-      "author": "Pocer",
-      "board": "C_Chat",
-      "publishTime": "2025/12/05 17:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "27",
-      "recommendCount": "59",
-      "title": "[閒聊] 這次留不住FA 卻沒什麼人罵蘇泰安？",
-      "link": "/bbs/BaseballXXXX/M.1764919266.A.FB8",
-      "author": "DarkKnight",
-      "board": "BaseballXXXX",
-      "publishTime": "2025/12/05 07:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "54",
-      "recommendCount": "67",
-      "title": "[鳴潮] 3.0動畫短片 轉校生 前瞻直播12/12",
-      "link": "/bbs/C_Chat/M.1764903793.A.EBF",
-      "author": "koy784512",
-      "board": "C_Chat",
-      "publishTime": "2025/12/05 03:03",
-      "imageUrl": "https://cache.pttweb.cc/imgur/sm98MAw/s/b72bcebde90bfc5e64c13a8a9498e69b"
     },
     {
       "recommendScore": "42",
-      "recommendCount": "63",
-      "title": "Fw: [新聞]當年飛機上的空安官 假扮旅客防劫機",
-      "link": "/bbs/LordsOfWater/M.1764897826.A.136",
-      "author": "KOTD",
-      "board": "LordsOfWater",
-      "publishTime": "2025/12/05 01:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "28",
-      "recommendCount": "85",
-      "title": "[新聞] 數發部揭「詐騙媒介比例」排行榜！臉書排第一　小紅書未進榜",
-      "link": "/bbs/Gossiping/M.1764896692.A.2FE",
-      "author": "STi2011",
+      "recommendCount": "100",
+      "title": "[問卦] 你從烏克蘭身上學到什麼？",
+      "link": "/bbs/Gossiping/M.1764936478.A.0A5",
+      "author": "lonzoball02",
       "board": "Gossiping",
-      "publishTime": "2025/12/05 01:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "74",
-      "recommendCount": "182",
-      "title": "[外絮] 關於字母哥目前交易一切資訊",
-      "link": "/bbs/NBA/M.1764956962.A.F84",
-      "author": "bm1041644",
-      "board": "NBA",
-      "publishTime": "2025/12/05 17:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "40",
-      "recommendCount": "99",
-      "title": "[閒聊] 蘇和詹為何熱門度差很多？",
-      "link": "/bbs/BaseballXXXX/M.1764934067.A.DE2",
-      "author": "cplusplus426",
-      "board": "BaseballXXXX",
-      "publishTime": "2025/12/05 11:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "34",
-      "recommendCount": "66",
-      "title": "[閒聊] FA精神",
-      "link": "/bbs/BaseballXXXX/M.1764923606.A.165",
-      "author": "cplusplus426",
-      "board": "BaseballXXXX",
-      "publishTime": "2025/12/05 08:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "34",
-      "recommendCount": "65",
-      "title": "[新聞] 黃仁勳不是可信來源！　美參院跨黨派「封殺輝達」對中出口H200",
-      "link": "/bbs/Stock/M.1764895880.A.5E5",
-      "author": "jeff0025",
-      "board": "Stock",
-      "publishTime": "2025/12/05 00:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "20",
-      "recommendCount": "65",
-      "title": "[閒聊] 這篇25人名單",
-      "link": "/bbs/BaseballXXXX/M.1764944164.A.EA7",
-      "author": "nybbnan",
-      "board": "BaseballXXXX",
-      "publishTime": "2025/12/05 14:16",
-      "imageUrl": "https://cache.pttweb.cc/imgur/tQlKhoJ/s/fdf4fcfd8fb314e67c4e332f22eaf061"
-    },
-    {
-      "recommendScore": "34",
-      "recommendCount": "72",
-      "title": "[花邊] 騎士隊被聯盟罰款25萬美金",
-      "link": "/bbs/NBA/M.1764909844.A.09F",
-      "author": "love1500274",
-      "board": "NBA",
-      "publishTime": "2025/12/05 04:44",
+      "publishTime": "2025/12/05 12:07",
       "imageUrl": ""
     }
   ]
