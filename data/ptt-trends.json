@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-05T13:23:10.720Z",
+  "updated": "2025-12-05T13:42:27.770Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "76",
-      "recommendCount": "88",
-      "title": "[閒聊] T1 限時動態 沙烏地阿拉伯旅遊中",
-      "link": "/bbs/LoL/M.1764855172.A.884",
-      "author": "p1088",
-      "board": "LoL",
-      "publishTime": "2025/12/04 13:32",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ycx0IJo/s/ac8cb3a5fb688920b033ccf3b650741f"
-    },
-    {
       "recommendScore": "45",
       "recommendCount": "156",
       "title": "[新聞] 高雄市長參選人賴瑞隆子在校打同學！校方驚曝被打的不只1人",
@@ -201,6 +191,16 @@
       "author": "Player02",
       "board": "KoreaStar",
       "publishTime": "2025/12/05 04:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "49",
+      "recommendCount": "84",
+      "title": "[新聞] SPC-日職》防禦率完美的0卻被震撼戰力外",
+      "link": "/bbs/Baseball/M.1764859850.A.A02",
+      "author": "iamshana",
+      "board": "Baseball",
+      "publishTime": "2025/12/04 14:50",
       "imageUrl": ""
     }
   ]
