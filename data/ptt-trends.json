@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-05T05:33:26.767Z",
+  "updated": "2025-12-05T05:45:30.240Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "80",
-      "recommendCount": "182",
-      "title": "[新聞] 記憶體庫存幾乎沒安全緩衝 華邦電被求",
-      "link": "/bbs/Stock/M.1764826776.A.44B",
-      "author": "IzumiKonata",
-      "board": "Stock",
-      "publishTime": "2025/12/04 05:39",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "110",
       "recommendCount": "309",
       "title": "[花邊] Melo講CP3事件:處理方式應該要有所尊重",
@@ -201,6 +191,16 @@
       "author": "paidzou",
       "board": "Stock",
       "publishTime": "2025/12/04 08:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "47",
+      "recommendCount": "117",
+      "title": "[新聞] 高雄市長初選在即 賴瑞隆8歲小孩被控毆打同學…賴：配合學校調查",
+      "link": "/bbs/Gossiping/M.1764860844.A.6F4",
+      "author": "tty0102",
+      "board": "Gossiping",
+      "publishTime": "2025/12/04 15:07",
       "imageUrl": ""
     }
   ]
