@@ -1,8 +1,18 @@
 {
-  "updated": "2025-12-05T02:55:33.433Z",
+  "updated": "2025-12-05T03:30:30.887Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "298",
+      "recommendCount": "474",
+      "title": "[情報] LBJ終止連續十分記錄",
+      "link": "/bbs/NBA/M.1764903427.A.3C1",
+      "author": "willy911006",
+      "board": "NBA",
+      "publishTime": "2025/12/05 02:57",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "150",
       "recommendCount": "309",
@@ -34,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "140",
+      "recommendCount": "262",
+      "title": "[花邊] 老詹最後傳給八村絕殺 沒有自己投",
+      "link": "/bbs/NBA/M.1764903618.A.27C",
+      "author": "Skyblueway",
+      "board": "NBA",
+      "publishTime": "2025/12/05 03:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "113",
       "recommendCount": "225",
       "title": "[新聞] 高雄市長參選人賴瑞隆子在校打同學！校方驚曝被打的不只1人",
@@ -41,6 +61,16 @@
       "author": "kmter5566",
       "board": "Gossiping",
       "publishTime": "2025/12/04 15:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "85",
+      "recommendCount": "185",
+      "title": "[BOX ] Lakers 123:120 Raptors",
+      "link": "/bbs/NBA/M.1764903510.A.A8C",
+      "author": "KC90",
+      "board": "NBA",
+      "publishTime": "2025/12/05 02:58",
       "imageUrl": ""
     },
     {
@@ -172,36 +202,6 @@
       "board": "SportLottery",
       "publishTime": "2025/12/04 14:25",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "67",
-      "recommendCount": "107",
-      "title": "[情報] 1204 上市外資買賣超排行",
-      "link": "/bbs/Stock/M.1764835525.A.34B",
-      "author": "paidzou",
-      "board": "Stock",
-      "publishTime": "2025/12/04 08:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "47",
-      "recommendCount": "117",
-      "title": "[新聞] 高雄市長初選在即 賴瑞隆8歲小孩被控毆打同學…賴：配合學校調查",
-      "link": "/bbs/Gossiping/M.1764860844.A.6F4",
-      "author": "tty0102",
-      "board": "Gossiping",
-      "publishTime": "2025/12/04 15:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "80",
-      "recommendCount": "99",
-      "title": "[分享] 林岱安最新限動",
-      "link": "/bbs/BaseballXXXX/M.1764832436.A.7CC",
-      "author": "AllStar5566",
-      "board": "BaseballXXXX",
-      "publishTime": "2025/12/04 07:13",
-      "imageUrl": "https://cache.pttweb.cc/imgur/TCX6NnP/s/3d9e2beb5f2457c4a4fbf81727a8a6e0"
     }
   ]
 }
