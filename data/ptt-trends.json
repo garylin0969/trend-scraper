@@ -1,8 +1,18 @@
 {
-  "updated": "2025-12-05T23:44:33.381Z",
+  "updated": "2025-12-05T23:53:49.374Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "478",
+      "recommendCount": "754",
+      "title": "[情報] LBJ終止連續十分記錄",
+      "link": "/bbs/NBA/M.1764903427.A.3C1",
+      "author": "willy911006",
+      "board": "NBA",
+      "publishTime": "2025/12/05 02:57",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "256",
       "recommendCount": "621",
@@ -11,16 +21,6 @@
       "author": "victor87710",
       "board": "Gossiping",
       "publishTime": "2025/12/05 02:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "298",
-      "recommendCount": "474",
-      "title": "[情報] LBJ終止連續十分記錄",
-      "link": "/bbs/NBA/M.1764903427.A.3C1",
-      "author": "willy911006",
-      "board": "NBA",
-      "publishTime": "2025/12/05 02:57",
       "imageUrl": ""
     },
     {
@@ -81,6 +81,16 @@
       "author": "zakijudelo",
       "board": "Gossiping",
       "publishTime": "2025/12/04 23:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "196",
+      "recommendCount": "440",
+      "title": "[新聞] 賴瑞隆8歲子遭爆在校毆打、威脅同學　晚間發聲回應",
+      "link": "/bbs/Kaohsiung/M.1764895389.A.E33",
+      "author": "jganet",
+      "board": "Kaohsiung",
+      "publishTime": "2025/12/05 00:43",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "jason911152",
       "board": "Lakers",
       "publishTime": "2025/12/05 03:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-8",
-      "recommendCount": "147",
-      "title": "[討論] 6冠0亞跟4冠6亞哪個會比較有印象?",
-      "link": "/bbs/NBA/M.1764932397.A.EA0",
-      "author": "MarkZuck",
-      "board": "NBA",
-      "publishTime": "2025/12/05 10:59",
       "imageUrl": ""
     }
   ]
