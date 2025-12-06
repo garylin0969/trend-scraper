@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-06T13:03:03.870Z",
+  "updated": "2025-12-06T13:19:28.965Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,16 +74,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "161",
-      "recommendCount": "472",
-      "title": "[新聞] 卓榮泰：新式核能可能重新定義非核家園",
-      "link": "/bbs/Gossiping/M.1764940701.A.5A4",
-      "author": "borondawon",
-      "board": "Gossiping",
-      "publishTime": "2025/12/05 13:18",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "176",
       "recommendCount": "451",
       "title": "[新聞] 史上最大手筆！中華電信狂買「46億度電」天能綠電吞下超級肥單",
@@ -111,16 +101,6 @@
       "author": "NealeDolphin",
       "board": "C_Chat",
       "publishTime": "2025/12/05 15:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "208",
-      "recommendCount": "758",
-      "title": "[討論] Michael Jordan在現代還會一樣偉大嗎？",
-      "link": "/bbs/NBA/M.1764939857.A.035",
-      "author": "ChrisDavis",
-      "board": "NBA",
-      "publishTime": "2025/12/05 13:04",
       "imageUrl": ""
     },
     {
@@ -201,6 +181,26 @@
       "author": "nybbnan",
       "board": "Baseball",
       "publishTime": "2025/12/06 06:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "124",
+      "recommendCount": "174",
+      "title": "[新聞] 模擬比賽球速飆到150公里 江少慶:離自己最好快接近了",
+      "link": "/bbs/Baseball/M.1764992418.A.EE4",
+      "author": "micheal59",
+      "board": "Baseball",
+      "publishTime": "2025/12/06 03:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "125",
+      "recommendCount": "216",
+      "title": "[BOX ] Lakers 105:126 Celtics",
+      "link": "/bbs/NBA/M.1764987876.A.8A9",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2025/12/06 02:24",
       "imageUrl": ""
     }
   ]
