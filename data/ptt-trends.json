@@ -1,8 +1,18 @@
 {
-  "updated": "2025-12-06T14:28:56.197Z",
+  "updated": "2025-12-06T14:37:33.066Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "518",
+      "recommendCount": "531",
+      "title": "[發錢] NBA煙火show time～",
+      "link": "/bbs/SportLottery/M.1764986102.A.220",
+      "author": "lotterywin",
+      "board": "SportLottery",
+      "publishTime": "2025/12/06 01:55",
+      "imageUrl": "https://cache.pttweb.cc/imgur/rG8F2dN/s/45b913cd5ce6e9a2dd7ffa5c99e3e2d1"
+    },
     {
       "recommendScore": "357",
       "recommendCount": "720",
@@ -191,16 +201,6 @@
       "author": "jason911152",
       "board": "NBA",
       "publishTime": "2025/12/06 02:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "129",
-      "recommendCount": "248",
-      "title": "[BOX ] Clippers 98:107 Grizzlies",
-      "link": "/bbs/NBA/M.1764990904.A.012",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2025/12/06 03:15",
       "imageUrl": ""
     }
   ]
