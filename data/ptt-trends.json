@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-06T17:53:36.947Z",
+  "updated": "2025-12-06T18:07:06.595Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "238",
+      "recommendCount": "431",
+      "title": "[新聞] 獅報價蘇智傑 月薪破70萬4年約",
+      "link": "/bbs/Baseball/M.1764970411.A.605",
+      "author": "caca13140405",
+      "board": "Baseball",
+      "publishTime": "2025/12/05 21:33",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "148",
       "recommendCount": "342",
       "title": "Re: [新聞] 史上最大手筆！中華電信狂買「46億度電」天能綠電吞下超級肥單",
@@ -74,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "227",
-      "recommendCount": "325",
+      "recommendScore": "234",
+      "recommendCount": "335",
       "title": "[新聞] 中職／據傳桃猿開出5年大約留人　林立幽默回應：看有沒有機會20年",
       "link": "/bbs/Baseball/M.1765003546.A.9CB",
       "author": "nybbnan",
@@ -104,7 +114,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "745",
+      "recommendScore": "797",
       "recommendCount": "1477",
       "title": "[討論] [Vtub] Hololive 晚間直播單 (1141206)",
       "link": "/bbs/C_Chat/M.1765018103.A.8C3",
@@ -192,16 +202,6 @@
       "board": "NBA",
       "publishTime": "2025/12/06 03:15",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "113",
-      "recommendCount": "223",
-      "title": "[閒聊] 大家小學低年級的時候有扁過女同學嗎?",
-      "link": "/bbs/C_Chat/M.1765009427.A.05A",
-      "author": "ThorFukt",
-      "board": "C_Chat",
-      "publishTime": "2025/12/06 08:23",
-      "imageUrl": "https://cache.pttweb.cc/imgur/UIF8Z3E/s/1d0006942e87faa5ac4af4b01de19bd6"
     }
   ]
 }
