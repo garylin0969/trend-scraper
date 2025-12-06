@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-06T05:30:35.807Z",
+  "updated": "2025-12-06T05:40:18.483Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "173",
+      "recommendCount": "336",
+      "title": "[花邊] Doncic詢問湖人是否有可能交易來字母哥",
+      "link": "/bbs/NBA/M.1764938994.A.7FC",
+      "author": "shaaan",
+      "board": "NBA",
+      "publishTime": "2025/12/05 12:49",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "202",
       "recommendCount": "692",
       "title": "[討論] Michael Jordan在現代還會一樣偉大嗎？",
@@ -92,6 +102,16 @@
       "board": "FORMULA1",
       "publishTime": "2025/12/05 09:30",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "84",
+      "recommendCount": "250",
+      "title": "[情報] 台灣2025年11月份CPI 1.23%",
+      "link": "/bbs/Stock/M.1764922100.A.0F2",
+      "author": "cosmite",
+      "board": "Stock",
+      "publishTime": "2025/12/05 08:08",
+      "imageUrl": "https://cache.pttweb.cc/imgur/pLLp0M0/s/92a1146ef8a6de8844a502b6797f1bcc"
     },
     {
       "recommendScore": "206",
@@ -144,63 +164,43 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/nII0z6o/s/dde28e82b6a2b23eeb8933c5bf6aade6"
     },
     {
-      "recommendScore": "201",
-      "recommendCount": "459",
-      "title": "[閒聊] Winter在粉絲會穿柾國褲子拖鞋的造型！",
-      "link": "/bbs/KoreaStar/M.1764927602.A.ECD",
-      "author": "XOD",
-      "board": "KoreaStar",
-      "publishTime": "2025/12/05 09:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "124",
-      "recommendCount": "167",
-      "title": "[外絮] J team臉書",
-      "link": "/bbs/LoL/M.1764922230.A.53B",
-      "author": "Hosimati",
-      "board": "LoL",
-      "publishTime": "2025/12/05 08:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/DIrSdy3/s/a45ecc5f01689bade063f31de814db0f"
-    },
-    {
-      "recommendScore": "198",
-      "recommendCount": "475",
-      "title": "[LIVE] 澳A聯 西雪梨流浪者 @ 伯斯光榮 場中",
-      "link": "/bbs/SportLottery/M.1764930737.A.874",
-      "author": "Rayswei",
-      "board": "SportLottery",
-      "publishTime": "2025/12/05 10:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "149",
-      "recommendCount": "359",
-      "title": "[新聞] 高國強夫妻發聲！否認向弟弟勒索30 萬",
-      "link": "/bbs/basketballTW/M.1764920923.A.ABC",
-      "author": "lszh9999",
-      "board": "basketballTW",
-      "publishTime": "2025/12/05 07:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "99",
-      "recommendCount": "207",
-      "title": "[問卦] 為何台灣不敢抓太子集團，只敢禁小紅書？",
-      "link": "/bbs/Gossiping/M.1764960956.A.530",
-      "author": "sss1234",
+      "recommendScore": "93",
+      "recommendCount": "190",
+      "title": "[問卦] 8歲小朋友霸凌案，教會了我們什麼？0.0",
+      "link": "/bbs/Gossiping/M.1764929093.A.59F",
+      "author": "ilovecat5566",
       "board": "Gossiping",
-      "publishTime": "2025/12/05 18:55",
+      "publishTime": "2025/12/05 10:04",
       "imageUrl": ""
     },
     {
-      "recommendScore": "-8",
-      "recommendCount": "147",
-      "title": "[討論] 6冠0亞跟4冠6亞哪個會比較有印象?",
-      "link": "/bbs/NBA/M.1764932397.A.EA0",
-      "author": "MarkZuck",
-      "board": "NBA",
-      "publishTime": "2025/12/05 10:59",
+      "recommendScore": "122",
+      "recommendCount": "199",
+      "title": "[情報] 林岱安去富邦悍將",
+      "link": "/bbs/Baseball/M.1764921033.A.771",
+      "author": "DsLove710",
+      "board": "Baseball",
+      "publishTime": "2025/12/05 07:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "121",
+      "recommendCount": "238",
+      "title": "[新聞] 韓國棒球輸給台灣？韓媒認：我們沒這種投手　點名旅美軍團是惡夢",
+      "link": "/bbs/Baseball/M.1764918729.A.048",
+      "author": "Skyblueway",
+      "board": "Baseball",
+      "publishTime": "2025/12/05 07:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "98",
+      "recommendCount": "170",
+      "title": "[情報] 114年12月05日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1764918168.A.A24",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2025/12/05 07:02",
       "imageUrl": ""
     }
   ]
