@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-06T17:43:47.894Z",
+  "updated": "2025-12-06T17:53:36.947Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "148",
+      "recommendCount": "342",
+      "title": "Re: [新聞] 史上最大手筆！中華電信狂買「46億度電」天能綠電吞下超級肥單",
+      "link": "/bbs/Stock/M.1764999654.A.139",
+      "author": "iammatrix",
+      "board": "Stock",
+      "publishTime": "2025/12/06 05:40",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "134",
       "recommendCount": "332",
       "title": "[新聞] Windows 10釘子戶太多微軟頭痛！停更未見Windows 11升級潮",
@@ -74,6 +84,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "769",
+      "recommendCount": "1267",
+      "title": "[電競] 2025 LoL KeSPA CUP 第一天",
+      "link": "/bbs/LoL/M.1764999125.A.2BA",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2025/12/06 05:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "177",
+      "recommendCount": "343",
+      "title": "Fw: [宣判] 政黑板板主 Berotec 解除職務公告",
+      "link": "/bbs/HatePolitics/M.1765006254.A.599",
+      "author": "ilovemami",
+      "board": "HatePolitics",
+      "publishTime": "2025/12/06 07:30",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "745",
       "recommendCount": "1477",
       "title": "[討論] [Vtub] Hololive 晚間直播單 (1141206)",
@@ -91,6 +121,26 @@
       "author": "borondawon",
       "board": "Gossiping",
       "publishTime": "2025/12/06 05:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "156",
+      "recommendCount": "334",
+      "title": "[花邊] CP3表示他正在做好準備繼續打球",
+      "link": "/bbs/NBA/M.1764979959.A.096",
+      "author": "EZ78",
+      "board": "NBA",
+      "publishTime": "2025/12/06 00:12",
+      "imageUrl": "https://cache.pttweb.cc/imgur/GQdivdq/s/4565d2a718f363a29972550cdcd97e37"
+    },
+    {
+      "recommendScore": "132",
+      "recommendCount": "185",
+      "title": "[新聞] 模擬比賽球速飆到150公里 江少慶:離自己最好快接近了",
+      "link": "/bbs/Baseball/M.1764992418.A.EE4",
+      "author": "micheal59",
+      "board": "Baseball",
+      "publishTime": "2025/12/06 03:40",
       "imageUrl": ""
     },
     {
@@ -124,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "124",
-      "recommendCount": "174",
-      "title": "[新聞] 模擬比賽球速飆到150公里 江少慶:離自己最好快接近了",
-      "link": "/bbs/Baseball/M.1764992418.A.EE4",
-      "author": "micheal59",
-      "board": "Baseball",
-      "publishTime": "2025/12/06 03:40",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "84",
       "recommendCount": "215",
       "title": "[新聞] 海鯤號潛艦出海玩命　驚傳海試根本缺1部柴油主機",
@@ -144,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "129",
-      "recommendCount": "248",
+      "recommendScore": "131",
+      "recommendCount": "254",
       "title": "[BOX ] Clippers 98:107 Grizzlies",
       "link": "/bbs/NBA/M.1764990904.A.012",
       "author": "jason911152",
@@ -162,46 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2025/12/06 08:23",
       "imageUrl": "https://cache.pttweb.cc/imgur/UIF8Z3E/s/1d0006942e87faa5ac4af4b01de19bd6"
-    },
-    {
-      "recommendScore": "253",
-      "recommendCount": "752",
-      "title": "[LIVE] NBA 太陽 @ 火箭 場中",
-      "link": "/bbs/SportLottery/M.1764982243.A.DC5",
-      "author": "Rayswei",
-      "board": "SportLottery",
-      "publishTime": "2025/12/06 00:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "219",
-      "recommendCount": "373",
-      "title": "[LIVE] 澳甲 雪梨FC2:1中岸水手 場中",
-      "link": "/bbs/SportLottery/M.1765009457.A.102",
-      "author": "pandalove",
-      "board": "SportLottery",
-      "publishTime": "2025/12/06 08:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "99",
-      "recommendCount": "207",
-      "title": "[問卦] 為何台灣不敢抓太子集團，只敢禁小紅書？",
-      "link": "/bbs/Gossiping/M.1764960956.A.530",
-      "author": "sss1234",
-      "board": "Gossiping",
-      "publishTime": "2025/12/05 18:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "141",
-      "recommendCount": "450",
-      "title": "Re: [閒聊] 做酒店小姐的智能障礙者",
-      "link": "/bbs/C_Chat/M.1764968704.A.B23",
-      "author": "godofhair",
-      "board": "C_Chat",
-      "publishTime": "2025/12/05 21:05",
-      "imageUrl": ""
     }
   ]
 }
