@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-06T18:07:06.595Z",
+  "updated": "2025-12-06T18:19:24.827Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "343",
+      "recommendCount": "609",
+      "title": "[LIVE] 英超 兵工廠 @ 阿斯頓維拉 場中",
+      "link": "/bbs/SportLottery/M.1765022403.A.11C",
+      "author": "Rayswei",
+      "board": "SportLottery",
+      "publishTime": "2025/12/06 12:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "83",
       "recommendCount": "231",
       "title": "[新聞] 綠電吞下超級肥單！中華電信狂買「46億度電」 史上最大手筆！",
@@ -191,16 +201,6 @@
       "author": "LeeSeDol",
       "board": "Gossiping",
       "publishTime": "2025/12/06 09:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "131",
-      "recommendCount": "254",
-      "title": "[BOX ] Clippers 98:107 Grizzlies",
-      "link": "/bbs/NBA/M.1764990904.A.012",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2025/12/06 03:15",
       "imageUrl": ""
     }
   ]
