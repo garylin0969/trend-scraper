@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-06T11:43:31.662Z",
+  "updated": "2025-12-06T11:53:37.269Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "111",
+      "recommendCount": "279",
+      "title": "[新聞] Windows 10釘子戶太多微軟頭痛！停更未見Windows 11升級潮",
+      "link": "/bbs/Gossiping/M.1765013605.A.151",
+      "author": "asdf1256",
+      "board": "Gossiping",
+      "publishTime": "2025/12/06 09:33",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "176",
       "recommendCount": "196",
       "title": "[發錢] 2.5次元的誘惑 (有雷)",
@@ -192,16 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2025/12/06 03:31",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "93",
-      "recommendCount": "185",
-      "title": "Re: [問卦] Joeman交25歲嫩女友是不是很爽?",
-      "link": "/bbs/Gossiping/M.1764940165.A.60A",
-      "author": "poweryeh",
-      "board": "Gossiping",
-      "publishTime": "2025/12/05 13:09",
-      "imageUrl": "https://cache.pttweb.cc/imgur/CJeLwJr/s/2ae86a41f697a4bc3e984fc68f2a0a8a"
     }
   ]
 }
