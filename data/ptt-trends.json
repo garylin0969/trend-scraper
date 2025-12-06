@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-06T10:47:30.468Z",
+  "updated": "2025-12-06T10:54:05.397Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -42,16 +42,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/06 02:51",
       "imageUrl": "https://cache.pttweb.cc/imgur/SAfpqeH/s/e80806a06c5f6954bcfd24adbe37ff99"
-    },
-    {
-      "recommendScore": "199",
-      "recommendCount": "587",
-      "title": "[爆卦] 重磅消息 烏克蘭總統澤倫斯基即將辭職下",
-      "link": "/bbs/Gossiping/M.1764931976.A.CD9",
-      "author": "facts",
-      "board": "Gossiping",
-      "publishTime": "2025/12/05 10:52",
-      "imageUrl": ""
     },
     {
       "recommendScore": "221",
@@ -201,6 +191,16 @@
       "author": "OPPAISuki",
       "board": "Gossiping",
       "publishTime": "2025/12/05 11:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "123",
+      "recommendCount": "214",
+      "title": "[BOX ] Lakers 105:126 Celtics",
+      "link": "/bbs/NBA/M.1764987876.A.8A9",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2025/12/06 02:24",
       "imageUrl": ""
     }
   ]
