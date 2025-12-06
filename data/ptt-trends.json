@@ -1,11 +1,11 @@
 {
-  "updated": "2025-12-06T22:17:54.266Z",
+  "updated": "2025-12-06T22:30:09.919Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "433",
-      "recommendCount": "1004",
+      "recommendCount": "1010",
       "title": "[新聞] 不只涉霸凌…子女當眾脫褲被通報性平",
       "link": "/bbs/Gossiping/M.1765001987.A.DDC",
       "author": "copybrown",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "496",
-      "recommendCount": "629",
+      "recommendScore": "497",
+      "recommendCount": "630",
       "title": "[問卦] 賴瑞龍是怎麼死的？",
       "link": "/bbs/Gossiping/M.1765023071.A.400",
       "author": "medama",
@@ -64,8 +64,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/SAfpqeH/s/e80806a06c5f6954bcfd24adbe37ff99"
     },
     {
-      "recommendScore": "205",
-      "recommendCount": "616",
+      "recommendScore": "206",
+      "recommendCount": "617",
       "title": "[新聞] 綠粉挺賴瑞隆！一排喊「國小打架稀鬆平常」：追殺8歲很垃圾",
       "link": "/bbs/Gossiping/M.1764991445.A.9EE",
       "author": "luxuryer",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "202",
-      "recommendCount": "518",
+      "recommendScore": "209",
+      "recommendCount": "534",
       "title": "[新聞] Windows 10釘子戶太多微軟頭痛！停更未見Windows 11升級潮",
       "link": "/bbs/Gossiping/M.1765013605.A.151",
       "author": "asdf1256",
@@ -104,8 +104,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "211",
-      "recommendCount": "361",
+      "recommendScore": "240",
+      "recommendCount": "906",
+      "title": "Re: [新聞] 史上最大手筆！中華電信狂買「46億度電」天能綠電吞下超級肥單",
+      "link": "/bbs/Stock/M.1764999654.A.139",
+      "author": "iammatrix",
+      "board": "Stock",
+      "publishTime": "2025/12/06 05:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "212",
+      "recommendCount": "362",
       "title": "[問卦] 女檢吳亞芝洩密給詐團律師男友桃檢竟簽結",
       "link": "/bbs/Gossiping/M.1765024418.A.8AD",
       "author": "abcdragon",
@@ -121,16 +131,6 @@
       "author": "borondawon",
       "board": "Gossiping",
       "publishTime": "2025/12/06 05:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "148",
-      "recommendCount": "342",
-      "title": "Re: [新聞] 史上最大手筆！中華電信狂買「46億度電」天能綠電吞下超級肥單",
-      "link": "/bbs/Stock/M.1764999654.A.139",
-      "author": "iammatrix",
-      "board": "Stock",
-      "publishTime": "2025/12/06 05:40",
       "imageUrl": ""
     },
     {
@@ -154,13 +154,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "769",
-      "recommendCount": "1267",
+      "recommendScore": "860",
+      "recommendCount": "1445",
       "title": "[電競] 2025 LoL KeSPA CUP 第一天",
       "link": "/bbs/LoL/M.1764999125.A.2BA",
       "author": "laptic",
       "board": "LoL",
       "publishTime": "2025/12/06 05:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "180",
+      "recommendCount": "353",
+      "title": "Fw: [宣判] 政黑板板主 Berotec 解除職務公告",
+      "link": "/bbs/HatePolitics/M.1765006254.A.599",
+      "author": "ilovemami",
+      "board": "HatePolitics",
+      "publishTime": "2025/12/06 07:30",
       "imageUrl": ""
     },
     {
@@ -174,17 +184,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "177",
-      "recommendCount": "343",
-      "title": "Fw: [宣判] 政黑板板主 Berotec 解除職務公告",
-      "link": "/bbs/HatePolitics/M.1765006254.A.599",
-      "author": "ilovemami",
-      "board": "HatePolitics",
-      "publishTime": "2025/12/06 07:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "797",
+      "recommendScore": "818",
       "recommendCount": "1477",
       "title": "[討論] [Vtub] Hololive 晚間直播單 (1141206)",
       "link": "/bbs/C_Chat/M.1765018103.A.8C3",
@@ -195,7 +195,7 @@
     },
     {
       "recommendScore": "134",
-      "recommendCount": "254",
+      "recommendCount": "257",
       "title": "[贏了] 台北贏過京都 入榜全球最強旅遊城市",
       "link": "/bbs/C_Chat/M.1764991864.A.277",
       "author": "bamama56",
