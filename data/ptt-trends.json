@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-06T10:30:57.128Z",
+  "updated": "2025-12-06T10:40:21.305Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "936",
-      "recommendCount": "1479",
-      "title": "[討論] [Vtub] Hololive 晚間直播單 (1141205)",
-      "link": "/bbs/C_Chat/M.1764930656.A.068",
-      "author": "laptic",
-      "board": "C_Chat",
-      "publishTime": "2025/12/05 10:30",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "96",
       "recommendCount": "274",
       "title": "[問卦]館長:每次我出事的時候 根本沒半個人挺我",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/12/05 13:57",
       "imageUrl": "https://cache.pttweb.cc/imgur/nII0z6o/s/dde28e82b6a2b23eeb8933c5bf6aade6"
+    },
+    {
+      "recommendScore": "126",
+      "recommendCount": "200",
+      "title": "[問卦] 水蓮 好吃嗎?",
+      "link": "/bbs/Gossiping/M.1764932727.A.6F2",
+      "author": "OPPAISuki",
+      "board": "Gossiping",
+      "publishTime": "2025/12/05 11:05",
+      "imageUrl": ""
     }
   ]
 }
