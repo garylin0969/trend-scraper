@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-06T08:06:57.617Z",
+  "updated": "2025-12-06T08:18:57.982Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -71,6 +71,16 @@
       "author": "hbl420ii",
       "board": "Gossiping",
       "publishTime": "2025/12/05 16:23",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "238",
+      "recommendCount": "542",
+      "title": "[新聞] 不只涉霸凌…子女當眾脫褲被通報性平",
+      "link": "/bbs/Gossiping/M.1765001987.A.DDC",
+      "author": "copybrown",
+      "board": "Gossiping",
+      "publishTime": "2025/12/06 06:19",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "FORMULA1",
       "publishTime": "2025/12/05 09:30",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "84",
-      "recommendCount": "250",
-      "title": "[情報] 台灣2025年11月份CPI 1.23%",
-      "link": "/bbs/Stock/M.1764922100.A.0F2",
-      "author": "cosmite",
-      "board": "Stock",
-      "publishTime": "2025/12/05 08:08",
-      "imageUrl": "https://cache.pttweb.cc/imgur/pLLp0M0/s/92a1146ef8a6de8844a502b6797f1bcc"
     }
   ]
 }
