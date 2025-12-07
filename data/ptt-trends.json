@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-07T05:46:04.501Z",
+  "updated": "2025-12-07T05:53:33.394Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "359",
-      "recommendCount": "782",
+      "recommendScore": "363",
+      "recommendCount": "796",
       "title": "[新聞] 詐1400萬沒押 車手立刻再詐712萬還是沒押",
       "link": "/bbs/Gossiping/M.1765074605.A.E2C",
       "author": "Faye88",
@@ -84,13 +84,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "192",
-      "recommendCount": "386",
+      "recommendScore": "193",
+      "recommendCount": "387",
       "title": "[新聞] 快訊／台南女警開單遭斧頭猛砍受傷！",
       "link": "/bbs/Gossiping/M.1765062324.A.AE1",
       "author": "kikiki37",
       "board": "Gossiping",
       "publishTime": "2025/12/06 23:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "193",
+      "recommendCount": "433",
+      "title": "[新聞] 驚傳退選？受孩子校園事件影響　賴瑞隆下午2時30分重大說明",
+      "link": "/bbs/Gossiping/M.1765080333.A.D1F",
+      "author": "youhow0418",
+      "board": "Gossiping",
+      "publishTime": "2025/12/07 04:05",
       "imageUrl": ""
     },
     {
@@ -112,16 +122,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/06 16:06",
       "imageUrl": "https://cache.pttweb.cc/imgur/duaZb7l/s/a83a40d80de99be539c4f52b55e6c660"
-    },
-    {
-      "recommendScore": "178",
-      "recommendCount": "410",
-      "title": "[新聞] 驚傳退選？受孩子校園事件影響　賴瑞隆下午2時30分重大說明",
-      "link": "/bbs/Gossiping/M.1765080333.A.D1F",
-      "author": "youhow0418",
-      "board": "Gossiping",
-      "publishTime": "2025/12/07 04:05",
-      "imageUrl": ""
     },
     {
       "recommendScore": "240",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "92",
-      "recommendCount": "412",
+      "recommendScore": "94",
+      "recommendCount": "425",
       "title": "[問卦] 直接破題：為何台灣不敢獨立？",
       "link": "/bbs/Gossiping/M.1765074981.A.802",
       "author": "kauosong",
@@ -174,13 +174,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "284",
-      "recommendCount": "683",
+      "recommendScore": "286",
+      "recommendCount": "686",
       "title": "Re: [問題] Yoro會大敗的主因是沒有自知之明嗎？",
       "link": "/bbs/C_Chat/M.1765062832.A.265",
       "author": "steven6105",
       "board": "C_Chat",
       "publishTime": "2025/12/06 23:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "154",
+      "recommendCount": "266",
+      "title": "[BOX ] Warriors 99:94 Cavaliers",
+      "link": "/bbs/NBA/M.1765076664.A.38C",
+      "author": "KC90",
+      "board": "NBA",
+      "publishTime": "2025/12/07 03:04",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "laptic",
       "board": "C_Chat",
       "publishTime": "2025/12/06 10:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "151",
-      "recommendCount": "263",
-      "title": "[BOX ] Warriors 99:94 Cavaliers",
-      "link": "/bbs/NBA/M.1765076664.A.38C",
-      "author": "KC90",
-      "board": "NBA",
-      "publishTime": "2025/12/07 03:04",
       "imageUrl": ""
     }
   ]
