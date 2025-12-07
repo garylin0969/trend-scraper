@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-07T07:28:04.229Z",
+  "updated": "2025-12-07T07:36:00.460Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "178",
-      "recommendCount": "356",
-      "title": "Fw: [宣判] 政黑板板主 Berotec 解除職務公告",
-      "link": "/bbs/HatePolitics/M.1765006254.A.599",
-      "author": "ilovemami",
-      "board": "HatePolitics",
-      "publishTime": "2025/12/06 07:30",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "291",
       "recommendCount": "708",
       "title": "Re: [問題] Yoro會大敗的主因是沒有自知之明嗎？",
@@ -202,6 +192,16 @@
       "board": "NBA",
       "publishTime": "2025/12/07 03:47",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "173",
+      "recommendCount": "605",
+      "title": "[新聞] 趙震雄引退宣言（非原標）",
+      "link": "/bbs/KoreaStar/M.1765017047.A.173",
+      "author": "peggy0410",
+      "board": "KoreaStar",
+      "publishTime": "2025/12/06 10:30",
+      "imageUrl": "https://cache.pttweb.cc/imgur/cvgYBRI/s/cbd7f270b2a6ff8f2947ee6d7349ee81"
     }
   ]
 }
