@@ -1,8 +1,18 @@
 {
-  "updated": "2025-12-07T06:56:04.110Z",
+  "updated": "2025-12-07T07:06:11.866Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "402",
+      "recommendCount": "923",
+      "title": "[新聞] 詐1400萬沒押 車手立刻再詐712萬還是沒押",
+      "link": "/bbs/Gossiping/M.1765074605.A.E2C",
+      "author": "Faye88",
+      "board": "Gossiping",
+      "publishTime": "2025/12/07 02:30",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "560",
       "recommendCount": "725",
@@ -11,16 +21,6 @@
       "author": "medama",
       "board": "Gossiping",
       "publishTime": "2025/12/06 12:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "375",
-      "recommendCount": "855",
-      "title": "[新聞] 詐1400萬沒押 車手立刻再詐712萬還是沒押",
-      "link": "/bbs/Gossiping/M.1765074605.A.E2C",
-      "author": "Faye88",
-      "board": "Gossiping",
-      "publishTime": "2025/12/07 02:30",
       "imageUrl": ""
     },
     {
@@ -44,8 +44,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/BqP3GcF/s/7b4753e29e8ed6a61548e174356bc2a9"
     },
     {
-      "recommendScore": "224",
-      "recommendCount": "575",
+      "recommendScore": "225",
+      "recommendCount": "582",
       "title": "[新聞] Windows 10釘子戶太多微軟頭痛！停更未見Windows 11升級潮",
       "link": "/bbs/Gossiping/M.1765013605.A.151",
       "author": "asdf1256",
@@ -54,28 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "240",
-      "recommendCount": "425",
-      "title": "[問卦] 女檢吳亞芝洩密給詐團律師男友桃檢竟簽結",
-      "link": "/bbs/Gossiping/M.1765024418.A.8AD",
-      "author": "abcdragon",
-      "board": "Gossiping",
-      "publishTime": "2025/12/06 12:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "119",
-      "recommendCount": "503",
-      "title": "[新聞] 賴瑞隆子女打同學　她翻謝龍介兒吸毒舊案：有誰要求退選嗎",
-      "link": "/bbs/Gossiping/M.1765040206.A.D9C",
-      "author": "Doica2445",
-      "board": "Gossiping",
-      "publishTime": "2025/12/06 16:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "225",
-      "recommendCount": "485",
+      "recommendScore": "244",
+      "recommendCount": "528",
       "title": "[新聞] 驚傳退選？受孩子校園事件影響　賴瑞隆下午2時30分重大說明",
       "link": "/bbs/Gossiping/M.1765080333.A.D1F",
       "author": "youhow0418",
@@ -84,18 +64,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "193",
-      "recommendCount": "389",
-      "title": "[新聞] 快訊／台南女警開單遭斧頭猛砍受傷！",
-      "link": "/bbs/Gossiping/M.1765062324.A.AE1",
-      "author": "kikiki37",
+      "recommendScore": "120",
+      "recommendCount": "517",
+      "title": "[新聞] 賴瑞隆子女打同學　她翻謝龍介兒吸毒舊案：有誰要求退選嗎",
+      "link": "/bbs/Gossiping/M.1765040206.A.D9C",
+      "author": "Doica2445",
       "board": "Gossiping",
-      "publishTime": "2025/12/06 23:05",
+      "publishTime": "2025/12/06 16:56",
       "imageUrl": ""
     },
     {
-      "recommendScore": "95",
-      "recommendCount": "391",
+      "recommendScore": "240",
+      "recommendCount": "426",
+      "title": "[問卦] 女檢吳亞芝洩密給詐團律師男友桃檢竟簽結",
+      "link": "/bbs/Gossiping/M.1765024418.A.8AD",
+      "author": "abcdragon",
+      "board": "Gossiping",
+      "publishTime": "2025/12/06 12:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "104",
+      "recommendCount": "405",
       "title": "[新聞] 差點氣哭！她點「焙茶拿鐵」　全家店員刁難不賣：那個字不唸焙",
       "link": "/bbs/Gossiping/M.1765068508.A.39C",
       "author": "ltytw",
@@ -104,14 +94,34 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "195",
+      "recommendCount": "398",
+      "title": "[新聞] 快訊／台南女警開單遭斧頭猛砍受傷！",
+      "link": "/bbs/Gossiping/M.1765062324.A.AE1",
+      "author": "kikiki37",
+      "board": "Gossiping",
+      "publishTime": "2025/12/06 23:05",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "146",
-      "recommendCount": "366",
+      "recommendCount": "367",
       "title": "[問卦] 八炯:對政府失望 若2026想下來 ok啊",
       "link": "/bbs/Gossiping/M.1765037192.A.407",
       "author": "weber18767",
       "board": "Gossiping",
       "publishTime": "2025/12/06 16:06",
       "imageUrl": "https://cache.pttweb.cc/imgur/duaZb7l/s/a83a40d80de99be539c4f52b55e6c660"
+    },
+    {
+      "recommendScore": "117",
+      "recommendCount": "480",
+      "title": "[問卦] 直接破題：為何台灣不敢獨立？",
+      "link": "/bbs/Gossiping/M.1765074981.A.802",
+      "author": "kauosong",
+      "board": "Gossiping",
+      "publishTime": "2025/12/07 02:36",
+      "imageUrl": ""
     },
     {
       "recommendScore": "134",
@@ -121,16 +131,6 @@
       "author": "LeeSeDol",
       "board": "Gossiping",
       "publishTime": "2025/12/06 09:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "99",
-      "recommendCount": "442",
-      "title": "[問卦] 直接破題：為何台灣不敢獨立？",
-      "link": "/bbs/Gossiping/M.1765074981.A.802",
-      "author": "kauosong",
-      "board": "Gossiping",
-      "publishTime": "2025/12/07 02:36",
       "imageUrl": ""
     },
     {
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "288",
-      "recommendCount": "697",
+      "recommendScore": "291",
+      "recommendCount": "706",
       "title": "Re: [問題] Yoro會大敗的主因是沒有自知之明嗎？",
       "link": "/bbs/C_Chat/M.1765062832.A.265",
       "author": "steven6105",
@@ -164,13 +164,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "159",
-      "recommendCount": "273",
+      "recommendScore": "164",
+      "recommendCount": "281",
       "title": "[BOX ] Warriors 99:94 Cavaliers",
       "link": "/bbs/NBA/M.1765076664.A.38C",
       "author": "KC90",
       "board": "NBA",
       "publishTime": "2025/12/07 03:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "124",
+      "recommendCount": "396",
+      "title": "[新聞] 中國戰機兩度雷達照射日本F-15 日方深夜緊急抗議",
+      "link": "/bbs/Gossiping/M.1765068652.A.9D6",
+      "author": "LoveMakeLove",
+      "board": "Gossiping",
+      "publishTime": "2025/12/07 00:50",
       "imageUrl": ""
     },
     {
@@ -184,24 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "123",
-      "recommendCount": "392",
-      "title": "[新聞] 中國戰機兩度雷達照射日本F-15 日方深夜緊急抗議",
-      "link": "/bbs/Gossiping/M.1765068652.A.9D6",
-      "author": "LoveMakeLove",
-      "board": "Gossiping",
-      "publishTime": "2025/12/07 00:50",
+      "recommendScore": "173",
+      "recommendCount": "330",
+      "title": "[BOX ] Clippers 106:109 Timberwolves",
+      "link": "/bbs/NBA/M.1765079263.A.3A6",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2025/12/07 03:47",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "168",
-      "recommendCount": "597",
-      "title": "[新聞] 趙震雄引退宣言（非原標）",
-      "link": "/bbs/KoreaStar/M.1765017047.A.173",
-      "author": "peggy0410",
-      "board": "KoreaStar",
-      "publishTime": "2025/12/06 10:30",
-      "imageUrl": "https://cache.pttweb.cc/imgur/cvgYBRI/s/cbd7f270b2a6ff8f2947ee6d7349ee81"
     }
   ]
 }
