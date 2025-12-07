@@ -1,11 +1,11 @@
 {
-  "updated": "2025-12-07T19:17:09.744Z",
+  "updated": "2025-12-07T19:25:29.983Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "471",
-      "recommendCount": "1061",
+      "recommendScore": "473",
+      "recommendCount": "1066",
       "title": "[新聞] 詐1400萬沒押 車手立刻再詐712萬還是沒押",
       "link": "/bbs/Gossiping/M.1765074605.A.E2C",
       "author": "Faye88",
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "183",
+      "recommendCount": "288",
+      "title": "[閒聊] 動物方程市2在日本丟下一顆核彈",
+      "link": "/bbs/C_Chat/M.1765079454.A.D5B",
+      "author": "Senkanseiki",
+      "board": "C_Chat",
+      "publishTime": "2025/12/07 03:50",
+      "imageUrl": "https://cache.pttweb.cc/imgur/fDxyS3j/s/3a17bbf1141e5a238e77de8b8c1405fd"
+    },
+    {
       "recommendScore": "47",
       "recommendCount": "327",
       "title": "[外絮] 媒體人：LBJ的無私證明他是GOAT",
@@ -154,16 +164,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/jW33M6G/s/92d2c88f1bb36ddd3a37e1d1a8b5f651"
     },
     {
-      "recommendScore": "180",
-      "recommendCount": "278",
-      "title": "[閒聊] 動物方程市2在日本丟下一顆核彈",
-      "link": "/bbs/C_Chat/M.1765079454.A.D5B",
-      "author": "Senkanseiki",
-      "board": "C_Chat",
-      "publishTime": "2025/12/07 03:50",
-      "imageUrl": "https://cache.pttweb.cc/imgur/fDxyS3j/s/3a17bbf1141e5a238e77de8b8c1405fd"
-    },
-    {
       "recommendScore": "173",
       "recommendCount": "299",
       "title": "[BOX ] Warriors 99:94 Cavaliers",
@@ -171,6 +171,16 @@
       "author": "KC90",
       "board": "NBA",
       "publishTime": "2025/12/07 03:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "129",
+      "recommendCount": "425",
+      "title": "[新聞] 中國戰機兩度雷達照射日本F-15 日方深夜緊急抗議",
+      "link": "/bbs/Gossiping/M.1765068652.A.9D6",
+      "author": "LoveMakeLove",
+      "board": "Gossiping",
+      "publishTime": "2025/12/07 00:50",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "steven6105",
       "board": "C_Chat",
       "publishTime": "2025/12/06 23:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "126",
-      "recommendCount": "417",
-      "title": "[新聞] 中國戰機兩度雷達照射日本F-15 日方深夜緊急抗議",
-      "link": "/bbs/Gossiping/M.1765068652.A.9D6",
-      "author": "LoveMakeLove",
-      "board": "Gossiping",
-      "publishTime": "2025/12/07 00:50",
       "imageUrl": ""
     }
   ]
