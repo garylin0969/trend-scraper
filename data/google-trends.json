@@ -1,15 +1,20 @@
 {
-  "updated": "2025-12-08T17:39:43.833Z",
+  "updated": "2025-12-08T18:13:47.134Z",
   "trends": [
+    {
+      "googleTrend": "北海道地震",
+      "searchVolume": "2,000+",
+      "started": "3 小時前"
+    },
+    {
+      "googleTrend": "日本大地震",
+      "searchVolume": "1,000+",
+      "started": "3 小時前"
+    },
     {
       "googleTrend": "nhk",
       "searchVolume": "500+",
-      "started": "2 小時前"
-    },
-    {
-      "googleTrend": "日本地震速報",
-      "searchVolume": "500+",
-      "started": "2 小時前"
+      "started": "3 小時前"
     },
     {
       "googleTrend": "japan earthquake",
@@ -17,34 +22,24 @@
       "started": "2 小時前"
     },
     {
-      "googleTrend": "ios 26.2",
+      "googleTrend": "李燕",
       "searchVolume": "200+",
-      "started": "3 小時前"
+      "started": "2 小時前"
     },
     {
-      "googleTrend": "范瑋琪",
-      "searchVolume": "200+",
+      "googleTrend": "金高銀",
+      "searchVolume": "100+",
       "started": "1 小時前"
     },
     {
-      "googleTrend": "李燕",
+      "googleTrend": "范瑋琪",
       "searchVolume": "200+",
       "started": "2 小時前"
     },
     {
       "googleTrend": "柯震東",
       "searchVolume": "100+",
-      "started": "1 小時前"
-    },
-    {
-      "googleTrend": "金高銀",
-      "searchVolume": "100+",
-      "started": "50 分鐘前"
-    },
-    {
-      "googleTrend": "卡利消",
-      "searchVolume": "200+",
-      "started": "3 小時前"
+      "started": "2 小時前"
     },
     {
       "googleTrend": "仙台",
@@ -54,7 +49,7 @@
     {
       "googleTrend": "東京",
       "searchVolume": "100+",
-      "started": "2 小時前"
+      "started": "3 小時前"
     }
   ]
 }
