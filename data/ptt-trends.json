@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-08T02:57:29.743Z",
+  "updated": "2025-12-08T03:34:41.916Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "173",
-      "recommendCount": "299",
-      "title": "[BOX ] Warriors 99:94 Cavaliers",
-      "link": "/bbs/NBA/M.1765076664.A.38C",
-      "author": "KC90",
-      "board": "NBA",
-      "publishTime": "2025/12/07 03:04",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "193",
       "recommendCount": "358",
       "title": "[BOX ] Clippers 106:109 Timberwolves",
@@ -201,6 +191,16 @@
       "author": "void",
       "board": "Gossiping",
       "publishTime": "2025/12/07 04:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "107",
+      "recommendCount": "290",
+      "title": "[新聞] 成本暴衝!連鎖便當、健康餐盒、手搖飲齊漲",
+      "link": "/bbs/Gossiping/M.1765115625.A.5CE",
+      "author": "rsreason",
+      "board": "Gossiping",
+      "publishTime": "2025/12/07 13:53",
       "imageUrl": ""
     }
   ]
