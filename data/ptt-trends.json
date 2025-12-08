@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-08T05:24:20.984Z",
+  "updated": "2025-12-08T05:39:22.773Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -81,6 +81,16 @@
       "author": "Gina4290",
       "board": "Gossiping",
       "publishTime": "2025/12/07 08:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "224",
+      "recommendCount": "376",
+      "title": "[BOX ] Lakers 112:108 76ers",
+      "link": "/bbs/NBA/M.1765162577.A.692",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2025/12/08 02:56",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "NBA",
       "publishTime": "2025/12/07 13:22",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "41",
-      "recommendCount": "285",
-      "title": "[新聞] 賴瑞隆落淚道歉！將安排兒子轉學　二度避談退選",
-      "link": "/bbs/Gossiping/M.1765093911.A.99B",
-      "author": "mars1985",
-      "board": "Gossiping",
-      "publishTime": "2025/12/07 07:51",
-      "imageUrl": "https://cache.pttweb.cc/imgur/dYgMcKy/s/5846af4445b9b35c76ecef322a1f5ae1"
     }
   ]
 }
