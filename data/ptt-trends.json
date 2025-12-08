@@ -1,18 +1,8 @@
 {
-  "updated": "2025-12-08T02:15:43.343Z",
+  "updated": "2025-12-08T02:57:29.743Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "473",
-      "recommendCount": "1066",
-      "title": "[新聞] 詐1400萬沒押 車手立刻再詐712萬還是沒押",
-      "link": "/bbs/Gossiping/M.1765074605.A.E2C",
-      "author": "Faye88",
-      "board": "Gossiping",
-      "publishTime": "2025/12/07 02:30",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "189",
       "recommendCount": "779",
@@ -51,16 +41,6 @@
       "author": "PealRay",
       "board": "Gossiping",
       "publishTime": "2025/12/07 07:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "148",
-      "recommendCount": "590",
-      "title": "[問卦] 直接破題：為何台灣不敢獨立？",
-      "link": "/bbs/Gossiping/M.1765074981.A.802",
-      "author": "kauosong",
-      "board": "Gossiping",
-      "publishTime": "2025/12/07 02:36",
       "imageUrl": ""
     },
     {
@@ -201,6 +181,26 @@
       "author": "jason911152",
       "board": "NBA",
       "publishTime": "2025/12/07 03:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "827",
+      "recommendCount": "1470",
+      "title": "[討論] [Vtub] Hololive 晚間直播單 (1141207)",
+      "link": "/bbs/C_Chat/M.1765104586.A.CB4",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2025/12/07 10:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "142",
+      "recommendCount": "384",
+      "title": "[爆卦] 貝森特說俄侵犯北約邊界 美國不會出兵",
+      "link": "/bbs/Gossiping/M.1765082765.A.114",
+      "author": "void",
+      "board": "Gossiping",
+      "publishTime": "2025/12/07 04:46",
       "imageUrl": ""
     }
   ]
