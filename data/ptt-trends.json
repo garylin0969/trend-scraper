@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-08T07:30:59.922Z",
+  "updated": "2025-12-08T07:40:53.459Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "62",
+      "recommendCount": "276",
+      "title": "[爆卦] 賴瑞隆:網路充斥假消息相信只會撕裂台灣",
+      "link": "/bbs/Gossiping/M.1765166301.A.C30",
+      "author": "PealRay",
+      "board": "Gossiping",
+      "publishTime": "2025/12/08 03:58",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "866",
       "recommendCount": "1470",
       "title": "[討論] [Vtub] Hololive 晚間直播單 (1141207)",
@@ -174,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "208",
+      "recommendCount": "403",
+      "title": "[新聞] 獅隊要求富邦本週交25人名單　同步希望蘇智傑這週給出回覆",
+      "link": "/bbs/Baseball/M.1765169231.A.CEF",
+      "author": "ruka660101",
+      "board": "Baseball",
+      "publishTime": "2025/12/08 04:47",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "200",
       "recommendCount": "363",
       "title": "[閒聊] 小時候覺得好看，長大才知道評價很差？",
@@ -182,26 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2025/12/07 08:01",
       "imageUrl": "https://cache.pttweb.cc/imgur/lGY03s5/s/10b2a87cb2aa3d82e26572c0a73ba3bf"
-    },
-    {
-      "recommendScore": "107",
-      "recommendCount": "290",
-      "title": "[新聞] 成本暴衝!連鎖便當、健康餐盒、手搖飲齊漲",
-      "link": "/bbs/Gossiping/M.1765115625.A.5CE",
-      "author": "rsreason",
-      "board": "Gossiping",
-      "publishTime": "2025/12/07 13:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "203",
-      "recommendCount": "836",
-      "title": "[情報] 快艇騎士賽中 CP3指正Kawhi的怠惰防守",
-      "link": "/bbs/NBA/M.1765113742.A.CE4",
-      "author": "alex40214",
-      "board": "NBA",
-      "publishTime": "2025/12/07 13:22",
-      "imageUrl": ""
     }
   ]
 }
