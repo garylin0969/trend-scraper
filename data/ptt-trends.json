@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-08T16:07:45.626Z",
+  "updated": "2025-12-08T16:19:48.694Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "227",
+      "recommendCount": "344",
+      "title": "[爆卦] 日本M7.6強震（上修）+海嘯警報",
+      "link": "/bbs/Gossiping/M.1765203462.A.093",
+      "author": "aa1477888",
+      "board": "Gossiping",
+      "publishTime": "2025/12/08 14:17",
+      "imageUrl": "https://cache.pttweb.cc/imgur/NMGRsUA/s/89c9a43b6e3582fd0307027885fbc363"
+    },
+    {
       "recommendScore": "253",
       "recommendCount": "493",
       "title": "[新聞] 獅隊要求富邦本週交25人名單　同步希望蘇智傑這週給出回覆",
@@ -191,16 +201,6 @@
       "author": "Skyblueway",
       "board": "NBA",
       "publishTime": "2025/12/08 02:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "190",
-      "recommendCount": "531",
-      "title": "[閒聊] Yoro應還是會在實況圈繼續存活，佐證如下",
-      "link": "/bbs/C_Chat/M.1765159037.A.51F",
-      "author": "nicholas0406",
-      "board": "C_Chat",
-      "publishTime": "2025/12/08 01:57",
       "imageUrl": ""
     }
   ]
