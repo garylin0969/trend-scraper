@@ -1,10 +1,10 @@
 {
-  "updated": "2025-12-09T07:23:24.299Z",
+  "updated": "2025-12-09T07:48:11.219Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-12-09T07:23:11.000Z",
+    "lastBuildDate": "2025-12-09T07:48:01.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -50,6 +50,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1650/live/d3a09840-d2bb-11f0-a892-01d657345866.jpg"
     },
     {
+      "title": "香港立法會選舉：投票率史上第二低，40人屬於「新人」",
+      "description": "今屆選舉在大埔宏福苑大火後舉行，成為社會關注點。行政長官李家超表示，期望議員會與政府共同推動災後支援和重建工作。",
+      "link": "https://www.bbc.com/zhongwen/articles/c98nd5z0v68o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-08T10:03:38.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c98nd5z0v68o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2627/live/e35af250-d417-11f0-a892-01d657345866.jpg"
+    },
+    {
       "title": "特朗普簽《台灣保證實施法案》：對台「制度化」保障，還是對北京的談判籌碼？",
       "description": "學者向BBC中文分析，此案將有望提升台美官方交流層級，並透過制度化來降低政策變動對台美關係的影響。但隨著特朗普即將於明年4月訪問中國，這也可能成為特訪普對北京施壓的談判籌碼之一。",
       "link": "https://www.bbc.com/zhongwen/articles/clydrkrzn30o/trad?at_medium=RSS&at_campaign=rss",
@@ -74,14 +82,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f32/live/b68904b0-d1c9-11f0-a892-01d657345866.jpg"
     },
     {
-      "title": "香港立法會選舉：投票率史上第二低，40人屬於「新人」",
-      "description": "今屆選舉在大埔宏福苑大火後舉行，成為社會關注點。行政長官李家超表示，期望議員會與政府共同推動災後支援和重建工作。",
-      "link": "https://www.bbc.com/zhongwen/articles/c98nd5z0v68o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-08T10:03:38.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c98nd5z0v68o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2627/live/e35af250-d417-11f0-a892-01d657345866.jpg"
-    },
-    {
       "title": "製造北極光的太陽風暴如何同時對地球造成破壞？",
       "description": "2025年10月30日，一架捷藍航空的空中巴士A320客機在墨西哥坎昆和美國紐瓦克之間飛行時，突然意外下降高度，導致部分乘客受傷。空中巴士調查後發現，太空天氣破壞了升降舵副翼電腦中的數據。",
       "link": "https://www.bbc.com/zhongwen/articles/cvgj3g7z08po/trad?at_medium=RSS&at_campaign=rss",
@@ -98,20 +98,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d9f/live/8fcb5e50-d3d5-11f0-b0e4-6f8a686da5c7.jpg"
     },
     {
-      "title": "馬克龍訪華受高規格接待，兩國恐難在俄烏及台灣問題上「各取所需」",
-      "description": "馬克龍訪中期間，正值歐中貿易摩擦、俄烏戰爭進行談判以及日中關係因為台灣問題風波不斷之際，外界因此關注馬克龍此次與習近平會面時，是否會觸及俄烏戰爭及台海問題?",
-      "link": "https://www.bbc.com/zhongwen/articles/cvg18e1djzeo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-05T09:01:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvg18e1djzeo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5885/live/72138f70-d1ac-11f0-a892-01d657345866.jpg"
-    },
-    {
       "title": "藝人「閃兵」案冰山一角？台灣男性是如何讓自己免服兵役",
       "description": "目前爆出的非法案件只是冰山一角，背後更大的問題是，台灣役齡男子的整體免役率高達16%，而鄰近的南韓、新加坡也都只有5%，專家認為這將削弱台灣的國防力量。",
       "link": "https://www.bbc.com/zhongwen/articles/cpvd2e087n8o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-12-06T13:06:35.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cpvd2e087n8o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c664/live/433f53d0-d26c-11f0-8c06-f5d460985095.jpg"
+    },
+    {
+      "title": "馬克龍訪華受高規格接待，兩國恐難在俄烏及台灣問題上「各取所需」",
+      "description": "馬克龍訪中期間，正值歐中貿易摩擦、俄烏戰爭進行談判以及日中關係因為台灣問題風波不斷之際，外界因此關注馬克龍此次與習近平會面時，是否會觸及俄烏戰爭及台海問題?",
+      "link": "https://www.bbc.com/zhongwen/articles/cvg18e1djzeo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-05T09:01:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvg18e1djzeo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5885/live/72138f70-d1ac-11f0-a892-01d657345866.jpg"
     },
     {
       "title": "香港大火照片背後：兒子親述父親「目睹家庭在火海中消失」",
