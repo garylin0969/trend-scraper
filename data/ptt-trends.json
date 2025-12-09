@@ -1,7 +1,7 @@
 {
-  "updated": "2025-12-09T22:30:43.946Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-12-09T22:40:02.730Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "271",
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "149",
-      "recommendCount": "362",
-      "title": "[問卦] 澤倫斯基:給我150億美金跟安全保證很難嗎",
-      "link": "/bbs/Gossiping/M.1765233024.A.565",
-      "author": "funkboy",
-      "board": "Gossiping",
-      "publishTime": "2025/12/08 22:30",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "78",
       "recommendCount": "243",
       "title": "[新聞] 青森規模7.6強震 賴清德送暖高市早苗：台灣隨時準備援助",
@@ -191,6 +181,26 @@
       "author": "YOYOISGOOD",
       "board": "Stock",
       "publishTime": "2025/12/09 06:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "163",
+      "recommendCount": "337",
+      "title": "[閒聊] 新三國真的拍得很爛嗎",
+      "link": "/bbs/C_Chat/M.1765287176.A.9B9",
+      "author": "Antihuman",
+      "board": "C_Chat",
+      "publishTime": "2025/12/09 13:32",
+      "imageUrl": "https://cache.pttweb.cc/imgur/xZYg06e/s/c2827f67a48635975282ece6a258ffda"
+    },
+    {
+      "recommendScore": "98",
+      "recommendCount": "199",
+      "title": "[問卦] 都沒人發現 台灣到現在關稅還沒談完？",
+      "link": "/bbs/Gossiping/M.1765262481.A.BB1",
+      "author": "qwer1988",
+      "board": "Gossiping",
+      "publishTime": "2025/12/09 06:41",
       "imageUrl": ""
     }
   ]
