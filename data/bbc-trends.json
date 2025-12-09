@@ -1,14 +1,22 @@
 {
-  "updated": "2025-12-08T23:47:29.546Z",
+  "updated": "2025-12-09T00:40:12.843Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-12-08T23:47:29.000Z",
+    "lastBuildDate": "2025-12-09T00:40:11.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "中國短劇流水線揭秘：寬鬆審核下的速度與豪賭",
+      "description": "中國短劇工廠最常見的模式就是「7+7+7」，也就是籌備七天，拍攝七天，整個後期的「投流」也是七天。一個價值數百億的新興市場，催生了另類的速度與激情。",
+      "link": "https://www.bbc.com/zhongwen/articles/ckgzn10qg22o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-09T00:19:13.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckgzn10qg22o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2377/live/834d4bc0-d3f3-11f0-9107-738f275ca6af.jpg"
+    },
     {
       "title": "特朗普簽《台灣保證實施法案》：對台「制度化」保障，還是對北京的談判籌碼？",
       "description": "學者向BBC中文分析，此案將有望提升台美官方交流層級，並透過制度化來降低政策變動對台美關係的影響。但隨著特朗普即將於明年4月訪問中國，這也可能成為特訪普對北京施壓的談判籌碼之一。",
@@ -26,12 +34,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2627/live/e35af250-d417-11f0-a892-01d657345866.jpg"
     },
     {
-      "title": "台灣以「打擊詐騙」為由封鎖小紅書一年，為何引發爭議？",
-      "description": "目前台灣有300萬小紅書活躍用戶，不少人表示未來恐怕要「翻牆」使用該平台。事件引發當局是否以打詐為名「築起網路長城」的爭議，也觸及到兩岸之間「法律管轄權」的敏感問題。",
-      "link": "https://www.bbc.com/zhongwen/articles/crk762n7rj3o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-05T11:25:27.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crk762n7rj3o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f32/live/b68904b0-d1c9-11f0-a892-01d657345866.jpg"
+      "title": "心率、血壓、睡眠、個人紀錄……我對智能手錶上癮了嗎？",
+      "description": "解讀智能手錶的數據非常複雜。研究者擔心，隨著功能增加，人們可能無法完全理解自己的數據。",
+      "link": "https://www.bbc.com/zhongwen/articles/c2k4njz12gjo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-09T00:20:45.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c2k4njz12gjo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1650/live/d3a09840-d2bb-11f0-a892-01d657345866.jpg"
     },
     {
       "title": "禁止孩子使用社交媒體？澳大利亞即將行動，但一些青少年卻已搶先一步",
@@ -42,11 +50,19 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2bf7/live/75176520-d1a2-11f0-9fb5-5f3a3703a365.jpg"
     },
     {
+      "title": "台灣以「打擊詐騙」為由封鎖小紅書一年，為何引發爭議？",
+      "description": "目前台灣有300萬小紅書活躍用戶，不少人表示未來恐怕要「翻牆」使用該平台。事件引發當局是否以打詐為名「築起網路長城」的爭議，也觸及到兩岸之間「法律管轄權」的敏感問題。",
+      "link": "https://www.bbc.com/zhongwen/articles/crk762n7rj3o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-05T11:25:27.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/crk762n7rj3o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f32/live/b68904b0-d1c9-11f0-a892-01d657345866.jpg"
+    },
+    {
       "title": "製造北極光的太陽風暴如何同時對地球造成破壞？",
       "description": "2025年10月30日，一架捷藍航空的空中巴士A320客機在墨西哥坎昆和美國紐瓦克之間飛行時，突然意外下降高度，導致部分乘客受傷。空中巴士調查後發現，太空天氣破壞了升降舵副翼電腦中的數據。",
       "link": "https://www.bbc.com/zhongwen/articles/cvgj3g7z08po/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-12-08T07:34:51.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgj3g7z08po/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvgj3g7z08po/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/745f/live/ba02f2d0-d111-11f0-a892-01d657345866.jpg"
     },
     {
@@ -96,22 +112,6 @@
       "pubDate": "2025-12-06T13:06:35.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cpvd2e087n8o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c664/live/433f53d0-d26c-11f0-8c06-f5d460985095.jpg"
-    },
-    {
-      "title": "朗尼·莫斯利：假扮農夫躲過納粹追捕的二戰美軍飛行員",
-      "description": "英國帝國戰爭博物館即將推出新的展覽，講述二戰美軍飛行員朗尼·莫斯利駕駛戰機墜毀在法國之後逃亡期間的非凡故事。",
-      "link": "https://www.bbc.com/zhongwen/articles/c997p9xk7vko/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-07T00:16:37.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c997p9xk7vko/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/93b5/live/5cb28aa0-cff4-11f0-8c06-f5d460985095.jpg"
-    },
-    {
-      "title": "香港宏福苑大火：兩字之差的「獨立委員會」能否滿足訴求？",
-      "description": "檢討和追責，是公眾對宏福苑世紀災難調查的訴求。香港特首宣佈成立不具法定權力的調查機構，法律界人士甚至前政府高官表達了擔憂，傳召權的缺失和調查廣度是討論焦點。",
-      "link": "https://www.bbc.com/zhongwen/articles/clyz14q7g89o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-05T07:34:20.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/clyz14q7g89o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6c91/live/bae6c4b0-d175-11f0-af1e-ff8e62f752d4.jpg"
     },
     {
       "title": "香港大火照片背後：兒子親述父親「目睹家庭在火海中消失」",
@@ -202,6 +202,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b1a/live/3b900230-d02b-11f0-9fb5-5f3a3703a365.jpg"
     },
     {
+      "title": "朗尼·莫斯利：假扮農夫躲過納粹追捕的二戰美軍飛行員",
+      "description": "英國帝國戰爭博物館即將推出新的展覽，講述二戰美軍飛行員朗尼·莫斯利駕駛戰機墜毀在法國之後逃亡期間的非凡故事。",
+      "link": "https://www.bbc.com/zhongwen/articles/c997p9xk7vko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-07T00:16:37.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c997p9xk7vko/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/93b5/live/5cb28aa0-cff4-11f0-8c06-f5d460985095.jpg"
+    },
+    {
       "title": "從香港到曼哈頓：瑞幸等中國品牌「重寫街景」背後的競爭與焦慮",
       "description": "一批在中國「內卷式競爭」中成長的品牌，正以低價、高效和數字化運營重寫全球街頭門店的招牌。這些變化意味著什麼？",
       "link": "https://www.bbc.com/zhongwen/articles/cn7krl33xvyo/trad?at_medium=RSS&at_campaign=rss",
@@ -224,14 +232,6 @@
       "pubDate": "2025-11-25T09:04:53.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx2g7px7ex6o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eee8/live/ab68cf50-c9e2-11f0-8c06-f5d460985095.jpg"
-    },
-    {
-      "title": "從「吃壽司」到宣布2027年防衛備戰，賴清德為何由低調轉為強硬？",
-      "description": "在中、美、日領導人本週初兩度通話後，台灣總統賴清德隨即高調宣布投入1.25兆新台幣強化國防及採購美國軍備，以因應「北京可能在2027年以武力統一台灣」。這是台灣當局首次公開提及中共可能採取武力行動的具體時間，引發外界多重解讀。\n",
-      "link": "https://www.bbc.com/zhongwen/articles/ce9101755xro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-11-27T08:45:07.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce9101755xro/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/56a6/live/e7c18870-cb5e-11f0-828f-814bb5f3ea84.jpg"
     },
     {
       "title": "開戰車的女人：台灣軍隊性別平等了嗎？",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c0d/live/06524c60-ae32-11f0-ba75-093eca1ac29b.jpg"
     },
     {
+      "title": "香港宏福苑大火：兩字之差的「獨立委員會」能否滿足訴求？",
+      "description": "檢討和追責，是公眾對宏福苑世紀災難調查的訴求。香港特首宣佈成立不具法定權力的調查機構，法律界人士甚至前政府高官表達了擔憂，傳召權的缺失和調查廣度是討論焦點。",
+      "link": "https://www.bbc.com/zhongwen/articles/clyz14q7g89o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-05T07:34:20.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/clyz14q7g89o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6c91/live/bae6c4b0-d175-11f0-af1e-ff8e62f752d4.jpg"
+    },
+    {
       "title": "為什麼越來越多Z世代對復古科技情有獨鍾？",
       "description": "Z世代正走向復古，有研究顯示，在當代社會中，人們重新開始熱衷於購買和收藏可追溯至數十年前的那些科技產品。",
       "link": "https://www.bbc.com/zhongwen/articles/c898dwl33zvo/trad?at_medium=RSS&at_campaign=rss",
@@ -296,14 +304,6 @@
       "pubDate": "2025-12-06T13:22:30.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx23e7k4exjo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d1ab/live/1eb71c30-d124-11f0-8c06-f5d460985095.jpg"
-    },
-    {
-      "title": "SUV汽車在歐洲越來越多，但並非所有人都樂見其成",
-      "description": "在英國和整個歐洲，汽車變得越來越長、越來越寬、越來越重。",
-      "link": "https://www.bbc.com/zhongwen/articles/cp3413n6dwvo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-03T04:04:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cp3413n6dwvo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c28e/live/e45ae640-cf6e-11f0-9fb5-5f3a3703a365.jpg"
     },
     {
       "title": "香港宏福苑大火：金屬棚架真的比竹棚安全嗎？還有什麼關鍵因素？",
