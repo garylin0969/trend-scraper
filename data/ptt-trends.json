@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-09T21:05:42.253Z",
+  "updated": "2025-12-09T21:18:05.385Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -22,6 +22,16 @@
       "board": "Gossiping",
       "publishTime": "2025/12/09 04:46",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "390",
+      "recommendCount": "493",
+      "title": "[情報] Edwin Diaz去道奇",
+      "link": "/bbs/Baseball/M.1765297115.A.7D1",
+      "author": "what62651",
+      "board": "Baseball",
+      "publishTime": "2025/12/09 16:18",
+      "imageUrl": "https://cache.pttweb.cc/imgur/HudmiSy/s/09f97e7ccb5617785a7822428e8166f1"
     },
     {
       "recommendScore": "151",
@@ -192,16 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2025/12/09 13:32",
       "imageUrl": "https://cache.pttweb.cc/imgur/xZYg06e/s/c2827f67a48635975282ece6a258ffda"
-    },
-    {
-      "recommendScore": "98",
-      "recommendCount": "199",
-      "title": "[問卦] 都沒人發現 台灣到現在關稅還沒談完？",
-      "link": "/bbs/Gossiping/M.1765262481.A.BB1",
-      "author": "qwer1988",
-      "board": "Gossiping",
-      "publishTime": "2025/12/09 06:41",
-      "imageUrl": ""
     }
   ]
 }
