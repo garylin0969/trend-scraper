@@ -1,8 +1,18 @@
 {
-  "updated": "2025-12-09T07:10:51.088Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2025-12-09T07:23:40.225Z",
+  "total_found": 19,
+  "returned_count": 19,
   "articles": [
+    {
+      "recommendScore": "172",
+      "recommendCount": "522",
+      "title": "[問卦] 看民調，台灣有64% 願意上戰場？",
+      "link": "/bbs/Gossiping/M.1765240859.A.FC3",
+      "author": "linx210145",
+      "board": "Gossiping",
+      "publishTime": "2025/12/09 00:40",
+      "imageUrl": "https://cache.pttweb.cc/imgur/aJdi5Wr/s/d1019d3741fef70ea7e0e07728cb47b5"
+    },
     {
       "recommendScore": "146",
       "recommendCount": "342",
@@ -42,6 +52,26 @@
       "board": "Gossiping",
       "publishTime": "2025/12/09 02:50",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "149",
+      "recommendCount": "362",
+      "title": "[問卦] 澤倫斯基:給我150億美金跟安全保證很難嗎",
+      "link": "/bbs/Gossiping/M.1765233024.A.565",
+      "author": "funkboy",
+      "board": "Gossiping",
+      "publishTime": "2025/12/08 22:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "132",
+      "recommendCount": "233",
+      "title": "[新聞] 車手詐騙1800萬沒羈押！交保後再騙285萬",
+      "link": "/bbs/Gossiping/M.1765243232.A.F55",
+      "author": "fucKMT5566",
+      "board": "Gossiping",
+      "publishTime": "2025/12/09 01:20",
+      "imageUrl": "https://cache.pttweb.cc/imgur/WkW1W7v/s/7da7a37570e6f1a08810c8565ca6d3cd"
     },
     {
       "recommendScore": "106",
@@ -124,16 +154,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/4fc6Ept/s/d4157abda54d70403171461390d7a3ea"
     },
     {
-      "recommendScore": "91",
-      "recommendCount": "212",
-      "title": "[標的] 3293 鈊象 請益",
-      "link": "/bbs/Stock/M.1765178086.A.C97",
-      "author": "VVVV5555",
-      "board": "Stock",
-      "publishTime": "2025/12/08 07:14",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "121",
       "recommendCount": "127",
       "title": "Re: [GBC] 發錢啦 少女樂團吶喊吧台灣明年一月上映",
@@ -171,36 +191,6 @@
       "author": "eric20601",
       "board": "C_Chat",
       "publishTime": "2025/12/09 03:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "65",
-      "recommendCount": "191",
-      "title": "[新聞] 為何女生越來越愛年下男？「5大理由」揭秘 　帶來愛情流動感是主因",
-      "link": "/bbs/Gossiping/M.1765242366.A.818",
-      "author": "zakijudelo",
-      "board": "Gossiping",
-      "publishTime": "2025/12/09 01:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "105",
-      "recommendCount": "111",
-      "title": "[閒聊] 來玩一下 喵喵選誰",
-      "link": "/bbs/BaseballXXXX/M.1765180134.A.892",
-      "author": "willieyang",
-      "board": "BaseballXXXX",
-      "publishTime": "2025/12/08 07:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "112",
-      "recommendCount": "226",
-      "title": "[閒聊] River漫畫 自從有了Ai後失去的樂趣",
-      "link": "/bbs/C_Chat/M.1765254509.A.497",
-      "author": "lolic",
-      "board": "C_Chat",
-      "publishTime": "2025/12/09 04:28",
       "imageUrl": ""
     }
   ]
