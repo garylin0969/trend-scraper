@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-09T00:49:41.601Z",
+  "updated": "2025-12-09T01:23:04.549Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "337",
+      "recommendCount": "831",
+      "title": "[閒聊] 演唱會「辦在南部」有哪裡不好？",
+      "link": "/bbs/C_Chat/M.1765171874.A.4E1",
+      "author": "negisan39",
+      "board": "C_Chat",
+      "publishTime": "2025/12/08 05:31",
+      "imageUrl": "https://cache.pttweb.cc/imgur/euZsO4H/s/cf37379a015958d42e24d83e78e59a7b"
+    },
+    {
       "recommendScore": "138",
       "recommendCount": "621",
       "title": "[問卦] 基本薪資到底調爽沒？",
@@ -32,16 +42,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/08 03:20",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "319",
-      "recommendCount": "787",
-      "title": "[閒聊] 演唱會「辦在南部」有哪裡不好？",
-      "link": "/bbs/C_Chat/M.1765171874.A.4E1",
-      "author": "negisan39",
-      "board": "C_Chat",
-      "publishTime": "2025/12/08 05:31",
-      "imageUrl": "https://cache.pttweb.cc/imgur/euZsO4H/s/cf37379a015958d42e24d83e78e59a7b"
     },
     {
       "recommendScore": "264",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "77",
-      "recommendCount": "327",
+      "recommendScore": "76",
+      "recommendCount": "332",
       "title": "[爆卦] 賴瑞隆:網路充斥假消息相信只會撕裂台灣",
       "link": "/bbs/Gossiping/M.1765166301.A.C30",
       "author": "PealRay",
@@ -104,8 +104,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/NMGRsUA/s/89c9a43b6e3582fd0307027885fbc363"
     },
     {
-      "recommendScore": "253",
-      "recommendCount": "493",
+      "recommendScore": "256",
+      "recommendCount": "496",
       "title": "[新聞] 獅隊要求富邦本週交25人名單　同步希望蘇智傑這週給出回覆",
       "link": "/bbs/Baseball/M.1765169231.A.CEF",
       "author": "ruka660101",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "140",
-      "recommendCount": "229",
-      "title": "[新聞] 2年至少120萬美元  威能帝續留樂天",
-      "link": "/bbs/Baseball/M.1765163057.A.FF2",
-      "author": "loli",
-      "board": "Baseball",
-      "publishTime": "2025/12/08 03:04",
+      "recommendScore": "131",
+      "recommendCount": "165",
+      "title": "[花邊] LBJ: 今晚我的腿感覺很棒！",
+      "link": "/bbs/NBA/M.1765167786.A.177",
+      "author": "pneumo",
+      "board": "NBA",
+      "publishTime": "2025/12/08 04:23",
       "imageUrl": ""
     }
   ]
