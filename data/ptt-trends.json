@@ -1,8 +1,18 @@
 {
-  "updated": "2025-12-09T15:19:39.859Z",
+  "updated": "2025-12-09T15:34:06.808Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "458",
+      "recommendCount": "731",
+      "title": "[新聞] 台灣詐騙犯「遣送中國」！　873人全辦了",
+      "link": "/bbs/Gossiping/M.1765259288.A.5C7",
+      "author": "kabukiada",
+      "board": "Gossiping",
+      "publishTime": "2025/12/09 05:48",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "247",
       "recommendCount": "716",
@@ -191,16 +201,6 @@
       "author": "usnavyseal",
       "board": "NBA",
       "publishTime": "2025/12/09 03:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "164",
-      "recommendCount": "315",
-      "title": "[情報] 國王對苦命還是有興趣 但不出首輪了",
-      "link": "/bbs/NBA/M.1765258874.A.53E",
-      "author": "Skyblueway",
-      "board": "NBA",
-      "publishTime": "2025/12/09 05:41",
       "imageUrl": ""
     }
   ]
