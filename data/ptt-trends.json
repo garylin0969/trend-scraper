@@ -1,8 +1,18 @@
 {
-  "updated": "2025-12-09T16:07:41.406Z",
+  "updated": "2025-12-09T16:20:32.969Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "271",
+      "recommendCount": "811",
+      "title": "[新聞] 惡劣！南韓執意稱呼「中國台灣」　外交部震怒：將重新檢視兩國關係",
+      "link": "/bbs/Gossiping/M.1765274316.A.4B6",
+      "author": "patrick08",
+      "board": "Gossiping",
+      "publishTime": "2025/12/09 09:58",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "247",
       "recommendCount": "716",
@@ -11,6 +21,16 @@
       "author": "kinjk01",
       "board": "Gossiping",
       "publishTime": "2025/12/09 04:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "193",
+      "recommendCount": "602",
+      "title": "[問卦] CSIS兵推：臺灣海空軍開戰即全滅？",
+      "link": "/bbs/Gossiping/M.1765274377.A.FF2",
+      "author": "TCB006",
+      "board": "Gossiping",
+      "publishTime": "2025/12/09 09:59",
       "imageUrl": ""
     },
     {
@@ -32,16 +52,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/09 02:50",
       "imageUrl": "https://cache.pttweb.cc/imgur/cuwUL7b/s/efbc8f1ee37847d0e36d86ab50c26b31"
-    },
-    {
-      "recommendScore": "227",
-      "recommendCount": "344",
-      "title": "[爆卦] 日本M7.6強震（上修）+海嘯警報",
-      "link": "/bbs/Gossiping/M.1765203462.A.093",
-      "author": "aa1477888",
-      "board": "Gossiping",
-      "publishTime": "2025/12/08 14:17",
-      "imageUrl": "https://cache.pttweb.cc/imgur/NMGRsUA/s/89c9a43b6e3582fd0307027885fbc363"
     },
     {
       "recommendScore": "151",
@@ -164,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "128",
+      "recommendCount": "173",
+      "title": "[閒聊] 接獲日本「任○○株式會社」報案",
+      "link": "/bbs/C_Chat/M.1765273423.A.C3C",
+      "author": "Teng0615",
+      "board": "C_Chat",
+      "publishTime": "2025/12/09 09:43",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "72",
       "recommendCount": "233",
       "title": "[新聞] 卓榮泰對立院修法 不滿意 不執行 彷若皇帝",
@@ -182,26 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/09 00:34",
       "imageUrl": "https://cache.pttweb.cc/imgur/UXIfEWW/s/bf415153bf90e3397704169516d513fc"
-    },
-    {
-      "recommendScore": "87",
-      "recommendCount": "167",
-      "title": "[新聞] 勇士進攻火力不足！美媒建議迎回普爾 格林恐陷尷尬處境",
-      "link": "/bbs/NBA/M.1765249693.A.39D",
-      "author": "usnavyseal",
-      "board": "NBA",
-      "publishTime": "2025/12/09 03:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "164",
-      "recommendCount": "315",
-      "title": "[情報] 國王對苦命還是有興趣 但不出首輪了",
-      "link": "/bbs/NBA/M.1765258874.A.53E",
-      "author": "Skyblueway",
-      "board": "NBA",
-      "publishTime": "2025/12/09 05:41",
-      "imageUrl": ""
     }
   ]
 }
