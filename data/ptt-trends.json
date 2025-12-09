@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-09T20:18:17.237Z",
+  "updated": "2025-12-09T20:30:46.339Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "214",
+      "recommendCount": "400",
+      "title": "[問卦] 單親媽媽可以交嗎？",
+      "link": "/bbs/Gossiping/M.1765262403.A.588",
+      "author": "Euler",
+      "board": "Gossiping",
+      "publishTime": "2025/12/09 06:40",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "193",
       "recommendCount": "602",
       "title": "[問卦] CSIS兵推：臺灣海空軍開戰即全滅？",
@@ -64,6 +74,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/cuwUL7b/s/efbc8f1ee37847d0e36d86ab50c26b31"
     },
     {
+      "recommendScore": "227",
+      "recommendCount": "276",
+      "title": "[分享] 陳晨威 求婚成功",
+      "link": "/bbs/Baseball/M.1765258675.A.627",
+      "author": "ROXSMEB",
+      "board": "Baseball",
+      "publishTime": "2025/12/09 05:37",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "151",
       "recommendCount": "401",
       "title": "[新聞] 改管仔慘了！《噪管法》三讀超標最高罰3.6萬　嚴重者吊牌",
@@ -71,26 +91,6 @@
       "author": "s1777001",
       "board": "Gossiping",
       "publishTime": "2025/12/09 05:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "178",
-      "recommendCount": "315",
-      "title": "[問卦] 單親媽媽可以交嗎？",
-      "link": "/bbs/Gossiping/M.1765262403.A.588",
-      "author": "Euler",
-      "board": "Gossiping",
-      "publishTime": "2025/12/09 06:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "219",
-      "recommendCount": "267",
-      "title": "[分享] 陳晨威 求婚成功",
-      "link": "/bbs/Baseball/M.1765258675.A.627",
-      "author": "ROXSMEB",
-      "board": "Baseball",
-      "publishTime": "2025/12/09 05:37",
       "imageUrl": ""
     },
     {
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "184",
-      "recommendCount": "267",
+      "recommendScore": "203",
+      "recommendCount": "293",
       "title": "[新聞] 林益全轉戰中國棒球聯賽 下家曝光！月薪從27萬變17萬",
       "link": "/bbs/Baseball/M.1765261525.A.C04",
       "author": "jganet",
@@ -154,6 +154,26 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/WkW1W7v/s/7da7a37570e6f1a08810c8565ca6d3cd"
     },
     {
+      "recommendScore": "103",
+      "recommendCount": "337",
+      "title": "Re: [新聞] 川普點頭！同意輝達出售H200晶片",
+      "link": "/bbs/Stock/M.1765260516.A.4DE",
+      "author": "YOYOISGOOD",
+      "board": "Stock",
+      "publishTime": "2025/12/09 06:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "163",
+      "recommendCount": "337",
+      "title": "[閒聊] 新三國真的拍得很爛嗎",
+      "link": "/bbs/C_Chat/M.1765287176.A.9B9",
+      "author": "Antihuman",
+      "board": "C_Chat",
+      "publishTime": "2025/12/09 13:32",
+      "imageUrl": "https://cache.pttweb.cc/imgur/xZYg06e/s/c2827f67a48635975282ece6a258ffda"
+    },
+    {
       "recommendScore": "68",
       "recommendCount": "201",
       "title": "[新聞] 青森規模7.6強震 賴清德送暖高市早苗：台灣隨時準備援助",
@@ -174,33 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "97",
-      "recommendCount": "191",
-      "title": "[新聞] 勇士進攻火力不足！美媒建議迎回普爾 格林恐陷尷尬處境",
-      "link": "/bbs/NBA/M.1765249693.A.39D",
-      "author": "usnavyseal",
-      "board": "NBA",
-      "publishTime": "2025/12/09 03:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "97",
-      "recommendCount": "309",
-      "title": "Re: [新聞] 川普點頭！同意輝達出售H200晶片",
-      "link": "/bbs/Stock/M.1765260516.A.4DE",
-      "author": "YOYOISGOOD",
-      "board": "Stock",
-      "publishTime": "2025/12/09 06:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "128",
-      "recommendCount": "173",
-      "title": "[閒聊] 接獲日本「任○○株式會社」報案",
-      "link": "/bbs/C_Chat/M.1765273423.A.C3C",
-      "author": "Teng0615",
-      "board": "C_Chat",
-      "publishTime": "2025/12/09 09:43",
+      "recommendScore": "78",
+      "recommendCount": "249",
+      "title": "[新聞] 卓榮泰對立院修法 不滿意 不執行 彷若皇帝",
+      "link": "/bbs/Gossiping/M.1765256950.A.16D",
+      "author": "au4g3wk4k",
+      "board": "Gossiping",
+      "publishTime": "2025/12/09 05:09",
       "imageUrl": ""
     }
   ]
