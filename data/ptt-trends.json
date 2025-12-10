@@ -1,18 +1,8 @@
 {
-  "updated": "2025-12-10T09:54:45.649Z",
+  "updated": "2025-12-10T10:07:12.915Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "390",
-      "recommendCount": "493",
-      "title": "[情報] Edwin Diaz去道奇",
-      "link": "/bbs/Baseball/M.1765297115.A.7D1",
-      "author": "what62651",
-      "board": "Baseball",
-      "publishTime": "2025/12/09 16:18",
-      "imageUrl": "https://cache.pttweb.cc/imgur/HudmiSy/s/09f97e7ccb5617785a7822428e8166f1"
-    },
     {
       "recommendScore": "151",
       "recommendCount": "502",
@@ -21,16 +11,6 @@
       "author": "qazxc1156892",
       "board": "Gossiping",
       "publishTime": "2025/12/09 13:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "193",
-      "recommendCount": "602",
-      "title": "[問卦] CSIS兵推：臺灣海空軍開戰即全滅？",
-      "link": "/bbs/Gossiping/M.1765274377.A.FF2",
-      "author": "TCB006",
-      "board": "Gossiping",
-      "publishTime": "2025/12/09 09:59",
       "imageUrl": ""
     },
     {
@@ -202,6 +182,26 @@
       "board": "C_Chat",
       "publishTime": "2025/12/09 10:50",
       "imageUrl": "https://cache.pttweb.cc/imgur/uPGFOTT/s/b45d35e5546e4a789349f3ee2aa72162"
+    },
+    {
+      "recommendScore": "50",
+      "recommendCount": "100",
+      "title": "[新聞] 獨家／「現職警、實習檢」涉設局詐身障男遭起訴求重刑",
+      "link": "/bbs/Gossiping/M.1765289042.A.1A6",
+      "author": "latiner123",
+      "board": "Gossiping",
+      "publishTime": "2025/12/09 14:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "52",
+      "recommendCount": "84",
+      "title": "[新聞] 快訊／一日2命！高雄港外海再撈女浮屍",
+      "link": "/bbs/Gossiping/M.1765275740.A.173",
+      "author": "SEVENxELEVEN",
+      "board": "Gossiping",
+      "publishTime": "2025/12/09 10:22",
+      "imageUrl": ""
     }
   ]
 }
