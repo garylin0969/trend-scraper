@@ -1,18 +1,8 @@
 {
-  "updated": "2025-12-10T12:47:38.977Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2025-12-10T13:08:17.759Z",
+  "total_found": 19,
+  "returned_count": 19,
   "articles": [
-    {
-      "recommendScore": "151",
-      "recommendCount": "502",
-      "title": "[新聞] 若台灣開戰！苗博雅稱「該上班還是上班」：非所有人都在戰場",
-      "link": "/bbs/Gossiping/M.1765285241.A.5D6",
-      "author": "qazxc1156892",
-      "board": "Gossiping",
-      "publishTime": "2025/12/09 13:00",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "163",
       "recommendCount": "337",
@@ -54,16 +44,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "78",
-      "recommendCount": "106",
-      "title": "[閒聊] 台北虎之穴【暫停營業公告】",
-      "link": "/bbs/C_Chat/M.1765285585.A.916",
-      "author": "Augustus5",
-      "board": "C_Chat",
-      "publishTime": "2025/12/09 13:06",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "60",
       "recommendCount": "99",
       "title": "[問卦] 花媽沒了？",
@@ -92,16 +72,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/10 03:43",
       "imageUrl": "https://cache.pttweb.cc/imgur/LuacqlY/s/c46d0e9ce70d525af2b853fbac13494c"
-    },
-    {
-      "recommendScore": "73",
-      "recommendCount": "180",
-      "title": "[討論] 球團都不放人，那辦WBC還有意義嗎？",
-      "link": "/bbs/Baseball/M.1765284514.A.474",
-      "author": "j09367",
-      "board": "Baseball",
-      "publishTime": "2025/12/09 12:48",
-      "imageUrl": ""
     },
     {
       "recommendScore": "85",
@@ -201,6 +171,26 @@
       "author": "LionKK",
       "board": "SportLottery",
       "publishTime": "2025/12/09 17:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "3",
+      "recommendCount": "79",
+      "title": "[閒聊] 博衣小夜璃的地震推文被Anti罵",
+      "link": "/bbs/C_Chat/M.1765336427.A.DDB",
+      "author": "Senkanseiki",
+      "board": "C_Chat",
+      "publishTime": "2025/12/10 03:13",
+      "imageUrl": "https://cache.pttweb.cc/imgur/FoeRWXS/s/518d39d90720351888fd1f69f9403ef8"
+    },
+    {
+      "recommendScore": "42",
+      "recommendCount": "69",
+      "title": "[情報] 114年12月09日信用交易統計",
+      "link": "/bbs/Stock/M.1765287485.A.9BD",
+      "author": "steward135",
+      "board": "Stock",
+      "publishTime": "2025/12/09 13:38",
       "imageUrl": ""
     }
   ]
