@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-10T09:42:34.204Z",
+  "updated": "2025-12-10T09:54:45.649Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -42,16 +42,6 @@
       "board": "C_Chat",
       "publishTime": "2025/12/09 13:32",
       "imageUrl": "https://cache.pttweb.cc/imgur/xZYg06e/s/c2827f67a48635975282ece6a258ffda"
-    },
-    {
-      "recommendScore": "128",
-      "recommendCount": "173",
-      "title": "[閒聊] 接獲日本「任○○株式會社」報案",
-      "link": "/bbs/C_Chat/M.1765273423.A.C3C",
-      "author": "Teng0615",
-      "board": "C_Chat",
-      "publishTime": "2025/12/09 09:43",
-      "imageUrl": ""
     },
     {
       "recommendScore": "137",
@@ -154,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "163",
-      "recommendCount": "266",
-      "title": "[LIVE] 亞冠 蔚山現代1 @ 3町田澤維亞 場中",
-      "link": "/bbs/SportLottery/M.1765273892.A.D77",
-      "author": "shunhahahaha",
-      "board": "SportLottery",
-      "publishTime": "2025/12/09 09:51",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "53",
       "recommendCount": "146",
       "title": "[新聞] 國中女吸「喪屍煙彈」全身狂抖、走路S型！同學嚇哭：教室都是毒味",
@@ -202,6 +182,26 @@
       "board": "C_Chat",
       "publishTime": "2025/12/09 13:17",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "-48",
+      "recommendCount": "105",
+      "title": "[新聞] 列「藍白毀國賣台N部曲」 民進黨轟：拆除防線、掏空台灣",
+      "link": "/bbs/Gossiping/M.1765277462.A.F8B",
+      "author": "lunli924",
+      "board": "Gossiping",
+      "publishTime": "2025/12/09 10:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "71",
+      "recommendCount": "99",
+      "title": "[情報] 濱崎步澳門演唱會取消",
+      "link": "/bbs/C_Chat/M.1765277408.A.00E",
+      "author": "Akun",
+      "board": "C_Chat",
+      "publishTime": "2025/12/09 10:50",
+      "imageUrl": "https://cache.pttweb.cc/imgur/uPGFOTT/s/b45d35e5546e4a789349f3ee2aa72162"
     }
   ]
 }
