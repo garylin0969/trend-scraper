@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-10T06:45:44.435Z",
+  "updated": "2025-12-10T06:58:25.292Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "111",
-      "recommendCount": "182",
-      "title": "[閒聊] 超負荷跟NL是不是又黃金交叉了?",
-      "link": "/bbs/C_Chat/M.1765263439.A.D05",
-      "author": "hy654",
-      "board": "C_Chat",
-      "publishTime": "2025/12/09 06:57",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-29",
       "recommendCount": "195",
       "title": "[新聞] 沈伯洋談不副署：行政VS立法直接對決",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/12/09 12:38",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "60",
+      "recommendCount": "99",
+      "title": "[問卦] 花媽沒了？",
+      "link": "/bbs/Gossiping/M.1765333940.A.8FA",
+      "author": "zeumax",
+      "board": "Gossiping",
+      "publishTime": "2025/12/10 02:32",
+      "imageUrl": "https://cache.pttweb.cc/imgur/pJfjHK1/s/934570264fa4e51b81d7bb29f14ba025"
     }
   ]
 }
