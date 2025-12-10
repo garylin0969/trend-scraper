@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-10T07:40:54.596Z",
+  "updated": "2025-12-10T07:48:45.577Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "89",
-      "recommendCount": "167",
-      "title": "[新聞] NBA》Brown稱想成為MVP要出賣靈魂",
-      "link": "/bbs/NBA/M.1765266028.A.769",
-      "author": "Kai877",
-      "board": "NBA",
-      "publishTime": "2025/12/09 07:40",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "70",
       "recommendCount": "145",
       "title": "[新聞] 法案公布不執行 深綠學者：摧毀國家",
@@ -202,6 +192,16 @@
       "board": "C_Chat",
       "publishTime": "2025/12/09 09:20",
       "imageUrl": "https://cache.pttweb.cc/imgur/rpWvGMR/s/532381dbf865b8dfa0212ad3077c5b68"
+    },
+    {
+      "recommendScore": "50",
+      "recommendCount": "124",
+      "title": "[問卦] 恭喜！今年1-11月出生98795人",
+      "link": "/bbs/Gossiping/M.1765332591.A.C9B",
+      "author": "Zilinker",
+      "board": "Gossiping",
+      "publishTime": "2025/12/10 02:09",
+      "imageUrl": ""
     }
   ]
 }
