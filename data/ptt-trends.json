@@ -1,7 +1,7 @@
 {
-  "updated": "2025-12-10T17:12:01.567Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2025-12-10T17:31:36.803Z",
+  "total_found": 19,
+  "returned_count": 19,
   "articles": [
     {
       "recommendScore": "163",
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "139",
+      "recommendCount": "315",
+      "title": "[問卦] 韓網評論 韓國外交部列「中國台灣」事件",
+      "link": "/bbs/Gossiping/M.1765377146.A.058",
+      "author": "Minguo1016",
+      "board": "Gossiping",
+      "publishTime": "2025/12/10 14:32",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "94",
       "recommendCount": "229",
       "title": "[新聞] 快訊／柯文哲抗告！北院只准錄影轉播　爭取辯論庭「Live直播」",
@@ -41,6 +51,16 @@
       "author": "emuless",
       "board": "Gossiping",
       "publishTime": "2025/12/10 13:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "88",
+      "recommendCount": "149",
+      "title": "[閒聊] 網路謠傳花媽死了，並非空穴來風？",
+      "link": "/bbs/C_Chat/M.1765375988.A.C45",
+      "author": "assassin653",
+      "board": "C_Chat",
+      "publishTime": "2025/12/10 14:13",
       "imageUrl": ""
     },
     {
@@ -104,6 +124,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/PcAUJfM/s/0974b21c53cf561bb5066e0bb2815da1"
     },
     {
+      "recommendScore": "69",
+      "recommendCount": "123",
+      "title": "[新聞] 創史上最低！11月新生兒比去年少4千多人",
+      "link": "/bbs/Gossiping/M.1765375105.A.209",
+      "author": "Joery1994",
+      "board": "Gossiping",
+      "publishTime": "2025/12/10 13:58",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "110",
       "recommendCount": "265",
       "title": "Re: [Holo] 一條莉莉華繪師馬麻對退追莉莉華一事回應",
@@ -162,46 +192,6 @@
       "board": "Baseball",
       "publishTime": "2025/12/10 14:56",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "160",
-      "recommendCount": "279",
-      "title": "[LIVE] 冰球 奧爾斯克南烏拉爾 1:0 馬格尼特卡 場中",
-      "link": "/bbs/SportLottery/M.1765373939.A.380",
-      "author": "Wayne121",
-      "board": "SportLottery",
-      "publishTime": "2025/12/10 13:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "51",
-      "recommendCount": "159",
-      "title": "[新聞] 預言2026「民進黨有望翻轉」藍營5縣市！黃暐瀚曝重兵：不只守還想攻",
-      "link": "/bbs/HatePolitics/M.1765361988.A.73A",
-      "author": "McCain",
-      "board": "HatePolitics",
-      "publishTime": "2025/12/10 10:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "70",
-      "recommendCount": "121",
-      "title": "[閒聊] WHY ?",
-      "link": "/bbs/biker/M.1765360390.A.EA7",
-      "author": "AreLies",
-      "board": "biker",
-      "publishTime": "2025/12/10 09:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "71",
-      "recommendCount": "75",
-      "title": "Re: [LIVE] 冰球場中 德州星辰@安大略王朝",
-      "link": "/bbs/SportLottery/M.1765345291.A.994",
-      "author": "lotterywin",
-      "board": "SportLottery",
-      "publishTime": "2025/12/10 05:41",
-      "imageUrl": "https://cache.pttweb.cc/imgur/cZ8RF34/s/e8b2439e7d71588fc1ba3da6b3db7b25"
     }
   ]
 }
