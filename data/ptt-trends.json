@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-10T00:50:11.436Z",
+  "updated": "2025-12-10T01:23:11.697Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "231",
+      "recommendCount": "240",
+      "title": "[自家] 香烤烏魚子、烏魚腱",
+      "link": "/bbs/Tainan/M.1765245732.A.35A",
+      "author": "welfareman",
+      "board": "Tainan",
+      "publishTime": "2025/12/09 02:02",
+      "imageUrl": "https://cache.pttweb.cc/imgur/ZUzEtUG/s/f93b40fc83a14b7e8402f31853d6dba8"
+    },
+    {
       "recommendScore": "78",
       "recommendCount": "243",
       "title": "[新聞] 青森規模7.6強震 賴清德送暖高市早苗：台灣隨時準備援助",
@@ -154,14 +164,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "132",
-      "recommendCount": "233",
-      "title": "[新聞] 車手詐騙1800萬沒羈押！交保後再騙285萬",
-      "link": "/bbs/Gossiping/M.1765243232.A.F55",
-      "author": "fucKMT5566",
+      "recommendScore": "109",
+      "recommendCount": "401",
+      "title": "[問卦] 中國和日本的軍力也差太多了吧",
+      "link": "/bbs/Gossiping/M.1765248211.A.96F",
+      "author": "WingedHussar",
       "board": "Gossiping",
-      "publishTime": "2025/12/09 01:20",
-      "imageUrl": "https://cache.pttweb.cc/imgur/WkW1W7v/s/7da7a37570e6f1a08810c8565ca6d3cd"
+      "publishTime": "2025/12/09 02:43",
+      "imageUrl": ""
     },
     {
       "recommendScore": "103",
@@ -191,16 +201,6 @@
       "author": "qwer1988",
       "board": "Gossiping",
       "publishTime": "2025/12/09 06:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "106",
-      "recommendCount": "350",
-      "title": "[問卦] 中國和日本的軍力也差太多了吧",
-      "link": "/bbs/Gossiping/M.1765248211.A.96F",
-      "author": "WingedHussar",
-      "board": "Gossiping",
-      "publishTime": "2025/12/09 02:43",
       "imageUrl": ""
     }
   ]
