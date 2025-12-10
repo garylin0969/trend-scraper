@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-10T10:49:00.121Z",
+  "updated": "2025-12-10T10:57:20.356Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -32,16 +32,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/09 16:18",
       "imageUrl": "https://cache.pttweb.cc/imgur/G8rPqbx/s/8aedcfeeb76060eb8c9a4d9cb2ca84e4"
-    },
-    {
-      "recommendScore": "434",
-      "recommendCount": "806",
-      "title": "[討論] [Vtub] Hololive 晚間直播單 (1141209)",
-      "link": "/bbs/C_Chat/M.1765277282.A.CBF",
-      "author": "laptic",
-      "board": "C_Chat",
-      "publishTime": "2025/12/09 10:48",
-      "imageUrl": ""
     },
     {
       "recommendScore": "69",
@@ -154,26 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-48",
-      "recommendCount": "105",
-      "title": "[新聞] 列「藍白毀國賣台N部曲」 民進黨轟：拆除防線、掏空台灣",
-      "link": "/bbs/Gossiping/M.1765277462.A.F8B",
-      "author": "lunli924",
-      "board": "Gossiping",
-      "publishTime": "2025/12/09 10:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "71",
-      "recommendCount": "99",
-      "title": "[情報] 濱崎步澳門演唱會取消",
-      "link": "/bbs/C_Chat/M.1765277408.A.00E",
-      "author": "Akun",
-      "board": "C_Chat",
-      "publishTime": "2025/12/09 10:50",
-      "imageUrl": "https://cache.pttweb.cc/imgur/uPGFOTT/s/b45d35e5546e4a789349f3ee2aa72162"
-    },
-    {
       "recommendScore": "50",
       "recommendCount": "100",
       "title": "[新聞] 獨家／「現職警、實習檢」涉設局詐身障男遭起訴求重刑",
@@ -201,6 +171,36 @@
       "author": "iamshana",
       "board": "Gossiping",
       "publishTime": "2025/12/09 14:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "60",
+      "recommendCount": "128",
+      "title": "[標的] 2377 微星 請益",
+      "link": "/bbs/Stock/M.1765291320.A.1A0",
+      "author": "PerfectWorld",
+      "board": "Stock",
+      "publishTime": "2025/12/09 14:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "27",
+      "recommendCount": "103",
+      "title": "[新聞] 苗博雅「戰爭可上班論」挨轟！發長文反嗆：台灣失守我首批被抓",
+      "link": "/bbs/Gossiping/M.1765337966.A.4CF",
+      "author": "MJdavid",
+      "board": "Gossiping",
+      "publishTime": "2025/12/10 03:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "10",
+      "recommendCount": "104",
+      "title": "[新聞] 快訊／全聯宣布3年完成「電子價卡」1250家店耗資超過30億",
+      "link": "/bbs/Gossiping/M.1765336949.A.5F4",
+      "author": "william8403",
+      "board": "Gossiping",
+      "publishTime": "2025/12/10 03:22",
       "imageUrl": ""
     }
   ]
