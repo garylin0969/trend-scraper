@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-10T01:23:11.697Z",
+  "updated": "2025-12-10T02:16:21.660Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "231",
-      "recommendCount": "240",
-      "title": "[自家] 香烤烏魚子、烏魚腱",
-      "link": "/bbs/Tainan/M.1765245732.A.35A",
-      "author": "welfareman",
-      "board": "Tainan",
-      "publishTime": "2025/12/09 02:02",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ZUzEtUG/s/f93b40fc83a14b7e8402f31853d6dba8"
-    },
-    {
       "recommendScore": "78",
       "recommendCount": "243",
       "title": "[新聞] 青森規模7.6強震 賴清德送暖高市早苗：台灣隨時準備援助",
@@ -201,6 +191,16 @@
       "author": "qwer1988",
       "board": "Gossiping",
       "publishTime": "2025/12/09 06:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "78",
+      "recommendCount": "249",
+      "title": "[新聞] 卓榮泰對立院修法 不滿意 不執行 彷若皇帝",
+      "link": "/bbs/Gossiping/M.1765256950.A.16D",
+      "author": "au4g3wk4k",
+      "board": "Gossiping",
+      "publishTime": "2025/12/09 05:09",
       "imageUrl": ""
     }
   ]
