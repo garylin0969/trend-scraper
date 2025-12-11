@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-11T14:10:45.454Z",
+  "updated": "2025-12-11T14:23:52.806Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -92,16 +92,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/11 00:10",
       "imageUrl": "https://cache.pttweb.cc/imgur/xv7oKis/s/1309c75f3ae40d1a799b7c0472b8979f"
-    },
-    {
-      "recommendScore": "88",
-      "recommendCount": "149",
-      "title": "[閒聊] 網路謠傳花媽死了，並非空穴來風？",
-      "link": "/bbs/C_Chat/M.1765375988.A.C45",
-      "author": "assassin653",
-      "board": "C_Chat",
-      "publishTime": "2025/12/10 14:13",
-      "imageUrl": ""
     },
     {
       "recommendScore": "115",
@@ -201,6 +191,16 @@
       "author": "f0936649477",
       "board": "Gossiping",
       "publishTime": "2025/12/11 08:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "74",
+      "recommendCount": "109",
+      "title": "[情報] 1211 上市外資買賣超排行",
+      "link": "/bbs/Stock/M.1765440273.A.0C8",
+      "author": "paidzou",
+      "board": "Stock",
+      "publishTime": "2025/12/11 08:04",
       "imageUrl": ""
     }
   ]
