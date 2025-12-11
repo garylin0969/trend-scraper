@@ -1,8 +1,18 @@
 {
-  "updated": "2025-12-11T19:32:25.400Z",
+  "updated": "2025-12-11T19:44:49.985Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "293",
+      "recommendCount": "467",
+      "title": "[問卦] 民視用AI寫新聞？",
+      "link": "/bbs/Gossiping/M.1765438612.A.74D",
+      "author": "Skyblueway",
+      "board": "Gossiping",
+      "publishTime": "2025/12/11 07:36",
+      "imageUrl": "https://cache.pttweb.cc/imgur/gGhiPuF/s/bbc88398bb7a5812706a004a43205e3e"
+    },
     {
       "recommendScore": "196",
       "recommendCount": "426",
@@ -191,16 +201,6 @@
       "author": "zo6al",
       "board": "Gossiping",
       "publishTime": "2025/12/11 08:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "80",
-      "recommendCount": "141",
-      "title": "[新聞] 柯文哲「土城十講」上線！關一年讀書百本想當曼德拉「不被仇恨囚禁」",
-      "link": "/bbs/Gossiping/M.1765459457.A.2B9",
-      "author": "moneybuy",
-      "board": "Gossiping",
-      "publishTime": "2025/12/11 13:24",
       "imageUrl": ""
     }
   ]
