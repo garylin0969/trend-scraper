@@ -1,7 +1,7 @@
 {
-  "updated": "2025-12-11T06:09:03.410Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-12-11T06:22:35.208Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "163",
@@ -192,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/12/10 12:10",
       "imageUrl": "https://cache.pttweb.cc/imgur/PcAUJfM/s/0974b21c53cf561bb5066e0bb2815da1"
+    },
+    {
+      "recommendScore": "18",
+      "recommendCount": "144",
+      "title": "[新聞] 京華城案明起提示證據 「工作簿」檔案成攻防重點",
+      "link": "/bbs/Gossiping/M.1765409730.A.4D1",
+      "author": "asppsa",
+      "board": "Gossiping",
+      "publishTime": "2025/12/10 23:35",
+      "imageUrl": ""
     }
   ]
 }
