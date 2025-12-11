@@ -1,7 +1,7 @@
 {
-  "updated": "2025-12-11T11:46:43.079Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2025-12-11T11:53:19.111Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "167",
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "155",
-      "recommendCount": "277",
-      "title": "[LIVE] 亞冠二級 曼谷聯隊@佩西比萬隆 場中",
-      "link": "/bbs/SportLottery/M.1765367325.A.36C",
-      "author": "pandalove",
-      "board": "SportLottery",
-      "publishTime": "2025/12/10 11:48",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "59",
       "recommendCount": "157",
       "title": "[問卦] 少子化跌破新低，感覺好像沒人在乎？",
@@ -191,6 +181,26 @@
       "author": "paidzou",
       "board": "Stock",
       "publishTime": "2025/12/11 08:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "62",
+      "recommendCount": "112",
+      "title": "[新聞] 有望單季「80勝2敗」　柏金斯預告雷霆將改寫NBA新紀錄",
+      "link": "/bbs/NBA/M.1765410964.A.CD8",
+      "author": "thnlkj0665",
+      "board": "NBA",
+      "publishTime": "2025/12/10 23:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "79",
+      "recommendCount": "106",
+      "title": "[BOX ] Suns 89:138 Thunder",
+      "link": "/bbs/NBA/M.1765421391.A.B30",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2025/12/11 02:49",
       "imageUrl": ""
     }
   ]
