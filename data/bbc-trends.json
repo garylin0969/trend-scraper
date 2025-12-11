@@ -1,10 +1,10 @@
 {
-  "updated": "2025-12-11T06:24:41.772Z",
+  "updated": "2025-12-11T06:54:33.382Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-12-11T06:24:34.000Z",
+    "lastBuildDate": "2025-12-11T06:54:23.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -26,20 +26,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d9d2/live/869bb3e0-d5ea-11f0-ab62-eb598af64ced.jpg"
     },
     {
+      "title": "美聯儲宣佈今年第三次降息，投票細節顯示內部分歧",
+      "description": "史蒂芬·米蘭投票支持更大幅度的0.5個百分點降息；芝加哥聯邦準備銀行總裁古斯比與堪薩斯城聯邦準備銀行總裁施密德則投票維持利率不變。鮑威爾強調必須同時應對通膨與失業風險。",
+      "link": "https://www.bbc.com/zhongwen/articles/cm20er09v5eo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-11T06:25:35.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cm20er09v5eo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c6df/live/3e6e7a10-d60a-11f0-a170-530c17232108.jpg"
+    },
+    {
       "title": "俄羅斯被凍結資產的爭議：它能否用於援助烏克蘭？",
       "description": "烏克蘭的歐洲盟友支持由德國主導的一項提案，計劃將在比利時持有的俄羅斯國家資產轉為「賠償貸款」，以提供基輔財政支持。然而，直接動用這些資產引發爭議，比利時指責歐盟「淡化」風險。",
       "link": "https://www.bbc.com/zhongwen/articles/cz0nxry7en8o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-12-10T08:32:08.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cz0nxry7en8o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5990/live/19284d70-d471-11f0-b331-5f24a4a7069f.jpg"
-    },
-    {
-      "title": "泰國柬埔寨邊境衝突的原因是什麼？",
-      "description": "泰國甚至對邊境地區發動空襲，是自7月達成停火協議以來最嚴重的一次，至少有五名泰國士兵和七名柬埔寨平民喪生。雙方7月的交火至少造成48人死亡，數千人流離失所。",
-      "link": "https://www.bbc.com/zhongwen/articles/ckgdkmz18mro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-10T04:14:33.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckgdkmz18mro/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a1ba/live/8c43e490-d4ee-11f0-a892-01d657345866.jpg"
     },
     {
       "title": "約翰·列儂逝世45週年：我與尚恩·小野·列儂的兩次對話",
@@ -56,6 +56,14 @@
       "pubDate": "2025-12-09T00:19:13.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ckgzn10qg22o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2377/live/834d4bc0-d3f3-11f0-9107-738f275ca6af.jpg"
+    },
+    {
+      "title": "泰國柬埔寨邊境衝突的原因是什麼？",
+      "description": "泰國甚至對邊境地區發動空襲，是自7月達成停火協議以來最嚴重的一次，至少有五名泰國士兵和七名柬埔寨平民喪生。雙方7月的交火至少造成48人死亡，數千人流離失所。",
+      "link": "https://www.bbc.com/zhongwen/articles/ckgdkmz18mro/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-10T04:14:33.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckgdkmz18mro/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a1ba/live/8c43e490-d4ee-11f0-a892-01d657345866.jpg"
     },
     {
       "title": "日本強地震警告，是否意味著「大地震」即將來臨？",
@@ -96,14 +104,6 @@
       "pubDate": "2025-12-08T10:03:38.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c98nd5z0v68o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2627/live/e35af250-d417-11f0-a892-01d657345866.jpg"
-    },
-    {
-      "title": "特朗普簽《台灣保證實施法案》：對台「制度化」保障，還是對北京的談判籌碼？",
-      "description": "學者向BBC中文分析，此案將有望提升台美官方交流層級，並透過制度化來降低政策變動對台美關係的影響。但隨著特朗普即將於明年4月訪問中國，這也可能成為特訪普對北京施壓的談判籌碼之一。",
-      "link": "https://www.bbc.com/zhongwen/articles/clydrkrzn30o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-08T06:12:45.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/clydrkrzn30o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6758/live/224d5620-d3f4-11f0-9fb5-5f3a3703a365.jpg"
     },
     {
       "title": "禁止孩子使用社交媒體？澳大利亞即將行動，但一些青少年卻已搶先一步",
@@ -210,12 +210,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5885/live/72138f70-d1ac-11f0-a892-01d657345866.jpg"
     },
     {
-      "title": "藝人「閃兵」案冰山一角？台灣男性是如何讓自己免服兵役",
-      "description": "目前爆出的非法案件只是冰山一角，背後更大的問題是，台灣役齡男子的整體免役率高達16%，而鄰近的南韓、新加坡也都只有5%，專家認為這將削弱台灣的國防力量。",
-      "link": "https://www.bbc.com/zhongwen/articles/cpvd2e087n8o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-06T13:06:35.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cpvd2e087n8o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c664/live/433f53d0-d26c-11f0-8c06-f5d460985095.jpg"
+      "title": "特朗普簽《台灣保證實施法案》：對台「制度化」保障，還是對北京的談判籌碼？",
+      "description": "學者向BBC中文分析，此案將有望提升台美官方交流層級，並透過制度化來降低政策變動對台美關係的影響。但隨著特朗普即將於明年4月訪問中國，這也可能成為特訪普對北京施壓的談判籌碼之一。",
+      "link": "https://www.bbc.com/zhongwen/articles/clydrkrzn30o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-08T06:12:45.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/clydrkrzn30o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6758/live/224d5620-d3f4-11f0-9fb5-5f3a3703a365.jpg"
     },
     {
       "title": "觀察：中國「國考」人數反超考研反映了什麼樣的經濟和就業變化？",
