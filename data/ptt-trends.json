@@ -1,8 +1,18 @@
 {
-  "updated": "2025-12-11T05:12:13.882Z",
+  "updated": "2025-12-11T05:31:18.448Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "304",
+      "recommendCount": "316",
+      "title": "Re: [LIVE] 冰球場中 德州星辰@安大略王朝",
+      "link": "/bbs/SportLottery/M.1765345291.A.994",
+      "author": "lotterywin",
+      "board": "SportLottery",
+      "publishTime": "2025/12/10 05:41",
+      "imageUrl": "https://cache.pttweb.cc/imgur/cZ8RF34/s/e8b2439e7d71588fc1ba3da6b3db7b25"
+    },
     {
       "recommendScore": "163",
       "recommendCount": "362",
@@ -62,6 +72,16 @@
       "board": "Gossiping",
       "publishTime": "2025/12/10 13:21",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "308",
+      "recommendCount": "662",
+      "title": "[LIVE] NBA 聖安東尼奧馬刺@ 洛杉磯湖人 場中",
+      "link": "/bbs/SportLottery/M.1765420216.A.E3D",
+      "author": "jerryyuan",
+      "board": "SportLottery",
+      "publishTime": "2025/12/11 02:30",
+      "imageUrl": "https://cache.pttweb.cc/imgur/yCmCpEb/s/a9e36f6a2c5217e722dd1f7fab218ac3"
     },
     {
       "recommendScore": "3",
@@ -134,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "155",
+      "recommendCount": "277",
+      "title": "[LIVE] 亞冠二級 曼谷聯隊@佩西比萬隆 場中",
+      "link": "/bbs/SportLottery/M.1765367325.A.36C",
+      "author": "pandalove",
+      "board": "SportLottery",
+      "publishTime": "2025/12/10 11:48",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "59",
       "recommendCount": "157",
       "title": "[問卦] 少子化跌破新低，感覺好像沒人在乎？",
@@ -172,36 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/10 12:10",
       "imageUrl": "https://cache.pttweb.cc/imgur/PcAUJfM/s/0974b21c53cf561bb5066e0bb2815da1"
-    },
-    {
-      "recommendScore": "18",
-      "recommendCount": "144",
-      "title": "[新聞] 京華城案明起提示證據 「工作簿」檔案成攻防重點",
-      "link": "/bbs/Gossiping/M.1765409730.A.4D1",
-      "author": "asppsa",
-      "board": "Gossiping",
-      "publishTime": "2025/12/10 23:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "69",
-      "recommendCount": "123",
-      "title": "[新聞] 創史上最低！11月新生兒比去年少4千多人",
-      "link": "/bbs/Gossiping/M.1765375105.A.209",
-      "author": "Joery1994",
-      "board": "Gossiping",
-      "publishTime": "2025/12/10 13:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "110",
-      "recommendCount": "265",
-      "title": "Re: [Holo] 一條莉莉華繪師馬麻對退追莉莉華一事回應",
-      "link": "/bbs/C_Chat/M.1765367553.A.7E1",
-      "author": "darkapplepie",
-      "board": "C_Chat",
-      "publishTime": "2025/12/10 11:52",
-      "imageUrl": ""
     }
   ]
 }
