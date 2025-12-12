@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-12T12:47:20.908Z",
+  "updated": "2025-12-12T13:07:02.202Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -62,16 +62,6 @@
       "board": "BaseballXXXX",
       "publishTime": "2025/12/12 06:28",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "89",
-      "recommendCount": "186",
-      "title": "[問卦] 全聯真的是垃圾商家",
-      "link": "/bbs/Gossiping/M.1765457358.A.C3F",
-      "author": "E24056823",
-      "board": "Gossiping",
-      "publishTime": "2025/12/11 12:49",
-      "imageUrl": "https://cache.pttweb.cc/imgur/a3ZdIF6/s/360d5c9779840f04b17c4d4a97a412c0"
     },
     {
       "recommendScore": "109",
@@ -164,26 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "43",
-      "recommendCount": "106",
-      "title": "[新聞] 快訊／空歡喜一場！黃仁勳未抵台 私人飛機引騷動",
-      "link": "/bbs/Stock/M.1765458128.A.DA8",
-      "author": "zkow",
-      "board": "Stock",
-      "publishTime": "2025/12/11 13:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "44",
-      "recommendCount": "106",
-      "title": "[新聞] 快訊／空歡喜一場！黃仁勳未抵台　私人飛機引騷動",
-      "link": "/bbs/Gossiping/M.1765457938.A.44C",
-      "author": "CREA",
-      "board": "Gossiping",
-      "publishTime": "2025/12/11 12:58",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "78",
       "recommendCount": "147",
       "title": "[新聞] 聲搜書寫「柯文哲與民進黨決裂」　律師：檢察官不中立只為騙票",
@@ -201,6 +171,36 @@
       "author": "jason911152",
       "board": "NBA",
       "publishTime": "2025/12/12 03:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "65",
+      "recommendCount": "83",
+      "title": "[姆咪] 上榜了",
+      "link": "/bbs/Marginalman/M.1765520937.A.99E",
+      "author": "willy911006",
+      "board": "Marginalman",
+      "publishTime": "2025/12/12 06:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "77",
+      "recommendCount": "214",
+      "title": "[tga] x很多人也對33包辦獎項不滿了",
+      "link": "/bbs/C_Chat/M.1765529428.A.4C7",
+      "author": "qaz911420",
+      "board": "C_Chat",
+      "publishTime": "2025/12/12 08:50",
+      "imageUrl": "https://cache.pttweb.cc/imgur/yhGvfTy/s/e18cf053fea23c030f273c5b75c08957"
+    },
+    {
+      "recommendScore": "-26",
+      "recommendCount": "115",
+      "title": "[新聞] 賴清德重批藍白：主導立法院嚴重影響國家安全",
+      "link": "/bbs/Gossiping/M.1765508624.A.034",
+      "author": "poeta",
+      "board": "Gossiping",
+      "publishTime": "2025/12/12 03:03",
       "imageUrl": ""
     }
   ]
