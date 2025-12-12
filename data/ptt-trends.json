@@ -1,8 +1,28 @@
 {
-  "updated": "2025-12-12T16:55:47.777Z",
+  "updated": "2025-12-12T17:06:00.467Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "423",
+      "recommendCount": "437",
+      "title": "[發錢] 我愛冰球～～～５０杯抽抽",
+      "link": "/bbs/SportLottery/M.1765549883.A.5B5",
+      "author": "lotterywin",
+      "board": "SportLottery",
+      "publishTime": "2025/12/12 14:31",
+      "imageUrl": "https://cache.pttweb.cc/imgur/JZXgXC5/s/e3512613b2e38ac2d2f5749c6d16d092"
+    },
+    {
+      "recommendScore": "130",
+      "recommendCount": "235",
+      "title": "[情報] Jake Fischer:勇士願意用Green換字母哥",
+      "link": "/bbs/NBA/M.1765554283.A.B59",
+      "author": "kakala99",
+      "board": "NBA",
+      "publishTime": "2025/12/12 15:44",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "180",
       "recommendCount": "292",
@@ -44,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "46",
+      "recommendCount": "412",
+      "title": "[討論] 謝謝藍白養我爸媽",
+      "link": "/bbs/HatePolitics/M.1765544861.A.562",
+      "author": "Berotec",
+      "board": "HatePolitics",
+      "publishTime": "2025/12/12 13:07",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "93",
       "recommendCount": "138",
       "title": "[閒聊] 小島得知最佳遊戲指導頒給33的反應",
@@ -71,6 +101,16 @@
       "author": "a96385245",
       "board": "Gossiping",
       "publishTime": "2025/12/12 01:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-64",
+      "recommendCount": "101",
+      "title": "[分享] 張志祺FB",
+      "link": "/bbs/Baseball/M.1765550021.A.E29",
+      "author": "PaulKlein",
+      "board": "Baseball",
+      "publishTime": "2025/12/12 14:33",
       "imageUrl": ""
     },
     {
@@ -124,6 +164,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "149",
+      "recommendCount": "240",
+      "title": "[LIVE] 阿拉伯盃 伊拉克 @ 約旦 場中",
+      "link": "/bbs/SportLottery/M.1765548939.A.A8D",
+      "author": "Rayswei",
+      "board": "SportLottery",
+      "publishTime": "2025/12/12 14:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "54",
+      "recommendCount": "220",
+      "title": "[新聞] 谷歌突襲OpenAI GPT-5.2發表會!Gemini Deep Research重裝上陣 搶佔Agent入口",
+      "link": "/bbs/Stock/M.1765545044.A.36B",
+      "author": "utn875",
+      "board": "Stock",
+      "publishTime": "2025/12/12 13:10",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "51",
       "recommendCount": "117",
       "title": "[新聞] 成功嶺替代役男超派！上課睡覺被叫醒…",
@@ -141,66 +201,6 @@
       "author": "iamshana",
       "board": "Baseball",
       "publishTime": "2025/12/12 09:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "48",
-      "recommendCount": "122",
-      "title": "[閒聊] TGA 最佳手遊結果是不是證明一件事",
-      "link": "/bbs/C_Chat/M.1765502754.A.257",
-      "author": "jerygood0208",
-      "board": "C_Chat",
-      "publishTime": "2025/12/12 01:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "62",
-      "recommendCount": "78",
-      "title": "[情報] TGA年度電競選手：CHOVY",
-      "link": "/bbs/LoL/M.1765500926.A.4B9",
-      "author": "miofanclub",
-      "board": "LoL",
-      "publishTime": "2025/12/12 00:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "55",
-      "recommendCount": "84",
-      "title": "[新聞] 詐團專攻臉書 被害女被騙「求助臉書」竟再遭假律師剝皮",
-      "link": "/bbs/Gossiping/M.1765508202.A.A52",
-      "author": "pm2001",
-      "board": "Gossiping",
-      "publishTime": "2025/12/12 02:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "38",
-      "recommendCount": "84",
-      "title": "[新聞] 統一獅與蘇智傑達成共識 確定4年約續留",
-      "link": "/bbs/Baseball/M.1765532186.A.41F",
-      "author": "girl10319",
-      "board": "Baseball",
-      "publishTime": "2025/12/12 09:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "57",
-      "recommendCount": "66",
-      "title": "[閒聊] 兒子你冷靜聽媽說 你媽真正的工作是色情...",
-      "link": "/bbs/C_Chat/M.1765500928.A.CC9",
-      "author": "s50189",
-      "board": "C_Chat",
-      "publishTime": "2025/12/12 00:55",
-      "imageUrl": "https://cache.pttweb.cc/imgur/e8MfmxQ/s/61b06b16d1994aa12e525695b595befe"
-    },
-    {
-      "recommendScore": "53",
-      "recommendCount": "60",
-      "title": "[祭品] 我喵選到江少慶的話",
-      "link": "/bbs/BaseballXXXX/M.1765533754.A.647",
-      "author": "cobincarrol",
-      "board": "BaseballXXXX",
-      "publishTime": "2025/12/12 10:02",
       "imageUrl": ""
     }
   ]
