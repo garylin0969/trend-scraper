@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-12T03:36:33.677Z",
+  "updated": "2025-12-12T04:00:40.410Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -31,6 +31,16 @@
       "author": "po4622000",
       "board": "Gossiping",
       "publishTime": "2025/12/11 08:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "180",
+      "recommendCount": "292",
+      "title": "[情報] TGA 2025 玩家之聲 鳴潮",
+      "link": "/bbs/C_Chat/M.1765508561.A.C4E",
+      "author": "ga839429",
+      "board": "C_Chat",
+      "publishTime": "2025/12/12 03:02",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/11 08:31",
       "imageUrl": "https://cache.pttweb.cc/imgur/kpWMogN/s/87382f415a7f8e847496cb37d1cebc45"
-    },
-    {
-      "recommendScore": "79",
-      "recommendCount": "102",
-      "title": "[閒聊] 軍火跟雜貨店買也太扯了吧",
-      "link": "/bbs/C_Chat/M.1765459740.A.33E",
-      "author": "Gentlemon",
-      "board": "C_Chat",
-      "publishTime": "2025/12/11 13:29",
-      "imageUrl": ""
     }
   ]
 }
