@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-12T14:31:03.472Z",
+  "updated": "2025-12-12T14:40:17.930Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -11,16 +11,6 @@
       "author": "ga839429",
       "board": "C_Chat",
       "publishTime": "2025/12/12 03:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-4",
-      "recommendCount": "305",
-      "title": "[新聞] 林智群律師：台灣一點不小欸，整天吹飛彈洗地，你老共有那麼多飛彈嗎？",
-      "link": "/bbs/Gossiping/M.1765463438.A.B66",
-      "author": "alex1987",
-      "board": "Gossiping",
-      "publishTime": "2025/12/11 14:30",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "jerygood0208",
       "board": "C_Chat",
       "publishTime": "2025/12/12 01:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "62",
+      "recommendCount": "78",
+      "title": "[情報] TGA年度電競選手：CHOVY",
+      "link": "/bbs/LoL/M.1765500926.A.4B9",
+      "author": "miofanclub",
+      "board": "LoL",
+      "publishTime": "2025/12/12 00:55",
       "imageUrl": ""
     }
   ]
