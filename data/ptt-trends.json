@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-12T17:30:51.882Z",
+  "updated": "2025-12-12T17:41:02.553Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "76",
+      "recommendCount": "119",
+      "title": "[Holo] Cover承認鷹嶺琉依銷量數據為公司失誤",
+      "link": "/bbs/C_Chat/M.1765548711.A.3D0",
+      "author": "arrenwu",
+      "board": "C_Chat",
+      "publishTime": "2025/12/12 14:11",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "78",
       "recommendCount": "147",
       "title": "[新聞] 聲搜書寫「柯文哲與民進黨決裂」　律師：檢察官不中立只為騙票",
@@ -192,16 +202,6 @@
       "board": "BaseballXXXX",
       "publishTime": "2025/12/12 09:05",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "77",
-      "recommendCount": "214",
-      "title": "[tga] x很多人也對33包辦獎項不滿了",
-      "link": "/bbs/C_Chat/M.1765529428.A.4C7",
-      "author": "qaz911420",
-      "board": "C_Chat",
-      "publishTime": "2025/12/12 08:50",
-      "imageUrl": "https://cache.pttweb.cc/imgur/yhGvfTy/s/e18cf053fea23c030f273c5b75c08957"
     }
   ]
 }
