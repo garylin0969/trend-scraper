@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-12T15:18:15.982Z",
+  "updated": "2025-12-12T15:32:24.668Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -31,16 +31,6 @@
       "author": "nybbnan",
       "board": "Baseball",
       "publishTime": "2025/12/12 08:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "122",
-      "recommendCount": "152",
-      "title": "[地震] 地震",
-      "link": "/bbs/Gossiping/M.1765466408.A.C73",
-      "author": "Meteor077",
-      "board": "Gossiping",
-      "publishTime": "2025/12/11 15:20",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "pm2001",
       "board": "Gossiping",
       "publishTime": "2025/12/12 02:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "38",
+      "recommendCount": "84",
+      "title": "[新聞] 統一獅與蘇智傑達成共識 確定4年約續留",
+      "link": "/bbs/Baseball/M.1765532186.A.41F",
+      "author": "girl10319",
+      "board": "Baseball",
+      "publishTime": "2025/12/12 09:36",
       "imageUrl": ""
     }
   ]
