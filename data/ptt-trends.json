@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-12T13:24:32.395Z",
+  "updated": "2025-12-12T13:44:10.566Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "80",
-      "recommendCount": "141",
-      "title": "[新聞] 柯文哲「土城十講」上線！關一年讀書百本想當曼德拉「不被仇恨囚禁」",
-      "link": "/bbs/Gossiping/M.1765459457.A.2B9",
-      "author": "moneybuy",
-      "board": "Gossiping",
-      "publishTime": "2025/12/11 13:24",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "93",
       "recommendCount": "138",
       "title": "[閒聊] 小島得知最佳遊戲指導頒給33的反應",
@@ -101,26 +91,6 @@
       "author": "eric20601",
       "board": "C_Chat",
       "publishTime": "2025/12/12 08:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "79",
-      "recommendCount": "151",
-      "title": "[新聞] 「裝修公司」得標國防採購案 徐巧芯再揪2貓膩：不覺得怪？",
-      "link": "/bbs/Gossiping/M.1765459931.A.361",
-      "author": "usnavyseal",
-      "board": "Gossiping",
-      "publishTime": "2025/12/11 13:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "79",
-      "recommendCount": "102",
-      "title": "[閒聊] 軍火跟雜貨店買也太扯了吧",
-      "link": "/bbs/C_Chat/M.1765459740.A.33E",
-      "author": "Gentlemon",
-      "board": "C_Chat",
-      "publishTime": "2025/12/11 13:29",
       "imageUrl": ""
     },
     {
@@ -202,6 +172,36 @@
       "board": "Gossiping",
       "publishTime": "2025/12/11 16:07",
       "imageUrl": "https://cache.pttweb.cc/imgur/K1MrULu/s/ab4f4b1bafff9c33e0193ad67b40ec2f"
+    },
+    {
+      "recommendScore": "51",
+      "recommendCount": "117",
+      "title": "[新聞] 成功嶺替代役男超派！上課睡覺被叫醒…",
+      "link": "/bbs/Gossiping/M.1765508933.A.F42",
+      "author": "whitenoise",
+      "board": "Gossiping",
+      "publishTime": "2025/12/12 03:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "43",
+      "recommendCount": "104",
+      "title": "[新聞] 補償名單有機會挑江少慶 統一獅領隊回應了！",
+      "link": "/bbs/Baseball/M.1765532591.A.A84",
+      "author": "iamshana",
+      "board": "Baseball",
+      "publishTime": "2025/12/12 09:43",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "48",
+      "recommendCount": "122",
+      "title": "[閒聊] TGA 最佳手遊結果是不是證明一件事",
+      "link": "/bbs/C_Chat/M.1765502754.A.257",
+      "author": "jerygood0208",
+      "board": "C_Chat",
+      "publishTime": "2025/12/12 01:25",
+      "imageUrl": ""
     }
   ]
 }
