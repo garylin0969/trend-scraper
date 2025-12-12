@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-12T00:24:36.398Z",
+  "updated": "2025-12-12T00:49:43.535Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -41,16 +41,6 @@
       "author": "alex1987",
       "board": "Gossiping",
       "publishTime": "2025/12/11 14:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "163",
-      "recommendCount": "390",
-      "title": "[FF14] 棉花園捲土重來?",
-      "link": "/bbs/C_Chat/M.1765413863.A.4A1",
-      "author": "Teng0615",
-      "board": "C_Chat",
-      "publishTime": "2025/12/11 00:44",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "C_Chat",
       "publishTime": "2025/12/11 08:01",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "54",
+      "recommendCount": "162",
+      "title": "[問卦] 脆：一顆飛彈能讓建築物變廢墟嗎？",
+      "link": "/bbs/Gossiping/M.1765441907.A.160",
+      "author": "MrBing",
+      "board": "Gossiping",
+      "publishTime": "2025/12/11 08:31",
+      "imageUrl": "https://cache.pttweb.cc/imgur/kpWMogN/s/87382f415a7f8e847496cb37d1cebc45"
     }
   ]
 }
