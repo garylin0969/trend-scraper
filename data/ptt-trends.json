@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-13T14:53:11.051Z",
+  "updated": "2025-12-13T15:05:22.984Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "464",
+      "recommendCount": "1016",
+      "title": "[LIVE] 籃球 猶他爵士@曼斐斯灰熊 場中",
+      "link": "/bbs/SportLottery/M.1765586130.A.235",
+      "author": "sean910587",
+      "board": "SportLottery",
+      "publishTime": "2025/12/13 00:35",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "106",
       "recommendCount": "233",
       "title": "[新聞] 藍營再爆台南大石國際公司由賣鞋轉做軍火生意 恐成「福麥2.0」",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/13 09:34",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "107",
-      "recommendCount": "159",
-      "title": "[爆卦] 南京大屠殺之前還是正常上班阿 (發錢)",
-      "link": "/bbs/Gossiping/M.1765617421.A.E60",
-      "author": "q347",
-      "board": "Gossiping",
-      "publishTime": "2025/12/13 09:17",
-      "imageUrl": "https://cache.pttweb.cc/imgur/XOWyNgq/s/20fe2fed3701f58967751d5f410d5d2d"
     }
   ]
 }
