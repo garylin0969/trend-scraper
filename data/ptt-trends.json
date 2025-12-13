@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-13T21:28:10.202Z",
+  "updated": "2025-12-13T21:35:58.818Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "109",
-      "recommendCount": "374",
-      "title": "[分享] Josh大談喵喵該不該選江少慶",
-      "link": "/bbs/Baseball/M.1765575132.A.BC8",
-      "author": "ryanl",
-      "board": "Baseball",
-      "publishTime": "2025/12/12 21:32",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "84",
       "recommendCount": "217",
       "title": "[問卦] 認真問為什麼只有台海打不起來?",
@@ -201,6 +191,16 @@
       "author": "lichuer",
       "board": "Gossiping",
       "publishTime": "2025/12/13 08:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "94",
+      "recommendCount": "182",
+      "title": "[新聞] 博通暴跌11％！台積電ADR下殺4.2％",
+      "link": "/bbs/Stock/M.1765593823.A.27B",
+      "author": "humbler",
+      "board": "Stock",
+      "publishTime": "2025/12/13 02:43",
       "imageUrl": ""
     }
   ]
