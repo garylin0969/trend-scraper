@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-13T02:13:12.658Z",
+  "updated": "2025-12-13T02:52:43.312Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -61,6 +61,16 @@
       "author": "willy911006",
       "board": "BaseballXXXX",
       "publishTime": "2025/12/12 06:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "122",
+      "recommendCount": "137",
+      "title": "[新聞]快訊／少時Tiffany熱戀卞耀漢！(發錢)",
+      "link": "/bbs/KoreaStar/M.1765589137.A.C95",
+      "author": "XDGEE",
+      "board": "KoreaStar",
+      "publishTime": "2025/12/13 01:25",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "alex1987",
       "board": "Gossiping",
       "publishTime": "2025/12/12 14:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "65",
-      "recommendCount": "83",
-      "title": "[姆咪] 上榜了",
-      "link": "/bbs/Marginalman/M.1765520937.A.99E",
-      "author": "willy911006",
-      "board": "Marginalman",
-      "publishTime": "2025/12/12 06:28",
       "imageUrl": ""
     }
   ]
