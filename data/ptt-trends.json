@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-13T06:21:05.800Z",
+  "updated": "2025-12-13T06:37:59.860Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -41,16 +41,6 @@
       "author": "nybbnan",
       "board": "Baseball",
       "publishTime": "2025/12/12 08:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "128",
-      "recommendCount": "139",
-      "title": "[閒聊] 上榜了",
-      "link": "/bbs/BaseballXXXX/M.1765520885.A.2C7",
-      "author": "willy911006",
-      "board": "BaseballXXXX",
-      "publishTime": "2025/12/12 06:28",
       "imageUrl": ""
     },
     {
@@ -184,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "65",
-      "recommendCount": "83",
-      "title": "[姆咪] 上榜了",
-      "link": "/bbs/Marginalman/M.1765520937.A.99E",
-      "author": "willy911006",
-      "board": "Marginalman",
-      "publishTime": "2025/12/12 06:28",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "52",
       "recommendCount": "102",
       "title": "[閒聊] 江少慶 要是你們會想賭嗎?",
@@ -202,6 +182,26 @@
       "board": "BaseballXXXX",
       "publishTime": "2025/12/12 09:05",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "77",
+      "recommendCount": "214",
+      "title": "[tga] x很多人也對33包辦獎項不滿了",
+      "link": "/bbs/C_Chat/M.1765529428.A.4C7",
+      "author": "qaz911420",
+      "board": "C_Chat",
+      "publishTime": "2025/12/12 08:50",
+      "imageUrl": "https://cache.pttweb.cc/imgur/yhGvfTy/s/e18cf053fea23c030f273c5b75c08957"
+    },
+    {
+      "recommendScore": "33",
+      "recommendCount": "131",
+      "title": "[討論] 音樂家銳評：不認同33拿最佳配樂",
+      "link": "/bbs/C_Chat/M.1765560062.A.5B9",
+      "author": "renna038766",
+      "board": "C_Chat",
+      "publishTime": "2025/12/12 17:21",
+      "imageUrl": "https://cache.pttweb.cc/imgur/IddjfP5/s/1ced22bcbbb6b6fb19efe5242795b067"
     }
   ]
 }
