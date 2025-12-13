@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-13T14:46:24.733Z",
+  "updated": "2025-12-13T14:53:11.051Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "319",
+      "recommendCount": "350",
+      "title": "[新聞]快訊／少時Tiffany熱戀卞耀漢！(發錢)",
+      "link": "/bbs/KoreaStar/M.1765589137.A.C95",
+      "author": "XDGEE",
+      "board": "KoreaStar",
+      "publishTime": "2025/12/13 01:25",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "853",
       "recommendCount": "1468",
       "title": "[電競] 2025 LoL KeSPA CUP 淘汰賽 第三天",
@@ -31,6 +41,16 @@
       "author": "laptic",
       "board": "LoL",
       "publishTime": "2025/12/13 07:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "221",
+      "recommendCount": "281",
+      "title": "[情報] 卞耀漢、蒂芬妮明年結婚",
+      "link": "/bbs/KoreaStar/M.1765586591.A.2C3",
+      "author": "Player02",
+      "board": "KoreaStar",
+      "publishTime": "2025/12/13 00:43",
       "imageUrl": ""
     },
     {
@@ -182,26 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/13 09:17",
       "imageUrl": "https://cache.pttweb.cc/imgur/XOWyNgq/s/20fe2fed3701f58967751d5f410d5d2d"
-    },
-    {
-      "recommendScore": "78",
-      "recommendCount": "177",
-      "title": "[新聞] 海鯤艦海測液壓故障竟靠人力操舵 海軍稱都在安全範圍",
-      "link": "/bbs/Gossiping/M.1765606988.A.A74",
-      "author": "EstelleRinz",
-      "board": "Gossiping",
-      "publishTime": "2025/12/13 06:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "128",
-      "recommendCount": "369",
-      "title": "[閒聊] 有Vtuber實際都很醜 這種刻板印象嗎？",
-      "link": "/bbs/C_Chat/M.1765607223.A.3FC",
-      "author": "newpasta",
-      "board": "C_Chat",
-      "publishTime": "2025/12/13 06:27",
-      "imageUrl": ""
     }
   ]
 }
