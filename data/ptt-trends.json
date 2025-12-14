@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-14T08:19:18.466Z",
+  "updated": "2025-12-14T08:34:52.304Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,16 +54,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "228",
-      "recommendCount": "509",
-      "title": "[新聞] 桃園巨蛋BOT 規模2萬人經費335億元",
-      "link": "/bbs/Baseball/M.1765614858.A.989",
-      "author": "smallweek",
-      "board": "Baseball",
-      "publishTime": "2025/12/13 08:34",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "95",
       "recommendCount": "257",
       "title": "[問卦] 政黑：明年的總預算案 完了...",
@@ -112,16 +102,6 @@
       "board": "SportLottery",
       "publishTime": "2025/12/14 01:30",
       "imageUrl": "https://cache.pttweb.cc/imgur/9LOy0BX/s/4436086657ed240353ddc01cebc77543"
-    },
-    {
-      "recommendScore": "285",
-      "recommendCount": "459",
-      "title": "[LIVE] 澳A 阿德雷德聯 @ 墨爾本勝利  場中",
-      "link": "/bbs/SportLottery/M.1765614167.A.5B3",
-      "author": "ys2266",
-      "board": "SportLottery",
-      "publishTime": "2025/12/13 08:22",
-      "imageUrl": ""
     },
     {
       "recommendScore": "84",
@@ -201,6 +181,26 @@
       "author": "eric20601",
       "board": "LoL",
       "publishTime": "2025/12/13 08:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "136",
+      "recommendCount": "273",
+      "title": "[閒聊] 實力不達標所以才會出現「女流棋士」",
+      "link": "/bbs/C_Chat/M.1765631005.A.49E",
+      "author": "Winux",
+      "board": "C_Chat",
+      "publishTime": "2025/12/13 13:03",
+      "imageUrl": "https://cache.pttweb.cc/imgur/gdFVccl/s/93f9192b524fcba683da6da5857abbd2"
+    },
+    {
+      "recommendScore": "106",
+      "recommendCount": "209",
+      "title": "[問題] 東京巨蛋是如何在三年內就完工的？",
+      "link": "/bbs/Baseball/M.1765619072.A.9CA",
+      "author": "eunhailoveu",
+      "board": "Baseball",
+      "publishTime": "2025/12/13 09:44",
       "imageUrl": ""
     }
   ]
