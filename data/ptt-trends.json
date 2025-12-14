@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-14T02:16:50.472Z",
+  "updated": "2025-12-14T03:01:40.189Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "94",
-      "recommendCount": "182",
-      "title": "[新聞] 博通暴跌11％！台積電ADR下殺4.2％",
-      "link": "/bbs/Stock/M.1765593823.A.27B",
-      "author": "humbler",
-      "board": "Stock",
-      "publishTime": "2025/12/13 02:43",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "92",
       "recommendCount": "239",
       "title": "[新聞] 柯文哲等被告齊轟林俊言  彭振聲嘆最悲慘、李文娟崩潰不想活",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/12/13 09:17",
       "imageUrl": "https://cache.pttweb.cc/imgur/XOWyNgq/s/20fe2fed3701f58967751d5f410d5d2d"
+    },
+    {
+      "recommendScore": "78",
+      "recommendCount": "177",
+      "title": "[新聞] 海鯤艦海測液壓故障竟靠人力操舵 海軍稱都在安全範圍",
+      "link": "/bbs/Gossiping/M.1765606988.A.A74",
+      "author": "EstelleRinz",
+      "board": "Gossiping",
+      "publishTime": "2025/12/13 06:23",
+      "imageUrl": ""
     }
   ]
 }
