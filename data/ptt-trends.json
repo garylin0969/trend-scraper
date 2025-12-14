@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-14T13:34:14.151Z",
+  "updated": "2025-12-14T13:45:20.661Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -91,6 +91,16 @@
       "author": "laptic",
       "board": "C_Chat",
       "publishTime": "2025/12/14 10:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "126",
+      "recommendCount": "417",
+      "title": "[分享] Josh 再談統一選擇江少慶",
+      "link": "/bbs/Baseball/M.1765710281.A.10A",
+      "author": "smallweek",
+      "board": "Baseball",
+      "publishTime": "2025/12/14 11:04",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/14 03:45",
       "imageUrl": "https://cache.pttweb.cc/imgur/jWNh0it/s/efa596c1f427e44ec0b335c9b7f79dca"
-    },
-    {
-      "recommendScore": "75",
-      "recommendCount": "116",
-      "title": "[閒聊] 泛式終於被羊宫妃娜整破防了",
-      "link": "/bbs/C_Chat/M.1765675687.A.A22",
-      "author": "s26154808",
-      "board": "C_Chat",
-      "publishTime": "2025/12/14 01:28",
-      "imageUrl": "https://cache.pttweb.cc/imgur/DdmFJu7/s/0046f52683942fca0f59a9d48ae2f555"
     }
   ]
 }
