@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-14T08:47:27.153Z",
+  "updated": "2025-12-14T08:55:15.812Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/9LOy0BX/s/4436086657ed240353ddc01cebc77543"
     },
     {
-      "recommendScore": "84",
-      "recommendCount": "217",
-      "title": "[問卦] 認真問為什麼只有台海打不起來?",
-      "link": "/bbs/Gossiping/M.1765615929.A.DB3",
-      "author": "lichuer",
-      "board": "Gossiping",
-      "publishTime": "2025/12/13 08:52",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "91",
       "recommendCount": "205",
       "title": "[新聞] 福麥2.0？賣鞋商搶下2億子彈底火標案　軍方：驗收合格已提前交貨",
@@ -201,6 +191,16 @@
       "author": "eunhailoveu",
       "board": "Baseball",
       "publishTime": "2025/12/13 09:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "101",
+      "recommendCount": "145",
+      "title": "[新聞] 台鋼雄鷹》12強賽國手陳柏清確定婉拒經典賽邀請　經過一段掙扎",
+      "link": "/bbs/Baseball/M.1765677957.A.C95",
+      "author": "jackwelch",
+      "board": "Baseball",
+      "publishTime": "2025/12/14 02:05",
       "imageUrl": ""
     }
   ]
