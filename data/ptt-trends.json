@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-14T23:36:49.111Z",
+  "updated": "2025-12-14T23:44:28.407Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "422",
+      "recommendCount": "1182",
+      "title": "[LIVE] NBA 聖安東尼奧馬刺@ 奧克拉荷馬雷霆 場",
+      "link": "/bbs/SportLottery/M.1765675831.A.BE2",
+      "author": "jerryyuan",
+      "board": "SportLottery",
+      "publishTime": "2025/12/14 01:30",
+      "imageUrl": "https://cache.pttweb.cc/imgur/9LOy0BX/s/4436086657ed240353ddc01cebc77543"
+    },
+    {
       "recommendScore": "140",
       "recommendCount": "272",
       "title": "[新聞] 醜1 NBA內幕／快艇雷納德恐成震撼籌碼",
@@ -191,16 +201,6 @@
       "author": "Adelaide66",
       "board": "NBA",
       "publishTime": "2025/12/14 08:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "105",
-      "recommendCount": "221",
-      "title": "[問卦] 幹 越南河內完全跟台南一模一樣XDDD",
-      "link": "/bbs/Gossiping/M.1765704246.A.865",
-      "author": "lichuer",
-      "board": "Gossiping",
-      "publishTime": "2025/12/14 09:24",
       "imageUrl": ""
     }
   ]
