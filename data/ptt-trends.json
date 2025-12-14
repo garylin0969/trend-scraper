@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-14T10:17:57.962Z",
+  "updated": "2025-12-14T10:31:19.837Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "145",
+      "recommendCount": "254",
+      "title": "[討論] 誰是目前美國第一人",
+      "link": "/bbs/NBA/M.1765624285.A.431",
+      "author": "kayaOAO",
+      "board": "NBA",
+      "publishTime": "2025/12/13 11:11",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "186",
       "recommendCount": "208",
       "title": "[閒聊] 幫蕾潔買了個三千的博物館級（？壓克力",
@@ -84,16 +94,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "217",
-      "recommendCount": "486",
-      "title": "[LIVE] 澳甲 雪梨FC@伯斯光榮 場中",
-      "link": "/bbs/SportLottery/M.1765621801.A.531",
-      "author": "pandalove",
-      "board": "SportLottery",
-      "publishTime": "2025/12/13 10:30",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "288",
       "recommendCount": "802",
       "title": "[LIVE] NBA 聖安東尼奧馬刺@ 奧克拉荷馬雷霆 場",
@@ -122,16 +122,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/13 12:42",
       "imageUrl": "https://cache.pttweb.cc/imgur/63gy4iM/s/bf98e6a42ede6fc1a41485269a01b935"
-    },
-    {
-      "recommendScore": "77",
-      "recommendCount": "157",
-      "title": "[花邊] Kerr談苦命又DNP: 現在的情況就是這樣",
-      "link": "/bbs/NBA/M.1765621580.A.779",
-      "author": "Skyblueway",
-      "board": "NBA",
-      "publishTime": "2025/12/13 10:26",
-      "imageUrl": ""
     },
     {
       "recommendScore": "70",
@@ -201,6 +191,16 @@
       "author": "Doica2445",
       "board": "Gossiping",
       "publishTime": "2025/12/13 14:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "154",
+      "recommendCount": "252",
+      "title": "[LIVE] 足球 凱撒斯勞騰  @ 比勒費爾德 場中",
+      "link": "/bbs/SportLottery/M.1765626910.A.B79",
+      "author": "apparition10",
+      "board": "SportLottery",
+      "publishTime": "2025/12/13 11:55",
       "imageUrl": ""
     }
   ]
