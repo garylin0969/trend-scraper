@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-15T17:58:07.390Z",
+  "updated": "2025-12-15T18:13:23.641Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "117",
+      "recommendCount": "248",
+      "title": "[討論] 勇士三節結束領先被逆轉6次 聯盟最多",
+      "link": "/bbs/NBA/M.1765792752.A.5DA",
+      "author": "c27932589",
+      "board": "NBA",
+      "publishTime": "2025/12/15 09:59",
+      "imageUrl": "https://cache.pttweb.cc/imgur/XBhsXC7/s/f1a77886673a852d435bae90b04e6683"
+    },
+    {
       "recommendScore": "79",
       "recommendCount": "208",
       "title": "[問卦] 靠，第一次聽過國會獨裁勒",
@@ -192,16 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2025/12/15 07:03",
       "imageUrl": "https://cache.pttweb.cc/imgur/KgUxzxq/s/734e4b6d60f19b05c7e35c504171772e"
-    },
-    {
-      "recommendScore": "76",
-      "recommendCount": "122",
-      "title": "[新聞] 華爾街：科技七雄 明年非主流 資金將轉向醫療、工業等景氣循環股與小型股",
-      "link": "/bbs/Stock/M.1765778941.A.076",
-      "author": "diefishfish",
-      "board": "Stock",
-      "publishTime": "2025/12/15 06:09",
-      "imageUrl": ""
     }
   ]
 }
