@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-15T18:13:23.641Z",
+  "updated": "2025-12-15T18:32:26.384Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "236",
+      "recommendCount": "398",
+      "title": "[情報] CPB中國棒球聯賽票價出爐，最貴3054元台幣",
+      "link": "/bbs/Baseball/M.1765802347.A.FF6",
+      "author": "Bystander21",
+      "board": "Baseball",
+      "publishTime": "2025/12/15 12:39",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Ejxiuet/s/f5174293724a9be6660373f4cce8e9b2"
+    },
+    {
       "recommendScore": "82",
       "recommendCount": "400",
       "title": "[新聞] 卓榮泰批《財劃法》違憲不予副署　再嗆藍白：可提不信任投票",
@@ -51,6 +61,36 @@
       "author": "taiwan08",
       "board": "Gossiping",
       "publishTime": "2025/12/15 07:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-82",
+      "recommendCount": "295",
+      "title": "[新聞] 賴清德：明年總預算若不過 癌症新藥基金恐斷炊",
+      "link": "/bbs/Gossiping/M.1765792161.A.2D2",
+      "author": "guido",
+      "board": "Gossiping",
+      "publishTime": "2025/12/15 09:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "120",
+      "recommendCount": "340",
+      "title": "[問卦] 確定民國115年沒有中央政府總預算了吧！",
+      "link": "/bbs/Gossiping/M.1765791409.A.67F",
+      "author": "swfswf",
+      "board": "Gossiping",
+      "publishTime": "2025/12/15 09:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "938",
+      "recommendCount": "1481",
+      "title": "[討論] [Vtub] Hololive 晚間直播單 (1141215)",
+      "link": "/bbs/C_Chat/M.1765794741.A.B19",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2025/12/15 10:32",
       "imageUrl": ""
     },
     {
@@ -154,54 +194,14 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/XBhsXC7/s/f1a77886673a852d435bae90b04e6683"
     },
     {
-      "recommendScore": "79",
-      "recommendCount": "208",
-      "title": "[問卦] 靠，第一次聽過國會獨裁勒",
-      "link": "/bbs/Gossiping/M.1765787995.A.2DE",
-      "author": "POLICEHK",
-      "board": "Gossiping",
-      "publishTime": "2025/12/15 08:39",
+      "recommendScore": "48",
+      "recommendCount": "302",
+      "title": "[黑特] 藍白到底在氣急敗壞啥？XDD",
+      "link": "/bbs/HatePolitics/M.1765793970.A.EC2",
+      "author": "jackie0414",
+      "board": "HatePolitics",
+      "publishTime": "2025/12/15 10:19",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "98",
-      "recommendCount": "173",
-      "title": "[閒聊] AveMujica演唱會 有中國觀眾飆罵高市早苗",
-      "link": "/bbs/C_Chat/M.1765785679.A.2F3",
-      "author": "kopune",
-      "board": "C_Chat",
-      "publishTime": "2025/12/15 08:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "80",
-      "recommendCount": "119",
-      "title": "[花邊] Zion:只要是我能做的，我什麼都願意做",
-      "link": "/bbs/NBA/M.1765781502.A.A69",
-      "author": "hasebe",
-      "board": "NBA",
-      "publishTime": "2025/12/15 06:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "70",
-      "recommendCount": "149",
-      "title": "[問卦] 鬼島的法學專家教授們怎麼都閉嘴了？",
-      "link": "/bbs/Gossiping/M.1765788606.A.E4E",
-      "author": "semna",
-      "board": "Gossiping",
-      "publishTime": "2025/12/15 08:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "125",
-      "recommendCount": "285",
-      "title": "[閒聊] 逃離鴨科夫 惡性MOD事件",
-      "link": "/bbs/C_Chat/M.1765782184.A.C94",
-      "author": "s9810456",
-      "board": "C_Chat",
-      "publishTime": "2025/12/15 07:03",
-      "imageUrl": "https://cache.pttweb.cc/imgur/KgUxzxq/s/734e4b6d60f19b05c7e35c504171772e"
     }
   ]
 }
