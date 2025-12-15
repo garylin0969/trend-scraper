@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-15T14:31:38.956Z",
+  "updated": "2025-12-15T14:46:52.198Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "66",
-      "recommendCount": "80",
-      "title": "[問卦] 這種1280抽的衛生紙很好用耶（發錢）",
-      "link": "/bbs/Gossiping/M.1765722902.A.567",
-      "author": "BIA",
-      "board": "Gossiping",
-      "publishTime": "2025/12/14 14:35",
-      "imageUrl": "https://cache.pttweb.cc/imgur/XYWS68r/s/99a3a172a842869bd4c45648b9db5c40"
-    },
-    {
       "recommendScore": "138",
       "recommendCount": "254",
       "title": "[LIVE] 英超 里茲聯1:1布倫特福德 場中",
@@ -202,6 +192,16 @@
       "board": "C_Chat",
       "publishTime": "2025/12/15 06:14",
       "imageUrl": "https://cache.pttweb.cc/imgur/47UZWGe/s/5903b5381236ec0e9679d70687a8970f"
+    },
+    {
+      "recommendScore": "53",
+      "recommendCount": "67",
+      "title": "[新聞] 中職》曾總帶隊 樂天80人19日赴越南冠軍旅行",
+      "link": "/bbs/Baseball/M.1765783558.A.611",
+      "author": "girl10319",
+      "board": "Baseball",
+      "publishTime": "2025/12/15 07:25",
+      "imageUrl": ""
     }
   ]
 }
