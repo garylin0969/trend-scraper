@@ -1,10 +1,10 @@
 {
-  "updated": "2025-12-16T06:24:30.964Z",
+  "updated": "2025-12-16T06:54:39.334Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-12-16T06:24:21.000Z",
+    "lastBuildDate": "2025-12-16T06:54:34.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -18,12 +18,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/626d/live/e90fdc30-d758-11f0-a892-01d657345866.jpg"
     },
     {
+      "title": "10歲女孩、拉比和猶太人大屠殺倖存者：那些邦迪海灘槍擊案的遇害者",
+      "description": "當局表示，遇害者中包括兩位拉比、一名猶太人大屠殺倖存者，以及一名10歲女孩。",
+      "link": "https://www.bbc.com/zhongwen/articles/cg4nggqq2glo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-16T06:26:52.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cg4nggqq2glo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c426/live/fc1ddf20-d9a6-11f0-b67b-690eb873de1b.jpg"
+    },
+    {
       "title": "線上遊戲逃過澳洲社交媒體禁令，但批評者稱它同樣有成癮性",
       "description": "家長與專家指出，遊戲對兒童帶來的風險與社群媒體相似，並呼籲將其納入管制範圍。",
       "link": "https://www.bbc.com/zhongwen/articles/cly5194k3g3o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-12-16T00:19:18.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cly5194k3g3o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/24f3/live/2a7bc580-d777-11f0-aae2-2191c0e48a3b.jpg"
+    },
+    {
+      "title": "好萊塢導演羅伯·雷納夫婦家中身亡，其子尼克涉嫌謀殺被捕",
+      "description": "執導過《當哈利遇上莎莉》、《伴我同行》等電影的好萊塢知名導演羅伯·雷納和妻子米歇爾於週日在家被發現死亡，他們的兒子目前被警方拘押。",
+      "link": "https://www.bbc.com/zhongwen/articles/crl94e5we2go/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-16T05:00:31.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/crl94e5we2go/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3649/live/0eac2a50-d9fe-11f0-a8dc-93c15fe68710.jpg"
     },
     {
       "title": "多媒體直播回顧：黎智英勾結外國勢力案今日裁決：三罪罪名全數成立",
@@ -38,16 +54,8 @@
       "description": "在澳大利亞悉尼邦迪海灘的光明節槍擊事件中，目前已有至少16人死亡。",
       "link": "https://www.bbc.com/zhongwen/articles/c87lr7q0g35o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-12-15T04:21:08.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c87lr7q0g35o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c87lr7q0g35o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0097/live/f2068480-d8e1-11f0-b67b-690eb873de1b.jpg"
-    },
-    {
-      "title": "好萊塢導演羅伯·雷納夫婦家中身亡，其子尼克涉嫌謀殺被捕",
-      "description": "執導過《當哈利遇上莎莉》、《伴我同行》等電影的好萊塢知名導演羅伯·雷納和妻子米歇爾於週日在家被發現死亡，他們的兒子目前被警方拘押。",
-      "link": "https://www.bbc.com/zhongwen/articles/crl94e5we2go/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-16T05:00:31.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crl94e5we2go/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3649/live/0eac2a50-d9fe-11f0-a8dc-93c15fe68710.jpg"
     },
     {
       "title": "如何才能令普京停止在烏克蘭的戰爭？",
@@ -88,14 +96,6 @@
       "pubDate": "2025-12-14T08:26:05.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cjdrj1v9234o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9cca/live/87ff21d0-d816-11f0-a8dc-93c15fe68710.png"
-    },
-    {
-      "title": "特朗普雖解禁H200晶片，中國「算力自主」策略下輝達尚難言慶祝",
-      "description": "面對輝達晶片，中國似乎防禦與進攻並行：表面拒絕美國「善意」，實則為本土產業爭取喘息，轉化壓力為動力。",
-      "link": "https://www.bbc.com/zhongwen/articles/cdj88l4kw9xo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-12T08:41:30.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cdj88l4kw9xo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/44d7/live/37581f20-d4b0-11f0-8c06-f5d460985095.jpg"
     },
     {
       "title": "「自己的子宮自己做主」：台灣《人工生殖法》修法擬納入單身女性、女同志",
@@ -154,6 +154,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/de4a/live/9ca86780-ceda-11f0-9fb5-5f3a3703a365.jpg"
     },
     {
+      "title": "特朗普雖解禁H200晶片，中國「算力自主」策略下輝達尚難言慶祝",
+      "description": "面對輝達晶片，中國似乎防禦與進攻並行：表面拒絕美國「善意」，實則為本土產業爭取喘息，轉化壓力為動力。",
+      "link": "https://www.bbc.com/zhongwen/articles/cdj88l4kw9xo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-12T08:41:30.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cdj88l4kw9xo/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/44d7/live/37581f20-d4b0-11f0-8c06-f5d460985095.jpg"
+    },
+    {
       "title": "觀察：美俄莫斯科會談揭示了普京怎樣的心態",
       "description": "最新一輪外交斡旋揭示了俄羅斯總統普京的情緒和意圖：他並不準備簽署和平協議，亦不會接受目前擺上桌面上的這些協議。",
       "link": "https://www.bbc.com/zhongwen/articles/crrk7kee9x5o/trad?at_medium=RSS&at_campaign=rss",
@@ -168,14 +176,6 @@
       "pubDate": "2025-12-03T09:15:42.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c5yq53qpj6wo/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ae1e/live/010ed070-d029-11f0-8d66-e797ff22b6b0.jpg"
-    },
-    {
-      "title": "普京：烏克蘭必須撤出頓巴斯地區，否則將武力奪取",
-      "description": "普京在對德里進行國事訪問前接受《今日印度》採訪時表示，莫斯科不同意美國和平計劃的部分內容。",
-      "link": "https://www.bbc.com/zhongwen/articles/c79xqzr931qo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-05T03:13:36.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c79xqzr931qo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0b94/live/99846e30-d12a-11f0-9d18-614b3678ebf8.jpg"
     },
     {
       "title": "習近平跟特朗普都不去　COP30開來還有意義嗎？",
