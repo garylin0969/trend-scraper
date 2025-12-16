@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-16T03:37:24.129Z",
+  "updated": "2025-12-16T04:01:20.927Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -92,6 +92,16 @@
       "board": "Baseball",
       "publishTime": "2025/12/15 07:02",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "15",
+      "recommendCount": "442",
+      "title": "[新聞] 金主供出黃國昌／台派金主應訊承認匯款千萬　證明黃國昌才是凱思幕後老闆",
+      "link": "/bbs/HatePolitics/M.1765838520.A.591",
+      "author": "Homura",
+      "board": "HatePolitics",
+      "publishTime": "2025/12/15 22:42",
+      "imageUrl": "https://cache.pttweb.cc/imgur/zquVnmO/s/090549aba281989138be7ae108de4f02"
     },
     {
       "recommendScore": "236",
@@ -191,16 +201,6 @@
       "author": "mcuronan",
       "board": "Gossiping",
       "publishTime": "2025/12/15 11:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "109",
-      "recommendCount": "312",
-      "title": "[問卦] 所以現在是進入死局??",
-      "link": "/bbs/Gossiping/M.1765786331.A.268",
-      "author": "j31404",
-      "board": "Gossiping",
-      "publishTime": "2025/12/15 08:12",
       "imageUrl": ""
     }
   ]
