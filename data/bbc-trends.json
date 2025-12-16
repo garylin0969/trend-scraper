@@ -1,14 +1,30 @@
 {
-  "updated": "2025-12-15T23:48:02.120Z",
+  "updated": "2025-12-16T00:41:23.422Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-12-15T23:47:49.000Z",
+    "lastBuildDate": "2025-12-16T00:41:13.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "觀察：特朗普的新安全戰略顯示美國外交政策的重大轉變",
+      "description": "一份新戰略文件令歐洲震驚之際，我們來深入探討一下，特朗普安全戰略的關鍵細節及其對全球的影響。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwywgl1p95wo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-16T00:17:18.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwywgl1p95wo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/626d/live/e90fdc30-d758-11f0-a892-01d657345866.jpg"
+    },
+    {
+      "title": "線上遊戲逃過澳洲社交媒體禁令，但批評者稱它同樣有成癮性",
+      "description": "家長與專家指出，遊戲對兒童帶來的風險與社群媒體相似，並呼籲將其納入管制範圍。",
+      "link": "https://www.bbc.com/zhongwen/articles/cly5194k3g3o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-16T00:19:18.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cly5194k3g3o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/24f3/live/2a7bc580-d777-11f0-aae2-2191c0e48a3b.jpg"
+    },
     {
       "title": "多媒體直播回顧：黎智英勾結外國勢力案今日裁決：三罪罪名全數成立",
       "description": "香港首宗「勾結罪」審訊，黎智英三罪罪名全數成立。據中國《香港國安法》，「勾結外國勢力罪」最高可判終身監禁。",
@@ -34,28 +50,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3768/live/54458190-d767-11f0-a892-01d657345866.jpg"
     },
     {
-      "title": "華納兄弟收購案：一場顛覆好萊塢的爭奪戰正在發生？",
-      "description": "BBC採訪數十位演員、製片人和攝影團隊，揭示這個備受串流衝擊的產業，正努力在兩個糟糕選擇中權衡取捨。",
-      "link": "https://www.bbc.com/zhongwen/articles/ce8n2v65krlo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-15T08:16:07.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce8n2v65krlo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8f56/live/d7f903a0-d7a2-11f0-aae2-2191c0e48a3b.jpg"
-    },
-    {
-      "title": "攜帶致癌基因的捐贈者，其精子被用於孕育近200名子女",
-      "description": "涉及事件的部分孩子已經去世，而僅有少數遺傳該突變的孩子能在一生中免於癌症。",
-      "link": "https://www.bbc.com/zhongwen/articles/c5ydpw0lx4no/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-14T03:28:41.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5ydpw0lx4no/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/906d/live/ff8d66c0-d4ed-11f0-8c06-f5d460985095.jpg"
-    },
-    {
       "title": "中共經濟工作會議：延續「更加積極的財政政策」，馬興瑞繼續缺席",
       "description": "這個一年一度的會議，每年均備受矚目，外界試圖在會後通告的字裡行間，窺探來年的挑戰及應對。",
       "link": "https://www.bbc.com/zhongwen/articles/cz7nn1qyvgvo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-12-12T13:39:08.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cz7nn1qyvgvo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4261/live/8ca24db0-d75e-11f0-b252-db9838d38426.jpg"
+    },
+    {
+      "title": "華納兄弟收購案：一場顛覆好萊塢的爭奪戰正在發生？",
+      "description": "BBC採訪數十位演員、製片人和攝影團隊，揭示這個備受串流衝擊的產業，正努力在兩個糟糕選擇中權衡取捨。",
+      "link": "https://www.bbc.com/zhongwen/articles/ce8n2v65krlo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-15T08:16:07.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce8n2v65krlo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8f56/live/d7f903a0-d7a2-11f0-aae2-2191c0e48a3b.jpg"
     },
     {
       "title": "受騙、綁架與虐待：中國改造青少年的「素質教育」學校內幕",
@@ -104,14 +112,6 @@
       "pubDate": "2025-12-11T11:30:04.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cm20ep54395o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8aca/live/b6794de0-d656-11f0-9fb5-5f3a3703a365.jpg"
-    },
-    {
-      "title": "中國寵物投毒刑事公訴第一案宣判：投毒人獲刑四年",
-      "description": "中國寵物投毒第一案一審在今天上午宣判，投毒人張某華構成「投放危害物質罪」，判處有期徒刑4年，投毒人當庭提出上訴。此前，此案已9次延審。",
-      "link": "https://www.bbc.com/zhongwen/articles/c5y9lz8dr16o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-11T07:43:30.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5y9lz8dr16o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/96fb/live/d8c0e800-d664-11f0-91f5-0bd827601511.jpg"
     },
     {
       "title": "黎智英國安案勾結及煽動罪成 他如何成為北京眼中的「犯罪主腦」？",
@@ -210,12 +210,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/785e/live/20dc1ab0-d5e8-11f0-ab62-eb598af64ced.jpg"
     },
     {
-      "title": "諾貝爾和平獎得主馬查多：我清楚前往奧斯陸的「風險」",
-      "description": "委內瑞拉反對派領袖瑪麗亞·科麗娜·馬查多在遭本國政府威脅的情況下，秘密前往挪威領取諾貝爾和平獎。",
-      "link": "https://www.bbc.com/zhongwen/articles/cdxwwn27766o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-12T09:13:36.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cdxwwn27766o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0c1e/live/346013e0-d668-11f0-a892-01d657345866.jpg"
+      "title": "中國寵物投毒刑事公訴第一案宣判：投毒人獲刑四年",
+      "description": "中國寵物投毒第一案一審在今天上午宣判，投毒人張某華構成「投放危害物質罪」，判處有期徒刑4年，投毒人當庭提出上訴。此前，此案已9次延審。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5y9lz8dr16o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-11T07:43:30.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5y9lz8dr16o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/96fb/live/d8c0e800-d664-11f0-91f5-0bd827601511.jpg"
     },
     {
       "title": "澳大利亞兒童禁用社交媒體，大型科技公司忙於應對",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bf5c/live/47f55b90-cbfa-11f0-a892-01d657345866.jpg"
     },
     {
+      "title": "攜帶致癌基因的捐贈者，其精子被用於孕育近200名子女",
+      "description": "涉及事件的部分孩子已經去世，而僅有少數遺傳該突變的孩子能在一生中免於癌症。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5ydpw0lx4no/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-14T03:28:41.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5ydpw0lx4no/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/906d/live/ff8d66c0-d4ed-11f0-8c06-f5d460985095.jpg"
+    },
+    {
       "title": "日本強地震警告，是否意味著「大地震」即將來臨？",
       "description": "本週發布的一項警報，令這個習慣於地震警告的國家再度關注重大地震發生的可能。",
       "link": "https://www.bbc.com/zhongwen/articles/cgmnxgggvy4o/trad?at_medium=RSS&at_campaign=rss",
@@ -312,14 +320,6 @@
       "pubDate": "2025-12-12T00:24:02.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cedx9q1g7lno/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e19c/live/d4264ba0-d6f0-11f0-8889-d12fbeb9fe0e.jpg"
-    },
-    {
-      "title": "這些短時間高強度活動能令你長壽",
-      "description": "從跑上樓梯到滿懷熱情地做園藝：這些日常活動可以提升你的健康，並幫助你延長壽命。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgr48pmwv3o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-10T00:21:55.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgr48pmwv3o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cc4b/live/632833e0-d4df-11f0-8c06-f5d460985095.jpg"
     }
   ]
 }
