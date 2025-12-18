@@ -1,8 +1,28 @@
 {
-  "updated": "2025-12-18T17:24:17.522Z",
+  "updated": "2025-12-18T17:39:33.940Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "90",
+      "recommendCount": "142",
+      "title": "[專欄] 這個季後讓人真有感 悍將十年終於走上正",
+      "link": "/bbs/Baseball/M.1766014290.A.967",
+      "author": "leftavoid",
+      "board": "Baseball",
+      "publishTime": "2025/12/17 23:31",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "81",
+      "recommendCount": "135",
+      "title": "[新聞] 救民調…川普今發表全國演說",
+      "link": "/bbs/Stock/M.1766018170.A.696",
+      "author": "AnneofGreen",
+      "board": "Stock",
+      "publishTime": "2025/12/18 00:36",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "65",
       "recommendCount": "103",
@@ -64,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "31",
+      "recommendCount": "48",
+      "title": "Re: [標的] 台指期 多",
+      "link": "/bbs/Stock/M.1766013013.A.256",
+      "author": "starahsu",
+      "board": "Stock",
+      "publishTime": "2025/12/17 23:10",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "38",
       "recommendCount": "39",
       "title": "[絕區] 錢",
@@ -91,6 +121,16 @@
       "author": "leonjapan",
       "board": "BaseballXXXX",
       "publishTime": "2025/12/18 03:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "39",
+      "recommendCount": "77",
+      "title": "[新聞] WCY-獅隊有望本周確定補償人選江少慶仍是",
+      "link": "/bbs/Baseball/M.1766016741.A.D35",
+      "author": "ryanl",
+      "board": "Baseball",
+      "publishTime": "2025/12/18 00:12",
       "imageUrl": ""
     },
     {
@@ -161,46 +201,6 @@
       "author": "HANASUCIA",
       "board": "Gossiping",
       "publishTime": "2025/12/18 08:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "6",
-      "recommendCount": "54",
-      "title": "[新聞] 行政院拍板《國安法》修法　鼓吹戰爭言論最重罰百萬、2類人可加重其刑",
-      "link": "/bbs/Gossiping/M.1766036721.A.0BF",
-      "author": "tiger911",
-      "board": "Gossiping",
-      "publishTime": "2025/12/18 05:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-3",
-      "recommendCount": "34",
-      "title": "[新聞] 外交部：已獲美方通知軍售8案　履行對台安全承諾",
-      "link": "/bbs/Gossiping/M.1766031468.A.675",
-      "author": "stewartqq",
-      "board": "Gossiping",
-      "publishTime": "2025/12/18 04:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "22",
-      "recommendCount": "31",
-      "title": "[瓦特] 60個月",
-      "link": "/bbs/Marginalman/M.1766022838.A.EEB",
-      "author": "CureSeal",
-      "board": "Marginalman",
-      "publishTime": "2025/12/18 01:53",
-      "imageUrl": "https://cache.pttweb.cc/imgur/H6G8cyr/s/75b2c6b030ebcda4c58046ab7b629418"
-    },
-    {
-      "recommendScore": "19",
-      "recommendCount": "46",
-      "title": "[新聞] 大逆轉！黃明志遭控吸4種毒「尿檢是陰性」　律師：檢方恐撤回起訴",
-      "link": "/bbs/Gossiping/M.1766040203.A.25F",
-      "author": "vdml",
-      "board": "Gossiping",
-      "publishTime": "2025/12/18 06:43",
       "imageUrl": ""
     }
   ]
