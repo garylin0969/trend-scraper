@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-18T14:09:22.687Z",
+  "updated": "2025-12-18T14:21:41.823Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,16 +24,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "64",
-      "recommendCount": "91",
-      "title": "[問卦] 玩最久時間的電腦遊戲是什麼",
-      "link": "/bbs/Gossiping/M.1765981008.A.369",
-      "author": "iolo1166",
-      "board": "Gossiping",
-      "publishTime": "2025/12/17 14:16",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "131",
       "recommendCount": "461",
       "title": "[閒聊] B站百萬直播主證實當年開服有禁潮令",
@@ -51,26 +41,6 @@
       "author": "IzumiKonata",
       "board": "Stock",
       "publishTime": "2025/12/17 16:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "38",
-      "recommendCount": "64",
-      "title": "[新聞] 男股票當沖虧70萬衝券商理論 券商指全自行操作",
-      "link": "/bbs/Gossiping/M.1765980996.A.AC9",
-      "author": "turndown4wat",
-      "board": "Gossiping",
-      "publishTime": "2025/12/17 14:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-15",
-      "recommendCount": "68",
-      "title": "[閒聊] 姑媽根本就是電競朱孝天吧",
-      "link": "/bbs/LoL/M.1765980611.A.A9A",
-      "author": "TroyeSivan",
-      "board": "LoL",
-      "publishTime": "2025/12/17 14:10",
       "imageUrl": ""
     },
     {
@@ -202,6 +172,36 @@
       "board": "BaseballXXXX",
       "publishTime": "2025/12/18 03:55",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "-8",
+      "recommendCount": "63",
+      "title": "[新聞] 政院：若法案違反這3原則 卓揆就會考慮以不副署守護憲法",
+      "link": "/bbs/Gossiping/M.1766027672.A.539",
+      "author": "axxp",
+      "board": "Gossiping",
+      "publishTime": "2025/12/18 03:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "28",
+      "recommendCount": "57",
+      "title": "[蔚藍] 各位尊敬的歐美玩家  非常抱歉",
+      "link": "/bbs/C_Chat/M.1766046558.A.77F",
+      "author": "anpinjou",
+      "board": "C_Chat",
+      "publishTime": "2025/12/18 08:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "23",
+      "recommendCount": "52",
+      "title": "[問卦] 大陸比亞迪休旅車都不用五萬了 太捲了吧",
+      "link": "/bbs/Gossiping/M.1765988239.A.7EF",
+      "author": "ggyang",
+      "board": "Gossiping",
+      "publishTime": "2025/12/17 16:17",
+      "imageUrl": "https://cache.pttweb.cc/imgur/AW4qsBr/s/7a8948a76a8d72413b605942a46c09b2"
     }
   ]
 }
