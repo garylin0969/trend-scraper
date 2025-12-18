@@ -1,18 +1,8 @@
 {
-  "updated": "2025-12-18T16:10:59.294Z",
+  "updated": "2025-12-18T16:24:59.537Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "108",
-      "recommendCount": "260",
-      "title": "[討論] 要怎麼培養台灣人看正版的習慣",
-      "link": "/bbs/C_Chat/M.1765987941.A.CD1",
-      "author": "a4855858",
-      "board": "C_Chat",
-      "publishTime": "2025/12/17 16:12",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "65",
       "recommendCount": "103",
@@ -21,26 +11,6 @@
       "author": "AnneofGreen",
       "board": "Stock",
       "publishTime": "2025/12/18 13:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "131",
-      "recommendCount": "461",
-      "title": "[閒聊] B站百萬直播主證實當年開服有禁潮令",
-      "link": "/bbs/C_Chat/M.1765987857.A.B62",
-      "author": "Atima",
-      "board": "C_Chat",
-      "publishTime": "2025/12/17 16:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "38",
-      "recommendCount": "79",
-      "title": "[新聞] 台積電跌破季線…盤後鉅額交易卻直奔漲停 法人揭慣例：台股將創新高",
-      "link": "/bbs/Stock/M.1765988164.A.177",
-      "author": "IzumiKonata",
-      "board": "Stock",
-      "publishTime": "2025/12/17 16:16",
       "imageUrl": ""
     },
     {
@@ -144,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "23",
-      "recommendCount": "52",
-      "title": "[問卦] 大陸比亞迪休旅車都不用五萬了 太捲了吧",
-      "link": "/bbs/Gossiping/M.1765988239.A.7EF",
-      "author": "ggyang",
-      "board": "Gossiping",
-      "publishTime": "2025/12/17 16:17",
-      "imageUrl": "https://cache.pttweb.cc/imgur/AW4qsBr/s/7a8948a76a8d72413b605942a46c09b2"
-    },
-    {
       "recommendScore": "3",
       "recommendCount": "64",
       "title": "[新聞] 劉寶傑喊沒聽過「在野獨裁」！ 綠立院黨團：濫用國會多數當然會被批評",
@@ -201,6 +161,46 @@
       "author": "HANASUCIA",
       "board": "Gossiping",
       "publishTime": "2025/12/18 08:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "6",
+      "recommendCount": "54",
+      "title": "[新聞] 行政院拍板《國安法》修法　鼓吹戰爭言論最重罰百萬、2類人可加重其刑",
+      "link": "/bbs/Gossiping/M.1766036721.A.0BF",
+      "author": "tiger911",
+      "board": "Gossiping",
+      "publishTime": "2025/12/18 05:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-3",
+      "recommendCount": "34",
+      "title": "[新聞] 外交部：已獲美方通知軍售8案　履行對台安全承諾",
+      "link": "/bbs/Gossiping/M.1766031468.A.675",
+      "author": "stewartqq",
+      "board": "Gossiping",
+      "publishTime": "2025/12/18 04:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "22",
+      "recommendCount": "31",
+      "title": "[瓦特] 60個月",
+      "link": "/bbs/Marginalman/M.1766022838.A.EEB",
+      "author": "CureSeal",
+      "board": "Marginalman",
+      "publishTime": "2025/12/18 01:53",
+      "imageUrl": "https://cache.pttweb.cc/imgur/H6G8cyr/s/75b2c6b030ebcda4c58046ab7b629418"
+    },
+    {
+      "recommendScore": "19",
+      "recommendCount": "46",
+      "title": "[新聞] 大逆轉！黃明志遭控吸4種毒「尿檢是陰性」　律師：檢方恐撤回起訴",
+      "link": "/bbs/Gossiping/M.1766040203.A.25F",
+      "author": "vdml",
+      "board": "Gossiping",
+      "publishTime": "2025/12/18 06:43",
       "imageUrl": ""
     }
   ]
