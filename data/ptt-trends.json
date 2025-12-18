@@ -1,18 +1,8 @@
 {
-  "updated": "2025-12-18T22:06:17.756Z",
+  "updated": "2025-12-18T22:17:56.472Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "104",
-      "recommendCount": "514",
-      "title": "[新聞] 中國「曼哈頓計畫」成功打造EUV原型機",
-      "link": "/bbs/Gossiping/M.1766009573.A.2A0",
-      "author": "dayuer",
-      "board": "Gossiping",
-      "publishTime": "2025/12/17 22:12",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "68",
       "recommendCount": "220",
@@ -201,6 +191,16 @@
       "author": "ivorysoap",
       "board": "HatePolitics",
       "publishTime": "2025/12/18 00:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "26",
+      "recommendCount": "58",
+      "title": "[新聞] 川普任內最大筆對台軍售 中國國台辦：立即停止武裝台灣",
+      "link": "/bbs/Gossiping/M.1766074913.A.C2A",
+      "author": "shawnm80",
+      "board": "Gossiping",
+      "publishTime": "2025/12/18 16:21",
       "imageUrl": ""
     }
   ]
