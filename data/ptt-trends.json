@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-19T10:33:28.537Z",
+  "updated": "2025-12-19T10:47:50.979Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "62",
-      "recommendCount": "126",
-      "title": "[問題] 齊勒斯跟拉克絲在大亂鬥真的那麼爛？",
-      "link": "/bbs/LoL/M.1766054529.A.0E9",
-      "author": "Alixwaltz",
-      "board": "LoL",
-      "publishTime": "2025/12/18 10:42",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-13",
       "recommendCount": "127",
       "title": "[新聞] 憲法法庭停擺一年正式復活！藍白版憲法訴訟法修正案被宣告「違憲」",
@@ -201,6 +191,16 @@
       "author": "robertgarcia",
       "board": "Gossiping",
       "publishTime": "2025/12/19 08:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "49",
+      "recommendCount": "199",
+      "title": "[轉錄] 台灣法律人FB：蔡宗珍等主張判決無效",
+      "link": "/bbs/HatePolitics/M.1766132359.A.519",
+      "author": "oscarwu3041",
+      "board": "HatePolitics",
+      "publishTime": "2025/12/19 08:19",
       "imageUrl": ""
     }
   ]
