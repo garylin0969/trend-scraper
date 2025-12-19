@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-19T11:53:30.011Z",
+  "updated": "2025-12-19T12:10:00.219Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-25",
-      "recommendCount": "136",
-      "title": "[心得] 檢舉魔人難道不是慣出來的嗎?",
-      "link": "/bbs/car/M.1766059091.A.2AD",
-      "author": "aitt",
-      "board": "car",
-      "publishTime": "2025/12/18 11:58",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "39",
       "recommendCount": "100",
       "title": "[問卦] 政黑：八卦藍白粉只能無能狂吠哈哈",
@@ -202,6 +192,16 @@
       "board": "HatePolitics",
       "publishTime": "2025/12/19 08:19",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "69",
+      "recommendCount": "70",
+      "title": "[卡厄思] 國際服前百名達成 發錢",
+      "link": "/bbs/C_Chat/M.1766089280.A.355",
+      "author": "leo79415",
+      "board": "C_Chat",
+      "publishTime": "2025/12/18 20:21",
+      "imageUrl": "https://cache.pttweb.cc/imgur/nvCXO5N/s/bdcf51b66a14cbf802759e304be8f386"
     }
   ]
 }
