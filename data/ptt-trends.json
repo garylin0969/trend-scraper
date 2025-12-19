@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-19T07:22:51.352Z",
+  "updated": "2025-12-19T07:37:15.499Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-13",
+      "recommendCount": "127",
+      "title": "[新聞] 憲法法庭停擺一年正式復活！藍白版憲法訴訟法修正案被宣告「違憲」",
+      "link": "/bbs/Gossiping/M.1766128270.A.F34",
+      "author": "CrazySept",
+      "board": "Gossiping",
+      "publishTime": "2025/12/19 07:11",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-25",
       "recommendCount": "136",
       "title": "[心得] 檢舉魔人難道不是慣出來的嗎?",
@@ -164,13 +174,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "47",
-      "recommendCount": "94",
-      "title": "[新聞] 加入春訓客座教練 林仲秋指導雄鷹打擊",
-      "link": "/bbs/Baseball/M.1766042656.A.2DE",
-      "author": "loli",
-      "board": "Baseball",
-      "publishTime": "2025/12/18 07:24",
+      "recommendScore": "50",
+      "recommendCount": "63",
+      "title": "[情報] 114年12月19日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1766128114.A.73A",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2025/12/19 07:08",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/18 18:49",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "47",
-      "recommendCount": "99",
-      "title": "[討論] 想問問今年大家都看了幾部電影",
-      "link": "/bbs/movie/M.1766050165.A.98D",
-      "author": "salixcloud",
-      "board": "movie",
-      "publishTime": "2025/12/18 09:29",
-      "imageUrl": "https://cache.pttweb.cc/imgur/7RtCxE4/s/c7b4d734f21b41958d47611de337d0f7"
     }
   ]
 }
