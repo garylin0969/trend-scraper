@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-19T14:32:24.510Z",
+  "updated": "2025-12-19T14:47:04.224Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "42",
+      "recommendCount": "82",
+      "title": "[花邊] Caruso: 雷霆球員們品行端正 打球正確",
+      "link": "/bbs/NBA/M.1766081843.A.398",
+      "author": "love1500274",
+      "board": "NBA",
+      "publishTime": "2025/12/18 18:17",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "39",
       "recommendCount": "100",
       "title": "[問卦] 政黑：八卦藍白粉只能無能狂吠哈哈",
@@ -192,16 +202,6 @@
       "board": "HatePolitics",
       "publishTime": "2025/12/19 08:19",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "69",
-      "recommendCount": "70",
-      "title": "[卡厄思] 國際服前百名達成 發錢",
-      "link": "/bbs/C_Chat/M.1766089280.A.355",
-      "author": "leo79415",
-      "board": "C_Chat",
-      "publishTime": "2025/12/18 20:21",
-      "imageUrl": "https://cache.pttweb.cc/imgur/nvCXO5N/s/bdcf51b66a14cbf802759e304be8f386"
     }
   ]
 }
