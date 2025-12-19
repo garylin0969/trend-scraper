@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-19T04:36:38.683Z",
+  "updated": "2025-12-19T04:50:14.194Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,16 +184,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/7RtCxE4/s/c7b4d734f21b41958d47611de337d0f7"
     },
     {
-      "recommendScore": "48",
-      "recommendCount": "208",
-      "title": "[新聞] 政院今拍板國安法修法 網路鼓吹戰爭言論",
-      "link": "/bbs/Military/M.1766033200.A.6BC",
-      "author": "nk11208z",
-      "board": "Military",
-      "publishTime": "2025/12/18 04:46",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "47",
       "recommendCount": "53",
       "title": "[Vtub] AZKi 森森鈴蘭 厄倫蒂爾 台北演唱會",
@@ -202,6 +192,16 @@
       "board": "C_Chat",
       "publishTime": "2025/12/19 04:15",
       "imageUrl": "https://cache.pttweb.cc/imgur/f0Htp2P/s/d4c5f891fe8ccd58f46f2d13304774f9"
+    },
+    {
+      "recommendScore": "30",
+      "recommendCount": "55",
+      "title": "[新聞] 快訊／海基會董事長吳豊山宣布辭任",
+      "link": "/bbs/Gossiping/M.1766040288.A.BA1",
+      "author": "HisVol",
+      "board": "Gossiping",
+      "publishTime": "2025/12/18 06:44",
+      "imageUrl": ""
     }
   ]
 }
