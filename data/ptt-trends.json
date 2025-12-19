@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-19T09:12:13.899Z",
+  "updated": "2025-12-19T09:31:16.936Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -165,16 +165,6 @@
     },
     {
       "recommendScore": "47",
-      "recommendCount": "99",
-      "title": "[討論] 想問問今年大家都看了幾部電影",
-      "link": "/bbs/movie/M.1766050165.A.98D",
-      "author": "salixcloud",
-      "board": "movie",
-      "publishTime": "2025/12/18 09:29",
-      "imageUrl": "https://cache.pttweb.cc/imgur/7RtCxE4/s/c7b4d734f21b41958d47611de337d0f7"
-    },
-    {
-      "recommendScore": "47",
       "recommendCount": "53",
       "title": "[Vtub] AZKi 森森鈴蘭 厄倫蒂爾 台北演唱會",
       "link": "/bbs/C_Chat/M.1766117727.A.630",
@@ -201,6 +191,16 @@
       "author": "ericgary",
       "board": "Gossiping",
       "publishTime": "2025/12/19 03:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "32",
+      "recommendCount": "57",
+      "title": "[新聞] OCC-少了狀元江少慶之後！　悍將爭取另一狀元「龍王」王維中加盟",
+      "link": "/bbs/Baseball/M.1766116100.A.550",
+      "author": "caca13140405",
+      "board": "Baseball",
+      "publishTime": "2025/12/19 03:48",
       "imageUrl": ""
     }
   ]
