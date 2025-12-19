@@ -1,28 +1,8 @@
 {
-  "updated": "2025-12-19T07:53:40.972Z",
+  "updated": "2025-12-19T08:08:26.696Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "141",
-      "recommendCount": "204",
-      "title": "[閒聊] Faker：Chovy出色的表現激勵我一直進步",
-      "link": "/bbs/LoL/M.1766044451.A.7D7",
-      "author": "keel90135",
-      "board": "LoL",
-      "publishTime": "2025/12/18 07:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "146",
-      "recommendCount": "230",
-      "title": "[新聞] 統一獅》是不是江少慶？ 最快明天揭曉",
-      "link": "/bbs/Baseball/M.1766044993.A.BDF",
-      "author": "EDFR",
-      "board": "Baseball",
-      "publishTime": "2025/12/18 08:03",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "-46",
       "recommendCount": "198",
@@ -81,16 +61,6 @@
       "author": "kensukeshu",
       "board": "Baseball",
       "publishTime": "2025/12/18 23:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "67",
-      "recommendCount": "208",
-      "title": "Re: [新聞] 跨境網購注意！預先委任制明年3月全面上",
-      "link": "/bbs/Lifeismoney/M.1766044869.A.C2D",
-      "author": "chinaeatshit",
-      "board": "Lifeismoney",
-      "publishTime": "2025/12/18 08:01",
       "imageUrl": ""
     },
     {
@@ -201,6 +171,36 @@
       "author": "MeiHS",
       "board": "Gossiping",
       "publishTime": "2025/12/18 18:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "47",
+      "recommendCount": "99",
+      "title": "[討論] 想問問今年大家都看了幾部電影",
+      "link": "/bbs/movie/M.1766050165.A.98D",
+      "author": "salixcloud",
+      "board": "movie",
+      "publishTime": "2025/12/18 09:29",
+      "imageUrl": "https://cache.pttweb.cc/imgur/7RtCxE4/s/c7b4d734f21b41958d47611de337d0f7"
+    },
+    {
+      "recommendScore": "47",
+      "recommendCount": "53",
+      "title": "[Vtub] AZKi 森森鈴蘭 厄倫蒂爾 台北演唱會",
+      "link": "/bbs/C_Chat/M.1766117727.A.630",
+      "author": "stan1231",
+      "board": "C_Chat",
+      "publishTime": "2025/12/19 04:15",
+      "imageUrl": "https://cache.pttweb.cc/imgur/f0Htp2P/s/d4c5f891fe8ccd58f46f2d13304774f9"
+    },
+    {
+      "recommendScore": "30",
+      "recommendCount": "65",
+      "title": "[問卦] 40%的死忠到底是怎麼養成的？",
+      "link": "/bbs/Gossiping/M.1766127912.A.D28",
+      "author": "ray90910",
+      "board": "Gossiping",
+      "publishTime": "2025/12/19 07:05",
       "imageUrl": ""
     }
   ]
