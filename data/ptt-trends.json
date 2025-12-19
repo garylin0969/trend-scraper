@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-19T04:59:58.784Z",
+  "updated": "2025-12-19T05:11:21.879Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "45",
+      "recommendCount": "100",
+      "title": "[心得] 技嘉過保維修漲價了",
+      "link": "/bbs/PC_Shopping/M.1766056308.A.91F",
+      "author": "amduser",
+      "board": "PC_Shopping",
+      "publishTime": "2025/12/18 11:11",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "41",
       "recommendCount": "95",
       "title": "[新聞] 美對台軍售3500億　路透：史上最大規模！官員曝「川普計劃」",
@@ -174,6 +184,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/7RtCxE4/s/c7b4d734f21b41958d47611de337d0f7"
     },
     {
+      "recommendScore": "29",
+      "recommendCount": "126",
+      "title": "[討論] 言論自由已死 馬永成政委:鼓勵統一 都要罰",
+      "link": "/bbs/HatePolitics/M.1766040365.A.3F7",
+      "author": "syearth",
+      "board": "HatePolitics",
+      "publishTime": "2025/12/18 06:46",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "47",
       "recommendCount": "53",
       "title": "[Vtub] AZKi 森森鈴蘭 厄倫蒂爾 台北演唱會",
@@ -182,26 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2025/12/19 04:15",
       "imageUrl": "https://cache.pttweb.cc/imgur/f0Htp2P/s/d4c5f891fe8ccd58f46f2d13304774f9"
-    },
-    {
-      "recommendScore": "30",
-      "recommendCount": "55",
-      "title": "[新聞] 快訊／海基會董事長吳豊山宣布辭任",
-      "link": "/bbs/Gossiping/M.1766040288.A.BA1",
-      "author": "HisVol",
-      "board": "Gossiping",
-      "publishTime": "2025/12/18 06:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "42",
-      "recommendCount": "55",
-      "title": "[反擊] 對常來我家的辣妹為所欲為5 封面",
-      "link": "/bbs/AC_In/M.1766042046.A.FE4",
-      "author": "ging1995",
-      "board": "AC_In",
-      "publishTime": "2025/12/18 07:14",
-      "imageUrl": ""
     }
   ]
 }
