@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-19T00:49:40.932Z",
+  "updated": "2025-12-19T01:22:42.993Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -64,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-62",
+      "recommendCount": "114",
+      "title": "[心得] 台灣的3nm陷阱：生產「全球最貴卻最沒用",
+      "link": "/bbs/Tech_Job/M.1766027205.A.3AD",
+      "author": "zaiter",
+      "board": "Tech_Job",
+      "publishTime": "2025/12/18 03:06",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "69",
       "recommendCount": "70",
       "title": "[卡厄思] 國際服前百名達成 發錢",
@@ -121,16 +131,6 @@
       "author": "shawnm80",
       "board": "Gossiping",
       "publishTime": "2025/12/18 16:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "12",
-      "recommendCount": "50",
-      "title": "[心得] 不要再聽什麼消息買股票了",
-      "link": "/bbs/Stock/M.1766019224.A.F73",
-      "author": "derrengay",
-      "board": "Stock",
-      "publishTime": "2025/12/18 00:53",
       "imageUrl": ""
     },
     {
