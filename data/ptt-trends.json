@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-19T04:01:02.440Z",
+  "updated": "2025-12-19T04:19:42.984Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,6 +144,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "20",
+      "recommendCount": "79",
+      "title": "[新聞] AI明星股，已近腰斬！AI泡沫討論升級",
+      "link": "/bbs/Stock/M.1766033575.A.6E4",
+      "author": "icrose",
+      "board": "Stock",
+      "publishTime": "2025/12/18 04:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "35",
+      "recommendCount": "92",
+      "title": "[BOX ] Rockets 128:133 Pelicans",
+      "link": "/bbs/NBA/M.1766116254.A.9F2",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2025/12/19 03:50",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "55",
       "recommendCount": "87",
       "title": "Fw: [分享] WBC美國隊目前六人先發輪值",
@@ -174,34 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "48",
-      "recommendCount": "208",
-      "title": "[新聞] 政院今拍板國安法修法 網路鼓吹戰爭言論",
-      "link": "/bbs/Military/M.1766033200.A.6BC",
-      "author": "nk11208z",
-      "board": "Military",
-      "publishTime": "2025/12/18 04:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "30",
-      "recommendCount": "55",
-      "title": "[新聞] 快訊／海基會董事長吳豊山宣布辭任",
-      "link": "/bbs/Gossiping/M.1766040288.A.BA1",
-      "author": "HisVol",
-      "board": "Gossiping",
-      "publishTime": "2025/12/18 06:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "26",
-      "recommendCount": "58",
-      "title": "[新聞] 川普任內最大筆對台軍售 中國國台辦：立即停止武裝台灣",
-      "link": "/bbs/Gossiping/M.1766074913.A.C2A",
-      "author": "shawnm80",
-      "board": "Gossiping",
-      "publishTime": "2025/12/18 16:21",
-      "imageUrl": ""
+      "recommendScore": "47",
+      "recommendCount": "99",
+      "title": "[討論] 想問問今年大家都看了幾部電影",
+      "link": "/bbs/movie/M.1766050165.A.98D",
+      "author": "salixcloud",
+      "board": "movie",
+      "publishTime": "2025/12/18 09:29",
+      "imageUrl": "https://cache.pttweb.cc/imgur/7RtCxE4/s/c7b4d734f21b41958d47611de337d0f7"
     }
   ]
 }
