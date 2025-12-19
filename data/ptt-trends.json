@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-19T04:19:42.984Z",
+  "updated": "2025-12-19T04:36:38.683Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -21,16 +21,6 @@
       "author": "MikaHakkinen",
       "board": "Gossiping",
       "publishTime": "2025/12/18 21:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "118",
-      "recommendCount": "125",
-      "title": "[閒聊] 2025秋活問卷調查",
-      "link": "/bbs/KanColle/M.1766032210.A.6C5",
-      "author": "laswish",
-      "board": "KanColle",
-      "publishTime": "2025/12/18 04:30",
       "imageUrl": ""
     },
     {
@@ -81,16 +71,6 @@
       "author": "kensukeshu",
       "board": "Baseball",
       "publishTime": "2025/12/18 23:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "53",
-      "recommendCount": "175",
-      "title": "[情報] 獨家／記憶體暴漲三個月不回頭　一位筆電",
-      "link": "/bbs/PC_Shopping/M.1766031842.A.5AE",
-      "author": "dabochi",
-      "board": "PC_Shopping",
-      "publishTime": "2025/12/18 04:24",
       "imageUrl": ""
     },
     {
@@ -202,6 +182,26 @@
       "board": "movie",
       "publishTime": "2025/12/18 09:29",
       "imageUrl": "https://cache.pttweb.cc/imgur/7RtCxE4/s/c7b4d734f21b41958d47611de337d0f7"
+    },
+    {
+      "recommendScore": "48",
+      "recommendCount": "208",
+      "title": "[新聞] 政院今拍板國安法修法 網路鼓吹戰爭言論",
+      "link": "/bbs/Military/M.1766033200.A.6BC",
+      "author": "nk11208z",
+      "board": "Military",
+      "publishTime": "2025/12/18 04:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "47",
+      "recommendCount": "53",
+      "title": "[Vtub] AZKi 森森鈴蘭 厄倫蒂爾 台北演唱會",
+      "link": "/bbs/C_Chat/M.1766117727.A.630",
+      "author": "stan1231",
+      "board": "C_Chat",
+      "publishTime": "2025/12/19 04:15",
+      "imageUrl": "https://cache.pttweb.cc/imgur/f0Htp2P/s/d4c5f891fe8ccd58f46f2d13304774f9"
     }
   ]
 }
