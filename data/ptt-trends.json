@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-19T01:22:42.993Z",
+  "updated": "2025-12-19T02:16:13.859Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -11,6 +11,16 @@
       "author": "MikaHakkinen",
       "board": "Gossiping",
       "publishTime": "2025/12/18 21:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "118",
+      "recommendCount": "125",
+      "title": "[閒聊] 2025秋活問卷調查",
+      "link": "/bbs/KanColle/M.1766032210.A.6C5",
+      "author": "laswish",
+      "board": "KanColle",
+      "publishTime": "2025/12/18 04:30",
       "imageUrl": ""
     },
     {
@@ -64,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "53",
+      "recommendCount": "175",
+      "title": "[情報] 獨家／記憶體暴漲三個月不回頭　一位筆電",
+      "link": "/bbs/PC_Shopping/M.1766031842.A.5AE",
+      "author": "dabochi",
+      "board": "PC_Shopping",
+      "publishTime": "2025/12/18 04:24",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-62",
       "recommendCount": "114",
       "title": "[心得] 台灣的3nm陷阱：生產「全球最貴卻最沒用",
@@ -71,6 +91,16 @@
       "author": "zaiter",
       "board": "Tech_Job",
       "publishTime": "2025/12/18 03:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "84",
+      "recommendCount": "200",
+      "title": "[情報] 截至今日本賽季EPM前十五名",
+      "link": "/bbs/NBA/M.1766042426.A.E8E",
+      "author": "steven183",
+      "board": "NBA",
+      "publishTime": "2025/12/18 07:20",
       "imageUrl": ""
     },
     {
@@ -134,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "29",
-      "recommendCount": "60",
-      "title": "[問卦] 幹！軍武版現在是戒嚴喔？",
-      "link": "/bbs/Gossiping/M.1766022543.A.965",
-      "author": "linbasohigh",
-      "board": "Gossiping",
-      "publishTime": "2025/12/18 01:49",
-      "imageUrl": "https://cache.pttweb.cc/imgur/94hlurI/s/b02ac013d294a7e21058ddf0c19af2c4"
-    },
-    {
       "recommendScore": "36",
       "recommendCount": "45",
       "title": "[情報] Logan Webb確定加入WBC美國隊",
@@ -164,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "40",
+      "recommendCount": "70",
+      "title": "[情報] JCB日本實體10%現金回饋",
+      "link": "/bbs/creditcard/M.1766055779.A.4F0",
+      "author": "jim0529",
+      "board": "creditcard",
+      "publishTime": "2025/12/18 11:02",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-1",
       "recommendCount": "53",
       "title": "[鳴潮] 我會用抽卡紀錄了！",
@@ -171,36 +201,6 @@
       "author": "sakurammsrx",
       "board": "C_Chat",
       "publishTime": "2025/12/18 13:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "30",
-      "recommendCount": "60",
-      "title": "[問卦] 沒人發現愛台灣系網紅變少了嗎？",
-      "link": "/bbs/Gossiping/M.1766081367.A.444",
-      "author": "Dinenger",
-      "board": "Gossiping",
-      "publishTime": "2025/12/18 18:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "19",
-      "recommendCount": "70",
-      "title": "[討論] 賴清德聽到自己要被彈劾時在想什麼？",
-      "link": "/bbs/HatePolitics/M.1766075978.A.5B9",
-      "author": "oscarwu3041",
-      "board": "HatePolitics",
-      "publishTime": "2025/12/18 16:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-1",
-      "recommendCount": "208",
-      "title": "[新聞] 蔣萬安拋倒閣 黃國昌：最好方式是總統國會一起重選",
-      "link": "/bbs/HatePolitics/M.1766074825.A.844",
-      "author": "windom",
-      "board": "HatePolitics",
-      "publishTime": "2025/12/18 16:20",
       "imageUrl": ""
     }
   ]
