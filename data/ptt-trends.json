@@ -1,8 +1,18 @@
 {
-  "updated": "2025-12-19T17:31:14.637Z",
+  "updated": "2025-12-19T17:39:15.925Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "298",
+      "recommendCount": "406",
+      "title": "[新聞] 逃兵仔北車隨機攻擊！57歲男英勇阻攔",
+      "link": "/bbs/Gossiping/M.1766146099.A.5DF",
+      "author": "cl3bp6",
+      "board": "Gossiping",
+      "publishTime": "2025/12/19 12:08",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "218",
       "recommendCount": "459",
@@ -14,13 +24,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "175",
-      "recommendCount": "304",
-      "title": "[情報] 美國11月CPI",
-      "link": "/bbs/Stock/M.1766065072.A.556",
-      "author": "AnneofGreen",
-      "board": "Stock",
-      "publishTime": "2025/12/18 13:37",
+      "recommendScore": "-162",
+      "recommendCount": "290",
+      "title": "[爆卦] 苗博雅FB",
+      "link": "/bbs/Gossiping/M.1766146661.A.16D",
+      "author": "tsaotsaogh",
+      "board": "Gossiping",
+      "publishTime": "2025/12/19 12:17",
       "imageUrl": ""
     },
     {
@@ -104,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "21",
+      "recommendCount": "162",
+      "title": "[問卦] 張文 搶救不治",
+      "link": "/bbs/Gossiping/M.1766146556.A.8B3",
+      "author": "JoeGibsonJr",
+      "board": "Gossiping",
+      "publishTime": "2025/12/19 12:15",
+      "imageUrl": "https://cache.pttweb.cc/imgur/kez3r6f/s/8d68b6ffe7ec33d167846e9c6c34e4be"
+    },
+    {
       "recommendScore": "92",
       "recommendCount": "206",
       "title": "[新聞] 台大等8校「明天起放寒假」！從聖誕到春節　65天史上最長",
@@ -111,6 +131,16 @@
       "author": "SEVENxELEVEN",
       "board": "Gossiping",
       "publishTime": "2025/12/19 00:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "68",
+      "recommendCount": "165",
+      "title": "[問卦] 所以保全到底能幹嘛？",
+      "link": "/bbs/Gossiping/M.1766146163.A.18A",
+      "author": "rick102233",
+      "board": "Gossiping",
+      "publishTime": "2025/12/19 12:09",
       "imageUrl": ""
     },
     {
@@ -131,6 +161,16 @@
       "author": "MELOEX",
       "board": "Baseball",
       "publishTime": "2025/12/19 08:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "4",
+      "recommendCount": "136",
+      "title": "[新聞] 北捷恐攻 賴清德發聲：全國擴大戒備",
+      "link": "/bbs/Gossiping/M.1766146403.A.27C",
+      "author": "DrowningPool",
+      "board": "Gossiping",
+      "publishTime": "2025/12/19 12:13",
       "imageUrl": ""
     },
     {
@@ -161,46 +201,6 @@
       "author": "st002650",
       "board": "Gossiping",
       "publishTime": "2025/12/19 09:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "62",
-      "recommendCount": "165",
-      "title": "[爆卦] 沒想到獨裁進展這麼快",
-      "link": "/bbs/Gossiping/M.1766133037.A.AA7",
-      "author": "moon1991",
-      "board": "Gossiping",
-      "publishTime": "2025/12/19 08:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "46",
-      "recommendCount": "119",
-      "title": "[新聞] 不准唱衰中國房市！小紅書、抖音等遭北京約談　清除破萬條訊息",
-      "link": "/bbs/Stock/M.1766072781.A.FCC",
-      "author": "Su22",
-      "board": "Stock",
-      "publishTime": "2025/12/18 15:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "50",
-      "recommendCount": "130",
-      "title": "[新聞] 5位大法官判憲訴法修法違憲 凌濤：台灣走向「清德宗」帝制",
-      "link": "/bbs/Gossiping/M.1766134982.A.3F6",
-      "author": "ntupeap",
-      "board": "Gossiping",
-      "publishTime": "2025/12/19 09:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-35",
-      "recommendCount": "142",
-      "title": "[新聞] 卓揆談不副署：盼爭議回歸憲政機制",
-      "link": "/bbs/Gossiping/M.1766102723.A.420",
-      "author": "james7923",
-      "board": "Gossiping",
-      "publishTime": "2025/12/19 00:05",
       "imageUrl": ""
     }
   ]
