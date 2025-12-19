@@ -1,18 +1,8 @@
 {
-  "updated": "2025-12-19T05:55:43.174Z",
+  "updated": "2025-12-19T06:08:47.004Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "142",
-      "recommendCount": "290",
-      "title": "[新聞] 投資清一色勸買0050 看膩酸「爛建議」：",
-      "link": "/bbs/Stock/M.1766037842.A.4E3",
-      "author": "a281393",
-      "board": "Stock",
-      "publishTime": "2025/12/18 06:04",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "141",
       "recommendCount": "204",
@@ -201,6 +191,16 @@
       "author": "cool810",
       "board": "MobileComm",
       "publishTime": "2025/12/18 07:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "29",
+      "recommendCount": "126",
+      "title": "[討論] 言論自由已死 馬永成政委:鼓勵統一 都要罰",
+      "link": "/bbs/HatePolitics/M.1766040365.A.3F7",
+      "author": "syearth",
+      "board": "HatePolitics",
+      "publishTime": "2025/12/18 06:46",
       "imageUrl": ""
     }
   ]
