@@ -1,8 +1,18 @@
 {
-  "updated": "2025-12-19T05:11:21.879Z",
+  "updated": "2025-12-19T05:24:04.767Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "142",
+      "recommendCount": "290",
+      "title": "[新聞] 投資清一色勸買0050 看膩酸「爛建議」：",
+      "link": "/bbs/Stock/M.1766037842.A.4E3",
+      "author": "a281393",
+      "board": "Stock",
+      "publishTime": "2025/12/18 06:04",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "141",
       "recommendCount": "204",
@@ -184,24 +194,14 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/7RtCxE4/s/c7b4d734f21b41958d47611de337d0f7"
     },
     {
-      "recommendScore": "29",
-      "recommendCount": "126",
-      "title": "[討論] 言論自由已死 馬永成政委:鼓勵統一 都要罰",
-      "link": "/bbs/HatePolitics/M.1766040365.A.3F7",
-      "author": "syearth",
-      "board": "HatePolitics",
-      "publishTime": "2025/12/18 06:46",
+      "recommendScore": "14",
+      "recommendCount": "97",
+      "title": "[新聞] 數位皮夾上線 用手機「免證件」領超商包裹",
+      "link": "/bbs/MobileComm/M.1766041610.A.63A",
+      "author": "cool810",
+      "board": "MobileComm",
+      "publishTime": "2025/12/18 07:06",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "47",
-      "recommendCount": "53",
-      "title": "[Vtub] AZKi 森森鈴蘭 厄倫蒂爾 台北演唱會",
-      "link": "/bbs/C_Chat/M.1766117727.A.630",
-      "author": "stan1231",
-      "board": "C_Chat",
-      "publishTime": "2025/12/19 04:15",
-      "imageUrl": "https://cache.pttweb.cc/imgur/f0Htp2P/s/d4c5f891fe8ccd58f46f2d13304774f9"
     }
   ]
 }
