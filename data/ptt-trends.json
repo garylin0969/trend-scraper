@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-20T17:17:30.031Z",
+  "updated": "2025-12-20T17:28:18.757Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "44",
+      "recommendCount": "90",
+      "title": "[閒聊] 這次張文事件",
+      "link": "/bbs/BaseballXXXX/M.1766231559.A.EAF",
+      "author": "jordan1227",
+      "board": "BaseballXXXX",
+      "publishTime": "2025/12/20 11:52",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "31",
       "recommendCount": "80",
       "title": "[問卦] 被砍的騎士在路邊自己打電話",
@@ -192,16 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2025/12/19 23:00",
       "imageUrl": "https://cache.pttweb.cc/imgur/IBQ2AJo/s/c891ec3ac4b3947dcbca10ccf5e1753e"
-    },
-    {
-      "recommendScore": "18",
-      "recommendCount": "251",
-      "title": "Re: [討論] 舊憲法要6人才能評議",
-      "link": "/bbs/HatePolitics/M.1766185201.A.8A0",
-      "author": "q123212",
-      "board": "HatePolitics",
-      "publishTime": "2025/12/19 23:00",
-      "imageUrl": ""
     }
   ]
 }
