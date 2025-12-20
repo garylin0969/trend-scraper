@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-20T21:35:11.185Z",
+  "updated": "2025-12-20T21:44:02.622Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "263",
-      "recommendCount": "646",
+      "recommendScore": "292",
+      "recommendCount": "715",
       "title": "我週末想回台灣，我住在以下地址",
       "link": "/bbs/Gossiping/M.1766253933.A.49D",
       "author": "h1357925",
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "60",
+      "recommendCount": "435",
+      "title": "Re: [討論] 舊憲法要6人才能評議",
+      "link": "/bbs/HatePolitics/M.1766185201.A.8A0",
+      "author": "q123212",
+      "board": "HatePolitics",
+      "publishTime": "2025/12/19 23:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "53",
       "recommendCount": "192",
       "title": "[問卦] 這次警察表現大家給幾分?",
@@ -164,6 +174,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "62",
+      "recommendCount": "140",
+      "title": "[問卦] 跳樓前為什麼要脫裝備？",
+      "link": "/bbs/Gossiping/M.1766186342.A.D74",
+      "author": "slovea",
+      "board": "Gossiping",
+      "publishTime": "2025/12/19 23:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "30",
+      "recommendCount": "118",
+      "title": "[新聞] 放話「張文是我兄弟」…不明人士嗆：下個目標高雄車站",
+      "link": "/bbs/Gossiping/M.1766183763.A.63A",
+      "author": "Workforme",
+      "board": "Gossiping",
+      "publishTime": "2025/12/19 22:36",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "72",
       "recommendCount": "109",
       "title": "[問卦] 有比憲法更高位階的東西嗎？0.0",
@@ -172,36 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/20 13:57",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "61",
-      "recommendCount": "108",
-      "title": "[問卦] 為啥pan piano不彈鋼琴了阿??",
-      "link": "/bbs/Gossiping/M.1766220661.A.CFE",
-      "author": "KuoJia",
-      "board": "Gossiping",
-      "publishTime": "2025/12/20 08:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "22",
-      "recommendCount": "158",
-      "title": "[問卦] 法律人：你們了解過張文了嗎？",
-      "link": "/bbs/Gossiping/M.1766228896.A.276",
-      "author": "KAWABONGGA",
-      "board": "Gossiping",
-      "publishTime": "2025/12/20 11:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "8",
-      "recommendCount": "131",
-      "title": "[新聞] 北車隨機攻擊賴清德令建立制度：快打部隊要往「反恐警力訓練」建置",
-      "link": "/bbs/Gossiping/M.1766224924.A.F39",
-      "author": "LoveMakeLove",
-      "board": "Gossiping",
-      "publishTime": "2025/12/20 10:02",
-      "imageUrl": "https://cache.pttweb.cc/imgur/1GhXxx4/s/e1169bd3cdb9d148d425937c9261e416"
     }
   ]
 }
