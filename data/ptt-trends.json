@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-20T11:26:38.380Z",
+  "updated": "2025-12-20T11:34:05.685Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "80",
+      "recommendCount": "325",
+      "title": "[爆卦] 2030世界盃主辦國歧視台灣！連票都不給買",
+      "link": "/bbs/Gossiping/M.1766172362.A.932",
+      "author": "tombknight",
+      "board": "Gossiping",
+      "publishTime": "2025/12/19 19:26",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "126",
       "recommendCount": "230",
       "title": "[問卦] 這個被砍的機車騎士也太衰了吧？",
@@ -141,6 +151,16 @@
       "author": "ashin0709",
       "board": "Gossiping",
       "publishTime": "2025/12/19 14:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "99",
+      "recommendCount": "326",
+      "title": "[問卦] 我找到 鄭捷、張文 的共通點了",
+      "link": "/bbs/Gossiping/M.1766188890.A.7C1",
+      "author": "juyhnmki",
+      "board": "Gossiping",
+      "publishTime": "2025/12/20 00:01",
       "imageUrl": ""
     },
     {
@@ -182,26 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/19 15:15",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "83",
-      "recommendCount": "174",
-      "title": "[新聞] 快訊／隨機殺人第4死！中山站遭砍37歲男送新光醫院不治",
-      "link": "/bbs/Gossiping/M.1766154925.A.A79",
-      "author": "O300",
-      "board": "Gossiping",
-      "publishTime": "2025/12/19 14:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "21",
-      "recommendCount": "162",
-      "title": "[問卦] 張文 搶救不治",
-      "link": "/bbs/Gossiping/M.1766146556.A.8B3",
-      "author": "JoeGibsonJr",
-      "board": "Gossiping",
-      "publishTime": "2025/12/19 12:15",
-      "imageUrl": "https://cache.pttweb.cc/imgur/kez3r6f/s/8d68b6ffe7ec33d167846e9c6c34e4be"
     }
   ]
 }
