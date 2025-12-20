@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-20T17:28:18.757Z",
+  "updated": "2025-12-20T17:36:40.536Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "112",
-      "recommendCount": "196",
-      "title": "[LIVE] 德乙 達姆施塔特98 @帕德博恩 場中",
-      "link": "/bbs/SportLottery/M.1766165498.A.E78",
-      "author": "kidpin",
-      "board": "SportLottery",
-      "publishTime": "2025/12/19 17:31",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "44",
       "recommendCount": "90",
       "title": "[閒聊] 這次張文事件",
@@ -202,6 +192,16 @@
       "board": "C_Chat",
       "publishTime": "2025/12/19 23:00",
       "imageUrl": "https://cache.pttweb.cc/imgur/IBQ2AJo/s/c891ec3ac4b3947dcbca10ccf5e1753e"
+    },
+    {
+      "recommendScore": "18",
+      "recommendCount": "251",
+      "title": "Re: [討論] 舊憲法要6人才能評議",
+      "link": "/bbs/HatePolitics/M.1766185201.A.8A0",
+      "author": "q123212",
+      "board": "HatePolitics",
+      "publishTime": "2025/12/19 23:00",
+      "imageUrl": ""
     }
   ]
 }
