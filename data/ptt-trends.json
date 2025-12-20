@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-20T10:05:51.594Z",
+  "updated": "2025-12-20T10:17:50.377Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "97",
-      "recommendCount": "320",
-      "title": "[討論] 大法官是依照什麼規定排除剩餘三人？",
-      "link": "/bbs/HatePolitics/M.1766139320.A.CAF",
-      "author": "zxcasd848",
-      "board": "HatePolitics",
-      "publishTime": "2025/12/19 10:15",
-      "imageUrl": "https://cache.pttweb.cc/imgur/zFhXVEb/s/ba2a941ed2b787b5d00b72aeaa2343ef"
-    },
-    {
       "recommendScore": "72",
       "recommendCount": "175",
       "title": "[新聞] 北車隨機攻擊釀4死 網友貼文稱「張文我兄弟、下個高雄車站」秒刪文",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/12/19 14:35",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "21",
+      "recommendCount": "162",
+      "title": "[問卦] 張文 搶救不治",
+      "link": "/bbs/Gossiping/M.1766146556.A.8B3",
+      "author": "JoeGibsonJr",
+      "board": "Gossiping",
+      "publishTime": "2025/12/19 12:15",
+      "imageUrl": "https://cache.pttweb.cc/imgur/kez3r6f/s/8d68b6ffe7ec33d167846e9c6c34e4be"
     }
   ]
 }
