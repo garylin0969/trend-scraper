@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-20T04:55:43.671Z",
+  "updated": "2025-12-20T05:06:23.107Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-19",
+      "recommendCount": "220",
+      "title": "[心得] 畢業了",
+      "link": "/bbs/Stock/M.1766125150.A.71B",
+      "author": "pttisshit",
+      "board": "Stock",
+      "publishTime": "2025/12/19 06:19",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "159",
       "recommendCount": "281",
       "title": "[問卦] 憲法法庭：那三位大法官之後都不用來了",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/19 08:56",
       "imageUrl": "https://cache.pttweb.cc/imgur/HwFE7ML/s/d62ffa38324df09e3f566c4a3b0c707a"
-    },
-    {
-      "recommendScore": "72",
-      "recommendCount": "175",
-      "title": "[新聞] 北車隨機攻擊釀4死 網友貼文稱「張文我兄弟、下個高雄車站」秒刪文",
-      "link": "/bbs/Gossiping/M.1766156899.A.FF0",
-      "author": "Homura",
-      "board": "Gossiping",
-      "publishTime": "2025/12/19 15:08",
-      "imageUrl": "https://cache.pttweb.cc/imgur/NATBEDN/s/f48063ef20f11cd154d554f8af39d467"
     }
   ]
 }
