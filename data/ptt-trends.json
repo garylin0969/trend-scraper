@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-20T21:27:31.205Z",
+  "updated": "2025-12-20T21:35:11.185Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-26",
+      "recommendCount": "223",
+      "title": "[新聞] 主筆大法官呂太郎 造法立大功",
+      "link": "/bbs/Gossiping/M.1766184825.A.930",
+      "author": "osalucard",
+      "board": "Gossiping",
+      "publishTime": "2025/12/19 22:53",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "65",
       "recommendCount": "169",
       "title": "[新聞] 政治學者轟：謝銘洋等5位大法官立刻自行請辭",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/20 10:02",
       "imageUrl": "https://cache.pttweb.cc/imgur/1GhXxx4/s/e1169bd3cdb9d148d425937c9261e416"
-    },
-    {
-      "recommendScore": "49",
-      "recommendCount": "168",
-      "title": "[討論] 中華民國憲法學會不認同 昨天憲法判決",
-      "link": "/bbs/HatePolitics/M.1766226063.A.A92",
-      "author": "syearth",
-      "board": "HatePolitics",
-      "publishTime": "2025/12/20 10:21",
-      "imageUrl": ""
     }
   ]
 }
