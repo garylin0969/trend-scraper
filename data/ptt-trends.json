@@ -1,8 +1,18 @@
 {
-  "updated": "2025-12-21T07:53:22.100Z",
+  "updated": "2025-12-21T08:07:09.204Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "448",
+      "recommendCount": "513",
+      "title": "[閒聊] 魚乾妹小埋的真人真事",
+      "link": "/bbs/C_Chat/M.1766242859.A.021",
+      "author": "RabbitHorse",
+      "board": "C_Chat",
+      "publishTime": "2025/12/20 15:00",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "278",
       "recommendCount": "560",
@@ -21,16 +31,6 @@
       "author": "GYao",
       "board": "Gossiping",
       "publishTime": "2025/12/20 09:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "360",
-      "recommendCount": "414",
-      "title": "[閒聊] 魚乾妹小埋的真人真事",
-      "link": "/bbs/C_Chat/M.1766242859.A.021",
-      "author": "RabbitHorse",
-      "board": "C_Chat",
-      "publishTime": "2025/12/20 15:00",
       "imageUrl": ""
     },
     {
@@ -74,6 +74,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "169",
+      "recommendCount": "263",
+      "title": "[分享] 看好台灣隊晉級!? 卡仔: 咱們美國見！",
+      "link": "/bbs/Baseball/M.1766230645.A.332",
+      "author": "Yaung1003",
+      "board": "Baseball",
+      "publishTime": "2025/12/20 11:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "120",
+      "recommendCount": "333",
+      "title": "[情報] Zubac踩到LBJ的腳傷退本場不回歸",
+      "link": "/bbs/NBA/M.1766291298.A.66E",
+      "author": "shaaan",
+      "board": "NBA",
+      "publishTime": "2025/12/21 04:28",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "136",
       "recommendCount": "300",
       "title": "[新聞] 最少6下、最多24鞭！新加坡12/30啟用新",
@@ -92,6 +112,16 @@
       "board": "Gossiping",
       "publishTime": "2025/12/20 20:07",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "922",
+      "recommendCount": "1475",
+      "title": "[討論] [Vtub] Hololive 晚間直播單 (1141220)",
+      "link": "/bbs/C_Chat/M.1766227611.A.A9B",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2025/12/20 10:46",
+      "imageUrl": "https://cache.pttweb.cc/imgur/X7KKnEK/s/0fb4beec0f99fcfd44e4b98abe980ace"
     },
     {
       "recommendScore": "104",
@@ -154,6 +184,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/gKyRZVX/s/bac6651dbe25d0408578961e738594ca"
     },
     {
+      "recommendScore": "95",
+      "recommendCount": "194",
+      "title": "[BOX ] Suns 116:119 Warriors",
+      "link": "/bbs/NBA/M.1766289842.A.FED",
+      "author": "KC90",
+      "board": "NBA",
+      "publishTime": "2025/12/21 04:04",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "97",
       "recommendCount": "161",
       "title": "[新聞] 諷賴清德彈劾案應比照憲法法庭　陳玉珍：不列入反對綠委就達門檻",
@@ -161,46 +201,6 @@
       "author": "q347",
       "board": "Gossiping",
       "publishTime": "2025/12/21 04:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "83",
-      "recommendCount": "255",
-      "title": "[討論] 國民黨立委急奔中國 議會期間那麼急",
-      "link": "/bbs/HatePolitics/M.1766233216.A.CCB",
-      "author": "royaljing",
-      "board": "HatePolitics",
-      "publishTime": "2025/12/20 12:20",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "96",
-      "recommendCount": "131",
-      "title": "[新聞] 台南科技大廠房火災 濃煙竄天警消急救援",
-      "link": "/bbs/Stock/M.1766227350.A.AAB",
-      "author": "F20V",
-      "board": "Stock",
-      "publishTime": "2025/12/20 10:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "78",
-      "recommendCount": "153",
-      "title": "[問卦] 如果張文是闖進健身房，結果會怎麼樣？",
-      "link": "/bbs/Gossiping/M.1766242491.A.8A7",
-      "author": "mangle",
-      "board": "Gossiping",
-      "publishTime": "2025/12/20 14:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "106",
-      "recommendCount": "229",
-      "title": "Re: [新聞] 憲訴法案 尤伯祥：自由民主憲政已面臨存亡危機",
-      "link": "/bbs/Gossiping/M.1766242223.A.5B6",
-      "author": "imbj",
-      "board": "Gossiping",
-      "publishTime": "2025/12/20 14:50",
       "imageUrl": ""
     }
   ]
