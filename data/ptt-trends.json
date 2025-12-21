@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-21T06:50:55.118Z",
+  "updated": "2025-12-21T06:59:11.356Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,6 +124,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "189",
+      "recommendCount": "380",
+      "title": "[LIVE] 英超 切爾西 @ 紐卡索聯  場中",
+      "link": "/bbs/SportLottery/M.1766232462.A.CB9",
+      "author": "ys2266",
+      "board": "SportLottery",
+      "publishTime": "2025/12/20 12:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "140",
+      "recommendCount": "329",
+      "title": "[LIVE] 澳A 墨爾本勝利 @ 墨爾本城   場中",
+      "link": "/bbs/SportLottery/M.1766218505.A.F8B",
+      "author": "ys2266",
+      "board": "SportLottery",
+      "publishTime": "2025/12/20 08:15",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "53",
       "recommendCount": "192",
       "title": "[問卦] 這次警察表現大家給幾分?",
@@ -182,26 +202,6 @@
       "board": "basketballTW",
       "publishTime": "2025/12/20 12:48",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "22",
-      "recommendCount": "158",
-      "title": "[問卦] 法律人：你們了解過張文了嗎？",
-      "link": "/bbs/Gossiping/M.1766228896.A.276",
-      "author": "KAWABONGGA",
-      "board": "Gossiping",
-      "publishTime": "2025/12/20 11:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "8",
-      "recommendCount": "131",
-      "title": "[新聞] 北車隨機攻擊賴清德令建立制度：快打部隊要往「反恐警力訓練」建置",
-      "link": "/bbs/Gossiping/M.1766224924.A.F39",
-      "author": "LoveMakeLove",
-      "board": "Gossiping",
-      "publishTime": "2025/12/20 10:02",
-      "imageUrl": "https://cache.pttweb.cc/imgur/1GhXxx4/s/e1169bd3cdb9d148d425937c9261e416"
     }
   ]
 }
