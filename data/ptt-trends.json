@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-22T05:00:36.766Z",
+  "updated": "2025-12-22T05:12:50.334Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "208",
+      "recommendCount": "654",
+      "title": "[問卦] 蔡彩貞大法官:僅短少一人..所以OK!!!",
+      "link": "/bbs/Gossiping/M.1766376014.A.2A7",
+      "author": "Borges",
+      "board": "Gossiping",
+      "publishTime": "2025/12/22 04:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "256",
       "recommendCount": "518",
       "title": "[新聞] 海鯤艦遭爆未達海測安全標準出海 國外監",
@@ -51,6 +61,26 @@
       "author": "CNS3056",
       "board": "Gossiping",
       "publishTime": "2025/12/21 05:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "367",
+      "recommendCount": "536",
+      "title": "[閒聊] 對岸手遊貪污99%導致滅團事件",
+      "link": "/bbs/C_Chat/M.1766374654.A.0CE",
+      "author": "StellaNe",
+      "board": "C_Chat",
+      "publishTime": "2025/12/22 03:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "437",
+      "recommendCount": "743",
+      "title": "[情報] 村上宗隆去白襪",
+      "link": "/bbs/Baseball/M.1766329665.A.462",
+      "author": "fountainNess",
+      "board": "Baseball",
+      "publishTime": "2025/12/21 15:07",
       "imageUrl": ""
     },
     {
@@ -64,16 +94,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "429",
-      "recommendCount": "732",
-      "title": "[情報] 村上宗隆去白襪",
-      "link": "/bbs/Baseball/M.1766329665.A.462",
-      "author": "fountainNess",
-      "board": "Baseball",
-      "publishTime": "2025/12/21 15:07",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "208",
       "recommendCount": "432",
       "title": "[新聞] 北捷中山砍人／稱張文同夥！中科作業員好玩嘴賤慘了　深夜羈押禁見",
@@ -84,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "245",
-      "recommendCount": "603",
+      "recommendScore": "275",
+      "recommendCount": "682",
       "title": "[新聞] 《大濛》遭PTT電影版封殺！網兩派戰翻：",
       "link": "/bbs/movie/M.1766334419.A.299",
       "author": "aj4rm6",
@@ -101,6 +121,16 @@
       "author": "Doica2445",
       "board": "Gossiping",
       "publishTime": "2025/12/21 11:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "226",
+      "recommendCount": "451",
+      "title": "[好雷] 大濛  當生活就是政治 政治就是生活",
+      "link": "/bbs/movie/M.1766341507.A.144",
+      "author": "tftt",
+      "board": "movie",
+      "publishTime": "2025/12/21 18:25",
       "imageUrl": ""
     },
     {
@@ -171,36 +201,6 @@
       "author": "dragon803",
       "board": "C_Chat",
       "publishTime": "2025/12/21 07:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "99",
-      "recommendCount": "293",
-      "title": "[問卦]孫生承認跟12歲女生做愛 也太扯了吧？",
-      "link": "/bbs/Gossiping/M.1766308150.A.D9D",
-      "author": "a91153456",
-      "board": "Gossiping",
-      "publishTime": "2025/12/21 09:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "213",
-      "recommendCount": "408",
-      "title": "[分享] 統一獅開辦WBC旅行團",
-      "link": "/bbs/Baseball/M.1766311560.A.8E5",
-      "author": "xz4979265",
-      "board": "Baseball",
-      "publishTime": "2025/12/21 10:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-117",
-      "recommendCount": "283",
-      "title": "[情報] LBJ：裁判吹罰毫無一致性，就是這樣",
-      "link": "/bbs/NBA/M.1766300191.A.810",
-      "author": "Wojnarowski",
-      "board": "NBA",
-      "publishTime": "2025/12/21 06:56",
       "imageUrl": ""
     }
   ]
