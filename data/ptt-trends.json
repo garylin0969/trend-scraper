@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-22T16:19:28.319Z",
+  "updated": "2025-12-22T16:35:24.236Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "581",
-      "recommendCount": "853",
+      "recommendScore": "584",
+      "recommendCount": "856",
       "title": "[閒聊] 對岸手遊貪污99%導致滅團事件",
       "link": "/bbs/C_Chat/M.1766374654.A.0CE",
       "author": "StellaNe",
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "-73",
-      "recommendCount": "1216",
+      "recommendCount": "1217",
       "title": "[問卦] 余先生是否真的「阻止」汽油彈攻擊計畫",
       "link": "/bbs/Gossiping/M.1766392932.A.F2B",
       "author": "LOCELOT",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "311",
-      "recommendCount": "471",
+      "recommendScore": "314",
+      "recommendCount": "474",
       "title": "[爆卦] 印度議員用粉末慶祝勝選 造成粉塵爆",
       "link": "/bbs/Gossiping/M.1766393327.A.035",
       "author": "bluehttp",
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "309",
+      "recommendCount": "547",
+      "title": "[新聞] 發票差1號中千萬 台大教授問大法官：該算中獎？",
+      "link": "/bbs/Gossiping/M.1766407601.A.F7F",
+      "author": "chopper594",
+      "board": "Gossiping",
+      "publishTime": "2025/12/22 12:46",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "313",
       "recommendCount": "564",
       "title": "[好雷] 大濛  當生活就是政治 政治就是生活",
@@ -104,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "318",
-      "recommendCount": "791",
-      "title": "[新聞] 《大濛》遭PTT電影版封殺！網兩派戰翻：",
-      "link": "/bbs/movie/M.1766334419.A.299",
-      "author": "aj4rm6",
-      "board": "movie",
-      "publishTime": "2025/12/21 16:26",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "204",
       "recommendCount": "590",
       "title": "[問卦] 沒人發現台灣這幾年完全失序了嗎？",
@@ -121,16 +121,6 @@
       "author": "ihl123456",
       "board": "Gossiping",
       "publishTime": "2025/12/22 01:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "291",
-      "recommendCount": "510",
-      "title": "[新聞] 發票差1號中千萬 台大教授問大法官：該算中獎？",
-      "link": "/bbs/Gossiping/M.1766407601.A.F7F",
-      "author": "chopper594",
-      "board": "Gossiping",
-      "publishTime": "2025/12/22 12:46",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/12/22 13:48",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "283",
+      "recommendCount": "494",
+      "title": "[精日] 漫展禁日本IP 中國日漫迷：恨死高市早苗",
+      "link": "/bbs/C_Chat/M.1766393724.A.004",
+      "author": "Napoleon313",
+      "board": "C_Chat",
+      "publishTime": "2025/12/22 08:55",
+      "imageUrl": "https://cache.pttweb.cc/imgur/EhtoTK4/s/b17e6ac08446ea1bf16582885d4ff136"
     }
   ]
 }
