@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-24T05:47:30.542Z",
+  "updated": "2025-12-24T05:55:19.752Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "162",
+      "recommendCount": "242",
+      "title": "[情報] 6770 力積電 達注意標準 11月eps:-0.06",
+      "link": "/bbs/Stock/M.1766479917.A.B55",
+      "author": "q8977452",
+      "board": "Stock",
+      "publishTime": "2025/12/23 08:51",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "178",
       "recommendCount": "247",
       "title": "Re: [悲報] Vince Zampella於車禍中死亡",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/23 07:59",
       "imageUrl": "https://cache.pttweb.cc/imgur/4qfQPQd/s/aa8c81fbd8a0c135cf46e1b0faa2bc2c"
-    },
-    {
-      "recommendScore": "136",
-      "recommendCount": "275",
-      "title": "[新聞] 「張文為什麼不等跨年」北市男驚悚貼文調查局上門抓人",
-      "link": "/bbs/Gossiping/M.1766486866.A.B15",
-      "author": "anger312143",
-      "board": "Gossiping",
-      "publishTime": "2025/12/23 10:47",
-      "imageUrl": ""
     }
   ]
 }
