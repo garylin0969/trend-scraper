@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-24T17:53:25.870Z",
+  "updated": "2025-12-24T18:08:32.674Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -21,6 +21,16 @@
       "author": "ptt987654321",
       "board": "Gossiping",
       "publishTime": "2025/12/24 03:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "468",
+      "recommendCount": "666",
+      "title": "[地震] 超大",
+      "link": "/bbs/Gossiping/M.1766569667.A.6DC",
+      "author": "rsreason",
+      "board": "Gossiping",
+      "publishTime": "2025/12/24 09:47",
       "imageUrl": ""
     },
     {
@@ -54,6 +64,36 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "274",
+      "recommendCount": "788",
+      "title": "[新聞] 獨／藍白共推「國民帳戶」 助12歲以下孩童從5萬累積第一筆資本",
+      "link": "/bbs/Gossiping/M.1766551994.A.315",
+      "author": "Homura",
+      "board": "Gossiping",
+      "publishTime": "2025/12/24 04:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "288",
+      "recommendCount": "663",
+      "title": "[問卦] 美國17歲少年殺人態度輕蔑  被判了40年",
+      "link": "/bbs/Gossiping/M.1766537504.A.209",
+      "author": "kogsww",
+      "board": "Gossiping",
+      "publishTime": "2025/12/24 00:51",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Vi1RyXr/s/c77a1addd3b684bce29fade42220361a"
+    },
+    {
+      "recommendScore": "189",
+      "recommendCount": "854",
+      "title": "[問卦] 南部人過的很悲慘為啥還能這麼死忠？",
+      "link": "/bbs/Gossiping/M.1766578384.A.D78",
+      "author": "zrct5566",
+      "board": "Gossiping",
+      "publishTime": "2025/12/24 12:13",
+      "imageUrl": "https://cache.pttweb.cc/imgur/YrKoUTm/s/50cb74be4e322e337d8217840b4af910"
+    },
+    {
       "recommendScore": "308",
       "recommendCount": "414",
       "title": "[問卦] 台東地震警報？",
@@ -64,28 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "204",
-      "recommendCount": "579",
-      "title": "[新聞] 獨／藍白共推「國民帳戶」 助12歲以下孩童從5萬累積第一筆資本",
-      "link": "/bbs/Gossiping/M.1766551994.A.315",
-      "author": "Homura",
-      "board": "Gossiping",
-      "publishTime": "2025/12/24 04:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "186",
-      "recommendCount": "813",
-      "title": "[問卦] 南部人過的很悲慘為啥還能這麼死忠？",
-      "link": "/bbs/Gossiping/M.1766578384.A.D78",
-      "author": "zrct5566",
-      "board": "Gossiping",
-      "publishTime": "2025/12/24 12:13",
-      "imageUrl": "https://cache.pttweb.cc/imgur/YrKoUTm/s/50cb74be4e322e337d8217840b4af910"
-    },
-    {
-      "recommendScore": "89",
-      "recommendCount": "408",
+      "recommendScore": "85",
+      "recommendCount": "422",
       "title": "[新聞] 柯文哲曾在法庭內丟水杯爆粗口 檢斥「犯後態度不佳」請求判28年半",
       "link": "/bbs/Gossiping/M.1766574032.A.BCF",
       "author": "Skyblueway",
@@ -104,6 +124,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "121",
+      "recommendCount": "434",
+      "title": "[問卦] 朋友聽信網友離職後 找不到工作...",
+      "link": "/bbs/Gossiping/M.1766536742.A.55A",
+      "author": "ericgary",
+      "board": "Gossiping",
+      "publishTime": "2025/12/24 00:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "234",
+      "recommendCount": "384",
+      "title": "[BOX ] Nuggets 130:131 Mavericks",
+      "link": "/bbs/NBA/M.1766546805.A.2D4",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2025/12/24 03:26",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "850",
       "recommendCount": "1459",
       "title": "[討論] [Vtub] Hololive 晚間直播單 (1141224)",
@@ -114,24 +154,34 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "214",
-      "recommendCount": "352",
-      "title": "[BOX ] Nuggets 130:131 Mavericks",
-      "link": "/bbs/NBA/M.1766546805.A.2D4",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2025/12/24 03:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "151",
-      "recommendCount": "457",
+      "recommendScore": "158",
+      "recommendCount": "478",
       "title": "[問卦] 台灣現在還有言論自由嗎？",
       "link": "/bbs/Gossiping/M.1766534416.A.138",
       "author": "nicolaschen2",
       "board": "Gossiping",
       "publishTime": "2025/12/24 00:00",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "1088",
+      "recommendCount": "1459",
+      "title": "[討論] [Vtub] Hololive 日間直播單 (1141224)",
+      "link": "/bbs/C_Chat/M.1766531564.A.F37",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2025/12/23 23:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "170",
+      "recommendCount": "385",
+      "title": "[閒聊] 燕雲十六聲新時裝對岸炎上中",
+      "link": "/bbs/C_Chat/M.1766539783.A.9B7",
+      "author": "sunlockfire",
+      "board": "C_Chat",
+      "publishTime": "2025/12/24 01:29",
+      "imageUrl": "https://cache.pttweb.cc/imgur/UMiYDB2/s/a47522d595292d3e567490574fee4844"
     },
     {
       "recommendScore": "-78",
@@ -144,63 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "143",
-      "recommendCount": "271",
-      "title": "[問卦] 1.25兆韌性預算,剩9000億是幹麻的？",
-      "link": "/bbs/Gossiping/M.1766531871.A.06E",
-      "author": "yushenglu",
-      "board": "Gossiping",
-      "publishTime": "2025/12/23 23:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "17",
-      "recommendCount": "239",
-      "title": "[新聞] 劉世芳證實了！小橘書發放進度曝光　新版將增編「這兩種」資訊",
-      "link": "/bbs/Gossiping/M.1766572991.A.0E5",
-      "author": "tiger911",
-      "board": "Gossiping",
-      "publishTime": "2025/12/24 10:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "107",
-      "recommendCount": "310",
-      "title": "[心得] 我在2025當了一回少年股神",
-      "link": "/bbs/Stock/M.1766581053.A.92B",
-      "author": "Lyon718",
-      "board": "Stock",
-      "publishTime": "2025/12/24 12:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "130",
-      "recommendCount": "286",
-      "title": "[BOX ] Lakers 108:132 Suns",
-      "link": "/bbs/NBA/M.1766550235.A.737",
+      "recommendScore": "177",
+      "recommendCount": "341",
+      "title": "[新聞] 湖人成西區前六唯一買家！防守懶散超致命專家斷言：賣掉里夫斯",
+      "link": "/bbs/NBA/M.1766564595.A.45A",
       "author": "KC90",
       "board": "NBA",
-      "publishTime": "2025/12/24 04:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "86",
-      "recommendCount": "343",
-      "title": "[問卦] 好像很多人不知道監獄可擺爛不用工作 (?)",
-      "link": "/bbs/Gossiping/M.1766529303.A.B9A",
-      "author": "Sevorlaga",
-      "board": "Gossiping",
-      "publishTime": "2025/12/23 22:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-84",
-      "recommendCount": "221",
-      "title": "[新聞] 苗博雅：台灣現在死刑沒有被廢除　賴清德並沒有不願意執行",
-      "link": "/bbs/Gossiping/M.1766552556.A.302",
-      "author": "tsukiji",
-      "board": "Gossiping",
-      "publishTime": "2025/12/24 05:02",
+      "publishTime": "2025/12/24 08:23",
       "imageUrl": ""
     }
   ]
