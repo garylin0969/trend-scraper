@@ -1,10 +1,10 @@
 {
-  "updated": "2025-12-24T07:23:15.030Z",
+  "updated": "2025-12-24T07:48:56.587Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-12-24T07:23:07.000Z",
+    "lastBuildDate": "2025-12-24T07:48:46.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -34,6 +34,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7039/live/6080fb70-dfd1-11f0-8f37-51273813293d.jpg"
     },
     {
+      "title": "移民爭議導致美籍教宗與美國政府走向決裂？",
+      "description": "美國天主教主教團強調反對「不分青紅皂白的大規模遣返」，祈求「終止去人性化的言論與暴力」。教宗也支持了該聲明。",
+      "link": "https://www.bbc.com/zhongwen/articles/cjwy5vzz4ggo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-24T07:34:22.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cjwy5vzz4ggo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/abe3/live/7d6df570-e027-11f0-997b-df531e67f496.jpg"
+    },
+    {
       "title": "AI指令是否正在損害你的思考能力？",
       "description": "研究發現，如果人們過度依賴AI，他們解決問題的能力可能會下降。",
       "link": "https://www.bbc.com/zhongwen/articles/cjdr4ekxezpo/trad?at_medium=RSS&at_campaign=rss",
@@ -46,7 +54,7 @@
       "description": "1914年聖誕停戰的起源難以確定，它似乎在西線多個地點自發地出現。這並非一個統一的停戰，而是多個局部事件。有些地方僅持續數小時，有些持續到節禮日，甚至在少數地區延續到新年。",
       "link": "https://www.bbc.com/zhongwen/articles/cj9ydg17ezdo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-12-23T08:04:49.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cj9ydg17ezdo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cj9ydg17ezdo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ec0/live/eb21dfb0-dfd1-11f0-8f37-51273813293d.jpg"
     },
     {
@@ -104,14 +112,6 @@
       "pubDate": "2025-12-19T06:26:04.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c5yjv3nym4ro/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7243/live/33a384f0-dbea-11f0-a4a7-abcab1bbd6ad.jpg"
-    },
-    {
-      "title": "澳大利亞曾是控槍典範，但邦迪海灘事件揭露更複雜的現實",
-      "description": "報告顯示，澳大利亞私人擁有的槍枝超過400萬支，幾乎是20年前的兩倍。這相當於每七個澳洲人就擁有一支槍。\n",
-      "link": "https://www.bbc.com/zhongwen/articles/c2k4y9k3323o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-21T09:35:53.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c2k4y9k3323o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5b67/live/0972be10-dcc8-11f0-aae2-2191c0e48a3b.jpg"
     },
     {
       "title": "27歲男子台北車站隨機斬人  至少四死九傷",
@@ -210,20 +210,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0e56/live/f89a4830-dbcb-11f0-bcb7-8fc95bc3292d.jpg"
     },
     {
+      "title": "澳大利亞曾是控槍典範，但邦迪海灘事件揭露更複雜的現實",
+      "description": "報告顯示，澳大利亞私人擁有的槍枝超過400萬支，幾乎是20年前的兩倍。這相當於每七個澳洲人就擁有一支槍。\n",
+      "link": "https://www.bbc.com/zhongwen/articles/c2k4y9k3323o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-21T09:35:53.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c2k4y9k3323o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5b67/live/0972be10-dcc8-11f0-aae2-2191c0e48a3b.jpg"
+    },
+    {
       "title": "芬蘭小姐「拉眼角」照片掀起的種族議題風波",
       "description": "「拉眼角」動作在國際社會中普遍被視為對亞裔族群的刻板印象模仿，事件在當地政界引發迴響，有右翼芬蘭人黨議員在社交平台發布自己拉眼角的照片，再度引發爭議。",
       "link": "https://www.bbc.com/zhongwen/articles/cd0k33ynv2no/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-12-16T09:22:59.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cd0k33ynv2no/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6eec/live/fdb55250-da46-11f0-a8dc-93c15fe68710.jpg"
-    },
-    {
-      "title": "「自己的子宮自己做主」：台灣《人工生殖法》修法擬納入單身女性、女同志",
-      "description": "一旦草案獲立法院三讀通過，台灣將成為華語世界唯一允許單身女性與女同志伴侶合法解凍並使用自己卵子的地區。她們將不用再為了試管嬰兒等人工生殖療程而遠赴第三國，減少被迫出國的經濟負擔、心理壓力和衍生的階級不平等。",
-      "link": "https://www.bbc.com/zhongwen/articles/cj4qqx5wpj1o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-12T05:20:19.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cj4qqx5wpj1o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/957f/live/5efd2240-d718-11f0-aa87-6bb0a76c2b74.jpg"
     },
     {
       "title": "中日外交僵局難解，持續拉鋸是否成為新常態？",
