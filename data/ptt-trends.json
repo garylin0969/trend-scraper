@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-25T09:47:12.749Z",
+  "updated": "2025-12-25T09:54:20.260Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,16 +24,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "468",
-      "recommendCount": "666",
-      "title": "[地震] 超大",
-      "link": "/bbs/Gossiping/M.1766569667.A.6DC",
-      "author": "rsreason",
-      "board": "Gossiping",
-      "publishTime": "2025/12/24 09:47",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "221",
       "recommendCount": "976",
       "title": "[問卦] 南部人過的很悲慘為啥還能這麼死忠？",
@@ -51,16 +41,6 @@
       "author": "bluehttp",
       "board": "Gossiping",
       "publishTime": "2025/12/25 03:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "315",
-      "recommendCount": "425",
-      "title": "[問卦] 台東地震警報？",
-      "link": "/bbs/Gossiping/M.1766569680.A.D02",
-      "author": "zkow",
-      "board": "Gossiping",
-      "publishTime": "2025/12/24 09:48",
       "imageUrl": ""
     },
     {
@@ -202,6 +182,26 @@
       "board": "Gossiping",
       "publishTime": "2025/12/24 15:44",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "165",
+      "recommendCount": "396",
+      "title": "[問卦] 美國治安也太可怕了吧？..",
+      "link": "/bbs/Gossiping/M.1766596823.A.884",
+      "author": "z26456888",
+      "board": "Gossiping",
+      "publishTime": "2025/12/24 17:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "181",
+      "recommendCount": "367",
+      "title": "[閒聊] Foxtron Bria 富士康比亞發表會",
+      "link": "/bbs/car/M.1766631074.A.637",
+      "author": "AirCondition",
+      "board": "car",
+      "publishTime": "2025/12/25 02:51",
+      "imageUrl": "https://cache.pttweb.cc/imgur/i1PU3ZL/s/c09b7c709ceb41f3e33c85b558340d14"
     }
   ]
 }
