@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-26T11:17:58.937Z",
+  "updated": "2025-12-26T11:28:45.314Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,16 +54,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "238",
-      "recommendCount": "269",
-      "title": "[爆卦] 聖誕夜發錢 祝大家幸福",
-      "link": "/bbs/Gossiping/M.1766661625.A.F10",
-      "author": "engineer1",
-      "board": "Gossiping",
-      "publishTime": "2025/12/25 11:20",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-89",
       "recommendCount": "377",
       "title": "[爆卦] 苗博雅：在臺灣，為冤案平反，比殺人貪",
@@ -91,16 +81,6 @@
       "author": "jal99",
       "board": "Gossiping",
       "publishTime": "2025/12/25 11:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "46",
-      "recommendCount": "170",
-      "title": "[情報] LBJ診斷湖人隊的防守與拚勁問題",
-      "link": "/bbs/NBA/M.1766661445.A.F09",
-      "author": "shaaan",
-      "board": "NBA",
-      "publishTime": "2025/12/25 11:17",
       "imageUrl": ""
     },
     {
@@ -201,6 +181,26 @@
       "author": "MeiHS",
       "board": "Gossiping",
       "publishTime": "2025/12/25 16:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "78",
+      "recommendCount": "151",
+      "title": "[討論] 平鎮穀保的實力在甲子園會是前幾名嗎？",
+      "link": "/bbs/Baseball/M.1766666598.A.6F4",
+      "author": "shohei5566",
+      "board": "Baseball",
+      "publishTime": "2025/12/25 12:43",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "86",
+      "recommendCount": "198",
+      "title": "[新聞] 青棒球員基本動作必須打掉重練 震撼職棒教練",
+      "link": "/bbs/Baseball/M.1766665200.A.E8F",
+      "author": "polanco",
+      "board": "Baseball",
+      "publishTime": "2025/12/25 12:20",
       "imageUrl": ""
     }
   ]
