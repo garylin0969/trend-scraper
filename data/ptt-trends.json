@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-26T22:49:45.758Z",
+  "updated": "2025-12-26T22:56:43.103Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -32,6 +32,16 @@
       "board": "Gossiping",
       "publishTime": "2025/12/26 12:43",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "91",
+      "recommendCount": "233",
+      "title": "[花邊] 老詹10秒沒回防 但火箭還是沒打進",
+      "link": "/bbs/NBA/M.1766725886.A.F3A",
+      "author": "OsmanGo",
+      "board": "NBA",
+      "publishTime": "2025/12/26 05:11",
+      "imageUrl": "https://cache.pttweb.cc/imgur/kNxceEY/s/e27dcdd1296a33f720666648286e4094"
     },
     {
       "recommendScore": "146",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/26 02:08",
       "imageUrl": "https://cache.pttweb.cc/imgur/BxrRzcj/s/c0d65303192293316ebbf7201250dc8f"
-    },
-    {
-      "recommendScore": "33",
-      "recommendCount": "110",
-      "title": "[問卦] 半導體崩毀後的台灣會變怎麼樣？",
-      "link": "/bbs/Gossiping/M.1766759562.A.D6F",
-      "author": "shala",
-      "board": "Gossiping",
-      "publishTime": "2025/12/26 14:32",
-      "imageUrl": ""
     }
   ]
 }
