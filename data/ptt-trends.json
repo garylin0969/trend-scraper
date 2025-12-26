@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-26T22:31:16.686Z",
+  "updated": "2025-12-26T22:41:26.226Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-6",
-      "recommendCount": "104",
-      "title": "[新聞] 超越蔡英文2024得票數 !「彈劾賴清德」連署破817萬 他讚 : 成本低、造成困擾大",
-      "link": "/bbs/Gossiping/M.1766702197.A.E2A",
-      "author": "mongi",
-      "board": "Gossiping",
-      "publishTime": "2025/12/25 22:36",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "42",
       "recommendCount": "76",
       "title": "[新聞] 「小英男孩」鄭亦麟認收賄198萬特權喬電300萬交保",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/12/26 02:08",
       "imageUrl": "https://cache.pttweb.cc/imgur/BxrRzcj/s/c0d65303192293316ebbf7201250dc8f"
+    },
+    {
+      "recommendScore": "33",
+      "recommendCount": "110",
+      "title": "[問卦] 半導體崩毀後的台灣會變怎麼樣？",
+      "link": "/bbs/Gossiping/M.1766759562.A.D6F",
+      "author": "shala",
+      "board": "Gossiping",
+      "publishTime": "2025/12/26 14:32",
+      "imageUrl": ""
     }
   ]
 }
