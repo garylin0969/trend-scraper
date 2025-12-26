@@ -1,22 +1,14 @@
 {
-  "updated": "2025-12-26T04:53:29.848Z",
+  "updated": "2025-12-26T05:23:07.815Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-12-26T04:53:12.000Z",
+    "lastBuildDate": "2025-12-26T05:23:00.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
-    {
-      "title": "特朗普准軍事行動封鎖委內瑞拉清理拉美後院  是否危及中國石油供應？",
-      "description": "美國對委內瑞拉的施壓，背後預示美中地緣競爭的深化。短期內，封鎖已推升油價 3%，全球能源市場警鈴大作。對委內瑞拉來說，經濟恐雪上加霜。",
-      "link": "https://www.bbc.com/zhongwen/articles/cy47zx35lx1o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-25T07:39:15.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cy47zx35lx1o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1b78/live/6b6e0670-e163-11f0-9d7c-31c5e13a7db0.jpg"
-    },
     {
       "title": "南京博物院爆倒賣文物疑案：一文匯總事態發展",
       "description": "中國國家文物局宣佈調查南京博物院文物懷疑被當成贗品倒賣一事，明代名畫《江南春》出現在拍賣場所是事件曝光的導火索。",
@@ -24,6 +16,14 @@
       "pubDate": "2025-12-26T03:06:47.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn81wg1jw66o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bdb1/live/b608cf50-e1bb-11f0-a8dc-93c15fe68710.jpg"
+    },
+    {
+      "title": "特朗普准軍事行動封鎖委內瑞拉清理拉美後院  是否危及中國石油供應？",
+      "description": "美國對委內瑞拉的施壓，背後預示美中地緣競爭的深化。短期內，封鎖已推升油價 3%，全球能源市場警鈴大作。對委內瑞拉來說，經濟恐雪上加霜。",
+      "link": "https://www.bbc.com/zhongwen/articles/cy47zx35lx1o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-25T07:39:15.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cy47zx35lx1o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1b78/live/6b6e0670-e163-11f0-9d7c-31c5e13a7db0.jpg"
     },
     {
       "title": "美軍對尼日利亞的伊斯蘭國組織發動打擊",
