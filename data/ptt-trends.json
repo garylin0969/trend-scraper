@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-26T17:39:14.408Z",
+  "updated": "2025-12-26T17:46:23.216Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "56",
-      "recommendCount": "69",
-      "title": "[公告] 多人水桶",
-      "link": "/bbs/Marginalman/M.1766684458.A.E1D",
-      "author": "XROCK",
-      "board": "Marginalman",
-      "publishTime": "2025/12/25 17:40",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "42",
       "recommendCount": "76",
       "title": "[新聞] 「小英男孩」鄭亦麟認收賄198萬特權喬電300萬交保",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/12/26 02:08",
       "imageUrl": "https://cache.pttweb.cc/imgur/BxrRzcj/s/c0d65303192293316ebbf7201250dc8f"
+    },
+    {
+      "recommendScore": "39",
+      "recommendCount": "93",
+      "title": "[問卦] 9年了,少子化辦公室預算花去哪？",
+      "link": "/bbs/Gossiping/M.1766686076.A.22B",
+      "author": "yushenglu",
+      "board": "Gossiping",
+      "publishTime": "2025/12/25 18:07",
+      "imageUrl": ""
     }
   ]
 }
