@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-26T12:24:27.374Z",
+  "updated": "2025-12-26T12:47:13.255Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "109",
-      "recommendCount": "119",
-      "title": "[鳴潮] 我哭了",
-      "link": "/bbs/C_Chat/M.1766665792.A.1DD",
-      "author": "hoshitani",
-      "board": "C_Chat",
-      "publishTime": "2025/12/25 12:29",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "59",
       "recommendCount": "128",
       "title": "[新聞] 今年股民平均大賺140萬",
@@ -164,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "78",
-      "recommendCount": "151",
-      "title": "[討論] 平鎮穀保的實力在甲子園會是前幾名嗎？",
-      "link": "/bbs/Baseball/M.1766666598.A.6F4",
-      "author": "shohei5566",
-      "board": "Baseball",
-      "publishTime": "2025/12/25 12:43",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "8",
       "recommendCount": "115",
       "title": "[新聞]2026民進黨縣市長選戰 雞排妹公開夢幻組合",
@@ -202,6 +182,26 @@
       "board": "Marginalman",
       "publishTime": "2025/12/25 13:01",
       "imageUrl": "https://cache.pttweb.cc/imgur/o36okjn/s/674930889ffcca77d6368b68964aa4ec"
+    },
+    {
+      "recommendScore": "76",
+      "recommendCount": "89",
+      "title": "[論文] 本渡楓聲優十周年 角色淺談 (上篇)",
+      "link": "/bbs/C_Chat/M.1766683603.A.324",
+      "author": "zax8419",
+      "board": "C_Chat",
+      "publishTime": "2025/12/25 17:26",
+      "imageUrl": "https://cache.pttweb.cc/imgur/X180Ha7/s/5174e81287ff3da969e4f8917b399c19"
+    },
+    {
+      "recommendScore": "48",
+      "recommendCount": "101",
+      "title": "[問卦] 你老了，想要金錢或子女陪伴，二選一？",
+      "link": "/bbs/Gossiping/M.1766674584.A.179",
+      "author": "saufu08",
+      "board": "Gossiping",
+      "publishTime": "2025/12/25 14:56",
+      "imageUrl": ""
     }
   ]
 }
