@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-26T23:46:42.834Z",
+  "updated": "2025-12-26T23:53:46.968Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -32,6 +32,16 @@
       "board": "NBA",
       "publishTime": "2025/12/26 05:11",
       "imageUrl": "https://cache.pttweb.cc/imgur/kNxceEY/s/e27dcdd1296a33f720666648286e4094"
+    },
+    {
+      "recommendScore": "129",
+      "recommendCount": "204",
+      "title": "[情報] AD腹股溝痙攣傷退，終場未回歸",
+      "link": "/bbs/NBA/M.1766711368.A.42E",
+      "author": "bengowa",
+      "board": "NBA",
+      "publishTime": "2025/12/26 01:09",
+      "imageUrl": ""
     },
     {
       "recommendScore": "146",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/26 01:59",
       "imageUrl": "https://cache.pttweb.cc/imgur/AEnYR2r/s/d74d84be456d9d76d09aa19aeaf8a23c"
-    },
-    {
-      "recommendScore": "14",
-      "recommendCount": "72",
-      "title": "[閒聊] T1 COO：續約打野是因為他對T1的熱愛",
-      "link": "/bbs/LoL/M.1766755411.A.3A4",
-      "author": "mike37",
-      "board": "LoL",
-      "publishTime": "2025/12/26 13:23",
-      "imageUrl": ""
     }
   ]
 }
