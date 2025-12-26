@@ -1,14 +1,19 @@
 {
-  "updated": "2025-12-26T22:09:15.396Z",
+  "updated": "2025-12-26T22:39:57.991Z",
   "trends": [
     {
+      "googleTrend": "天氣",
+      "searchVolume": "5,000+",
+      "started": "10 分鐘前"
+    },
+    {
       "googleTrend": "แมนยู พบ นิวคาสเซิล",
-      "searchVolume": "200+",
-      "started": "1 小時前"
+      "searchVolume": "500+",
+      "started": "2 小時前"
     },
     {
       "googleTrend": "man utd đấu với newcastle",
-      "searchVolume": "200+",
+      "searchVolume": "500+",
       "started": "1 小時前"
     },
     {
@@ -19,17 +24,22 @@
     {
       "googleTrend": "曼聯 對 紐卡索聯",
       "searchVolume": "200+",
-      "started": "1 小時前"
+      "started": "2 小時前"
     },
     {
-      "googleTrend": "氣象預報",
-      "searchVolume": "100+",
+      "googleTrend": "weather",
+      "searchVolume": "200+",
       "started": "10 分鐘前"
     },
     {
       "googleTrend": "英超",
-      "searchVolume": "100+",
+      "searchVolume": "200+",
       "started": "1 小時前"
+    },
+    {
+      "googleTrend": "黃金",
+      "searchVolume": "100+",
+      "started": "10 分鐘前"
     }
   ]
 }
