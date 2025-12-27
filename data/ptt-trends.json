@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-27T12:08:59.251Z",
+  "updated": "2025-12-27T12:22:45.210Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "185",
+      "recommendCount": "737",
+      "title": "[新聞] 2秒衝到時速700km　陸磁懸浮實驗破新紀錄",
+      "link": "/bbs/Gossiping/M.1766792857.A.5FA",
+      "author": "toro736",
+      "board": "Gossiping",
+      "publishTime": "2025/12/26 23:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "196",
+      "recommendCount": "388",
+      "title": "[問卦] 國三生：以後去當詐騙集團賺比較多！怎回",
+      "link": "/bbs/Gossiping/M.1766753007.A.507",
+      "author": "gn505250",
+      "board": "Gossiping",
+      "publishTime": "2025/12/26 12:43",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "231",
       "recommendCount": "454",
       "title": "[情報] 記者：LBJ今年防守端不夠投入(附片段)",
@@ -31,6 +51,16 @@
       "author": "KC90",
       "board": "NBA",
       "publishTime": "2025/12/26 13:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "212",
+      "recommendCount": "571",
+      "title": "[問卦] 以前ㄧ張CD賣3、4佰塊真的有人買？？？",
+      "link": "/bbs/Gossiping/M.1766761478.A.8EA",
+      "author": "winzip390",
+      "board": "Gossiping",
+      "publishTime": "2025/12/26 15:04",
       "imageUrl": ""
     },
     {
@@ -134,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "133",
-      "recommendCount": "260",
-      "title": "[問卦] 國三生：以後去當詐騙集團賺比較多！怎回",
-      "link": "/bbs/Gossiping/M.1766753007.A.507",
-      "author": "gn505250",
-      "board": "Gossiping",
-      "publishTime": "2025/12/26 12:43",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-93",
       "recommendCount": "289",
       "title": "[新聞] 賴清德轟藍白 擁抱習近平卻彈劾民選總統",
@@ -164,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "1018",
+      "recommendCount": "1413",
+      "title": "[討論] [Vtub] Hololive 日間直播單 (1141227)",
+      "link": "/bbs/C_Chat/M.1766790002.A.A2E",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2025/12/26 23:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "156",
       "recommendCount": "301",
       "title": "[閒聊] 荒木哲郎：罪惡王冠的評價讓我很不甘心",
@@ -171,36 +201,6 @@
       "author": "victor87710",
       "board": "C_Chat",
       "publishTime": "2025/12/26 12:59",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "106",
-      "recommendCount": "221",
-      "title": "[新聞] 罵政府帳號恐直接消失？粉專揭社維法修法「恐怖之處」：網路要戒嚴了",
-      "link": "/bbs/Gossiping/M.1766812672.A.569",
-      "author": "chekove",
-      "board": "Gossiping",
-      "publishTime": "2025/12/27 05:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "89",
-      "recommendCount": "359",
-      "title": "[新聞] NBA》球評稱湖人問題在Doncic、LeBron不做困難的事",
-      "link": "/bbs/NBA/M.1766806039.A.D6D",
-      "author": "access4096",
-      "board": "NBA",
-      "publishTime": "2025/12/27 03:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "90",
-      "recommendCount": "230",
-      "title": "[新聞] 惡狼關12年學不乖！闖宿舍毆打性侵女同事 再被判10年",
-      "link": "/bbs/Gossiping/M.1766758593.A.737",
-      "author": "bluehttp",
-      "board": "Gossiping",
-      "publishTime": "2025/12/26 14:16",
       "imageUrl": ""
     }
   ]
