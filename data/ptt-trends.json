@@ -1,10 +1,10 @@
 {
-  "updated": "2025-12-27T10:17:53.002Z",
+  "updated": "2025-12-27T10:31:37.887Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "587",
+      "recommendScore": "578",
       "recommendCount": "1486",
       "title": "[新聞] 快訊／大逆轉！賴瑞隆與女童家長共同聲明「全案非霸凌」",
       "link": "/bbs/Gossiping/M.1766810370.A.852",
@@ -14,33 +14,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "363",
-      "recommendCount": "1479",
-      "title": "[新聞] 夫護孕妻「勒死小偷」　家屬討700萬鉅款！法官判：防衛過當",
-      "link": "/bbs/Gossiping/M.1766744582.A.752",
-      "author": "LJer",
-      "board": "Gossiping",
-      "publishTime": "2025/12/26 10:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "206",
-      "recommendCount": "409",
-      "title": "[新聞] 賴清德稱總預算須12／31前審議 台大教授：多出一條憲法？",
-      "link": "/bbs/Gossiping/M.1766749960.A.3DB",
-      "author": "nightwing",
-      "board": "Gossiping",
-      "publishTime": "2025/12/26 11:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "200",
-      "recommendCount": "406",
+      "recommendScore": "241",
+      "recommendCount": "476",
       "title": "[問卦] 被霸凌的女童家長為何改變如此之大",
       "link": "/bbs/Gossiping/M.1766817113.A.77C",
       "author": "enlong777",
       "board": "Gossiping",
       "publishTime": "2025/12/27 06:31",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "207",
+      "recommendCount": "410",
+      "title": "[新聞] 賴清德稱總預算須12／31前審議 台大教授：多出一條憲法？",
+      "link": "/bbs/Gossiping/M.1766749960.A.3DB",
+      "author": "nightwing",
+      "board": "Gossiping",
+      "publishTime": "2025/12/26 11:52",
       "imageUrl": ""
     },
     {
@@ -54,8 +44,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "149",
-      "recommendCount": "247",
+      "recommendScore": "225",
+      "recommendCount": "232",
+      "title": "[閒聊] (發錢)抽到TWICE新國立和東神日產該如何慶祝",
+      "link": "/bbs/KoreaStar/M.1766809801.A.17E",
+      "author": "st40182",
+      "board": "KoreaStar",
+      "publishTime": "2025/12/27 04:30",
+      "imageUrl": "https://cache.pttweb.cc/imgur/2eqmrXn/s/cd49d79f5cb8ef641ca775c54fb0b793"
+    },
+    {
+      "recommendScore": "150",
+      "recommendCount": "248",
       "title": "[問卦] 一人說一件 你堅持了3年以上的事情？",
       "link": "/bbs/Gossiping/M.1766749123.A.ADF",
       "author": "black1x2y3z",
@@ -74,16 +74,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "167",
-      "recommendCount": "249",
-      "title": "[新聞] 罵學者陳時奮「不要臉的髒東西」 黃光芹民事二審改判免賠5萬",
-      "link": "/bbs/Gossiping/M.1766744979.A.48D",
-      "author": "emperor",
-      "board": "Gossiping",
-      "publishTime": "2025/12/26 10:29",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "989",
       "recommendCount": "1476",
       "title": "[討論] [Vtub] Hololive 晚間直播單 (1141226)",
@@ -92,16 +82,6 @@
       "board": "C_Chat",
       "publishTime": "2025/12/26 10:38",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "203",
-      "recommendCount": "208",
-      "title": "[閒聊] (發錢)抽到TWICE新國立和東神日產該如何慶祝",
-      "link": "/bbs/KoreaStar/M.1766809801.A.17E",
-      "author": "st40182",
-      "board": "KoreaStar",
-      "publishTime": "2025/12/27 04:30",
-      "imageUrl": "https://cache.pttweb.cc/imgur/2eqmrXn/s/cd49d79f5cb8ef641ca775c54fb0b793"
     },
     {
       "recommendScore": "133",
@@ -124,6 +104,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "121",
+      "recommendCount": "267",
+      "title": "[問卦] 錢給的夠多，強姦霸凌是不是都會消失？",
+      "link": "/bbs/Gossiping/M.1766815028.A.879",
+      "author": "nissan168",
+      "board": "Gossiping",
+      "publishTime": "2025/12/27 05:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "117",
+      "recommendCount": "266",
+      "title": "[新聞] 韓入境卡「把台灣列中國」堅持不改 傳北京擬鬆綁1禁令獎勵",
+      "link": "/bbs/Gossiping/M.1766823738.A.DF3",
+      "author": "googolplex",
+      "board": "Gossiping",
+      "publishTime": "2025/12/27 08:22",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "156",
       "recommendCount": "301",
       "title": "[閒聊] 荒木哲郎：罪惡王冠的評價讓我很不甘心",
@@ -134,23 +134,53 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "89",
-      "recommendCount": "227",
+      "recommendScore": "57",
+      "recommendCount": "280",
+      "title": "[問卦]中共打穿天山隧道 臺灣連國道六號都不行？",
+      "link": "/bbs/Gossiping/M.1766815830.A.E9A",
+      "author": "NARUTO",
+      "board": "Gossiping",
+      "publishTime": "2025/12/27 06:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "49",
+      "recommendCount": "256",
+      "title": "[新聞] 猛！綠議員林秉宥飛緬甸開箱電信詐騙園區　揭「中國掠奪世界終極方案」",
+      "link": "/bbs/Gossiping/M.1766820754.A.D1F",
+      "author": "qq204",
+      "board": "Gossiping",
+      "publishTime": "2025/12/27 07:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "80",
+      "recommendCount": "202",
+      "title": "[新聞] 定調2童踢足球衝突「非霸凌」　賴瑞隆甩風波車掃衝刺選戰",
+      "link": "/bbs/Gossiping/M.1766821553.A.19D",
+      "author": "SEVENxELEVEN",
+      "board": "Gossiping",
+      "publishTime": "2025/12/27 07:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "104",
+      "recommendCount": "219",
+      "title": "[新聞] 罵政府帳號恐直接消失？粉專揭社維法修法「恐怖之處」：網路要戒嚴了",
+      "link": "/bbs/Gossiping/M.1766812672.A.569",
+      "author": "chekove",
+      "board": "Gossiping",
+      "publishTime": "2025/12/27 05:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "91",
+      "recommendCount": "229",
       "title": "[新聞] 惡狼關12年學不乖！闖宿舍毆打性侵女同事 再被判10年",
       "link": "/bbs/Gossiping/M.1766758593.A.737",
       "author": "bluehttp",
       "board": "Gossiping",
       "publishTime": "2025/12/26 14:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "109",
-      "recommendCount": "234",
-      "title": "[問卦] 錢給的夠多，強姦霸凌是不是都會消失？",
-      "link": "/bbs/Gossiping/M.1766815028.A.879",
-      "author": "nissan168",
-      "board": "Gossiping",
-      "publishTime": "2025/12/27 05:57",
       "imageUrl": ""
     },
     {
@@ -164,43 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "54",
-      "recommendCount": "234",
-      "title": "[問卦]中共打穿天山隧道 臺灣連國道六號都不行？",
-      "link": "/bbs/Gossiping/M.1766815830.A.E9A",
-      "author": "NARUTO",
-      "board": "Gossiping",
-      "publishTime": "2025/12/27 06:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "88",
-      "recommendCount": "195",
-      "title": "[新聞] 罵政府帳號恐直接消失？粉專揭社維法修法「恐怖之處」：網路要戒嚴了",
-      "link": "/bbs/Gossiping/M.1766812672.A.569",
-      "author": "chekove",
-      "board": "Gossiping",
-      "publishTime": "2025/12/27 05:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "132",
-      "recommendCount": "301",
+      "recommendScore": "136",
+      "recommendCount": "306",
       "title": "[花邊] 編輯：湖人問題多到管理層可能會拖到夏天",
       "link": "/bbs/NBA/M.1766810309.A.BA7",
       "author": "KC90",
       "board": "NBA",
       "publishTime": "2025/12/27 04:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "45",
-      "recommendCount": "211",
-      "title": "[新聞] 猛！綠議員林秉宥飛緬甸開箱電信詐騙園區　揭「中國掠奪世界終極方案」",
-      "link": "/bbs/Gossiping/M.1766820754.A.D1F",
-      "author": "qq204",
-      "board": "Gossiping",
-      "publishTime": "2025/12/27 07:32",
       "imageUrl": ""
     }
   ]
