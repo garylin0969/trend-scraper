@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-26T23:53:46.968Z",
+  "updated": "2025-12-27T00:24:30.945Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -12,6 +12,16 @@
       "board": "Gossiping",
       "publishTime": "2025/12/26 06:32",
       "imageUrl": "https://cache.pttweb.cc/imgur/rdJMmDf/s/d4bd01933c174ec519ed13e5465afdf8"
+    },
+    {
+      "recommendScore": "250",
+      "recommendCount": "449",
+      "title": "[BOX ] Rockets 119:96 Lakers",
+      "link": "/bbs/NBA/M.1766719688.A.122",
+      "author": "KC90",
+      "board": "NBA",
+      "publishTime": "2025/12/26 03:28",
+      "imageUrl": ""
     },
     {
       "recommendScore": "119",
@@ -74,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "72",
+      "recommendCount": "211",
+      "title": "[討論] 假設都在健康巔峰，徐若熙 vs 林恩宇誰",
+      "link": "/bbs/Baseball/M.1766749910.A.93B",
+      "author": "MLBgu",
+      "board": "Baseball",
+      "publishTime": "2025/12/26 11:51",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "169",
       "recommendCount": "1017",
       "title": "[新聞] 服務業移工30年首度解禁 台灣進入大搶工",
@@ -84,14 +104,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "68",
-      "recommendCount": "146",
-      "title": "[BOX ] Rockets 119:96 Lakers",
-      "link": "/bbs/NBA/M.1766719688.A.122",
-      "author": "KC90",
-      "board": "NBA",
-      "publishTime": "2025/12/26 03:28",
-      "imageUrl": ""
+      "recommendScore": "127",
+      "recommendCount": "281",
+      "title": "[LIVE] NBA 休士頓火箭 @ 洛杉磯湖人 場中",
+      "link": "/bbs/SportLottery/M.1766709020.A.008",
+      "author": "jerryyuan",
+      "board": "SportLottery",
+      "publishTime": "2025/12/26 00:30",
+      "imageUrl": "https://cache.pttweb.cc/imgur/u79UEOi/s/c0119f88abf0bd98a8c8e33981aad273"
     },
     {
       "recommendScore": "242",
@@ -182,26 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/26 02:08",
       "imageUrl": "https://cache.pttweb.cc/imgur/BxrRzcj/s/c0d65303192293316ebbf7201250dc8f"
-    },
-    {
-      "recommendScore": "33",
-      "recommendCount": "110",
-      "title": "[問卦] 半導體崩毀後的台灣會變怎麼樣？",
-      "link": "/bbs/Gossiping/M.1766759562.A.D6F",
-      "author": "shala",
-      "board": "Gossiping",
-      "publishTime": "2025/12/26 14:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "30",
-      "recommendCount": "87",
-      "title": "[問卦] 為何生育率2016突然崩盤",
-      "link": "/bbs/Gossiping/M.1766714362.A.E4C",
-      "author": "yamakazi",
-      "board": "Gossiping",
-      "publishTime": "2025/12/26 01:59",
-      "imageUrl": "https://cache.pttweb.cc/imgur/AEnYR2r/s/d74d84be456d9d76d09aa19aeaf8a23c"
     }
   ]
 }
