@@ -1,8 +1,18 @@
 {
-  "updated": "2025-12-27T08:20:27.556Z",
+  "updated": "2025-12-27T08:36:19.935Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "369",
+      "recommendCount": "1478",
+      "title": "[新聞] 夫護孕妻「勒死小偷」　家屬討700萬鉅款！法官判：防衛過當",
+      "link": "/bbs/Gossiping/M.1766744582.A.752",
+      "author": "LJer",
+      "board": "Gossiping",
+      "publishTime": "2025/12/26 10:23",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "235",
       "recommendCount": "394",
@@ -11,6 +21,16 @@
       "author": "jackwelch",
       "board": "Baseball",
       "publishTime": "2025/12/26 09:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "989",
+      "recommendCount": "1476",
+      "title": "[討論] [Vtub] Hololive 晚間直播單 (1141226)",
+      "link": "/bbs/C_Chat/M.1766745501.A.8CD",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2025/12/26 10:38",
       "imageUrl": ""
     },
     {
@@ -134,6 +154,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/eiTeCM1/s/0e6c8f6ec087c0b12b7bbd19b90ff13b"
     },
     {
+      "recommendScore": "67",
+      "recommendCount": "138",
+      "title": "[問卦] 張文一人砍醒整個台灣維安喔??",
+      "link": "/bbs/Gossiping/M.1766747336.A.154",
+      "author": "ruby00514",
+      "board": "Gossiping",
+      "publishTime": "2025/12/26 11:08",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "60",
       "recommendCount": "125",
       "title": "[新聞] 關稅談判大致達成一定共識 經貿辦：正待美方安排總結會議",
@@ -171,36 +201,6 @@
       "author": "crazypitch",
       "board": "car",
       "publishTime": "2025/12/26 10:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "242",
-      "recommendCount": "554",
-      "title": "[LIVE] 韓籃 昌原LG獵鷹 @ KCC宙斯 場中",
-      "link": "/bbs/SportLottery/M.1766741453.A.8EA",
-      "author": "shunhahahaha",
-      "board": "SportLottery",
-      "publishTime": "2025/12/26 09:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "164",
-      "recommendCount": "302",
-      "title": "[LIVE] 英冠 德比郡@伯明翰城（場中）",
-      "link": "/bbs/SportLottery/M.1766751917.A.3AC",
-      "author": "hanhan1104",
-      "board": "SportLottery",
-      "publishTime": "2025/12/26 12:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "65",
-      "recommendCount": "80",
-      "title": "[公告] 2025 LoL板年度一字 提名串",
-      "link": "/bbs/LoL/M.1766765198.A.BEE",
-      "author": "rainnawind",
-      "board": "LoL",
-      "publishTime": "2025/12/26 16:06",
       "imageUrl": ""
     }
   ]
