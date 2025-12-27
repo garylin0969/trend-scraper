@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-27T08:56:46.287Z",
+  "updated": "2025-12-27T09:06:50.816Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -92,16 +92,6 @@
       "board": "KoreaStar",
       "publishTime": "2025/12/27 04:30",
       "imageUrl": "https://cache.pttweb.cc/imgur/2eqmrXn/s/cd49d79f5cb8ef641ca775c54fb0b793"
-    },
-    {
-      "recommendScore": "126",
-      "recommendCount": "225",
-      "title": "[情報] 台股總市值突破 100兆",
-      "link": "/bbs/Stock/M.1766739425.A.2C3",
-      "author": "winall",
-      "board": "Stock",
-      "publishTime": "2025/12/26 08:57",
-      "imageUrl": ""
     },
     {
       "recommendScore": "120",
@@ -201,6 +191,16 @@
       "author": "humbler",
       "board": "Stock",
       "publishTime": "2025/12/26 13:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "13",
+      "recommendCount": "141",
+      "title": "[新聞] 藍白彈劾賴清德都假的！王義川怒轟「硬要亂」：這人最高興啦",
+      "link": "/bbs/Gossiping/M.1766740933.A.73E",
+      "author": "WuSam",
+      "board": "Gossiping",
+      "publishTime": "2025/12/26 09:22",
       "imageUrl": ""
     }
   ]
