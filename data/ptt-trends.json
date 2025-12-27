@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-27T05:48:17.261Z",
+  "updated": "2025-12-27T05:54:53.320Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -61,6 +61,16 @@
       "author": "MLBgu",
       "board": "Baseball",
       "publishTime": "2025/12/26 11:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "13",
+      "recommendCount": "141",
+      "title": "[新聞] 藍白彈劾賴清德都假的！王義川怒轟「硬要亂」：這人最高興啦",
+      "link": "/bbs/Gossiping/M.1766740933.A.73E",
+      "author": "WuSam",
+      "board": "Gossiping",
+      "publishTime": "2025/12/26 09:22",
       "imageUrl": ""
     },
     {
@@ -184,24 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "41",
-      "recommendCount": "63",
-      "title": "[情報] 50分大三元紀錄 Jokic第2次",
-      "link": "/bbs/NBA/M.1766735935.A.C12",
-      "author": "kaga1991",
-      "board": "NBA",
-      "publishTime": "2025/12/26 07:58",
+      "recommendScore": "38",
+      "recommendCount": "81",
+      "title": "[情報] 00929/00943 指數定期審核結果",
+      "link": "/bbs/Stock/M.1766740464.A.70C",
+      "author": "q8977452",
+      "board": "Stock",
+      "publishTime": "2025/12/26 09:14",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "47",
-      "recommendCount": "66",
-      "title": "[閒聊] 咒術續作 17話 雷 出大事了",
-      "link": "/bbs/C_Chat/M.1766756839.A.589",
-      "author": "ga839429",
-      "board": "C_Chat",
-      "publishTime": "2025/12/26 13:47",
-      "imageUrl": "https://cache.pttweb.cc/imgur/QjIBBXD/s/381a1e1bd639b385e1b01f337f7b8f32"
     }
   ]
 }
