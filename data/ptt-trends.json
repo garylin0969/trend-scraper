@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-27T04:17:31.574Z",
+  "updated": "2025-12-27T04:33:30.079Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "69",
+      "recommendCount": "72",
+      "title": "[Vtub] 天音彼方 畢業Live",
+      "link": "/bbs/C_Chat/M.1766807392.A.9B3",
+      "author": "keerily",
+      "board": "C_Chat",
+      "publishTime": "2025/12/27 03:49",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "39",
       "recommendCount": "117",
       "title": "[問卦]統聯高薪誠徵駕駛員 薪水三萬 ？",
@@ -192,16 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2025/12/26 13:47",
       "imageUrl": "https://cache.pttweb.cc/imgur/QjIBBXD/s/381a1e1bd639b385e1b01f337f7b8f32"
-    },
-    {
-      "recommendScore": "21",
-      "recommendCount": "85",
-      "title": "[問卦] 明明日本外食很貴的==",
-      "link": "/bbs/Gossiping/M.1766754788.A.C05",
-      "author": "callhek",
-      "board": "Gossiping",
-      "publishTime": "2025/12/26 13:13",
-      "imageUrl": ""
     }
   ]
 }
