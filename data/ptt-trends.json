@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-27T00:24:30.945Z",
+  "updated": "2025-12-27T00:49:43.767Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "127",
-      "recommendCount": "281",
-      "title": "[LIVE] NBA 休士頓火箭 @ 洛杉磯湖人 場中",
-      "link": "/bbs/SportLottery/M.1766709020.A.008",
-      "author": "jerryyuan",
-      "board": "SportLottery",
-      "publishTime": "2025/12/26 00:30",
-      "imageUrl": "https://cache.pttweb.cc/imgur/u79UEOi/s/c0119f88abf0bd98a8c8e33981aad273"
-    },
-    {
       "recommendScore": "242",
       "recommendCount": "554",
       "title": "[LIVE] 韓籃 昌原LG獵鷹 @ KCC宙斯 場中",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2025/12/26 02:08",
       "imageUrl": "https://cache.pttweb.cc/imgur/BxrRzcj/s/c0d65303192293316ebbf7201250dc8f"
+    },
+    {
+      "recommendScore": "33",
+      "recommendCount": "110",
+      "title": "[問卦] 半導體崩毀後的台灣會變怎麼樣？",
+      "link": "/bbs/Gossiping/M.1766759562.A.D6F",
+      "author": "shala",
+      "board": "Gossiping",
+      "publishTime": "2025/12/26 14:32",
+      "imageUrl": ""
     }
   ]
 }
