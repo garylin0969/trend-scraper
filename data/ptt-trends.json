@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-28T14:30:49.402Z",
+  "updated": "2025-12-28T14:40:40.975Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -64,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "375",
+      "recommendCount": "398",
+      "title": "Re: [LIVE] 澳甲 伯斯光榮 @ 墨爾本城 (場中)",
+      "link": "/bbs/SportLottery/M.1766914898.A.4DB",
+      "author": "lotterywin",
+      "board": "SportLottery",
+      "publishTime": "2025/12/28 09:41",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "270",
       "recommendCount": "552",
       "title": "[新聞] 賴瑞隆最新聲明被酸爆　他批：有權有勢就算霸凌也變成非霸凌",
@@ -84,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "295",
-      "recommendCount": "502",
+      "recommendScore": "296",
+      "recommendCount": "503",
       "title": "[情報] JJ：自從LBJ回歸後湖人就出現一些問題",
       "link": "/bbs/NBA/M.1766890592.A.906",
       "author": "KC90",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/28 00:45",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "-97",
-      "recommendCount": "344",
-      "title": "[新聞] 快新聞／拒絕多數暴力！憲訴法宣告違憲 96團體、千名法界學者力挺",
-      "link": "/bbs/Gossiping/M.1766901116.A.7CC",
-      "author": "TPPKoWenJe",
-      "board": "Gossiping",
-      "publishTime": "2025/12/28 05:51",
-      "imageUrl": "https://cache.pttweb.cc/imgur/LDAtUga/s/d39788085a0e1d422143f18a1baf1643"
     }
   ]
 }
