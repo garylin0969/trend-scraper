@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-28T07:39:24.379Z",
+  "updated": "2025-12-28T07:46:30.403Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "191",
-      "recommendCount": "903",
+      "recommendScore": "190",
+      "recommendCount": "905",
       "title": "[問卦] 這次地震後你還贊成用核電嗎？",
       "link": "/bbs/Gossiping/M.1766849964.A.12B",
       "author": "bbbb25487",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "324",
-      "recommendCount": "739",
+      "recommendScore": "332",
+      "recommendCount": "753",
       "title": "[爆卦] 要求割喉案\"修復\"的法官身分曝光了...",
       "link": "/bbs/Gossiping/M.1766880910.A.070",
       "author": "goetz",
@@ -94,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "278",
-      "recommendCount": "459",
-      "title": "[情報] JJ：自從LBJ回歸後湖人就出現一些問題",
-      "link": "/bbs/NBA/M.1766890592.A.906",
-      "author": "KC90",
-      "board": "NBA",
-      "publishTime": "2025/12/28 02:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "254",
-      "recommendCount": "516",
+      "recommendScore": "264",
+      "recommendCount": "535",
       "title": "[問卦] 鄭深元律師脆嗆爆：我們敢直播你們不敢",
       "link": "/bbs/Gossiping/M.1766893867.A.D62",
       "author": "nhk123871192",
@@ -114,13 +104,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "417",
+      "recommendScore": "252",
+      "recommendCount": "443",
       "title": "[問卦] 臉書東南亞近5000人幫台灣人按怒是啥操作",
       "link": "/bbs/Gossiping/M.1766888277.A.EA4",
       "author": "a0802459",
       "board": "Gossiping",
       "publishTime": "2025/12/28 02:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "278",
+      "recommendCount": "459",
+      "title": "[情報] JJ：自從LBJ回歸後湖人就出現一些問題",
+      "link": "/bbs/NBA/M.1766890592.A.906",
+      "author": "KC90",
+      "board": "NBA",
+      "publishTime": "2025/12/28 02:56",
       "imageUrl": ""
     },
     {
@@ -141,6 +141,16 @@
       "author": "deathdecay",
       "board": "Gossiping",
       "publishTime": "2025/12/27 09:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "209",
+      "recommendCount": "408",
+      "title": "[新聞] 賴瑞隆最新聲明被酸爆　他批：有權有勢就算霸凌也變成非霸凌",
+      "link": "/bbs/Gossiping/M.1766898957.A.55F",
+      "author": "omanorboyo",
+      "board": "Gossiping",
+      "publishTime": "2025/12/28 05:15",
       "imageUrl": ""
     },
     {
@@ -174,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "163",
-      "recommendCount": "437",
+      "recommendScore": "167",
+      "recommendCount": "443",
       "title": "[問卦] 彭宇案法官: 不是你撞的, 幹嘛去扶?",
       "link": "/bbs/Gossiping/M.1766890133.A.DBE",
       "author": "rurugia",
@@ -191,16 +201,6 @@
       "author": "tosay",
       "board": "Gossiping",
       "publishTime": "2025/12/27 15:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "873",
-      "recommendCount": "1482",
-      "title": "[討論] [Vtub] Hololive 晚間直播單 (1141227)",
-      "link": "/bbs/C_Chat/M.1766831408.A.BBF",
-      "author": "laptic",
-      "board": "C_Chat",
-      "publishTime": "2025/12/27 10:30",
       "imageUrl": ""
     }
   ]
