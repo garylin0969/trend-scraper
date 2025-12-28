@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-28T04:47:03.055Z",
+  "updated": "2025-12-28T05:01:43.556Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "99",
+      "recommendCount": "350",
+      "title": "[問卦] 竹科工程師要這麼犯賤嗎,難怪勞基法虛設?",
+      "link": "/bbs/Gossiping/M.1766880103.A.AAA",
+      "author": "lelena",
+      "board": "Gossiping",
+      "publishTime": "2025/12/28 00:01",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "202",
       "recommendCount": "316",
       "title": "[地震] 第 156 號顯著有感地震報告@宜蘭(7.0)",
@@ -184,23 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "93",
-      "recommendCount": "308",
-      "title": "[問卦] 竹科工程師要這麼犯賤嗎,難怪勞基法虛設?",
-      "link": "/bbs/Gossiping/M.1766880103.A.AAA",
-      "author": "lelena",
-      "board": "Gossiping",
-      "publishTime": "2025/12/28 00:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "54",
-      "recommendCount": "630",
-      "title": "[討論] 柯文哲定調把大選獻金責任推給端木正",
-      "link": "/bbs/HatePolitics/M.1766828249.A.CB0",
-      "author": "Homura",
-      "board": "HatePolitics",
-      "publishTime": "2025/12/27 09:37",
+      "recommendScore": "220",
+      "recommendCount": "366",
+      "title": "[情報] JJ：自從LBJ回歸後湖人就出現一些問題",
+      "link": "/bbs/NBA/M.1766890592.A.906",
+      "author": "KC90",
+      "board": "NBA",
+      "publishTime": "2025/12/28 02:56",
       "imageUrl": ""
     }
   ]
