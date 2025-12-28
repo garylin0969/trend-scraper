@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-28T14:40:40.975Z",
+  "updated": "2025-12-28T14:48:43.368Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -41,6 +41,16 @@
       "author": "goetz",
       "board": "Gossiping",
       "publishTime": "2025/12/28 00:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "434",
+      "recommendCount": "465",
+      "title": "[推投] 間諜家家酒 最喜歡女角「1票」",
+      "link": "/bbs/C_Chat/M.1766912509.A.95D",
+      "author": "MrSatan",
+      "board": "C_Chat",
+      "publishTime": "2025/12/28 09:01",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "tosay",
       "board": "Gossiping",
       "publishTime": "2025/12/27 15:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "83",
-      "recommendCount": "335",
-      "title": "[問卦] 脆：11件事可以判斷是中產以上",
-      "link": "/bbs/Gossiping/M.1766882712.A.795",
-      "author": "TonyTang",
-      "board": "Gossiping",
-      "publishTime": "2025/12/28 00:45",
       "imageUrl": ""
     }
   ]
