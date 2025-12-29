@@ -1,14 +1,22 @@
 {
-  "updated": "2025-12-29T05:52:11.121Z",
+  "updated": "2025-12-29T06:24:42.073Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-12-29T05:52:05.000Z",
+    "lastBuildDate": "2025-12-29T06:24:35.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "「我報導過40場戰爭，2025年是最令人擔憂的一年」",
+      "description": "2026年看起來將是關鍵的一年。中國的實力將進一步增強，其奪取台灣的戰略將更加明朗。烏克蘭戰爭可能會結束，但條件將偏向普京。",
+      "link": "https://www.bbc.com/zhongwen/articles/cg7v7r5ye14o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-29T05:53:58.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cg7v7r5ye14o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d29/live/9dad1640-dcd0-11f0-b67b-690eb873de1b.jpg"
+    },
     {
       "title": "2025年終回顧：從中美貿易戰、東南亞電詐到中英「超級大使館」爭議",
       "description": "特朗普再次就任美國總統，中美貿易戰再起。除此以外，2025年世界還經歷過甚麼？",
@@ -16,22 +24,6 @@
       "pubDate": "2025-12-29T00:15:11.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ckgd9eyr08ro/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a520/live/2c3593f0-df4d-11f0-aae2-2191c0e48a3b.jpg"
-    },
-    {
-      "title": "「我們會投票，但不是出自真心」：走進緬甸軍政府精心策劃的大選",
-      "description": "這是自2021年初軍方政變以來緬甸舉行的首次選舉——而它正被廣泛指控為一場騙局。",
-      "link": "https://www.bbc.com/zhongwen/articles/c79x2r0xrpqo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-28T07:13:31.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c79x2r0xrpqo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0d5e/live/bb7b9b30-e24b-11f0-a8dc-93c15fe68710.jpg"
-    },
-    {
-      "title": "南京博物院爆倒賣文物疑案：一文匯總事態發展",
-      "description": "中國國家文物局宣佈調查南京博物院文物懷疑被當成贗品倒賣一事，明代名畫《江南春》出現在拍賣場所是事件曝光的導火索。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn81wg1jw66o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-26T03:06:47.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn81wg1jw66o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bdb1/live/b608cf50-e1bb-11f0-a8dc-93c15fe68710.jpg"
     },
     {
       "title": "這樣的建築系統，令威尼斯保持1600年不沉沒",
@@ -42,12 +34,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/01be/live/d6693fc0-a5b9-11f0-9c0f-2728b7b5fddd.png"
     },
     {
-      "title": "默多克王朝正在如何重塑權力繼承格局",
-      "description": "家族紛爭與策略轉變，正在重新定義誰會掌握默多克傳媒帝國的權力。",
-      "link": "https://www.bbc.com/zhongwen/articles/cp39kklqdvko/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-28T02:46:12.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cp39kklqdvko/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e43/live/a0d4de60-e14a-11f0-8d52-a11e22d2240a.jpg"
+      "title": "南京博物院爆倒賣文物疑案：一文匯總事態發展",
+      "description": "中國國家文物局宣佈調查南京博物院文物懷疑被當成贗品倒賣一事，明代名畫《江南春》出現在拍賣場所是事件曝光的導火索。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn81wg1jw66o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-26T03:06:47.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn81wg1jw66o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bdb1/live/b608cf50-e1bb-11f0-a8dc-93c15fe68710.jpg"
+    },
+    {
+      "title": "「我們會投票，但不是出自真心」：走進緬甸軍政府精心策劃的大選",
+      "description": "這是自2021年初軍方政變以來緬甸舉行的首次選舉——而它正被廣泛指控為一場騙局。",
+      "link": "https://www.bbc.com/zhongwen/articles/c79x2r0xrpqo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-28T07:13:31.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c79x2r0xrpqo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0d5e/live/bb7b9b30-e24b-11f0-a8dc-93c15fe68710.jpg"
     },
     {
       "title": "致命衝突持續數週後，泰國與柬埔寨邊境停火啟動",
@@ -56,6 +56,14 @@
       "pubDate": "2025-12-28T08:02:10.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c4g9nq043lqo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/adf5/live/55b0f7b0-e308-11f0-aae2-2191c0e48a3b.jpg"
+    },
+    {
+      "title": "默多克王朝正在如何重塑權力繼承格局",
+      "description": "家族紛爭與策略轉變，正在重新定義誰會掌握默多克傳媒帝國的權力。",
+      "link": "https://www.bbc.com/zhongwen/articles/cp39kklqdvko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-28T02:46:12.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cp39kklqdvko/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e43/live/a0d4de60-e14a-11f0-8d52-a11e22d2240a.jpg"
     },
     {
       "title": "特朗普准軍事行動封鎖委內瑞拉清理拉美後院  是否危及中國石油供應？",
@@ -104,14 +112,6 @@
       "pubDate": "2025-12-25T04:04:48.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c4g9ve081wzo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b287/live/8be132b0-e145-11f0-9cf8-9f74e637ecbc.jpg"
-    },
-    {
-      "title": "浙江5個月女嬰「心臟病」手術不治，引發誤診爭議和社會大討論",
-      "description": "12月20日，女嬰父母公開部份驗屍報告，顯示女嬰其實無出現院方診斷的病癥，手術傷口未完全縫合；死因是手術引發的心力衰竭及呼吸衰竭。\n",
-      "link": "https://www.bbc.com/zhongwen/articles/c2eplyw4ykjo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-23T09:46:39.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c2eplyw4ykjo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7039/live/6080fb70-dfd1-11f0-8f37-51273813293d.jpg"
     },
     {
       "title": "BBC調查：假冒癌症兒童募款 跨國網絡如何吞噬「救命錢」",
@@ -210,20 +210,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0ef7/live/c0e637f0-dcc0-11f0-b67b-690eb873de1b.jpg"
     },
     {
+      "title": "浙江5個月女嬰「心臟病」手術不治，引發誤診爭議和社會大討論",
+      "description": "12月20日，女嬰父母公開部份驗屍報告，顯示女嬰其實無出現院方診斷的病癥，手術傷口未完全縫合；死因是手術引發的心力衰竭及呼吸衰竭。\n",
+      "link": "https://www.bbc.com/zhongwen/articles/c2eplyw4ykjo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-23T09:46:39.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c2eplyw4ykjo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7039/live/6080fb70-dfd1-11f0-8f37-51273813293d.jpg"
+    },
+    {
       "title": "性生活不再需要另一半？中國避孕套和情趣用品「一冷一熱」背後的原因",
       "description": "這種現象揭示，年輕人正從需要承擔情感與經濟重擔的「雙人模式」中撤退，投向更為廉價且可控的自我滿足。人口學者表示，這一現象與中國人口進入「萎縮時代」恰好重合，並預示更長遠的人口與經濟後果。",
       "link": "https://www.bbc.com/zhongwen/articles/c5yjv3nym4ro/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-12-19T06:26:04.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c5yjv3nym4ro/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7243/live/33a384f0-dbea-11f0-a4a7-abcab1bbd6ad.jpg"
-    },
-    {
-      "title": "「那一刻，戰爭暫停了」：第一次世界大戰聖誕節自發停戰的故事",
-      "description": "1914年聖誕停戰的起源難以確定，它似乎在西線多個地點自發地出現。這並非一個統一的停戰，而是多個局部事件。有些地方僅持續數小時，有些持續到節禮日，甚至在少數地區延續到新年。",
-      "link": "https://www.bbc.com/zhongwen/articles/cj9ydg17ezdo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-23T08:04:49.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cj9ydg17ezdo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ec0/live/eb21dfb0-dfd1-11f0-8f37-51273813293d.jpg"
     },
     {
       "title": "高市早苗希望與中國「持續坦誠對話」，態度是否出現軟化？",
