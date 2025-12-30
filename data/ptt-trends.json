@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-30T14:47:21.842Z",
+  "updated": "2025-12-30T14:55:16.367Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -21,6 +21,16 @@
       "author": "Beziehung",
       "board": "Gossiping",
       "publishTime": "2025/12/30 05:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "226",
+      "recommendCount": "1112",
+      "title": "[問卦] 投降後 台灣從民主變共產 你真的ok嗎",
+      "link": "/bbs/Gossiping/M.1767097602.A.126",
+      "author": "Crystal0322",
+      "board": "Gossiping",
+      "publishTime": "2025/12/30 12:26",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "deathdecay",
       "board": "Gossiping",
       "publishTime": "2025/12/29 15:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "95",
-      "recommendCount": "210",
-      "title": "[新聞] 破紀錄！共軍圍台軍演130架共機擾台",
-      "link": "/bbs/Gossiping/M.1767067600.A.354",
-      "author": "googolplex",
-      "board": "Gossiping",
-      "publishTime": "2025/12/30 04:06",
       "imageUrl": ""
     }
   ]
