@@ -1,10 +1,10 @@
 {
-  "updated": "2025-12-30T04:27:15.777Z",
+  "updated": "2025-12-30T04:55:17.756Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2025-12-30T04:27:08.000Z",
+    "lastBuildDate": "2025-12-30T04:55:10.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -16,6 +16,14 @@
       "pubDate": "2025-12-29T11:22:46.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cyvgvqz1vg4o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3b3f/live/044b0770-e4a8-11f0-86bc-7f4eee801597.jpg"
+    },
+    {
+      "title": "美國推動俄烏和平協議期間，俄軍戰死人數創下記錄",
+      "description": "BBC已確認總共近16萬名在烏克蘭戰場上陣亡的俄方人員姓名。美國總統特朗普在2025年推動和平進程之際，俄羅斯公佈的士兵訃告比前一年增加了40%。",
+      "link": "https://www.bbc.com/zhongwen/articles/c79x94217yeo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-30T04:47:57.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c79x94217yeo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/faa5/live/d25c3510-e027-11f0-b67b-690eb873de1b.jpg"
     },
     {
       "title": "「我報導過40場戰爭，2025年是最令人擔憂的一年」",
@@ -46,7 +54,7 @@
       "description": "特朗普再次就任美國總統，中美貿易戰再起。除此以外，2025年世界還經歷過甚麼？",
       "link": "https://www.bbc.com/zhongwen/articles/ckgd9eyr08ro/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-12-29T00:15:11.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckgd9eyr08ro/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckgd9eyr08ro/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a520/live/2c3593f0-df4d-11f0-aae2-2191c0e48a3b.jpg"
     },
     {
@@ -96,14 +104,6 @@
       "pubDate": "2025-12-25T07:39:15.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy47zx35lx1o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1b78/live/6b6e0670-e163-11f0-9d7c-31c5e13a7db0.jpg"
-    },
-    {
-      "title": "香港宏福苑大火一個月，災民在安置與搬遷漂流中尋找新家",
-      "description": "11月26日香港大埔宏福苑世紀大火過去整整一個月，近2000個無家可歸的家庭為了重啟生活奔波，BBC記者採訪了安置在多個點位暫住的不同災民，他們狀況不同，但都有共同的重要訴求：一個新家。\n",
-      "link": "https://www.bbc.com/zhongwen/articles/cvg1d0d0z0zo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-26T08:39:17.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvg1d0d0z0zo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9a66/live/2b2ed4e0-e217-11f0-aea9-c3655fd393a8.jpg"
     },
     {
       "title": "跨越萬里時隔60多年  他終於首度見到被送去澳洲收養的親哥哥",
@@ -234,6 +234,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7243/live/33a384f0-dbea-11f0-a4a7-abcab1bbd6ad.jpg"
     },
     {
+      "title": "香港宏福苑大火一個月，災民在安置與搬遷漂流中尋找新家",
+      "description": "11月26日香港大埔宏福苑世紀大火過去整整一個月，近2000個無家可歸的家庭為了重啟生活奔波，BBC記者採訪了安置在多個點位暫住的不同災民，他們狀況不同，但都有共同的重要訴求：一個新家。\n",
+      "link": "https://www.bbc.com/zhongwen/articles/cvg1d0d0z0zo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-26T08:39:17.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvg1d0d0z0zo/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9a66/live/2b2ed4e0-e217-11f0-aea9-c3655fd393a8.jpg"
+    },
+    {
       "title": "傳統中醫何以扎根港澳等地？「疑中醫論」陰影下公眾信心從何而來？",
       "description": "很多港人，從老年到青年，都是中醫的忠實擁躉，這與「疑中醫論」暗湧不斷中國大陸形成較為鮮明的對比。有分析認為，民間傳統，政府監管和業內品控，即確保行業標准的執行也維持了公眾對中醫的信心。",
       "link": "https://www.bbc.com/zhongwen/articles/c4g98533404o/trad?at_medium=RSS&at_campaign=rss",
@@ -264,14 +272,6 @@
       "pubDate": "2025-12-09T00:19:13.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ckgzn10qg22o/trad#5",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2377/live/834d4bc0-d3f3-11f0-9107-738f275ca6af.jpg"
-    },
-    {
-      "title": "黎智英：這位挑戰中國底線的億萬富翁，付上了自由的代價",
-      "description": "曾經是難民的黎智英，他戲劇化的一生也見證了這座城市的變遷。",
-      "link": "https://www.bbc.com/zhongwen/articles/cp8zpyrvmm4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-21T06:58:21.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cp8zpyrvmm4o/trad#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9997/live/8983b1f0-dc27-11f0-89ae-89110b9e802d.png"
     },
     {
       "title": "這樣的建築系統，令威尼斯保持1600年不沉沒",
