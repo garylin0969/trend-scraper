@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-31T14:18:17.012Z",
+  "updated": "2025-12-31T14:32:05.654Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -51,6 +51,16 @@
       "author": "Skyblueway",
       "board": "Gossiping",
       "publishTime": "2025/12/31 02:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "129",
+      "recommendCount": "196",
+      "title": "[情報] 114年12月31日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1767164579.A.1C0",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2025/12/31 07:02",
       "imageUrl": ""
     },
     {
@@ -114,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "95",
+      "recommendCount": "156",
+      "title": "[新聞] 【2025封關秀】今年股民平均大賺149萬元",
+      "link": "/bbs/Stock/M.1767161227.A.163",
+      "author": "ChanHoPark",
+      "board": "Stock",
+      "publishTime": "2025/12/31 06:07",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "104",
       "recommendCount": "265",
       "title": "[討論] 吳哲源的主要問題是誰的鍋？",
@@ -164,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "74",
+      "recommendCount": "164",
+      "title": "[問卦] 信用卡額度43萬是什麼等級？！（附圖",
+      "link": "/bbs/Gossiping/M.1767155861.A.302",
+      "author": "moghtw11111",
+      "board": "Gossiping",
+      "publishTime": "2025/12/31 04:37",
+      "imageUrl": "https://cache.pttweb.cc/imgur/5FFo2vP/s/1c7777f43506d0da9f1fc132d02cabe1"
+    },
+    {
       "recommendScore": "50",
       "recommendCount": "148",
       "title": "[情報] LBJ：我今年大部分時間都是在打無球",
@@ -171,36 +201,6 @@
       "author": "KC90",
       "board": "NBA",
       "publishTime": "2025/12/31 06:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "99",
-      "recommendCount": "107",
-      "title": "[公告] 破防年終水桶*380",
-      "link": "/bbs/Baseball/M.1767144602.A.4C6",
-      "author": "Matthew10244",
-      "board": "Baseball",
-      "publishTime": "2025/12/31 01:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "41",
-      "recommendCount": "157",
-      "title": "[新聞] 黃國昌轟陳菊請假逾一年已違法 監院：特休及事病假額外計算",
-      "link": "/bbs/Gossiping/M.1767148885.A.CE1",
-      "author": "william8403",
-      "board": "Gossiping",
-      "publishTime": "2025/12/31 02:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "55",
-      "recommendCount": "115",
-      "title": "[分享] 昨日 黃勇傳",
-      "link": "/bbs/Baseball/M.1767160417.A.3A6",
-      "author": "PaiChiou",
-      "board": "Baseball",
-      "publishTime": "2025/12/31 05:53",
       "imageUrl": ""
     }
   ]
