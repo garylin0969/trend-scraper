@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-31T15:31:24.206Z",
+  "updated": "2025-12-31T15:41:00.479Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "214",
+      "recommendCount": "322",
+      "title": "[問卦] 台東太強了==",
+      "link": "/bbs/Gossiping/M.1767185554.A.188",
+      "author": "takashi01",
+      "board": "Gossiping",
+      "publishTime": "2025/12/31 12:52",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "128",
       "recommendCount": "267",
       "title": "[新聞] 憲法法庭周五又有判決 白委批「違憲」：不具任何法律效力的廢紙",
@@ -154,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "164",
+      "recommendCount": "189",
+      "title": "[心得] 2025年報",
+      "link": "/bbs/Stock/M.1767175740.A.683",
+      "author": "MrChen",
+      "board": "Stock",
+      "publishTime": "2025/12/31 10:09",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Jc0GcOM/s/2bac7ce468897b0f327804833bb2265f"
+    },
+    {
       "recommendScore": "158",
       "recommendCount": "171",
       "title": "[問卦] 幫阿嬤買內衣 買長的 （發錢）",
@@ -181,26 +201,6 @@
       "author": "ubang",
       "board": "Gossiping",
       "publishTime": "2025/12/31 02:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "448",
-      "recommendCount": "745",
-      "title": "[討論] [Vtub] Hololive 晚間直播單 (1141231)",
-      "link": "/bbs/C_Chat/M.1767170436.A.BBA",
-      "author": "laptic",
-      "board": "C_Chat",
-      "publishTime": "2025/12/31 08:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "95",
-      "recommendCount": "213",
-      "title": "[問卦] 台灣怎麼淪落到連子彈都要外購",
-      "link": "/bbs/Gossiping/M.1767146285.A.6A5",
-      "author": "kogsww",
-      "board": "Gossiping",
-      "publishTime": "2025/12/31 01:58",
       "imageUrl": ""
     }
   ]
