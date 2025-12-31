@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-31T10:32:56.833Z",
+  "updated": "2025-12-31T10:47:11.724Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -64,16 +64,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "545",
-      "recommendCount": "896",
-      "title": "[討論] [Vtub] Hololive 晚間直播單 (1141230)",
-      "link": "/bbs/C_Chat/M.1767091466.A.E5E",
-      "author": "laptic",
-      "board": "C_Chat",
-      "publishTime": "2025/12/30 10:44",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "145",
       "recommendCount": "168",
       "title": "[發錢] Cade 27分11助 送給LBJ大敗生日禮物",
@@ -134,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "80",
-      "recommendCount": "190",
-      "title": "[問卦]啦啦隊丹丹遭騙四萬 氣喊:我可生活一個月",
-      "link": "/bbs/Gossiping/M.1767090924.A.F88",
-      "author": "a91153456",
-      "board": "Gossiping",
-      "publishTime": "2025/12/30 10:35",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "52",
       "recommendCount": "217",
       "title": "[新聞] 黃國昌轟陳菊請假逾一年已違法 監院:特休及事病假額外計算",
@@ -201,6 +181,26 @@
       "author": "KC90",
       "board": "NBA",
       "publishTime": "2025/12/31 07:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "50",
+      "recommendCount": "148",
+      "title": "[情報] LBJ：我今年大部分時間都是在打無球",
+      "link": "/bbs/NBA/M.1767164019.A.C24",
+      "author": "KC90",
+      "board": "NBA",
+      "publishTime": "2025/12/31 06:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "99",
+      "recommendCount": "107",
+      "title": "[公告] 破防年終水桶*380",
+      "link": "/bbs/Baseball/M.1767144602.A.4C6",
+      "author": "Matthew10244",
+      "board": "Baseball",
+      "publishTime": "2025/12/31 01:30",
       "imageUrl": ""
     }
   ]
