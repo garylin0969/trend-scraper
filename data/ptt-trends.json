@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-31T09:23:45.371Z",
+  "updated": "2025-12-31T09:39:31.838Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -22,16 +22,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/31 00:34",
       "imageUrl": "https://cache.pttweb.cc/imgur/MdyfAe2/s/c972f19c91b2802fd4ac5c94bf2d5518"
-    },
-    {
-      "recommendScore": "102",
-      "recommendCount": "283",
-      "title": "[爆卦] 國防部記者會 17:30",
-      "link": "/bbs/Gossiping/M.1767086699.A.C1B",
-      "author": "zkow",
-      "board": "Gossiping",
-      "publishTime": "2025/12/30 09:24",
-      "imageUrl": ""
     },
     {
       "recommendScore": "95",
@@ -71,16 +61,6 @@
       "author": "ubang",
       "board": "Gossiping",
       "publishTime": "2025/12/31 02:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "25",
-      "recommendCount": "204",
-      "title": "[問卦] 脆：我41歲 為下一代台灣 願意到前線",
-      "link": "/bbs/Gossiping/M.1767086950.A.EA2",
-      "author": "a12345x",
-      "board": "Gossiping",
-      "publishTime": "2025/12/30 09:29",
       "imageUrl": ""
     },
     {
@@ -202,6 +182,26 @@
       "board": "HatePolitics",
       "publishTime": "2025/12/31 01:04",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "89",
+      "recommendCount": "123",
+      "title": "[情報] Nikola Jokic 左膝過度伸展 至少缺席四周",
+      "link": "/bbs/NBA/M.1767112236.A.17E",
+      "author": "willy911006",
+      "board": "NBA",
+      "publishTime": "2025/12/30 16:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "71",
+      "recommendCount": "102",
+      "title": "[情報] 富邦悍將宣佈簽下新洋將愛力戈",
+      "link": "/bbs/Baseball/M.1767150580.A.804",
+      "author": "WanYC",
+      "board": "Baseball",
+      "publishTime": "2025/12/31 03:09",
+      "imageUrl": "https://cache.pttweb.cc/imgur/ePsgjeH/s/4d2ff229e72ff66901f1a82c92a08ff1"
     }
   ]
 }
