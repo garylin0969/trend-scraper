@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-01T11:17:53.215Z",
+  "updated": "2026-01-01T11:28:41.464Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "210",
+      "recommendCount": "595",
+      "title": "[問卦] 民視這標題是在酸阿妹？",
+      "link": "/bbs/Gossiping/M.1767252016.A.93C",
+      "author": "coon182",
+      "board": "Gossiping",
+      "publishTime": "2026/01/01 07:20",
+      "imageUrl": "https://cache.pttweb.cc/imgur/qxMv2wx/s/0ec27408bbf8e46a3a3888059130f5c0"
+    },
     {
       "recommendScore": "555",
       "recommendCount": "859",
@@ -104,6 +114,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-131",
+      "recommendCount": "267",
+      "title": "[新聞] 賴總統新年推台灣4大總目標 喊話朝野團結",
+      "link": "/bbs/Gossiping/M.1767245671.A.1AA",
+      "author": "yukihira",
+      "board": "Gossiping",
+      "publishTime": "2026/01/01 05:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "203",
+      "recommendCount": "396",
+      "title": "[閒聊] 德國將擴軍並強化日本同盟",
+      "link": "/bbs/C_Chat/M.1767250442.A.27F",
+      "author": "Senkanseiki",
+      "board": "C_Chat",
+      "publishTime": "2026/01/01 06:54",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "112",
       "recommendCount": "302",
       "title": "[新聞] 共軍宣布環台軍演結束",
@@ -134,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "107",
+      "recommendCount": "225",
+      "title": "[問卦] 一模一樣的智利櫻桃禮盒 台灣價錢是大陸兩倍",
+      "link": "/bbs/Gossiping/M.1767247573.A.166",
+      "author": "ggyang",
+      "board": "Gossiping",
+      "publishTime": "2026/01/01 06:06",
+      "imageUrl": "https://cache.pttweb.cc/imgur/kAmRntK/s/8a2466e54ae76f2579dfb530e7ac1d9a"
+    },
+    {
       "recommendScore": "178",
       "recommendCount": "283",
       "title": "[問卦] 台東跨年晚會是不是2025最頂？",
@@ -144,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "102",
+      "recommendCount": "345",
+      "title": "[問卦] 3500萬的標案 請的到阿妹是超划算吧",
+      "link": "/bbs/Gossiping/M.1767256165.A.21B",
+      "author": "swommy",
+      "board": "Gossiping",
+      "publishTime": "2026/01/01 08:29",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-38",
       "recommendCount": "240",
       "title": "[新聞] 怒轟藍白彈劾總統「浪費時間」　賴清德：我不貪不取沒任何違法",
@@ -151,56 +201,6 @@
       "author": "osalucard",
       "board": "Gossiping",
       "publishTime": "2026/01/01 01:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "15",
-      "recommendCount": "205",
-      "title": "[新聞] 賴瑞隆當選市長發豪語 全力以赴邀泰勒絲高雄開唱",
-      "link": "/bbs/Gossiping/M.1767231570.A.6A8",
-      "author": "william8403",
-      "board": "Gossiping",
-      "publishTime": "2026/01/01 01:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "128",
-      "recommendCount": "198",
-      "title": "[問卦] 哇靠張惠妹開嗓了喔？",
-      "link": "/bbs/Gossiping/M.1767198932.A.4AD",
-      "author": "VVizZ",
-      "board": "Gossiping",
-      "publishTime": "2025/12/31 16:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "130",
-      "recommendCount": "144",
-      "title": "[問卦] 新年第一天，發紅包祝福大家新年快樂",
-      "link": "/bbs/Gossiping/M.1767231099.A.765",
-      "author": "medama",
-      "board": "Gossiping",
-      "publishTime": "2026/01/01 01:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "126",
-      "recommendCount": "157",
-      "title": "[問卦] 雲林是誰提議倒數用烏龍派出所的==",
-      "link": "/bbs/Gossiping/M.1767203170.A.3CA",
-      "author": "Melville",
-      "board": "Gossiping",
-      "publishTime": "2025/12/31 17:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "56",
-      "recommendCount": "224",
-      "title": "[新聞] 陳菊住院一年「傳春節前後上班」　陳其邁：她恢復非常好",
-      "link": "/bbs/Gossiping/M.1767233184.A.3CD",
-      "author": "ptt987654321",
-      "board": "Gossiping",
-      "publishTime": "2026/01/01 02:06",
       "imageUrl": ""
     }
   ]
