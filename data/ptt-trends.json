@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-01T04:47:36.160Z",
+  "updated": "2026-01-01T05:02:45.164Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "188",
-      "recommendCount": "300",
-      "title": "[閒聊] 北京衛視乳華被炎上",
-      "link": "/bbs/C_Chat/M.1767157261.A.37E",
-      "author": "tingyo",
-      "board": "C_Chat",
-      "publishTime": "2025/12/31 05:01",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-3",
       "recommendCount": "238",
       "title": "[新聞] 台灣潛艦國造效果驚人！美記者：8艘就能摧毀中國入侵艦隊",
@@ -201,6 +191,16 @@
       "author": "takashi01",
       "board": "Gossiping",
       "publishTime": "2025/12/31 12:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "128",
+      "recommendCount": "267",
+      "title": "[新聞] 憲法法庭周五又有判決 白委批「違憲」：不具任何法律效力的廢紙",
+      "link": "/bbs/Gossiping/M.1767164402.A.542",
+      "author": "chopper594",
+      "board": "Gossiping",
+      "publishTime": "2025/12/31 07:00",
       "imageUrl": ""
     }
   ]
