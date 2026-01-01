@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-01T03:18:11.441Z",
+  "updated": "2026-01-01T03:57:23.997Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,6 +104,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/XSfHkLb/s/87ccd1801eb7f30e325ae2c08558024f"
     },
     {
+      "recommendScore": "234",
+      "recommendCount": "251",
+      "title": "[問卦] 新年給我雙人內褲是怎樣？（發錢）",
+      "link": "/bbs/Gossiping/M.1767221697.A.E1E",
+      "author": "BIA",
+      "board": "Gossiping",
+      "publishTime": "2025/12/31 22:54",
+      "imageUrl": "https://cache.pttweb.cc/imgur/37JWTAr/s/a44ebc4553100958e54deb02f601c468"
+    },
+    {
       "recommendScore": "96",
       "recommendCount": "290",
       "title": "[新聞] 嗆「怎沒人想暗殺賴清德」？警衝住處抓人…發斬首令者身份曝",
@@ -111,6 +121,26 @@
       "author": "david7928",
       "board": "Gossiping",
       "publishTime": "2025/12/31 06:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-107",
+      "recommendCount": "335",
+      "title": "[新聞] 元旦爆氣！賴清德怒嗆藍白彈劾浪費時間：該辦正事審總預算",
+      "link": "/bbs/Gossiping/M.1767233724.A.605",
+      "author": "juyhnmki",
+      "board": "Gossiping",
+      "publishTime": "2026/01/01 02:15",
+      "imageUrl": "https://cache.pttweb.cc/imgur/jQBnERF/s/e3f3c0c1e55d486586dc883a95b646fa"
+    },
+    {
+      "recommendScore": "-135",
+      "recommendCount": "271",
+      "title": "[新聞] 賴清德2026新年談話　聚焦「韌性之島，希望之光」與國人並肩向前",
+      "link": "/bbs/Gossiping/M.1767226945.A.A95",
+      "author": "james7923",
+      "board": "Gossiping",
+      "publishTime": "2026/01/01 00:22",
       "imageUrl": ""
     },
     {
@@ -164,44 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "214",
-      "recommendCount": "322",
-      "title": "[問卦] 台東太強了==",
-      "link": "/bbs/Gossiping/M.1767185554.A.188",
-      "author": "takashi01",
+      "recommendScore": "112",
+      "recommendCount": "302",
+      "title": "[新聞] 共軍宣布環台軍演結束",
+      "link": "/bbs/Gossiping/M.1767228713.A.1EF",
+      "author": "abc4",
       "board": "Gossiping",
-      "publishTime": "2025/12/31 12:52",
+      "publishTime": "2026/01/01 00:51",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "128",
-      "recommendCount": "267",
-      "title": "[新聞] 憲法法庭周五又有判決 白委批「違憲」：不具任何法律效力的廢紙",
-      "link": "/bbs/Gossiping/M.1767164402.A.542",
-      "author": "chopper594",
-      "board": "Gossiping",
-      "publishTime": "2025/12/31 07:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "129",
-      "recommendCount": "196",
-      "title": "[情報] 114年12月31日 三大法人買賣金額統計表",
-      "link": "/bbs/Stock/M.1767164579.A.1C0",
-      "author": "coconing",
-      "board": "Stock",
-      "publishTime": "2025/12/31 07:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "164",
-      "recommendCount": "189",
-      "title": "[心得] 2025年報",
-      "link": "/bbs/Stock/M.1767175740.A.683",
-      "author": "MrChen",
-      "board": "Stock",
-      "publishTime": "2025/12/31 10:09",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Jc0GcOM/s/2bac7ce468897b0f327804833bb2265f"
     }
   ]
 }
