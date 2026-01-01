@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-01T05:02:45.164Z",
+  "updated": "2026-01-01T05:19:55.086Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -72,16 +72,6 @@
       "board": "Gossiping",
       "publishTime": "2025/12/31 07:43",
       "imageUrl": "https://cache.pttweb.cc/imgur/MpPSErA/s/8e77a3cacda5d774924944f0102c1fae"
-    },
-    {
-      "recommendScore": "173",
-      "recommendCount": "308",
-      "title": "[新聞] 高雄男出獄不到5個月砍老闆全家 殺人未遂罪起訴",
-      "link": "/bbs/Gossiping/M.1767157913.A.C25",
-      "author": "yukihira",
-      "board": "Gossiping",
-      "publishTime": "2025/12/31 05:11",
-      "imageUrl": ""
     },
     {
       "recommendScore": "256",
@@ -201,6 +191,16 @@
       "author": "chopper594",
       "board": "Gossiping",
       "publishTime": "2025/12/31 07:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "129",
+      "recommendCount": "196",
+      "title": "[情報] 114年12月31日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1767164579.A.1C0",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2025/12/31 07:02",
       "imageUrl": ""
     }
   ]
