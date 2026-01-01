@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-01T01:36:13.541Z",
+  "updated": "2026-01-01T02:31:25.141Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "99",
-      "recommendCount": "226",
-      "title": "[新聞] 陳菊請假超過1年！黃國昌酸：監察院變肥貓院　有沒有院長已沒差",
-      "link": "/bbs/Gossiping/M.1767147256.A.FFF",
-      "author": "Skyblueway",
-      "board": "Gossiping",
-      "publishTime": "2025/12/31 02:14",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "129",
       "recommendCount": "196",
       "title": "[情報] 114年12月31日 三大法人買賣金額統計表",
@@ -202,6 +192,16 @@
       "board": "Stock",
       "publishTime": "2025/12/31 07:02",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "164",
+      "recommendCount": "189",
+      "title": "[心得] 2025年報",
+      "link": "/bbs/Stock/M.1767175740.A.683",
+      "author": "MrChen",
+      "board": "Stock",
+      "publishTime": "2025/12/31 10:09",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Jc0GcOM/s/2bac7ce468897b0f327804833bb2265f"
     }
   ]
 }
