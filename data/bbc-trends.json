@@ -1,14 +1,22 @@
 {
-  "updated": "2026-01-01T09:23:28.478Z",
+  "updated": "2026-01-01T09:49:12.436Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-01T09:23:22.000Z",
+    "lastBuildDate": "2026-01-01T09:49:10.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "賴清德元旦談話強硬回應圍台軍演，稱台灣「必須做最壞打算」",
+      "description": "台灣總統賴清德在2026年元旦發表講話，三度批評中國軍事野心。被問到北京未來一年侵台的可能性，他強調「必須做最壞的打算」。",
+      "link": "https://www.bbc.com/zhongwen/articles/c79rnnz2ne2o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-01T09:37:41.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c79rnnz2ne2o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/444b/live/74efcf40-e6f3-11f0-a8dc-93c15fe68710.jpg"
+    },
     {
       "title": "《治安管理處罰法》修訂生效  私聊傳密照違法「誤讀」爭議從何而來",
       "description": "中國《治安管理處罰法》修訂案元旦日生效，其中私人傳送私密影像「將被收押」的傳言引起熱烈議論，但官方媒體聲稱是「誤讀」。",
@@ -16,22 +24,6 @@
       "pubDate": "2026-01-01T04:16:15.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cvg13r0j7r3o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/842b/live/ea9a0cc0-e64d-11f0-aae2-2191c0e48a3b.jpg"
-    },
-    {
-      "title": "不止煙火和燈光秀，世界各地如何迎接2026新年到來",
-      "description": "從壯觀的煙火表演到冰冷的海水暢遊，各國以各種方式慶祝2026年的到來。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvg132l4yg9o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-01T08:12:16.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvg132l4yg9o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6771/live/5cf64fe0-e6e9-11f0-a8dc-93c15fe68710.jpg"
-    },
-    {
-      "title": "中國可回收火箭連續兩次返回失敗為何被視為「局部成功」？",
-      "description": "中國在2025年末先後兩次試射「長征十二號甲」與「朱雀三號」可回收火箭，官方宣稱基本成功，同時承認回收失敗。分析人士認為要追上馬斯克的SpaceX尚需時日。",
-      "link": "https://www.bbc.com/zhongwen/articles/cjwyww1zvpzo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-31T07:21:36.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cjwyww1zvpzo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7253/live/a77cce60-e589-11f0-aae2-2191c0e48a3b.jpg"
     },
     {
       "title": "黎智英女兒稱父親在獄中「牙齒腐爛，指甲脫落」",
@@ -42,12 +34,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bade/live/e1f591e0-e61e-11f0-ba84-11119e07236b.jpg"
     },
     {
+      "title": "中國可回收火箭連續兩次返回失敗為何被視為「局部成功」？",
+      "description": "中國在2025年末先後兩次試射「長征十二號甲」與「朱雀三號」可回收火箭，官方宣稱基本成功，同時承認回收失敗。分析人士認為要追上馬斯克的SpaceX尚需時日。",
+      "link": "https://www.bbc.com/zhongwen/articles/cjwyww1zvpzo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-12-31T07:21:36.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cjwyww1zvpzo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7253/live/a77cce60-e589-11f0-aae2-2191c0e48a3b.jpg"
+    },
+    {
       "title": "解放軍軍演更多細節  : 創紀錄近身鎖台邁向「實戰預演」，「兩岸擦槍走火可能」升高",
       "description": "中國航母為何未參加此次軍演？海空封鎖如何阻斷援軍？首度將「第二海軍」海警納入核心意味著什麼？",
       "link": "https://www.bbc.com/zhongwen/articles/ce8q8r1jlrpo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-01-01T00:42:25.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ce8q8r1jlrpo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/00ee/live/73661bc0-e563-11f0-baf8-492205ca0c9f.jpg"
+    },
+    {
+      "title": "不止煙火和燈光秀，世界各地如何迎接2026新年到來",
+      "description": "從壯觀的煙火表演到冰冷的海水暢遊，各國以各種方式慶祝2026年的到來。",
+      "link": "https://www.bbc.com/zhongwen/articles/cvg132l4yg9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-01T08:12:16.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvg132l4yg9o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6771/live/5cf64fe0-e6e9-11f0-a8dc-93c15fe68710.jpg"
     },
     {
       "title": "為何水星是一顆根據人類理論本不該存在的行星",
@@ -88,14 +96,6 @@
       "pubDate": "2025-12-30T04:47:57.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c79x94217yeo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/faa5/live/d25c3510-e027-11f0-b67b-690eb873de1b.jpg"
-    },
-    {
-      "title": "「牠們的堅韌給我們上了一課」：記錄從沙漠遷到海洋的獨特獅群",
-      "description": "在納米比亞，一群沙漠獅子離開傳統的狩獵場，前往大西洋海岸，成為世界上唯一的海洋獅子。一位攝影師捕捉到這種劇烈的行為變化。",
-      "link": "https://www.bbc.com/zhongwen/articles/c9d9d2x27dgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-30T06:09:46.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c9d9d2x27dgo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a478/live/449c5a60-aa6d-11f0-ba75-093eca1ac29b.jpg"
     },
     {
       "title": "蘇格蘭郊區小鎮發現的史前鯊魚化石諸多疑問未解",
