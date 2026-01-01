@@ -1,22 +1,14 @@
 {
-  "updated": "2026-01-01T00:46:49.386Z",
+  "updated": "2026-01-01T01:53:18.216Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-01T00:46:38.000Z",
+    "lastBuildDate": "2026-01-01T01:53:08.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
-    {
-      "title": "解放軍軍演更多細節  : 創紀錄近身鎖台邁向「實戰預演」，「兩岸擦槍走火可能」升高",
-      "description": "中國航母為何未參加此次軍演？海空封鎖如何阻斷援軍？首度將「第二海軍」海警納入核心意味著什麼？",
-      "link": "https://www.bbc.com/zhongwen/articles/ce8q8r1jlrpo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-01T00:42:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce8q8r1jlrpo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/00ee/live/73661bc0-e563-11f0-baf8-492205ca0c9f.jpg"
-    },
     {
       "title": "中國可回收火箭連續兩次返回失敗為何被視為「局部成功」？",
       "description": "中國在2025年末先後兩次試射「長征十二號甲」與「朱雀三號」可回收火箭，官方宣稱基本成功，同時承認回收失敗。分析人士認為要追上馬斯克的SpaceX尚需時日。",
@@ -24,6 +16,14 @@
       "pubDate": "2025-12-31T07:21:36.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cjwyww1zvpzo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7253/live/a77cce60-e589-11f0-aae2-2191c0e48a3b.jpg"
+    },
+    {
+      "title": "解放軍軍演更多細節  : 創紀錄近身鎖台邁向「實戰預演」，「兩岸擦槍走火可能」升高",
+      "description": "中國航母為何未參加此次軍演？海空封鎖如何阻斷援軍？首度將「第二海軍」海警納入核心意味著什麼？",
+      "link": "https://www.bbc.com/zhongwen/articles/ce8q8r1jlrpo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-01T00:42:25.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce8q8r1jlrpo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/00ee/live/73661bc0-e563-11f0-baf8-492205ca0c9f.jpg"
     },
     {
       "title": "為何水星是一顆根據人類理論本不該存在的行星",
