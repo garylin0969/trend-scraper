@@ -1,10 +1,10 @@
 {
-  "updated": "2026-01-02T03:47:08.759Z",
+  "updated": "2026-01-02T04:28:57.285Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-02T03:46:59.000Z",
+    "lastBuildDate": "2026-01-02T04:28:49.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -24,6 +24,14 @@
       "pubDate": "2026-01-02T02:42:28.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ce8rv6y17dko/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c2c/live/d88eef10-e719-11f0-b67b-690eb873de1b.jpg"
+    },
+    {
+      "title": "「太空製造」對半導體產業意味著什麼",
+      "description": "英國已將一個小型「太空工廠」送入近地軌道，並啟動達到約1000°C高溫的半導體熔爐。在失重環境中製造時，半導體材料原子能夠完美對齊，而太空的真空狀態也能防止污染物進入。\n",
+      "link": "https://www.bbc.com/zhongwen/articles/c8x9lznv74xo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-02T04:03:32.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c8x9lznv74xo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a88f/live/ca714870-dcd2-11f0-bb5b-8b829d936cf4.jpg"
     },
     {
       "title": "《治安管理處罰法》修訂生效  私聊傳密照違法「誤讀」爭議從何而來",
@@ -46,7 +54,7 @@
       "description": "中國航母為何未參加此次軍演？海空封鎖如何阻斷援軍？首度將「第二海軍」海警納入核心意味著什麼？",
       "link": "https://www.bbc.com/zhongwen/articles/ce8q8r1jlrpo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-01-01T00:42:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce8q8r1jlrpo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce8q8r1jlrpo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/00ee/live/73661bc0-e563-11f0-baf8-492205ca0c9f.jpg"
     },
     {
@@ -104,14 +112,6 @@
       "pubDate": "2025-12-29T11:22:46.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cyvgvqz1vg4o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3b3f/live/044b0770-e4a8-11f0-86bc-7f4eee801597.jpg"
-    },
-    {
-      "title": "蘇格蘭郊區小鎮發現的史前鯊魚化石諸多疑問未解",
-      "description": "這具化石如此完整，以至於在這條魚死後3.3億年，專家還能看到牠吃的最後一餐所留下的殘跡。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgrgymzxz2o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-01T00:22:39.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgrgymzxz2o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/989b/live/48759070-d5b0-11f0-a80f-4194a66f2469.jpg"
     },
     {
       "title": "2026來啦！全球用煙火和笑容迎接新一年",
@@ -274,20 +274,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2377/live/834d4bc0-d3f3-11f0-9107-738f275ca6af.jpg"
     },
     {
+      "title": "蘇格蘭郊區小鎮發現的史前鯊魚化石諸多疑問未解",
+      "description": "這具化石如此完整，以至於在這條魚死後3.3億年，專家還能看到牠吃的最後一餐所留下的殘跡。",
+      "link": "https://www.bbc.com/zhongwen/articles/cvgrgymzxz2o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-01T00:22:39.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvgrgymzxz2o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/989b/live/48759070-d5b0-11f0-a80f-4194a66f2469.jpg"
+    },
+    {
       "title": "桑拿和冷水游泳真能改善健康嗎？",
       "description": "桑拿和冷水游泳都是不少人喜歡的健康活動，但科學家是怎麼說的？它們真的對健康有幫助嗎？",
       "link": "https://www.bbc.com/zhongwen/articles/ckgljdzd084o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-12-31T09:15:31.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ckgljdzd084o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9e16/live/9d7781f0-df2e-11f0-b6a6-1bf5f87ee304.jpg"
-    },
-    {
-      "title": "在自動駕駛的特斯拉上發短信是否很瘋狂",
-      "description": "伊隆·馬斯克表示，特斯拉的自動化軟件將在特定條件下允許乘客發送短信。",
-      "link": "https://www.bbc.com/zhongwen/articles/cy0p0yp14d9o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-30T00:21:57.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cy0p0yp14d9o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b1e6/live/4ea02c30-dc36-11f0-a665-27b3eb61cb96.png"
     },
     {
       "title": "這樣的建築系統，令威尼斯保持1600年不沉沒",
