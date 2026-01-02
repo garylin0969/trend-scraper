@@ -1,18 +1,8 @@
 {
-  "updated": "2026-01-02T14:46:43.371Z",
+  "updated": "2026-01-02T14:54:31.581Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "98",
-      "recommendCount": "343",
-      "title": "[新聞] 彰化郵差送信被樹壓死 交通部拒賠321萬：雨天出勤有過失",
-      "link": "/bbs/Gossiping/M.1767279165.A.35B",
-      "author": "zxcelephant",
-      "board": "Gossiping",
-      "publishTime": "2026/01/01 14:52",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "88",
       "recommendCount": "187",
@@ -41,16 +31,6 @@
       "author": "keyj",
       "board": "Gossiping",
       "publishTime": "2026/01/02 05:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "175",
-      "recommendCount": "301",
-      "title": "[LIVE] 英冠 斯托克城1:0赫爾城 場中",
-      "link": "/bbs/SportLottery/M.1767278883.A.661",
-      "author": "pandalove",
-      "board": "SportLottery",
-      "publishTime": "2026/01/01 14:48",
       "imageUrl": ""
     },
     {
@@ -201,6 +181,26 @@
       "author": "jason911152",
       "board": "NBA",
       "publishTime": "2026/01/02 06:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "42",
+      "recommendCount": "115",
+      "title": "[問卦] 康康之前算是很紅嗎?",
+      "link": "/bbs/Gossiping/M.1767285357.A.4F2",
+      "author": "getlonely",
+      "board": "Gossiping",
+      "publishTime": "2026/01/01 16:35",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "48",
+      "recommendCount": "154",
+      "title": "[問卦] ALIN是輸阿妹 那些地方?",
+      "link": "/bbs/Gossiping/M.1767284881.A.1A9",
+      "author": "OPPAISuki",
+      "board": "Gossiping",
+      "publishTime": "2026/01/01 16:28",
       "imageUrl": ""
     }
   ]
