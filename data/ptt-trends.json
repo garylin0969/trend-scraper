@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-02T15:18:20.956Z",
+  "updated": "2026-01-02T15:32:13.262Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -62,16 +62,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/02 05:18",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "50",
-      "recommendCount": "90",
-      "title": "[問卦] 四川男子掉進硫酸池 皮膚碳化",
-      "link": "/bbs/Gossiping/M.1767281448.A.0BE",
-      "author": "bluehttp",
-      "board": "Gossiping",
-      "publishTime": "2026/01/01 15:30",
-      "imageUrl": "https://cache.pttweb.cc/imgur/eExVAwW/s/7b346f43325b7201e22ba384a1d8a541"
     },
     {
       "recommendScore": "60",
@@ -201,6 +191,16 @@
       "author": "yukihira",
       "board": "Gossiping",
       "publishTime": "2026/01/02 05:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "20",
+      "recommendCount": "62",
+      "title": "[新聞] 最新／新北重大車禍！三重「行人違規過馬路被機車撞」　1人當場斷氣",
+      "link": "/bbs/Gossiping/M.1767284457.A.7B5",
+      "author": "a828203",
+      "board": "Gossiping",
+      "publishTime": "2026/01/01 16:20",
       "imageUrl": ""
     }
   ]
