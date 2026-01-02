@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-02T18:21:38.082Z",
+  "updated": "2026-01-02T18:38:34.391Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "153",
+      "recommendCount": "362",
+      "title": "[新聞] 新生兒恐跌破10萬 婦產科醫學會：少子化進「崩跌期」再不救就來不及",
+      "link": "/bbs/Gossiping/M.1767366213.A.722",
+      "author": "usnavyseal",
+      "board": "Gossiping",
+      "publishTime": "2026/01/02 15:03",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "192",
       "recommendCount": "236",
       "title": "[問卦] (發錢)日本公布戀童癖性侵犯照片沒人權?",
@@ -41,6 +51,16 @@
       "author": "LoveSports",
       "board": "Gossiping",
       "publishTime": "2026/01/02 13:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "144",
+      "recommendCount": "391",
+      "title": "[問卦] 跟我家借五百萬的人自殺走了",
+      "link": "/bbs/Gossiping/M.1767367592.A.B11",
+      "author": "godgan",
+      "board": "Gossiping",
+      "publishTime": "2026/01/02 15:26",
       "imageUrl": ""
     },
     {
@@ -182,26 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/02 11:41",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "77",
-      "recommendCount": "91",
-      "title": "Re: [閒聊] 賽博性病發生中",
-      "link": "/bbs/C_Chat/M.1767362074.A.D98",
-      "author": "sln5112",
-      "board": "C_Chat",
-      "publishTime": "2026/01/02 13:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "82",
-      "recommendCount": "86",
-      "title": "[發錢] 吳哲源",
-      "link": "/bbs/BaseballXXXX/M.1767359726.A.EF2",
-      "author": "cc001225",
-      "board": "BaseballXXXX",
-      "publishTime": "2026/01/02 13:15",
-      "imageUrl": "https://cache.pttweb.cc/imgur/wPQw7Qd/s/82a2377226c57f43efc3b11d580b5cea"
     }
   ]
 }
