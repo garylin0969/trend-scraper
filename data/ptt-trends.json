@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-03T14:17:42.315Z",
+  "updated": "2026-01-03T14:30:32.082Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "102",
-      "recommendCount": "118",
-      "title": "[閒聊] 對阿宅溫柔的辣妹 是存在的！",
-      "link": "/bbs/C_Chat/M.1767363445.A.0F6",
-      "author": "Gary5566",
-      "board": "C_Chat",
-      "publishTime": "2026/01/02 14:17",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "68",
       "recommendCount": "128",
       "title": "[情報] 勇士三老將缺席今晚對雷霆的比賽",
@@ -201,6 +191,16 @@
       "author": "chal",
       "board": "Gossiping",
       "publishTime": "2026/01/02 22:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "78",
+      "recommendCount": "148",
+      "title": "[情報] Risacher跟教練溝通無效 扔毛巾",
+      "link": "/bbs/NBA/M.1767413134.A.1F2",
+      "author": "dragon803",
+      "board": "NBA",
+      "publishTime": "2026/01/03 04:05",
       "imageUrl": ""
     }
   ]
