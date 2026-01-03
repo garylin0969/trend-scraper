@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-03T06:21:52.488Z",
+  "updated": "2026-01-03T06:38:45.307Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "835",
+      "recommendCount": "1464",
+      "title": "[討論] [Vtub] Hololive 日間直播單 (1150103)",
+      "link": "/bbs/C_Chat/M.1767394807.A.074",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2026/01/02 23:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "88",
       "recommendCount": "187",
       "title": "[新聞] 社會安全網淪選妃名單！衛生局績優督導濫權肉搜 偽裝嫖客性侵弱勢少女",
@@ -92,6 +102,16 @@
       "board": "Elephants",
       "publishTime": "2026/01/02 13:06",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "265",
+      "recommendCount": "525",
+      "title": "[LIVE] NBA 曼斐斯灰熊 @ 洛杉磯湖人 場中",
+      "link": "/bbs/SportLottery/M.1767410104.A.D92",
+      "author": "jerryyuan",
+      "board": "SportLottery",
+      "publishTime": "2026/01/03 03:15",
+      "imageUrl": "https://cache.pttweb.cc/imgur/9R0T49o/s/a830bb4e86e76ef5481c5a5a55333ef6"
     },
     {
       "recommendScore": "112",
@@ -144,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "106",
+      "recommendCount": "137",
+      "title": "[Vtub] 雪花菈米直播時出現謎樣氣音說「烏魯賽」",
+      "link": "/bbs/C_Chat/M.1767400906.A.C47",
+      "author": "k300plus",
+      "board": "C_Chat",
+      "publishTime": "2026/01/03 00:41",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "96",
       "recommendCount": "257",
       "title": "[閒聊] 楠木燈賣的耳機一副59400￥會很貴嗎？",
@@ -171,36 +201,6 @@
       "author": "victor87710",
       "board": "C_Chat",
       "publishTime": "2026/01/02 11:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "211",
-      "recommendCount": "342",
-      "title": "[LIVE] 足球 阿爾瓦達阿布達比0:1阿爾瓦斯爾 場",
-      "link": "/bbs/SportLottery/M.1767357525.A.D1E",
-      "author": "pandalove",
-      "board": "SportLottery",
-      "publishTime": "2026/01/02 12:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "78",
-      "recommendCount": "117",
-      "title": "[JOJO] 推特熱議：我cos阿布德爾就為了歧視？",
-      "link": "/bbs/C_Chat/M.1767360915.A.B1B",
-      "author": "outsmart33",
-      "board": "C_Chat",
-      "publishTime": "2026/01/02 13:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "78",
-      "recommendCount": "148",
-      "title": "[情報] Risacher跟教練溝通無效 扔毛巾",
-      "link": "/bbs/NBA/M.1767413134.A.1F2",
-      "author": "dragon803",
-      "board": "NBA",
-      "publishTime": "2026/01/03 04:05",
       "imageUrl": ""
     }
   ]
