@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-04T04:28:28.442Z",
+  "updated": "2026-01-04T04:50:06.570Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "80",
+      "recommendCount": "326",
+      "title": "[新聞] 川普突襲逮捕馬杜洛！財經網美：剩哪個不長眼的打台灣，應該會被斬首吧",
+      "link": "/bbs/Gossiping/M.1767485477.A.203",
+      "author": "betweenus020",
+      "board": "Gossiping",
+      "publishTime": "2026/01/04 00:11",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "160",
       "recommendCount": "292",
       "title": "[新聞] 快訊／美媒曝「川普下令空襲」！委內瑞拉總統宣布緊急狀態",
@@ -141,6 +151,16 @@
       "author": "zkow",
       "board": "Stock",
       "publishTime": "2026/01/03 08:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "140",
+      "recommendCount": "309",
+      "title": "[新聞] 陳水扁：卓榮泰下令禁播《總統鏡來講》播出會抓回籠",
+      "link": "/bbs/Gossiping/M.1767488408.A.FBC",
+      "author": "william8403",
+      "board": "Gossiping",
+      "publishTime": "2026/01/04 01:00",
       "imageUrl": ""
     },
     {
@@ -182,26 +202,6 @@
       "board": "LoL",
       "publishTime": "2026/01/03 08:37",
       "imageUrl": "https://cache.pttweb.cc/imgur/kKrSe7S/s/ad3d2fec00a51d132daed82364ca8fff"
-    },
-    {
-      "recommendScore": "96",
-      "recommendCount": "217",
-      "title": "[新聞] 民進黨2026北市熱門人選　賴清德讚吳思瑤「第一名立委」",
-      "link": "/bbs/Gossiping/M.1767447980.A.012",
-      "author": "HANASUCIA",
-      "board": "Gossiping",
-      "publishTime": "2026/01/03 13:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "54",
-      "recommendCount": "354",
-      "title": "[問卦] 親中俄的下場，委內瑞拉演給我們看了吧",
-      "link": "/bbs/Gossiping/M.1767438887.A.7B5",
-      "author": "holiybo",
-      "board": "Gossiping",
-      "publishTime": "2026/01/03 11:14",
-      "imageUrl": ""
     }
   ]
 }
