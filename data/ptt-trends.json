@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-04T11:35:01.952Z",
+  "updated": "2026-01-04T11:43:56.658Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -11,7 +11,7 @@
       "author": "Induction",
       "board": "Gossiping",
       "publishTime": "2026/01/03 12:49",
-      "imageUrl": "https://cache.pttweb.cc/imgur/SsbrqBv/s/6fecb4cf78d5f22bae246b0bd59a8f0b"
+      "imageUrl": ""
     },
     {
       "recommendScore": "247",
@@ -134,16 +134,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "98",
-      "recommendCount": "195",
-      "title": "[問卦] 校長被活捉抓去送審 你真的ok嗎",
-      "link": "/bbs/Gossiping/M.1767440524.A.A61",
-      "author": "ambitious",
-      "board": "Gossiping",
-      "publishTime": "2026/01/03 11:42",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "144",
       "recommendCount": "396",
       "title": "[新聞] 川普宣布美國「暫管」委內瑞拉　派石油公司進駐、不排除地面行動",
@@ -194,14 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "157",
-      "recommendCount": "419",
-      "title": "[Vtub] 彩虹社直接讓V新衣完換一個人都不管的？",
-      "link": "/bbs/C_Chat/M.1767440593.A.9B2",
-      "author": "UmiseYotsuha",
+      "recommendScore": "145",
+      "recommendCount": "486",
+      "title": "[閒聊] 台灣罐頭種類好像不怎麼多元",
+      "link": "/bbs/C_Chat/M.1767498049.A.8AE",
+      "author": "AZSX9630",
       "board": "C_Chat",
-      "publishTime": "2026/01/03 11:43",
-      "imageUrl": "https://cache.pttweb.cc/imgur/8FdBHLP/s/3788c435fcd98ae5e2b2c5c0bb364827"
+      "publishTime": "2026/01/04 03:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "95",
+      "recommendCount": "283",
+      "title": "[新聞]馬杜洛遭美軍突襲押上「硫磺島號」川普宣布：強勢介入石油業",
+      "link": "/bbs/Gossiping/M.1767454906.A.A4D",
+      "author": "zkow",
+      "board": "Gossiping",
+      "publishTime": "2026/01/03 15:41",
+      "imageUrl": ""
     }
   ]
 }
