@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-04T08:36:07.900Z",
+  "updated": "2026-01-04T08:48:01.849Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "602",
-      "recommendCount": "1342",
-      "title": "[電競] 2025-26德瑪西亞盃 決賽",
-      "link": "/bbs/LoL/M.1767429476.A.3D0",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/01/03 08:37",
-      "imageUrl": "https://cache.pttweb.cc/imgur/kKrSe7S/s/ad3d2fec00a51d132daed82364ca8fff"
-    },
-    {
       "recommendScore": "96",
       "recommendCount": "217",
       "title": "[新聞] 民進黨2026北市熱門人選　賴清德讚吳思瑤「第一名立委」",
@@ -201,6 +191,16 @@
       "author": "holiybo",
       "board": "Gossiping",
       "publishTime": "2026/01/03 11:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "25",
+      "recommendCount": "322",
+      "title": "[花邊] 富保羅:LBJ的生涯理應拿7次MVP和1次DPOY",
+      "link": "/bbs/NBA/M.1767442034.A.2CB",
+      "author": "shaaan",
+      "board": "NBA",
+      "publishTime": "2026/01/03 12:07",
       "imageUrl": ""
     }
   ]
