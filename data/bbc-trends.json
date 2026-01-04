@@ -1,14 +1,22 @@
 {
-  "updated": "2026-01-04T04:58:57.176Z",
+  "updated": "2026-01-04T05:23:34.635Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-04T04:58:44.000Z",
+    "lastBuildDate": "2026-01-04T05:23:31.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "間諜、無人機與火焰切割器：還原美國抓捕馬杜羅全過程",
+      "description": "這是數月精心策劃和演練的結果，美國精銳部隊甚至按馬杜羅位於加拉加斯的安全屋搭建了一個全尺寸複製品，以練習進入路線。",
+      "link": "https://www.bbc.com/zhongwen/articles/ckgjvemz1r9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-04T05:05:59.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckgjvemz1r9o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5456/live/f184aa00-e8ea-11f0-b67b-690eb873de1b.jpg"
+    },
     {
       "title": "特朗普為何攻擊委內瑞拉並捉拿馬杜羅？",
       "description": "美國總統特朗普表示，美軍在一次「大規模」打擊行動中捉拿了委內瑞拉領導人馬杜羅。",
@@ -26,14 +34,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/497e/live/33844a50-e7b5-11f0-a9a9-656bea93e33b.jpg"
     },
     {
-      "title": "台灣「不在籍投票」爭議：年輕人怎麼看？",
-      "description": "台灣平均每兩年就有一次選舉，現行規定要求選民必須回到「戶籍地」投票，意味約有兩百萬因就學或工作背井離鄉的人要「返鄉投票」，年輕人在高昂交通成本下受影響最深。立法院在野黨近期推動「不在籍投票」專法，BBC中文採訪多名年輕選民了解他們的心聲。\n",
-      "link": "https://www.bbc.com/zhongwen/articles/c1m70zkdv54o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-02T05:41:12.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1m70zkdv54o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4232/live/4e867d20-e60f-11f0-b9f3-c578ff9ce560.jpg"
-    },
-    {
       "title": "觀察：房地產巨頭萬科債務危機顯現，是否會成為下一個恆大",
       "description": "國資背景的大股東，似乎也未能讓萬科逃離債務危機。幾年前恆大危機爆發時，也是同樣的劇本：還款壓力、現金短缺、市場恐慌。 ",
       "link": "https://www.bbc.com/zhongwen/articles/c620rr41n0zo/trad?at_medium=RSS&at_campaign=rss",
@@ -42,12 +42,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ae1b/live/dae10720-e6f2-11f0-858c-317495da6677.jpg"
     },
     {
-      "title": "瑞士酒吧火災已致約40人死亡  目前已知重要信息匯總",
-      "description": "聖誕和新年假期是阿爾卑斯滑雪度假村最繁忙的時段之一，酒吧當時很可能擠滿了瑞士人和遊客。意大利外交部稱有16名該國公民失蹤，另有12至15人正在醫院接受治療。",
-      "link": "https://www.bbc.com/zhongwen/articles/ce8rv6y17dko/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-02T02:42:28.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce8rv6y17dko/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c2c/live/d88eef10-e719-11f0-b67b-690eb873de1b.jpg"
+      "title": "台灣「不在籍投票」爭議：年輕人怎麼看？",
+      "description": "台灣平均每兩年就有一次選舉，現行規定要求選民必須回到「戶籍地」投票，意味約有兩百萬因就學或工作背井離鄉的人要「返鄉投票」，年輕人在高昂交通成本下受影響最深。立法院在野黨近期推動「不在籍投票」專法，BBC中文採訪多名年輕選民了解他們的心聲。\n",
+      "link": "https://www.bbc.com/zhongwen/articles/c1m70zkdv54o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-02T05:41:12.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1m70zkdv54o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4232/live/4e867d20-e60f-11f0-b9f3-c578ff9ce560.jpg"
     },
     {
       "title": "解放軍軍演更多細節  : 創紀錄近身鎖台邁向「實戰預演」，「兩岸擦槍走火可能」升高",
@@ -72,6 +72,14 @@
       "pubDate": "2026-01-02T04:03:32.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c8x9lznv74xo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/060d/live/e5d26860-dcd2-11f0-bb5b-8b829d936cf4.jpg"
+    },
+    {
+      "title": "瑞士酒吧火災已致約40人死亡  目前已知重要信息匯總",
+      "description": "聖誕和新年假期是阿爾卑斯滑雪度假村最繁忙的時段之一，酒吧當時很可能擠滿了瑞士人和遊客。意大利外交部稱有16名該國公民失蹤，另有12至15人正在醫院接受治療。",
+      "link": "https://www.bbc.com/zhongwen/articles/ce8rv6y17dko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-02T02:42:28.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce8rv6y17dko/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c2c/live/d88eef10-e719-11f0-b67b-690eb873de1b.jpg"
     },
     {
       "title": "34歲曼達尼就任紐約新市長  社交媒體成就了他但這種勢頭能否保持",
@@ -104,14 +112,6 @@
       "pubDate": "2026-01-02T00:20:03.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy4qykzl4lpo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c291/live/830543f0-e412-11f0-b67b-690eb873de1b.png"
-    },
-    {
-      "title": "黎智英女兒稱父親在獄中「牙齒腐爛，指甲脫落」",
-      "description": "BBC看到黎智英家屬致函英國首相施紀賢的信件，敦促他在下月與中國國家主席習近平會晤時，呼籲釋放黎智英。",
-      "link": "https://www.bbc.com/zhongwen/articles/czr4g5772lro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-01T05:55:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/czr4g5772lro/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bade/live/e1f591e0-e61e-11f0-ba84-11119e07236b.jpg"
     },
     {
       "title": "瑞士滑雪聖地酒吧元旦大火：至少40人喪生 百餘人受傷",
@@ -210,6 +210,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3b3f/live/044b0770-e4a8-11f0-86bc-7f4eee801597.jpg"
     },
     {
+      "title": "黎智英女兒稱父親在獄中「牙齒腐爛，指甲脫落」",
+      "description": "BBC看到黎智英家屬致函英國首相施紀賢的信件，敦促他在下月與中國國家主席習近平會晤時，呼籲釋放黎智英。",
+      "link": "https://www.bbc.com/zhongwen/articles/czr4g5772lro/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-01T05:55:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/czr4g5772lro/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bade/live/e1f591e0-e61e-11f0-ba84-11119e07236b.jpg"
+    },
+    {
       "title": "「失敗」的珠峰垃圾按金制可能被等額清理費取代",
       "description": "經過11年，珠峰垃圾仍然在堆積，這項計劃因「未能顯示具體成果」而被擱置。",
       "link": "https://www.bbc.com/zhongwen/articles/cjrzdw81559o/trad?at_medium=RSS&at_campaign=rss",
@@ -224,14 +232,6 @@
       "pubDate": "2025-12-26T03:06:47.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn81wg1jw66o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bdb1/live/b608cf50-e1bb-11f0-a8dc-93c15fe68710.jpg"
-    },
-    {
-      "title": "快速吸粉近200萬的抖音號背後，「電子爸媽」讓中國Z世代迷上別樣的家庭",
-      "description": "「電子爸媽會且只會噓寒問暖，問我今天開不開心……我上班和同事溝通已經很累了，不想再聽吃了一代紅利的人教我怎麼做人情往來。」",
-      "link": "https://www.bbc.com/zhongwen/articles/c4g9ve081wzo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-12-25T04:04:48.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4g9ve081wzo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b287/live/8be132b0-e145-11f0-9cf8-9f74e637ecbc.jpg"
     },
     {
       "title": "香港宏福苑大火一個月，災民在安置與搬遷漂流中尋找新家",
