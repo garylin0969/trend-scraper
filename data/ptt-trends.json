@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-04T05:47:40.153Z",
+  "updated": "2026-01-04T05:56:16.148Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -41,6 +41,16 @@
       "author": "omanorboyo",
       "board": "Gossiping",
       "publishTime": "2026/01/03 09:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "247",
+      "recommendCount": "545",
+      "title": "[新聞] 陳水扁：卓榮泰下令禁播《總統鏡來講》播出會抓回籠",
+      "link": "/bbs/Gossiping/M.1767488408.A.FBC",
+      "author": "william8403",
+      "board": "Gossiping",
+      "publishTime": "2026/01/04 01:00",
       "imageUrl": ""
     },
     {
@@ -92,6 +102,16 @@
       "board": "Gossiping",
       "publishTime": "2026/01/03 11:48",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "140",
+      "recommendCount": "293",
+      "title": "[新聞] 高雄狼官性侵少女！衛生局竟「封口半年」李雅靜要局長下台",
+      "link": "/bbs/Gossiping/M.1767491704.A.821",
+      "author": "lovea",
+      "board": "Gossiping",
+      "publishTime": "2026/01/04 01:55",
+      "imageUrl": "https://cache.pttweb.cc/imgur/SsbrqBv/s/6fecb4cf78d5f22bae246b0bd59a8f0b"
     },
     {
       "recommendScore": "230",
@@ -154,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "140",
-      "recommendCount": "309",
-      "title": "[新聞] 陳水扁：卓榮泰下令禁播《總統鏡來講》播出會抓回籠",
-      "link": "/bbs/Gossiping/M.1767488408.A.FBC",
-      "author": "william8403",
-      "board": "Gossiping",
-      "publishTime": "2026/01/04 01:00",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "194",
       "recommendCount": "359",
       "title": "[新聞] 美國對委內瑞拉發動攻擊　川普稱已逮獲馬杜洛夫婦",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/03 06:11",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "602",
-      "recommendCount": "1342",
-      "title": "[電競] 2025-26德瑪西亞盃 決賽",
-      "link": "/bbs/LoL/M.1767429476.A.3D0",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/01/03 08:37",
-      "imageUrl": "https://cache.pttweb.cc/imgur/kKrSe7S/s/ad3d2fec00a51d132daed82364ca8fff"
     }
   ]
 }
