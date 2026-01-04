@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-04T05:56:16.148Z",
+  "updated": "2026-01-04T06:08:47.361Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,16 +74,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "146",
-      "recommendCount": "382",
-      "title": "[問卦] 高雄市民怎能忍受每月都有負面新聞？",
-      "link": "/bbs/Gossiping/M.1767419817.A.F1D",
-      "author": "kenbo",
-      "board": "Gossiping",
-      "publishTime": "2026/01/03 05:56",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "257",
       "recommendCount": "316",
       "title": "[地震] 地震",
@@ -104,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "146",
+      "recommendCount": "290",
+      "title": "[新聞] 高雄跨年夜開4槍2人中彈 法官放槍手「無保請回」檢傻眼抗告",
+      "link": "/bbs/Gossiping/M.1767496171.A.576",
+      "author": "TonyKart",
+      "board": "Gossiping",
+      "publishTime": "2026/01/04 03:09",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "140",
       "recommendCount": "293",
       "title": "[新聞] 高雄狼官性侵少女！衛生局竟「封口半年」李雅靜要局長下台",
@@ -121,6 +121,16 @@
       "author": "fwiller",
       "board": "SportLottery",
       "publishTime": "2026/01/03 14:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "160",
+      "recommendCount": "369",
+      "title": "[新聞] 川普宣布美國「暫管」委內瑞拉　派石油公司進駐、不排除地面行動",
+      "link": "/bbs/Gossiping/M.1767488829.A.5A9",
+      "author": "axxp",
+      "board": "Gossiping",
+      "publishTime": "2026/01/04 01:07",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "jimmy5680",
       "board": "Military",
       "publishTime": "2026/01/03 09:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "139",
-      "recommendCount": "266",
-      "title": "[新聞] 高雄心衛中心爆性侵案 國民黨：陳其邁何時出來震怒",
-      "link": "/bbs/Gossiping/M.1767420681.A.36E",
-      "author": "goatcheese",
-      "board": "Gossiping",
-      "publishTime": "2026/01/03 06:11",
       "imageUrl": ""
     }
   ]
