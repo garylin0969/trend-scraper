@@ -1,18 +1,8 @@
 {
-  "updated": "2026-01-04T09:17:47.120Z",
+  "updated": "2026-01-04T09:30:01.325Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "354",
-      "recommendCount": "670",
-      "title": "[爆卦] 川普：委內瑞拉總統馬杜羅被活捉",
-      "link": "/bbs/Gossiping/M.1767432377.A.0CD",
-      "author": "ntpcgov",
-      "board": "Gossiping",
-      "publishTime": "2026/01/03 09:26",
-      "imageUrl": "https://cache.pttweb.cc/imgur/OvqbdmL/s/1fa4a88a39316655cf428ce7ad7dec0f"
-    },
     {
       "recommendScore": "319",
       "recommendCount": "519",
@@ -154,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "14",
+      "recommendCount": "352",
+      "title": "[花邊] 富保羅:LBJ的生涯理應拿7次MVP和1次DPOY",
+      "link": "/bbs/NBA/M.1767442034.A.2CB",
+      "author": "shaaan",
+      "board": "NBA",
+      "publishTime": "2026/01/03 12:07",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "192",
       "recommendCount": "313",
       "title": "[情報] 川普宣稱美軍已經俘虜馬杜羅",
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "25",
-      "recommendCount": "322",
-      "title": "[花邊] 富保羅:LBJ的生涯理應拿7次MVP和1次DPOY",
-      "link": "/bbs/NBA/M.1767442034.A.2CB",
-      "author": "shaaan",
-      "board": "NBA",
-      "publishTime": "2026/01/03 12:07",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "220",
       "recommendCount": "565",
       "title": "[閒聊] 外國是可以直接進到他國抓對方元首的嗎",
@@ -201,6 +191,16 @@
       "author": "lycs0908",
       "board": "C_Chat",
       "publishTime": "2026/01/03 12:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "98",
+      "recommendCount": "195",
+      "title": "[問卦] 校長被活捉抓去送審 你真的ok嗎",
+      "link": "/bbs/Gossiping/M.1767440524.A.A61",
+      "author": "ambitious",
+      "board": "Gossiping",
+      "publishTime": "2026/01/03 11:42",
       "imageUrl": ""
     }
   ]
