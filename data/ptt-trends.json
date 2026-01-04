@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-04T06:45:01.949Z",
+  "updated": "2026-01-04T06:57:52.413Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -61,16 +61,6 @@
       "author": "betweenus020",
       "board": "Gossiping",
       "publishTime": "2026/01/04 00:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "201",
-      "recommendCount": "467",
-      "title": "[爆卦] 美軍對委內瑞拉首都發動打擊",
-      "link": "/bbs/Gossiping/M.1767422898.A.17C",
-      "author": "Anderson0819",
-      "board": "Gossiping",
-      "publishTime": "2026/01/03 06:48",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "Military",
       "publishTime": "2026/01/03 09:34",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "602",
+      "recommendCount": "1342",
+      "title": "[電競] 2025-26德瑪西亞盃 決賽",
+      "link": "/bbs/LoL/M.1767429476.A.3D0",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/01/03 08:37",
+      "imageUrl": "https://cache.pttweb.cc/imgur/kKrSe7S/s/ad3d2fec00a51d132daed82364ca8fff"
     }
   ]
 }
