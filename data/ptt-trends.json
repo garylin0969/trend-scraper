@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-04T10:31:43.873Z",
+  "updated": "2026-01-04T10:45:48.918Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "937",
-      "recommendCount": "1478",
-      "title": "[討論] [Vtub] Hololive 晚間直播單 (1150103)",
-      "link": "/bbs/C_Chat/M.1767436870.A.74A",
-      "author": "laptic",
-      "board": "C_Chat",
-      "publishTime": "2026/01/03 10:41",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "14",
       "recommendCount": "352",
       "title": "[花邊] 富保羅:LBJ的生涯理應拿7次MVP和1次DPOY",
@@ -201,6 +191,16 @@
       "author": "jinso7410",
       "board": "Gossiping",
       "publishTime": "2026/01/04 03:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "107",
+      "recommendCount": "451",
+      "title": "[新聞] 北京神盾失效! 委內瑞拉「南美最強防空」在美軍行動中崩潰",
+      "link": "/bbs/HatePolitics/M.1767482991.A.3C6",
+      "author": "CTC0115",
+      "board": "HatePolitics",
+      "publishTime": "2026/01/03 23:29",
       "imageUrl": ""
     }
   ]
