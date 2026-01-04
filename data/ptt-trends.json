@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-04T12:23:27.231Z",
+  "updated": "2026-01-04T12:46:58.120Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "220",
-      "recommendCount": "565",
-      "title": "[閒聊] 外國是可以直接進到他國抓對方元首的嗎",
-      "link": "/bbs/C_Chat/M.1767443799.A.A32",
-      "author": "lycs0908",
-      "board": "C_Chat",
-      "publishTime": "2026/01/03 12:36",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "144",
       "recommendCount": "396",
       "title": "[新聞] 川普宣布美國「暫管」委內瑞拉　派石油公司進駐、不排除地面行動",
@@ -201,6 +191,16 @@
       "author": "crashonU",
       "board": "Gossiping",
       "publishTime": "2026/01/04 08:16",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "92",
+      "recommendCount": "166",
+      "title": "[問卦] 這台筆電朋友賣我一萬值得收？",
+      "link": "/bbs/Gossiping/M.1767486766.A.620",
+      "author": "ilv1181023",
+      "board": "Gossiping",
+      "publishTime": "2026/01/04 00:32",
       "imageUrl": ""
     }
   ]
