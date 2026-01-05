@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-05T11:53:44.378Z",
+  "updated": "2026-01-05T12:10:46.989Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "66",
-      "recommendCount": "132",
-      "title": "[問卦] 美軍目前大量往中東集結？",
-      "link": "/bbs/Gossiping/M.1767528053.A.A7B",
-      "author": "peter080808",
-      "board": "Gossiping",
-      "publishTime": "2026/01/04 12:00",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "53",
       "recommendCount": "220",
       "title": "[問卦] 股板：「越窮的人越要投資」 正確嗎",
@@ -201,6 +191,16 @@
       "author": "joe199277",
       "board": "C_Chat",
       "publishTime": "2026/01/05 09:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "61",
+      "recommendCount": "100",
+      "title": "[標的] 台指期 空",
+      "link": "/bbs/Stock/M.1767587368.A.891",
+      "author": "wen456789",
+      "board": "Stock",
+      "publishTime": "2026/01/05 04:29",
       "imageUrl": ""
     }
   ]
