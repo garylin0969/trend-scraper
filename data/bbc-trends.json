@@ -1,21 +1,21 @@
 {
-  "updated": "2026-01-05T05:26:30.019Z",
+  "updated": "2026-01-05T05:54:24.223Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-05T05:26:15.000Z",
+    "lastBuildDate": "2026-01-05T05:54:15.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
     {
-      "title": "關於馬杜羅被捕及美國「接管」委內瑞拉計劃，我們目前已知什麼？",
-      "description": "特朗普說，美國石油公司將進入委內瑞拉以修復基礎設施，「並開始為國家賺錢」。他表示這些財富將流向委內瑞拉人民和美國。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgrlzz8z03o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-04T07:19:03.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgrlzz8z03o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/32b8/live/434dba00-e8d9-11f0-b67b-690eb873de1b.jpg"
+      "title": "美國特朗普政府抓捕委內瑞拉總統馬杜羅是否非法？",
+      "description": "委內瑞拉領導人被美國迅速抓捕，並可能將在美國法庭面臨指控，許多人質疑此舉是否違反國際法。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn0y8jp8y5po/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-05T05:38:29.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn0y8jp8y5po/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/78d1/live/0a13e1d0-e986-11f0-9d55-758d47cc7ae3.jpg"
     },
     {
       "title": "分析：特朗普推翻馬杜羅蘊含重重風險，未來會發生什麼仍不明朗",
@@ -26,14 +26,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2953/live/35763f50-e8b2-11f0-b883-037c14a72405.jpg"
     },
     {
-      "title": "間諜、無人機與火焰切割器：還原美國抓捕馬杜羅全過程",
-      "description": "這是數月精心策劃和演練的結果，美國精銳部隊甚至按馬杜羅位於加拉加斯的安全屋搭建了一個全尺寸複製品，以練習進入路線。",
-      "link": "https://www.bbc.com/zhongwen/articles/ckgjvemz1r9o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-04T05:05:59.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckgjvemz1r9o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6fc3/live/a7dee6e0-e93f-11f0-b67b-690eb873de1b.jpg"
-    },
-    {
       "title": "李在明訪華：特別行程安排與多項核心議題",
       "description": "雙方的訴求與籌碼將擺在談判桌上：歷史問題、台灣問題立場、朝鮮半島核問題、芯片供應鏈以及文化產品解禁，甚至對沖特朗普影響的默契。",
       "link": "https://www.bbc.com/zhongwen/articles/c7v06j71g67o/trad?at_medium=RSS&at_campaign=rss",
@@ -42,12 +34,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/497e/live/33844a50-e7b5-11f0-a9a9-656bea93e33b.jpg"
     },
     {
-      "title": "康普茶皮革、3D列印、海藻布料……這些新材料會代表未來服裝時尚嗎？",
-      "description": "時尚產業佔全球溫室氣體排放比例高達8%，科學家與品牌正研發對環境更友善的新型材料。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4grze17k93o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-05T00:10:12.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4grze17k93o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/009b/live/1e8a8910-ab34-11f0-a94b-bd0a0d9557d9.jpg"
+      "title": "關於馬杜羅被捕及美國「接管」委內瑞拉計劃，我們目前已知什麼？",
+      "description": "特朗普說，美國石油公司將進入委內瑞拉以修復基礎設施，「並開始為國家賺錢」。他表示這些財富將流向委內瑞拉人民和美國。",
+      "link": "https://www.bbc.com/zhongwen/articles/cvgrlzz8z03o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-04T07:19:03.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvgrlzz8z03o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/32b8/live/434dba00-e8d9-11f0-b67b-690eb873de1b.jpg"
+    },
+    {
+      "title": "間諜、無人機與火焰切割器：還原美國抓捕馬杜羅全過程",
+      "description": "這是數月精心策劃和演練的結果，美國精銳部隊甚至按馬杜羅位於加拉加斯的安全屋搭建了一個全尺寸複製品，以練習進入路線。",
+      "link": "https://www.bbc.com/zhongwen/articles/ckgjvemz1r9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-04T05:05:59.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckgjvemz1r9o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6fc3/live/a7dee6e0-e93f-11f0-b67b-690eb873de1b.jpg"
     },
     {
       "title": "特朗普為何攻擊委內瑞拉並捉拿馬杜羅？",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2377/live/834d4bc0-d3f3-11f0-9107-738f275ca6af.jpg"
     },
     {
+      "title": "康普茶皮革、3D列印、海藻布料……這些新材料會代表未來服裝時尚嗎？",
+      "description": "時尚產業佔全球溫室氣體排放比例高達8%，科學家與品牌正研發對環境更友善的新型材料。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4grze17k93o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-05T00:10:12.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4grze17k93o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/009b/live/1e8a8910-ab34-11f0-a94b-bd0a0d9557d9.jpg"
+    },
+    {
       "title": "「太空製造」對半導體產業意味著什麼",
       "description": "英國已將一個小型「太空工廠」送入近地軌道，並啟動達到約1000°C高溫的半導體熔爐。在失重環境中製造時，半導體材料原子能夠完美對齊，而太空的真空狀態也能防止污染物進入。\n",
       "link": "https://www.bbc.com/zhongwen/articles/c8x9lznv74xo/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2026-01-02T00:20:03.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy4qykzl4lpo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c291/live/830543f0-e412-11f0-b67b-690eb873de1b.png"
-    },
-    {
-      "title": "蘇格蘭郊區小鎮發現的史前鯊魚化石諸多疑問未解",
-      "description": "這具化石如此完整，以至於在這條魚死後3.3億年，專家還能看到牠吃的最後一餐所留下的殘跡。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgrgymzxz2o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-01T00:22:39.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgrgymzxz2o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/989b/live/48759070-d5b0-11f0-a80f-4194a66f2469.jpg"
     }
   ]
 }
