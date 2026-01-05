@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-05T08:59:33.618Z",
+  "updated": "2026-01-05T09:16:04.692Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -11,6 +11,26 @@
       "author": "coconing",
       "board": "Stock",
       "publishTime": "2026/01/05 07:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "116",
+      "recommendCount": "479",
+      "title": "[新聞] 暗嗆川普霸凌委內瑞拉！習近平：大國應帶頭尊重他國自主發展",
+      "link": "/bbs/Gossiping/M.1767597112.A.E48",
+      "author": "ben28",
+      "board": "Gossiping",
+      "publishTime": "2026/01/05 07:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "94",
+      "recommendCount": "305",
+      "title": "[新聞] 全球薪水排名！台北平均月薪5.5萬贏過北京上海　日內瓦奪冠",
+      "link": "/bbs/Gossiping/M.1767595905.A.47D",
+      "author": "lycppt",
+      "board": "Gossiping",
+      "publishTime": "2026/01/05 06:51",
       "imageUrl": ""
     },
     {
@@ -41,6 +61,16 @@
       "author": "Nalbandian",
       "board": "Gossiping",
       "publishTime": "2026/01/05 04:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "105",
+      "recommendCount": "182",
+      "title": "[情報] 0105 上市外資買賣超排行",
+      "link": "/bbs/Stock/M.1767600597.A.00A",
+      "author": "saber50116",
+      "board": "Stock",
+      "publishTime": "2026/01/05 08:09",
       "imageUrl": ""
     },
     {
@@ -114,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "55",
+      "recommendCount": "141",
+      "title": "[問卦] 不買股票就活該等死嗎？",
+      "link": "/bbs/Gossiping/M.1767596511.A.90A",
+      "author": "addison123",
+      "board": "Gossiping",
+      "publishTime": "2026/01/05 07:01",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "61",
       "recommendCount": "100",
       "title": "[標的] 台指期 空",
@@ -134,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "68",
+      "recommendCount": "122",
+      "title": "[問卦] 台股八個月漲了1萬多點  最應該要感謝誰",
+      "link": "/bbs/Gossiping/M.1767598729.A.7EF",
+      "author": "newpasta",
+      "board": "Gossiping",
+      "publishTime": "2026/01/05 07:38",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "61",
       "recommendCount": "186",
       "title": "[討論] Cheap：這世界不是靠講道理，是靠飛彈",
@@ -151,56 +201,6 @@
       "author": "SaberMyWifi",
       "board": "C_Chat",
       "publishTime": "2026/01/04 13:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "50",
-      "recommendCount": "127",
-      "title": "[黑特] 賴世葆：我們政府要譴責美國侵略嗎？",
-      "link": "/bbs/HatePolitics/M.1767594962.A.69E",
-      "author": "jackie0414",
-      "board": "HatePolitics",
-      "publishTime": "2026/01/05 06:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "44",
-      "recommendCount": "101",
-      "title": "[問卦] 台股破3萬是誰的功勞？",
-      "link": "/bbs/Gossiping/M.1767577470.A.0E0",
-      "author": "bbbb25487",
-      "board": "Gossiping",
-      "publishTime": "2026/01/05 01:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "59",
-      "recommendCount": "99",
-      "title": "[新聞] 誇張！高雄超過7成社區活動中心是違建 設備老舊不給錢修",
-      "link": "/bbs/Gossiping/M.1767535679.A.661",
-      "author": "usnavyseal",
-      "board": "Gossiping",
-      "publishTime": "2026/01/04 14:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "78",
-      "recommendCount": "152",
-      "title": "[討論] 湖人十分差內比賽罰球差(不含十分)",
-      "link": "/bbs/NBA/M.1767595588.A.CEE",
-      "author": "RodrigueZ810",
-      "board": "NBA",
-      "publishTime": "2026/01/05 06:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "40",
-      "recommendCount": "113",
-      "title": "[新聞] 蓋牌封鎖半年？高市府：配合檢方要求保密避免被害人二次傷害",
-      "link": "/bbs/Gossiping/M.1767586447.A.A4D",
-      "author": "iolcst",
-      "board": "Gossiping",
-      "publishTime": "2026/01/05 04:14",
       "imageUrl": ""
     }
   ]
