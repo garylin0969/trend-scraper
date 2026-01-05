@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-05T10:11:55.305Z",
+  "updated": "2026-01-05T10:31:43.053Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "142",
+      "recommendCount": "301",
+      "title": "[新聞] 林宜瑾《兩岸條例》撤案了 網炸鍋開酸：以為會撐久一點",
+      "link": "/bbs/Gossiping/M.1767603540.A.212",
+      "author": "tsengcc",
+      "board": "Gossiping",
+      "publishTime": "2026/01/05 08:59",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "94",
       "recommendCount": "305",
       "title": "[新聞] 全球薪水排名！台北平均月薪5.5萬贏過北京上海　日內瓦奪冠",
@@ -31,6 +41,26 @@
       "author": "lycppt",
       "board": "Gossiping",
       "publishTime": "2026/01/05 06:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "86",
+      "recommendCount": "232",
+      "title": "[爆卦] 星媒: 台北外牆不刷 鐵窗亂掛 街景真的醜",
+      "link": "/bbs/Gossiping/M.1767603973.A.D8F",
+      "author": "usnavyseal",
+      "board": "Gossiping",
+      "publishTime": "2026/01/05 09:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "132",
+      "recommendCount": "223",
+      "title": "[閒聊] 出租女友 407 日文文字情報",
+      "link": "/bbs/C_Chat/M.1767597013.A.BB8",
+      "author": "k300plus",
+      "board": "C_Chat",
+      "publishTime": "2026/01/05 07:10",
       "imageUrl": ""
     },
     {
@@ -124,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "81",
+      "recommendCount": "142",
+      "title": "[閒聊] 在台灣餃子要包什麼才會被處死？",
+      "link": "/bbs/C_Chat/M.1767599347.A.4D5",
+      "author": "negisan39",
+      "board": "C_Chat",
+      "publishTime": "2026/01/05 07:49",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "69",
       "recommendCount": "149",
       "title": "[新聞] 貓圖自介「我是台灣人」洗版　雷丘律師：引起反感",
@@ -144,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "53",
+      "recommendCount": "220",
+      "title": "[問卦] 股板：「越窮的人越要投資」 正確嗎",
+      "link": "/bbs/Gossiping/M.1767605352.A.C91",
+      "author": "b9002052",
+      "board": "Gossiping",
+      "publishTime": "2026/01/05 09:29",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "55",
       "recommendCount": "141",
       "title": "[問卦] 不買股票就活該等死嗎？",
@@ -151,56 +201,6 @@
       "author": "addison123",
       "board": "Gossiping",
       "publishTime": "2026/01/05 07:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "61",
-      "recommendCount": "100",
-      "title": "[標的] 台指期 空",
-      "link": "/bbs/Stock/M.1767587368.A.891",
-      "author": "wen456789",
-      "board": "Stock",
-      "publishTime": "2026/01/05 04:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "12",
-      "recommendCount": "131",
-      "title": "[新聞] 爆發「心衛之狼」醜聞第4天 高市衛生局長黃志中回應了",
-      "link": "/bbs/Gossiping/M.1767585849.A.A7C",
-      "author": "loechen",
-      "board": "Gossiping",
-      "publishTime": "2026/01/05 04:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "68",
-      "recommendCount": "122",
-      "title": "[問卦] 台股八個月漲了1萬多點  最應該要感謝誰",
-      "link": "/bbs/Gossiping/M.1767598729.A.7EF",
-      "author": "newpasta",
-      "board": "Gossiping",
-      "publishTime": "2026/01/05 07:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "61",
-      "recommendCount": "186",
-      "title": "[討論] Cheap：這世界不是靠講道理，是靠飛彈",
-      "link": "/bbs/HatePolitics/M.1767533427.A.FA9",
-      "author": "LeeSeDol",
-      "board": "HatePolitics",
-      "publishTime": "2026/01/04 13:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "88",
-      "recommendCount": "89",
-      "title": "[絕區] 一定是因為每次都發錢積的陰德！",
-      "link": "/bbs/C_Chat/M.1767534064.A.01A",
-      "author": "SaberMyWifi",
-      "board": "C_Chat",
-      "publishTime": "2026/01/04 13:41",
       "imageUrl": ""
     }
   ]
