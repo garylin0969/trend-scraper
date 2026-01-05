@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-05T18:45:48.108Z",
+  "updated": "2026-01-05T18:58:57.742Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "77",
-      "recommendCount": "168",
-      "title": "[問卦] 聽到「養我」就萌生退意",
-      "link": "/bbs/Gossiping/M.1767535465.A.F8E",
-      "author": "noah5566",
-      "board": "Gossiping",
-      "publishTime": "2026/01/04 14:04",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "133",
       "recommendCount": "142",
       "title": "[發錢] 出租女友 407 更正情報 道歉發錢",
@@ -201,6 +191,16 @@
       "author": "loechen",
       "board": "Gossiping",
       "publishTime": "2026/01/05 04:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "68",
+      "recommendCount": "122",
+      "title": "[問卦] 台股八個月漲了1萬多點  最應該要感謝誰",
+      "link": "/bbs/Gossiping/M.1767598729.A.7EF",
+      "author": "newpasta",
+      "board": "Gossiping",
+      "publishTime": "2026/01/05 07:38",
       "imageUrl": ""
     }
   ]
