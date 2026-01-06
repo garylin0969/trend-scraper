@@ -1,22 +1,14 @@
 {
-  "updated": "2026-01-06T09:23:45.743Z",
+  "updated": "2026-01-06T09:50:52.573Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-06T09:23:34.000Z",
+    "lastBuildDate": "2026-01-06T09:50:49.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
-    {
-      "title": "馬杜羅首次庭審現場直擊：「我是總統和戰俘，被綁到了這裡」",
-      "description": "在這場長達40分鐘的提訊過程中，馬杜羅與其妻子西莉亞·弗洛雷斯對毒品與武器指控表示不認罪。",
-      "link": "https://www.bbc.com/zhongwen/articles/c3r1q5xj19no/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-06T06:15:04.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3r1q5xj19no/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5abd/live/9b70dcc0-eac4-11f0-b385-5f48925de19a.jpg"
-    },
     {
       "title": "香港外傭的困境：一旦懷孕就會「很恐懼」",
       "description": "2025年6月外傭在香港僱主家中誕下已28周的死胎一案轟動一時。BBC採訪了兩位有懷孕經歷的菲律賓和印尼「姐姐」，記錄她們的經歷和香港社會對此現象的反思。",
@@ -24,6 +16,14 @@
       "pubDate": "2026-01-06T00:25:21.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c3edjqgyk13o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8dee/live/c7eb6fd0-e6b5-11f0-b67b-690eb873de1b.jpg"
+    },
+    {
+      "title": "中日外交戰陰影下的中國移民  首次看到攻擊性塗鴉「感到寒毛直豎」",
+      "description": "中國移民人數在日本一直不斷攀升，迄今已成為日本最大的外國居民群體。一些移民向BBC表示，自己的生活也在兩國關係的起伏之中遭遇變動。",
+      "link": "https://www.bbc.com/zhongwen/articles/ce3ewgzj0qpo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-05T07:22:58.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce3ewgzj0qpo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3516/live/7404d900-d59a-11f0-96a4-935f66be2975.jpg"
     },
     {
       "title": "業餘馬拉松中國「最快女護士」辭職：輿論風暴下有哪些爭議",
@@ -34,12 +34,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8437/live/14bf8860-eaa7-11f0-b5f7-49f0357294ff.png"
     },
     {
-      "title": "中日外交戰陰影下的中國移民  首次看到攻擊性塗鴉「感到寒毛直豎」",
-      "description": "中國移民人數在日本一直不斷攀升，迄今已成為日本最大的外國居民群體。一些移民向BBC表示，自己的生活也在兩國關係的起伏之中遭遇變動。",
-      "link": "https://www.bbc.com/zhongwen/articles/ce3ewgzj0qpo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-05T07:22:58.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce3ewgzj0qpo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3516/live/7404d900-d59a-11f0-96a4-935f66be2975.jpg"
+      "title": "馬杜羅首次庭審現場直擊：「我是總統和戰俘，被綁到了這裡」",
+      "description": "在這場長達40分鐘的提訊過程中，馬杜羅與其妻子西莉亞·弗洛雷斯對毒品與武器指控表示不認罪。",
+      "link": "https://www.bbc.com/zhongwen/articles/c3r1q5xj19no/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-06T06:15:04.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3r1q5xj19no/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5abd/live/9b70dcc0-eac4-11f0-b385-5f48925de19a.jpg"
     },
     {
       "title": "馬杜羅被控罪名及相關證據是什麼？",
