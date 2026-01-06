@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-06T04:26:23.280Z",
+  "updated": "2026-01-06T04:46:00.663Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -64,26 +64,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "149",
-      "recommendCount": "160",
-      "title": "Re: [問卦] 股市三萬點了 今年不需要普發了吧?",
-      "link": "/bbs/Gossiping/M.1767587082.A.3C3",
-      "author": "CuLiZn5566",
-      "board": "Gossiping",
-      "publishTime": "2026/01/05 04:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "98",
-      "recommendCount": "190",
-      "title": "[新聞] 小當家「餃子塞通心粉」遭處死！作者崩潰求助AI幫忙",
-      "link": "/bbs/Gossiping/M.1767586155.A.353",
-      "author": "Nalbandian",
-      "board": "Gossiping",
-      "publishTime": "2026/01/05 04:09",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "105",
       "recommendCount": "182",
       "title": "[情報] 0105 上市外資買賣超排行",
@@ -114,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "107",
+      "recommendCount": "167",
+      "title": "[BOX ] Nuggets 125:124 76ers",
+      "link": "/bbs/NBA/M.1767672939.A.9AE",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2026/01/06 04:15",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "44",
       "recommendCount": "146",
       "title": "[新聞] 獨／改善台股結構失衡 證交所將推出「價值提升計畫」",
@@ -121,16 +111,6 @@
       "author": "wu73",
       "board": "Stock",
       "publishTime": "2026/01/05 15:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "45",
-      "recommendCount": "137",
-      "title": "[請益]當初說要留10%現金,結果這10%反而虧慘了..",
-      "link": "/bbs/Stock/M.1767586223.A.3F9",
-      "author": "JessicaKuo",
-      "board": "Stock",
-      "publishTime": "2026/01/05 04:10",
       "imageUrl": ""
     },
     {
@@ -174,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "61",
-      "recommendCount": "100",
-      "title": "[標的] 台指期 空",
-      "link": "/bbs/Stock/M.1767587368.A.891",
-      "author": "wen456789",
-      "board": "Stock",
-      "publishTime": "2026/01/05 04:29",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "68",
       "recommendCount": "122",
       "title": "[問卦] 台股八個月漲了1萬多點  最應該要感謝誰",
@@ -201,6 +171,36 @@
       "author": "jackie0414",
       "board": "HatePolitics",
       "publishTime": "2026/01/05 06:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "76",
+      "recommendCount": "198",
+      "title": "[閒聊] 馬斯克：我們已經進入了特異點",
+      "link": "/bbs/C_Chat/M.1767596703.A.4A5",
+      "author": "wowbenny",
+      "board": "C_Chat",
+      "publishTime": "2026/01/05 07:05",
+      "imageUrl": "https://cache.pttweb.cc/imgur/n0W0aVj/s/ebfda1955c006aa2d5349f937065b69b"
+    },
+    {
+      "recommendScore": "78",
+      "recommendCount": "152",
+      "title": "[討論] 湖人十分差內比賽罰球差(不含十分)",
+      "link": "/bbs/NBA/M.1767595588.A.CEE",
+      "author": "RodrigueZ810",
+      "board": "NBA",
+      "publishTime": "2026/01/05 06:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "75",
+      "recommendCount": "88",
+      "title": "[閒聊] 逆命跟葛雷夫的 CP 簡稱是逆葛嗎？",
+      "link": "/bbs/LoL/M.1767606244.A.C78",
+      "author": "y12544",
+      "board": "LoL",
+      "publishTime": "2026/01/05 09:44",
       "imageUrl": ""
     }
   ]
