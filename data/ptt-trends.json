@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-06T07:42:57.790Z",
+  "updated": "2026-01-06T07:54:15.855Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "81",
-      "recommendCount": "142",
-      "title": "[閒聊] 在台灣餃子要包什麼才會被處死？",
-      "link": "/bbs/C_Chat/M.1767599347.A.4D5",
-      "author": "negisan39",
-      "board": "C_Chat",
-      "publishTime": "2026/01/05 07:49",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "41",
       "recommendCount": "137",
       "title": "[新聞] 賴清德支持度崩盤！林濁水曝「關鍵分水嶺」　嘆民進黨缺乏遠見",
@@ -201,6 +191,16 @@
       "author": "kinjk01",
       "board": "Gossiping",
       "publishTime": "2026/01/06 01:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "63",
+      "recommendCount": "168",
+      "title": "[美盤] 台灣人有多愛好市多",
+      "link": "/bbs/C_Chat/M.1767665245.A.EAD",
+      "author": "silentknight",
+      "board": "C_Chat",
+      "publishTime": "2026/01/06 02:07",
       "imageUrl": ""
     }
   ]
