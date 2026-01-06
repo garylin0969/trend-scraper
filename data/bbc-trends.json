@@ -1,10 +1,10 @@
 {
-  "updated": "2026-01-06T06:55:08.324Z",
+  "updated": "2026-01-06T07:23:55.438Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-06T06:55:01.000Z",
+    "lastBuildDate": "2026-01-06T07:23:44.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -42,11 +42,19 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3516/live/7404d900-d59a-11f0-96a4-935f66be2975.jpg"
     },
     {
+      "title": "馬杜羅被控罪名及相關證據是什麼？",
+      "description": "這份長達25頁的起訴文件詳述了一系列指控，包括馬杜羅及其妻子涉嫌下令綁架、毆打與謀殺。",
+      "link": "https://www.bbc.com/zhongwen/articles/c8d0qz8jvg5o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-06T07:20:22.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c8d0qz8jvg5o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/98db/live/7f838830-ea5d-11f0-b5f7-49f0357294ff.jpg"
+    },
+    {
       "title": "委內瑞拉之後，特朗普的目標可能是哪些國家？",
       "description": "特朗普曾多次對華盛頓勢力範圍內的其他國家發出威脅。",
       "link": "https://www.bbc.com/zhongwen/articles/c3ed3k953z0o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-01-06T02:39:02.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3ed3k953z0o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3ed3k953z0o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7d42/live/429d1a40-ea2f-11f0-bee8-cb37bc70a803.jpg"
     },
     {
@@ -104,14 +112,6 @@
       "pubDate": "2026-01-01T00:42:25.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ce8q8r1jlrpo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/00ee/live/73661bc0-e563-11f0-baf8-492205ca0c9f.jpg"
-    },
-    {
-      "title": "台灣「不在籍投票」爭議：年輕人怎麼看？",
-      "description": "台灣平均每兩年就有一次選舉，現行規定要求選民必須回到「戶籍地」投票，意味約有兩百萬因就學或工作背井離鄉的人要「返鄉投票」，年輕人在高昂交通成本下受影響最深。立法院在野黨近期推動「不在籍投票」專法，BBC中文採訪多名年輕選民了解他們的心聲。\n",
-      "link": "https://www.bbc.com/zhongwen/articles/c1m70zkdv54o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-02T05:41:12.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1m70zkdv54o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4232/live/4e867d20-e60f-11f0-b9f3-c578ff9ce560.jpg"
     },
     {
       "title": "特朗普為何要跨境抓捕委內瑞拉總統馬杜羅？",
@@ -226,12 +226,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3b3f/live/044b0770-e4a8-11f0-86bc-7f4eee801597.jpg"
     },
     {
-      "title": "黎智英女兒稱父親在獄中「牙齒腐爛，指甲脫落」",
-      "description": "BBC看到黎智英家屬致函英國首相施紀賢的信件，敦促他在下月與中國國家主席習近平會晤時，呼籲釋放黎智英。",
-      "link": "https://www.bbc.com/zhongwen/articles/czr4g5772lro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-01T05:55:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/czr4g5772lro/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bade/live/e1f591e0-e61e-11f0-ba84-11119e07236b.jpg"
+      "title": "台灣「不在籍投票」爭議：年輕人怎麼看？",
+      "description": "台灣平均每兩年就有一次選舉，現行規定要求選民必須回到「戶籍地」投票，意味約有兩百萬因就學或工作背井離鄉的人要「返鄉投票」，年輕人在高昂交通成本下受影響最深。立法院在野黨近期推動「不在籍投票」專法，BBC中文採訪多名年輕選民了解他們的心聲。\n",
+      "link": "https://www.bbc.com/zhongwen/articles/c1m70zkdv54o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-02T05:41:12.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1m70zkdv54o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4232/live/4e867d20-e60f-11f0-b9f3-c578ff9ce560.jpg"
     },
     {
       "title": "南京博物院爆倒賣文物疑案：一文匯總事態發展",
