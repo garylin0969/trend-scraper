@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-06T03:01:11.115Z",
+  "updated": "2026-01-06T03:39:03.574Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "44",
+      "recommendCount": "146",
+      "title": "[新聞] 獨／改善台股結構失衡 證交所將推出「價值提升計畫」",
+      "link": "/bbs/Stock/M.1767627027.A.AEE",
+      "author": "wu73",
+      "board": "Stock",
+      "publishTime": "2026/01/05 15:30",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "45",
       "recommendCount": "137",
       "title": "[請益]當初說要留10%現金,結果這10%反而虧慘了..",
@@ -191,16 +201,6 @@
       "author": "newpasta",
       "board": "Gossiping",
       "publishTime": "2026/01/05 07:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "50",
-      "recommendCount": "127",
-      "title": "[黑特] 賴世葆：我們政府要譴責美國侵略嗎？",
-      "link": "/bbs/HatePolitics/M.1767594962.A.69E",
-      "author": "jackie0414",
-      "board": "HatePolitics",
-      "publishTime": "2026/01/05 06:36",
       "imageUrl": ""
     }
   ]
