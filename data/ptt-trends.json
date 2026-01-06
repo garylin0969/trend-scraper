@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-06T08:44:30.318Z",
+  "updated": "2026-01-06T08:58:12.108Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "142",
+      "recommendCount": "237",
+      "title": "[BOX ] Warriors 102:103 Clippers",
+      "link": "/bbs/NBA/M.1767677717.A.A8B",
+      "author": "KC90",
+      "board": "NBA",
+      "publishTime": "2026/01/06 05:35",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "86",
       "recommendCount": "232",
       "title": "[爆卦] 星媒: 台北外牆不刷 鐵窗亂掛 街景真的醜",
@@ -44,13 +54,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "117",
-      "recommendCount": "186",
-      "title": "[BOX ] Warriors 102:103 Clippers",
-      "link": "/bbs/NBA/M.1767677717.A.A8B",
-      "author": "KC90",
+      "recommendScore": "109",
+      "recommendCount": "389",
+      "title": "[花邊] KD說他被太陽踢出球隊 自己是代罪羔羊",
+      "link": "/bbs/NBA/M.1767673718.A.5C5",
+      "author": "Skyblueway",
       "board": "NBA",
-      "publishTime": "2026/01/06 05:35",
+      "publishTime": "2026/01/06 04:28",
       "imageUrl": ""
     },
     {
@@ -184,23 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "63",
-      "recommendCount": "168",
-      "title": "[美盤] 台灣人有多愛好市多",
-      "link": "/bbs/C_Chat/M.1767665245.A.EAD",
-      "author": "silentknight",
-      "board": "C_Chat",
-      "publishTime": "2026/01/06 02:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "75",
-      "recommendCount": "88",
-      "title": "[閒聊] 逆命跟葛雷夫的 CP 簡稱是逆葛嗎？",
-      "link": "/bbs/LoL/M.1767606244.A.C78",
-      "author": "y12544",
-      "board": "LoL",
-      "publishTime": "2026/01/05 09:44",
+      "recommendScore": "60",
+      "recommendCount": "98",
+      "title": "[情報] 今日Kobe Michael Sanders 生涯新高",
+      "link": "/bbs/NBA/M.1767677859.A.813",
+      "author": "c27932589",
+      "board": "NBA",
+      "publishTime": "2026/01/06 05:37",
       "imageUrl": ""
     }
   ]
