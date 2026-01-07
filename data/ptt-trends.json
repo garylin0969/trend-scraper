@@ -1,18 +1,8 @@
 {
-  "updated": "2026-01-07T05:31:28.263Z",
+  "updated": "2026-01-07T05:44:31.173Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "198",
-      "recommendCount": "447",
-      "title": "[新聞] 快訊／宣布北市營養午餐將全面免費　蔣萬安：減輕家庭經濟支出",
-      "link": "/bbs/Gossiping/M.1767677867.A.6F9",
-      "author": "a0580531",
-      "board": "Gossiping",
-      "publishTime": "2026/01/06 05:37",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "101",
       "recommendCount": "238",
@@ -21,16 +11,6 @@
       "author": "SEVENxELEVEN",
       "board": "Gossiping",
       "publishTime": "2026/01/06 06:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "151",
-      "recommendCount": "251",
-      "title": "[BOX ] Warriors 102:103 Clippers",
-      "link": "/bbs/NBA/M.1767677717.A.A8B",
-      "author": "KC90",
-      "board": "NBA",
-      "publishTime": "2026/01/06 05:35",
       "imageUrl": ""
     },
     {
@@ -101,16 +81,6 @@
       "author": "DoncicInPTT",
       "board": "BaseballXXXX",
       "publishTime": "2026/01/06 09:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "63",
-      "recommendCount": "283",
-      "title": "[討論] cheap為什麼討厭dpp",
-      "link": "/bbs/HatePolitics/M.1767678040.A.2A8",
-      "author": "a800275",
-      "board": "HatePolitics",
-      "publishTime": "2026/01/06 05:40",
       "imageUrl": ""
     },
     {
@@ -194,14 +164,44 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "67",
-      "recommendCount": "113",
-      "title": "[新聞] 台南驚見「iPhone手槍」可殺人  45歲前科",
-      "link": "/bbs/Gossiping/M.1767677745.A.172",
-      "author": "juyhnmki",
+      "recommendScore": "72",
+      "recommendCount": "125",
+      "title": "[新聞] 快訊／F-16意外！飛官疑跳傘逃生下落不明　空軍展開搜尋",
+      "link": "/bbs/Gossiping/M.1767702264.A.0EE",
+      "author": "jal0309",
       "board": "Gossiping",
-      "publishTime": "2026/01/06 05:35",
-      "imageUrl": "https://cache.pttweb.cc/imgur/xLcSbf1/s/a1b82f11c27ad969b0db4cbc5a0ffaad"
+      "publishTime": "2026/01/06 12:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "39",
+      "recommendCount": "156",
+      "title": "[花邊] Curry為他高難度三分打被沒收感到憤怒",
+      "link": "/bbs/NBA/M.1767682610.A.0B7",
+      "author": "s24066774",
+      "board": "NBA",
+      "publishTime": "2026/01/06 06:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "66",
+      "recommendCount": "113",
+      "title": "[請益] 台積電1680算貴嗎",
+      "link": "/bbs/Stock/M.1767754835.A.73E",
+      "author": "something82",
+      "board": "Stock",
+      "publishTime": "2026/01/07 03:00",
+      "imageUrl": "https://cache.pttweb.cc/imgur/gkp8F0Z/s/9fea00cd5c885e0c4d9b350167fe5f6d"
+    },
+    {
+      "recommendScore": "50",
+      "recommendCount": "117",
+      "title": "[新聞] 星宇員工不滿年終僅1個月 張國煒「聽到了」：請大家諒解",
+      "link": "/bbs/Stock/M.1767685548.A.A6F",
+      "author": "EVGAMIS",
+      "board": "Stock",
+      "publishTime": "2026/01/06 07:45",
+      "imageUrl": ""
     }
   ]
 }
