@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-07T05:13:52.064Z",
+  "updated": "2026-01-07T05:31:28.263Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -52,16 +52,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/06 06:30",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "-85",
-      "recommendCount": "224",
-      "title": "[新聞] 快新聞／藍白惡擋總預算「TPASS」3月恐斷炊 陳其邁籲高抬貴手：以蒼生為念",
-      "link": "/bbs/Gossiping/M.1767676488.A.DC1",
-      "author": "TPPKoWenJe",
-      "board": "Gossiping",
-      "publishTime": "2026/01/06 05:14",
-      "imageUrl": "https://cache.pttweb.cc/imgur/EGC9Wdv/s/b3f47ee5dccc99ff8f5195e547cd4a78"
     },
     {
       "recommendScore": "106",
@@ -121,16 +111,6 @@
       "author": "a800275",
       "board": "HatePolitics",
       "publishTime": "2026/01/06 05:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "75",
-      "recommendCount": "132",
-      "title": "[新聞] 台中七期命案！共犯男冷血傳訊「找護士維持生命」：我才能繼續凌虐他",
-      "link": "/bbs/Gossiping/M.1767677271.A.A66",
-      "author": "access4096",
-      "board": "Gossiping",
-      "publishTime": "2026/01/06 05:27",
       "imageUrl": ""
     },
     {
@@ -202,6 +182,26 @@
       "board": "C_Chat",
       "publishTime": "2026/01/06 08:51",
       "imageUrl": "https://cache.pttweb.cc/imgur/etDC24D/s/aa91142b76c35cc0980feade5c835251"
+    },
+    {
+      "recommendScore": "57",
+      "recommendCount": "128",
+      "title": "[新聞] 紐約出庭自稱「清白無罪為人正直」馬杜洛：我依然是我國家的總統",
+      "link": "/bbs/Gossiping/M.1767682168.A.C8B",
+      "author": "sammoon",
+      "board": "Gossiping",
+      "publishTime": "2026/01/06 06:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "67",
+      "recommendCount": "113",
+      "title": "[新聞] 台南驚見「iPhone手槍」可殺人  45歲前科",
+      "link": "/bbs/Gossiping/M.1767677745.A.172",
+      "author": "juyhnmki",
+      "board": "Gossiping",
+      "publishTime": "2026/01/06 05:35",
+      "imageUrl": "https://cache.pttweb.cc/imgur/xLcSbf1/s/a1b82f11c27ad969b0db4cbc5a0ffaad"
     }
   ]
 }
