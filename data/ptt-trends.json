@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-08T22:32:39.918Z",
+  "updated": "2026-01-08T22:47:14.360Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,16 +54,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "54",
-      "recommendCount": "88",
-      "title": "[問卦] 什麼是「非實體辦公室」？",
-      "link": "/bbs/Gossiping/M.1767795782.A.FD7",
-      "author": "nhk123871192",
-      "board": "Gossiping",
-      "publishTime": "2026/01/07 14:23",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "58",
       "recommendCount": "92",
       "title": "[情報] 2382 廣達 12月營收",
@@ -71,16 +61,6 @@
       "author": "suntw",
       "board": "Stock",
       "publishTime": "2026/01/08 06:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "7",
-      "recommendCount": "73",
-      "title": "[新聞] 5刷仍紅了眼眶！蘇巧慧包場邀師生看《冠軍之路》",
-      "link": "/bbs/Baseball/M.1767794008.A.D28",
-      "author": "LIN9",
-      "board": "Baseball",
-      "publishTime": "2026/01/07 13:53",
       "imageUrl": ""
     },
     {
@@ -184,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "40",
-      "recommendCount": "98",
-      "title": "Re: [閒聊] 中國的鍵盤這麼便宜又超值喔？？？",
-      "link": "/bbs/C_Chat/M.1767795451.A.EBE",
-      "author": "pekora998",
-      "board": "C_Chat",
-      "publishTime": "2026/01/07 14:17",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-16",
       "recommendCount": "65",
       "title": "[新聞] 批台北免費營養午餐「炫富」黃偉哲：朱門酒肉臭路有凍死骨",
@@ -202,6 +172,36 @@
       "board": "Gossiping",
       "publishTime": "2026/01/08 10:51",
       "imageUrl": "https://cache.pttweb.cc/imgur/xYc2V6Y/s/64d281dba06cb2e031672c0602a8e0e4"
+    },
+    {
+      "recommendScore": "34",
+      "recommendCount": "50",
+      "title": "[新聞] 鏡電視節目被喊卡後首現身！陳水扁力挺陳亭妃：這樣還出事關公會做主",
+      "link": "/bbs/Gossiping/M.1767855233.A.FF1",
+      "author": "taiwan08",
+      "board": "Gossiping",
+      "publishTime": "2026/01/08 06:53",
+      "imageUrl": "https://cache.pttweb.cc/imgur/H17HbZZ/s/143e593d4a33405499512bce923c7788"
+    },
+    {
+      "recommendScore": "25",
+      "recommendCount": "53",
+      "title": "[問卦] 德國：美國就是搶劫",
+      "link": "/bbs/Gossiping/M.1767880445.A.F56",
+      "author": "beaver",
+      "board": "Gossiping",
+      "publishTime": "2026/01/08 13:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "29",
+      "recommendCount": "60",
+      "title": "[手遊] 台灣風美少女16張麻將：放課後麻將社",
+      "link": "/bbs/C_Chat/M.1767850459.A.DB9",
+      "author": "SuperSg",
+      "board": "C_Chat",
+      "publishTime": "2026/01/08 05:34",
+      "imageUrl": ""
     }
   ]
 }
