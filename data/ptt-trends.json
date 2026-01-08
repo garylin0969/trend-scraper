@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-08T11:31:17.370Z",
+  "updated": "2026-01-08T11:40:32.436Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "254",
+      "recommendCount": "453",
+      "title": "[討論] [Vtub] Hololive 晚間直播單 (1150108)",
+      "link": "/bbs/C_Chat/M.1767869385.A.84C",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2026/01/08 10:49",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "75",
       "recommendCount": "145",
@@ -22,6 +32,16 @@
       "board": "NBA",
       "publishTime": "2026/01/08 02:32",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "-16",
+      "recommendCount": "98",
+      "title": "[問卦] 三立道歉了",
+      "link": "/bbs/Gossiping/M.1767869861.A.80F",
+      "author": "bread10x",
+      "board": "Gossiping",
+      "publishTime": "2026/01/08 10:57",
+      "imageUrl": "https://cache.pttweb.cc/imgur/KSL7P94/s/cfc8547b721cbf5cc63931cc77445c63"
     },
     {
       "recommendScore": "67",
@@ -174,34 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "34",
-      "recommendCount": "50",
-      "title": "[新聞] 鏡電視節目被喊卡後首現身！陳水扁力挺陳亭妃：這樣還出事關公會做主",
-      "link": "/bbs/Gossiping/M.1767855233.A.FF1",
-      "author": "taiwan08",
+      "recommendScore": "-16",
+      "recommendCount": "65",
+      "title": "[新聞] 批台北免費營養午餐「炫富」黃偉哲：朱門酒肉臭路有凍死骨",
+      "link": "/bbs/Gossiping/M.1767869504.A.AB5",
+      "author": "armorblocks",
       "board": "Gossiping",
-      "publishTime": "2026/01/08 06:53",
-      "imageUrl": "https://cache.pttweb.cc/imgur/H17HbZZ/s/143e593d4a33405499512bce923c7788"
-    },
-    {
-      "recommendScore": "25",
-      "recommendCount": "50",
-      "title": "[問卦] 超過24小時了F16戰鬥機飛行員還沒找到人嗎...?",
-      "link": "/bbs/Gossiping/M.1767795257.A.60B",
-      "author": "lichuer",
-      "board": "Gossiping",
-      "publishTime": "2026/01/07 14:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "29",
-      "recommendCount": "60",
-      "title": "[手遊] 台灣風美少女16張麻將：放課後麻將社",
-      "link": "/bbs/C_Chat/M.1767850459.A.DB9",
-      "author": "SuperSg",
-      "board": "C_Chat",
-      "publishTime": "2026/01/08 05:34",
-      "imageUrl": ""
+      "publishTime": "2026/01/08 10:51",
+      "imageUrl": "https://cache.pttweb.cc/imgur/xYc2V6Y/s/64d281dba06cb2e031672c0602a8e0e4"
     }
   ]
 }
