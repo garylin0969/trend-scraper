@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-09T05:44:37.927Z",
+  "updated": "2026-01-09T05:55:21.300Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -41,6 +41,16 @@
       "author": "KittyColnago",
       "board": "Gossiping",
       "publishTime": "2026/01/08 17:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "49",
+      "recommendCount": "116",
+      "title": "[情報] 台積公司2025年12月營收報告 y+20.4% m-2.5%",
+      "link": "/bbs/Stock/M.1767936707.A.336",
+      "author": "MOMO0478",
+      "board": "Stock",
+      "publishTime": "2026/01/09 05:31",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "pollacat",
       "board": "C_Chat",
       "publishTime": "2026/01/09 02:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "41",
-      "recommendCount": "53",
-      "title": "[新聞] 黃子鵬回家打球數度哽咽 看到雄鷹宿舍笑答「要珍惜」",
-      "link": "/bbs/Baseball/M.1767929874.A.A1C",
-      "author": "micheal59",
-      "board": "Baseball",
-      "publishTime": "2026/01/09 03:37",
       "imageUrl": ""
     }
   ]
