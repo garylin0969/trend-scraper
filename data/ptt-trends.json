@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-09T05:31:30.465Z",
+  "updated": "2026-01-09T05:44:37.927Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-33",
-      "recommendCount": "70",
-      "title": "[新聞] F-16墜機失事 卓榮泰：總預算卡關影響後續裝備與訓練",
-      "link": "/bbs/Gossiping/M.1767850507.A.495",
-      "author": "MightySultan",
-      "board": "Gossiping",
-      "publishTime": "2026/01/08 05:35",
-      "imageUrl": "https://cache.pttweb.cc/imgur/j4UtQLF/s/71c934307cd8712f6957de9a9fdda5b3"
-    },
-    {
       "recommendScore": "35",
       "recommendCount": "90",
       "title": "[新聞] AI PC促換機潮是假的！電腦大廠罕見坦承：消費者根本不在乎",
@@ -184,23 +174,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "47",
-      "recommendCount": "61",
-      "title": "[情報] 古久保健二出任味全龍巡迴統籌教練",
-      "link": "/bbs/Baseball/M.1767850609.A.01D",
-      "author": "micheal59",
-      "board": "Baseball",
-      "publishTime": "2026/01/08 05:36",
+      "recommendScore": "37",
+      "recommendCount": "62",
+      "title": "[新聞] 韓國北臉羽絨外套驚爆造假！THE NORTH FACE官方認了：13款羽絨衣「鴨絨充鵝絨」",
+      "link": "/bbs/Gossiping/M.1767929867.A.589",
+      "author": "zxcxxx",
+      "board": "Gossiping",
+      "publishTime": "2026/01/09 03:37",
       "imageUrl": ""
     },
     {
-      "recommendScore": "23",
-      "recommendCount": "80",
-      "title": "[新聞] 錢付了卻一再跳票！ 國防部認了：Auto GCAS延宕成飛官最大風險",
-      "link": "/bbs/Gossiping/M.1767850539.A.32E",
-      "author": "zoeapezoo",
-      "board": "Gossiping",
-      "publishTime": "2026/01/08 05:35",
+      "recommendScore": "49",
+      "recommendCount": "65",
+      "title": "[鳴潮]愛彌斯實機",
+      "link": "/bbs/C_Chat/M.1767924581.A.6F8",
+      "author": "pollacat",
+      "board": "C_Chat",
+      "publishTime": "2026/01/09 02:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "41",
+      "recommendCount": "53",
+      "title": "[新聞] 黃子鵬回家打球數度哽咽 看到雄鷹宿舍笑答「要珍惜」",
+      "link": "/bbs/Baseball/M.1767929874.A.A1C",
+      "author": "micheal59",
+      "board": "Baseball",
+      "publishTime": "2026/01/09 03:37",
       "imageUrl": ""
     }
   ]
