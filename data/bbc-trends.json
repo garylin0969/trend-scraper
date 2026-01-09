@@ -1,10 +1,10 @@
 {
-  "updated": "2026-01-09T05:23:33.295Z",
+  "updated": "2026-01-09T05:51:17.790Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-09T05:23:21.000Z",
+    "lastBuildDate": "2026-01-09T05:51:11.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -42,11 +42,19 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4aa2/live/a0d8ca30-ebb7-11f0-b5f7-49f0357294ff.jpg"
     },
     {
+      "title": "禮薩·巴列維：伊朗末代國王的流亡王儲",
+      "description": "伊朗末代王儲禮薩·巴列維（Reza Pahlavi）再次尋求參與塑造國家未來，BBC波斯語網介紹其人其事。",
+      "link": "https://www.bbc.com/zhongwen/articles/c9dve9d8893o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-09T05:19:50.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c9dve9d8893o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e13d/live/ce1ceac0-5d6f-11f0-a40e-a1af2950b220.jpg"
+    },
+    {
       "title": "關稅衝擊將如何在新的一年持續重塑全球經濟？",
       "description": "特朗普的進口關稅仍在改變國際貿易的格局。",
       "link": "https://www.bbc.com/zhongwen/articles/cre2wzzn4g2o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-01-09T00:08:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cre2wzzn4g2o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cre2wzzn4g2o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/645a/live/aab49c60-eb11-11f0-992c-75363ad17690.jpg"
     },
     {
@@ -58,20 +66,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/af24/live/bfa08b20-ec6f-11f0-a422-4ba8a094a8fa.jpg"
     },
     {
-      "title": "柬埔寨將涉嫌詐騙主謀陳志引渡至中國",
-      "description": "陳志被指控將其企業轉變為詐騙中心的掩護，這些詐騙網絡從全球受害者手中竊取巨額資金。",
-      "link": "https://www.bbc.com/zhongwen/articles/cgk8jk4jv08o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-08T04:21:43.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cgk8jk4jv08o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5d76/live/4f1afe20-b01b-11f0-b2a1-6f537f66f9aa.png"
-    },
-    {
       "title": "「AI魔改」電視劇影片：中國廣電總局為何專項清理？",
       "description": "中國廣播電視總局在2026年新年伊始之際開展清理「AI魔改」網路影片行動，誓言治理各種「違規」內容。",
       "link": "https://www.bbc.com/zhongwen/articles/c20g3wd7x80o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-01-08T00:23:43.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c20g3wd7x80o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ea75/live/640e7bf0-eb2a-11f0-b385-5f48925de19a.jpg"
+    },
+    {
+      "title": "柬埔寨將涉嫌詐騙主謀陳志引渡至中國",
+      "description": "陳志被指控將其企業轉變為詐騙中心的掩護，這些詐騙網絡從全球受害者手中竊取巨額資金。",
+      "link": "https://www.bbc.com/zhongwen/articles/cgk8jk4jv08o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-08T04:21:43.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cgk8jk4jv08o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5d76/live/4f1afe20-b01b-11f0-b2a1-6f537f66f9aa.png"
     },
     {
       "title": "特朗普可以如何「拿下」格陵蘭？",
@@ -96,14 +104,6 @@
       "pubDate": "2026-01-08T05:37:31.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c4gr0l8yexjo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aa17/live/2ec66240-e211-11f0-89d0-bb0074da42a3.jpg"
-    },
-    {
-      "title": "分析：特朗普對委內瑞拉的突襲如何給中國帶來風險",
-      "description": "北京不願危及剛與美國簽署的還挺脆弱的「貿易休戰」協定，但也不願喪失在拉美的立足點。但在特朗普如此難以預測的情況下，取得這種平衡將極為艱難。\n",
-      "link": "https://www.bbc.com/zhongwen/articles/cwy8w02jkg1o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-07T04:53:32.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwy8w02jkg1o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7188/live/3766f820-eae9-11f0-8a5c-81e1c85f6b52.jpg"
     },
     {
       "title": "從「剩女」到「中女」，新世代中國女性改寫自我敘事",
@@ -162,6 +162,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f1c/live/44966db0-ea39-11f0-a422-4ba8a094a8fa.jpg"
     },
     {
+      "title": "分析：特朗普對委內瑞拉的突襲如何給中國帶來風險",
+      "description": "北京不願危及剛與美國簽署的還挺脆弱的「貿易休戰」協定，但也不願喪失在拉美的立足點。但在特朗普如此難以預測的情況下，取得這種平衡將極為艱難。\n",
+      "link": "https://www.bbc.com/zhongwen/articles/cwy8w02jkg1o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-07T04:53:32.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwy8w02jkg1o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7188/live/3766f820-eae9-11f0-8a5c-81e1c85f6b52.jpg"
+    },
+    {
       "title": "馬杜羅首次庭審現場直擊：「我是總統和戰俘，被綁到了這裡」",
       "description": "在這場長達40分鐘的提訊過程中，馬杜羅與其妻子西莉亞·弗洛雷斯對毒品與武器指控表示不認罪。",
       "link": "https://www.bbc.com/zhongwen/articles/c3r1q5xj19no/trad?at_medium=RSS&at_campaign=rss",
@@ -176,14 +184,6 @@
       "pubDate": "2026-01-06T02:39:02.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c3ed3k953z0o/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7d42/live/429d1a40-ea2f-11f0-bee8-cb37bc70a803.jpg"
-    },
-    {
-      "title": "馬杜羅的親信如今能為特朗普效力嗎？",
-      "description": "被抓捕的委內瑞拉領導人馬杜羅的親密盟友羅德里格斯被任命為代理總統。",
-      "link": "https://www.bbc.com/zhongwen/articles/cq5yl435419o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-05T09:01:45.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cq5yl435419o/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2663/live/ead51ba0-ea0b-11f0-a8dc-93c15fe68710.jpg"
     },
     {
       "title": "分析：特朗普抓捕馬杜羅可能為全球威權國家樹立先例",
