@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-10T08:20:38.174Z",
+  "updated": "2026-01-10T08:36:25.387Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,16 +74,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "148",
-      "recommendCount": "305",
-      "title": "[問卦] 台南營養午餐經費怎越估越多?",
-      "link": "/bbs/Gossiping/M.1767947654.A.D14",
-      "author": "EVGAMIS",
-      "board": "Gossiping",
-      "publishTime": "2026/01/09 08:34",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "153",
       "recommendCount": "305",
       "title": "[新聞] 商場夢碎?鳳山空中鳳城4度流標 高市環保",
@@ -104,16 +94,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/jDa1dyR/s/72e3eec0dcb7de0e33fed66f2fcf2c08"
     },
     {
-      "recommendScore": "53",
-      "recommendCount": "237",
-      "title": "[新聞] 黃偉哲180度大轉彎！才酸「台北在炫富」台南宣布營養午餐免費",
-      "link": "/bbs/Gossiping/M.1767947253.A.71D",
-      "author": "Goog1e",
-      "board": "Gossiping",
-      "publishTime": "2026/01/09 08:27",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "94",
       "recommendCount": "522",
       "title": "[討論] 營養午餐有必要免費嗎",
@@ -132,16 +112,6 @@
       "board": "C_Chat",
       "publishTime": "2026/01/09 14:24",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "646",
-      "recommendCount": "1049",
-      "title": "[電競] 2026 LCK Season Opening",
-      "link": "/bbs/LoL/M.1767947671.A.B98",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/01/09 08:34",
-      "imageUrl": "https://cache.pttweb.cc/imgur/gnIUjXP/s/59a67147c8e9f163df79729c91c55a03"
     },
     {
       "recommendScore": "102",
@@ -201,6 +171,36 @@
       "author": "nhk123871192",
       "board": "Gossiping",
       "publishTime": "2026/01/09 20:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "450",
+      "recommendCount": "663",
+      "title": "[討論] [Vtub] Hololive 晚間直播單 (1150109)",
+      "link": "/bbs/C_Chat/M.1767955498.A.334",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2026/01/09 10:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "300",
+      "recommendCount": "752",
+      "title": "[LIVE] NBA 紐約尼克 @ 鳳凰城太陽 場中",
+      "link": "/bbs/SportLottery/M.1768010525.A.626",
+      "author": "ys2266",
+      "board": "SportLottery",
+      "publishTime": "2026/01/10 02:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "110",
+      "recommendCount": "181",
+      "title": "[情報] 獨行俠球星 Anthony Davis 左手韌帶受損",
+      "link": "/bbs/NBA/M.1767994562.A.558",
+      "author": "jtyang1996",
+      "board": "NBA",
+      "publishTime": "2026/01/09 21:36",
       "imageUrl": ""
     }
   ]
