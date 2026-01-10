@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-10T14:17:40.453Z",
+  "updated": "2026-01-10T14:30:33.814Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "145",
-      "recommendCount": "223",
-      "title": "[情報] 諫山創:我現在沒在工作 平常也不畫圖",
-      "link": "/bbs/C_Chat/M.1767968648.A.18E",
-      "author": "GTES",
-      "board": "C_Chat",
-      "publishTime": "2026/01/09 14:24",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "123",
       "recommendCount": "178",
       "title": "Re: [新聞] 研究：部分狗狗不需訓練 旁聽人類對話即懂新字詞",
@@ -201,6 +191,16 @@
       "author": "ys2266",
       "board": "SportLottery",
       "publishTime": "2026/01/10 02:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "110",
+      "recommendCount": "181",
+      "title": "[情報] 獨行俠球星 Anthony Davis 左手韌帶受損",
+      "link": "/bbs/NBA/M.1767994562.A.558",
+      "author": "jtyang1996",
+      "board": "NBA",
+      "publishTime": "2026/01/09 21:36",
       "imageUrl": ""
     }
   ]
