@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-10T09:54:02.172Z",
+  "updated": "2026-01-10T10:05:47.648Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -21,6 +21,16 @@
       "author": "pttjordy",
       "board": "Gossiping",
       "publishTime": "2026/01/09 10:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "214",
+      "recommendCount": "412",
+      "title": "[問卦] 德國總理：放棄核能是巨大錯誤 德國要崩",
+      "link": "/bbs/Gossiping/M.1768008560.A.7FC",
+      "author": "beaver",
+      "board": "Gossiping",
+      "publishTime": "2026/01/10 01:29",
       "imageUrl": ""
     },
     {
@@ -64,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "90",
+      "recommendCount": "331",
+      "title": "[新聞] 土方清運上路9天、全台爆停工潮 業者急籲立即暫停「不然今年不用選了」",
+      "link": "/bbs/Gossiping/M.1768006715.A.5F4",
+      "author": "Waitaha",
+      "board": "Gossiping",
+      "publishTime": "2026/01/10 00:58",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "153",
       "recommendCount": "305",
       "title": "[新聞] 商場夢碎?鳳山空中鳳城4度流標 高市環保",
@@ -91,6 +111,16 @@
       "author": "GTES",
       "board": "C_Chat",
       "publishTime": "2026/01/09 14:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "123",
+      "recommendCount": "178",
+      "title": "Re: [新聞] 研究：部分狗狗不需訓練 旁聽人類對話即懂新字詞",
+      "link": "/bbs/Gossiping/M.1768020459.A.26E",
+      "author": "BlueBird5566",
+      "board": "Gossiping",
+      "publishTime": "2026/01/10 04:47",
       "imageUrl": ""
     },
     {
@@ -171,36 +201,6 @@
       "author": "ys2266",
       "board": "SportLottery",
       "publishTime": "2026/01/10 02:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "110",
-      "recommendCount": "181",
-      "title": "[情報] 獨行俠球星 Anthony Davis 左手韌帶受損",
-      "link": "/bbs/NBA/M.1767994562.A.558",
-      "author": "jtyang1996",
-      "board": "NBA",
-      "publishTime": "2026/01/09 21:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "111",
-      "recommendCount": "193",
-      "title": "[分享] 洪總:布坎南將加盟台鋼",
-      "link": "/bbs/Baseball/M.1768009073.A.004",
-      "author": "micheal59",
-      "board": "Baseball",
-      "publishTime": "2026/01/10 01:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "91",
-      "recommendCount": "143",
-      "title": "[問卦] 大家來猜2026出生人口多少？",
-      "link": "/bbs/Gossiping/M.1767962731.A.D38",
-      "author": "blackman451",
-      "board": "Gossiping",
-      "publishTime": "2026/01/09 12:45",
       "imageUrl": ""
     }
   ]
