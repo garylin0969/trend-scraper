@@ -1,16 +1,136 @@
 {
-  "updated": "2026-01-10T04:35:45.987Z",
+  "updated": "2026-01-10T04:50:05.806Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "193",
-      "recommendCount": "236",
-      "title": "[爆卦] 地震",
-      "link": "/bbs/Gossiping/M.1767889857.A.F9B",
-      "author": "dodoro1",
+      "recommendScore": "590",
+      "recommendCount": "866",
+      "title": "[情報] WeAre-鄧愷威不參加WBC",
+      "link": "/bbs/Baseball/M.1767948739.A.E8E",
+      "author": "SeanLi1013",
+      "board": "Baseball",
+      "publishTime": "2026/01/09 08:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "160",
+      "recommendCount": "563",
+      "title": "[新聞] 快訊／才酸「北炫富南痛苦」 黃偉哲轉彎：台南營養午餐全免",
+      "link": "/bbs/Gossiping/M.1767946478.A.C5A",
+      "author": "borondawon",
       "board": "Gossiping",
-      "publishTime": "2026/01/08 16:30",
+      "publishTime": "2026/01/09 08:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "204",
+      "recommendCount": "403",
+      "title": "[爆卦] 林俊憲企業節禮收到飽",
+      "link": "/bbs/Gossiping/M.1767944278.A.F10",
+      "author": "ab626",
+      "board": "Gossiping",
+      "publishTime": "2026/01/09 07:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "234",
+      "recommendCount": "465",
+      "title": "[新聞] 最新數據揭曉了！台灣人「不想生」躍居全球第1",
+      "link": "/bbs/Gossiping/M.1767955694.A.777",
+      "author": "pttjordy",
+      "board": "Gossiping",
+      "publishTime": "2026/01/09 10:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "213",
+      "recommendCount": "389",
+      "title": "[新聞]川普稱「毒梟掌控墨西哥」將展開地面掃毒",
+      "link": "/bbs/Gossiping/M.1767961697.A.49A",
+      "author": "pl132",
+      "board": "Gossiping",
+      "publishTime": "2026/01/09 12:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "132",
+      "recommendCount": "374",
+      "title": "[新聞] 女人為難女人！陳昭姿推代孕遭女立委罵「沒有子宮的女人」",
+      "link": "/bbs/Gossiping/M.1767961465.A.B19",
+      "author": "zoeapezoo",
+      "board": "Gossiping",
+      "publishTime": "2026/01/09 12:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "196",
+      "recommendCount": "363",
+      "title": "[新聞] 台灣超越日韓！正式登頂「最不想生國家」",
+      "link": "/bbs/Gossiping/M.1767956148.A.83B",
+      "author": "ihl123456",
+      "board": "Gossiping",
+      "publishTime": "2026/01/09 10:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "106",
+      "recommendCount": "296",
+      "title": "[新聞] 鄭家純懷孕9週不幸流產　發聲反對代理孕母合法化",
+      "link": "/bbs/Gossiping/M.1767945859.A.0B9",
+      "author": "SaintSeven",
+      "board": "Gossiping",
+      "publishTime": "2026/01/09 08:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "148",
+      "recommendCount": "305",
+      "title": "[問卦] 台南營養午餐經費怎越估越多?",
+      "link": "/bbs/Gossiping/M.1767947654.A.D14",
+      "author": "EVGAMIS",
+      "board": "Gossiping",
+      "publishTime": "2026/01/09 08:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "153",
+      "recommendCount": "305",
+      "title": "[新聞] 商場夢碎?鳳山空中鳳城4度流標 高市環保",
+      "link": "/bbs/Gossiping/M.1767967238.A.753",
+      "author": "colset",
+      "board": "Gossiping",
+      "publishTime": "2026/01/09 14:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-91",
+      "recommendCount": "327",
+      "title": "[討論] 脫口秀：台灣會去現場看棒球只有兩種人",
+      "link": "/bbs/Baseball/M.1767962238.A.BFB",
+      "author": "Alyssa120",
+      "board": "Baseball",
+      "publishTime": "2026/01/09 12:37",
+      "imageUrl": "https://cache.pttweb.cc/imgur/jDa1dyR/s/72e3eec0dcb7de0e33fed66f2fcf2c08"
+    },
+    {
+      "recommendScore": "53",
+      "recommendCount": "237",
+      "title": "[新聞] 黃偉哲180度大轉彎！才酸「台北在炫富」台南宣布營養午餐免費",
+      "link": "/bbs/Gossiping/M.1767947253.A.71D",
+      "author": "Goog1e",
+      "board": "Gossiping",
+      "publishTime": "2026/01/09 08:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-53",
+      "recommendCount": "240",
+      "title": "[新聞]黃偉哲宣布 台南營養午餐全面免費",
+      "link": "/bbs/Gossiping/M.1767945309.A.720",
+      "author": "yyyyyuuuuu",
+      "board": "Gossiping",
+      "publishTime": "2026/01/09 07:55",
       "imageUrl": ""
     },
     {
@@ -24,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "145",
+      "recommendCount": "223",
+      "title": "[情報] 諫山創:我現在沒在工作 平常也不畫圖",
+      "link": "/bbs/C_Chat/M.1767968648.A.18E",
+      "author": "GTES",
+      "board": "C_Chat",
+      "publishTime": "2026/01/09 14:24",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "646",
       "recommendCount": "1049",
       "title": "[電競] 2026 LCK Season Opening",
@@ -34,174 +164,44 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/gnIUjXP/s/59a67147c8e9f163df79729c91c55a03"
     },
     {
-      "recommendScore": "75",
-      "recommendCount": "345",
-      "title": "Re: [新聞] 陳昭姿回擊林國成：誰考試不及格？　我跟柯文哲定的不是兩年條款",
-      "link": "/bbs/Gossiping/M.1767941138.A.6F1",
-      "author": "BlueBird5566",
+      "recommendScore": "95",
+      "recommendCount": "289",
+      "title": "[問卦] 有沒有台灣正在進行「絕後式套現」的卦？",
+      "link": "/bbs/Gossiping/M.1767972896.A.312",
+      "author": "rdadi",
       "board": "Gossiping",
-      "publishTime": "2026/01/09 06:45",
+      "publishTime": "2026/01/09 15:34",
       "imageUrl": ""
     },
     {
-      "recommendScore": "-43",
-      "recommendCount": "146",
-      "title": "Re: [情報] 台積公司2025年12月營收報告 y+20.4% m-2.5%",
-      "link": "/bbs/Stock/M.1767942094.A.656",
-      "author": "icrose",
+      "recommendScore": "124",
+      "recommendCount": "222",
+      "title": "[新聞]  川普稱「毒梟掌控墨西哥」！將展開地面掃毒攻勢",
+      "link": "/bbs/Stock/M.1767964358.A.379",
+      "author": "qazxc1156892",
       "board": "Stock",
-      "publishTime": "2026/01/09 07:01",
+      "publishTime": "2026/01/09 13:12",
       "imageUrl": ""
     },
     {
-      "recommendScore": "104",
-      "recommendCount": "110",
-      "title": "[發錢] 異國日記 第一集 堪稱我看過最好的改編",
-      "link": "/bbs/C_Chat/M.1767895433.A.BAF",
-      "author": "jeeplong",
+      "recommendScore": "450",
+      "recommendCount": "663",
+      "title": "[討論] [Vtub] Hololive 晚間直播單 (1150109)",
+      "link": "/bbs/C_Chat/M.1767955498.A.334",
+      "author": "laptic",
       "board": "C_Chat",
-      "publishTime": "2026/01/08 18:03",
+      "publishTime": "2026/01/09 10:44",
       "imageUrl": ""
     },
     {
-      "recommendScore": "74",
-      "recommendCount": "128",
-      "title": "[情報] 0109 上市外資買賣超排行",
-      "link": "/bbs/Stock/M.1767946247.A.081",
-      "author": "saber50116",
-      "board": "Stock",
-      "publishTime": "2026/01/09 08:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "70",
-      "recommendCount": "141",
-      "title": "[新聞] 黃偉哲宣布 台南營養午餐全面免費",
-      "link": "/bbs/Tainan/M.1767946349.A.8A8",
-      "author": "Zero0910",
-      "board": "Tainan",
-      "publishTime": "2026/01/09 08:12",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "78",
-      "recommendCount": "195",
-      "title": "[閒聊] 借200萬輸70萬了怎麼辦?",
-      "link": "/bbs/SportLottery/M.1767952109.A.C07",
-      "author": "tazac",
-      "board": "SportLottery",
-      "publishTime": "2026/01/09 09:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "71",
-      "recommendCount": "150",
-      "title": "[新聞] 快訊》跟進其他縣市 黃偉哲宣布：台南營養午餐9月起全面免費",
-      "link": "/bbs/HatePolitics/M.1767946196.A.2D1",
-      "author": "CrazySept",
-      "board": "HatePolitics",
-      "publishTime": "2026/01/09 08:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "79",
-      "recommendCount": "111",
-      "title": "[問卦] 請幫取狗名",
-      "link": "/bbs/Gossiping/M.1767891836.A.E98",
-      "author": "KittyColnago",
-      "board": "Gossiping",
-      "publishTime": "2026/01/08 17:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "75",
-      "recommendCount": "175",
-      "title": "[閒聊] 全境封鎖3製作中 會是大的 不能說太多",
-      "link": "/bbs/C_Chat/M.1767940897.A.A7B",
-      "author": "w790818",
-      "board": "C_Chat",
-      "publishTime": "2026/01/09 06:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "68",
-      "recommendCount": "112",
-      "title": "[情報] 115年01月09日 三大法人買賣金額統計表",
-      "link": "/bbs/Stock/M.1767942147.A.368",
-      "author": "coconing",
-      "board": "Stock",
-      "publishTime": "2026/01/09 07:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "53",
-      "recommendCount": "166",
-      "title": "[新聞] 林妍霏槓上李多慧！味全龍89字反擊：幽默不該建立在貶低他人之上",
-      "link": "/bbs/Baseball/M.1767947095.A.EE5",
-      "author": "westdoorcard",
-      "board": "Baseball",
-      "publishTime": "2026/01/09 08:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "75",
-      "recommendCount": "150",
-      "title": "[情報] 2344華邦電 11月自結 EPS 0.21",
-      "link": "/bbs/Stock/M.1767943745.A.2A3",
-      "author": "sayforever69",
-      "board": "Stock",
-      "publishTime": "2026/01/09 07:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "139",
-      "recommendCount": "245",
-      "title": "[LIVE] 澳甲足球-奧克蘭@布里斯本 2:0 場中",
-      "link": "/bbs/SportLottery/M.1767946569.A.F05",
-      "author": "laylun",
-      "board": "SportLottery",
-      "publishTime": "2026/01/09 08:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "67",
-      "recommendCount": "117",
-      "title": "[花邊] JDub:三年來雷霆贏太多,輸幾場就大驚小怪",
-      "link": "/bbs/NBA/M.1767947364.A.2C5",
-      "author": "Tonyx599026",
+      "recommendScore": "110",
+      "recommendCount": "181",
+      "title": "[情報] 獨行俠球星 Anthony Davis 左手韌帶受損",
+      "link": "/bbs/NBA/M.1767994562.A.558",
+      "author": "jtyang1996",
       "board": "NBA",
-      "publishTime": "2026/01/09 08:29",
-      "imageUrl": "https://cache.pttweb.cc/imgur/g8ODIJq/s/ef56f68302d6c26d7897dec75fc628dc"
-    },
-    {
-      "recommendScore": "49",
-      "recommendCount": "116",
-      "title": "[情報] 台積公司2025年12月營收報告 y+20.4% m-2.5%",
-      "link": "/bbs/Stock/M.1767936707.A.336",
-      "author": "MOMO0478",
-      "board": "Stock",
-      "publishTime": "2026/01/09 05:31",
+      "publishTime": "2026/01/09 21:36",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "70",
-      "recommendCount": "110",
-      "title": "[情報] AD左手受傷",
-      "link": "/bbs/NBA/M.1767932139.A.9D7",
-      "author": "dragon803",
-      "board": "NBA",
-      "publishTime": "2026/01/09 04:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "68",
-      "recommendCount": "112",
-      "title": "[新聞]投資新手定期定額買台積電「1股都沒成交」！行員揭尷尬真相　全場笑翻",
-      "link": "/bbs/Stock/M.1767946625.A.BDD",
-      "author": "arrouzai",
-      "board": "Stock",
-      "publishTime": "2026/01/09 08:17",
-      "imageUrl": "https://cache.pttweb.cc/imgur/nJe1IqG/s/3b022fff4da9f987db53fa0d06e348a8"
     }
   ]
 }
