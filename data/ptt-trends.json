@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-11T10:18:02.566Z",
+  "updated": "2026-01-11T10:32:07.729Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "95",
+      "recommendCount": "345",
+      "title": "[花邊] LBJ在IG上發了他被犯規沒響哨的截圖",
+      "link": "/bbs/NBA/M.1768106262.A.1CE",
+      "author": "KC90",
+      "board": "NBA",
+      "publishTime": "2026/01/11 04:37",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "100",
       "recommendCount": "268",
       "title": "[新聞] 墾丁連2年國旅人數雪崩逼近200萬防線！",
@@ -101,6 +111,16 @@
       "author": "sky093851248",
       "board": "C_Chat",
       "publishTime": "2026/01/10 14:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "141",
+      "recommendCount": "234",
+      "title": "[BOX ] Hornets 150:95 Jazz",
+      "link": "/bbs/NBA/M.1768107076.A.569",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2026/01/11 04:51",
       "imageUrl": ""
     },
     {
@@ -174,34 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "263",
-      "recommendCount": "425",
-      "title": "[LIVE] 西甲 阿拉維斯1:3比亞雷亞爾 場中",
-      "link": "/bbs/SportLottery/M.1768057712.A.028",
-      "author": "pandalove",
-      "board": "SportLottery",
-      "publishTime": "2026/01/10 15:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "91",
-      "recommendCount": "195",
-      "title": "Re: [爆卦] 桃園地檢署我操你媽",
-      "link": "/bbs/Gossiping/M.1768099804.A.B54",
-      "author": "zhxl",
+      "recommendScore": "107",
+      "recommendCount": "258",
+      "title": "[新聞] 快閃華府「14日早上回台北」　黃國昌：盼獲第一手可信賴軍購資訊",
+      "link": "/bbs/Gossiping/M.1768112967.A.FDE",
+      "author": "tiger911",
       "board": "Gossiping",
-      "publishTime": "2026/01/11 02:50",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ZTIdSwF/s/8e671ef1a280e24723f4973e4534ccbf"
-    },
-    {
-      "recommendScore": "99",
-      "recommendCount": "160",
-      "title": "[分享] CBL官方訊息:曹錦輝加入福州海俠隊",
-      "link": "/bbs/Baseball/M.1768051730.A.179",
-      "author": "reggirt",
-      "board": "Baseball",
-      "publishTime": "2026/01/10 13:28",
-      "imageUrl": "https://cache.pttweb.cc/imgur/WM81Ath/s/eb6a7fc09dde0f6e0818e18af12e4095"
+      "publishTime": "2026/01/11 06:29",
+      "imageUrl": ""
     }
   ]
 }
