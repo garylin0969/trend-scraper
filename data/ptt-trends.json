@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-11T04:48:03.650Z",
+  "updated": "2026-01-11T05:02:25.737Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "123",
-      "recommendCount": "178",
-      "title": "Re: [新聞] 研究：部分狗狗不需訓練 旁聽人類對話即懂新字詞",
-      "link": "/bbs/Gossiping/M.1768020459.A.26E",
-      "author": "BlueBird5566",
-      "board": "Gossiping",
-      "publishTime": "2026/01/10 04:47",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "236",
       "recommendCount": "471",
       "title": "[LIVE] 義甲 波隆那 1:1科莫  場中",
@@ -201,6 +191,16 @@
       "author": "zzzzzzzzzzzy",
       "board": "Gossiping",
       "publishTime": "2026/01/10 12:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-33",
+      "recommendCount": "149",
+      "title": "[新聞] 賴總統：目標2040年培育50萬名多元AI人才",
+      "link": "/bbs/Gossiping/M.1768031558.A.5B1",
+      "author": "zebirlin",
+      "board": "Gossiping",
+      "publishTime": "2026/01/10 07:52",
       "imageUrl": ""
     }
   ]
