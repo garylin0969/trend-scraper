@@ -1,14 +1,22 @@
 {
-  "updated": "2026-01-12T02:32:57.746Z",
+  "updated": "2026-01-12T03:23:15.881Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-12T02:32:49.000Z",
+    "lastBuildDate": "2026-01-12T03:23:06.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "南非與中伊俄聯合軍演，對美緊張關係面臨新考驗",
+      "description": "有評論人士質疑，既然「金磚國家+」是一個經濟聯盟，為何成員國要共同舉行軍事演習。",
+      "link": "https://www.bbc.com/zhongwen/articles/c2lgkzzj1y4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-12T02:54:56.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c2lgkzzj1y4o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6583/live/f7635530-ef5b-11f0-b385-5f48925de19a.jpg"
+    },
     {
       "title": "「連心肺復甦時間都沒有」：伊朗醫護形容醫院被死傷抗議者壓垮",
       "description": "據信已有數百人遭安全部隊殺害或受傷，其中超過 70 具遺體被送往一家醫院。",
@@ -16,14 +24,6 @@
       "pubDate": "2026-01-11T03:53:20.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy9yv2p9ezno/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d1e5/live/c59827a0-ee21-11f0-b5f7-49f0357294ff.jpg"
-    },
-    {
-      "title": "特朗普提千億投資委內瑞拉  埃克森公司稱無法投資",
-      "description": "石油公司高層表達謹慎，其中一名主管表示委內瑞拉曾兩度沒收他們的資產。",
-      "link": "https://www.bbc.com/zhongwen/articles/cpwnzpjyp8wo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-11T06:06:26.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cpwnzpjyp8wo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a5a3/live/c5b57340-edd7-11f0-b385-5f48925de19a.jpg"
     },
     {
       "title": "中國社媒出現的「反清復明」爭議：有關中國、中國人與「1644史觀」的討論",
@@ -34,12 +34,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/048d/live/347edce0-ed19-11f0-9d70-f966e08d8cdf.jpg"
     },
     {
-      "title": "分析：特朗普恐將把世界推回帝國時代",
-      "description": "BBC國際事務編輯鮑文（Jeremy Bowen）：美國總統特朗普想要、也需要迅速的勝利。拿下馬杜羅，正是他渴望已久的決定性一擊。",
-      "link": "https://www.bbc.com/zhongwen/articles/cg4ekgv3wdgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-09T08:59:14.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cg4ekgv3wdgo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/974f/live/12b6d6d0-ecba-11f0-b385-5f48925de19a.jpg"
+      "title": "特朗普提千億投資委內瑞拉  埃克森公司稱無法投資",
+      "description": "石油公司高層表達謹慎，其中一名主管表示委內瑞拉曾兩度沒收他們的資產。",
+      "link": "https://www.bbc.com/zhongwen/articles/cpwnzpjyp8wo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-11T06:06:26.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cpwnzpjyp8wo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a5a3/live/c5b57340-edd7-11f0-b385-5f48925de19a.jpg"
     },
     {
       "title": "BBC走進Google量子電腦的冰封虎穴，中國「祖沖之3.0」的勁敵？",
@@ -56,6 +56,14 @@
       "pubDate": "2026-01-09T06:36:43.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx2kgkldvldo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/628e/live/34c3c990-ed23-11f0-bd16-1f0cdc962a12.jpg"
+    },
+    {
+      "title": "分析：特朗普恐將把世界推回帝國時代",
+      "description": "BBC國際事務編輯鮑文（Jeremy Bowen）：美國總統特朗普想要、也需要迅速的勝利。拿下馬杜羅，正是他渴望已久的決定性一擊。",
+      "link": "https://www.bbc.com/zhongwen/articles/cg4ekgv3wdgo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-09T08:59:14.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cg4ekgv3wdgo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/974f/live/12b6d6d0-ecba-11f0-b385-5f48925de19a.jpg"
     },
     {
       "title": "台灣首間「台語實驗小學」開課：能挽救「瀕危」的本土語言嗎？",
@@ -104,14 +112,6 @@
       "pubDate": "2026-01-08T10:44:41.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cwy189vq3nlo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e717/live/83360730-eb81-11f0-89e5-63033dddd48a.jpg"
-    },
-    {
-      "title": "寶萊塢新電影聚焦印中戰爭中被遺忘的一仗",
-      "description": "電影《120勇士》講述在一場失敗的戰爭中，印度士兵在拉達克奮戰保衛列藏拉山口的故事。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gr0l8yexjo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-08T05:37:31.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gr0l8yexjo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aa17/live/2ec66240-e211-11f0-89d0-bb0074da42a3.jpg"
     },
     {
       "title": "台灣第一所台語小學：在華語的海中，扶穩母語的船",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2377/live/834d4bc0-d3f3-11f0-9107-738f275ca6af.jpg"
     },
     {
+      "title": "寶萊塢新電影聚焦印中戰爭中被遺忘的一仗",
+      "description": "電影《120勇士》講述在一場失敗的戰爭中，印度士兵在拉達克奮戰保衛列藏拉山口的故事。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gr0l8yexjo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-08T05:37:31.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gr0l8yexjo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aa17/live/2ec66240-e211-11f0-89d0-bb0074da42a3.jpg"
+    },
+    {
       "title": "我如何在六週內改變人格特質",
       "description": "據新研究顯示，人們其實可以改變自己的核心人格特質，於是勞瑞·克拉克嘗試調整自己的性格。她有著怎樣的經歷？",
       "link": "https://www.bbc.com/zhongwen/articles/clyenq88evwo/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2026-01-07T00:23:12.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c2d7x0j65d9o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4fa7/live/c3374980-c47a-11f0-9b68-57906bffd3ed.jpg"
-    },
-    {
-      "title": "美國特朗普政府抓捕委內瑞拉總統馬杜羅是否非法？",
-      "description": "委內瑞拉領導人被美國迅速抓捕，並可能將在美國法庭面臨指控，許多人質疑此舉是否違反國際法。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn0y8jp8y5po/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-05T05:38:29.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn0y8jp8y5po/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/78d1/live/0a13e1d0-e986-11f0-9d55-758d47cc7ae3.jpg"
     }
   ]
 }
