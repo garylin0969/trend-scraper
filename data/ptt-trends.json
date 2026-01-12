@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-12T11:09:11.090Z",
+  "updated": "2026-01-12T11:32:33.182Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -42,6 +42,16 @@
       "board": "Gossiping",
       "publishTime": "2026/01/12 00:20",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "188",
+      "recommendCount": "299",
+      "title": "[情報] 棕色將撤回角色修改恢復設計",
+      "link": "/bbs/C_Chat/M.1768212175.A.C58",
+      "author": "signm",
+      "board": "C_Chat",
+      "publishTime": "2026/01/12 10:02",
+      "imageUrl": "https://cache.pttweb.cc/imgur/FHiP7lV/s/a413bea8519818231726480d76ec7431"
     },
     {
       "recommendScore": "83",
@@ -191,16 +201,6 @@
       "author": "Tonyx599026",
       "board": "NBA",
       "publishTime": "2026/01/12 09:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "87",
-      "recommendCount": "159",
-      "title": "[BOX ] Spurs 103:104 Timberwolves",
-      "link": "/bbs/NBA/M.1768185353.A.FE4",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2026/01/12 02:35",
       "imageUrl": ""
     }
   ]
