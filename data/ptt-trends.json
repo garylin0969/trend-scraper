@@ -1,18 +1,8 @@
 {
-  "updated": "2026-01-12T04:39:25.092Z",
+  "updated": "2026-01-12T04:59:36.753Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "386",
-      "recommendCount": "653",
-      "title": "[新聞] 效法東京 蔣萬安打造無菸城市",
-      "link": "/bbs/Gossiping/M.1768176771.A.EF9",
-      "author": "qqq87112",
-      "board": "Gossiping",
-      "publishTime": "2026/01/12 00:12",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "137",
       "recommendCount": "301",
@@ -41,26 +31,6 @@
       "author": "ctfjuw",
       "board": "Gossiping",
       "publishTime": "2026/01/12 00:20",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "141",
-      "recommendCount": "234",
-      "title": "[BOX ] Hornets 150:95 Jazz",
-      "link": "/bbs/NBA/M.1768107076.A.569",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2026/01/11 04:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "122",
-      "recommendCount": "355",
-      "title": "[討論] 快訊／黃國昌突宣布下午訪美談關稅",
-      "link": "/bbs/HatePolitics/M.1768107342.A.C1A",
-      "author": "LeeSeDol",
-      "board": "HatePolitics",
-      "publishTime": "2026/01/11 04:55",
       "imageUrl": ""
     },
     {
@@ -134,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "96",
+      "recommendCount": "165",
+      "title": "[BOX ] Rockets 98:111 Kings",
+      "link": "/bbs/NBA/M.1768192131.A.F0B",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2026/01/12 04:28",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "72",
       "recommendCount": "154",
       "title": "[問卦] 脆熱議：如果代孕通過 我會想拿掉子宮",
@@ -201,6 +181,26 @@
       "author": "au4g3wk4k",
       "board": "Gossiping",
       "publishTime": "2026/01/11 14:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "63",
+      "recommendCount": "154",
+      "title": "[新聞] 墾丁連2年國旅人數雪崩逼近200萬防線！",
+      "link": "/bbs/Gossiping/M.1768175518.A.F49",
+      "author": "MikaHakkinen",
+      "board": "Gossiping",
+      "publishTime": "2026/01/11 23:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "56",
+      "recommendCount": "142",
+      "title": "[問卦] 一人一個點子救墾丁",
+      "link": "/bbs/Gossiping/M.1768139467.A.74E",
+      "author": "inmee",
+      "board": "Gossiping",
+      "publishTime": "2026/01/11 13:51",
       "imageUrl": ""
     }
   ]
