@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-12T15:12:24.250Z",
+  "updated": "2026-01-12T15:45:22.395Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -42,16 +42,6 @@
       "board": "C_Chat",
       "publishTime": "2026/01/12 10:02",
       "imageUrl": "https://cache.pttweb.cc/imgur/FHiP7lV/s/a413bea8519818231726480d76ec7431"
-    },
-    {
-      "recommendScore": "83",
-      "recommendCount": "293",
-      "title": "[新聞] 墾丁觀光「雪崩式」慘跌！四星級飯店停業業者悲吐：雞都快餓死",
-      "link": "/bbs/Gossiping/M.1768144492.A.809",
-      "author": "keel90135",
-      "board": "Gossiping",
-      "publishTime": "2026/01/11 15:14",
-      "imageUrl": ""
     },
     {
       "recommendScore": "-33",
@@ -184,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "35",
-      "recommendCount": "136",
-      "title": "[外絮] Zion 就是鵜鶘的 Trae Young",
-      "link": "/bbs/NBA/M.1768144530.A.49D",
-      "author": "hasebe",
-      "board": "NBA",
-      "publishTime": "2026/01/11 15:15",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "104",
       "recommendCount": "242",
       "title": "[新聞] YSF-「台灣最速火球男」林振瑋無緣經典賽　球團顧慮去年傷勢不放行",
@@ -201,6 +181,26 @@
       "author": "whj0530",
       "board": "Baseball",
       "publishTime": "2026/01/12 02:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "47",
+      "recommendCount": "130",
+      "title": "[新聞] 越南移工逛台北101鬼塚虎遭歧視！品牌回應了：員工已停職",
+      "link": "/bbs/Gossiping/M.1768187966.A.224",
+      "author": "SideWalk3310",
+      "board": "Gossiping",
+      "publishTime": "2026/01/12 03:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "58",
+      "recommendCount": "127",
+      "title": "[新聞] 美商務部長：台積電違DEI條款　美方促加碼投資",
+      "link": "/bbs/Stock/M.1768180575.A.50E",
+      "author": "qazxc1156892",
+      "board": "Stock",
+      "publishTime": "2026/01/12 01:16",
       "imageUrl": ""
     }
   ]
