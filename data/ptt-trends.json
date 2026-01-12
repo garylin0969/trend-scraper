@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-12T14:34:28.323Z",
+  "updated": "2026-01-12T14:50:05.977Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "208",
-      "recommendCount": "307",
-      "title": "[LIVE] 德甲 奧格斯堡 @ 門興格拉德巴赫 (場中)",
-      "link": "/bbs/SportLottery/M.1768142182.A.537",
-      "author": "lotterywin",
-      "board": "SportLottery",
-      "publishTime": "2026/01/11 14:36",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "60",
       "recommendCount": "134",
       "title": "[新聞] 邱議瑩翻車！被抓包用大疆相機　網酸：第五縱隊滲透高雄",
@@ -201,6 +191,16 @@
       "author": "hasebe",
       "board": "NBA",
       "publishTime": "2026/01/11 15:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "104",
+      "recommendCount": "242",
+      "title": "[新聞] YSF-「台灣最速火球男」林振瑋無緣經典賽　球團顧慮去年傷勢不放行",
+      "link": "/bbs/Baseball/M.1768184477.A.65B",
+      "author": "whj0530",
+      "board": "Baseball",
+      "publishTime": "2026/01/12 02:21",
       "imageUrl": ""
     }
   ]
