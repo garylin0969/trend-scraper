@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-12T15:45:22.395Z",
+  "updated": "2026-01-12T15:56:47.700Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -42,16 +42,6 @@
       "board": "C_Chat",
       "publishTime": "2026/01/12 10:02",
       "imageUrl": "https://cache.pttweb.cc/imgur/FHiP7lV/s/a413bea8519818231726480d76ec7431"
-    },
-    {
-      "recommendScore": "-33",
-      "recommendCount": "214",
-      "title": "[新聞] 政壇新勢力誕生了?目標扳倒民眾黨 這些黨",
-      "link": "/bbs/Gossiping/M.1768145893.A.978",
-      "author": "tsengcc",
-      "board": "Gossiping",
-      "publishTime": "2026/01/11 15:38",
-      "imageUrl": ""
     },
     {
       "recommendScore": "101",
@@ -201,6 +191,16 @@
       "author": "qazxc1156892",
       "board": "Stock",
       "publishTime": "2026/01/12 01:16",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "59",
+      "recommendCount": "119",
+      "title": "[情報] 國家金融安定基金停止執行安定市場任務",
+      "link": "/bbs/Stock/M.1768212791.A.C9E",
+      "author": "q8977452",
+      "board": "Stock",
+      "publishTime": "2026/01/12 10:13",
       "imageUrl": ""
     }
   ]
