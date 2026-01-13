@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-13T09:31:55.017Z",
+  "updated": "2026-01-13T09:48:54.505Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "82",
-      "recommendCount": "204",
-      "title": "[問卦] reddit談台灣低生育率: 中國免武統 等自毀",
-      "link": "/bbs/Gossiping/M.1768210463.A.46A",
-      "author": "usnavyseal",
-      "board": "Gossiping",
-      "publishTime": "2026/01/12 09:34",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "77",
       "recommendCount": "214",
       "title": "[新聞] 145公尺花11億！ 北車「蓋空橋」免走地下道",
@@ -202,6 +192,16 @@
       "board": "HatePolitics",
       "publishTime": "2026/01/12 13:28",
       "imageUrl": "https://cache.pttweb.cc/imgur/XhugjDd/s/47ed67fbb967d619681885e68768ba3e"
+    },
+    {
+      "recommendScore": "70",
+      "recommendCount": "164",
+      "title": "[新聞] 快訊／賴瑞隆出線！　高雄初選民調極小差距擊敗邱議瑩",
+      "link": "/bbs/Kaohsiung/M.1768275918.A.B67",
+      "author": "fhuocrkt",
+      "board": "Kaohsiung",
+      "publishTime": "2026/01/13 03:45",
+      "imageUrl": ""
     }
   ]
 }
