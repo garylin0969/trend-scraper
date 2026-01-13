@@ -1,14 +1,22 @@
 {
-  "updated": "2026-01-13T02:54:06.346Z",
+  "updated": "2026-01-13T03:46:00.094Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-13T02:53:57.000Z",
+    "lastBuildDate": "2026-01-13T03:45:54.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "香港「粵車南下」落地逾兩週，大陸車主為何訪港？港人因何擔憂？",
+      "description": "12月23日，「粵車南下」入境香港市區政策實施。不少廣東車主迫不及待體驗，但與這種熱烈相反的是，由於駕駛習慣不同，港人對南下的粵車感到擔憂。\n",
+      "link": "https://www.bbc.com/zhongwen/articles/cwywj99enzko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-13T03:15:17.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwywj99enzko/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ba5d/live/244f8260-ef09-11f0-bff1-0379204eb6d3.jpg"
+    },
     {
       "title": "黎智英案求情：控方稱「健康無異常及肥胖」，辯方指「多病獨囚過得艱難」",
       "description": "黎智英案今日首日求情。控方指每日有人監察其健康情況，黎的體重與5年前相約。辯方則表示黎的健康不理想，多病加上單獨囚禁，增加其在獄中負擔。",
@@ -16,6 +24,14 @@
       "pubDate": "2026-01-12T11:07:55.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c7v07n01l9go/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cd83/live/f4675d00-ef8c-11f0-8faf-09c6d7521940.jpg"
+    },
+    {
+      "title": "特朗普宣布對與伊朗有商業往來的國家徵收25%關稅",
+      "description": "美國總統特朗普週一表示，已對與伊朗存在商業往來的國家所出口至美國的商品徵收25%的關稅。此舉可能在伊朗反政府示威進入第三週之際，進一步加大對德黑蘭的壓力。",
+      "link": "https://www.bbc.com/zhongwen/articles/cp3zqg81921o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-13T03:20:15.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cp3zqg81921o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/02fd/live/abbf8cd0-f02c-11f0-839f-41595e85bc61.png"
     },
     {
       "title": "南非與中伊俄聯合軍演，對美緊張關係面臨新考驗",
@@ -26,11 +42,19 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6583/live/f7635530-ef5b-11f0-b385-5f48925de19a.jpg"
     },
     {
+      "title": "「榴槤界的愛馬仕」：搶食中國千億胃口的奢華水果",
+      "description": "馬來西亞一個曾經的金礦小鎮，因為氣味濃烈的水果重回往日的財富。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn7jzzzn1d5o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-12T04:57:31.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn7jzzzn1d5o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b2d8/live/e6396e30-ed52-11f0-b5f7-49f0357294ff.png"
+    },
+    {
       "title": "伊朗抗議：有機構指數百人喪生，當局警告若遭美國攻擊將會報復",
       "description": "特朗普週日表示，美國軍方正在考慮對伊朗採取「非常強硬的措施」。",
       "link": "https://www.bbc.com/zhongwen/articles/c3ed558gvdyo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-01-12T03:54:46.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3ed558gvdyo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3ed558gvdyo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4f96/live/25ea28f0-eef0-11f0-b5f7-49f0357294ff.jpg"
     },
     {
@@ -38,16 +62,8 @@
       "description": "近期，中國當局集中處理了一批討論、號召「反清復明」的貼文和賬號，首次提出「1644史觀」這個名詞，並將其與「極端女權」等中國當局長期打壓的意見並列。",
       "link": "https://www.bbc.com/zhongwen/articles/cvgp53r9gvyo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-01-09T05:06:28.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgp53r9gvyo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvgp53r9gvyo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/048d/live/347edce0-ed19-11f0-9d70-f966e08d8cdf.jpg"
-    },
-    {
-      "title": "「榴槤界的愛馬仕」：搶食中國千億胃口的奢華水果",
-      "description": "馬來西亞一個曾經的金礦小鎮，因為氣味濃烈的水果重回往日的財富。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn7jzzzn1d5o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-12T04:57:31.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn7jzzzn1d5o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b2d8/live/e6396e30-ed52-11f0-b5f7-49f0357294ff.png"
     },
     {
       "title": "「我感到自由了」：澳洲青少年社交媒體禁令實施滿一個月",
@@ -82,28 +98,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/628e/live/34c3c990-ed23-11f0-bd16-1f0cdc962a12.jpg"
     },
     {
-      "title": "分析：特朗普恐將把世界推回帝國時代",
-      "description": "BBC國際事務編輯鮑文（Jeremy Bowen）：美國總統特朗普想要、也需要迅速的勝利。拿下馬杜羅，正是他渴望已久的決定性一擊。",
-      "link": "https://www.bbc.com/zhongwen/articles/cg4ekgv3wdgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-09T08:59:14.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cg4ekgv3wdgo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/974f/live/12b6d6d0-ecba-11f0-b385-5f48925de19a.jpg"
-    },
-    {
       "title": "中國溫州雅陽教堂十字架疑遭強拆：一文讀通事發經過",
       "description": "海外中國宗教自由團體稱，浙江溫州泰順縣警察圍堵當地雅陽鎮一座基督教堂，並試圖拆除十字架，是自2014年打擊浪潮以來再次出事。",
       "link": "https://www.bbc.com/zhongwen/articles/cg7y053kkyko/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-01-09T03:55:44.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cg7y053kkyko/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c4c/live/745725f0-eccb-11f0-a422-4ba8a094a8fa.png"
-    },
-    {
-      "title": "李在明訪華：「靈活」的韓國總統行走在「安美經中」的鋼絲繩上",
-      "description": "過去一年，中美博弈激烈，韓國內部民意極化，中日圍繞台灣問題針鋒相對，在這些變量的疊加之下，中韓關係乃至東北亞局勢的未來，並不如李在明和習近平的自拍照那麼清晰。",
-      "link": "https://www.bbc.com/zhongwen/articles/c75xzxq21ygo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-08T08:53:31.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c75xzxq21ygo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4aa2/live/a0d8ca30-ebb7-11f0-b5f7-49f0357294ff.jpg"
     },
     {
       "title": "台灣首間「台語實驗小學」開課：能挽救「瀕危」的本土語言嗎？",
@@ -154,6 +154,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/843d/live/be5fddb0-ea12-11f0-b67b-690eb873de1b.jpg"
     },
     {
+      "title": "分析：特朗普恐將把世界推回帝國時代",
+      "description": "BBC國際事務編輯鮑文（Jeremy Bowen）：美國總統特朗普想要、也需要迅速的勝利。拿下馬杜羅，正是他渴望已久的決定性一擊。",
+      "link": "https://www.bbc.com/zhongwen/articles/cg4ekgv3wdgo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-09T08:59:14.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cg4ekgv3wdgo/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/974f/live/12b6d6d0-ecba-11f0-b385-5f48925de19a.jpg"
+    },
+    {
       "title": "特朗普可以如何「拿下」格陵蘭？",
       "description": "白宮已表示，正考慮多種方案以獲取格陵蘭，其中包括部署軍隊。",
       "link": "https://www.bbc.com/zhongwen/articles/c5y403gj0ggo/trad?at_medium=RSS&at_campaign=rss",
@@ -184,14 +192,6 @@
       "pubDate": "2026-01-07T04:53:32.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cwy8w02jkg1o/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7188/live/3766f820-eae9-11f0-8a5c-81e1c85f6b52.jpg"
-    },
-    {
-      "title": "委內瑞拉之後，特朗普的目標可能是哪些國家？",
-      "description": "特朗普曾多次對華盛頓勢力範圍內的其他國家發出威脅。",
-      "link": "https://www.bbc.com/zhongwen/articles/c3ed3k953z0o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-06T02:39:02.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3ed3k953z0o/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7d42/live/429d1a40-ea2f-11f0-bee8-cb37bc70a803.jpg"
     },
     {
       "title": "「今日委內瑞拉明日台灣」？特朗普突襲馬杜羅如何在海峽兩岸引發激辯",
