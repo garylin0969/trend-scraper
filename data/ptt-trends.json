@@ -1,7 +1,7 @@
 {
-  "updated": "2026-01-13T11:21:16.039Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2026-01-13T11:33:08.389Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "443",
@@ -95,6 +95,16 @@
     },
     {
       "recommendScore": "193",
+      "recommendCount": "380",
+      "title": "[新聞] 台南社會局驚藏大隻內鬼！掏空長照補助...5407萬全進私人口袋",
+      "link": "/bbs/Gossiping/M.1768299029.A.9E5",
+      "author": "wellwed",
+      "board": "Gossiping",
+      "publishTime": "2026/01/13 10:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "193",
       "recommendCount": "406",
       "title": "[討論] DPP高雄市-賴瑞隆出線",
       "link": "/bbs/HatePolitics/M.1768274990.A.D13",
@@ -144,6 +154,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/FafTujr/s/7e0e53884271733d77d06a3272dd453a"
     },
     {
+      "recommendScore": "171",
+      "recommendCount": "496",
+      "title": "Re: [新聞] 為何黃國昌能直通華府?行程保密「藍綠",
+      "link": "/bbs/Gossiping/M.1768294074.A.CFE",
+      "author": "turbomons",
+      "board": "Gossiping",
+      "publishTime": "2026/01/13 08:47",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "168",
       "recommendCount": "351",
       "title": "[新聞] 黃國昌率團拜會白宮國安會、AIT總部　直擊畫面曝光",
@@ -164,33 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "128",
+      "recommendScore": "-57",
+      "recommendCount": "312",
+      "title": "[新聞] 賴瑞隆誓言：邀泰勒絲＋建大巨蛋　高雄薪資漲1萬、創20萬就業",
+      "link": "/bbs/Gossiping/M.1768291261.A.D8A",
+      "author": "zkow",
+      "board": "Gossiping",
+      "publishTime": "2026/01/13 08:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "146",
       "recommendCount": "296",
-      "title": "[新聞] 梁文傑稱「判決無罪不代表真無罪」 媒體人起底3案：歡迎補充",
-      "link": "/bbs/Gossiping/M.1768264523.A.637",
-      "author": "mongi",
+      "title": "[新聞] 花費50萬，見面十分鐘就被斷聯",
+      "link": "/bbs/Gossiping/M.1768290997.A.94C",
+      "author": "jason96999",
       "board": "Gossiping",
-      "publishTime": "2026/01/13 00:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "179",
-      "recommendCount": "468",
-      "title": "Re: [新聞] 黃國昌率團拜會白宮國安會、AIT總部　細",
-      "link": "/bbs/Gossiping/M.1768278689.A.08C",
-      "author": "seraphwind",
-      "board": "Gossiping",
-      "publishTime": "2026/01/13 04:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "159",
-      "recommendCount": "285",
-      "title": "[BOX ] Lakers 112:124 Kings",
-      "link": "/bbs/NBA/M.1768281799.A.646",
-      "author": "KC90",
-      "board": "NBA",
-      "publishTime": "2026/01/13 05:23",
+      "publishTime": "2026/01/13 07:56",
       "imageUrl": ""
     }
   ]
