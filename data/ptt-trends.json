@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-13T04:26:52.922Z",
+  "updated": "2026-01-13T04:46:54.819Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -52,16 +52,6 @@
       "board": "Stock",
       "publishTime": "2026/01/12 15:53",
       "imageUrl": "https://cache.pttweb.cc/imgur/iaAZvGJ/s/a3f9bee03283e0753c91d39fdc2563f9"
-    },
-    {
-      "recommendScore": "96",
-      "recommendCount": "165",
-      "title": "[BOX ] Rockets 98:111 Kings",
-      "link": "/bbs/NBA/M.1768192131.A.F0B",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2026/01/12 04:28",
-      "imageUrl": ""
     },
     {
       "recommendScore": "72",
@@ -201,6 +191,16 @@
       "author": "diefishfish",
       "board": "Stock",
       "publishTime": "2026/01/12 10:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "51",
+      "recommendCount": "124",
+      "title": "[新聞] 台塑四寶去年虧逾10億 員工年終領保底3個月",
+      "link": "/bbs/Stock/M.1768225383.A.13F",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2026/01/12 13:43",
       "imageUrl": ""
     }
   ]
