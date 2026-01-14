@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-14T07:09:24.795Z",
+  "updated": "2026-01-14T07:22:33.597Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -64,16 +64,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "122",
-      "recommendCount": "289",
-      "title": "[新聞] 為何黃國昌能直通華府?行程保密「藍綠",
-      "link": "/bbs/Gossiping/M.1768287644.A.476",
-      "author": "postar",
-      "board": "Gossiping",
-      "publishTime": "2026/01/13 07:00",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "130",
       "recommendCount": "217",
       "title": "[新聞]民進黨台南市長初選決戰前夕 陳亭妃籲守電話、寫歷史",
@@ -112,26 +102,6 @@
       "board": "Stock",
       "publishTime": "2026/01/13 09:18",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "138",
-      "recommendCount": "175",
-      "title": "[情報] 115年01月13日 三大法人買賣金額統計表",
-      "link": "/bbs/Stock/M.1768287756.A.81F",
-      "author": "coconing",
-      "board": "Stock",
-      "publishTime": "2026/01/13 07:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "162",
-      "recommendCount": "297",
-      "title": "[情報] RAV4 六代台灣正式售價出來了",
-      "link": "/bbs/car/M.1768287861.A.8B9",
-      "author": "asd63312337",
-      "board": "car",
-      "publishTime": "2026/01/13 07:04",
-      "imageUrl": "https://cache.pttweb.cc/imgur/v3zglEk/s/68b3fa57e3bdd3d5984f3b8e55534bff"
     },
     {
       "recommendScore": "94",
@@ -201,6 +171,36 @@
       "author": "eunhailoveu",
       "board": "BaseballXXXX",
       "publishTime": "2026/01/13 09:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "516",
+      "recommendCount": "1217",
+      "title": "[Live] 1900 PLG洋基工程VS領航猿",
+      "link": "/bbs/basketballTW/M.1768302589.A.EEE",
+      "author": "johnbill",
+      "board": "basketballTW",
+      "publishTime": "2026/01/13 11:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "113",
+      "recommendCount": "122",
+      "title": "[蔚藍] 檔案 鳴潮 星塔 近期的抽卡成果",
+      "link": "/bbs/C_Chat/M.1768293360.A.BDD",
+      "author": "tomrun168",
+      "board": "C_Chat",
+      "publishTime": "2026/01/13 08:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "85",
+      "recommendCount": "230",
+      "title": "[問卦] 學霸也是來自對岸，為何大家沒反應？",
+      "link": "/bbs/Gossiping/M.1768296583.A.3C6",
+      "author": "sploo",
+      "board": "Gossiping",
+      "publishTime": "2026/01/13 09:29",
       "imageUrl": ""
     }
   ]
