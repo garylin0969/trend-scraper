@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-14T08:08:43.014Z",
+  "updated": "2026-01-14T08:21:48.863Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "87",
-      "recommendCount": "123",
-      "title": "[情報] 0113 上市外資買賣超排行",
-      "link": "/bbs/Stock/M.1768291966.A.452",
-      "author": "saber50116",
-      "board": "Stock",
-      "publishTime": "2026/01/13 08:12",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "68",
       "recommendCount": "156",
       "title": "[新聞] 盧特尼克稱「台積電違反DEI」 實際員工男女比例、晉升比例曝光了",
@@ -201,6 +191,16 @@
       "author": "haha98",
       "board": "Stock",
       "publishTime": "2026/01/13 08:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "62",
+      "recommendCount": "113",
+      "title": "[新聞] 海邊散心驚見浮屍嚇壞！男子撈起額頭有傷口　身分待查",
+      "link": "/bbs/Gossiping/M.1768300004.A.1DF",
+      "author": "st210113",
+      "board": "Gossiping",
+      "publishTime": "2026/01/13 10:26",
       "imageUrl": ""
     }
   ]
