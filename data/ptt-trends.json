@@ -1,28 +1,8 @@
 {
-  "updated": "2026-01-14T10:42:42.234Z",
+  "updated": "2026-01-14T10:56:50.975Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "702",
-      "recommendCount": "1095",
-      "title": "[討論] [Vtub] Hololive 晚間直播單 (1150113)",
-      "link": "/bbs/C_Chat/M.1768301379.A.628",
-      "author": "laptic",
-      "board": "C_Chat",
-      "publishTime": "2026/01/13 10:49",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Gr4xQnv/s/b62ddf4a61f7f7aadb124a7af7c9a96f"
-    },
-    {
-      "recommendScore": "80",
-      "recommendCount": "182",
-      "title": "[問卦]花蓮光復各地出現「抗議布條」",
-      "link": "/bbs/Gossiping/M.1768301347.A.724",
-      "author": "a91153456",
-      "board": "Gossiping",
-      "publishTime": "2026/01/13 10:49",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "88",
       "recommendCount": "189",
@@ -144,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "73",
-      "recommendCount": "98",
-      "title": "[星塔] 都破產了是要怎麼養角色",
-      "link": "/bbs/C_Chat/M.1768301042.A.B57",
-      "author": "chainstay120",
-      "board": "C_Chat",
-      "publishTime": "2026/01/13 10:44",
-      "imageUrl": "https://cache.pttweb.cc/imgur/1cMFDAU/s/61abc8da250bf8e3869738d2009aeb5c"
-    },
-    {
       "recommendScore": "59",
       "recommendCount": "103",
       "title": "[閒聊] 白飯會影響餐廳再訪意願嗎？",
@@ -201,6 +171,36 @@
       "author": "oscarwu3041",
       "board": "HatePolitics",
       "publishTime": "2026/01/13 11:43",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-22",
+      "recommendCount": "72",
+      "title": "[請益] 正二反分割讓人少賺了吧",
+      "link": "/bbs/Stock/M.1768365272.A.F35",
+      "author": "tmdla",
+      "board": "Stock",
+      "publishTime": "2026/01/14 04:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-44",
+      "recommendCount": "73",
+      "title": "[新聞] 轟藍白惡搞！公督盟揭總預算卡關五大惡果！籲韓國瑜「別裝忙裝睡」儘速召集協商",
+      "link": "/bbs/Gossiping/M.1768352791.A.DBB",
+      "author": "TPPKoWenJe",
+      "board": "Gossiping",
+      "publishTime": "2026/01/14 01:06",
+      "imageUrl": "https://cache.pttweb.cc/imgur/rysIqgE/s/a3e163e3d974912ad5b7cf7ed703616b"
+    },
+    {
+      "recommendScore": "62",
+      "recommendCount": "68",
+      "title": "[情報] BTS WORLD TOUR 2026-2027",
+      "link": "/bbs/BTS/M.1768316499.A.AC1",
+      "author": "sodavoxyi",
+      "board": "BTS",
+      "publishTime": "2026/01/13 15:01",
       "imageUrl": ""
     }
   ]
