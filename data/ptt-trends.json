@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-14T10:56:50.975Z",
+  "updated": "2026-01-14T11:07:32.675Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "59",
-      "recommendCount": "103",
-      "title": "[閒聊] 白飯會影響餐廳再訪意願嗎？",
-      "link": "/bbs/BaseballXXXX/M.1768302051.A.9AF",
-      "author": "msarthur",
-      "board": "BaseballXXXX",
-      "publishTime": "2026/01/13 11:00",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "35",
       "recommendCount": "177",
       "title": "[討論] 王定宇出來闢國防條例的謠言了",
@@ -151,16 +141,6 @@
       "author": "PPAPwww",
       "board": "Gossiping",
       "publishTime": "2026/01/14 01:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-49",
-      "recommendCount": "73",
-      "title": "Re: [新聞] 陪黃國昌快閃美國!林子宇曝行程:沒住宿、連進去餐廳吃飯都沒時間",
-      "link": "/bbs/Gossiping/M.1768301953.A.8E1",
-      "author": "dahanjian",
-      "board": "Gossiping",
-      "publishTime": "2026/01/13 10:59",
       "imageUrl": ""
     },
     {
@@ -201,6 +181,26 @@
       "author": "sodavoxyi",
       "board": "BTS",
       "publishTime": "2026/01/13 15:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "58",
+      "recommendCount": "72",
+      "title": "[情報] 為美好的世界獻上祝福 動畫4期 新作遊戲",
+      "link": "/bbs/C_Chat/M.1768311357.A.3C0",
+      "author": "Cazu448",
+      "board": "C_Chat",
+      "publishTime": "2026/01/13 13:35",
+      "imageUrl": "https://cache.pttweb.cc/imgur/tEGPk8t/s/484faa425e7dc0f92d120b55e68cdbff"
+    },
+    {
+      "recommendScore": "23",
+      "recommendCount": "79",
+      "title": "[問卦] 脆：日本拉麵雖然鹹，但吃完不會口渴",
+      "link": "/bbs/Gossiping/M.1768304939.A.9E7",
+      "author": "a5687920",
+      "board": "Gossiping",
+      "publishTime": "2026/01/13 11:48",
       "imageUrl": ""
     }
   ]
