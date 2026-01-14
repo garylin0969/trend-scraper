@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-14T07:56:18.737Z",
+  "updated": "2026-01-14T08:08:43.014Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -31,26 +31,6 @@
       "author": "turbomons",
       "board": "Gossiping",
       "publishTime": "2026/01/13 08:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-57",
-      "recommendCount": "312",
-      "title": "[新聞] 賴瑞隆誓言：邀泰勒絲＋建大巨蛋　高雄薪資漲1萬、創20萬就業",
-      "link": "/bbs/Gossiping/M.1768291261.A.D8A",
-      "author": "zkow",
-      "board": "Gossiping",
-      "publishTime": "2026/01/13 08:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "146",
-      "recommendCount": "296",
-      "title": "[新聞] 花費50萬，見面十分鐘就被斷聯",
-      "link": "/bbs/Gossiping/M.1768290997.A.94C",
-      "author": "jason96999",
-      "board": "Gossiping",
-      "publishTime": "2026/01/13 07:56",
       "imageUrl": ""
     },
     {
@@ -201,6 +181,26 @@
       "author": "gn505250",
       "board": "Gossiping",
       "publishTime": "2026/01/13 08:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "87",
+      "recommendCount": "123",
+      "title": "[情報] 0113 上市外資買賣超排行",
+      "link": "/bbs/Stock/M.1768291966.A.452",
+      "author": "saber50116",
+      "board": "Stock",
+      "publishTime": "2026/01/13 08:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "68",
+      "recommendCount": "156",
+      "title": "[新聞] 盧特尼克稱「台積電違反DEI」 實際員工男女比例、晉升比例曝光了",
+      "link": "/bbs/Stock/M.1768294086.A.856",
+      "author": "haha98",
+      "board": "Stock",
+      "publishTime": "2026/01/13 08:48",
       "imageUrl": ""
     }
   ]
