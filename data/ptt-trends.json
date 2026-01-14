@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-13T23:53:43.371Z",
+  "updated": "2026-01-14T00:26:10.174Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,16 +14,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "255",
-      "recommendCount": "654",
-      "title": "[問卦] 鍾明軒：可否還給我以前的台灣",
-      "link": "/bbs/Gossiping/M.1768262493.A.927",
-      "author": "randyhwa",
-      "board": "Gossiping",
-      "publishTime": "2026/01/13 00:01",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "242",
       "recommendCount": "499",
       "title": "[新聞] 平民之子賴瑞隆勝出 將代表民進黨戰2026高雄市長",
@@ -31,16 +21,6 @@
       "author": "william8403",
       "board": "Gossiping",
       "publishTime": "2026/01/13 03:59",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "291",
-      "recommendCount": "715",
-      "title": "[新聞] 黃國昌率團拜會白宮國安會、AIT總部 細節全保密",
-      "link": "/bbs/Gossiping/M.1768263782.A.A62",
-      "author": "Doica2445",
-      "board": "Gossiping",
-      "publishTime": "2026/01/13 00:23",
       "imageUrl": ""
     },
     {
@@ -201,6 +181,26 @@
       "author": "KC90",
       "board": "NBA",
       "publishTime": "2026/01/13 05:23",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "138",
+      "recommendCount": "266",
+      "title": "[爆卦] 尹錫悅 判處死刑",
+      "link": "/bbs/Gossiping/M.1768308054.A.831",
+      "author": "shannyliu",
+      "board": "Gossiping",
+      "publishTime": "2026/01/13 12:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "190",
+      "recommendCount": "280",
+      "title": "[閒聊] 最強聯盟FB",
+      "link": "/bbs/LoL/M.1768273757.A.5F9",
+      "author": "SteveVai",
+      "board": "LoL",
+      "publishTime": "2026/01/13 03:09",
       "imageUrl": ""
     }
   ]
