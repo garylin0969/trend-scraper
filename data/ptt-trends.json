@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-14T09:32:06.650Z",
+  "updated": "2026-01-14T09:49:16.757Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,16 +14,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "151",
-      "recommendCount": "358",
-      "title": "[新聞] 馬年當心犯太歲 提醒名字有文、哲要注意",
-      "link": "/bbs/Gossiping/M.1768297567.A.8F2",
-      "author": "Player02",
-      "board": "Gossiping",
-      "publishTime": "2026/01/13 09:46",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "138",
       "recommendCount": "266",
       "title": "[爆卦] 尹錫悅 判處死刑",
@@ -31,16 +21,6 @@
       "author": "shannyliu",
       "board": "Gossiping",
       "publishTime": "2026/01/13 12:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "171",
-      "recommendCount": "232",
-      "title": "[心得] 版上100份年報整理",
-      "link": "/bbs/Stock/M.1768297630.A.E0F",
-      "author": "a89182a89182",
-      "board": "Stock",
-      "publishTime": "2026/01/13 09:47",
       "imageUrl": ""
     },
     {
@@ -72,16 +52,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/13 10:49",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "128",
-      "recommendCount": "135",
-      "title": "[發錢] 星塔+檔案，太歐了不發不行",
-      "link": "/bbs/C_Chat/M.1768296842.A.937",
-      "author": "coon182",
-      "board": "C_Chat",
-      "publishTime": "2026/01/13 09:34",
-      "imageUrl": "https://cache.pttweb.cc/imgur/phY9hOR/s/2f620927dabdf947c47b4c0306609533"
     },
     {
       "recommendScore": "88",
@@ -134,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "77",
-      "recommendCount": "89",
-      "title": "[閒聊] 你咖",
-      "link": "/bbs/Marginalman/M.1768296864.A.18C",
-      "author": "liubruce502",
-      "board": "Marginalman",
-      "publishTime": "2026/01/13 09:34",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "74",
       "recommendCount": "129",
       "title": "[新聞] 悍將狀元籤喬鄭宗哲還太早 領隊：希望他在MLB有好發展",
@@ -161,16 +121,6 @@
       "author": "hihihihehehe",
       "board": "C_Chat",
       "publishTime": "2026/01/13 11:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "93",
-      "recommendCount": "264",
-      "title": "[LIVE] 韓籃 原州東浦新世代 @ 首爾SK騎士 場中",
-      "link": "/bbs/SportLottery/M.1768297705.A.6FA",
-      "author": "shunhahahaha",
-      "board": "SportLottery",
-      "publishTime": "2026/01/13 09:48",
       "imageUrl": ""
     },
     {
@@ -202,6 +152,56 @@
       "board": "Gossiping",
       "publishTime": "2026/01/14 05:52",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "38",
+      "recommendCount": "117",
+      "title": "[問卦] 八炯：台積電去美國設落後一代的廠…",
+      "link": "/bbs/Gossiping/M.1768365051.A.7DB",
+      "author": "cowardlyman",
+      "board": "Gossiping",
+      "publishTime": "2026/01/14 04:30",
+      "imageUrl": "https://cache.pttweb.cc/imgur/7hm5fb3/s/d34c02419cd4fd92d0471460d7b90c8e"
+    },
+    {
+      "recommendScore": "29",
+      "recommendCount": "97",
+      "title": "[情報] Kerr: 今晚是一個讓每個人都上場的好機",
+      "link": "/bbs/NBA/M.1768373694.A.AD2",
+      "author": "Skyblueway",
+      "board": "NBA",
+      "publishTime": "2026/01/14 06:54",
+      "imageUrl": "https://cache.pttweb.cc/imgur/2IACclX/s/f49d51013663f0a770468dfd4ed00c54"
+    },
+    {
+      "recommendScore": "-10",
+      "recommendCount": "129",
+      "title": "[新聞] 黃國昌控3000億軍購卻編1.25兆 他列細項打臉：誰說只有對美軍購？",
+      "link": "/bbs/Gossiping/M.1768371582.A.87B",
+      "author": "DsLove710",
+      "board": "Gossiping",
+      "publishTime": "2026/01/14 06:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "54",
+      "recommendCount": "111",
+      "title": "[BOX ] Hawks 116:141 Lakers",
+      "link": "/bbs/NBA/M.1768369878.A.FD3",
+      "author": "KC90",
+      "board": "NBA",
+      "publishTime": "2026/01/14 05:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "73",
+      "recommendCount": "98",
+      "title": "[星塔] 都破產了是要怎麼養角色",
+      "link": "/bbs/C_Chat/M.1768301042.A.B57",
+      "author": "chainstay120",
+      "board": "C_Chat",
+      "publishTime": "2026/01/13 10:44",
+      "imageUrl": "https://cache.pttweb.cc/imgur/1cMFDAU/s/61abc8da250bf8e3869738d2009aeb5c"
     }
   ]
 }
