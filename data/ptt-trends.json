@@ -1,18 +1,8 @@
 {
-  "updated": "2026-01-14T10:24:34.374Z",
+  "updated": "2026-01-14T10:42:42.234Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "98",
-      "recommendCount": "284",
-      "title": "[問卦] GOGORO哪一步走錯了 變成今天這樣？",
-      "link": "/bbs/Gossiping/M.1768300661.A.0CB",
-      "author": "black1x2y3z",
-      "board": "Gossiping",
-      "publishTime": "2026/01/13 10:37",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "702",
       "recommendCount": "1095",
@@ -51,16 +41,6 @@
       "author": "johnbill",
       "board": "basketballTW",
       "publishTime": "2026/01/13 11:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "62",
-      "recommendCount": "113",
-      "title": "[新聞] 海邊散心驚見浮屍嚇壞！男子撈起額頭有傷口　身分待查",
-      "link": "/bbs/Gossiping/M.1768300004.A.1DF",
-      "author": "st210113",
-      "board": "Gossiping",
-      "publishTime": "2026/01/13 10:26",
       "imageUrl": ""
     },
     {
@@ -201,6 +181,26 @@
       "author": "PPAPwww",
       "board": "Gossiping",
       "publishTime": "2026/01/14 01:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-49",
+      "recommendCount": "73",
+      "title": "Re: [新聞] 陪黃國昌快閃美國!林子宇曝行程:沒住宿、連進去餐廳吃飯都沒時間",
+      "link": "/bbs/Gossiping/M.1768301953.A.8E1",
+      "author": "dahanjian",
+      "board": "Gossiping",
+      "publishTime": "2026/01/13 10:59",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "30",
+      "recommendCount": "82",
+      "title": "[討論] 傳台美關稅15% 鄭麗文嗆：黑箱！可憐！",
+      "link": "/bbs/HatePolitics/M.1768304622.A.705",
+      "author": "oscarwu3041",
+      "board": "HatePolitics",
+      "publishTime": "2026/01/13 11:43",
       "imageUrl": ""
     }
   ]
