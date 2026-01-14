@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-14T04:37:25.046Z",
+  "updated": "2026-01-14T04:55:39.896Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,16 +154,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/v3zglEk/s/68b3fa57e3bdd3d5984f3b8e55534bff"
     },
     {
-      "recommendScore": "73",
-      "recommendCount": "174",
-      "title": "[新聞] 對決柯志恩！賴瑞隆曝2人最大不同：我一直跟高雄在一起",
-      "link": "/bbs/Gossiping/M.1768279688.A.86D",
-      "author": "taiwan08",
-      "board": "Gossiping",
-      "publishTime": "2026/01/13 04:48",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "94",
       "recommendCount": "221",
       "title": "[問卦] 台南是哪一點像京都？",
@@ -201,6 +191,16 @@
       "author": "XXXXCOW",
       "board": "Gossiping",
       "publishTime": "2026/01/13 07:43",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "61",
+      "recommendCount": "174",
+      "title": "[情報] LBJ：你必須要把球投進，但我們沒能投進",
+      "link": "/bbs/NBA/M.1768284468.A.B81",
+      "author": "KC90",
+      "board": "NBA",
+      "publishTime": "2026/01/13 06:07",
       "imageUrl": ""
     }
   ]
