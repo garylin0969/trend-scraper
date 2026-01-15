@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-15T13:28:48.302Z",
+  "updated": "2026-01-15T13:48:15.866Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,16 +54,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "43",
-      "recommendCount": "154",
-      "title": "[討論] AIT證實黃國昌去美國只是私人會面",
-      "link": "/bbs/HatePolitics/M.1768397763.A.9EC",
-      "author": "vajra0001",
-      "board": "HatePolitics",
-      "publishTime": "2026/01/14 13:36",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-6",
       "recommendCount": "94",
       "title": "[新聞] 黃國昌尷尬了？AIT表態：歡迎賴清德所提1.25兆國防預算",
@@ -111,16 +101,6 @@
       "author": "a91153456",
       "board": "Gossiping",
       "publishTime": "2026/01/15 11:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "44",
-      "recommendCount": "82",
-      "title": "[問卦]英國媽媽嚇到「台灣炸雞皮真的太美味」",
-      "link": "/bbs/Gossiping/M.1768397636.A.6EE",
-      "author": "a91153456",
-      "board": "Gossiping",
-      "publishTime": "2026/01/14 13:33",
       "imageUrl": ""
     },
     {
@@ -201,6 +181,26 @@
       "author": "leo921080931",
       "board": "Gossiping",
       "publishTime": "2026/01/15 12:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "55",
+      "recommendCount": "79",
+      "title": "[26冬] 我推的孩子三期 25 赤坂給我跪下！",
+      "link": "/bbs/C_Chat/M.1768405530.A.828",
+      "author": "Katsuyuki118",
+      "board": "C_Chat",
+      "publishTime": "2026/01/14 15:45",
+      "imageUrl": "https://cache.pttweb.cc/imgur/F198IWc/s/5f9e00f1e29819ac896307b7e2ae183f"
+    },
+    {
+      "recommendScore": "44",
+      "recommendCount": "66",
+      "title": "[新聞] 美最高法院 14日未宣判川普關稅案",
+      "link": "/bbs/Stock/M.1768405010.A.A08",
+      "author": "jeff0025",
+      "board": "Stock",
+      "publishTime": "2026/01/14 15:36",
       "imageUrl": ""
     }
   ]
