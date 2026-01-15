@@ -1,10 +1,10 @@
 {
-  "updated": "2026-01-15T05:23:38.337Z",
+  "updated": "2026-01-15T05:51:00.662Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-15T05:23:27.000Z",
+    "lastBuildDate": "2026-01-15T05:50:49.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -26,6 +26,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8cfa/live/82cc0000-ef8d-11f0-b385-5f48925de19a.jpg"
     },
     {
+      "title": "豪車製造商為什麼鐘情于建造華麗炫目的摩天住宅樓？",
+      "description": "品牌公寓通常比非品牌豪宅貴30%至40%。許多新品牌住宅配備私人會員俱樂部、養生設施及專屬服務——從司機接送、遊艇使用到私人飛機合作。",
+      "link": "https://www.bbc.com/zhongwen/articles/c9dvg9zpxl7o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-15T05:33:50.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c9dvg9zpxl7o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/75da/live/5f53aa60-ebd7-11f0-a422-4ba8a094a8fa.jpg"
+    },
+    {
       "title": "分析：專制政權的消亡是一個漸進又突發的過程，但伊朗還未到那一步",
       "description": "BBC國際事務編輯傑里米·鮑文寫道，伊朗政權的反對者希望施加更大的壓力，加速專制政權消亡的進程。",
       "link": "https://www.bbc.com/zhongwen/articles/c98pj6qgqd4o/trad?at_medium=RSS&at_campaign=rss",
@@ -40,14 +48,6 @@
       "pubDate": "2026-01-14T07:13:35.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cj6w1xdz9pro/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/134a/live/e02cf810-f0ac-11f0-b546-d96774f73259.jpg"
-    },
-    {
-      "title": "科學家警告：「世界屋脊」喜馬拉雅山瀕臨「禿頭」",
-      "description": "氣象專家指出，喜馬拉雅山脈冬季降雪量持續萎縮，將對數以百萬計人口生計帶來衝擊。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn42l2l32xeo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-14T09:11:14.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn42l2l32xeo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e0ca/live/31240770-ec7c-11f0-ba9c-c9d74e6fde06.jpg"
     },
     {
       "title": "香港「粵車南下」落地逾兩週，大陸車主為何訪港？港人因何擔憂？",
@@ -90,12 +90,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e3e/live/5c767160-efc4-11f0-a422-4ba8a094a8fa.jpg"
     },
     {
-      "title": "中國社媒出現的「反清復明」爭議：有關中國、中國人與「1644史觀」的討論",
-      "description": "近期，中國當局集中處理了一批討論、號召「反清復明」的貼文和賬號，首次提出「1644史觀」這個名詞，並將其與「極端女權」等中國當局長期打壓的意見並列。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgp53r9gvyo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-09T05:06:28.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgp53r9gvyo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/048d/live/347edce0-ed19-11f0-9d70-f966e08d8cdf.jpg"
+      "title": "科學家警告：「世界屋脊」喜馬拉雅山瀕臨「禿頭」",
+      "description": "氣象專家指出，喜馬拉雅山脈冬季降雪量持續萎縮，將對數以百萬計人口生計帶來衝擊。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn42l2l32xeo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-14T09:11:14.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn42l2l32xeo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e0ca/live/31240770-ec7c-11f0-ba9c-c9d74e6fde06.jpg"
     },
     {
       "title": "「我感到自由了」：澳洲青少年社交媒體禁令實施滿一個月",
@@ -194,6 +194,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/645a/live/aab49c60-eb11-11f0-992c-75363ad17690.jpg"
     },
     {
+      "title": "中國社媒出現的「反清復明」爭議：有關中國、中國人與「1644史觀」的討論",
+      "description": "近期，中國當局集中處理了一批討論、號召「反清復明」的貼文和賬號，首次提出「1644史觀」這個名詞，並將其與「極端女權」等中國當局長期打壓的意見並列。",
+      "link": "https://www.bbc.com/zhongwen/articles/cvgp53r9gvyo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-09T05:06:28.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvgp53r9gvyo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/048d/live/347edce0-ed19-11f0-9d70-f966e08d8cdf.jpg"
+    },
+    {
       "title": "中國溫州雅陽教堂十字架疑遭強拆：一文讀通事發經過",
       "description": "海外中國宗教自由團體稱，浙江溫州泰順縣警察圍堵當地雅陽鎮一座基督教堂，並試圖拆除十字架，是自2014年打擊浪潮以來再次出事。",
       "link": "https://www.bbc.com/zhongwen/articles/cg7y053kkyko/trad?at_medium=RSS&at_campaign=rss",
@@ -216,14 +224,6 @@
       "pubDate": "2026-01-08T00:23:43.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c20g3wd7x80o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ea75/live/640e7bf0-eb2a-11f0-b385-5f48925de19a.jpg"
-    },
-    {
-      "title": "中日外交戰陰影下的中國移民  首次看到攻擊性塗鴉「感到寒毛直豎」",
-      "description": "中國移民人數在日本一直不斷攀升，迄今已成為日本最大的外國居民群體。一些移民向BBC表示，自己的生活也在兩國關係的起伏之中遭遇變動。",
-      "link": "https://www.bbc.com/zhongwen/articles/ce3ewgzj0qpo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-05T07:22:58.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce3ewgzj0qpo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3516/live/7404d900-d59a-11f0-96a4-935f66be2975.jpg"
     },
     {
       "title": "從「剩女」到「中女」，新世代中國女性改寫自我敘事",
