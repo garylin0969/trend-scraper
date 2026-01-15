@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-15T20:36:38.393Z",
+  "updated": "2026-01-15T20:47:52.467Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -105,6 +105,16 @@
     },
     {
       "recommendScore": "81",
+      "recommendCount": "106",
+      "title": "Re: [閒聊] 韓國積分神秘93%勝率帳號",
+      "link": "/bbs/LoL/M.1768489040.A.E80",
+      "author": "moebear",
+      "board": "LoL",
+      "publishTime": "2026/01/15 14:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "81",
       "recommendCount": "135",
       "title": "[情報] e plus平台 WBC台灣隊完售",
       "link": "/bbs/Baseball/M.1768485076.A.773",
@@ -191,16 +201,6 @@
       "author": "kinjk01",
       "board": "Gossiping",
       "publishTime": "2026/01/15 01:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "19",
-      "recommendCount": "84",
-      "title": "[新聞] 小草嗆「小心墜機、你老婆賣的」想和解！王瑞德求償100萬：一定告死你",
-      "link": "/bbs/Gossiping/M.1768484233.A.223",
-      "author": "holiybo",
-      "board": "Gossiping",
-      "publishTime": "2026/01/15 13:37",
       "imageUrl": ""
     }
   ]
