@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-15T19:49:13.152Z",
+  "updated": "2026-01-15T19:57:11.743Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -42,6 +42,16 @@
       "board": "Stock",
       "publishTime": "2026/01/15 14:59",
       "imageUrl": "https://cache.pttweb.cc/imgur/NrHAa8Y/s/b945360de7829e8a3b88f995f835858c"
+    },
+    {
+      "recommendScore": "153",
+      "recommendCount": "219",
+      "title": "[閒聊] 2026春節高鐵搶票大戰Live",
+      "link": "/bbs/Railway/M.1768492221.A.F21",
+      "author": "jack801016",
+      "board": "Railway",
+      "publishTime": "2026/01/15 15:50",
+      "imageUrl": ""
     },
     {
       "recommendScore": "129",
@@ -191,16 +201,6 @@
       "author": "holiybo",
       "board": "Gossiping",
       "publishTime": "2026/01/15 13:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "54",
-      "recommendCount": "98",
-      "title": "[新聞] 太意外！海外eplus系統癱瘓　WBC「台韓大戰」竟全數完售",
-      "link": "/bbs/Baseball/M.1768482490.A.CFE",
-      "author": "katsuura",
-      "board": "Baseball",
-      "publishTime": "2026/01/15 13:08",
       "imageUrl": ""
     }
   ]
