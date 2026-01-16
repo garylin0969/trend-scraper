@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-16T03:01:27.249Z",
+  "updated": "2026-01-16T03:39:50.707Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "62",
+      "recommendCount": "98",
+      "title": "[情報] 道奇給Kyle Tucker 4年240M",
+      "link": "/bbs/Baseball/M.1768532811.A.060",
+      "author": "polanco",
+      "board": "Baseball",
+      "publishTime": "2026/01/16 03:06",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "44",
       "recommendCount": "167",
       "title": "[新聞] 人生規劃全不符家庭期待 張文遭父罵「6字",
@@ -191,16 +201,6 @@
       "author": "RENU",
       "board": "Gossiping",
       "publishTime": "2026/01/15 15:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "55",
-      "recommendCount": "96",
-      "title": "[問卦] 女友浴室很多大罐廉價沐浴乳？",
-      "link": "/bbs/Gossiping/M.1768481501.A.1B7",
-      "author": "soheadsome",
-      "board": "Gossiping",
-      "publishTime": "2026/01/15 12:51",
       "imageUrl": ""
     }
   ]
