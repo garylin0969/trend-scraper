@@ -1,22 +1,14 @@
 {
-  "updated": "2026-01-16T03:46:30.936Z",
+  "updated": "2026-01-16T04:28:01.798Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-16T03:46:20.000Z",
+    "lastBuildDate": "2026-01-16T04:27:53.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
-    {
-      "title": "中國再用稀土「大棒」制裁日本  美中休戰期日韓遭遇「一拉一踩」",
-      "description": "李在明在北京享受高規格禮遇時中國在稀土貿易商對日本出手，被視為中國對這兩位東亞鄰居「一拉一踩」的外交策略。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4g3kq78l97o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-15T00:16:48.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4g3kq78l97o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8749/live/b8f67850-f130-11f0-8813-c1dd7edee31e.jpg"
-    },
     {
       "title": "中國裁判文書網：法官隱名、文書上載量驟減與司法透明倒退的討論",
       "description": "中國裁判文書網有文書隱去法官姓名及案件編號，官方稱錯誤隱名屬不當，已要求整改。BBC中文講解文書網的背景及近年變動，分析事件爲何標誌司法透明的倒退。",
@@ -24,6 +16,14 @@
       "pubDate": "2026-01-16T01:32:12.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c70lx92l8rlo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4440/live/e5bdc500-f275-11f0-8a12-db5715931be3.jpg"
+    },
+    {
+      "title": "到底對不對伊朗動武？特朗普正試圖讓所有人猜謎",
+      "description": "近兩週來，特朗普似乎一直處於介入伊朗局勢的邊緣。從1月2日他威脅說，如果伊朗當局對示威者使用暴力，他將出手「營救」他們，到本週他承諾「援助即將到來」，這位美國總統的語氣一直十分堅定。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gwzj0vxeyo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-16T03:55:39.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gwzj0vxeyo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a110/live/45b2aab0-f25e-11f0-bfd6-49ce1c503815.jpg"
     },
     {
       "title": "新法生效與監管調查對Grok AI深偽影像意味著什麼",
@@ -34,20 +34,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f33/live/7c5ee4d0-efdd-11f0-b385-5f48925de19a.jpg"
     },
     {
+      "title": "中國再用稀土「大棒」制裁日本  美中休戰期日韓遭遇「一拉一踩」",
+      "description": "李在明在北京享受高規格禮遇時中國在稀土貿易商對日本出手，被視為中國對這兩位東亞鄰居「一拉一踩」的外交策略。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4g3kq78l97o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-15T00:16:48.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4g3kq78l97o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8749/live/b8f67850-f130-11f0-8813-c1dd7edee31e.jpg"
+    },
+    {
       "title": "從德黑蘭停屍房影片核查伊朗示威者死亡數和鎮壓手段",
       "description": "BBC從拍攝於一處停尸間的慘烈影片中點算出將近200具遺體，其中一名死者只有16歲。",
       "link": "https://www.bbc.com/zhongwen/articles/ce8g3ezgrr8o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-01-15T09:20:02.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ce8g3ezgrr8o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ba84/live/10a0b090-f166-11f0-a422-4ba8a094a8fa.png"
-    },
-    {
-      "title": "「快審快殺」：誰是面臨處決的伊朗人索爾坦尼",
-      "description": "伊朗人爾凡·索爾坦尼（Erfan Soltani）於1月8日因當地示威被捕，旋即被判處死刑，正等待處決。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gv0z5xp1po/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-15T06:56:18.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gv0z5xp1po/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/47da/live/1039dc70-f13a-11f0-bac6-01fa62f5abf0.jpg"
     },
     {
       "title": "加拿大總理八年後首次訪華，卡尼中國行何以將聚焦經貿？",
@@ -64,6 +64,14 @@
       "pubDate": "2026-01-15T07:03:34.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c20z1e78jx4o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8350/live/5325f230-f10d-11f0-8d8c-119c97eeca07.jpg"
+    },
+    {
+      "title": "「快審快殺」：誰是面臨處決的伊朗人索爾坦尼",
+      "description": "伊朗人爾凡·索爾坦尼（Erfan Soltani）於1月8日因當地示威被捕，旋即被判處死刑，正等待處決。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gv0z5xp1po/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-15T06:56:18.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gv0z5xp1po/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/47da/live/1039dc70-f13a-11f0-bac6-01fa62f5abf0.jpg"
     },
     {
       "title": "分析：專制政權的消亡是一個漸進又突發的過程，但伊朗還未到那一步",
@@ -88,14 +96,6 @@
       "pubDate": "2026-01-13T09:00:58.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cqxy2jd33e2o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8599/live/50e11f80-ef92-11f0-8faf-09c6d7521940.jpg"
-    },
-    {
-      "title": "伊朗示威死亡人數據報已超2500  特朗普宣稱「援助要來了」",
-      "description": "人權活動者通訊社副主任斯凱勒·湯普森星期三對美聯社評論死傷數字時說：「我們感到震驚，但仍然認為這個數字偏於保守。」",
-      "link": "https://www.bbc.com/zhongwen/articles/cj6w1xdz9pro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-14T07:13:35.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cj6w1xdz9pro/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/134a/live/e02cf810-f0ac-11f0-b546-d96774f73259.jpg"
     },
     {
       "title": "伊朗統治者面臨自1979年革命以來最大挑戰",
