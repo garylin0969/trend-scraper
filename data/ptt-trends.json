@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-16T20:18:55.828Z",
+  "updated": "2026-01-16T20:32:13.307Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "266",
+      "recommendCount": "549",
+      "title": "[爆卦] 賴清德被學者點名違憲",
+      "link": "/bbs/Gossiping/M.1768569421.A.FB2",
+      "author": "z753951zxc",
+      "board": "Gossiping",
+      "publishTime": "2026/01/16 13:17",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "218",
       "recommendCount": "537",
@@ -54,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "153",
+      "recommendCount": "287",
+      "title": "[新聞] 《大集合》爆回收來賓紅包！都胡瓜自掏腰包補錢　親友心疼：被民視羞辱太久",
+      "link": "/bbs/Gossiping/M.1768560251.A.52E",
+      "author": "STAV72",
+      "board": "Gossiping",
+      "publishTime": "2026/01/16 10:44",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-69",
       "recommendCount": "332",
       "title": "[新聞] 快新聞／藍白唱衰全落空！台美關稅15%不疊加 卓揆：擊出一支漂亮全壘打",
@@ -91,6 +111,16 @@
       "author": "jeff1013",
       "board": "NBA",
       "publishTime": "2026/01/16 06:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "121",
+      "recommendCount": "252",
+      "title": "[新聞] 寒流連9晚洗冷水澡！旗山里長率眾砸蛋抗議",
+      "link": "/bbs/Gossiping/M.1768572882.A.8B8",
+      "author": "EstelleRinz",
+      "board": "Gossiping",
+      "publishTime": "2026/01/16 14:14",
       "imageUrl": ""
     },
     {
@@ -171,36 +201,6 @@
       "author": "coconing",
       "board": "Stock",
       "publishTime": "2026/01/16 07:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "109",
-      "recommendCount": "289",
-      "title": "[請益] 高股息ETF為什麼在板上被攻擊？",
-      "link": "/bbs/Stock/M.1768541656.A.570",
-      "author": "sadness0830",
-      "board": "Stock",
-      "publishTime": "2026/01/16 05:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "108",
-      "recommendCount": "274",
-      "title": "[新聞] 綠49票反對仍不敵藍白 38項 718億新興計畫預算逕付二讀",
-      "link": "/bbs/Gossiping/M.1768555954.A.B45",
-      "author": "ckshchen",
-      "board": "Gossiping",
-      "publishTime": "2026/01/16 09:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "69",
-      "recommendCount": "178",
-      "title": "[新聞] CT集訓名單曝光,韓網友狂酸台灣",
-      "link": "/bbs/Baseball/M.1768535356.A.537",
-      "author": "DOIMOI",
-      "board": "Baseball",
-      "publishTime": "2026/01/16 03:49",
       "imageUrl": ""
     }
   ]
