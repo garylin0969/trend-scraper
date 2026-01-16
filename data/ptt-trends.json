@@ -1,7 +1,7 @@
 {
-  "updated": "2026-01-16T18:45:46.390Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2026-01-16T18:58:33.007Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "218",
@@ -191,6 +191,16 @@
       "author": "ckshchen",
       "board": "Gossiping",
       "publishTime": "2026/01/16 09:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "69",
+      "recommendCount": "178",
+      "title": "[新聞] CT集訓名單曝光,韓網友狂酸台灣",
+      "link": "/bbs/Baseball/M.1768535356.A.537",
+      "author": "DOIMOI",
+      "board": "Baseball",
+      "publishTime": "2026/01/16 03:49",
       "imageUrl": ""
     }
   ]
