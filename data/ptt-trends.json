@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-16T17:31:07.654Z",
+  "updated": "2026-01-16T17:43:36.284Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -11,6 +11,16 @@
       "author": "juang1985",
       "board": "Gossiping",
       "publishTime": "2026/01/16 04:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "149",
+      "recommendCount": "1066",
+      "title": "[討論] 美國：如果台灣不配合，關稅可能是100%",
+      "link": "/bbs/HatePolitics/M.1768563442.A.2F6",
+      "author": "LeeSeDol",
+      "board": "HatePolitics",
+      "publishTime": "2026/01/16 11:37",
       "imageUrl": ""
     },
     {
@@ -104,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "54",
+      "recommendCount": "328",
+      "title": "[花邊] NBA球探：Kobe迷永遠不會欣賞LBJ的偉大",
+      "link": "/bbs/NBA/M.1768560429.A.146",
+      "author": "KC90",
+      "board": "NBA",
+      "publishTime": "2026/01/16 10:47",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "114",
       "recommendCount": "539",
       "title": "[討論] 結果關稅還是要送立院審議~~~~",
@@ -181,26 +201,6 @@
       "author": "DOIMOI",
       "board": "Baseball",
       "publishTime": "2026/01/16 03:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "72",
-      "recommendCount": "207",
-      "title": "[請益] 會居高思危開始做避險嗎？",
-      "link": "/bbs/Stock/M.1768537572.A.082",
-      "author": "bsqq541",
-      "board": "Stock",
-      "publishTime": "2026/01/16 04:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "84",
-      "recommendCount": "218",
-      "title": "[新聞] 川普目標台半導體四成移美 盧特尼克：5千億是頭期款",
-      "link": "/bbs/Gossiping/M.1768542998.A.58A",
-      "author": "junzi",
-      "board": "Gossiping",
-      "publishTime": "2026/01/16 05:56",
       "imageUrl": ""
     }
   ]
