@@ -1,18 +1,8 @@
 {
-  "updated": "2026-01-16T15:34:40.365Z",
+  "updated": "2026-01-16T15:47:18.582Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "343",
-      "recommendCount": "416",
-      "title": "[情報] Clayton Kershaw加入WBC美國隊",
-      "link": "/bbs/Baseball/M.1768491286.A.D7B",
-      "author": "Axwell",
-      "board": "Baseball",
-      "publishTime": "2026/01/15 15:34",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "218",
       "recommendCount": "537",
@@ -201,6 +191,16 @@
       "author": "bsqq541",
       "board": "Stock",
       "publishTime": "2026/01/16 04:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "84",
+      "recommendCount": "218",
+      "title": "[新聞] 川普目標台半導體四成移美 盧特尼克：5千億是頭期款",
+      "link": "/bbs/Gossiping/M.1768542998.A.58A",
+      "author": "junzi",
+      "board": "Gossiping",
+      "publishTime": "2026/01/16 05:56",
       "imageUrl": ""
     }
   ]
