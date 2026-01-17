@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-17T03:59:56.623Z",
+  "updated": "2026-01-17T04:17:23.304Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -62,16 +62,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/16 10:44",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "-69",
-      "recommendCount": "332",
-      "title": "[新聞] 快新聞／藍白唱衰全落空！台美關稅15%不疊加 卓揆：擊出一支漂亮全壘打",
-      "link": "/bbs/Gossiping/M.1768536063.A.FC0",
-      "author": "TPPKoWenJe",
-      "board": "Gossiping",
-      "publishTime": "2026/01/16 04:01",
-      "imageUrl": "https://cache.pttweb.cc/imgur/bQUmaSi/s/927469d2cbec41144b6922fa528d7069"
     },
     {
       "recommendScore": "140",
@@ -154,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "97",
-      "recommendCount": "288",
-      "title": "[新聞] 關稅15%不是白拿！盧特尼克直言：台灣砸5,000億美元投資只為取悅川普",
-      "link": "/bbs/Gossiping/M.1768536807.A.0C3",
-      "author": "WuSam",
-      "board": "Gossiping",
-      "publishTime": "2026/01/16 04:13",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "133",
       "recommendCount": "320",
       "title": "[BOX ] Hornets 135:117 Lakers",
@@ -201,6 +181,26 @@
       "author": "sadness0830",
       "board": "Stock",
       "publishTime": "2026/01/16 05:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "108",
+      "recommendCount": "274",
+      "title": "[新聞] 綠49票反對仍不敵藍白 38項 718億新興計畫預算逕付二讀",
+      "link": "/bbs/Gossiping/M.1768555954.A.B45",
+      "author": "ckshchen",
+      "board": "Gossiping",
+      "publishTime": "2026/01/16 09:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "136",
+      "recommendCount": "175",
+      "title": "[推投] 下一次魔物獵人(含DLC)你會買單嗎?",
+      "link": "/bbs/C_Chat/M.1768567222.A.4EB",
+      "author": "speed7022",
+      "board": "C_Chat",
+      "publishTime": "2026/01/16 12:40",
       "imageUrl": ""
     }
   ]
