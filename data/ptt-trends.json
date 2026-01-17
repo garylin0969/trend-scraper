@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-17T08:47:51.390Z",
+  "updated": "2026-01-17T08:56:21.618Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "266",
+      "recommendCount": "549",
+      "title": "[爆卦] 賴清德被學者點名違憲",
+      "link": "/bbs/Gossiping/M.1768569421.A.FB2",
+      "author": "z753951zxc",
+      "board": "Gossiping",
+      "publishTime": "2026/01/16 13:17",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "149",
       "recommendCount": "1066",
@@ -191,16 +201,6 @@
       "author": "laptic",
       "board": "C_Chat",
       "publishTime": "2026/01/16 10:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "407",
-      "recommendCount": "628",
-      "title": "[電競] 2026 LCP Split 1 例行賽 W1D2",
-      "link": "/bbs/LoL/M.1768627941.A.2A3",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/01/17 05:32",
       "imageUrl": ""
     }
   ]
