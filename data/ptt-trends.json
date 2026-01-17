@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-17T09:30:48.490Z",
+  "updated": "2026-01-17T09:39:52.430Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "108",
-      "recommendCount": "274",
-      "title": "[新聞] 綠49票反對仍不敵藍白 38項 718億新興計畫預算逕付二讀",
-      "link": "/bbs/Gossiping/M.1768555954.A.B45",
-      "author": "ckshchen",
-      "board": "Gossiping",
-      "publishTime": "2026/01/16 09:32",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "136",
       "recommendCount": "175",
       "title": "[推投] 下一次魔物獵人(含DLC)你會買單嗎?",
@@ -201,6 +191,16 @@
       "author": "laptic",
       "board": "LoL",
       "publishTime": "2026/01/17 05:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "94",
+      "recommendCount": "216",
+      "title": "[請益] 持有興富發應該怎麼辦",
+      "link": "/bbs/Stock/M.1768564950.A.2F5",
+      "author": "ab626",
+      "board": "Stock",
+      "publishTime": "2026/01/16 12:02",
       "imageUrl": ""
     }
   ]
