@@ -1,18 +1,8 @@
 {
-  "updated": "2026-01-17T22:31:03.281Z",
+  "updated": "2026-01-17T22:40:56.574Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "376",
-      "recommendCount": "404",
-      "title": "Re: [推薦] 足球[小律師]墨爾本勝利 @ 阿德雷德聯",
-      "link": "/bbs/SportLottery/M.1768646459.A.68C",
-      "author": "lotterywin",
-      "board": "SportLottery",
-      "publishTime": "2026/01/17 10:40",
-      "imageUrl": "https://cache.pttweb.cc/imgur/x95pHBC/s/2f2000c23549c801571c446a79a74914"
-    },
     {
       "recommendScore": "272",
       "recommendCount": "500",
@@ -201,6 +191,16 @@
       "author": "t200830217",
       "board": "car",
       "publishTime": "2026/01/17 02:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "367",
+      "recommendCount": "624",
+      "title": "[英超] 曼聯 VS 曼城@老特拉福德 AKA 曼市德比",
+      "link": "/bbs/FAPL/M.1768649912.A.75B",
+      "author": "cobincarrol",
+      "board": "FAPL",
+      "publishTime": "2026/01/17 11:38",
       "imageUrl": ""
     }
   ]
