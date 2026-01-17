@@ -1,28 +1,8 @@
 {
-  "updated": "2026-01-17T04:33:15.936Z",
+  "updated": "2026-01-17T04:49:20.468Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "266",
-      "recommendCount": "549",
-      "title": "[爆卦] 賴清德被學者點名違憲",
-      "link": "/bbs/Gossiping/M.1768569421.A.FB2",
-      "author": "z753951zxc",
-      "board": "Gossiping",
-      "publishTime": "2026/01/16 13:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "218",
-      "recommendCount": "537",
-      "title": "[問卦] 對岸在推廣繁體字，請問如何應對？",
-      "link": "/bbs/Gossiping/M.1768538758.A.0A3",
-      "author": "juang1985",
-      "board": "Gossiping",
-      "publishTime": "2026/01/16 04:45",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "149",
       "recommendCount": "1066",
@@ -41,16 +21,6 @@
       "author": "LDMisshit",
       "board": "Gossiping",
       "publishTime": "2026/01/16 05:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "162",
-      "recommendCount": "324",
-      "title": "[新聞] 港媒：大陸警告台美關稅MOU「若不撤銷、一切後果美方承擔」",
-      "link": "/bbs/Stock/M.1768537998.A.2AD",
-      "author": "win8719",
-      "board": "Stock",
-      "publishTime": "2026/01/16 04:33",
       "imageUrl": ""
     },
     {
@@ -124,16 +94,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "114",
-      "recommendCount": "539",
-      "title": "[討論] 結果關稅還是要送立院審議~~~~",
-      "link": "/bbs/HatePolitics/M.1768538505.A.188",
-      "author": "Tosca",
-      "board": "HatePolitics",
-      "publishTime": "2026/01/16 04:41",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "153",
       "recommendCount": "281",
       "title": "[新聞] 台鋼雄鷹公布團隊談薪結果  王維中月薪60萬",
@@ -201,6 +161,46 @@
       "author": "speed7022",
       "board": "C_Chat",
       "publishTime": "2026/01/16 12:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "786",
+      "recommendCount": "1163",
+      "title": "[討論] [Vtub] Hololive 晚間直播單 (1150116)",
+      "link": "/bbs/C_Chat/M.1768560132.A.CDD",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2026/01/16 10:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "84",
+      "recommendCount": "218",
+      "title": "[新聞] 川普目標台半導體四成移美 盧特尼克：5千億是頭期款",
+      "link": "/bbs/Gossiping/M.1768542998.A.58A",
+      "author": "junzi",
+      "board": "Gossiping",
+      "publishTime": "2026/01/16 05:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "480",
+      "recommendCount": "774",
+      "title": "[電競] 2026 LCP Split 1 例行賽 W1D1",
+      "link": "/bbs/LoL/M.1768541776.A.6CF",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/01/16 05:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "100",
+      "recommendCount": "190",
+      "title": "[新聞] 台大生代操期貨5550萬元慘賠光被訴　刑警爸查個資丟飯碗",
+      "link": "/bbs/Stock/M.1768544812.A.47B",
+      "author": "stoneruler",
+      "board": "Stock",
+      "publishTime": "2026/01/16 06:26",
       "imageUrl": ""
     }
   ]
