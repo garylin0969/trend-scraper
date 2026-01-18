@@ -1,14 +1,22 @@
 {
-  "updated": "2026-01-18T01:53:19.022Z",
+  "updated": "2026-01-18T02:58:15.897Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-18T01:53:14.000Z",
+    "lastBuildDate": "2026-01-18T02:58:00.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "歐洲領袖稱特朗普就格陵蘭加徵關稅的威脅「不可接受」",
+      "description": "美國總統表示，數個反對其收購格陵蘭計畫的歐洲盟國將自二月起面臨10%關稅。",
+      "link": "https://www.bbc.com/zhongwen/articles/c93102r3lv4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-18T02:35:27.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c93102r3lv4o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2519/live/b7c7f9e0-f3e2-11f0-808e-fddbe2ff1e6c.png"
+    },
     {
       "title": "台美貿易協議拆解：美對台關稅降至15%不疊加、直接投資2500億美元等五大看點",
       "description": "台灣談判代表鄭麗君表示，針對美國未來可能課徵的232條款相關關稅，台灣在全球第一個取得相對完整且最優惠待遇，代表美國視台灣為重要的半導體戰略夥伴。\n",
@@ -42,14 +50,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4440/live/e5bdc500-f275-11f0-8a12-db5715931be3.jpg"
     },
     {
-      "title": "到底對不對伊朗動武？特朗普正試圖讓所有人猜謎",
-      "description": "近兩週來，特朗普似乎一直處於介入伊朗局勢的邊緣。從1月2日他威脅說，如果伊朗當局對示威者使用暴力，他將出手「營救」他們，到本週他承諾「援助即將到來」，這位美國總統的語氣一直十分堅定。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gwzj0vxeyo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-16T03:55:39.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gwzj0vxeyo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a110/live/45b2aab0-f25e-11f0-bfd6-49ce1c503815.jpg"
-    },
-    {
       "title": "中國再用稀土「大棒」制裁日本  美中休戰期日韓遭遇「一拉一踩」",
       "description": "李在明在北京享受高規格禮遇時中國在稀土貿易商對日本出手，被視為中國對這兩位東亞鄰居「一拉一踩」的外交策略。",
       "link": "https://www.bbc.com/zhongwen/articles/c4g3kq78l97o/trad?at_medium=RSS&at_campaign=rss",
@@ -58,12 +58,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8749/live/b8f67850-f130-11f0-8813-c1dd7edee31e.jpg"
     },
     {
-      "title": "加拿大總理八年後首次訪華，卡尼中國行何以將聚焦經貿？",
-      "description": "孟晚舟事件令中加關係陷入低谷，加總理八年後訪問中國，聚焦經貿議題，能否為中加關係打破僵局？",
-      "link": "https://www.bbc.com/zhongwen/articles/clyw3dyv18do/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-13T09:54:37.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/clyw3dyv18do/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8cfa/live/82cc0000-ef8d-11f0-b385-5f48925de19a.jpg"
+      "title": "到底對不對伊朗動武？特朗普正試圖讓所有人猜謎",
+      "description": "近兩週來，特朗普似乎一直處於介入伊朗局勢的邊緣。從1月2日他威脅說，如果伊朗當局對示威者使用暴力，他將出手「營救」他們，到本週他承諾「援助即將到來」，這位美國總統的語氣一直十分堅定。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gwzj0vxeyo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-16T03:55:39.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gwzj0vxeyo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a110/live/45b2aab0-f25e-11f0-bfd6-49ce1c503815.jpg"
     },
     {
       "title": "新法生效與監管調查對Grok AI深偽影像意味著什麼",
