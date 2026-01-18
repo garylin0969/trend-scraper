@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-18T17:47:24.103Z",
+  "updated": "2026-01-18T17:54:22.246Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "109",
+      "recommendCount": "235",
+      "title": "[BOX ] Thunder 120:122 Heat",
+      "link": "/bbs/NBA/M.1768707827.A.37C",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2026/01/18 03:43",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "45",
       "recommendCount": "193",
       "title": "[花邊] Lakers Nation談LBJ被吹F1：裁判很嚴苛",
@@ -192,16 +202,6 @@
       "board": "HatePolitics",
       "publishTime": "2026/01/18 02:42",
       "imageUrl": "https://cache.pttweb.cc/imgur/byrcp0A/s/3d0513cb0a30093486b10c4cc876255f"
-    },
-    {
-      "recommendScore": "60",
-      "recommendCount": "180",
-      "title": "[討論] 張啟楷：馬德羈押 讓台灣變國際笑話",
-      "link": "/bbs/HatePolitics/M.1768706132.A.3F2",
-      "author": "oscarwu3041",
-      "board": "HatePolitics",
-      "publishTime": "2026/01/18 03:15",
-      "imageUrl": ""
     }
   ]
 }
