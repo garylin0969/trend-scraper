@@ -1,18 +1,8 @@
 {
-  "updated": "2026-01-18T17:17:26.664Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2026-01-18T17:29:27.400Z",
+  "total_found": 19,
+  "returned_count": 19,
   "articles": [
-    {
-      "recommendScore": "234",
-      "recommendCount": "547",
-      "title": "[情報] 川普宣布，自2月1日起，對丹麥、挪威、瑞典、",
-      "link": "/bbs/Stock/M.1768670497.A.787",
-      "author": "Carloslin",
-      "board": "Stock",
-      "publishTime": "2026/01/17 17:21",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "705",
       "recommendCount": "1449",
@@ -164,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "82",
-      "recommendCount": "184",
-      "title": "[爆卦] 川普:去格陵蘭駐軍的歐洲國家都將被增加課10%關稅",
-      "link": "/bbs/Gossiping/M.1768670761.A.6E3",
-      "author": "yamatobar",
-      "board": "Gossiping",
-      "publishTime": "2026/01/17 17:26",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "72",
       "recommendCount": "252",
       "title": "[新聞] 他揭美5招冷暴力！黃國昌「從買機票就被制裁」遭全面封殺",
@@ -202,6 +182,16 @@
       "board": "HatePolitics",
       "publishTime": "2026/01/18 03:15",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "107",
+      "recommendCount": "140",
+      "title": "[蔚藍] 五週年新角  哇幹！！！",
+      "link": "/bbs/C_Chat/M.1768717765.A.4AA",
+      "author": "anpinjou",
+      "board": "C_Chat",
+      "publishTime": "2026/01/18 06:29",
+      "imageUrl": "https://cache.pttweb.cc/imgur/lpFxSZD/s/d9487e3c7273c86a690904461df08d3b"
     }
   ]
 }
