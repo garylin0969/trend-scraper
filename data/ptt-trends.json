@@ -1,18 +1,8 @@
 {
-  "updated": "2026-01-18T09:31:45.432Z",
+  "updated": "2026-01-18T09:45:07.013Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "376",
-      "recommendCount": "404",
-      "title": "Re: [推薦] 足球[小律師]墨爾本勝利 @ 阿德雷德聯",
-      "link": "/bbs/SportLottery/M.1768646459.A.68C",
-      "author": "lotterywin",
-      "board": "SportLottery",
-      "publishTime": "2026/01/17 10:40",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "251",
       "recommendCount": "700",
@@ -201,6 +191,16 @@
       "author": "loechen",
       "board": "Gossiping",
       "publishTime": "2026/01/17 11:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "104",
+      "recommendCount": "305",
+      "title": "[討論] 橋檢新聞稿",
+      "link": "/bbs/HatePolitics/M.1768644295.A.F3F",
+      "author": "Berotec",
+      "board": "HatePolitics",
+      "publishTime": "2026/01/17 10:04",
       "imageUrl": ""
     }
   ]
