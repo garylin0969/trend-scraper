@@ -1,7 +1,7 @@
 {
-  "updated": "2026-01-18T12:46:51.757Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2026-01-18T13:04:35.664Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "251",
@@ -192,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2026/01/17 17:26",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "72",
+      "recommendCount": "252",
+      "title": "[新聞] 他揭美5招冷暴力！黃國昌「從買機票就被制裁」遭全面封殺",
+      "link": "/bbs/HatePolitics/M.1768704149.A.038",
+      "author": "jganet",
+      "board": "HatePolitics",
+      "publishTime": "2026/01/18 02:42",
+      "imageUrl": "https://cache.pttweb.cc/imgur/byrcp0A/s/3d0513cb0a30093486b10c4cc876255f"
     }
   ]
 }
