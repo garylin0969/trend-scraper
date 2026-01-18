@@ -1,7 +1,7 @@
 {
-  "updated": "2026-01-18T22:31:35.449Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2026-01-18T22:41:28.557Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "303",
@@ -14,7 +14,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "705",
+      "recommendScore": "722",
       "recommendCount": "1449",
       "title": "[電競] 2026 LCK Cup W1D5",
       "link": "/bbs/LoL/M.1768721735.A.F0D",
@@ -94,6 +94,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/XV9Ltgk/s/6d3346eea15df9dcd126d39f8f75a7a8"
     },
     {
+      "recommendScore": "50",
+      "recommendCount": "316",
+      "title": "[新聞] 大罷免32比0 柯文哲：很多人為了救阿北才去投票 國民黨別太高估實力",
+      "link": "/bbs/Gossiping/M.1768722650.A.0C7",
+      "author": "HANASUCIA",
+      "board": "Gossiping",
+      "publishTime": "2026/01/18 07:50",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "75",
       "recommendCount": "216",
       "title": "[新聞] 快新聞／蔣萬安緊張了？傳政院「兩大咖」將御駕親征 林亮君嗨喊：好酒沉甕底",
@@ -101,6 +111,16 @@
       "author": "TPPKoWenJe",
       "board": "Gossiping",
       "publishTime": "2026/01/18 02:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "137",
+      "recommendCount": "179",
+      "title": "[爆卦] 火雲邪神逝世！",
+      "link": "/bbs/Gossiping/M.1768722053.A.E32",
+      "author": "aa1477888",
+      "board": "Gossiping",
+      "publishTime": "2026/01/18 07:40",
       "imageUrl": ""
     },
     {
@@ -124,14 +144,24 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ksRYNMi/s/35628787b37cd2df7d43221d1da64ed1"
     },
     {
-      "recommendScore": "49",
-      "recommendCount": "299",
-      "title": "[新聞] 大罷免32比0 柯文哲：很多人為了救阿北才去投票 國民黨別太高估實力",
-      "link": "/bbs/Gossiping/M.1768722650.A.0C7",
-      "author": "HANASUCIA",
+      "recommendScore": "53",
+      "recommendCount": "292",
+      "title": "[新聞] 柯文哲酸蔣萬安營養午餐免費是為了騙選票：民粹政治",
+      "link": "/bbs/Gossiping/M.1768729342.A.CA2",
+      "author": "wavelet",
       "board": "Gossiping",
-      "publishTime": "2026/01/18 07:50",
+      "publishTime": "2026/01/18 09:42",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "598",
+      "recommendCount": "1304",
+      "title": "[Live] TPBL 新竹御嵿攻城獅 VS 臺北台新戰神",
+      "link": "/bbs/basketballTW/M.1768723210.A.8DF",
+      "author": "ruka660101",
+      "board": "basketballTW",
+      "publishTime": "2026/01/18 08:00",
+      "imageUrl": "https://cache.pttweb.cc/imgur/KoXq5wS/s/eca2fce61e2769561219ed36e7697f6c"
     },
     {
       "recommendScore": "145",
@@ -164,33 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "117",
-      "recommendCount": "158",
-      "title": "[爆卦] 火雲邪神逝世！",
-      "link": "/bbs/Gossiping/M.1768722053.A.E32",
-      "author": "aa1477888",
-      "board": "Gossiping",
-      "publishTime": "2026/01/18 07:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "115",
-      "recommendCount": "247",
-      "title": "[爆卦] 陳見賢乾兒子:不投票給我就吃子彈",
-      "link": "/bbs/Gossiping/M.1768710599.A.59A",
-      "author": "socialism",
-      "board": "Gossiping",
-      "publishTime": "2026/01/18 04:29",
-      "imageUrl": "https://cache.pttweb.cc/imgur/6Xhkn3X/s/3ea7feb02c43472f204577b5d3e955d6"
-    },
-    {
-      "recommendScore": "146",
-      "recommendCount": "327",
-      "title": "[LIVE] 英超 紐卡索聯 @ 狼隊 （場中",
-      "link": "/bbs/SportLottery/M.1768744979.A.E4B",
-      "author": "lotterywin",
-      "board": "SportLottery",
-      "publishTime": "2026/01/18 14:02",
+      "recommendScore": "121",
+      "recommendCount": "161",
+      "title": "[情報] Riley O'Brien 確定加入WBC南韓隊",
+      "link": "/bbs/Baseball/M.1768724960.A.3E5",
+      "author": "polanco",
+      "board": "Baseball",
+      "publishTime": "2026/01/18 08:29",
       "imageUrl": ""
     }
   ]
