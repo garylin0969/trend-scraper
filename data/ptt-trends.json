@@ -1,7 +1,7 @@
 {
-  "updated": "2026-01-18T22:18:18.010Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2026-01-18T22:31:35.449Z",
+  "total_found": 19,
+  "returned_count": 19,
   "articles": [
     {
       "recommendScore": "303",
@@ -61,6 +61,16 @@
       "author": "KC90",
       "board": "NBA",
       "publishTime": "2026/01/18 05:35",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-15",
+      "recommendCount": "272",
+      "title": "[情報] LBJ談吹判一致性：每晚都不同 JJ也開噴",
+      "link": "/bbs/NBA/M.1768716976.A.505",
+      "author": "KC90",
+      "board": "NBA",
+      "publishTime": "2026/01/18 06:16",
       "imageUrl": ""
     },
     {
@@ -181,26 +191,6 @@
       "author": "lotterywin",
       "board": "SportLottery",
       "publishTime": "2026/01/18 14:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "109",
-      "recommendCount": "235",
-      "title": "[BOX ] Thunder 120:122 Heat",
-      "link": "/bbs/NBA/M.1768707827.A.37C",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2026/01/18 03:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "45",
-      "recommendCount": "193",
-      "title": "[花邊] Lakers Nation談LBJ被吹F1：裁判很嚴苛",
-      "link": "/bbs/NBA/M.1768714865.A.AFF",
-      "author": "KC90",
-      "board": "NBA",
-      "publishTime": "2026/01/18 05:41",
       "imageUrl": ""
     }
   ]
