@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-18T09:53:39.821Z",
+  "updated": "2026-01-18T10:06:04.262Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "104",
-      "recommendCount": "305",
-      "title": "[討論] 橋檢新聞稿",
-      "link": "/bbs/HatePolitics/M.1768644295.A.F3F",
-      "author": "Berotec",
-      "board": "HatePolitics",
-      "publishTime": "2026/01/17 10:04",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "82",
       "recommendCount": "184",
       "title": "[爆卦] 川普:去格陵蘭駐軍的歐洲國家都將被增加課10%關稅",
@@ -201,6 +191,16 @@
       "author": "yamatobar",
       "board": "Gossiping",
       "publishTime": "2026/01/17 17:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "53",
+      "recommendCount": "167",
+      "title": "[新聞] 利誘軍人提供機密給中方 中天主播林宸佑負責給錢",
+      "link": "/bbs/Gossiping/M.1768653718.A.046",
+      "author": "johnny9667",
+      "board": "Gossiping",
+      "publishTime": "2026/01/17 12:41",
       "imageUrl": ""
     }
   ]
