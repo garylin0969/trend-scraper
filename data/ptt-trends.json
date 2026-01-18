@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-18T19:26:46.985Z",
+  "updated": "2026-01-18T19:34:10.788Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "82",
-      "recommendCount": "251",
-      "title": "[爆卦] 川普:關稅徵收直到全面完全購買格林蘭",
-      "link": "/bbs/Gossiping/M.1768678324.A.7F5",
-      "author": "WuSam",
-      "board": "Gossiping",
-      "publishTime": "2026/01/17 19:32",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "21",
       "recommendCount": "169",
       "title": "[情報] LBJ談吹判一致性：每晚都不同 JJ也開噴",
@@ -202,6 +192,16 @@
       "board": "HatePolitics",
       "publishTime": "2026/01/18 02:42",
       "imageUrl": "https://cache.pttweb.cc/imgur/byrcp0A/s/3d0513cb0a30093486b10c4cc876255f"
+    },
+    {
+      "recommendScore": "70",
+      "recommendCount": "179",
+      "title": "[新聞] NBA／詹皇經紀人喊換JJJ！惹毛里夫斯",
+      "link": "/bbs/NBA/M.1768702266.A.77E",
+      "author": "Skyblueway",
+      "board": "NBA",
+      "publishTime": "2026/01/18 02:11",
+      "imageUrl": ""
     }
   ]
 }
