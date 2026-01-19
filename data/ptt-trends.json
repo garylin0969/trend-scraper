@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-19T08:32:39.460Z",
+  "updated": "2026-01-19T08:52:10.890Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -11,6 +11,26 @@
       "author": "diefishfish",
       "board": "Gossiping",
       "publishTime": "2026/01/18 12:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "242",
+      "recommendCount": "329",
+      "title": "[情報] 115年01月19日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1768807247.A.D09",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2026/01/19 07:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "153",
+      "recommendCount": "436",
+      "title": "[新聞] 快訊／1.25兆軍購可公開品項曝光　國軍首公開將買20多萬架無人機",
+      "link": "/bbs/Gossiping/M.1768803713.A.FB5",
+      "author": "taiwan08",
+      "board": "Gossiping",
+      "publishTime": "2026/01/19 06:21",
       "imageUrl": ""
     },
     {
@@ -34,13 +54,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "196",
-      "recommendCount": "252",
-      "title": "[地震] 地震",
-      "link": "/bbs/Gossiping/M.1768726103.A.4ED",
-      "author": "imayday3029",
-      "board": "Gossiping",
-      "publishTime": "2026/01/18 08:48",
+      "recommendScore": "182",
+      "recommendCount": "227",
+      "title": "[分享] 富邦悍將簽下 邦力多",
+      "link": "/bbs/Baseball/M.1768802484.A.C98",
+      "author": "micheal59",
+      "board": "Baseball",
+      "publishTime": "2026/01/19 06:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "167",
+      "recommendCount": "318",
+      "title": "Re: [標的] 華邦電 2344 (空)",
+      "link": "/bbs/Stock/M.1768800411.A.A9E",
+      "author": "minazukimaya",
+      "board": "Stock",
+      "publishTime": "2026/01/19 05:26",
       "imageUrl": ""
     },
     {
@@ -94,13 +124,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "110",
-      "recommendCount": "198",
-      "title": "Re: [標的] 華邦電 2344 (空)",
-      "link": "/bbs/Stock/M.1768800411.A.A9E",
-      "author": "minazukimaya",
-      "board": "Stock",
-      "publishTime": "2026/01/19 05:26",
+      "recommendScore": "64",
+      "recommendCount": "355",
+      "title": "[新聞] 帶走1.25兆軍購機密資料 黃國昌：不小心拿走 30秒馬上就繳回",
+      "link": "/bbs/Gossiping/M.1768802374.A.655",
+      "author": "DoncicInPTT",
+      "board": "Gossiping",
+      "publishTime": "2026/01/19 05:59",
       "imageUrl": ""
     },
     {
@@ -125,7 +155,7 @@
     },
     {
       "recommendScore": "81",
-      "recommendCount": "144",
+      "recommendCount": "145",
       "title": "[新聞] Blackwell機櫃效應誰是大贏家？謝金河",
       "link": "/bbs/Stock/M.1768781072.A.196",
       "author": "qwert1122",
@@ -134,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-53",
-      "recommendCount": "193",
+      "recommendScore": "-54",
+      "recommendCount": "215",
       "title": "[新聞] 快新聞／立委比政府大？在野黨竟想「自提」1.25兆軍購案　慘遭顧立雄狠打臉",
       "link": "/bbs/Gossiping/M.1768798682.A.AEC",
       "author": "lunli924",
@@ -144,18 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "80",
-      "recommendCount": "175",
-      "title": "[閒聊] 最近B站開始大盜播時代嗎？",
-      "link": "/bbs/C_Chat/M.1768751015.A.025",
-      "author": "ga839429",
-      "board": "C_Chat",
-      "publishTime": "2026/01/18 15:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "99",
-      "recommendCount": "196",
+      "recommendScore": "119",
+      "recommendCount": "220",
       "title": "[BOX ] Raptors 93:110 Lakers",
       "link": "/bbs/NBA/M.1768798435.A.C9F",
       "author": "jason911152",
@@ -164,43 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "27",
-      "recommendCount": "173",
-      "title": "[新聞] 預言台美關稅協議是「正式建交前的暖身」！專家：川普很可能在任內建交台灣",
-      "link": "/bbs/Gossiping/M.1768752806.A.FE2",
-      "author": "lycppt",
-      "board": "Gossiping",
-      "publishTime": "2026/01/18 16:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "85",
-      "recommendCount": "185",
-      "title": "[請益] 這次美歐關稅戰對台灣股市的影響",
-      "link": "/bbs/Stock/M.1768738695.A.D3D",
-      "author": "hankwtc",
-      "board": "Stock",
-      "publishTime": "2026/01/18 12:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "55",
-      "recommendCount": "130",
-      "title": "[新聞] 賴清德社宅13萬戶承諾跳票？ 黃國昌嗆：公開向年輕人道歉",
-      "link": "/bbs/Gossiping/M.1768746791.A.F11",
-      "author": "d8917936",
-      "board": "Gossiping",
-      "publishTime": "2026/01/18 14:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "92",
-      "recommendCount": "135",
+      "recommendScore": "108",
+      "recommendCount": "161",
       "title": "[Vtub] 三毛貓作家出道！原創小說連載開始、漫",
       "link": "/bbs/C_Chat/M.1768798698.A.152",
       "author": "Winux",
       "board": "C_Chat",
       "publishTime": "2026/01/19 04:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "79",
+      "recommendCount": "150",
+      "title": "[新聞] 快訊／南亞科股價飆漲　法說會曝「這件事」",
+      "link": "/bbs/Stock/M.1768805425.A.646",
+      "author": "rz2x",
+      "board": "Stock",
+      "publishTime": "2026/01/19 06:50",
       "imageUrl": ""
     }
   ]
