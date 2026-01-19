@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-19T13:54:35.839Z",
+  "updated": "2026-01-19T14:10:26.933Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "242",
+      "recommendCount": "329",
+      "title": "[情報] 115年01月19日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1768807247.A.D09",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2026/01/19 07:20",
+      "imageUrl": "https://cache.pttweb.cc/imgur/I5exdQP/s/aea21b686078cf75f6f4380ecb8e475f"
+    },
     {
       "recommendScore": "153",
       "recommendCount": "436",
@@ -191,16 +201,6 @@
       "author": "jganet",
       "board": "HatePolitics",
       "publishTime": "2026/01/18 23:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-48",
-      "recommendCount": "130",
-      "title": "[新聞] 「美國給台灣的，不只15%關稅！」專家預言川普目的：任內完成美台建交",
-      "link": "/bbs/Gossiping/M.1768779766.A.A82",
-      "author": "noise",
-      "board": "Gossiping",
-      "publishTime": "2026/01/18 23:42",
       "imageUrl": ""
     }
   ]
