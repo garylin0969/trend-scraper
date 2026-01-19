@@ -1,18 +1,8 @@
 {
-  "updated": "2026-01-19T08:52:10.890Z",
+  "updated": "2026-01-19T09:12:49.374Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "303",
-      "recommendCount": "652",
-      "title": "[新聞] 廠商執刀影片流出！台中榮總3醫師遭停刀2人被拔主管職",
-      "link": "/bbs/Gossiping/M.1768740349.A.C34",
-      "author": "diefishfish",
-      "board": "Gossiping",
-      "publishTime": "2026/01/18 12:45",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "242",
       "recommendCount": "329",
@@ -201,6 +191,16 @@
       "author": "rz2x",
       "board": "Stock",
       "publishTime": "2026/01/19 06:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "80",
+      "recommendCount": "175",
+      "title": "[閒聊] 最近B站開始大盜播時代嗎？",
+      "link": "/bbs/C_Chat/M.1768751015.A.025",
+      "author": "ga839429",
+      "board": "C_Chat",
+      "publishTime": "2026/01/18 15:43",
       "imageUrl": ""
     }
   ]
