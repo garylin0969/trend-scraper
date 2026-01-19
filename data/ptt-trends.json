@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-18T23:53:29.379Z",
+  "updated": "2026-01-19T00:27:20.061Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -134,16 +134,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "109",
-      "recommendCount": "255",
-      "title": "[黑特] 台南市長最新民調",
-      "link": "/bbs/HatePolitics/M.1768694180.A.F8F",
-      "author": "Homura",
-      "board": "HatePolitics",
-      "publishTime": "2026/01/17 23:56",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ksRYNMi/s/35628787b37cd2df7d43221d1da64ed1"
-    },
-    {
       "recommendScore": "53",
       "recommendCount": "292",
       "title": "[新聞] 柯文哲酸蔣萬安營養午餐免費是為了騙選票：民粹政治",
@@ -202,6 +192,16 @@
       "board": "Baseball",
       "publishTime": "2026/01/18 08:29",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "115",
+      "recommendCount": "247",
+      "title": "[爆卦] 陳見賢乾兒子:不投票給我就吃子彈",
+      "link": "/bbs/Gossiping/M.1768710599.A.59A",
+      "author": "socialism",
+      "board": "Gossiping",
+      "publishTime": "2026/01/18 04:29",
+      "imageUrl": "https://cache.pttweb.cc/imgur/6Xhkn3X/s/3ea7feb02c43472f204577b5d3e955d6"
     }
   ]
 }
