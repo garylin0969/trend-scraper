@@ -6,7 +6,7 @@ import { saveData } from '../utils/file-manager';
 
 /**
  * BBC 中文網 RSS 爬蟲腳本
- * 
+ *
  * 功能：
  * 1. 讀取 BBC 中文網的 RSS Feed。
  * 2. 解析 RSS XML 內容，提取新聞標題、描述、連結、發布時間和縮圖。
@@ -72,7 +72,7 @@ import { saveData } from '../utils/file-manager';
             trends.slice(0, 3).forEach((trend, index) => {
                 console.log(`${index + 1}. 標題：${trend.title}`);
                 console.log(
-                    `   描述：${trend.description.substring(0, 100)}${trend.description.length > 100 ? '...' : ''}`
+                    `   描述：${trend.description.substring(0, 100)}${trend.description.length > 100 ? '...' : ''}`,
                 );
                 console.log(`   連結：${trend.link}`);
                 console.log(`   發布時間：${trend.pubDate}`);
@@ -84,5 +84,6 @@ import { saveData } from '../utils/file-manager';
         }
     } catch (error) {
         logger.error('爬取失敗:', error);
+        process.exit(1);
     }
 })();

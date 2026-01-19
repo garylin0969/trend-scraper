@@ -4,7 +4,7 @@ import { getRandomUserAgent } from './common';
 
 /**
  * 建立並啟動 Puppeteer 瀏覽器實例
- * 
+ *
  * @returns {Promise<Browser>} 回傳啟動的瀏覽器實例
  * @description
  * 啟動一個無頭模式 (Headless) 的 Chromium 瀏覽器。
@@ -24,7 +24,7 @@ export const createBrowser = async (): Promise<Browser> => {
 
 /**
  * 設定頁面參數以模擬真實使用者
- * 
+ *
  * @param {Page} page - Puppeteer 頁面物件
  * @returns {Promise<void>}
  * @description
@@ -35,7 +35,10 @@ export const createBrowser = async (): Promise<Browser> => {
 export const configurePage = async (page: Page): Promise<void> => {
     await page.setUserAgent(getRandomUserAgent(USER_AGENTS));
     await page.setViewport({ width: 1920, height: 1080 });
-    
+    await page.setExtraHTTPHeaders({
+        'Accept-Language': 'en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7',
+    });
+
     // Remove webdriver traces
     await page.evaluateOnNewDocument(() => {
         Object.defineProperty(navigator, 'webdriver', {

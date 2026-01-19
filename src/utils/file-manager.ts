@@ -4,7 +4,7 @@ import { logger } from './logger';
 
 /**
  * 將資料儲存為 JSON 檔案
- * 
+ *
  * @param {string} filename - 檔案名稱 (包含副檔名，例如 'data.json')
  * @param {any} data - 要儲存的資料物件
  * @throws {Error} 如果儲存過程發生錯誤
@@ -21,15 +21,15 @@ export const saveData = (filename: string, data: any) => {
         }
 
         const filePath = path.join(dataDir, filename);
-        
+
         // 確保有一致的 updated 時間戳記
         // 如果傳入的資料是物件且沒有 updated 欄位，則自動加入
-        
+
         let output = data;
         if (typeof data === 'object' && data !== null && !data.updated) {
-             output = {
+            output = {
                 updated: new Date().toISOString(),
-                ...data
+                ...data,
             };
         }
 

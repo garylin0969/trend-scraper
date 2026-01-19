@@ -1,6 +1,6 @@
 /**
  * BBC 趨勢資料介面
- * 
+ *
  * @interface BBCTrend
  * @property {string} title - 新聞標題
  * @property {string} description - 新聞摘要描述
@@ -20,7 +20,7 @@ export interface BBCTrend {
 
 /**
  * Google 搜尋趨勢資料介面
- * 
+ *
  * @interface GoogleTrend
  * @property {string} googleTrend - 關鍵字或話題名稱
  * @property {string} searchVolume - 搜尋量 (例如: "2,000+")
@@ -34,7 +34,7 @@ export interface GoogleTrend {
 
 /**
  * PTT 文章資料介面
- * 
+ *
  * @interface PttArticle
  * @property {string} recommendScore - 推文分數
  * @property {string} recommendCount - 推文總數
@@ -58,7 +58,7 @@ export interface PttArticle {
 
 /**
  * Komica (K島) 趨勢資料介面
- * 
+ *
  * @interface KomicaTrend
  * @property {number} replyCount - 回覆數量
  * @property {string} date - 發文日期
@@ -80,7 +80,7 @@ export interface KomicaTrend {
 
 /**
  * Reddit 資料介面
- * 
+ *
  * @interface RedditData
  * @property {string} updated - 資料更新時間
  * @property {string} source - 資料來源描述
