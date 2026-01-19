@@ -1,10 +1,10 @@
 {
-  "updated": "2026-01-18T23:48:11.895Z",
+  "updated": "2026-01-19T00:45:02.503Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-18T23:48:04.000Z",
+    "lastBuildDate": "2026-01-19T00:45:00.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -34,12 +34,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f090/live/9faa0b30-f32b-11f0-b385-5f48925de19a.jpg"
     },
     {
-      "title": "特朗普公布加薩「和平委員會」，其重量級人物面臨巨大挑戰",
-      "description": "無論外界有何疑慮與複雜考量，這仍是目前唯一的方案，且已有許多世界領袖承諾支持。",
-      "link": "https://www.bbc.com/zhongwen/articles/c801gz7kpelo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-18T06:31:48.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c801gz7kpelo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/69d2/live/bb33c250-f39a-11f0-9212-79f406d84709.jpg"
+      "title": "因涉AI創作，瑞典禁播這首歌",
+      "description": "一首在瑞典播放量達數百萬次的歌曲被該國音樂排行榜禁播，原因是它是由人工智慧（AI）創作的。",
+      "link": "https://www.bbc.com/zhongwen/articles/c3r14z2303wo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-19T00:22:14.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3r14z2303wo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4094/live/679135e0-f284-11f0-b385-5f48925de19a.jpg"
     },
     {
       "title": "台灣長女作家寫「長女病」：「蠟燭型人格」的家庭和職場辛酸",
@@ -58,20 +58,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8749/live/b8f67850-f130-11f0-8813-c1dd7edee31e.jpg"
     },
     {
-      "title": "「40歲年輕人」：韓國Z世代以新方式嘲諷千禧世代的穿搭品味",
-      "description": "就連長期被視為年輕人專屬的 iPhone，如今也被重新貼上「40歲年輕人」俗氣象徵的標籤。",
-      "link": "https://www.bbc.com/zhongwen/articles/cre25y5v915o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-18T07:56:27.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cre25y5v915o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/191e/live/1fa986b0-f3fb-11f0-b5f7-49f0357294ff.jpg"
-    },
-    {
       "title": "台美貿易協議拆解：美對台關稅降至15%不疊加、直接投資2500億美元等五大看點",
       "description": "台灣談判代表鄭麗君表示，針對美國未來可能課徵的232條款相關關稅，台灣在全球第一個取得相對完整且最優惠待遇，代表美國視台灣為重要的半導體戰略夥伴。\n",
       "link": "https://www.bbc.com/zhongwen/articles/cy9y8rd17nyo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-01-16T09:04:09.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy9y8rd17nyo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9337/live/24e29d50-f2bc-11f0-bd16-7dde9b275a02.jpg"
+    },
+    {
+      "title": "特朗普公布加薩「和平委員會」，其重量級人物面臨巨大挑戰",
+      "description": "無論外界有何疑慮與複雜考量，這仍是目前唯一的方案，且已有許多世界領袖承諾支持。",
+      "link": "https://www.bbc.com/zhongwen/articles/c801gz7kpelo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-18T06:31:48.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c801gz7kpelo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/69d2/live/bb33c250-f39a-11f0-9212-79f406d84709.jpg"
+    },
+    {
+      "title": "「40歲年輕人」：韓國Z世代以新方式嘲諷千禧世代的穿搭品味",
+      "description": "就連長期被視為年輕人專屬的 iPhone，如今也被重新貼上「40歲年輕人」俗氣象徵的標籤。",
+      "link": "https://www.bbc.com/zhongwen/articles/cre25y5v915o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-18T07:56:27.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cre25y5v915o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/191e/live/1fa986b0-f3fb-11f0-b5f7-49f0357294ff.jpg"
     },
     {
       "title": "中國裁判文書網：法官隱名、文書上載量驟減與司法透明倒退的討論",
@@ -104,14 +112,6 @@
       "pubDate": "2026-01-16T01:36:43.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ceqzyl1xvjgo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f33/live/7c5ee4d0-efdd-11f0-b385-5f48925de19a.jpg"
-    },
-    {
-      "title": "從德黑蘭停屍房影片核查伊朗示威者死亡數和鎮壓手段",
-      "description": "BBC從拍攝於一處停尸間的慘烈影片中點算出將近200具遺體，其中一名死者只有16歲。",
-      "link": "https://www.bbc.com/zhongwen/articles/ce8g3ezgrr8o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-15T09:20:02.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce8g3ezgrr8o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ba84/live/10a0b090-f166-11f0-a422-4ba8a094a8fa.png"
     },
     {
       "title": "一鍵確認「死了麼」？這款中國應用程式為何會爆紅？",
