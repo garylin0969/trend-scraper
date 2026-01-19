@@ -1,14 +1,22 @@
 {
-  "updated": "2026-01-19T09:25:01.633Z",
+  "updated": "2026-01-19T09:54:35.405Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-19T09:24:51.000Z",
+    "lastBuildDate": "2026-01-19T09:54:29.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "中國2025年經濟增長5%：「保五」背後，出口強撐，內需拖累",
+      "description": "經濟增長的動力幾乎完全切換到了第三產業（增加值增長5.4%）和外貿出口（全年出口額同比增長6.1%），這意味著中國經濟正以一種「出口強、內需弱」的方式完成「保五」。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwy1pwwdyewo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-19T09:24:18.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwy1pwwdyewo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/24ea/live/65e3ff70-f513-11f0-b5f7-49f0357294ff.jpg"
+    },
     {
       "title": "加拿大與中國達成協議，凸顯脫美轉向",
       "description": "「卡尼表示，加拿大與中國的關係已變得比與美國更『可預測』，因為該國正尋求貿易上的確定性。",
@@ -40,14 +48,6 @@
       "pubDate": "2026-01-19T04:34:32.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cvgjknlj88yo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/10cc/live/9b657b60-f4e6-11f0-a422-4ba8a094a8fa.jpg"
-    },
-    {
-      "title": "科學家偵測到太空神秘「鐵條」  可能揭示地球未來",
-      "description": "有專家認為，它可能是太空等離子體，這是一顆在恆星膨脹過程中被摧毀的岩石行星留下的。\n",
-      "link": "https://www.bbc.com/zhongwen/articles/cd0y4v9rx83o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-19T03:11:02.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cd0y4v9rx83o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e2d6/live/744fb330-f4df-11f0-b5f7-49f0357294ff.jpg"
     },
     {
       "title": "歐洲領袖稱特朗普就格陵蘭加徵關稅的威脅「不可接受」",
@@ -90,20 +90,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9337/live/24e29d50-f2bc-11f0-bd16-7dde9b275a02.jpg"
     },
     {
-      "title": "台灣長女作家寫「長女病」：「蠟燭型人格」的家庭和職場辛酸",
-      "description": "從「扶弟魔」、「K-長女」到「長女病」，長女話題為何在全球掀熱議？",
-      "link": "https://www.bbc.com/zhongwen/articles/ce9y3n9pzrzo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-16T05:52:56.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce9y3n9pzrzo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c4ce/live/93b17930-f281-11f0-b385-5f48925de19a.jpg"
-    },
-    {
       "title": "特朗普公布加薩「和平委員會」，其重量級人物面臨巨大挑戰",
       "description": "無論外界有何疑慮與複雜考量，這仍是目前唯一的方案，且已有許多世界領袖承諾支持。",
       "link": "https://www.bbc.com/zhongwen/articles/c801gz7kpelo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-01-18T06:31:48.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c801gz7kpelo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/69d2/live/bb33c250-f39a-11f0-9212-79f406d84709.jpg"
+    },
+    {
+      "title": "台灣長女作家寫「長女病」：「蠟燭型人格」的家庭和職場辛酸",
+      "description": "從「扶弟魔」、「K-長女」到「長女病」，長女話題為何在全球掀熱議？",
+      "link": "https://www.bbc.com/zhongwen/articles/ce9y3n9pzrzo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-16T05:52:56.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce9y3n9pzrzo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c4ce/live/93b17930-f281-11f0-b385-5f48925de19a.jpg"
     },
     {
       "title": "中國裁判文書網：法官隱名、文書上載量驟減與司法透明倒退的討論",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2377/live/834d4bc0-d3f3-11f0-9107-738f275ca6af.jpg"
     },
     {
+      "title": "科學家偵測到太空神秘「鐵條」  可能揭示地球未來",
+      "description": "有專家認為，它可能是太空等離子體，這是一顆在恆星膨脹過程中被摧毀的岩石行星留下的。\n",
+      "link": "https://www.bbc.com/zhongwen/articles/cd0y4v9rx83o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-19T03:11:02.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cd0y4v9rx83o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e2d6/live/744fb330-f4df-11f0-b5f7-49f0357294ff.jpg"
+    },
+    {
       "title": "新法生效與監管調查對Grok AI深偽影像意味著什麼",
       "description": "馬斯克的聊天機器人因未經同意便修改女性照片、移除衣物而遭到抨擊。",
       "link": "https://www.bbc.com/zhongwen/articles/ceqzyl1xvjgo/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2026-01-14T09:11:14.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn42l2l32xeo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e0ca/live/31240770-ec7c-11f0-ba9c-c9d74e6fde06.jpg"
-    },
-    {
-      "title": "「榴槤界的愛馬仕」：搶食中國數以十幾億美元的奢華水果市場",
-      "description": "馬來西亞一個曾經的金礦小鎮，因為氣味濃烈的水果重回往日的財富。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn7jzzzn1d5o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-12T04:57:31.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn7jzzzn1d5o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b2d8/live/e6396e30-ed52-11f0-b5f7-49f0357294ff.png"
     }
   ]
 }
