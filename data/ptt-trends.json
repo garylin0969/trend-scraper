@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-19T12:11:15.428Z",
+  "updated": "2026-01-19T12:26:30.881Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "73",
-      "recommendCount": "185",
-      "title": "[新聞] 印度移工快來了 米佐拉姆邦直聘輸出",
-      "link": "/bbs/Gossiping/M.1768738270.A.840",
-      "author": "LoveMakeLove",
-      "board": "Gossiping",
-      "publishTime": "2026/01/18 12:11",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "81",
       "recommendCount": "145",
       "title": "[新聞] Blackwell機櫃效應誰是大贏家？謝金河",
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "85",
-      "recommendCount": "185",
-      "title": "[請益] 這次美歐關稅戰對台灣股市的影響",
-      "link": "/bbs/Stock/M.1768738695.A.D3D",
-      "author": "hankwtc",
-      "board": "Stock",
-      "publishTime": "2026/01/18 12:18",
+      "recommendScore": "55",
+      "recommendCount": "130",
+      "title": "[新聞] 賴清德社宅13萬戶承諾跳票？ 黃國昌嗆：公開向年輕人道歉",
+      "link": "/bbs/Gossiping/M.1768746791.A.F11",
+      "author": "d8917936",
+      "board": "Gossiping",
+      "publishTime": "2026/01/18 14:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "69",
+      "recommendCount": "156",
+      "title": "[問卦] 成年男子有辦法把洗衣機搬下樓嗎？",
+      "link": "/bbs/Gossiping/M.1768798284.A.BBF",
+      "author": "zxc8424",
+      "board": "Gossiping",
+      "publishTime": "2026/01/19 04:51",
       "imageUrl": ""
     }
   ]
