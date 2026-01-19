@@ -1,47 +1,49 @@
-import puppeteer from 'puppeteer';
-import fs from 'fs';
+import { GoogleTrend } from '../types';
+import { URLS } from '../config/constants';
+import { sleep } from '../utils/common';
+import { logger } from '../utils/logger';
+import { saveData } from '../utils/file-manager';
+import { createBrowser, configurePage } from '../utils/browser';
 
+/**
+ * Google 搜尋趨勢爬蟲腳本
+ * 
+ * 功能：
+ * 1. 使用 Puppeteer 開啟 Google Trends 台灣頁面。
+ * 2. 模擬真實使用者行為 (隨機延遲)。
+ * 3. 解析頁面中的表格資料，提取關鍵字、搜尋量和開始時間。
+ * 4. 儲存資料為 JSON。
+ */
 (async () => {
-    const userAgents = [
-        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-        'Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15',
-        'Mozilla/5.0 (Linux; Android 13; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.86 Mobile Safari/537.36',
-        'Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1',
-        'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:124.0) Gecko/20100101 Firefox/124.0',
-    ];
-    const randomUserAgent = userAgents[Math.floor(Math.random() * userAgents.length)];
-
-    const browser = await puppeteer.launch({
-        headless: true,
-        args: ['--no-sandbox', '--disable-setuid-sandbox'],
-    });
+    const browser = await createBrowser();
     const page = await browser.newPage();
 
-    // 設定隨機 User-Agent
-    await page.setUserAgent(randomUserAgent);
+    await configurePage(page);
 
     // 隨機延遲 3~13 秒，避免行為模式一致
     const randomDelay = Math.floor(Math.random() * 10000) + 3000;
-    console.log(`⏳ 隨機延遲 ${randomDelay} 毫秒...`);
-    await new Promise((resolve) => setTimeout(resolve, randomDelay));
+    logger.info(`隨機延遲 ${randomDelay} 毫秒...`);
+    await sleep(randomDelay);
 
-    await page.goto('https://trends.google.com.tw/trending?geo=TW&hours=4', {
+    await page.goto(URLS.GOOGLE_TRENDS, {
         waitUntil: 'domcontentloaded',
     });
 
     // 再次隨機延遲，模擬人類閱讀反應
     const postLoadDelay = Math.floor(Math.random() * 5000) + 3000;
-    console.log(`⏳ 頁面載入後額外延遲 ${postLoadDelay} 毫秒...`);
-    await new Promise((resolve) => setTimeout(resolve, postLoadDelay));
+    logger.info(`頁面載入後額外延遲 ${postLoadDelay} 毫秒...`);
+    await sleep(postLoadDelay);
 
     try {
         await page.waitForSelector('td', { timeout: 10000 });
     } catch (error) {
-        console.log('⚠️  等待元素載入超時');
+        logger.warn('等待元素載入超時');
     }
 
-    const trends = await page.evaluate(() => {
+    // 在瀏覽器環境中執行爬取邏輯
+    const trends: GoogleTrend[] = await page.evaluate(() => {
         const allRows = Array.from(document.querySelectorAll('tbody tr'));
+        // 過濾出有效的資料列
         const dataRows = allRows.filter((row) => {
             const cells = row.querySelectorAll('td');
             return cells.length > 3;
@@ -55,6 +57,7 @@ import fs from 'fs';
                 const timeCell = cells[3];
 
                 if (trendCell && countCell && timeCell) {
+                    // 提取趨勢關鍵字
                     const trendDivs = Array.from(trendCell.querySelectorAll('div'));
                     let trendText = '';
                     for (const div of trendDivs) {
@@ -71,10 +74,12 @@ import fs from 'fs';
                         }
                     }
 
+                    // 提取搜尋量
                     const countCellText = countCell.textContent?.trim() || '';
                     const countMatches = countCellText.match(/(\d+[\d,]*\+)/g) || [];
                     const searchCount = countMatches.find((match) => match.match(/^\d+[\d,]*\+$/)) || '';
 
+                    // 提取時間
                     const timeCellText = timeCell.textContent?.trim() || '';
                     const timeMatch = timeCellText.match(/(\d+\s*[小時分鐘]+前)/);
                     const startTime = timeMatch ? timeMatch[1] : '';
@@ -84,7 +89,7 @@ import fs from 'fs';
                             googleTrend: trendText,
                             searchVolume: searchCount,
                             started: startTime,
-                        };
+                        } as any; // Cast to any to avoid TS issues inside evaluate
                     }
                 }
                 return null;
@@ -96,18 +101,11 @@ import fs from 'fs';
 
     await browser.close();
 
-    fs.writeFileSync(
-        'data/google-trends.json',
-        JSON.stringify(
-            {
-                updated: new Date(),
-                trends,
-            },
-            null,
-            2
-        )
-    );
+    saveData('google-trends.json', { trends });
 
-    console.log('✅ 擷取完成：', trends.slice(0, 5));
-    console.log('📊 總共找到', trends.length, '個趨勢');
+    logger.success('擷取完成');
+    logger.result(`總共找到 ${trends.length} 個趨勢`);
+    
+    // Log first few items
+    console.log(trends.slice(0, 5));
 })();

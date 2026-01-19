@@ -1,8 +1,8 @@
-name: Update Google Trends
+name: Update BBC Trends
 
 on:
   schedule:
-    - cron: '5,35 * * * *' # 每小時第 5 和 35 分鐘執行
+    - cron: '15,45 * * * *' # 每小時第 15 和 45 分鐘執行
   workflow_dispatch:
 
 permissions:
@@ -35,7 +35,7 @@ jobs:
         run: npx puppeteer browsers install chrome
 
       - name: Run Puppeteer Scraper
-        run: pnpm run scrape:google
+        run: pnpm run scrape:bbc
 
       - name: Commit and Push Results
         env:
@@ -45,15 +45,15 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
           # 先保存爬蟲的新資料
-          cp data/google-trends.json /tmp/google-trends.json
+          cp data/bbc-trends.json /tmp/bbc-trends.json
 
           # 拉取最新的程式碼
           git pull origin main
 
           # 把新爬到的資料覆蓋回去
-          cp /tmp/google-trends.json data/google-trends.json
+          cp /tmp/bbc-trends.json data/bbc-trends.json
 
           # 提交並推送
-          git add data/google-trends.json
-          git commit -m "update google trends [CI] $(TZ=Asia/Taipei date '+%Y-%m-%d %H:%M:%S')" || echo "Nothing to commit"
+          git add data/bbc-trends.json
+          git commit -m "update bbc trends [CI] $(TZ=Asia/Taipei date '+%Y-%m-%d %H:%M:%S')" || echo "Nothing to commit"
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main

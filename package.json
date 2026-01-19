@@ -1,14 +1,14 @@
 {
     "name": "trend-scraper",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "scrape:google": "tsx scripts/google-trends.ts",
-        "scrape:ptt": "tsx scripts/ptt-trends.ts",
-        "scrape:komica": "tsx scripts/komica-trends.ts",
-        "scrape:reddit": "tsx scripts/reddit-trends.ts",
-        "scrape:bbc": "tsx scripts/bbc-trends.ts"
+        "scrape:google": "tsx src/scrapers/google.ts",
+        "scrape:ptt": "tsx src/scrapers/ptt.ts",
+        "scrape:komica": "tsx src/scrapers/komica.ts",
+        "scrape:reddit": "tsx src/scrapers/reddit.ts",
+        "scrape:bbc": "tsx src/scrapers/bbc.ts"
     },
     "keywords": [],
     "author": "",
@@ -19,7 +19,6 @@
         "rss-parser": "^3.13.0"
     },
     "devDependencies": {
-        "@types/cheerio": "^1.0.0",
         "@types/node": "^24.0.10",
         "tsx": "^4.20.3",
         "typescript": "^5.8.3"

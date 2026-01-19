@@ -94,12 +94,21 @@ Hot Now 整合了以下平台的熱門內容：
 
 ```
 trend-scraper/
-├── scripts/                      # 爬蟲腳本
-│   ├── bbc-trends.ts             # BBC中文新聞爬蟲
-│   ├── google-trends.ts          # Google熱搜爬蟲
-│   ├── komica-trends.ts          # K島熱門文章爬蟲
-│   ├── ptt-trends.ts             # PTT熱門文章爬蟲
-│   └── reddit-trends.ts          # Reddit熱門文章爬蟲
+├── src/
+│   ├── scrapers/                 # 爬蟲腳本
+│   │   ├── bbc.ts                # BBC中文新聞爬蟲
+│   │   ├── google.ts             # Google熱搜爬蟲
+│   │   ├── komica.ts             # K島熱門文章爬蟲
+│   │   ├── ptt.ts                # PTT熱門文章爬蟲
+│   │   └── reddit.ts             # Reddit熱門文章爬蟲
+│   ├── config/                   # 設定檔
+│   │   └── constants.ts          # 常數設定 (URL, User-Agents)
+│   ├── utils/                    # 工具函式
+│   │   ├── browser.ts            # Puppeteer 瀏覽器管理
+│   │   ├── common.ts             # 通用工具
+│   │   ├── file-manager.ts       # 檔案讀寫管理
+│   │   └── logger.ts             # 日誌系統
+│   └── types.ts                  # TypeScript 型別定義
 ├── data/                         # 爬蟲資料儲存
 │   ├── bbc-trends.json           # BBC中文新聞資料
 │   ├── google-trends.json        # Google熱搜資料
@@ -109,14 +118,14 @@ trend-scraper/
 │   ├── reddit-taiwanese-hot.json # Reddit r/Taiwanese熱門資料
 │   └── reddit-china-irl-hot.json # Reddit r/China_irl熱門資料
 ├── .github/workflows/            # GitHub Actions工作流程
-│   ├── bbc-google.yml            # BBC中文新聞自動更新
+│   ├── update-bbc.yml            # BBC中文新聞自動更新
 │   ├── update-google.yml         # Google熱搜自動更新
 │   ├── update-komica.yml         # K島自動更新
 │   ├── update-ptt.yml            # PTT自動更新
 │   └── update-reddit.yml         # Reddit自動更新
 ├── package.json                  # 專案設定
-├── tsconfig.json                # TypeScript設定
-└── pnpm-lock.yaml               # 依賴鎖定檔
+├── tsconfig.json                 # TypeScript設定
+└── pnpm-lock.yaml                # 依賴鎖定檔
 ```
 
 ## 🚀 本地開發
@@ -165,7 +174,7 @@ pnpm scrape:reddit
 
 ### BBC 中文新聞自動更新
 
--   **檔案**: `.github/workflows/bbc-google.yml`
+-   **檔案**: `.github/workflows/update-bbc.yml`
 -   **執行頻率**: 每小時第 15、45 分鐘
 -   **cron 表達式**: `15,45 * * * *`
 
