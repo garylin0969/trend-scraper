@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-19T07:57:24.676Z",
+  "updated": "2026-01-19T08:12:27.078Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,23 +44,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "185",
-      "recommendCount": "237",
+      "recommendScore": "196",
+      "recommendCount": "252",
       "title": "[地震] 地震",
       "link": "/bbs/Gossiping/M.1768726103.A.4ED",
       "author": "imayday3029",
       "board": "Gossiping",
       "publishTime": "2026/01/18 08:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "82",
-      "recommendCount": "359",
-      "title": "[新聞] 柯文哲：營養午餐免費是民粹政治、騙選票 品質一定下滑",
-      "link": "/bbs/Gossiping/M.1768723061.A.95B",
-      "author": "william8403",
-      "board": "Gossiping",
-      "publishTime": "2026/01/18 07:57",
       "imageUrl": ""
     },
     {
@@ -92,16 +82,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/18 09:42",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "598",
-      "recommendCount": "1304",
-      "title": "[Live] TPBL 新竹御嵿攻城獅 VS 臺北台新戰神",
-      "link": "/bbs/basketballTW/M.1768723210.A.8DF",
-      "author": "ruka660101",
-      "board": "basketballTW",
-      "publishTime": "2026/01/18 08:00",
-      "imageUrl": "https://cache.pttweb.cc/imgur/KoXq5wS/s/eca2fce61e2769561219ed36e7697f6c"
     },
     {
       "recommendScore": "121",
@@ -201,6 +181,26 @@
       "author": "jason911152",
       "board": "NBA",
       "publishTime": "2026/01/19 04:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "27",
+      "recommendCount": "173",
+      "title": "[新聞] 預言台美關稅協議是「正式建交前的暖身」！專家：川普很可能在任內建交台灣",
+      "link": "/bbs/Gossiping/M.1768752806.A.FE2",
+      "author": "lycppt",
+      "board": "Gossiping",
+      "publishTime": "2026/01/18 16:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "85",
+      "recommendCount": "185",
+      "title": "[請益] 這次美歐關稅戰對台灣股市的影響",
+      "link": "/bbs/Stock/M.1768738695.A.D3D",
+      "author": "hankwtc",
+      "board": "Stock",
+      "publishTime": "2026/01/18 12:18",
       "imageUrl": ""
     }
   ]
