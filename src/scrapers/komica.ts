@@ -114,7 +114,7 @@ import { createBrowser, configurePage } from '../utils/browser';
         logger.result(`總共找到 ${trends.length} 個趨勢`);
 
         if (trends.length > 0) {
-            console.log('\n📋 前 3 個範例：');
+            console.log('\n📋 前 3 篇文章範例：');
             trends.slice(0, 3).forEach((trend, index) => {
                 console.log(`${index + 1}. 留言數：${trend.replyCount}`);
                 console.log(`   日期：${trend.date} ${trend.time}`);
