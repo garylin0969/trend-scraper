@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-19T19:47:46.655Z",
+  "updated": "2026-01-19T19:54:35.119Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "350",
+      "recommendCount": "523",
+      "title": "[情報] 115年01月19日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1768807247.A.D09",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2026/01/19 07:20",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "218",
       "recommendCount": "643",
@@ -191,16 +201,6 @@
       "author": "jason911152",
       "board": "NBA",
       "publishTime": "2026/01/19 04:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "116",
-      "recommendCount": "171",
-      "title": "[Vtub] 三毛貓作家出道！原創小說連載開始、漫",
-      "link": "/bbs/C_Chat/M.1768798698.A.152",
-      "author": "Winux",
-      "board": "C_Chat",
-      "publishTime": "2026/01/19 04:58",
       "imageUrl": ""
     }
   ]
