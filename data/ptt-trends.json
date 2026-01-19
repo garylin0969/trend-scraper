@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-19T07:13:48.566Z",
+  "updated": "2026-01-19T07:31:55.947Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -64,16 +64,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "157",
-      "recommendCount": "379",
-      "title": "[新聞] 燒錢太兇撐不住　ChatGPT要放廣告了！免費用戶先看到",
-      "link": "/bbs/Stock/M.1768720565.A.580",
-      "author": "empliu",
-      "board": "Stock",
-      "publishTime": "2026/01/18 07:16",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "82",
       "recommendCount": "359",
       "title": "[新聞] 柯文哲：營養午餐免費是民粹政治、騙選票 品質一定下滑",
@@ -134,16 +124,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/KoXq5wS/s/eca2fce61e2769561219ed36e7697f6c"
     },
     {
-      "recommendScore": "145",
-      "recommendCount": "152",
-      "title": "[蔚藍] 賀！機甲女兒&Kei馬麻實裝（發錢",
-      "link": "/bbs/C_Chat/M.1768721415.A.D17",
-      "author": "coon182",
-      "board": "C_Chat",
-      "publishTime": "2026/01/18 07:30",
-      "imageUrl": "https://cache.pttweb.cc/imgur/lrHuRsf/s/12722910a5a7b39e1293c34182ecff9c"
-    },
-    {
       "recommendScore": "121",
       "recommendCount": "189",
       "title": "[情報] 德國公司推出「漫畫專用書架」",
@@ -201,6 +181,26 @@
       "author": "LoveMakeLove",
       "board": "Gossiping",
       "publishTime": "2026/01/18 12:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "104",
+      "recommendCount": "282",
+      "title": "[情報] JJ Redick：湖人缺人是這季的常態",
+      "link": "/bbs/NBA/M.1768722215.A.95E",
+      "author": "Mikufans",
+      "board": "NBA",
+      "publishTime": "2026/01/18 07:43",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-53",
+      "recommendCount": "193",
+      "title": "[新聞] 快新聞／立委比政府大？在野黨竟想「自提」1.25兆軍購案　慘遭顧立雄狠打臉",
+      "link": "/bbs/Gossiping/M.1768798682.A.AEC",
+      "author": "lunli924",
+      "board": "Gossiping",
+      "publishTime": "2026/01/19 04:58",
       "imageUrl": ""
     }
   ]
