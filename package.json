@@ -7,7 +7,6 @@
         "scrape:google": "tsx src/scrapers/google.ts",
         "scrape:ptt": "tsx src/scrapers/ptt.ts",
         "scrape:komica": "tsx src/scrapers/komica.ts",
-        "scrape:reddit": "tsx src/scrapers/reddit.ts",
         "scrape:bbc": "tsx src/scrapers/bbc.ts"
     },
     "keywords": [],
