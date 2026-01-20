@@ -24,10 +24,10 @@ export const URLS = {
     PTT_HOT: 'https://www.pttweb.cc/hot/all/today',
     /** Komica (K島) 綜合版目錄 */
     KOMICA_CATLIST: 'https://gita.komica1.org/00b/catlist.php',
-    /** Reddit r/all 熱門文章 (限制 50 筆) */
-    REDDIT_ALL: 'https://www.reddit.com/r/all/hot.json?limit=50',
-    /** Reddit r/Taiwanese 熱門文章 (限制 50 筆) */
-    REDDIT_TAIWANESE: 'https://www.reddit.com/r/Taiwanese/hot.json?limit=50',
-    /** Reddit r/China_irl 熱門文章 (限制 50 筆) */
-    REDDIT_CHINA_IRL: 'https://www.reddit.com/r/China_irl/hot.json?limit=50',
+    /** Reddit r/all 熱門文章 JSON API (使用 old.reddit.com) */
+    REDDIT_ALL: 'https://old.reddit.com/r/all/hot.json?limit=50',
+    /** Reddit r/Taiwanese 熱門文章 JSON API (使用 old.reddit.com) */
+    REDDIT_TAIWANESE: 'https://old.reddit.com/r/Taiwanese/hot.json?limit=50',
+    /** Reddit r/China_irl 熱門文章 JSON API (使用 old.reddit.com) */
+    REDDIT_CHINA_IRL: 'https://old.reddit.com/r/China_irl/hot.json?limit=50',
 };

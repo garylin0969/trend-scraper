@@ -79,17 +79,51 @@ export interface KomicaTrend {
 }
 
 /**
+ * Reddit 貼文資料介面
+ *
+ * @interface RedditPost
+ * @property {string} id - 貼文唯一識別碼
+ * @property {string} title - 貼文標題
+ * @property {string} author - 作者名稱
+ * @property {string} subreddit - 子版塊名稱
+ * @property {number} score - 分數 (upvotes - downvotes)
+ * @property {number} upvoteRatio - 讚成率 (0-1)
+ * @property {number} numComments - 留言數量
+ * @property {string} permalink - 貼文連結路徑
+ * @property {string} url - 貼文內容連結
+ * @property {string} createdUtc - 發布時間 (UTC ISO 格式)
+ * @property {string} [thumbnail] - 縮圖網址 (選填)
+ * @property {boolean} isVideo - 是否為影片
+ * @property {boolean} isOriginalContent - 是否為原創內容
+ */
+export interface RedditPost {
+    id: string;
+    title: string;
+    author: string;
+    subreddit: string;
+    score: number;
+    upvoteRatio: number;
+    numComments: number;
+    permalink: string;
+    url: string;
+    createdUtc: string;
+    thumbnail?: string;
+    isVideo: boolean;
+    isOriginalContent: boolean;
+}
+
+/**
  * Reddit 資料介面
  *
  * @interface RedditData
  * @property {string} updated - 資料更新時間
  * @property {string} source - 資料來源描述
  * @property {number} total_posts - 總貼文數
- * @property {any} original_data - Reddit API 回傳的原始資料
+ * @property {RedditPost[]} posts - 貼文列表
  */
 export interface RedditData {
     updated: string;
     source: string;
     total_posts: number;
-    original_data: any;
+    posts: RedditPost[];
 }
