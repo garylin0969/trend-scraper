@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-21T05:31:45.024Z",
+  "updated": "2026-01-21T05:49:32.653Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,16 +44,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "278",
-      "title": "[新聞] 美製車零關稅？　政院證實了：美方要求全面市場開放",
-      "link": "/bbs/Stock/M.1768887292.A.EA7",
-      "author": "cosmite",
-      "board": "Stock",
-      "publishTime": "2026/01/20 05:34",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "159",
       "recommendCount": "277",
       "title": "[新聞] 判吳龍滿死刑！法官：「殺錯無法回頭」是倒果為因",
@@ -61,16 +51,6 @@
       "author": "stratege",
       "board": "Gossiping",
       "publishTime": "2026/01/20 08:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "122",
-      "recommendCount": "273",
-      "title": "[新聞] 《大賣空》原型貝瑞警告AI泡沫將破裂「",
-      "link": "/bbs/Stock/M.1768888090.A.F97",
-      "author": "CTC0115",
-      "board": "Stock",
-      "publishTime": "2026/01/20 05:48",
       "imageUrl": ""
     },
     {
@@ -201,6 +181,26 @@
       "author": "q347",
       "board": "LoL",
       "publishTime": "2026/01/21 01:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "85",
+      "recommendCount": "150",
+      "title": "[新聞] 經典賽／破解山本由伸！台灣自研發球機進駐國訓　中華隊秘密武器",
+      "link": "/bbs/Baseball/M.1768896151.A.A34",
+      "author": "ChanHoPark",
+      "board": "Baseball",
+      "publishTime": "2026/01/20 08:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "69",
+      "recommendCount": "229",
+      "title": "[問卦] 為何省籍對立在年輕一輩完全消失？",
+      "link": "/bbs/Gossiping/M.1768966493.A.3EC",
+      "author": "ClownT",
+      "board": "Gossiping",
+      "publishTime": "2026/01/21 03:34",
       "imageUrl": ""
     }
   ]
