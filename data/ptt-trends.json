@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-21T12:47:44.969Z",
+  "updated": "2026-01-21T13:12:12.818Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "74",
-      "recommendCount": "149",
-      "title": "[問卦]聽說台北要開始推無菸城市 你會支持嗎？",
-      "link": "/bbs/Gossiping/M.1768914166.A.0B2",
-      "author": "a91153456",
-      "board": "Gossiping",
-      "publishTime": "2026/01/20 13:02",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "81",
       "recommendCount": "133",
       "title": "[新聞] 快訊／川普空軍一號驚傳故障　高空急返航",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2026/01/21 02:03",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "88",
+      "recommendCount": "91",
+      "title": "[蔚藍] 抽卡真的有玄學",
+      "link": "/bbs/C_Chat/M.1768961202.A.D34",
+      "author": "chainstay120",
+      "board": "C_Chat",
+      "publishTime": "2026/01/21 02:06",
+      "imageUrl": "https://cache.pttweb.cc/imgur/N35Nms3/s/2b60c5e26be39ea6aa0e06991b91e093"
     }
   ]
 }
