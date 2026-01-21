@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-21T04:13:00.405Z",
+  "updated": "2026-01-21T04:35:21.416Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "259",
+      "recommendCount": "271",
+      "title": "Re: [LIVE] 籃球 鳳凰城太陽 @ 費城76人 場中",
+      "link": "/bbs/SportLottery/M.1768962671.A.290",
+      "author": "lotterywin",
+      "board": "SportLottery",
+      "publishTime": "2026/01/21 02:31",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "182",
       "recommendCount": "597",
       "title": "[爆卦] 日本女星因使用簡體字發文，道歉重發文",
@@ -41,16 +51,6 @@
       "author": "ClownT",
       "board": "Gossiping",
       "publishTime": "2026/01/20 05:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "148",
-      "recommendCount": "331",
-      "title": "[新聞] 美製車零關稅？　政院證實了：美方要求全面市場開放",
-      "link": "/bbs/Gossiping/M.1768883504.A.850",
-      "author": "s110269",
-      "board": "Gossiping",
-      "publishTime": "2026/01/20 04:31",
       "imageUrl": ""
     },
     {
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "148",
-      "recommendCount": "289",
-      "title": "[新聞] 美製車零關稅？　政院證實了：美方要求全面市場開放",
-      "link": "/bbs/car/M.1768882911.A.F14",
-      "author": "DDDDRR",
-      "board": "car",
-      "publishTime": "2026/01/20 04:21",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "68",
       "recommendCount": "412",
       "title": "Re: [情報] 吉巴ACL撕裂 賽季報銷",
@@ -152,6 +142,16 @@
       "board": "Stock",
       "publishTime": "2026/01/20 10:23",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "83",
+      "recommendCount": "195",
+      "title": "[問卦] 台男：婚後才發現老婆脾氣很差 該怎麼辦",
+      "link": "/bbs/Gossiping/M.1768960353.A.7AF",
+      "author": "westdoorcard",
+      "board": "Gossiping",
+      "publishTime": "2026/01/21 01:52",
+      "imageUrl": "https://cache.pttweb.cc/imgur/tAi9MD2/s/fb8cee7124c120a581734e5a8c460550"
     },
     {
       "recommendScore": "105",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "93",
+      "recommendCount": "264",
+      "title": "[問卦] 福建人講話跟台灣人很像啊",
+      "link": "/bbs/Gossiping/M.1768959372.A.CB4",
+      "author": "Skyblueway",
+      "board": "Gossiping",
+      "publishTime": "2026/01/21 01:36",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "58",
       "recommendCount": "199",
       "title": "[問卦] 盧特尼克：台灣進貢美國2500億+2500億",
@@ -191,16 +201,6 @@
       "author": "nicolaschen2",
       "board": "Gossiping",
       "publishTime": "2026/01/20 05:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "85",
-      "recommendCount": "150",
-      "title": "[新聞] 經典賽／破解山本由伸！台灣自研發球機進駐國訓　中華隊秘密武器",
-      "link": "/bbs/Baseball/M.1768896151.A.A34",
-      "author": "ChanHoPark",
-      "board": "Baseball",
-      "publishTime": "2026/01/20 08:02",
       "imageUrl": ""
     }
   ]
