@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-21T06:33:14.963Z",
+  "updated": "2026-01-21T06:55:15.632Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "93",
-      "recommendCount": "142",
-      "title": "[新聞] 新／「你好！我是賴清德」詐騙信曝光 刑事局說話了",
-      "link": "/bbs/Gossiping/M.1768891264.A.677",
-      "author": "kenny1300175",
-      "board": "Gossiping",
-      "publishTime": "2026/01/20 06:41",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "81",
       "recommendCount": "168",
       "title": "[新聞] 建設少東迷戀收銀員 炫耀「海線望族」 她遭騷擾2年崩潰大哭",
@@ -201,6 +191,16 @@
       "author": "ChanHoPark",
       "board": "Baseball",
       "publishTime": "2026/01/20 08:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "69",
+      "recommendCount": "229",
+      "title": "[問卦] 為何省籍對立在年輕一輩完全消失？",
+      "link": "/bbs/Gossiping/M.1768966493.A.3EC",
+      "author": "ClownT",
+      "board": "Gossiping",
+      "publishTime": "2026/01/21 03:34",
       "imageUrl": ""
     }
   ]
