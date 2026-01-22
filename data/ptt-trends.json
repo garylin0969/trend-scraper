@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-22T04:51:04.363Z",
+  "updated": "2026-01-22T05:04:42.672Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "76",
-      "recommendCount": "159",
-      "title": "[新聞] 「像監獄、香港劏房…」新建案格局全網看傻：浪費一塊好地",
-      "link": "/bbs/Gossiping/M.1768971610.A.130",
-      "author": "losel",
-      "board": "Gossiping",
-      "publishTime": "2026/01/21 05:00",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "92",
       "recommendCount": "162",
       "title": "[標的] 大盤修正 空",
@@ -121,16 +111,6 @@
       "author": "pneumo",
       "board": "NBA",
       "publishTime": "2026/01/21 06:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "111",
-      "recommendCount": "289",
-      "title": "[閒聊] 宙斯退化嚴重的原因是啥",
-      "link": "/bbs/LoL/M.1768971833.A.33C",
-      "author": "fever200977",
-      "board": "LoL",
-      "publishTime": "2026/01/21 05:03",
       "imageUrl": ""
     },
     {
@@ -201,6 +181,26 @@
       "author": "jason911152",
       "board": "Lakers",
       "publishTime": "2026/01/21 05:35",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-35",
+      "recommendCount": "112",
+      "title": "[新聞] 現場還原黃國昌帶走機密1分半過程　沈伯洋：快步走入監視器死角",
+      "link": "/bbs/Gossiping/M.1768987985.A.338",
+      "author": "chopper594",
+      "board": "Gossiping",
+      "publishTime": "2026/01/21 09:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "84",
+      "recommendCount": "229",
+      "title": "[花邊] Siegel:除非字母開賣 不然勇士不做大補強",
+      "link": "/bbs/NBA/M.1768977942.A.033",
+      "author": "bm1041644",
+      "board": "NBA",
+      "publishTime": "2026/01/21 06:45",
       "imageUrl": ""
     }
   ]
