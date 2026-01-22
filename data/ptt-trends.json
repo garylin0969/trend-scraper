@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-22T06:15:00.574Z",
+  "updated": "2026-01-22T06:32:43.900Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,26 +44,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "132",
-      "recommendCount": "259",
-      "title": "[新聞] 陳亭妃拒簽切割郭信良協議 林俊憲：不能裝作裂痕沒有看見",
-      "link": "/bbs/Gossiping/M.1768976584.A.DBF",
-      "author": "Calcifer",
-      "board": "Gossiping",
-      "publishTime": "2026/01/21 06:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "90",
-      "recommendCount": "117",
-      "title": "[花邊] 8弟: 我們大家都愛苦命 苦命也愛大家",
-      "link": "/bbs/NBA/M.1768977002.A.14E",
-      "author": "pneumo",
-      "board": "NBA",
-      "publishTime": "2026/01/21 06:30",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "83",
       "recommendCount": "136",
       "title": "[新聞] 金寶總座自爆「低軌衛星業務暫停中」",
@@ -72,16 +52,6 @@
       "board": "Stock",
       "publishTime": "2026/01/21 14:14",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "89",
-      "recommendCount": "206",
-      "title": "[閒聊] 「在這世上絕對不能做的，就是道歉」？",
-      "link": "/bbs/C_Chat/M.1768976833.A.0BA",
-      "author": "arrenwu",
-      "board": "C_Chat",
-      "publishTime": "2026/01/21 06:27",
-      "imageUrl": "https://cache.pttweb.cc/imgur/D4lDij4/s/2ee681c5d68ffb6b3bb0a1c6d560a354"
     },
     {
       "recommendScore": "98",
@@ -201,6 +171,36 @@
       "author": "flying2896",
       "board": "BaseballXXXX",
       "publishTime": "2026/01/21 16:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "39",
+      "recommendCount": "127",
+      "title": "[閒聊] 對小孩來說，switch的吸引度有高於手機?",
+      "link": "/bbs/C_Chat/M.1768977481.A.A36",
+      "author": "Gentlemon",
+      "board": "C_Chat",
+      "publishTime": "2026/01/21 06:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "30",
+      "recommendCount": "114",
+      "title": "[問卦] 斬殺線是支語嗎",
+      "link": "/bbs/Gossiping/M.1769045526.A.D8E",
+      "author": "chinaeatshit",
+      "board": "Gossiping",
+      "publishTime": "2026/01/22 01:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "96",
+      "recommendCount": "455",
+      "title": "[鳴潮] 漂泊者也太...見一個忘一個了吧",
+      "link": "/bbs/C_Chat/M.1768977453.A.E20",
+      "author": "ThreekRoger",
+      "board": "C_Chat",
+      "publishTime": "2026/01/21 06:37",
       "imageUrl": ""
     }
   ]
