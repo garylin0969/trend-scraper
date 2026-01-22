@@ -1,19 +1,27 @@
 {
-  "updated": "2026-01-22T09:53:47.942Z",
+  "updated": "2026-01-22T10:23:32.097Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-22T09:53:42.000Z",
+    "lastBuildDate": "2026-01-22T10:23:14.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
     {
-      "title": "日本重啟全球最大核電廠，但福島記憶仍揮之不去",
-      "description": "在福島災難近15年後，日本重啟了全球最大核電廠。",
+      "title": "香港支聯會鄒幸彤、李卓人、何俊仁受審：煽動顛覆案若罪成恐面臨十年監禁",
+      "description": "被起訴四年多後，香港支聯會三位末代領袖鄒幸彤、李卓人、何俊仁正式受審。他們曾是悼念北京六四事件活動的主要籌辦者。",
+      "link": "https://www.bbc.com/zhongwen/articles/c041v6w9ge2o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-22T10:19:24.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c041v6w9ge2o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b699/live/9340c6f0-f76c-11f0-b385-5f48925de19a.jpg"
+    },
+    {
+      "title": "日本重啟全球最大核電廠幾小時後迅速關停",
+      "description": "在週四暫停六號反應堆運作後，東京電力表示，它「處於穩定狀態，外部沒有放射性影響」。",
       "link": "https://www.bbc.com/zhongwen/articles/cm24406p8j5o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-22T03:30:33.000Z",
+      "pubDate": "2026-01-22T09:55:18.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cm24406p8j5o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d3fa/live/4a8f5190-f692-11f0-a14f-53ca5d79e0d5.jpg"
     },
@@ -34,20 +42,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e850/live/df3fc0f0-f696-11f0-b385-5f48925de19a.jpg"
     },
     {
-      "title": "七個國家同意新加入特朗普的和平委員會",
-      "description": "根據一份聯合聲明顯示，包括沙特阿拉伯、土耳其和埃及在內的七個國家表示將加入美國總統特朗普的和平委員會。",
-      "link": "https://www.bbc.com/zhongwen/articles/cy7mmggr5zno/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-22T05:49:50.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cy7mmggr5zno/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f48/live/7db8a240-f74d-11f0-b5f7-49f0357294ff.jpg"
-    },
-    {
       "title": "西貝羅永浩二番戰：「約架」之後如何火速「收兵」",
       "description": "中國餐飲品牌西貝「預制菜」風波再發酵，創始人賈國龍和質疑者羅永浩被雙雙禁言，官媒下場加入論戰，一場網上「約架」意外火速「收兵」。",
       "link": "https://www.bbc.com/zhongwen/articles/ce8e6d30z5yo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-01-21T00:21:45.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ce8e6d30z5yo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fbea/live/d6763cb0-f5c9-11f0-a32c-ff5834b4c89e.jpg"
+    },
+    {
+      "title": "七個國家同意新加入特朗普的和平委員會",
+      "description": "根據一份聯合聲明顯示，包括沙特阿拉伯、土耳其和埃及在內的七個國家表示將加入美國總統特朗普的和平委員會。",
+      "link": "https://www.bbc.com/zhongwen/articles/cy7mmggr5zno/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-22T05:49:50.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cy7mmggr5zno/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f48/live/7db8a240-f74d-11f0-b5f7-49f0357294ff.jpg"
     },
     {
       "title": "英國批准中國「超級大使館」規劃，多年爭議背後的四大看點",
@@ -96,14 +104,6 @@
       "pubDate": "2026-01-21T04:26:52.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn0k9kr5ew6o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/033e/live/d60df500-f679-11f0-a422-4ba8a094a8fa.jpg"
-    },
-    {
-      "title": "加密貨幣罪犯如何常常「故伎重演」，從人們手中竊取7億美元",
-      "description": "加密貨幣被竊的痛苦特別煎熬。因為所有交易皆記錄在稱為區塊鏈的數位帳本上，因此即使竊賊將你的錢轉入自家加密錢包，它仍清晰可見於網路世界。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn0kg06kg24o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-20T09:57:42.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn0kg06kg24o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8819/live/ce46a700-e570-11f0-aae2-2191c0e48a3b.jpg"
     },
     {
       "title": "台灣、香港新生嬰兒再創新低，要如何扭轉「生育陷阱」？",
@@ -282,6 +282,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e0de/live/7707fd20-f526-11f0-a422-4ba8a094a8fa.png"
     },
     {
+      "title": "加密貨幣罪犯如何常常「故伎重演」，從人們手中竊取7億美元",
+      "description": "加密貨幣被竊的痛苦特別煎熬。因為所有交易皆記錄在稱為區塊鏈的數位帳本上，因此即使竊賊將你的錢轉入自家加密錢包，它仍清晰可見於網路世界。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn0kg06kg24o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-20T09:57:42.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn0kg06kg24o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8819/live/ce46a700-e570-11f0-aae2-2191c0e48a3b.jpg"
+    },
+    {
       "title": "關於多巴胺，我們都搞錯了些甚麼",
       "description": "多巴胺有時被稱為「快樂化學物」，但人們對它常常有許多誤解。尼古拉·庫庫什金（Nikolay Kukushkin）深入探討了這種備受關注的神經傳導物質究竟如何影響我們的大腦。",
       "link": "https://www.bbc.com/zhongwen/articles/c4g4ev0x8wxo/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2026-01-20T00:24:01.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/czej663rdzro/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b08b/live/42f014a0-f224-11f0-b5f7-49f0357294ff.jpg"
-    },
-    {
-      "title": "我們為什麼會哭？人類獨特眼淚背後的科學",
-      "description": "科學家了解了眼淚如何運作，但為什麼人類會哭，以及情緒眼淚的目的是什麼，至今仍未完全釐清。",
-      "link": "https://www.bbc.com/zhongwen/articles/cly9k7qdd4vo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-20T05:55:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cly9k7qdd4vo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e68/live/649c9c70-f2d0-11f0-b385-5f48925de19a.jpg"
     }
   ]
 }
