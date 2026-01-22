@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-22T06:32:43.900Z",
+  "updated": "2026-01-22T06:54:15.421Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -41,6 +41,16 @@
       "author": "a96385245",
       "board": "Gossiping",
       "publishTime": "2026/01/22 01:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "132",
+      "recommendCount": "302",
+      "title": "[新聞] NBA／湖人詹姆斯和里夫斯今夏只能留一人？「宮鬥」幕後原因曝光",
+      "link": "/bbs/NBA/M.1769044857.A.CC1",
+      "author": "betweenus020",
+      "board": "NBA",
+      "publishTime": "2026/01/22 01:20",
       "imageUrl": ""
     },
     {
@@ -104,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "84",
-      "recommendCount": "229",
-      "title": "[花邊] Siegel:除非字母開賣 不然勇士不做大補強",
-      "link": "/bbs/NBA/M.1768977942.A.033",
-      "author": "bm1041644",
-      "board": "NBA",
-      "publishTime": "2026/01/21 06:45",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "60",
       "recommendCount": "112",
       "title": "[問卦] 機車電瓶換到好1450會太貴嗎？",
@@ -154,16 +154,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/cZGvsxe/s/eb76515e1a44b28f561d70f1168533aa"
     },
     {
-      "recommendScore": "63",
-      "recommendCount": "150",
-      "title": "[新聞] 結婚、金錢全被家人支配！50歲女醫「吐血」斬親緣 還發不自殺聲明",
-      "link": "/bbs/Gossiping/M.1768977681.A.364",
-      "author": "jo850346",
-      "board": "Gossiping",
-      "publishTime": "2026/01/21 06:41",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "62",
       "recommendCount": "70",
       "title": "[閒聊] 兔哥烏薩奇生日（發錢）",
@@ -171,16 +161,6 @@
       "author": "flying2896",
       "board": "BaseballXXXX",
       "publishTime": "2026/01/21 16:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "39",
-      "recommendCount": "127",
-      "title": "[閒聊] 對小孩來說，switch的吸引度有高於手機?",
-      "link": "/bbs/C_Chat/M.1768977481.A.A36",
-      "author": "Gentlemon",
-      "board": "C_Chat",
-      "publishTime": "2026/01/21 06:38",
       "imageUrl": ""
     },
     {
@@ -194,14 +174,34 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "96",
-      "recommendCount": "455",
-      "title": "[鳴潮] 漂泊者也太...見一個忘一個了吧",
-      "link": "/bbs/C_Chat/M.1768977453.A.E20",
-      "author": "ThreekRoger",
+      "recommendScore": "49",
+      "recommendCount": "85",
+      "title": "[閒聊] 殭屍才要怕他 惡靈古堡9本打算讓里昂單幹",
+      "link": "/bbs/C_Chat/M.1769045468.A.270",
+      "author": "extemjin",
       "board": "C_Chat",
-      "publishTime": "2026/01/21 06:37",
+      "publishTime": "2026/01/22 01:31",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "40",
+      "recommendCount": "65",
+      "title": "[請益] AI缺電該怎麼買?",
+      "link": "/bbs/Stock/M.1768978984.A.3E6",
+      "author": "a281393",
+      "board": "Stock",
+      "publishTime": "2026/01/21 07:03",
+      "imageUrl": "https://cache.pttweb.cc/imgur/eGIZOCv/s/430aa7903f6eb1be5e4aa495e757e708"
+    },
+    {
+      "recommendScore": "46",
+      "recommendCount": "65",
+      "title": "[閒聊] yyut炎上退網",
+      "link": "/bbs/C_Chat/M.1769043169.A.64C",
+      "author": "kerycheng",
+      "board": "C_Chat",
+      "publishTime": "2026/01/22 00:52",
+      "imageUrl": "https://cache.pttweb.cc/imgur/j3Evlg2/s/b1c2f94e0c7cf85c83f96b878b96e9e7"
     }
   ]
 }
