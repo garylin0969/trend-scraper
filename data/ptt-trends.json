@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-22T01:10:27.938Z",
+  "updated": "2026-01-22T01:53:14.736Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "93",
-      "recommendCount": "264",
-      "title": "[問卦] 福建人講話跟台灣人很像啊",
-      "link": "/bbs/Gossiping/M.1768959372.A.CB4",
-      "author": "Skyblueway",
-      "board": "Gossiping",
-      "publishTime": "2026/01/21 01:36",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "76",
       "recommendCount": "159",
       "title": "[新聞] 「像監獄、香港劏房…」新建案格局全網看傻：浪費一塊好地",
@@ -121,16 +111,6 @@
       "author": "losel",
       "board": "Gossiping",
       "publishTime": "2026/01/21 05:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "113",
-      "recommendCount": "119",
-      "title": "[閒聊] 比賽鍵盤有規定不能拔鍵嗎? (沒有豚)",
-      "link": "/bbs/LoL/M.1768958873.A.575",
-      "author": "q347",
-      "board": "LoL",
-      "publishTime": "2026/01/21 01:27",
       "imageUrl": ""
     },
     {
@@ -201,6 +181,26 @@
       "author": "area223672",
       "board": "C_Chat",
       "publishTime": "2026/01/21 08:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "181",
+      "recommendCount": "279",
+      "title": "[LIVE] NBA 多倫多暴龍：金州勇士 場中",
+      "link": "/bbs/SportLottery/M.1768963392.A.CF8",
+      "author": "leots0211",
+      "board": "SportLottery",
+      "publishTime": "2026/01/21 02:43",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "46",
+      "recommendCount": "127",
+      "title": "[新聞] 快訊／林宸佑涉共諜案　國台辦首發聲：亂扣滲透帽子",
+      "link": "/bbs/Gossiping/M.1768964876.A.655",
+      "author": "selisja",
+      "board": "Gossiping",
+      "publishTime": "2026/01/21 03:07",
       "imageUrl": ""
     }
   ]
