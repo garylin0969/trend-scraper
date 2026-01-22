@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-22T05:49:47.796Z",
+  "updated": "2026-01-22T05:58:46.949Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "178",
+      "recommendCount": "452",
+      "title": "[問卦] 幹真的好累……",
+      "link": "/bbs/Gossiping/M.1769043695.A.A4A",
+      "author": "notfound0506",
+      "board": "Gossiping",
+      "publishTime": "2026/01/22 01:01",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "154",
       "recommendCount": "246",
@@ -14,6 +24,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "115",
+      "recommendCount": "273",
+      "title": "[新聞] 嗆綠阻擋TPASS預算 黃國昌：第一次看到立院給錢、政院不要",
+      "link": "/bbs/Gossiping/M.1769041779.A.76E",
+      "author": "lycppt",
+      "board": "Gossiping",
+      "publishTime": "2026/01/22 00:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "93",
+      "recommendCount": "226",
+      "title": "[新聞] 傳總統府周五派「司法界謝宜容」任司法院秘書長 高院深夜急說沒霸凌",
+      "link": "/bbs/Gossiping/M.1769043806.A.2D5",
+      "author": "a96385245",
+      "board": "Gossiping",
+      "publishTime": "2026/01/22 01:03",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "132",
       "recommendCount": "259",
       "title": "[新聞] 陳亭妃拒簽切割郭信良協議 林俊憲：不能裝作裂痕沒有看見",
@@ -21,26 +51,6 @@
       "author": "Calcifer",
       "board": "Gossiping",
       "publishTime": "2026/01/21 06:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "97",
-      "recommendCount": "331",
-      "title": "[情報] Kerr: 苦命將再次被納入考慮",
-      "link": "/bbs/NBA/M.1768974747.A.B6B",
-      "author": "Skyblueway",
-      "board": "NBA",
-      "publishTime": "2026/01/21 05:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "92",
-      "recommendCount": "162",
-      "title": "[標的] 大盤修正 空",
-      "link": "/bbs/Stock/M.1768975069.A.464",
-      "author": "angus850503",
-      "board": "Stock",
-      "publishTime": "2026/01/21 05:57",
       "imageUrl": ""
     },
     {
@@ -64,16 +74,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "71",
-      "recommendCount": "138",
-      "title": "[花邊] LBJ關鍵時刻飛身戰斧爆扣後站著凝視遠方",
-      "link": "/bbs/NBA/M.1768974781.A.3F6",
-      "author": "yniori",
-      "board": "NBA",
-      "publishTime": "2026/01/21 05:53",
-      "imageUrl": "https://cache.pttweb.cc/imgur/LLtcMGO/s/ea00ad57bfad1921ec9d56cab3cc7287"
-    },
-    {
       "recommendScore": "89",
       "recommendCount": "206",
       "title": "[閒聊] 「在這世上絕對不能做的，就是道歉」？",
@@ -91,6 +91,26 @@
       "author": "area223672",
       "board": "C_Chat",
       "publishTime": "2026/01/21 08:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "67",
+      "recommendCount": "147",
+      "title": "[新聞] 紐時：格陵蘭島潛在協議曝光 小塊割地供美軍建基地",
+      "link": "/bbs/Gossiping/M.1769042308.A.B26",
+      "author": "d8917936",
+      "board": "Gossiping",
+      "publishTime": "2026/01/22 00:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "37",
+      "recommendCount": "149",
+      "title": "[新聞] 國考報考人數下滑 高普考錄取率達30年新高",
+      "link": "/bbs/Gossiping/M.1769042425.A.5AF",
+      "author": "wu73",
+      "board": "Gossiping",
+      "publishTime": "2026/01/22 00:40",
       "imageUrl": ""
     },
     {
@@ -181,26 +201,6 @@
       "author": "jo850346",
       "board": "Gossiping",
       "publishTime": "2026/01/21 06:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "62",
-      "recommendCount": "70",
-      "title": "[閒聊] 兔哥烏薩奇生日（發錢）",
-      "link": "/bbs/BaseballXXXX/M.1769013502.A.AE6",
-      "author": "flying2896",
-      "board": "BaseballXXXX",
-      "publishTime": "2026/01/21 16:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "45",
-      "recommendCount": "91",
-      "title": "[情報] Luka Doncic 吃下第13次技術犯規",
-      "link": "/bbs/NBA/M.1768975463.A.118",
-      "author": "love1500274",
-      "board": "NBA",
-      "publishTime": "2026/01/21 06:04",
       "imageUrl": ""
     }
   ]
