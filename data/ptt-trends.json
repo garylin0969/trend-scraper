@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-22T05:19:54.352Z",
+  "updated": "2026-01-22T05:36:13.082Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,26 +34,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "145",
-      "recommendCount": "281",
-      "title": "[BOX ] Raptors 145:127 Warriors",
-      "link": "/bbs/NBA/M.1768973668.A.F8F",
-      "author": "nsbgm",
-      "board": "NBA",
-      "publishTime": "2026/01/21 05:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "153",
-      "recommendCount": "322",
-      "title": "[BOX ] Lakers 115:107 Nuggets",
-      "link": "/bbs/NBA/M.1768973722.A.1D3",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2026/01/21 05:35",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "132",
       "recommendCount": "259",
       "title": "[新聞] 陳亭妃拒簽切割郭信良協議 林俊憲：不能裝作裂痕沒有看見",
@@ -81,16 +61,6 @@
       "author": "angus850503",
       "board": "Stock",
       "publishTime": "2026/01/21 05:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "36",
-      "recommendCount": "156",
-      "title": "[新聞] 獨家／又是民眾黨！中央委員「房屋退租不拆招牌」　法院判賠7萬5",
-      "link": "/bbs/Gossiping/M.1768973148.A.62E",
-      "author": "johnny9667",
-      "board": "Gossiping",
-      "publishTime": "2026/01/21 05:25",
       "imageUrl": ""
     },
     {
@@ -194,14 +164,44 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "87",
-      "recommendCount": "242",
-      "title": "Re: [轉載] 巴哈FF14版論戰文",
-      "link": "/bbs/C_Chat/M.1768973246.A.219",
-      "author": "XLcock",
-      "board": "C_Chat",
-      "publishTime": "2026/01/21 05:27",
+      "recommendScore": "60",
+      "recommendCount": "112",
+      "title": "[問卦] 機車電瓶換到好1450會太貴嗎？",
+      "link": "/bbs/Gossiping/M.1769005715.A.5D0",
+      "author": "kinjk01",
+      "board": "Gossiping",
+      "publishTime": "2026/01/21 14:28",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "50",
+      "recommendCount": "89",
+      "title": "[情報] 0121 上市外資買賣超排行",
+      "link": "/bbs/Stock/M.1768983653.A.B9D",
+      "author": "saber50116",
+      "board": "Stock",
+      "publishTime": "2026/01/21 08:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "67",
+      "recommendCount": "79",
+      "title": "[純愛] 被戴綠帽的女友女王歸來～",
+      "link": "/bbs/C_Chat/M.1768979183.A.379",
+      "author": "SuperSg",
+      "board": "C_Chat",
+      "publishTime": "2026/01/21 07:06",
+      "imageUrl": "https://cache.pttweb.cc/imgur/hj9eBM6/s/9d74f3fd41f718ae6fba703c9d3dcfee"
+    },
+    {
+      "recommendScore": "56",
+      "recommendCount": "133",
+      "title": "[爆卦] 新竹黑道陳見賢參選讓綠營撿到槍大高潮",
+      "link": "/bbs/Gossiping/M.1768987503.A.28C",
+      "author": "socialism",
+      "board": "Gossiping",
+      "publishTime": "2026/01/21 09:25",
+      "imageUrl": "https://cache.pttweb.cc/imgur/cZGvsxe/s/eb76515e1a44b28f561d70f1168533aa"
     }
   ]
 }
