@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-22T19:13:28.756Z",
+  "updated": "2026-01-22T19:31:13.214Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "233",
+      "recommendCount": "508",
+      "title": "[終末地] 什麼都沒買被扣了5000美元",
+      "link": "/bbs/C_Chat/M.1769095002.A.605",
+      "author": "MHWilds",
+      "board": "C_Chat",
+      "publishTime": "2026/01/22 15:16",
+      "imageUrl": "https://cache.pttweb.cc/imgur/ckkSjyC/s/876c7322c00b18e9fd36fc52559cccff"
+    },
+    {
       "recommendScore": "93",
       "recommendCount": "226",
       "title": "[新聞] 傳總統府周五派「司法界謝宜容」任司法院秘書長 高院深夜急說沒霸凌",
@@ -192,16 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2026/01/22 03:18",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "130",
-      "recommendCount": "158",
-      "title": "[倫本] 被戴綠帽的女友女王歸來～",
-      "link": "/bbs/AC_In/M.1769065326.A.053",
-      "author": "SuperSg",
-      "board": "AC_In",
-      "publishTime": "2026/01/22 07:02",
-      "imageUrl": "https://cache.pttweb.cc/imgur/hj9eBM6/s/9d74f3fd41f718ae6fba703c9d3dcfee"
     }
   ]
 }
