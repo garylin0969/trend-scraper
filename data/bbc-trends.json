@@ -1,14 +1,30 @@
 {
-  "updated": "2026-01-22T02:56:54.656Z",
+  "updated": "2026-01-22T03:51:47.469Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-22T02:56:48.000Z",
+    "lastBuildDate": "2026-01-22T03:51:41.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "日本重啟全球最大核電廠，但福島記憶仍揮之不去",
+      "description": "在福島災難近15年後，日本重啟了全球最大核電廠。",
+      "link": "https://www.bbc.com/zhongwen/articles/cm24406p8j5o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-22T03:30:33.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cm24406p8j5o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d3fa/live/4a8f5190-f692-11f0-a14f-53ca5d79e0d5.jpg"
+    },
+    {
+      "title": "觀察：在達沃斯與特朗普同處一室的感受",
+      "description": "特朗普侮辱了歐洲最大的經濟體，聲稱如果不是因為美國，「在場的所有人『現在都會說德語』」。",
+      "link": "https://www.bbc.com/zhongwen/articles/c3688p3l9p0o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-22T03:08:45.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3688p3l9p0o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a620/live/0831d1b0-f737-11f0-a859-c98db77d2dfd.jpg"
+    },
     {
       "title": "分析：自二戰以來，沒有哪位美國總統像特朗普這樣撼動世界秩序",
       "description": "在過去的一個世紀中，從未有任何一位美國總統威脅要奪取一個長期盟友的領土，並在違背當地人民意願的情況下對其進行統治。",
@@ -16,22 +32,6 @@
       "pubDate": "2026-01-21T09:02:24.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c79rxj51qg2o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e850/live/df3fc0f0-f696-11f0-b385-5f48925de19a.jpg"
-    },
-    {
-      "title": "歐洲擬暫停批准對美貿易協議，全球市場拉響警報",
-      "description": "此舉源自於美國和歐盟之間再度緊張的關係，此前特朗普一直試圖吞併格陵蘭島。",
-      "link": "https://www.bbc.com/zhongwen/articles/cj9rypj3w3mo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-21T09:04:37.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cj9rypj3w3mo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2e68/live/0c0102d0-f61e-11f0-a76f-d76034ae9e17.jpg"
-    },
-    {
-      "title": "英國批准中國「超級大使館」規劃，多年爭議背後的四大看點",
-      "description": "中國駐英國大使館自2018年購入倫敦皇家鑄幣廠舊址以來爭議不斷，移英港人示威與美國介入傳聞使事情更見沸揚，但工黨政府最終決定批准改建。",
-      "link": "https://www.bbc.com/zhongwen/articles/ckg505rx8v4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-20T14:38:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckg505rx8v4o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7171/live/398fa630-f5fa-11f0-b385-5f48925de19a.jpg"
     },
     {
       "title": "英國團隊研究以指尖採血檢測診斷阿茲海默症",
@@ -48,6 +48,22 @@
       "pubDate": "2026-01-21T00:21:45.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ce8e6d30z5yo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fbea/live/d6763cb0-f5c9-11f0-a32c-ff5834b4c89e.jpg"
+    },
+    {
+      "title": "英國批准中國「超級大使館」規劃，多年爭議背後的四大看點",
+      "description": "中國駐英國大使館自2018年購入倫敦皇家鑄幣廠舊址以來爭議不斷，移英港人示威與美國介入傳聞使事情更見沸揚，但工黨政府最終決定批准改建。",
+      "link": "https://www.bbc.com/zhongwen/articles/ckg505rx8v4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-20T14:38:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckg505rx8v4o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7171/live/398fa630-f5fa-11f0-b385-5f48925de19a.jpg"
+    },
+    {
+      "title": "歐洲擬暫停批准對美貿易協議，全球市場拉響警報",
+      "description": "此舉源自於美國和歐盟之間再度緊張的關係，此前特朗普一直試圖吞併格陵蘭島。",
+      "link": "https://www.bbc.com/zhongwen/articles/cj9rypj3w3mo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-21T09:04:37.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cj9rypj3w3mo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2e68/live/0c0102d0-f61e-11f0-a76f-d76034ae9e17.jpg"
     },
     {
       "title": "喀布爾發生致命爆炸後，北京要求塔利班保護在阿中国公民",
@@ -82,28 +98,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/033e/live/d60df500-f679-11f0-a422-4ba8a094a8fa.jpg"
     },
     {
-      "title": "中國2025年經濟增長5%：「保五」背後，出口強撐，內需拖累",
-      "description": "經濟增長的動力幾乎完全切換到了第三產業（增加值增長5.4%）和外貿出口（全年出口額同比增長6.1%），這意味著中國經濟正以一種「出口強、內需弱」的方式完成「保五」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cwy1pwwdyewo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-19T09:24:18.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwy1pwwdyewo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/24ea/live/65e3ff70-f513-11f0-b5f7-49f0357294ff.jpg"
-    },
-    {
       "title": "加密貨幣罪犯如何常常「故伎重演」，從人們手中竊取7億美元",
       "description": "加密貨幣被竊的痛苦特別煎熬。因為所有交易皆記錄在稱為區塊鏈的數位帳本上，因此即使竊賊將你的錢轉入自家加密錢包，它仍清晰可見於網路世界。",
       "link": "https://www.bbc.com/zhongwen/articles/cn0kg06kg24o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-01-20T09:57:42.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn0kg06kg24o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8819/live/ce46a700-e570-11f0-aae2-2191c0e48a3b.jpg"
-    },
-    {
-      "title": "意大利時尚大師華倫天奴辭世 享壽93歲",
-      "description": "1932年5月出生於倫巴第的華倫天奴，以其華麗、奢華且雍容的系列作品聞名於世。",
-      "link": "https://www.bbc.com/zhongwen/articles/cdjnrjp42wyo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-20T03:57:47.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cdjnrjp42wyo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/192d/live/4a3c00f0-f55f-11f0-aafe-33121222cc9f.jpg"
     },
     {
       "title": "台灣、香港新生嬰兒再創新低，要如何扭轉「生育陷阱」？",
