@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-22T07:25:15.426Z",
+  "updated": "2026-01-22T07:40:57.350Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -52,6 +52,16 @@
       "board": "NBA",
       "publishTime": "2026/01/22 01:20",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "130",
+      "recommendCount": "158",
+      "title": "[倫本] 被戴綠帽的女友女王歸來～",
+      "link": "/bbs/AC_In/M.1769065326.A.053",
+      "author": "SuperSg",
+      "board": "AC_In",
+      "publishTime": "2026/01/22 07:02",
+      "imageUrl": "https://cache.pttweb.cc/imgur/hj9eBM6/s/9d74f3fd41f718ae6fba703c9d3dcfee"
     },
     {
       "recommendScore": "32",
@@ -191,16 +201,6 @@
       "author": "saber50116",
       "board": "Stock",
       "publishTime": "2026/01/21 08:20",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "42",
-      "recommendCount": "84",
-      "title": "[新聞] WCY-旅外戰力＋年輕世代齊發　日媒示警：台灣恐再爆冷門讓侍Japan翻船",
-      "link": "/bbs/Baseball/M.1769051137.A.72D",
-      "author": "jal809",
-      "board": "Baseball",
-      "publishTime": "2026/01/22 03:05",
       "imageUrl": ""
     }
   ]
