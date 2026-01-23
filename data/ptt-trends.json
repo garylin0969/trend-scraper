@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-23T05:11:30.138Z",
+  "updated": "2026-01-23T05:25:38.755Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -32,6 +32,16 @@
       "board": "NBA",
       "publishTime": "2026/01/23 03:36",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "132",
+      "recommendCount": "302",
+      "title": "Re: [新聞] 賴清德宣布新十大建設 將創造15兆元產值",
+      "link": "/bbs/Gossiping/M.1769140095.A.F42",
+      "author": "turbomons",
+      "board": "Gossiping",
+      "publishTime": "2026/01/23 03:48",
+      "imageUrl": "https://cache.pttweb.cc/imgur/oFd6gyF/s/486e92796719b34621ac8b2edd0d5f96"
     },
     {
       "recommendScore": "133",
@@ -154,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "75",
+      "recommendCount": "245",
+      "title": "[爆卦] 高市早苗解散眾議院",
+      "link": "/bbs/Gossiping/M.1769141330.A.E04",
+      "author": "Player02",
+      "board": "Gossiping",
+      "publishTime": "2026/01/23 04:08",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "125",
       "recommendCount": "216",
       "title": "[終末地] 綁paypal好像會有別人充值後扣你錢的BUG",
@@ -181,26 +201,6 @@
       "author": "bamama56",
       "board": "C_Chat",
       "publishTime": "2026/01/23 04:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "120",
-      "recommendCount": "213",
-      "title": "[閒聊] 終末地第一天能篩掉多少雜質？",
-      "link": "/bbs/C_Chat/M.1769071381.A.9B0",
-      "author": "chcony",
-      "board": "C_Chat",
-      "publishTime": "2026/01/22 08:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "71",
-      "recommendCount": "185",
-      "title": "[新聞] 失蹤F-16V黑盒子在2500公尺深海處　國防部打撈規劃曝",
-      "link": "/bbs/Gossiping/M.1769072006.A.126",
-      "author": "tan608287",
-      "board": "Gossiping",
-      "publishTime": "2026/01/22 08:53",
       "imageUrl": ""
     }
   ]
