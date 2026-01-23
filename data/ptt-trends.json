@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-23T10:24:03.498Z",
+  "updated": "2026-01-23T10:43:05.877Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "72",
+      "recommendCount": "248",
+      "title": "[花邊] 嘴綠：很多歐洲球員打球很髒並舉例熱火L",
+      "link": "/bbs/NBA/M.1769139414.A.D1B",
+      "author": "osmon54a7",
+      "board": "NBA",
+      "publishTime": "2026/01/23 03:36",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "132",
       "recommendCount": "302",
@@ -191,16 +201,6 @@
       "author": "omanorboyo",
       "board": "HatePolitics",
       "publishTime": "2026/01/23 04:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "55",
-      "recommendCount": "88",
-      "title": "[新聞]影片還原「新竹棒球場工程」 高虹安：廠商挖走整層原土回填廢棄物",
-      "link": "/bbs/Gossiping/M.1769135692.A.498",
-      "author": "coffee112",
-      "board": "Gossiping",
-      "publishTime": "2026/01/23 02:34",
       "imageUrl": ""
     }
   ]
