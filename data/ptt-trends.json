@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-23T01:23:13.193Z",
+  "updated": "2026-01-23T02:16:53.102Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "327",
+      "recommendCount": "819",
+      "title": "[爆卦] 消防員家屬發文了（？",
+      "link": "/bbs/Gossiping/M.1769067266.A.6B6",
+      "author": "TPPKoWenJe",
+      "board": "Gossiping",
+      "publishTime": "2026/01/22 07:34",
+      "imageUrl": "https://cache.pttweb.cc/imgur/UbLv3MP/s/0ac5eef845c94b7937634e36ad505f7c"
+    },
     {
       "recommendScore": "382",
       "recommendCount": "510",
@@ -42,16 +52,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/22 03:37",
       "imageUrl": "https://cache.pttweb.cc/imgur/bgf3h3a/s/17cb271d82c4abc702c7d05808806050"
-    },
-    {
-      "recommendScore": "153",
-      "recommendCount": "436",
-      "title": "[問卦] 說真的對岸旅遊體驗有比台灣好嗎？",
-      "link": "/bbs/Gossiping/M.1769047664.A.BEB",
-      "author": "app325",
-      "board": "Gossiping",
-      "publishTime": "2026/01/22 02:07",
-      "imageUrl": ""
     },
     {
       "recommendScore": "146",
@@ -114,14 +114,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "137",
-      "recommendCount": "238",
-      "title": "[閒聊] 不滿裁員與政策 育碧法國工會發起罷工",
-      "link": "/bbs/C_Chat/M.1769046848.A.CF5",
-      "author": "goodday5566",
-      "board": "C_Chat",
-      "publishTime": "2026/01/22 01:54",
-      "imageUrl": ""
+      "recommendScore": "143",
+      "recommendCount": "177",
+      "title": "[倫本] 被戴綠帽的女友女王歸來～",
+      "link": "/bbs/AC_In/M.1769065326.A.053",
+      "author": "SuperSg",
+      "board": "AC_In",
+      "publishTime": "2026/01/22 07:02",
+      "imageUrl": "https://cache.pttweb.cc/imgur/hj9eBM6/s/9d74f3fd41f718ae6fba703c9d3dcfee"
     },
     {
       "recommendScore": "25",
@@ -152,16 +152,6 @@
       "board": "C_Chat",
       "publishTime": "2026/01/22 03:18",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "130",
-      "recommendCount": "158",
-      "title": "[倫本] 被戴綠帽的女友女王歸來～",
-      "link": "/bbs/AC_In/M.1769065326.A.053",
-      "author": "SuperSg",
-      "board": "AC_In",
-      "publishTime": "2026/01/22 07:02",
-      "imageUrl": "https://cache.pttweb.cc/imgur/hj9eBM6/s/9d74f3fd41f718ae6fba703c9d3dcfee"
     },
     {
       "recommendScore": "137",
@@ -201,6 +191,16 @@
       "author": "jeff1013",
       "board": "NBA",
       "publishTime": "2026/01/22 04:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "70",
+      "recommendCount": "338",
+      "title": "Re: [新聞] 「不婚不生、快樂一生」百貨兒童區冷清",
+      "link": "/bbs/Gossiping/M.1769067820.A.FFB",
+      "author": "anshley",
+      "board": "Gossiping",
+      "publishTime": "2026/01/22 07:43",
       "imageUrl": ""
     }
   ]
