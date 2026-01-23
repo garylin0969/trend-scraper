@@ -1,18 +1,8 @@
 {
-  "updated": "2026-01-23T07:54:30.748Z",
+  "updated": "2026-01-23T08:08:39.054Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "234",
-      "recommendCount": "514",
-      "title": "[閒聊] 發現自己課金太多怎麼辦",
-      "link": "/bbs/C_Chat/M.1769069943.A.E05",
-      "author": "hololive45P",
-      "board": "C_Chat",
-      "publishTime": "2026/01/22 08:19",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "72",
       "recommendCount": "248",
@@ -201,6 +191,16 @@
       "author": "pupu20317",
       "board": "HatePolitics",
       "publishTime": "2026/01/23 03:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "82",
+      "recommendCount": "149",
+      "title": "Re: [標的] 大盤修正 空",
+      "link": "/bbs/Stock/M.1769071981.A.BB1",
+      "author": "mh0092001",
+      "board": "Stock",
+      "publishTime": "2026/01/22 08:53",
       "imageUrl": ""
     }
   ]
