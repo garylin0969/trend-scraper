@@ -1,10 +1,10 @@
 {
-  "updated": "2026-01-23T05:51:38.561Z",
+  "updated": "2026-01-23T06:23:53.397Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-23T05:51:33.000Z",
+    "lastBuildDate": "2026-01-23T06:23:47.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -16,6 +16,14 @@
       "pubDate": "2026-01-23T03:58:26.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn566ew319xo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a952/live/776cbe80-f7fc-11f0-b385-5f48925de19a.jpg"
+    },
+    {
+      "title": "分析：「首席和平締造者」特朗普讓聯合國靠邊站？",
+      "description": "這個由特朗普本人永久領導的委員會將會做什麼？難道這真的是建立一個「迷你聯合國」的企圖？",
+      "link": "https://www.bbc.com/zhongwen/articles/cgk886r5l4po/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-23T06:15:17.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cgk886r5l4po/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/331f/live/cec2ecb0-f818-11f0-a71b-e3a65c53ce30.jpg"
     },
     {
       "title": "香港南丫海難死因研訊裁決為何等了13年",
@@ -46,7 +54,7 @@
       "description": "在週四暫停六號反應堆運作後，東京電力表示，它「處於穩定狀態，外部沒有放射性影響」。",
       "link": "https://www.bbc.com/zhongwen/articles/cm24406p8j5o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-01-22T09:55:18.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm24406p8j5o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cm24406p8j5o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d3fa/live/4a8f5190-f692-11f0-a14f-53ca5d79e0d5.jpg"
     },
     {
@@ -104,14 +112,6 @@
       "pubDate": "2026-01-21T03:50:46.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c9wx7xllyezo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9675/live/acca8520-f677-11f0-a422-4ba8a094a8fa.jpg"
-    },
-    {
-      "title": "特朗普2.0一週年：台美關係的「晶片外交」實驗",
-      "description": "特朗普第二任期滿一年，台美關稅談判落定，雙方建立以半導體為主軸的「戰略經濟夥伴關係」，但在「美國優先」政策下，華府一方面推動史上最大軍售案，另一方面卻在經濟與政治上釋出矛盾訊號。",
-      "link": "https://www.bbc.com/zhongwen/articles/c5y2p1npgnno/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-20T06:10:16.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5y2p1npgnno/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/add4/live/68d85dd0-f5a3-11f0-82d0-57e3274ea383.jpg"
     },
     {
       "title": "香港「粵車南下」政策有何利弊？大陸車為何引發港人擔憂？",
@@ -202,6 +202,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7171/live/398fa630-f5fa-11f0-b385-5f48925de19a.jpg"
     },
     {
+      "title": "特朗普2.0一週年：台美關係的「晶片外交」實驗",
+      "description": "特朗普第二任期滿一年，台美關稅談判落定，雙方建立以半導體為主軸的「戰略經濟夥伴關係」，但在「美國優先」政策下，華府一方面推動史上最大軍售案，另一方面卻在經濟與政治上釋出矛盾訊號。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5y2p1npgnno/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-20T06:10:16.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5y2p1npgnno/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/add4/live/68d85dd0-f5a3-11f0-82d0-57e3274ea383.jpg"
+    },
+    {
       "title": "台灣、香港新生嬰兒再創新低，要如何扭轉「生育陷阱」？",
       "description": "香港、台灣政府均祭出生育現金獎勵，但反映生育意願的總生育率，並沒有因派錢止跌回升。分析指出，總生育率之低，已逼近「生育陷阱」（fertility trap）水平，即單靠自身政策無法扭轉生育率。",
       "link": "https://www.bbc.com/zhongwen/articles/c62ne3y1nx9o/trad?at_medium=RSS&at_campaign=rss",
@@ -224,14 +232,6 @@
       "pubDate": "2026-01-16T05:52:56.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ce9y3n9pzrzo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c4ce/live/93b17930-f281-11f0-b385-5f48925de19a.jpg"
-    },
-    {
-      "title": "中國裁判文書網：法官隱名、文書上載量驟減與司法透明倒退的討論",
-      "description": "中國裁判文書網有文書隱去法官姓名及案件編號，官方稱錯誤隱名屬不當，已要求整改。BBC中文講解文書網的背景及近年變動，分析事件爲何標誌司法透明的倒退。",
-      "link": "https://www.bbc.com/zhongwen/articles/c70lx92l8rlo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-16T01:32:12.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c70lx92l8rlo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4440/live/e5bdc500-f275-11f0-8a12-db5715931be3.jpg"
     },
     {
       "title": "中國社媒出現的「反清復明」爭議：有關中國、中國人與「1644史觀」的討論",
