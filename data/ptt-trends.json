@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-23T07:13:48.161Z",
+  "updated": "2026-01-23T07:31:25.971Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "327",
+      "recommendCount": "819",
+      "title": "[爆卦] 消防員家屬發文了（？",
+      "link": "/bbs/Gossiping/M.1769067266.A.6B6",
+      "author": "TPPKoWenJe",
+      "board": "Gossiping",
+      "publishTime": "2026/01/22 07:34",
+      "imageUrl": "https://cache.pttweb.cc/imgur/UbLv3MP/s/0ac5eef845c94b7937634e36ad505f7c"
+    },
     {
       "recommendScore": "234",
       "recommendCount": "514",
@@ -11,16 +21,6 @@
       "author": "hololive45P",
       "board": "C_Chat",
       "publishTime": "2026/01/22 08:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "706",
-      "recommendCount": "1406",
-      "title": "[電競] 2026 LCK Cup W2D2",
-      "link": "/bbs/LoL/M.1769067002.A.579",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/01/22 07:30",
       "imageUrl": ""
     },
     {
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "46",
-      "recommendCount": "348",
-      "title": "[新聞]  AIT挺1.25兆軍購 羅智強：國民黨不反對軍購 是要賴總統給交代",
-      "link": "/bbs/HatePolitics/M.1769066059.A.F60",
-      "author": "Pietro",
-      "board": "HatePolitics",
-      "publishTime": "2026/01/22 07:14",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "84",
       "recommendCount": "161",
       "title": "[新聞] 用超派鐵拳「揍Toyz」頭破大洞！超哥「最終判決結果出爐」笑了",
@@ -202,6 +192,16 @@
       "board": "C_Chat",
       "publishTime": "2026/01/23 03:44",
       "imageUrl": "https://cache.pttweb.cc/imgur/pAMw3js/s/5f4264c3c504be64746e3d33fc2dc9c7"
+    },
+    {
+      "recommendScore": "56",
+      "recommendCount": "125",
+      "title": "[花邊] LBJ:如果你私下認識我 就會知道我的為人",
+      "link": "/bbs/NBA/M.1769150318.A.D62",
+      "author": "shaaan",
+      "board": "NBA",
+      "publishTime": "2026/01/23 06:38",
+      "imageUrl": ""
     }
   ]
 }
