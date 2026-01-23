@@ -1,7 +1,7 @@
 {
-  "updated": "2026-01-23T17:57:09.980Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2026-01-23T18:10:44.366Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "72",
@@ -191,6 +191,16 @@
       "author": "Calcifer",
       "board": "Gossiping",
       "publishTime": "2026/01/23 09:35",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "69",
+      "recommendCount": "117",
+      "title": "[問卦] 三立駕駛：左轉時轉速突然提高",
+      "link": "/bbs/Gossiping/M.1769157710.A.044",
+      "author": "Skyblueway",
+      "board": "Gossiping",
+      "publishTime": "2026/01/23 08:41",
       "imageUrl": ""
     }
   ]
