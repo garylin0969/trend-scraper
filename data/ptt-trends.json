@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-23T03:02:02.699Z",
+  "updated": "2026-01-23T03:46:22.466Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "327",
+      "recommendCount": "819",
+      "title": "[爆卦] 消防員家屬發文了（？",
+      "link": "/bbs/Gossiping/M.1769067266.A.6B6",
+      "author": "TPPKoWenJe",
+      "board": "Gossiping",
+      "publishTime": "2026/01/22 07:34",
+      "imageUrl": "https://cache.pttweb.cc/imgur/UbLv3MP/s/0ac5eef845c94b7937634e36ad505f7c"
+    },
     {
       "recommendScore": "234",
       "recommendCount": "514",
@@ -22,16 +32,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/22 03:55",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "158",
-      "recommendCount": "327",
-      "title": "[問卦] 房板說房價要崩盤了欸！！",
-      "link": "/bbs/Gossiping/M.1769053032.A.C7A",
-      "author": "onlygoog",
-      "board": "Gossiping",
-      "publishTime": "2026/01/22 03:37",
-      "imageUrl": "https://cache.pttweb.cc/imgur/bgf3h3a/s/17cb271d82c4abc702c7d05808806050"
     },
     {
       "recommendScore": "706",
@@ -64,16 +64,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ckkSjyC/s/876c7322c00b18e9fd36fc52559cccff"
     },
     {
-      "recommendScore": "34",
-      "recommendCount": "204",
-      "title": "[新聞] 三重逆子37刀弒雙親！廢死聯盟轟「終身監禁不得假釋」：操弄情緒",
-      "link": "/bbs/Gossiping/M.1769053514.A.7E5",
-      "author": "luxuryer",
-      "board": "Gossiping",
-      "publishTime": "2026/01/22 03:45",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "143",
       "recommendCount": "177",
       "title": "[倫本] 被戴綠帽的女友女王歸來～",
@@ -91,36 +81,6 @@
       "author": "powderzhon",
       "board": "Gossiping",
       "publishTime": "2026/01/22 04:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "69",
-      "recommendCount": "288",
-      "title": "[問卦] 去日本窮遊的都在想什麼",
-      "link": "/bbs/Gossiping/M.1769050736.A.56E",
-      "author": "xz4979265",
-      "board": "Gossiping",
-      "publishTime": "2026/01/22 02:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "120",
-      "recommendCount": "231",
-      "title": "[新聞] Epic執行長:Steam收益只變遊艇與鑽石牙",
-      "link": "/bbs/C_Chat/M.1769051892.A.396",
-      "author": "alinwang",
-      "board": "C_Chat",
-      "publishTime": "2026/01/22 03:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "137",
-      "recommendCount": "182",
-      "title": "[新聞] 男神畫家怒控「Cosplay遮眼阿姨」性騷她反告6罪求償200萬",
-      "link": "/bbs/C_Chat/M.1769052556.A.F4A",
-      "author": "GTES",
-      "board": "C_Chat",
-      "publishTime": "2026/01/22 03:29",
       "imageUrl": ""
     },
     {
@@ -201,6 +161,46 @@
       "author": "Vicky1016",
       "board": "Gossiping",
       "publishTime": "2026/01/22 06:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "135",
+      "recommendCount": "272",
+      "title": "[終末] 第一波營收出爐",
+      "link": "/bbs/C_Chat/M.1769072630.A.836",
+      "author": "SaberMyWifi",
+      "board": "C_Chat",
+      "publishTime": "2026/01/22 09:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "97",
+      "recommendCount": "179",
+      "title": "[情報] 0122 上市外資買賣超排行",
+      "link": "/bbs/Stock/M.1769069559.A.69E",
+      "author": "saber50116",
+      "board": "Stock",
+      "publishTime": "2026/01/22 08:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "92",
+      "recommendCount": "211",
+      "title": "[閒聊] 異世界廁紙都把魔法想得太簡單了",
+      "link": "/bbs/C_Chat/M.1769057272.A.1C8",
+      "author": "callhek",
+      "board": "C_Chat",
+      "publishTime": "2026/01/22 04:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "125",
+      "recommendCount": "216",
+      "title": "[終末地] 綁paypal好像會有別人充值後扣你錢的BUG",
+      "link": "/bbs/C_Chat/M.1769060220.A.DBE",
+      "author": "ken30130",
+      "board": "C_Chat",
+      "publishTime": "2026/01/22 05:37",
       "imageUrl": ""
     }
   ]
