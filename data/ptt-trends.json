@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-23T22:41:32.859Z",
+  "updated": "2026-01-23T22:49:56.667Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "251",
+      "recommendCount": "431",
+      "title": "[新聞] 最新／三立SNG車撞進銀行內！6名人士受傷",
+      "link": "/bbs/Gossiping/M.1769153602.A.980",
+      "author": "palindromes",
+      "board": "Gossiping",
+      "publishTime": "2026/01/23 07:33",
+      "imageUrl": "https://cache.pttweb.cc/imgur/dyAuDQj/s/30a4f35d626637085f737a2bb09d3491"
+    },
     {
       "recommendScore": "72",
       "recommendCount": "248",
@@ -191,16 +201,6 @@
       "author": "Calcifer",
       "board": "Gossiping",
       "publishTime": "2026/01/23 09:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "69",
-      "recommendCount": "117",
-      "title": "[問卦] 三立駕駛：左轉時轉速突然提高",
-      "link": "/bbs/Gossiping/M.1769157710.A.044",
-      "author": "Skyblueway",
-      "board": "Gossiping",
-      "publishTime": "2026/01/23 08:41",
       "imageUrl": ""
     }
   ]
