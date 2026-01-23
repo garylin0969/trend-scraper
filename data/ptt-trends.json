@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-23T04:11:39.857Z",
+  "updated": "2026-01-23T04:31:35.382Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,16 +34,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "110",
-      "recommendCount": "282",
-      "title": "[新聞] 不演了！豐田「黑科技」震撼全球：5分鐘閃充、10年不壞固態電池問世，日",
-      "link": "/bbs/Stock/M.1769056123.A.BAE",
-      "author": "cityhunter04",
-      "board": "Stock",
-      "publishTime": "2026/01/22 04:28",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "233",
       "recommendCount": "508",
       "title": "[終末地] 什麼都沒買被扣了5000美元",
@@ -72,16 +62,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/22 04:51",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "56",
-      "recommendCount": "220",
-      "title": "[討論] LBJ會有退休巡迴嗎？",
-      "link": "/bbs/NBA/M.1769055571.A.1E1",
-      "author": "Audrey23",
-      "board": "NBA",
-      "publishTime": "2026/01/22 04:19",
-      "imageUrl": "https://cache.pttweb.cc/imgur/6GhdvjZ/s/77a290d2752f9b0e68d57b40154fbbe3"
     },
     {
       "recommendScore": "110",
@@ -201,6 +181,26 @@
       "author": "G4321",
       "board": "Gossiping",
       "publishTime": "2026/01/22 06:23",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "120",
+      "recommendCount": "213",
+      "title": "[閒聊] 終末地第一天能篩掉多少雜質？",
+      "link": "/bbs/C_Chat/M.1769071381.A.9B0",
+      "author": "chcony",
+      "board": "C_Chat",
+      "publishTime": "2026/01/22 08:43",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "71",
+      "recommendCount": "185",
+      "title": "[新聞] 失蹤F-16V黑盒子在2500公尺深海處　國防部打撈規劃曝",
+      "link": "/bbs/Gossiping/M.1769072006.A.126",
+      "author": "tan608287",
+      "board": "Gossiping",
+      "publishTime": "2026/01/22 08:53",
       "imageUrl": ""
     }
   ]
