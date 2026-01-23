@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-23T11:45:50.715Z",
+  "updated": "2026-01-23T11:54:26.428Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "72",
+      "recommendCount": "248",
+      "title": "[花邊] 嘴綠：很多歐洲球員打球很髒並舉例熱火L",
+      "link": "/bbs/NBA/M.1769139414.A.D1B",
+      "author": "osmon54a7",
+      "board": "NBA",
+      "publishTime": "2026/01/23 03:36",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "132",
       "recommendCount": "302",
@@ -191,16 +201,6 @@
       "author": "diefishfish",
       "board": "Stock",
       "publishTime": "2026/01/23 03:59",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "31",
-      "recommendCount": "163",
-      "title": "[討論] 國民黨團提「3對3電視辯論」逕付二讀",
-      "link": "/bbs/HatePolitics/M.1769140375.A.0C5",
-      "author": "Rrrxddd",
-      "board": "HatePolitics",
-      "publishTime": "2026/01/23 03:52",
       "imageUrl": ""
     }
   ]
