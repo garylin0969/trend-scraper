@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-23T14:49:23.624Z",
+  "updated": "2026-01-23T14:59:14.722Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "251",
+      "recommendCount": "431",
+      "title": "[新聞] 最新／三立SNG車撞進銀行內！6名人士受傷",
+      "link": "/bbs/Gossiping/M.1769153602.A.980",
+      "author": "palindromes",
+      "board": "Gossiping",
+      "publishTime": "2026/01/23 07:33",
+      "imageUrl": "https://cache.pttweb.cc/imgur/dyAuDQj/s/30a4f35d626637085f737a2bb09d3491"
+    },
     {
       "recommendScore": "72",
       "recommendCount": "248",
@@ -94,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "604",
+      "recommendCount": "1497",
+      "title": "[鳴潮] 3.1版本前瞻特別通訊 實況討論串",
+      "link": "/bbs/C_Chat/M.1769164877.A.8F9",
+      "author": "tomrun168",
+      "board": "C_Chat",
+      "publishTime": "2026/01/23 10:41",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "80",
       "recommendCount": "145",
       "title": "[新聞] 快訊／三立採訪車撞進彰化銀行！「現場至少釀8傷」送醫搶救中",
@@ -101,6 +121,16 @@
       "author": "Waitaha",
       "board": "Gossiping",
       "publishTime": "2026/01/23 07:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "77",
+      "recommendCount": "144",
+      "title": "[問卦] 大便都是血怎摸辦",
+      "link": "/bbs/Gossiping/M.1769164975.A.31B",
+      "author": "epilepcy",
+      "board": "Gossiping",
+      "publishTime": "2026/01/23 10:42",
       "imageUrl": ""
     },
     {
@@ -171,36 +201,6 @@
       "author": "seiya2000",
       "board": "Gossiping",
       "publishTime": "2026/01/23 07:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "65",
-      "recommendCount": "126",
-      "title": "[新聞] 三立採訪車衝撞銀行！2傷者送台大醫院",
-      "link": "/bbs/Gossiping/M.1769160904.A.8B6",
-      "author": "Calcifer",
-      "board": "Gossiping",
-      "publishTime": "2026/01/23 09:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "69",
-      "recommendCount": "117",
-      "title": "[問卦] 三立駕駛：左轉時轉速突然提高",
-      "link": "/bbs/Gossiping/M.1769157710.A.044",
-      "author": "Skyblueway",
-      "board": "Gossiping",
-      "publishTime": "2026/01/23 08:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "84",
-      "recommendCount": "161",
-      "title": "[新聞] 用超派鐵拳「揍Toyz」頭破大洞！超哥「最終判決結果出爐」笑了",
-      "link": "/bbs/C_Chat/M.1769141199.A.FD8",
-      "author": "youhow0418",
-      "board": "C_Chat",
-      "publishTime": "2026/01/23 04:06",
       "imageUrl": ""
     }
   ]
