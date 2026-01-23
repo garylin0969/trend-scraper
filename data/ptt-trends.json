@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-23T08:21:50.276Z",
+  "updated": "2026-01-23T08:44:16.102Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "72",
+      "recommendCount": "248",
+      "title": "[花邊] 嘴綠：很多歐洲球員打球很髒並舉例熱火L",
+      "link": "/bbs/NBA/M.1769139414.A.D1B",
+      "author": "osmon54a7",
+      "board": "NBA",
+      "publishTime": "2026/01/23 03:36",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "132",
       "recommendCount": "302",
@@ -44,16 +54,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "78",
-      "recommendCount": "158",
-      "title": "[問卦] 消防署：近10年消防員死亡31位 代表?什",
-      "link": "/bbs/Gossiping/M.1769071095.A.562",
-      "author": "Tsuzichen",
-      "board": "Gossiping",
-      "publishTime": "2026/01/22 08:38",
-      "imageUrl": "https://cache.pttweb.cc/imgur/HH59gD8/s/c37052878ee6dc9f3e444b573883f21c"
-    },
-    {
       "recommendScore": "135",
       "recommendCount": "272",
       "title": "[終末] 第一波營收出爐",
@@ -81,16 +81,6 @@
       "author": "bamama56",
       "board": "C_Chat",
       "publishTime": "2026/01/23 04:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "120",
-      "recommendCount": "213",
-      "title": "[閒聊] 終末地第一天能篩掉多少雜質？",
-      "link": "/bbs/C_Chat/M.1769071381.A.9B0",
-      "author": "chcony",
-      "board": "C_Chat",
-      "publishTime": "2026/01/22 08:43",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "taddy0540",
       "board": "Gossiping",
       "publishTime": "2026/01/23 03:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "51",
+      "recommendCount": "102",
+      "title": "[新聞] 散戶全進場！記憶體最好賺已過…郭哲榮示警：籌碼過熱太亂獲利賣壓將至",
+      "link": "/bbs/Stock/M.1769140745.A.15D",
+      "author": "diefishfish",
+      "board": "Stock",
+      "publishTime": "2026/01/23 03:59",
       "imageUrl": ""
     }
   ]
