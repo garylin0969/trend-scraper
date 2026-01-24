@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-24T08:48:10.933Z",
+  "updated": "2026-01-24T08:57:12.827Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -61,16 +61,6 @@
       "author": "Calcifer",
       "board": "Gossiping",
       "publishTime": "2026/01/23 09:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "69",
-      "recommendCount": "117",
-      "title": "[問卦] 三立駕駛：左轉時轉速突然提高",
-      "link": "/bbs/Gossiping/M.1769157710.A.044",
-      "author": "Skyblueway",
-      "board": "Gossiping",
-      "publishTime": "2026/01/23 08:41",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "pollacat",
       "board": "C_Chat",
       "publishTime": "2026/01/23 09:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "62",
+      "recommendCount": "137",
+      "title": "[閒聊] 手遊存石難易度Tier表",
+      "link": "/bbs/C_Chat/M.1769172280.A.C46",
+      "author": "guogu",
+      "board": "C_Chat",
+      "publishTime": "2026/01/23 12:44",
       "imageUrl": ""
     }
   ]
