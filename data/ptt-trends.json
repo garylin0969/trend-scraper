@@ -1,18 +1,8 @@
 {
-  "updated": "2026-01-24T22:41:05.056Z",
+  "updated": "2026-01-24T22:49:31.163Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "99",
-      "recommendCount": "348",
-      "title": "[請益]  關於信貸買股票.老婆破口大罵",
-      "link": "/bbs/Stock/M.1769265862.A.0D3",
-      "author": "gundown",
-      "board": "Stock",
-      "publishTime": "2026/01/24 14:44",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "76",
       "recommendCount": "274",
@@ -201,6 +191,16 @@
       "author": "attacksoil",
       "board": "C_Chat",
       "publishTime": "2026/01/24 12:16",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "30",
+      "recommendCount": "76",
+      "title": "[問卦] 辛飛官就這樣不見了嗎",
+      "link": "/bbs/Gossiping/M.1769256141.A.BE2",
+      "author": "hmenri",
+      "board": "Gossiping",
+      "publishTime": "2026/01/24 12:02",
       "imageUrl": ""
     }
   ]
