@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-24T04:02:36.907Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2026-01-24T04:22:36.742Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "251",
+      "recommendCount": "431",
+      "title": "[新聞] 最新／三立SNG車撞進銀行內！6名人士受傷",
+      "link": "/bbs/Gossiping/M.1769153602.A.980",
+      "author": "palindromes",
+      "board": "Gossiping",
+      "publishTime": "2026/01/23 07:33",
+      "imageUrl": "https://cache.pttweb.cc/imgur/dyAuDQj/s/30a4f35d626637085f737a2bb09d3491"
+    },
     {
       "recommendScore": "157",
       "recommendCount": "243",
@@ -71,16 +81,6 @@
       "author": "epilepcy",
       "board": "Gossiping",
       "publishTime": "2026/01/23 10:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "75",
-      "recommendCount": "245",
-      "title": "[爆卦] 高市早苗解散眾議院",
-      "link": "/bbs/Gossiping/M.1769141330.A.E04",
-      "author": "Player02",
-      "board": "Gossiping",
-      "publishTime": "2026/01/23 04:08",
       "imageUrl": ""
     },
     {
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "84",
-      "recommendCount": "161",
-      "title": "[新聞] 用超派鐵拳「揍Toyz」頭破大洞！超哥「最終判決結果出爐」笑了",
-      "link": "/bbs/C_Chat/M.1769141199.A.FD8",
-      "author": "youhow0418",
-      "board": "C_Chat",
-      "publishTime": "2026/01/23 04:06",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "80",
       "recommendCount": "164",
       "title": "[心得] 力積電又讓我身心俱疲了 噢",
@@ -191,6 +181,26 @@
       "author": "qazxc1156892",
       "board": "Stock",
       "publishTime": "2026/01/23 07:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "56",
+      "recommendCount": "125",
+      "title": "[花邊] LBJ:如果你私下認識我 就會知道我的為人",
+      "link": "/bbs/NBA/M.1769150318.A.D62",
+      "author": "shaaan",
+      "board": "NBA",
+      "publishTime": "2026/01/23 06:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "66",
+      "recommendCount": "137",
+      "title": "[花邊] Tyronn Lue賽後記者會發飆",
+      "link": "/bbs/NBA/M.1769148411.A.3FD",
+      "author": "EZ78",
+      "board": "NBA",
+      "publishTime": "2026/01/23 06:06",
       "imageUrl": ""
     }
   ]
