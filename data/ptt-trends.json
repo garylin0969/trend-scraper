@@ -1,18 +1,8 @@
 {
-  "updated": "2026-01-24T13:57:15.270Z",
+  "updated": "2026-01-24T14:07:03.194Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "405",
-      "recommendCount": "837",
-      "title": "[電競] 2026 LCK Cup W2D4",
-      "link": "/bbs/LoL/M.1769239946.A.CA5",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/01/24 07:32",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "110",
       "recommendCount": "130",
@@ -201,6 +191,16 @@
       "author": "loechen",
       "board": "Gossiping",
       "publishTime": "2026/01/24 10:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "26",
+      "recommendCount": "47",
+      "title": "[BOX ] Nuggets 102:100 Bucks",
+      "link": "/bbs/NBA/M.1769231582.A.BC4",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2026/01/24 05:13",
       "imageUrl": ""
     }
   ]
