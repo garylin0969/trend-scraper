@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-24T07:30:03.736Z",
+  "updated": "2026-01-24T07:38:48.681Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,16 +24,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "356",
-      "recommendCount": "571",
-      "title": "[電競] 2026 LCK Cup W2D3",
-      "link": "/bbs/LoL/M.1769153403.A.4F2",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/01/23 07:30",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "120",
       "recommendCount": "184",
       "title": "[情報] 0123 上市外資買賣超排行",
@@ -51,16 +41,6 @@
       "author": "tomrun168",
       "board": "C_Chat",
       "publishTime": "2026/01/23 10:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "80",
-      "recommendCount": "145",
-      "title": "[新聞] 快訊／三立採訪車撞進彰化銀行！「現場至少釀8傷」送醫搶救中",
-      "link": "/bbs/Gossiping/M.1769153886.A.B34",
-      "author": "Waitaha",
-      "board": "Gossiping",
-      "publishTime": "2026/01/23 07:38",
       "imageUrl": ""
     },
     {
@@ -201,6 +181,26 @@
       "author": "keel90135",
       "board": "LoL",
       "publishTime": "2026/01/23 12:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "79",
+      "recommendCount": "165",
+      "title": "[問題] T1管理層有多猛？",
+      "link": "/bbs/LoL/M.1769162844.A.6D1",
+      "author": "ll33457791",
+      "board": "LoL",
+      "publishTime": "2026/01/23 10:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "63",
+      "recommendCount": "187",
+      "title": "[新聞] NBA／唐西奇太愛自幹？湖人主帥雷迪克賽後點名批：他給相信傳球",
+      "link": "/bbs/NBA/M.1769162302.A.3EC",
+      "author": "KC90",
+      "board": "NBA",
+      "publishTime": "2026/01/23 09:58",
       "imageUrl": ""
     }
   ]
