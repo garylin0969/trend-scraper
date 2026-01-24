@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-24T08:57:12.827Z",
+  "updated": "2026-01-24T09:07:13.568Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "154",
+      "recommendCount": "180",
+      "title": "Re: [閒聊] 脆：宅男想認識會COS漂亮大姊姊",
+      "link": "/bbs/C_Chat/M.1769160653.A.E59",
+      "author": "yukiyg",
+      "board": "C_Chat",
+      "publishTime": "2026/01/23 09:30",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "604",
       "recommendCount": "1497",
@@ -21,6 +31,16 @@
       "author": "epilepcy",
       "board": "Gossiping",
       "publishTime": "2026/01/23 10:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "110",
+      "recommendCount": "130",
+      "title": "[問卦]現在年輕人都不看金庸小說了嗎？發錢3000P!",
+      "link": "/bbs/Gossiping/M.1769242940.A.E1A",
+      "author": "XDGEE",
+      "board": "Gossiping",
+      "publishTime": "2026/01/24 08:22",
       "imageUrl": ""
     },
     {
@@ -134,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-7",
-      "recommendCount": "130",
-      "title": "[新聞] 重申「台灣模式」非投資5000億　卓榮泰：有些立委只會加法、不會算數",
-      "link": "/bbs/Gossiping/M.1769159164.A.FD7",
-      "author": "jal99",
-      "board": "Gossiping",
-      "publishTime": "2026/01/23 09:06",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "26",
       "recommendCount": "99",
       "title": "[新聞] 採訪車撞銀行釀10傷！三立電視完整聲明曝：內部即刻成立專案小組",
@@ -191,16 +201,6 @@
       "author": "pollacat",
       "board": "C_Chat",
       "publishTime": "2026/01/23 09:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "62",
-      "recommendCount": "137",
-      "title": "[閒聊] 手遊存石難易度Tier表",
-      "link": "/bbs/C_Chat/M.1769172280.A.C46",
-      "author": "guogu",
-      "board": "C_Chat",
-      "publishTime": "2026/01/23 12:44",
       "imageUrl": ""
     }
   ]
