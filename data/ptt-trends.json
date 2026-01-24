@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-24T14:18:20.646Z",
+  "updated": "2026-01-24T14:31:39.575Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "36",
-      "recommendCount": "177",
-      "title": "[閒聊] 對岸行李箱CP值也太高",
-      "link": "/bbs/BaseballXXXX/M.1769178670.A.45C",
-      "author": "xz4979265",
-      "board": "BaseballXXXX",
-      "publishTime": "2026/01/23 14:31",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "29",
       "recommendCount": "45",
       "title": "[問題] T1是詐騙公司嗎？",
@@ -201,6 +191,16 @@
       "author": "jason911152",
       "board": "NBA",
       "publishTime": "2026/01/24 05:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "23",
+      "recommendCount": "72",
+      "title": "[新聞] 湖人前老闆與LeBron爭議　球星好友批：沒他就沒Doncic",
+      "link": "/bbs/NBA/M.1769255742.A.C0A",
+      "author": "Kai877",
+      "board": "NBA",
+      "publishTime": "2026/01/24 11:55",
       "imageUrl": ""
     }
   ]
