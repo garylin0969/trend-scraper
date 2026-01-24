@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-24T14:53:44.418Z",
+  "updated": "2026-01-24T15:05:36.320Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "405",
+      "recommendCount": "837",
+      "title": "[電競] 2026 LCK Cup W2D4",
+      "link": "/bbs/LoL/M.1769239946.A.CA5",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/01/24 07:32",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "110",
       "recommendCount": "130",
@@ -44,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "41",
+      "recommendCount": "88",
+      "title": "[新聞] 富邦金接班人移民美國 蔡明興親揭移民原因：孫子是天才兒童",
+      "link": "/bbs/Gossiping/M.1769261001.A.8EA",
+      "author": "iami1002",
+      "board": "Gossiping",
+      "publishTime": "2026/01/24 13:23",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "63",
       "recommendCount": "103",
       "title": "[推投] 是否在意遊戲中性別改成類型1/2呈現",
@@ -51,6 +71,16 @@
       "author": "ririkasos",
       "board": "C_Chat",
       "publishTime": "2026/01/24 12:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "44",
+      "recommendCount": "72",
+      "title": "[新聞] 願捨棄美國籍入伍！三星李在鎔長子「2月赴泰」　參加東南亞軍演",
+      "link": "/bbs/Gossiping/M.1769261939.A.EB2",
+      "author": "CREA",
+      "board": "Gossiping",
+      "publishTime": "2026/01/24 13:38",
       "imageUrl": ""
     },
     {
@@ -154,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "27",
+      "recommendCount": "62",
+      "title": "[爆卦] 塔利班新法：宗教學者、貴族、中產、下層",
+      "link": "/bbs/Gossiping/M.1769260240.A.114",
+      "author": "bluehttp",
+      "board": "Gossiping",
+      "publishTime": "2026/01/24 13:10",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Js6DZvz/s/4bffc50801f642ab91e8915ba6ea6b4b"
+    },
+    {
       "recommendScore": "29",
       "recommendCount": "45",
       "title": "[問題] T1是詐騙公司嗎？",
@@ -161,46 +201,6 @@
       "author": "ll33457791",
       "board": "LoL",
       "publishTime": "2026/01/24 09:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "27",
-      "recommendCount": "83",
-      "title": "[閒聊] 《噬血代碼2》陷和諧爭議!性別變體型、浴",
-      "link": "/bbs/C_Chat/M.1769254662.A.6B6",
-      "author": "betweenus020",
-      "board": "C_Chat",
-      "publishTime": "2026/01/24 11:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "10",
-      "recommendCount": "46",
-      "title": "[新聞] 確定闖紅燈！三立採訪車撞彰化銀行釀10傷 仍有4人在醫院治療",
-      "link": "/bbs/Gossiping/M.1769249452.A.9AB",
-      "author": "loechen",
-      "board": "Gossiping",
-      "publishTime": "2026/01/24 10:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "26",
-      "recommendCount": "47",
-      "title": "[BOX ] Nuggets 102:100 Bucks",
-      "link": "/bbs/NBA/M.1769231582.A.BC4",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2026/01/24 05:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "23",
-      "recommendCount": "72",
-      "title": "[新聞] 湖人前老闆與LeBron爭議　球星好友批：沒他就沒Doncic",
-      "link": "/bbs/NBA/M.1769255742.A.C0A",
-      "author": "Kai877",
-      "board": "NBA",
-      "publishTime": "2026/01/24 11:55",
       "imageUrl": ""
     }
   ]
