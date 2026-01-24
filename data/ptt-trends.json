@@ -1,18 +1,8 @@
 {
-  "updated": "2026-01-24T07:18:09.088Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2026-01-24T07:30:03.736Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "251",
-      "recommendCount": "431",
-      "title": "[新聞] 最新／三立SNG車撞進銀行內！6名人士受傷",
-      "link": "/bbs/Gossiping/M.1769153602.A.980",
-      "author": "palindromes",
-      "board": "Gossiping",
-      "publishTime": "2026/01/23 07:33",
-      "imageUrl": "https://cache.pttweb.cc/imgur/dyAuDQj/s/30a4f35d626637085f737a2bb09d3491"
-    },
     {
       "recommendScore": "157",
       "recommendCount": "243",
@@ -192,6 +182,26 @@
       "board": "Gossiping",
       "publishTime": "2026/01/23 09:34",
       "imageUrl": "https://cache.pttweb.cc/imgur/uT07rAh/s/699d9aa304dd1d6a4983fbc095ee6917"
+    },
+    {
+      "recommendScore": "65",
+      "recommendCount": "100",
+      "title": "[問卦] 撞爆銀行有什麼比較好的說法",
+      "link": "/bbs/Gossiping/M.1769160396.A.017",
+      "author": "htclikeshit",
+      "board": "Gossiping",
+      "publishTime": "2026/01/23 09:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "76",
+      "recommendCount": "100",
+      "title": "[閒聊] Doran：奪冠之後我每天都過得很快樂！",
+      "link": "/bbs/LoL/M.1769170724.A.22C",
+      "author": "keel90135",
+      "board": "LoL",
+      "publishTime": "2026/01/23 12:18",
+      "imageUrl": ""
     }
   ]
 }
