@@ -1,18 +1,8 @@
 {
-  "updated": "2026-01-24T15:55:27.764Z",
+  "updated": "2026-01-24T16:06:42.603Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "405",
-      "recommendCount": "837",
-      "title": "[電競] 2026 LCK Cup W2D4",
-      "link": "/bbs/LoL/M.1769239946.A.CA5",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/01/24 07:32",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "110",
       "recommendCount": "130",
@@ -201,6 +191,16 @@
       "author": "betweenus020",
       "board": "C_Chat",
       "publishTime": "2026/01/24 11:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "10",
+      "recommendCount": "46",
+      "title": "[新聞] 確定闖紅燈！三立採訪車撞彰化銀行釀10傷 仍有4人在醫院治療",
+      "link": "/bbs/Gossiping/M.1769249452.A.9AB",
+      "author": "loechen",
+      "board": "Gossiping",
+      "publishTime": "2026/01/24 10:10",
       "imageUrl": ""
     }
   ]
