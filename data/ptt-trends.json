@@ -1,28 +1,8 @@
 {
-  "updated": "2026-01-24T09:45:05.689Z",
+  "updated": "2026-01-24T09:53:31.291Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "154",
-      "recommendCount": "180",
-      "title": "Re: [閒聊] 脆：宅男想認識會COS漂亮大姊姊",
-      "link": "/bbs/C_Chat/M.1769160653.A.E59",
-      "author": "yukiyg",
-      "board": "C_Chat",
-      "publishTime": "2026/01/23 09:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "604",
-      "recommendCount": "1497",
-      "title": "[鳴潮] 3.1版本前瞻特別通訊 實況討論串",
-      "link": "/bbs/C_Chat/M.1769164877.A.8F9",
-      "author": "tomrun168",
-      "board": "C_Chat",
-      "publishTime": "2026/01/23 10:41",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "77",
       "recommendCount": "144",
@@ -44,46 +24,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "103",
-      "recommendCount": "211",
-      "title": "[請益] 用Gemini詢問股票",
-      "link": "/bbs/Stock/M.1769160909.A.4BF",
-      "author": "beeet",
-      "board": "Stock",
-      "publishTime": "2026/01/23 09:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "109",
-      "recommendCount": "121",
-      "title": "[F/GO] 新卡池太歐發錢",
-      "link": "/bbs/C_Chat/M.1769161215.A.847",
-      "author": "hanaya",
-      "board": "C_Chat",
-      "publishTime": "2026/01/23 09:40",
-      "imageUrl": "https://cache.pttweb.cc/imgur/eQ7zc0g/s/26f48657df6a1530e3d88cb56705b061"
-    },
-    {
-      "recommendScore": "72",
-      "recommendCount": "149",
-      "title": "[新聞] AIT喊話沒用 藍白「55：48」第8度封殺國防特別條例",
-      "link": "/bbs/Gossiping/M.1769160716.A.0D8",
-      "author": "Goo4u",
-      "board": "Gossiping",
-      "publishTime": "2026/01/23 09:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "65",
-      "recommendCount": "126",
-      "title": "[新聞] 三立採訪車衝撞銀行！2傷者送台大醫院",
-      "link": "/bbs/Gossiping/M.1769160904.A.8B6",
-      "author": "Calcifer",
-      "board": "Gossiping",
-      "publishTime": "2026/01/23 09:35",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "94",
       "recommendCount": "218",
       "title": "[方舟] 終末地  朋友費來了",
@@ -92,16 +32,6 @@
       "board": "C_Chat",
       "publishTime": "2026/01/23 10:02",
       "imageUrl": "https://cache.pttweb.cc/imgur/t0ug6Bh/s/78a6d354460bb44eca94ace1f253e980"
-    },
-    {
-      "recommendScore": "36",
-      "recommendCount": "149",
-      "title": "[問卦] 脆熱議：媽媽們討厭老公用「幫忙」這詞",
-      "link": "/bbs/Gossiping/M.1769160868.A.AE9",
-      "author": "norvasc",
-      "board": "Gossiping",
-      "publishTime": "2026/01/23 09:34",
-      "imageUrl": "https://cache.pttweb.cc/imgur/uT07rAh/s/699d9aa304dd1d6a4983fbc095ee6917"
     },
     {
       "recommendScore": "76",
@@ -194,13 +124,83 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "62",
-      "recommendCount": "205",
-      "title": "[討論] AIT FB又一篇發文了 真的是火力全開欸…",
-      "link": "/bbs/HatePolitics/M.1769160762.A.223",
-      "author": "peter080808",
-      "board": "HatePolitics",
-      "publishTime": "2026/01/23 09:32",
+      "recommendScore": "30",
+      "recommendCount": "78",
+      "title": "[新聞] 快訊／三立採訪車衝銀行釀10傷　檢方指示依重傷害罪嫌送辦",
+      "link": "/bbs/Gossiping/M.1769170120.A.0EA",
+      "author": "novashine",
+      "board": "Gossiping",
+      "publishTime": "2026/01/23 12:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "40",
+      "recommendCount": "74",
+      "title": "[新聞] 三立採訪車撞進彰化銀行！她曝「公司震一下」　磚牆倒塌畫面曝光",
+      "link": "/bbs/Gossiping/M.1769163648.A.7EB",
+      "author": "iamshana",
+      "board": "Gossiping",
+      "publishTime": "2026/01/23 10:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "45",
+      "recommendCount": "90",
+      "title": "[問卦] NewBalance好穿在哪？？？？？？",
+      "link": "/bbs/Gossiping/M.1769161765.A.D9C",
+      "author": "AaronWei1007",
+      "board": "Gossiping",
+      "publishTime": "2026/01/23 09:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "51",
+      "recommendCount": "119",
+      "title": "[閒聊] KT怎麼輸掉的",
+      "link": "/bbs/LoL/M.1769161760.A.8D7",
+      "author": "qaz80691",
+      "board": "LoL",
+      "publishTime": "2026/01/23 09:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "17",
+      "recommendCount": "70",
+      "title": "[新聞] 爆蔡英文出手了！大動作「警告賴清德」她曝：已找回顛峰手感",
+      "link": "/bbs/Gossiping/M.1769166053.A.0E1",
+      "author": "qweerrt123",
+      "board": "Gossiping",
+      "publishTime": "2026/01/23 11:00",
+      "imageUrl": "https://cache.pttweb.cc/imgur/am5Kpsj/s/3ffe6f03d825360b16a9f3344ef3507a"
+    },
+    {
+      "recommendScore": "65",
+      "recommendCount": "139",
+      "title": "[福利] 南方勇者一打七？",
+      "link": "/bbs/C_Chat/M.1769182343.A.E7A",
+      "author": "Katsuyuki118",
+      "board": "C_Chat",
+      "publishTime": "2026/01/23 15:32",
+      "imageUrl": "https://cache.pttweb.cc/imgur/FbvyF4y/s/da116cb230423477142642254e4ca70c"
+    },
+    {
+      "recommendScore": "53",
+      "recommendCount": "184",
+      "title": "[閒聊] 絕區零走格子 終末地基建 都幾？",
+      "link": "/bbs/C_Chat/M.1769164013.A.2D6",
+      "author": "crash121",
+      "board": "C_Chat",
+      "publishTime": "2026/01/23 10:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "29",
+      "recommendCount": "62",
+      "title": "[新聞] 三立採訪車撞進銀行釀10人輕重傷 駕駛稱恍神釀禍、初步排除酒駕",
+      "link": "/bbs/Gossiping/M.1769161702.A.217",
+      "author": "googolplex",
+      "board": "Gossiping",
+      "publishTime": "2026/01/23 09:48",
       "imageUrl": ""
     }
   ]
