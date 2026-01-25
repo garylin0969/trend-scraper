@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-25T22:54:18.464Z",
+  "updated": "2026-01-25T23:05:56.887Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,6 +114,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/xk5NmHd/s/d4d8b4f1dca54d3202c20f381ce115c6"
     },
     {
+      "recommendScore": "137",
+      "recommendCount": "163",
+      "title": "[帥哥] Alex Honnold",
+      "link": "/bbs/Beauty/M.1769310806.A.525",
+      "author": "SeanLi1013",
+      "board": "Beauty",
+      "publishTime": "2026/01/25 03:13",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-70",
       "recommendCount": "166",
       "title": "[新聞] 霍諾德徒手爬完101　蔡英文：不只是極限運動！也讓世界看見台灣",
@@ -191,16 +201,6 @@
       "author": "oscarwu3041",
       "board": "Gossiping",
       "publishTime": "2026/01/25 03:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "60",
-      "recommendCount": "156",
-      "title": "[新聞] 柯文哲：賴清德每天搞鬥爭讓國家亂糟糟",
-      "link": "/bbs/Gossiping/M.1769332912.A.286",
-      "author": "minche",
-      "board": "Gossiping",
-      "publishTime": "2026/01/25 09:21",
       "imageUrl": ""
     }
   ]
