@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-25T08:36:47.066Z",
+  "updated": "2026-01-25T08:48:26.305Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "876",
+      "recommendCount": "1023",
+      "title": "[爆卦] Alex Honnold 成功登頂台北101！",
+      "link": "/bbs/Gossiping/M.1769309007.A.9E4",
+      "author": "lb01833364",
+      "board": "Gossiping",
+      "publishTime": "2026/01/25 02:43",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "298",
       "recommendCount": "323",
@@ -191,16 +201,6 @@
       "author": "CREA",
       "board": "Gossiping",
       "publishTime": "2026/01/24 13:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "49",
-      "recommendCount": "79",
-      "title": "[新聞] MLB》塔克其實很想去藍鳥　知情人士爆道奇竄出：年薪6千萬怎麼樣？",
-      "link": "/bbs/Baseball/M.1769265407.A.CA9",
-      "author": "chenfu765",
-      "board": "Baseball",
-      "publishTime": "2026/01/24 14:36",
       "imageUrl": ""
     }
   ]
