@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-25T03:20:47.367Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2026-01-25T04:01:08.831Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "99",
+      "recommendCount": "348",
+      "title": "[請益]  關於信貸買股票.老婆破口大罵",
+      "link": "/bbs/Stock/M.1769265862.A.0D3",
+      "author": "gundown",
+      "board": "Stock",
+      "publishTime": "2026/01/24 14:44",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "76",
       "recommendCount": "274",
@@ -31,6 +41,16 @@
       "author": "zkow",
       "board": "Stock",
       "publishTime": "2026/01/24 15:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-58",
+      "recommendCount": "141",
+      "title": "[新聞] 霍諾德徒手爬完101　蔡英文：不只是極限運動！也讓世界看見台灣",
+      "link": "/bbs/Gossiping/M.1769309887.A.CA4",
+      "author": "lovea",
+      "board": "Gossiping",
+      "publishTime": "2026/01/25 02:58",
       "imageUrl": ""
     },
     {
@@ -82,6 +102,26 @@
       "board": "Gossiping",
       "publishTime": "2026/01/24 14:57",
       "imageUrl": "https://cache.pttweb.cc/imgur/MkHvaOl/s/d39eefe3132edb9495ea58cc6ec48e8e"
+    },
+    {
+      "recommendScore": "-42",
+      "recommendCount": "82",
+      "title": "[新聞] Netflix全球直播霍諾德獨攀101　賴清德：讓世界看見熱情的台灣人",
+      "link": "/bbs/Gossiping/M.1769310576.A.FB6",
+      "author": "oscarwu3041",
+      "board": "Gossiping",
+      "publishTime": "2026/01/25 03:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "47",
+      "recommendCount": "97",
+      "title": "[問卦] 認真問 賈永婕當101董座做得算是不錯嗎",
+      "link": "/bbs/Gossiping/M.1769310134.A.104",
+      "author": "Alberta99170",
+      "board": "Gossiping",
+      "publishTime": "2026/01/25 03:02",
+      "imageUrl": ""
     },
     {
       "recommendScore": "41",
@@ -161,36 +201,6 @@
       "author": "aft7795",
       "board": "Gossiping",
       "publishTime": "2026/01/24 15:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-2",
-      "recommendCount": "90",
-      "title": "[新聞] 台灣「小草」為何這麼多？人權學者：新威權敘事挪用民主價值",
-      "link": "/bbs/Gossiping/M.1769252850.A.0AA",
-      "author": "iam168888888",
-      "board": "Gossiping",
-      "publishTime": "2026/01/24 11:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "49",
-      "recommendCount": "52",
-      "title": "[發錢] ccsu1234：你不出來發錢了喔",
-      "link": "/bbs/BaseballXXXX/M.1769250859.A.0E5",
-      "author": "cc001225",
-      "board": "BaseballXXXX",
-      "publishTime": "2026/01/24 10:34",
-      "imageUrl": "https://cache.pttweb.cc/imgur/aA73FSD/s/fe05debcd0b945c6c70b21679212de64"
-    },
-    {
-      "recommendScore": "51",
-      "recommendCount": "52",
-      "title": "[問題] 終末地新手池抽到別禮 發錢",
-      "link": "/bbs/C_Chat/M.1769256979.A.B82",
-      "author": "attacksoil",
-      "board": "C_Chat",
-      "publishTime": "2026/01/24 12:16",
       "imageUrl": ""
     }
   ]
