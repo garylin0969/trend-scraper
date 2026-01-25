@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-25T15:05:47.105Z",
+  "updated": "2026-01-25T15:18:07.069Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "67",
-      "recommendCount": "109",
-      "title": "[閒聊] GUMA:我就說了不能給Keria 巴德",
-      "link": "/bbs/LoL/M.1769267634.A.9CD",
-      "author": "AHQ112",
-      "board": "LoL",
-      "publishTime": "2026/01/24 15:13",
-      "imageUrl": "https://cache.pttweb.cc/imgur/tOSaslk/s/db4ce190ae1e64595cfd95f3a8873be4"
-    },
-    {
       "recommendScore": "17",
       "recommendCount": "143",
       "title": "[討論] 我發現柴火爐很省錢",
@@ -201,6 +191,16 @@
       "author": "nicholas0406",
       "board": "HatePolitics",
       "publishTime": "2026/01/25 07:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "74",
+      "recommendCount": "92",
+      "title": "[新聞] XBX 12強賽被台灣2局打爆 高永表:這次我",
+      "link": "/bbs/Baseball/M.1769326120.A.FE4",
+      "author": "micheal59",
+      "board": "Baseball",
+      "publishTime": "2026/01/25 07:28",
       "imageUrl": ""
     }
   ]
