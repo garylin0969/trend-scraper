@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-25T11:53:09.686Z",
+  "updated": "2026-01-25T12:10:26.310Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -32,6 +32,16 @@
       "board": "SportLottery",
       "publishTime": "2026/01/25 01:29",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "231",
+      "recommendCount": "235",
+      "title": "[發錢] 永遠的公牛1號-Derrick Rose",
+      "link": "/bbs/NBA/M.1769322822.A.F53",
+      "author": "ilovekobe824",
+      "board": "NBA",
+      "publishTime": "2026/01/25 06:33",
+      "imageUrl": "https://cache.pttweb.cc/imgur/xp3Rq7W/s/1e7f62737754e3df65d7416b9d2f1a05"
     },
     {
       "recommendScore": "99",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/25 07:04",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "67",
-      "recommendCount": "109",
-      "title": "[閒聊] GUMA:我就說了不能給Keria 巴德",
-      "link": "/bbs/LoL/M.1769267634.A.9CD",
-      "author": "AHQ112",
-      "board": "LoL",
-      "publishTime": "2026/01/24 15:13",
-      "imageUrl": "https://cache.pttweb.cc/imgur/tOSaslk/s/db4ce190ae1e64595cfd95f3a8873be4"
     }
   ]
 }
