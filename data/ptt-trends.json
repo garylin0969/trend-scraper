@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-25T09:33:12.369Z",
+  "updated": "2026-01-25T09:45:48.813Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "876",
+      "recommendCount": "1023",
+      "title": "[爆卦] Alex Honnold 成功登頂台北101！",
+      "link": "/bbs/Gossiping/M.1769309007.A.9E4",
+      "author": "lb01833364",
+      "board": "Gossiping",
+      "publishTime": "2026/01/25 02:43",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "288",
       "recommendCount": "372",
@@ -164,6 +174,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/nJ0uuXs/s/2719e7e4917f459a482a188274015b4e"
     },
     {
+      "recommendScore": "40",
+      "recommendCount": "213",
+      "title": "[討論] 台灣真的差不多了",
+      "link": "/bbs/HatePolitics/M.1769251325.A.984",
+      "author": "redeems2024",
+      "board": "HatePolitics",
+      "publishTime": "2026/01/24 10:42",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "64",
       "recommendCount": "127",
       "title": "[問卦] 認真問 賈永婕當101董座做得算是不錯嗎",
@@ -182,26 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2026/01/24 11:51",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "74",
-      "recommendCount": "143",
-      "title": "[閒聊] 咒術迴戰網路論戰,西方網友直接拿出租女友酸日本網友",
-      "link": "/bbs/C_Chat/M.1769255568.A.9DD",
-      "author": "yamatobar",
-      "board": "C_Chat",
-      "publishTime": "2026/01/24 11:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "55",
-      "recommendCount": "113",
-      "title": "[問卦] 國旅最後一根稻草是不提供備品嗎？",
-      "link": "/bbs/Gossiping/M.1769266677.A.E87",
-      "author": "asd63312337",
-      "board": "Gossiping",
-      "publishTime": "2026/01/24 14:57",
-      "imageUrl": "https://cache.pttweb.cc/imgur/MkHvaOl/s/d39eefe3132edb9495ea58cc6ec48e8e"
     }
   ]
 }
