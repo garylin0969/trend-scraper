@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-25T14:56:12.584Z",
+  "updated": "2026-01-25T15:05:47.105Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -71,16 +71,6 @@
       "author": "lovea",
       "board": "Gossiping",
       "publishTime": "2026/01/25 02:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "90",
-      "recommendCount": "176",
-      "title": "[新聞] 快訊／川普：若加拿大與中國達成協議，100％關稅立即生效",
-      "link": "/bbs/Stock/M.1769266980.A.B9D",
-      "author": "zkow",
-      "board": "Stock",
-      "publishTime": "2026/01/24 15:03",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "ZaneTrout",
       "board": "Baseball",
       "publishTime": "2026/01/25 10:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "21",
+      "recommendCount": "222",
+      "title": "[討論] 柯文哲:我跟柯建銘喬來交換法案，他不要",
+      "link": "/bbs/HatePolitics/M.1769327304.A.8B0",
+      "author": "nicholas0406",
+      "board": "HatePolitics",
+      "publishTime": "2026/01/25 07:48",
       "imageUrl": ""
     }
   ]
