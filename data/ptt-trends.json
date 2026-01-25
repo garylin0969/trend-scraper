@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-25T07:23:23.106Z",
+  "updated": "2026-01-25T07:36:52.330Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "99",
+      "recommendCount": "348",
+      "title": "[請益]  關於信貸買股票.老婆破口大罵",
+      "link": "/bbs/Stock/M.1769265862.A.0D3",
+      "author": "gundown",
+      "board": "Stock",
+      "publishTime": "2026/01/24 14:44",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "759",
       "recommendCount": "1422",
@@ -21,16 +31,6 @@
       "author": "blackman451",
       "board": "Gossiping",
       "publishTime": "2026/01/24 14:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "405",
-      "recommendCount": "837",
-      "title": "[電競] 2026 LCK Cup W2D4",
-      "link": "/bbs/LoL/M.1769239946.A.CA5",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/01/24 07:32",
       "imageUrl": ""
     },
     {
@@ -61,6 +61,16 @@
       "author": "XDGEE",
       "board": "Gossiping",
       "publishTime": "2026/01/24 08:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "129",
+      "recommendCount": "280",
+      "title": "[閒聊] 攀爬一樣高度的大樓比岩壁簡單？",
+      "link": "/bbs/C_Chat/M.1769309035.A.A75",
+      "author": "callhek",
+      "board": "C_Chat",
+      "publishTime": "2026/01/25 02:43",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "LoL",
       "publishTime": "2026/01/24 15:13",
       "imageUrl": "https://cache.pttweb.cc/imgur/tOSaslk/s/db4ce190ae1e64595cfd95f3a8873be4"
-    },
-    {
-      "recommendScore": "17",
-      "recommendCount": "82",
-      "title": "[問卦] 長輩：生個小孩陪你不是很好？怎回？",
-      "link": "/bbs/Gossiping/M.1769266915.A.F60",
-      "author": "aft7795",
-      "board": "Gossiping",
-      "publishTime": "2026/01/24 15:01",
-      "imageUrl": ""
     }
   ]
 }
