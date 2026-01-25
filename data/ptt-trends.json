@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-25T07:45:15.229Z",
+  "updated": "2026-01-25T07:53:34.479Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "298",
+      "recommendCount": "323",
+      "title": "[推薦] 籃球[小律師]洛杉磯湖人 @ 達拉斯獨行俠",
+      "link": "/bbs/SportLottery/M.1769304559.A.882",
+      "author": "lotterywin",
+      "board": "SportLottery",
+      "publishTime": "2026/01/25 01:29",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "99",
       "recommendCount": "348",
@@ -24,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "374",
+      "recommendCount": "895",
+      "title": "[LIVE] NBA 湖人 獨行俠 場中",
+      "link": "/bbs/SportLottery/M.1769303781.A.C63",
+      "author": "iversonya",
+      "board": "SportLottery",
+      "publishTime": "2026/01/25 01:16",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "76",
       "recommendCount": "274",
       "title": "[新聞] 人口生不如死 專家：政府應調整生育政策",
@@ -41,6 +61,16 @@
       "author": "zkow",
       "board": "Stock",
       "publishTime": "2026/01/24 15:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "72",
+      "recommendCount": "174",
+      "title": "[問卦] reddit：台灣人只是想看霍諾德掉下去而已",
+      "link": "/bbs/Gossiping/M.1769311800.A.479",
+      "author": "TCB006",
+      "board": "Gossiping",
+      "publishTime": "2026/01/25 03:30",
       "imageUrl": ""
     },
     {
@@ -82,6 +112,16 @@
       "board": "C_Chat",
       "publishTime": "2026/01/24 10:57",
       "imageUrl": "https://cache.pttweb.cc/imgur/nJ0uuXs/s/2719e7e4917f459a482a188274015b4e"
+    },
+    {
+      "recommendScore": "64",
+      "recommendCount": "127",
+      "title": "[問卦] 認真問 賈永婕當101董座做得算是不錯嗎",
+      "link": "/bbs/Gossiping/M.1769310134.A.104",
+      "author": "Alberta99170",
+      "board": "Gossiping",
+      "publishTime": "2026/01/25 03:02",
+      "imageUrl": ""
     },
     {
       "recommendScore": "90",
@@ -134,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "47",
-      "recommendCount": "97",
-      "title": "[問卦] 認真問 賈永婕當101董座做得算是不錯嗎",
-      "link": "/bbs/Gossiping/M.1769310134.A.104",
-      "author": "Alberta99170",
-      "board": "Gossiping",
-      "publishTime": "2026/01/25 03:02",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "41",
       "recommendCount": "88",
       "title": "[新聞] 富邦金接班人移民美國 蔡明興親揭移民原因：孫子是天才兒童",
@@ -172,36 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/24 13:38",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "49",
-      "recommendCount": "79",
-      "title": "[新聞] MLB》塔克其實很想去藍鳥　知情人士爆道奇竄出：年薪6千萬怎麼樣？",
-      "link": "/bbs/Baseball/M.1769265407.A.CA9",
-      "author": "chenfu765",
-      "board": "Baseball",
-      "publishTime": "2026/01/24 14:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "24",
-      "recommendCount": "74",
-      "title": "[新聞] 23歲男「淋浴器塞肛門」拔不出來 找水電工剪斷管線就醫！醫全身麻醉夾出",
-      "link": "/bbs/Gossiping/M.1769245589.A.E13",
-      "author": "mife103",
-      "board": "Gossiping",
-      "publishTime": "2026/01/24 09:06",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ORNppIW/s/df62038d3abd5a2a10ef304ee8244385"
-    },
-    {
-      "recommendScore": "42",
-      "recommendCount": "62",
-      "title": "[閒聊] GUMA:我就說了不能給Keria 巴德",
-      "link": "/bbs/LoL/M.1769267634.A.9CD",
-      "author": "AHQ112",
-      "board": "LoL",
-      "publishTime": "2026/01/24 15:13",
-      "imageUrl": "https://cache.pttweb.cc/imgur/tOSaslk/s/db4ce190ae1e64595cfd95f3a8873be4"
     }
   ]
 }
