@@ -1,18 +1,8 @@
 {
-  "updated": "2026-01-25T09:08:18.751Z",
+  "updated": "2026-01-25T09:20:14.858Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "876",
-      "recommendCount": "1023",
-      "title": "[爆卦] Alex Honnold 成功登頂台北101！",
-      "link": "/bbs/Gossiping/M.1769309007.A.9E4",
-      "author": "lb01833364",
-      "board": "Gossiping",
-      "publishTime": "2026/01/25 02:43",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "298",
       "recommendCount": "323",
@@ -74,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "60",
+      "recommendCount": "189",
+      "title": "[問卦] 101裡怎一堆人在那亂貼窗拍霍諾德= =",
+      "link": "/bbs/Gossiping/M.1769304489.A.FE3",
+      "author": "yyyyyuuuuu",
+      "board": "Gossiping",
+      "publishTime": "2026/01/25 01:28",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "72",
       "recommendCount": "174",
       "title": "[問卦] reddit：台灣人只是想看霍諾德掉下去而已",
@@ -101,6 +101,16 @@
       "author": "callhek",
       "board": "C_Chat",
       "publishTime": "2026/01/25 02:43",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "82",
+      "recommendCount": "108",
+      "title": "[問卦] 霍諾德爬完101後說的第一句話是什麼？",
+      "link": "/bbs/Gossiping/M.1769305823.A.303",
+      "author": "WTFstranger",
+      "board": "Gossiping",
+      "publishTime": "2026/01/25 01:50",
       "imageUrl": ""
     },
     {
@@ -154,6 +164,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/MkHvaOl/s/d39eefe3132edb9495ea58cc6ec48e8e"
     },
     {
+      "recommendScore": "76",
+      "recommendCount": "124",
+      "title": "[新聞] 詹皇重返騎士有譜？回老家「關鍵劇本」曝光　得先清掉1大將",
+      "link": "/bbs/NBA/M.1769305664.A.0E1",
+      "author": "Wojnarowski",
+      "board": "NBA",
+      "publishTime": "2026/01/25 01:47",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "67",
       "recommendCount": "78",
       "title": "[閒聊] 登頂了",
@@ -181,26 +201,6 @@
       "author": "iami1002",
       "board": "Gossiping",
       "publishTime": "2026/01/24 13:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "63",
-      "recommendCount": "103",
-      "title": "[推投] 是否在意遊戲中性別改成類型1/2呈現",
-      "link": "/bbs/C_Chat/M.1769256255.A.F4B",
-      "author": "ririkasos",
-      "board": "C_Chat",
-      "publishTime": "2026/01/24 12:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "44",
-      "recommendCount": "72",
-      "title": "[新聞] 願捨棄美國籍入伍！三星李在鎔長子「2月赴泰」　參加東南亞軍演",
-      "link": "/bbs/Gossiping/M.1769261939.A.EB2",
-      "author": "CREA",
-      "board": "Gossiping",
-      "publishTime": "2026/01/24 13:38",
       "imageUrl": ""
     }
   ]
