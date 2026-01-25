@@ -1,10 +1,10 @@
 {
-  "updated": "2026-01-25T05:23:54.162Z",
+  "updated": "2026-01-25T05:51:39.954Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-25T05:23:45.000Z",
+    "lastBuildDate": "2026-01-25T05:51:37.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -34,20 +34,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ef43/live/2a5f94f0-f937-11f0-814e-71ff186d4f46.jpg"
     },
     {
+      "title": "中國正在悄悄贏得AI競賽嗎？",
+      "description": "斯坦福大學上月發布的一份報告指出，中國的AI模型「似乎已趕上甚至超越」全球對手。",
+      "link": "https://www.bbc.com/zhongwen/articles/c8e5gz0zn8po/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-25T05:33:59.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c8e5gz0zn8po/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/82c7/live/8a085560-f77d-11f0-b7ec-55c1cb544783.jpg"
+    },
+    {
       "title": "特朗普的格陵蘭「未來協議框架」，我們知道什麼？",
       "description": "丹麥與格陵蘭已明確表示，他們不會放棄對這個世界最大島嶼的主權。",
       "link": "https://www.bbc.com/zhongwen/articles/c1m77y4p239o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-01-23T05:48:52.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c1m77y4p239o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/abac/live/f7d72e20-f789-11f0-a422-4ba8a094a8fa.jpg"
-    },
-    {
-      "title": "亞洲牛肝菌的致幻效應：食材背後的科學謎團",
-      "description": "一些科學家正在努力檢驗中國雲南人摯愛的蘑菇——見手青中的成分，這種有毒蘑菇能致幻，但由於口感很好，當地人非常喜愛。",
-      "link": "https://www.bbc.com/zhongwen/articles/czx332r15zno/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-23T04:07:44.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/czx332r15zno/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1f1d/live/d13d9c90-f80b-11f0-a422-4ba8a094a8fa.jpg"
     },
     {
       "title": "「掉下去就會死」：Netflix直播徒手攀爬台北101激起的好奇與批判",
@@ -282,6 +282,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1d45/live/ea27d110-d585-11f0-8c06-f5d460985095.jpg"
     },
     {
+      "title": "亞洲牛肝菌的致幻效應：食材背後的科學謎團",
+      "description": "一些科學家正在努力檢驗中國雲南人摯愛的蘑菇——見手青中的成分，這種有毒蘑菇能致幻，但由於口感很好，當地人非常喜愛。",
+      "link": "https://www.bbc.com/zhongwen/articles/czx332r15zno/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-23T04:07:44.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/czx332r15zno/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1f1d/live/d13d9c90-f80b-11f0-a422-4ba8a094a8fa.jpg"
+    },
+    {
       "title": "英國團隊研究以指尖採血檢測診斷阿茲海默症",
       "description": "一項由英國團隊主持，涉及全球1000名志願者的臨床實驗，以找出與阿茲海默症相關的生物標記為目標，期望能開發出新的檢測手段。",
       "link": "https://www.bbc.com/zhongwen/articles/cj9ryll0n3ro/trad?at_medium=RSS&at_campaign=rss",
@@ -296,14 +304,6 @@
       "pubDate": "2026-01-21T04:26:52.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn0k9kr5ew6o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/033e/live/d60df500-f679-11f0-a422-4ba8a094a8fa.jpg"
-    },
-    {
-      "title": "加密貨幣罪犯如何常常「故伎重演」，從人們手中竊取7億美元",
-      "description": "加密貨幣被竊的痛苦特別煎熬。因為所有交易皆記錄在稱為區塊鏈的數位帳本上，因此即使竊賊將你的錢轉入自家加密錢包，它仍清晰可見於網路世界。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn0kg06kg24o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-20T09:57:42.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn0kg06kg24o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8819/live/ce46a700-e570-11f0-aae2-2191c0e48a3b.jpg"
     },
     {
       "title": "關於多巴胺，我們都搞錯了些甚麼",
