@@ -1,18 +1,8 @@
 {
-  "updated": "2026-01-25T09:45:48.813Z",
+  "updated": "2026-01-25T09:54:04.878Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "876",
-      "recommendCount": "1023",
-      "title": "[爆卦] Alex Honnold 成功登頂台北101！",
-      "link": "/bbs/Gossiping/M.1769309007.A.9E4",
-      "author": "lb01833364",
-      "board": "Gossiping",
-      "publishTime": "2026/01/25 02:43",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "288",
       "recommendCount": "372",
@@ -201,6 +191,16 @@
       "author": "ging1995",
       "board": "C_Chat",
       "publishTime": "2026/01/24 11:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "74",
+      "recommendCount": "143",
+      "title": "[閒聊] 咒術迴戰網路論戰,西方網友直接拿出租女友酸日本網友",
+      "link": "/bbs/C_Chat/M.1769255568.A.9DD",
+      "author": "yamatobar",
+      "board": "C_Chat",
+      "publishTime": "2026/01/24 11:52",
       "imageUrl": ""
     }
   ]
