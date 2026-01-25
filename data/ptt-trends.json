@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-25T16:48:11.907Z",
+  "updated": "2026-01-25T16:57:00.270Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "876",
+      "recommendCount": "1023",
+      "title": "[爆卦] Alex Honnold 成功登頂台北101！",
+      "link": "/bbs/Gossiping/M.1769309007.A.9E4",
+      "author": "lb01833364",
+      "board": "Gossiping",
+      "publishTime": "2026/01/25 02:43",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "288",
       "recommendCount": "372",
@@ -191,16 +201,6 @@
       "author": "nicholas0406",
       "board": "HatePolitics",
       "publishTime": "2026/01/25 07:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "74",
-      "recommendCount": "92",
-      "title": "[新聞] XBX 12強賽被台灣2局打爆 高永表:這次我",
-      "link": "/bbs/Baseball/M.1769326120.A.FE4",
-      "author": "micheal59",
-      "board": "Baseball",
-      "publishTime": "2026/01/25 07:28",
       "imageUrl": ""
     }
   ]
