@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-25T10:47:11.330Z",
+  "updated": "2026-01-25T10:54:54.140Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "876",
+      "recommendCount": "1023",
+      "title": "[爆卦] Alex Honnold 成功登頂台北101！",
+      "link": "/bbs/Gossiping/M.1769309007.A.9E4",
+      "author": "lb01833364",
+      "board": "Gossiping",
+      "publishTime": "2026/01/25 02:43",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "288",
       "recommendCount": "372",
@@ -184,23 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "67",
-      "recommendCount": "109",
-      "title": "[閒聊] GUMA:我就說了不能給Keria 巴德",
-      "link": "/bbs/LoL/M.1769267634.A.9CD",
-      "author": "AHQ112",
-      "board": "LoL",
-      "publishTime": "2026/01/24 15:13",
-      "imageUrl": "https://cache.pttweb.cc/imgur/tOSaslk/s/db4ce190ae1e64595cfd95f3a8873be4"
-    },
-    {
-      "recommendScore": "90",
-      "recommendCount": "93",
-      "title": "[發錢] 金牌得主 二期OP&ED畫面公開 今晚開播",
-      "link": "/bbs/C_Chat/M.1769255476.A.013",
-      "author": "ging1995",
-      "board": "C_Chat",
-      "publishTime": "2026/01/24 11:51",
+      "recommendScore": "38",
+      "recommendCount": "138",
+      "title": "[新聞] 霍諾德徒手爬101！郭正亮這點質疑：若有意外誰負責？",
+      "link": "/bbs/Gossiping/M.1769324654.A.39E",
+      "author": "DoncicInPTT",
+      "board": "Gossiping",
+      "publishTime": "2026/01/25 07:04",
       "imageUrl": ""
     }
   ]
