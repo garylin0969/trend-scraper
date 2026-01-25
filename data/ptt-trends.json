@@ -1,8 +1,18 @@
 {
-  "updated": "2026-01-25T09:20:14.858Z",
+  "updated": "2026-01-25T09:33:12.369Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "288",
+      "recommendCount": "372",
+      "title": "[問卦] 登頂了！1小時45分鐘！！",
+      "link": "/bbs/Gossiping/M.1769309058.A.FAC",
+      "author": "yyyyyuuuuu",
+      "board": "Gossiping",
+      "publishTime": "2026/01/25 02:44",
+      "imageUrl": "https://cache.pttweb.cc/imgur/G6E4R7Z/s/78e268b3d9009d8dd5a71eb3c5253676"
+    },
     {
       "recommendScore": "298",
       "recommendCount": "323",
@@ -54,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-70",
+      "recommendCount": "166",
+      "title": "[新聞] 霍諾德徒手爬完101　蔡英文：不只是極限運動！也讓世界看見台灣",
+      "link": "/bbs/Gossiping/M.1769309887.A.CA4",
+      "author": "lovea",
+      "board": "Gossiping",
+      "publishTime": "2026/01/25 02:58",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "90",
       "recommendCount": "176",
       "title": "[新聞] 快訊／川普：若加拿大與中國達成協議，100％關稅立即生效",
@@ -84,13 +104,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-58",
-      "recommendCount": "141",
-      "title": "[新聞] 霍諾德徒手爬完101　蔡英文：不只是極限運動！也讓世界看見台灣",
-      "link": "/bbs/Gossiping/M.1769309887.A.CA4",
-      "author": "lovea",
+      "recommendScore": "-81",
+      "recommendCount": "148",
+      "title": "[新聞] Netflix全球直播霍諾德獨攀101　賴清德：讓世界看見熱情的台灣人",
+      "link": "/bbs/Gossiping/M.1769310576.A.FB6",
+      "author": "oscarwu3041",
       "board": "Gossiping",
-      "publishTime": "2026/01/25 02:58",
+      "publishTime": "2026/01/25 03:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "33",
+      "recommendCount": "155",
+      "title": "[問卦] 這次101是不是看到台灣人素質多低",
+      "link": "/bbs/Gossiping/M.1769305210.A.7E3",
+      "author": "kasumi5566",
+      "board": "Gossiping",
+      "publishTime": "2026/01/25 01:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "66",
+      "recommendCount": "131",
+      "title": "[問卦] 行銷台北誰最不開心？",
+      "link": "/bbs/Gossiping/M.1769307224.A.8A6",
+      "author": "hegemony005",
+      "board": "Gossiping",
+      "publishTime": "2026/01/25 02:13",
       "imageUrl": ""
     },
     {
@@ -162,46 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/24 14:57",
       "imageUrl": "https://cache.pttweb.cc/imgur/MkHvaOl/s/d39eefe3132edb9495ea58cc6ec48e8e"
-    },
-    {
-      "recommendScore": "76",
-      "recommendCount": "124",
-      "title": "[新聞] 詹皇重返騎士有譜？回老家「關鍵劇本」曝光　得先清掉1大將",
-      "link": "/bbs/NBA/M.1769305664.A.0E1",
-      "author": "Wojnarowski",
-      "board": "NBA",
-      "publishTime": "2026/01/25 01:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "67",
-      "recommendCount": "78",
-      "title": "[閒聊] 登頂了",
-      "link": "/bbs/BaseballXXXX/M.1769309038.A.62D",
-      "author": "carlchang092",
-      "board": "BaseballXXXX",
-      "publishTime": "2026/01/25 02:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-42",
-      "recommendCount": "82",
-      "title": "[新聞] Netflix全球直播霍諾德獨攀101　賴清德：讓世界看見熱情的台灣人",
-      "link": "/bbs/Gossiping/M.1769310576.A.FB6",
-      "author": "oscarwu3041",
-      "board": "Gossiping",
-      "publishTime": "2026/01/25 03:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "41",
-      "recommendCount": "88",
-      "title": "[新聞] 富邦金接班人移民美國 蔡明興親揭移民原因：孫子是天才兒童",
-      "link": "/bbs/Gossiping/M.1769261001.A.8EA",
-      "author": "iami1002",
-      "board": "Gossiping",
-      "publishTime": "2026/01/24 13:23",
-      "imageUrl": ""
     }
   ]
 }
