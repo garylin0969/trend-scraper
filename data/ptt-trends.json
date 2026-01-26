@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-26T10:49:39.623Z",
+  "updated": "2026-01-26T10:59:20.184Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "415",
-      "recommendCount": "698",
-      "title": "[討論] [Vtub] Hololive 晚間直播單 (1150125)",
-      "link": "/bbs/C_Chat/M.1769338143.A.7F6",
-      "author": "laptic",
-      "board": "C_Chat",
-      "publishTime": "2026/01/25 10:49",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "65",
       "recommendCount": "111",
       "title": "[問卦] 多少比例的白痴可以摧毀一個國家？",
@@ -201,6 +191,16 @@
       "author": "ttucse",
       "board": "Gossiping",
       "publishTime": "2026/01/25 13:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "230",
+      "recommendCount": "399",
+      "title": "[英超] 兵工廠 VS 曼聯@酋長球場",
+      "link": "/bbs/FAPL/M.1769356353.A.C7A",
+      "author": "cobincarrol",
+      "board": "FAPL",
+      "publishTime": "2026/01/25 15:52",
       "imageUrl": ""
     }
   ]
