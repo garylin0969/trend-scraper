@@ -1,6 +1,11 @@
 {
-  "updated": "2026-01-26T22:09:57.050Z",
+  "updated": "2026-01-26T22:42:22.819Z",
   "trends": [
+    {
+      "googleTrend": "airtag2",
+      "searchVolume": "100+",
+      "started": "3 小時前"
+    },
     {
       "googleTrend": "地震",
       "searchVolume": "5,000+",
@@ -9,11 +14,6 @@
     {
       "googleTrend": "地震速報",
       "searchVolume": "2,000+",
-      "started": "3 小時前"
-    },
-    {
-      "googleTrend": "airtag2",
-      "searchVolume": "100+",
       "started": "3 小時前"
     }
   ]
