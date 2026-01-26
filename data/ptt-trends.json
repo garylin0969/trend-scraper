@@ -1,28 +1,8 @@
 {
-  "updated": "2026-01-26T02:31:14.807Z",
+  "updated": "2026-01-26T03:21:22.181Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "876",
-      "recommendCount": "1023",
-      "title": "[爆卦] Alex Honnold 成功登頂台北101！",
-      "link": "/bbs/Gossiping/M.1769309007.A.9E4",
-      "author": "lb01833364",
-      "board": "Gossiping",
-      "publishTime": "2026/01/25 02:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "288",
-      "recommendCount": "372",
-      "title": "[問卦] 登頂了！1小時45分鐘！！",
-      "link": "/bbs/Gossiping/M.1769309058.A.FAC",
-      "author": "yyyyyuuuuu",
-      "board": "Gossiping",
-      "publishTime": "2026/01/25 02:44",
-      "imageUrl": "https://cache.pttweb.cc/imgur/G6E4R7Z/s/78e268b3d9009d8dd5a71eb3c5253676"
-    },
     {
       "recommendScore": "817",
       "recommendCount": "1452",
@@ -94,16 +74,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-70",
-      "recommendCount": "166",
-      "title": "[新聞] 霍諾德徒手爬完101　蔡英文：不只是極限運動！也讓世界看見台灣",
-      "link": "/bbs/Gossiping/M.1769309887.A.CA4",
-      "author": "lovea",
-      "board": "Gossiping",
-      "publishTime": "2026/01/25 02:58",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "91",
       "recommendCount": "173",
       "title": "[問卦] 賈永婕：正常人都不會模仿爬101 結果現",
@@ -154,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-81",
-      "recommendCount": "148",
-      "title": "[新聞] Netflix全球直播霍諾德獨攀101　賴清德：讓世界看見熱情的台灣人",
-      "link": "/bbs/Gossiping/M.1769310576.A.FB6",
-      "author": "oscarwu3041",
-      "board": "Gossiping",
-      "publishTime": "2026/01/25 03:09",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "60",
       "recommendCount": "156",
       "title": "[新聞] 柯文哲：賴清德每天搞鬥爭讓國家亂糟糟",
@@ -201,6 +161,46 @@
       "author": "gamereplay",
       "board": "Stock",
       "publishTime": "2026/01/25 13:59",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "415",
+      "recommendCount": "698",
+      "title": "[討論] [Vtub] Hololive 晚間直播單 (1150125)",
+      "link": "/bbs/C_Chat/M.1769338143.A.7F6",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2026/01/25 10:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-56",
+      "recommendCount": "184",
+      "title": "[Holo] 昨天Holo新春遊戲祭 各種批評(不喜慎入)",
+      "link": "/bbs/C_Chat/M.1769328710.A.FC9",
+      "author": "darkapplepie",
+      "board": "C_Chat",
+      "publishTime": "2026/01/25 08:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-33",
+      "recommendCount": "114",
+      "title": "[討論] 勇士還是可以透過交易爭冠",
+      "link": "/bbs/NBA/M.1769354684.A.826",
+      "author": "spineless",
+      "board": "NBA",
+      "publishTime": "2026/01/25 15:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "38",
+      "recommendCount": "138",
+      "title": "[新聞] 霍諾德徒手爬101！郭正亮這點質疑：若有意外誰負責？",
+      "link": "/bbs/Gossiping/M.1769324654.A.39E",
+      "author": "DoncicInPTT",
+      "board": "Gossiping",
+      "publishTime": "2026/01/25 07:04",
       "imageUrl": ""
     }
   ]
