@@ -1,18 +1,8 @@
 {
-  "updated": "2026-01-26T07:31:41.064Z",
+  "updated": "2026-01-26T07:47:36.610Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "817",
-      "recommendCount": "1452",
-      "title": "[電競] 2026 LCK Cup W2D5",
-      "link": "/bbs/LoL/M.1769326337.A.8E3",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/01/25 07:32",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "250",
       "recommendCount": "257",
@@ -62,16 +52,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/25 10:34",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "158",
-      "recommendCount": "216",
-      "title": "[閒聊] 鷹角受不了菲比拉電了嗎？",
-      "link": "/bbs/C_Chat/M.1769326496.A.928",
-      "author": "qq5377352",
-      "board": "C_Chat",
-      "publishTime": "2026/01/25 07:34",
-      "imageUrl": "https://cache.pttweb.cc/imgur/GTs8VMb/s/b289ebbf59559b884d1605893f3538e6"
     },
     {
       "recommendScore": "345",
@@ -202,6 +182,26 @@
       "board": "HatePolitics",
       "publishTime": "2026/01/25 13:48",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "28",
+      "recommendCount": "104",
+      "title": "[新聞] 快新聞／黃國昌稱「拉下賴瑞隆」是藍白共識　尹立、張博洋嗆：絕不容高雄遭踐踏",
+      "link": "/bbs/Gossiping/M.1769346304.A.A6B",
+      "author": "iam168888888",
+      "board": "Gossiping",
+      "publishTime": "2026/01/25 13:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "58",
+      "recommendCount": "96",
+      "title": "[情報] 2026 經典賽C組，晉級八強賠率",
+      "link": "/bbs/Baseball/M.1769351889.A.C80",
+      "author": "robinkidd",
+      "board": "Baseball",
+      "publishTime": "2026/01/25 14:38",
+      "imageUrl": "https://cache.pttweb.cc/imgur/WiLGJ2T/s/00d66462093b9f4a9b6cbaf7a512c934"
     }
   ]
 }
