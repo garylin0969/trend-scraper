@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-26T19:09:41.417Z",
+  "updated": "2026-01-26T19:22:21.029Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "72",
+      "recommendCount": "109",
+      "title": "[閒聊] 台中連莊",
+      "link": "/bbs/BaseballXXXX/M.1769424624.A.8CB",
+      "author": "ROXSMEB",
+      "board": "BaseballXXXX",
+      "publishTime": "2026/01/26 10:50",
+      "imageUrl": "https://cache.pttweb.cc/imgur/6WUxCbo/s/74d6cb03213810e84dc70e5c8381a065"
+    },
+    {
       "recommendScore": "-10",
       "recommendCount": "132",
       "title": "[新聞] 黃國昌畢業作品「漏字」大出包！ 吳思瑤諷：少了戰字是怯戰嗎？",
@@ -191,16 +201,6 @@
       "author": "ALEX492",
       "board": "C_Chat",
       "publishTime": "2026/01/26 06:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "69",
-      "recommendCount": "101",
-      "title": "[公告] 水桶",
-      "link": "/bbs/BaseballXXXX/M.1769399548.A.4AB",
-      "author": "abc1234586",
-      "board": "BaseballXXXX",
-      "publishTime": "2026/01/26 03:52",
       "imageUrl": ""
     }
   ]
