@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-26T07:12:06.287Z",
+  "updated": "2026-01-26T07:31:41.064Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "38",
-      "recommendCount": "138",
-      "title": "[新聞] 霍諾德徒手爬101！郭正亮這點質疑：若有意外誰負責？",
-      "link": "/bbs/Gossiping/M.1769324654.A.39E",
-      "author": "DoncicInPTT",
-      "board": "Gossiping",
-      "publishTime": "2026/01/25 07:04",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "144",
       "recommendCount": "240",
       "title": "[LIVE] 英超 阿斯頓維拉2:0紐卡索聯 場中",
@@ -201,6 +191,16 @@
       "author": "pandalove",
       "board": "SportLottery",
       "publishTime": "2026/01/25 13:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "44",
+      "recommendCount": "126",
+      "title": "[討論] 館長宣布因為民進黨打壓 要關閉健身房",
+      "link": "/bbs/HatePolitics/M.1769348909.A.738",
+      "author": "a10141013",
+      "board": "HatePolitics",
+      "publishTime": "2026/01/25 13:48",
       "imageUrl": ""
     }
   ]
