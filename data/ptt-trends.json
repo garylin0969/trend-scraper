@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-26T09:00:33.738Z",
+  "updated": "2026-01-26T09:18:04.734Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "168",
+      "recommendCount": "413",
+      "title": "[新聞] 民眾黨版軍購條例來了！1.25兆「砍到只有4000億」　院版條文這些地方全刪",
+      "link": "/bbs/Gossiping/M.1769414455.A.33C",
+      "author": "westdoorcard",
+      "board": "Gossiping",
+      "publishTime": "2026/01/26 08:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "115",
       "recommendCount": "192",
       "title": "[爆卦] 唐鳳為戀童胞弟宣傳新書，外交部回應了!",
@@ -32,16 +42,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/25 13:09",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "95",
-      "recommendCount": "489",
-      "title": "Re: [閒聊] 鷹角受不了菲比拉電了嗎？",
-      "link": "/bbs/C_Chat/M.1769332215.A.1EF",
-      "author": "Mayfly",
-      "board": "C_Chat",
-      "publishTime": "2026/01/25 09:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/xk5NmHd/s/d4d8b4f1dca54d3202c20f381ce115c6"
     },
     {
       "recommendScore": "91",
@@ -61,16 +61,6 @@
       "author": "lotterywin",
       "board": "SportLottery",
       "publishTime": "2026/01/25 16:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "85",
-      "recommendCount": "161",
-      "title": "[問卦] Netflix特別感謝謝錯人欸 該出征了？",
-      "link": "/bbs/Gossiping/M.1769331975.A.2BD",
-      "author": "davis0918",
-      "board": "Gossiping",
-      "publishTime": "2026/01/25 09:06",
       "imageUrl": ""
     },
     {
@@ -104,6 +94,26 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/LRL4FH4/s/023e3ee7e761c5d8e4f0803266c65f43"
     },
     {
+      "recommendScore": "78",
+      "recommendCount": "195",
+      "title": "[新聞] 快訊／民眾黨軍購特別條例!1.25兆瘦身4000億　1年1期編列",
+      "link": "/bbs/Gossiping/M.1769414939.A.2AE",
+      "author": "postar",
+      "board": "Gossiping",
+      "publishTime": "2026/01/26 08:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "98",
+      "recommendCount": "161",
+      "title": "[情報] 0126 上市外資買賣超排行",
+      "link": "/bbs/Stock/M.1769415307.A.74F",
+      "author": "saber50116",
+      "board": "Stock",
+      "publishTime": "2026/01/26 08:15",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "101",
       "recommendCount": "119",
       "title": "[標的] 2633 台灣高鐵 多",
@@ -131,6 +141,16 @@
       "author": "laptic",
       "board": "C_Chat",
       "publishTime": "2026/01/25 10:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "65",
+      "recommendCount": "111",
+      "title": "[問卦] 多少比例的白痴可以摧毀一個國家？",
+      "link": "/bbs/Gossiping/M.1769413739.A.B79",
+      "author": "hegemony005",
+      "board": "Gossiping",
+      "publishTime": "2026/01/26 07:48",
       "imageUrl": ""
     },
     {
@@ -174,33 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "58",
-      "recommendCount": "96",
-      "title": "[情報] 2026 經典賽C組，晉級八強賠率",
-      "link": "/bbs/Baseball/M.1769351889.A.C80",
-      "author": "robinkidd",
-      "board": "Baseball",
-      "publishTime": "2026/01/25 14:38",
-      "imageUrl": "https://cache.pttweb.cc/imgur/WiLGJ2T/s/00d66462093b9f4a9b6cbaf7a512c934"
-    },
-    {
-      "recommendScore": "72",
-      "recommendCount": "91",
-      "title": "[新聞] 腿哥全智賢場內滿貫砲 中興甩尾辛苦開胡",
-      "link": "/bbs/Baseball/M.1769337568.A.884",
-      "author": "ZaneTrout",
-      "board": "Baseball",
-      "publishTime": "2026/01/25 10:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "81",
-      "recommendCount": "135",
-      "title": "[情報] WBC 侍Japan 剩餘選手公佈（缺一）",
-      "link": "/bbs/Baseball/M.1769404229.A.482",
-      "author": "rocky9137",
-      "board": "Baseball",
-      "publishTime": "2026/01/26 05:10",
+      "recommendScore": "73",
+      "recommendCount": "92",
+      "title": "[閒聊] 安柏官司打輸四周年",
+      "link": "/bbs/C_Chat/M.1769416446.A.8B4",
+      "author": "s7503228",
+      "board": "C_Chat",
+      "publishTime": "2026/01/26 08:34",
       "imageUrl": ""
     }
   ]
