@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-27T11:12:53.040Z",
+  "updated": "2026-01-27T11:30:47.918Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -51,6 +51,16 @@
       "author": "rainnawind",
       "board": "LoL",
       "publishTime": "2026/01/26 14:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "63",
+      "recommendCount": "98",
+      "title": "[閒聊] 微軟公佈GTA6容量為676G",
+      "link": "/bbs/C_Chat/M.1769511409.A.611",
+      "author": "peterboon",
+      "board": "C_Chat",
+      "publishTime": "2026/01/27 10:56",
       "imageUrl": ""
     },
     {
@@ -164,16 +174,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/8YaDWSm/s/00d145576eced6aecda8875e8fc76d2e"
     },
     {
-      "recommendScore": "32",
-      "recommendCount": "60",
-      "title": "[閒聊] 上年紀取ID有時要想好久",
-      "link": "/bbs/C_Chat/M.1769426035.A.96E",
-      "author": "togs",
-      "board": "C_Chat",
-      "publishTime": "2026/01/26 11:13",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "26",
       "recommendCount": "79",
       "title": "[問卦] 美大使：加拿大不買F35 美戰機將進入領空",
@@ -184,6 +184,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/tpU6zoX/s/517bc0030605ca6ba1d4b74d358a9b33"
     },
     {
+      "recommendScore": "8",
+      "recommendCount": "54",
+      "title": "[新聞] 財報出爐！去年大賺729億元 台電：盈餘將",
+      "link": "/bbs/Gossiping/M.1769510040.A.270",
+      "author": "Virness",
+      "board": "Gossiping",
+      "publishTime": "2026/01/27 10:34",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "21",
       "recommendCount": "49",
       "title": "[伯母] 敢不敢穩定一下伺服器",
@@ -191,16 +201,6 @@
       "author": "as374550",
       "board": "LoL",
       "publishTime": "2026/01/26 15:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "23",
-      "recommendCount": "48",
-      "title": "[閒聊] 第一把的BLG跟第二把的JDG哪個醜？",
-      "link": "/bbs/LoL/M.1769432964.A.022",
-      "author": "acapla",
-      "board": "LoL",
-      "publishTime": "2026/01/26 13:09",
       "imageUrl": ""
     }
   ]
