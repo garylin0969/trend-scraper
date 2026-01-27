@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-27T10:51:23.362Z",
+  "updated": "2026-01-27T11:01:28.269Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -52,16 +52,6 @@
       "board": "LoL",
       "publishTime": "2026/01/26 14:08",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "72",
-      "recommendCount": "109",
-      "title": "[閒聊] 台中連莊",
-      "link": "/bbs/BaseballXXXX/M.1769424624.A.8CB",
-      "author": "ROXSMEB",
-      "board": "BaseballXXXX",
-      "publishTime": "2026/01/26 10:50",
-      "imageUrl": "https://cache.pttweb.cc/imgur/6WUxCbo/s/74d6cb03213810e84dc70e5c8381a065"
     },
     {
       "recommendScore": "41",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2026/01/27 02:17",
       "imageUrl": "https://cache.pttweb.cc/imgur/tpU6zoX/s/517bc0030605ca6ba1d4b74d358a9b33"
+    },
+    {
+      "recommendScore": "21",
+      "recommendCount": "49",
+      "title": "[伯母] 敢不敢穩定一下伺服器",
+      "link": "/bbs/LoL/M.1769441801.A.570",
+      "author": "as374550",
+      "board": "LoL",
+      "publishTime": "2026/01/26 15:36",
+      "imageUrl": ""
     }
   ]
 }
