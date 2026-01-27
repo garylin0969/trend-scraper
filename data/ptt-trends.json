@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-27T13:01:37.924Z",
+  "updated": "2026-01-27T13:26:16.348Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -12,16 +12,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/27 05:00",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "62",
-      "recommendCount": "134",
-      "title": "[新聞] 王世堅打臉卓榮泰,蕭美琴! 沒人會稱法國",
-      "link": "/bbs/Gossiping/M.1769432483.A.872",
-      "author": "juyhnmki",
-      "board": "Gossiping",
-      "publishTime": "2026/01/26 13:01",
-      "imageUrl": "https://cache.pttweb.cc/imgur/UEEWMGp/s/68d4cb2204a65bf8d2eba6688d2f4c04"
     },
     {
       "recommendScore": "66",
@@ -114,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "30",
-      "recommendCount": "63",
-      "title": "[新聞] iPhone 不用台積電晶片了？分析師曝蘋果策略恐轉變",
-      "link": "/bbs/Gossiping/M.1769432654.A.8DE",
-      "author": "tank44444",
-      "board": "Gossiping",
-      "publishTime": "2026/01/26 13:04",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "26",
       "recommendCount": "79",
       "title": "[問卦] 美大使：加拿大不買F35 美戰機將進入領空",
@@ -154,16 +134,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "23",
-      "recommendCount": "48",
-      "title": "[閒聊] 第一把的BLG跟第二把的JDG哪個醜？",
-      "link": "/bbs/LoL/M.1769432964.A.022",
-      "author": "acapla",
-      "board": "LoL",
-      "publishTime": "2026/01/26 13:09",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "29",
       "recommendCount": "43",
       "title": "[情報] 115年01月26日信用交易統計",
@@ -171,6 +141,16 @@
       "author": "steward135",
       "board": "Stock",
       "publishTime": "2026/01/26 13:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "19",
+      "recommendCount": "65",
+      "title": "[討論] 黃國昌：我們不會審民眾黨版的軍購條例",
+      "link": "/bbs/HatePolitics/M.1769516773.A.40C",
+      "author": "Whitening",
+      "board": "HatePolitics",
+      "publishTime": "2026/01/27 12:26",
       "imageUrl": ""
     },
     {
@@ -194,6 +174,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/S5JgDI0/s/4ee98930a060e90c3f5400ec60d2eb37"
     },
     {
+      "recommendScore": "-3",
+      "recommendCount": "42",
+      "title": "[新聞] 小心出國「被送中」！外交部旅遊警示",
+      "link": "/bbs/Gossiping/M.1769516179.A.DAC",
+      "author": "alex1987",
+      "board": "Gossiping",
+      "publishTime": "2026/01/27 12:16",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "23",
       "recommendCount": "41",
       "title": "[問卦] 新台幣面額三千紙鈔要放誰？",
@@ -201,6 +191,16 @@
       "author": "popo1234",
       "board": "Gossiping",
       "publishTime": "2026/01/27 04:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "23",
+      "recommendCount": "72",
+      "title": "[新聞] 川普突漲韓關稅 25% 嚇壞台商！許舒博引韓為戒：台美關稅協議若卡關",
+      "link": "/bbs/HatePolitics/M.1769480898.A.8BC",
+      "author": "boogieman",
+      "board": "HatePolitics",
+      "publishTime": "2026/01/27 02:28",
       "imageUrl": ""
     }
   ]
