@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-27T16:09:55.994Z",
+  "updated": "2026-01-27T16:23:23.609Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "28",
-      "recommendCount": "75",
-      "title": "Re: [25冬] 關於海鈴為什麼哭",
-      "link": "/bbs/C_Chat/M.1769444474.A.B0B",
-      "author": "LastAttack",
-      "board": "C_Chat",
-      "publishTime": "2026/01/26 16:21",
-      "imageUrl": "https://cache.pttweb.cc/imgur/S5JgDI0/s/4ee98930a060e90c3f5400ec60d2eb37"
-    },
-    {
       "recommendScore": "-3",
       "recommendCount": "42",
       "title": "[新聞] 小心出國「被送中」！外交部旅遊警示",
@@ -202,6 +192,16 @@
       "board": "HatePolitics",
       "publishTime": "2026/01/27 02:28",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "24",
+      "recommendCount": "41",
+      "title": "[新聞] 高雄住商大樓水龍頭冒出「紅線蟲」 多人上吐下瀉還有住戶險喪命",
+      "link": "/bbs/Gossiping/M.1769523789.A.AA1",
+      "author": "armorblocks",
+      "board": "Gossiping",
+      "publishTime": "2026/01/27 14:23",
+      "imageUrl": "https://cache.pttweb.cc/imgur/PeKzPS4/s/2b3b605709e10590602a4dffeda4196c"
     }
   ]
 }
