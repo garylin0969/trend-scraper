@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-27T09:11:35.440Z",
+  "updated": "2026-01-27T09:26:19.255Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -62,16 +62,6 @@
       "board": "BaseballXXXX",
       "publishTime": "2026/01/26 10:50",
       "imageUrl": "https://cache.pttweb.cc/imgur/6WUxCbo/s/74d6cb03213810e84dc70e5c8381a065"
-    },
-    {
-      "recommendScore": "-10",
-      "recommendCount": "132",
-      "title": "[新聞] 黃國昌畢業作品「漏字」大出包！ 吳思瑤諷：少了戰字是怯戰嗎？",
-      "link": "/bbs/Gossiping/M.1769419205.A.190",
-      "author": "Doica2445",
-      "board": "Gossiping",
-      "publishTime": "2026/01/26 09:20",
-      "imageUrl": ""
     },
     {
       "recommendScore": "41",
@@ -184,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "40",
-      "recommendCount": "58",
-      "title": "[新聞] 都委會過了！迎輝達農曆年前簽約 下一步拚6月開工",
-      "link": "/bbs/Gossiping/M.1769418917.A.416",
-      "author": "pm2001",
-      "board": "Gossiping",
-      "publishTime": "2026/01/26 09:15",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "35",
       "recommendCount": "62",
       "title": "[問題] 日本為什麼動不動就解散國會",
@@ -201,6 +181,26 @@
       "author": "GTES",
       "board": "C_Chat",
       "publishTime": "2026/01/26 12:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "34",
+      "recommendCount": "65",
+      "title": "[閒聊] 為啥Netflix那麼有錢，翻譯可以那麼屎",
+      "link": "/bbs/C_Chat/M.1769431249.A.EC2",
+      "author": "ClannadGood",
+      "board": "C_Chat",
+      "publishTime": "2026/01/26 12:40",
+      "imageUrl": "https://cache.pttweb.cc/imgur/8YaDWSm/s/00d145576eced6aecda8875e8fc76d2e"
+    },
+    {
+      "recommendScore": "32",
+      "recommendCount": "60",
+      "title": "[閒聊] 上年紀取ID有時要想好久",
+      "link": "/bbs/C_Chat/M.1769426035.A.96E",
+      "author": "togs",
+      "board": "C_Chat",
+      "publishTime": "2026/01/26 11:13",
       "imageUrl": ""
     }
   ]
