@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-27T13:26:16.348Z",
+  "updated": "2026-01-27T13:47:34.918Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -134,16 +134,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "29",
-      "recommendCount": "43",
-      "title": "[情報] 115年01月26日信用交易統計",
-      "link": "/bbs/Stock/M.1769434797.A.995",
-      "author": "steward135",
-      "board": "Stock",
-      "publishTime": "2026/01/26 13:39",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "19",
       "recommendCount": "65",
       "title": "[討論] 黃國昌：我們不會審民眾黨版的軍購條例",
@@ -201,6 +191,16 @@
       "author": "boogieman",
       "board": "HatePolitics",
       "publishTime": "2026/01/27 02:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-5",
+      "recommendCount": "47",
+      "title": "[新聞] 關鍵在今午！10度封殺軍購北京就點頭 國民黨明宣布赴中「準智庫交流」",
+      "link": "/bbs/Gossiping/M.1769486487.A.55A",
+      "author": "drea",
+      "board": "Gossiping",
+      "publishTime": "2026/01/27 04:01",
       "imageUrl": ""
     }
   ]
