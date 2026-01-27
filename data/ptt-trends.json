@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-27T09:26:19.255Z",
+  "updated": "2026-01-27T09:44:30.335Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "22",
-      "recommendCount": "74",
-      "title": "[新聞] 影／民眾黨自提軍購預算 民進黨團批「淘寶版拼多多」",
-      "link": "/bbs/Gossiping/M.1769420130.A.017",
-      "author": "chopper594",
-      "board": "Gossiping",
-      "publishTime": "2026/01/26 09:35",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "30",
       "recommendCount": "63",
       "title": "[新聞] iPhone 不用台積電晶片了？分析師曝蘋果策略恐轉變",
@@ -202,6 +192,16 @@
       "board": "C_Chat",
       "publishTime": "2026/01/26 11:13",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "26",
+      "recommendCount": "79",
+      "title": "[問卦] 美大使：加拿大不買F35 美戰機將進入領空",
+      "link": "/bbs/Gossiping/M.1769480279.A.C31",
+      "author": "bluehttp",
+      "board": "Gossiping",
+      "publishTime": "2026/01/27 02:17",
+      "imageUrl": "https://cache.pttweb.cc/imgur/tpU6zoX/s/517bc0030605ca6ba1d4b74d358a9b33"
     }
   ]
 }
