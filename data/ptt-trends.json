@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-28T13:30:42.985Z",
+  "updated": "2026-01-28T13:52:32.818Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -11,6 +11,26 @@
       "author": "coconing",
       "board": "Stock",
       "publishTime": "2026/01/28 07:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "131",
+      "recommendCount": "262",
+      "title": "[新聞] 柯瑞多次引進球星遭拒！勇士內部矛盾浮檯面恐走向崩壞",
+      "link": "/bbs/NBA/M.1769588577.A.954",
+      "author": "playerunknow",
+      "board": "NBA",
+      "publishTime": "2026/01/28 08:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "602",
+      "recommendCount": "1029",
+      "title": "[電競] 2026 LCK Cup W3D1 超級週",
+      "link": "/bbs/LoL/M.1769585670.A.B44",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/01/28 07:34",
       "imageUrl": ""
     },
     {
@@ -74,16 +94,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "74",
-      "recommendCount": "134",
-      "title": "[新聞] 柯瑞多次引進球星遭拒！勇士內部矛盾浮檯面恐走向崩壞",
-      "link": "/bbs/NBA/M.1769588577.A.954",
-      "author": "playerunknow",
-      "board": "NBA",
-      "publishTime": "2026/01/28 08:22",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "78",
       "recommendCount": "112",
       "title": "Re: [新聞] 獨家》酸蕭美琴IPAC演說「場地自己租」遭法辦 網友判決出爐",
@@ -104,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "272",
+      "recommendCount": "531",
+      "title": "[LIVE] 澳網 J.辛納 @ 班.謝爾頓  場中",
+      "link": "/bbs/SportLottery/M.1769585753.A.497",
+      "author": "ys2266",
+      "board": "SportLottery",
+      "publishTime": "2026/01/28 07:35",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "87",
       "recommendCount": "111",
       "title": "[花邊] 哈利聊當他發現奧運不會上場的時候",
@@ -111,6 +131,16 @@
       "author": "eric20601",
       "board": "NBA",
       "publishTime": "2026/01/28 03:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "57",
+      "recommendCount": "119",
+      "title": "[新聞] 台美關稅15%不疊加 自行車產業：有望迎春燕",
+      "link": "/bbs/HatePolitics/M.1769587866.A.890",
+      "author": "wowbenny",
+      "board": "HatePolitics",
+      "publishTime": "2026/01/28 08:11",
       "imageUrl": ""
     },
     {
@@ -154,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "14",
+      "recommendCount": "136",
+      "title": "[討論] 鄭麗文：美國曾經是恩人，但中國是親人",
+      "link": "/bbs/HatePolitics/M.1769596336.A.658",
+      "author": "invlaw",
+      "board": "HatePolitics",
+      "publishTime": "2026/01/28 10:32",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "40",
       "recommendCount": "94",
       "title": "[爆卦] 張又俠已被解救；北京兩派對峙；習躲進",
@@ -162,46 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/28 06:23",
       "imageUrl": "https://cache.pttweb.cc/imgur/dt8rzBm/s/83a33589369bd333fe9c4dee5489c588"
-    },
-    {
-      "recommendScore": "188",
-      "recommendCount": "343",
-      "title": "[電競] 2026 LCK Cup W3D1 超級週",
-      "link": "/bbs/LoL/M.1769585670.A.B44",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/01/28 07:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "36",
-      "recommendCount": "141",
-      "title": "[新聞] 陸國台辦批賴總統「企圖實行綠色獨裁統治」",
-      "link": "/bbs/Gossiping/M.1769585414.A.B68",
-      "author": "gogobar",
-      "board": "Gossiping",
-      "publishTime": "2026/01/28 07:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "12",
-      "recommendCount": "87",
-      "title": "[問卦] 會把John翻成約翰的英文到底多差？",
-      "link": "/bbs/Gossiping/M.1769583133.A.0D8",
-      "author": "gmisnotme",
-      "board": "Gossiping",
-      "publishTime": "2026/01/28 06:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "55",
-      "recommendCount": "140",
-      "title": "[閒聊] 日網民:我被結婚對象強迫在結婚跟遊戲間二選一了...",
-      "link": "/bbs/C_Chat/M.1769581240.A.1C9",
-      "author": "jeremy12437",
-      "board": "C_Chat",
-      "publishTime": "2026/01/28 06:20",
-      "imageUrl": ""
     }
   ]
 }
