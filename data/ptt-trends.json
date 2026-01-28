@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-28T03:02:44.084Z",
+  "updated": "2026-01-28T03:47:10.247Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -64,13 +64,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "22",
-      "recommendCount": "96",
-      "title": "[新聞] 1.25兆特別條例遭白營砍剩4000億 國防部：版本窒礙難行",
-      "link": "/bbs/Gossiping/M.1769483219.A.EC0",
-      "author": "mongi",
+      "recommendScore": "35",
+      "recommendCount": "91",
+      "title": "[新聞] 北捷手扶梯開戰！趕車求左側讓路被酸「走樓梯」 兩人鬧上法院",
+      "link": "/bbs/Gossiping/M.1769568594.A.0B4",
+      "author": "kent",
       "board": "Gossiping",
-      "publishTime": "2026/01/27 03:06",
+      "publishTime": "2026/01/28 02:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "19",
+      "recommendCount": "147",
+      "title": "[問卦] 國台辦：和平統一 將給台灣創造巨大機遇",
+      "link": "/bbs/Gossiping/M.1769568148.A.A4B",
+      "author": "lulu1305174",
+      "board": "Gossiping",
+      "publishTime": "2026/01/28 02:42",
       "imageUrl": ""
     },
     {
@@ -144,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "39",
-      "recommendCount": "39",
-      "title": "[發錢] 迪亞哥FGO 第二部 開幕 DC群組推廣",
-      "link": "/bbs/C_Chat/M.1769483245.A.21E",
-      "author": "boss0322",
-      "board": "C_Chat",
-      "publishTime": "2026/01/27 03:07",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "23",
       "recommendCount": "75",
       "title": "[問題] 咒術迴戰最後為什麼沒辦法營造絕望感",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "15",
+      "recommendCount": "49",
+      "title": "[問卦] 靠北！美國又要雷曼了！？",
+      "link": "/bbs/Gossiping/M.1769568776.A.D00",
+      "author": "STAV72",
+      "board": "Gossiping",
+      "publishTime": "2026/01/28 02:52",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-8",
       "recommendCount": "59",
       "title": "[新聞] 賴總統：審預算是國會責任 不是要求總統府配合的籌碼",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/27 14:22",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "24",
-      "recommendCount": "41",
-      "title": "[新聞] 高雄住商大樓水龍頭冒出「紅線蟲」 多人上吐下瀉還有住戶險喪命",
-      "link": "/bbs/Gossiping/M.1769523789.A.AA1",
-      "author": "armorblocks",
-      "board": "Gossiping",
-      "publishTime": "2026/01/27 14:23",
-      "imageUrl": "https://cache.pttweb.cc/imgur/PeKzPS4/s/2b3b605709e10590602a4dffeda4196c"
     }
   ]
 }
