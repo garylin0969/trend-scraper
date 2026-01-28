@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-28T02:16:45.299Z",
+  "updated": "2026-01-28T03:02:44.084Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,6 +14,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "14",
+      "recommendCount": "116",
+      "title": "[花邊] 美記：詹姆斯並沒有要求湖人選布朗尼",
+      "link": "/bbs/NBA/M.1769566419.A.57A",
+      "author": "Kazmier",
+      "board": "NBA",
+      "publishTime": "2026/01/28 02:13",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "63",
       "recommendCount": "98",
       "title": "[閒聊] 微軟公佈GTA6容量為676G",
@@ -22,6 +32,16 @@
       "board": "C_Chat",
       "publishTime": "2026/01/27 10:56",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "40",
+      "recommendCount": "124",
+      "title": "[問卦] 韓國球團不忍了 禁止韓援啦啦隊來台應援",
+      "link": "/bbs/Gossiping/M.1769565856.A.7AD",
+      "author": "westdoorcard",
+      "board": "Gossiping",
+      "publishTime": "2026/01/28 02:04",
+      "imageUrl": "https://cache.pttweb.cc/imgur/OsYiQH9/s/66f7725fb26d9d4dd66d161faf294e40"
     },
     {
       "recommendScore": "72",
@@ -54,16 +74,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "26",
-      "recommendCount": "78",
-      "title": "[問卦] 連女醫師都在當網紅賣肉？",
-      "link": "/bbs/Gossiping/M.1769481269.A.ABC",
-      "author": "attpp",
-      "board": "Gossiping",
-      "publishTime": "2026/01/27 02:34",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "33",
       "recommendCount": "60",
       "title": "[閒聊] Toyz獄中遭爆娶篠崎泫 升格台灣女婿免遭",
@@ -82,16 +92,6 @@
       "board": "BaseballXXXX",
       "publishTime": "2026/01/27 04:33",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "26",
-      "recommendCount": "79",
-      "title": "[問卦] 美大使：加拿大不買F35 美戰機將進入領空",
-      "link": "/bbs/Gossiping/M.1769480279.A.C31",
-      "author": "bluehttp",
-      "board": "Gossiping",
-      "publishTime": "2026/01/27 02:17",
-      "imageUrl": "https://cache.pttweb.cc/imgur/tpU6zoX/s/517bc0030605ca6ba1d4b74d358a9b33"
     },
     {
       "recommendScore": "8",
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "17",
+      "recommendCount": "59",
+      "title": "[新聞] 陸國台辦宣布：「國共兩黨智庫論壇」2月3日北京舉辦",
+      "link": "/bbs/Gossiping/M.1769567003.A.0F4",
+      "author": "seiya2000",
+      "board": "Gossiping",
+      "publishTime": "2026/01/28 02:23",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "46",
       "recommendCount": "142",
       "title": "[討論] 小南的年收入>三李嗎？",
@@ -141,6 +151,16 @@
       "author": "boss0322",
       "board": "C_Chat",
       "publishTime": "2026/01/27 03:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "23",
+      "recommendCount": "75",
+      "title": "[問題] 咒術迴戰最後為什麼沒辦法營造絕望感",
+      "link": "/bbs/C_Chat/M.1769566243.A.D95",
+      "author": "wusbetz",
+      "board": "C_Chat",
+      "publishTime": "2026/01/28 02:10",
       "imageUrl": ""
     },
     {
@@ -174,16 +194,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "23",
-      "recommendCount": "72",
-      "title": "[新聞] 川普突漲韓關稅 25% 嚇壞台商！許舒博引韓為戒：台美關稅協議若卡關",
-      "link": "/bbs/HatePolitics/M.1769480898.A.8BC",
-      "author": "boogieman",
-      "board": "HatePolitics",
-      "publishTime": "2026/01/27 02:28",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "24",
       "recommendCount": "41",
       "title": "[新聞] 高雄住商大樓水龍頭冒出「紅線蟲」 多人上吐下瀉還有住戶險喪命",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/27 14:23",
       "imageUrl": "https://cache.pttweb.cc/imgur/PeKzPS4/s/2b3b605709e10590602a4dffeda4196c"
-    },
-    {
-      "recommendScore": "-5",
-      "recommendCount": "47",
-      "title": "[新聞] 關鍵在今午！10度封殺軍購北京就點頭 國民黨明宣布赴中「準智庫交流」",
-      "link": "/bbs/Gossiping/M.1769486487.A.55A",
-      "author": "drea",
-      "board": "Gossiping",
-      "publishTime": "2026/01/27 04:01",
-      "imageUrl": ""
     }
   ]
 }
