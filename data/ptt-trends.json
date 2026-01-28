@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-28T04:35:34.070Z",
+  "updated": "2026-01-28T04:55:08.950Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "39",
-      "recommendCount": "56",
-      "title": "[閒聊] 賈永婕的比喻恰當嗎？",
-      "link": "/bbs/BaseballXXXX/M.1769488429.A.956",
-      "author": "TsukimiyaAyu",
-      "board": "BaseballXXXX",
-      "publishTime": "2026/01/27 04:33",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "8",
       "recommendCount": "54",
       "title": "[新聞] 財報出爐！去年大賺729億元 台電：盈餘將",
@@ -201,6 +191,16 @@
       "author": "Kaoru93",
       "board": "BaseballXXXX",
       "publishTime": "2026/01/27 10:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "17",
+      "recommendCount": "50",
+      "title": "[問卦] 現在的物價一餐100幾乎不可能了吧?",
+      "link": "/bbs/Gossiping/M.1769570964.A.954",
+      "author": "wanubz9v",
+      "board": "Gossiping",
+      "publishTime": "2026/01/28 03:29",
       "imageUrl": ""
     }
   ]
