@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-28T05:58:31.087Z",
+  "updated": "2026-01-28T06:15:36.483Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -21,6 +21,16 @@
       "author": "Kazmier",
       "board": "NBA",
       "publishTime": "2026/01/28 02:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "50",
+      "recommendCount": "102",
+      "title": "[新聞] 面板市場回溫，群創1月營運相對樂觀",
+      "link": "/bbs/Stock/M.1769578455.A.504",
+      "author": "Kai877",
+      "board": "Stock",
+      "publishTime": "2026/01/28 05:34",
       "imageUrl": ""
     },
     {
@@ -144,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "50",
+      "recommendCount": "126",
+      "title": "[花邊] Tatum：如果我在灰熊隊，球場外有我的雕像",
+      "link": "/bbs/NBA/M.1769578757.A.D67",
+      "author": "Mikufans",
+      "board": "NBA",
+      "publishTime": "2026/01/28 05:39",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "23",
       "recommendCount": "110",
       "title": "[請益] 記憶體大漲會促成AI泡沫嗎",
@@ -174,33 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "29",
-      "recommendCount": "143",
-      "title": "[問卦] 小黃丟包64道路命案 為何還有人無腦挺司",
-      "link": "/bbs/Gossiping/M.1769576187.A.F87",
-      "author": "enlong777",
-      "board": "Gossiping",
-      "publishTime": "2026/01/28 04:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "8",
-      "recommendCount": "54",
-      "title": "[新聞] 財報出爐！去年大賺729億元 台電：盈餘將",
-      "link": "/bbs/Gossiping/M.1769510040.A.270",
-      "author": "Virness",
-      "board": "Gossiping",
-      "publishTime": "2026/01/27 10:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "27",
-      "recommendCount": "83",
-      "title": "[閒聊] 會怕澳洲捷克的",
-      "link": "/bbs/BaseballXXXX/M.1769509485.A.9C7",
-      "author": "Kaoru93",
-      "board": "BaseballXXXX",
-      "publishTime": "2026/01/27 10:24",
+      "recommendScore": "36",
+      "recommendCount": "50",
+      "title": "[閒聊] S11總決前Khan因吃三倍辣火雞麵狀態不佳",
+      "link": "/bbs/LoL/M.1769575730.A.86F",
+      "author": "sezna",
+      "board": "LoL",
+      "publishTime": "2026/01/28 04:48",
       "imageUrl": ""
     }
   ]
