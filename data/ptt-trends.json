@@ -1,8 +1,28 @@
 {
-  "updated": "2026-01-28T11:41:17.260Z",
+  "updated": "2026-01-28T11:50:17.489Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "104",
+      "recommendCount": "300",
+      "title": "[問卦] 無蝦米好難 現在還有人在用嗎？",
+      "link": "/bbs/Gossiping/M.1769582760.A.A89",
+      "author": "jennieofbp",
+      "board": "Gossiping",
+      "publishTime": "2026/01/28 06:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "157",
+      "recommendCount": "514",
+      "title": "Re: [閒聊] steam在英國被起訴了",
+      "link": "/bbs/C_Chat/M.1769582368.A.AB1",
+      "author": "speed7022",
+      "board": "C_Chat",
+      "publishTime": "2026/01/28 06:39",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "87",
       "recommendCount": "111",
@@ -52,6 +72,16 @@
       "board": "Gossiping",
       "publishTime": "2026/01/28 06:23",
       "imageUrl": "https://cache.pttweb.cc/imgur/dt8rzBm/s/83a33589369bd333fe9c4dee5489c588"
+    },
+    {
+      "recommendScore": "12",
+      "recommendCount": "87",
+      "title": "[問卦] 會把John翻成約翰的英文到底多差？",
+      "link": "/bbs/Gossiping/M.1769583133.A.0D8",
+      "author": "gmisnotme",
+      "board": "Gossiping",
+      "publishTime": "2026/01/28 06:52",
+      "imageUrl": ""
     },
     {
       "recommendScore": "55",
@@ -124,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "61",
+      "recommendCount": "76",
+      "title": "[閒聊] lol有多少情侶關係是官方承認的啊",
+      "link": "/bbs/LoL/M.1769583121.A.C49",
+      "author": "Creepig0519",
+      "board": "LoL",
+      "publishTime": "2026/01/28 06:52",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "72",
       "recommendCount": "165",
       "title": "[問題] 你覺得器官買賣是真的？（政治1/1）",
@@ -161,46 +201,6 @@
       "author": "ys2266",
       "board": "SportLottery",
       "publishTime": "2026/01/28 03:12",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "19",
-      "recommendCount": "147",
-      "title": "[問卦] 國台辦：和平統一 將給台灣創造巨大機遇",
-      "link": "/bbs/Gossiping/M.1769568148.A.A4B",
-      "author": "lulu1305174",
-      "board": "Gossiping",
-      "publishTime": "2026/01/28 02:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "35",
-      "recommendCount": "71",
-      "title": "[閒聊] steam在英國被起訴了",
-      "link": "/bbs/C_Chat/M.1769580898.A.9F5",
-      "author": "ass499",
-      "board": "C_Chat",
-      "publishTime": "2026/01/28 06:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "39",
-      "recommendCount": "88",
-      "title": "[情報]鵜鶘積極尋求一支26籤",
-      "link": "/bbs/NBA/M.1769570468.A.525",
-      "author": "bm1041644",
-      "board": "NBA",
-      "publishTime": "2026/01/28 03:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "50",
-      "recommendCount": "126",
-      "title": "[花邊] Tatum：如果我在灰熊隊，球場外有我的雕像",
-      "link": "/bbs/NBA/M.1769578757.A.D67",
-      "author": "Mikufans",
-      "board": "NBA",
-      "publishTime": "2026/01/28 05:39",
       "imageUrl": ""
     }
   ]
