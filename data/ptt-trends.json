@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-28T06:32:54.777Z",
+  "updated": "2026-01-28T06:55:00.377Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "40",
+      "recommendCount": "94",
+      "title": "[爆卦] 張又俠已被解救；北京兩派對峙；習躲進",
+      "link": "/bbs/Gossiping/M.1769581394.A.238",
+      "author": "lulu1305174",
+      "board": "Gossiping",
+      "publishTime": "2026/01/28 06:23",
+      "imageUrl": "https://cache.pttweb.cc/imgur/dt8rzBm/s/83a33589369bd333fe9c4dee5489c588"
+    },
+    {
+      "recommendScore": "55",
+      "recommendCount": "140",
+      "title": "[閒聊] 日網民:我被結婚對象強迫在結婚跟遊戲間二選一了...",
+      "link": "/bbs/C_Chat/M.1769581240.A.1C9",
+      "author": "jeremy12437",
+      "board": "C_Chat",
+      "publishTime": "2026/01/28 06:20",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "63",
       "recommendCount": "98",
       "title": "[閒聊] 微軟公佈GTA6容量為676G",
@@ -62,6 +82,16 @@
       "board": "Gossiping",
       "publishTime": "2026/01/28 02:04",
       "imageUrl": "https://cache.pttweb.cc/imgur/OsYiQH9/s/66f7725fb26d9d4dd66d161faf294e40"
+    },
+    {
+      "recommendScore": "36",
+      "recommendCount": "115",
+      "title": "[問卦] Cheap「霍諾德在台灣騎車比爬101危險」",
+      "link": "/bbs/Gossiping/M.1769580767.A.1B5",
+      "author": "LeeSeDol",
+      "board": "Gossiping",
+      "publishTime": "2026/01/28 06:12",
+      "imageUrl": ""
     },
     {
       "recommendScore": "38",
@@ -144,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "35",
+      "recommendCount": "71",
+      "title": "[閒聊] steam在英國被起訴了",
+      "link": "/bbs/C_Chat/M.1769580898.A.9F5",
+      "author": "ass499",
+      "board": "C_Chat",
+      "publishTime": "2026/01/28 06:14",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "39",
       "recommendCount": "88",
       "title": "[情報]鵜鶘積極尋求一支26籤",
@@ -161,46 +201,6 @@
       "author": "Mikufans",
       "board": "NBA",
       "publishTime": "2026/01/28 05:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "23",
-      "recommendCount": "110",
-      "title": "[請益] 記憶體大漲會促成AI泡沫嗎",
-      "link": "/bbs/Stock/M.1769570435.A.7C0",
-      "author": "VScode",
-      "board": "Stock",
-      "publishTime": "2026/01/28 03:20",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-22",
-      "recommendCount": "63",
-      "title": "[新聞] 486先生鐵口 「2026是民眾黨消失的一年」",
-      "link": "/bbs/Gossiping/M.1769575908.A.C3D",
-      "author": "zzyyxx77",
-      "board": "Gossiping",
-      "publishTime": "2026/01/28 04:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "33",
-      "recommendCount": "60",
-      "title": "[閒聊] Toyz獄中遭爆娶篠崎泫 升格台灣女婿免遭",
-      "link": "/bbs/C_Chat/M.1769562833.A.9EC",
-      "author": "AoyamaNanami",
-      "board": "C_Chat",
-      "publishTime": "2026/01/28 01:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "36",
-      "recommendCount": "50",
-      "title": "[閒聊] S11總決前Khan因吃三倍辣火雞麵狀態不佳",
-      "link": "/bbs/LoL/M.1769575730.A.86F",
-      "author": "sezna",
-      "board": "LoL",
-      "publishTime": "2026/01/28 04:48",
       "imageUrl": ""
     }
   ]
