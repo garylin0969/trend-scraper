@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-29T07:09:08.949Z",
+  "updated": "2026-01-29T07:29:15.490Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,16 +74,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "133",
-      "recommendCount": "193",
-      "title": "[問卦]女人腳邊蹲著的是人面狗嗎",
-      "link": "/bbs/Gossiping/M.1769584388.A.762",
-      "author": "ofese0207",
-      "board": "Gossiping",
-      "publishTime": "2026/01/28 07:13",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "139",
       "recommendCount": "192",
       "title": "[情報] 0128 上市外資買賣超排行",
@@ -132,16 +122,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/28 08:16",
       "imageUrl": "https://cache.pttweb.cc/imgur/XYdPBF7/s/08fe3ed09dea6c6ac1501d9037052cd1"
-    },
-    {
-      "recommendScore": "85",
-      "recommendCount": "130",
-      "title": "[閒聊] 打扮成伊布可以幹嘛?",
-      "link": "/bbs/C_Chat/M.1769585068.A.D8D",
-      "author": "Gentlemon",
-      "board": "C_Chat",
-      "publishTime": "2026/01/28 07:24",
-      "imageUrl": ""
     },
     {
       "recommendScore": "193",
@@ -201,6 +181,26 @@
       "author": "LDMisshit",
       "board": "Gossiping",
       "publishTime": "2026/01/29 04:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "43",
+      "recommendCount": "161",
+      "title": "[新聞] 陸國台辦批賴總統「企圖實行綠色獨裁統治」",
+      "link": "/bbs/Gossiping/M.1769585414.A.B68",
+      "author": "gogobar",
+      "board": "Gossiping",
+      "publishTime": "2026/01/28 07:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "292",
+      "recommendCount": "428",
+      "title": "[討論] [Vtub] Hololive 晚間直播單 (1150128)",
+      "link": "/bbs/C_Chat/M.1769597083.A.60A",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2026/01/28 10:44",
       "imageUrl": ""
     }
   ]
