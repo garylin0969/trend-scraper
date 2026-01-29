@@ -1,10 +1,10 @@
 {
-  "updated": "2026-01-29T04:47:23.686Z",
+  "updated": "2026-01-29T05:31:45.626Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-29T04:47:12.000Z",
+    "lastBuildDate": "2026-01-29T05:31:44.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -16,6 +16,14 @@
       "pubDate": "2026-01-29T03:41:36.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c1m7y585x71o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1909/live/8840bdb0-fcc0-11f0-be2d-7b4b1a60e9bc.jpg"
+    },
+    {
+      "title": "「時隔太久」：施紀賢習近平首次在北京會晤",
+      "description": "英國首相施紀賢爵士對中國國家主席習近平說，英中建設「更精細」關係至關重要。",
+      "link": "https://www.bbc.com/zhongwen/articles/c368y7ex161o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-29T04:52:13.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c368y7ex161o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/89a6/live/3cb4a9d0-fcd2-11f0-b7e1-afb6d0884c18.jpg"
     },
     {
       "title": "分析：張又俠「七宗罪」和 「紅二代」世交神話的破滅",
@@ -34,14 +42,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d79d/live/580b7520-fc04-11f0-a422-4ba8a094a8fa.jpg"
     },
     {
-      "title": "英國首相八年來首次訪華　施紀賢亞洲行的時機和任務",
-      "description": "施紀賢星期二出發先後訪問往北京和東京。日本方面透露施紀賢將於31日到訪，期間將會晤日本首相高市早苗。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx2we08l9qpo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-27T06:43:08.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx2we08l9qpo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/145f/live/d962d080-fb07-11f0-a47f-d352a7d9988a.jpg"
-    },
-    {
       "title": "「AI鏡子」正在改變視障人士看見自己的方式",
       "description": "人工智能正幫助視障人士獲得關於自己身體的視覺反饋——這對許多人而言是人生首次。但其情緒和心理影響，卻才剛剛開始浮現。",
       "link": "https://www.bbc.com/zhongwen/articles/cn82pn4nvj9o/trad?at_medium=RSS&at_campaign=rss",
@@ -58,7 +58,7 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7d6a/live/1dc87370-f5e4-11f0-b5f7-49f0357294ff.jpg"
     },
     {
-      "title": "馬年將至，這隻「哭哭馬」玩具在中國春節前意外走红",
+      "title": "馬年將至，這隻「哭哭馬」玩具在中國春節前意外走紅",
       "description": "店主表示，這個產品起初只是一次生產失誤，但是卻意外擊中了上班族的「牛馬」心情。",
       "link": "https://www.bbc.com/zhongwen/articles/c3ed2xzlz9ko/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-01-28T04:16:53.000Z",
@@ -194,20 +194,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8749/live/b8f67850-f130-11f0-8813-c1dd7edee31e.jpg"
     },
     {
+      "title": "英國首相八年來首次訪華　施紀賢亞洲行的時機和任務",
+      "description": "施紀賢星期二出發先後訪問往北京和東京。日本方面透露施紀賢將於31日到訪，期間將會晤日本首相高市早苗。",
+      "link": "https://www.bbc.com/zhongwen/articles/cx2we08l9qpo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-27T06:43:08.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx2we08l9qpo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/145f/live/d962d080-fb07-11f0-a47f-d352a7d9988a.jpg"
+    },
+    {
       "title": "中國調查解放軍最高級將領張又俠 官媒批其「造成極大破壞」",
       "description": "現年75歲的張又俠是除習近平之外，中國解放軍中實際排名最高的將領。他的父親張宗遜是中共開國上將，曾與習近平的父親並肩作戰。",
       "link": "https://www.bbc.com/zhongwen/articles/cx2k4pxdyyzo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-01-25T08:21:34.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx2k4pxdyyzo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2907/live/c11a0a10-f9c8-11f0-b5f7-49f0357294ff.jpg"
-    },
-    {
-      "title": "我曾像許多女性一樣「掩蓋更年期症狀」——但這樣可能帶來後果",
-      "description": "對某些女性而言，隱瞞更年期症狀可能引發連鎖效應，例如提高倦怠風險。",
-      "link": "https://www.bbc.com/zhongwen/articles/cz6yy4vyx86o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-27T00:25:11.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cz6yy4vyx86o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f5d3/live/b3f44850-f13f-11f0-b385-5f48925de19a.jpg"
     },
     {
       "title": "台北101徒手攀爬：霍諾德僅91分鐘登頂，妻子笑稱「不要再做了」",
@@ -290,6 +290,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d843/live/4b6f9a20-fa9d-11f0-a9b2-e154b2ff290d.jpg"
     },
     {
+      "title": "我曾像許多女性一樣「掩蓋更年期症狀」——但這樣可能帶來後果",
+      "description": "對某些女性而言，隱瞞更年期症狀可能引發連鎖效應，例如提高倦怠風險。",
+      "link": "https://www.bbc.com/zhongwen/articles/cz6yy4vyx86o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-27T00:25:11.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cz6yy4vyx86o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f5d3/live/b3f44850-f13f-11f0-b385-5f48925de19a.jpg"
+    },
+    {
       "title": "觀看過400多次北極光的攝影師分享「追光」秘訣",
       "description": "2026年可能是觀賞極光的良機。已經觀看過400多次北極光的攝影師威爾·張分享了他追光的秘訣。",
       "link": "https://www.bbc.com/zhongwen/articles/cx20r9w98zzo/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2026-01-26T00:30:11.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cwyn80pwxq4o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6f24/live/99a67690-f2d3-11f0-b385-5f48925de19a.jpg"
-    },
-    {
-      "title": "中國正在悄悄贏得AI競賽嗎？",
-      "description": "斯坦福大學上月發布的一份報告指出，中國的AI模型「似乎已趕上甚至超越」全球對手。",
-      "link": "https://www.bbc.com/zhongwen/articles/c8e5gz0zn8po/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-25T05:33:59.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c8e5gz0zn8po/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/82c7/live/8a085560-f77d-11f0-b7ec-55c1cb544783.jpg"
     }
   ]
 }
