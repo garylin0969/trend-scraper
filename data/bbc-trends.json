@@ -1,14 +1,22 @@
 {
-  "updated": "2026-01-29T09:27:54.725Z",
+  "updated": "2026-01-29T09:59:49.316Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-29T09:27:46.000Z",
+    "lastBuildDate": "2026-01-29T09:58:14.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "「時隔太久」：施紀賢習近平在北京「談及人權問題」",
+      "description": "英國首相施紀賢爵士對中國國家主席習近平說，英中建設「更精細」關係至關重要。",
+      "link": "https://www.bbc.com/zhongwen/articles/c368y7ex161o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-29T09:35:31.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c368y7ex161o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cd89/live/42c657c0-fcf4-11f0-9972-d3f265c101c6.jpg"
+    },
     {
       "title": "為什麼中國將英國首相施紀賢來訪視為更大局面的一部分？",
       "description": "施紀賢是近期前往北京的多位世界領導人之一。",
@@ -24,14 +32,6 @@
       "pubDate": "2026-01-29T06:08:19.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cz7y258r79no/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8765/live/3dcf32d0-fcd8-11f0-9972-d3f265c101c6.jpg"
-    },
-    {
-      "title": "「時隔太久」：施紀賢習近平首次在北京會晤",
-      "description": "英國首相施紀賢爵士對中國國家主席習近平說，英中建設「更精細」關係至關重要。",
-      "link": "https://www.bbc.com/zhongwen/articles/c368y7ex161o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-29T04:52:13.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c368y7ex161o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/89a6/live/3cb4a9d0-fcd2-11f0-b7e1-afb6d0884c18.jpg"
     },
     {
       "title": "美國正準備再次打擊伊朗嗎？",
@@ -170,20 +170,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2763/live/edf25770-faf1-11f0-adda-0755af0bac4f.jpg"
     },
     {
-      "title": "當世界逐步倒退回二戰前的國際秩序，「中等強國」面臨前所未有的新挑戰",
-      "description": "在經濟停滯和嚴重不平等的情況下，社會對民主制度的信任逐漸被侵蝕。因此，特朗普可能是卡尼所稱的「與二戰後秩序決裂」趨勢的症狀，而非成因。",
-      "link": "https://www.bbc.com/zhongwen/articles/c050d822d5go/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-26T07:38:26.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c050d822d5go/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d952/live/ae60d9d0-f86a-11f0-b385-5f48925de19a.jpg"
-    },
-    {
       "title": "特朗普指加拿大試圖成為中國商品轉運港，威脅加徵100%關稅",
       "description": "特朗普表示：「如果加拿大與中國達成協議，所有進入美國的加拿大商品和產品將立即被徵收100%的關稅。」加拿大否認尋求與中國達成自貿協議。",
       "link": "https://www.bbc.com/zhongwen/articles/clym200gemeo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-01-25T10:07:09.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/clym200gemeo/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ef43/live/2a5f94f0-f937-11f0-814e-71ff186d4f46.jpg"
+    },
+    {
+      "title": "當世界逐步倒退回二戰前的國際秩序，「中等強國」面臨前所未有的新挑戰",
+      "description": "在經濟停滯和嚴重不平等的情況下，社會對民主制度的信任逐漸被侵蝕。因此，特朗普可能是卡尼所稱的「與二戰後秩序決裂」趨勢的症狀，而非成因。",
+      "link": "https://www.bbc.com/zhongwen/articles/c050d822d5go/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-26T07:38:26.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c050d822d5go/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d952/live/ae60d9d0-f86a-11f0-b385-5f48925de19a.jpg"
     },
     {
       "title": "中國再用稀土「大棒」制裁日本  美中休戰期日韓遭遇「一拉一踩」",
