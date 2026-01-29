@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-29T04:14:54.209Z",
+  "updated": "2026-01-29T04:50:50.538Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "131",
+      "recommendCount": "229",
+      "title": "[BOX ] Lakers 99:129 Cavaliers",
+      "link": "/bbs/NBA/M.1769653732.A.4DE",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2026/01/29 02:28",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "133",
       "recommendCount": "193",
       "title": "[問卦]女人腳邊蹲著的是人面狗嗎",
@@ -164,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "193",
+      "recommendCount": "312",
+      "title": "[LIVE] 足球 沙迦@阿爾達夫拉SSC 場中",
+      "link": "/bbs/SportLottery/M.1769605215.A.A60",
+      "author": "pandalove",
+      "board": "SportLottery",
+      "publishTime": "2026/01/28 13:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "65",
       "recommendCount": "121",
       "title": "[問卦] 陳橘辭世了？",
@@ -181,26 +201,6 @@
       "author": "iami1002",
       "board": "Gossiping",
       "publishTime": "2026/01/28 10:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "96",
-      "recommendCount": "112",
-      "title": "Re: [LIVE] 足球 沙迦@阿爾達夫拉SSC 場中",
-      "link": "/bbs/SportLottery/M.1769612904.A.07E",
-      "author": "lotterywin",
-      "board": "SportLottery",
-      "publishTime": "2026/01/28 15:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "28",
-      "recommendCount": "223",
-      "title": "[新聞] 談國共論壇「大陸才是我們的親人」　鄭麗文：絕不會骨肉相殘",
-      "link": "/bbs/Gossiping/M.1769594515.A.462",
-      "author": "wavespirit",
-      "board": "Gossiping",
-      "publishTime": "2026/01/28 10:01",
       "imageUrl": ""
     }
   ]
