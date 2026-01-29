@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-29T17:45:56.620Z",
+  "updated": "2026-01-29T18:02:03.129Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -92,6 +92,16 @@
       "board": "Gossiping",
       "publishTime": "2026/01/29 09:47",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "113",
+      "recommendCount": "166",
+      "title": "[閒聊] 明日BLG先發上路 Bin",
+      "link": "/bbs/LoL/M.1769699571.A.1B3",
+      "author": "yuchiwang",
+      "board": "LoL",
+      "publishTime": "2026/01/29 15:12",
+      "imageUrl": "https://cache.pttweb.cc/imgur/RPRotrh/s/b32f572420a9a249fdbd5770ab77fd99"
     },
     {
       "recommendScore": "98",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/29 03:53",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "67",
-      "recommendCount": "79",
-      "title": "[蔚藍] 會贏喔 發錢",
-      "link": "/bbs/C_Chat/M.1769679587.A.AAB",
-      "author": "Fino5566",
-      "board": "C_Chat",
-      "publishTime": "2026/01/29 09:39",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ue7X5ER/s/4751e19c1c637741f1c81ca0d22d56d8"
     }
   ]
 }
