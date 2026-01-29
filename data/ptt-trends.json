@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-29T04:50:50.538Z",
+  "updated": "2026-01-29T05:14:11.371Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "204",
+      "recommendCount": "419",
+      "title": "[鳴潮]電玩展周邊出包",
+      "link": "/bbs/C_Chat/M.1769656872.A.095",
+      "author": "pollacat",
+      "board": "C_Chat",
+      "publishTime": "2026/01/29 03:21",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "602",
       "recommendCount": "1029",
       "title": "[電競] 2026 LCK Cup W3D1 超級週",
@@ -191,16 +201,6 @@
       "author": "ambitious",
       "board": "Gossiping",
       "publishTime": "2026/01/28 11:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "75",
-      "recommendCount": "166",
-      "title": "[新聞] 阿富汗宣布「永久禁止女性進入學校」!",
-      "link": "/bbs/Gossiping/M.1769597630.A.F75",
-      "author": "iami1002",
-      "board": "Gossiping",
-      "publishTime": "2026/01/28 10:53",
       "imageUrl": ""
     }
   ]
