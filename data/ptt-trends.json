@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-29T07:29:15.490Z",
+  "updated": "2026-01-29T07:48:42.882Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,16 +94,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "602",
-      "recommendCount": "1029",
-      "title": "[電競] 2026 LCK Cup W3D1 超級週",
-      "link": "/bbs/LoL/M.1769585670.A.B44",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/01/28 07:34",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "119",
       "recommendCount": "215",
       "title": "[新聞] 爆國軍行車記錄「採購淘寶貨還買貴」",
@@ -122,6 +112,16 @@
       "board": "Gossiping",
       "publishTime": "2026/01/28 08:16",
       "imageUrl": "https://cache.pttweb.cc/imgur/XYdPBF7/s/08fe3ed09dea6c6ac1501d9037052cd1"
+    },
+    {
+      "recommendScore": "133",
+      "recommendCount": "179",
+      "title": "[情報] 115年01月29日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1769670615.A.AE0",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2026/01/29 07:10",
+      "imageUrl": ""
     },
     {
       "recommendScore": "193",
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "43",
-      "recommendCount": "161",
-      "title": "[新聞] 陸國台辦批賴總統「企圖實行綠色獨裁統治」",
-      "link": "/bbs/Gossiping/M.1769585414.A.B68",
-      "author": "gogobar",
-      "board": "Gossiping",
-      "publishTime": "2026/01/28 07:30",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "292",
       "recommendCount": "428",
       "title": "[討論] [Vtub] Hololive 晚間直播單 (1150128)",
@@ -201,6 +191,16 @@
       "author": "laptic",
       "board": "C_Chat",
       "publishTime": "2026/01/28 10:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "66",
+      "recommendCount": "107",
+      "title": "[新聞] 經典賽》大谷翔平不會先發對台灣隊 日本名將的理由很直白",
+      "link": "/bbs/Baseball/M.1769588933.A.228",
+      "author": "ruka660101",
+      "board": "Baseball",
+      "publishTime": "2026/01/28 08:28",
       "imageUrl": ""
     }
   ]
