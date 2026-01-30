@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-30T13:34:00.361Z",
+  "updated": "2026-01-30T14:00:15.802Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -134,26 +134,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "42",
-      "recommendCount": "88",
-      "title": "[新聞] 市場瘋貴金屬！臺銀白銀條塊遭搶購一空",
-      "link": "/bbs/Stock/M.1769694528.A.0ED",
-      "author": "largan6075",
-      "board": "Stock",
-      "publishTime": "2026/01/29 13:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-30",
-      "recommendCount": "91",
-      "title": "[新聞] 快新聞／藍白續卡軍購特別條例　國防部憂",
-      "link": "/bbs/Gossiping/M.1769694546.A.890",
-      "author": "HANASUCIA",
-      "board": "Gossiping",
-      "publishTime": "2026/01/29 13:49",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "54",
       "recommendCount": "127",
       "title": "[閒聊] 醫師警告：刷抖音、小紅書傷腦",
@@ -184,16 +164,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/64ueVIM/s/38ebd2acc6a3f9c810ca557ad0cbf047"
     },
     {
-      "recommendScore": "33",
-      "recommendCount": "77",
-      "title": "[閒聊] WBG血脈壓制JDG的關鍵是哪路？",
-      "link": "/bbs/LoL/M.1769694859.A.E3A",
-      "author": "a125g",
-      "board": "LoL",
-      "publishTime": "2026/01/29 13:54",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "41",
       "recommendCount": "58",
       "title": "[BOX ] Thunder 111:123 Timberwolves",
@@ -201,6 +171,36 @@
       "author": "jason911152",
       "board": "NBA",
       "publishTime": "2026/01/30 05:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "15",
+      "recommendCount": "74",
+      "title": "[新聞] 抖音、小紅書毀大腦！台大醫示警「傷害恐延續數10年」　教育部推4防護",
+      "link": "/bbs/Gossiping/M.1769749661.A.F57",
+      "author": "kinjk01",
+      "board": "Gossiping",
+      "publishTime": "2026/01/30 05:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "39",
+      "recommendCount": "49",
+      "title": "[終末] 那個小羊是不是很強?",
+      "link": "/bbs/C_Chat/M.1769699555.A.6D4",
+      "author": "gn01988902",
+      "board": "C_Chat",
+      "publishTime": "2026/01/29 15:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "37",
+      "recommendCount": "52",
+      "title": "[閒聊] 7-11一番賞怎麼很多都特價99元！？",
+      "link": "/bbs/C_Chat/M.1769744843.A.A52",
+      "author": "h2030625",
+      "board": "C_Chat",
+      "publishTime": "2026/01/30 03:47",
       "imageUrl": ""
     }
   ]
