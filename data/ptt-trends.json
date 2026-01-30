@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-30T09:37:15.448Z",
+  "updated": "2026-01-30T09:55:52.307Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,16 +14,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "124",
-      "recommendCount": "255",
-      "title": "[新聞] 馬斯克將蓋巨型晶圓廠TeraFab！台積三星都不夠 曾說不蓋會「撞牆」",
-      "link": "/bbs/Stock/M.1769680468.A.4FA",
-      "author": "cchh179",
-      "board": "Stock",
-      "publishTime": "2026/01/29 09:54",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "88",
       "recommendCount": "148",
       "title": "[新聞] 海鯤號成功完成首次潛航測試 「下得去上得來」全達標",
@@ -31,16 +21,6 @@
       "author": "sincsnow",
       "board": "Gossiping",
       "publishTime": "2026/01/29 12:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "75",
-      "recommendCount": "174",
-      "title": "[問卦]副站長:我有很多病 調職會影響台鐵安全欸",
-      "link": "/bbs/Gossiping/M.1769680054.A.7C7",
-      "author": "a91153456",
-      "board": "Gossiping",
-      "publishTime": "2026/01/29 09:47",
       "imageUrl": ""
     },
     {
@@ -124,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "67",
-      "recommendCount": "79",
-      "title": "[蔚藍] 會贏喔 發錢",
-      "link": "/bbs/C_Chat/M.1769679587.A.AAB",
-      "author": "Fino5566",
-      "board": "C_Chat",
-      "publishTime": "2026/01/29 09:39",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ue7X5ER/s/4751e19c1c637741f1c81ca0d22d56d8"
-    },
-    {
       "recommendScore": "58",
       "recommendCount": "90",
       "title": "[花邊] 布朗尼的Nike個人logo首次亮相",
@@ -202,6 +172,36 @@
       "board": "C_Chat",
       "publishTime": "2026/01/29 11:46",
       "imageUrl": "https://cache.pttweb.cc/imgur/s08idq8/s/260acbd6dc57ac3992e8e1d00d557579"
+    },
+    {
+      "recommendScore": "44",
+      "recommendCount": "74",
+      "title": "[新聞] 焦點股》聯電：法說成長動能有限 爆量跌停",
+      "link": "/bbs/Stock/M.1769687123.A.AAA",
+      "author": "nisi0773",
+      "board": "Stock",
+      "publishTime": "2026/01/29 11:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "65",
+      "recommendCount": "78",
+      "title": "[蔚藍] Kei羈絆劇情（有雷）",
+      "link": "/bbs/C_Chat/M.1769686784.A.2E4",
+      "author": "tudo0430",
+      "board": "C_Chat",
+      "publishTime": "2026/01/29 11:39",
+      "imageUrl": "https://cache.pttweb.cc/imgur/thQWpj0/s/496f05e29233216a206c9567653906a3"
+    },
+    {
+      "recommendScore": "50",
+      "recommendCount": "115",
+      "title": "[新聞] 台灣半導體40%移美？黃仁勳：「新增」不是轉移，對台積電雙贏",
+      "link": "/bbs/Stock/M.1769690129.A.5B5",
+      "author": "qazxc1156892",
+      "board": "Stock",
+      "publishTime": "2026/01/29 12:35",
+      "imageUrl": ""
     }
   ]
 }
