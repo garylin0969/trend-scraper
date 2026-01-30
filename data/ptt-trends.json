@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-30T08:02:57.976Z",
+  "updated": "2026-01-30T08:23:15.805Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,16 +14,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "77",
-      "recommendCount": "214",
-      "title": "[問卦] 脆：空調是支語  台灣人都是講冷氣",
-      "link": "/bbs/Gossiping/M.1769674850.A.06F",
-      "author": "Beatrice322",
-      "board": "Gossiping",
-      "publishTime": "2026/01/29 08:20",
-      "imageUrl": "https://cache.pttweb.cc/imgur/3G2litW/s/28910c7e81b65e1242d6467a4ff779e2"
-    },
-    {
       "recommendScore": "124",
       "recommendCount": "255",
       "title": "[新聞] 馬斯克將蓋巨型晶圓廠TeraFab！台積三星都不夠 曾說不蓋會「撞牆」",
@@ -31,16 +21,6 @@
       "author": "cchh179",
       "board": "Stock",
       "publishTime": "2026/01/29 09:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "92",
-      "recommendCount": "156",
-      "title": "[新聞] 駁斥謠言！ 輝達沒收到中國H200訂單",
-      "link": "/bbs/Stock/M.1769674873.A.82C",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2026/01/29 08:21",
       "imageUrl": ""
     },
     {
@@ -144,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "82",
-      "recommendCount": "115",
-      "title": "[情報] 愛爾達與緯來 平台合作WBC &NBA",
-      "link": "/bbs/Baseball/M.1769674047.A.AD4",
-      "author": "asxc530530",
-      "board": "Baseball",
-      "publishTime": "2026/01/29 08:07",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "60",
       "recommendCount": "89",
       "title": "[情報] 115年01月30日 三大法人買賣金額統計表",
@@ -201,6 +171,36 @@
       "author": "YukiApple",
       "board": "LoL",
       "publishTime": "2026/01/29 11:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "49",
+      "recommendCount": "78",
+      "title": "[蔚藍] 原來十連五彩是存在的",
+      "link": "/bbs/C_Chat/M.1769675455.A.687",
+      "author": "caten",
+      "board": "C_Chat",
+      "publishTime": "2026/01/29 08:30",
+      "imageUrl": "https://cache.pttweb.cc/imgur/ImCCWq7/s/c31db4414b4be215f8a2de832799fe84"
+    },
+    {
+      "recommendScore": "59",
+      "recommendCount": "69",
+      "title": "[問卦] 三立記者劉彥池 造謠韓職新聞？（發錢）",
+      "link": "/bbs/Gossiping/M.1769753576.A.5A3",
+      "author": "BIA",
+      "board": "Gossiping",
+      "publishTime": "2026/01/30 06:12",
+      "imageUrl": "https://cache.pttweb.cc/imgur/LBOqyi7/s/2a111a399e48123f0055ff60cd0e347d"
+    },
+    {
+      "recommendScore": "58",
+      "recommendCount": "85",
+      "title": "[情報] 蔡其昌 Threads",
+      "link": "/bbs/Baseball/M.1769695419.A.148",
+      "author": "marcchoutw",
+      "board": "Baseball",
+      "publishTime": "2026/01/29 14:03",
       "imageUrl": ""
     }
   ]
