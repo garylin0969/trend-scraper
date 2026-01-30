@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-30T13:06:13.546Z",
+  "updated": "2026-01-30T13:34:00.361Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "45",
-      "recommendCount": "57",
-      "title": "[蔚藍] 戰果太好發個錢",
-      "link": "/bbs/C_Chat/M.1769693351.A.8C0",
-      "author": "chainstay120",
-      "board": "C_Chat",
-      "publishTime": "2026/01/29 13:29",
-      "imageUrl": "https://cache.pttweb.cc/imgur/fzS0ruG/s/45c2e88f0c9b67c3e1bcf5e6c369b6f2"
-    },
-    {
       "recommendScore": "-30",
       "recommendCount": "91",
       "title": "[新聞] 快新聞／藍白續卡軍購特別條例　國防部憂",
@@ -201,6 +191,16 @@
       "author": "a125g",
       "board": "LoL",
       "publishTime": "2026/01/29 13:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "41",
+      "recommendCount": "58",
+      "title": "[BOX ] Thunder 111:123 Timberwolves",
+      "link": "/bbs/NBA/M.1769749563.A.503",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2026/01/30 05:06",
       "imageUrl": ""
     }
   ]
