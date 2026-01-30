@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-30T07:29:51.776Z",
+  "updated": "2026-01-30T07:48:52.833Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "60",
+      "recommendCount": "89",
+      "title": "[情報] 115年01月30日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1769757397.A.141",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2026/01/30 07:16",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "79",
       "recommendCount": "82",
       "title": "[蔚藍] 六個臨戰池發錢",
@@ -191,16 +201,6 @@
       "author": "YukiApple",
       "board": "LoL",
       "publishTime": "2026/01/29 11:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "49",
-      "recommendCount": "98",
-      "title": "[分享] 寶兒新聞誤傳",
-      "link": "/bbs/BaseballXXXX/M.1769672097.A.4FB",
-      "author": "eattting",
-      "board": "BaseballXXXX",
-      "publishTime": "2026/01/29 07:34",
       "imageUrl": ""
     }
   ]
