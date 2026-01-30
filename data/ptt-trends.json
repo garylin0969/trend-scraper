@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-30T08:39:14.613Z",
+  "updated": "2026-01-30T08:58:07.060Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,16 +74,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "107",
-      "recommendCount": "109",
-      "title": "[蔚藍] 彩率3% 但1井收完?(發錢)",
-      "link": "/bbs/C_Chat/M.1769676646.A.354",
-      "author": "kimokimocom",
-      "board": "C_Chat",
-      "publishTime": "2026/01/29 08:50",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "101",
       "recommendCount": "107",
       "title": "[發錢] 好像真的不能為了王女",
@@ -92,16 +82,6 @@
       "board": "C_Chat",
       "publishTime": "2026/01/29 12:54",
       "imageUrl": "https://cache.pttweb.cc/imgur/LxqI5oc/s/8378429d85e7242c9e95c74ed5a46735"
-    },
-    {
-      "recommendScore": "35",
-      "recommendCount": "218",
-      "title": "[新聞] 黃仁勳：半導體產能4成非移美而是新增 台積電巨大勝利",
-      "link": "/bbs/Gossiping/M.1769676611.A.1EA",
-      "author": "DarkerWu",
-      "board": "Gossiping",
-      "publishTime": "2026/01/29 08:50",
-      "imageUrl": ""
     },
     {
       "recommendScore": "32",
@@ -202,6 +182,26 @@
       "board": "Baseball",
       "publishTime": "2026/01/29 14:03",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "29",
+      "recommendCount": "67",
+      "title": "[新聞] 從未見過的大時代！謝金河：黃金、白銀、記憶體",
+      "link": "/bbs/Stock/M.1769696795.A.243",
+      "author": "zkow",
+      "board": "Stock",
+      "publishTime": "2026/01/29 14:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "47",
+      "recommendCount": "78",
+      "title": "[閒聊] 電玩展為什麼要showgirl??",
+      "link": "/bbs/C_Chat/M.1769687193.A.FDF",
+      "author": "joe6304105",
+      "board": "C_Chat",
+      "publishTime": "2026/01/29 11:46",
+      "imageUrl": "https://cache.pttweb.cc/imgur/s08idq8/s/260acbd6dc57ac3992e8e1d00d557579"
     }
   ]
 }
