@@ -1,14 +1,22 @@
 {
-  "updated": "2026-01-30T12:25:11.824Z",
+  "updated": "2026-01-30T13:06:59.130Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-30T12:25:05.000Z",
+    "lastBuildDate": "2026-01-30T13:06:44.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "施紀賢訪華：英國與中國各取了什麼所需？",
+      "description": "在這趟時隔八年的旅程中，英國首相施紀賢爵士從中國收穫了免簽、服務業、醫療、綠色能源與金融合同。",
+      "link": "https://www.bbc.com/zhongwen/articles/c0mkymd2r03o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-30T12:27:17.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c0mkymd2r03o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/066a/live/927519c0-fdd3-11f0-a8b8-bdd2c5f9bcad.jpg"
+    },
     {
       "title": "施紀賢訪華：英政府指，中國將放寬英國訪客旅遊規定",
       "description": "施紀賢爵士訪問北京，是八年來首位到訪中國的英國首相。",
@@ -16,14 +24,6 @@
       "pubDate": "2026-01-30T05:07:46.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c0ery3d2z2ro/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5666/live/1a709de0-fcdf-11f0-853a-2b6f40b40d41.jpg"
-    },
-    {
-      "title": "台灣首位「陸配」立委：國安、忠誠與參政權利的拉扯",
-      "description": "出身中國湖南的李貞秀預計在2月3日就職，成為台灣首位「陸配」立委，目前這個社群擔任最高階的公職。她的提名、加上去年花蓮村長鄧萬華因中國國籍遭解職，讓陸配參政的討論浮上檯面。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1evyz9qxvjo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-30T09:35:17.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1evyz9qxvjo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2a0d/live/ce5a5f20-fcb3-11f0-a8b8-bdd2c5f9bcad.jpg"
     },
     {
       "title": "高市早苗為何再提台灣問題？北京如何以經濟戰反制日本",
@@ -34,12 +34,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f9f2/live/c9b4fba0-fdb3-11f0-8e3f-176b350fc659.jpg"
     },
     {
-      "title": "香港BNO移民潮：英國政府收緊政策，有港人質疑當局背棄承諾",
-      "description": "去年，英國政府提出持BN(O)簽證的香港人申請永居時需提高英語水平的要求、設定最低年收入，引起移民到英國的港人社群不安與擔憂。",
-      "link": "https://www.bbc.com/zhongwen/articles/c79rjrrn9q4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-30T00:12:34.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c79rjrrn9q4o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/59ae/live/1b5c6590-fd70-11f0-af33-5bba6671a154.jpg"
+      "title": "台灣首位「陸配」立委：國安、忠誠與參政權利的拉扯",
+      "description": "出身中國湖南的李貞秀預計在2月3日就職，成為台灣首位「陸配」立委，目前這個社群擔任最高階的公職。她的提名、加上去年花蓮村長鄧萬華因中國國籍遭解職，讓陸配參政的討論浮上檯面。",
+      "link": "https://www.bbc.com/zhongwen/articles/c1evyz9qxvjo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-30T09:35:17.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1evyz9qxvjo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2a0d/live/ce5a5f20-fcb3-11f0-a8b8-bdd2c5f9bcad.jpg"
     },
     {
       "title": "香港巴士安全帶風波：「強戴令」實施未一週即暫緩，新法例為何惹來爭議？",
@@ -48,6 +48,14 @@
       "pubDate": "2026-01-30T10:57:37.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c701y0pqwp9o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/daf5/live/76fa38a0-fdc5-11f0-b7e1-afb6d0884c18.jpg"
+    },
+    {
+      "title": "香港BNO移民潮：英國政府收緊政策，有港人質疑當局背棄承諾",
+      "description": "去年，英國政府提出持BN(O)簽證的香港人申請永居時需提高英語水平的要求、設定最低年收入，引起移民到英國的港人社群不安與擔憂。",
+      "link": "https://www.bbc.com/zhongwen/articles/c79rjrrn9q4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-30T00:12:34.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c79rjrrn9q4o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/59ae/live/1b5c6590-fd70-11f0-af33-5bba6671a154.jpg"
     },
     {
       "title": "為何中國如此迅速處決明氏家族11人？",
@@ -96,14 +104,6 @@
       "pubDate": "2026-01-29T06:31:14.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c301yq4828yo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/020f/live/81653710-fc51-11f0-9aca-0d1869acdee8.jpg"
-    },
-    {
-      "title": "印度爆發尼帕病毒疫情，亞洲機場加强篩檢",
-      "description": "印度西孟加拉邦爆發致命的尼帕病毒疫情，引發亞洲部分地區的關注，一些國家已加強機場的檢疫措施。",
-      "link": "https://www.bbc.com/zhongwen/articles/cy4q21z8nj2o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-28T05:44:11.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cy4q21z8nj2o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d79d/live/580b7520-fc04-11f0-a422-4ba8a094a8fa.jpg"
     },
     {
       "title": "分析：張又俠「七宗罪」和 「紅二代」世交神話的破滅",
