@@ -1,10 +1,10 @@
 {
-  "updated": "2026-01-30T10:57:22.704Z",
+  "updated": "2026-01-30T11:23:46.931Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-30T10:57:17.000Z",
+    "lastBuildDate": "2026-01-30T11:23:32.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -42,11 +42,19 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/59ae/live/1b5c6590-fd70-11f0-af33-5bba6671a154.jpg"
     },
     {
+      "title": "香港巴士安全帶風波：「強戴令」實施未一週即暫緩，新法例為何惹來爭議？",
+      "description": "強制巴士乘客佩戴安全帶的新法例實施不足一周，引來社會巨大不滿，香港政府於法例生效六日後宣佈暫緩推行。",
+      "link": "https://www.bbc.com/zhongwen/articles/c701y0pqwp9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-30T10:57:37.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c701y0pqwp9o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/daf5/live/76fa38a0-fdc5-11f0-b7e1-afb6d0884c18.jpg"
+    },
+    {
       "title": "為何中國如此迅速處決明氏家族11人？",
       "description": "明氏家族在靠近中國與緬甸邊境的撣邦地區長期經營詐騙園區，電詐亦成為當地一大經濟支柱。",
       "link": "https://www.bbc.com/zhongwen/articles/c5yvzn83ye1o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-01-30T06:56:04.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5yvzn83ye1o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5yvzn83ye1o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/90f1/live/be0faf30-fd08-11f0-a8b8-bdd2c5f9bcad.jpg"
     },
     {
@@ -104,14 +112,6 @@
       "pubDate": "2026-01-28T04:18:09.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cp80pl999gjo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/36c2/live/d0d877a0-fb78-11f0-a47f-d352a7d9988a.jpg"
-    },
-    {
-      "title": "印度能在電腦芯片產業佔一席之地嗎？",
-      "description": "印度正投入數以億計美元，致力於建立本國的電腦芯片產業。",
-      "link": "https://www.bbc.com/zhongwen/articles/c93vxlny11do/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-28T00:10:14.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c93vxlny11do/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7d6a/live/1dc87370-f5e4-11f0-b5f7-49f0357294ff.jpg"
     },
     {
       "title": "美國男子遭移民執法人員射殺  民憤下白宮面臨巨大壓力",
@@ -226,12 +226,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2907/live/c11a0a10-f9c8-11f0-b5f7-49f0357294ff.jpg"
     },
     {
-      "title": "台北101徒手攀爬：霍諾德僅91分鐘登頂，妻子笑稱「不要再做了」",
-      "description": "台灣總統賴清德發文恭賀霍諾德，讚揚他勇敢無懼，並感謝「促成這場挑戰、讓台灣站上國際舞台的每一位幕後英雄」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cy053ene334o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-25T04:47:39.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cy053ene334o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f00e/live/0bb5ec30-f9a4-11f0-a075-a1e98cbeeb71.jpg"
+      "title": "印度能在電腦芯片產業佔一席之地嗎？",
+      "description": "印度正投入數以億計美元，致力於建立本國的電腦芯片產業。",
+      "link": "https://www.bbc.com/zhongwen/articles/c93vxlny11do/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-28T00:10:14.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c93vxlny11do/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7d6a/live/1dc87370-f5e4-11f0-b5f7-49f0357294ff.jpg"
     },
     {
       "title": "中國社媒出現的「反清復明」爭議：有關中國、中國人與「1644史觀」的討論",
