@@ -1,18 +1,8 @@
 {
-  "updated": "2026-01-30T15:13:07.293Z",
+  "updated": "2026-01-30T15:32:55.262Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "113",
-      "recommendCount": "166",
-      "title": "[閒聊] 明日BLG先發上路 Bin",
-      "link": "/bbs/LoL/M.1769699571.A.1B3",
-      "author": "yuchiwang",
-      "board": "LoL",
-      "publishTime": "2026/01/29 15:12",
-      "imageUrl": "https://cache.pttweb.cc/imgur/RPRotrh/s/b32f572420a9a249fdbd5770ab77fd99"
-    },
     {
       "recommendScore": "40",
       "recommendCount": "157",
@@ -164,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "39",
-      "recommendCount": "49",
-      "title": "[終末] 那個小羊是不是很強?",
-      "link": "/bbs/C_Chat/M.1769699555.A.6D4",
-      "author": "gn01988902",
-      "board": "C_Chat",
-      "publishTime": "2026/01/29 15:12",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "37",
       "recommendCount": "52",
       "title": "[閒聊] 7-11一番賞怎麼很多都特價99元！？",
@@ -202,6 +182,26 @@
       "board": "Gossiping",
       "publishTime": "2026/01/30 05:00",
       "imageUrl": "https://cache.pttweb.cc/imgur/psuD1n6/s/bb7400259f65abdbeba48697890eb4cd"
+    },
+    {
+      "recommendScore": "22",
+      "recommendCount": "59",
+      "title": "[問卦] ChatGPT與Gemini的意見剛好不同聽哪個？",
+      "link": "/bbs/Gossiping/M.1769755645.A.0BE",
+      "author": "MoreLight",
+      "board": "Gossiping",
+      "publishTime": "2026/01/30 06:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "38",
+      "recommendCount": "77",
+      "title": "[閒聊] 韓國棒球委員會KBO否認禁止啦啦隊去台灣",
+      "link": "/bbs/BaseballXXXX/M.1769755571.A.8AA",
+      "author": "ReiKuromiya",
+      "board": "BaseballXXXX",
+      "publishTime": "2026/01/30 06:46",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Hcejtvo/s/929171a07dc5d5aad9ac29112f420c4f"
     }
   ]
 }
