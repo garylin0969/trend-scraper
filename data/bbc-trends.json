@@ -1,10 +1,10 @@
 {
-  "updated": "2026-01-30T07:29:54.523Z",
+  "updated": "2026-01-30T07:56:03.343Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-30T07:29:41.000Z",
+    "lastBuildDate": "2026-01-30T07:56:00.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -26,14 +26,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/59ae/live/1b5c6590-fd70-11f0-af33-5bba6671a154.jpg"
     },
     {
-      "title": "「時隔太久」：施紀賢習近平在北京「談及人權問題」",
-      "description": "英國首相施紀賢爵士對中國國家主席習近平說，英中建設「更精細」關係至關重要。",
-      "link": "https://www.bbc.com/zhongwen/articles/c368y7ex161o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-29T15:25:48.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c368y7ex161o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/04cd/live/e9a8a4a0-fd06-11f0-a8b8-bdd2c5f9bcad.jpg"
-    },
-    {
       "title": "為何中國如此迅速處決明氏家族11人？",
       "description": "明氏家族在靠近中國與緬甸邊境的撣邦地區長期經營詐騙園區，電詐亦成為當地一大經濟支柱。",
       "link": "https://www.bbc.com/zhongwen/articles/c5yvzn83ye1o/trad?at_medium=RSS&at_campaign=rss",
@@ -48,6 +40,22 @@
       "pubDate": "2026-01-30T00:14:47.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy7mvvrv1peo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/49c9/live/bcbdb080-f675-11f0-8536-93c84af4000d.jpg"
+    },
+    {
+      "title": "法國擬取消「婚內性義務」概念",
+      "description": "該法案草案將在法律中明訂終結所謂的「婚內權利」——即婚姻意味著必須履行性義務的觀念。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5y3znz4mxxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-30T07:28:31.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5y3znz4mxxo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7701/live/9317e120-fd1d-11f0-8de9-b9e0f3a8919a.jpg"
+    },
+    {
+      "title": "「時隔太久」：施紀賢習近平在北京「談及人權問題」",
+      "description": "英國首相施紀賢爵士對中國國家主席習近平說，英中建設「更精細」關係至關重要。",
+      "link": "https://www.bbc.com/zhongwen/articles/c368y7ex161o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-29T15:25:48.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c368y7ex161o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/04cd/live/e9a8a4a0-fd06-11f0-a8b8-bdd2c5f9bcad.jpg"
     },
     {
       "title": "宏福苑大火兩個月：重覓家園路在何方？災後重建難題待解",
@@ -88,14 +96,6 @@
       "pubDate": "2026-01-28T05:44:11.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy4q21z8nj2o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d79d/live/580b7520-fc04-11f0-a422-4ba8a094a8fa.jpg"
-    },
-    {
-      "title": "台美貿易協議水落石出  台積電大規模投資美國能為台灣換回什麼",
-      "description": "台美經貿利益透過此次協議已深度互綁，半導體無疑是重中之重，台積電作為樞紐，持續主導這場晶片外交談判。",
-      "link": "https://www.bbc.com/zhongwen/articles/c3944mzjv1yo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-27T01:30:45.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3944mzjv1yo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fe4c/live/bcc92dd0-fa89-11f0-b5f7-49f0357294ff.jpg"
     },
     {
       "title": "涉偽造文件歸化外籍球員，馬來西亞足協官員集體辭職",
@@ -154,6 +154,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/23e6/live/688f1590-f6b0-11f0-b5f7-49f0357294ff.jpg"
     },
     {
+      "title": "台美貿易協議水落石出  台積電大規模投資美國能為台灣換回什麼",
+      "description": "台美經貿利益透過此次協議已深度互綁，半導體無疑是重中之重，台積電作為樞紐，持續主導這場晶片外交談判。",
+      "link": "https://www.bbc.com/zhongwen/articles/c3944mzjv1yo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-27T01:30:45.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3944mzjv1yo/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fe4c/live/bcc92dd0-fa89-11f0-b5f7-49f0357294ff.jpg"
+    },
+    {
       "title": "分析：「首席和平締造者」特朗普讓聯合國靠邊站？",
       "description": "這個由特朗普本人永久領導的委員會將會做什麼？難道這真的是建立一個「迷你聯合國」的企圖？",
       "link": "https://www.bbc.com/zhongwen/articles/cgk886r5l4po/trad?at_medium=RSS&at_campaign=rss",
@@ -168,14 +176,6 @@
       "pubDate": "2026-01-27T06:29:51.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cm2xpm2jnm7o/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2763/live/edf25770-faf1-11f0-adda-0755af0bac4f.jpg"
-    },
-    {
-      "title": "特朗普指加拿大試圖成為中國商品轉運港，威脅加徵100%關稅",
-      "description": "特朗普表示：「如果加拿大與中國達成協議，所有進入美國的加拿大商品和產品將立即被徵收100%的關稅。」加拿大否認尋求與中國達成自貿協議。",
-      "link": "https://www.bbc.com/zhongwen/articles/clym200gemeo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-25T10:07:09.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/clym200gemeo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ef43/live/2a5f94f0-f937-11f0-814e-71ff186d4f46.jpg"
     },
     {
       "title": "當世界逐步倒退回二戰前的國際秩序，「中等強國」面臨前所未有的新挑戰",
