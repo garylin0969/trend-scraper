@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-30T12:20:44.581Z",
+  "updated": "2026-01-30T12:39:39.464Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,16 +74,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "58",
-      "recommendCount": "90",
-      "title": "[花邊] 布朗尼的Nike個人logo首次亮相",
-      "link": "/bbs/NBA/M.1769689507.A.658",
-      "author": "yochiya",
-      "board": "NBA",
-      "publishTime": "2026/01/29 12:25",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "54",
       "recommendCount": "114",
       "title": "[新聞] 民進黨喊在野勿拖審關稅協議 黃國昌怒嗆根本還未談完：關稅仍是20%+N",
@@ -121,16 +111,6 @@
       "author": "zkow",
       "board": "Stock",
       "publishTime": "2026/01/29 14:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "50",
-      "recommendCount": "115",
-      "title": "[新聞] 台灣半導體40%移美？黃仁勳：「新增」不是轉移，對台積電雙贏",
-      "link": "/bbs/Stock/M.1769690129.A.5B5",
-      "author": "qazxc1156892",
-      "board": "Stock",
-      "publishTime": "2026/01/29 12:35",
       "imageUrl": ""
     },
     {
@@ -201,6 +181,26 @@
       "author": "Healine",
       "board": "Stock",
       "publishTime": "2026/01/30 07:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "33",
+      "recommendCount": "77",
+      "title": "[閒聊] WBG血脈壓制JDG的關鍵是哪路？",
+      "link": "/bbs/LoL/M.1769694859.A.E3A",
+      "author": "a125g",
+      "board": "LoL",
+      "publishTime": "2026/01/29 13:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "41",
+      "recommendCount": "58",
+      "title": "[BOX ] Thunder 111:123 Timberwolves",
+      "link": "/bbs/NBA/M.1769749563.A.503",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2026/01/30 05:06",
       "imageUrl": ""
     }
   ]
