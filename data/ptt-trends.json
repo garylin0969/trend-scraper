@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-30T14:00:15.802Z",
+  "updated": "2026-01-30T14:19:12.150Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -82,16 +82,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/30 06:12",
       "imageUrl": "https://cache.pttweb.cc/imgur/LBOqyi7/s/2a111a399e48123f0055ff60cd0e347d"
-    },
-    {
-      "recommendScore": "58",
-      "recommendCount": "85",
-      "title": "[情報] 蔡其昌 Threads",
-      "link": "/bbs/Baseball/M.1769695419.A.148",
-      "author": "marcchoutw",
-      "board": "Baseball",
-      "publishTime": "2026/01/29 14:03",
-      "imageUrl": ""
     },
     {
       "recommendScore": "29",
@@ -201,6 +191,16 @@
       "author": "h2030625",
       "board": "C_Chat",
       "publishTime": "2026/01/30 03:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "34",
+      "recommendCount": "49",
+      "title": "[BOX ] Hornets 123:121 Mavericks",
+      "link": "/bbs/NBA/M.1769746837.A.658",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2026/01/30 04:20",
       "imageUrl": ""
     }
   ]
