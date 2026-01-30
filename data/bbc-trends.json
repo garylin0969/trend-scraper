@@ -1,14 +1,22 @@
 {
-  "updated": "2026-01-30T04:49:08.635Z",
+  "updated": "2026-01-30T05:34:50.266Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-01-30T04:49:05.000Z",
+    "lastBuildDate": "2026-01-30T05:34:40.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "施紀賢訪華：英政府指，中國將放寬英國訪客旅遊規定",
+      "description": "施紀賢爵士訪問北京，是八年來首位到訪中國的英國首相。",
+      "link": "https://www.bbc.com/zhongwen/articles/c0ery3d2z2ro/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-30T05:07:46.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c0ery3d2z2ro/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5666/live/1a709de0-fcdf-11f0-853a-2b6f40b40d41.jpg"
+    },
     {
       "title": "「時隔太久」：施紀賢習近平在北京「談及人權問題」",
       "description": "英國首相施紀賢爵士對中國國家主席習近平說，英中建設「更精細」關係至關重要。",
@@ -34,20 +42,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/49c9/live/bcbdb080-f675-11f0-8536-93c84af4000d.jpg"
     },
     {
-      "title": "為什麼中國將英國首相施紀賢來訪視為更大局面的一部分？",
-      "description": "施紀賢是近期前往北京的多位世界領導人之一。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1m7y585x71o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-29T08:18:08.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1m7y585x71o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1909/live/8840bdb0-fcc0-11f0-be2d-7b4b1a60e9bc.jpg"
-    },
-    {
       "title": "宏福苑大火兩個月：重覓家園路在何方？災後重建難題待解",
       "description": "宏福苑全數1984戶的居民失去家園，現有逾4000名居民四散在不同地區的應急安置處。BBC中文梳理大火至今就長期安置的主要論述，以及災後重建慣常會遇到的主要難題。",
       "link": "https://www.bbc.com/zhongwen/articles/cz7y258r79no/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-01-29T06:08:19.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cz7y258r79no/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8765/live/3dcf32d0-fcd8-11f0-9972-d3f265c101c6.jpg"
+    },
+    {
+      "title": "為什麼中國將英國首相施紀賢來訪視為更大局面的一部分？",
+      "description": "施紀賢是近期前往北京的多位世界領導人之一。",
+      "link": "https://www.bbc.com/zhongwen/articles/c1m7y585x71o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-29T08:18:08.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1m7y585x71o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1909/live/8840bdb0-fcc0-11f0-be2d-7b4b1a60e9bc.jpg"
     },
     {
       "title": "美國正準備再次打擊伊朗嗎？",
@@ -72,14 +80,6 @@
       "pubDate": "2026-01-28T05:44:11.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy4q21z8nj2o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d79d/live/580b7520-fc04-11f0-a422-4ba8a094a8fa.jpg"
-    },
-    {
-      "title": "美軍在波斯灣持續集結，特朗普警告伊朗「時間不多了」",
-      "description": "德黑蘭表示，其武裝部隊已「手指扣在扳機上」，準備回應任何侵略行動。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn42djjpqjdo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-29T06:05:12.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn42djjpqjdo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c97b/live/151aa270-fc47-11f0-9972-d3f265c101c6.jpg"
     },
     {
       "title": "台美貿易協議水落石出  台積電大規模投資美國能為台灣換回什麼",
