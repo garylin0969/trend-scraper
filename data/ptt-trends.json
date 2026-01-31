@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-31T08:21:46.511Z",
+  "updated": "2026-01-31T08:43:57.288Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -175,16 +175,6 @@
     },
     {
       "recommendScore": "66",
-      "recommendCount": "135",
-      "title": "[問卦] 最懷念2016以前台灣的什麼？",
-      "link": "/bbs/Gossiping/M.1769762240.A.6AE",
-      "author": "ClownT",
-      "board": "Gossiping",
-      "publishTime": "2026/01/30 08:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "66",
       "recommendCount": "119",
       "title": "[請益] 2317 鴻海還有壯大的可能嗎？",
       "link": "/bbs/Stock/M.1769770319.A.B1E",
@@ -201,6 +191,16 @@
       "author": "LeeSeDol",
       "board": "HatePolitics",
       "publishTime": "2026/01/30 12:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "69",
+      "recommendCount": "99",
+      "title": "[閒聊] 明天T1打DK翻車的機率多少?",
+      "link": "/bbs/LoL/M.1769775644.A.AC8",
+      "author": "a125g",
+      "board": "LoL",
+      "publishTime": "2026/01/30 12:20",
       "imageUrl": ""
     }
   ]
