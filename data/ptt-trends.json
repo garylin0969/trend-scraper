@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-31T08:43:57.288Z",
+  "updated": "2026-01-31T08:58:33.290Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "27",
-      "recommendCount": "116",
-      "title": "[新聞] 台大婦產醫性侵病患！監院糾正衛福部",
-      "link": "/bbs/Gossiping/M.1769763064.A.FC0",
-      "author": "nobady98",
-      "board": "Gossiping",
-      "publishTime": "2026/01/30 08:51",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "62",
       "recommendCount": "130",
       "title": "[新聞] BTS高雄演唱會訂房半個月被取消！　再搜房價「翻倍」40人氣炸",
@@ -202,6 +192,16 @@
       "board": "LoL",
       "publishTime": "2026/01/30 12:20",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "98",
+      "recommendCount": "328",
+      "title": "[爆言] 布袋戲又冰河期了",
+      "link": "/bbs/C_Chat/M.1769793906.A.EA4",
+      "author": "monrock03279",
+      "board": "C_Chat",
+      "publishTime": "2026/01/30 17:25",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Rr8Zh8y/s/cf55c56148e68b31d13472bb0d70a6ba"
     }
   ]
 }
