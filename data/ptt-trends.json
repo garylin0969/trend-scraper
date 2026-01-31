@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-31T10:49:03.546Z",
+  "updated": "2026-01-31T10:58:25.797Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -134,16 +134,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "66",
-      "recommendCount": "119",
-      "title": "[請益] 2317 鴻海還有壯大的可能嗎？",
-      "link": "/bbs/Stock/M.1769770319.A.B1E",
-      "author": "vc39",
-      "board": "Stock",
-      "publishTime": "2026/01/30 10:51",
-      "imageUrl": "https://cache.pttweb.cc/imgur/RyynoLg/s/e0bbb512ad752df7da55a84e78186681"
-    },
-    {
       "recommendScore": "37",
       "recommendCount": "155",
       "title": "[討論] 鄭麗文：習近平若對我食言，會傷害形象",
@@ -201,6 +191,16 @@
       "author": "void",
       "board": "Stock",
       "publishTime": "2026/01/30 12:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "103",
+      "recommendCount": "156",
+      "title": "[閒聊] 韓網：關於韓華是否能晉級 (非原標)",
+      "link": "/bbs/LoL/M.1769777766.A.406",
+      "author": "Minguo1016",
+      "board": "LoL",
+      "publishTime": "2026/01/30 12:56",
       "imageUrl": ""
     }
   ]
