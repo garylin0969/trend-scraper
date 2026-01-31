@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-31T02:31:22.252Z",
+  "updated": "2026-01-31T03:23:59.311Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "84",
-      "recommendCount": "146",
-      "title": "[閒聊] 台北燈節主燈-LABUBU",
-      "link": "/bbs/BaseballXXXX/M.1769741563.A.F70",
-      "author": "rong1994",
-      "board": "BaseballXXXX",
-      "publishTime": "2026/01/30 02:52",
-      "imageUrl": "https://cache.pttweb.cc/imgur/u8nH2N9/s/d7cfd6ce53233f9bf361b8b1e8f82d00"
-    },
-    {
       "recommendScore": "62",
       "recommendCount": "130",
       "title": "[新聞] BTS高雄演唱會訂房半個月被取消！　再搜房價「翻倍」40人氣炸",
@@ -201,6 +191,16 @@
       "author": "LeeSeDol",
       "board": "HatePolitics",
       "publishTime": "2026/01/30 12:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "69",
+      "recommendCount": "99",
+      "title": "[閒聊] 明天T1打DK翻車的機率多少?",
+      "link": "/bbs/LoL/M.1769775644.A.AC8",
+      "author": "a125g",
+      "board": "LoL",
+      "publishTime": "2026/01/30 12:20",
       "imageUrl": ""
     }
   ]
