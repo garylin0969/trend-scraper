@@ -1,8 +1,18 @@
 {
-  "updated": "2026-02-01T14:42:23.755Z",
+  "updated": "2026-02-01T14:57:18.982Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "728",
+      "recommendCount": "1464",
+      "title": "[電競] 2026 LCK Cup W3D5 超級週 關鍵決戰",
+      "link": "/bbs/LoL/M.1769931299.A.7AB",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/02/01 07:34",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "280",
       "recommendCount": "371",
@@ -64,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "106",
+      "recommendCount": "202",
+      "title": "[問題] HLE中野這三場比賽大家給幾分?",
+      "link": "/bbs/LoL/M.1769942527.A.8DD",
+      "author": "qazxc1156892",
+      "board": "LoL",
+      "publishTime": "2026/02/01 10:42",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "426",
       "recommendCount": "689",
       "title": "[討論] [Vtub] Hololive 晚間直播單 (1150201)",
@@ -101,6 +121,16 @@
       "author": "anomic24",
       "board": "HatePolitics",
       "publishTime": "2026/02/01 08:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "101",
+      "recommendCount": "140",
+      "title": "[閒聊] Peanut被鎖號",
+      "link": "/bbs/LoL/M.1769932054.A.359",
+      "author": "itachi6060",
+      "board": "LoL",
+      "publishTime": "2026/02/01 07:47",
       "imageUrl": ""
     },
     {
@@ -164,16 +194,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "219",
-      "recommendCount": "316",
-      "title": "[LIVE] 英超 兵工廠 @ 里茲聯 場中",
-      "link": "/bbs/SportLottery/M.1769869804.A.F71",
-      "author": "Rayswei",
-      "board": "SportLottery",
-      "publishTime": "2026/01/31 14:30",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "97",
       "recommendCount": "147",
       "title": "[閒聊] 終末地 1.0心得 劇情戰鬥抽卡都不及格",
@@ -182,26 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2026/02/01 08:50",
       "imageUrl": "https://cache.pttweb.cc/imgur/RQ7x2lS/s/98acbea85bc06a91c6efd712c7606b97"
-    },
-    {
-      "recommendScore": "-45",
-      "recommendCount": "102",
-      "title": "[討論] Fed硬地草地紅土都比Djo弱 怎麼20冠的？",
-      "link": "/bbs/Tennis/M.1769939154.A.BE2",
-      "author": "AustinRiley",
-      "board": "Tennis",
-      "publishTime": "2026/02/01 09:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "47",
-      "recommendCount": "85",
-      "title": "[閒聊] 邊板尾牙",
-      "link": "/bbs/Marginalman/M.1769936242.A.645",
-      "author": "deatheo",
-      "board": "Marginalman",
-      "publishTime": "2026/02/01 08:57",
-      "imageUrl": ""
     }
   ]
 }
