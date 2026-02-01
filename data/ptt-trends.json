@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-01T10:21:26.462Z",
+  "updated": "2026-02-01T10:37:48.316Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,16 +44,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "26",
-      "recommendCount": "143",
-      "title": "[情報] LBJ：Bronny過去這兩年付出了很多努力",
-      "link": "/bbs/NBA/M.1769855648.A.E1F",
-      "author": "Wojnarowski",
-      "board": "NBA",
-      "publishTime": "2026/01/31 10:34",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "89",
       "recommendCount": "125",
       "title": "[閒聊] T1今天怎麼不打流量場了",
@@ -72,16 +62,6 @@
       "board": "C_Chat",
       "publishTime": "2026/01/31 13:00",
       "imageUrl": "https://cache.pttweb.cc/imgur/0XDMakP/s/3364495f669a18fa6e38aeeb7f1761a7"
-    },
-    {
-      "recommendScore": "88",
-      "recommendCount": "120",
-      "title": "[爆卦] LiSA在台北車站唱紅蓮華",
-      "link": "/bbs/Gossiping/M.1769855160.A.1EA",
-      "author": "ttucse",
-      "board": "Gossiping",
-      "publishTime": "2026/01/31 10:26",
-      "imageUrl": ""
     },
     {
       "recommendScore": "76",
@@ -201,6 +181,26 @@
       "author": "willy911006",
       "board": "Marginalman",
       "publishTime": "2026/01/31 15:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "51",
+      "recommendCount": "117",
+      "title": "[討論] 何衛東張升民自殺",
+      "link": "/bbs/Military/M.1769861831.A.B15",
+      "author": "googlexxxx",
+      "board": "Military",
+      "publishTime": "2026/01/31 12:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "70",
+      "recommendCount": "70",
+      "title": "[妮姬] 薇爾維特太色了 (發錢)",
+      "link": "/bbs/C_Chat/M.1769858027.A.154",
+      "author": "PekoKiara",
+      "board": "C_Chat",
+      "publishTime": "2026/01/31 11:13",
       "imageUrl": ""
     }
   ]
