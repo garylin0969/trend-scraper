@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-01T20:19:58.994Z",
+  "updated": "2026-02-01T20:36:11.894Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "96",
+      "recommendCount": "183",
+      "title": "[爆卦] 華航被國外媒體掛上五星旗啦",
+      "link": "/bbs/Gossiping/M.1769957640.A.BEF",
+      "author": "SFGEX",
+      "board": "Gossiping",
+      "publishTime": "2026/02/01 14:54",
+      "imageUrl": "https://cache.pttweb.cc/imgur/2IzJYuL/s/2a4a88731fdad8bdb23d91f7293aff70"
+    },
+    {
       "recommendScore": "314",
       "recommendCount": "537",
       "title": "[LIVE] 英超 富勒姆 2-3 曼聯 (場中)",
@@ -91,6 +101,16 @@
       "author": "lotterywin",
       "board": "SportLottery",
       "publishTime": "2026/02/01 13:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "69",
+      "recommendCount": "173",
+      "title": "[新聞] 獨家／秤重糖「1克1元」民眾結帳2500元驚呆",
+      "link": "/bbs/Gossiping/M.1769958583.A.111",
+      "author": "landy924",
+      "board": "Gossiping",
+      "publishTime": "2026/02/01 15:09",
       "imageUrl": ""
     },
     {
@@ -111,6 +131,16 @@
       "author": "XROCK",
       "board": "Marginalman",
       "publishTime": "2026/02/01 08:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "111",
+      "recommendCount": "685",
+      "title": "[問卦] 75～85年次的人是台灣最慘的一代嗎？",
+      "link": "/bbs/Gossiping/M.1769960553.A.539",
+      "author": "MoreLight",
+      "board": "Gossiping",
+      "publishTime": "2026/02/01 15:42",
       "imageUrl": ""
     },
     {
@@ -171,36 +201,6 @@
       "author": "zkow",
       "board": "Stock",
       "publishTime": "2026/02/01 11:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "57",
-      "recommendCount": "114",
-      "title": "[新聞] 台股加快獲利了結 2月初回測32,013點、留意10日線支撐",
-      "link": "/bbs/Stock/M.1769935934.A.4B8",
-      "author": "nisi0773",
-      "board": "Stock",
-      "publishTime": "2026/02/01 08:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "97",
-      "recommendCount": "147",
-      "title": "[閒聊] 終末地 1.0心得 劇情戰鬥抽卡都不及格",
-      "link": "/bbs/C_Chat/M.1769935856.A.FF5",
-      "author": "LawLawDer",
-      "board": "C_Chat",
-      "publishTime": "2026/02/01 08:50",
-      "imageUrl": "https://cache.pttweb.cc/imgur/RQ7x2lS/s/98acbea85bc06a91c6efd712c7606b97"
-    },
-    {
-      "recommendScore": "7",
-      "recommendCount": "104",
-      "title": "Re: [標的] 2330 台積電 無腦空",
-      "link": "/bbs/Stock/M.1769951703.A.5FB",
-      "author": "jpeter",
-      "board": "Stock",
-      "publishTime": "2026/02/01 13:15",
       "imageUrl": ""
     }
   ]
