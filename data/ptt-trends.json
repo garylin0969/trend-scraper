@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-01T10:08:45.725Z",
+  "updated": "2026-02-01T10:21:26.462Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "96",
-      "recommendCount": "114",
-      "title": "[閒聊] 今天 T1 有伯母觀賽團應援",
-      "link": "/bbs/LoL/M.1769854146.A.C2A",
-      "author": "y12544",
-      "board": "LoL",
-      "publishTime": "2026/01/31 10:09",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "76",
       "recommendCount": "100",
       "title": "[閒聊] 版有 虧爛",
@@ -144,16 +134,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "79",
-      "recommendCount": "151",
-      "title": "[討論] 柯文哲台大學妹疑似是黃國昌安排的？",
-      "link": "/bbs/HatePolitics/M.1769854506.A.5C5",
-      "author": "Homura",
-      "board": "HatePolitics",
-      "publishTime": "2026/01/31 10:15",
-      "imageUrl": "https://cache.pttweb.cc/imgur/69lMamg/s/6ec98a83461bfcd78edb85aa1a3c5eb4"
-    },
-    {
       "recommendScore": "63",
       "recommendCount": "94",
       "title": "[新聞] 先衝四平街買蜜餞！黃仁勳「兆元宴」來了 科技業大咖全現身",
@@ -201,6 +181,26 @@
       "author": "growl",
       "board": "Baseball",
       "publishTime": "2026/01/31 12:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "90",
+      "recommendCount": "187",
+      "title": "[LIVE] 泰甲 PT巴蜀 @ 北碧力量 場中",
+      "link": "/bbs/SportLottery/M.1769858959.A.144",
+      "author": "luckywind",
+      "board": "SportLottery",
+      "publishTime": "2026/01/31 11:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "54",
+      "recommendCount": "72",
+      "title": "[姆咪] 我比較想要現金",
+      "link": "/bbs/Marginalman/M.1769874718.A.540",
+      "author": "willy911006",
+      "board": "Marginalman",
+      "publishTime": "2026/01/31 15:51",
       "imageUrl": ""
     }
   ]
