@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-01T15:21:24.724Z",
+  "updated": "2026-02-01T15:36:18.860Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "76",
-      "recommendCount": "100",
-      "title": "[閒聊] 版有 虧爛",
-      "link": "/bbs/Marginalman/M.1769873018.A.487",
-      "author": "JKWP",
-      "board": "Marginalman",
-      "publishTime": "2026/01/31 15:23",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "59",
       "recommendCount": "139",
       "title": "[新聞] 黃仁勳：從未承諾砸千億美元投資OPEN AI",
@@ -202,6 +192,16 @@
       "board": "C_Chat",
       "publishTime": "2026/02/01 08:50",
       "imageUrl": "https://cache.pttweb.cc/imgur/RQ7x2lS/s/98acbea85bc06a91c6efd712c7606b97"
+    },
+    {
+      "recommendScore": "-45",
+      "recommendCount": "102",
+      "title": "[討論] Fed硬地草地紅土都比Djo弱 怎麼20冠的？",
+      "link": "/bbs/Tennis/M.1769939154.A.BE2",
+      "author": "AustinRiley",
+      "board": "Tennis",
+      "publishTime": "2026/02/01 09:45",
+      "imageUrl": ""
     }
   ]
 }
