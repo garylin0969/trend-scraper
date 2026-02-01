@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-01T09:42:55.506Z",
+  "updated": "2026-02-01T09:57:09.000Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "33",
-      "recommendCount": "185",
-      "title": "[新聞] 鄭麗文要台灣人「接受自己是中國人」　吳沛憶嗆：可去菜市場隨便問",
-      "link": "/bbs/Gossiping/M.1769853030.A.44C",
-      "author": "BBQ2591",
-      "board": "Gossiping",
-      "publishTime": "2026/01/31 09:50",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "78",
       "recommendCount": "163",
       "title": "[閒聊] 劉彥池:KAPO有沒有追星她自己知道",
@@ -201,6 +191,16 @@
       "author": "Exmax1999",
       "board": "Marginalman",
       "publishTime": "2026/01/31 15:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "56",
+      "recommendCount": "83",
+      "title": "[閒聊] Gumayusi：討論淘汰情況心態太脆弱了",
+      "link": "/bbs/LoL/M.1769856629.A.F1A",
+      "author": "y12544",
+      "board": "LoL",
+      "publishTime": "2026/01/31 10:50",
       "imageUrl": ""
     }
   ]
