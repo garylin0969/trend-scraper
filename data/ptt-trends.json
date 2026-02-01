@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-01T09:57:09.000Z",
+  "updated": "2026-02-01T10:08:45.725Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -82,16 +82,6 @@
       "board": "Gossiping",
       "publishTime": "2026/01/31 10:26",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "107",
-      "recommendCount": "110",
-      "title": "[終末] 嗚嗚…我要玩一輩子終末地…",
-      "link": "/bbs/C_Chat/M.1769853652.A.1A3",
-      "author": "SaberMyWifi",
-      "board": "C_Chat",
-      "publishTime": "2026/01/31 10:00",
-      "imageUrl": "https://cache.pttweb.cc/imgur/g8PEw5f/s/88f3073515d8d36d19df00e133e493bf"
     },
     {
       "recommendScore": "96",
@@ -201,6 +191,16 @@
       "author": "y12544",
       "board": "LoL",
       "publishTime": "2026/01/31 10:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "61",
+      "recommendCount": "147",
+      "title": "[討論] 為什麼突然開始有版友攻擊林立？",
+      "link": "/bbs/Baseball/M.1769861847.A.E7B",
+      "author": "growl",
+      "board": "Baseball",
+      "publishTime": "2026/01/31 12:17",
       "imageUrl": ""
     }
   ]
