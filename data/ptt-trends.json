@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-02T10:28:59.656Z",
+  "updated": "2026-02-02T10:50:37.931Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -21,16 +21,6 @@
       "author": "chekove",
       "board": "Gossiping",
       "publishTime": "2026/02/01 13:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "106",
-      "recommendCount": "202",
-      "title": "[問題] HLE中野這三場比賽大家給幾分?",
-      "link": "/bbs/LoL/M.1769942527.A.8DD",
-      "author": "qazxc1156892",
-      "board": "LoL",
-      "publishTime": "2026/02/01 10:42",
       "imageUrl": ""
     },
     {
@@ -134,6 +124,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "68",
+      "recommendCount": "118",
+      "title": "[新聞] 快訊／袁惟仁纏病8年逝世家中！享年57歲",
+      "link": "/bbs/Gossiping/M.1770025140.A.37A",
+      "author": "zkow",
+      "board": "Gossiping",
+      "publishTime": "2026/02/02 09:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "83",
+      "recommendCount": "122",
+      "title": "[公告]zaonoort(垃圾優逼西 看你多會抓)分身水桶",
+      "link": "/bbs/Gossiping/M.1770022884.A.D3D",
+      "author": "ubcs",
+      "board": "Gossiping",
+      "publishTime": "2026/02/02 09:01",
+      "imageUrl": "https://cache.pttweb.cc/imgur/lxGusYi/s/6742a1535e9079fbe5e9f52d34c9d29c"
+    },
+    {
       "recommendScore": "7",
       "recommendCount": "104",
       "title": "Re: [標的] 2330 台積電 無腦空",
@@ -141,6 +151,16 @@
       "author": "jpeter",
       "board": "Stock",
       "publishTime": "2026/02/01 13:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "54",
+      "recommendCount": "95",
+      "title": "[爆卦] 小胖老師走了…",
+      "link": "/bbs/Gossiping/M.1770023839.A.14B",
+      "author": "nba887215",
+      "board": "Gossiping",
+      "publishTime": "2026/02/02 09:17",
       "imageUrl": ""
     },
     {
@@ -181,26 +201,6 @@
       "author": "Kostolany",
       "board": "Stock",
       "publishTime": "2026/02/01 14:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "82",
-      "recommendCount": "128",
-      "title": "[新聞] 狗群闖入棒球場狂追人！外野手遭咬傷　球員持棒驅趕",
-      "link": "/bbs/Baseball/M.1769943009.A.DA9",
-      "author": "leftavoid",
-      "board": "Baseball",
-      "publishTime": "2026/02/01 10:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "54",
-      "recommendCount": "115",
-      "title": "[新聞] 大型新建物須設光電8月上路　內政部2月起辦說明會",
-      "link": "/bbs/Gossiping/M.1769942613.A.6FE",
-      "author": "nk11208z",
-      "board": "Gossiping",
-      "publishTime": "2026/02/01 10:43",
       "imageUrl": ""
     }
   ]
