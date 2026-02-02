@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-02T09:25:59.413Z",
+  "updated": "2026-02-02T09:47:47.829Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -11,16 +11,6 @@
       "author": "robinkidd",
       "board": "Tennis",
       "publishTime": "2026/02/01 11:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "297",
-      "recommendCount": "350",
-      "title": "[集氣]  幫我囧加油 集氣拿冠軍",
-      "link": "/bbs/Tennis/M.1769936996.A.86F",
-      "author": "egg100152002",
-      "board": "Tennis",
-      "publishTime": "2026/02/01 09:09",
       "imageUrl": ""
     },
     {
@@ -42,26 +32,6 @@
       "board": "Gossiping",
       "publishTime": "2026/02/01 10:04",
       "imageUrl": "https://cache.pttweb.cc/imgur/B9G2mLX/s/40d083965300d1edc4b93001c7dbfa82"
-    },
-    {
-      "recommendScore": "620",
-      "recommendCount": "1016",
-      "title": "[LIVE] 澳網 喬科維奇 @ 阿卡拉茲 場中",
-      "link": "/bbs/SportLottery/M.1769933462.A.E69",
-      "author": "Rayswei",
-      "board": "SportLottery",
-      "publishTime": "2026/02/01 08:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "122",
-      "recommendCount": "239",
-      "title": "[問卦] 台灣有什麼違法事做了沒在抓的？",
-      "link": "/bbs/Gossiping/M.1769937200.A.F06",
-      "author": "Amed21",
-      "board": "Gossiping",
-      "publishTime": "2026/02/01 09:13",
-      "imageUrl": ""
     },
     {
       "recommendScore": "106",
@@ -114,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "75",
-      "recommendCount": "123",
-      "title": "[閒聊] 幹 錢還有剩",
-      "link": "/bbs/Marginalman/M.1769935941.A.A87",
-      "author": "XROCK",
-      "board": "Marginalman",
-      "publishTime": "2026/02/01 08:52",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "111",
       "recommendCount": "685",
       "title": "[問卦] 75～85年次的人是台灣最慘的一代嗎？",
@@ -131,26 +91,6 @@
       "author": "MoreLight",
       "board": "Gossiping",
       "publishTime": "2026/02/01 15:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "93",
-      "recommendCount": "324",
-      "title": "[新聞] 鍾佳濱喊「春秋時代沒有中國」 藍青年傻眼：歷史是體育老師教的？",
-      "link": "/bbs/HatePolitics/M.1769934254.A.BB0",
-      "author": "anomic24",
-      "board": "HatePolitics",
-      "publishTime": "2026/02/01 08:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "101",
-      "recommendCount": "140",
-      "title": "[閒聊] Peanut被鎖號",
-      "link": "/bbs/LoL/M.1769932054.A.359",
-      "author": "itachi6060",
-      "board": "LoL",
-      "publishTime": "2026/02/01 07:47",
       "imageUrl": ""
     },
     {
@@ -184,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "71",
-      "recommendCount": "130",
-      "title": "[新聞] 痛毆老夫婦惡徒身分曝！竟是高雄環保局清潔隊員停職送考核會",
-      "link": "/bbs/Gossiping/M.1769932498.A.6F6",
-      "author": "WuSam",
-      "board": "Gossiping",
-      "publishTime": "2026/02/01 07:54",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "78",
       "recommendCount": "118",
       "title": "[問卦] 有哪些推薦收藏的已完結全套漫畫啊☺",
@@ -201,6 +131,76 @@
       "author": "dean1990",
       "board": "Gossiping",
       "publishTime": "2026/02/01 11:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "59",
+      "recommendCount": "139",
+      "title": "[新聞] 黃仁勳：從未承諾砸千億美元投資OPEN AI",
+      "link": "/bbs/Stock/M.1769946456.A.748",
+      "author": "zkow",
+      "board": "Stock",
+      "publishTime": "2026/02/01 11:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "7",
+      "recommendCount": "104",
+      "title": "Re: [標的] 2330 台積電 無腦空",
+      "link": "/bbs/Stock/M.1769951703.A.5FB",
+      "author": "jpeter",
+      "board": "Stock",
+      "publishTime": "2026/02/01 13:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "52",
+      "recommendCount": "111",
+      "title": "[問卦] 川普：讓不努力的人買不起房",
+      "link": "/bbs/Gossiping/M.1769953728.A.653",
+      "author": "senma",
+      "board": "Gossiping",
+      "publishTime": "2026/02/01 13:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "83",
+      "recommendCount": "83",
+      "title": "[發錢] 巴哈動畫瘋應援榜 哇幹 虹咲上啦",
+      "link": "/bbs/C_Chat/M.1769947845.A.9BB",
+      "author": "YrokuH",
+      "board": "C_Chat",
+      "publishTime": "2026/02/01 12:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "56",
+      "recommendCount": "135",
+      "title": "[新聞] 上課講「三七五減租」遭指威權入校園　師離職：一通電話讓人灰心",
+      "link": "/bbs/Gossiping/M.1770017343.A.48E",
+      "author": "ChanHoPark",
+      "board": "Gossiping",
+      "publishTime": "2026/02/02 07:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "73",
+      "recommendCount": "182",
+      "title": "[新聞] 華許入主Fed 估採縮表＋降息政策",
+      "link": "/bbs/Stock/M.1769955676.A.C1C",
+      "author": "Kostolany",
+      "board": "Stock",
+      "publishTime": "2026/02/01 14:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "82",
+      "recommendCount": "128",
+      "title": "[新聞] 狗群闖入棒球場狂追人！外野手遭咬傷　球員持棒驅趕",
+      "link": "/bbs/Baseball/M.1769943009.A.DA9",
+      "author": "leftavoid",
+      "board": "Baseball",
+      "publishTime": "2026/02/01 10:50",
       "imageUrl": ""
     }
   ]
