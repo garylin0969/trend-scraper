@@ -1,18 +1,8 @@
 {
-  "updated": "2026-02-02T17:58:02.672Z",
+  "updated": "2026-02-02T18:20:10.978Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "100",
-      "recommendCount": "365",
-      "title": "[新聞] 丁允恭「對不起我在辦公室打炮」 下一句酸爆黃國昌",
-      "link": "/bbs/Gossiping/M.1769951061.A.1E6",
-      "author": "chekove",
-      "board": "Gossiping",
-      "publishTime": "2026/02/01 13:04",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "-123",
       "recommendCount": "340",
@@ -54,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "137",
+      "recommendCount": "158",
+      "title": "Re: [LIVE] 新超 芽籠國際 @ 新加坡新潟天鵝 場中",
+      "link": "/bbs/SportLottery/M.1770038572.A.186",
+      "author": "lotterywin",
+      "board": "SportLottery",
+      "publishTime": "2026/02/02 13:22",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "123",
       "recommendCount": "177",
       "title": "[情報] 狄龍：勇士隊球迷是最惡毒群體",
@@ -84,36 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "96",
-      "recommendCount": "183",
-      "title": "[爆卦] 華航被國外媒體掛上五星旗啦",
-      "link": "/bbs/Gossiping/M.1769957640.A.BEF",
-      "author": "SFGEX",
-      "board": "Gossiping",
-      "publishTime": "2026/02/01 14:54",
-      "imageUrl": "https://cache.pttweb.cc/imgur/2IzJYuL/s/2a4a88731fdad8bdb23d91f7293aff70"
-    },
-    {
-      "recommendScore": "314",
-      "recommendCount": "537",
-      "title": "[LIVE] 英超 富勒姆 2-3 曼聯 (場中)",
-      "link": "/bbs/SportLottery/M.1769954028.A.6BE",
-      "author": "lotterywin",
-      "board": "SportLottery",
-      "publishTime": "2026/02/01 13:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "69",
-      "recommendCount": "173",
-      "title": "[新聞] 獨家／秤重糖「1克1元」民眾結帳2500元驚呆",
-      "link": "/bbs/Gossiping/M.1769958583.A.111",
-      "author": "landy924",
-      "board": "Gossiping",
-      "publishTime": "2026/02/01 15:09",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "33",
       "recommendCount": "249",
       "title": "[新聞] 內政部：已將「退中籍申請表」給李貞秀到職前未辦理放棄應解職",
@@ -124,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "72",
+      "recommendCount": "137",
+      "title": "[新聞] 日本訂車爽約還封鎖起底竟是高雄人！業者嘆：信譽很重要",
+      "link": "/bbs/Gossiping/M.1770036267.A.D5A",
+      "author": "ihl123456",
+      "board": "Gossiping",
+      "publishTime": "2026/02/02 12:44",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "9",
       "recommendCount": "130",
       "title": "[情報] 姆斯不是很在意22年連續入選明星賽的紀錄",
@@ -131,16 +111,6 @@
       "author": "s24066774",
       "board": "NBA",
       "publishTime": "2026/02/02 04:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "111",
-      "recommendCount": "685",
-      "title": "[問卦] 75～85年次的人是台灣最慘的一代嗎？",
-      "link": "/bbs/Gossiping/M.1769960553.A.539",
-      "author": "MoreLight",
-      "board": "Gossiping",
-      "publishTime": "2026/02/01 15:42",
       "imageUrl": ""
     },
     {
@@ -200,6 +170,36 @@
       "link": "/bbs/Gossiping/M.1770002547.A.577",
       "author": "HTC92",
       "board": "Gossiping",
+      "publishTime": "2026/02/02 03:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "68",
+      "recommendCount": "118",
+      "title": "[新聞] 快訊／袁惟仁纏病8年逝世家中！享年57歲",
+      "link": "/bbs/Gossiping/M.1770025140.A.37A",
+      "author": "zkow",
+      "board": "Gossiping",
+      "publishTime": "2026/02/02 09:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "83",
+      "recommendCount": "122",
+      "title": "[公告]zaonoort(垃圾優逼西 看你多會抓)分身水桶",
+      "link": "/bbs/Gossiping/M.1770022884.A.D3D",
+      "author": "ubcs",
+      "board": "Gossiping",
+      "publishTime": "2026/02/02 09:01",
+      "imageUrl": "https://cache.pttweb.cc/imgur/lxGusYi/s/6742a1535e9079fbe5e9f52d34c9d29c"
+    },
+    {
+      "recommendScore": "60",
+      "recommendCount": "111",
+      "title": "[新聞] 甲骨文擬募集1.6兆元擴AI算力　解析：周日罕見發布公告背後盤算",
+      "link": "/bbs/Stock/M.1770002533.A.1FA",
+      "author": "baddaddy",
+      "board": "Stock",
       "publishTime": "2026/02/02 03:22",
       "imageUrl": ""
     }
