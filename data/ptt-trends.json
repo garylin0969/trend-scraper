@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-02T08:59:06.205Z",
+  "updated": "2026-02-02T09:25:59.413Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "79",
+      "recommendCount": "139",
+      "title": "[新聞] 越南外海挖到油田！官方證實　有望商業開發",
+      "link": "/bbs/Gossiping/M.1770017087.A.0AE",
+      "author": "zxcxxx",
+      "board": "Gossiping",
+      "publishTime": "2026/02/02 07:24",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "71",
       "recommendCount": "130",
       "title": "[新聞] 痛毆老夫婦惡徒身分曝！竟是高雄環保局清潔隊員停職送考核會",
@@ -191,16 +201,6 @@
       "author": "dean1990",
       "board": "Gossiping",
       "publishTime": "2026/02/01 11:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "59",
-      "recommendCount": "139",
-      "title": "[新聞] 黃仁勳：從未承諾砸千億美元投資OPEN AI",
-      "link": "/bbs/Stock/M.1769946456.A.748",
-      "author": "zkow",
-      "board": "Stock",
-      "publishTime": "2026/02/01 11:47",
       "imageUrl": ""
     }
   ]
