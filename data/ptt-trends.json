@@ -1,18 +1,8 @@
 {
-  "updated": "2026-02-02T07:32:52.654Z",
+  "updated": "2026-02-02T07:56:47.345Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "728",
-      "recommendCount": "1464",
-      "title": "[電競] 2026 LCK Cup W3D5 超級週 關鍵決戰",
-      "link": "/bbs/LoL/M.1769931299.A.7AB",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/02/01 07:34",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "280",
       "recommendCount": "371",
@@ -201,6 +191,16 @@
       "author": "dean1990",
       "board": "Gossiping",
       "publishTime": "2026/02/01 11:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "59",
+      "recommendCount": "139",
+      "title": "[新聞] 黃仁勳：從未承諾砸千億美元投資OPEN AI",
+      "link": "/bbs/Stock/M.1769946456.A.748",
+      "author": "zkow",
+      "board": "Stock",
+      "publishTime": "2026/02/01 11:47",
       "imageUrl": ""
     }
   ]
