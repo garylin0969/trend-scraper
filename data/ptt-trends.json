@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-02T03:22:40.363Z",
+  "updated": "2026-02-02T04:18:49.809Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-46",
+      "recommendCount": "166",
+      "title": "[新聞] 賴清德轟藍白「希望國人評評理」請託韓國瑜發揮功能速審總預算",
+      "link": "/bbs/Gossiping/M.1770002717.A.7AB",
+      "author": "a828215362",
+      "board": "Gossiping",
+      "publishTime": "2026/02/02 03:25",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "104",
       "recommendCount": "121",
       "title": "Re: [閒聊] 原鐵絕鳴終 最後一抽才出貨有多難",
@@ -191,16 +201,6 @@
       "author": "dean1990",
       "board": "Gossiping",
       "publishTime": "2026/02/01 11:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "59",
-      "recommendCount": "139",
-      "title": "[新聞] 黃仁勳：從未承諾砸千億美元投資OPEN AI",
-      "link": "/bbs/Stock/M.1769946456.A.748",
-      "author": "zkow",
-      "board": "Stock",
-      "publishTime": "2026/02/01 11:47",
       "imageUrl": ""
     }
   ]
