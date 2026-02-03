@@ -1,18 +1,8 @@
 {
-  "updated": "2026-02-03T04:49:16.948Z",
+  "updated": "2026-02-03T05:18:53.396Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "176",
-      "recommendCount": "264",
-      "title": "[新聞] 記憶體集體跳水！　8檔亮燈跌停",
-      "link": "/bbs/Stock/M.1770008836.A.B3B",
-      "author": "TT991",
-      "board": "Stock",
-      "publishTime": "2026/02/02 05:07",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "85",
       "recommendCount": "277",
@@ -61,16 +51,6 @@
       "author": "ihl123456",
       "board": "Gossiping",
       "publishTime": "2026/02/02 12:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "9",
-      "recommendCount": "130",
-      "title": "[情報] 姆斯不是很在意22年連續入選明星賽的紀錄",
-      "link": "/bbs/NBA/M.1770008156.A.5B8",
-      "author": "s24066774",
-      "board": "NBA",
-      "publishTime": "2026/02/02 04:55",
       "imageUrl": ""
     },
     {
@@ -164,16 +144,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ewhLExD/s/c17fbcb62303e6ee8594602ff8bc92ad"
     },
     {
-      "recommendScore": "61",
-      "recommendCount": "99",
-      "title": "[新聞] 股匯大暴殺！新台幣重貶1.9角 專家揭「恐下探32元」導火線",
-      "link": "/bbs/Stock/M.1770008854.A.5A2",
-      "author": "keel90135",
-      "board": "Stock",
-      "publishTime": "2026/02/02 05:07",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "45",
       "recommendCount": "93",
       "title": "[新聞] 輝達「南台灣設總部」？黃仁勳:多數工程師都在台北",
@@ -201,6 +171,36 @@
       "author": "ChanHoPark",
       "board": "Gossiping",
       "publishTime": "2026/02/02 07:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "45",
+      "recommendCount": "92",
+      "title": "[新聞] 台股暴跌心好慌？阮慕驊點下殺真正2原因「不必太緊張」：不是跌基本面",
+      "link": "/bbs/Stock/M.1770015258.A.D30",
+      "author": "IzumiKonata",
+      "board": "Stock",
+      "publishTime": "2026/02/02 06:54",
+      "imageUrl": "https://cache.pttweb.cc/imgur/XyBbBIp/s/be36e068bd5ef16cba16d6ff2b5353a7"
+    },
+    {
+      "recommendScore": "59",
+      "recommendCount": "93",
+      "title": "[花邊] 狄龍:我聽說字母哥是去勇士隊",
+      "link": "/bbs/NBA/M.1770037866.A.710",
+      "author": "kakala99",
+      "board": "NBA",
+      "publishTime": "2026/02/02 13:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-5",
+      "recommendCount": "87",
+      "title": "[新聞] 快訊／賴清德明早親上火線舉行記者會　宣布台美合作進展",
+      "link": "/bbs/Gossiping/M.1770023295.A.2FE",
+      "author": "betweenus020",
+      "board": "Gossiping",
+      "publishTime": "2026/02/02 09:08",
       "imageUrl": ""
     }
   ]
