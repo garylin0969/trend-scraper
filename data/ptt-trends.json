@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-03T15:30:09.920Z",
+  "updated": "2026-02-03T15:52:34.981Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "87",
-      "recommendCount": "131",
-      "title": "[新聞] 黃仁勳談輝達總部簽約進度直言市長幫了很大的忙",
-      "link": "/bbs/Gossiping/M.1770046607.A.E17",
-      "author": "tsengcc",
-      "board": "Gossiping",
-      "publishTime": "2026/02/02 15:36",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "81",
       "recommendCount": "242",
       "title": "[討論] 李貞秀的學經歷",
@@ -202,6 +192,16 @@
       "board": "HatePolitics",
       "publishTime": "2026/02/03 09:20",
       "imageUrl": "https://cache.pttweb.cc/imgur/Xrqj63M/s/2ec493117ad72b01405181f4deb25380"
+    },
+    {
+      "recommendScore": "57",
+      "recommendCount": "193",
+      "title": "[問卦] 台視立場也太偏了吧= =",
+      "link": "/bbs/Gossiping/M.1770120656.A.795",
+      "author": "ambitious",
+      "board": "Gossiping",
+      "publishTime": "2026/02/03 12:10",
+      "imageUrl": ""
     }
   ]
 }
