@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-03T02:18:30.099Z",
+  "updated": "2026-02-03T03:19:32.180Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -61,16 +61,6 @@
       "author": "Mikufans",
       "board": "NBA",
       "publishTime": "2026/02/02 04:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "209",
-      "recommendCount": "557",
-      "title": "[閒聊] 所以現在世一ad怎麼排名",
-      "link": "/bbs/LoL/M.1770000140.A.E38",
-      "author": "gakkag",
-      "board": "LoL",
-      "publishTime": "2026/02/02 02:42",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2026/02/02 09:01",
       "imageUrl": "https://cache.pttweb.cc/imgur/lxGusYi/s/6742a1535e9079fbe5e9f52d34c9d29c"
+    },
+    {
+      "recommendScore": "60",
+      "recommendCount": "111",
+      "title": "[新聞] 甲骨文擬募集1.6兆元擴AI算力　解析：周日罕見發布公告背後盤算",
+      "link": "/bbs/Stock/M.1770002533.A.1FA",
+      "author": "baddaddy",
+      "board": "Stock",
+      "publishTime": "2026/02/02 03:22",
+      "imageUrl": ""
     }
   ]
 }
