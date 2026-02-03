@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-03T11:18:57.900Z",
+  "updated": "2026-02-03T11:35:32.421Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,16 +54,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "152",
-      "recommendCount": "277",
-      "title": "[LIVE] 新超 芽籠國際 @ 新加坡新潟天鵝 場中",
-      "link": "/bbs/SportLottery/M.1770032018.A.C9F",
-      "author": "luckywind",
-      "board": "SportLottery",
-      "publishTime": "2026/02/02 11:33",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "87",
       "recommendCount": "131",
       "title": "[新聞] 黃仁勳談輝達總部簽約進度直言市長幫了很大的忙",
@@ -71,16 +61,6 @@
       "author": "tsengcc",
       "board": "Gossiping",
       "publishTime": "2026/02/02 15:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "71",
-      "recommendCount": "153",
-      "title": "[問卦] 垃圾政策飯店不提供備品",
-      "link": "/bbs/Gossiping/M.1770031206.A.3C9",
-      "author": "O300",
-      "board": "Gossiping",
-      "publishTime": "2026/02/02 11:20",
       "imageUrl": ""
     },
     {
@@ -92,16 +72,6 @@
       "board": "NBA",
       "publishTime": "2026/02/03 04:19",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "83",
-      "recommendCount": "126",
-      "title": "[花邊] 19暴龍輪替已經有6位全明星",
-      "link": "/bbs/NBA/M.1770031563.A.525",
-      "author": "EZ78",
-      "board": "NBA",
-      "publishTime": "2026/02/02 11:26",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ewhLExD/s/c17fbcb62303e6ee8594602ff8bc92ad"
     },
     {
       "recommendScore": "45",
@@ -201,6 +171,36 @@
       "author": "HGK",
       "board": "Marginalman",
       "publishTime": "2026/02/02 15:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "57",
+      "recommendCount": "81",
+      "title": "[新聞] 多名球星不能打經典賽！波多黎各開嗆：美國乾脆自己找日本玩",
+      "link": "/bbs/Baseball/M.1770033639.A.64A",
+      "author": "jganet",
+      "board": "Baseball",
+      "publishTime": "2026/02/02 12:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "36",
+      "recommendCount": "71",
+      "title": "[標的] 華邦電籌碼分析",
+      "link": "/bbs/Stock/M.1770036689.A.DE1",
+      "author": "minazukimaya",
+      "board": "Stock",
+      "publishTime": "2026/02/02 12:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "43",
+      "recommendCount": "76",
+      "title": "[新聞] 葛萊美／女星上空走紅毯！「兩點全露」只靠乳環撐住薄紗",
+      "link": "/bbs/Gossiping/M.1770034913.A.E7F",
+      "author": "proprome",
+      "board": "Gossiping",
+      "publishTime": "2026/02/02 12:21",
       "imageUrl": ""
     }
   ]
