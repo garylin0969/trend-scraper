@@ -1,22 +1,14 @@
 {
-  "updated": "2026-02-03T04:02:25.530Z",
+  "updated": "2026-02-03T04:51:46.637Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-02-03T04:02:12.000Z",
+    "lastBuildDate": "2026-02-03T04:51:45.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
-    {
-      "title": "台灣民眾黨「大換血」：首位陸配立委與「兩年條款」的例外",
-      "description": "這一輪料將誕生台灣首位「陸配」立委李貞秀，而推動代理孕母法案的陳昭姿則成為民眾黨「兩年條款」的例外，獲得延任。另一方面，政壇在觀望換人後「藍白合」是否轉向「綠白合」，鬆動朝野對立。",
-      "link": "https://www.bbc.com/zhongwen/articles/cy09ze82gjzo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-03T00:23:03.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cy09ze82gjzo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/615b/live/8c6bc1b0-004d-11f1-b0e3-c598b6818235.png"
-    },
     {
       "title": "經貿合同、特朗普警告、接待規格——盤點施紀賢訪華引發的爭議",
       "description": "英國首相施紀賢爵士結束其「成功」的訪華行程，接下來要面對和處理各種批評，包括來自美國總統特朗普的警告。",
@@ -34,12 +26,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f7a1/live/5f68ffd0-fe9e-11f0-9972-d3f265c101c6.jpg"
     },
     {
-      "title": "「你憑什麼覺得自己是例外？」——中美「斬殺線」的討論與民眾的質疑",
-      "description": "「斬殺線」這個名詞從游戲逐漸進入中國政治公共討論語境，本用於形容美國社會信用制度給普通人帶來的生存壓力，如今，中國民眾開始反思是否中國也有「斬殺線」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgrmn683pro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-02T00:12:59.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgrmn683pro/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e5e6/live/2d5497e0-fcee-11f0-9c55-8bade468c676.jpg"
+      "title": "台灣民眾黨「大換血」：首位陸配立委與「兩年條款」的例外",
+      "description": "這一輪料將誕生台灣首位「陸配」立委李貞秀，而推動代理孕母法案的陳昭姿則成為民眾黨「兩年條款」的例外，獲得延任。另一方面，政壇在觀望換人後「藍白合」是否轉向「綠白合」，鬆動朝野對立。",
+      "link": "https://www.bbc.com/zhongwen/articles/cy09ze82gjzo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-03T00:23:03.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cy09ze82gjzo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/615b/live/8c6bc1b0-004d-11f1-b0e3-c598b6818235.png"
+    },
+    {
+      "title": "達賴喇嘛獲葛萊美獎，北京稱「政治操弄」",
+      "description": "這位佛教精神領袖因《冥想：達賴喇嘛尊者的反思》這本有聲書獲得葛萊美獎有聲書類別的肯定。",
+      "link": "https://www.bbc.com/zhongwen/articles/c2lg4dl2vpvo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-03T04:30:07.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c2lg4dl2vpvo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4094/live/a5bb9e90-0031-11f1-9713-f92c5182d77b.jpg"
     },
     {
       "title": "「這是我屋企的語言」：移民澳洲後，9歲香港小朋友拍片教廣東話",
@@ -48,6 +48,14 @@
       "pubDate": "2026-02-03T00:11:07.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c20z9x5e27no/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/992f/live/5bb79f70-ff81-11f0-b7e1-afb6d0884c18.jpg"
+    },
+    {
+      "title": "「你憑什麼覺得自己是例外？」——中美「斬殺線」的討論與民眾的質疑",
+      "description": "「斬殺線」這個名詞從游戲逐漸進入中國政治公共討論語境，本用於形容美國社會信用制度給普通人帶來的生存壓力，如今，中國民眾開始反思是否中國也有「斬殺線」。",
+      "link": "https://www.bbc.com/zhongwen/articles/cvgrmn683pro/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-02T00:12:59.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvgrmn683pro/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e5e6/live/2d5497e0-fcee-11f0-9c55-8bade468c676.jpg"
     },
     {
       "title": "睡眠真的可以預先「儲存」起來以後再用嗎？",
@@ -104,14 +112,6 @@
       "pubDate": "2026-01-30T00:14:47.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy7mvvrv1peo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/49c9/live/bcbdb080-f675-11f0-8536-93c84af4000d.jpg"
-    },
-    {
-      "title": "施紀賢訪華：英政府指，中國將放寬英國訪客旅遊規定",
-      "description": "施紀賢爵士訪問北京，是八年來首位到訪中國的英國首相。",
-      "link": "https://www.bbc.com/zhongwen/articles/c0ery3d2z2ro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-30T05:07:46.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c0ery3d2z2ro/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5666/live/1a709de0-fcdf-11f0-853a-2b6f40b40d41.jpg"
     },
     {
       "title": "英加法等西方領袖密集訪華  中國正在打造世界「新秩序」嗎？",
