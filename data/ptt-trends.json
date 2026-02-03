@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-03T14:04:22.334Z",
+  "updated": "2026-02-03T14:28:08.287Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "59",
+      "recommendCount": "177",
+      "title": "[新聞] 綠營議員批年貨大街「吸菸區走20分鐘」",
+      "link": "/bbs/Gossiping/M.1770123258.A.633",
+      "author": "runa2",
+      "board": "Gossiping",
+      "publishTime": "2026/02/03 12:54",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "95",
       "recommendCount": "146",
       "title": "[情報] 2408 南亞科115年1月營收",
@@ -192,16 +202,6 @@
       "board": "HatePolitics",
       "publishTime": "2026/02/03 09:20",
       "imageUrl": "https://cache.pttweb.cc/imgur/Xrqj63M/s/2ec493117ad72b01405181f4deb25380"
-    },
-    {
-      "recommendScore": "84",
-      "recommendCount": "163",
-      "title": "[外絮] 乳摸:鬍子跟Garland互換討論已達後期階段",
-      "link": "/bbs/NBA/M.1770092394.A.B03",
-      "author": "pneumo",
-      "board": "NBA",
-      "publishTime": "2026/02/03 04:19",
-      "imageUrl": ""
     }
   ]
 }
