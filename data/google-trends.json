@@ -1,6 +1,11 @@
 {
-  "updated": "2026-02-03T20:49:21.100Z",
+  "updated": "2026-02-03T21:16:47.573Z",
   "trends": [
+    {
+      "googleTrend": "arsenal vs chelsea",
+      "searchVolume": "100+",
+      "started": "20 分鐘前"
+    },
     {
       "googleTrend": "2026冬季オリンピック",
       "searchVolume": "200+",
@@ -14,7 +19,12 @@
     {
       "googleTrend": "nba 交易",
       "searchVolume": "100+",
-      "started": "1 小時前"
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "nvidia",
+      "searchVolume": "100+",
+      "started": "40 分鐘前"
     },
     {
       "googleTrend": "美股新聞",
@@ -22,14 +32,9 @@
       "started": "1 小時前"
     },
     {
-      "googleTrend": "nvda",
-      "searchVolume": "100+",
-      "started": "30 分鐘前"
-    },
-    {
       "googleTrend": "美股大跌",
       "searchVolume": "100+",
-      "started": "1 小時前"
+      "started": "2 小時前"
     }
   ]
 }
