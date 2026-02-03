@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-03T12:14:58.261Z",
+  "updated": "2026-02-03T12:34:33.280Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "210",
+      "recommendCount": "463",
+      "title": "[電競] 2026 LPL Split 1 W4D2",
+      "link": "/bbs/LoL/M.1770107894.A.48B",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/02/03 08:38",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "98",
       "recommendCount": "187",
       "title": "[閒聊] 寶可夢傳說Z-A 累積銷售1230萬片",
@@ -122,6 +132,16 @@
       "board": "Gossiping",
       "publishTime": "2026/02/02 15:36",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "81",
+      "recommendCount": "242",
+      "title": "[討論] 李貞秀的學經歷",
+      "link": "/bbs/HatePolitics/M.1770110414.A.CA4",
+      "author": "oscarwu3041",
+      "board": "HatePolitics",
+      "publishTime": "2026/02/03 09:20",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Xrqj63M/s/2ec493117ad72b01405181f4deb25380"
     },
     {
       "recommendScore": "84",
@@ -181,26 +201,6 @@
       "author": "rz2x",
       "board": "Stock",
       "publishTime": "2026/02/02 15:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "59",
-      "recommendCount": "93",
-      "title": "[花邊] 狄龍:我聽說字母哥是去勇士隊",
-      "link": "/bbs/NBA/M.1770037866.A.710",
-      "author": "kakala99",
-      "board": "NBA",
-      "publishTime": "2026/02/02 13:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "44",
-      "recommendCount": "84",
-      "title": "[新聞] 台股三天蒸發逾千點 金管會信心喊話！",
-      "link": "/bbs/Stock/M.1770036183.A.8BA",
-      "author": "xephon",
-      "board": "Stock",
-      "publishTime": "2026/02/02 12:43",
       "imageUrl": ""
     }
   ]
