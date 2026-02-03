@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-03T10:36:57.475Z",
+  "updated": "2026-02-03T10:58:48.992Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "95",
+      "recommendCount": "146",
+      "title": "[情報] 2408 南亞科115年1月營收",
+      "link": "/bbs/Stock/M.1770102162.A.FF4",
+      "author": "BlueBird5566",
+      "board": "Stock",
+      "publishTime": "2026/02/03 07:02",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "72",
       "recommendCount": "137",
       "title": "[新聞] 日本訂車爽約還封鎖起底竟是高雄人！業者嘆：信譽很重要",
@@ -61,16 +71,6 @@
       "author": "luckywind",
       "board": "SportLottery",
       "publishTime": "2026/02/02 11:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "79",
-      "recommendCount": "139",
-      "title": "[新聞] 越南外海挖到油田！官方證實　有望商業開發",
-      "link": "/bbs/Gossiping/M.1770017087.A.0AE",
-      "author": "zxcxxx",
-      "board": "Gossiping",
-      "publishTime": "2026/02/02 07:24",
       "imageUrl": ""
     },
     {
@@ -104,36 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "68",
-      "recommendCount": "118",
-      "title": "[新聞] 快訊／袁惟仁纏病8年逝世家中！享年57歲",
-      "link": "/bbs/Gossiping/M.1770025140.A.37A",
-      "author": "zkow",
-      "board": "Gossiping",
-      "publishTime": "2026/02/02 09:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "83",
-      "recommendCount": "122",
-      "title": "[公告]zaonoort(垃圾優逼西 看你多會抓)分身水桶",
-      "link": "/bbs/Gossiping/M.1770022884.A.D3D",
-      "author": "ubcs",
-      "board": "Gossiping",
-      "publishTime": "2026/02/02 09:01",
-      "imageUrl": "https://cache.pttweb.cc/imgur/lxGusYi/s/6742a1535e9079fbe5e9f52d34c9d29c"
-    },
-    {
-      "recommendScore": "54",
-      "recommendCount": "95",
-      "title": "[爆卦] 小胖老師走了…",
-      "link": "/bbs/Gossiping/M.1770023839.A.14B",
-      "author": "nba887215",
-      "board": "Gossiping",
-      "publishTime": "2026/02/02 09:17",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "83",
       "recommendCount": "126",
       "title": "[花邊] 19暴龍輪替已經有6位全明星",
@@ -164,36 +134,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "29",
-      "recommendCount": "103",
-      "title": "[新聞] 貴金屬大崩盤 彭博揭罪魁禍首是中國",
-      "link": "/bbs/Stock/M.1770023649.A.14A",
-      "author": "forb9823018",
-      "board": "Stock",
-      "publishTime": "2026/02/02 09:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "56",
-      "recommendCount": "135",
-      "title": "[新聞] 上課講「三七五減租」遭指威權入校園　師離職：一通電話讓人灰心",
-      "link": "/bbs/Gossiping/M.1770017343.A.48E",
-      "author": "ChanHoPark",
-      "board": "Gossiping",
-      "publishTime": "2026/02/02 07:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "45",
-      "recommendCount": "92",
-      "title": "[新聞] 台股暴跌心好慌？阮慕驊點下殺真正2原因「不必太緊張」：不是跌基本面",
-      "link": "/bbs/Stock/M.1770015258.A.D30",
-      "author": "IzumiKonata",
-      "board": "Stock",
-      "publishTime": "2026/02/02 06:54",
-      "imageUrl": "https://cache.pttweb.cc/imgur/XyBbBIp/s/be36e068bd5ef16cba16d6ff2b5353a7"
-    },
-    {
       "recommendScore": "59",
       "recommendCount": "93",
       "title": "[花邊] 狄龍:我聽說字母哥是去勇士隊",
@@ -201,6 +141,66 @@
       "author": "kakala99",
       "board": "NBA",
       "publishTime": "2026/02/02 13:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "44",
+      "recommendCount": "84",
+      "title": "[新聞] 台股三天蒸發逾千點 金管會信心喊話！",
+      "link": "/bbs/Stock/M.1770036183.A.8BA",
+      "author": "xephon",
+      "board": "Stock",
+      "publishTime": "2026/02/02 12:43",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "17",
+      "recommendCount": "120",
+      "title": "[新聞]「民進黨非常重視兩岸！」　賴清德示警藍營做這1事：對台灣危險",
+      "link": "/bbs/Gossiping/M.1770092173.A.48A",
+      "author": "guido",
+      "board": "Gossiping",
+      "publishTime": "2026/02/03 04:16",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "53",
+      "recommendCount": "76",
+      "title": "[分享] 「匹敵莫伊內羅」最速158公里 徐若熙的「",
+      "link": "/bbs/Baseball/M.1770042871.A.12F",
+      "author": "newsbow",
+      "board": "Baseball",
+      "publishTime": "2026/02/02 14:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "42",
+      "recommendCount": "112",
+      "title": "[討論] 廠商聽玩家的意見修改是不自信的表現嗎？",
+      "link": "/bbs/C_Chat/M.1770036307.A.C26",
+      "author": "kl50365",
+      "board": "C_Chat",
+      "publishTime": "2026/02/02 12:45",
+      "imageUrl": "https://cache.pttweb.cc/imgur/xiXfT5N/s/143a995715c21ce5dc39530ed214603b"
+    },
+    {
+      "recommendScore": "62",
+      "recommendCount": "83",
+      "title": "[閒聊] MGSD 剎帝利",
+      "link": "/bbs/C_Chat/M.1770032355.A.028",
+      "author": "gino861027",
+      "board": "C_Chat",
+      "publishTime": "2026/02/02 11:39",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Ucvc04d/s/358ee34296a2901b337e309598bfa67f"
+    },
+    {
+      "recommendScore": "60",
+      "recommendCount": "65",
+      "title": "[瓦特] 六萬訂閱",
+      "link": "/bbs/Marginalman/M.1770047406.A.028",
+      "author": "HGK",
+      "board": "Marginalman",
+      "publishTime": "2026/02/02 15:50",
       "imageUrl": ""
     }
   ]
