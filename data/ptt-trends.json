@@ -1,28 +1,8 @@
 {
-  "updated": "2026-02-04T08:33:36.054Z",
+  "updated": "2026-02-04T08:57:53.069Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "544",
-      "recommendCount": "884",
-      "title": "[新聞] 南韓擬向「囤房族」加徵30%重稅！總統上",
-      "link": "/bbs/Gossiping/M.1770107805.A.F91",
-      "author": "leepingyo",
-      "board": "Gossiping",
-      "publishTime": "2026/02/03 08:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "127",
-      "recommendCount": "678",
-      "title": "[新聞] 衛福部宣布重大組改 要成立「婦女發展及保護服務司」",
-      "link": "/bbs/Gossiping/M.1770107679.A.BCF",
-      "author": "lycppt",
-      "board": "Gossiping",
-      "publishTime": "2026/02/03 08:34",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "249",
       "recommendCount": "741",
@@ -51,16 +31,6 @@
       "author": "willy911006",
       "board": "NBA",
       "publishTime": "2026/02/04 01:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "122",
-      "recommendCount": "220",
-      "title": "[標的] 2330台積電",
-      "link": "/bbs/Stock/M.1770107587.A.FED",
-      "author": "threedo",
-      "board": "Stock",
-      "publishTime": "2026/02/03 08:33",
       "imageUrl": ""
     },
     {
@@ -101,16 +71,6 @@
       "author": "ShaoJi",
       "board": "Stock",
       "publishTime": "2026/02/03 09:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "210",
-      "recommendCount": "463",
-      "title": "[電競] 2026 LPL Split 1 W4D2",
-      "link": "/bbs/LoL/M.1770107894.A.48B",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/02/03 08:38",
       "imageUrl": ""
     },
     {
@@ -184,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "41",
-      "recommendCount": "158",
-      "title": "[問卦] 脆熱議：台男婚後沒進步 都太太獨自升級",
-      "link": "/bbs/Gossiping/M.1770107693.A.9EA",
-      "author": "norvasc",
-      "board": "Gossiping",
-      "publishTime": "2026/02/03 08:34",
-      "imageUrl": "https://cache.pttweb.cc/imgur/hUjTOPc/s/c37caf46051a2f64fae9d9c6eb5ca4cd"
-    },
-    {
       "recommendScore": "25",
       "recommendCount": "145",
       "title": "[問卦] 脆：很多媽媽不敢生 其實不是因為錢",
@@ -202,6 +152,56 @@
       "board": "Gossiping",
       "publishTime": "2026/02/03 09:53",
       "imageUrl": "https://cache.pttweb.cc/imgur/Uvuxuct/s/2338d7c27098246110f9fe9520e90b2f"
+    },
+    {
+      "recommendScore": "63",
+      "recommendCount": "104",
+      "title": "[花邊] Shams:鬍子跟米丘已經聊過 兩個人很興奮",
+      "link": "/bbs/NBA/M.1770179841.A.3BE",
+      "author": "pneumo",
+      "board": "NBA",
+      "publishTime": "2026/02/04 04:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "37",
+      "recommendCount": "102",
+      "title": "[問卦] 法官：為何不射大腿要射胸口 如何反駁",
+      "link": "/bbs/Gossiping/M.1770179063.A.4B3",
+      "author": "lunli924",
+      "board": "Gossiping",
+      "publishTime": "2026/02/04 04:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "74",
+      "recommendCount": "75",
+      "title": "[發錢] ボンバーガール 怨念物入手",
+      "link": "/bbs/C_Chat/M.1770120354.A.4A1",
+      "author": "pickchu22001",
+      "board": "C_Chat",
+      "publishTime": "2026/02/03 12:05",
+      "imageUrl": "https://cache.pttweb.cc/imgur/9O7JHrg/s/cd243b2bc421df0b59215af1bf7bc15c"
+    },
+    {
+      "recommendScore": "56",
+      "recommendCount": "97",
+      "title": "[新聞] 記憶體股連跌兩天！起因：傳大陸雙雄擴產又殺價！專家：爆「K型大分裂」",
+      "link": "/bbs/Stock/M.1770123859.A.316",
+      "author": "Cartier",
+      "board": "Stock",
+      "publishTime": "2026/02/03 13:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "71",
+      "recommendCount": "200",
+      "title": "Re: [科普] 泛科學 科學家找到好男人去哪了",
+      "link": "/bbs/C_Chat/M.1770119919.A.C35",
+      "author": "forsakesheep",
+      "board": "C_Chat",
+      "publishTime": "2026/02/03 11:58",
+      "imageUrl": ""
     }
   ]
 }
