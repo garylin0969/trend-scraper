@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-04T07:11:53.094Z",
+  "updated": "2026-02-04T07:35:56.759Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -52,16 +52,6 @@
       "board": "Baseball",
       "publishTime": "2026/02/03 08:18",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "150",
-      "recommendCount": "296",
-      "title": "[新聞] 台灣詐騙年逾500億！韓媒諷「詐騙之島」韓國瑜挺鞭刑打詐",
-      "link": "/bbs/Gossiping/M.1770103727.A.4C1",
-      "author": "mars1985",
-      "board": "Gossiping",
-      "publishTime": "2026/02/03 07:28",
-      "imageUrl": "https://cache.pttweb.cc/imgur/f9rFN2x/s/a1376b118f5f4b88292422bbce01a0a9"
     },
     {
       "recommendScore": "157",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2026/02/04 03:54",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "81",
+      "recommendCount": "242",
+      "title": "[討論] 李貞秀的學經歷",
+      "link": "/bbs/HatePolitics/M.1770110414.A.CA4",
+      "author": "oscarwu3041",
+      "board": "HatePolitics",
+      "publishTime": "2026/02/03 09:20",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Xrqj63M/s/2ec493117ad72b01405181f4deb25380"
     }
   ]
 }
