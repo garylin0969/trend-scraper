@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-04T17:52:35.220Z",
+  "updated": "2026-02-04T18:18:44.768Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -21,6 +21,16 @@
       "author": "alex1987",
       "board": "Gossiping",
       "publishTime": "2026/02/04 13:59",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "107",
+      "recommendCount": "186",
+      "title": "[新聞] 前行政院發言人陳宗彥驚傳腦溢血住進加護病房！馬偕：處於危險期",
+      "link": "/bbs/Gossiping/M.1770220049.A.006",
+      "author": "KlayT11",
+      "board": "Gossiping",
+      "publishTime": "2026/02/04 15:47",
       "imageUrl": ""
     },
     {
@@ -124,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "89",
+      "recommendCount": "274",
+      "title": "[達爾文] 為什麼？只有人類不能殺了吃掉",
+      "link": "/bbs/C_Chat/M.1770215522.A.A5D",
+      "author": "rs150vsjr150",
+      "board": "C_Chat",
+      "publishTime": "2026/02/04 14:32",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "59",
       "recommendCount": "188",
       "title": "[討論] 柯文哲開嗆民進黨：不要拿美國來嚇人",
@@ -181,26 +201,6 @@
       "author": "wetteland",
       "board": "HatePolitics",
       "publishTime": "2026/02/04 13:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "49",
-      "recommendCount": "115",
-      "title": "[新聞] 柯文哲：民眾黨團版軍購特別條例可再修正 有問題會跟華盛頓直接溝通",
-      "link": "/bbs/Gossiping/M.1770210611.A.4D2",
-      "author": "HANASUCIA",
-      "board": "Gossiping",
-      "publishTime": "2026/02/04 13:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "63",
-      "recommendCount": "104",
-      "title": "[花邊] Shams:鬍子跟米丘已經聊過 兩個人很興奮",
-      "link": "/bbs/NBA/M.1770179841.A.3BE",
-      "author": "pneumo",
-      "board": "NBA",
-      "publishTime": "2026/02/04 04:37",
       "imageUrl": ""
     }
   ]
