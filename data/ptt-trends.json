@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-04T07:55:46.819Z",
+  "updated": "2026-02-04T08:15:37.734Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "98",
-      "recommendCount": "148",
-      "title": "[外絮] 鐵人 Zion 暴雪中完成 26 場連續出賽",
-      "link": "/bbs/NBA/M.1770106111.A.E94",
-      "author": "hasebe",
-      "board": "NBA",
-      "publishTime": "2026/02/03 08:08",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "59",
       "recommendCount": "177",
       "title": "[新聞] 綠營議員批年貨大街「吸菸區走20分鐘」",
@@ -154,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "55",
-      "recommendCount": "165",
-      "title": "[問卦] 台灣國旅會大崩壞誰的責任最大？",
-      "link": "/bbs/Gossiping/M.1770105650.A.C82",
-      "author": "lulu1305174",
-      "board": "Gossiping",
-      "publishTime": "2026/02/03 08:00",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "74",
       "recommendCount": "149",
       "title": "[問卦]國旅現在這麼頂喔？",
@@ -201,6 +181,26 @@
       "author": "MrSatan",
       "board": "C_Chat",
       "publishTime": "2026/02/03 10:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "68",
+      "recommendCount": "126",
+      "title": "[問卦] 王心凌被拍到深夜帶吳克群回香閨",
+      "link": "/bbs/Gossiping/M.1770177521.A.F29",
+      "author": "gigaman",
+      "board": "Gossiping",
+      "publishTime": "2026/02/04 03:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "60",
+      "recommendCount": "99",
+      "title": "[新聞] 快訊／友達入低軌衛星產業 經濟部證實了！",
+      "link": "/bbs/Stock/M.1770116782.A.B75",
+      "author": "inurry",
+      "board": "Stock",
+      "publishTime": "2026/02/03 11:06",
       "imageUrl": ""
     }
   ]
