@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-04T07:35:56.759Z",
+  "updated": "2026-02-04T07:55:46.819Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -31,16 +31,6 @@
       "author": "pl132",
       "board": "Gossiping",
       "publishTime": "2026/02/03 09:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "176",
-      "recommendCount": "527",
-      "title": "[新聞] 房仲倒閉潮年後爆發！王瑞祺轟政府「卡」死房市：店面鐵門再也拉不起來",
-      "link": "/bbs/Stock/M.1770104771.A.241",
-      "author": "keel90135",
-      "board": "Stock",
-      "publishTime": "2026/02/03 07:46",
       "imageUrl": ""
     },
     {
@@ -164,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "98",
-      "recommendCount": "187",
-      "title": "[閒聊] 寶可夢傳說Z-A 累積銷售1230萬片",
-      "link": "/bbs/C_Chat/M.1770105300.A.E73",
-      "author": "Augustus5",
-      "board": "C_Chat",
-      "publishTime": "2026/02/03 07:55",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "55",
       "recommendCount": "165",
       "title": "[問卦] 台灣國旅會大崩壞誰的責任最大？",
@@ -202,6 +182,26 @@
       "board": "HatePolitics",
       "publishTime": "2026/02/03 09:20",
       "imageUrl": "https://cache.pttweb.cc/imgur/Xrqj63M/s/2ec493117ad72b01405181f4deb25380"
+    },
+    {
+      "recommendScore": "57",
+      "recommendCount": "193",
+      "title": "[問卦] 台視立場也太偏了吧= =",
+      "link": "/bbs/Gossiping/M.1770120656.A.795",
+      "author": "ambitious",
+      "board": "Gossiping",
+      "publishTime": "2026/02/03 12:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "94",
+      "recommendCount": "105",
+      "title": "[推投] 2025「年度」最喜歡電視動畫「4票」",
+      "link": "/bbs/C_Chat/M.1770116219.A.634",
+      "author": "MrSatan",
+      "board": "C_Chat",
+      "publishTime": "2026/02/03 10:56",
+      "imageUrl": ""
     }
   ]
 }
