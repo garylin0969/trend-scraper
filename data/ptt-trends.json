@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-04T01:18:56.098Z",
+  "updated": "2026-02-04T02:06:07.430Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -71,6 +71,16 @@
       "author": "taiwan08",
       "board": "Gossiping",
       "publishTime": "2026/02/03 09:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "203",
+      "recommendCount": "303",
+      "title": "[情報] 姆斯去騎士",
+      "link": "/bbs/NBA/M.1770167073.A.E8C",
+      "author": "willy911006",
+      "board": "NBA",
+      "publishTime": "2026/02/04 01:04",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "HatePolitics",
       "publishTime": "2026/02/03 09:20",
       "imageUrl": "https://cache.pttweb.cc/imgur/Xrqj63M/s/2ec493117ad72b01405181f4deb25380"
-    },
-    {
-      "recommendScore": "57",
-      "recommendCount": "193",
-      "title": "[問卦] 台視立場也太偏了吧= =",
-      "link": "/bbs/Gossiping/M.1770120656.A.795",
-      "author": "ambitious",
-      "board": "Gossiping",
-      "publishTime": "2026/02/03 12:10",
-      "imageUrl": ""
     }
   ]
 }
