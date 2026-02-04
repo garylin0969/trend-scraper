@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-04T12:48:23.421Z",
+  "updated": "2026-02-04T13:18:49.927Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,13 +24,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "59",
-      "recommendCount": "177",
-      "title": "[新聞] 綠營議員批年貨大街「吸菸區走20分鐘」",
-      "link": "/bbs/Gossiping/M.1770123258.A.633",
-      "author": "runa2",
+      "recommendScore": "68",
+      "recommendCount": "138",
+      "title": "[新聞] 高雄美濃二地逾20萬噸廢棄物 復原遙遙無期",
+      "link": "/bbs/Gossiping/M.1770202472.A.107",
+      "author": "zainc",
       "board": "Gossiping",
-      "publishTime": "2026/02/03 12:54",
+      "publishTime": "2026/02/04 10:54",
       "imageUrl": ""
     },
     {
@@ -74,16 +74,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "56",
-      "recommendCount": "97",
-      "title": "[新聞] 記憶體股連跌兩天！起因：傳大陸雙雄擴產又殺價！專家：爆「K型大分裂」",
-      "link": "/bbs/Stock/M.1770123859.A.316",
-      "author": "Cartier",
-      "board": "Stock",
-      "publishTime": "2026/02/03 13:04",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "108",
       "recommendCount": "176",
       "title": "[LIVE] 籃球 鳳凰城太陽@波特蘭拓荒者 場中",
@@ -91,6 +81,16 @@
       "author": "sean910587",
       "board": "SportLottery",
       "publishTime": "2026/02/04 03:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "61",
+      "recommendCount": "235",
+      "title": "[新聞] 聯發科蔡力行：成功取得下一代AI ASIC訂單 明年AI ASIC營收佔比衝20％",
+      "link": "/bbs/Stock/M.1770202312.A.8B4",
+      "author": "obrag",
+      "board": "Stock",
+      "publishTime": "2026/02/04 10:51",
       "imageUrl": ""
     },
     {
@@ -144,6 +144,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "61",
+      "recommendCount": "82",
+      "title": "[情報] 騎士奪冠賠率 上升到聯盟第三名",
+      "link": "/bbs/NBA/M.1770205752.A.922",
+      "author": "MrDK",
+      "board": "NBA",
+      "publishTime": "2026/02/04 11:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "18",
+      "recommendCount": "80",
+      "title": "[新聞] 一個月爆2起「無照代刀」   衛福部：普查醫院沒效益、也沒這人力",
+      "link": "/bbs/Gossiping/M.1770202995.A.6C8",
+      "author": "loutt",
+      "board": "Gossiping",
+      "publishTime": "2026/02/04 11:03",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "59",
       "recommendCount": "124",
       "title": "[閒聊] 姑媽離開時明明被祝福 怎現在被追殺成這",
@@ -164,13 +184,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "36",
-      "recommendCount": "88",
-      "title": "[請益] 記憶體循環是否已經宣告結束？",
-      "link": "/bbs/Stock/M.1770124402.A.109",
-      "author": "zxcv91039",
+      "recommendScore": "40",
+      "recommendCount": "82",
+      "title": "Re: [標的] 3293 鈊象 請益",
+      "link": "/bbs/Stock/M.1770205782.A.758",
+      "author": "Bowwuwu",
       "board": "Stock",
-      "publishTime": "2026/02/03 13:13",
+      "publishTime": "2026/02/04 11:49",
       "imageUrl": ""
     },
     {
@@ -181,26 +201,6 @@
       "author": "crazypitch",
       "board": "C_Chat",
       "publishTime": "2026/02/04 09:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "60",
-      "recommendCount": "68",
-      "title": "[原神] 發錢 抽到茲白了!",
-      "link": "/bbs/MiHoYo/M.1770125015.A.8DD",
-      "author": "coldcolour",
-      "board": "MiHoYo",
-      "publishTime": "2026/02/03 13:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "48",
-      "recommendCount": "75",
-      "title": "[新聞] 2028供需缺口42％！載板比記憶體缺更大",
-      "link": "/bbs/Stock/M.1770190616.A.F30",
-      "author": "Lime5566",
-      "board": "Stock",
-      "publishTime": "2026/02/04 07:36",
       "imageUrl": ""
     }
   ]
