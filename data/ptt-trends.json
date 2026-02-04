@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-04T09:21:31.426Z",
+  "updated": "2026-02-04T09:40:36.733Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,16 +24,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "103",
-      "recommendCount": "156",
-      "title": "[新聞] 南亞科挨罰! 春安勞檢祭停工5項、開罰55萬",
-      "link": "/bbs/Stock/M.1770111457.A.004",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2026/02/03 09:37",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "90",
       "recommendCount": "171",
       "title": "[新聞] 南苗市場凶嫌胸中一槍 急救無效身亡",
@@ -51,16 +41,6 @@
       "author": "runa2",
       "board": "Gossiping",
       "publishTime": "2026/02/03 12:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "54",
-      "recommendCount": "157",
-      "title": "[標的] 2344華邦電 & 2408南亞科 多",
-      "link": "/bbs/Stock/M.1770110818.A.B38",
-      "author": "ShaoJi",
-      "board": "Stock",
-      "publishTime": "2026/02/03 09:26",
       "imageUrl": ""
     },
     {
@@ -201,6 +181,26 @@
       "author": "jason911152",
       "board": "LoL",
       "publishTime": "2026/02/04 04:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "49",
+      "recommendCount": "79",
+      "title": "[新聞] 快訊／台南晚間隨機砍人！3人受傷「1人大量出血」送醫　警方緝凶中",
+      "link": "/bbs/Gossiping/M.1770126102.A.6CE",
+      "author": "qq326",
+      "board": "Gossiping",
+      "publishTime": "2026/02/03 13:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "57",
+      "recommendCount": "114",
+      "title": "[情報] 快艇對Garland有興趣",
+      "link": "/bbs/NBA/M.1770114015.A.3F5",
+      "author": "dragon803",
+      "board": "NBA",
+      "publishTime": "2026/02/03 10:20",
       "imageUrl": ""
     }
   ]
