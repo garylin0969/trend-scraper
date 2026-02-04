@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-04T13:18:49.927Z",
+  "updated": "2026-02-04T13:46:46.733Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "59",
+      "recommendCount": "188",
+      "title": "[討論] 柯文哲開嗆民進黨：不要拿美國來嚇人",
+      "link": "/bbs/HatePolitics/M.1770203428.A.6FA",
+      "author": "oscarwu3041",
+      "board": "HatePolitics",
+      "publishTime": "2026/02/04 11:10",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "68",
       "recommendCount": "126",
       "title": "[問卦] 王心凌被拍到深夜帶吳克群回香閨",
@@ -51,6 +61,16 @@
       "author": "gigaman",
       "board": "Gossiping",
       "publishTime": "2026/02/04 03:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "263",
+      "recommendCount": "354",
+      "title": "[討論] [Vtub] Hololive 晚間直播單 (1150204)",
+      "link": "/bbs/C_Chat/M.1770202655.A.1D8",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2026/02/04 10:57",
       "imageUrl": ""
     },
     {
@@ -124,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "49",
-      "recommendCount": "79",
-      "title": "[新聞] 快訊／台南晚間隨機砍人！3人受傷「1人大量出血」送醫　警方緝凶中",
-      "link": "/bbs/Gossiping/M.1770126102.A.6CE",
-      "author": "qq326",
-      "board": "Gossiping",
-      "publishTime": "2026/02/03 13:41",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "55",
       "recommendCount": "192",
       "title": "[討論] 黃國昌爆料：華府態度與谷立言落差很大",
@@ -191,16 +201,6 @@
       "author": "Bowwuwu",
       "board": "Stock",
       "publishTime": "2026/02/04 11:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "61",
-      "recommendCount": "111",
-      "title": "[閒聊] 金幣巧克力",
-      "link": "/bbs/C_Chat/M.1770197317.A.E0E",
-      "author": "crazypitch",
-      "board": "C_Chat",
-      "publishTime": "2026/02/04 09:28",
       "imageUrl": ""
     }
   ]
