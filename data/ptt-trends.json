@@ -1,18 +1,8 @@
 {
-  "updated": "2026-02-05T01:05:40.087Z",
+  "updated": "2026-02-05T01:48:29.434Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "203",
-      "recommendCount": "303",
-      "title": "[情報] 姆斯去騎士",
-      "link": "/bbs/NBA/M.1770167073.A.E8C",
-      "author": "willy911006",
-      "board": "NBA",
-      "publishTime": "2026/02/04 01:04",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "102",
       "recommendCount": "187",
@@ -201,6 +191,16 @@
       "author": "wetteland",
       "board": "HatePolitics",
       "publishTime": "2026/02/04 13:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "49",
+      "recommendCount": "115",
+      "title": "[新聞] 柯文哲：民眾黨團版軍購特別條例可再修正 有問題會跟華盛頓直接溝通",
+      "link": "/bbs/Gossiping/M.1770210611.A.4D2",
+      "author": "HANASUCIA",
+      "board": "Gossiping",
+      "publishTime": "2026/02/04 13:10",
       "imageUrl": ""
     }
   ]
