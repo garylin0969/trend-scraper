@@ -1,18 +1,8 @@
 {
-  "updated": "2026-02-05T18:26:27.474Z",
+  "updated": "2026-02-05T18:48:04.516Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "438",
-      "recommendCount": "784",
-      "title": "[情報] AD去巫師",
-      "link": "/bbs/NBA/M.1770230694.A.122",
-      "author": "jack34031",
-      "board": "NBA",
-      "publishTime": "2026/02/04 18:44",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "289",
       "recommendCount": "458",
@@ -201,6 +191,16 @@
       "author": "chifeng",
       "board": "C_Chat",
       "publishTime": "2026/02/04 21:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "95",
+      "recommendCount": "111",
+      "title": "[公告] C_CHAT板主徵選開始 發錢",
+      "link": "/bbs/C_Chat/M.1770285899.A.459",
+      "author": "daniel0527",
+      "board": "C_Chat",
+      "publishTime": "2026/02/05 10:04",
       "imageUrl": ""
     }
   ]
