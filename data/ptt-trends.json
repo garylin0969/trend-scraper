@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-05T22:44:03.950Z",
+  "updated": "2026-02-05T22:58:38.481Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -41,6 +41,16 @@
       "author": "geordie",
       "board": "HatePolitics",
       "publishTime": "2026/02/05 03:16",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "135",
+      "recommendCount": "259",
+      "title": "[請益] 現金只存二十萬 其他全丟股市",
+      "link": "/bbs/Stock/M.1770285433.A.972",
+      "author": "david0426",
+      "board": "Stock",
+      "publishTime": "2026/02/05 09:57",
       "imageUrl": ""
     },
     {
@@ -184,24 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "92",
-      "recommendCount": "177",
-      "title": "[閒聊] 這場是史上最爛任直嗎？",
-      "link": "/bbs/C_Chat/M.1770302014.A.068",
-      "author": "Augustus5",
-      "board": "C_Chat",
-      "publishTime": "2026/02/05 14:33",
+      "recommendScore": "192",
+      "recommendCount": "424",
+      "title": "[Live] ND（三廠）260205直播討論串",
+      "link": "/bbs/NSwitch/M.1770292900.A.565",
+      "author": "swordmr20",
+      "board": "NSwitch",
+      "publishTime": "2026/02/05 12:01",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "25",
-      "recommendCount": "143",
-      "title": "[新聞]黃國昌直播2天抖內近30萬　劉世芳：非合法",
-      "link": "/bbs/Gossiping/M.1770296161.A.792",
-      "author": "Rainbow5566",
-      "board": "Gossiping",
-      "publishTime": "2026/02/05 12:56",
-      "imageUrl": "https://cache.pttweb.cc/imgur/mxbtHvw/s/48cb6fbb27d7860d45c4f619330137da"
     }
   ]
 }
