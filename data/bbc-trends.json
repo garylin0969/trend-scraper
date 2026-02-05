@@ -1,14 +1,22 @@
 {
-  "updated": "2026-02-05T06:34:21.531Z",
+  "updated": "2026-02-05T07:06:55.153Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-02-05T06:34:15.000Z",
+    "lastBuildDate": "2026-02-05T07:06:45.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "中國財政收入五年來首降：三個反直覺數據背後的結構變化",
+      "description": "通常情況下，只要經濟保持正增長，中央財政收入基本會隨之增加。2025年中國GDP增長5%，但中央財政收入卻出現下降，這種背離值得關注。",
+      "link": "https://www.bbc.com/zhongwen/articles/c74v2n2zk49o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-05T06:37:36.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c74v2n2zk49o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f4f2/live/30e3dae0-0259-11f1-a00f-ff9a9902dc16.jpg"
+    },
     {
       "title": "國共論壇：九年後重啟談了什麼？為「鄭習會」試水溫？",
       "description": "國共論壇九年後重啟，成為兩黨恢復「機制化交流」的重要契機。雙方在北京會面提出恢復直航、開放團客等十五項意見。專家指，國民黨主席鄭麗文強調「九二共識、反對台獨」，獲北京接受，為「鄭習會」鋪路。",
@@ -32,14 +40,6 @@
       "pubDate": "2026-02-04T03:34:52.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/crmlypnjj7po/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3977/live/7e599d90-015b-11f1-b7e1-afb6d0884c18.jpg"
-    },
-    {
-      "title": "家庭決裂與和解的故事：這對母女如何重新走到一起",
-      "description": "有研究顯示，成功和解的父母，都是能放下要求成年子女道歉、或在過去事件上達成共識的需求，將焦點放在建立未來的關係。",
-      "link": "https://www.bbc.com/zhongwen/articles/c931vpkdr77o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-05T00:18:09.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c931vpkdr77o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d047/live/2161b1a0-fdf9-11f0-b7e1-afb6d0884c18.jpg"
     },
     {
       "title": "「中國商飛」可以挑戰波音和空中巴士嗎？",
@@ -274,12 +274,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a0d7/live/90975000-df3d-11f0-82f2-37a7e38e07b1.jpg"
     },
     {
-      "title": "世衛研究稱全球每年有700萬宗癌症可預防  佔總數近四成",
-      "description": "科學家表示，這是一個拯救生命的絕佳機會，因為近40%的癌症是可以預防的。",
-      "link": "https://www.bbc.com/zhongwen/articles/cddg8p8v73mo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-04T06:06:13.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cddg8p8v73mo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7382/live/81ddf1e0-0125-11f1-9972-d3f265c101c6.jpg"
+      "title": "家庭決裂與和解的故事：這對母女如何重新走到一起",
+      "description": "有研究顯示，成功和解的父母，都是能放下要求成年子女道歉、或在過去事件上達成共識的需求，將焦點放在建立未來的關係。",
+      "link": "https://www.bbc.com/zhongwen/articles/c931vpkdr77o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-05T00:18:09.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c931vpkdr77o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d047/live/2161b1a0-fdf9-11f0-b7e1-afb6d0884c18.jpg"
     },
     {
       "title": "科學家發現挪威群島北極熊在海冰減少下反而更胖更健康",
@@ -288,6 +288,14 @@
       "pubDate": "2026-02-04T00:16:43.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ce8rj5x308eo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d035/live/b0bca750-fd50-11f0-a8b8-bdd2c5f9bcad.jpg"
+    },
+    {
+      "title": "世衛研究稱全球每年有700萬宗癌症可預防  佔總數近四成",
+      "description": "科學家表示，這是一個拯救生命的絕佳機會，因為近40%的癌症是可以預防的。",
+      "link": "https://www.bbc.com/zhongwen/articles/cddg8p8v73mo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-04T06:06:13.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cddg8p8v73mo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7382/live/81ddf1e0-0125-11f1-9972-d3f265c101c6.jpg"
     },
     {
       "title": "AI劣質內容正在重塑社交媒體，且正遭遇反噬",
@@ -304,14 +312,6 @@
       "pubDate": "2026-01-30T00:14:47.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy7mvvrv1peo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/49c9/live/bcbdb080-f675-11f0-8536-93c84af4000d.jpg"
-    },
-    {
-      "title": "「結婚十週年時，我向丈夫提出開放式婚姻」",
-      "description": "這位親身體驗開放式婚姻的性學家說，有三分之一選擇開放式關係的伴侶最後會分開，但一夫一妻制的關係平均分手率也差不多。這其實沒有太大的差別。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gl12rnjp0o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-03T09:04:07.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gl12rnjp0o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b479/live/40253410-0036-11f1-b7e1-afb6d0884c18.jpg"
     }
   ]
 }
