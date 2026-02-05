@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-05T15:39:06.955Z",
+  "updated": "2026-02-05T15:58:53.074Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "107",
-      "recommendCount": "186",
-      "title": "[新聞] 前行政院發言人陳宗彥驚傳腦溢血住進加護病房！馬偕：處於危險期",
-      "link": "/bbs/Gossiping/M.1770220049.A.006",
-      "author": "KlayT11",
-      "board": "Gossiping",
-      "publishTime": "2026/02/04 15:47",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "147",
       "recommendCount": "347",
       "title": "[情報] 獨行俠在077碎片的最終轉換",
@@ -201,6 +191,16 @@
       "author": "luxuryer",
       "board": "Gossiping",
       "publishTime": "2026/02/05 09:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "12",
+      "recommendCount": "139",
+      "title": "[閒聊] 排球少年挨批「厭女」？",
+      "link": "/bbs/C_Chat/M.1770239943.A.549",
+      "author": "chifeng",
+      "board": "C_Chat",
+      "publishTime": "2026/02/04 21:19",
       "imageUrl": ""
     }
   ]
