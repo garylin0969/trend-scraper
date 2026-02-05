@@ -1,25 +1,30 @@
 {
-  "updated": "2026-02-05T22:12:41.320Z",
+  "updated": "2026-02-05T22:46:36.716Z",
   "trends": [
     {
-      "googleTrend": "亞馬遜財報",
+      "googleTrend": "亞馬遜",
       "searchVolume": "100+",
-      "started": "30 分鐘前"
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "台南天氣",
+      "searchVolume": "100+",
+      "started": "20 分鐘前"
+    },
+    {
+      "googleTrend": "氣象預報",
+      "searchVolume": "200+",
+      "started": "10 分鐘前"
+    },
+    {
+      "googleTrend": "費半指數",
+      "searchVolume": "100+",
+      "started": "20 分鐘前"
     },
     {
       "googleTrend": "那斯達克指數",
-      "searchVolume": "100+",
-      "started": "10 分鐘前"
-    },
-    {
-      "googleTrend": "adr",
-      "searchVolume": "100+",
-      "started": "10 分鐘前"
-    },
-    {
-      "googleTrend": "btc usd",
-      "searchVolume": "100+",
-      "started": "3 小時前"
+      "searchVolume": "200+",
+      "started": "40 分鐘前"
     }
   ]
 }
