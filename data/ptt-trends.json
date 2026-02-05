@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-05T03:41:43.116Z",
+  "updated": "2026-02-05T04:28:02.483Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "90",
-      "recommendCount": "171",
-      "title": "[新聞] 南苗市場凶嫌胸中一槍 急救無效身亡",
-      "link": "/bbs/Gossiping/M.1770177294.A.B34",
-      "author": "gn07199",
-      "board": "Gossiping",
-      "publishTime": "2026/02/04 03:54",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-68",
       "recommendCount": "192",
       "title": "[新聞] 史上首例！內政部封殺李貞秀「拒給機密文件」　劉世芳：怕國安風險",
@@ -201,6 +191,16 @@
       "author": "cycutom",
       "board": "Gossiping",
       "publishTime": "2026/02/04 14:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "68",
+      "recommendCount": "138",
+      "title": "[新聞] 高雄美濃二地逾20萬噸廢棄物 復原遙遙無期",
+      "link": "/bbs/Gossiping/M.1770202472.A.107",
+      "author": "zainc",
+      "board": "Gossiping",
+      "publishTime": "2026/02/04 10:54",
       "imageUrl": ""
     }
   ]
