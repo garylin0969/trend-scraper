@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-05T01:48:29.434Z",
+  "updated": "2026-02-05T02:48:44.047Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "179",
+      "recommendCount": "377",
+      "title": "[LIVE] 籃球 灰狼@暴龍 場中",
+      "link": "/bbs/SportLottery/M.1770249979.A.9E5",
+      "author": "apparition10",
+      "board": "SportLottery",
+      "publishTime": "2026/02/05 00:06",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "44",
       "recommendCount": "133",
       "title": "[新聞] 盧特尼克「再拋鬼故事」：晶圓製造離中國太近不合理 美國目標取得4成市占",
@@ -184,23 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "65",
-      "recommendCount": "156",
-      "title": "[新聞] 談台美關稅談判 鄭麗文：赴美投資有上下其手、圖利綠友友糢糊空間",
-      "link": "/bbs/HatePolitics/M.1770212390.A.AC9",
-      "author": "wetteland",
-      "board": "HatePolitics",
-      "publishTime": "2026/02/04 13:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "49",
-      "recommendCount": "115",
-      "title": "[新聞] 柯文哲：民眾黨團版軍購特別條例可再修正 有問題會跟華盛頓直接溝通",
-      "link": "/bbs/Gossiping/M.1770210611.A.4D2",
-      "author": "HANASUCIA",
-      "board": "Gossiping",
-      "publishTime": "2026/02/04 13:10",
+      "recommendScore": "63",
+      "recommendCount": "112",
+      "title": "[新聞] 〈財報〉Alphabet營運出色 預告今年資本1",
+      "link": "/bbs/Stock/M.1770248991.A.09A",
+      "author": "baddaddy",
+      "board": "Stock",
+      "publishTime": "2026/02/04 23:49",
       "imageUrl": ""
     }
   ]
