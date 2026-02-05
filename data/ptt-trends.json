@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-05T04:28:02.483Z",
+  "updated": "2026-02-05T05:04:37.359Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -11,6 +11,16 @@
       "author": "jack34031",
       "board": "NBA",
       "publishTime": "2026/02/04 18:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "289",
+      "recommendCount": "458",
+      "title": "[情報] 勇士老鷹交易 苦命去老鷹",
+      "link": "/bbs/NBA/M.1770265731.A.0AC",
+      "author": "willy911006",
+      "board": "NBA",
+      "publishTime": "2026/02/05 04:28",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "cycutom",
       "board": "Gossiping",
       "publishTime": "2026/02/04 14:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "68",
-      "recommendCount": "138",
-      "title": "[新聞] 高雄美濃二地逾20萬噸廢棄物 復原遙遙無期",
-      "link": "/bbs/Gossiping/M.1770202472.A.107",
-      "author": "zainc",
-      "board": "Gossiping",
-      "publishTime": "2026/02/04 10:54",
       "imageUrl": ""
     }
   ]
