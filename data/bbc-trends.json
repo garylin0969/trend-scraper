@@ -1,10 +1,10 @@
 {
-  "updated": "2026-02-04T23:52:22.392Z",
+  "updated": "2026-02-05T00:51:44.640Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-02-04T23:52:19.000Z",
+    "lastBuildDate": "2026-02-05T00:51:32.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -34,12 +34,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b6f/live/8d56e180-01ac-11f1-ba93-a3f256eaa772.jpg"
     },
     {
-      "title": "經貿合同、特朗普警告、接待規格——盤點施紀賢訪華引發的爭議",
-      "description": "英國首相施紀賢爵士結束其「成功」的訪華行程，接下來要面對和處理各種批評，包括來自美國總統特朗普的警告。",
-      "link": "https://www.bbc.com/zhongwen/articles/cly906715p7o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-03T03:00:56.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cly906715p7o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/117a/live/5d00e470-0096-11f1-a8b8-bdd2c5f9bcad.jpg"
+      "title": "家庭決裂與和解的故事：這對母女如何重新走到一起",
+      "description": "有研究顯示，成功和解的父母，都是能放下要求成年子女道歉、或在過去事件上達成共識的需求，將焦點放在建立未來的關係。",
+      "link": "https://www.bbc.com/zhongwen/articles/c931vpkdr77o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-05T00:18:09.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c931vpkdr77o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d047/live/2161b1a0-fdf9-11f0-b7e1-afb6d0884c18.jpg"
     },
     {
       "title": "「中國商飛」可以挑戰波音和空中巴士嗎？",
@@ -48,6 +48,14 @@
       "pubDate": "2026-02-04T04:40:20.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy596vpn54do/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f5c6/live/29b49160-015a-11f1-ba12-b594244b3536.jpg"
+    },
+    {
+      "title": "經貿合同、特朗普警告、接待規格——盤點施紀賢訪華引發的爭議",
+      "description": "英國首相施紀賢爵士結束其「成功」的訪華行程，接下來要面對和處理各種批評，包括來自美國總統特朗普的警告。",
+      "link": "https://www.bbc.com/zhongwen/articles/cly906715p7o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-03T03:00:56.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cly906715p7o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/117a/live/5d00e470-0096-11f1-a8b8-bdd2c5f9bcad.jpg"
     },
     {
       "title": "70年前的「香蕉戰爭」，如何揭示了特朗普對伊朗、格陵蘭與委內瑞拉的政策？",
@@ -104,14 +112,6 @@
       "pubDate": "2026-02-02T00:12:59.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cvgrmn683pro/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e5e6/live/2d5497e0-fcee-11f0-9c55-8bade468c676.jpg"
-    },
-    {
-      "title": "香港BNO移民潮：英國政府收緊政策，有港人質疑當局背棄承諾",
-      "description": "去年，英國政府提出持BN(O)簽證的香港人申請永居時需提高英語水平的要求、設定最低年收入，引起移民到英國的港人社群不安與擔憂。",
-      "link": "https://www.bbc.com/zhongwen/articles/c79rjrrn9q4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-30T00:12:34.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c79rjrrn9q4o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/59ae/live/1b5c6590-fd70-11f0-af33-5bba6671a154.jpg"
     },
     {
       "title": "愛潑斯坦最新文件引爆輿論 涉及前安德魯王子與馬斯克",
@@ -194,6 +194,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d952/live/ae60d9d0-f86a-11f0-b385-5f48925de19a.jpg"
     },
     {
+      "title": "香港BNO移民潮：英國政府收緊政策，有港人質疑當局背棄承諾",
+      "description": "去年，英國政府提出持BN(O)簽證的香港人申請永居時需提高英語水平的要求、設定最低年收入，引起移民到英國的港人社群不安與擔憂。",
+      "link": "https://www.bbc.com/zhongwen/articles/c79rjrrn9q4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-01-30T00:12:34.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c79rjrrn9q4o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/59ae/live/1b5c6590-fd70-11f0-af33-5bba6671a154.jpg"
+    },
+    {
       "title": "中國生育率破1新生數回到乾隆年間水平  預測失準後的斷崖式下跌",
       "description": "十餘年前，官方預測中國人口將在2033年達到15億的峰值。如今，不僅峰值提前了12年到來，而且比預測少了將近1億人。",
       "link": "https://www.bbc.com/zhongwen/articles/cr4kkydv75ro/trad?at_medium=RSS&at_campaign=rss",
@@ -208,14 +216,6 @@
       "pubDate": "2026-02-01T10:46:24.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/clyz5pd20jvo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1156/live/745a3450-fec0-11f0-a8b8-bdd2c5f9bcad.jpg"
-    },
-    {
-      "title": "施紀賢訪華：英國與中國各取了什麼所需？",
-      "description": "在這趟時隔八年的旅程中，英國首相施紀賢爵士從中國收穫了免簽、服務業、醫療、綠色能源與金融合同。",
-      "link": "https://www.bbc.com/zhongwen/articles/c0mkymd2r03o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-30T12:27:17.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c0mkymd2r03o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/066a/live/927519c0-fdd3-11f0-a8b8-bdd2c5f9bcad.jpg"
     },
     {
       "title": "香港巴士安全帶風波：「強戴令」實施未一週即暫緩，新法例為何惹來爭議？",
