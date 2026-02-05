@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-05T23:40:09.262Z",
+  "updated": "2026-02-05T23:51:28.471Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "158",
+      "recommendCount": "485",
+      "title": "[閒聊] HLE買人團隊是不是有啥大病?",
+      "link": "/bbs/LoL/M.1770261005.A.435",
+      "author": "recount",
+      "board": "LoL",
+      "publishTime": "2026/02/05 03:10",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "355",
       "recommendCount": "654",
       "title": "[外電] 湖人、老鷹交易",
@@ -111,6 +121,16 @@
       "author": "ken30130",
       "board": "C_Chat",
       "publishTime": "2026/02/05 01:35",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "104",
+      "recommendCount": "192",
+      "title": "[新聞] 魏哲家在東京會見高市早苗 宣布台積電熊本2廠直攻3奈米",
+      "link": "/bbs/Stock/M.1770260574.A.626",
+      "author": "Kai877",
+      "board": "Stock",
+      "publishTime": "2026/02/05 03:02",
       "imageUrl": ""
     },
     {
@@ -181,26 +201,6 @@
       "author": "swordmr20",
       "board": "NSwitch",
       "publishTime": "2026/02/05 12:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "75",
-      "recommendCount": "152",
-      "title": "[情報] 勇士交易TJD去暴龍",
-      "link": "/bbs/NBA/M.1770266242.A.A95",
-      "author": "jack34031",
-      "board": "NBA",
-      "publishTime": "2026/02/05 04:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "92",
-      "recommendCount": "177",
-      "title": "[閒聊] 這場是史上最爛任直嗎？",
-      "link": "/bbs/C_Chat/M.1770302014.A.068",
-      "author": "Augustus5",
-      "board": "C_Chat",
-      "publishTime": "2026/02/05 14:33",
       "imageUrl": ""
     }
   ]
