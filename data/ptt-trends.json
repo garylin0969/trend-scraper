@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-05T20:15:20.318Z",
+  "updated": "2026-02-05T20:32:42.688Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "92",
+      "recommendCount": "177",
+      "title": "[閒聊] 這場是史上最爛任直嗎？",
+      "link": "/bbs/C_Chat/M.1770302014.A.068",
+      "author": "Augustus5",
+      "board": "C_Chat",
+      "publishTime": "2026/02/05 14:33",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "25",
       "recommendCount": "143",
       "title": "[新聞]黃國昌直播2天抖內近30萬　劉世芳：非合法",
@@ -164,6 +174,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/wRfouWY/s/913eb269f6a451296874f3f04ab4e1e7"
     },
     {
+      "recommendScore": "192",
+      "recommendCount": "383",
+      "title": "[外電] 湖人、老鷹交易",
+      "link": "/bbs/Lakers/M.1770306146.A.61C",
+      "author": "jason911152",
+      "board": "Lakers",
+      "publishTime": "2026/02/05 15:42",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "79",
       "recommendCount": "241",
       "title": "[新聞] 機車族不用淋雨了！駕艙機車將合法開放",
@@ -181,26 +201,6 @@
       "author": "chifeng",
       "board": "C_Chat",
       "publishTime": "2026/02/04 21:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "95",
-      "recommendCount": "111",
-      "title": "[公告] C_CHAT板主徵選開始 發錢",
-      "link": "/bbs/C_Chat/M.1770285899.A.459",
-      "author": "daniel0527",
-      "board": "C_Chat",
-      "publishTime": "2026/02/05 10:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "77",
-      "recommendCount": "110",
-      "title": "[情報] 0205 上市外資買賣超排行",
-      "link": "/bbs/Stock/M.1770279484.A.111",
-      "author": "saber50116",
-      "board": "Stock",
-      "publishTime": "2026/02/05 08:18",
       "imageUrl": ""
     }
   ]
