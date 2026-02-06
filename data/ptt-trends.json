@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-06T14:27:23.786Z",
+  "updated": "2026-02-06T14:47:44.374Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "92",
-      "recommendCount": "177",
-      "title": "[閒聊] 這場是史上最爛任直嗎？",
-      "link": "/bbs/C_Chat/M.1770302014.A.068",
-      "author": "Augustus5",
-      "board": "C_Chat",
-      "publishTime": "2026/02/05 14:33",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "72",
       "recommendCount": "133",
       "title": "[問卦] 民視劇組沒給墜樓替身保險？太扯了吧",
@@ -201,6 +191,16 @@
       "author": "zxcv820421",
       "board": "C_Chat",
       "publishTime": "2026/02/05 15:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "24",
+      "recommendCount": "104",
+      "title": "[新聞] 花蓮婦人夢見跌入聚寶盆　隔天刮中100萬元",
+      "link": "/bbs/Gossiping/M.1770363120.A.E4C",
+      "author": "vdml",
+      "board": "Gossiping",
+      "publishTime": "2026/02/06 07:32",
       "imageUrl": ""
     }
   ]
