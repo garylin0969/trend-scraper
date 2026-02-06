@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-06T10:05:02.634Z",
+  "updated": "2026-02-06T10:24:38.677Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -21,16 +21,6 @@
       "author": "Wojnarowski",
       "board": "NBA",
       "publishTime": "2026/02/05 15:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "94",
-      "recommendCount": "196",
-      "title": "[情報] 台灣1月份cpi/核心cpi年增率",
-      "link": "/bbs/Stock/M.1770286637.A.B98",
-      "author": "junior020486",
-      "board": "Stock",
-      "publishTime": "2026/02/05 10:17",
       "imageUrl": ""
     },
     {
@@ -154,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "95",
-      "recommendCount": "111",
-      "title": "[公告] C_CHAT板主徵選開始 發錢",
-      "link": "/bbs/C_Chat/M.1770285899.A.459",
-      "author": "daniel0527",
-      "board": "C_Chat",
-      "publishTime": "2026/02/05 10:04",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "76",
       "recommendCount": "117",
       "title": "[情報] 0206 上市外資買賣超排行",
@@ -201,6 +181,26 @@
       "author": "liefuchen",
       "board": "NBA",
       "publishTime": "2026/02/06 04:31",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "89",
+      "recommendCount": "98",
+      "title": "[鳴潮] 小愛推",
+      "link": "/bbs/C_Chat/M.1770288809.A.92C",
+      "author": "risingheart",
+      "board": "C_Chat",
+      "publishTime": "2026/02/05 10:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "58",
+      "recommendCount": "105",
+      "title": "[新聞] 市場定心丸來了 大摩再升記憶體F4目標價",
+      "link": "/bbs/Stock/M.1770355322.A.84B",
+      "author": "TCB006",
+      "board": "Stock",
+      "publishTime": "2026/02/06 05:22",
       "imageUrl": ""
     }
   ]
