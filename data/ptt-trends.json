@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-06T01:19:08.700Z",
+  "updated": "2026-02-06T02:06:21.710Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -41,6 +41,16 @@
       "author": "david0426",
       "board": "Stock",
       "publishTime": "2026/02/05 09:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "162",
+      "recommendCount": "266",
+      "title": "[情報] Cooper Flagg球員成為第一位19歲達成連",
+      "link": "/bbs/NBA/M.1770278202.A.E51",
+      "author": "sky419012",
+      "board": "NBA",
+      "publishTime": "2026/02/05 07:56",
       "imageUrl": ""
     },
     {
@@ -114,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "117",
-      "recommendCount": "131",
-      "title": "[鳴潮] 又歐了一把 發錢",
-      "link": "/bbs/C_Chat/M.1770255329.A.A4F",
-      "author": "ken30130",
-      "board": "C_Chat",
-      "publishTime": "2026/02/05 01:35",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "104",
       "recommendCount": "192",
       "title": "[新聞] 魏哲家在東京會見高市早苗 宣布台積電熊本2廠直攻3奈米",
@@ -131,16 +131,6 @@
       "author": "Kai877",
       "board": "Stock",
       "publishTime": "2026/02/05 03:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "106",
-      "recommendCount": "165",
-      "title": "[花邊] 77:KI是我合作過最有化學反應的隊友",
-      "link": "/bbs/NBA/M.1770256715.A.0E7",
-      "author": "s24066774",
-      "board": "NBA",
-      "publishTime": "2026/02/05 01:58",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "C_Chat",
       "publishTime": "2026/02/05 14:33",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "25",
+      "recommendCount": "143",
+      "title": "[新聞]黃國昌直播2天抖內近30萬　劉世芳：非合法",
+      "link": "/bbs/Gossiping/M.1770296161.A.792",
+      "author": "Rainbow5566",
+      "board": "Gossiping",
+      "publishTime": "2026/02/05 12:56",
+      "imageUrl": "https://cache.pttweb.cc/imgur/mxbtHvw/s/48cb6fbb27d7860d45c4f619330137da"
     }
   ]
 }
