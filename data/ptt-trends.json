@@ -1,18 +1,8 @@
 {
-  "updated": "2026-02-06T05:41:31.820Z",
+  "updated": "2026-02-06T06:05:42.439Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "199",
-      "recommendCount": "355",
-      "title": "[花邊] 勇士計劃留下嘴綠讓他跟KP搭檔",
-      "link": "/bbs/NBA/M.1770271414.A.AC0",
-      "author": "Wojnarowski",
-      "board": "NBA",
-      "publishTime": "2026/02/05 06:03",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "135",
       "recommendCount": "259",
@@ -201,6 +191,16 @@
       "author": "daniel0527",
       "board": "C_Chat",
       "publishTime": "2026/02/05 10:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "77",
+      "recommendCount": "110",
+      "title": "[情報] 0205 上市外資買賣超排行",
+      "link": "/bbs/Stock/M.1770279484.A.111",
+      "author": "saber50116",
+      "board": "Stock",
+      "publishTime": "2026/02/05 08:18",
       "imageUrl": ""
     }
   ]
