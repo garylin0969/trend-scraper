@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-06T19:45:52.033Z",
+  "updated": "2026-02-06T19:59:30.108Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -62,6 +62,16 @@
       "board": "Gossiping",
       "publishTime": "2026/02/06 12:58",
       "imageUrl": "https://cache.pttweb.cc/imgur/mrG6WBO/s/47f26f7955e98565d3c4b93e3cf55c80"
+    },
+    {
+      "recommendScore": "124",
+      "recommendCount": "257",
+      "title": "[新聞] 〈財報〉亞馬遜Q4雲端成長強勁 擬砸2000億美元押注AI嚇壞市場 盤後挫逾10%",
+      "link": "/bbs/Stock/M.1770332969.A.A82",
+      "author": "jerrychuang",
+      "board": "Stock",
+      "publishTime": "2026/02/05 23:09",
+      "imageUrl": ""
     },
     {
       "recommendScore": "138",
@@ -191,16 +201,6 @@
       "author": "wenfang2012",
       "board": "Baseball",
       "publishTime": "2026/02/06 11:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "105",
-      "recommendCount": "107",
-      "title": "[情報] 發錢2/7桃園動漫鋼琴音樂會",
-      "link": "/bbs/C_Chat/M.1770390605.A.B2B",
-      "author": "siscon",
-      "board": "C_Chat",
-      "publishTime": "2026/02/06 15:10",
       "imageUrl": ""
     }
   ]
