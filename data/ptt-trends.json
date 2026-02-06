@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-06T04:41:40.478Z",
+  "updated": "2026-02-06T05:16:40.073Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "85",
-      "recommendCount": "179",
-      "title": "[情報] 公鹿拒絕勇士對字母哥的報價",
-      "link": "/bbs/NBA/M.1770267286.A.EF1",
-      "author": "murmurs0803",
-      "board": "NBA",
-      "publishTime": "2026/02/05 04:54",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "79",
       "recommendCount": "241",
       "title": "[新聞] 機車族不用淋雨了！駕艙機車將合法開放",
@@ -201,6 +191,16 @@
       "author": "Zuma",
       "board": "Gossiping",
       "publishTime": "2026/02/05 15:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "95",
+      "recommendCount": "111",
+      "title": "[公告] C_CHAT板主徵選開始 發錢",
+      "link": "/bbs/C_Chat/M.1770285899.A.459",
+      "author": "daniel0527",
+      "board": "C_Chat",
+      "publishTime": "2026/02/05 10:04",
       "imageUrl": ""
     }
   ]
