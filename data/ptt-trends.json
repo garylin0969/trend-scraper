@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-06T02:06:21.710Z",
+  "updated": "2026-02-06T03:10:16.737Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "104",
-      "recommendCount": "192",
-      "title": "[新聞] 魏哲家在東京會見高市早苗 宣布台積電熊本2廠直攻3奈米",
-      "link": "/bbs/Stock/M.1770260574.A.626",
-      "author": "Kai877",
-      "board": "Stock",
-      "publishTime": "2026/02/05 03:02",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "114",
       "recommendCount": "118",
       "title": "Re: [閒聊] BanG Dream! Special LIVE in TAIPEI",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2026/02/05 12:56",
       "imageUrl": "https://cache.pttweb.cc/imgur/mxbtHvw/s/48cb6fbb27d7860d45c4f619330137da"
+    },
+    {
+      "recommendScore": "101",
+      "recommendCount": "213",
+      "title": "[情報] 3231 緯創 115年1月營收",
+      "link": "/bbs/Stock/M.1770282159.A.86E",
+      "author": "BlueBird5566",
+      "board": "Stock",
+      "publishTime": "2026/02/05 09:02",
+      "imageUrl": ""
     }
   ]
 }
