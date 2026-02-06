@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-06T03:10:16.737Z",
+  "updated": "2026-02-06T04:00:42.610Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -21,16 +21,6 @@
       "author": "Wojnarowski",
       "board": "NBA",
       "publishTime": "2026/02/05 06:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "137",
-      "recommendCount": "554",
-      "title": "[新聞] 美國務院：已對台明確表達歡迎1.25兆元國防預算",
-      "link": "/bbs/HatePolitics/M.1770261380.A.052",
-      "author": "geordie",
-      "board": "HatePolitics",
-      "publishTime": "2026/02/05 03:16",
       "imageUrl": ""
     },
     {
@@ -94,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "158",
-      "recommendCount": "485",
-      "title": "[閒聊] HLE買人團隊是不是有啥大病?",
-      "link": "/bbs/LoL/M.1770261005.A.435",
-      "author": "recount",
-      "board": "LoL",
-      "publishTime": "2026/02/05 03:10",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "355",
       "recommendCount": "654",
       "title": "[外電] 湖人、老鷹交易",
@@ -121,6 +101,16 @@
       "author": "jack34031",
       "board": "NBA",
       "publishTime": "2026/02/05 19:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "105",
+      "recommendCount": "186",
+      "title": "[花邊] 巫師曾以換來AD的類似交易包裹問價唐斯",
+      "link": "/bbs/NBA/M.1770281658.A.004",
+      "author": "Kazmier",
+      "board": "NBA",
+      "publishTime": "2026/02/05 08:54",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "BlueBird5566",
       "board": "Stock",
       "publishTime": "2026/02/05 09:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "85",
+      "recommendCount": "179",
+      "title": "[情報] 公鹿拒絕勇士對字母哥的報價",
+      "link": "/bbs/NBA/M.1770267286.A.EF1",
+      "author": "murmurs0803",
+      "board": "NBA",
+      "publishTime": "2026/02/05 04:54",
       "imageUrl": ""
     }
   ]
