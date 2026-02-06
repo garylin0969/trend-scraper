@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-06T16:47:17.279Z",
+  "updated": "2026-02-06T17:07:24.923Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "81",
-      "recommendCount": "110",
-      "title": "[情報] 公鹿將留下字母哥",
-      "link": "/bbs/NBA/M.1770310946.A.F4C",
-      "author": "jack34031",
-      "board": "NBA",
-      "publishTime": "2026/02/05 17:02",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "76",
       "recommendCount": "117",
       "title": "[情報] 0206 上市外資買賣超排行",
@@ -201,6 +191,16 @@
       "author": "micheal59",
       "board": "Gossiping",
       "publishTime": "2026/02/06 07:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "24",
+      "recommendCount": "104",
+      "title": "[新聞] 花蓮婦人夢見跌入聚寶盆　隔天刮中100萬元",
+      "link": "/bbs/Gossiping/M.1770363120.A.E4C",
+      "author": "vdml",
+      "board": "Gossiping",
+      "publishTime": "2026/02/06 07:32",
       "imageUrl": ""
     }
   ]
