@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-06T15:06:11.597Z",
+  "updated": "2026-02-06T15:25:06.006Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "42",
-      "recommendCount": "136",
-      "title": "[新聞] 賴清德連任穩了 民調猛漲 原因曝光 學者:",
-      "link": "/bbs/Gossiping/M.1770304790.A.06B",
-      "author": "Zuma",
-      "board": "Gossiping",
-      "publishTime": "2026/02/05 15:19",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "76",
       "recommendCount": "117",
       "title": "[情報] 0206 上市外資買賣超排行",
@@ -174,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "80",
-      "recommendCount": "88",
-      "title": "[鳴潮] 還沒過劇情 但是感覺有點歐 4單滿命 發錢",
-      "link": "/bbs/C_Chat/M.1770304007.A.47C",
-      "author": "zxcv820421",
-      "board": "C_Chat",
-      "publishTime": "2026/02/05 15:06",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "24",
       "recommendCount": "104",
       "title": "[新聞] 花蓮婦人夢見跌入聚寶盆　隔天刮中100萬元",
@@ -201,6 +181,26 @@
       "author": "ChanHoPark",
       "board": "Gossiping",
       "publishTime": "2026/02/06 05:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "83",
+      "recommendCount": "92",
+      "title": "[鳴潮] 3.1感想",
+      "link": "/bbs/C_Chat/M.1770311384.A.CE9",
+      "author": "lovez04wj06",
+      "board": "C_Chat",
+      "publishTime": "2026/02/05 17:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "19",
+      "recommendCount": "79",
+      "title": "[討論] WBC戰績互咬狀況(台日韓 台韓澳)",
+      "link": "/bbs/Baseball/M.1770356133.A.3C4",
+      "author": "bruce2725",
+      "board": "Baseball",
+      "publishTime": "2026/02/06 05:35",
       "imageUrl": ""
     }
   ]
