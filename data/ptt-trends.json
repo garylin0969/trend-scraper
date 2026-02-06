@@ -1,18 +1,8 @@
 {
-  "updated": "2026-02-06T04:00:42.610Z",
+  "updated": "2026-02-06T04:41:40.478Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "289",
-      "recommendCount": "458",
-      "title": "[情報] 勇士老鷹交易 苦命去老鷹",
-      "link": "/bbs/NBA/M.1770265731.A.0AC",
-      "author": "willy911006",
-      "board": "NBA",
-      "publishTime": "2026/02/05 04:28",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "199",
       "recommendCount": "355",
@@ -154,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "75",
-      "recommendCount": "152",
-      "title": "[情報] 勇士交易TJD去暴龍",
-      "link": "/bbs/NBA/M.1770266242.A.A95",
-      "author": "jack34031",
-      "board": "NBA",
-      "publishTime": "2026/02/05 04:37",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "92",
       "recommendCount": "177",
       "title": "[閒聊] 這場是史上最爛任直嗎？",
@@ -201,6 +181,26 @@
       "author": "murmurs0803",
       "board": "NBA",
       "publishTime": "2026/02/05 04:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "79",
+      "recommendCount": "241",
+      "title": "[新聞] 機車族不用淋雨了！駕艙機車將合法開放",
+      "link": "/bbs/Gossiping/M.1770282064.A.1C7",
+      "author": "luxuryer",
+      "board": "Gossiping",
+      "publishTime": "2026/02/05 09:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "42",
+      "recommendCount": "136",
+      "title": "[新聞] 賴清德連任穩了 民調猛漲 原因曝光 學者:",
+      "link": "/bbs/Gossiping/M.1770304790.A.06B",
+      "author": "Zuma",
+      "board": "Gossiping",
+      "publishTime": "2026/02/05 15:19",
       "imageUrl": ""
     }
   ]
