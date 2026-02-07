@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-07T08:12:54.640Z",
+  "updated": "2026-02-07T08:32:28.412Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "99",
-      "recommendCount": "258",
-      "title": "[問卦] 15年前油電雙掌被罵翻 現在怎麼一片祥和",
-      "link": "/bbs/Gossiping/M.1770365718.A.56A",
-      "author": "gn07199",
-      "board": "Gossiping",
-      "publishTime": "2026/02/06 08:15",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "129",
       "recommendCount": "151",
       "title": "[閒聊] Bin微博：我依然是世一上",
@@ -201,6 +191,16 @@
       "author": "Wojnarowski",
       "board": "NBA",
       "publishTime": "2026/02/07 01:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "95",
+      "recommendCount": "129",
+      "title": "[新聞] 中華隊強援「龍恩」竟是PTT鄉民神挖掘",
+      "link": "/bbs/Baseball/M.1770375479.A.246",
+      "author": "asdf1256",
+      "board": "Baseball",
+      "publishTime": "2026/02/06 10:57",
       "imageUrl": ""
     }
   ]
