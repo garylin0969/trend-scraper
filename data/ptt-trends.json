@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-07T09:24:01.104Z",
+  "updated": "2026-02-07T09:42:53.582Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "55",
+      "recommendCount": "159",
+      "title": "[問卦] 新北肉販怒：憑什麼高雄少200億預算",
+      "link": "/bbs/Gossiping/M.1770452076.A.C76",
+      "author": "Elsie1999",
+      "board": "Gossiping",
+      "publishTime": "2026/02/07 08:14",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "105",
       "recommendCount": "134",
       "title": "[討論]WBC 龍哥跟費仔的應援曲要用哪兩首?",
@@ -191,16 +201,6 @@
       "author": "Wojnarowski",
       "board": "NBA",
       "publishTime": "2026/02/07 01:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "95",
-      "recommendCount": "129",
-      "title": "[新聞] 中華隊強援「龍恩」竟是PTT鄉民神挖掘",
-      "link": "/bbs/Baseball/M.1770375479.A.246",
-      "author": "asdf1256",
-      "board": "Baseball",
-      "publishTime": "2026/02/06 10:57",
       "imageUrl": ""
     }
   ]
