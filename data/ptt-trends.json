@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-07T07:58:10.669Z",
+  "updated": "2026-02-07T08:12:54.640Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "54",
-      "recommendCount": "146",
-      "title": "[標的] 記憶體這次是不是真的 Over 了？",
-      "link": "/bbs/Stock/M.1770364657.A.DA0",
-      "author": "tonyparker18",
-      "board": "Stock",
-      "publishTime": "2026/02/06 07:57",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "105",
       "recommendCount": "134",
       "title": "[討論]WBC 龍哥跟費仔的應援曲要用哪兩首?",
@@ -201,6 +191,16 @@
       "author": "siscon",
       "board": "C_Chat",
       "publishTime": "2026/02/06 15:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "87",
+      "recommendCount": "197",
+      "title": "[外絮] 湖人今夏擬追逐字母、仿效道奇重塑制服組",
+      "link": "/bbs/NBA/M.1770426814.A.1E9",
+      "author": "Wojnarowski",
+      "board": "NBA",
+      "publishTime": "2026/02/07 01:13",
       "imageUrl": ""
     }
   ]
