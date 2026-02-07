@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-07T13:53:51.943Z",
+  "updated": "2026-02-07T14:09:22.975Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "71",
+      "recommendCount": "121",
+      "title": "[問卦] 我在泰國花台幣590住這種鬼屋...",
+      "link": "/bbs/Gossiping/M.1770467906.A.C61",
+      "author": "Amed21",
+      "board": "Gossiping",
+      "publishTime": "2026/02/07 12:38",
+      "imageUrl": "https://cache.pttweb.cc/imgur/pG1vKJc/s/e16c392f2aadfef623ae2b5e064a63d5"
+    },
+    {
       "recommendScore": "92",
       "recommendCount": "100",
       "title": "Re: [推薦] 籃球[小律師]2/7NBA尾場",
@@ -191,16 +201,6 @@
       "author": "a5687920",
       "board": "Stock",
       "publishTime": "2026/02/07 01:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "77",
-      "recommendCount": "148",
-      "title": "[標的] 美股軟體股，有哪些是被錯殺的?",
-      "link": "/bbs/Stock/M.1770382565.A.58C",
-      "author": "HolyMickey",
-      "board": "Stock",
-      "publishTime": "2026/02/06 12:56",
       "imageUrl": ""
     }
   ]
