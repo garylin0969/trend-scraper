@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-08T11:41:57.728Z",
+  "updated": "2026-02-08T11:55:18.185Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "86",
+      "recommendCount": "175",
+      "title": "[花邊] 嘴綠第4節巴頭范德彪又肘擊AR引發小場面",
+      "link": "/bbs/NBA/M.1770533509.A.392",
+      "author": "yniori",
+      "board": "NBA",
+      "publishTime": "2026/02/08 06:51",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "306",
       "recommendCount": "755",
       "title": "[LIVE] NBA 76人 @ 太陽 場中",
@@ -62,6 +72,16 @@
       "board": "SportLottery",
       "publishTime": "2026/02/08 01:47",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "129",
+      "recommendCount": "460",
+      "title": "[請益] 綠角說正二不能長期投資！？",
+      "link": "/bbs/Stock/M.1770533463.A.616",
+      "author": "tpta45855",
+      "board": "Stock",
+      "publishTime": "2026/02/08 06:51",
+      "imageUrl": "https://cache.pttweb.cc/imgur/m2NEXhZ/s/0a894b9216c23d84c381362353566846"
     },
     {
       "recommendScore": "83",
@@ -181,26 +201,6 @@
       "author": "bbbb25487",
       "board": "Gossiping",
       "publishTime": "2026/02/08 03:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "58",
-      "recommendCount": "153",
-      "title": "[新聞] 當權者指的是誰？賈永婕57字喊話：別再掩蓋…《世紀血案》爭議燒",
-      "link": "/bbs/Gossiping/M.1770515323.A.EEA",
-      "author": "ptt987654321",
-      "board": "Gossiping",
-      "publishTime": "2026/02/08 01:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "55",
-      "recommendCount": "126",
-      "title": "[新聞] 李千娜《世紀血案》失言！文總出手了　「WE ARE演出」：將進行適當調整",
-      "link": "/bbs/Gossiping/M.1770473675.A.FF1",
-      "author": "minche",
-      "board": "Gossiping",
-      "publishTime": "2026/02/07 14:14",
       "imageUrl": ""
     }
   ]
