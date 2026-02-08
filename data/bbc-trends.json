@@ -1,14 +1,22 @@
 {
-  "updated": "2026-02-08T05:16:24.404Z",
+  "updated": "2026-02-08T06:04:20.004Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-02-08T05:16:13.000Z",
+    "lastBuildDate": "2026-02-08T06:04:13.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "日本大選：高市早苗的政治豪賭結果即將揭曉",
+      "description": "高市早苗在日本年輕人中享有高人氣，但通貨膨脹和與中國的外交爭端令選民憂心忡忡。日本首位女性首相「不過半就下台」的政治豪賭能否成功即將揭曉。",
+      "link": "https://www.bbc.com/zhongwen/articles/cz0g7m491mko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-08T05:18:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cz0g7m491mko/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fa25/live/58d8cb00-047a-11f1-9972-d3f265c101c6.jpg"
+    },
     {
       "title": "泰國大選：改革派獲得支持需要面對哪些挑戰",
       "description": "在泰國，光是贏得選舉永遠不夠。這是爲什麽？",
@@ -18,20 +26,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fbd2/live/431987f0-0272-11f1-8cb0-d70684951333.jpg"
     },
     {
+      "title": "《華盛頓郵報》大裁員風暴，執行長宣布將辭職",
+      "description": "威爾·劉易斯表示，為了確保報紙的未來，已經做出了「艱難的決定」。",
+      "link": "https://www.bbc.com/zhongwen/articles/clyg3de45lzo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-08T05:56:17.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/clyg3de45lzo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7a9e/live/29d0f420-04a9-11f1-b5e2-dd58fc65f0f6.jpg"
+    },
+    {
       "title": "我們為什麼要重返月球？新一輪太空競賽的利害關係是什麼？",
       "description": "美國太空總署即將發射自1972年以來的首次載人登月任務。為什麼這麼多國家都想重返月球？這場新的太空競賽又關乎哪些利益？",
       "link": "https://www.bbc.com/zhongwen/articles/cx2lx71ylplo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-02-08T02:26:54.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx2lx71ylplo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f55b/live/b33c4440-00e8-11f1-9972-d3f265c101c6.jpg"
-    },
-    {
-      "title": "「我曾經發K-pop明星夢，但最終感覺自己被騙了」",
-      "description": "在韓國，外籍練習生的追夢故事，揭示了一個監管不足、機會與風險並存的K-pop產業。",
-      "link": "https://www.bbc.com/zhongwen/articles/c8rmrld7263o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-07T03:59:28.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c8rmrld7263o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0eb5/live/e73378c0-0252-11f1-8c1c-47c1f6b3eac7.jpg"
     },
     {
       "title": "中國AI公司加速「出海」，為什麼香港成了關鍵一站？",
@@ -46,7 +54,7 @@
       "description": "一對情侶入住中國深圳一家酒店後，發現他們最私密的時刻被偷拍，並作為針孔攝像頭色情片在網上流傳。",
       "link": "https://www.bbc.com/zhongwen/articles/cwynvzd5y1jo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-02-06T08:09:24.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwynvzd5y1jo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwynvzd5y1jo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7499/live/442d24c0-0057-11f1-b7e1-afb6d0884c18.png"
     },
     {
@@ -96,14 +104,6 @@
       "pubDate": "2026-02-05T04:13:49.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c20dqn5930do/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/61a1/live/159532c0-01af-11f1-a8b8-bdd2c5f9bcad.png"
-    },
-    {
-      "title": "愛潑斯坦文件：最新曝光資料到底還涉及哪些名人？他們如何回應？",
-      "description": "美國司法部公佈的數百萬份與愛潑斯坦有關的文件中，包括了大量世界富豪與權貴的名字。",
-      "link": "https://www.bbc.com/zhongwen/articles/crmlypnjj7po/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-04T03:34:52.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crmlypnjj7po/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3977/live/7e599d90-015b-11f1-b7e1-afb6d0884c18.jpg"
     },
     {
       "title": "國共論壇：九年後重啟談了什麼？為「鄭習會」試水溫？",
@@ -162,6 +162,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a944/live/93ee7e50-f607-11f0-b990-27d7007e546f.jpg"
     },
     {
+      "title": "愛潑斯坦文件：最新曝光資料到底還涉及哪些名人？他們如何回應？",
+      "description": "美國司法部公佈的數百萬份與愛潑斯坦有關的文件中，包括了大量世界富豪與權貴的名字。",
+      "link": "https://www.bbc.com/zhongwen/articles/crmlypnjj7po/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-04T03:34:52.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/crmlypnjj7po/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3977/live/7e599d90-015b-11f1-b7e1-afb6d0884c18.jpg"
+    },
+    {
       "title": "特朗普與莫迪通話，美國與印度達成貿易協議",
       "description": "印度商品的關稅將從50%降至18%，同時印度也同意停止購買俄羅斯石油。",
       "link": "https://www.bbc.com/zhongwen/articles/c07x3z74d03o/trad?at_medium=RSS&at_campaign=rss",
@@ -176,14 +184,6 @@
       "pubDate": "2026-02-02T05:56:37.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c1wzx50ygp1o/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f7a1/live/5f68ffd0-fe9e-11f0-9972-d3f265c101c6.jpg"
-    },
-    {
-      "title": "特朗普提名的美聯儲新主席沃什能否如他所願帶來改變",
-      "description": "沃什曾以支持較高利率而聞名，但他近來在評論文章和媒體露面中卻努力擺脫這個名聲。",
-      "link": "https://www.bbc.com/zhongwen/articles/cdxj8x8lwjwo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-01T05:29:36.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cdxj8x8lwjwo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f296/live/2dea3af0-fe1c-11f0-aa16-29d94d729f34.jpg"
     },
     {
       "title": "台美貿易協議水落石出  台積電大規模投資美國能為台灣換回什麼",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a0d7/live/90975000-df3d-11f0-82f2-37a7e38e07b1.jpg"
     },
     {
+      "title": "「我曾經發K-pop明星夢，但最終感覺自己被騙了」",
+      "description": "在韓國，外籍練習生的追夢故事，揭示了一個監管不足、機會與風險並存的K-pop產業。",
+      "link": "https://www.bbc.com/zhongwen/articles/c8rmrld7263o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-07T03:59:28.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c8rmrld7263o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0eb5/live/e73378c0-0252-11f1-8c1c-47c1f6b3eac7.jpg"
+    },
+    {
       "title": "全球熱捧韓國文化，海苔價格急升",
       "description": "黑色、酥脆、通常扁平呈方形的乾海藻越來越受歡迎，但價格也越來越高。",
       "link": "https://www.bbc.com/zhongwen/articles/cy09xvxzy2zo/trad?at_medium=RSS&at_campaign=rss",
@@ -296,14 +304,6 @@
       "pubDate": "2026-02-05T00:18:09.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c931vpkdr77o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d047/live/2161b1a0-fdf9-11f0-b7e1-afb6d0884c18.jpg"
-    },
-    {
-      "title": "藐視國會罪表決前夕  克林頓夫婦同意就愛潑斯坦案調查赴眾議院作證",
-      "description": "這將是自1983年傑拉德・福特（Gerald Ford）以來，首次有前美國總統向國會委員會作證。",
-      "link": "https://www.bbc.com/zhongwen/articles/c150jzv84ggo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-03T04:53:41.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c150jzv84ggo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8334/live/3e863430-00b1-11f1-9972-d3f265c101c6.jpg"
     },
     {
       "title": "科學家發現挪威群島北極熊在海冰減少下反而更胖更健康",
