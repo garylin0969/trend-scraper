@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-08T12:47:47.393Z",
+  "updated": "2026-02-08T13:12:42.942Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -51,6 +51,16 @@
       "author": "jason911152",
       "board": "NBA",
       "publishTime": "2026/02/08 04:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "580",
+      "recommendCount": "1248",
+      "title": "[電競] 2026 LCK Cup Play-In Round 3",
+      "link": "/bbs/LoL/M.1770536136.A.2A6",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/02/08 07:35",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "bbbb25487",
       "board": "Gossiping",
       "publishTime": "2026/02/08 03:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "58",
-      "recommendCount": "153",
-      "title": "[新聞] 當權者指的是誰？賈永婕57字喊話：別再掩蓋…《世紀血案》爭議燒",
-      "link": "/bbs/Gossiping/M.1770515323.A.EEA",
-      "author": "ptt987654321",
-      "board": "Gossiping",
-      "publishTime": "2026/02/08 01:48",
       "imageUrl": ""
     }
   ]
