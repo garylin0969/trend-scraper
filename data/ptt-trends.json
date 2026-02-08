@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-08T10:11:46.615Z",
+  "updated": "2026-02-08T10:31:45.415Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "59",
-      "recommendCount": "60",
-      "title": "[Vtub] 初配信！發錢！恋宵りあ&霞翠ひびき",
-      "link": "/bbs/C_Chat/M.1770460029.A.774",
-      "author": "BlackEnger",
-      "board": "C_Chat",
-      "publishTime": "2026/02/07 10:27",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "37",
       "recommendCount": "69",
       "title": "[討論] 大家看過最鳥的鳥安是哪一隻?",
@@ -202,6 +192,16 @@
       "board": "C_Chat",
       "publishTime": "2026/02/07 11:36",
       "imageUrl": "https://cache.pttweb.cc/imgur/gQTWT0K/s/94131635b2ca8ee2574de231c0e2a8a9"
+    },
+    {
+      "recommendScore": "33",
+      "recommendCount": "71",
+      "title": "[問卦] 請給我一個不要買新車的強烈理由",
+      "link": "/bbs/Gossiping/M.1770464085.A.A61",
+      "author": "bradpete",
+      "board": "Gossiping",
+      "publishTime": "2026/02/07 11:34",
+      "imageUrl": ""
     }
   ]
 }
