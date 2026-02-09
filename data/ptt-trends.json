@@ -1,18 +1,8 @@
 {
-  "updated": "2026-02-09T14:33:54.753Z",
+  "updated": "2026-02-09T15:01:31.867Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "1153",
-      "recommendCount": "1210",
-      "title": "Re: [新聞] 中華隊強援「龍恩」竟是PTT鄉民神挖",
-      "link": "/bbs/Baseball/M.1770561274.A.91D",
-      "author": "erichsin",
-      "board": "Baseball",
-      "publishTime": "2026/02/08 14:34",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "128",
       "recommendCount": "564",
@@ -201,6 +191,16 @@
       "author": "tombozzq",
       "board": "HatePolitics",
       "publishTime": "2026/02/09 01:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "43",
+      "recommendCount": "121",
+      "title": "[問卦] 認真問 高市早苗大勝 對台灣有什麼影響？",
+      "link": "/bbs/Gossiping/M.1770565304.A.86C",
+      "author": "black1x2y3z",
+      "board": "Gossiping",
+      "publishTime": "2026/02/08 15:41",
       "imageUrl": ""
     }
   ]
