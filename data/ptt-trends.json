@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-09T06:14:11.292Z",
+  "updated": "2026-02-09T06:44:52.243Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -12,16 +12,6 @@
       "board": "Baseball",
       "publishTime": "2026/02/08 14:34",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "268",
-      "recommendCount": "583",
-      "title": "[問卦] threads熱議:竹科工程師認知跟學齡前一樣",
-      "link": "/bbs/Gossiping/M.1770532240.A.76B",
-      "author": "cowardlyman",
-      "board": "Gossiping",
-      "publishTime": "2026/02/08 06:30",
-      "imageUrl": "https://cache.pttweb.cc/imgur/W3lVvxr/s/087ecd1b8ed98cdfef9236f7c34981b1"
     },
     {
       "recommendScore": "164",
@@ -74,8 +64,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/1LCVd6t/s/e6e1da8db58b1bab6440200b4466d20a"
     },
     {
-      "recommendScore": "151",
-      "recommendCount": "315",
+      "recommendScore": "153",
+      "recommendCount": "320",
       "title": "[爆卦] 高市早苗得票率88.7%",
       "link": "/bbs/Gossiping/M.1770552434.A.F19",
       "author": "mylove2256",
@@ -174,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "106",
+      "recommendCount": "182",
+      "title": "[討論] 王柏融未來還有可能入選國家隊嗎？",
+      "link": "/bbs/Baseball/M.1770558219.A.0E2",
+      "author": "shohei5566",
+      "board": "Baseball",
+      "publishTime": "2026/02/08 13:43",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "105",
       "recommendCount": "241",
       "title": "[問卦] 能舉一個比林宅血案還震撼的命案？",
@@ -194,13 +194,13 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/mv8qi5C/s/149a15b13b61561e4cf4c5e5f8479d70"
     },
     {
-      "recommendScore": "99",
-      "recommendCount": "173",
-      "title": "[討論] 王柏融未來還有可能入選國家隊嗎？",
-      "link": "/bbs/Baseball/M.1770558219.A.0E2",
-      "author": "shohei5566",
-      "board": "Baseball",
-      "publishTime": "2026/02/08 13:43",
+      "recommendScore": "84",
+      "recommendCount": "208",
+      "title": "[新聞]獨／北捷縱火犯擁台大+留日高學歷 都市計畫受害者竟縱火陳情",
+      "link": "/bbs/Gossiping/M.1770538719.A.844",
+      "author": "joanzkow",
+      "board": "Gossiping",
+      "publishTime": "2026/02/08 08:18",
       "imageUrl": ""
     }
   ]
