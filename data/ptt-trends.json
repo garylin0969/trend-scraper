@@ -1,28 +1,8 @@
 {
-  "updated": "2026-02-10T11:26:41.894Z",
+  "updated": "2026-02-10T11:48:28.355Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "252",
-      "recommendCount": "748",
-      "title": "[問卦] 俄羅斯：日本重回軍國就准備被打",
-      "link": "/bbs/Gossiping/M.1770636345.A.C10",
-      "author": "beaver",
-      "board": "Gossiping",
-      "publishTime": "2026/02/09 11:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "92",
-      "recommendCount": "177",
-      "title": "[問卦] 登入3200換算軍階是什麼等級？",
-      "link": "/bbs/Gossiping/M.1770637664.A.E00",
-      "author": "Dreampen",
-      "board": "Gossiping",
-      "publishTime": "2026/02/09 11:47",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "149",
       "recommendCount": "183",
@@ -92,16 +72,6 @@
       "board": "Gossiping",
       "publishTime": "2026/02/09 12:18",
       "imageUrl": "https://cache.pttweb.cc/imgur/DT6JAMR/s/4b7ab3d6bb705266b527a2fe3c3af48d"
-    },
-    {
-      "recommendScore": "50",
-      "recommendCount": "301",
-      "title": "[黑特] 范琪斐：我覺得中國被妖魔化太嚴重",
-      "link": "/bbs/HatePolitics/M.1770636922.A.EBB",
-      "author": "goddamnhuge",
-      "board": "HatePolitics",
-      "publishTime": "2026/02/09 11:35",
-      "imageUrl": ""
     },
     {
       "recommendScore": "101",
@@ -202,6 +172,36 @@
       "board": "Gossiping",
       "publishTime": "2026/02/09 11:49",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "59",
+      "recommendCount": "94",
+      "title": "[心得] 有人上周五下車感到很嘔的嗎",
+      "link": "/bbs/Stock/M.1770686732.A.5AE",
+      "author": "a274775927",
+      "board": "Stock",
+      "publishTime": "2026/02/10 01:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "60",
+      "recommendCount": "84",
+      "title": "[情報] 《惡魔獵人6》將在State of Play上宣佈",
+      "link": "/bbs/C_Chat/M.1770645807.A.F13",
+      "author": "rs150vsjr150",
+      "board": "C_Chat",
+      "publishTime": "2026/02/09 14:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "62",
+      "recommendCount": "94",
+      "title": "[閒聊] 座長親媽，夜市敗退",
+      "link": "/bbs/C_Chat/M.1770644730.A.3F7",
+      "author": "stevenchiang",
+      "board": "C_Chat",
+      "publishTime": "2026/02/09 13:45",
+      "imageUrl": "https://cache.pttweb.cc/imgur/4LxxanM/s/0e6ca0bcffdf8a59bc51e6ef157969c5"
     }
   ]
 }
