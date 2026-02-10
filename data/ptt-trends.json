@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-10T16:15:14.264Z",
+  "updated": "2026-02-10T16:42:38.609Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "50",
-      "recommendCount": "57",
-      "title": "[鳴潮] 小愛深夜頻道對於後續版本的伏筆",
-      "link": "/bbs/C_Chat/M.1770654746.A.DAA",
-      "author": "lcw33242976",
-      "board": "C_Chat",
-      "publishTime": "2026/02/09 16:32",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "35",
       "recommendCount": "96",
       "title": "[閒聊] 原廠真的不怕外匯車商嗎？",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2026/02/10 02:51",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "31",
+      "recommendCount": "41",
+      "title": "[BGD] 台北場登記好了",
+      "link": "/bbs/Marginalman/M.1770721203.A.656",
+      "author": "a2382307",
+      "board": "Marginalman",
+      "publishTime": "2026/02/10 11:00",
+      "imageUrl": "https://cache.pttweb.cc/imgur/B82LsFV/s/0e93bc139a0b92edc9150b7827e2aae0"
     }
   ]
 }
