@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-10T13:45:42.647Z",
+  "updated": "2026-02-10T14:19:14.080Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,36 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "60",
-      "recommendCount": "84",
-      "title": "[情報] 《惡魔獵人6》將在State of Play上宣佈",
-      "link": "/bbs/C_Chat/M.1770645807.A.F13",
-      "author": "rs150vsjr150",
-      "board": "C_Chat",
-      "publishTime": "2026/02/09 14:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "62",
-      "recommendCount": "94",
-      "title": "[閒聊] 座長親媽，夜市敗退",
-      "link": "/bbs/C_Chat/M.1770644730.A.3F7",
-      "author": "stevenchiang",
-      "board": "C_Chat",
-      "publishTime": "2026/02/09 13:45",
-      "imageUrl": "https://cache.pttweb.cc/imgur/4LxxanM/s/0e6ca0bcffdf8a59bc51e6ef157969c5"
-    },
-    {
-      "recommendScore": "51",
-      "recommendCount": "102",
-      "title": "[討論] 鄭麗文：台中又不是艱困選區",
-      "link": "/bbs/HatePolitics/M.1770645679.A.3AC",
-      "author": "royaljing",
-      "board": "HatePolitics",
-      "publishTime": "2026/02/09 14:01",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "64",
       "recommendCount": "68",
       "title": "[發錢] 成功包軌日邦這次的香澄有咲了",
@@ -151,16 +121,6 @@
       "author": "stevenchiang",
       "board": "NBA",
       "publishTime": "2026/02/09 15:59",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "30",
-      "recommendCount": "93",
-      "title": "[問卦] 中國已經有無人計程車了欸",
-      "link": "/bbs/Gossiping/M.1770645240.A.D8E",
-      "author": "a4855858",
-      "board": "Gossiping",
-      "publishTime": "2026/02/09 13:54",
       "imageUrl": ""
     },
     {
@@ -202,6 +162,46 @@
       "board": "Gossiping",
       "publishTime": "2026/02/09 15:09",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "50",
+      "recommendCount": "57",
+      "title": "[鳴潮] 小愛深夜頻道對於後續版本的伏筆",
+      "link": "/bbs/C_Chat/M.1770654746.A.DAA",
+      "author": "lcw33242976",
+      "board": "C_Chat",
+      "publishTime": "2026/02/09 16:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "81",
+      "recommendCount": "284",
+      "title": "Re: [討論] 所以昔漣的人設風評沒那麼好的原因是？",
+      "link": "/bbs/C_Chat/M.1770652344.A.A60",
+      "author": "melzard",
+      "board": "C_Chat",
+      "publishTime": "2026/02/09 15:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "46",
+      "recommendCount": "89",
+      "title": "[討論] 日本鄉下學生會連迴轉壽司都很難吃到？",
+      "link": "/bbs/C_Chat/M.1770647147.A.CE6",
+      "author": "astrayzip",
+      "board": "C_Chat",
+      "publishTime": "2026/02/09 14:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-37",
+      "recommendCount": "50",
+      "title": "[鳴潮] 最近鳴潮的文是不是太多了？",
+      "link": "/bbs/C_Chat/M.1770650191.A.AEE",
+      "author": "RieX",
+      "board": "C_Chat",
+      "publishTime": "2026/02/09 15:16",
+      "imageUrl": "https://cache.pttweb.cc/imgur/w60TSIs/s/beb46172d011ae2713548db7fd5a1d63"
     }
   ]
 }
