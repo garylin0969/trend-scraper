@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-10T12:05:21.190Z",
+  "updated": "2026-02-10T12:32:10.429Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -64,16 +64,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "77",
-      "recommendCount": "119",
-      "title": "[新聞] 差42歲爺孫戀為錢反目！ 男狠奪「BMW、240萬」遭警圍捕",
-      "link": "/bbs/Gossiping/M.1770639487.A.6B1",
-      "author": "CREA",
-      "board": "Gossiping",
-      "publishTime": "2026/02/09 12:18",
-      "imageUrl": "https://cache.pttweb.cc/imgur/DT6JAMR/s/4b7ab3d6bb705266b527a2fe3c3af48d"
-    },
-    {
       "recommendScore": "101",
       "recommendCount": "127",
       "title": "[鳴潮] 先約電台深夜頻道 愛彌斯",
@@ -101,16 +91,6 @@
       "author": "iahks38",
       "board": "C_Chat",
       "publishTime": "2026/02/09 15:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "68",
-      "recommendCount": "167",
-      "title": "[問題] 有哪些手遊無課能輕鬆破主線的嗎?",
-      "link": "/bbs/C_Chat/M.1770639026.A.939",
-      "author": "ColdLeafOwl",
-      "board": "C_Chat",
-      "publishTime": "2026/02/09 12:10",
       "imageUrl": ""
     },
     {
@@ -202,6 +182,26 @@
       "board": "Gossiping",
       "publishTime": "2026/02/09 13:32",
       "imageUrl": "https://cache.pttweb.cc/imgur/8RapiGK/s/7d0f8bddbf3f6e223c69c4fd343d7d85"
+    },
+    {
+      "recommendScore": "52",
+      "recommendCount": "114",
+      "title": "[問卦] 有人有在機場過夜的經驗嗎？",
+      "link": "/bbs/Gossiping/M.1770644030.A.7E9",
+      "author": "chubby31190",
+      "board": "Gossiping",
+      "publishTime": "2026/02/09 13:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "51",
+      "recommendCount": "102",
+      "title": "[討論] 鄭麗文：台中又不是艱困選區",
+      "link": "/bbs/HatePolitics/M.1770645679.A.3AC",
+      "author": "royaljing",
+      "board": "HatePolitics",
+      "publishTime": "2026/02/09 14:01",
+      "imageUrl": ""
     }
   ]
 }
