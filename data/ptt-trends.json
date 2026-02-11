@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-11T05:50:31.880Z",
+  "updated": "2026-02-11T06:16:05.034Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "71",
+      "recommendCount": "130",
+      "title": "[新聞] 【蛇年封關】台股金蛇年漲破萬點！每位股民均賺246萬...扣掉台積電還有101",
+      "link": "/bbs/Stock/M.1770787076.A.6D5",
+      "author": "ChanHoPark",
+      "board": "Stock",
+      "publishTime": "2026/02/11 05:17",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "57",
       "recommendCount": "238",
       "title": "[新聞] 快訊／賴清德明早再親上火線召開記者會",
@@ -191,16 +201,6 @@
       "author": "SeanLi1013",
       "board": "C_Chat",
       "publishTime": "2026/02/10 09:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "76",
-      "recommendCount": "154",
-      "title": "[問卦] 三國軍師中，誰最強？",
-      "link": "/bbs/Gossiping/M.1770713015.A.E2E",
-      "author": "humbler",
-      "board": "Gossiping",
-      "publishTime": "2026/02/10 08:43",
       "imageUrl": ""
     }
   ]
