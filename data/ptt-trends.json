@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-11T20:17:02.608Z",
+  "updated": "2026-02-11T20:34:07.377Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "61",
+      "recommendCount": "159",
+      "title": "[花邊] 活塞黃蜂禁賽球員",
+      "link": "/bbs/NBA/M.1770827160.A.C72",
+      "author": "willy911006",
+      "board": "NBA",
+      "publishTime": "2026/02/11 16:26",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "67",
       "recommendCount": "88",
       "title": "[新聞] 經典賽／韓國隊「放日抓台」拚晉級？韓媒重砲轟：沒鬥志妄想贏球",
@@ -192,16 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2026/02/11 09:48",
       "imageUrl": "https://cache.pttweb.cc/imgur/XtBrpz3/s/bcabff10aefe53c1e446992d50c8649b"
-    },
-    {
-      "recommendScore": "57",
-      "recommendCount": "89",
-      "title": "[鳴潮]鳴潮文案：像滾雪球 把創意越滾越大",
-      "link": "/bbs/C_Chat/M.1770815108.A.8B8",
-      "author": "gininder",
-      "board": "C_Chat",
-      "publishTime": "2026/02/11 13:05",
-      "imageUrl": ""
     }
   ]
 }
