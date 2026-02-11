@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-11T00:56:01.248Z",
+  "updated": "2026-02-11T01:38:20.559Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "110",
-      "recommendCount": "173",
-      "title": "[新聞] 獨家／30年來第一次見到這現象　力積電黃崇仁：記憶體缺到2028年都不一定緩",
-      "link": "/bbs/Stock/M.1770687090.A.E66",
-      "author": "allen1245124",
-      "board": "Stock",
-      "publishTime": "2026/02/10 01:31",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "137",
       "recommendCount": "256",
       "title": "[花邊] 爵士連續兩場比賽在領先時讓主力坐滿第",
@@ -201,6 +191,16 @@
       "author": "Taiwan007",
       "board": "Gossiping",
       "publishTime": "2026/02/10 09:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "108",
+      "recommendCount": "201",
+      "title": "[新聞] 黃國昌子弟兵民調落敗！民眾黨宣布複查結果：讓參選人思考後再答覆",
+      "link": "/bbs/HatePolitics/M.1770723167.A.D11",
+      "author": "Homura",
+      "board": "HatePolitics",
+      "publishTime": "2026/02/10 11:32",
       "imageUrl": ""
     }
   ]
