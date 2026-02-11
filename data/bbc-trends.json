@@ -1,22 +1,14 @@
 {
-  "updated": "2026-02-10T23:56:34.422Z",
+  "updated": "2026-02-11T00:57:26.483Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-02-10T23:56:23.000Z",
+    "lastBuildDate": "2026-02-11T00:57:20.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
-    {
-      "title": "台灣電影《世紀血案》為何引發抵制潮？",
-      "description": "《世紀血案》取材自「林宅血案」，該案發生在台灣戒嚴時期，美麗島受刑人林義雄的家人遭刺殺，當時被認為是情治機關對黨外人士的威嚇警告，案件歷經46年至今未能結案，成為台灣民主運動史的一道無法癒合的傷痕。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1l74jveqdgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-10T13:48:34.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1l74jveqdgo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4dc2/live/bcf715e0-0661-11f1-9972-d3f265c101c6.png"
-    },
     {
       "title": "分析稱「境外勢力」助力高市歷史性大勝  中日台關係將何去何從？",
       "description": "高市為何大勝？中日如何繼續交鋒？四月高市即將訪美，屆時將會如何鞏固日美同盟？台灣問題是包袱還是資產？內部嚴峻的通膨及低薪問題會否糾纏她？",
@@ -24,6 +16,14 @@
       "pubDate": "2026-02-10T10:46:41.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c33jv54086ro/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ac3f/live/c9841990-0664-11f1-ad0b-39fef3bf1fc8.jpg"
+    },
+    {
+      "title": "台灣電影《世紀血案》為何引發抵制潮？",
+      "description": "《世紀血案》取材自「林宅血案」，該案發生在台灣戒嚴時期，美麗島受刑人林義雄的家人遭刺殺，當時被認為是情治機關對黨外人士的威嚇警告，案件歷經46年至今未能結案，成為台灣民主運動史的一道無法癒合的傷痕。",
+      "link": "https://www.bbc.com/zhongwen/articles/c1l74jveqdgo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-10T13:48:34.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1l74jveqdgo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4dc2/live/bcf715e0-0661-11f1-9972-d3f265c101c6.png"
     },
     {
       "title": "TikTok熱議「成為中國人」：網民視為反抗西方霸權，官方下場背書",
@@ -34,12 +34,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9fed/live/233ddf40-064a-11f1-b7e1-afb6d0884c18.jpg"
     },
     {
-      "title": "高市早苗壓倒性大勝，但她能重振日本經濟嗎？",
-      "description": "日本一直面臨經濟成長疲、公共債務不斷攀升和勞動力快速老化等問題。",
-      "link": "https://www.bbc.com/zhongwen/articles/c62dgk3kk1ro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-10T05:38:32.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c62dgk3kk1ro/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aed5/live/689b6bd0-05bd-11f1-b8f3-e5c6454cb301.jpg"
+      "title": "專訪澳洲網絡安全專員  那個率先讓孩子遠離社交媒體的人",
+      "description": "在科技業工作了幾十年後，茱莉·英曼·格蘭特現在監管這個行業，並屢屢成為攻擊目標。",
+      "link": "https://www.bbc.com/zhongwen/articles/c6205xe2v72o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-11T00:22:24.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c6205xe2v72o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf9a/live/a0ec9e00-0329-11f1-9deb-9fec290cc1e6.jpg"
     },
     {
       "title": "黎智英國安法案件：黎智英判囚20年，蘋果員工判囚6年9個月至10年",
@@ -48,6 +48,14 @@
       "pubDate": "2026-02-09T12:21:44.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cr450w2v112o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/acd0/live/cdd4fbd0-0561-11f1-bd64-b79162ccc1a6.jpg"
+    },
+    {
+      "title": "高市早苗壓倒性大勝，但她能重振日本經濟嗎？",
+      "description": "日本一直面臨經濟成長疲、公共債務不斷攀升和勞動力快速老化等問題。",
+      "link": "https://www.bbc.com/zhongwen/articles/c62dgk3kk1ro/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-10T05:38:32.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c62dgk3kk1ro/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aed5/live/689b6bd0-05bd-11f1-b8f3-e5c6454cb301.jpg"
     },
     {
       "title": "冬奧組委會調查獎牌破損背後的原因",
@@ -104,14 +112,6 @@
       "pubDate": "2026-02-06T04:26:33.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx2y89q92dqo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7681/live/4f6f9060-0265-11f1-b5e2-dd58fc65f0f6.png"
-    },
-    {
-      "title": "我們在中國一家酒店性愛後，發現偷拍影片在網上流傳了給數千觀眾",
-      "description": "一對情侶入住中國深圳一家酒店後，發現他們最私密的時刻被偷拍，並作為針孔攝像頭色情片在網上流傳。",
-      "link": "https://www.bbc.com/zhongwen/articles/cwynvzd5y1jo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-06T08:09:24.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwynvzd5y1jo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7499/live/442d24c0-0057-11f1-b7e1-afb6d0884c18.png"
     },
     {
       "title": "黎智英國安法案判囚20年  成《國安法》下刑期最高被告",
@@ -210,6 +210,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2274/live/a925db40-01a8-11f1-b6ab-2307e83ecd56.jpg"
     },
     {
+      "title": "我們在中國一家酒店性愛後，發現偷拍影片在網上流傳了給數千觀眾",
+      "description": "一對情侶入住中國深圳一家酒店後，發現他們最私密的時刻被偷拍，並作為針孔攝像頭色情片在網上流傳。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwynvzd5y1jo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-06T08:09:24.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwynvzd5y1jo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7499/live/442d24c0-0057-11f1-b7e1-afb6d0884c18.png"
+    },
+    {
       "title": "「這是我屋企的語言」：移民澳洲後，9歲香港小朋友拍片教廣東話",
       "description": "對移民後的小孩子來說，因為語言環境轉變，不少人會慢慢忘記母語。Aiden是土生土長香港人，他與家人移民澳洲後開始在Instagram上拍片教廣東話，吸引超過10萬人追蹤。",
       "link": "https://www.bbc.com/zhongwen/articles/c20z9x5e27no/trad?at_medium=RSS&at_campaign=rss",
@@ -224,14 +232,6 @@
       "pubDate": "2026-02-03T03:00:56.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cly906715p7o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/117a/live/5d00e470-0096-11f1-a8b8-bdd2c5f9bcad.jpg"
-    },
-    {
-      "title": "香港BNO移民潮：英國政府收緊政策，有港人質疑當局背棄承諾",
-      "description": "去年，英國政府提出持BN(O)簽證的香港人申請永居時需提高英語水平的要求、設定最低年收入，引起移民到英國的港人社群不安與擔憂。",
-      "link": "https://www.bbc.com/zhongwen/articles/c79rjrrn9q4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-01-30T00:12:34.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c79rjrrn9q4o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/59ae/live/1b5c6590-fd70-11f0-af33-5bba6671a154.jpg"
     },
     {
       "title": "分析：張又俠「七宗罪」和 「紅二代」世交神話的破滅",
