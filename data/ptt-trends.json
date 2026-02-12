@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-12T17:07:08.294Z",
+  "updated": "2026-02-12T17:33:56.105Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "52",
+      "recommendCount": "178",
+      "title": "[討論] 快艇如果Beal滿血回歸是不是還有戲？",
+      "link": "/bbs/NBA/M.1770868459.A.9A1",
+      "author": "tim0219",
+      "board": "NBA",
+      "publishTime": "2026/02/12 03:54",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "91",
       "recommendCount": "177",
       "title": "[新聞] 不甩勞動部　泰博開除工會全數幹部",
@@ -191,16 +201,6 @@
       "author": "a5687920",
       "board": "Stock",
       "publishTime": "2026/02/12 00:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "83",
-      "recommendCount": "119",
-      "title": "[新聞] SPC-台灣隊中心打線拉警報！林安可春訓",
-      "link": "/bbs/Baseball/M.1770882438.A.7E6",
-      "author": "polanco",
-      "board": "Baseball",
-      "publishTime": "2026/02/12 07:47",
       "imageUrl": ""
     }
   ]
