@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-12T05:04:48.830Z",
+  "updated": "2026-02-12T05:40:58.755Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,16 +74,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "71",
-      "recommendCount": "130",
-      "title": "[新聞] 【蛇年封關】台股金蛇年漲破萬點！每位股民均賺246萬...扣掉台積電還有101",
-      "link": "/bbs/Stock/M.1770787076.A.6D5",
-      "author": "ChanHoPark",
-      "board": "Stock",
-      "publishTime": "2026/02/11 05:17",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "105",
       "recommendCount": "229",
       "title": "[新聞] 爆鄭麗文、張顯耀「擋下藍版軍購條例」親藍粉專點名怒轟：可以放過大家了嗎",
@@ -154,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "56",
-      "recommendCount": "202",
-      "title": "[新聞] NBA／爵士隊明目張膽擺爛求狀元？聯盟專家痛批",
-      "link": "/bbs/NBA/M.1770786888.A.505",
-      "author": "access4096",
-      "board": "NBA",
-      "publishTime": "2026/02/11 05:14",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "44",
       "recommendCount": "94",
       "title": "[心得] 美國各項貸款違約率",
@@ -171,16 +151,6 @@
       "author": "junior020486",
       "board": "Stock",
       "publishTime": "2026/02/11 14:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "35",
-      "recommendCount": "123",
-      "title": "[新聞] 民眾黨團點頭讓政院版軍購條例付委 列「最最最最優先法案」",
-      "link": "/bbs/Gossiping/M.1770786917.A.618",
-      "author": "ulycess",
-      "board": "Gossiping",
-      "publishTime": "2026/02/11 05:15",
       "imageUrl": ""
     },
     {
@@ -202,6 +172,36 @@
       "board": "C_Chat",
       "publishTime": "2026/02/11 09:48",
       "imageUrl": "https://cache.pttweb.cc/imgur/XtBrpz3/s/bcabff10aefe53c1e446992d50c8649b"
+    },
+    {
+      "recommendScore": "64",
+      "recommendCount": "100",
+      "title": "[妮姬] 拆包雷",
+      "link": "/bbs/C_Chat/M.1770826830.A.5FE",
+      "author": "serding",
+      "board": "C_Chat",
+      "publishTime": "2026/02/11 16:20",
+      "imageUrl": "https://cache.pttweb.cc/imgur/qvyW6Vv/s/d5226a84a18b6683e8fcbf881cc33e0b"
+    },
+    {
+      "recommendScore": "57",
+      "recommendCount": "89",
+      "title": "[鳴潮]鳴潮文案：像滾雪球 把創意越滾越大",
+      "link": "/bbs/C_Chat/M.1770815108.A.8B8",
+      "author": "gininder",
+      "board": "C_Chat",
+      "publishTime": "2026/02/11 13:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "44",
+      "recommendCount": "63",
+      "title": "[鳴潮] 專訪李松倫！對鳴潮玩家想說的話",
+      "link": "/bbs/C_Chat/M.1770817843.A.E07",
+      "author": "jorden0804",
+      "board": "C_Chat",
+      "publishTime": "2026/02/11 13:50",
+      "imageUrl": ""
     }
   ]
 }
