@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-12T15:29:02.104Z",
+  "updated": "2026-02-12T15:51:38.348Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -11,6 +11,16 @@
       "author": "william8403",
       "board": "Gossiping",
       "publishTime": "2026/02/12 06:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "225",
+      "recommendCount": "314",
+      "title": "[新聞] 鈊象1月獲利創新高 法人給予900目標價",
+      "link": "/bbs/Baseball/M.1770891308.A.DFC",
+      "author": "pukokimo",
+      "board": "Baseball",
+      "publishTime": "2026/02/12 10:15",
       "imageUrl": ""
     },
     {
@@ -41,16 +51,6 @@
       "author": "st210113",
       "board": "Gossiping",
       "publishTime": "2026/02/12 08:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "153",
-      "recommendCount": "190",
-      "title": "[情報] 卡仔 右手鉤狀骨骨折 將缺席經典賽",
-      "link": "/bbs/Baseball/M.1770823817.A.529",
-      "author": "Axwell",
-      "board": "Baseball",
-      "publishTime": "2026/02/11 15:30",
       "imageUrl": ""
     },
     {
@@ -101,6 +101,16 @@
       "author": "holiybo",
       "board": "Gossiping",
       "publishTime": "2026/02/12 06:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "861",
+      "recommendCount": "1478",
+      "title": "[討論] [Vtub] Hololive 晚間直播單 (1150212)",
+      "link": "/bbs/C_Chat/M.1770893061.A.803",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2026/02/12 10:44",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/02/12 10:15",
       "imageUrl": "https://cache.pttweb.cc/imgur/B2J9uVj/s/069e746cdf87b31d99cf08802be96dae"
-    },
-    {
-      "recommendScore": "72",
-      "recommendCount": "119",
-      "title": "[請益] 有人抱台指期過年嗎？",
-      "link": "/bbs/Stock/M.1770859702.A.0F1",
-      "author": "laure",
-      "board": "Stock",
-      "publishTime": "2026/02/12 01:28",
-      "imageUrl": ""
     }
   ]
 }
