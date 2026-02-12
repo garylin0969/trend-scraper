@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-12T15:51:38.348Z",
+  "updated": "2026-02-12T16:13:17.621Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -41,6 +41,16 @@
       "author": "ririkasos",
       "board": "C_Chat",
       "publishTime": "2026/02/11 23:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "232",
+      "recommendCount": "310",
+      "title": "[閒聊] D2r新職業 術士",
+      "link": "/bbs/DIABLO/M.1770847798.A.EBE",
+      "author": "RisingTackle",
+      "board": "DIABLO",
+      "publishTime": "2026/02/11 22:09",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "Baseball",
       "publishTime": "2026/02/12 07:47",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "76",
-      "recommendCount": "130",
-      "title": "[爆卦] 政府沒在打詐對吧？",
-      "link": "/bbs/Gossiping/M.1770891352.A.44B",
-      "author": "johnps",
-      "board": "Gossiping",
-      "publishTime": "2026/02/12 10:15",
-      "imageUrl": "https://cache.pttweb.cc/imgur/B2J9uVj/s/069e746cdf87b31d99cf08802be96dae"
     }
   ]
 }
