@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-12T18:29:46.859Z",
+  "updated": "2026-02-12T18:53:56.727Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -91,6 +91,16 @@
       "author": "wellwed",
       "board": "Gossiping",
       "publishTime": "2026/02/12 09:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "118",
+      "recommendCount": "177",
+      "title": "[新聞] SPC-台灣隊中心打線拉警報！林安可春訓",
+      "link": "/bbs/Baseball/M.1770882438.A.7E6",
+      "author": "polanco",
+      "board": "Baseball",
+      "publishTime": "2026/02/12 07:47",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "LABOYS",
       "board": "C_Chat",
       "publishTime": "2026/02/12 07:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "80",
-      "recommendCount": "122",
-      "title": "[問卦] 今天威力彩得主會是甚麼職業?",
-      "link": "/bbs/Gossiping/M.1770880533.A.408",
-      "author": "keyman616",
-      "board": "Gossiping",
-      "publishTime": "2026/02/12 07:15",
       "imageUrl": ""
     }
   ]
