@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-12T22:24:43.672Z",
+  "updated": "2026-02-12T22:44:42.476Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -61,6 +61,16 @@
       "author": "alan129",
       "board": "NBA",
       "publishTime": "2026/02/12 05:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "64",
+      "recommendCount": "693",
+      "title": "[新聞] 行政院：限李貞秀明天前交放棄中國籍證明",
+      "link": "/bbs/Gossiping/M.1770909512.A.7E4",
+      "author": "lunli924",
+      "board": "Gossiping",
+      "publishTime": "2026/02/12 15:18",
       "imageUrl": ""
     },
     {
@@ -154,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "75",
+      "recommendCount": "185",
+      "title": "[新聞] 七寶媽爆又懷孕！自曝是「學霸」最強外語大學畢業　唯一專長：生小孩",
+      "link": "/bbs/Gossiping/M.1770904942.A.AFA",
+      "author": "blue999",
+      "board": "Gossiping",
+      "publishTime": "2026/02/12 14:02",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "808",
       "recommendCount": "1478",
       "title": "[討論] [Vtub] Hololive 晚間直播單 (1150212)",
@@ -181,26 +201,6 @@
       "author": "zakijudelo",
       "board": "Gossiping",
       "publishTime": "2026/02/11 23:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "94",
-      "recommendCount": "160",
-      "title": "[新聞] 福岡6學生家政課食用「太多鹽」披薩送醫",
-      "link": "/bbs/C_Chat/M.1770880014.A.BCC",
-      "author": "LABOYS",
-      "board": "C_Chat",
-      "publishTime": "2026/02/12 07:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "80",
-      "recommendCount": "122",
-      "title": "[問卦] 今天威力彩得主會是甚麼職業?",
-      "link": "/bbs/Gossiping/M.1770880533.A.408",
-      "author": "keyman616",
-      "board": "Gossiping",
-      "publishTime": "2026/02/12 07:15",
       "imageUrl": ""
     }
   ]
