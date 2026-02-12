@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-12T13:04:20.653Z",
+  "updated": "2026-02-12T13:42:46.400Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,18 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "163",
-      "recommendCount": "493",
-      "title": "[問卦] 脆：看完這張圖卡 你就會支持新式核能",
-      "link": "/bbs/Gossiping/M.1770815284.A.B24",
-      "author": "newpasta",
-      "board": "Gossiping",
-      "publishTime": "2026/02/11 13:08",
-      "imageUrl": "https://cache.pttweb.cc/imgur/dInIZ47/s/9ef31221c295dc0f72da60fa56b5b238"
-    },
-    {
-      "recommendScore": "159",
-      "recommendCount": "331",
+      "recommendScore": "165",
+      "recommendCount": "340",
       "title": "[花邊] Curry留言挺Kuminga",
       "link": "/bbs/NBA/M.1770860038.A.A48",
       "author": "dragon803",
@@ -51,16 +41,6 @@
       "author": "ririkasos",
       "board": "C_Chat",
       "publishTime": "2026/02/11 23:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "157",
-      "recommendCount": "264",
-      "title": "[情報] 美國非農就業數據",
-      "link": "/bbs/Stock/M.1770817193.A.4B3",
-      "author": "c259888",
-      "board": "Stock",
-      "publishTime": "2026/02/11 13:39",
       "imageUrl": ""
     },
     {
@@ -114,16 +94,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "60",
-      "recommendCount": "172",
-      "title": "[新聞] 謝金河：馬年迎來兩大順風車 台股今年喜氣洋洋",
-      "link": "/bbs/Stock/M.1770816145.A.6A7",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2026/02/11 13:22",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "69",
       "recommendCount": "231",
       "title": "[問卦]脆熱議:員工領年終、帶薪假後無縫離職",
@@ -144,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "103",
-      "recommendCount": "275",
-      "title": "[分享] 李杜軒threads",
-      "link": "/bbs/Baseball/M.1770817130.A.EB3",
-      "author": "GTstudio",
-      "board": "Baseball",
-      "publishTime": "2026/02/11 13:38",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "91",
       "recommendCount": "177",
       "title": "[新聞] 不甩勞動部　泰博開除工會全數幹部",
@@ -161,6 +121,16 @@
       "author": "NEDYA",
       "board": "Gossiping",
       "publishTime": "2026/02/12 01:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "107",
+      "recommendCount": "138",
+      "title": "[分享] Guerrero Jr.：大谷還好，但山本是真的猛",
+      "link": "/bbs/Baseball/M.1770881464.A.55B",
+      "author": "LABOYS",
+      "board": "Baseball",
+      "publishTime": "2026/02/12 07:31",
       "imageUrl": ""
     },
     {
@@ -202,6 +172,36 @@
       "board": "Gossiping",
       "publishTime": "2026/02/12 00:23",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "65",
+      "recommendCount": "139",
+      "title": "[新聞] 龔明鑫：美進口車將取代歐洲車 而非國產車",
+      "link": "/bbs/Stock/M.1770855204.A.A3C",
+      "author": "a5687920",
+      "board": "Stock",
+      "publishTime": "2026/02/12 00:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "83",
+      "recommendCount": "119",
+      "title": "[新聞] SPC-台灣隊中心打線拉警報！林安可春訓",
+      "link": "/bbs/Baseball/M.1770882438.A.7E6",
+      "author": "polanco",
+      "board": "Baseball",
+      "publishTime": "2026/02/12 07:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "76",
+      "recommendCount": "130",
+      "title": "[爆卦] 政府沒在打詐對吧？",
+      "link": "/bbs/Gossiping/M.1770891352.A.44B",
+      "author": "johnps",
+      "board": "Gossiping",
+      "publishTime": "2026/02/12 10:15",
+      "imageUrl": "https://cache.pttweb.cc/imgur/B2J9uVj/s/069e746cdf87b31d99cf08802be96dae"
     }
   ]
 }
