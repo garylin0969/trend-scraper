@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-12T10:30:15.981Z",
+  "updated": "2026-02-12T10:52:23.120Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -81,6 +81,16 @@
       "author": "a5687920",
       "board": "Gossiping",
       "publishTime": "2026/02/12 00:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "141",
+      "recommendCount": "206",
+      "title": "[新聞] 50歲大叔粉突消失！女星憂「孤獨死」率眾衝警局報案　結局神展開",
+      "link": "/bbs/Gossiping/M.1770888016.A.9B6",
+      "author": "wellwed",
+      "board": "Gossiping",
+      "publishTime": "2026/02/12 09:20",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "Akun",
       "board": "C_Chat",
       "publishTime": "2026/02/12 00:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "137",
-      "recommendCount": "390",
-      "title": "[LIVE] NBA 底特律活塞 @ 多倫多暴龍  場中",
-      "link": "/bbs/SportLottery/M.1770855677.A.8D6",
-      "author": "ys2266",
-      "board": "SportLottery",
-      "publishTime": "2026/02/12 00:21",
       "imageUrl": ""
     }
   ]
