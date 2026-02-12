@@ -1,8 +1,18 @@
 {
-  "updated": "2026-02-12T11:37:23.359Z",
+  "updated": "2026-02-12T11:56:07.934Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "231",
+      "recommendCount": "512",
+      "title": "[新聞] 80歲老媽媽殺癱瘓兒　賴清德農曆年前批示特赦",
+      "link": "/bbs/Gossiping/M.1770876797.A.FD1",
+      "author": "william8403",
+      "board": "Gossiping",
+      "publishTime": "2026/02/12 06:13",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "303",
       "recommendCount": "314",
@@ -94,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "116",
+      "recommendCount": "182",
+      "title": "[問卦] 新核能 哪家公司有機會？",
+      "link": "/bbs/Gossiping/M.1770882178.A.3C4",
+      "author": "freertos",
+      "board": "Gossiping",
+      "publishTime": "2026/02/12 07:42",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "60",
       "recommendCount": "172",
       "title": "[新聞] 謝金河：馬年迎來兩大順風車 台股今年喜氣洋洋",
@@ -112,6 +132,16 @@
       "board": "Gossiping",
       "publishTime": "2026/02/12 00:48",
       "imageUrl": "https://cache.pttweb.cc/imgur/us3sF4S/s/5b330626c07a43007221d696702408e4"
+    },
+    {
+      "recommendScore": "111",
+      "recommendCount": "425",
+      "title": "[問卦] 中國一個家庭月收5000以下佔94% ?!",
+      "link": "/bbs/Gossiping/M.1770878511.A.92E",
+      "author": "holiybo",
+      "board": "Gossiping",
+      "publishTime": "2026/02/12 06:41",
+      "imageUrl": ""
     },
     {
       "recommendScore": "103",
@@ -144,6 +174,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "94",
+      "recommendCount": "160",
+      "title": "[新聞] 福岡6學生家政課食用「太多鹽」披薩送醫",
+      "link": "/bbs/C_Chat/M.1770880014.A.BCC",
+      "author": "LABOYS",
+      "board": "C_Chat",
+      "publishTime": "2026/02/12 07:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "80",
+      "recommendCount": "122",
+      "title": "[問卦] 今天威力彩得主會是甚麼職業?",
+      "link": "/bbs/Gossiping/M.1770880533.A.408",
+      "author": "keyman616",
+      "board": "Gossiping",
+      "publishTime": "2026/02/12 07:15",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "89",
       "recommendCount": "152",
       "title": "[新聞] 捷運站都聞到！臭豆腐名店插旗北市惹怨",
@@ -151,56 +201,6 @@
       "author": "whj0530",
       "board": "Gossiping",
       "publishTime": "2026/02/12 00:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "65",
-      "recommendCount": "136",
-      "title": "[新聞] 龔明鑫：美進口車將取代歐洲車 而非國產車",
-      "link": "/bbs/Stock/M.1770855204.A.A3C",
-      "author": "a5687920",
-      "board": "Stock",
-      "publishTime": "2026/02/12 00:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "105",
-      "recommendCount": "229",
-      "title": "[新聞] 爆鄭麗文、張顯耀「擋下藍版軍購條例」親藍粉專點名怒轟：可以放過大家了嗎",
-      "link": "/bbs/HatePolitics/M.1770814153.A.BAC",
-      "author": "LeeSeDol",
-      "board": "HatePolitics",
-      "publishTime": "2026/02/11 12:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "29",
-      "recommendCount": "349",
-      "title": "Re: [爆卦] 大陸可回收火箭成功",
-      "link": "/bbs/Gossiping/M.1770855023.A.2A1",
-      "author": "krousxchen",
-      "board": "Gossiping",
-      "publishTime": "2026/02/12 00:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "68",
-      "recommendCount": "112",
-      "title": "[請益] 有人抱台指期過年嗎？",
-      "link": "/bbs/Stock/M.1770859702.A.0F1",
-      "author": "laure",
-      "board": "Stock",
-      "publishTime": "2026/02/12 01:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "74",
-      "recommendCount": "113",
-      "title": "[閒聊] Cos死亡筆記本角色並寫上高市早苗的名字",
-      "link": "/bbs/C_Chat/M.1770855988.A.CA5",
-      "author": "Akun",
-      "board": "C_Chat",
-      "publishTime": "2026/02/12 00:26",
       "imageUrl": ""
     }
   ]
