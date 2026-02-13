@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-13T12:34:22.179Z",
+  "updated": "2026-02-13T13:02:25.870Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "87",
+      "recommendCount": "201",
+      "title": "[外絮] CFO Chawy：基本功有問題要慢慢解決",
+      "link": "/bbs/LoL/M.1770979395.A.8B7",
+      "author": "www846www",
+      "board": "LoL",
+      "publishTime": "2026/02/13 10:43",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "72",
       "recommendCount": "127",
       "title": "[閒聊] 買「半價」的商品會很丟臉嗎？",
@@ -134,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "91",
+      "recommendCount": "286",
+      "title": "[鳴潮] 3.1抄襲鐵道又是什麼梗",
+      "link": "/bbs/C_Chat/M.1770979690.A.F99",
+      "author": "sakurammsrx",
+      "board": "C_Chat",
+      "publishTime": "2026/02/13 10:48",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "30",
       "recommendCount": "123",
       "title": "[新聞] 竹科工程師轟「月薪3、4萬」一直出國玩可悲！兩派人戰翻",
@@ -181,26 +201,6 @@
       "author": "LeeSeDol",
       "board": "Gossiping",
       "publishTime": "2026/02/13 04:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "56",
-      "recommendCount": "107",
-      "title": "[情報] 角川出版事業營利暴跌90% 動畫虧損",
-      "link": "/bbs/C_Chat/M.1770904339.A.BD7",
-      "author": "GTES",
-      "board": "C_Chat",
-      "publishTime": "2026/02/12 13:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "9",
-      "recommendCount": "83",
-      "title": "[新聞] 賴清德宣布成立「國家經濟戰略指導小組」親自領軍推動台灣經濟發展",
-      "link": "/bbs/Gossiping/M.1770957294.A.C97",
-      "author": "axsd",
-      "board": "Gossiping",
-      "publishTime": "2026/02/13 04:34",
       "imageUrl": ""
     }
   ]
