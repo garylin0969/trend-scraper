@@ -1,14 +1,22 @@
 {
-  "updated": "2026-02-13T03:18:54.452Z",
+  "updated": "2026-02-13T04:29:46.647Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-02-13T03:18:49.000Z",
+    "lastBuildDate": "2026-02-13T04:29:41.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "習近平罕見提及近期解放軍清洗行動  「在反腐敗鬥爭中經受革命性鍛造」",
+      "description": "習近平說，解放軍已「有效應對各種風險挑戰」，許多軍中人員經歷了「政治整訓」。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4g0xgydnx4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-13T03:45:48.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4g0xgydnx4o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9907/live/cdfad880-07c0-11f1-9221-011c6b3116bc.jpg"
+    },
     {
       "title": "台灣Z世代：我們到廟裡「拜月老」求K-pop演唱會門票",
       "description": "台灣年輕追星族興起一股新風潮：到廟裡「拜月老」求演唱會門票。他們認真地奉上供品和偶像週邊產品，希望神明賜他們與偶像相見的緣分。有受訪者說，現在的演唱會售票變數多，「真的很看運氣，只能相信玄學」。",
@@ -32,14 +40,6 @@
       "pubDate": "2026-02-13T00:22:18.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c39wl8lj9v8o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4af4/live/f7fd7120-07ab-11f1-9f34-f95ba60a83c9.jpg"
-    },
-    {
-      "title": "德黑蘭現場，不滿與反抗陰影下的伊朗革命週年集會",
-      "description": "我們聽到有人在室內的安全空間裡大喊「獨裁者去死」。官方集會現場則有人高喊「美國去死」、「以色列去死」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn0e1z07zl4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-12T03:06:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn0e1z07zl4o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c799/live/8c659810-075c-11f1-b5e2-dd58fc65f0f6.jpg"
     },
     {
       "title": "你成長的地方如何影響你的個性?",
@@ -66,6 +66,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4dc2/live/bcf715e0-0661-11f1-9972-d3f265c101c6.png"
     },
     {
+      "title": "德黑蘭現場，不滿與反抗陰影下的伊朗革命週年集會",
+      "description": "我們聽到有人在室內的安全空間裡大喊「獨裁者去死」。官方集會現場則有人高喊「美國去死」、「以色列去死」。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn0e1z07zl4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-12T03:06:25.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn0e1z07zl4o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c799/live/8c659810-075c-11f1-b5e2-dd58fc65f0f6.jpg"
+    },
+    {
       "title": "荷蘭人喜歡每週工作四天，但這可持續嗎？",
       "description": "荷蘭的工時是歐洲最低，但有些人認為這正在損害其經濟。",
       "link": "https://www.bbc.com/zhongwen/articles/cgmlvzw13r1o/trad?at_medium=RSS&at_campaign=rss",
@@ -80,14 +88,6 @@
       "pubDate": "2026-02-12T09:11:28.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/crm8zd2y9vmo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/08f0/live/970776f0-0746-11f1-9898-9dd6a5a3456b.jpg"
-    },
-    {
-      "title": "AI機器人會真的愛上你嗎？",
-      "description": "聊天機器人可以為你寫一首過得去的情詩，甚至有人對AI產生浪漫情感。但這份感覺會是雙向的嗎？",
-      "link": "https://www.bbc.com/zhongwen/articles/ckgzvd4l8ddo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-12T00:23:13.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckgzvd4l8ddo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f231/live/c4a5bca0-0720-11f1-b7e1-afb6d0884c18.jpg"
     },
     {
       "title": "被遺棄的油輪，陰影下的世界",
@@ -282,20 +282,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8fb0/live/59d9de60-01a8-11f1-b6ab-2307e83ecd56.jpg"
     },
     {
+      "title": "AI機器人會真的愛上你嗎？",
+      "description": "聊天機器人可以為你寫一首過得去的情詩，甚至有人對AI產生浪漫情感。但這份感覺會是雙向的嗎？",
+      "link": "https://www.bbc.com/zhongwen/articles/ckgzvd4l8ddo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-12T00:23:13.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckgzvd4l8ddo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f231/live/c4a5bca0-0720-11f1-b7e1-afb6d0884c18.jpg"
+    },
+    {
       "title": "冬奧組委會調查獎牌破損背後的原因",
       "description": "2026年米蘭-科爾蒂納冬奧會組委會表示，在多名運動員的獎牌出現問題後，他們「高度重視」並正調查獎牌破損的原因。",
       "link": "https://www.bbc.com/zhongwen/articles/c8r1den8mr5o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-02-10T07:25:57.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c8r1den8mr5o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f5dd/live/61cc2d70-064f-11f1-9972-d3f265c101c6.jpg"
-    },
-    {
-      "title": "奢華旅遊升溫  飛機製造商瞄準亞洲超級富豪",
-      "description": "航空業的部分領域正在轉向富裕客戶，並銷售更豪華的國際旅行服務。",
-      "link": "https://www.bbc.com/zhongwen/articles/clyg3eydq59o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-09T02:30:48.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/clyg3eydq59o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c8ce/live/fccadc10-0558-11f1-9972-d3f265c101c6.jpg"
     },
     {
       "title": "科學家發現雞一般大小的「袖珍」恐龍",
