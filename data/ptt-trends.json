@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-13T01:37:22.318Z",
+  "updated": "2026-02-13T02:33:24.536Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -21,16 +21,6 @@
       "author": "pukokimo",
       "board": "Baseball",
       "publishTime": "2026/02/12 10:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "165",
-      "recommendCount": "340",
-      "title": "[花邊] Curry留言挺Kuminga",
-      "link": "/bbs/NBA/M.1770860038.A.A48",
-      "author": "dragon803",
-      "board": "NBA",
-      "publishTime": "2026/02/12 01:33",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "SportLottery",
       "publishTime": "2026/02/12 12:11",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "76",
+      "recommendCount": "130",
+      "title": "[爆卦] 政府沒在打詐對吧？",
+      "link": "/bbs/Gossiping/M.1770891352.A.44B",
+      "author": "johnps",
+      "board": "Gossiping",
+      "publishTime": "2026/02/12 10:15",
+      "imageUrl": "https://cache.pttweb.cc/imgur/B2J9uVj/s/069e746cdf87b31d99cf08802be96dae"
     }
   ]
 }
