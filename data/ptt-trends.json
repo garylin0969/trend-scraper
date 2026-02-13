@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-13T19:30:45.166Z",
+  "updated": "2026-02-13T19:49:52.648Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -22,6 +22,16 @@
       "board": "Gossiping",
       "publishTime": "2026/02/13 11:13",
       "imageUrl": "https://cache.pttweb.cc/imgur/XfIqGtB/s/220afebd8f5220093383a066e9167161"
+    },
+    {
+      "recommendScore": "516",
+      "recommendCount": "862",
+      "title": "[實況] 超負荷",
+      "link": "/bbs/LoL/M.1770982912.A.198",
+      "author": "AoyamaNanami",
+      "board": "LoL",
+      "publishTime": "2026/02/13 11:41",
+      "imageUrl": ""
     },
     {
       "recommendScore": "61",
@@ -64,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "105",
+      "recommendCount": "244",
+      "title": "[外絮] CFO Chawy：基本功有問題要慢慢解決",
+      "link": "/bbs/LoL/M.1770979395.A.8B7",
+      "author": "www846www",
+      "board": "LoL",
+      "publishTime": "2026/02/13 10:43",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "423",
       "recommendCount": "601",
       "title": "[討論] [Vtub] Hololive 晚間直播單 (1150213)",
@@ -94,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "87",
-      "recommendCount": "201",
-      "title": "[外絮] CFO Chawy：基本功有問題要慢慢解決",
-      "link": "/bbs/LoL/M.1770979395.A.8B7",
-      "author": "www846www",
-      "board": "LoL",
-      "publishTime": "2026/02/13 10:43",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "72",
       "recommendCount": "127",
       "title": "[閒聊] 買「半價」的商品會很丟臉嗎？",
@@ -121,6 +131,16 @@
       "author": "koy784512",
       "board": "C_Chat",
       "publishTime": "2026/02/13 07:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "54",
+      "recommendCount": "141",
+      "title": "[閒聊] 現在要怎麼評價chawy",
+      "link": "/bbs/LoL/M.1770978119.A.4FF",
+      "author": "algebraic",
+      "board": "LoL",
+      "publishTime": "2026/02/13 10:21",
       "imageUrl": ""
     },
     {
@@ -174,16 +194,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "44",
-      "recommendCount": "123",
-      "title": "[閒聊] 現在要怎麼評價chawy",
-      "link": "/bbs/LoL/M.1770978119.A.4FF",
-      "author": "algebraic",
-      "board": "LoL",
-      "publishTime": "2026/02/13 10:21",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "41",
       "recommendCount": "95",
       "title": "[問卦] 急!Gogoro現金將於今年內用罄,台灣人不幫",
@@ -191,16 +201,6 @@
       "author": "rick102233",
       "board": "Gossiping",
       "publishTime": "2026/02/13 12:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "9",
-      "recommendCount": "83",
-      "title": "[新聞] 賴清德宣布成立「國家經濟戰略指導小組」親自領軍推動台灣經濟發展",
-      "link": "/bbs/Gossiping/M.1770957294.A.C97",
-      "author": "axsd",
-      "board": "Gossiping",
-      "publishTime": "2026/02/13 04:34",
       "imageUrl": ""
     }
   ]
