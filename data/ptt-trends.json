@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-13T02:33:24.536Z",
+  "updated": "2026-02-13T03:35:10.907Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "188",
+      "recommendCount": "548",
+      "title": "[外絮] 鬍子：忠誠這件事過譽了",
+      "link": "/bbs/NBA/M.1770887277.A.FCA",
+      "author": "pneumo",
+      "board": "NBA",
+      "publishTime": "2026/02/12 09:07",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "99",
       "recommendCount": "271",
       "title": "[新聞] 快訊／新北少年割頸案定讞！「乾哥12年、乾妹11年」",
@@ -41,6 +51,16 @@
       "author": "alan129",
       "board": "NBA",
       "publishTime": "2026/02/12 05:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "165",
+      "recommendCount": "223",
+      "title": "[分享] Guerrero Jr.：大谷還好，但山本是真的猛",
+      "link": "/bbs/Baseball/M.1770881464.A.55B",
+      "author": "LABOYS",
+      "board": "Baseball",
+      "publishTime": "2026/02/12 07:31",
       "imageUrl": ""
     },
     {
@@ -154,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "107",
-      "recommendCount": "138",
-      "title": "[分享] Guerrero Jr.：大谷還好，但山本是真的猛",
-      "link": "/bbs/Baseball/M.1770881464.A.55B",
-      "author": "LABOYS",
-      "board": "Baseball",
-      "publishTime": "2026/02/12 07:31",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "94",
       "recommendCount": "160",
       "title": "[新聞] 福岡6學生家政課食用「太多鹽」披薩送醫",
@@ -192,16 +202,6 @@
       "board": "SportLottery",
       "publishTime": "2026/02/12 12:11",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "76",
-      "recommendCount": "130",
-      "title": "[爆卦] 政府沒在打詐對吧？",
-      "link": "/bbs/Gossiping/M.1770891352.A.44B",
-      "author": "johnps",
-      "board": "Gossiping",
-      "publishTime": "2026/02/12 10:15",
-      "imageUrl": "https://cache.pttweb.cc/imgur/B2J9uVj/s/069e746cdf87b31d99cf08802be96dae"
     }
   ]
 }
