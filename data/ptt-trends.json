@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-13T19:10:10.896Z",
+  "updated": "2026-02-13T19:30:45.166Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -52,6 +52,16 @@
       "board": "C_Chat",
       "publishTime": "2026/02/13 04:26",
       "imageUrl": "https://cache.pttweb.cc/imgur/b5GBhq7/s/790a864df517e919c79c52ab48915850"
+    },
+    {
+      "recommendScore": "235",
+      "recommendCount": "370",
+      "title": "[LIVE] 澳A 紐卡索噴射機 @ 伯斯光榮 場中",
+      "link": "/bbs/SportLottery/M.1770977780.A.B40",
+      "author": "ys2266",
+      "board": "SportLottery",
+      "publishTime": "2026/02/13 10:16",
+      "imageUrl": ""
     },
     {
       "recommendScore": "423",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/02/13 04:34",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "40",
-      "recommendCount": "93",
-      "title": "[爆卦] 歐洲議會否決「生理女才能懷孕」修正案",
-      "link": "/bbs/Gossiping/M.1770984512.A.D1C",
-      "author": "bluehttp",
-      "board": "Gossiping",
-      "publishTime": "2026/02/13 12:08",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Tcqi63C/s/2e0c8bdb12b19b8276daa89e88603538"
     }
   ]
 }
