@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-13T08:34:52.002Z",
+  "updated": "2026-02-13T08:58:26.127Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,16 +114,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/B2J9uVj/s/069e746cdf87b31d99cf08802be96dae"
     },
     {
-      "recommendScore": "71",
-      "recommendCount": "102",
-      "title": "[閒聊] Levi 實況觀戰 LCP 後光速下播",
-      "link": "/bbs/LoL/M.1770885773.A.645",
-      "author": "y12544",
-      "board": "LoL",
-      "publishTime": "2026/02/12 08:42",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "59",
       "recommendCount": "133",
       "title": "[新聞] 經典賽／韓國徵召4名混血球星惹議！韓媒憂：本土球員機會恐消失",
@@ -201,6 +191,16 @@
       "author": "yochiya",
       "board": "NBA",
       "publishTime": "2026/02/12 11:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "36",
+      "recommendCount": "101",
+      "title": "[新聞] 獨家／鳳山高中竟徵求10位女學生「伴遊」黃捷怒了：非常有問題",
+      "link": "/bbs/Gossiping/M.1770893449.A.313",
+      "author": "yu1164",
+      "board": "Gossiping",
+      "publishTime": "2026/02/12 10:50",
       "imageUrl": ""
     }
   ]
