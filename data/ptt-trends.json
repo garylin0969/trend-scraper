@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-13T11:21:22.320Z",
+  "updated": "2026-02-13T11:38:40.518Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -21,16 +21,6 @@
       "author": "blue999",
       "board": "Gossiping",
       "publishTime": "2026/02/12 14:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "272",
-      "recommendCount": "455",
-      "title": "[實況] 超負荷",
-      "link": "/bbs/LoL/M.1770895464.A.542",
-      "author": "NPttnoob",
-      "board": "LoL",
-      "publishTime": "2026/02/12 11:24",
       "imageUrl": ""
     },
     {
@@ -134,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "63",
-      "recommendCount": "109",
-      "title": "[問卦] 姬路城門票大暴漲 還值得去嗎 掛????????",
-      "link": "/bbs/Gossiping/M.1770895682.A.268",
-      "author": "heero0333",
-      "board": "Gossiping",
-      "publishTime": "2026/02/12 11:28",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "65",
       "recommendCount": "114",
       "title": "[情報] Jaren Jackson Jr.本季高機率報銷",
@@ -201,6 +181,26 @@
       "author": "lotterywin",
       "board": "SportLottery",
       "publishTime": "2026/02/12 15:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "38",
+      "recommendCount": "103",
+      "title": "[新聞] 柯文哲：軍購條例有道理當然會通過 不是綠白合而是讓台灣往前走",
+      "link": "/bbs/Gossiping/M.1770956286.A.9FA",
+      "author": "LeeSeDol",
+      "board": "Gossiping",
+      "publishTime": "2026/02/13 04:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "56",
+      "recommendCount": "107",
+      "title": "[情報] 角川出版事業營利暴跌90% 動畫虧損",
+      "link": "/bbs/C_Chat/M.1770904339.A.BD7",
+      "author": "GTES",
+      "board": "C_Chat",
+      "publishTime": "2026/02/12 13:52",
       "imageUrl": ""
     }
   ]
