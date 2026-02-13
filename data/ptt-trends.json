@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-13T05:07:10.692Z",
+  "updated": "2026-02-13T05:39:15.216Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "45",
+      "recommendCount": "160",
+      "title": "[閒聊] 支語真的入侵嚴重",
+      "link": "/bbs/C_Chat/M.1770956819.A.9EA",
+      "author": "mofass",
+      "board": "C_Chat",
+      "publishTime": "2026/02/13 04:26",
+      "imageUrl": "https://cache.pttweb.cc/imgur/b5GBhq7/s/790a864df517e919c79c52ab48915850"
+    },
+    {
       "recommendScore": "94",
       "recommendCount": "160",
       "title": "[新聞] 福岡6學生家政課食用「太多鹽」披薩送醫",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/02/12 10:15",
       "imageUrl": "https://cache.pttweb.cc/imgur/B2J9uVj/s/069e746cdf87b31d99cf08802be96dae"
-    },
-    {
-      "recommendScore": "71",
-      "recommendCount": "102",
-      "title": "[閒聊] Levi 實況觀戰 LCP 後光速下播",
-      "link": "/bbs/LoL/M.1770885773.A.645",
-      "author": "y12544",
-      "board": "LoL",
-      "publishTime": "2026/02/12 08:42",
-      "imageUrl": ""
     }
   ]
 }
