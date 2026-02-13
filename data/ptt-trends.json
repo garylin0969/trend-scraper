@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-13T15:26:17.334Z",
+  "updated": "2026-02-13T15:46:57.220Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,16 +44,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "55",
-      "recommendCount": "114",
-      "title": "[標的] 美股NFLX蛀牙價",
-      "link": "/bbs/Stock/M.1770910683.A.34E",
-      "author": "junior020486",
-      "board": "Stock",
-      "publishTime": "2026/02/12 15:38",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "87",
       "recommendCount": "201",
       "title": "[外絮] CFO Chawy：基本功有問題要慢慢解決",
@@ -72,16 +62,6 @@
       "board": "C_Chat",
       "publishTime": "2026/02/13 04:42",
       "imageUrl": "https://cache.pttweb.cc/imgur/lmqQTah/s/5be66780c737e349694d5183da9382f0"
-    },
-    {
-      "recommendScore": "76",
-      "recommendCount": "137",
-      "title": "[咒術] 咒術Modulo 22  兩張圖",
-      "link": "/bbs/C_Chat/M.1770911141.A.538",
-      "author": "diesea08",
-      "board": "C_Chat",
-      "publishTime": "2026/02/12 15:45",
-      "imageUrl": ""
     },
     {
       "recommendScore": "71",
@@ -201,6 +181,26 @@
       "author": "LawLawDer",
       "board": "C_Chat",
       "publishTime": "2026/02/13 08:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "40",
+      "recommendCount": "73",
+      "title": "[新聞] 女客戶嫌掃不乾淨「一直碎唸」清潔工爬牆性侵她　重判10年8月",
+      "link": "/bbs/Gossiping/M.1770971457.A.719",
+      "author": "hito0509",
+      "board": "Gossiping",
+      "publishTime": "2026/02/13 08:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "33",
+      "recommendCount": "117",
+      "title": "[新聞] 李貞秀授權陸委會代辦「放棄國籍」　梁文傑約見被拒！",
+      "link": "/bbs/Gossiping/M.1770969927.A.CDE",
+      "author": "finalvent33",
+      "board": "Gossiping",
+      "publishTime": "2026/02/13 08:05",
       "imageUrl": ""
     }
   ]
