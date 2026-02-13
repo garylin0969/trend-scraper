@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-13T10:24:51.290Z",
+  "updated": "2026-02-13T10:46:49.423Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -21,16 +21,6 @@
       "author": "blue999",
       "board": "Gossiping",
       "publishTime": "2026/02/12 14:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "808",
-      "recommendCount": "1478",
-      "title": "[討論] [Vtub] Hololive 晚間直播單 (1150212)",
-      "link": "/bbs/C_Chat/M.1770893061.A.803",
-      "author": "laptic",
-      "board": "C_Chat",
-      "publishTime": "2026/02/12 10:44",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "EZ78",
       "board": "NBA",
       "publishTime": "2026/02/12 16:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "71",
+      "recommendCount": "143",
+      "title": "[手遊] GungHo龍族拼圖營收下滑，營利重挫71%",
+      "link": "/bbs/C_Chat/M.1770972207.A.8E1",
+      "author": "SuperSg",
+      "board": "C_Chat",
+      "publishTime": "2026/02/13 08:43",
       "imageUrl": ""
     }
   ]
