@@ -1,18 +1,8 @@
 {
-  "updated": "2026-02-13T16:04:56.355Z",
+  "updated": "2026-02-13T16:25:45.326Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "107",
-      "recommendCount": "134",
-      "title": "[閒聊] 中華一番 極 195 一人三化",
-      "link": "/bbs/C_Chat/M.1770912335.A.800",
-      "author": "chan324",
-      "board": "C_Chat",
-      "publishTime": "2026/02/12 16:05",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "45",
       "recommendCount": "160",
@@ -71,16 +61,6 @@
       "author": "koy784512",
       "board": "C_Chat",
       "publishTime": "2026/02/13 07:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "65",
-      "recommendCount": "114",
-      "title": "[情報] Jaren Jackson Jr.本季高機率報銷",
-      "link": "/bbs/NBA/M.1770912267.A.334",
-      "author": "EZ78",
-      "board": "NBA",
-      "publishTime": "2026/02/12 16:04",
       "imageUrl": ""
     },
     {
@@ -164,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "53",
-      "recommendCount": "78",
-      "title": "[問卦] 好消息 好消息 小當家  復活了呀！！",
-      "link": "/bbs/Gossiping/M.1770912774.A.F75",
-      "author": "Alberta99170",
-      "board": "Gossiping",
-      "publishTime": "2026/02/12 16:12",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "78",
       "recommendCount": "207",
       "title": "[閒聊] 終末地 怎麼104名了",
@@ -201,6 +171,36 @@
       "author": "finalvent33",
       "board": "Gossiping",
       "publishTime": "2026/02/13 08:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "18",
+      "recommendCount": "76",
+      "title": "[新聞] 18歲中8.5億！威力彩最年輕得主「拿錢幹大事」出國留學 努力提升自己",
+      "link": "/bbs/Gossiping/M.1770956238.A.A54",
+      "author": "wellwed",
+      "board": "Gossiping",
+      "publishTime": "2026/02/13 04:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "28",
+      "recommendCount": "66",
+      "title": "[新聞] 台南正副議長賄選案二審宣判 邱莉莉等9被告仍無罪",
+      "link": "/bbs/Gossiping/M.1770967149.A.5F1",
+      "author": "Taiwan007",
+      "board": "Gossiping",
+      "publishTime": "2026/02/13 07:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "47",
+      "recommendCount": "63",
+      "title": "[閒聊]等等GZ打CFO怎麼看",
+      "link": "/bbs/LoL/M.1770955969.A.E44",
+      "author": "nelson9461",
+      "board": "LoL",
+      "publishTime": "2026/02/13 04:12",
       "imageUrl": ""
     }
   ]
