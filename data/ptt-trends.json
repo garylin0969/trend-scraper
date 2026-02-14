@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-14T15:22:37.775Z",
+  "updated": "2026-02-14T15:40:22.563Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,6 +124,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "87",
+      "recommendCount": "169",
+      "title": "[閒聊] 要當Zeka還是當Chovy",
+      "link": "/bbs/LoL/M.1771071061.A.251",
+      "author": "jlun4mdn12",
+      "board": "LoL",
+      "publishTime": "2026/02/14 12:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "83",
+      "recommendCount": "91",
+      "title": "[閒聊] 再也沒有蛆哥這麼孝順的兒子了",
+      "link": "/bbs/LoL/M.1771070322.A.B2E",
+      "author": "qaz80691",
+      "board": "LoL",
+      "publishTime": "2026/02/14 11:58",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "93",
       "recommendCount": "184",
       "title": "[分享] 韓媒: 娛樂城距離球員的飯店步行6分鐘",
@@ -181,26 +201,6 @@
       "author": "LBJnot1to7",
       "board": "NBA",
       "publishTime": "2026/02/14 06:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "44",
-      "recommendCount": "149",
-      "title": "[討論] 32:0到底教會了青鳥什麼?",
-      "link": "/bbs/HatePolitics/M.1771063948.A.AA8",
-      "author": "davidwales",
-      "board": "HatePolitics",
-      "publishTime": "2026/02/14 10:12",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "54",
-      "recommendCount": "82",
-      "title": "[中國] 豊川祥子生日應援為了不下架說是方舟腳色",
-      "link": "/bbs/C_Chat/M.1771059655.A.720",
-      "author": "w790818",
-      "board": "C_Chat",
-      "publishTime": "2026/02/14 09:00",
       "imageUrl": ""
     }
   ]
