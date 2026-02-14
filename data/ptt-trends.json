@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-14T07:50:59.481Z",
+  "updated": "2026-02-14T08:00:11.169Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "71",
-      "recommendCount": "144",
-      "title": "[鐵道] 爻光卡池第一波營收",
-      "link": "/bbs/C_Chat/M.1770969506.A.14C",
-      "author": "koy784512",
-      "board": "C_Chat",
-      "publishTime": "2026/02/13 07:58",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "54",
       "recommendCount": "141",
       "title": "[閒聊] 現在要怎麼評價chawy",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2026/02/13 12:08",
       "imageUrl": "https://cache.pttweb.cc/imgur/Tcqi63C/s/2e0c8bdb12b19b8276daa89e88603538"
+    },
+    {
+      "recommendScore": "48",
+      "recommendCount": "82",
+      "title": "[討論] 本日MVP",
+      "link": "/bbs/HatePolitics/M.1770982584.A.F01",
+      "author": "royaljing",
+      "board": "HatePolitics",
+      "publishTime": "2026/02/13 11:36",
+      "imageUrl": ""
     }
   ]
 }
