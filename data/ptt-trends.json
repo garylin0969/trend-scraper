@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-14T08:14:36.917Z",
+  "updated": "2026-02-14T08:32:26.848Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "125",
+      "recommendCount": "314",
+      "title": "[新聞] 樂天巨人道歉！認了4球員在台涉賭　立即強制返國、配合調查懲處",
+      "link": "/bbs/Baseball/M.1770992076.A.9C9",
+      "author": "WuSam",
+      "board": "Baseball",
+      "publishTime": "2026/02/13 14:14",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "423",
       "recommendCount": "601",
       "title": "[討論] [Vtub] Hololive 晚間直播單 (1150213)",
@@ -91,6 +101,16 @@
       "author": "laptic",
       "board": "C_Chat",
       "publishTime": "2026/02/13 10:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-1",
+      "recommendCount": "185",
+      "title": "[問題] 愛爾達提早開賣出包，被取消如何爭取權益",
+      "link": "/bbs/Baseball/M.1770976223.A.189",
+      "author": "blackmajisha",
+      "board": "Baseball",
+      "publishTime": "2026/02/13 09:50",
       "imageUrl": ""
     },
     {
@@ -121,6 +141,26 @@
       "author": "usnavyseal",
       "board": "Baseball",
       "publishTime": "2026/02/13 17:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "93",
+      "recommendCount": "184",
+      "title": "[分享] 韓媒: 娛樂城距離球員的飯店步行6分鐘",
+      "link": "/bbs/Baseball/M.1770997940.A.A2F",
+      "author": "usnavyseal",
+      "board": "Baseball",
+      "publishTime": "2026/02/13 15:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "98",
+      "recommendCount": "224",
+      "title": "[新聞] 樂天巨人球員被控來台賭博、性騷　台南警介入調查...結果曝光",
+      "link": "/bbs/Baseball/M.1770983561.A.D8F",
+      "author": "DDDDRR",
+      "board": "Baseball",
+      "publishTime": "2026/02/13 11:52",
       "imageUrl": ""
     },
     {
@@ -161,46 +201,6 @@
       "author": "SuperSg",
       "board": "C_Chat",
       "publishTime": "2026/02/13 08:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "28",
-      "recommendCount": "86",
-      "title": "[閒聊] 脆：傑憲ig退追台南JOSH",
-      "link": "/bbs/BaseballXXXX/M.1771000804.A.0B8",
-      "author": "alrin891202",
-      "board": "BaseballXXXX",
-      "publishTime": "2026/02/13 16:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "41",
-      "recommendCount": "95",
-      "title": "[問卦] 急!Gogoro現金將於今年內用罄,台灣人不幫",
-      "link": "/bbs/Gossiping/M.1770984303.A.1CF",
-      "author": "rick102233",
-      "board": "Gossiping",
-      "publishTime": "2026/02/13 12:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "40",
-      "recommendCount": "93",
-      "title": "[爆卦] 歐洲議會否決「生理女才能懷孕」修正案",
-      "link": "/bbs/Gossiping/M.1770984512.A.D1C",
-      "author": "bluehttp",
-      "board": "Gossiping",
-      "publishTime": "2026/02/13 12:08",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Tcqi63C/s/2e0c8bdb12b19b8276daa89e88603538"
-    },
-    {
-      "recommendScore": "48",
-      "recommendCount": "82",
-      "title": "[討論] 本日MVP",
-      "link": "/bbs/HatePolitics/M.1770982584.A.F01",
-      "author": "royaljing",
-      "board": "HatePolitics",
-      "publishTime": "2026/02/13 11:36",
       "imageUrl": ""
     }
   ]
