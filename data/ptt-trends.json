@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-14T09:57:36.605Z",
+  "updated": "2026-02-14T10:10:18.802Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -51,6 +51,16 @@
       "author": "oscarwu3041",
       "board": "HatePolitics",
       "publishTime": "2026/02/13 11:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "233",
+      "recommendCount": "438",
+      "title": "[LIVE] 足球 阿爾達夫拉 SSC @ 阿爾巴塔 場中",
+      "link": "/bbs/SportLottery/M.1770988841.A.A4B",
+      "author": "ys2266",
+      "board": "SportLottery",
+      "publishTime": "2026/02/13 13:20",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "wtf556687",
       "board": "Gossiping",
       "publishTime": "2026/02/13 10:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "71",
-      "recommendCount": "143",
-      "title": "[手遊] GungHo龍族拼圖營收下滑，營利重挫71%",
-      "link": "/bbs/C_Chat/M.1770972207.A.8E1",
-      "author": "SuperSg",
-      "board": "C_Chat",
-      "publishTime": "2026/02/13 08:43",
       "imageUrl": ""
     }
   ]
