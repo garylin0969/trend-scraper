@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-15T02:51:35.123Z",
+  "updated": "2026-02-15T03:48:39.862Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -21,6 +21,16 @@
       "author": "lotterywin",
       "board": "SportLottery",
       "publishTime": "2026/02/14 13:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "379",
+      "recommendCount": "390",
+      "title": "Re: [LIVE] 澳甲 阿德雷德聯 @ 雪梨FC 場中",
+      "link": "/bbs/SportLottery/M.1771114749.A.E41",
+      "author": "bvbin10242",
+      "board": "SportLottery",
+      "publishTime": "2026/02/15 00:19",
       "imageUrl": ""
     },
     {
@@ -154,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "53",
+      "recommendCount": "128",
+      "title": "[新聞] 台股拉警報！專家警告美股7巨頭集體翻車：最慘開年行情",
+      "link": "/bbs/Stock/M.1771112610.A.8EF",
+      "author": "keel90135",
+      "board": "Stock",
+      "publishTime": "2026/02/14 23:43",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "47",
       "recommendCount": "135",
       "title": "[新聞] 北市燈飾驚見「台灣省」城隍廟？他氣炸公審　真相曝光糗翻天",
@@ -174,33 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "66",
-      "recommendCount": "199",
-      "title": "[問卦] 誰說日本的飯店便宜的？？？",
-      "link": "/bbs/Gossiping/M.1771080331.A.0A9",
-      "author": "gn505250",
+      "recommendScore": "38",
+      "recommendCount": "262",
+      "title": "Re: [問卦] 誰說日本的飯店便宜的？？？",
+      "link": "/bbs/Gossiping/M.1771112873.A.D18",
+      "author": "xvited945",
       "board": "Gossiping",
-      "publishTime": "2026/02/14 14:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "86",
-      "recommendCount": "142",
-      "title": "[公告] 網軍boyo進桶 水桶",
-      "link": "/bbs/Gossiping/M.1771055332.A.53B",
-      "author": "August2006",
-      "board": "Gossiping",
-      "publishTime": "2026/02/14 07:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "53",
-      "recommendCount": "132",
-      "title": "[新聞] DeepSeek今年春節再爆「驚奇」？　官方披露正測試新模型結構",
-      "link": "/bbs/Stock/M.1771055584.A.7AA",
-      "author": "qazxc1156892",
-      "board": "Stock",
-      "publishTime": "2026/02/14 07:53",
+      "publishTime": "2026/02/14 23:47",
       "imageUrl": ""
     }
   ]
