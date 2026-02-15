@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-15T12:12:04.675Z",
+  "updated": "2026-02-15T12:33:44.169Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "275",
-      "recommendCount": "450",
-      "title": "[LIVE] 西甲 塞爾塔維戈@西班牙人 場中",
-      "link": "/bbs/SportLottery/M.1771072253.A.B59",
-      "author": "laylun",
-      "board": "SportLottery",
-      "publishTime": "2026/02/14 12:30",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "239",
       "recommendCount": "397",
       "title": "[LIVE] 西甲 比亞雷亞爾 @ 赫塔菲 場中",
@@ -201,6 +191,16 @@
       "author": "jeff1013",
       "board": "NBA",
       "publishTime": "2026/02/14 14:16",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "90",
+      "recommendCount": "114",
+      "title": "[花邊] 如果餘生電玩跟推特只能擇一 KD：電玩",
+      "link": "/bbs/NBA/M.1771123408.A.2FC",
+      "author": "jeff1013",
+      "board": "NBA",
+      "publishTime": "2026/02/15 02:43",
       "imageUrl": ""
     }
   ]
