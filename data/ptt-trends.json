@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-15T10:11:25.454Z",
+  "updated": "2026-02-15T10:25:35.182Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -82,16 +82,6 @@
       "board": "C_Chat",
       "publishTime": "2026/02/14 11:00",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "110",
-      "recommendCount": "238",
-      "title": "[問卦] 美國未成年殺人犯 被法官重判50年",
-      "link": "/bbs/Gossiping/M.1771064267.A.0BB",
-      "author": "GrimmNotes",
-      "board": "Gossiping",
-      "publishTime": "2026/02/14 10:17",
-      "imageUrl": "https://cache.pttweb.cc/imgur/NCYYVkB/s/864f2b22f69d7c4560ba95a691e5ebf8"
     },
     {
       "recommendScore": "76",
@@ -201,6 +191,16 @@
       "author": "Mikufans",
       "board": "NBA",
       "publishTime": "2026/02/15 02:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-44",
+      "recommendCount": "168",
+      "title": "[新聞] 所長爸聞判死跪謝 廢死聯盟推新書 執行長嘆：無人在意加害者處境",
+      "link": "/bbs/Gossiping/M.1771078619.A.E9C",
+      "author": "CREA",
+      "board": "Gossiping",
+      "publishTime": "2026/02/14 14:16",
       "imageUrl": ""
     }
   ]
