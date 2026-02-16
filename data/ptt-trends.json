@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-16T19:23:15.564Z",
+  "updated": "2026-02-16T19:43:00.550Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "197",
+      "recommendCount": "205",
+      "title": "[問卦] 祝大家新年快樂，願望成真(發錢)",
+      "link": "/bbs/Gossiping/M.1771257020.A.94D",
+      "author": "nobady98",
+      "board": "Gossiping",
+      "publishTime": "2026/02/16 15:50",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "347",
       "recommendCount": "626",
       "title": "[LIVE] KBL 高陽天槍 79-62 昌原LG獵鷹 (場中",
@@ -164,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "133",
+      "recommendCount": "157",
+      "title": "[地震] 地震？",
+      "link": "/bbs/Gossiping/M.1771266244.A.493",
+      "author": "kershaw1221",
+      "board": "Gossiping",
+      "publishTime": "2026/02/16 18:24",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "90",
       "recommendCount": "175",
       "title": "[問卦] 刮刮樂已經虧了2700了 還要胚嗎?",
@@ -181,26 +201,6 @@
       "author": "opppoo123",
       "board": "Gossiping",
       "publishTime": "2026/02/16 09:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "129",
-      "recommendCount": "140",
-      "title": "[活動] [一馬當先]運彩十關：來自板主的挑戰<2>",
-      "link": "/bbs/SportLottery/M.1771222161.A.A53",
-      "author": "shaoichou",
-      "board": "SportLottery",
-      "publishTime": "2026/02/16 06:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "237",
-      "recommendCount": "524",
-      "title": "[LIVE] KBL 蔚山@ 原州 （場中",
-      "link": "/bbs/SportLottery/M.1771227092.A.62E",
-      "author": "lotterywin",
-      "board": "SportLottery",
-      "publishTime": "2026/02/16 07:31",
       "imageUrl": ""
     }
   ]
