@@ -1,8 +1,18 @@
 {
-  "updated": "2026-02-17T23:10:06.336Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2026-02-17T23:24:08.526Z",
+  "total_found": 19,
+  "returned_count": 19,
   "articles": [
+    {
+      "recommendScore": "419",
+      "recommendCount": "650",
+      "title": "[問卦] 佛跳牆裡面踢掉一道菜踢誰",
+      "link": "/bbs/Gossiping/M.1771317754.A.087",
+      "author": "LCMODEL",
+      "board": "Gossiping",
+      "publishTime": "2026/02/17 08:42",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "237",
       "recommendCount": "495",
@@ -181,26 +191,6 @@
       "author": "arrenwu",
       "board": "C_Chat",
       "publishTime": "2026/02/17 05:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "110",
-      "recommendCount": "111",
-      "title": "[發錢] 新年快樂 雞狗抽中發錢",
-      "link": "/bbs/C_Chat/M.1771336384.A.4C2",
-      "author": "ryanlu428",
-      "board": "C_Chat",
-      "publishTime": "2026/02/17 13:53",
-      "imageUrl": "https://cache.pttweb.cc/imgur/2bndQnM/s/68f04c4f30079b7ba5ac6d8645947b0f"
-    },
-    {
-      "recommendScore": "37",
-      "recommendCount": "155",
-      "title": "[問卦]  機器人空翻能幹嘛？",
-      "link": "/bbs/Gossiping/M.1771319758.A.ADE",
-      "author": "uNFreeman",
-      "board": "Gossiping",
-      "publishTime": "2026/02/17 09:15",
       "imageUrl": ""
     }
   ]
