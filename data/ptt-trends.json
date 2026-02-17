@@ -1,8 +1,18 @@
 {
-  "updated": "2026-02-17T03:12:15.499Z",
+  "updated": "2026-02-17T04:06:08.673Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "382",
+      "recommendCount": "635",
+      "title": "[問卦] 包一千給晚輩，被罵哪有人包單數！",
+      "link": "/bbs/Gossiping/M.1771227451.A.DC6",
+      "author": "lauwei",
+      "board": "Gossiping",
+      "publishTime": "2026/02/16 07:37",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "467",
       "recommendCount": "502",
@@ -21,26 +31,6 @@
       "author": "leocean9816",
       "board": "Gossiping",
       "publishTime": "2026/02/16 04:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "214",
-      "recommendCount": "396",
-      "title": "[問卦] 田勝傑改名後現在在讀警專？",
-      "link": "/bbs/Gossiping/M.1771212698.A.0CB",
-      "author": "z36856",
-      "board": "Gossiping",
-      "publishTime": "2026/02/16 03:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "177",
-      "recommendCount": "452",
-      "title": "[新聞] 不滿割頸案乾哥妹輕判！楊父、民團預計3月上街 要求立法院修法",
-      "link": "/bbs/Gossiping/M.1771211645.A.C7F",
-      "author": "DDDDRR",
-      "board": "Gossiping",
-      "publishTime": "2026/02/16 03:14",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "shaoichou",
       "board": "SportLottery",
       "publishTime": "2026/02/16 06:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "237",
+      "recommendCount": "524",
+      "title": "[LIVE] KBL 蔚山@ 原州 （場中",
+      "link": "/bbs/SportLottery/M.1771227092.A.62E",
+      "author": "lotterywin",
+      "board": "SportLottery",
+      "publishTime": "2026/02/16 07:31",
       "imageUrl": ""
     }
   ]
