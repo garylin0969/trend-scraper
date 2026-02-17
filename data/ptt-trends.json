@@ -1,7 +1,7 @@
 {
-  "updated": "2026-02-17T05:46:41.182Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2026-02-17T06:10:17.726Z",
+  "total_found": 18,
+  "returned_count": 18,
   "articles": [
     {
       "recommendScore": "382",
@@ -11,16 +11,6 @@
       "author": "lauwei",
       "board": "Gossiping",
       "publishTime": "2026/02/16 07:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "467",
-      "recommendCount": "502",
-      "title": "Re: [LIVE] KBL 高陽天槍 @ 昌原LG獵鷹 (場中",
-      "link": "/bbs/SportLottery/M.1771221657.A.55A",
-      "author": "bvbin10242",
-      "board": "SportLottery",
-      "publishTime": "2026/02/16 06:00",
       "imageUrl": ""
     },
     {
@@ -41,16 +31,6 @@
       "author": "f655990",
       "board": "NBA",
       "publishTime": "2026/02/16 06:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "144",
-      "recommendCount": "313",
-      "title": "[問卦] 為啥黃暐瀚要一直幫中央解釋？",
-      "link": "/bbs/Gossiping/M.1771221395.A.E10",
-      "author": "mongi",
-      "board": "Gossiping",
-      "publishTime": "2026/02/16 05:56",
       "imageUrl": ""
     },
     {
@@ -164,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "55",
-      "recommendCount": "219",
-      "title": "[討論] 藍白怎麼一聽到取消美簽嚇成這樣？",
-      "link": "/bbs/HatePolitics/M.1771221090.A.121",
-      "author": "signm",
-      "board": "HatePolitics",
-      "publishTime": "2026/02/16 05:51",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "52",
       "recommendCount": "202",
       "title": "[討論] 感覺縣市長國民黨會選的很難看",
@@ -201,6 +171,16 @@
       "author": "LabMumi",
       "board": "Marginalman",
       "publishTime": "2026/02/16 12:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "94",
+      "recommendCount": "95",
+      "title": "[公告] 新年快樂",
+      "link": "/bbs/Bank_Service/M.1771249436.A.7F1",
+      "author": "jasome",
+      "board": "Bank_Service",
+      "publishTime": "2026/02/16 13:43",
       "imageUrl": ""
     }
   ]
