@@ -1,10 +1,10 @@
 {
-  "updated": "2026-02-18T06:10:01.576Z",
+  "updated": "2026-02-18T06:37:46.054Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-02-18T06:09:52.000Z",
+    "lastBuildDate": "2026-02-18T06:37:43.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -34,6 +34,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3807/live/5a99ca00-0bcf-11f1-b7e1-afb6d0884c18.jpg"
     },
     {
+      "title": "英國雙重國籍者的護照規則即將改變：他們將如何受影響？",
+      "description": "英國雙重國籍者警報！2月25日起新規定生效：僅持外國護照將無法入境英國！必須出示英國護照或入境權證書，否則恐被拒絕返國。已在英國生活多年的民眾向BBC表達不滿。",
+      "link": "https://www.bbc.com/zhongwen/articles/c743k2k13m3o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-18T06:17:12.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c743k2k13m3o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3ccd/live/05b6af50-0c0e-11f1-b5e2-dd58fc65f0f6.jpg"
+    },
+    {
       "title": "傑西·傑克遜如何為奧巴馬鋪路──並協助改變美國",
       "description": "傑西·傑克遜（Jesse Jackson）是1960年代美國民權運動的關鍵人物，以首位從社會運動躍升至主流政黨總統競選的非裔美國人而聞名。",
       "link": "https://www.bbc.com/zhongwen/articles/cz9qndg73x8o/trad?at_medium=RSS&at_campaign=rss",
@@ -46,7 +54,7 @@
       "description": "台灣興起「甄嬛熱」，過年期間大批觀眾在YouTube觀看馬拉松式直播。有趣的是，不少《甄嬛傳》忠實粉絲本身是「排斥中國」的「台獨支持者」，引發不同的文化和政治解讀。",
       "link": "https://www.bbc.com/zhongwen/articles/cd70eyjx2xzo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-02-17T07:20:06.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cd70eyjx2xzo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cd70eyjx2xzo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/58fa/live/cf3922c0-0bcf-11f1-b7e1-afb6d0884c18.png"
     },
     {
@@ -72,14 +80,6 @@
       "pubDate": "2026-02-17T06:35:03.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c3v7w507yq1o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e6f/live/ac6fcc90-0b60-11f1-b5e2-dd58fc65f0f6.png"
-    },
-    {
-      "title": "手機AI自動編輯你的照片，是否正在改變你看待現實的方式？",
-      "description": "從簡單的效果增強到幻覺般的人臉細節，現代手機決定了我們的回憶應該長什麼樣。你可能喜歡這些效果，但它們也可能改變我們看世界的方式。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx2g2yp0m4wo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-17T00:26:36.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx2g2yp0m4wo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9475/live/515f5060-033f-11f1-b7e1-afb6d0884c18.jpg"
     },
     {
       "title": "一文讀懂美國購買擴張領土的歷史",
@@ -282,20 +282,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8fb0/live/59d9de60-01a8-11f1-b6ab-2307e83ecd56.jpg"
     },
     {
+      "title": "手機AI自動編輯你的照片，是否正在改變你看待現實的方式？",
+      "description": "從簡單的效果增強到幻覺般的人臉細節，現代手機決定了我們的回憶應該長什麼樣。你可能喜歡這些效果，但它們也可能改變我們看世界的方式。",
+      "link": "https://www.bbc.com/zhongwen/articles/cx2g2yp0m4wo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-17T00:26:36.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx2g2yp0m4wo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9475/live/515f5060-033f-11f1-b7e1-afb6d0884c18.jpg"
+    },
+    {
       "title": "中國如何迷上人工增雨技術",
       "description": "中國希望越來越能控制何時何地下雨。其雄心勃勃的人工增雨（雲層播種）計劃為何如此具爭議性，它是否真的有效？",
       "link": "https://www.bbc.com/zhongwen/articles/c0ljzzdzn15o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-02-15T07:35:48.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c0ljzzdzn15o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/78df/live/828df520-0a32-11f1-96c8-11adc0f254a8.jpg"
-    },
-    {
-      "title": "科學家嘗試從真菌和廢料堆中尋找新的稀土解決方案",
-      "description": "真菌透過數以百萬計、類似根系的纖細菌絲汲取營養，某些真菌也會吸收其他物質——那些人類想要的東西。",
-      "link": "https://www.bbc.com/zhongwen/articles/cq57207v9pno/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-16T00:19:02.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cq57207v9pno/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4f89/live/c4697e40-07e1-11f1-b7e1-afb6d0884c18.jpg"
     },
     {
       "title": "性慾低落或消失——睪固酮療法能幫得上忙嗎? ",
