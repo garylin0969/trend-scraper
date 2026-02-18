@@ -1,8 +1,18 @@
 {
-  "updated": "2026-02-18T16:11:46.279Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2026-02-18T16:42:04.942Z",
+  "total_found": 19,
+  "returned_count": 19,
   "articles": [
+    {
+      "recommendScore": "398",
+      "recommendCount": "661",
+      "title": "[新聞] 有片／陳亭妃拜年話講一半　祀典武廟主委臉白狂吐「噴總統全身」",
+      "link": "/bbs/Gossiping/M.1771379661.A.642",
+      "author": "happyary",
+      "board": "Gossiping",
+      "publishTime": "2026/02/18 01:54",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "194",
       "recommendCount": "316",
@@ -104,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "73",
-      "recommendCount": "254",
-      "title": "[問卦] 初一聚餐遇到8+9的卦?",
-      "link": "/bbs/Gossiping/M.1771345673.A.A08",
-      "author": "zephyrhex",
-      "board": "Gossiping",
-      "publishTime": "2026/02/17 16:27",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "81",
       "recommendCount": "187",
       "title": "[問卦] 宮廟主委解釋：家裡有人諾羅 才嘔吐出來",
@@ -192,16 +192,6 @@
       "board": "Gossiping",
       "publishTime": "2026/02/18 07:20",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "94",
-      "recommendCount": "154",
-      "title": "[IM@S] 刪了吧 我朋友有點破防了",
-      "link": "/bbs/C_Chat/M.1771382571.A.093",
-      "author": "knight45683",
-      "board": "C_Chat",
-      "publishTime": "2026/02/18 02:42",
-      "imageUrl": "https://cache.pttweb.cc/imgur/6ATnHJR/s/63a0076bbe22a77a188a0dded5b7426a"
     }
   ]
 }
