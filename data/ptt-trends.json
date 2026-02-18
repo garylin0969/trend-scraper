@@ -1,7 +1,7 @@
 {
-  "updated": "2026-02-18T04:18:18.557Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2026-02-18T05:02:22.799Z",
+  "total_found": 19,
+  "returned_count": 19,
   "articles": [
     {
       "recommendScore": "419",
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "322",
+      "recommendCount": "490",
+      "title": "[LIVE] 足球 洛杉磯 @ 皇家西班牙  場中",
+      "link": "/bbs/SportLottery/M.1771381870.A.366",
+      "author": "ys2266",
+      "board": "SportLottery",
+      "publishTime": "2026/02/18 02:31",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "132",
       "recommendCount": "142",
       "title": "[雞狗對邦] 拿到門票了 真是奇蹟 (發錢)",
@@ -181,26 +191,6 @@
       "author": "yunhsing",
       "board": "Gossiping",
       "publishTime": "2026/02/17 04:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "258",
-      "recommendCount": "471",
-      "title": "[LIVE] KBL KT音速彈 @ 大邱飛馬 (場中)",
-      "link": "/bbs/SportLottery/M.1771304695.A.22D",
-      "author": "lotterywin",
-      "board": "SportLottery",
-      "publishTime": "2026/02/17 05:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "126",
-      "recommendCount": "238",
-      "title": "[公告] 初一水桶",
-      "link": "/bbs/C_Chat/M.1771306311.A.C27",
-      "author": "arrenwu",
-      "board": "C_Chat",
-      "publishTime": "2026/02/17 05:31",
       "imageUrl": ""
     }
   ]
