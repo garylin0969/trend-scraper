@@ -1,8 +1,18 @@
 {
-  "updated": "2026-02-18T03:21:40.415Z",
+  "updated": "2026-02-18T04:18:18.557Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "419",
+      "recommendCount": "650",
+      "title": "[問卦] 佛跳牆裡面踢掉一道菜踢誰",
+      "link": "/bbs/Gossiping/M.1771317754.A.087",
+      "author": "LCMODEL",
+      "board": "Gossiping",
+      "publishTime": "2026/02/17 08:42",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "267",
       "recommendCount": "557",
@@ -192,16 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2026/02/17 05:31",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "106",
-      "recommendCount": "113",
-      "title": "[發錢] 新年快樂 我爻驗牌",
-      "link": "/bbs/C_Chat/M.1771332184.A.2A4",
-      "author": "trhrh",
-      "board": "C_Chat",
-      "publishTime": "2026/02/17 12:43",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Suq3t1L/s/dc6da1353ee82a1502723578493d3af6"
     }
   ]
 }
