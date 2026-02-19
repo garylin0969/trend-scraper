@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-19T07:07:46.688Z",
+  "updated": "2026-02-19T07:33:22.355Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,16 +54,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "61",
-      "recommendCount": "176",
-      "title": "[問卦] 被後面的車跟很近都怎麼解決？",
-      "link": "/bbs/Gossiping/M.1771399235.A.740",
-      "author": "NightMeow",
-      "board": "Gossiping",
-      "publishTime": "2026/02/18 07:20",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "81",
       "recommendCount": "163",
       "title": "[新聞] 除夕夜丟女童在路上？",
@@ -111,16 +101,6 @@
       "author": "Pietro",
       "board": "HatePolitics",
       "publishTime": "2026/02/18 11:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "52",
-      "recommendCount": "145",
-      "title": "[問卦]網爆：安平老街知名老店 碗盤垃圾堆成山",
-      "link": "/bbs/Gossiping/M.1771398631.A.F8C",
-      "author": "a91153456",
-      "board": "Gossiping",
-      "publishTime": "2026/02/18 07:10",
       "imageUrl": ""
     },
     {
@@ -202,6 +182,26 @@
       "board": "HatePolitics",
       "publishTime": "2026/02/18 12:06",
       "imageUrl": "https://cache.pttweb.cc/imgur/8fFPCrI/s/9ed1e2d05f13e7fd8dfe48bdd33663cf"
+    },
+    {
+      "recommendScore": "20",
+      "recommendCount": "82",
+      "title": "[新聞] 「羨慕醫師工作」賴總統伸援手救人次數政壇無敵",
+      "link": "/bbs/Gossiping/M.1771407197.A.C61",
+      "author": "sukiyasuica",
+      "board": "Gossiping",
+      "publishTime": "2026/02/18 09:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "39",
+      "recommendCount": "77",
+      "title": "[新聞] 武廟主委嘔吐！網質疑他態度「漠然」",
+      "link": "/bbs/Gossiping/M.1771400618.A.D46",
+      "author": "gotopark",
+      "board": "Gossiping",
+      "publishTime": "2026/02/18 07:43",
+      "imageUrl": ""
     }
   ]
 }
