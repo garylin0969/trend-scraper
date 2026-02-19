@@ -1,8 +1,18 @@
 {
-  "updated": "2026-02-19T16:53:55.709Z",
+  "updated": "2026-02-19T17:22:32.233Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "566",
+      "recommendCount": "655",
+      "title": "Re: [閒聊] 被親戚家的小孩嗆陀螺技術很爛",
+      "link": "/bbs/C_Chat/M.1771492756.A.7E1",
+      "author": "yankeefat",
+      "board": "C_Chat",
+      "publishTime": "2026/02/19 09:19",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "81",
       "recommendCount": "831",
@@ -32,6 +42,16 @@
       "board": "Gossiping",
       "publishTime": "2026/02/18 23:07",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "92",
+      "recommendCount": "280",
+      "title": "[新聞] 賴清德昨遭諾羅嘔吐噴濺　今健康無虞！將連跑7行程橫跨6縣市",
+      "link": "/bbs/Gossiping/M.1771476818.A.D88",
+      "author": "taiwan08",
+      "board": "Gossiping",
+      "publishTime": "2026/02/19 04:53",
+      "imageUrl": "https://cache.pttweb.cc/imgur/nOUQcYa/s/54d48924c01d10a71b37f8f09937954a"
     },
     {
       "recommendScore": "186",
@@ -154,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "134",
+      "recommendCount": "148",
+      "title": "[閒聊] 不小心買了一個色色的Figure",
+      "link": "/bbs/C_Chat/M.1771511012.A.AD4",
+      "author": "clurinzler",
+      "board": "C_Chat",
+      "publishTime": "2026/02/19 14:23",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-38",
       "recommendCount": "201",
       "title": "[新聞] 民團啟動「台灣代表處」正名　黃捷：讓台灣成為看得見的國家",
@@ -171,36 +201,6 @@
       "author": "Calcifer",
       "board": "Gossiping",
       "publishTime": "2026/02/19 02:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "48",
-      "recommendCount": "143",
-      "title": "[新聞] 台灣利多!韓國終結者受傷退賽 韓媒崩潰:首輪又要打包",
-      "link": "/bbs/Baseball/M.1771485949.A.E4A",
-      "author": "micheal59",
-      "board": "Baseball",
-      "publishTime": "2026/02/19 07:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "97",
-      "recommendCount": "133",
-      "title": "[新聞] WCY-「真的像馬耶！」古林睿煬也被孫易磊",
-      "link": "/bbs/Baseball/M.1771478648.A.8C5",
-      "author": "murray",
-      "board": "Baseball",
-      "publishTime": "2026/02/19 05:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "191",
-      "recommendCount": "311",
-      "title": "[LIVE] 亞冠 曼谷聯隊俱樂部 @ 麥克阿瑟 (場中",
-      "link": "/bbs/SportLottery/M.1771485814.A.A0A",
-      "author": "lotterywin",
-      "board": "SportLottery",
-      "publishTime": "2026/02/19 07:23",
       "imageUrl": ""
     }
   ]
