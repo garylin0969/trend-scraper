@@ -1,18 +1,8 @@
 {
-  "updated": "2026-02-19T08:17:05.795Z",
+  "updated": "2026-02-19T08:34:43.022Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "205",
-      "recommendCount": "320",
-      "title": "[問卦] 主委噴射嘔吐之前 為何要先看一眼旁邊",
-      "link": "/bbs/Gossiping/M.1771403378.A.E18",
-      "author": "westdoorcard",
-      "board": "Gossiping",
-      "publishTime": "2026/02/18 08:29",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "71",
       "recommendCount": "1201",
@@ -31,16 +21,6 @@
       "author": "Araks",
       "board": "Baseball",
       "publishTime": "2026/02/18 09:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "69",
-      "recommendCount": "174",
-      "title": "[新聞] 找到了！阿蘇火山口墜機「發現3名失蹤者」生存機率極低",
-      "link": "/bbs/Gossiping/M.1771402617.A.1F8",
-      "author": "buzu",
-      "board": "Gossiping",
-      "publishTime": "2026/02/18 08:16",
       "imageUrl": ""
     },
     {
@@ -202,6 +182,26 @@
       "board": "Baseball",
       "publishTime": "2026/02/18 10:01",
       "imageUrl": "https://cache.pttweb.cc/imgur/sdy9oP3/s/507678ffc75fe4852fbf60fa8b2fc8da"
+    },
+    {
+      "recommendScore": "67",
+      "recommendCount": "249",
+      "title": "Re: [新聞] 12%就業人口撐起近8成出口 8成台人體",
+      "link": "/bbs/Stock/M.1771404119.A.E90",
+      "author": "waitrop",
+      "board": "Stock",
+      "publishTime": "2026/02/18 08:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "53",
+      "recommendCount": "63",
+      "title": "[閒聊]",
+      "link": "/bbs/Marginalman/M.1771422806.A.907",
+      "author": "Kazama168",
+      "board": "Marginalman",
+      "publishTime": "2026/02/18 13:53",
+      "imageUrl": ""
     }
   ]
 }
