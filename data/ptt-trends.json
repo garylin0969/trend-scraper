@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-19T11:27:20.069Z",
+  "updated": "2026-02-19T11:46:33.642Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -11,16 +11,6 @@
       "author": "hankwanghow",
       "board": "HatePolitics",
       "publishTime": "2026/02/18 13:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "81",
-      "recommendCount": "163",
-      "title": "[新聞] 除夕夜丟女童在路上？",
-      "link": "/bbs/car/M.1771414228.A.07E",
-      "author": "chhuang1979",
-      "board": "car",
-      "publishTime": "2026/02/18 11:30",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "aventardorsv",
       "board": "NBA",
       "publishTime": "2026/02/18 17:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "24",
+      "recommendCount": "73",
+      "title": "[黑特] 柯嫌為什麼替黃嫌答應退選?",
+      "link": "/bbs/HatePolitics/M.1771429971.A.268",
+      "author": "gerund",
+      "board": "HatePolitics",
+      "publishTime": "2026/02/18 15:52",
       "imageUrl": ""
     }
   ]
