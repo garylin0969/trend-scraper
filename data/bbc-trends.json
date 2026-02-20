@@ -1,14 +1,22 @@
 {
-  "updated": "2026-02-20T04:51:52.028Z",
+  "updated": "2026-02-20T05:37:24.875Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-02-20T04:51:43.000Z",
+    "lastBuildDate": "2026-02-20T05:37:11.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "Seedance 2.0: 這款中國AI應用程式令好萊塢陷入恐慌",
+      "description": "由TikTok母公司開發的新型人工智慧（AI）模型本週震撼好萊塢，Seedance 2.0僅需少量文字提示即可生成具備音效與對白的電影級影片。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwy964g856go/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-20T05:14:17.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwy964g856go/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b32c/live/a467c3e0-0e12-11f1-b7e1-afb6d0884c18.jpg"
+    },
     {
       "title": "香港推動「寵物友善」餐廳促經濟　會讓業界陷入兩難嗎？",
       "description": "在推動寵物經濟的初衷下，中國香港特區政府開展修改禁止狗隻進入餐飲場所法律工作，但期望成事的各方都有著不同的擔憂。",
@@ -32,14 +40,6 @@
       "pubDate": "2026-02-19T04:43:51.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c3ewvpnyz1vo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/88d0/live/1d792530-0d41-11f1-9972-d3f265c101c6.jpg"
-    },
-    {
-      "title": "「令人窒息」：六十年代加拿大塑料垃圾沖上英國奧克尼群島海灘",
-      "description": "源自加拿大、可追溯至1960至70年代的塑膠瓶與碎屑，近日沖上奧克尼群島（Orkney beach）的海灘。垃圾清理人員表示，過去數週在桑迪島霍爾沙灘發現的塑膠垃圾數量令他們「不堪重負」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cr5ldqy105eo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-19T03:47:03.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cr5ldqy105eo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2fdc/live/1db76050-0d39-11f1-9972-d3f265c101c6.jpg"
     },
     {
       "title": "僅耗時20分鐘，我駭入了ChatGPT和Google的AI系統",
@@ -98,20 +98,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/05d9/live/9c27a4f0-0bc6-11f1-b7e1-afb6d0884c18.png"
     },
     {
+      "title": "「令人窒息」：六十年代加拿大塑料垃圾沖上英國奧克尼群島海灘",
+      "description": "源自加拿大、可追溯至1960至70年代的塑膠瓶與碎屑，近日沖上奧克尼群島（Orkney beach）的海灘。垃圾清理人員表示，過去數週在桑迪島霍爾沙灘發現的塑膠垃圾數量令他們「不堪重負」。",
+      "link": "https://www.bbc.com/zhongwen/articles/cr5ldqy105eo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-19T03:47:03.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cr5ldqy105eo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2fdc/live/1db76050-0d39-11f1-9972-d3f265c101c6.jpg"
+    },
+    {
       "title": "台灣人過年愛看《甄嬛傳》：這部陸劇為何能超脫兩岸政治？",
       "description": "台灣興起「甄嬛熱」，過年期間大批觀眾在YouTube觀看馬拉松式直播。有趣的是，不少《甄嬛傳》忠實粉絲本身是「排斥中國」的「台獨支持者」，引發不同的文化和政治解讀。",
       "link": "https://www.bbc.com/zhongwen/articles/cd70eyjx2xzo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-02-17T07:20:06.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cd70eyjx2xzo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/58fa/live/cf3922c0-0bcf-11f1-b7e1-afb6d0884c18.png"
-    },
-    {
-      "title": "中國正打擊日本的痛處，但高市早苗會屈服嗎？",
-      "description": "高市早苗於最近的提前大選中贏得歷史性勝利及強大民意授權後，分析人士警告中日雙方都難以緩和局勢，而特朗普的訪華之行可能帶來變數。",
-      "link": "https://www.bbc.com/zhongwen/articles/c178qrr29d1o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-17T04:20:21.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c178qrr29d1o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d21b/live/7b084720-0b08-11f1-b8d0-21adbc414b0b.jpg"
     },
     {
       "title": "《甄嬛傳》馬拉松：為何成為台灣年輕人過年的「文化習俗」？",
