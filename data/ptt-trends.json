@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-20T05:11:29.979Z",
+  "updated": "2026-02-20T05:38:44.244Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "120",
-      "recommendCount": "218",
-      "title": "[外絮] LeBron James稱讚騎士在交易截止前的操作",
-      "link": "/bbs/NBA/M.1771478995.A.716",
-      "author": "LukaDoncic77",
-      "board": "NBA",
-      "publishTime": "2026/02/19 05:29",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "564",
       "recommendCount": "974",
       "title": "[電競] 2026 LCK Cup Playoffs Lower Round 1",
@@ -201,6 +191,16 @@
       "author": "laptic",
       "board": "C_Chat",
       "publishTime": "2026/02/19 11:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "48",
+      "recommendCount": "143",
+      "title": "[新聞] 台灣利多!韓國終結者受傷退賽 韓媒崩潰:首輪又要打包",
+      "link": "/bbs/Baseball/M.1771485949.A.E4A",
+      "author": "micheal59",
+      "board": "Baseball",
+      "publishTime": "2026/02/19 07:25",
       "imageUrl": ""
     }
   ]
