@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-20T07:23:05.028Z",
+  "updated": "2026-02-20T07:47:42.355Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "564",
-      "recommendCount": "974",
-      "title": "[電競] 2026 LCK Cup Playoffs Lower Round 1",
-      "link": "/bbs/LoL/M.1771486455.A.149",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/02/19 07:34",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "211",
       "recommendCount": "409",
       "title": "[LIVE] 印超 清奈 @ 孟買城  場中",
@@ -154,26 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "48",
-      "recommendCount": "143",
-      "title": "[新聞] 台灣利多!韓國終結者受傷退賽 韓媒崩潰:首輪又要打包",
-      "link": "/bbs/Baseball/M.1771485949.A.E4A",
-      "author": "micheal59",
-      "board": "Baseball",
-      "publishTime": "2026/02/19 07:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "191",
-      "recommendCount": "311",
-      "title": "[LIVE] 亞冠 曼谷聯隊俱樂部 @ 麥克阿瑟 (場中",
-      "link": "/bbs/SportLottery/M.1771485814.A.A0A",
-      "author": "lotterywin",
-      "board": "SportLottery",
-      "publishTime": "2026/02/19 07:23",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "74",
       "recommendCount": "166",
       "title": "[新聞] 美伊開戰倒數？ 波蘭總理發布緊急撤僑令：數小時後恐難逃離",
@@ -202,6 +172,36 @@
       "board": "C_Chat",
       "publishTime": "2026/02/19 11:55",
       "imageUrl": "https://cache.pttweb.cc/imgur/YBMa6Uw/s/5d67043941f3721dae22bc6ae60a476e"
+    },
+    {
+      "recommendScore": "243",
+      "recommendCount": "386",
+      "title": "[LIVE] 歐霸 諾丁漢森林3:0費內巴切 場中",
+      "link": "/bbs/SportLottery/M.1771522061.A.D1D",
+      "author": "pandalove",
+      "board": "SportLottery",
+      "publishTime": "2026/02/19 17:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "103",
+      "recommendCount": "117",
+      "title": "[鳴潮] 愛彌斯聲骸畢業 發錢",
+      "link": "/bbs/C_Chat/M.1771515213.A.860",
+      "author": "skyworld",
+      "board": "C_Chat",
+      "publishTime": "2026/02/19 15:33",
+      "imageUrl": "https://cache.pttweb.cc/imgur/SQ2vdNf/s/2711705026c355b68d69662849f046c4"
+    },
+    {
+      "recommendScore": "57",
+      "recommendCount": "108",
+      "title": "[新聞] 牛肉湯店見「婦拿沾醬碟刮痧」目擊者：快吐了",
+      "link": "/bbs/Gossiping/M.1771500571.A.7A9",
+      "author": "landy924",
+      "board": "Gossiping",
+      "publishTime": "2026/02/19 11:29",
+      "imageUrl": ""
     }
   ]
 }
