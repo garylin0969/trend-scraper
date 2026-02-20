@@ -1,14 +1,22 @@
 {
-  "updated": "2026-02-20T07:58:03.537Z",
+  "updated": "2026-02-20T08:26:04.889Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-02-20T07:57:54.000Z",
+    "lastBuildDate": "2026-02-20T08:25:53.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "隨著特朗普在氣候目標上退場，中國正崛起為綠色超級強國",
+      "description": "作為全球最大的碳排放國，中國過去12個月安裝的太陽能和風力發電量超過其他所有國家的總和。這場所謂的可再生能源革命，速度前所未有。有分析人士認為，其他國家可能需數十年才能追上。",
+      "link": "https://www.bbc.com/zhongwen/resources/idt-8d2b6944-4f7a-45b4-96fd-2d92499ff97d?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-20T00:00:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/resources/idt-8d2b6944-4f7a-45b4-96fd-2d92499ff97d#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3760/live/a4b7b5a0-0e33-11f1-9972-d3f265c101c6.png"
+    },
     {
       "title": "安德魯王子被捕：這位前王室成員如何一步步墮落？",
       "description": "安德魯·蒙巴頓-溫莎因涉嫌公職人員行為失當遭逮捕。他做錯了什麼？面臨哪些指控？此前有過哪些掙扎？",
@@ -16,6 +24,14 @@
       "pubDate": "2026-02-20T06:58:14.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cewzd1gv7lxo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0b56/live/cfd64bc0-0e01-11f1-b7e1-afb6d0884c18.jpg"
+    },
+    {
+      "title": "韓國前總統尹錫悅被判處無期徒刑：判決結果的三个要點",
+      "description": "現年65歲的尹錫悅因濫用職權及妨礙自身逮捕，已獲判五年有期徒刑，另面臨兩項審判。但今日判決涉及最嚴重的指控——領導叛亂。",
+      "link": "https://www.bbc.com/zhongwen/articles/c98q938pr0go/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-20T07:56:16.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c98q938pr0go/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9579/live/aca7c480-0e29-11f1-9972-d3f265c101c6.jpg"
     },
     {
       "title": "Seedance 2.0: 這款中國AI應用程式令好萊塢陷入恐慌",
@@ -38,7 +54,7 @@
       "description": "今年，名為「第一批不孝女已跑路，出租房才是我的家」的標簽在小紅書和抖音上悄然走紅，相關搜索詞條還有「已經回不去了」、「不想呆在家」等。而直接和今年春節相關的數十條帖子能在一天之內快速收到數十萬點贊和數千條評論。多位不回家過年的年輕人和BBC中文分享了他們的故事。",
       "link": "https://www.bbc.com/zhongwen/articles/cj32nrl721mo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-02-17T07:01:54.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cj32nrl721mo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cj32nrl721mo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/708f/live/28a41d70-0bbb-11f1-9972-d3f265c101c6.jpg"
     },
     {
@@ -46,7 +62,7 @@
       "description": "度一所大學在德里AI峰會上引發爭議，因其人員聲稱中國製造的機器狗是該校自主研發成果。",
       "link": "https://www.bbc.com/zhongwen/articles/c3ewvpnyz1vo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-02-19T04:43:51.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3ewvpnyz1vo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3ewvpnyz1vo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/88d0/live/1d792530-0d41-11f1-9972-d3f265c101c6.jpg"
     },
     {
@@ -96,22 +112,6 @@
       "pubDate": "2026-02-18T05:30:14.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cz9qndg73x8o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/448c/live/04cd3d70-0c81-11f1-b7e1-afb6d0884c18.jpg"
-    },
-    {
-      "title": "面臨人口危機，烏克蘭出資為士兵冷凍精子",
-      "description": "由於烏克蘭人口急劇下降，該法律為希望冷凍卵子或精子的士兵提供資源。",
-      "link": "https://www.bbc.com/zhongwen/articles/c78j901vy7ro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-18T01:18:15.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c78j901vy7ro/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/05d9/live/9c27a4f0-0bc6-11f1-b7e1-afb6d0884c18.png"
-    },
-    {
-      "title": "台灣人過年愛看《甄嬛傳》：這部陸劇為何能超脫兩岸政治？",
-      "description": "台灣興起「甄嬛熱」，過年期間大批觀眾在YouTube觀看馬拉松式直播。有趣的是，不少《甄嬛傳》忠實粉絲本身是「排斥中國」的「台獨支持者」，引發不同的文化和政治解讀。",
-      "link": "https://www.bbc.com/zhongwen/articles/cd70eyjx2xzo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-17T07:20:06.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cd70eyjx2xzo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/58fa/live/cf3922c0-0bcf-11f1-b7e1-afb6d0884c18.png"
     },
     {
       "title": "《甄嬛傳》馬拉松：為何成為台灣年輕人過年的「文化習俗」？",
@@ -194,12 +194,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fe4c/live/bcc92dd0-fa89-11f0-b5f7-49f0357294ff.jpg"
     },
     {
-      "title": "台灣電影《世紀血案》為何引發抵制潮？",
-      "description": "《世紀血案》取材自「林宅血案」，該案發生在台灣戒嚴時期，美麗島受刑人林義雄的家人遭刺殺，當時被認為是情治機關對黨外人士的威嚇警告，案件歷經46年至今未能結案，成為台灣民主運動史的一道無法癒合的傷痕。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1l74jveqdgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-10T13:48:34.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1l74jveqdgo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4dc2/live/bcf715e0-0661-11f1-9972-d3f265c101c6.png"
+      "title": "台灣人過年愛看《甄嬛傳》：這部陸劇為何能超脫兩岸政治？",
+      "description": "台灣興起「甄嬛熱」，過年期間大批觀眾在YouTube觀看馬拉松式直播。有趣的是，不少《甄嬛傳》忠實粉絲本身是「排斥中國」的「台獨支持者」，引發不同的文化和政治解讀。",
+      "link": "https://www.bbc.com/zhongwen/articles/cd70eyjx2xzo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-17T07:20:06.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cd70eyjx2xzo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/58fa/live/cf3922c0-0bcf-11f1-b7e1-afb6d0884c18.png"
     },
     {
       "title": "TikTok熱議「成為中國人」：網民視為反抗西方霸權，官方下場背書",
