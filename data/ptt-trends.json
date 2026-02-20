@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-20T12:01:10.789Z",
+  "updated": "2026-02-20T12:23:21.257Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "89",
-      "recommendCount": "281",
-      "title": "[鋼鍊] 親戚說「等價交換」的設定不嚴謹(?)",
-      "link": "/bbs/C_Chat/M.1771503083.A.C57",
-      "author": "k300plus",
-      "board": "C_Chat",
-      "publishTime": "2026/02/19 12:11",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "76",
       "recommendCount": "306",
       "title": "[閒聊] 曹操是不是缺一個很能打的大將",
@@ -194,14 +184,24 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/q4NDrux/s/f407b03add59ff0f1d9eff9dd3020ba2"
     },
     {
-      "recommendScore": "69",
-      "recommendCount": "105",
-      "title": "[閒聊] 知名電競主播丁特 關心虐貓事件",
-      "link": "/bbs/C_Chat/M.1771503676.A.EE2",
-      "author": "callhek",
-      "board": "C_Chat",
-      "publishTime": "2026/02/19 12:21",
+      "recommendScore": "55",
+      "recommendCount": "102",
+      "title": "[問卦] 台女：高一女兒為了男友除陰毛",
+      "link": "/bbs/Gossiping/M.1771507491.A.B8C",
+      "author": "vamwill",
+      "board": "Gossiping",
+      "publishTime": "2026/02/19 13:24",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "47",
+      "recommendCount": "109",
+      "title": "[問卦] 《功夫》這部電影是真的沒什麼人要看耶",
+      "link": "/bbs/Gossiping/M.1771575890.A.DB8",
+      "author": "juyhnmki",
+      "board": "Gossiping",
+      "publishTime": "2026/02/20 08:24",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Q9bRdUb/s/862d6a4f93d41cb9bcc37717ccb31b86"
     }
   ]
 }
