@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-20T15:24:57.188Z",
+  "updated": "2026-02-20T15:46:17.930Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,16 +74,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "126",
-      "recommendCount": "170",
-      "title": "[閒聊] 加密貨幣閒聊區0219 - 馬年紅包",
-      "link": "/bbs/DigiCurrency/M.1771515602.A.98D",
-      "author": "DarkerDuck",
-      "board": "DigiCurrency",
-      "publishTime": "2026/02/19 15:40",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "82",
       "recommendCount": "156",
       "title": "[爆卦] 阿根廷國會通過壓榨勞工的「勞動法」",
@@ -154,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "103",
-      "recommendCount": "117",
-      "title": "[鳴潮] 愛彌斯聲骸畢業 發錢",
-      "link": "/bbs/C_Chat/M.1771515213.A.860",
-      "author": "skyworld",
-      "board": "C_Chat",
-      "publishTime": "2026/02/19 15:33",
-      "imageUrl": "https://cache.pttweb.cc/imgur/SQ2vdNf/s/2711705026c355b68d69662849f046c4"
-    },
-    {
       "recommendScore": "69",
       "recommendCount": "142",
       "title": "[問卦] 現在東西漲價怎麼一堆人幫腔？",
@@ -202,6 +182,26 @@
       "board": "Gossiping",
       "publishTime": "2026/02/20 08:24",
       "imageUrl": "https://cache.pttweb.cc/imgur/Q9bRdUb/s/862d6a4f93d41cb9bcc37717ccb31b86"
+    },
+    {
+      "recommendScore": "78",
+      "recommendCount": "129",
+      "title": "[閒聊] Switch 寶可夢火紅/葉綠 上架",
+      "link": "/bbs/C_Chat/M.1771570859.A.BAC",
+      "author": "max0616",
+      "board": "C_Chat",
+      "publishTime": "2026/02/20 07:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "40",
+      "recommendCount": "116",
+      "title": "[新聞] 九蛙全露只是開始…日月潭水位失速下探 碼頭恐步入封閉倒數",
+      "link": "/bbs/Gossiping/M.1771568014.A.C6E",
+      "author": "whitefox",
+      "board": "Gossiping",
+      "publishTime": "2026/02/20 06:13",
+      "imageUrl": ""
     }
   ]
 }
