@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-20T15:46:17.930Z",
+  "updated": "2026-02-20T16:01:57.137Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "76",
+      "recommendCount": "170",
+      "title": "[爆卦] 美最高法院裁定川普關税違法",
+      "link": "/bbs/Gossiping/M.1771600266.A.AE3",
+      "author": "Axwell",
+      "board": "Gossiping",
+      "publishTime": "2026/02/20 15:11",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "69",
       "recommendCount": "142",
       "title": "[問卦] 現在東西漲價怎麼一堆人幫腔？",
@@ -191,16 +201,6 @@
       "author": "max0616",
       "board": "C_Chat",
       "publishTime": "2026/02/20 07:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "40",
-      "recommendCount": "116",
-      "title": "[新聞] 九蛙全露只是開始…日月潭水位失速下探 碼頭恐步入封閉倒數",
-      "link": "/bbs/Gossiping/M.1771568014.A.C6E",
-      "author": "whitefox",
-      "board": "Gossiping",
-      "publishTime": "2026/02/20 06:13",
       "imageUrl": ""
     }
   ]
