@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-21T12:47:28.151Z",
+  "updated": "2026-02-21T13:11:23.329Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,16 +54,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "82",
-      "recommendCount": "156",
-      "title": "[爆卦] 阿根廷國會通過壓榨勞工的「勞動法」",
-      "link": "/bbs/Gossiping/M.1771589679.A.299",
-      "author": "bluehttp",
-      "board": "Gossiping",
-      "publishTime": "2026/02/20 12:14",
-      "imageUrl": "https://cache.pttweb.cc/imgur/N79KXCP/s/b53a2b1579fd65d8600db6dd3bbb594f"
-    },
-    {
       "recommendScore": "150",
       "recommendCount": "269",
       "title": "[LIVE] 澳甲 墨爾本勝利@墨爾本城 場中",
@@ -71,16 +61,6 @@
       "author": "laylun",
       "board": "SportLottery",
       "publishTime": "2026/02/21 08:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "114",
-      "recommendCount": "114",
-      "title": "[分享] 一起Line貼圖討論棒球 (贈送)",
-      "link": "/bbs/Baseball/M.1771591793.A.322",
-      "author": "deternan",
-      "board": "Baseball",
-      "publishTime": "2026/02/20 12:49",
       "imageUrl": ""
     },
     {
@@ -201,6 +181,26 @@
       "author": "DrowningPool",
       "board": "Stock",
       "publishTime": "2026/02/21 06:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "58",
+      "recommendCount": "289",
+      "title": "[閒聊] DLSS4.5、原生畫值、FSR紅石 雙盲測試結果",
+      "link": "/bbs/PC_Shopping/M.1771635506.A.F14",
+      "author": "GenShoku",
+      "board": "PC_Shopping",
+      "publishTime": "2026/02/21 00:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "49",
+      "recommendCount": "74",
+      "title": "[新聞] 台灣隊練習賽2：2和培證英雄 孫易磊飆155公里速球",
+      "link": "/bbs/Baseball/M.1771663585.A.FD9",
+      "author": "teramars",
+      "board": "Baseball",
+      "publishTime": "2026/02/21 08:46",
       "imageUrl": ""
     }
   ]
