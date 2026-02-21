@@ -1,8 +1,18 @@
 {
-  "updated": "2026-02-21T10:11:29.429Z",
+  "updated": "2026-02-21T10:24:50.035Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "43",
+      "recommendCount": "229",
+      "title": "[新聞] 南投拜票突遇昏迷翁 温世政秒變「温醫師」急救搶命",
+      "link": "/bbs/Gossiping/M.1771584456.A.A14",
+      "author": "MikaHakkinen",
+      "board": "Gossiping",
+      "publishTime": "2026/02/20 10:47",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "332",
       "recommendCount": "497",
@@ -191,16 +201,6 @@
       "author": "vincealan",
       "board": "C_Chat",
       "publishTime": "2026/02/21 06:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "44",
-      "recommendCount": "63",
-      "title": "[問題] 名字裡面有「馬」的角色？",
-      "link": "/bbs/C_Chat/M.1771594512.A.1D1",
-      "author": "he02789222",
-      "board": "C_Chat",
-      "publishTime": "2026/02/20 13:35",
       "imageUrl": ""
     }
   ]
