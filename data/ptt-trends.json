@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-21T05:03:46.624Z",
+  "updated": "2026-02-21T05:29:42.232Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "62",
+      "recommendCount": "116",
+      "title": "[新聞] OpenAI下修算力支出目標 2030年前擬投入6,000億美元",
+      "link": "/bbs/Stock/M.1771647013.A.8A9",
+      "author": "thinksilver",
+      "board": "Stock",
+      "publishTime": "2026/02/21 04:10",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "76",
       "recommendCount": "306",
       "title": "[閒聊] 曹操是不是缺一個很能打的大將",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/02/20 16:12",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "47",
-      "recommendCount": "109",
-      "title": "[問卦] 《功夫》這部電影是真的沒什麼人要看耶",
-      "link": "/bbs/Gossiping/M.1771575890.A.DB8",
-      "author": "juyhnmki",
-      "board": "Gossiping",
-      "publishTime": "2026/02/20 08:24",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Q9bRdUb/s/862d6a4f93d41cb9bcc37717ccb31b86"
     }
   ]
 }
