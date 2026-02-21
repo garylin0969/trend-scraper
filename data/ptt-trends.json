@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-21T19:01:15.857Z",
+  "updated": "2026-02-21T19:13:53.510Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "14",
+      "recommendCount": "123",
+      "title": "[閒聊] 勝敗難免 臉書 : 改行當 Vtuber 了",
+      "link": "/bbs/LoL/M.1771673735.A.5DF",
+      "author": "Wardyal",
+      "board": "LoL",
+      "publishTime": "2026/02/21 11:35",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "78",
       "recommendCount": "119",
       "title": "[分享] ettodaysports Threads- 今日練習賽結果",
@@ -192,16 +202,6 @@
       "board": "Baseball",
       "publishTime": "2026/02/21 08:29",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "71",
-      "recommendCount": "128",
-      "title": "[閒聊] “超時空輝耀姬”算是好翻譯嗎？",
-      "link": "/bbs/C_Chat/M.1771669468.A.E77",
-      "author": "Katsuyuki118",
-      "board": "C_Chat",
-      "publishTime": "2026/02/21 10:24",
-      "imageUrl": "https://cache.pttweb.cc/imgur/5UtfmkB/s/cb4f13473c15bf722feb1591fc02ae8c"
     }
   ]
 }
