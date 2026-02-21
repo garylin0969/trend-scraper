@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-21T09:59:08.594Z",
+  "updated": "2026-02-21T10:11:29.429Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "80",
+      "recommendCount": "172",
+      "title": "[新聞] SPC-身披日本隊戰袍的台灣人！余聖傑：更希望日本贏",
+      "link": "/bbs/Baseball/M.1771584906.A.D6C",
+      "author": "hito0509",
+      "board": "Baseball",
+      "publishTime": "2026/02/20 10:55",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "82",
       "recommendCount": "156",
       "title": "[爆卦] 阿根廷國會通過壓榨勞工的「勞動法」",
@@ -61,6 +71,26 @@
       "author": "Axwell",
       "board": "Gossiping",
       "publishTime": "2026/02/20 15:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "58",
+      "recommendCount": "133",
+      "title": "[新聞] NBA／艾頓太散漫？湖人傳鎖定鵜鶘禁區新星　還能省大錢搶字母哥",
+      "link": "/bbs/NBA/M.1771584169.A.274",
+      "author": "Skyblueway",
+      "board": "NBA",
+      "publishTime": "2026/02/20 10:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "162",
+      "recommendCount": "295",
+      "title": "[LIVE] NBL 阿德雷德36人 @ 伯斯野貓  場中",
+      "link": "/bbs/SportLottery/M.1771584497.A.F93",
+      "author": "luckywind",
+      "board": "SportLottery",
+      "publishTime": "2026/02/20 10:48",
       "imageUrl": ""
     },
     {
@@ -172,36 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2026/02/20 13:35",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "47",
-      "recommendCount": "94",
-      "title": "[閒聊] 歐巴馬：外星人存在 川普：他犯大錯！",
-      "link": "/bbs/C_Chat/M.1771589822.A.E3E",
-      "author": "bamama56",
-      "board": "C_Chat",
-      "publishTime": "2026/02/20 12:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "33",
-      "recommendCount": "95",
-      "title": "[問卦] 台灣是不是跪川普總統跪最澈底的？",
-      "link": "/bbs/Gossiping/M.1771655907.A.E6F",
-      "author": "nissan168",
-      "board": "Gossiping",
-      "publishTime": "2026/02/21 06:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "41",
-      "recommendCount": "81",
-      "title": "[閒聊] 數碼寶貝 光子郎為什麼不能成為主角？",
-      "link": "/bbs/C_Chat/M.1771655138.A.1FE",
-      "author": "Lucky0105",
-      "board": "C_Chat",
-      "publishTime": "2026/02/21 06:25",
-      "imageUrl": "https://cache.pttweb.cc/imgur/CNWzfsw/s/3d4ffb1b847b2213a776ef375f80f5d9"
     }
   ]
 }
