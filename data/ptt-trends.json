@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-22T10:57:22.478Z",
+  "updated": "2026-02-22T11:08:22.803Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,16 +74,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "954",
-      "recommendCount": "1432",
-      "title": "[討論] [Vtub] Hololive 晚間直播單 (1150221)",
-      "link": "/bbs/C_Chat/M.1771671607.A.7E2",
-      "author": "laptic",
-      "board": "C_Chat",
-      "publishTime": "2026/02/21 11:00",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "141",
       "recommendCount": "512",
       "title": "[鳴潮] AJie 我看完3.1解析了，向鳴潮玩家道歉",
@@ -102,16 +92,6 @@
       "board": "Baseball",
       "publishTime": "2026/02/22 05:54",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "140",
-      "recommendCount": "157",
-      "title": "[公告] 大年初五開工囉 新式獨裁板規上線 水桶",
-      "link": "/bbs/Gossiping/M.1771671781.A.A57",
-      "author": "ubcs",
-      "board": "Gossiping",
-      "publishTime": "2026/02/21 11:03",
-      "imageUrl": "https://cache.pttweb.cc/imgur/5m4lsC7/s/40b3774db26eb255b4b9456811b81579"
     },
     {
       "recommendScore": "71",
@@ -202,6 +182,26 @@
       "board": "Gossiping",
       "publishTime": "2026/02/21 16:58",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "115",
+      "recommendCount": "250",
+      "title": "[LIVE] 法甲 摩納哥 @ 朗斯 場中",
+      "link": "/bbs/SportLottery/M.1771689248.A.D72",
+      "author": "luckywind",
+      "board": "SportLottery",
+      "publishTime": "2026/02/21 15:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "62",
+      "recommendCount": "92",
+      "title": "[分享] 蔡其昌：Long應無骨折但仍有酸痛感",
+      "link": "/bbs/Baseball/M.1771737326.A.722",
+      "author": "DoncicInPTT",
+      "board": "Baseball",
+      "publishTime": "2026/02/22 05:15",
+      "imageUrl": "https://cache.pttweb.cc/imgur/5B13J5L/s/a779bf9970c6e32245adee866099d8a4"
     }
   ]
 }
