@@ -1,26 +1,26 @@
 {
-  "updated": "2026-02-22T11:20:27.280Z",
+  "updated": "2026-02-22T11:33:27.648Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "747",
+      "recommendScore": "333",
+      "recommendCount": "348",
+      "title": "[公告] 馬上發財 (已額滿)",
+      "link": "/bbs/Lifeismoney/M.1771749168.A.59E",
+      "author": "finhisky",
+      "board": "Lifeismoney",
+      "publishTime": "2026/02/22 08:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "766",
       "recommendCount": "1456",
       "title": "[電競] 2026 LCK Cup Playoffs Lower Round 3",
       "link": "/bbs/LoL/M.1771746112.A.E88",
       "author": "laptic",
       "board": "LoL",
       "publishTime": "2026/02/22 07:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "280",
-      "recommendCount": "290",
-      "title": "[公告] 馬上發財 (已額滿)",
-      "link": "/bbs/Lifeismoney/M.1771749168.A.59E",
-      "author": "finhisky",
-      "board": "Lifeismoney",
-      "publishTime": "2026/02/22 08:32",
       "imageUrl": ""
     },
     {
@@ -51,6 +51,16 @@
       "author": "Yaung1003",
       "board": "Baseball",
       "publishTime": "2026/02/21 13:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "158",
+      "recommendCount": "226",
+      "title": "[分享] WBC台灣隊2:7敗給培證英雄",
+      "link": "/bbs/Baseball/M.1771753736.A.E2F",
+      "author": "Axwell",
+      "board": "Baseball",
+      "publishTime": "2026/02/22 09:48",
       "imageUrl": ""
     },
     {
@@ -124,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "87",
+      "recommendCount": "115",
+      "title": "Re: [公告] 馬上發財",
+      "link": "/bbs/Lifeismoney/M.1771749708.A.B2A",
+      "author": "rick7436",
+      "board": "Lifeismoney",
+      "publishTime": "2026/02/22 08:41",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "70",
       "recommendCount": "179",
       "title": "[花邊] 八村壘：人們直到LBJ退休後才會感激他",
@@ -182,26 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/02/21 16:58",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "115",
-      "recommendCount": "250",
-      "title": "[LIVE] 法甲 摩納哥 @ 朗斯 場中",
-      "link": "/bbs/SportLottery/M.1771689248.A.D72",
-      "author": "luckywind",
-      "board": "SportLottery",
-      "publishTime": "2026/02/21 15:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "62",
-      "recommendCount": "92",
-      "title": "[分享] 蔡其昌：Long應無骨折但仍有酸痛感",
-      "link": "/bbs/Baseball/M.1771737326.A.722",
-      "author": "DoncicInPTT",
-      "board": "Baseball",
-      "publishTime": "2026/02/22 05:15",
-      "imageUrl": "https://cache.pttweb.cc/imgur/5B13J5L/s/a779bf9970c6e32245adee866099d8a4"
     }
   ]
 }
