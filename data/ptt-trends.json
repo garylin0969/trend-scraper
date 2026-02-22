@@ -1,18 +1,8 @@
 {
-  "updated": "2026-02-22T07:44:10.633Z",
+  "updated": "2026-02-22T07:58:03.467Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "100",
-      "recommendCount": "323",
-      "title": "[新聞] 快訊／YTR老高驚爆逃稅！遭追罰18億、拘留機場　內幕掀兩派論戰",
-      "link": "/bbs/Gossiping/M.1771676644.A.CAE",
-      "author": "azcooper",
-      "board": "Gossiping",
-      "publishTime": "2026/02/21 12:24",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "213",
       "recommendCount": "289",
@@ -201,6 +191,16 @@
       "author": "ddell",
       "board": "Gossiping",
       "publishTime": "2026/02/21 09:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "27",
+      "recommendCount": "325",
+      "title": "[討論] 藍白沒發現自己才是被多數人討厭的？",
+      "link": "/bbs/HatePolitics/M.1771676856.A.48A",
+      "author": "kobebrian",
+      "board": "HatePolitics",
+      "publishTime": "2026/02/21 12:27",
       "imageUrl": ""
     }
   ]
