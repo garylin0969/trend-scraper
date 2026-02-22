@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-22T14:57:21.442Z",
+  "updated": "2026-02-22T15:09:31.008Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "104",
+      "recommendCount": "182",
+      "title": "[LIVE] 西甲 塞維亞@赫塔菲 場中",
+      "link": "/bbs/SportLottery/M.1771764743.A.F0A",
+      "author": "pandalove",
+      "board": "SportLottery",
+      "publishTime": "2026/02/22 12:52",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "115",
       "recommendCount": "250",
       "title": "[LIVE] 法甲 摩納哥 @ 朗斯 場中",
@@ -192,16 +202,6 @@
       "board": "SportLottery",
       "publishTime": "2026/02/21 15:54",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "62",
-      "recommendCount": "92",
-      "title": "[分享] 蔡其昌：Long應無骨折但仍有酸痛感",
-      "link": "/bbs/Baseball/M.1771737326.A.722",
-      "author": "DoncicInPTT",
-      "board": "Baseball",
-      "publishTime": "2026/02/22 05:15",
-      "imageUrl": "https://cache.pttweb.cc/imgur/5B13J5L/s/a779bf9970c6e32245adee866099d8a4"
     }
   ]
 }
