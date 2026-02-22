@@ -1,18 +1,8 @@
 {
-  "updated": "2026-02-22T19:38:55.721Z",
+  "updated": "2026-02-22T19:49:00.276Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "393",
-      "recommendCount": "411",
-      "title": "[公告] 馬上發財 (已額滿)",
-      "link": "/bbs/Lifeismoney/M.1771749168.A.59E",
-      "author": "finhisky",
-      "board": "Lifeismoney",
-      "publishTime": "2026/02/22 08:32",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "788",
       "recommendCount": "1456",
@@ -202,6 +192,16 @@
       "board": "SakaTalk",
       "publishTime": "2026/02/22 02:32",
       "imageUrl": "https://cache.pttweb.cc/imgur/0UEdzTk/s/87890f79e2951919a7fc1e48e707fb07"
+    },
+    {
+      "recommendScore": "68",
+      "recommendCount": "143",
+      "title": "[新聞] 一顆大巨蛋不夠！ 蔡其昌：北、中、南都要有一顆大巨蛋才符合需求",
+      "link": "/bbs/Baseball/M.1771730620.A.6AC",
+      "author": "wu73",
+      "board": "Baseball",
+      "publishTime": "2026/02/22 03:23",
+      "imageUrl": ""
     }
   ]
 }
