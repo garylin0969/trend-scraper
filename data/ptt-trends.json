@@ -1,8 +1,28 @@
 {
-  "updated": "2026-02-22T09:50:09.685Z",
+  "updated": "2026-02-22T09:59:18.900Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "280",
+      "recommendCount": "290",
+      "title": "[公告] 馬上發財 (已額滿)",
+      "link": "/bbs/Lifeismoney/M.1771749168.A.59E",
+      "author": "finhisky",
+      "board": "Lifeismoney",
+      "publishTime": "2026/02/22 08:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "100",
+      "recommendCount": "323",
+      "title": "[新聞] 快訊／YTR老高驚爆逃稅！遭追罰18億、拘留機場　內幕掀兩派論戰",
+      "link": "/bbs/Gossiping/M.1771676644.A.CAE",
+      "author": "azcooper",
+      "board": "Gossiping",
+      "publishTime": "2026/02/21 12:24",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "213",
       "recommendCount": "289",
@@ -181,26 +201,6 @@
       "author": "Wardyal",
       "board": "LoL",
       "publishTime": "2026/02/21 11:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "71",
-      "recommendCount": "128",
-      "title": "[閒聊] “超時空輝耀姬”算是好翻譯嗎？",
-      "link": "/bbs/C_Chat/M.1771669468.A.E77",
-      "author": "Katsuyuki118",
-      "board": "C_Chat",
-      "publishTime": "2026/02/21 10:24",
-      "imageUrl": "https://cache.pttweb.cc/imgur/5UtfmkB/s/cb4f13473c15bf722feb1591fc02ae8c"
-    },
-    {
-      "recommendScore": "65",
-      "recommendCount": "115",
-      "title": "[新聞] 快訊／35歲男搭小黃去醫院！五楊高架硬要下車　翻過護欄墜落送醫",
-      "link": "/bbs/Gossiping/M.1771668843.A.B3F",
-      "author": "Skyblueway",
-      "board": "Gossiping",
-      "publishTime": "2026/02/21 10:14",
       "imageUrl": ""
     }
   ]
