@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-22T19:23:29.624Z",
+  "updated": "2026-02-22T19:38:55.721Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -31,16 +31,6 @@
       "author": "Axwell",
       "board": "Baseball",
       "publishTime": "2026/02/22 09:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "161",
-      "recommendCount": "324",
-      "title": "[情報] 川普：全球關稅從10%上調到15%",
-      "link": "/bbs/Stock/M.1771691631.A.495",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2026/02/21 16:33",
       "imageUrl": ""
     },
     {
@@ -101,26 +91,6 @@
       "author": "Wojnarowski",
       "board": "NBA",
       "publishTime": "2026/02/22 05:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "79",
-      "recommendCount": "200",
-      "title": "[新聞] 快訊／川普上調全球關稅10%變15% 批最高法院裁決「荒謬反美」",
-      "link": "/bbs/Gossiping/M.1771691515.A.324",
-      "author": "lycppt",
-      "board": "Gossiping",
-      "publishTime": "2026/02/21 16:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "79",
-      "recommendCount": "170",
-      "title": "[新聞] 快訊／深夜加碼！　川普宣布將全球關稅從10%升至15%",
-      "link": "/bbs/Stock/M.1771692141.A.B68",
-      "author": "CrazySept",
-      "board": "Stock",
-      "publishTime": "2026/02/21 16:42",
       "imageUrl": ""
     },
     {
@@ -202,6 +172,36 @@
       "board": "SportLottery",
       "publishTime": "2026/02/22 12:52",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "11",
+      "recommendCount": "230",
+      "title": "[心得] 國道會塞車就是愛一直換車道的人害的",
+      "link": "/bbs/car/M.1771695148.A.910",
+      "author": "JC910",
+      "board": "car",
+      "publishTime": "2026/02/21 17:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "62",
+      "recommendCount": "92",
+      "title": "[分享] 蔡其昌：Long應無骨折但仍有酸痛感",
+      "link": "/bbs/Baseball/M.1771737326.A.722",
+      "author": "DoncicInPTT",
+      "board": "Baseball",
+      "publishTime": "2026/02/22 05:15",
+      "imageUrl": "https://cache.pttweb.cc/imgur/5B13J5L/s/a779bf9970c6e32245adee866099d8a4"
+    },
+    {
+      "recommendScore": "77",
+      "recommendCount": "80",
+      "title": "[發錢] 乃木坂46出道14周年+5期生專輯全完售",
+      "link": "/bbs/SakaTalk/M.1771727532.A.487",
+      "author": "circus763",
+      "board": "SakaTalk",
+      "publishTime": "2026/02/22 02:32",
+      "imageUrl": "https://cache.pttweb.cc/imgur/0UEdzTk/s/87890f79e2951919a7fc1e48e707fb07"
     }
   ]
 }
