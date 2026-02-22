@@ -1,18 +1,8 @@
 {
-  "updated": "2026-02-22T14:23:08.057Z",
+  "updated": "2026-02-22T14:42:07.722Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "393",
-      "recommendCount": "411",
-      "title": "[公告] 馬上發財 (已額滿)",
-      "link": "/bbs/Lifeismoney/M.1771749168.A.59E",
-      "author": "finhisky",
-      "board": "Lifeismoney",
-      "publishTime": "2026/02/22 08:32",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "788",
       "recommendCount": "1456",
@@ -41,16 +31,6 @@
       "author": "DrowningPool",
       "board": "Stock",
       "publishTime": "2026/02/21 16:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "213",
-      "recommendCount": "289",
-      "title": "[心得] 台指期，8個月從740萬滾到3.85億",
-      "link": "/bbs/Stock/M.1771684247.A.D14",
-      "author": "destiny917",
-      "board": "Stock",
-      "publishTime": "2026/02/21 14:30",
       "imageUrl": ""
     },
     {
@@ -202,6 +182,26 @@
       "board": "Baseball",
       "publishTime": "2026/02/22 05:15",
       "imageUrl": "https://cache.pttweb.cc/imgur/5B13J5L/s/a779bf9970c6e32245adee866099d8a4"
+    },
+    {
+      "recommendScore": "77",
+      "recommendCount": "80",
+      "title": "[發錢] 乃木坂46出道14周年+5期生專輯全完售",
+      "link": "/bbs/SakaTalk/M.1771727532.A.487",
+      "author": "circus763",
+      "board": "SakaTalk",
+      "publishTime": "2026/02/22 02:32",
+      "imageUrl": "https://cache.pttweb.cc/imgur/0UEdzTk/s/87890f79e2951919a7fc1e48e707fb07"
+    },
+    {
+      "recommendScore": "60",
+      "recommendCount": "156",
+      "title": "[問卦] 股板對帳單：7百萬滾到3.8億 代表什麼",
+      "link": "/bbs/Gossiping/M.1771689756.A.2A1",
+      "author": "newpasta",
+      "board": "Gossiping",
+      "publishTime": "2026/02/21 16:02",
+      "imageUrl": "https://cache.pttweb.cc/imgur/D4Lzh8f/s/0872fa71ff832a1e12e55b5a87f40dea"
     }
   ]
 }
