@@ -1,8 +1,18 @@
 {
-  "updated": "2026-02-23T11:28:45.607Z",
+  "updated": "2026-02-23T11:48:00.699Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "645",
+      "recommendCount": "702",
+      "title": "Re: [問卦] 認真問，有沒有適合憂鬱症的工作",
+      "link": "/bbs/Gossiping/M.1771762690.A.63F",
+      "author": "ginial",
+      "board": "Gossiping",
+      "publishTime": "2026/02/22 12:18",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "247",
       "recommendCount": "279",
@@ -191,16 +201,6 @@
       "author": "destiny917",
       "board": "Stock",
       "publishTime": "2026/02/22 15:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-39",
-      "recommendCount": "129",
-      "title": "[新聞] 影音／關稅生變！王義川籲立院速簽：最多就15%",
-      "link": "/bbs/Gossiping/M.1771765332.A.F51",
-      "author": "semih",
-      "board": "Gossiping",
-      "publishTime": "2026/02/22 13:02",
       "imageUrl": ""
     }
   ]
