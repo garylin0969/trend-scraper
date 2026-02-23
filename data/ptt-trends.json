@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-23T23:05:08.200Z",
+  "updated": "2026-02-23T23:22:48.502Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "147",
-      "recommendCount": "168",
-      "title": "[BOX ] Nuggets 117:128 Warriors",
-      "link": "/bbs/NBA/M.1771801746.A.969",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2026/02/22 23:09",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "86",
       "recommendCount": "304",
       "title": "[問卦] 公立國中只剩下窮人跟8+9了嗎？",
@@ -201,6 +191,16 @@
       "author": "jason911152",
       "board": "NBA",
       "publishTime": "2026/02/23 01:59",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-73",
+      "recommendCount": "114",
+      "title": "[討論] wbc 2026",
+      "link": "/bbs/Baseball/M.1771833293.A.AE5",
+      "author": "a36085411",
+      "board": "Baseball",
+      "publishTime": "2026/02/23 07:54",
       "imageUrl": ""
     }
   ]
