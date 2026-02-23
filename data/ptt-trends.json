@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-23T08:26:33.361Z",
+  "updated": "2026-02-23T08:47:42.218Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -21,16 +21,6 @@
       "author": "bf000777966",
       "board": "Gossiping",
       "publishTime": "2026/02/22 10:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "405",
-      "recommendCount": "425",
-      "title": "[公告] 馬上發財 (已額滿)",
-      "link": "/bbs/Lifeismoney/M.1771749168.A.59E",
-      "author": "finhisky",
-      "board": "Lifeismoney",
-      "publishTime": "2026/02/22 08:32",
       "imageUrl": ""
     },
     {
@@ -91,26 +81,6 @@
       "author": "ruka660101",
       "board": "Baseball",
       "publishTime": "2026/02/22 10:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "141",
-      "recommendCount": "242",
-      "title": "[問卦] 三立又報假新聞？",
-      "link": "/bbs/Gossiping/M.1771749363.A.D7B",
-      "author": "lamigo520",
-      "board": "Gossiping",
-      "publishTime": "2026/02/22 08:36",
-      "imageUrl": "https://cache.pttweb.cc/imgur/zLTGcIB/s/ad7690358a6b283e13506c40eca8d2c1"
-    },
-    {
-      "recommendScore": "136",
-      "recommendCount": "182",
-      "title": "Re: [公告] 馬上發財",
-      "link": "/bbs/Lifeismoney/M.1771749708.A.B2A",
-      "author": "rick7436",
-      "board": "Lifeismoney",
-      "publishTime": "2026/02/22 08:41",
       "imageUrl": ""
     },
     {
@@ -202,6 +172,36 @@
       "board": "Gossiping",
       "publishTime": "2026/02/22 11:03",
       "imageUrl": "https://cache.pttweb.cc/imgur/DlVatbe/s/93b7e8c4a5b31bb501d21835a9c781cb"
+    },
+    {
+      "recommendScore": "96",
+      "recommendCount": "158",
+      "title": "[閒聊] Career：第三場打完被說為什麼那麼懦",
+      "link": "/bbs/LoL/M.1771766164.A.C69",
+      "author": "y12544",
+      "board": "LoL",
+      "publishTime": "2026/02/22 13:16",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "85",
+      "recommendCount": "144",
+      "title": "[新聞] 台股馬年開紅盤明日起跑！近10年戰績一表看　上漲機率7成",
+      "link": "/bbs/Stock/M.1771757777.A.506",
+      "author": "nisi0773",
+      "board": "Stock",
+      "publishTime": "2026/02/22 10:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "86",
+      "recommendCount": "304",
+      "title": "[問卦] 公立國中只剩下窮人跟8+9了嗎？",
+      "link": "/bbs/Gossiping/M.1771810449.A.905",
+      "author": "xvited945",
+      "board": "Gossiping",
+      "publishTime": "2026/02/23 01:34",
+      "imageUrl": ""
     }
   ]
 }
