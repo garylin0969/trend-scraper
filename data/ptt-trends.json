@@ -1,7 +1,7 @@
 {
-  "updated": "2026-02-23T07:40:58.278Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2026-02-23T08:01:56.628Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "645",
@@ -31,16 +31,6 @@
       "author": "finhisky",
       "board": "Lifeismoney",
       "publishTime": "2026/02/22 08:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "750",
-      "recommendCount": "1456",
-      "title": "[電競] 2026 LCK Cup Playoffs Lower Round 3",
-      "link": "/bbs/LoL/M.1771746112.A.E88",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/02/22 07:41",
       "imageUrl": ""
     },
     {
@@ -164,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "73",
-      "recommendCount": "235",
-      "title": "[問卦]楊繡恵：在日本吃東西不是被甜死就是鹹死",
-      "link": "/bbs/Gossiping/M.1771746762.A.BB1",
-      "author": "a91153456",
-      "board": "Gossiping",
-      "publishTime": "2026/02/22 07:52",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "114",
       "recommendCount": "199",
       "title": "[閒聊] 香港黃牛大量拋售中",
@@ -192,6 +172,36 @@
       "board": "LoL",
       "publishTime": "2026/02/22 12:35",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "123",
+      "recommendCount": "288",
+      "title": "[閒聊] T1輸大家反應也太大了吧",
+      "link": "/bbs/LoL/M.1771764987.A.4C6",
+      "author": "kikiandlala",
+      "board": "LoL",
+      "publishTime": "2026/02/22 12:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "72",
+      "recommendCount": "200",
+      "title": "[新聞] 「我們中國人過年穿大紅色」 賈永婕遭出征",
+      "link": "/bbs/Gossiping/M.1771763303.A.627",
+      "author": "crashonU",
+      "board": "Gossiping",
+      "publishTime": "2026/02/22 12:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "123",
+      "recommendCount": "138",
+      "title": "[公告] 2/22 貓之日樂奈生日快樂喔&改判 水桶",
+      "link": "/bbs/Gossiping/M.1771758235.A.CA8",
+      "author": "ubcs",
+      "board": "Gossiping",
+      "publishTime": "2026/02/22 11:03",
+      "imageUrl": "https://cache.pttweb.cc/imgur/DlVatbe/s/93b7e8c4a5b31bb501d21835a9c781cb"
     }
   ]
 }
