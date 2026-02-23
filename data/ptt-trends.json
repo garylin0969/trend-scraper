@@ -1,7 +1,7 @@
 {
-  "updated": "2026-02-23T04:35:02.514Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2026-02-23T05:15:34.093Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "645",
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "145",
-      "recommendCount": "175",
-      "title": "[閒聊] 許秀是妻",
-      "link": "/bbs/LoL/M.1771736592.A.33A",
-      "author": "violegrace",
-      "board": "LoL",
-      "publishTime": "2026/02/22 05:03",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "161",
       "recommendCount": "363",
       "title": "Re: [閒聊] 極客灣評中國手機廠商在手遊數據作弊",
@@ -191,6 +181,26 @@
       "author": "Wojnarowski",
       "board": "NBA",
       "publishTime": "2026/02/22 05:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "114",
+      "recommendCount": "199",
+      "title": "[閒聊] 香港黃牛大量拋售中",
+      "link": "/bbs/LoL/M.1771764406.A.880",
+      "author": "knight45683",
+      "board": "LoL",
+      "publishTime": "2026/02/22 12:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "85",
+      "recommendCount": "174",
+      "title": "[問題] T1這個系列賽哪一路差距最大？",
+      "link": "/bbs/LoL/M.1771763745.A.AFB",
+      "author": "qazxc1156892",
+      "board": "LoL",
+      "publishTime": "2026/02/22 12:35",
       "imageUrl": ""
     }
   ]
