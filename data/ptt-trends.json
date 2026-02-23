@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-22T23:51:54.699Z",
+  "updated": "2026-02-23T00:32:03.963Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,13 +34,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "788",
+      "recommendScore": "750",
       "recommendCount": "1456",
       "title": "[電競] 2026 LCK Cup Playoffs Lower Round 3",
       "link": "/bbs/LoL/M.1771746112.A.E88",
       "author": "laptic",
       "board": "LoL",
       "publishTime": "2026/02/22 07:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "288",
+      "recommendCount": "592",
+      "title": "[新聞] 荷蘭眾議院通過未實現所得徵稅36%",
+      "link": "/bbs/Stock/M.1771729903.A.B9A",
+      "author": "DogEggz",
+      "board": "Stock",
+      "publishTime": "2026/02/22 03:11",
       "imageUrl": ""
     },
     {
@@ -114,6 +124,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/zLTGcIB/s/ad7690358a6b283e13506c40eca8d2c1"
     },
     {
+      "recommendScore": "140",
+      "recommendCount": "195",
+      "title": "[新聞] 龍恩春訓傷退　蔡其昌：已第一時間聯繫、初檢無骨折也無大礙",
+      "link": "/bbs/Baseball/M.1771730462.A.E91",
+      "author": "tomlishan",
+      "board": "Baseball",
+      "publishTime": "2026/02/22 03:21",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "929",
       "recommendCount": "1476",
       "title": "[討論] [Vtub] Hololive 晚間直播單 (1150222)",
@@ -181,26 +201,6 @@
       "author": "ark123",
       "board": "Baseball",
       "publishTime": "2026/02/22 05:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "296",
-      "recommendCount": "698",
-      "title": "[LIVE] 籃球 休士頓火箭@紐約尼克 場中",
-      "link": "/bbs/SportLottery/M.1771722343.A.F75",
-      "author": "sean910587",
-      "board": "SportLottery",
-      "publishTime": "2026/02/22 01:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "73",
-      "recommendCount": "235",
-      "title": "[問卦]楊繡恵：在日本吃東西不是被甜死就是鹹死",
-      "link": "/bbs/Gossiping/M.1771746762.A.BB1",
-      "author": "a91153456",
-      "board": "Gossiping",
-      "publishTime": "2026/02/22 07:52",
       "imageUrl": ""
     }
   ]
