@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-23T12:27:46.175Z",
+  "updated": "2026-02-23T12:50:30.439Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,16 +44,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "233",
-      "recommendCount": "279",
-      "title": "[發錢] 許哥牛逼",
-      "link": "/bbs/LoL/M.1771763941.A.B7C",
-      "author": "rockieloser",
-      "board": "LoL",
-      "publishTime": "2026/02/22 12:39",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "261",
       "recommendCount": "731",
       "title": "[討論] 怎麼好像越來越多頻道在黑老詹？",
@@ -61,16 +51,6 @@
       "author": "b9002052",
       "board": "NBA",
       "publishTime": "2026/02/23 09:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "220",
-      "recommendCount": "254",
-      "title": "[發錢] 去香港囉DK",
-      "link": "/bbs/LoL/M.1771764217.A.203",
-      "author": "Heartlessli",
-      "board": "LoL",
-      "publishTime": "2026/02/22 12:43",
       "imageUrl": ""
     },
     {
@@ -144,26 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "114",
-      "recommendCount": "199",
-      "title": "[閒聊] 香港黃牛大量拋售中",
-      "link": "/bbs/LoL/M.1771764406.A.880",
-      "author": "knight45683",
-      "board": "LoL",
-      "publishTime": "2026/02/22 12:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "85",
-      "recommendCount": "174",
-      "title": "[問題] T1這個系列賽哪一路差距最大？",
-      "link": "/bbs/LoL/M.1771763745.A.AFB",
-      "author": "qazxc1156892",
-      "board": "LoL",
-      "publishTime": "2026/02/22 12:35",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "123",
       "recommendCount": "288",
       "title": "[閒聊] T1輸大家反應也太大了吧",
@@ -171,16 +131,6 @@
       "author": "kikiandlala",
       "board": "LoL",
       "publishTime": "2026/02/22 12:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "72",
-      "recommendCount": "200",
-      "title": "[新聞] 「我們中國人過年穿大紅色」 賈永婕遭出征",
-      "link": "/bbs/Gossiping/M.1771763303.A.627",
-      "author": "crashonU",
-      "board": "Gossiping",
-      "publishTime": "2026/02/22 12:28",
       "imageUrl": ""
     },
     {
@@ -201,6 +151,56 @@
       "author": "xvited945",
       "board": "Gossiping",
       "publishTime": "2026/02/23 01:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "86",
+      "recommendCount": "130",
+      "title": "[情報] 0223 上市外資買賣超排行",
+      "link": "/bbs/Stock/M.1771834504.A.8FC",
+      "author": "saber50116",
+      "board": "Stock",
+      "publishTime": "2026/02/23 08:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "95",
+      "recommendCount": "258",
+      "title": "Re: [花邊] LBJ：當年必須去邁阿密，從沒說會只待4年",
+      "link": "/bbs/NBA/M.1771829064.A.53E",
+      "author": "iammatrix",
+      "board": "NBA",
+      "publishTime": "2026/02/23 06:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "97",
+      "recommendCount": "135",
+      "title": "[BOX ] Celtics 111:89 Lakers",
+      "link": "/bbs/NBA/M.1771811947.A.995",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2026/02/23 01:59",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "108",
+      "recommendCount": "110",
+      "title": "[生日] 祝2/22生日的角色和聲優生日快樂 發錢",
+      "link": "/bbs/C_Chat/M.1771775759.A.258",
+      "author": "Ttei",
+      "board": "C_Chat",
+      "publishTime": "2026/02/22 15:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-73",
+      "recommendCount": "114",
+      "title": "[討論] wbc 2026",
+      "link": "/bbs/Baseball/M.1771833293.A.AE5",
+      "author": "a36085411",
+      "board": "Baseball",
+      "publishTime": "2026/02/23 07:54",
       "imageUrl": ""
     }
   ]
