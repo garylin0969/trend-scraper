@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-23T11:48:00.699Z",
+  "updated": "2026-02-23T12:02:24.036Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "83",
-      "recommendCount": "135",
-      "title": "[新聞] 群創光電南科廠區員工遭機台捲夾送醫不治 同機型機台全面停工受檢",
-      "link": "/bbs/Gossiping/M.1771761243.A.D2D",
-      "author": "gotopark",
-      "board": "Gossiping",
-      "publishTime": "2026/02/22 11:54",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "108",
       "recommendCount": "110",
       "title": "[生日] 祝2/22生日的角色和聲優生日快樂 發錢",
@@ -201,6 +191,16 @@
       "author": "destiny917",
       "board": "Stock",
       "publishTime": "2026/02/22 15:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-39",
+      "recommendCount": "129",
+      "title": "[新聞] 影音／關稅生變！王義川籲立院速簽：最多就15%",
+      "link": "/bbs/Gossiping/M.1771765332.A.F51",
+      "author": "semih",
+      "board": "Gossiping",
+      "publishTime": "2026/02/22 13:02",
       "imageUrl": ""
     }
   ]
