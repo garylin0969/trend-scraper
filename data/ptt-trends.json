@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-24T12:51:05.363Z",
+  "updated": "2026-02-24T13:23:08.793Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "42",
-      "recommendCount": "71",
-      "title": "[新聞] 川普關稅遭推翻　歐洲議會有意暫停美歐貿易協議",
-      "link": "/bbs/Gossiping/M.1771852400.A.572",
-      "author": "patrick08",
-      "board": "Gossiping",
-      "publishTime": "2026/02/23 13:13",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "57",
       "recommendCount": "92",
       "title": "[閒聊] 寶可夢151隻都背起來為什麼德川將軍無法",
@@ -201,6 +191,16 @@
       "author": "bttnec",
       "board": "Gossiping",
       "publishTime": "2026/02/24 03:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "25",
+      "recommendCount": "69",
+      "title": "[新聞] 川普警告各國：誰敢利用最高法院裁決耍花招「關稅會更高」",
+      "link": "/bbs/Stock/M.1771861635.A.9CB",
+      "author": "kof70380",
+      "board": "Stock",
+      "publishTime": "2026/02/23 15:47",
       "imageUrl": ""
     }
   ]
