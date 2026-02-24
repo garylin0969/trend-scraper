@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-24T11:09:39.781Z",
+  "updated": "2026-02-24T11:28:53.060Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "58",
-      "recommendCount": "75",
-      "title": "[閒聊] Smash：戰勝 T1 的情緒很複雜",
-      "link": "/bbs/LoL/M.1771845569.A.025",
-      "author": "y12544",
-      "board": "LoL",
-      "publishTime": "2026/02/23 11:19",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "59",
       "recommendCount": "65",
       "title": "[炸裂] 張育成",
@@ -201,6 +191,16 @@
       "author": "bamama56",
       "board": "C_Chat",
       "publishTime": "2026/02/23 13:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "47",
+      "recommendCount": "205",
+      "title": "[討論] 來討論一下湖人神奇的『後衛護框』戰術",
+      "link": "/bbs/NBA/M.1771853338.A.BA9",
+      "author": "mike37",
+      "board": "NBA",
+      "publishTime": "2026/02/23 13:28",
       "imageUrl": ""
     }
   ]
