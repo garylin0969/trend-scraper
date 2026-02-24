@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-24T10:47:49.954Z",
+  "updated": "2026-02-24T11:09:39.781Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -72,16 +72,6 @@
       "board": "C_Chat",
       "publishTime": "2026/02/24 04:09",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "222",
-      "recommendCount": "414",
-      "title": "[討論] [Vtub] Hololive 晚間直播單 (1150223)",
-      "link": "/bbs/C_Chat/M.1771843798.A.5BE",
-      "author": "laptic",
-      "board": "C_Chat",
-      "publishTime": "2026/02/23 10:49",
-      "imageUrl": "https://cache.pttweb.cc/imgur/7E0HIbo/s/9d7ccd99f9cefb6f1e43467213a1fc48"
     },
     {
       "recommendScore": "100",
@@ -194,14 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "58",
-      "recommendCount": "60",
-      "title": "[問卦] 黃金獵犬救貓 貓熊圓寶睡死 (發錢)",
-      "link": "/bbs/Gossiping/M.1771844742.A.827",
-      "author": "q347",
+      "recommendScore": "42",
+      "recommendCount": "71",
+      "title": "[新聞] 川普關稅遭推翻　歐洲議會有意暫停美歐貿易協議",
+      "link": "/bbs/Gossiping/M.1771852400.A.572",
+      "author": "patrick08",
       "board": "Gossiping",
-      "publishTime": "2026/02/23 11:05",
-      "imageUrl": "https://cache.pttweb.cc/imgur/MoX4ZMl/s/ba2814a596cca9fac6354e287f52afd5"
+      "publishTime": "2026/02/23 13:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "57",
+      "recommendCount": "92",
+      "title": "[閒聊] 寶可夢151隻都背起來為什麼德川將軍無法",
+      "link": "/bbs/C_Chat/M.1771854296.A.73E",
+      "author": "bamama56",
+      "board": "C_Chat",
+      "publishTime": "2026/02/23 13:44",
+      "imageUrl": ""
     }
   ]
 }
