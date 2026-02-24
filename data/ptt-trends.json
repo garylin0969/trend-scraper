@@ -1,8 +1,38 @@
 {
-  "updated": "2026-02-24T16:02:26.723Z",
+  "updated": "2026-02-24T16:34:10.991Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "436",
+      "recommendCount": "546",
+      "title": "[爆卦] 地震",
+      "link": "/bbs/Gossiping/M.1771907879.A.4B6",
+      "author": "rz2x",
+      "board": "Gossiping",
+      "publishTime": "2026/02/24 04:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "184",
+      "recommendCount": "335",
+      "title": "[新聞] 快訊／推舉出爐！柯建銘時代終結　蔡其昌當選民進黨團總召",
+      "link": "/bbs/Gossiping/M.1771905738.A.FCC",
+      "author": "SideWalk3310",
+      "board": "Gossiping",
+      "publishTime": "2026/02/24 04:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-37",
+      "recommendCount": "164",
+      "title": "[新聞] 藍白新北完了！黃國昌突喊加入李四川團隊她曝「3票源」全給蘇巧慧",
+      "link": "/bbs/Gossiping/M.1771906121.A.27D",
+      "author": "Sparda",
+      "board": "Gossiping",
+      "publishTime": "2026/02/24 04:08",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "109",
       "recommendCount": "110",
@@ -172,36 +202,6 @@
       "board": "Baseball",
       "publishTime": "2026/02/24 04:43",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "42",
-      "recommendCount": "65",
-      "title": "[閒聊] 日本麥當勞聯動 中國網友指責辱華",
-      "link": "/bbs/C_Chat/M.1771855170.A.A43",
-      "author": "outsmart33",
-      "board": "C_Chat",
-      "publishTime": "2026/02/23 13:59",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "29",
-      "recommendCount": "69",
-      "title": "[FF7R] 不怕畫質縮水！第三部曲以PC為主",
-      "link": "/bbs/C_Chat/M.1771905516.A.636",
-      "author": "SuperSg",
-      "board": "C_Chat",
-      "publishTime": "2026/02/24 03:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "44",
-      "recommendCount": "57",
-      "title": "[分享] 富邦先馳得點",
-      "link": "/bbs/BaseballXXXX/M.1771903270.A.233",
-      "author": "kman5566",
-      "board": "BaseballXXXX",
-      "publishTime": "2026/02/24 03:21",
-      "imageUrl": "https://cache.pttweb.cc/imgur/dR2Xo9h/s/f602b6c3cf767905ff0edd02c1a23cfe"
     }
   ]
 }
