@@ -1,14 +1,22 @@
 {
-  "updated": "2026-02-25T08:00:33.322Z",
+  "updated": "2026-02-25T08:29:27.243Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-02-25T08:00:21.000Z",
+    "lastBuildDate": "2026-02-25T08:29:18.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "特朗普國情咨文誇讚美國步入「黃金時代」   一文看懂關鍵點和爭議點",
+      "description": "分析稱這場演說充滿自信、攻擊對手與愛國主義的號召，卻鮮少提出新政策細節，凸顯特朗普第二任期執政風格：強勢宣揚成就、淡化挫折、鮮有兩黨合作的空間。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn0zxe0rl7po/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-25T08:00:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn0zxe0rl7po/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ca0e/live/1bdae5e0-1220-11f1-9120-a910fc22c6ac.jpg"
+    },
     {
       "title": "對華逆差超千億美元，默茨首次訪華能否反轉中德「零和」競爭？",
       "description": "有分析預測，德國未來應該會將兩國關係定位為「戰略夥伴」與「系統性競爭者」並存的雙重框架。",
@@ -42,20 +50,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/45f6/live/0e17f770-0d81-11f1-b5e2-dd58fc65f0f6.jpg"
     },
     {
-      "title": "英國首名嬰兒透過已故捐贈者子宮移植誕生",
-      "description": "出生時沒有可用子宮的格蕾絲貝爾說，她的小男孩「簡直是個奇蹟」。",
-      "link": "https://www.bbc.com/zhongwen/articles/ce3gj3pdd0qo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-25T03:23:12.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce3gj3pdd0qo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c45e/live/807ee080-115f-11f1-801d-ed3cff6bf876.jpg"
-    },
-    {
       "title": "英國超市將巧克力鎖進防盜盒阻止「訂單式」偷竊",
       "description": "英國超商竊案頻傳，即便是低價的巧克力商品也被系統性偷竊轉賣，超市也加強對巧克力棒的安保措施，特易購、合作聯盟與森寶利連鎖店使用需向店員索取開啟的透明防盜盒。",
       "link": "https://www.bbc.com/zhongwen/articles/c07jp77kkp7o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-02-25T05:33:35.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c07jp77kkp7o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fbe6/live/efc1b930-11fb-11f1-b048-c9424b2cf5fd.jpg"
+    },
+    {
+      "title": "英國首名嬰兒透過已故捐贈者子宮移植誕生",
+      "description": "出生時沒有可用子宮的格蕾絲貝爾說，她的小男孩「簡直是個奇蹟」。",
+      "link": "https://www.bbc.com/zhongwen/articles/ce3gj3pdd0qo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-25T03:23:12.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce3gj3pdd0qo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c45e/live/807ee080-115f-11f1-801d-ed3cff6bf876.jpg"
     },
     {
       "title": "菲律賓前總統杜特爾特因「反人類罪」受審：你需要知道的事",
@@ -88,14 +96,6 @@
       "pubDate": "2026-02-20T08:29:44.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c4g5e2eq4ljo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c193/live/c3cc8960-0e20-11f1-b5e2-dd58fc65f0f6.jpg"
-    },
-    {
-      "title": "特朗普威脅已有貿易協定國家別「玩花樣」",
-      "description": "此前，最高法院於週五裁定，特朗普實施全球關稅計劃時超越了其權限。目前全球多國表示正在評估哪些關稅與貿易協議仍然有效。",
-      "link": "https://www.bbc.com/zhongwen/articles/cze0rr402wwo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-24T06:18:55.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cze0rr402wwo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bfde/live/054d08f0-10ac-11f1-bcca-5de40b00ede7.jpg"
     },
     {
       "title": "Seedance 2.0: 這款中國AI應用程式令好萊塢陷入恐慌",
