@@ -1,18 +1,8 @@
 {
-  "updated": "2026-02-25T09:33:25.685Z",
+  "updated": "2026-02-25T10:01:24.014Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "398",
-      "recommendCount": "1170",
-      "title": "[新聞] 卓榮泰：台電已與核三原設計廠簽 MOU 對新式核能持開放態度",
-      "link": "/bbs/Gossiping/M.1771926414.A.95F",
-      "author": "raiseSaga",
-      "board": "Gossiping",
-      "publishTime": "2026/02/24 09:46",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "265",
       "recommendCount": "383",
@@ -31,6 +21,16 @@
       "author": "iamshana",
       "board": "Baseball",
       "publishTime": "2026/02/24 10:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "90",
+      "recommendCount": "262",
+      "title": "[新聞] 態度變了？賴清德改稱對岸「中國大陸」：盼維持現狀",
+      "link": "/bbs/Gossiping/M.1772006888.A.4E2",
+      "author": "Kazmier",
+      "board": "Gossiping",
+      "publishTime": "2026/02/25 08:08",
       "imageUrl": ""
     },
     {
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "82",
+      "recommendCount": "144",
+      "title": "[情報] 0225 上市外資買賣超排行",
+      "link": "/bbs/Stock/M.1772007021.A.EF0",
+      "author": "saber50116",
+      "board": "Stock",
+      "publishTime": "2026/02/25 08:10",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "81",
       "recommendCount": "196",
       "title": "[花邊] 77傳炸彈給姆斯絕殺不中",
@@ -191,16 +201,6 @@
       "author": "st210113",
       "board": "Gossiping",
       "publishTime": "2026/02/24 10:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "138",
-      "recommendCount": "304",
-      "title": "[閒聊] Oner經紀公司針對中傷誹謗發出聲明",
-      "link": "/bbs/LoL/M.1771929100.A.E61",
-      "author": "eric20601",
-      "board": "LoL",
-      "publishTime": "2026/02/24 10:31",
       "imageUrl": ""
     }
   ]
