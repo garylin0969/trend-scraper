@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-25T10:26:33.386Z",
+  "updated": "2026-02-25T10:48:00.159Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "138",
-      "recommendCount": "304",
-      "title": "[閒聊] Oner經紀公司針對中傷誹謗發出聲明",
-      "link": "/bbs/LoL/M.1771929100.A.E61",
-      "author": "eric20601",
-      "board": "LoL",
-      "publishTime": "2026/02/24 10:31",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "61",
       "recommendCount": "252",
       "title": "[問卦] 清寒勸募卻全身穿戴？",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2026/02/24 10:59",
       "imageUrl": "https://cache.pttweb.cc/imgur/DqhmBG8/s/23d3dad3ba4c1a7092bfafc1d32854f6"
+    },
+    {
+      "recommendScore": "105",
+      "recommendCount": "106",
+      "title": "[鳴潮] 即使辛苦 我也是61的把拔了",
+      "link": "/bbs/C_Chat/M.1771975636.A.56D",
+      "author": "SaberMyWifi",
+      "board": "C_Chat",
+      "publishTime": "2026/02/24 23:27",
+      "imageUrl": ""
     }
   ]
 }
