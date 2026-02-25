@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-25T11:28:44.179Z",
+  "updated": "2026-02-25T11:47:50.729Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -31,16 +31,6 @@
       "author": "jason911152",
       "board": "NBA",
       "publishTime": "2026/02/25 06:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "122",
-      "recommendCount": "199",
-      "title": "[閒聊] 有什麼遊戲是評價很高卻玩不太下去的",
-      "link": "/bbs/C_Chat/M.1771932882.A.FF7",
-      "author": "Rocal",
-      "board": "C_Chat",
-      "publishTime": "2026/02/24 11:34",
       "imageUrl": ""
     },
     {
@@ -174,26 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "78",
-      "recommendCount": "113",
-      "title": "[新聞] 燿華股價狂飆 自結2026年1月虧損4,300萬元",
-      "link": "/bbs/Stock/M.1771932688.A.F7F",
-      "author": "es612",
-      "board": "Stock",
-      "publishTime": "2026/02/24 11:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "100",
-      "recommendCount": "102",
-      "title": "[星塔] 最爽的一次（發錢）",
-      "link": "/bbs/C_Chat/M.1771933541.A.788",
-      "author": "zxredice2356",
-      "board": "C_Chat",
-      "publishTime": "2026/02/24 11:45",
-      "imageUrl": "https://cache.pttweb.cc/imgur/d1nWp20/s/26beff0246e70359981aedcfb654748a"
-    },
-    {
       "recommendScore": "82",
       "recommendCount": "157",
       "title": "[問卦] 幹你娘台灣被垃圾害到沒救了吧？",
@@ -201,6 +171,36 @@
       "author": "dayuer",
       "board": "Gossiping",
       "publishTime": "2026/02/25 09:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "67",
+      "recommendCount": "115",
+      "title": "[情報] 115年02月25日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1772003427.A.D1C",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2026/02/25 07:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "62",
+      "recommendCount": "119",
+      "title": "[請益] 明天Nvidia財報看法",
+      "link": "/bbs/Stock/M.1771974357.A.99A",
+      "author": "mos3491948",
+      "board": "Stock",
+      "publishTime": "2026/02/24 23:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "84",
+      "recommendCount": "103",
+      "title": "[地震] 地震",
+      "link": "/bbs/Gossiping/M.1771953828.A.24D",
+      "author": "nicky1245",
+      "board": "Gossiping",
+      "publishTime": "2026/02/24 17:23",
       "imageUrl": ""
     }
   ]
