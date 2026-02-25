@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-25T17:04:32.199Z",
+  "updated": "2026-02-25T18:01:45.866Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -11,6 +11,16 @@
       "author": "Kazmier",
       "board": "Gossiping",
       "publishTime": "2026/02/25 08:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "151",
+      "recommendCount": "222",
+      "title": "[新聞] 近3年最低！ 軟銀兄弟票房出爐",
+      "link": "/bbs/Baseball/M.1772027786.A.C2B",
+      "author": "tomlishan",
+      "board": "Baseball",
+      "publishTime": "2026/02/25 13:56",
       "imageUrl": ""
     },
     {
@@ -134,13 +144,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "84",
-      "recommendCount": "103",
-      "title": "[地震] 地震",
-      "link": "/bbs/Gossiping/M.1771953828.A.24D",
-      "author": "nicky1245",
-      "board": "Gossiping",
-      "publishTime": "2026/02/24 17:23",
+      "recommendScore": "82",
+      "recommendCount": "108",
+      "title": "[新聞] 狂讚兄弟王牌投手！軟銀監督眼睛為之一亮",
+      "link": "/bbs/Baseball/M.1772029200.A.5CE",
+      "author": "kensukeshu",
+      "board": "Baseball",
+      "publishTime": "2026/02/25 14:20",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "Gentlemon",
       "board": "C_Chat",
       "publishTime": "2026/02/24 22:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "58",
-      "recommendCount": "145",
-      "title": "[新聞] 蔣萬安拍板！北市家有12歲以下爸媽 日減1小時工時工資市府補",
-      "link": "/bbs/Gossiping/M.1771995828.A.199",
-      "author": "KMT5566",
-      "board": "Gossiping",
-      "publishTime": "2026/02/25 05:03",
       "imageUrl": ""
     }
   ]
