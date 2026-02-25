@@ -1,11 +1,11 @@
 {
-  "updated": "2026-02-25T20:13:16.675Z",
+  "updated": "2026-02-25T20:32:56.561Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "178",
-      "recommendCount": "294",
+      "recommendScore": "204",
+      "recommendCount": "332",
       "title": "[心得] 認錯買回台積電",
       "link": "/bbs/Stock/M.1772029627.A.188",
       "author": "espanol",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "151",
-      "recommendCount": "222",
+      "recommendScore": "153",
+      "recommendCount": "224",
       "title": "[新聞] 近3年最低！ 軟銀兄弟票房出爐",
       "link": "/bbs/Baseball/M.1772027786.A.C2B",
       "author": "tomlishan",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "177",
-      "recommendCount": "280",
+      "recommendScore": "184",
+      "recommendCount": "290",
       "title": "[情報] Jonathon Long 傷勢復原比預期慢",
       "link": "/bbs/Baseball/M.1772039968.A.ED9",
       "author": "oncemore",
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "104",
+      "recommendCount": "174",
+      "title": "[新聞] 全球首款，針對兒童小陰莖，長春高新子公司自研軟膏臨床試驗核准",
+      "link": "/bbs/Stock/M.1772028752.A.83D",
+      "author": "addy7533967",
+      "board": "Stock",
+      "publishTime": "2026/02/25 14:12",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "109",
       "recommendCount": "155",
       "title": "[閒聊] Twitch宣布執法「現代化」！輕微違規者",
@@ -91,6 +101,16 @@
       "author": "AoyamaNanami",
       "board": "C_Chat",
       "publishTime": "2026/02/25 08:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "113",
+      "recommendCount": "160",
+      "title": "[分享] 為母親祖國拚戰 費仔: 下回邀卡仔參",
+      "link": "/bbs/Baseball/M.1772030815.A.2D8",
+      "author": "Yaung1003",
+      "board": "Baseball",
+      "publishTime": "2026/02/25 14:46",
       "imageUrl": ""
     },
     {
@@ -134,26 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "98",
-      "recommendCount": "140",
-      "title": "[分享] 為母親祖國拚戰 費仔: 下回邀卡仔參",
-      "link": "/bbs/Baseball/M.1772030815.A.2D8",
-      "author": "Yaung1003",
-      "board": "Baseball",
-      "publishTime": "2026/02/25 14:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "91",
-      "recommendCount": "151",
-      "title": "[新聞] 全球首款，針對兒童小陰莖，長春高新子公司自研軟膏臨床試驗核准",
-      "link": "/bbs/Stock/M.1772028752.A.83D",
-      "author": "addy7533967",
-      "board": "Stock",
-      "publishTime": "2026/02/25 14:12",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "105",
       "recommendCount": "106",
       "title": "[鳴潮] 即使辛苦 我也是61的把拔了",
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "85",
+      "recommendCount": "112",
+      "title": "[新聞] 狂讚兄弟王牌投手！軟銀監督眼睛為之一亮",
+      "link": "/bbs/Baseball/M.1772029200.A.5CE",
+      "author": "kensukeshu",
+      "board": "Baseball",
+      "publishTime": "2026/02/25 14:20",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "82",
       "recommendCount": "157",
       "title": "[問卦] 幹你娘台灣被垃圾害到沒救了吧？",
@@ -184,24 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "67",
-      "recommendCount": "115",
-      "title": "[情報] 115年02月25日 三大法人買賣金額統計表",
-      "link": "/bbs/Stock/M.1772003427.A.D1C",
-      "author": "coconing",
-      "board": "Stock",
-      "publishTime": "2026/02/25 07:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "121",
-      "recommendCount": "316",
-      "title": "[LIVE] 籃球 波士頓塞爾提克 @ 鳳凰城太陽 場中",
-      "link": "/bbs/SportLottery/M.1771984674.A.AFF",
-      "author": "apparition10",
-      "board": "SportLottery",
-      "publishTime": "2026/02/25 01:57",
-      "imageUrl": ""
+      "recommendScore": "202",
+      "recommendCount": "395",
+      "title": "[情報] Rakuten Girls Welcome 金佳珢",
+      "link": "/bbs/CheerGirlsTW/M.1772000551.A.E09",
+      "author": "jerryyuan",
+      "board": "CheerGirlsTW",
+      "publishTime": "2026/02/25 06:22",
+      "imageUrl": "https://cache.pttweb.cc/imgur/PT1rSF5/s/c9f3f5819293d67d4b7ca4d64e0646e9"
     }
   ]
 }
