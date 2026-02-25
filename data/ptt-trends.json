@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-25T21:51:30.688Z",
+  "updated": "2026-02-25T22:02:21.955Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "281",
+      "recommendCount": "911",
+      "title": "[BOX ] Magic 110:109 Lakers",
+      "link": "/bbs/Lakers/M.1771999237.A.330",
+      "author": "jason911152",
+      "board": "Lakers",
+      "publishTime": "2026/02/25 06:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "105",
       "recommendCount": "106",
       "title": "[鳴潮] 即使辛苦 我也是61的把拔了",
@@ -192,16 +202,6 @@
       "board": "CheerGirlsTW",
       "publishTime": "2026/02/25 06:22",
       "imageUrl": "https://cache.pttweb.cc/imgur/PT1rSF5/s/c9f3f5819293d67d4b7ca4d64e0646e9"
-    },
-    {
-      "recommendScore": "67",
-      "recommendCount": "115",
-      "title": "[情報] 115年02月25日 三大法人買賣金額統計表",
-      "link": "/bbs/Stock/M.1772003427.A.D1C",
-      "author": "coconing",
-      "board": "Stock",
-      "publishTime": "2026/02/25 07:10",
-      "imageUrl": ""
     }
   ]
 }
