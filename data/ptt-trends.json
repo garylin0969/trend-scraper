@@ -1,8 +1,18 @@
 {
-  "updated": "2026-02-25T00:01:35.519Z",
+  "updated": "2026-02-25T00:52:21.709Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "398",
+      "recommendCount": "1170",
+      "title": "[新聞] 卓榮泰：台電已與核三原設計廠簽 MOU 對新式核能持開放態度",
+      "link": "/bbs/Gossiping/M.1771926414.A.95F",
+      "author": "raiseSaga",
+      "board": "Gossiping",
+      "publishTime": "2026/02/24 09:46",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "436",
       "recommendCount": "546",
@@ -11,6 +21,36 @@
       "author": "rz2x",
       "board": "Gossiping",
       "publishTime": "2026/02/24 04:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "200",
+      "recommendCount": "565",
+      "title": "[新聞] 32歲女刮中20萬怕被搶 請警方到彩券行護鈔",
+      "link": "/bbs/Gossiping/M.1771923212.A.497",
+      "author": "v26457681",
+      "board": "Gossiping",
+      "publishTime": "2026/02/24 08:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "108",
+      "recommendCount": "680",
+      "title": "[新聞] 小公務員「靠1招」擁900多張台積電！謝金河：台灣底氣在民間",
+      "link": "/bbs/Stock/M.1771918681.A.28F",
+      "author": "IzumiKonata",
+      "board": "Stock",
+      "publishTime": "2026/02/24 07:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "265",
+      "recommendCount": "383",
+      "title": "[新聞] 台積電被證交所盯上！6天價差過大",
+      "link": "/bbs/Stock/M.1771932106.A.56D",
+      "author": "AnneofGreen",
+      "board": "Stock",
+      "publishTime": "2026/02/24 11:21",
       "imageUrl": ""
     },
     {
@@ -24,183 +64,143 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-37",
-      "recommendCount": "164",
-      "title": "[新聞] 藍白新北完了！黃國昌突喊加入李四川團隊她曝「3票源」全給蘇巧慧",
-      "link": "/bbs/Gossiping/M.1771906121.A.27D",
-      "author": "Sparda",
+      "recommendScore": "162",
+      "recommendCount": "413",
+      "title": "[問卦] 台股八個月漲了15000點 是誰的功勞",
+      "link": "/bbs/Gossiping/M.1771912918.A.BF5",
+      "author": "Beatrice322",
       "board": "Gossiping",
-      "publishTime": "2026/02/24 04:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "109",
-      "recommendCount": "110",
-      "title": "[閒聊] 馬娘五週年抽抽 超歐發錢",
-      "link": "/bbs/C_Chat/M.1771904432.A.765",
-      "author": "ging1995",
-      "board": "C_Chat",
-      "publishTime": "2026/02/24 03:40",
-      "imageUrl": "https://cache.pttweb.cc/imgur/KVCJhRD/s/0fbb468f107c329edd4a71327b58d12f"
-    },
-    {
-      "recommendScore": "72",
-      "recommendCount": "114",
-      "title": "[閒聊] 附身的都市傳說怎麼就不會附PVC上",
-      "link": "/bbs/C_Chat/M.1771906170.A.30A",
-      "author": "s7503228",
-      "board": "C_Chat",
-      "publishTime": "2026/02/24 04:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "100",
-      "recommendCount": "183",
-      "title": "[暈船] 週刊爆料：朴星垠加入FA  VS 樂天六本柱",
-      "link": "/bbs/BaseballXXXX/M.1771888194.A.F3E",
-      "author": "ZHUGUA",
-      "board": "BaseballXXXX",
-      "publishTime": "2026/02/23 23:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "59",
-      "recommendCount": "65",
-      "title": "[炸裂] 張育成",
-      "link": "/bbs/Baseball/M.1771909514.A.07D",
-      "author": "huihuiiiii",
-      "board": "Baseball",
-      "publishTime": "2026/02/24 05:05",
-      "imageUrl": "https://cache.pttweb.cc/imgur/zTGgipa/s/77c632355fa2708277e71d632f22ff94"
-    },
-    {
-      "recommendScore": "74",
-      "recommendCount": "138",
-      "title": "[政治] 蔡其昌-＞DPP黨團總召",
-      "link": "/bbs/BaseballXXXX/M.1771905873.A.D2F",
-      "author": "yasan1029",
-      "board": "BaseballXXXX",
-      "publishTime": "2026/02/24 04:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "42",
-      "recommendCount": "67",
-      "title": "[新聞] Switch被沒收爆怒！美11歲童生日開槍弒父坦言：我殺了爸爸",
-      "link": "/bbs/Gossiping/M.1771904297.A.E9F",
-      "author": "Tencc",
-      "board": "Gossiping",
-      "publishTime": "2026/02/24 03:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "35",
-      "recommendCount": "73",
-      "title": "[新聞] 快訊》柯建銘下台 蔡其昌擔任民進黨團總召",
-      "link": "/bbs/Gossiping/M.1771908971.A.796",
-      "author": "mongi",
-      "board": "Gossiping",
-      "publishTime": "2026/02/24 04:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "59",
-      "recommendCount": "61",
-      "title": "Re: [發錢] 新楓之谷的事情",
-      "link": "/bbs/BaseballXXXX/M.1771897782.A.7FE",
-      "author": "abc1234586",
-      "board": "BaseballXXXX",
-      "publishTime": "2026/02/24 01:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "54",
-      "recommendCount": "59",
-      "title": "[分享] We are新進員工+2",
-      "link": "/bbs/BaseballXXXX/M.1771913392.A.496",
-      "author": "cookie123",
-      "board": "BaseballXXXX",
-      "publishTime": "2026/02/24 06:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "57",
-      "recommendCount": "92",
-      "title": "[閒聊] 寶可夢151隻都背起來為什麼德川將軍無法",
-      "link": "/bbs/C_Chat/M.1771854296.A.73E",
-      "author": "bamama56",
-      "board": "C_Chat",
-      "publishTime": "2026/02/23 13:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "39",
-      "recommendCount": "71",
-      "title": "[花邊] James Worthy：湖人隊沒鬥志、很軟",
-      "link": "/bbs/NBA/M.1771906777.A.7F9",
-      "author": "Mikufans",
-      "board": "NBA",
-      "publishTime": "2026/02/24 04:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "41",
-      "recommendCount": "75",
-      "title": "[新聞]  快訊／推舉出爐！柯建銘時代終結　蔡其昌當選民進黨團總召",
-      "link": "/bbs/HatePolitics/M.1771906022.A.80D",
-      "author": "Pietro",
-      "board": "HatePolitics",
-      "publishTime": "2026/02/24 04:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "8",
-      "recommendCount": "115",
-      "title": "[問卦] 只有我覺得陳尚潔社工是無辜的嗎??",
-      "link": "/bbs/Gossiping/M.1771904566.A.64B",
-      "author": "bttnec",
-      "board": "Gossiping",
-      "publishTime": "2026/02/24 03:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "25",
-      "recommendCount": "69",
-      "title": "[新聞] 川普警告各國：誰敢利用最高法院裁決耍花招「關稅會更高」",
-      "link": "/bbs/Stock/M.1771861635.A.9CB",
-      "author": "kof70380",
-      "board": "Stock",
-      "publishTime": "2026/02/23 15:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "63",
-      "recommendCount": "132",
-      "title": "[分享] RKG welcome 高佳彬",
-      "link": "/bbs/BaseballXXXX/M.1771912892.A.DC4",
-      "author": "BayAreaUnite",
-      "board": "BaseballXXXX",
       "publishTime": "2026/02/24 06:01",
       "imageUrl": ""
     },
     {
-      "recommendScore": "41",
-      "recommendCount": "55",
-      "title": "[分享] 蔡其昌FB 向Long的阿公阿嬤拜年",
-      "link": "/bbs/Baseball/M.1771855870.A.776",
-      "author": "micheal59",
-      "board": "Baseball",
-      "publishTime": "2026/02/23 14:11",
+      "recommendScore": "96",
+      "recommendCount": "341",
+      "title": "[問卦] 日本人強迫台女當慰安婦40%都忘了？",
+      "link": "/bbs/Gossiping/M.1771914775.A.6E5",
+      "author": "jeff785chen",
+      "board": "Gossiping",
+      "publishTime": "2026/02/24 06:32",
       "imageUrl": ""
     },
     {
-      "recommendScore": "39",
-      "recommendCount": "66",
-      "title": "[新聞] 天使老闆謬論惹議：球迷愛便宜門票多過贏球",
-      "link": "/bbs/Baseball/M.1771908238.A.B2B",
-      "author": "polanco",
+      "recommendScore": "172",
+      "recommendCount": "233",
+      "title": "[情報] 115年02月24日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1771916479.A.966",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2026/02/24 07:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "186",
+      "recommendCount": "219",
+      "title": "[新聞] 狂掃12安！王柏融3安5度上壘、曾昱磬開轟　台鋼13比1宰NC恐龍",
+      "link": "/bbs/Baseball/M.1771927882.A.829",
+      "author": "iamshana",
       "board": "Baseball",
-      "publishTime": "2026/02/24 04:43",
+      "publishTime": "2026/02/24 10:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "157",
+      "recommendCount": "380",
+      "title": "[外絮] 富保羅搭檔: JB>77 77的雕像會是雙手抱怨",
+      "link": "/bbs/NBA/M.1771922561.A.33A",
+      "author": "usnavyseal",
+      "board": "NBA",
+      "publishTime": "2026/02/24 08:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "732",
+      "recommendCount": "1451",
+      "title": "[電競] 2026 LPL Split 1 Playoffs Day 1",
+      "link": "/bbs/LoL/M.1771911873.A.5ED",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/02/24 05:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "111",
+      "recommendCount": "341",
+      "title": "[問卦] 力挺反核辯論會及反核粉 都不承認翻車？",
+      "link": "/bbs/Gossiping/M.1771930755.A.B69",
+      "author": "Beatrice322",
+      "board": "Gossiping",
+      "publishTime": "2026/02/24 10:59",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "93",
+      "recommendCount": "247",
+      "title": "[外絮] Bill Simmons:連LBJ都受不了Doncic抱怨",
+      "link": "/bbs/NBA/M.1771912845.A.75B",
+      "author": "LukaDoncic77",
+      "board": "NBA",
+      "publishTime": "2026/02/24 06:00",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Qnxnhnl/s/3b362b46c7820add2e13bdd8de3dd6ae"
+    },
+    {
+      "recommendScore": "903",
+      "recommendCount": "1477",
+      "title": "[討論] [Vtub] Hololive 晚間直播單 (1150224)",
+      "link": "/bbs/C_Chat/M.1771930172.A.709",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2026/02/24 10:49",
+      "imageUrl": "https://cache.pttweb.cc/imgur/neDaFHi/s/07688e3d670d864108816e90c4075f1a"
+    },
+    {
+      "recommendScore": "111",
+      "recommendCount": "231",
+      "title": "[新聞] 獨／餐廳冰庫女屍現場曝！鎖12小時凍死...有帶手機離奇未求救",
+      "link": "/bbs/Gossiping/M.1771917742.A.B3E",
+      "author": "kensukeshu",
+      "board": "Gossiping",
+      "publishTime": "2026/02/24 07:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "132",
+      "recommendCount": "214",
+      "title": "[新聞] 獨／北市文山區知名餐廳開工迎客！　驚見「女員工離奇陳屍冰庫」",
+      "link": "/bbs/Gossiping/M.1771913972.A.291",
+      "author": "DDDDRR",
+      "board": "Gossiping",
+      "publishTime": "2026/02/24 06:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "122",
+      "recommendCount": "199",
+      "title": "[閒聊] 有什麼遊戲是評價很高卻玩不太下去的",
+      "link": "/bbs/C_Chat/M.1771932882.A.FF7",
+      "author": "Rocal",
+      "board": "C_Chat",
+      "publishTime": "2026/02/24 11:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "49",
+      "recommendCount": "170",
+      "title": "[新聞] 賴總統新春釋善意　稱中國「大陸」重申兩岸維持現狀",
+      "link": "/bbs/Gossiping/M.1771938935.A.954",
+      "author": "lamigo",
+      "board": "Gossiping",
+      "publishTime": "2026/02/24 13:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "133",
+      "recommendCount": "270",
+      "title": "[新聞] 獨家｜鄭習會辦定了！鄭麗文證實「對選舉大加分」　藍委嚇爛：她怎這麼有自信？",
+      "link": "/bbs/HatePolitics/M.1771937262.A.308",
+      "author": "rickcoo",
+      "board": "HatePolitics",
+      "publishTime": "2026/02/24 12:47",
       "imageUrl": ""
     }
   ]
