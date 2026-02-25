@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-25T18:34:11.711Z",
+  "updated": "2026-02-25T19:02:58.535Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -51,6 +51,16 @@
       "author": "jason911152",
       "board": "NBA",
       "publishTime": "2026/02/25 06:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "177",
+      "recommendCount": "280",
+      "title": "[情報] Jonathon Long 傷勢復原比預期慢",
+      "link": "/bbs/Baseball/M.1772039968.A.ED9",
+      "author": "oncemore",
+      "board": "Baseball",
+      "publishTime": "2026/02/25 17:19",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "mos3491948",
       "board": "Stock",
       "publishTime": "2026/02/24 23:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "82",
-      "recommendCount": "108",
-      "title": "[新聞] 狂讚兄弟王牌投手！軟銀監督眼睛為之一亮",
-      "link": "/bbs/Baseball/M.1772029200.A.5CE",
-      "author": "kensukeshu",
-      "board": "Baseball",
-      "publishTime": "2026/02/25 14:20",
       "imageUrl": ""
     }
   ]
