@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-26T08:40:30.795Z",
+  "updated": "2026-02-26T09:03:12.005Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -82,16 +82,6 @@
       "board": "Gossiping",
       "publishTime": "2026/02/25 11:22",
       "imageUrl": "https://cache.pttweb.cc/imgur/BknTGj3/s/976571d68544c9a6d9b042679a398514"
-    },
-    {
-      "recommendScore": "495",
-      "recommendCount": "950",
-      "title": "[情報] 今日先發",
-      "link": "/bbs/Elephants/M.1772009782.A.F2F",
-      "author": "nanashin",
-      "board": "Elephants",
-      "publishTime": "2026/02/25 08:56",
-      "imageUrl": ""
     },
     {
       "recommendScore": "109",
@@ -201,6 +191,16 @@
       "author": "b032819",
       "board": "SportLottery",
       "publishTime": "2026/02/26 05:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "54",
+      "recommendCount": "158",
+      "title": "[新聞] 大全聯爆發霉蔬果「擦拭上架」！官方：該員工未經授意",
+      "link": "/bbs/Gossiping/M.1772038483.A.033",
+      "author": "JiPuSai",
+      "board": "Gossiping",
+      "publishTime": "2026/02/25 16:54",
       "imageUrl": ""
     }
   ]
