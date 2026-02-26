@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-26T12:01:49.192Z",
+  "updated": "2026-02-26T12:27:54.013Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -11,16 +11,6 @@
       "author": "espanol",
       "board": "Stock",
       "publishTime": "2026/02/25 14:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "110",
-      "recommendCount": "823",
-      "title": "[討論] 張忠謀：當年政府投資台積電，心不甘、情",
-      "link": "/bbs/HatePolitics/M.1772022043.A.7B0",
-      "author": "kuninaka",
-      "board": "HatePolitics",
-      "publishTime": "2026/02/25 12:20",
       "imageUrl": ""
     },
     {
@@ -174,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "71",
-      "recommendCount": "197",
-      "title": "[請益] ai是否不會泡沫了？",
-      "link": "/bbs/Stock/M.1772021010.A.23E",
-      "author": "tpta45855",
-      "board": "Stock",
-      "publishTime": "2026/02/25 12:03",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "98",
       "recommendCount": "103",
       "title": "Re: [推薦] 籃球 綠茶看NBA（327）",
@@ -201,6 +181,26 @@
       "author": "JiPuSai",
       "board": "Gossiping",
       "publishTime": "2026/02/25 16:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "86",
+      "recommendCount": "114",
+      "title": "[新聞] 狂讚兄弟王牌投手！軟銀監督眼睛為之一亮",
+      "link": "/bbs/Baseball/M.1772029200.A.5CE",
+      "author": "kensukeshu",
+      "board": "Baseball",
+      "publishTime": "2026/02/25 14:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "83",
+      "recommendCount": "118",
+      "title": "[討論] 楊瀚森杯子地圖沒有台灣　拓荒者遭控辱華",
+      "link": "/bbs/NBA/M.1772032788.A.DC5",
+      "author": "Myosotis",
+      "board": "NBA",
+      "publishTime": "2026/02/25 15:19",
       "imageUrl": ""
     }
   ]
