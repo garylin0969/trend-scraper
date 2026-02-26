@@ -1,18 +1,8 @@
 {
-  "updated": "2026-02-26T14:27:11.216Z",
+  "updated": "2026-02-26T14:47:40.332Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "213",
-      "recommendCount": "345",
-      "title": "[心得] 認錯買回台積電",
-      "link": "/bbs/Stock/M.1772029627.A.188",
-      "author": "espanol",
-      "board": "Stock",
-      "publishTime": "2026/02/25 14:27",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "-84",
       "recommendCount": "293",
@@ -21,6 +11,16 @@
       "author": "whj0530",
       "board": "Baseball",
       "publishTime": "2026/02/26 07:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "139",
+      "recommendCount": "255",
+      "title": "[討論] 這場比賽發現蠻多問題的",
+      "link": "/bbs/Baseball/M.1772111132.A.2A9",
+      "author": "pizpizpizpiz",
+      "board": "Baseball",
+      "publishTime": "2026/02/26 13:05",
       "imageUrl": ""
     },
     {
@@ -34,16 +34,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "154",
-      "recommendCount": "227",
-      "title": "[新聞] 近3年最低！ 軟銀兄弟票房出爐",
-      "link": "/bbs/Baseball/M.1772027786.A.C2B",
-      "author": "tomlishan",
-      "board": "Baseball",
-      "publishTime": "2026/02/25 13:56",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "94",
       "recommendCount": "180",
       "title": "[討論] 認真投票補龍仔的缺",
@@ -54,13 +44,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "109",
-      "recommendCount": "181",
-      "title": "[新聞] 全球首款，針對兒童小陰莖，長春高新子公司自研軟膏臨床試驗核准",
-      "link": "/bbs/Stock/M.1772028752.A.83D",
-      "author": "addy7533967",
-      "board": "Stock",
-      "publishTime": "2026/02/25 14:12",
+      "recommendScore": "156",
+      "recommendCount": "263",
+      "title": "[BOX ] 2027世界盃資格賽 台灣 77:65 韓國",
+      "link": "/bbs/basketballTW/M.1772110710.A.606",
+      "author": "danny901203",
+      "board": "basketballTW",
+      "publishTime": "2026/02/26 12:58",
       "imageUrl": ""
     },
     {
@@ -164,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "86",
-      "recommendCount": "114",
-      "title": "[新聞] 狂讚兄弟王牌投手！軟銀監督眼睛為之一亮",
-      "link": "/bbs/Baseball/M.1772029200.A.5CE",
-      "author": "kensukeshu",
-      "board": "Baseball",
-      "publishTime": "2026/02/25 14:20",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "75",
       "recommendCount": "108",
       "title": "[分享] 美美傷退",
@@ -181,6 +161,16 @@
       "author": "q124578001",
       "board": "Baseball",
       "publishTime": "2026/02/26 11:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "75",
+      "recommendCount": "180",
+      "title": "[討論] 張峻瑋可以換了吧",
+      "link": "/bbs/Baseball/M.1772111600.A.CF0",
+      "author": "dahanjian",
+      "board": "Baseball",
+      "publishTime": "2026/02/26 13:13",
       "imageUrl": ""
     },
     {
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "101",
-      "recommendCount": "581",
-      "title": "[問題] 買中國牌手機的人覺得效能有符合預期？",
-      "link": "/bbs/MobileComm/M.1772029285.A.1C6",
-      "author": "Ralfchen0429",
-      "board": "MobileComm",
-      "publishTime": "2026/02/25 14:21",
+      "recommendScore": "70",
+      "recommendCount": "109",
+      "title": "[情報] 今日雷蒙恩",
+      "link": "/bbs/basketballTW/M.1772110473.A.C11",
+      "author": "yuchiwang",
+      "board": "basketballTW",
+      "publishTime": "2026/02/26 12:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "75",
+      "recommendCount": "100",
+      "title": "[討論] 費仔下飛機連上網路看到比分會想什麼",
+      "link": "/bbs/Baseball/M.1772113418.A.18A",
+      "author": "currykukuo",
+      "board": "Baseball",
+      "publishTime": "2026/02/26 13:43",
       "imageUrl": ""
     }
   ]
