@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T09:38:44.464Z",
+  "updated": "2026-02-27T09:58:48.479Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -61,6 +61,16 @@
       "author": "peanut0823",
       "board": "Gossiping",
       "publishTime": "2026/02/26 23:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "95",
+      "recommendCount": "162",
+      "title": "[新聞] 台股2月狂飆3350點太扯！謝金河揭「衝4萬點」關鍵轉折",
+      "link": "/bbs/Stock/M.1772180824.A.F12",
+      "author": "icedog122",
+      "board": "Stock",
+      "publishTime": "2026/02/27 08:27",
       "imageUrl": ""
     },
     {
@@ -174,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "67",
+      "recommendCount": "93",
+      "title": "[新聞] 「山本殺手」再掀熱議 王柏融幽默以對：「我不知我的存在感那麼高」",
+      "link": "/bbs/Baseball/M.1772181759.A.116",
+      "author": "micheal59",
+      "board": "Baseball",
+      "publishTime": "2026/02/27 08:42",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "47",
       "recommendCount": "157",
       "title": "[新聞]首次不給輝達 DeepSeek最新模型先開放華為",
@@ -182,26 +202,6 @@
       "board": "Stock",
       "publishTime": "2026/02/26 16:36",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "67",
-      "recommendCount": "88",
-      "title": "[炸裂] 萬波中正",
-      "link": "/bbs/Baseball/M.1772179967.A.228",
-      "author": "Bystander21",
-      "board": "Baseball",
-      "publishTime": "2026/02/27 08:12",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "65",
-      "recommendCount": "90",
-      "title": "[問題] 火腿隊官網的球員顏色是什麼意思？",
-      "link": "/bbs/Baseball/M.1772176972.A.B39",
-      "author": "Lantrylol",
-      "board": "Baseball",
-      "publishTime": "2026/02/27 07:22",
-      "imageUrl": "https://cache.pttweb.cc/imgur/SKchVJi/s/7d1177aae026acacf707e5a342ca270c"
     }
   ]
 }
