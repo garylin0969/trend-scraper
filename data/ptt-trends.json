@@ -1,8 +1,18 @@
 {
-  "updated": "2026-02-27T22:09:50.319Z",
+  "updated": "2026-02-27T22:22:20.437Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "218",
+      "recommendCount": "503",
+      "title": "[問卦] 所以能源政策算是成功還失敗啊？",
+      "link": "/bbs/Gossiping/M.1772145503.A.192",
+      "author": "sam741474147",
+      "board": "Gossiping",
+      "publishTime": "2026/02/26 22:38",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "159",
       "recommendCount": "421",
@@ -191,16 +201,6 @@
       "author": "cobincarrol",
       "board": "BaseballXXXX",
       "publishTime": "2026/02/27 10:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "67",
-      "recommendCount": "88",
-      "title": "[炸裂] 萬波中正",
-      "link": "/bbs/Baseball/M.1772179967.A.228",
-      "author": "Bystander21",
-      "board": "Baseball",
-      "publishTime": "2026/02/27 08:12",
       "imageUrl": ""
     }
   ]
