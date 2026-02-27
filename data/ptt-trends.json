@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T15:24:46.389Z",
+  "updated": "2026-02-27T15:45:58.549Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -12,6 +12,16 @@
       "board": "NBA",
       "publishTime": "2026/02/26 15:00",
       "imageUrl": "https://cache.pttweb.cc/imgur/1MTu7sh/s/041d3769f850bc3a402c71c1246997f8"
+    },
+    {
+      "recommendScore": "135",
+      "recommendCount": "290",
+      "title": "[新聞] 美股早盤／輝達財報不夠驚豔 股價挫跌3%",
+      "link": "/bbs/Stock/M.1772119733.A.C7F",
+      "author": "Lime5566",
+      "board": "Stock",
+      "publishTime": "2026/02/26 15:28",
+      "imageUrl": ""
     },
     {
       "recommendScore": "218",
@@ -191,16 +201,6 @@
       "author": "yuchiwang",
       "board": "basketballTW",
       "publishTime": "2026/02/26 12:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "7",
-      "recommendCount": "156",
-      "title": "[新聞] 不能寫ROC！美移民局證實：台人申請美籍出生地「只能填Taiwan」",
-      "link": "/bbs/Gossiping/M.1772151302.A.44A",
-      "author": "teaplus",
-      "board": "Gossiping",
-      "publishTime": "2026/02/27 00:15",
       "imageUrl": ""
     }
   ]
