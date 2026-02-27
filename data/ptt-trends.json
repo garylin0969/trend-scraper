@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T03:58:08.563Z",
+  "updated": "2026-02-27T04:40:36.740Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "93",
-      "recommendCount": "171",
-      "title": "[外絮] 據報聯盟要派醫師去確認Markkanen的MRI",
-      "link": "/bbs/NBA/M.1772078786.A.1DF",
-      "author": "pneumo",
-      "board": "NBA",
-      "publishTime": "2026/02/26 04:06",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "80",
       "recommendCount": "127",
       "title": "[新聞] 王義川代表綠營選桃園市長？周玉蔻讚好牌：阿川快答應不可猶豫",
@@ -201,6 +191,16 @@
       "author": "dahanjian",
       "board": "Baseball",
       "publishTime": "2026/02/26 13:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "70",
+      "recommendCount": "109",
+      "title": "[情報] 今日雷蒙恩",
+      "link": "/bbs/basketballTW/M.1772110473.A.C11",
+      "author": "yuchiwang",
+      "board": "basketballTW",
+      "publishTime": "2026/02/26 12:54",
       "imageUrl": ""
     }
   ]
