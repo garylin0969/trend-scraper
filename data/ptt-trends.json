@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T11:32:18.589Z",
+  "updated": "2026-02-27T11:49:50.704Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "118",
+      "recommendCount": "402",
+      "title": "[情報] 77本季從未在剩90秒內嘗試投追平/超前球",
+      "link": "/bbs/NBA/M.1772147764.A.705",
+      "author": "jeff1013",
+      "board": "NBA",
+      "publishTime": "2026/02/26 23:16",
+      "imageUrl": "https://cache.pttweb.cc/imgur/8fi51k2/s/d91c3c3219618149968bfe6eac1804cf"
+    },
+    {
       "recommendScore": "72",
       "recommendCount": "189",
       "title": "[問卦] 「馬克筆」成支語了？",
@@ -102,6 +112,16 @@
       "board": "Gossiping",
       "publishTime": "2026/02/26 11:12",
       "imageUrl": "https://cache.pttweb.cc/imgur/VYbqOvP/s/c32b30640a0114c4ee9cbea49c979a98"
+    },
+    {
+      "recommendScore": "104",
+      "recommendCount": "142",
+      "title": "[新聞] 經典賽／龍恩想打但需長遠考量 坦言「飛越整個地球去復健」不合理",
+      "link": "/bbs/Baseball/M.1772149887.A.A72",
+      "author": "iamshana",
+      "board": "Baseball",
+      "publishTime": "2026/02/26 23:51",
+      "imageUrl": ""
     },
     {
       "recommendScore": "131",
@@ -181,26 +201,6 @@
       "author": "micheal59",
       "board": "Baseball",
       "publishTime": "2026/02/27 08:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "47",
-      "recommendCount": "157",
-      "title": "[新聞]首次不給輝達 DeepSeek最新模型先開放華為",
-      "link": "/bbs/Stock/M.1772123818.A.E06",
-      "author": "Roger5566",
-      "board": "Stock",
-      "publishTime": "2026/02/26 16:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "67",
-      "recommendCount": "88",
-      "title": "[炸裂] 萬波中正",
-      "link": "/bbs/Baseball/M.1772179967.A.228",
-      "author": "Bystander21",
-      "board": "Baseball",
-      "publishTime": "2026/02/27 08:12",
       "imageUrl": ""
     }
   ]
