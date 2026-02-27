@@ -1,14 +1,22 @@
 {
-  "updated": "2026-02-27T01:53:12.094Z",
+  "updated": "2026-02-27T03:11:19.331Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-02-27T01:53:05.000Z",
+    "lastBuildDate": "2026-02-27T03:11:13.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "社運人士郭鳳儀：香港當局監禁我父親，企圖令我噤聲",
+      "description": "香港民主派社運人士郭鳳儀的父親，因涉及「企圖處理潛逃者財產罪」，被判入獄八個月。這是首宗針對流亡海外民主人士家屬的國安案件判刑。",
+      "link": "https://www.bbc.com/zhongwen/articles/c98qd00rdpjo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-27T03:06:46.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c98qd00rdpjo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/417e/live/1c91cc30-1304-11f1-bf20-f10c8e9eb926.jpg"
+    },
     {
       "title": "黎智英欺詐案上訴得直：定罪及刑罰被撤銷，出獄時間提前",
       "description": "黎智英正就國安案被判囚20年，由於欺詐刑期被撤銷，坐牢時間有所縮減，但仍要服刑至2040年。",
@@ -24,14 +32,6 @@
       "pubDate": "2026-02-25T08:00:00.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn0zxe0rl7po/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ca0e/live/1bdae5e0-1220-11f1-9120-a910fc22c6ac.jpg"
-    },
-    {
-      "title": "特朗普國情咨文報告事實查核：失業率、物價、戰爭調停及其它",
-      "description": "美國經濟與可負擔性是這次談話的核心主題。這也是數十年來最長的一次美國國會演說。特朗普也對非法移民，以及結束世界各地一系列戰爭等議題作出了多項主張。",
-      "link": "https://www.bbc.com/zhongwen/articles/c0e5zrnqql8o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-26T03:34:49.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c0e5zrnqql8o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2ea4/live/e2517fa0-1233-11f1-801d-ed3cff6bf876.png"
     },
     {
       "title": "比爾·蓋茨據報承認與兩俄羅斯女性有染並道歉  梅琳達稱想起「令人痛苦的時光」",
@@ -154,6 +154,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8e5e/live/2882dc80-0339-11f1-b5e2-dd58fc65f0f6.png"
     },
     {
+      "title": "特朗普國情咨文報告事實查核：失業率、物價、戰爭調停及其它",
+      "description": "美國經濟與可負擔性是這次談話的核心主題。這也是數十年來最長的一次美國國會演說。特朗普也對非法移民，以及結束世界各地一系列戰爭等議題作出了多項主張。",
+      "link": "https://www.bbc.com/zhongwen/articles/c0e5zrnqql8o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-26T03:34:49.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c0e5zrnqql8o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2ea4/live/e2517fa0-1233-11f1-801d-ed3cff6bf876.png"
+    },
+    {
       "title": "特朗普關稅變動後，企業與消費者面臨不確定性",
       "description": "企業表示，在美國總統特朗普宣布將徵收 15% 全球關稅後，仍有許多問題懸而未決。",
       "link": "https://www.bbc.com/zhongwen/articles/c0e5p0wzy57o/trad?at_medium=RSS&at_campaign=rss",
@@ -176,14 +184,6 @@
       "pubDate": "2026-02-22T05:18:18.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c8jx1el092ko/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6fe2/live/d72782a0-0fa4-11f1-b048-c9424b2cf5fd.jpg"
-    },
-    {
-      "title": "美國在伊朗附近集結軍艦與戰鬥機，BBC事實查核透過衛星影像追蹤",
-      "description": "美國在中東大幅增兵以威懾伊朗，BBC事實查核透過衛星影像確認「亞伯拉罕·林肯號」航母打擊群已部署阿拉伯海，搭載F-35戰機與數千士兵。美國在中東艦艇增至12艘，戰機也明顯增加。伊朗則舉行導彈演習回應。",
-      "link": "https://www.bbc.com/zhongwen/articles/c3v7w507yq1o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-17T06:35:03.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3v7w507yq1o/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e6f/live/ac6fcc90-0b60-11f1-b5e2-dd58fc65f0f6.png"
     },
     {
       "title": "特朗普與習近平通話後雙方各自劃重點：北京再提「台灣紅線」，華盛頓大談「大豆外交」成果",
