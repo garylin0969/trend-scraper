@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T08:57:41.662Z",
+  "updated": "2026-02-27T09:20:20.975Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/VYbqOvP/s/c32b30640a0114c4ee9cbea49c979a98"
     },
     {
-      "recommendScore": "249",
-      "recommendCount": "520",
-      "title": "[情報] 不一樣了 大哥回來了！",
-      "link": "/bbs/CheerGirlsTW/M.1772096403.A.A65",
-      "author": "yujuismylove",
-      "board": "CheerGirlsTW",
-      "publishTime": "2026/02/26 09:00",
-      "imageUrl": "https://cache.pttweb.cc/imgur/D6hzyMg/s/30b0a26604edf3300c84ee1561a767c7"
-    },
-    {
       "recommendScore": "131",
       "recommendCount": "204",
       "title": "[公告] zaonoort原使用者報警被盜帳號 水桶",
@@ -202,6 +192,16 @@
       "board": "Baseball",
       "publishTime": "2026/02/27 08:12",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "65",
+      "recommendCount": "90",
+      "title": "[問題] 火腿隊官網的球員顏色是什麼意思？",
+      "link": "/bbs/Baseball/M.1772176972.A.B39",
+      "author": "Lantrylol",
+      "board": "Baseball",
+      "publishTime": "2026/02/27 07:22",
+      "imageUrl": "https://cache.pttweb.cc/imgur/SKchVJi/s/7d1177aae026acacf707e5a342ca270c"
     }
   ]
 }
