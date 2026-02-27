@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T09:58:48.479Z",
+  "updated": "2026-02-27T10:19:22.261Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -12,16 +12,6 @@
       "board": "NBA",
       "publishTime": "2026/02/26 15:00",
       "imageUrl": "https://cache.pttweb.cc/imgur/1MTu7sh/s/041d3769f850bc3a402c71c1246997f8"
-    },
-    {
-      "recommendScore": "753",
-      "recommendCount": "1500",
-      "title": "[Live] 世界盃資格賽   韓國 VS 台灣",
-      "link": "/bbs/basketballTW/M.1772100228.A.029",
-      "author": "thnlkj0665",
-      "board": "basketballTW",
-      "publishTime": "2026/02/26 10:03",
-      "imageUrl": ""
     },
     {
       "recommendScore": "194",
@@ -201,6 +191,16 @@
       "author": "Roger5566",
       "board": "Stock",
       "publishTime": "2026/02/26 16:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "67",
+      "recommendCount": "88",
+      "title": "[炸裂] 萬波中正",
+      "link": "/bbs/Baseball/M.1772179967.A.228",
+      "author": "Bystander21",
+      "board": "Baseball",
+      "publishTime": "2026/02/27 08:12",
       "imageUrl": ""
     }
   ]
