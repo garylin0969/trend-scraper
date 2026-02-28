@@ -1,8 +1,48 @@
 {
-  "updated": "2026-02-28T06:34:21.892Z",
+  "updated": "2026-02-28T06:56:08.012Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "95",
+      "recommendCount": "162",
+      "title": "[新聞] 台股2月狂飆3350點太扯！謝金河揭「衝4萬點」關鍵轉折",
+      "link": "/bbs/Stock/M.1772180824.A.F12",
+      "author": "icedog122",
+      "board": "Stock",
+      "publishTime": "2026/02/27 08:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "83",
+      "recommendCount": "157",
+      "title": "[討論] 是中華隊這次本來就實力不強還是純狀況不",
+      "link": "/bbs/Baseball/M.1772186951.A.F49",
+      "author": "herrycome",
+      "board": "Baseball",
+      "publishTime": "2026/02/27 10:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "58",
+      "recommendCount": "141",
+      "title": "[討論] 高宇杰真的比不上林家正嗎？",
+      "link": "/bbs/Baseball/M.1772189517.A.1B0",
+      "author": "shohei5566",
+      "board": "Baseball",
+      "publishTime": "2026/02/27 10:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "47",
+      "recommendCount": "142",
+      "title": "[問卦] 脆女徵男友的標準會不會太高?",
+      "link": "/bbs/Gossiping/M.1772231418.A.CD5",
+      "author": "str8g",
+      "board": "Gossiping",
+      "publishTime": "2026/02/27 22:30",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "76",
       "recommendCount": "126",
@@ -11,6 +51,16 @@
       "author": "idingdang",
       "board": "Baseball",
       "publishTime": "2026/02/27 10:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "197",
+      "recommendCount": "360",
+      "title": "[LIVE] 澳A 墨爾本城 @ 奧克蘭FC 場中",
+      "link": "/bbs/SportLottery/M.1772251092.A.4CF",
+      "author": "ys2266",
+      "board": "SportLottery",
+      "publishTime": "2026/02/28 03:58",
       "imageUrl": ""
     },
     {
@@ -124,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "60",
+      "recommendCount": "149",
+      "title": "[LIVE] 澳甲 紐卡索噴射機@中岸水手 場中",
+      "link": "/bbs/SportLottery/M.1772257855.A.CAD",
+      "author": "laylun",
+      "board": "SportLottery",
+      "publishTime": "2026/02/28 05:50",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "39",
       "recommendCount": "81",
       "title": "[問卦] 23歲脆女誠徵結婚對象",
@@ -141,66 +201,6 @@
       "author": "iam168888888",
       "board": "Gossiping",
       "publishTime": "2026/02/27 09:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "54",
-      "recommendCount": "86",
-      "title": "[討論] 到底誰會替補龍仔",
-      "link": "/bbs/Baseball/M.1772183326.A.902",
-      "author": "aa175200",
-      "board": "Baseball",
-      "publishTime": "2026/02/27 09:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "54",
-      "recommendCount": "98",
-      "title": "[討論] 陽岱鋼在日職單季25轟有多強？",
-      "link": "/bbs/Baseball/M.1772182034.A.E8D",
-      "author": "tty0102",
-      "board": "Baseball",
-      "publishTime": "2026/02/27 08:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "46",
-      "recommendCount": "115",
-      "title": "[討論] LBJ的球商傳奇故事到底是真的假的",
-      "link": "/bbs/NBA/M.1772187333.A.B64",
-      "author": "Gina4290",
-      "board": "NBA",
-      "publishTime": "2026/02/27 10:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "30",
-      "recommendCount": "87",
-      "title": "[新聞] 劉世芳外甥遭指「賺紅錢」 新北市議員也被點名收政治獻金…本人回應了",
-      "link": "/bbs/Gossiping/M.1772186698.A.027",
-      "author": "Supergreen",
-      "board": "Gossiping",
-      "publishTime": "2026/02/27 10:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "53",
-      "recommendCount": "71",
-      "title": "[炸裂] 西川遙輝",
-      "link": "/bbs/Baseball/M.1772178833.A.8AD",
-      "author": "tseng1218",
-      "board": "Baseball",
-      "publishTime": "2026/02/27 07:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "38",
-      "recommendCount": "79",
-      "title": "[新聞] 快新聞／綠營不藏了「出大招打敗張善政」？選對會成員鬆口：「他」是聲量冠軍",
-      "link": "/bbs/Gossiping/M.1772176168.A.337",
-      "author": "googolplex",
-      "board": "Gossiping",
-      "publishTime": "2026/02/27 07:09",
       "imageUrl": ""
     }
   ]
