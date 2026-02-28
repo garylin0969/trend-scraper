@@ -1,7 +1,7 @@
 {
-  "updated": "2026-02-28T15:18:08.908Z",
-  "total_found": 18,
-  "returned_count": 18,
+  "updated": "2026-02-28T15:32:19.190Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "212",
@@ -181,6 +181,26 @@
       "author": "LoveSports",
       "board": "Stock",
       "publishTime": "2026/02/27 23:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "138",
+      "recommendCount": "601",
+      "title": "[RE9] 暴君1億2000萬美會不會太貴了",
+      "link": "/bbs/C_Chat/M.1772246184.A.C4F",
+      "author": "leo79415",
+      "board": "C_Chat",
+      "publishTime": "2026/02/28 02:36",
+      "imageUrl": "https://cache.pttweb.cc/imgur/IplwT53/s/136534b7a28e37430aff48ab6a469416"
+    },
+    {
+      "recommendScore": "105",
+      "recommendCount": "140",
+      "title": "[新聞] 劉基鴻炸裂!單場2分打點比中華隊多",
+      "link": "/bbs/Baseball/M.1772268829.A.068",
+      "author": "micheal59",
+      "board": "Baseball",
+      "publishTime": "2026/02/28 08:53",
       "imageUrl": ""
     }
   ]
