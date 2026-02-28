@@ -1,18 +1,8 @@
 {
-  "updated": "2026-02-28T00:27:23.533Z",
+  "updated": "2026-02-28T00:51:00.260Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "159",
-      "recommendCount": "421",
-      "title": "[問卦] 同事因股票破五千萬提離職 我怎麼調適？",
-      "link": "/bbs/Gossiping/M.1772152922.A.8BF",
-      "author": "ericgary",
-      "board": "Gossiping",
-      "publishTime": "2026/02/27 00:42",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "149",
       "recommendCount": "296",
@@ -201,6 +191,16 @@
       "author": "omanorboyo",
       "board": "Gossiping",
       "publishTime": "2026/02/27 02:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "64",
+      "recommendCount": "91",
+      "title": "[炸裂] 郡司裕也",
+      "link": "/bbs/Baseball/M.1772176493.A.6D8",
+      "author": "Axwell",
+      "board": "Baseball",
+      "publishTime": "2026/02/27 07:14",
       "imageUrl": ""
     }
   ]
