@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-28T01:24:53.476Z",
+  "updated": "2026-02-28T02:17:31.414Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -64,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "47",
+      "recommendCount": "142",
+      "title": "[問卦] 脆女徵男友的標準會不會太高?",
+      "link": "/bbs/Gossiping/M.1772231418.A.CD5",
+      "author": "str8g",
+      "board": "Gossiping",
+      "publishTime": "2026/02/27 22:30",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "76",
       "recommendCount": "126",
       "title": "[情報] 中華隊確定由宋晟睿遞補Long",
@@ -72,26 +82,6 @@
       "board": "Baseball",
       "publishTime": "2026/02/27 10:28",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "36",
-      "recommendCount": "131",
-      "title": "[新聞] 林智堅淡出政壇3年換新工作　他看不下去：12億棒球場廢了卻能平步青雲",
-      "link": "/bbs/Gossiping/M.1772157972.A.4C0",
-      "author": "coffee112",
-      "board": "Gossiping",
-      "publishTime": "2026/02/27 02:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "33",
-      "recommendCount": "119",
-      "title": "[問卦] 脆：在日本地鐵合唱島嶼天光",
-      "link": "/bbs/Gossiping/M.1772156391.A.D06",
-      "author": "DDDDRR",
-      "board": "Gossiping",
-      "publishTime": "2026/02/27 01:39",
-      "imageUrl": "https://cache.pttweb.cc/imgur/0cobAMi/s/65d78d8001acf907088800ad54ee275b"
     },
     {
       "recommendScore": "-31",
@@ -201,6 +191,16 @@
       "author": "monniea",
       "board": "Baseball",
       "publishTime": "2026/02/27 09:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "72",
+      "recommendCount": "102",
+      "title": "[新聞] 天氣預報不樂觀！中華隊最關鍵2場熱身賽恐泡湯",
+      "link": "/bbs/Baseball/M.1772193125.A.A83",
+      "author": "emperor",
+      "board": "Baseball",
+      "publishTime": "2026/02/27 11:52",
       "imageUrl": ""
     }
   ]
