@@ -1,8 +1,28 @@
 {
-  "updated": "2026-02-28T13:57:10.885Z",
+  "updated": "2026-02-28T14:07:37.536Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "308",
+      "recommendCount": "513",
+      "title": "[公告] BlueBird5566實習板主信任投票開始",
+      "link": "/bbs/Stock/M.1772201733.A.F30",
+      "author": "Paul1021",
+      "board": "Stock",
+      "publishTime": "2026/02/27 14:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "212",
+      "recommendCount": "538",
+      "title": "[新聞] 台股週一恐「一次奉還」！夜盤閃崩7百點專家示警：慘死最低點",
+      "link": "/bbs/Stock/M.1772252074.A.7A0",
+      "author": "relax911",
+      "board": "Stock",
+      "publishTime": "2026/02/28 04:14",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "223",
       "recommendCount": "409",
@@ -11,16 +31,6 @@
       "author": "bluehttp",
       "board": "Gossiping",
       "publishTime": "2026/02/28 09:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "157",
-      "recommendCount": "400",
-      "title": "[新聞] 台股週一恐「一次奉還」！夜盤閃崩7百點專家示警：慘死最低點",
-      "link": "/bbs/Stock/M.1772252074.A.7A0",
-      "author": "relax911",
-      "board": "Stock",
-      "publishTime": "2026/02/28 04:14",
       "imageUrl": ""
     },
     {
@@ -104,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "125",
+      "recommendCount": "278",
+      "title": "[新聞] 馬斯克籲投資人抱緊特斯拉股票 預期20年內蓋出月球工廠",
+      "link": "/bbs/Stock/M.1772246979.A.C3C",
+      "author": "flgg30211",
+      "board": "Stock",
+      "publishTime": "2026/02/28 02:49",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "104",
       "recommendCount": "284",
       "title": "[BOX ] Nuggets 121:127 Thunder",
@@ -111,16 +131,6 @@
       "author": "jason911152",
       "board": "NBA",
       "publishTime": "2026/02/28 05:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "107",
-      "recommendCount": "238",
-      "title": "[新聞] 馬斯克籲投資人抱緊特斯拉股票 預期20年內蓋出月球工廠",
-      "link": "/bbs/Stock/M.1772246979.A.C3C",
-      "author": "flgg30211",
-      "board": "Stock",
-      "publishTime": "2026/02/28 02:49",
       "imageUrl": ""
     },
     {
@@ -164,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "157",
+      "recommendCount": "558",
+      "title": "[新聞] 五角大廈將Anthropic列入黑名單,標記為供應鏈風險",
+      "link": "/bbs/Stock/M.1772233933.A.D8E",
+      "author": "LoveSports",
+      "board": "Stock",
+      "publishTime": "2026/02/27 23:12",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "138",
       "recommendCount": "601",
       "title": "[RE9] 暴君1億2000萬美會不會太貴了",
@@ -181,26 +201,6 @@
       "author": "micheal59",
       "board": "Baseball",
       "publishTime": "2026/02/28 08:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "89",
-      "recommendCount": "210",
-      "title": "[爆卦] 美國終止不配合大規模監控美國人的公司",
-      "link": "/bbs/Gossiping/M.1772245010.A.A40",
-      "author": "bluehttp",
-      "board": "Gossiping",
-      "publishTime": "2026/02/28 02:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "84",
-      "recommendCount": "189",
-      "title": "[新聞] 以色列對伊朗發動先制打擊 德黑蘭傳出爆炸",
-      "link": "/bbs/Stock/M.1772260978.A.D35",
-      "author": "AnneofGreen",
-      "board": "Stock",
-      "publishTime": "2026/02/28 06:42",
       "imageUrl": ""
     }
   ]
