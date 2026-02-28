@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-28T08:24:31.498Z",
+  "updated": "2026-02-28T08:43:09.646Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -61,16 +61,6 @@
       "author": "ruka660101",
       "board": "Baseball",
       "publishTime": "2026/02/28 03:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "95",
-      "recommendCount": "162",
-      "title": "[新聞] 台股2月狂飆3350點太扯！謝金河揭「衝4萬點」關鍵轉折",
-      "link": "/bbs/Stock/M.1772180824.A.F12",
-      "author": "icedog122",
-      "board": "Stock",
-      "publishTime": "2026/02/27 08:27",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "yochiya",
       "board": "NBA",
       "publishTime": "2026/02/28 05:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "56",
+      "recommendCount": "123",
+      "title": "[討論] 台灣先發外野要上陳晨威還是宋88？",
+      "link": "/bbs/Baseball/M.1772251363.A.6FA",
+      "author": "shohei5566",
+      "board": "Baseball",
+      "publishTime": "2026/02/28 04:02",
       "imageUrl": ""
     }
   ]
