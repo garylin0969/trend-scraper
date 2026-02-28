@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-28T11:48:35.239Z",
+  "updated": "2026-02-28T11:55:36.383Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -91,16 +91,6 @@
       "author": "rothanlin",
       "board": "NBA",
       "publishTime": "2026/02/28 08:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "162",
-      "recommendCount": "231",
-      "title": "[新聞] 天氣預報不樂觀！中華隊最關鍵2場熱身賽恐泡湯",
-      "link": "/bbs/Baseball/M.1772193125.A.A83",
-      "author": "emperor",
-      "board": "Baseball",
-      "publishTime": "2026/02/27 11:52",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "micheal59",
       "board": "Baseball",
       "publishTime": "2026/02/28 08:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "82",
+      "recommendCount": "182",
+      "title": "[新聞] 以色列對伊朗發動先制打擊 德黑蘭傳出爆炸",
+      "link": "/bbs/Stock/M.1772260978.A.D35",
+      "author": "AnneofGreen",
+      "board": "Stock",
+      "publishTime": "2026/02/28 06:42",
       "imageUrl": ""
     }
   ]
