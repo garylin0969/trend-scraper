@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-28T09:11:03.505Z",
+  "updated": "2026-02-28T09:25:02.287Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "116",
+      "recommendCount": "309",
+      "title": "[閒聊] 為什麼中國網文小說都離不開系統",
+      "link": "/bbs/C_Chat/M.1772196855.A.811",
+      "author": "victor87710",
+      "board": "C_Chat",
+      "publishTime": "2026/02/27 12:54",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "96",
       "recommendCount": "133",
       "title": "[新聞] WBC》準備好首戰投台灣 山本由伸期待：我想會是非常熱血的比賽",
@@ -191,16 +201,6 @@
       "author": "er5820",
       "board": "Gossiping",
       "publishTime": "2026/02/28 06:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "81",
-      "recommendCount": "130",
-      "title": "[爆卦] 立委吳宗憲贏了國民黨宜蘭縣長初選",
-      "link": "/bbs/Gossiping/M.1772246393.A.5E4",
-      "author": "loechen",
-      "board": "Gossiping",
-      "publishTime": "2026/02/28 02:39",
       "imageUrl": ""
     }
   ]
