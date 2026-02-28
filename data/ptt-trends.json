@@ -1,18 +1,8 @@
 {
-  "updated": "2026-02-28T14:07:37.536Z",
+  "updated": "2026-02-28T14:19:24.906Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "308",
-      "recommendCount": "513",
-      "title": "[公告] BlueBird5566實習板主信任投票開始",
-      "link": "/bbs/Stock/M.1772201733.A.F30",
-      "author": "Paul1021",
-      "board": "Stock",
-      "publishTime": "2026/02/27 14:15",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "212",
       "recommendCount": "538",
@@ -201,6 +191,16 @@
       "author": "micheal59",
       "board": "Baseball",
       "publishTime": "2026/02/28 08:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "89",
+      "recommendCount": "210",
+      "title": "[爆卦] 美國終止不配合大規模監控美國人的公司",
+      "link": "/bbs/Gossiping/M.1772245010.A.A40",
+      "author": "bluehttp",
+      "board": "Gossiping",
+      "publishTime": "2026/02/28 02:16",
       "imageUrl": ""
     }
   ]
