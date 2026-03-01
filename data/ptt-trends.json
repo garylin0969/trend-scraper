@@ -1,18 +1,8 @@
 {
-  "updated": "2026-03-01T03:47:34.875Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2026-03-01T04:33:56.007Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "212",
-      "recommendCount": "538",
-      "title": "[新聞] 台股週一恐「一次奉還」！夜盤閃崩7百點專家示警：慘死最低點",
-      "link": "/bbs/Stock/M.1772252074.A.7A0",
-      "author": "relax911",
-      "board": "Stock",
-      "publishTime": "2026/02/28 04:14",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "223",
       "recommendCount": "409",
@@ -81,16 +71,6 @@
       "author": "goddamnhuge",
       "board": "Stock",
       "publishTime": "2026/02/28 10:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "68",
-      "recommendCount": "363",
-      "title": "[新聞] 林宅血案找不到真相！ 賴清德：國安局文件已被「系統性毁滅」",
-      "link": "/bbs/Gossiping/M.1772252302.A.E23",
-      "author": "lycppt",
-      "board": "Gossiping",
-      "publishTime": "2026/02/28 04:18",
       "imageUrl": ""
     },
     {
@@ -191,6 +171,36 @@
       "author": "shyuantseh",
       "board": "Stock",
       "publishTime": "2026/02/28 15:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "768",
+      "recommendCount": "1460",
+      "title": "[電競] 2026 LCP Split 1 季後賽 Day 7",
+      "link": "/bbs/LoL/M.1772256739.A.60A",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/02/28 05:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "67",
+      "recommendCount": "191",
+      "title": "[問卦] 明天台股是不是崩定了？",
+      "link": "/bbs/Gossiping/M.1772274530.A.388",
+      "author": "PoorHunter",
+      "board": "Gossiping",
+      "publishTime": "2026/02/28 10:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "31",
+      "recommendCount": "259",
+      "title": "[新聞] 蔣萬安追思228致歉　受難家屬舉牌「原諒無可能」",
+      "link": "/bbs/Gossiping/M.1772274226.A.C33",
+      "author": "kuso2005",
+      "board": "Gossiping",
+      "publishTime": "2026/02/28 10:23",
       "imageUrl": ""
     }
   ]
