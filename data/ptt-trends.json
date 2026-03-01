@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-01T09:58:12.874Z",
+  "updated": "2026-03-01T10:10:56.138Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "314",
+      "recommendCount": "518",
+      "title": "[新聞] 快訊／伊朗官媒證實：最高領袖哈米尼身亡",
+      "link": "/bbs/Stock/M.1772330438.A.245",
+      "author": "EstelleRinz",
+      "board": "Stock",
+      "publishTime": "2026/03/01 02:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "355",
       "recommendCount": "362",
       "title": "[發錢] 3/1 足球五大聯賽全轟轉運抽星巴克10杯",
@@ -42,6 +52,16 @@
       "board": "SportLottery",
       "publishTime": "2026/03/01 00:56",
       "imageUrl": "https://cache.pttweb.cc/imgur/BCTHyMy/s/341a1279680365867400ad4b1abe9696"
+    },
+    {
+      "recommendScore": "753",
+      "recommendCount": "1499",
+      "title": "[Live] 世界盃資格賽   中國 VS 台灣",
+      "link": "/bbs/basketballTW/M.1772348471.A.13D",
+      "author": "thnlkj0665",
+      "board": "basketballTW",
+      "publishTime": "2026/03/01 07:01",
+      "imageUrl": ""
     },
     {
       "recommendScore": "311",
@@ -62,16 +82,6 @@
       "board": "Baseball",
       "publishTime": "2026/02/28 11:05",
       "imageUrl": "https://cache.pttweb.cc/imgur/cZpAiuk/s/a1f8339082778bb79437683cffb86cbd"
-    },
-    {
-      "recommendScore": "743",
-      "recommendCount": "1499",
-      "title": "[Live] 世界盃資格賽   中國 VS 台灣",
-      "link": "/bbs/basketballTW/M.1772348471.A.13D",
-      "author": "thnlkj0665",
-      "board": "basketballTW",
-      "publishTime": "2026/03/01 07:01",
-      "imageUrl": ""
     },
     {
       "recommendScore": "171",
@@ -144,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "213",
+      "recommendCount": "351",
+      "title": "[新聞] 川普：猛烈精準轟炸將在本週持續進行，不會中斷！直到達成和平目標",
+      "link": "/bbs/Stock/M.1772334895.A.BD2",
+      "author": "diefishfish",
+      "board": "Stock",
+      "publishTime": "2026/03/01 03:14",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "157",
       "recommendCount": "458",
       "title": "[問卦] C洽：八卦翻車 柵欄平常被網軍洗到壞掉",
@@ -154,8 +174,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/7QO6W3k/s/48556cbded96ede307a72e52a8c26324"
     },
     {
-      "recommendScore": "235",
-      "recommendCount": "354",
+      "recommendScore": "239",
+      "recommendCount": "359",
       "title": "[新聞] 有片快訊／杜拜朱美拉棕櫚島豪華飯店遭伊朗飛彈擊中 傷亡不明",
       "link": "/bbs/Stock/M.1772295813.A.F74",
       "author": "a0808996",
@@ -181,26 +201,6 @@
       "author": "huangin",
       "board": "Stock",
       "publishTime": "2026/03/01 05:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "248",
-      "recommendCount": "498",
-      "title": "Re: [閒聊] 川普：哈米尼已在空襲中喪生",
-      "link": "/bbs/C_Chat/M.1772337090.A.25B",
-      "author": "alinalovers",
-      "board": "C_Chat",
-      "publishTime": "2026/03/01 03:51",
-      "imageUrl": "https://cache.pttweb.cc/imgur/QsXSqFI/s/339fe556aeb638d133e46dcdcc546701"
-    },
-    {
-      "recommendScore": "159",
-      "recommendCount": "299",
-      "title": "[分享] 費仔穿上CT練習衣訓練影片",
-      "link": "/bbs/Baseball/M.1772340839.A.2F9",
-      "author": "Augustus5",
-      "board": "Baseball",
-      "publishTime": "2026/03/01 04:53",
       "imageUrl": ""
     }
   ]
