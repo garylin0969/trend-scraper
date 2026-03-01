@@ -1,11 +1,21 @@
 {
-  "updated": "2026-03-01T20:19:14.253Z",
+  "updated": "2026-03-01T20:34:58.050Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "377",
-      "recommendCount": "515",
+      "recommendScore": "401",
+      "recommendCount": "1465",
+      "title": "[問卦] 為什麼八卦被自動站在伊朗那邊",
+      "link": "/bbs/Gossiping/M.1772333809.A.54A",
+      "author": "ubang",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 02:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "378",
+      "recommendCount": "516",
       "title": "[BOX ] Lakers 129:101 Warriors",
       "link": "/bbs/Baseball/M.1772337566.A.C7F",
       "author": "Takeda5566",
@@ -54,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "275",
-      "recommendCount": "580",
+      "recommendScore": "276",
+      "recommendCount": "582",
       "title": "[問卦] 喪禮沒有按照禮俗會怎樣？",
       "link": "/bbs/Gossiping/M.1772354180.A.B5F",
       "author": "YingWenTsai",
@@ -144,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "266",
-      "recommendCount": "572",
+      "recommendScore": "265",
+      "recommendCount": "576",
       "title": "Re: [閒聊] 川普：哈米尼已在空襲中喪生",
       "link": "/bbs/C_Chat/M.1772337090.A.25B",
       "author": "alinalovers",
@@ -174,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "171",
-      "recommendCount": "373",
+      "recommendScore": "172",
+      "recommendCount": "374",
       "title": "[新聞] 4天不睡覺！男大生「廁所一聲慘叫」倒地母心碎拔管：讓他走吧",
       "link": "/bbs/Gossiping/M.1772366038.A.3FB",
       "author": "seiya2000",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/03/01 10:53",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "217",
-      "recommendCount": "359",
-      "title": "[新聞] 快訊／川普證實：伊朗最高領袖哈米尼遭斬首",
-      "link": "/bbs/Stock/M.1772318214.A.A94",
-      "author": "qazxc1156892",
-      "board": "Stock",
-      "publishTime": "2026/02/28 22:36",
-      "imageUrl": "https://cache.pttweb.cc/imgur/JILIgKt/s/19670f671c928c23e8906462514e1956"
     }
   ]
 }
