@@ -1,8 +1,18 @@
 {
-  "updated": "2026-03-01T15:18:43.464Z",
+  "updated": "2026-03-01T15:33:07.790Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "401",
+      "recommendCount": "1460",
+      "title": "[問卦] 為什麼八卦被自動站在伊朗那邊",
+      "link": "/bbs/Gossiping/M.1772333809.A.54A",
+      "author": "ubang",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 02:56",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "373",
       "recommendCount": "510",
@@ -192,16 +202,6 @@
       "board": "Stock",
       "publishTime": "2026/02/28 22:36",
       "imageUrl": "https://cache.pttweb.cc/imgur/JILIgKt/s/19670f671c928c23e8906462514e1956"
-    },
-    {
-      "recommendScore": "141",
-      "recommendCount": "306",
-      "title": "[新聞] 神隱4個月！ 王子、粿粿現蹤廣澤宮祈福",
-      "link": "/bbs/Gossiping/M.1772323223.A.412",
-      "author": "lpbrother",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 00:00",
-      "imageUrl": ""
     }
   ]
 }
