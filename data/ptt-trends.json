@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-01T09:49:30.805Z",
+  "updated": "2026-03-01T09:58:12.874Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -32,6 +32,16 @@
       "board": "Stock",
       "publishTime": "2026/02/28 15:01",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "355",
+      "recommendCount": "362",
+      "title": "[發錢] 3/1 足球五大聯賽全轟轉運抽星巴克10杯",
+      "link": "/bbs/SportLottery/M.1772326590.A.4B8",
+      "author": "ashow",
+      "board": "SportLottery",
+      "publishTime": "2026/03/01 00:56",
+      "imageUrl": "https://cache.pttweb.cc/imgur/BCTHyMy/s/341a1279680365867400ad4b1abe9696"
     },
     {
       "recommendScore": "311",
@@ -191,16 +201,6 @@
       "author": "Augustus5",
       "board": "Baseball",
       "publishTime": "2026/03/01 04:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "173",
-      "recommendCount": "415",
-      "title": "[爆卦] 伊朗何梅尼確認身亡",
-      "link": "/bbs/Gossiping/M.1772311012.A.999",
-      "author": "luke123",
-      "board": "Gossiping",
-      "publishTime": "2026/02/28 20:36",
       "imageUrl": ""
     }
   ]
