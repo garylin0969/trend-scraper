@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-01T12:47:56.282Z",
-  "total_found": 18,
-  "returned_count": 18,
+  "updated": "2026-03-01T13:10:27.465Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "398",
-      "recommendCount": "1452",
+      "recommendCount": "1455",
       "title": "[問卦] 為什麼八卦被自動站在伊朗那邊",
       "link": "/bbs/Gossiping/M.1772333809.A.54A",
       "author": "ubang",
@@ -54,13 +54,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "317",
-      "recommendCount": "526",
+      "recommendScore": "318",
+      "recommendCount": "528",
       "title": "[新聞] 快訊／伊朗官媒證實：最高領袖哈米尼身亡",
       "link": "/bbs/Stock/M.1772330438.A.245",
       "author": "EstelleRinz",
       "board": "Stock",
       "publishTime": "2026/03/01 02:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "182",
+      "recommendCount": "450",
+      "title": "[新聞] 美伊開戰　中國發聲：武力只會加劇仇恨和衝突，不是解決爭端正確方式",
+      "link": "/bbs/Gossiping/M.1772343881.A.FAD",
+      "author": "com2",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 05:44",
       "imageUrl": ""
     },
     {
@@ -72,16 +82,6 @@
       "board": "SportLottery",
       "publishTime": "2026/03/01 00:56",
       "imageUrl": "https://cache.pttweb.cc/imgur/BCTHyMy/s/341a1279680365867400ad4b1abe9696"
-    },
-    {
-      "recommendScore": "180",
-      "recommendCount": "442",
-      "title": "[新聞] 美伊開戰　中國發聲：武力只會加劇仇恨和衝突，不是解決爭端正確方式",
-      "link": "/bbs/Gossiping/M.1772343881.A.FAD",
-      "author": "com2",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 05:44",
-      "imageUrl": ""
     },
     {
       "recommendScore": "312",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "218",
-      "recommendCount": "369",
+      "recommendScore": "221",
+      "recommendCount": "374",
       "title": "[請益]川普斬首首領，明天台股漲還是跌？",
       "link": "/bbs/Stock/M.1772343706.A.EC8",
       "author": "huangin",
@@ -114,8 +114,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "246",
-      "recommendCount": "346",
+      "recommendScore": "228",
+      "recommendCount": "477",
+      "title": "[問卦] 喪禮沒有按照禮俗會怎樣？",
+      "link": "/bbs/Gossiping/M.1772354180.A.B5F",
+      "author": "YingWenTsai",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 08:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "221",
+      "recommendCount": "568",
+      "title": "[情報] WBC禁止觀眾上傳照片影片",
+      "link": "/bbs/Baseball/M.1772356618.A.4B8",
+      "author": "SbHunt",
+      "board": "Baseball",
+      "publishTime": "2026/03/01 09:16",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "247",
+      "recommendCount": "347",
       "title": "[情報] 宮崎市致贈十公斤宮崎牛給中華隊",
       "link": "/bbs/Baseball/M.1772339235.A.8C8",
       "author": "Aotearoa",
@@ -124,14 +144,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "219",
-      "recommendCount": "455",
-      "title": "[問卦] 喪禮沒有按照禮俗會怎樣？",
-      "link": "/bbs/Gossiping/M.1772354180.A.B5F",
-      "author": "YingWenTsai",
+      "recommendScore": "163",
+      "recommendCount": "483",
+      "title": "[問卦] C洽：八卦翻車 柵欄平常被網軍洗到壞掉",
+      "link": "/bbs/Gossiping/M.1772333124.A.08D",
+      "author": "newpasta",
       "board": "Gossiping",
-      "publishTime": "2026/03/01 08:36",
-      "imageUrl": ""
+      "publishTime": "2026/03/01 02:45",
+      "imageUrl": "https://cache.pttweb.cc/imgur/7QO6W3k/s/48556cbded96ede307a72e52a8c26324"
     },
     {
       "recommendScore": "281",
@@ -141,26 +161,6 @@
       "author": "Roy34",
       "board": "Baseball",
       "publishTime": "2026/02/28 13:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "162",
-      "recommendCount": "482",
-      "title": "[問卦] C洽：八卦翻車 柵欄平常被網軍洗到壞掉",
-      "link": "/bbs/Gossiping/M.1772333124.A.08D",
-      "author": "newpasta",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 02:45",
-      "imageUrl": "https://cache.pttweb.cc/imgur/7QO6W3k/s/48556cbded96ede307a72e52a8c26324"
-    },
-    {
-      "recommendScore": "210",
-      "recommendCount": "528",
-      "title": "[情報] WBC禁止觀眾上傳照片影片",
-      "link": "/bbs/Baseball/M.1772356618.A.4B8",
-      "author": "SbHunt",
-      "board": "Baseball",
-      "publishTime": "2026/03/01 09:16",
       "imageUrl": ""
     },
     {
@@ -175,13 +175,33 @@
     },
     {
       "recommendScore": "215",
-      "recommendCount": "354",
+      "recommendCount": "355",
       "title": "[新聞] 川普：猛烈精準轟炸將在本週持續進行，不會中斷！直到達成和平目標",
       "link": "/bbs/Stock/M.1772334895.A.BD2",
       "author": "diefishfish",
       "board": "Stock",
       "publishTime": "2026/03/01 03:14",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "257",
+      "recommendCount": "521",
+      "title": "Re: [閒聊] 川普：哈米尼已在空襲中喪生",
+      "link": "/bbs/C_Chat/M.1772337090.A.25B",
+      "author": "alinalovers",
+      "board": "C_Chat",
+      "publishTime": "2026/03/01 03:51",
+      "imageUrl": "https://cache.pttweb.cc/imgur/QsXSqFI/s/339fe556aeb638d133e46dcdcc546701"
+    },
+    {
+      "recommendScore": "239",
+      "recommendCount": "360",
+      "title": "[新聞] 有片快訊／杜拜朱美拉棕櫚島豪華飯店遭伊朗飛彈擊中 傷亡不明",
+      "link": "/bbs/Stock/M.1772295813.A.F74",
+      "author": "a0808996",
+      "board": "Stock",
+      "publishTime": "2026/02/28 16:23",
+      "imageUrl": "https://cache.pttweb.cc/imgur/khtk8Xe/s/6ee048c8e03f486d63f37c6dcd4514a2"
     }
   ]
 }
