@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-01T10:10:56.138Z",
+  "updated": "2026-03-01T10:24:02.773Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "394",
-      "recommendCount": "1412",
+      "recommendCount": "1414",
       "title": "[問卦] 為什麼八卦被自動站在伊朗那邊",
       "link": "/bbs/Gossiping/M.1772333809.A.54A",
       "author": "ubang",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "354",
-      "recommendCount": "488",
+      "recommendScore": "358",
+      "recommendCount": "494",
       "title": "[BOX ] Lakers 129:101 Warriors",
       "link": "/bbs/Baseball/M.1772337566.A.C7F",
       "author": "Takeda5566",
@@ -84,8 +84,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/cZpAiuk/s/a1f8339082778bb79437683cffb86cbd"
     },
     {
-      "recommendScore": "171",
-      "recommendCount": "394",
+      "recommendScore": "170",
+      "recommendCount": "403",
       "title": "[新聞] 美伊開戰　中國發聲：武力只會加劇仇恨和衝突，不是解決爭端正確方式",
       "link": "/bbs/Gossiping/M.1772343881.A.FAD",
       "author": "com2",
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "241",
+      "recommendCount": "337",
+      "title": "[情報] 宮崎市致贈十公斤宮崎牛給中華隊",
+      "link": "/bbs/Baseball/M.1772339235.A.8C8",
+      "author": "Aotearoa",
+      "board": "Baseball",
+      "publishTime": "2026/03/01 04:27",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "214",
       "recommendCount": "406",
       "title": "[新聞] 快訊／伊朗報復美以轟炸！巴林、科威特、阿聯、卡達遇襲傳爆炸",
@@ -144,13 +154,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "240",
-      "recommendCount": "333",
-      "title": "[情報] 宮崎市致贈十公斤宮崎牛給中華隊",
-      "link": "/bbs/Baseball/M.1772339235.A.8C8",
-      "author": "Aotearoa",
-      "board": "Baseball",
-      "publishTime": "2026/03/01 04:27",
+      "recommendScore": "158",
+      "recommendCount": "464",
+      "title": "[問卦] C洽：八卦翻車 柵欄平常被網軍洗到壞掉",
+      "link": "/bbs/Gossiping/M.1772333124.A.08D",
+      "author": "newpasta",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 02:45",
+      "imageUrl": "https://cache.pttweb.cc/imgur/7QO6W3k/s/48556cbded96ede307a72e52a8c26324"
+    },
+    {
+      "recommendScore": "198",
+      "recommendCount": "329",
+      "title": "[請益]川普斬首首領，明天台股漲還是跌？",
+      "link": "/bbs/Stock/M.1772343706.A.EC8",
+      "author": "huangin",
+      "board": "Stock",
+      "publishTime": "2026/03/01 05:41",
       "imageUrl": ""
     },
     {
@@ -164,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "157",
-      "recommendCount": "458",
-      "title": "[問卦] C洽：八卦翻車 柵欄平常被網軍洗到壞掉",
-      "link": "/bbs/Gossiping/M.1772333124.A.08D",
-      "author": "newpasta",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 02:45",
-      "imageUrl": "https://cache.pttweb.cc/imgur/7QO6W3k/s/48556cbded96ede307a72e52a8c26324"
-    },
-    {
       "recommendScore": "239",
       "recommendCount": "359",
       "title": "[新聞] 有片快訊／杜拜朱美拉棕櫚島豪華飯店遭伊朗飛彈擊中 傷亡不明",
@@ -184,23 +194,13 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/khtk8Xe/s/6ee048c8e03f486d63f37c6dcd4514a2"
     },
     {
-      "recommendScore": "843",
+      "recommendScore": "784",
       "recommendCount": "1454",
       "title": "[電競] 2026 LCK Cup Grand Finals",
       "link": "/bbs/LoL/M.1772348811.A.169",
       "author": "laptic",
       "board": "LoL",
       "publishTime": "2026/03/01 07:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "192",
-      "recommendCount": "318",
-      "title": "[請益]川普斬首首領，明天台股漲還是跌？",
-      "link": "/bbs/Stock/M.1772343706.A.EC8",
-      "author": "huangin",
-      "board": "Stock",
-      "publishTime": "2026/03/01 05:41",
       "imageUrl": ""
     }
   ]
