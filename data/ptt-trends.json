@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-01T01:48:32.333Z",
+  "updated": "2026-03-01T02:49:25.512Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -32,6 +32,26 @@
       "board": "Baseball",
       "publishTime": "2026/02/28 11:05",
       "imageUrl": "https://cache.pttweb.cc/imgur/cZpAiuk/s/a1f8339082778bb79437683cffb86cbd"
+    },
+    {
+      "recommendScore": "196",
+      "recommendCount": "393",
+      "title": "[問卦] 伊朗女子小學被炸影片 51死",
+      "link": "/bbs/Gossiping/M.1772286385.A.FB9",
+      "author": "bluehttp",
+      "board": "Gossiping",
+      "publishTime": "2026/02/28 13:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "266",
+      "recommendCount": "331",
+      "title": "[分享] 中日龍迷小孩：中日龍會32:0打贏武士隊",
+      "link": "/bbs/Baseball/M.1772298141.A.4C4",
+      "author": "nonnon",
+      "board": "Baseball",
+      "publishTime": "2026/02/28 17:02",
+      "imageUrl": ""
     },
     {
       "recommendScore": "142",
@@ -84,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "235",
+      "recommendCount": "354",
+      "title": "[新聞] 有片快訊／杜拜朱美拉棕櫚島豪華飯店遭伊朗飛彈擊中 傷亡不明",
+      "link": "/bbs/Stock/M.1772295813.A.F74",
+      "author": "a0808996",
+      "board": "Stock",
+      "publishTime": "2026/02/28 16:23",
+      "imageUrl": "https://cache.pttweb.cc/imgur/khtk8Xe/s/6ee048c8e03f486d63f37c6dcd4514a2"
+    },
+    {
       "recommendScore": "131",
       "recommendCount": "352",
       "title": "[討論] 難怪第一次看到小丑這麼生氣",
@@ -124,6 +154,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "187",
+      "recommendCount": "313",
+      "title": "[新聞] 快訊／川普證實：伊朗最高領袖哈米尼遭斬首",
+      "link": "/bbs/Stock/M.1772318214.A.A94",
+      "author": "qazxc1156892",
+      "board": "Stock",
+      "publishTime": "2026/02/28 22:36",
+      "imageUrl": "https://cache.pttweb.cc/imgur/JILIgKt/s/19670f671c928c23e8906462514e1956"
+    },
+    {
+      "recommendScore": "165",
+      "recommendCount": "391",
+      "title": "[爆卦] 伊朗何梅尼確認身亡",
+      "link": "/bbs/Gossiping/M.1772311012.A.999",
+      "author": "luke123",
+      "board": "Gossiping",
+      "publishTime": "2026/02/28 20:36",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "152",
       "recommendCount": "314",
       "title": "[爆卦] 川普宣布對伊朗發起大規模行動",
@@ -151,56 +201,6 @@
       "author": "shyuantseh",
       "board": "Stock",
       "publishTime": "2026/02/28 15:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "125",
-      "recommendCount": "278",
-      "title": "[新聞] 馬斯克籲投資人抱緊特斯拉股票 預期20年內蓋出月球工廠",
-      "link": "/bbs/Stock/M.1772246979.A.C3C",
-      "author": "flgg30211",
-      "board": "Stock",
-      "publishTime": "2026/02/28 02:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "67",
-      "recommendCount": "191",
-      "title": "[問卦] 明天台股是不是崩定了？",
-      "link": "/bbs/Gossiping/M.1772274530.A.388",
-      "author": "PoorHunter",
-      "board": "Gossiping",
-      "publishTime": "2026/02/28 10:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "31",
-      "recommendCount": "259",
-      "title": "[新聞] 蔣萬安追思228致歉　受難家屬舉牌「原諒無可能」",
-      "link": "/bbs/Gossiping/M.1772274226.A.C33",
-      "author": "kuso2005",
-      "board": "Gossiping",
-      "publishTime": "2026/02/28 10:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "135",
-      "recommendCount": "190",
-      "title": "[分享] 今日劉基鴻 十割男 鐵支",
-      "link": "/bbs/Baseball/M.1772275225.A.A04",
-      "author": "huihuiiiii",
-      "board": "Baseball",
-      "publishTime": "2026/02/28 10:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "104",
-      "recommendCount": "284",
-      "title": "[BOX ] Nuggets 121:127 Thunder",
-      "link": "/bbs/NBA/M.1772257325.A.EEA",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2026/02/28 05:42",
       "imageUrl": ""
     }
   ]
