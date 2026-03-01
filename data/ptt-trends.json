@@ -1,11 +1,41 @@
 {
-  "updated": "2026-03-01T19:54:46.736Z",
+  "updated": "2026-03-01T20:07:04.127Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "189",
-      "recommendCount": "472",
+      "recommendScore": "401",
+      "recommendCount": "1465",
+      "title": "[問卦] 為什麼八卦被自動站在伊朗那邊",
+      "link": "/bbs/Gossiping/M.1772333809.A.54A",
+      "author": "ubang",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 02:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "377",
+      "recommendCount": "515",
+      "title": "[BOX ] Lakers 129:101 Warriors",
+      "link": "/bbs/Baseball/M.1772337566.A.C7F",
+      "author": "Takeda5566",
+      "board": "Baseball",
+      "publishTime": "2026/03/01 03:59",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "702",
+      "recommendCount": "1499",
+      "title": "[Live] 世界盃資格賽   中國 VS 台灣",
+      "link": "/bbs/basketballTW/M.1772348471.A.13D",
+      "author": "thnlkj0665",
+      "board": "basketballTW",
+      "publishTime": "2026/03/01 07:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "190",
+      "recommendCount": "473",
       "title": "[新聞] 美伊開戰　中國發聲：武力只會加劇仇恨和衝突，不是解決爭端正確方式",
       "link": "/bbs/Gossiping/M.1772343881.A.FAD",
       "author": "com2",
@@ -171,36 +201,6 @@
       "author": "jiern",
       "board": "Gossiping",
       "publishTime": "2026/03/01 10:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "217",
-      "recommendCount": "359",
-      "title": "[新聞] 快訊／川普證實：伊朗最高領袖哈米尼遭斬首",
-      "link": "/bbs/Stock/M.1772318214.A.A94",
-      "author": "qazxc1156892",
-      "board": "Stock",
-      "publishTime": "2026/02/28 22:36",
-      "imageUrl": "https://cache.pttweb.cc/imgur/JILIgKt/s/19670f671c928c23e8906462514e1956"
-    },
-    {
-      "recommendScore": "163",
-      "recommendCount": "324",
-      "title": "[分享] 費仔穿上CT練習衣訓練影片",
-      "link": "/bbs/Baseball/M.1772340839.A.2F9",
-      "author": "Augustus5",
-      "board": "Baseball",
-      "publishTime": "2026/03/01 04:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "141",
-      "recommendCount": "306",
-      "title": "[新聞] 神隱4個月！ 王子、粿粿現蹤廣澤宮祈福",
-      "link": "/bbs/Gossiping/M.1772323223.A.412",
-      "author": "lpbrother",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 00:00",
       "imageUrl": ""
     }
   ]
