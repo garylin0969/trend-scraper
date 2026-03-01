@@ -1,7 +1,7 @@
 {
-  "updated": "2026-03-01T22:57:45.892Z",
-  "total_found": 18,
-  "returned_count": 18,
+  "updated": "2026-03-01T23:10:04.648Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "402",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "170",
-      "recommendCount": "355",
+      "recommendScore": "171",
+      "recommendCount": "356",
       "title": "[標的] 正二明天需要停利嗎?",
       "link": "/bbs/Stock/M.1772358878.A.4DE",
       "author": "ut429rh",
@@ -181,6 +181,26 @@
       "author": "herewego",
       "board": "Gossiping",
       "publishTime": "2026/03/01 00:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "219",
+      "recommendCount": "362",
+      "title": "[新聞] 川普：猛烈精準轟炸將在本週持續進行，不會中斷！直到達成和平目標",
+      "link": "/bbs/Stock/M.1772334895.A.BD2",
+      "author": "diefishfish",
+      "board": "Stock",
+      "publishTime": "2026/03/01 03:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "209",
+      "recommendCount": "319",
+      "title": "[問卦] 阿聯酋（杜拜）宣佈負擔所有旅客費用",
+      "link": "/bbs/Gossiping/M.1772362422.A.15F",
+      "author": "jiern",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 10:53",
       "imageUrl": ""
     }
   ]
