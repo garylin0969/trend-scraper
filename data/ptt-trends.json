@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-01T09:14:05.038Z",
+  "updated": "2026-03-01T09:32:03.717Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "346",
-      "recommendCount": "474",
+      "recommendScore": "350",
+      "recommendCount": "483",
       "title": "[BOX ] Lakers 129:101 Warriors",
       "link": "/bbs/Baseball/M.1772337566.A.C7F",
       "author": "Takeda5566",
@@ -24,26 +24,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "248",
-      "recommendCount": "451",
-      "title": "[問卦] 以色列：以色列全國開始停班停課",
-      "link": "/bbs/Gossiping/M.1772270069.A.F4C",
-      "author": "bluehttp",
-      "board": "Gossiping",
-      "publishTime": "2026/02/28 09:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "245",
-      "recommendCount": "802",
-      "title": "[問卦] 為什麼八卦被自動站在伊朗那邊",
-      "link": "/bbs/Gossiping/M.1772333809.A.54A",
-      "author": "ubang",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 02:56",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "259",
       "recommendCount": "537",
       "title": "[新聞] 布坎南來了！ 台鋼雄鷹宣布簽下「坎南」、背號98號",
@@ -52,6 +32,16 @@
       "board": "Baseball",
       "publishTime": "2026/02/28 11:05",
       "imageUrl": "https://cache.pttweb.cc/imgur/cZpAiuk/s/a1f8339082778bb79437683cffb86cbd"
+    },
+    {
+      "recommendScore": "781",
+      "recommendCount": "1499",
+      "title": "[Live] 世界盃資格賽   中國 VS 台灣",
+      "link": "/bbs/basketballTW/M.1772348471.A.13D",
+      "author": "thnlkj0665",
+      "board": "basketballTW",
+      "publishTime": "2026/03/01 07:01",
+      "imageUrl": ""
     },
     {
       "recommendScore": "264",
@@ -64,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "168",
+      "recommendCount": "378",
+      "title": "[新聞] 美伊開戰　中國發聲：武力只會加劇仇恨和衝突，不是解決爭端正確方式",
+      "link": "/bbs/Gossiping/M.1772343881.A.FAD",
+      "author": "com2",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 05:44",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "196",
       "recommendCount": "393",
       "title": "[問卦] 伊朗女子小學被炸影片 51死",
@@ -71,16 +71,6 @@
       "author": "bluehttp",
       "board": "Gossiping",
       "publishTime": "2026/02/28 13:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "798",
-      "recommendCount": "1499",
-      "title": "[Live] 世界盃資格賽   中國 VS 台灣",
-      "link": "/bbs/basketballTW/M.1772348471.A.13D",
-      "author": "thnlkj0665",
-      "board": "basketballTW",
-      "publishTime": "2026/03/01 07:01",
       "imageUrl": ""
     },
     {
@@ -114,14 +104,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "239",
-      "recommendCount": "330",
+      "recommendScore": "240",
+      "recommendCount": "333",
       "title": "[情報] 宮崎市致贈十公斤宮崎牛給中華隊",
       "link": "/bbs/Baseball/M.1772339235.A.8C8",
       "author": "Aotearoa",
       "board": "Baseball",
       "publishTime": "2026/03/01 04:27",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "158",
+      "recommendCount": "456",
+      "title": "[問卦] C洽：八卦翻車 柵欄平常被網軍洗到壞掉",
+      "link": "/bbs/Gossiping/M.1772333124.A.08D",
+      "author": "newpasta",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 02:45",
+      "imageUrl": "https://cache.pttweb.cc/imgur/7QO6W3k/s/48556cbded96ede307a72e52a8c26324"
     },
     {
       "recommendScore": "235",
@@ -134,18 +134,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/khtk8Xe/s/6ee048c8e03f486d63f37c6dcd4514a2"
     },
     {
-      "recommendScore": "138",
-      "recommendCount": "303",
-      "title": "[新聞] 美伊開戰　中國發聲：武力只會加劇仇恨和衝突，不是解決爭端正確方式",
-      "link": "/bbs/Gossiping/M.1772343881.A.FAD",
-      "author": "com2",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 05:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "182",
-      "recommendCount": "304",
+      "recommendScore": "188",
+      "recommendCount": "310",
       "title": "[請益]川普斬首首領，明天台股漲還是跌？",
       "link": "/bbs/Stock/M.1772343706.A.EC8",
       "author": "huangin",
@@ -154,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "230",
-      "recommendCount": "467",
+      "recommendScore": "242",
+      "recommendCount": "487",
       "title": "Re: [閒聊] 川普：哈米尼已在空襲中喪生",
       "link": "/bbs/C_Chat/M.1772337090.A.25B",
       "author": "alinalovers",
@@ -164,13 +154,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/QsXSqFI/s/339fe556aeb638d133e46dcdcc546701"
     },
     {
-      "recommendScore": "156",
-      "recommendCount": "295",
+      "recommendScore": "159",
+      "recommendCount": "299",
       "title": "[分享] 費仔穿上CT練習衣訓練影片",
       "link": "/bbs/Baseball/M.1772340839.A.2F9",
       "author": "Augustus5",
       "board": "Baseball",
       "publishTime": "2026/03/01 04:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "173",
+      "recommendCount": "415",
+      "title": "[爆卦] 伊朗何梅尼確認身亡",
+      "link": "/bbs/Gossiping/M.1772311012.A.999",
+      "author": "luke123",
+      "board": "Gossiping",
+      "publishTime": "2026/02/28 20:36",
       "imageUrl": ""
     },
     {
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "761",
+      "recommendCount": "1249",
+      "title": "[電競] 2026 LCK Cup Grand Finals",
+      "link": "/bbs/LoL/M.1772348811.A.169",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/03/01 07:06",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "187",
       "recommendCount": "313",
       "title": "[新聞] 快訊／川普證實：伊朗最高領袖哈米尼遭斬首",
@@ -192,16 +202,6 @@
       "board": "Stock",
       "publishTime": "2026/02/28 22:36",
       "imageUrl": "https://cache.pttweb.cc/imgur/JILIgKt/s/19670f671c928c23e8906462514e1956"
-    },
-    {
-      "recommendScore": "165",
-      "recommendCount": "391",
-      "title": "[爆卦] 伊朗何梅尼確認身亡",
-      "link": "/bbs/Gossiping/M.1772311012.A.999",
-      "author": "luke123",
-      "board": "Gossiping",
-      "publishTime": "2026/02/28 20:36",
-      "imageUrl": ""
     }
   ]
 }
