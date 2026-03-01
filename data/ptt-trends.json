@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-01T07:43:09.070Z",
+  "updated": "2026-03-01T07:56:06.806Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "214",
+      "recommendCount": "406",
+      "title": "[新聞] 快訊／伊朗報復美以轟炸！巴林、科威特、阿聯、卡達遇襲傳爆炸",
+      "link": "/bbs/Stock/M.1772275042.A.2BD",
+      "author": "goddamnhuge",
+      "board": "Stock",
+      "publishTime": "2026/02/28 10:37",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "235",
       "recommendCount": "335",
       "title": "[分享] 中華隊 經典賽歷年戰績",
@@ -91,16 +101,6 @@
       "author": "robinkidd",
       "board": "Baseball",
       "publishTime": "2026/02/28 12:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "210",
-      "recommendCount": "397",
-      "title": "[新聞] 快訊／伊朗報復美以轟炸！巴林、科威特、阿聯、卡達遇襲傳爆炸",
-      "link": "/bbs/Stock/M.1772275042.A.2BD",
-      "author": "goddamnhuge",
-      "board": "Stock",
-      "publishTime": "2026/02/28 10:37",
       "imageUrl": ""
     },
     {
@@ -121,6 +121,16 @@
       "author": "Aotearoa",
       "board": "Baseball",
       "publishTime": "2026/03/01 04:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "130",
+      "recommendCount": "284",
+      "title": "[新聞] 美伊開戰　中國發聲：武力只會加劇仇恨和衝突，不是解決爭端正確方式",
+      "link": "/bbs/Gossiping/M.1772343881.A.FAD",
+      "author": "com2",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 05:44",
       "imageUrl": ""
     },
     {
@@ -164,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "152",
-      "recommendCount": "314",
-      "title": "[爆卦] 川普宣布對伊朗發起大規模行動",
-      "link": "/bbs/Gossiping/M.1772264712.A.8E0",
-      "author": "Anderson0819",
-      "board": "Gossiping",
-      "publishTime": "2026/02/28 07:45",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "138",
       "recommendCount": "262",
       "title": "[分享] 費仔穿上CT練習衣訓練影片",
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "111",
-      "recommendCount": "241",
-      "title": "[新聞] 美伊開戰　中國發聲：武力只會加劇仇恨和衝突，不是解決爭端正確方式",
-      "link": "/bbs/Gossiping/M.1772343881.A.FAD",
-      "author": "com2",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 05:44",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "129",
       "recommendCount": "244",
       "title": "[請益] 星期一台股開盤基本跌幅會是多少",
@@ -201,6 +191,16 @@
       "author": "shyuantseh",
       "board": "Stock",
       "publishTime": "2026/02/28 15:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "129",
+      "recommendCount": "260",
+      "title": "[請益] 美伊會重演2022烏俄戰爭的走勢嗎",
+      "link": "/bbs/Stock/M.1772268875.A.A53",
+      "author": "suin7913",
+      "board": "Stock",
+      "publishTime": "2026/02/28 08:54",
       "imageUrl": ""
     }
   ]
