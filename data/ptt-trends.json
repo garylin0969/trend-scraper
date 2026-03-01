@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-01T12:11:34.750Z",
+  "updated": "2026-03-01T12:26:54.939Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "237",
-      "recommendCount": "487",
+      "recommendScore": "238",
+      "recommendCount": "488",
       "title": "[問卦] 伊朗女子小學被炸影片 51死",
       "link": "/bbs/Gossiping/M.1772286385.A.FB9",
       "author": "bluehttp",
@@ -74,8 +74,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/BCTHyMy/s/341a1279680365867400ad4b1abe9696"
     },
     {
-      "recommendScore": "178",
-      "recommendCount": "438",
+      "recommendScore": "180",
+      "recommendCount": "442",
       "title": "[新聞] 美伊開戰　中國發聲：武力只會加劇仇恨和衝突，不是解決爭端正確方式",
       "link": "/bbs/Gossiping/M.1772343881.A.FAD",
       "author": "com2",
@@ -114,13 +114,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "247",
-      "recommendCount": "345",
+      "recommendScore": "246",
+      "recommendCount": "346",
       "title": "[情報] 宮崎市致贈十公斤宮崎牛給中華隊",
       "link": "/bbs/Baseball/M.1772339235.A.8C8",
       "author": "Aotearoa",
       "board": "Baseball",
       "publishTime": "2026/03/01 04:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "219",
+      "recommendCount": "455",
+      "title": "[問卦] 喪禮沒有按照禮俗會怎樣？",
+      "link": "/bbs/Gossiping/M.1772354180.A.B5F",
+      "author": "YingWenTsai",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 08:36",
       "imageUrl": ""
     },
     {
@@ -144,6 +154,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/7QO6W3k/s/48556cbded96ede307a72e52a8c26324"
     },
     {
+      "recommendScore": "210",
+      "recommendCount": "528",
+      "title": "[情報] WBC禁止觀眾上傳照片影片",
+      "link": "/bbs/Baseball/M.1772356618.A.4B8",
+      "author": "SbHunt",
+      "board": "Baseball",
+      "publishTime": "2026/03/01 09:16",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "209",
       "recommendCount": "383",
       "title": "[新聞] 老闆免費修車 男大生沒道謝還「嘖」一聲留一星遭炎上 急刪評論鎖帳",
@@ -154,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "214",
-      "recommendCount": "353",
+      "recommendScore": "215",
+      "recommendCount": "354",
       "title": "[新聞] 川普：猛烈精準轟炸將在本週持續進行，不會中斷！直到達成和平目標",
       "link": "/bbs/Stock/M.1772334895.A.BD2",
       "author": "diefishfish",
@@ -164,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "256",
-      "recommendCount": "520",
+      "recommendScore": "257",
+      "recommendCount": "521",
       "title": "Re: [閒聊] 川普：哈米尼已在空襲中喪生",
       "link": "/bbs/C_Chat/M.1772337090.A.25B",
       "author": "alinalovers",
@@ -182,26 +202,6 @@
       "board": "Stock",
       "publishTime": "2026/02/28 16:23",
       "imageUrl": "https://cache.pttweb.cc/imgur/khtk8Xe/s/6ee048c8e03f486d63f37c6dcd4514a2"
-    },
-    {
-      "recommendScore": "208",
-      "recommendCount": "501",
-      "title": "[情報] WBC禁止觀眾上傳照片影片",
-      "link": "/bbs/Baseball/M.1772356618.A.4B8",
-      "author": "SbHunt",
-      "board": "Baseball",
-      "publishTime": "2026/03/01 09:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "205",
-      "recommendCount": "412",
-      "title": "[問卦] 喪禮沒有按照禮俗會怎樣？",
-      "link": "/bbs/Gossiping/M.1772354180.A.B5F",
-      "author": "YingWenTsai",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 08:36",
-      "imageUrl": ""
     }
   ]
 }
