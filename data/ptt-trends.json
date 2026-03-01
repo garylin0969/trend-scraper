@@ -1,7 +1,7 @@
 {
-  "updated": "2026-03-01T06:24:13.107Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2026-03-01T06:47:32.067Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "248",
@@ -191,6 +191,16 @@
       "author": "shyuantseh",
       "board": "Stock",
       "publishTime": "2026/02/28 15:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "129",
+      "recommendCount": "260",
+      "title": "[請益] 美伊會重演2022烏俄戰爭的走勢嗎",
+      "link": "/bbs/Stock/M.1772268875.A.A53",
+      "author": "suin7913",
+      "board": "Stock",
+      "publishTime": "2026/02/28 08:54",
       "imageUrl": ""
     }
   ]
