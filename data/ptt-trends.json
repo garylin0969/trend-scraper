@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-01T08:09:28.292Z",
+  "updated": "2026-03-01T08:22:54.463Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,14 +34,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "258",
-      "recommendCount": "531",
+      "recommendScore": "259",
+      "recommendCount": "537",
       "title": "[新聞] 布坎南來了！ 台鋼雄鷹宣布簽下「坎南」、背號98號",
       "link": "/bbs/Baseball/M.1772276716.A.A7D",
       "author": "YuiiAnitima",
       "board": "Baseball",
       "publishTime": "2026/02/28 11:05",
       "imageUrl": "https://cache.pttweb.cc/imgur/cZpAiuk/s/a1f8339082778bb79437683cffb86cbd"
+    },
+    {
+      "recommendScore": "264",
+      "recommendCount": "375",
+      "title": "[分享] 中華隊 經典賽歷年戰績",
+      "link": "/bbs/Baseball/M.1772280535.A.7E4",
+      "author": "robinkidd",
+      "board": "Baseball",
+      "publishTime": "2026/02/28 12:08",
+      "imageUrl": ""
     },
     {
       "recommendScore": "196",
@@ -85,16 +95,6 @@
     },
     {
       "recommendScore": "235",
-      "recommendCount": "335",
-      "title": "[分享] 中華隊 經典賽歷年戰績",
-      "link": "/bbs/Baseball/M.1772280535.A.7E4",
-      "author": "robinkidd",
-      "board": "Baseball",
-      "publishTime": "2026/02/28 12:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "235",
       "recommendCount": "354",
       "title": "[新聞] 有片快訊／杜拜朱美拉棕櫚島豪華飯店遭伊朗飛彈擊中 傷亡不明",
       "link": "/bbs/Stock/M.1772295813.A.F74",
@@ -102,6 +102,16 @@
       "board": "Stock",
       "publishTime": "2026/02/28 16:23",
       "imageUrl": "https://cache.pttweb.cc/imgur/khtk8Xe/s/6ee048c8e03f486d63f37c6dcd4514a2"
+    },
+    {
+      "recommendScore": "138",
+      "recommendCount": "303",
+      "title": "[新聞] 美伊開戰　中國發聲：武力只會加劇仇恨和衝突，不是解決爭端正確方式",
+      "link": "/bbs/Gossiping/M.1772343881.A.FAD",
+      "author": "com2",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 05:44",
+      "imageUrl": ""
     },
     {
       "recommendScore": "225",
@@ -114,18 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "130",
-      "recommendCount": "284",
-      "title": "[新聞] 美伊開戰　中國發聲：武力只會加劇仇恨和衝突，不是解決爭端正確方式",
-      "link": "/bbs/Gossiping/M.1772343881.A.FAD",
-      "author": "com2",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 05:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "223",
-      "recommendCount": "454",
+      "recommendScore": "230",
+      "recommendCount": "467",
       "title": "Re: [閒聊] 川普：哈米尼已在空襲中喪生",
       "link": "/bbs/C_Chat/M.1772337090.A.25B",
       "author": "alinalovers",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "145",
-      "recommendCount": "243",
+      "recommendScore": "148",
+      "recommendCount": "249",
       "title": "[請益]川普斬首首領，明天台股漲還是跌？",
       "link": "/bbs/Stock/M.1772343706.A.EC8",
       "author": "huangin",
