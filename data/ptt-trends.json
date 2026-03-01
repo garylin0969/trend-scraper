@@ -1,18 +1,8 @@
 {
-  "updated": "2026-03-01T21:09:05.657Z",
+  "updated": "2026-03-01T21:21:17.178Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "401",
-      "recommendCount": "1465",
-      "title": "[問卦] 為什麼八卦被自動站在伊朗那邊",
-      "link": "/bbs/Gossiping/M.1772333809.A.54A",
-      "author": "ubang",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 02:56",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "378",
       "recommendCount": "516",
@@ -134,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "235",
-      "recommendCount": "914",
+      "recommendScore": "236",
+      "recommendCount": "915",
       "title": "[討論] 除了MJ 真的沒有球員被拿來跟LBJ討論？",
       "link": "/bbs/NBA/M.1772362656.A.BDE",
       "author": "TRFgee",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2026/03/01 10:53",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "217",
+      "recommendCount": "359",
+      "title": "[新聞] 快訊／川普證實：伊朗最高領袖哈米尼遭斬首",
+      "link": "/bbs/Stock/M.1772318214.A.A94",
+      "author": "qazxc1156892",
+      "board": "Stock",
+      "publishTime": "2026/02/28 22:36",
+      "imageUrl": "https://cache.pttweb.cc/imgur/JILIgKt/s/19670f671c928c23e8906462514e1956"
     }
   ]
 }
