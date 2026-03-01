@@ -1,8 +1,18 @@
 {
-  "updated": "2026-03-01T04:33:56.007Z",
+  "updated": "2026-03-01T05:10:08.139Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "245",
+      "recommendCount": "802",
+      "title": "[問卦] 為什麼八卦被自動站在伊朗那邊",
+      "link": "/bbs/Gossiping/M.1772333809.A.54A",
+      "author": "ubang",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 02:56",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "223",
       "recommendCount": "409",
@@ -104,6 +114,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/2QsrKTP/s/b2bf50944aafa507281d4fd56abab452"
     },
     {
+      "recommendScore": "219",
+      "recommendCount": "303",
+      "title": "[BOX ] Lakers 129:101 Warriors",
+      "link": "/bbs/Baseball/M.1772337566.A.C7F",
+      "author": "Takeda5566",
+      "board": "Baseball",
+      "publishTime": "2026/03/01 03:59",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-92",
       "recommendCount": "301",
       "title": "[情報] SGA：Lu不是那種人，我沒看到發生了什麼",
@@ -154,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "52",
-      "recommendCount": "282",
-      "title": "[花邊] 約老師越老師開吵/Dort被趕出去",
-      "link": "/bbs/NBA/M.1772254223.A.2A7",
-      "author": "willy911006",
-      "board": "NBA",
-      "publishTime": "2026/02/28 04:50",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "129",
       "recommendCount": "244",
       "title": "[請益] 星期一台股開盤基本跌幅會是多少",
@@ -174,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "118",
+      "recommendCount": "280",
+      "title": "[問卦] C洽：八卦翻車 柵欄平常被網軍洗到壞掉",
+      "link": "/bbs/Gossiping/M.1772333124.A.08D",
+      "author": "newpasta",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 02:45",
+      "imageUrl": "https://cache.pttweb.cc/imgur/7QO6W3k/s/48556cbded96ede307a72e52a8c26324"
+    },
+    {
       "recommendScore": "768",
       "recommendCount": "1460",
       "title": "[電競] 2026 LCP Split 1 季後賽 Day 7",
@@ -181,26 +201,6 @@
       "author": "laptic",
       "board": "LoL",
       "publishTime": "2026/02/28 05:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "67",
-      "recommendCount": "191",
-      "title": "[問卦] 明天台股是不是崩定了？",
-      "link": "/bbs/Gossiping/M.1772274530.A.388",
-      "author": "PoorHunter",
-      "board": "Gossiping",
-      "publishTime": "2026/02/28 10:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "31",
-      "recommendCount": "259",
-      "title": "[新聞] 蔣萬安追思228致歉　受難家屬舉牌「原諒無可能」",
-      "link": "/bbs/Gossiping/M.1772274226.A.C33",
-      "author": "kuso2005",
-      "board": "Gossiping",
-      "publishTime": "2026/02/28 10:23",
       "imageUrl": ""
     }
   ]
