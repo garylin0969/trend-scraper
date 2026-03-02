@@ -1,8 +1,48 @@
 {
-  "updated": "2026-03-02T15:04:57.730Z",
+  "updated": "2026-03-02T15:25:52.954Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "447",
+      "recommendCount": "586",
+      "title": "[討論] 台灣這次WBC的及格線",
+      "link": "/bbs/Baseball/M.1772422887.A.F93",
+      "author": "ryanl",
+      "board": "Baseball",
+      "publishTime": "2026/03/02 03:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "413",
+      "recommendCount": "816",
+      "title": "[情報] 中華隊今日熱身賽取消",
+      "link": "/bbs/Baseball/M.1772415270.A.F47",
+      "author": "sharrys",
+      "board": "Baseball",
+      "publishTime": "2026/03/02 01:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "162",
+      "recommendCount": "610",
+      "title": "[新聞] 搶救少子 藍擬推0-6歲健保費國家出",
+      "link": "/bbs/Gossiping/M.1772406095.A.E1C",
+      "author": "semih",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 23:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "232",
+      "recommendCount": "441",
+      "title": "[問卦] 伊朗連打十幾國 是什麼戰術？",
+      "link": "/bbs/Gossiping/M.1772421334.A.EB4",
+      "author": "Triceratops",
+      "board": "Gossiping",
+      "publishTime": "2026/03/02 03:15",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "229",
       "recommendCount": "421",
@@ -12,16 +52,6 @@
       "board": "Gossiping",
       "publishTime": "2026/03/02 02:25",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "192",
-      "recommendCount": "347",
-      "title": "[討論] 國外youtuber把台灣放在F等級",
-      "link": "/bbs/Baseball/M.1772378404.A.9EA",
-      "author": "amoyui",
-      "board": "Baseball",
-      "publishTime": "2026/03/01 15:20",
-      "imageUrl": "https://cache.pttweb.cc/imgur/qQ3tmSV/s/b205c6767a840f92782aaf36676b0521"
     },
     {
       "recommendScore": "250",
@@ -64,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "176",
+      "recommendCount": "392",
+      "title": "[新聞] 台電：核三廠再運轉計畫初步完成　3月底送核安會",
+      "link": "/bbs/Gossiping/M.1772449690.A.A45",
+      "author": "ptt987654321",
+      "board": "Gossiping",
+      "publishTime": "2026/03/02 11:08",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "105",
       "recommendCount": "296",
       "title": "[新聞] 美伊交火情勢升 外交部：暫無中東撤僑規畫",
@@ -81,6 +121,16 @@
       "author": "Axwell",
       "board": "Baseball",
       "publishTime": "2026/03/02 12:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "125",
+      "recommendCount": "311",
+      "title": "[問卦] 講真的，為什麼一直戰爭啊？",
+      "link": "/bbs/Gossiping/M.1772445131.A.507",
+      "author": "saufu08",
+      "board": "Gossiping",
+      "publishTime": "2026/03/02 09:52",
       "imageUrl": ""
     },
     {
@@ -151,56 +201,6 @@
       "author": "a96385245",
       "board": "Gossiping",
       "publishTime": "2026/03/02 01:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "159",
-      "recommendCount": "224",
-      "title": "[炸裂] 金倒永",
-      "link": "/bbs/Baseball/M.1772425026.A.23F",
-      "author": "yuchiwang",
-      "board": "Baseball",
-      "publishTime": "2026/03/02 04:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "156",
-      "recommendCount": "205",
-      "title": "[閒聊] 遊戲王 伊西斯‧伊修達爾 1/6雕像 可脫",
-      "link": "/bbs/C_Chat/M.1772425061.A.AF1",
-      "author": "LABOYS",
-      "board": "C_Chat",
-      "publishTime": "2026/03/02 04:17",
-      "imageUrl": "https://cache.pttweb.cc/imgur/VarYffV/s/0fb29c054438a0dc8956b633e8025a89"
-    },
-    {
-      "recommendScore": "37",
-      "recommendCount": "193",
-      "title": "[新聞] 美以斬首哈米尼！謝金河讚台灣安全感提升",
-      "link": "/bbs/Stock/M.1772378866.A.298",
-      "author": "joanzkow",
-      "board": "Stock",
-      "publishTime": "2026/03/01 15:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "107",
-      "recommendCount": "235",
-      "title": "[新聞] 台灣街頭藝人數量暴增！熱門商圈全淪陷",
-      "link": "/bbs/Gossiping/M.1772381414.A.988",
-      "author": "monnom",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 16:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "48",
-      "recommendCount": "176",
-      "title": "[新聞] 美記者看好中華隊　有望擊退日本搶分組一晉8強",
-      "link": "/bbs/Baseball/M.1772419768.A.58D",
-      "author": "lamigo",
-      "board": "Baseball",
-      "publishTime": "2026/03/02 02:49",
       "imageUrl": ""
     }
   ]
