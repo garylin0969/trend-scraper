@@ -1,8 +1,18 @@
 {
-  "updated": "2026-03-02T17:08:24.879Z",
+  "updated": "2026-03-02T17:28:59.718Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "447",
+      "recommendCount": "586",
+      "title": "[討論] 台灣這次WBC的及格線",
+      "link": "/bbs/Baseball/M.1772422887.A.F93",
+      "author": "ryanl",
+      "board": "Baseball",
+      "publishTime": "2026/03/02 03:41",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "413",
       "recommendCount": "816",
@@ -192,16 +202,6 @@
       "board": "Baseball",
       "publishTime": "2026/03/02 04:17",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "156",
-      "recommendCount": "205",
-      "title": "[閒聊] 遊戲王 伊西斯‧伊修達爾 1/6雕像 可脫",
-      "link": "/bbs/C_Chat/M.1772425061.A.AF1",
-      "author": "LABOYS",
-      "board": "C_Chat",
-      "publishTime": "2026/03/02 04:17",
-      "imageUrl": "https://cache.pttweb.cc/imgur/VarYffV/s/0fb29c054438a0dc8956b633e8025a89"
     }
   ]
 }
