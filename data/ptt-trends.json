@@ -1,21 +1,11 @@
 {
-  "updated": "2026-03-02T07:55:23.004Z",
+  "updated": "2026-03-02T08:16:44.692Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "230",
-      "recommendCount": "696",
-      "title": "[新聞] 旅德台妹轟「台灣超落後」！物價貴3倍、空氣髒臭　掀兩派論戰",
-      "link": "/bbs/Gossiping/M.1772360602.A.C1D",
-      "author": "b8103033",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 10:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "328",
-      "recommendCount": "435",
+      "recommendScore": "408",
+      "recommendCount": "530",
       "title": "[討論] 台灣這次WBC的及格線",
       "link": "/bbs/Baseball/M.1772422887.A.F93",
       "author": "ryanl",
@@ -24,8 +14,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "288",
-      "recommendCount": "605",
+      "recommendScore": "232",
+      "recommendCount": "702",
+      "title": "[新聞] 旅德台妹轟「台灣超落後」！物價貴3倍、空氣髒臭　掀兩派論戰",
+      "link": "/bbs/Gossiping/M.1772360602.A.C1D",
+      "author": "b8103033",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 10:23",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "408",
+      "recommendCount": "808",
+      "title": "[情報] 中華隊今日熱身賽取消",
+      "link": "/bbs/Baseball/M.1772415270.A.F47",
+      "author": "sharrys",
+      "board": "Baseball",
+      "publishTime": "2026/03/02 01:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "289",
+      "recommendCount": "609",
       "title": "[問卦] 喪禮沒有按照禮俗會怎樣？",
       "link": "/bbs/Gossiping/M.1772354180.A.B5F",
       "author": "YingWenTsai",
@@ -34,23 +44,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "164",
-      "recommendCount": "589",
+      "recommendScore": "163",
+      "recommendCount": "600",
       "title": "[新聞] 搶救少子 藍擬推0-6歲健保費國家出",
       "link": "/bbs/Gossiping/M.1772406095.A.E1C",
       "author": "semih",
       "board": "Gossiping",
       "publishTime": "2026/03/01 23:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "372",
-      "recommendCount": "743",
-      "title": "[情報] 中華隊今日熱身賽取消",
-      "link": "/bbs/Baseball/M.1772415270.A.F47",
-      "author": "sharrys",
-      "board": "Baseball",
-      "publishTime": "2026/03/02 01:34",
       "imageUrl": ""
     },
     {
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "195",
-      "recommendCount": "427",
+      "recommendScore": "193",
+      "recommendCount": "432",
       "title": "[新聞] 4天不睡覺！男大生「廁所一聲慘叫」倒地母心碎拔管：讓他走吧",
       "link": "/bbs/Gossiping/M.1772366038.A.3FB",
       "author": "seiya2000",
@@ -95,13 +95,23 @@
     },
     {
       "recommendScore": "191",
-      "recommendCount": "338",
+      "recommendCount": "343",
       "title": "[討論] 國外youtuber把台灣放在F等級",
       "link": "/bbs/Baseball/M.1772378404.A.9EA",
       "author": "amoyui",
       "board": "Baseball",
       "publishTime": "2026/03/01 15:20",
       "imageUrl": "https://cache.pttweb.cc/imgur/qQ3tmSV/s/b205c6767a840f92782aaf36676b0521"
+    },
+    {
+      "recommendScore": "243",
+      "recommendCount": "488",
+      "title": "[何去] 任天堂過度依賴老牌IP？專家警告：",
+      "link": "/bbs/C_Chat/M.1772415979.A.2B2",
+      "author": "SuperSg",
+      "board": "C_Chat",
+      "publishTime": "2026/03/02 01:46",
+      "imageUrl": ""
     },
     {
       "recommendScore": "228",
@@ -111,6 +121,16 @@
       "author": "leptoneta",
       "board": "Gossiping",
       "publishTime": "2026/03/01 16:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "218",
+      "recommendCount": "396",
+      "title": "[問卦] 以色列前總理：土耳其是「新伊朗」",
+      "link": "/bbs/Gossiping/M.1772418358.A.ECF",
+      "author": "bluehttp",
+      "board": "Gossiping",
+      "publishTime": "2026/03/02 02:25",
       "imageUrl": ""
     },
     {
@@ -124,18 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "215",
-      "recommendCount": "329",
-      "title": "[問卦] 阿聯酋（杜拜）宣佈負擔所有旅客費用",
-      "link": "/bbs/Gossiping/M.1772362422.A.15F",
-      "author": "jiern",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 10:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "193",
-      "recommendCount": "386",
+      "recommendScore": "202",
+      "recommendCount": "408",
       "title": "[閒聊] 一番賞包套 頭獎消失 店家：退款",
       "link": "/bbs/C_Chat/M.1772399812.A.388",
       "author": "GTES",
@@ -144,33 +154,33 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "216",
+      "recommendCount": "330",
+      "title": "[問卦] 阿聯酋（杜拜）宣佈負擔所有旅客費用",
+      "link": "/bbs/Gossiping/M.1772362422.A.15F",
+      "author": "jiern",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 10:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "194",
+      "recommendCount": "381",
+      "title": "[問卦] 伊朗連打十幾國 是什麼戰術？",
+      "link": "/bbs/Gossiping/M.1772421334.A.EB4",
+      "author": "Triceratops",
+      "board": "Gossiping",
+      "publishTime": "2026/03/02 03:15",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "191",
-      "recommendCount": "290",
+      "recommendCount": "291",
       "title": "[新聞] 狂喊60次不要！她控男網友性侵　「身體配合」求償120萬吞敗",
       "link": "/bbs/Gossiping/M.1772363123.A.EE2",
       "author": "luxuryer",
       "board": "Gossiping",
       "publishTime": "2026/03/01 11:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "192",
-      "recommendCount": "349",
-      "title": "[問卦] 以色列前總理：土耳其是「新伊朗」",
-      "link": "/bbs/Gossiping/M.1772418358.A.ECF",
-      "author": "bluehttp",
-      "board": "Gossiping",
-      "publishTime": "2026/03/02 02:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "199",
-      "recommendCount": "382",
-      "title": "[何去] 任天堂過度依賴老牌IP？專家警告：",
-      "link": "/bbs/C_Chat/M.1772415979.A.2B2",
-      "author": "SuperSg",
-      "board": "C_Chat",
-      "publishTime": "2026/03/02 01:46",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "diefishfish",
       "board": "Stock",
       "publishTime": "2026/03/01 11:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "117",
-      "recommendCount": "273",
-      "title": "[討論] 這次中日大戰會重現2013的人氣嗎?",
-      "link": "/bbs/Baseball/M.1772361811.A.D3D",
-      "author": "Tanjiro",
-      "board": "Baseball",
-      "publishTime": "2026/03/01 10:43",
       "imageUrl": ""
     }
   ]
