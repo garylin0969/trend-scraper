@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-02T11:08:05.359Z",
+  "updated": "2026-03-02T11:23:46.646Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,6 +74,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/qQ3tmSV/s/b205c6767a840f92782aaf36676b0521"
     },
     {
+      "recommendScore": "250",
+      "recommendCount": "497",
+      "title": "[何去] 任天堂過度依賴老牌IP？專家警告：",
+      "link": "/bbs/C_Chat/M.1772415979.A.2B2",
+      "author": "SuperSg",
+      "board": "C_Chat",
+      "publishTime": "2026/03/02 01:46",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "350",
       "recommendCount": "663",
       "title": "[情報] 苦命在老鷹平均上26.5分鐘 場均21.3分",
@@ -81,16 +91,6 @@
       "author": "Skyblueway",
       "board": "NBA",
       "publishTime": "2026/03/02 02:20",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "243",
-      "recommendCount": "488",
-      "title": "[何去] 任天堂過度依賴老牌IP？專家警告：",
-      "link": "/bbs/C_Chat/M.1772415979.A.2B2",
-      "author": "SuperSg",
-      "board": "C_Chat",
-      "publishTime": "2026/03/02 01:46",
       "imageUrl": ""
     },
     {
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "202",
-      "recommendCount": "408",
+      "recommendScore": "204",
+      "recommendCount": "410",
       "title": "[閒聊] 一番賞包套 頭獎消失 店家：退款",
       "link": "/bbs/C_Chat/M.1772399812.A.388",
       "author": "GTES",
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "101",
-      "recommendCount": "275",
-      "title": "[新聞] 快訊／普丁發聲！稱哈米尼遭冷血殺害",
-      "link": "/bbs/Gossiping/M.1772363657.A.EE0",
-      "author": "access4096",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 11:14",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "151",
       "recommendCount": "337",
       "title": "[問卦] 28天天然氣船無法入台會怎樣?",
@@ -141,16 +131,6 @@
       "author": "guest2008",
       "board": "Gossiping",
       "publishTime": "2026/03/01 23:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "112",
-      "recommendCount": "245",
-      "title": "[新聞] 台股周一大崩殺？中東開打、美股連2黑",
-      "link": "/bbs/Stock/M.1772363401.A.C55",
-      "author": "diefishfish",
-      "board": "Stock",
-      "publishTime": "2026/03/01 11:10",
       "imageUrl": ""
     },
     {
@@ -201,6 +181,26 @@
       "author": "yuchiwang",
       "board": "Baseball",
       "publishTime": "2026/03/02 04:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "37",
+      "recommendCount": "193",
+      "title": "[新聞] 美以斬首哈米尼！謝金河讚台灣安全感提升",
+      "link": "/bbs/Stock/M.1772378866.A.298",
+      "author": "joanzkow",
+      "board": "Stock",
+      "publishTime": "2026/03/01 15:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "114",
+      "recommendCount": "205",
+      "title": "[爆卦] 伊朗襲擊在阿聯的法國海軍基地",
+      "link": "/bbs/Gossiping/M.1772376096.A.FA7",
+      "author": "leptoneta",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 14:41",
       "imageUrl": ""
     }
   ]
