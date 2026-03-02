@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-02T23:22:10.000Z",
+  "updated": "2026-03-02T23:40:49.750Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "356",
-      "recommendCount": "867",
+      "recommendScore": "357",
+      "recommendCount": "869",
       "title": "[情報] 卡達天然氣被封鎖 台灣恐全面限電",
       "link": "/bbs/Stock/M.1772457752.A.8B7",
       "author": "aa923310tw",
@@ -105,7 +105,7 @@
     },
     {
       "recommendScore": "95",
-      "recommendCount": "552",
+      "recommendCount": "553",
       "title": "Re: [情報] 卡達天然氣被封鎖 台灣恐全面限電",
       "link": "/bbs/Stock/M.1772460786.A.ECE",
       "author": "RodrigueZ810",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "248",
-      "recommendCount": "305",
+      "recommendScore": "250",
+      "recommendCount": "307",
       "title": "[分享] 今日大谷翔平",
       "link": "/bbs/Baseball/M.1772455168.A.FEF",
       "author": "Axwell",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "174",
-      "recommendCount": "295",
+      "recommendScore": "175",
+      "recommendCount": "296",
       "title": "[問卦] 台灣10年內有做什麼事是大成功的？",
       "link": "/bbs/Gossiping/M.1772431993.A.2C4",
       "author": "HTC92",
@@ -161,16 +161,6 @@
       "author": "GoToCHT",
       "board": "Gossiping",
       "publishTime": "2026/03/02 03:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "159",
-      "recommendCount": "359",
-      "title": "[問卦] 28天天然氣船無法入台會怎樣?",
-      "link": "/bbs/Gossiping/M.1772407777.A.DD7",
-      "author": "guest2008",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 23:29",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "C_Chat",
       "publishTime": "2026/03/02 04:17",
       "imageUrl": "https://cache.pttweb.cc/imgur/VarYffV/s/0fb29c054438a0dc8956b633e8025a89"
+    },
+    {
+      "recommendScore": "196",
+      "recommendCount": "335",
+      "title": "Re: [新聞] 台灣最大LNG來源出事？卡達設施遇襲停產經濟部啟動備援",
+      "link": "/bbs/Gossiping/M.1772464899.A.416",
+      "author": "Hyuui",
+      "board": "Gossiping",
+      "publishTime": "2026/03/02 15:21",
+      "imageUrl": ""
     }
   ]
 }
