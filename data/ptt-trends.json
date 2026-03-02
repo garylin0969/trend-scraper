@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-02T18:47:53.357Z",
+  "updated": "2026-03-02T19:08:18.316Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "331",
-      "recommendCount": "801",
+      "recommendScore": "333",
+      "recommendCount": "816",
       "title": "[情報] 卡達天然氣被封鎖 台灣恐全面限電",
       "link": "/bbs/Stock/M.1772457752.A.8B7",
       "author": "aa923310tw",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "237",
-      "recommendCount": "524",
+      "recommendCount": "525",
       "title": "[新聞] 台電：核三廠再運轉計畫初步完成　3月底送核安會",
       "link": "/bbs/Gossiping/M.1772449690.A.A45",
       "author": "ptt987654321",
@@ -54,13 +54,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "232",
-      "recommendCount": "441",
+      "recommendScore": "250",
+      "recommendCount": "486",
       "title": "[問卦] 伊朗連打十幾國 是什麼戰術？",
       "link": "/bbs/Gossiping/M.1772421334.A.EB4",
       "author": "Triceratops",
       "board": "Gossiping",
       "publishTime": "2026/03/02 03:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "237",
+      "recommendCount": "439",
+      "title": "[問卦] 以色列前總理：土耳其是「新伊朗」",
+      "link": "/bbs/Gossiping/M.1772418358.A.ECF",
+      "author": "bluehttp",
+      "board": "Gossiping",
+      "publishTime": "2026/03/02 02:25",
       "imageUrl": ""
     },
     {
@@ -74,18 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "229",
-      "recommendCount": "421",
-      "title": "[問卦] 以色列前總理：土耳其是「新伊朗」",
-      "link": "/bbs/Gossiping/M.1772418358.A.ECF",
-      "author": "bluehttp",
-      "board": "Gossiping",
-      "publishTime": "2026/03/02 02:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "256",
-      "recommendCount": "508",
+      "recommendScore": "257",
+      "recommendCount": "509",
       "title": "[何去] 任天堂過度依賴老牌IP？專家警告：",
       "link": "/bbs/C_Chat/M.1772415979.A.2B2",
       "author": "SuperSg",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "204",
-      "recommendCount": "410",
+      "recommendScore": "206",
+      "recommendCount": "419",
       "title": "[閒聊] 一番賞包套 頭獎消失 店家：退款",
       "link": "/bbs/C_Chat/M.1772399812.A.388",
       "author": "GTES",
@@ -115,12 +115,32 @@
     },
     {
       "recommendScore": "190",
-      "recommendCount": "327",
+      "recommendCount": "328",
       "title": "[新聞] 李宗瑞獄中做花燈又得獎　嬉遊臺北- Chill Taipei榮獲北市燈王",
       "link": "/bbs/Gossiping/M.1772459319.A.7E7",
       "author": "jeff0025",
       "board": "Gossiping",
       "publishTime": "2026/03/02 13:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "122",
+      "recommendCount": "330",
+      "title": "[新聞] 美伊交火情勢升 外交部：暫無中東撤僑規畫",
+      "link": "/bbs/Gossiping/M.1772421242.A.A54",
+      "author": "xFANx",
+      "board": "Gossiping",
+      "publishTime": "2026/03/02 03:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "91",
+      "recommendCount": "495",
+      "title": "Re: [情報] 卡達天然氣被封鎖 台灣恐全面限電",
+      "link": "/bbs/Stock/M.1772460786.A.ECE",
+      "author": "RodrigueZ810",
+      "board": "Stock",
+      "publishTime": "2026/03/02 14:13",
       "imageUrl": ""
     },
     {
@@ -134,23 +154,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "87",
-      "recommendCount": "475",
-      "title": "Re: [情報] 卡達天然氣被封鎖 台灣恐全面限電",
-      "link": "/bbs/Stock/M.1772460786.A.ECE",
-      "author": "RodrigueZ810",
-      "board": "Stock",
-      "publishTime": "2026/03/02 14:13",
+      "recommendScore": "172",
+      "recommendCount": "292",
+      "title": "[問卦] 台灣10年內有做什麼事是大成功的？",
+      "link": "/bbs/Gossiping/M.1772431993.A.2C4",
+      "author": "HTC92",
+      "board": "Gossiping",
+      "publishTime": "2026/03/02 06:13",
       "imageUrl": ""
     },
     {
-      "recommendScore": "105",
-      "recommendCount": "296",
-      "title": "[新聞] 美伊交火情勢升 外交部：暫無中東撤僑規畫",
-      "link": "/bbs/Gossiping/M.1772421242.A.A54",
-      "author": "xFANx",
+      "recommendScore": "144",
+      "recommendCount": "641",
+      "title": "[問卦] 孫運璿二二八日記  見到外省人就打",
+      "link": "/bbs/Gossiping/M.1772422375.A.722",
+      "author": "GoToCHT",
       "board": "Gossiping",
-      "publishTime": "2026/03/02 03:14",
+      "publishTime": "2026/03/02 03:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "159",
+      "recommendCount": "359",
+      "title": "[問卦] 28天天然氣船無法入台會怎樣?",
+      "link": "/bbs/Gossiping/M.1772407777.A.DD7",
+      "author": "guest2008",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 23:29",
       "imageUrl": ""
     },
     {
@@ -164,16 +194,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "151",
-      "recommendCount": "337",
-      "title": "[問卦] 28天天然氣船無法入台會怎樣?",
-      "link": "/bbs/Gossiping/M.1772407777.A.DD7",
-      "author": "guest2008",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 23:29",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "904",
       "recommendCount": "1480",
       "title": "[討論] [Vtub] Hololive 晚間直播單 (1150302)",
@@ -182,26 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2026/03/02 10:56",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "189",
-      "recommendCount": "242",
-      "title": "Re: [問卦] 穿旗袍是不是很挑身材？",
-      "link": "/bbs/Gossiping/M.1772441695.A.66D",
-      "author": "ginchen5566",
-      "board": "Gossiping",
-      "publishTime": "2026/03/02 08:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "175",
-      "recommendCount": "239",
-      "title": "[閒聊] 遊戲王 伊西斯‧伊修達爾 1/6雕像 可脫",
-      "link": "/bbs/C_Chat/M.1772425061.A.AF1",
-      "author": "LABOYS",
-      "board": "C_Chat",
-      "publishTime": "2026/03/02 04:17",
-      "imageUrl": "https://cache.pttweb.cc/imgur/VarYffV/s/0fb29c054438a0dc8956b633e8025a89"
     }
   ]
 }
