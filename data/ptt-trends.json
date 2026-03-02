@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-02T11:23:46.646Z",
+  "updated": "2026-03-02T11:42:18.237Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "189",
+      "recommendCount": "242",
+      "title": "Re: [問卦] 穿旗袍是不是很挑身材？",
+      "link": "/bbs/Gossiping/M.1772441695.A.66D",
+      "author": "ginchen5566",
+      "board": "Gossiping",
+      "publishTime": "2026/03/02 08:54",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "119",
       "recommendCount": "540",
       "title": "[問卦] 孫運璿二二八日記  見到外省人就打",
@@ -184,24 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "37",
-      "recommendCount": "193",
-      "title": "[新聞] 美以斬首哈米尼！謝金河讚台灣安全感提升",
-      "link": "/bbs/Stock/M.1772378866.A.298",
-      "author": "joanzkow",
-      "board": "Stock",
-      "publishTime": "2026/03/01 15:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "114",
+      "recommendScore": "156",
       "recommendCount": "205",
-      "title": "[爆卦] 伊朗襲擊在阿聯的法國海軍基地",
-      "link": "/bbs/Gossiping/M.1772376096.A.FA7",
-      "author": "leptoneta",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 14:41",
-      "imageUrl": ""
+      "title": "[閒聊] 遊戲王 伊西斯‧伊修達爾 1/6雕像 可脫",
+      "link": "/bbs/C_Chat/M.1772425061.A.AF1",
+      "author": "LABOYS",
+      "board": "C_Chat",
+      "publishTime": "2026/03/02 04:17",
+      "imageUrl": "https://cache.pttweb.cc/imgur/VarYffV/s/0fb29c054438a0dc8956b633e8025a89"
     }
   ]
 }
