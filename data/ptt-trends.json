@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-02T14:02:00.667Z",
+  "updated": "2026-03-02T14:27:06.418Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "196",
+      "recommendCount": "237",
+      "title": "[分享] 今日大谷翔平",
+      "link": "/bbs/Baseball/M.1772455168.A.FEF",
+      "author": "Axwell",
+      "board": "Baseball",
+      "publishTime": "2026/03/02 12:39",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "151",
       "recommendCount": "337",
       "title": "[問卦] 28天天然氣船無法入台會怎樣?",
@@ -141,6 +151,16 @@
       "author": "GoToCHT",
       "board": "Gossiping",
       "publishTime": "2026/03/02 03:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "111",
+      "recommendCount": "285",
+      "title": "[情報] 卡達天然氣被封鎖 台灣恐全面限電",
+      "link": "/bbs/Stock/M.1772457752.A.8B7",
+      "author": "aa923310tw",
+      "board": "Stock",
+      "publishTime": "2026/03/02 13:22",
       "imageUrl": ""
     },
     {
@@ -182,26 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2026/03/02 04:17",
       "imageUrl": "https://cache.pttweb.cc/imgur/VarYffV/s/0fb29c054438a0dc8956b633e8025a89"
-    },
-    {
-      "recommendScore": "37",
-      "recommendCount": "193",
-      "title": "[新聞] 美以斬首哈米尼！謝金河讚台灣安全感提升",
-      "link": "/bbs/Stock/M.1772378866.A.298",
-      "author": "joanzkow",
-      "board": "Stock",
-      "publishTime": "2026/03/01 15:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "114",
-      "recommendCount": "205",
-      "title": "[爆卦] 伊朗襲擊在阿聯的法國海軍基地",
-      "link": "/bbs/Gossiping/M.1772376096.A.FA7",
-      "author": "leptoneta",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 14:41",
-      "imageUrl": ""
     }
   ]
 }
