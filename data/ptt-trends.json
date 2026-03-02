@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-02T05:40:56.903Z",
+  "updated": "2026-03-02T06:04:16.496Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,16 +34,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "191",
-      "recommendCount": "474",
-      "title": "[新聞] 美伊開戰　中國發聲：武力只會加劇仇恨和衝突，不是解決爭端正確方式",
-      "link": "/bbs/Gossiping/M.1772343881.A.FAD",
-      "author": "com2",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 05:44",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "287",
       "recommendCount": "601",
       "title": "[問卦] 喪禮沒有按照禮俗會怎樣？",
@@ -61,16 +51,6 @@
       "author": "SbHunt",
       "board": "Baseball",
       "publishTime": "2026/03/01 09:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "236",
-      "recommendCount": "396",
-      "title": "[請益]川普斬首首領，明天台股漲還是跌？",
-      "link": "/bbs/Stock/M.1772343706.A.EC8",
-      "author": "huangin",
-      "board": "Stock",
-      "publishTime": "2026/03/01 05:41",
       "imageUrl": ""
     },
     {
@@ -201,6 +181,26 @@
       "author": "sharrys",
       "board": "Baseball",
       "publishTime": "2026/03/02 01:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "100",
+      "recommendCount": "272",
+      "title": "[新聞] 快訊／普丁發聲！稱哈米尼遭冷血殺害",
+      "link": "/bbs/Gossiping/M.1772363657.A.EE0",
+      "author": "access4096",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 11:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "112",
+      "recommendCount": "245",
+      "title": "[新聞] 台股周一大崩殺？中東開打、美股連2黑",
+      "link": "/bbs/Stock/M.1772363401.A.C55",
+      "author": "diefishfish",
+      "board": "Stock",
+      "publishTime": "2026/03/01 11:10",
       "imageUrl": ""
     }
   ]
