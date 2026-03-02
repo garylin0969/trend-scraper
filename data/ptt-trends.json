@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-02T17:28:59.718Z",
+  "updated": "2026-03-02T17:50:12.671Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "134",
-      "recommendCount": "241",
-      "title": "[問卦] 青鳥為何喜歡在捷運上攻擊路人？",
-      "link": "/bbs/Gossiping/M.1772387187.A.2E8",
-      "author": "Sosonian",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 17:46",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "137",
       "recommendCount": "240",
       "title": "[新聞] 南韓推半價國旅 提振鄉村觀光",
@@ -202,6 +192,16 @@
       "board": "Baseball",
       "publishTime": "2026/03/02 04:17",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "156",
+      "recommendCount": "205",
+      "title": "[閒聊] 遊戲王 伊西斯‧伊修達爾 1/6雕像 可脫",
+      "link": "/bbs/C_Chat/M.1772425061.A.AF1",
+      "author": "LABOYS",
+      "board": "C_Chat",
+      "publishTime": "2026/03/02 04:17",
+      "imageUrl": "https://cache.pttweb.cc/imgur/VarYffV/s/0fb29c054438a0dc8956b633e8025a89"
     }
   ]
 }
