@@ -1,11 +1,21 @@
 {
-  "updated": "2026-03-02T17:50:12.671Z",
+  "updated": "2026-03-02T18:05:57.343Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "447",
-      "recommendCount": "586",
+      "recommendScore": "331",
+      "recommendCount": "801",
+      "title": "[情報] 卡達天然氣被封鎖 台灣恐全面限電",
+      "link": "/bbs/Stock/M.1772457752.A.8B7",
+      "author": "aa923310tw",
+      "board": "Stock",
+      "publishTime": "2026/03/02 13:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "479",
+      "recommendCount": "629",
       "title": "[討論] 台灣這次WBC的及格線",
       "link": "/bbs/Baseball/M.1772422887.A.F93",
       "author": "ryanl",
@@ -34,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "227",
+      "recommendCount": "507",
+      "title": "[新聞] 台電：核三廠再運轉計畫初步完成　3月底送核安會",
+      "link": "/bbs/Gossiping/M.1772449690.A.A45",
+      "author": "ptt987654321",
+      "board": "Gossiping",
+      "publishTime": "2026/03/02 11:08",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "232",
       "recommendCount": "441",
       "title": "[問卦] 伊朗連打十幾國 是什麼戰術？",
@@ -41,6 +61,16 @@
       "author": "Triceratops",
       "board": "Gossiping",
       "publishTime": "2026/03/02 03:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "269",
+      "recommendCount": "528",
+      "title": "[新聞] 伊朗拒與美談判！拉里賈尼嗆「刺穿敵人之心」、革命衛隊稱「絕不屈服」",
+      "link": "/bbs/Stock/M.1772437398.A.C67",
+      "author": "thinksilver",
+      "board": "Stock",
+      "publishTime": "2026/03/02 07:43",
       "imageUrl": ""
     },
     {
@@ -84,13 +114,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "176",
-      "recommendCount": "392",
-      "title": "[新聞] 台電：核三廠再運轉計畫初步完成　3月底送核安會",
-      "link": "/bbs/Gossiping/M.1772449690.A.A45",
-      "author": "ptt987654321",
+      "recommendScore": "146",
+      "recommendCount": "349",
+      "title": "[問卦] 講真的，為什麼一直戰爭啊？",
+      "link": "/bbs/Gossiping/M.1772445131.A.507",
+      "author": "saufu08",
       "board": "Gossiping",
-      "publishTime": "2026/03/02 11:08",
+      "publishTime": "2026/03/02 09:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "87",
+      "recommendCount": "475",
+      "title": "Re: [情報] 卡達天然氣被封鎖 台灣恐全面限電",
+      "link": "/bbs/Stock/M.1772460786.A.ECE",
+      "author": "RodrigueZ810",
+      "board": "Stock",
+      "publishTime": "2026/03/02 14:13",
       "imageUrl": ""
     },
     {
@@ -114,13 +154,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "125",
-      "recommendCount": "311",
-      "title": "[問卦] 講真的，為什麼一直戰爭啊？",
-      "link": "/bbs/Gossiping/M.1772445131.A.507",
-      "author": "saufu08",
+      "recommendScore": "159",
+      "recommendCount": "274",
+      "title": "[新聞] 李宗瑞獄中做花燈又得獎　嬉遊臺北- Chill Taipei榮獲北市燈王",
+      "link": "/bbs/Gossiping/M.1772459319.A.7E7",
+      "author": "jeff0025",
       "board": "Gossiping",
-      "publishTime": "2026/03/02 09:52",
+      "publishTime": "2026/03/02 13:48",
       "imageUrl": ""
     },
     {
@@ -134,7 +174,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "965",
+      "recommendScore": "904",
       "recommendCount": "1480",
       "title": "[討論] [Vtub] Hololive 晚間直播單 (1150302)",
       "link": "/bbs/C_Chat/M.1772448991.A.195",
@@ -162,46 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/03/02 03:32",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "111",
-      "recommendCount": "285",
-      "title": "[情報] 卡達天然氣被封鎖 台灣恐全面限電",
-      "link": "/bbs/Stock/M.1772457752.A.8B7",
-      "author": "aa923310tw",
-      "board": "Stock",
-      "publishTime": "2026/03/02 13:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "137",
-      "recommendCount": "240",
-      "title": "[新聞] 南韓推半價國旅 提振鄉村觀光",
-      "link": "/bbs/Gossiping/M.1772414294.A.A0B",
-      "author": "a96385245",
-      "board": "Gossiping",
-      "publishTime": "2026/03/02 01:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "159",
-      "recommendCount": "224",
-      "title": "[炸裂] 金倒永",
-      "link": "/bbs/Baseball/M.1772425026.A.23F",
-      "author": "yuchiwang",
-      "board": "Baseball",
-      "publishTime": "2026/03/02 04:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "156",
-      "recommendCount": "205",
-      "title": "[閒聊] 遊戲王 伊西斯‧伊修達爾 1/6雕像 可脫",
-      "link": "/bbs/C_Chat/M.1772425061.A.AF1",
-      "author": "LABOYS",
-      "board": "C_Chat",
-      "publishTime": "2026/03/02 04:17",
-      "imageUrl": "https://cache.pttweb.cc/imgur/VarYffV/s/0fb29c054438a0dc8956b633e8025a89"
     }
   ]
 }
