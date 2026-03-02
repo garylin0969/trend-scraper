@@ -1,14 +1,22 @@
 {
-  "updated": "2026-03-02T06:03:17.427Z",
+  "updated": "2026-03-02T06:33:51.032Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-03-02T06:03:00.000Z",
+    "lastBuildDate": "2026-03-02T06:33:47.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "美以「斬首」行動背後是長達數月的追蹤和計劃",
+      "description": "伊朗知道最高領袖已成為敵方的目標，然而在這數月間未能發現並應對這些弱點，顯示伊朗安全與反情報工作存在重大失誤，或顯示以色列與美國有能力持續調整方法、找到新的追蹤方式。",
+      "link": "https://www.bbc.com/zhongwen/articles/c0e5dvnlrewo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-02T05:58:04.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c0e5dvnlrewo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/03d0/live/feee2cf0-158d-11f1-9120-a910fc22c6ac.jpg"
+    },
     {
       "title": "美以聯手攻擊伊朗致哈梅內伊喪生以及伊朗的報復性打擊——我們目前知道什麼？",
       "description": "伊朗已向以色列發射一輪導彈作為報復，同時卡塔爾、巴林、沙特阿拉伯及阿聯酋亦傳出爆炸聲。特朗普表示，哈梅內伊已遭殺害，而猛烈而精準的轟炸將會持續進行。",
@@ -42,22 +50,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e36c/live/1840b2a0-1556-11f1-801d-ed3cff6bf876.jpg"
     },
     {
-      "title": "伊朗：哈梅內伊的鐵腕統治結束",
-      "description": "這位86歲的統治者執政長達30年，是世界上在位最長的統治者之一。其死訊已在伊朗國家電視台得到證實。自1979年伊斯蘭革命以來，伊朗僅有兩位最高領袖。BBC回顧及評析哈梅內伊的一生。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1e940735ppo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-01T05:37:46.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1e940735ppo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/86c9/live/6364bd60-7e73-11ef-a4d3-09b59abdbf71.jpg"
-    },
-    {
-      "title": "連結安德魯與愛潑斯坦的第三人曝光",
-      "description": "英國王室前成員安德魯與愛潑斯坦背後，竟藏著一位神秘「中國通」大衛·斯特恩。根據司法部文件，這位德國人十年來默默牽線、傳遞情報、介紹中國人脈，甚至幫安德魯前妻弗格森解決巨額債務。",
-      "link": "https://www.bbc.com/zhongwen/articles/cgjzny6z44go/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-01T07:41:20.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cgjzny6z44go/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0b14/live/40780c60-0cd6-11f1-b054-335fa224f76a.jpg"
-    },
-    {
       "title": "為何美國以色列此刻出手？伊朗進入「生存模式」，結局仍充滿變數",
       "description": "專家指出，這場針對伊朗的新一輪軍事行動意在推動政權更迭，可能引發更廣泛的地區衝突。",
       "link": "https://www.bbc.com/zhongwen/articles/cy57glv45lgo/trad?at_medium=RSS&at_campaign=rss",
@@ -66,12 +58,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/517f/live/e5a84490-14cc-11f1-9120-a910fc22c6ac.jpg"
     },
     {
+      "title": "伊朗：哈梅內伊的鐵腕統治結束",
+      "description": "這位86歲的統治者執政長達30年，是世界上在位最長的統治者之一。其死訊已在伊朗國家電視台得到證實。自1979年伊斯蘭革命以來，伊朗僅有兩位最高領袖。BBC回顧及評析哈梅內伊的一生。",
+      "link": "https://www.bbc.com/zhongwen/articles/c1e940735ppo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-01T05:37:46.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1e940735ppo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/86c9/live/6364bd60-7e73-11ef-a4d3-09b59abdbf71.jpg"
+    },
+    {
       "title": "分析：這是一個危險時刻，但美國與以色列認為機不可失",
       "description": "以色列與美國認為，伊朗政權正處於脆弱狀態，不僅面臨經濟危機，亦要應對此前鎮壓示威所帶來的後續影響。",
       "link": "https://www.bbc.com/zhongwen/articles/c5yg953jd4wo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-03-01T02:24:07.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c5yg953jd4wo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f722/live/4069b410-14a3-11f1-b048-c9424b2cf5fd.jpg"
+    },
+    {
+      "title": "連結安德魯與愛潑斯坦的第三人曝光",
+      "description": "英國王室前成員安德魯與愛潑斯坦背後，竟藏著一位神秘「中國通」大衛·斯特恩。根據司法部文件，這位德國人十年來默默牽線、傳遞情報、介紹中國人脈，甚至幫安德魯前妻弗格森解決巨額債務。",
+      "link": "https://www.bbc.com/zhongwen/articles/cgjzny6z44go/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-01T07:41:20.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cgjzny6z44go/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0b14/live/40780c60-0cd6-11f1-b054-335fa224f76a.jpg"
     },
     {
       "title": "「人民越來越窮」：伊朗經濟困境如何改變民眾生活",
@@ -96,14 +104,6 @@
       "pubDate": "2026-02-27T06:14:56.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy7jegr7k3jo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/07fa/live/c1bda190-1339-11f1-b048-c9424b2cf5fd.png"
-    },
-    {
-      "title": "黎智英欺詐案上訴得直：定罪及刑罰被撤銷，出獄時間提前",
-      "description": "黎智英正就國安案被判囚20年，由於欺詐刑期被撤銷，坐牢時間有所縮減，但仍要服刑至2040年。",
-      "link": "https://www.bbc.com/zhongwen/articles/c9dnxn569epo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-26T05:29:21.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c9dnxn569epo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/58f7/live/aeab17c0-12cd-11f1-996b-c18ab459f9d6.jpg"
     },
     {
       "title": "社運人士郭鳳儀：香港當局監禁我父親，企圖令我噤聲",
