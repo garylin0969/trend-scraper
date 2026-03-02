@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-01T23:57:33.680Z",
+  "updated": "2026-03-02T00:41:27.926Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "216",
+      "recommendCount": "670",
+      "title": "[新聞] 旅德台妹轟「台灣超落後」！物價貴3倍、空氣髒臭　掀兩派論戰",
+      "link": "/bbs/Gossiping/M.1772360602.A.C1D",
+      "author": "b8103033",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 10:23",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "702",
       "recommendCount": "1499",
       "title": "[Live] 世界盃資格賽   中國 VS 台灣",
@@ -41,16 +51,6 @@
       "author": "com2",
       "board": "Gossiping",
       "publishTime": "2026/03/01 05:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "216",
-      "recommendCount": "667",
-      "title": "[新聞] 旅德台妹轟「台灣超落後」！物價貴3倍、空氣髒臭　掀兩派論戰",
-      "link": "/bbs/Gossiping/M.1772360602.A.C1D",
-      "author": "b8103033",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 10:23",
       "imageUrl": ""
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "recommendScore": "249",
-      "recommendCount": "621",
+      "recommendCount": "623",
       "title": "[情報] WBC禁止觀眾上傳照片影片",
       "link": "/bbs/Baseball/M.1772356618.A.4B8",
       "author": "SbHunt",
@@ -174,16 +174,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/7QO6W3k/s/48556cbded96ede307a72e52a8c26324"
     },
     {
-      "recommendScore": "211",
-      "recommendCount": "386",
-      "title": "[新聞] 老闆免費修車 男大生沒道謝還「嘖」一聲留一星遭炎上 急刪評論鎖帳",
-      "link": "/bbs/Gossiping/M.1772324223.A.1BC",
-      "author": "herewego",
-      "board": "Gossiping",
-      "publishTime": "2026/03/01 00:17",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "219",
       "recommendCount": "362",
       "title": "[新聞] 川普：猛烈精準轟炸將在本週持續進行，不會中斷！直到達成和平目標",
@@ -201,6 +191,16 @@
       "author": "jiern",
       "board": "Gossiping",
       "publishTime": "2026/03/01 10:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "209",
+      "recommendCount": "679",
+      "title": "[爆卦] 美國提出停火 伊朗拒絕",
+      "link": "/bbs/Gossiping/M.1772381738.A.C5B",
+      "author": "leptoneta",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 16:15",
       "imageUrl": ""
     }
   ]
