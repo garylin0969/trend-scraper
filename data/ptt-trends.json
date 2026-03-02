@@ -1,18 +1,8 @@
 {
-  "updated": "2026-03-02T03:59:41.322Z",
+  "updated": "2026-03-02T04:42:04.341Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "378",
-      "recommendCount": "516",
-      "title": "[BOX ] Lakers 129:101 Warriors",
-      "link": "/bbs/Baseball/M.1772337566.A.C7F",
-      "author": "Takeda5566",
-      "board": "Baseball",
-      "publishTime": "2026/03/01 03:59",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "225",
       "recommendCount": "687",
@@ -114,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "249",
-      "recommendCount": "352",
-      "title": "[情報] 宮崎市致贈十公斤宮崎牛給中華隊",
-      "link": "/bbs/Baseball/M.1772339235.A.8C8",
-      "author": "Aotearoa",
-      "board": "Baseball",
-      "publishTime": "2026/03/01 04:27",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "223",
       "recommendCount": "732",
       "title": "[爆卦] 美國提出停火 伊朗拒絕",
@@ -201,6 +181,26 @@
       "author": "GTES",
       "board": "C_Chat",
       "publishTime": "2026/03/01 21:16",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "214",
+      "recommendCount": "384",
+      "title": "[情報] 中華隊今日熱身賽取消",
+      "link": "/bbs/Baseball/M.1772415270.A.F47",
+      "author": "sharrys",
+      "board": "Baseball",
+      "publishTime": "2026/03/02 01:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "100",
+      "recommendCount": "272",
+      "title": "[新聞] 快訊／普丁發聲！稱哈米尼遭冷血殺害",
+      "link": "/bbs/Gossiping/M.1772363657.A.EE0",
+      "author": "access4096",
+      "board": "Gossiping",
+      "publishTime": "2026/03/01 11:14",
       "imageUrl": ""
     }
   ]
