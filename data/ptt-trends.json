@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-02T07:31:57.085Z",
+  "updated": "2026-03-02T07:55:23.004Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "230",
-      "recommendCount": "245",
-      "title": "Re: [LIVE] 日甲 水戶蜀葵 @ 川崎前鋒 場中",
-      "link": "/bbs/SportLottery/M.1772351379.A.7AD",
-      "author": "b032819",
-      "board": "SportLottery",
-      "publishTime": "2026/03/01 07:49",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "199",
       "recommendCount": "382",
       "title": "[何去] 任天堂過度依賴老牌IP？專家警告：",
@@ -201,6 +191,16 @@
       "author": "diefishfish",
       "board": "Stock",
       "publishTime": "2026/03/01 11:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "117",
+      "recommendCount": "273",
+      "title": "[討論] 這次中日大戰會重現2013的人氣嗎?",
+      "link": "/bbs/Baseball/M.1772361811.A.D3D",
+      "author": "Tanjiro",
+      "board": "Baseball",
+      "publishTime": "2026/03/01 10:43",
       "imageUrl": ""
     }
   ]
