@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-02T23:40:49.750Z",
+  "updated": "2026-03-02T23:52:48.136Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "357",
-      "recommendCount": "869",
+      "recommendScore": "359",
+      "recommendCount": "874",
       "title": "[情報] 卡達天然氣被封鎖 台灣恐全面限電",
       "link": "/bbs/Stock/M.1772457752.A.8B7",
       "author": "aa923310tw",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "95",
-      "recommendCount": "553",
+      "recommendScore": "93",
+      "recommendCount": "558",
       "title": "Re: [情報] 卡達天然氣被封鎖 台灣恐全面限電",
       "link": "/bbs/Stock/M.1772460786.A.ECE",
       "author": "RodrigueZ810",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "121",
-      "recommendCount": "332",
+      "recommendScore": "120",
+      "recommendCount": "333",
       "title": "[新聞] 美伊交火情勢升 外交部：暫無中東撤僑規畫",
       "link": "/bbs/Gossiping/M.1772421242.A.A54",
       "author": "xFANx",
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "199",
+      "recommendCount": "342",
+      "title": "Re: [新聞] 台灣最大LNG來源出事？卡達設施遇襲停產經濟部啟動備援",
+      "link": "/bbs/Gossiping/M.1772464899.A.416",
+      "author": "Hyuui",
+      "board": "Gossiping",
+      "publishTime": "2026/03/02 15:21",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "909",
       "recommendCount": "1480",
       "title": "[討論] [Vtub] Hololive 晚間直播單 (1150302)",
@@ -192,16 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2026/03/02 04:17",
       "imageUrl": "https://cache.pttweb.cc/imgur/VarYffV/s/0fb29c054438a0dc8956b633e8025a89"
-    },
-    {
-      "recommendScore": "196",
-      "recommendCount": "335",
-      "title": "Re: [新聞] 台灣最大LNG來源出事？卡達設施遇襲停產經濟部啟動備援",
-      "link": "/bbs/Gossiping/M.1772464899.A.416",
-      "author": "Hyuui",
-      "board": "Gossiping",
-      "publishTime": "2026/03/02 15:21",
-      "imageUrl": ""
     }
   ]
 }
