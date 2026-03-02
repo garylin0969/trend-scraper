@@ -1,8 +1,18 @@
 {
-  "updated": "2026-03-02T22:09:53.811Z",
+  "updated": "2026-03-02T22:22:52.162Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "347",
+      "recommendCount": "845",
+      "title": "[情報] 卡達天然氣被封鎖 台灣恐全面限電",
+      "link": "/bbs/Stock/M.1772457752.A.8B7",
+      "author": "aa923310tw",
+      "board": "Stock",
+      "publishTime": "2026/03/02 13:22",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "483",
       "recommendCount": "633",
@@ -44,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "250",
-      "recommendCount": "486",
+      "recommendScore": "251",
+      "recommendCount": "487",
       "title": "[問卦] 伊朗連打十幾國 是什麼戰術？",
       "link": "/bbs/Gossiping/M.1772421334.A.EB4",
       "author": "Triceratops",
@@ -114,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "98",
-      "recommendCount": "524",
+      "recommendScore": "99",
+      "recommendCount": "525",
       "title": "Re: [情報] 卡達天然氣被封鎖 台灣恐全面限電",
       "link": "/bbs/Stock/M.1772460786.A.ECE",
       "author": "RodrigueZ810",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/03/02 08:54",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "175",
-      "recommendCount": "239",
-      "title": "[閒聊] 遊戲王 伊西斯‧伊修達爾 1/6雕像 可脫",
-      "link": "/bbs/C_Chat/M.1772425061.A.AF1",
-      "author": "LABOYS",
-      "board": "C_Chat",
-      "publishTime": "2026/03/02 04:17",
-      "imageUrl": "https://cache.pttweb.cc/imgur/VarYffV/s/0fb29c054438a0dc8956b633e8025a89"
     }
   ]
 }
