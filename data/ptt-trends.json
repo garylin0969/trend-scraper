@@ -1,18 +1,8 @@
 {
-  "updated": "2026-03-03T13:06:45.814Z",
+  "updated": "2026-03-03T13:35:23.750Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "380",
-      "recommendCount": "922",
-      "title": "[情報] 卡達天然氣被封鎖 台灣恐全面限電",
-      "link": "/bbs/Stock/M.1772457752.A.8B7",
-      "author": "aa923310tw",
-      "board": "Stock",
-      "publishTime": "2026/03/02 13:22",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "359",
       "recommendCount": "646",
@@ -64,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "231",
-      "recommendCount": "350",
+      "recommendScore": "239",
+      "recommendCount": "361",
       "title": "[討論] 各位看完熱身賽的感想如何",
       "link": "/bbs/Baseball/M.1772512549.A.3AB",
       "author": "jeff95123",
@@ -201,6 +191,16 @@
       "author": "ChanHoPark",
       "board": "Stock",
       "publishTime": "2026/03/03 08:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "190",
+      "recommendCount": "194",
+      "title": "Re: [LIVE] 籃球 快艇114-101 勇士 場中",
+      "link": "/bbs/SportLottery/M.1772516907.A.830",
+      "author": "b032819",
+      "board": "SportLottery",
+      "publishTime": "2026/03/03 05:48",
       "imageUrl": ""
     }
   ]
