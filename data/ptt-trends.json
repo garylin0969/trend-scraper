@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-03T14:26:42.362Z",
+  "updated": "2026-03-03T14:46:59.632Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "132",
-      "recommendCount": "263",
-      "title": "[新聞] 快訊／美國戰爭部長記者會：犯我美國者",
-      "link": "/bbs/Gossiping/M.1772461737.A.CED",
-      "author": "proprome",
-      "board": "Gossiping",
-      "publishTime": "2026/03/02 14:28",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "203",
       "recommendCount": "216",
       "title": "Re: [LIVE] 籃球 快艇114-101 勇士 場中",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2026/03/03 08:04",
       "imageUrl": "https://cache.pttweb.cc/imgur/663ZWfL/s/6239d173d983bca8ea4f5d6edbe5528c"
+    },
+    {
+      "recommendScore": "139",
+      "recommendCount": "341",
+      "title": "[問卦] 火力發電拉到90%從沒想過有今天？",
+      "link": "/bbs/Gossiping/M.1772469437.A.E74",
+      "author": "ambitious",
+      "board": "Gossiping",
+      "publishTime": "2026/03/02 16:37",
+      "imageUrl": ""
     }
   ]
 }
