@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-03T09:25:48.381Z",
+  "updated": "2026-03-03T09:47:00.495Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "380",
-      "recommendCount": "916",
+      "recommendCount": "920",
       "title": "[情報] 卡達天然氣被封鎖 台灣恐全面限電",
       "link": "/bbs/Stock/M.1772457752.A.8B7",
       "author": "aa923310tw",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "355",
-      "recommendCount": "637",
+      "recommendScore": "359",
+      "recommendCount": "646",
       "title": "[新聞] 王定宇奪人小三／獨家直擊！頻繁夜渡名媛小三香閨　王定宇再爆外遇",
       "link": "/bbs/Gossiping/M.1772498906.A.54F",
       "author": "CF661020",
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "242",
-      "recommendCount": "547",
+      "recommendCount": "548",
       "title": "[新聞] 台電：核三廠再運轉計畫初步完成　3月底送核安會",
       "link": "/bbs/Gossiping/M.1772449690.A.A45",
       "author": "ptt987654321",
@@ -34,28 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "96",
-      "recommendCount": "626",
-      "title": "Re: [情報] 卡達天然氣被封鎖 台灣恐全面限電",
-      "link": "/bbs/Stock/M.1772460786.A.ECE",
-      "author": "RodrigueZ810",
-      "board": "Stock",
-      "publishTime": "2026/03/02 14:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "242",
-      "recommendCount": "421",
-      "title": "[新聞] 李宗瑞獄中做花燈又得獎　嬉遊臺北- Chill Taipei榮獲北市燈王",
-      "link": "/bbs/Gossiping/M.1772459319.A.7E7",
-      "author": "jeff0025",
-      "board": "Gossiping",
-      "publishTime": "2026/03/02 13:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "213",
-      "recommendCount": "405",
+      "recommendScore": "280",
+      "recommendCount": "531",
       "title": "[外絮] 咖哩和嘴綠今年休賽季將全力招募LBJ",
       "link": "/bbs/NBA/M.1772496436.A.CDB",
       "author": "Wojnarowski",
@@ -64,8 +44,38 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "254",
-      "recommendCount": "311",
+      "recommendScore": "133",
+      "recommendCount": "380",
+      "title": "[新聞] 美伊戰爭台股有韌性！謝金河點名7台廠市值逾1兆　成投資定海神針",
+      "link": "/bbs/Stock/M.1772514723.A.CA9",
+      "author": "sexybox",
+      "board": "Stock",
+      "publishTime": "2026/03/03 05:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "97",
+      "recommendCount": "635",
+      "title": "Re: [情報] 卡達天然氣被封鎖 台灣恐全面限電",
+      "link": "/bbs/Stock/M.1772460786.A.ECE",
+      "author": "RodrigueZ810",
+      "board": "Stock",
+      "publishTime": "2026/03/02 14:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "245",
+      "recommendCount": "425",
+      "title": "[新聞] 李宗瑞獄中做花燈又得獎　嬉遊臺北- Chill Taipei榮獲北市燈王",
+      "link": "/bbs/Gossiping/M.1772459319.A.7E7",
+      "author": "jeff0025",
+      "board": "Gossiping",
+      "publishTime": "2026/03/02 13:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "255",
+      "recommendCount": "312",
       "title": "[分享] 今日大谷翔平",
       "link": "/bbs/Baseball/M.1772455168.A.FEF",
       "author": "Axwell",
@@ -74,8 +84,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "199",
-      "recommendCount": "844",
+      "recommendScore": "216",
+      "recommendCount": "331",
+      "title": "[討論] 各位看完熱身賽的感想如何",
+      "link": "/bbs/Baseball/M.1772512549.A.3AB",
+      "author": "jeff95123",
+      "board": "Baseball",
+      "publishTime": "2026/03/03 04:35",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "241",
+      "recommendCount": "426",
+      "title": "Re: [新聞] 台灣最大LNG來源出事？卡達設施遇襲停產經濟部啟動備援",
+      "link": "/bbs/Gossiping/M.1772464899.A.416",
+      "author": "Hyuui",
+      "board": "Gossiping",
+      "publishTime": "2026/03/02 15:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "202",
+      "recommendCount": "860",
       "title": "[新聞] 員警沒洗車 基隆所長洗完手指抹車牌吸吮惹議",
       "link": "/bbs/Gossiping/M.1772489513.A.AB7",
       "author": "JKGOOD",
@@ -84,13 +114,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "235",
-      "recommendCount": "417",
-      "title": "Re: [新聞] 台灣最大LNG來源出事？卡達設施遇襲停產經濟部啟動備援",
-      "link": "/bbs/Gossiping/M.1772464899.A.416",
-      "author": "Hyuui",
+      "recommendScore": "160",
+      "recommendCount": "342",
+      "title": "[新聞] 王定宇「搶小三」回應了！嚴正駁斥：已離婚",
+      "link": "/bbs/Gossiping/M.1772499740.A.284",
+      "author": "karta328",
       "board": "Gossiping",
-      "publishTime": "2026/03/02 15:21",
+      "publishTime": "2026/03/03 01:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "171",
+      "recommendCount": "339",
+      "title": "[新聞] 王定宇惹桃色風暴 傳民進黨中評會要拔他中常委",
+      "link": "/bbs/Gossiping/M.1772523031.A.471",
+      "author": "pp5270",
+      "board": "Gossiping",
+      "publishTime": "2026/03/03 07:30",
       "imageUrl": ""
     },
     {
@@ -104,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "160",
-      "recommendCount": "335",
-      "title": "[新聞] 王定宇「搶小三」回應了！嚴正駁斥：已離婚",
-      "link": "/bbs/Gossiping/M.1772499740.A.284",
-      "author": "karta328",
-      "board": "Gossiping",
-      "publishTime": "2026/03/03 01:02",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "159",
       "recommendCount": "344",
       "title": "[新聞] 快訊／美國急發「大規模撤離令」橫跨10餘國！　德派專機撤僑",
@@ -124,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "155",
-      "recommendCount": "330",
+      "recommendScore": "160",
+      "recommendCount": "344",
       "title": "[問卦] “錯誤的政策比貪污更可怕”，能舉個例",
       "link": "/bbs/Gossiping/M.1772495855.A.DE0",
       "author": "zakijudelo",
@@ -135,12 +165,22 @@
     },
     {
       "recommendScore": "206",
-      "recommendCount": "355",
+      "recommendCount": "357",
       "title": "[新聞] 中華隊打線出爐！「費仔」扛開路先發、李灝宇打2棒",
       "link": "/bbs/Baseball/M.1772497271.A.ABF",
       "author": "samyou",
       "board": "Baseball",
       "publishTime": "2026/03/03 00:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "155",
+      "recommendCount": "368",
+      "title": "[新聞]快訊／美國急發「大規模撤離令」橫跨10餘國！德派專機撤僑",
+      "link": "/bbs/Stock/M.1772498258.A.5F1",
+      "author": "joanzkow",
+      "board": "Stock",
+      "publishTime": "2026/03/03 00:37",
       "imageUrl": ""
     },
     {
@@ -162,46 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2026/03/02 10:56",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "102",
-      "recommendCount": "788",
-      "title": "[問卦] 八卦怎麼又開始吹伊朗了XDDDD",
-      "link": "/bbs/Gossiping/M.1772452148.A.BBA",
-      "author": "Crystal0322",
-      "board": "Gossiping",
-      "publishTime": "2026/03/02 11:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "147",
-      "recommendCount": "351",
-      "title": "[新聞]快訊／美國急發「大規模撤離令」橫跨10餘國！德派專機撤僑",
-      "link": "/bbs/Stock/M.1772498258.A.5F1",
-      "author": "joanzkow",
-      "board": "Stock",
-      "publishTime": "2026/03/03 00:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "139",
-      "recommendCount": "337",
-      "title": "[問卦] 火力發電拉到90%從沒想過有今天？",
-      "link": "/bbs/Gossiping/M.1772469437.A.E74",
-      "author": "ambitious",
-      "board": "Gossiping",
-      "publishTime": "2026/03/02 16:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "155",
-      "recommendCount": "256",
-      "title": "[新聞] 魔獸狂讚「胖老爹」是史上最強炸雞店！把肯德基等店優點加在一起",
-      "link": "/bbs/Gossiping/M.1772462886.A.34B",
-      "author": "Homura",
-      "board": "Gossiping",
-      "publishTime": "2026/03/02 14:48",
-      "imageUrl": "https://cache.pttweb.cc/imgur/eif5js8/s/98fd8b7da818f9e5a82ffc11591272d7"
     }
   ]
 }
