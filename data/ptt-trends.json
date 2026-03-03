@@ -1,18 +1,8 @@
 {
-  "updated": "2026-03-03T20:16:15.536Z",
+  "updated": "2026-03-03T20:32:23.880Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "247",
-      "recommendCount": "939",
-      "title": "[新聞] 拒絕被矮化！南韓電子入境卡列「中國台灣」外交部出招了",
-      "link": "/bbs/Gossiping/M.1772530377.A.CD0",
-      "author": "the06512",
-      "board": "Gossiping",
-      "publishTime": "2026/03/03 09:32",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "365",
       "recommendCount": "653",
@@ -201,6 +191,16 @@
       "author": "postar",
       "board": "Gossiping",
       "publishTime": "2026/03/03 06:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "150",
+      "recommendCount": "324",
+      "title": "[新聞] 美伊開戰衝擊台供電 龔明鑫：若拖到4月",
+      "link": "/bbs/Stock/M.1772524818.A.302",
+      "author": "goddamnhuge",
+      "board": "Stock",
+      "publishTime": "2026/03/03 08:00",
       "imageUrl": ""
     }
   ]
