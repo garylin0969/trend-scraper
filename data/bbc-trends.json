@@ -1,14 +1,22 @@
 {
-  "updated": "2026-03-02T23:51:58.825Z",
+  "updated": "2026-03-03T00:51:58.417Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-03-02T23:51:49.000Z",
+    "lastBuildDate": "2026-03-03T00:51:52.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "中國「兩會」五大焦點：經濟增速、「十五五」開局、科技自主、高層人事安排及國防預算",
+      "description": "今年「兩會」的特殊性在於，它不僅是涉及年度政治議程，更是為中國「十五五」開局。",
+      "link": "https://www.bbc.com/zhongwen/articles/cqj9gnynk5lo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-03T00:19:48.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cqj9gnynk5lo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7478/live/8d13b320-1696-11f1-b782-971daddbe8d7.jpg"
+    },
     {
       "title": "分析：伊朗政權架構仍在運作，未來幾天將顯示它是否能夠撐下去",
       "description": "伊朗倖存領導層進入危機模式，在美國和以色列持續空襲下維持國家安全。",
@@ -42,14 +50,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bc54/live/7b1019d0-1591-11f1-9120-a910fc22c6ac.jpg"
     },
     {
-      "title": "霍爾木茲海峽附近船隻遇襲，油價飆升",
-      "description": "專家警告稱，曠日持久的衝突可能會進一步推高全球能源價格。",
-      "link": "https://www.bbc.com/zhongwen/articles/cg5nmjqnd89o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-02T03:58:40.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cg5nmjqnd89o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e9ba/live/514ebed0-1578-11f1-9120-a910fc22c6ac.jpg"
-    },
-    {
       "title": "美以聯手攻擊伊朗致哈梅內伊喪生以及伊朗的報復性打擊——我們目前知道什麼？",
       "description": "伊朗已向以色列發射一輪導彈作為報復，同時卡塔爾、巴林、沙特阿拉伯及阿聯酋亦傳出爆炸聲。特朗普表示，哈梅內伊已遭殺害，而猛烈而精準的轟炸將會持續進行。",
       "link": "https://www.bbc.com/zhongwen/articles/c87549gz8vwo/trad?at_medium=RSS&at_campaign=rss",
@@ -72,6 +72,14 @@
       "pubDate": "2026-03-01T02:24:07.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c5yg953jd4wo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f722/live/4069b410-14a3-11f1-b048-c9424b2cf5fd.jpg"
+    },
+    {
+      "title": "霍爾木茲海峽附近船隻遇襲，油價飆升",
+      "description": "專家警告稱，曠日持久的衝突可能會進一步推高全球能源價格。",
+      "link": "https://www.bbc.com/zhongwen/articles/cg5nmjqnd89o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-02T03:58:40.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cg5nmjqnd89o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e9ba/live/514ebed0-1578-11f1-9120-a910fc22c6ac.jpg"
     },
     {
       "title": "伊朗遭攻擊致航班被取消，新的旅遊警告發佈",
@@ -104,14 +112,6 @@
       "pubDate": "2026-02-28T04:39:56.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c043gz5gd47o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/219b/live/92f58760-145b-11f1-9120-a910fc22c6ac.jpg"
-    },
-    {
-      "title": "社運人士郭鳳儀：香港當局監禁我父親，企圖令我噤聲",
-      "description": "香港民主派社運人士郭鳳儀的父親，因涉及「企圖處理潛逃者財產罪」，被判入獄八個月。這是首宗針對流亡海外民主人士家屬的國安案件判刑。",
-      "link": "https://www.bbc.com/zhongwen/articles/c98qd00rdpjo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-27T03:06:46.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c98qd00rdpjo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/417e/live/1c91cc30-1304-11f1-bf20-f10c8e9eb926.jpg"
     },
     {
       "title": "哈梅內伊：統治伊朗37年的最高領袖是誰？",
@@ -194,6 +194,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d53f/live/af4f9f20-0fee-11f1-b048-c9424b2cf5fd.jpg"
     },
     {
+      "title": "社運人士郭鳳儀：香港當局監禁我父親，企圖令我噤聲",
+      "description": "香港民主派社運人士郭鳳儀的父親，因涉及「企圖處理潛逃者財產罪」，被判入獄八個月。這是首宗針對流亡海外民主人士家屬的國安案件判刑。",
+      "link": "https://www.bbc.com/zhongwen/articles/c98qd00rdpjo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-02-27T03:06:46.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c98qd00rdpjo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/417e/live/1c91cc30-1304-11f1-bf20-f10c8e9eb926.jpg"
+    },
+    {
       "title": "記錄「新疆再教育營」的中國青年關恆在美被關押半年後獲釋：「失去自由之後，才更意識到它的重要性」",
       "description": "在被美國移民和海關執法局（ICE）逮捕並拘留了接近半年的時間後，中國公民關恆的庇護申請終於獲得美國移民法官的批准。",
       "link": "https://www.bbc.com/zhongwen/articles/cd6zjll5w75o/trad?at_medium=RSS&at_campaign=rss",
@@ -216,14 +224,6 @@
       "pubDate": "2026-02-17T07:20:06.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cd70eyjx2xzo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/58fa/live/cf3922c0-0bcf-11f1-b7e1-afb6d0884c18.png"
-    },
-    {
-      "title": "TikTok熱議「成為中國人」：網民視為反抗西方霸權，官方下場背書",
-      "description": "晨起第一件事喝熱水、居家穿棉拖鞋、熬制蘋果銀耳湯……這些在華人、華裔中常見的行為逐漸開始風靡TikTok和Instagram，來自不同國家的年輕人開始效仿，戲稱自己正在「成為中國人」。",
-      "link": "https://www.bbc.com/zhongwen/articles/c6205zljdvqo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-10T06:35:58.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c6205zljdvqo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9fed/live/233ddf40-064a-11f1-b7e1-afb6d0884c18.jpg"
     },
     {
       "title": "美國嚴厲打擊非法移民下，中國「走線」客正遭遇的抓捕與擔憂",
