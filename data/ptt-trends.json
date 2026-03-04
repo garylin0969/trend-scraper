@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-04T08:36:33.591Z",
+  "updated": "2026-03-04T08:56:14.082Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -51,16 +51,6 @@
       "author": "DDDDRR",
       "board": "Baseball",
       "publishTime": "2026/03/04 01:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "201",
-      "recommendCount": "454",
-      "title": "[新聞] 快訊／台股跌771點國安基金進場？　卓榮泰回應！",
-      "link": "/bbs/Stock/M.1772527785.A.C34",
-      "author": "ChanHoPark",
-      "board": "Stock",
-      "publishTime": "2026/03/03 08:49",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "rsreason",
       "board": "Gossiping",
       "publishTime": "2026/03/03 15:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "172",
+      "recommendCount": "224",
+      "title": "Re: [爆卦] 黃士修他媽背景超強，跨越產官學界。",
+      "link": "/bbs/Gossiping/M.1772534564.A.A45",
+      "author": "Hyuui",
+      "board": "Gossiping",
+      "publishTime": "2026/03/03 10:42",
       "imageUrl": ""
     }
   ]
