@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-04T12:22:03.897Z",
+  "updated": "2026-03-04T12:48:07.044Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "385",
-      "recommendCount": "613",
+      "recommendScore": "387",
+      "recommendCount": "615",
       "title": "[分享] 李灝宇身體不適退賽，張政禹遞補",
       "link": "/bbs/Baseball/M.1772603632.A.8B6",
       "author": "YuiiAnitima",
@@ -94,14 +94,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "186",
-      "recommendCount": "393",
+      "recommendScore": "190",
+      "recommendCount": "398",
       "title": "[新聞] 快訊／戰火突襲！台股今創史上第3大跌點國安基金不排除加開臨時會",
       "link": "/bbs/Stock/M.1772601165.A.57F",
       "author": "nisi0773",
       "board": "Stock",
       "publishTime": "2026/03/04 05:12",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "288",
+      "recommendCount": "366",
+      "title": "[分享] 張政禹已登機前往東京",
+      "link": "/bbs/Baseball/M.1772611938.A.375",
+      "author": "kmjhome",
+      "board": "Baseball",
+      "publishTime": "2026/03/04 08:12",
+      "imageUrl": "https://cache.pttweb.cc/imgur/5dcZpRO/s/fe6094167dc0f079e360f19d4d78b4b7"
     },
     {
       "recommendScore": "229",
@@ -111,6 +121,16 @@
       "author": "JHENGKUNLIN",
       "board": "Gossiping",
       "publishTime": "2026/03/03 23:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "309",
+      "recommendCount": "917",
+      "title": "[花邊] 林書豪談Kobe:他不習慣別人挑戰他",
+      "link": "/bbs/NBA/M.1772597165.A.8CA",
+      "author": "bengowa",
+      "board": "NBA",
+      "publishTime": "2026/03/04 04:06",
       "imageUrl": ""
     },
     {
@@ -124,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "297",
-      "recommendCount": "868",
-      "title": "[花邊] 林書豪談Kobe:他不習慣別人挑戰他",
-      "link": "/bbs/NBA/M.1772597165.A.8CA",
-      "author": "bengowa",
-      "board": "NBA",
-      "publishTime": "2026/03/04 04:06",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "165",
       "recommendCount": "393",
       "title": "[爆卦] 中國人批評杜拜台灣人占中國大使館便宜",
@@ -141,6 +151,16 @@
       "author": "Minguo1016",
       "board": "Gossiping",
       "publishTime": "2026/03/03 15:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "675",
+      "recommendCount": "1464",
+      "title": "[電競] 2026 LPL Split 1 Upper Finals",
+      "link": "/bbs/LoL/M.1772614369.A.D5A",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/03/04 08:52",
       "imageUrl": ""
     },
     {
@@ -164,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "198",
+      "recommendCount": "277",
+      "title": "[新聞] 山本由伸確定對上台灣隊 日本隊監督：會是艱難的比賽",
+      "link": "/bbs/Baseball/M.1772612974.A.390",
+      "author": "Jerry0530s",
+      "board": "Baseball",
+      "publishTime": "2026/03/04 08:29",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "227",
       "recommendCount": "416",
       "title": "[討論] 台灣的球衣真的算醜嗎？",
@@ -171,36 +201,6 @@
       "author": "kekeyoung",
       "board": "Baseball",
       "publishTime": "2026/03/04 03:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "234",
-      "recommendCount": "307",
-      "title": "[分享] 張政禹已登機前往東京",
-      "link": "/bbs/Baseball/M.1772611938.A.375",
-      "author": "kmjhome",
-      "board": "Baseball",
-      "publishTime": "2026/03/04 08:12",
-      "imageUrl": "https://cache.pttweb.cc/imgur/5dcZpRO/s/fe6094167dc0f079e360f19d4d78b4b7"
-    },
-    {
-      "recommendScore": "123",
-      "recommendCount": "274",
-      "title": "[討論] 日本電視台預測日台晉級八強",
-      "link": "/bbs/Baseball/M.1772545304.A.3A6",
-      "author": "amoyui",
-      "board": "Baseball",
-      "publishTime": "2026/03/03 13:41",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Qk2goLr/s/e44ba8d6a161d8687a8e089f4d2144d5"
-    },
-    {
-      "recommendScore": "152",
-      "recommendCount": "245",
-      "title": "[問卦] 核三 重啟後要改名什麼？",
-      "link": "/bbs/Gossiping/M.1772594292.A.6F6",
-      "author": "yushenglu",
-      "board": "Gossiping",
-      "publishTime": "2026/03/04 03:18",
       "imageUrl": ""
     }
   ]
