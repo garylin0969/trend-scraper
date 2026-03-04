@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-04T09:56:41.677Z",
+  "updated": "2026-03-04T10:14:10.644Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "188",
-      "recommendCount": "466",
+      "recommendScore": "189",
+      "recommendCount": "469",
       "title": "[請益] 去年四月的既視感?",
       "link": "/bbs/Stock/M.1772595970.A.7B4",
       "author": "davidwales",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "185",
-      "recommendCount": "392",
+      "recommendScore": "186",
+      "recommendCount": "393",
       "title": "[新聞] 快訊／戰火突襲！台股今創史上第3大跌點國安基金不排除加開臨時會",
       "link": "/bbs/Stock/M.1772601165.A.57F",
       "author": "nisi0773",
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "156",
-      "recommendCount": "448",
-      "title": "[問卦] 台灣當初反核算是人民集體失智嗎？",
-      "link": "/bbs/Gossiping/M.1772531953.A.B89",
-      "author": "robertgarcia",
-      "board": "Gossiping",
-      "publishTime": "2026/03/03 09:59",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "253",
       "recommendCount": "704",
       "title": "[花邊] 林書豪談Kobe:他不習慣別人挑戰他",
@@ -201,6 +191,16 @@
       "author": "LawLawDer",
       "board": "Gossiping",
       "publishTime": "2026/03/03 10:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "149",
+      "recommendCount": "242",
+      "title": "[問卦] 核三 重啟後要改名什麼？",
+      "link": "/bbs/Gossiping/M.1772594292.A.6F6",
+      "author": "yushenglu",
+      "board": "Gossiping",
+      "publishTime": "2026/03/04 03:18",
       "imageUrl": ""
     }
   ]
