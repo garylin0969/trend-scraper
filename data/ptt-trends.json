@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-04T12:48:07.044Z",
+  "updated": "2026-03-04T13:17:40.425Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "345",
-      "recommendCount": "838",
+      "recommendScore": "412",
+      "recommendCount": "1000",
       "title": "[新聞] 獨／白天炸到黑夜！台人困卡達「外交部回應」心寒了　組自救會逃命",
       "link": "/bbs/Gossiping/M.1772607664.A.D95",
       "author": "vdml",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "307",
-      "recommendCount": "562",
+      "recommendScore": "408",
+      "recommendCount": "712",
       "title": "[新聞] 大谷翔平讚賞台灣街景很漂亮「還想再去一次！」",
       "link": "/bbs/Baseball/M.1772613270.A.B66",
       "author": "kensukeshu",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "317",
-      "recommendCount": "930",
+      "recommendScore": "324",
+      "recommendCount": "949",
       "title": "[新聞] 魔術師粘立人被小女孩「瘋狂破解」怒嗆：不然換妳表演",
       "link": "/bbs/Gossiping/M.1772585915.A.5DF",
       "author": "lycppt",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "283",
-      "recommendCount": "578",
+      "recommendScore": "287",
+      "recommendCount": "593",
       "title": "[問卦]「新式核能」3900億是幹麻的？",
       "link": "/bbs/Gossiping/M.1772582201.A.CB7",
       "author": "yushenglu",
@@ -54,13 +54,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/CXDro4E/s/e1752bbb0eef38dc69787ebdd1d385be"
     },
     {
-      "recommendScore": "306",
-      "recommendCount": "681",
+      "recommendScore": "309",
+      "recommendCount": "688",
       "title": "[新聞] 冷戰術語解凍！　盧比歐突喊「讓蔣介石出場」",
       "link": "/bbs/Gossiping/M.1772583932.A.E1E",
       "author": "DDDDRR",
       "board": "Gossiping",
       "publishTime": "2026/03/04 00:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "348",
+      "recommendCount": "534",
+      "title": "Re: [新聞] 呱吉挺卓榮泰新式核能!昔大力反核被嗆立",
+      "link": "/bbs/Gossiping/M.1772599496.A.77B",
+      "author": "Hyuui",
+      "board": "Gossiping",
+      "publishTime": "2026/03/04 04:44",
       "imageUrl": ""
     },
     {
@@ -74,23 +84,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "189",
-      "recommendCount": "469",
+      "recommendScore": "195",
+      "recommendCount": "479",
       "title": "[請益] 去年四月的既視感?",
       "link": "/bbs/Stock/M.1772595970.A.7B4",
       "author": "davidwales",
       "board": "Stock",
       "publishTime": "2026/03/04 03:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "312",
-      "recommendCount": "491",
-      "title": "Re: [新聞] 呱吉挺卓榮泰新式核能!昔大力反核被嗆立",
-      "link": "/bbs/Gossiping/M.1772599496.A.77B",
-      "author": "Hyuui",
-      "board": "Gossiping",
-      "publishTime": "2026/03/04 04:44",
       "imageUrl": ""
     },
     {
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "288",
-      "recommendCount": "366",
+      "recommendScore": "290",
+      "recommendCount": "368",
       "title": "[分享] 張政禹已登機前往東京",
       "link": "/bbs/Baseball/M.1772611938.A.375",
       "author": "kmjhome",
@@ -114,8 +114,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/5dcZpRO/s/fe6094167dc0f079e360f19d4d78b4b7"
     },
     {
-      "recommendScore": "229",
-      "recommendCount": "389",
+      "recommendScore": "230",
+      "recommendCount": "391",
       "title": "[新聞]快訊》伊朗新任最高領袖出爐！　強硬派哈米尼之子接班",
       "link": "/bbs/Gossiping/M.1772579418.A.DFB",
       "author": "JHENGKUNLIN",
@@ -124,8 +124,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "309",
-      "recommendCount": "917",
+      "recommendScore": "700",
+      "recommendCount": "1464",
+      "title": "[電競] 2026 LPL Split 1 Upper Finals",
+      "link": "/bbs/LoL/M.1772614369.A.D5A",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/03/04 08:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "310",
+      "recommendCount": "918",
       "title": "[花邊] 林書豪談Kobe:他不習慣別人挑戰他",
       "link": "/bbs/NBA/M.1772597165.A.8CA",
       "author": "bengowa",
@@ -144,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "234",
+      "recommendCount": "445",
+      "title": "[新聞] 盧比歐獲金色「中正劍」！放話「讓蔣介石出場」　外媒曝危險象徵",
+      "link": "/bbs/Gossiping/M.1772617786.A.B6E",
+      "author": "Daniel0712",
+      "board": "Gossiping",
+      "publishTime": "2026/03/04 09:49",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "165",
       "recommendCount": "393",
       "title": "[爆卦] 中國人批評杜拜台灣人占中國大使館便宜",
@@ -154,28 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "675",
-      "recommendCount": "1464",
-      "title": "[電競] 2026 LPL Split 1 Upper Finals",
-      "link": "/bbs/LoL/M.1772614369.A.D5A",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/03/04 08:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "179",
-      "recommendCount": "325",
-      "title": "[請益] 這時候是不是應該要慢慢進場了",
-      "link": "/bbs/Stock/M.1772543832.A.60F",
-      "author": "hong1126",
-      "board": "Stock",
-      "publishTime": "2026/03/03 13:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "190",
-      "recommendCount": "456",
+      "recommendScore": "192",
+      "recommendCount": "458",
       "title": "[新聞] 李灝宇未參加中華隊練球 大聯盟防護員建議休息",
       "link": "/bbs/Baseball/M.1772607185.A.A0D",
       "author": "DoncicInPTT",
@@ -185,7 +185,7 @@
     },
     {
       "recommendScore": "198",
-      "recommendCount": "277",
+      "recommendCount": "279",
       "title": "[新聞] 山本由伸確定對上台灣隊 日本隊監督：會是艱難的比賽",
       "link": "/bbs/Baseball/M.1772612974.A.390",
       "author": "Jerry0530s",
