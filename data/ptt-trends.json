@@ -1,8 +1,28 @@
 {
-  "updated": "2026-03-04T11:12:24.996Z",
+  "updated": "2026-03-04T11:31:58.368Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "307",
+      "recommendCount": "562",
+      "title": "[新聞] 大谷翔平讚賞台灣街景很漂亮「還想再去一次！」",
+      "link": "/bbs/Baseball/M.1772613270.A.B66",
+      "author": "kensukeshu",
+      "board": "Baseball",
+      "publishTime": "2026/03/04 08:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "283",
+      "recommendCount": "578",
+      "title": "[問卦]「新式核能」3900億是幹麻的？",
+      "link": "/bbs/Gossiping/M.1772582201.A.CB7",
+      "author": "yushenglu",
+      "board": "Gossiping",
+      "publishTime": "2026/03/03 23:56",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "314",
       "recommendCount": "914",
@@ -14,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "384",
-      "recommendCount": "612",
+      "recommendScore": "385",
+      "recommendCount": "613",
       "title": "[分享] 李灝宇身體不適退賽，張政禹遞補",
       "link": "/bbs/Baseball/M.1772603632.A.8B6",
       "author": "YuiiAnitima",
@@ -104,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "294",
+      "recommendCount": "833",
+      "title": "[花邊] 林書豪談Kobe:他不習慣別人挑戰他",
+      "link": "/bbs/NBA/M.1772597165.A.8CA",
+      "author": "bengowa",
+      "board": "NBA",
+      "publishTime": "2026/03/04 04:06",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "179",
       "recommendCount": "325",
       "title": "[請益] 這時候是不是應該要慢慢進場了",
@@ -111,6 +141,16 @@
       "author": "hong1126",
       "board": "Stock",
       "publishTime": "2026/03/03 13:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "190",
+      "recommendCount": "456",
+      "title": "[新聞] 李灝宇未參加中華隊練球 大聯盟防護員建議休息",
+      "link": "/bbs/Baseball/M.1772607185.A.A0D",
+      "author": "DoncicInPTT",
+      "board": "Baseball",
+      "publishTime": "2026/03/04 06:53",
       "imageUrl": ""
     },
     {
@@ -134,16 +174,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/5dcZpRO/s/fe6094167dc0f079e360f19d4d78b4b7"
     },
     {
-      "recommendScore": "253",
-      "recommendCount": "704",
-      "title": "[花邊] 林書豪談Kobe:他不習慣別人挑戰他",
-      "link": "/bbs/NBA/M.1772597165.A.8CA",
-      "author": "bengowa",
-      "board": "NBA",
-      "publishTime": "2026/03/04 04:06",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "123",
       "recommendCount": "274",
       "title": "[討論] 日本電視台預測日台晉級八強",
@@ -152,16 +182,6 @@
       "board": "Baseball",
       "publishTime": "2026/03/03 13:41",
       "imageUrl": "https://cache.pttweb.cc/imgur/Qk2goLr/s/e44ba8d6a161d8687a8e089f4d2144d5"
-    },
-    {
-      "recommendScore": "177",
-      "recommendCount": "383",
-      "title": "[新聞] 李灝宇未參加中華隊練球 大聯盟防護員建議休息",
-      "link": "/bbs/Baseball/M.1772607185.A.A0D",
-      "author": "DoncicInPTT",
-      "board": "Baseball",
-      "publishTime": "2026/03/04 06:53",
-      "imageUrl": ""
     },
     {
       "recommendScore": "62",
@@ -181,26 +201,6 @@
       "author": "yushenglu",
       "board": "Gossiping",
       "publishTime": "2026/03/04 03:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "185",
-      "recommendCount": "252",
-      "title": "[爆卦] 地震",
-      "link": "/bbs/Gossiping/M.1772538783.A.7DA",
-      "author": "lianpig5566",
-      "board": "Gossiping",
-      "publishTime": "2026/03/03 11:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "129",
-      "recommendCount": "285",
-      "title": "[問卦] 郭書瑤竟然要接鄉下廟會的場子真的是慘",
-      "link": "/bbs/Gossiping/M.1772593934.A.B9D",
-      "author": "gigaman",
-      "board": "Gossiping",
-      "publishTime": "2026/03/04 03:12",
       "imageUrl": ""
     }
   ]
