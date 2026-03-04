@@ -1,8 +1,38 @@
 {
-  "updated": "2026-03-04T11:59:00.344Z",
+  "updated": "2026-03-04T12:22:03.897Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "345",
+      "recommendCount": "838",
+      "title": "[新聞] 獨／白天炸到黑夜！台人困卡達「外交部回應」心寒了　組自救會逃命",
+      "link": "/bbs/Gossiping/M.1772607664.A.D95",
+      "author": "vdml",
+      "board": "Gossiping",
+      "publishTime": "2026/03/04 07:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "307",
+      "recommendCount": "562",
+      "title": "[新聞] 大谷翔平讚賞台灣街景很漂亮「還想再去一次！」",
+      "link": "/bbs/Baseball/M.1772613270.A.B66",
+      "author": "kensukeshu",
+      "board": "Baseball",
+      "publishTime": "2026/03/04 08:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "317",
+      "recommendCount": "930",
+      "title": "[新聞] 魔術師粘立人被小女孩「瘋狂破解」怒嗆：不然換妳表演",
+      "link": "/bbs/Gossiping/M.1772585915.A.5DF",
+      "author": "lycppt",
+      "board": "Gossiping",
+      "publishTime": "2026/03/04 00:58",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "283",
       "recommendCount": "578",
@@ -171,36 +201,6 @@
       "author": "yushenglu",
       "board": "Gossiping",
       "publishTime": "2026/03/04 03:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "131",
-      "recommendCount": "292",
-      "title": "[問卦] 郭書瑤竟然要接鄉下廟會的場子真的是慘",
-      "link": "/bbs/Gossiping/M.1772593934.A.B9D",
-      "author": "gigaman",
-      "board": "Gossiping",
-      "publishTime": "2026/03/04 03:12",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "145",
-      "recommendCount": "300",
-      "title": "[新聞] 民進黨高層全被王定宇惹毛？傳他忍不住怒罵「太離譜」　徐國勇沒否認",
-      "link": "/bbs/Gossiping/M.1772553045.A.747",
-      "author": "rsreason",
-      "board": "Gossiping",
-      "publishTime": "2026/03/03 15:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "156",
-      "recommendCount": "331",
-      "title": "[新聞] 川普不滿攻伊朗未獲支持，批英國首相揚言",
-      "link": "/bbs/Stock/M.1772591850.A.54D",
-      "author": "thinksilver",
-      "board": "Stock",
-      "publishTime": "2026/03/04 02:37",
       "imageUrl": ""
     }
   ]
