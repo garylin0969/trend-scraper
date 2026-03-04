@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-04T04:35:42.093Z",
+  "updated": "2026-03-04T05:04:19.061Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "382",
+      "recommendCount": "488",
+      "title": "[新聞] WCY-快訊／中華隊明首戰澳洲先發確定徐若",
+      "link": "/bbs/Baseball/M.1772586028.A.36F",
+      "author": "DDDDRR",
+      "board": "Baseball",
+      "publishTime": "2026/03/04 01:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "247",
       "recommendCount": "496",
       "title": "[問卦]「新式核能」3900億是幹麻的？",
@@ -44,16 +54,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "365",
-      "recommendCount": "469",
-      "title": "[新聞] WCY-快訊／中華隊明首戰澳洲先發確定徐若",
-      "link": "/bbs/Baseball/M.1772586028.A.36F",
-      "author": "DDDDRR",
-      "board": "Baseball",
-      "publishTime": "2026/03/04 01:00",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "227",
       "recommendCount": "452",
       "title": "[新聞] 王定宇惹桃色風暴 傳民進黨中評會要拔他中常委",
@@ -61,16 +61,6 @@
       "author": "pp5270",
       "board": "Gossiping",
       "publishTime": "2026/03/03 07:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "241",
-      "recommendCount": "364",
-      "title": "[討論] 各位看完熱身賽的感想如何",
-      "link": "/bbs/Baseball/M.1772512549.A.3AB",
-      "author": "jeff95123",
-      "board": "Baseball",
-      "publishTime": "2026/03/03 04:35",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "Baseball",
       "publishTime": "2026/03/03 13:41",
       "imageUrl": "https://cache.pttweb.cc/imgur/Qk2goLr/s/e44ba8d6a161d8687a8e089f4d2144d5"
+    },
+    {
+      "recommendScore": "62",
+      "recommendCount": "286",
+      "title": "[討論] 我們氣氛好像很歡樂耶",
+      "link": "/bbs/Baseball/M.1772537894.A.6AC",
+      "author": "t200830217",
+      "board": "Baseball",
+      "publishTime": "2026/03/03 11:38",
+      "imageUrl": ""
     }
   ]
 }
