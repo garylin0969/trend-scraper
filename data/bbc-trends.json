@@ -1,14 +1,22 @@
 {
-  "updated": "2026-03-05T04:51:49.041Z",
+  "updated": "2026-03-05T05:34:24.283Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-03-05T04:51:40.000Z",
+    "lastBuildDate": "2026-03-05T05:34:14.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "中國兩會政府工作報告看點：軍費增幅下降、GDP目標下調、對台措辭升級與缺席高官",
+      "description": "政府工作報告中最引人矚目的是將GDP增長目標設定為區間值，具體增長目標數字為1991年以來最低，並罕見地將財政赤字率維持在歷史高位。",
+      "link": "https://www.bbc.com/zhongwen/articles/ce8wwj819e5o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-05T04:59:34.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce8wwj819e5o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0a7e/live/d0224ba0-1843-11f1-9d99-6b22f9815f61.jpg"
+    },
     {
       "title": "國安審查下，飛到台灣看電影的香港人",
       "description": "香港修訂電影檢查制度後，須考慮電影上映會否「不利國家安全」。周冠威的《自殺通告》被指「不利國安」無法在港上映，有港人專門往台灣觀看，他們擔心日後越來越多電影無法在港上映。",
@@ -18,7 +26,7 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b1f/live/05718cd0-10ec-11f1-801d-ed3cff6bf876.jpg"
     },
     {
-      "title": "美以持續轟炸，伊朗推遲哈梅內伊葬禮",
+      "title": "伊朗戰爭：哈梅內伊葬禮推遲，接班人成清除目標，美擊沉伊護衛艦",
       "description": "哈梅內伊葬禮延期舉行。一名伊朗官員表示，需要為在德黑蘭舉行為期三天的葬禮做更多準備。弔唁者可瞻仰最高領袖的遺容。",
       "link": "https://www.bbc.com/zhongwen/articles/cdxggg1gy0eo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-03-05T04:44:35.000Z",
@@ -34,20 +42,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/793a/live/ca33c980-16d6-11f1-863e-5b1b32a487bf.jpg"
     },
     {
-      "title": "中日關係再緊張：日本出招與那國島標誌防衛重心轉移，中國升級出口管制成效幾何",
-      "description": "中國對40家日企出口管制，幾乎同時日本宣布在距台灣東北角僅110公里的與那國島部署中程防空飛彈。中國出口管制會讓高市內閣屈服嗎?與那國島的飛彈部署又與台灣有什麼關係？",
-      "link": "https://www.bbc.com/zhongwen/articles/cpw0nnqrjxgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-04T00:21:15.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cpw0nnqrjxgo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e57c/live/663581a0-16cf-11f1-be43-152be4fb7054.jpg"
-    },
-    {
       "title": "伊朗「鎖喉」霍爾木茲海峽的可能方式及後續影響",
       "description": "伊朗將軍薩達爾·賈巴里表示，德黑蘭現在「不會讓一滴石油離開該地區」。",
       "link": "https://www.bbc.com/zhongwen/articles/c70nn4j2369o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-03-04T06:34:46.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c70nn4j2369o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/26c2/live/ff54faf0-1783-11f1-9120-a910fc22c6ac.jpg"
+    },
+    {
+      "title": "中日關係再緊張：日本出招與那國島標誌防衛重心轉移，中國升級出口管制成效幾何",
+      "description": "中國對40家日企出口管制，幾乎同時日本宣布在距台灣東北角僅110公里的與那國島部署中程防空飛彈。中國出口管制會讓高市內閣屈服嗎?與那國島的飛彈部署又與台灣有什麼關係？",
+      "link": "https://www.bbc.com/zhongwen/articles/cpw0nnqrjxgo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-04T00:21:15.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cpw0nnqrjxgo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e57c/live/663581a0-16cf-11f1-be43-152be4fb7054.jpg"
     },
     {
       "title": "中國「兩會」五大焦點：經濟增速、「十五五」開局、科技自主、高層人事安排及國防預算",
@@ -96,14 +104,6 @@
       "pubDate": "2026-03-04T05:52:12.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c5ykkgx603no/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a9ba/live/fbbb43f0-1737-11f1-9b2c-7dd75c18821e.jpg"
-    },
-    {
-      "title": "德黑蘭恐陷食物短缺　居民擔心戰爭不知何時結束",
-      "description": "伊朗因美以持續空襲，首都居民大量囤積必需品。物價暴漲，食品出口全面禁令，居民擔憂基本物資斷供，部分商店關門，有人逃離首都，但也有人堅持留下。當地媒體稱已造成約787人死亡。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4g55p24zreo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-04T04:24:02.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4g55p24zreo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8f2a/live/bbe533e0-177c-11f1-801d-ed3cff6bf876.jpg"
     },
     {
       "title": "香港「H」車牌拍出2000萬港幣，經濟低迷下有錢人買個「腳踏實地」？",
