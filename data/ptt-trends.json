@@ -1,8 +1,18 @@
 {
-  "updated": "2026-03-05T14:28:09.301Z",
+  "updated": "2026-03-05T14:49:34.716Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "680",
+      "recommendCount": "697",
+      "title": "[祭品] 一起跟著中華隊前進邁阿密！",
+      "link": "/bbs/Baseball/M.1772641420.A.E2B",
+      "author": "dinosaur8484",
+      "board": "Baseball",
+      "publishTime": "2026/03/04 16:23",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "463",
       "recommendCount": "958",
@@ -14,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "290",
+      "recommendCount": "548",
+      "title": "[爆卦] 砸傷陳傑憲的投手被台灣人出征 鎖ig了",
+      "link": "/bbs/Gossiping/M.1772693086.A.EEA",
+      "author": "Skyblueway",
+      "board": "Gossiping",
+      "publishTime": "2026/03/05 06:44",
+      "imageUrl": "https://cache.pttweb.cc/imgur/bjdeUMp/s/6e8f28a6311140c4602acd7f8e4ade52"
+    },
+    {
       "recommendScore": "248",
       "recommendCount": "584",
       "title": "[新聞] 太子集團在押9名被告 起訴後竟「全獲交保」",
@@ -22,16 +42,6 @@
       "board": "Gossiping",
       "publishTime": "2026/03/04 23:07",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "282",
-      "recommendCount": "531",
-      "title": "[爆卦] 砸傷陳傑憲的投手被台灣人出征 鎖ig了",
-      "link": "/bbs/Gossiping/M.1772693086.A.EEA",
-      "author": "Skyblueway",
-      "board": "Gossiping",
-      "publishTime": "2026/03/05 06:44",
-      "imageUrl": "https://cache.pttweb.cc/imgur/bjdeUMp/s/6e8f28a6311140c4602acd7f8e4ade52"
     },
     {
       "recommendScore": "331",
@@ -154,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "213",
-      "recommendCount": "406",
+      "recommendScore": "214",
+      "recommendCount": "407",
       "title": "[爆卦] 卡達天然氣生產將中斷一個月",
       "link": "/bbs/Gossiping/M.1772636137.A.78A",
       "author": "Anderson0819",
@@ -192,16 +202,6 @@
       "board": "SportLottery",
       "publishTime": "2026/03/05 02:30",
       "imageUrl": "https://cache.pttweb.cc/imgur/FRDssMy/s/7316519428f68f1fabb3727198ecb666"
-    },
-    {
-      "recommendScore": "189",
-      "recommendCount": "302",
-      "title": "[討論] 明天打日本輸幾分以內算贏",
-      "link": "/bbs/Baseball/M.1772694789.A.8CD",
-      "author": "area223672",
-      "board": "Baseball",
-      "publishTime": "2026/03/05 07:13",
-      "imageUrl": ""
     }
   ]
 }
