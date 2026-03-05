@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T08:33:42.706Z",
+  "updated": "2026-03-05T08:57:53.465Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -31,16 +31,6 @@
       "author": "dinosaur8484",
       "board": "Baseball",
       "publishTime": "2026/03/04 16:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "424",
-      "recommendCount": "746",
-      "title": "[新聞] 大谷翔平讚賞台灣街景很漂亮「還想再去一次！」",
-      "link": "/bbs/Baseball/M.1772613270.A.B66",
-      "author": "kensukeshu",
-      "board": "Baseball",
-      "publishTime": "2026/03/04 08:34",
       "imageUrl": ""
     },
     {
@@ -114,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "670",
-      "recommendCount": "1464",
-      "title": "[電競] 2026 LPL Split 1 Upper Finals",
-      "link": "/bbs/LoL/M.1772614369.A.D5A",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/03/04 08:52",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-105",
       "recommendCount": "323",
       "title": "[情報] Dort:我不髒，就是越界了",
@@ -174,6 +154,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/FRDssMy/s/7316519428f68f1fabb3727198ecb666"
     },
     {
+      "recommendScore": "210",
+      "recommendCount": "323",
+      "title": "[情報] 陳傑憲傷勢",
+      "link": "/bbs/Baseball/M.1772691980.A.98C",
+      "author": "smallweek",
+      "board": "Baseball",
+      "publishTime": "2026/03/05 06:26",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "227",
       "recommendCount": "369",
       "title": "[爆卦] 伊朗向土耳其發射飛彈",
@@ -201,6 +191,16 @@
       "author": "mets0813",
       "board": "Baseball",
       "publishTime": "2026/03/05 05:31",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "241",
+      "recommendCount": "434",
+      "title": "[討論] 戰鬥陀螺少0.06公克 被告凍結帳戶",
+      "link": "/bbs/C_Chat/M.1772615982.A.EB8",
+      "author": "GTES",
+      "board": "C_Chat",
+      "publishTime": "2026/03/04 09:19",
       "imageUrl": ""
     }
   ]
