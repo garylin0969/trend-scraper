@@ -1,10 +1,10 @@
 {
-  "updated": "2026-03-05T06:01:36.978Z",
+  "updated": "2026-03-05T06:30:34.588Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-03-05T06:01:36.000Z",
+    "lastBuildDate": "2026-03-05T06:30:28.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -34,20 +34,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b0ce/live/619b2dc0-17e7-11f1-801d-ed3cff6bf876.jpg"
     },
     {
+      "title": "特朗普政府遇挫：美國貿易法庭下令退還關稅",
+      "description": "美國國際貿易法院週三下令，美國海關及邊境保護局退還去年美國總統特朗普依《國際緊急經濟權力法》（IEEPA）徵收的關稅。",
+      "link": "https://www.bbc.com/zhongwen/articles/c33jj2458dyo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-05T06:20:09.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c33jj2458dyo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9a1d/live/ba9c0310-1821-11f1-8ff3-d5f5110756d9.jpg"
+    },
+    {
       "title": "中國間諜案拘捕行動後，英工黨議員稱未見丈夫有任何違法行為",
       "description": "大倫敦警察廳懷疑三名男子協助中國情報單位在英國活動，隨後實施了抓捕和搜查行動。",
       "link": "https://www.bbc.com/zhongwen/articles/cn5gg39vl19o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-03-05T05:49:16.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn5gg39vl19o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8300/live/69659e50-1800-11f1-a22e-8dff910856a6.png"
-    },
-    {
-      "title": "伊朗「鎖喉」霍爾木茲海峽的可能方式及後續影響",
-      "description": "伊朗將軍薩達爾·賈巴里表示，德黑蘭現在「不會讓一滴石油離開該地區」。",
-      "link": "https://www.bbc.com/zhongwen/articles/c70nn4j2369o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-04T06:34:46.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c70nn4j2369o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/26c2/live/ff54faf0-1783-11f1-9120-a910fc22c6ac.jpg"
     },
     {
       "title": "兩月內委內瑞拉伊朗接連巨變  中國原油進口體系面臨壓力測試",
@@ -58,12 +58,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/793a/live/ca33c980-16d6-11f1-863e-5b1b32a487bf.jpg"
     },
     {
-      "title": "中日關係再緊張：日本出招與那國島標誌防衛重心轉移，中國升級出口管制成效幾何",
-      "description": "中國對40家日企出口管制，幾乎同時日本宣布在距台灣東北角僅110公里的與那國島部署中程防空飛彈。中國出口管制會讓高市內閣屈服嗎?與那國島的飛彈部署又與台灣有什麼關係？",
-      "link": "https://www.bbc.com/zhongwen/articles/cpw0nnqrjxgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-04T00:21:15.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cpw0nnqrjxgo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e57c/live/663581a0-16cf-11f1-be43-152be4fb7054.jpg"
+      "title": "伊朗「鎖喉」霍爾木茲海峽的可能方式及後續影響",
+      "description": "伊朗將軍薩達爾·賈巴里表示，德黑蘭現在「不會讓一滴石油離開該地區」。",
+      "link": "https://www.bbc.com/zhongwen/articles/c70nn4j2369o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-04T06:34:46.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c70nn4j2369o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/26c2/live/ff54faf0-1783-11f1-9120-a910fc22c6ac.jpg"
     },
     {
       "title": "中國「兩會」五大焦點：經濟增速、「十五五」開局、科技自主、高層人事安排及國防預算",
@@ -194,6 +194,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ca0e/live/1bdae5e0-1220-11f1-9120-a910fc22c6ac.jpg"
     },
     {
+      "title": "中日關係再緊張：日本出招與那國島標誌防衛重心轉移，中國升級出口管制成效幾何",
+      "description": "中國對40家日企出口管制，幾乎同時日本宣布在距台灣東北角僅110公里的與那國島部署中程防空飛彈。中國出口管制會讓高市內閣屈服嗎?與那國島的飛彈部署又與台灣有什麼關係？",
+      "link": "https://www.bbc.com/zhongwen/articles/cpw0nnqrjxgo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-04T00:21:15.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cpw0nnqrjxgo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e57c/live/663581a0-16cf-11f1-be43-152be4fb7054.jpg"
+    },
+    {
       "title": "社運人士郭鳳儀：香港當局監禁我父親，企圖令我噤聲",
       "description": "香港民主派社運人士郭鳳儀的父親，因涉及「企圖處理潛逃者財產罪」，被判入獄八個月。這是首宗針對流亡海外民主人士家屬的國安案件判刑。",
       "link": "https://www.bbc.com/zhongwen/articles/c98qd00rdpjo/trad?at_medium=RSS&at_campaign=rss",
@@ -208,14 +216,6 @@
       "pubDate": "2026-02-24T00:14:32.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cd6zjll5w75o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/45f6/live/0e17f770-0d81-11f1-b5e2-dd58fc65f0f6.jpg"
-    },
-    {
-      "title": "谷愛凌：輿論漩渦中的「冰雪公主」",
-      "description": "為何無論谷愛凌身處何處，她都會引爆輿論？",
-      "link": "https://www.bbc.com/zhongwen/articles/c4g5e2eq4ljo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-20T08:29:44.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4g5e2eq4ljo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c193/live/c3cc8960-0e20-11f1-b5e2-dd58fc65f0f6.jpg"
     },
     {
       "title": "台灣人過年愛看《甄嬛傳》：這部陸劇為何能超脫兩岸政治？",
