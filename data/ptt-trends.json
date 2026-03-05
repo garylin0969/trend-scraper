@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T01:04:49.867Z",
+  "updated": "2026-03-05T01:48:27.045Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "423",
-      "recommendCount": "745",
+      "recommendScore": "424",
+      "recommendCount": "746",
       "title": "[新聞] 大谷翔平讚賞台灣街景很漂亮「還想再去一次！」",
       "link": "/bbs/Baseball/M.1772613270.A.B66",
       "author": "kensukeshu",
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "258",
+      "recommendCount": "533",
+      "title": "[情報] 張政禹確定遞補李灝宇",
+      "link": "/bbs/Baseball/M.1772668473.A.6AC",
+      "author": "asxc530530",
+      "board": "Baseball",
+      "publishTime": "2026/03/04 23:54",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "191",
       "recommendCount": "401",
       "title": "[新聞] 快訊／戰火突襲！台股今創史上第3大跌點國安基金不排除加開臨時會",
@@ -135,7 +145,7 @@
     },
     {
       "recommendScore": "316",
-      "recommendCount": "942",
+      "recommendCount": "945",
       "title": "[花邊] 林書豪談Kobe:他不習慣別人挑戰他",
       "link": "/bbs/NBA/M.1772597165.A.8CA",
       "author": "bengowa",
@@ -154,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "204",
-      "recommendCount": "293",
+      "recommendScore": "205",
+      "recommendCount": "294",
       "title": "[新聞] 山本由伸確定對上台灣隊 日本隊監督：會是艱難的比賽",
       "link": "/bbs/Baseball/M.1772612974.A.390",
       "author": "Jerry0530s",
@@ -191,16 +201,6 @@
       "author": "Anderson0819",
       "board": "Gossiping",
       "publishTime": "2026/03/04 14:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "138",
-      "recommendCount": "339",
-      "title": "[新聞] 警報狂響回不了家！國人求助外交部換「冷回應」　心寒組自救會逃命",
-      "link": "/bbs/Gossiping/M.1772622136.A.0D5",
-      "author": "junzi",
-      "board": "Gossiping",
-      "publishTime": "2026/03/04 11:02",
       "imageUrl": ""
     }
   ]
