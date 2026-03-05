@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T11:44:17.780Z",
+  "updated": "2026-03-05T11:59:04.453Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "354",
-      "recommendCount": "432",
+      "recommendScore": "355",
+      "recommendCount": "433",
       "title": "[發錢] 2023WBC笑韓國輸澳洲的人呢？",
       "link": "/bbs/Baseball/M.1772688520.A.493",
       "author": "CK5566",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "209",
+      "recommendCount": "327",
+      "title": "[外絮] Bill Simmons:LBJ退役巡演可輪流簽約30隊",
+      "link": "/bbs/NBA/M.1772694800.A.3A3",
+      "author": "Wojnarowski",
+      "board": "NBA",
+      "publishTime": "2026/03/05 07:13",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "111",
       "recommendCount": "282",
       "title": "[問題] 臺灣、韓國跟澳洲都2-2",
@@ -191,16 +201,6 @@
       "author": "mets0813",
       "board": "Baseball",
       "publishTime": "2026/03/05 05:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "155",
-      "recommendCount": "399",
-      "title": "[問卦] 呱吉是不是就是個反覆橫跳的小丑?",
-      "link": "/bbs/Gossiping/M.1772657715.A.87A",
-      "author": "login5566",
-      "board": "Gossiping",
-      "publishTime": "2026/03/04 20:55",
       "imageUrl": ""
     }
   ]
