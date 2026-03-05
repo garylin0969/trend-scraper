@@ -1,18 +1,8 @@
 {
-  "updated": "2026-03-05T14:08:01.451Z",
+  "updated": "2026-03-05T14:28:09.301Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "680",
-      "recommendCount": "697",
-      "title": "[祭品] 一起跟著中華隊前進邁阿密！",
-      "link": "/bbs/Baseball/M.1772641420.A.E2B",
-      "author": "dinosaur8484",
-      "board": "Baseball",
-      "publishTime": "2026/03/04 16:23",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "463",
       "recommendCount": "958",
@@ -24,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "247",
-      "recommendCount": "582",
+      "recommendScore": "248",
+      "recommendCount": "584",
       "title": "[新聞] 太子集團在押9名被告 起訴後竟「全獲交保」",
       "link": "/bbs/Gossiping/M.1772665638.A.EAB",
       "author": "Workforme",
@@ -202,6 +192,16 @@
       "board": "SportLottery",
       "publishTime": "2026/03/05 02:30",
       "imageUrl": "https://cache.pttweb.cc/imgur/FRDssMy/s/7316519428f68f1fabb3727198ecb666"
+    },
+    {
+      "recommendScore": "189",
+      "recommendCount": "302",
+      "title": "[討論] 明天打日本輸幾分以內算贏",
+      "link": "/bbs/Baseball/M.1772694789.A.8CD",
+      "author": "area223672",
+      "board": "Baseball",
+      "publishTime": "2026/03/05 07:13",
+      "imageUrl": ""
     }
   ]
 }
