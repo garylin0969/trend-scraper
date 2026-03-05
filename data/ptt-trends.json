@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T20:53:38.908Z",
+  "updated": "2026-03-05T21:12:49.377Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "202",
+      "recommendCount": "505",
+      "title": "[問題] 為什麼中華隊沒辦法「穩定的強」？",
+      "link": "/bbs/Baseball/M.1772716376.A.C66",
+      "author": "aa1477888",
+      "board": "Baseball",
+      "publishTime": "2026/03/05 13:12",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "231",
       "recommendCount": "382",
       "title": "[新聞] 快訊／台日大戰先發出爐　鄭浩均掛帥先發",
@@ -191,16 +201,6 @@
       "author": "windletterz",
       "board": "Baseball",
       "publishTime": "2026/03/05 05:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "200",
-      "recommendCount": "501",
-      "title": "[問題] 為什麼中華隊沒辦法「穩定的強」？",
-      "link": "/bbs/Baseball/M.1772716376.A.C66",
-      "author": "aa1477888",
-      "board": "Baseball",
-      "publishTime": "2026/03/05 13:12",
       "imageUrl": ""
     }
   ]
