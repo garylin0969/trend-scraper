@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T11:22:51.939Z",
+  "updated": "2026-03-05T11:44:17.780Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,24 +54,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "329",
-      "recommendCount": "437",
+      "recommendScore": "330",
+      "recommendCount": "438",
       "title": "[分享] 今日 徐若熙",
       "link": "/bbs/Baseball/M.1772688442.A.D53",
       "author": "lgng66133",
       "board": "Baseball",
       "publishTime": "2026/03/05 05:27",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "-193",
-      "recommendCount": "582",
-      "title": "[新聞] 快訊／嚴重悖離憲法！卓榮泰宣布不副署爭議3法",
-      "link": "/bbs/Gossiping/M.1772623356.A.212",
-      "author": "armorblocks",
-      "board": "Gossiping",
-      "publishTime": "2026/03/04 11:22",
-      "imageUrl": "https://cache.pttweb.cc/imgur/7gd1JF4/s/a406c9acf5924a6d1b037a86a12ac129"
     },
     {
       "recommendScore": "354",
@@ -104,8 +94,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-105",
-      "recommendCount": "323",
+      "recommendScore": "287",
+      "recommendCount": "417",
+      "title": "[情報] 115年03月05日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1772695538.A.4D7",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2026/03/05 07:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-122",
+      "recommendCount": "379",
       "title": "[情報] Dort:我不髒，就是越界了",
       "link": "/bbs/NBA/M.1772681796.A.EA5",
       "author": "wai0806",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "213",
-      "recommendCount": "320",
+      "recommendScore": "216",
+      "recommendCount": "323",
       "title": "[閒聊] 不用算了啊",
       "link": "/bbs/Baseball/M.1772689303.A.A7F",
       "author": "windletterz",
