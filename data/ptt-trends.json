@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-06T08:35:21.156Z",
+  "updated": "2026-03-06T08:55:16.853Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -61,16 +61,6 @@
       "author": "nO25948",
       "board": "Baseball",
       "publishTime": "2026/03/05 10:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "300",
-      "recommendCount": "436",
-      "title": "[情報] 115年03月05日 三大法人買賣金額統計表",
-      "link": "/bbs/Stock/M.1772695538.A.4D7",
-      "author": "coconing",
-      "board": "Stock",
-      "publishTime": "2026/03/05 07:25",
       "imageUrl": ""
     },
     {
@@ -154,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "208",
-      "recommendCount": "556",
-      "title": "[討論] 台澳大戰主審誤判",
-      "link": "/bbs/Baseball/M.1772696497.A.2E5",
-      "author": "smiil5566",
-      "board": "Baseball",
-      "publishTime": "2026/03/05 07:41",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "172",
       "recommendCount": "298",
       "title": "[討論] 明天對日本真的完全沒希望嗎？",
@@ -202,6 +182,26 @@
       "board": "Gossiping",
       "publishTime": "2026/03/06 02:26",
       "imageUrl": "https://cache.pttweb.cc/imgur/ZasMkrJ/s/9138566054ae2f41c446e4e62849a0d4"
+    },
+    {
+      "recommendScore": "217",
+      "recommendCount": "482",
+      "title": "[新聞] 中信兄弟》一針見血點出問題 平野惠一看中職球員：職業意識還不足",
+      "link": "/bbs/Baseball/M.1772770767.A.6C7",
+      "author": "leftavoid",
+      "board": "Baseball",
+      "publishTime": "2026/03/06 04:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-110",
+      "recommendCount": "345",
+      "title": "[外絮] LBJ:當年去邁阿密離開舒適圈，需強大心",
+      "link": "/bbs/NBA/M.1772751489.A.EF9",
+      "author": "Wojnarowski",
+      "board": "NBA",
+      "publishTime": "2026/03/05 22:58",
+      "imageUrl": ""
     }
   ]
 }
