@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-06T14:37:55.050Z",
+  "updated": "2026-03-06T14:56:56.239Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "311",
-      "recommendCount": "706",
-      "title": "[新聞] 切割青鳥？沈伯洋撇清「價值觀跟民進黨支持者不一致」",
-      "link": "/bbs/Gossiping/M.1772721926.A.DB8",
-      "author": "omanorboyo",
-      "board": "Gossiping",
-      "publishTime": "2026/03/05 14:45",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "367",
       "recommendCount": "650",
       "title": "[分享] 脆熱議：東京巨蛋台澳戰亂象",
@@ -201,6 +191,16 @@
       "author": "WanYC",
       "board": "Baseball",
       "publishTime": "2026/03/06 11:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "401",
+      "recommendCount": "676",
+      "title": "[轉播] 2026 WBC Pool C G4 4▼ 日本13:0 臺灣",
+      "link": "/bbs/Baseball/M.1772797150.A.3EF",
+      "author": "WanYC",
+      "board": "Baseball",
+      "publishTime": "2026/03/06 11:39",
       "imageUrl": ""
     }
   ]
