@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-06T03:08:51.363Z",
+  "updated": "2026-03-06T03:56:03.027Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-132",
-      "recommendCount": "402",
-      "title": "[情報] Dort:我不髒，就是越界了",
-      "link": "/bbs/NBA/M.1772681796.A.EA5",
-      "author": "wai0806",
-      "board": "NBA",
-      "publishTime": "2026/03/05 03:36",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "295",
       "recommendCount": "410",
       "title": "[炸裂] Terrin Vavra",
@@ -201,6 +191,16 @@
       "author": "Blackie9211",
       "board": "Baseball",
       "publishTime": "2026/03/05 05:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "216",
+      "recommendCount": "332",
+      "title": "[情報] 陳傑憲傷勢",
+      "link": "/bbs/Baseball/M.1772691980.A.98C",
+      "author": "smallweek",
+      "board": "Baseball",
+      "publishTime": "2026/03/05 06:26",
       "imageUrl": ""
     }
   ]
