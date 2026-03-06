@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-06T08:55:16.853Z",
+  "updated": "2026-03-06T09:15:04.514Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "227",
-      "recommendCount": "397",
-      "title": "[問卦] 北韓：支援伊朗飛彈 一發就把以色列幹掉",
-      "link": "/bbs/Gossiping/M.1772701267.A.19A",
-      "author": "logical01",
-      "board": "Gossiping",
-      "publishTime": "2026/03/05 09:01",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "250",
       "recommendCount": "369",
       "title": "[炸裂] 文保景 滿貫砲",
@@ -201,6 +191,16 @@
       "author": "Wojnarowski",
       "board": "NBA",
       "publishTime": "2026/03/05 22:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "149",
+      "recommendCount": "234",
+      "title": "[討論] 萬一明天被日本提早結束比賽怎麼辦？",
+      "link": "/bbs/Baseball/M.1772707380.A.CAC",
+      "author": "boy9501",
+      "board": "Baseball",
+      "publishTime": "2026/03/05 10:43",
       "imageUrl": ""
     }
   ]
