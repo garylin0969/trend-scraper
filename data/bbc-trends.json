@@ -1,10 +1,10 @@
 {
-  "updated": "2026-03-06T07:28:06.501Z",
+  "updated": "2026-03-06T07:54:55.800Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-03-06T07:28:04.000Z",
+    "lastBuildDate": "2026-03-06T07:54:53.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -24,6 +24,14 @@
       "pubDate": "2026-03-05T08:52:01.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ce8wwj819e5o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0a7e/live/d0224ba0-1843-11f1-9d99-6b22f9815f61.jpg"
+    },
+    {
+      "title": "伊朗迎戰之策分析：以耐力與嚇阻為核心的高風險戰略",
+      "description": "伊朗深知自身侷限：美國本土遙不可及，但遍布區域的美軍基地——尤其是鄰近阿拉伯國家的基地——卻是在可打擊範圍內。若衝突持續，美國和以色列將不得不以高成本來攔截低成本的攻擊，使其戰爭負擔愈加沉重。",
+      "link": "https://www.bbc.com/zhongwen/articles/c93j7y3l857o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-06T07:48:26.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c93j7y3l857o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/651c/live/72da95e0-18ae-11f1-8a24-35cedd1a21de.jpg"
     },
     {
       "title": "美國和伊朗的彈藥庫如何影響這場衝突？",
@@ -46,7 +54,7 @@
       "description": "目前穆傑塔巴仍只是中階教士，這可能成為他接掌最高領袖的障礙。伊朗伊斯蘭共和國在1979年君主制被推翻後建立，其核心理念是最高領袖應依宗教地位與領導力選出，而非血統繼承。",
       "link": "https://www.bbc.com/zhongwen/articles/c5yjx03jy33o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-03-06T04:07:43.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5yjx03jy33o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5yjx03jy33o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7ae4/live/262c84f0-1878-11f1-8f1d-d7bdb1ea156f.jpg"
     },
     {
@@ -96,14 +104,6 @@
       "pubDate": "2026-03-05T05:49:16.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn5gg39vl19o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8300/live/69659e50-1800-11f1-a22e-8dff910856a6.png"
-    },
-    {
-      "title": "中國「兩會」五大焦點：經濟增速、「十五五」開局、科技自主、高層人事安排及國防預算",
-      "description": "今年「兩會」的特殊性在於，它不僅是涉及年度政治議程，更是為中國「十五五」開局。",
-      "link": "https://www.bbc.com/zhongwen/articles/cqj9gnynk5lo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-03T00:19:48.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cqj9gnynk5lo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7478/live/8d13b320-1696-11f1-b782-971daddbe8d7.jpg"
     },
     {
       "title": "香港「H」車牌拍出2000萬港幣，經濟低迷下有錢人買個「腳踏實地」？",
@@ -202,6 +202,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e57c/live/663581a0-16cf-11f1-be43-152be4fb7054.jpg"
     },
     {
+      "title": "中國「兩會」五大焦點：經濟增速、「十五五」開局、科技自主、高層人事安排及國防預算",
+      "description": "今年「兩會」的特殊性在於，它不僅是涉及年度政治議程，更是為中國「十五五」開局。",
+      "link": "https://www.bbc.com/zhongwen/articles/cqj9gnynk5lo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-03T00:19:48.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cqj9gnynk5lo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7478/live/8d13b320-1696-11f1-b782-971daddbe8d7.jpg"
+    },
+    {
       "title": "社運人士郭鳳儀：香港當局監禁我父親，企圖令我噤聲",
       "description": "香港民主派社運人士郭鳳儀的父親，因涉及「企圖處理潛逃者財產罪」，被判入獄八個月。這是首宗針對流亡海外民主人士家屬的國安案件判刑。",
       "link": "https://www.bbc.com/zhongwen/articles/c98qd00rdpjo/trad?at_medium=RSS&at_campaign=rss",
@@ -224,14 +232,6 @@
       "pubDate": "2026-02-17T07:20:06.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cd70eyjx2xzo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/58fa/live/cf3922c0-0bcf-11f1-b7e1-afb6d0884c18.png"
-    },
-    {
-      "title": "美國嚴厲打擊非法移民下，中國「走線」客正遭遇的抓捕與擔憂",
-      "description": "有中國走線客稱，美國移民和海關執法局（ICE）的執法行讓他構成了心理上的負擔和壓力，也對華人社群帶來一定的影響。",
-      "link": "https://www.bbc.com/zhongwen/articles/c86yp0dv0q2o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-18T01:15:30.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c86yp0dv0q2o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3807/live/5a99ca00-0bcf-11f1-b7e1-afb6d0884c18.jpg"
     },
     {
       "title": "兩月內委內瑞拉伊朗接連巨變  中國原油進口體系面臨壓力測試",
