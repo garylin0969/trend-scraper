@@ -1,8 +1,18 @@
 {
-  "updated": "2026-03-06T05:04:28.386Z",
+  "updated": "2026-03-06T05:32:00.967Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "310",
+      "recommendCount": "702",
+      "title": "[新聞] 切割青鳥？沈伯洋撇清「價值觀跟民進黨支持者不一致」",
+      "link": "/bbs/Gossiping/M.1772721926.A.DB8",
+      "author": "omanorboyo",
+      "board": "Gossiping",
+      "publishTime": "2026/03/05 14:45",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "205",
       "recommendCount": "688",
@@ -24,16 +34,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/bjdeUMp/s/6e8f28a6311140c4602acd7f8e4ade52"
     },
     {
-      "recommendScore": "290",
-      "recommendCount": "660",
-      "title": "[新聞] 切割青鳥？沈伯洋撇清「價值觀跟民進黨支持者不一致」",
-      "link": "/bbs/Gossiping/M.1772721926.A.DB8",
-      "author": "omanorboyo",
-      "board": "Gossiping",
-      "publishTime": "2026/03/05 14:45",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "415",
       "recommendCount": "466",
       "title": "[祭品] 中華隊！讓我們明天一起震撼世界！",
@@ -41,26 +41,6 @@
       "author": "siugwai",
       "board": "Baseball",
       "publishTime": "2026/03/05 14:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "332",
-      "recommendCount": "440",
-      "title": "[分享] 今日 徐若熙",
-      "link": "/bbs/Baseball/M.1772688442.A.D53",
-      "author": "lgng66133",
-      "board": "Baseball",
-      "publishTime": "2026/03/05 05:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "356",
-      "recommendCount": "434",
-      "title": "[發錢] 2023WBC笑韓國輸澳洲的人呢？",
-      "link": "/bbs/Baseball/M.1772688520.A.493",
-      "author": "CK5566",
-      "board": "Baseball",
-      "publishTime": "2026/03/05 05:28",
       "imageUrl": ""
     },
     {
@@ -124,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "133",
+      "recommendCount": "407",
+      "title": "[新聞] 台灣建商爆「集體倒閉」！5間全熄燈　房市撐不住了",
+      "link": "/bbs/Gossiping/M.1772712864.A.4B0",
+      "author": "peterlin495",
+      "board": "Gossiping",
+      "publishTime": "2026/03/05 12:14",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "227",
       "recommendCount": "397",
       "title": "[問卦] 北韓：支援伊朗飛彈 一發就把以色列幹掉",
@@ -141,16 +131,6 @@
       "author": "alpacaHong",
       "board": "Baseball",
       "publishTime": "2026/03/05 10:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "134",
-      "recommendCount": "387",
-      "title": "[新聞] 台灣建商爆「集體倒閉」！5間全熄燈　房市撐不住了",
-      "link": "/bbs/Gossiping/M.1772712864.A.4B0",
-      "author": "peterlin495",
-      "board": "Gossiping",
-      "publishTime": "2026/03/05 12:14",
       "imageUrl": ""
     },
     {
@@ -184,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "94",
-      "recommendCount": "341",
-      "title": "[討論] 這場主審也真的很搞吧",
-      "link": "/bbs/Baseball/M.1772688415.A.E4C",
-      "author": "Blackie9211",
-      "board": "Baseball",
-      "publishTime": "2026/03/05 05:26",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "216",
       "recommendCount": "332",
       "title": "[情報] 陳傑憲傷勢",
@@ -201,6 +171,36 @@
       "author": "smallweek",
       "board": "Baseball",
       "publishTime": "2026/03/05 06:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "189",
+      "recommendCount": "302",
+      "title": "[討論] 明天打日本輸幾分以內算贏",
+      "link": "/bbs/Baseball/M.1772694789.A.8CD",
+      "author": "area223672",
+      "board": "Baseball",
+      "publishTime": "2026/03/05 07:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "154",
+      "recommendCount": "555",
+      "title": "Re: [爆卦] 美國表示 伊朗戰爭可能持續到9月",
+      "link": "/bbs/Gossiping/M.1772743102.A.856",
+      "author": "ceca",
+      "board": "Gossiping",
+      "publishTime": "2026/03/05 20:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "208",
+      "recommendCount": "556",
+      "title": "[討論] 台澳大戰主審誤判",
+      "link": "/bbs/Baseball/M.1772696497.A.2E5",
+      "author": "smiil5566",
+      "board": "Baseball",
+      "publishTime": "2026/03/05 07:41",
       "imageUrl": ""
     }
   ]
