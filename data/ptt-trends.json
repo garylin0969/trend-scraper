@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-06T09:15:04.514Z",
+  "updated": "2026-03-06T09:33:21.065Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -42,16 +42,6 @@
       "board": "Baseball",
       "publishTime": "2026/03/06 01:55",
       "imageUrl": "https://cache.pttweb.cc/imgur/qCfTvJL/s/9fa7be42fc762992dae662a80ddecc7c"
-    },
-    {
-      "recommendScore": "284",
-      "recommendCount": "661",
-      "title": "[問卦] 快笑死 棒球板大屠殺  一天水桶破千人",
-      "link": "/bbs/Gossiping/M.1772702487.A.A27",
-      "author": "Carol787",
-      "board": "Gossiping",
-      "publishTime": "2026/03/05 09:21",
-      "imageUrl": ""
     },
     {
       "recommendScore": "230",
@@ -124,13 +114,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "231",
-      "recommendCount": "382",
-      "title": "[新聞] 快訊／台日大戰先發出爐　鄭浩均掛帥先發",
-      "link": "/bbs/Baseball/M.1772702804.A.05A",
-      "author": "kissed",
-      "board": "Baseball",
-      "publishTime": "2026/03/05 09:26",
+      "recommendScore": "198",
+      "recommendCount": "509",
+      "title": "[請益] 新手一筆閒錢投入ETF真的不用等低點嗎?",
+      "link": "/bbs/Stock/M.1772765699.A.E65",
+      "author": "eulbos",
+      "board": "Stock",
+      "publishTime": "2026/03/06 02:54",
       "imageUrl": ""
     },
     {
@@ -141,16 +131,6 @@
       "author": "chocobo4235",
       "board": "Baseball",
       "publishTime": "2026/03/05 10:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "163",
-      "recommendCount": "422",
-      "title": "[請益] 新手一筆閒錢投入ETF真的不用等低點嗎?",
-      "link": "/bbs/Stock/M.1772765699.A.E65",
-      "author": "eulbos",
-      "board": "Stock",
-      "publishTime": "2026/03/06 02:54",
       "imageUrl": ""
     },
     {
@@ -184,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "101",
+      "recommendCount": "313",
+      "title": "[新聞] 天然氣存量備戰…經濟部長：若4月調度困難 燃煤是最後手段",
+      "link": "/bbs/Gossiping/M.1772712294.A.D6C",
+      "author": "Supergreen",
+      "board": "Gossiping",
+      "publishTime": "2026/03/05 12:04",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-110",
       "recommendCount": "345",
       "title": "[外絮] LBJ:當年去邁阿密離開舒適圈，需強大心",
@@ -202,6 +192,16 @@
       "board": "Baseball",
       "publishTime": "2026/03/05 10:43",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "130",
+      "recommendCount": "273",
+      "title": "[爆卦] 脆上爆料背刺國家隊小草，被運動部打臉",
+      "link": "/bbs/Gossiping/M.1772765686.A.A63",
+      "author": "sleepdog56",
+      "board": "Gossiping",
+      "publishTime": "2026/03/06 02:54",
+      "imageUrl": "https://cache.pttweb.cc/imgur/bW5hqzT/s/590f400657f2f979db9177dfe2d8449b"
     }
   ]
 }
