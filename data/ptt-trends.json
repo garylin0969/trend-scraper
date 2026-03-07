@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07T12:25:55.276Z",
+  "updated": "2026-03-07T12:47:19.039Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,26 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "432",
-      "recommendCount": "822",
-      "title": "[轉播] 2026 WBC Pool C G4 7▼ 日本13:0 臺灣",
-      "link": "/bbs/Baseball/M.1772800701.A.4D1",
-      "author": "WanYC",
-      "board": "Baseball",
-      "publishTime": "2026/03/06 12:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "506",
-      "recommendCount": "881",
-      "title": "[轉播] 2026 WBC Pool C G4 7△ 日本13:0 臺灣",
-      "link": "/bbs/Baseball/M.1772799923.A.FD1",
-      "author": "WanYC",
-      "board": "Baseball",
-      "publishTime": "2026/03/06 12:25",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "208",
       "recommendCount": "581",
       "title": "[新聞] WCY-陳傑憲骨裂拒休「帶傷練打」　 三度",
@@ -201,6 +181,26 @@
       "author": "colchicine",
       "board": "Baseball",
       "publishTime": "2026/03/07 08:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "249",
+      "recommendCount": "527",
+      "title": "[討論] 南韓陷入尷尬中…………",
+      "link": "/bbs/Baseball/M.1772883884.A.C3C",
+      "author": "acgfan",
+      "board": "Baseball",
+      "publishTime": "2026/03/07 11:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "306",
+      "recommendCount": "459",
+      "title": "地震",
+      "link": "/bbs/Gossiping/M.1772810098.A.EB5",
+      "author": "jccherng",
+      "board": "Gossiping",
+      "publishTime": "2026/03/06 15:14",
       "imageUrl": ""
     }
   ]
