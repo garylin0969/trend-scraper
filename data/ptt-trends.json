@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07T03:22:11.448Z",
+  "updated": "2026-03-07T04:08:43.496Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "800",
+      "recommendCount": "1499",
+      "title": "[公告] 2026 WBC Pool C TPE 0:0 CZE",
+      "link": "/bbs/Baseball/M.1772852402.A.51A",
+      "author": "Matthew10244",
+      "board": "Baseball",
+      "publishTime": "2026/03/07 03:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "690",
       "recommendCount": "1489",
       "title": "[轉播] 2026 WBC Pool C G4 5▼ 日本13:0 臺灣",
@@ -95,7 +105,7 @@
     },
     {
       "recommendScore": "328",
-      "recommendCount": "1013",
+      "recommendCount": "1014",
       "title": "[新聞] 4月「斷氣」危機官員脫口「核四馬英九停的」 藍委轟誰該負責",
       "link": "/bbs/Gossiping/M.1772772143.A.984",
       "author": "stewartqq",
@@ -121,6 +131,16 @@
       "author": "WanYC",
       "board": "Baseball",
       "publishTime": "2026/03/06 11:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "260",
+      "recommendCount": "640",
+      "title": "[新聞] 冷眼集／22綠委集體失職 只忙跑行程出國看棒球 不顧民生",
+      "link": "/bbs/Gossiping/M.1772840748.A.444",
+      "author": "jordanlove",
+      "board": "Gossiping",
+      "publishTime": "2026/03/06 23:45",
       "imageUrl": ""
     },
     {
@@ -174,16 +194,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "227",
-      "recommendCount": "568",
-      "title": "[新聞] 冷眼集／22綠委集體失職 只忙跑行程出國看棒球 不顧民生",
-      "link": "/bbs/Gossiping/M.1772840748.A.444",
-      "author": "jordanlove",
-      "board": "Gossiping",
-      "publishTime": "2026/03/06 23:45",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "384",
       "recommendCount": "623",
       "title": "[討論] 今日WBC台日戰 中華隊先發打序",
@@ -191,16 +201,6 @@
       "author": "DoncicInPTT",
       "board": "Baseball",
       "publishTime": "2026/03/06 07:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "370",
-      "recommendCount": "623",
-      "title": "[轉播] 2026 WBC Pool C G4 5△ 日本13:0 臺灣",
-      "link": "/bbs/Baseball/M.1772797752.A.2B4",
-      "author": "WanYC",
-      "board": "Baseball",
-      "publishTime": "2026/03/06 11:49",
       "imageUrl": ""
     }
   ]
