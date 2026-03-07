@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07T09:48:50.840Z",
+  "updated": "2026-03-07T09:57:23.014Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "757",
+      "recommendCount": "1493",
+      "title": "[公告] 2026 WBC Pool TPE 6:0 CZE 第3局",
+      "link": "/bbs/Baseball/M.1772855282.A.64C",
+      "author": "Matthew10244",
+      "board": "Baseball",
+      "publishTime": "2026/03/07 03:48",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "552",
       "recommendCount": "983",
       "title": "[轉播] 2026 WBC Pool C G4 6▼ 日本13:0 臺灣",
@@ -144,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "404",
-      "recommendCount": "811",
-      "title": "[公告] 2026 WBC Pool TPE 6:0 CZE 第3局",
-      "link": "/bbs/Baseball/M.1772855282.A.64C",
-      "author": "Matthew10244",
-      "board": "Baseball",
-      "publishTime": "2026/03/07 03:48",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "432",
       "recommendCount": "822",
       "title": "[轉播] 2026 WBC Pool C G4 7▼ 日本13:0 臺灣",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "208",
+      "recommendCount": "579",
+      "title": "[新聞] WCY-陳傑憲骨裂拒休「帶傷練打」　 三度",
+      "link": "/bbs/Baseball/M.1772848775.A.7F4",
+      "author": "murray",
+      "board": "Baseball",
+      "publishTime": "2026/03/07 01:59",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "306",
       "recommendCount": "510",
       "title": "[爆卦] 大谷翔平滿貫砲",
@@ -191,16 +201,6 @@
       "author": "alpacaHong",
       "board": "Gossiping",
       "publishTime": "2026/03/06 10:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "312",
-      "recommendCount": "584",
-      "title": "[分享] 鄭宗哲：我們實力不在同一個等級",
-      "link": "/bbs/Baseball/M.1772807778.A.3B9",
-      "author": "Augustus5",
-      "board": "Baseball",
-      "publishTime": "2026/03/06 14:36",
       "imageUrl": ""
     }
   ]
