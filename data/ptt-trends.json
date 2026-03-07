@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07T23:46:57.596Z",
+  "updated": "2026-03-07T23:55:38.967Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -64,16 +64,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "323",
-      "recommendCount": "813",
-      "title": "[新聞] 冷眼集／22綠委集體失職 只忙跑行程出國看棒球 不顧民生",
-      "link": "/bbs/Gossiping/M.1772840748.A.444",
-      "author": "jordanlove",
-      "board": "Gossiping",
-      "publishTime": "2026/03/06 23:45",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "702",
       "recommendCount": "1492",
       "title": "[公告] 2026 WBC Pool TPE 8:0 CZE 第4局",
@@ -94,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "477",
-      "recommendCount": "522",
+      "recommendScore": "478",
+      "recommendCount": "523",
       "title": "[祭品] 明天贏韓國",
       "link": "/bbs/Baseball/M.1772890652.A.C30",
       "author": "TaipeiAKuo",
@@ -115,7 +105,7 @@
     },
     {
       "recommendScore": "325",
-      "recommendCount": "526",
+      "recommendCount": "527",
       "title": "[問題] 贏韓沒晉級可以洗白嗎？",
       "link": "/bbs/Baseball/M.1772887234.A.3B5",
       "author": "f020488997",
@@ -145,7 +135,7 @@
     },
     {
       "recommendScore": "413",
-      "recommendCount": "598",
+      "recommendCount": "599",
       "title": "[分享] 韓國隊 明天先發投手: 柳賢振",
       "link": "/bbs/Baseball/M.1772891159.A.E89",
       "author": "thnlkj0665",
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "334",
-      "recommendCount": "484",
+      "recommendScore": "335",
+      "recommendCount": "485",
       "title": "[分享] 今日 大谷翔平",
       "link": "/bbs/Baseball/M.1772889210.A.7EF",
       "author": "alpacaHong",
       "board": "Baseball",
       "publishTime": "2026/03/07 13:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "260",
+      "recommendCount": "561",
+      "title": "[討論] 南韓陷入尷尬中…………",
+      "link": "/bbs/Baseball/M.1772883884.A.C3C",
+      "author": "acgfan",
+      "board": "Baseball",
+      "publishTime": "2026/03/07 11:44",
       "imageUrl": ""
     }
   ]
