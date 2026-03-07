@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07T01:36:28.764Z",
+  "updated": "2026-03-07T02:31:22.580Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "325",
-      "recommendCount": "1009",
+      "recommendCount": "1010",
       "title": "[新聞] 4月「斷氣」危機官員脫口「核四馬英九停的」 藍委轟誰該負責",
       "link": "/bbs/Gossiping/M.1772772143.A.984",
       "author": "stewartqq",
@@ -122,16 +122,6 @@
       "board": "Baseball",
       "publishTime": "2026/03/06 11:32",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "367",
-      "recommendCount": "650",
-      "title": "[分享] 脆熱議：東京巨蛋台澳戰亂象",
-      "link": "/bbs/Baseball/M.1772762119.A.A7A",
-      "author": "stevenchiang",
-      "board": "Baseball",
-      "publishTime": "2026/03/06 01:55",
-      "imageUrl": "https://cache.pttweb.cc/imgur/qCfTvJL/s/9fa7be42fc762992dae662a80ddecc7c"
     },
     {
       "recommendScore": "446",
@@ -174,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "309",
+      "recommendCount": "581",
+      "title": "[分享] 鄭宗哲：我們實力不在同一個等級",
+      "link": "/bbs/Baseball/M.1772807778.A.3B9",
+      "author": "Augustus5",
+      "board": "Baseball",
+      "publishTime": "2026/03/06 14:36",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "384",
       "recommendCount": "623",
       "title": "[討論] 今日WBC台日戰 中華隊先發打序",
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "306",
-      "recommendCount": "578",
-      "title": "[分享] 鄭宗哲：我們實力不在同一個等級",
-      "link": "/bbs/Baseball/M.1772807778.A.3B9",
-      "author": "Augustus5",
-      "board": "Baseball",
-      "publishTime": "2026/03/06 14:36",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "370",
       "recommendCount": "623",
       "title": "[轉播] 2026 WBC Pool C G4 5△ 日本13:0 臺灣",
@@ -201,6 +191,16 @@
       "author": "WanYC",
       "board": "Baseball",
       "publishTime": "2026/03/06 11:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "401",
+      "recommendCount": "676",
+      "title": "[轉播] 2026 WBC Pool C G4 4▼ 日本13:0 臺灣",
+      "link": "/bbs/Baseball/M.1772797150.A.3EF",
+      "author": "WanYC",
+      "board": "Baseball",
+      "publishTime": "2026/03/06 11:39",
       "imageUrl": ""
     }
   ]
