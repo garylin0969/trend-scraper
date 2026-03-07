@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07T16:20:10.083Z",
+  "updated": "2026-03-07T16:36:16.610Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "456",
+      "recommendCount": "500",
+      "title": "[祭品] 明天贏韓國",
+      "link": "/bbs/Baseball/M.1772890652.A.C30",
+      "author": "TaipeiAKuo",
+      "board": "Baseball",
+      "publishTime": "2026/03/07 13:37",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "414",
       "recommendCount": "509",
       "title": "[集氣] 南韓今天被日本Call Game就發錢‼",
@@ -101,16 +111,6 @@
       "author": "jumpballfan",
       "board": "Baseball",
       "publishTime": "2026/03/07 09:59",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "453",
-      "recommendCount": "497",
-      "title": "[祭品] 明天贏韓國",
-      "link": "/bbs/Baseball/M.1772890652.A.C30",
-      "author": "TaipeiAKuo",
-      "board": "Baseball",
-      "publishTime": "2026/03/07 13:37",
       "imageUrl": ""
     },
     {
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "396",
-      "recommendCount": "574",
+      "recommendScore": "398",
+      "recommendCount": "576",
       "title": "[分享] 韓國隊 明天先發投手: 柳賢振",
       "link": "/bbs/Baseball/M.1772891159.A.E89",
       "author": "thnlkj0665",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "260",
-      "recommendCount": "561",
-      "title": "[討論] 南韓陷入尷尬中…………",
-      "link": "/bbs/Baseball/M.1772883884.A.C3C",
-      "author": "acgfan",
+      "recommendScore": "326",
+      "recommendCount": "472",
+      "title": "[分享] 今日 大谷翔平",
+      "link": "/bbs/Baseball/M.1772889210.A.7EF",
+      "author": "alpacaHong",
       "board": "Baseball",
-      "publishTime": "2026/03/07 11:44",
+      "publishTime": "2026/03/07 13:13",
       "imageUrl": ""
     }
   ]
