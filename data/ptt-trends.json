@@ -1,26 +1,36 @@
 {
-  "updated": "2026-03-08T03:31:47.512Z",
+  "updated": "2026-03-08T04:21:33.916Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "774",
-      "recommendCount": "1363",
-      "title": "[公告] 2026 WBC Pool TPE 6:0 CZE 第2局",
-      "link": "/bbs/Baseball/M.1772854382.A.6B5",
+      "recommendScore": "951",
+      "recommendCount": "1497",
+      "title": "[公告] 2026 WBC Pool C TPE 1:0 KOR 第2局",
+      "link": "/bbs/Baseball/M.1772940002.A.F22",
       "author": "Matthew10244",
       "board": "Baseball",
-      "publishTime": "2026/03/07 03:33",
+      "publishTime": "2026/03/08 03:20",
       "imageUrl": ""
     },
     {
-      "recommendScore": "757",
-      "recommendCount": "1493",
-      "title": "[公告] 2026 WBC Pool TPE 6:0 CZE 第3局",
-      "link": "/bbs/Baseball/M.1772855282.A.64C",
+      "recommendScore": "845",
+      "recommendCount": "1368",
+      "title": "[公告] 2026 WBC Pool C TPE 0:0 KOR 第1局",
+      "link": "/bbs/Baseball/M.1772938802.A.1EC",
       "author": "Matthew10244",
       "board": "Baseball",
-      "publishTime": "2026/03/07 03:48",
+      "publishTime": "2026/03/08 03:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "775",
+      "recommendCount": "1495",
+      "title": "[公告] 2026 WBC Pool C TPE 1:0 KOR 第3局",
+      "link": "/bbs/Baseball/M.1772940842.A.60A",
+      "author": "Matthew10244",
+      "board": "Baseball",
+      "publishTime": "2026/03/08 03:34",
       "imageUrl": ""
     },
     {
@@ -54,16 +64,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "702",
-      "recommendCount": "1492",
-      "title": "[公告] 2026 WBC Pool TPE 8:0 CZE 第4局",
-      "link": "/bbs/Baseball/M.1772856782.A.2CA",
-      "author": "Matthew10244",
-      "board": "Baseball",
-      "publishTime": "2026/03/07 04:13",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "425",
       "recommendCount": "587",
       "title": "[炸裂] 金慧成",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "481",
-      "recommendCount": "527",
+      "recommendScore": "482",
+      "recommendCount": "528",
       "title": "[祭品] 明天贏韓國",
       "link": "/bbs/Baseball/M.1772890652.A.C30",
       "author": "TaipeiAKuo",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "360",
+      "recommendCount": "484",
+      "title": "[新聞] 韓國輸日本仍獲好評　韓媒：和中華隊那場相比簡直天壤之別",
+      "link": "/bbs/Baseball/M.1772932913.A.4A5",
+      "author": "whj0530",
+      "board": "Baseball",
+      "publishTime": "2026/03/08 01:21",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "260",
       "recommendCount": "561",
       "title": "[討論] 南韓陷入尷尬中…………",
@@ -191,16 +201,6 @@
       "author": "acgfan",
       "board": "Baseball",
       "publishTime": "2026/03/07 11:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "256",
-      "recommendCount": "542",
-      "title": "[討論] 我們昨天是怎麼做到只有1支安打的？",
-      "link": "/bbs/Baseball/M.1772883273.A.9A4",
-      "author": "plcaaaden",
-      "board": "Baseball",
-      "publishTime": "2026/03/07 11:34",
       "imageUrl": ""
     }
   ]
