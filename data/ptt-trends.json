@@ -1,20 +1,10 @@
 {
-  "updated": "2026-03-08T10:10:52.048Z",
+  "updated": "2026-03-08T10:23:53.739Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "1094",
-      "recommendCount": "1501",
-      "title": "[爆卦] 台灣隊贏了發錢",
-      "link": "/bbs/Gossiping/M.1772950019.A.3D8",
-      "author": "XDGEE",
-      "board": "Gossiping",
-      "publishTime": "2026/03/08 06:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "1165",
+      "recommendScore": "1166",
       "recommendCount": "1501",
       "title": "[分享] 中華隊第一次在經典賽擊敗韓國",
       "link": "/bbs/Baseball/M.1772950024.A.F8B",
@@ -24,7 +14,17 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "1310",
+      "recommendScore": "1091",
+      "recommendCount": "1501",
+      "title": "[爆卦] 台灣隊贏了發錢",
+      "link": "/bbs/Gossiping/M.1772950019.A.3D8",
+      "author": "XDGEE",
+      "board": "Gossiping",
+      "publishTime": "2026/03/08 06:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "1308",
       "recommendCount": "1499",
       "title": "[發錢] 公關站長發P幣-一直贏韓國的世代",
       "link": "/bbs/Baseball/M.1772951547.A.944",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "842",
-      "recommendCount": "1392",
+      "recommendScore": "857",
+      "recommendCount": "1417",
       "title": "[問卦] 贏南韓是能幹嘛？",
       "link": "/bbs/Gossiping/M.1772950076.A.B5E",
       "author": "lmf770410",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "1022",
-      "recommendCount": "1336",
+      "recommendScore": "1118",
+      "recommendCount": "1452",
       "title": "[討論] 一日酸迷、柵欄仔請進",
       "link": "/bbs/Baseball/M.1772952475.A.7F9",
       "author": "littlesheepy",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "816",
-      "recommendCount": "1113",
+      "recommendScore": "817",
+      "recommendCount": "1118",
       "title": "[問題] 吳念庭 10局那個傳本壘封殺跑者很重要吧!??",
       "link": "/bbs/Baseball/M.1772950445.A.FC7",
       "author": "keane9112",
@@ -104,8 +104,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "613",
-      "recommendCount": "851",
+      "recommendScore": "764",
+      "recommendCount": "886",
+      "title": "[公告] WBC塵戰首勝韓國喜灌區",
+      "link": "/bbs/Baseball/M.1772953202.A.948",
+      "author": "Matthew10244",
+      "board": "Baseball",
+      "publishTime": "2026/03/08 07:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "618",
+      "recommendCount": "858",
       "title": "[發錢] 中華隊贏球就是爽",
       "link": "/bbs/Baseball/M.1772950591.A.CBC",
       "author": "poplc",
@@ -134,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "711",
-      "recommendCount": "830",
-      "title": "[公告] WBC塵戰首勝韓國喜灌區",
-      "link": "/bbs/Baseball/M.1772953202.A.948",
-      "author": "Matthew10244",
-      "board": "Baseball",
-      "publishTime": "2026/03/08 07:00",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "531",
       "recommendCount": "810",
       "title": "[爆卦] 中華隊贏高麗 發錢",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "483",
-      "recommendCount": "800",
+      "recommendScore": "487",
+      "recommendCount": "805",
       "title": "[討論] 各位給這次我們的選手打幾分?",
       "link": "/bbs/Baseball/M.1772950165.A.4FA",
       "author": "goddamnhuge",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "497",
-      "recommendCount": "748",
+      "recommendScore": "500",
+      "recommendCount": "753",
       "title": "[發錢] 陳傑憲根本就是為大賽而生的男人",
       "link": "/bbs/Baseball/M.1772950654.A.9F2",
       "author": "sz2006",
