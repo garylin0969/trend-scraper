@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-08T08:22:31.141Z",
+  "updated": "2026-03-08T08:44:41.588Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,7 +24,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "1318",
+      "recommendScore": "1311",
       "recommendCount": "1499",
       "title": "[發錢] 公關站長發P幣-一直贏韓國的世代",
       "link": "/bbs/Baseball/M.1772951547.A.944",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "803",
-      "recommendCount": "1324",
+      "recommendScore": "821",
+      "recommendCount": "1351",
       "title": "[問卦] 贏南韓是能幹嘛？",
       "link": "/bbs/Gossiping/M.1772950076.A.B5E",
       "author": "lmf770410",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "793",
-      "recommendCount": "1084",
+      "recommendScore": "810",
+      "recommendCount": "1106",
       "title": "[問題] 吳念庭 10局那個傳本壘封殺跑者很重要吧!??",
       "link": "/bbs/Baseball/M.1772950445.A.FC7",
       "author": "keane9112",
@@ -54,13 +54,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "892",
+      "recommendScore": "890",
       "recommendCount": "1495",
       "title": "[公告] 2026 WBC Pool C TPE 4:4 KOR 第10局",
       "link": "/bbs/Baseball/M.1772948882.A.963",
       "author": "Matthew10244",
       "board": "Baseball",
       "publishTime": "2026/03/08 05:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "837",
+      "recommendCount": "1098",
+      "title": "[討論] 一日酸迷、柵欄仔請進",
+      "link": "/bbs/Baseball/M.1772952475.A.7F9",
+      "author": "littlesheepy",
+      "board": "Baseball",
+      "publishTime": "2026/03/08 06:47",
       "imageUrl": ""
     },
     {
@@ -94,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "608",
+      "recommendCount": "841",
+      "title": "[發錢] 中華隊贏球就是爽",
+      "link": "/bbs/Baseball/M.1772950591.A.CBC",
+      "author": "poplc",
+      "board": "Baseball",
+      "publishTime": "2026/03/08 06:16",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "782",
       "recommendCount": "1497",
       "title": "[公告] 2026 WBC Pool C TPE 1:1 KOR 第7局",
@@ -104,18 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "599",
-      "recommendCount": "828",
-      "title": "[發錢] 中華隊贏球就是爽",
-      "link": "/bbs/Baseball/M.1772950591.A.CBC",
-      "author": "poplc",
-      "board": "Baseball",
-      "publishTime": "2026/03/08 06:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "526",
-      "recommendCount": "823",
+      "recommendScore": "529",
+      "recommendCount": "827",
       "title": "[分享] 今日張奕 勝投",
       "link": "/bbs/Baseball/M.1772950177.A.EF7",
       "author": "yasan1029",
@@ -124,7 +134,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "696",
+      "recommendScore": "695",
       "recommendCount": "1496",
       "title": "[公告] 2026 WBC Pool C TPE 4:4 KOR 第9局",
       "link": "/bbs/Baseball/M.1772947682.A.71E",
@@ -134,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "471",
-      "recommendCount": "785",
+      "recommendScore": "477",
+      "recommendCount": "793",
       "title": "[討論] 各位給這次我們的選手打幾分?",
       "link": "/bbs/Baseball/M.1772950165.A.4FA",
       "author": "goddamnhuge",
@@ -144,14 +154,34 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "504",
-      "recommendCount": "746",
+      "recommendScore": "508",
+      "recommendCount": "756",
       "title": "[爆卦] 中華隊贏高麗 發錢",
       "link": "/bbs/Gossiping/M.1772950219.A.9E1",
       "author": "Chang0212",
       "board": "Gossiping",
       "publishTime": "2026/03/08 06:10",
       "imageUrl": "https://cache.pttweb.cc/imgur/K0V0xQu/s/71b1bfaee36d87bfbe34a1fb18b68a89"
+    },
+    {
+      "recommendScore": "633",
+      "recommendCount": "748",
+      "title": "[公告] WBC塵戰首勝韓國喜灌區",
+      "link": "/bbs/Baseball/M.1772953202.A.948",
+      "author": "Matthew10244",
+      "board": "Baseball",
+      "publishTime": "2026/03/08 07:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "492",
+      "recommendCount": "738",
+      "title": "[發錢] 陳傑憲根本就是為大賽而生的男人",
+      "link": "/bbs/Baseball/M.1772950654.A.9F2",
+      "author": "sz2006",
+      "board": "Baseball",
+      "publishTime": "2026/03/08 06:17",
+      "imageUrl": ""
     },
     {
       "recommendScore": "826",
@@ -164,16 +194,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "485",
-      "recommendCount": "727",
-      "title": "[發錢] 陳傑憲根本就是為大賽而生的男人",
-      "link": "/bbs/Baseball/M.1772950654.A.9F2",
-      "author": "sz2006",
-      "board": "Baseball",
-      "publishTime": "2026/03/08 06:17",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "748",
       "recommendCount": "1498",
       "title": "[公告] 2026 WBC Pool C TPE 1:0 KOR 第5局",
@@ -181,26 +201,6 @@
       "author": "Matthew10244",
       "board": "Baseball",
       "publishTime": "2026/03/08 04:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "580",
-      "recommendCount": "784",
-      "title": "[公告] 戰爭新聞簡易民調",
-      "link": "/bbs/Stock/M.1772937946.A.EFE",
-      "author": "BlueBird5566",
-      "board": "Stock",
-      "publishTime": "2026/03/08 02:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "479",
-      "recommendCount": "669",
-      "title": "[分享] 古林睿煬賽後訪問",
-      "link": "/bbs/Baseball/M.1772951246.A.C55",
-      "author": "warriors30",
-      "board": "Baseball",
-      "publishTime": "2026/03/08 06:27",
       "imageUrl": ""
     }
   ]
