@@ -1,18 +1,8 @@
 {
-  "updated": "2026-03-08T02:32:25.463Z",
+  "updated": "2026-03-08T03:31:47.512Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "800",
-      "recommendCount": "1494",
-      "title": "[公告] 2026 WBC Pool C TPE 0:0 CZE",
-      "link": "/bbs/Baseball/M.1772852402.A.51A",
-      "author": "Matthew10244",
-      "board": "Baseball",
-      "publishTime": "2026/03/07 03:00",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "774",
       "recommendCount": "1363",
@@ -201,6 +191,16 @@
       "author": "acgfan",
       "board": "Baseball",
       "publishTime": "2026/03/07 11:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "256",
+      "recommendCount": "542",
+      "title": "[討論] 我們昨天是怎麼做到只有1支安打的？",
+      "link": "/bbs/Baseball/M.1772883273.A.9A4",
+      "author": "plcaaaden",
+      "board": "Baseball",
+      "publishTime": "2026/03/07 11:34",
       "imageUrl": ""
     }
   ]
