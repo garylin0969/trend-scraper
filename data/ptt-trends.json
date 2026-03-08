@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-08T05:46:36.594Z",
+  "updated": "2026-03-08T06:02:52.611Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "488",
+      "recommendCount": "661",
+      "title": "[公告] 戰爭新聞簡易民調",
+      "link": "/bbs/Stock/M.1772937946.A.EFE",
+      "author": "BlueBird5566",
+      "board": "Stock",
+      "publishTime": "2026/03/08 02:45",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "425",
       "recommendCount": "587",
       "title": "[炸裂] 金慧成",
@@ -111,16 +121,6 @@
       "author": "TaipeiAKuo",
       "board": "Baseball",
       "publishTime": "2026/03/07 13:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "452",
-      "recommendCount": "618",
-      "title": "[公告] 戰爭新聞簡易民調",
-      "link": "/bbs/Stock/M.1772937946.A.EFE",
-      "author": "BlueBird5566",
-      "board": "Stock",
-      "publishTime": "2026/03/08 02:45",
       "imageUrl": ""
     },
     {
@@ -195,7 +195,7 @@
     },
     {
       "recommendScore": "365",
-      "recommendCount": "491",
+      "recommendCount": "492",
       "title": "[新聞] 韓國輸日本仍獲好評　韓媒：和中華隊那場相比簡直天壤之別",
       "link": "/bbs/Baseball/M.1772932913.A.4A5",
       "author": "whj0530",
