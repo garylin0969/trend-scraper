@@ -1,10 +1,10 @@
 {
-  "updated": "2026-03-08T06:47:05.825Z",
+  "updated": "2026-03-08T07:05:11.516Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "908",
+      "recommendScore": "911",
       "recommendCount": "1496",
       "title": "[公告] 2026 WBC Pool C TPE 1:1 KOR 第8局",
       "link": "/bbs/Baseball/M.1772946482.A.4B9",
@@ -41,6 +41,16 @@
       "author": "Matthew10244",
       "board": "Baseball",
       "publishTime": "2026/03/08 04:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "702",
+      "recommendCount": "1496",
+      "title": "[公告] 2026 WBC Pool C TPE 4:4 KOR 第9局",
+      "link": "/bbs/Baseball/M.1772947682.A.71E",
+      "author": "Matthew10244",
+      "board": "Baseball",
+      "publishTime": "2026/03/08 05:28",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "whj0530",
       "board": "Baseball",
       "publishTime": "2026/03/08 01:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "335",
-      "recommendCount": "485",
-      "title": "[分享] 今日 大谷翔平",
-      "link": "/bbs/Baseball/M.1772889210.A.7EF",
-      "author": "alpacaHong",
-      "board": "Baseball",
-      "publishTime": "2026/03/07 13:13",
       "imageUrl": ""
     }
   ]
