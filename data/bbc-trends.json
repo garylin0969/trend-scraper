@@ -1,14 +1,22 @@
 {
-  "updated": "2026-03-09T07:06:59.794Z",
+  "updated": "2026-03-09T07:34:59.713Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-03-09T07:06:53.000Z",
+    "lastBuildDate": "2026-03-09T07:34:47.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "烏克蘭部署將武裝機器人投入戰場",
+      "description": "烏克蘭已啟動一項計劃，在戰場上部署武裝機器人對付俄軍。",
+      "link": "https://www.bbc.com/zhongwen/articles/cp81reg5pepo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-09T07:12:42.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cp81reg5pepo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b3c/live/5890fa10-18a6-11f1-801d-ed3cff6bf876.jpg"
+    },
     {
       "title": "中國的下一場增長賭局全力押註AI、機器人等「未來產業」",
       "description": "在房地產退潮後，中國政府把科技推向經濟政策核心，但專家提醒，創新不是砸錢就行。",
@@ -34,14 +42,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7ae4/live/262c84f0-1878-11f1-8f1d-d7bdb1ea156f.jpg"
     },
     {
-      "title": "中國已在拉美經營多年，特朗普能為美國重新爭取空間嗎？",
-      "description": "美國總統特朗普與意識形態相近的拉丁美洲領袖會面，試圖對抗中國在該地區的影響力。",
-      "link": "https://www.bbc.com/zhongwen/articles/c93jx9lzz80o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-08T03:19:56.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c93jx9lzz80o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a985/live/c69bef90-19b1-11f1-b9ec-35cf11968638.jpg"
-    },
-    {
       "title": "宵禁、罰掃廁所、懷孕遭解約：菲律賓女移工抗議台灣「囚犯式管理」",
       "description": "一群女性菲律賓移工在台灣組織工會，抗議人身自由被嚴格管控，公司規定女性移工必須住在宿舍並每晚打卡，甚至明文規範工人的「男女感情」和私生活，並實施懲罰措施。",
       "link": "https://www.bbc.com/zhongwen/articles/crm81e4erkmo/trad?at_medium=RSS&at_campaign=rss",
@@ -50,12 +50,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/de72/live/4abde4f0-196b-11f1-8943-0f02ddbbd48f.jpg"
     },
     {
-      "title": "美國到底在幹什麼？伊朗戰爭正在動搖中國的雄心",
-      "description": "中國對美以襲擊伊朗的批評未直接點名特朗普，這可能讓特朗普的訪華之旅更容易成行。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1mjkgzzjm2o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-06T06:42:51.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1mjkgzzjm2o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/62c4/live/d67046d0-1887-11f1-aff7-a32b6621d3cc.jpg"
+      "title": "中國已在拉美經營多年，特朗普能為美國重新爭取空間嗎？",
+      "description": "美國總統特朗普與意識形態相近的拉丁美洲領袖會面，試圖對抗中國在該地區的影響力。",
+      "link": "https://www.bbc.com/zhongwen/articles/c93jx9lzz80o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-08T03:19:56.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c93jx9lzz80o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a985/live/c69bef90-19b1-11f1-b9ec-35cf11968638.jpg"
     },
     {
       "title": "伊朗媒體稱專家會議已就哈梅內伊接任者達成一致  特朗普想決定新領袖還能如願嗎？",
