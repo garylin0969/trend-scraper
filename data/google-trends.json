@@ -1,24 +1,39 @@
 {
-  "updated": "2026-03-09T22:13:16.600Z",
+  "updated": "2026-03-09T22:46:19.175Z",
   "trends": [
+    {
+      "googleTrend": "美股",
+      "searchVolume": "2,000+",
+      "started": "20 分鐘前"
+    },
     {
       "googleTrend": "川普",
       "searchVolume": "500+",
+      "started": "3 小時前"
+    },
+    {
+      "googleTrend": "美伊戰爭最新消息",
+      "searchVolume": "200+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "美股新聞",
+      "searchVolume": "200+",
       "started": "2 小時前"
     },
     {
       "googleTrend": "1 小時前",
-      "searchVolume": "100+",
+      "searchVolume": "200+",
       "started": "1 小時前"
     },
     {
-      "googleTrend": "美伊戰爭最新消息",
-      "searchVolume": "100+",
-      "started": "50 分鐘前"
+      "googleTrend": "美伊戰爭",
+      "searchVolume": "200+",
+      "started": "2 小時前"
     },
     {
-      "googleTrend": "美股新聞",
-      "searchVolume": "100+",
+      "googleTrend": "美伊",
+      "searchVolume": "200+",
       "started": "2 小時前"
     },
     {
@@ -27,19 +42,9 @@
       "started": "2 小時前"
     },
     {
-      "googleTrend": "台指期夜",
+      "googleTrend": "特斯拉股價",
       "searchVolume": "100+",
-      "started": "40 分鐘前"
-    },
-    {
-      "googleTrend": "美伊戰爭",
-      "searchVolume": "200+",
-      "started": "1 小時前"
-    },
-    {
-      "googleTrend": "遠傳",
-      "searchVolume": "100+",
-      "started": "3 小時前"
+      "started": "50 分鐘前"
     }
   ]
 }
