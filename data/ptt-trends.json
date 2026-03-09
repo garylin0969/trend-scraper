@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-09T09:26:28.493Z",
+  "updated": "2026-03-09T09:47:52.706Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "563",
-      "recommendCount": "762",
+      "recommendScore": "568",
+      "recommendCount": "768",
       "title": "[情報] 外資賣超歷史前十名(今天第一名)",
       "link": "/bbs/Stock/M.1773039801.A.360",
       "author": "paidzou",
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "241",
-      "recommendCount": "341",
-      "title": "[新聞] 費仔會接電話！承諾下屆WBC還要打中華隊讚台灣球迷的愛太特別",
-      "link": "/bbs/Baseball/M.1772962627.A.02A",
-      "author": "keane9112",
-      "board": "Baseball",
-      "publishTime": "2026/03/08 09:37",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-175",
       "recommendCount": "390",
       "title": "[新聞] 學者：攻擊卓榮泰公器私用非常惡意反智",
@@ -201,6 +191,16 @@
       "author": "deathdecay",
       "board": "Gossiping",
       "publishTime": "2026/03/08 14:59",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "229",
+      "recommendCount": "311",
+      "title": "[討論] 徐若熙的含金量持續上升",
+      "link": "/bbs/Baseball/M.1772974211.A.EDF",
+      "author": "Trewf",
+      "board": "Baseball",
+      "publishTime": "2026/03/08 12:50",
       "imageUrl": ""
     }
   ]
