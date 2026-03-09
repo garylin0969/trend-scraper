@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-09T08:34:31.192Z",
+  "updated": "2026-03-09T08:58:48.878Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -11,6 +11,16 @@
       "author": "heaventrain",
       "board": "Baseball",
       "publishTime": "2026/03/08 12:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "529",
+      "recommendCount": "710",
+      "title": "[情報] 外資賣超歷史前十名(今天第一名)",
+      "link": "/bbs/Stock/M.1773039801.A.360",
+      "author": "paidzou",
+      "board": "Stock",
+      "publishTime": "2026/03/09 07:03",
       "imageUrl": ""
     },
     {
@@ -31,26 +41,6 @@
       "author": "kenny1300175",
       "board": "Gossiping",
       "publishTime": "2026/03/09 04:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "481",
-      "recommendCount": "647",
-      "title": "[情報] 外資賣超歷史前十名(今天第一名)",
-      "link": "/bbs/Stock/M.1773039801.A.360",
-      "author": "paidzou",
-      "board": "Stock",
-      "publishTime": "2026/03/09 07:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "488",
-      "recommendCount": "523",
-      "title": "[發錢] 贏韓國終於可以將2013WBC大翻頁囉",
-      "link": "/bbs/Baseball/M.1772959274.A.D82",
-      "author": "rb731024",
-      "board": "Baseball",
-      "publishTime": "2026/03/08 08:41",
       "imageUrl": ""
     },
     {
@@ -94,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "398",
-      "recommendCount": "629",
+      "recommendScore": "402",
+      "recommendCount": "634",
       "title": "[花邊] Jordan談他對GOAT爭論的想法",
       "link": "/bbs/NBA/M.1773014370.A.0E0",
       "author": "jeff1013",
@@ -114,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "212",
+      "recommendCount": "405",
+      "title": "[新聞] 台股狂殺2070點　國安基金喊話「AI護體基本面仍佳」",
+      "link": "/bbs/Stock/M.1773020766.A.76D",
+      "author": "flgg30211",
+      "board": "Stock",
+      "publishTime": "2026/03/09 01:46",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "253",
       "recommendCount": "507",
       "title": "[新聞] 卓榮泰飛日看WBC 民眾黨團：軍機場何時開放自費私人包機？",
@@ -121,16 +121,6 @@
       "author": "mongi",
       "board": "Gossiping",
       "publishTime": "2026/03/08 16:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "212",
-      "recommendCount": "403",
-      "title": "[新聞] 台股狂殺2070點　國安基金喊話「AI護體基本面仍佳」",
-      "link": "/bbs/Stock/M.1773020766.A.76D",
-      "author": "flgg30211",
-      "board": "Stock",
-      "publishTime": "2026/03/09 01:46",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "Trewf",
       "board": "Baseball",
       "publishTime": "2026/03/08 12:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-173",
+      "recommendCount": "388",
+      "title": "[新聞] 學者：攻擊卓榮泰公器私用非常惡意反智",
+      "link": "/bbs/Gossiping/M.1772981954.A.A25",
+      "author": "deathdecay",
+      "board": "Gossiping",
+      "publishTime": "2026/03/08 14:59",
       "imageUrl": ""
     }
   ]
