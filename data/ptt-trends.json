@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-09T00:45:11.691Z",
+  "updated": "2026-03-09T01:19:05.402Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,23 +24,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "1307",
+      "recommendScore": "900",
+      "recommendCount": "1468",
+      "title": "[問卦] 贏南韓是能幹嘛？",
+      "link": "/bbs/Gossiping/M.1772950076.A.B5E",
+      "author": "lmf770410",
+      "board": "Gossiping",
+      "publishTime": "2026/03/08 06:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "1306",
       "recommendCount": "1499",
       "title": "[發錢] 公關站長發P幣-一直贏韓國的世代",
       "link": "/bbs/Baseball/M.1772951547.A.944",
       "author": "longbow2",
       "board": "Baseball",
       "publishTime": "2026/03/08 06:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "897",
-      "recommendCount": "1465",
-      "title": "[問卦] 贏南韓是能幹嘛？",
-      "link": "/bbs/Gossiping/M.1772950076.A.B5E",
-      "author": "lmf770410",
-      "board": "Gossiping",
-      "publishTime": "2026/03/08 06:07",
       "imageUrl": ""
     },
     {
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "1041",
-      "recommendCount": "1243",
+      "recommendScore": "1043",
+      "recommendCount": "1246",
       "title": "[公告] WBC塵戰首勝韓國喜灌區",
       "link": "/bbs/Baseball/M.1772953202.A.948",
       "author": "Matthew10244",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "820",
-      "recommendCount": "1124",
+      "recommendCount": "1125",
       "title": "[問題] 吳念庭 10局那個傳本壘封殺跑者很重要吧!??",
       "link": "/bbs/Baseball/M.1772950445.A.FC7",
       "author": "keane9112",
@@ -125,7 +125,7 @@
     },
     {
       "recommendScore": "547",
-      "recommendCount": "844",
+      "recommendCount": "845",
       "title": "[爆卦] 中華隊贏高麗 發錢",
       "link": "/bbs/Gossiping/M.1772950219.A.9E1",
       "author": "Chang0212",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "688",
-      "recommendCount": "918",
+      "recommendScore": "689",
+      "recommendCount": "919",
       "title": "[公告] 戰爭新聞簡易民調",
       "link": "/bbs/Stock/M.1772937946.A.EFE",
       "author": "BlueBird5566",
