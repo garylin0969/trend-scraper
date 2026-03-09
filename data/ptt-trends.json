@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-09T04:48:13.512Z",
+  "updated": "2026-03-09T05:19:43.635Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "1085",
-      "recommendCount": "1291",
+      "recommendScore": "1089",
+      "recommendCount": "1295",
       "title": "[公告] WBC塵戰首勝韓國喜灌區",
       "link": "/bbs/Baseball/M.1772953202.A.948",
       "author": "Matthew10244",
@@ -74,23 +74,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "895",
+      "recommendScore": "897",
       "recommendCount": "1495",
       "title": "[公告] 2026 WBC Pool C TPE 4:4 KOR 第10局",
       "link": "/bbs/Baseball/M.1772948882.A.963",
       "author": "Matthew10244",
       "board": "Baseball",
       "publishTime": "2026/03/08 05:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "911",
-      "recommendCount": "1496",
-      "title": "[公告] 2026 WBC Pool C TPE 1:1 KOR 第8局",
-      "link": "/bbs/Baseball/M.1772946482.A.4B9",
-      "author": "Matthew10244",
-      "board": "Baseball",
-      "publishTime": "2026/03/08 05:08",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "Baseball",
       "publishTime": "2026/03/08 12:43",
       "imageUrl": "https://cache.pttweb.cc/imgur/34RvVEM/s/0625dca21383c43892f11bb6d410fc28"
+    },
+    {
+      "recommendScore": "363",
+      "recommendCount": "629",
+      "title": "[討論] 這是有史以來最精彩台韓戰吧",
+      "link": "/bbs/Baseball/M.1772950352.A.A6D",
+      "author": "chengricky",
+      "board": "Baseball",
+      "publishTime": "2026/03/08 06:12",
+      "imageUrl": ""
     }
   ]
 }
