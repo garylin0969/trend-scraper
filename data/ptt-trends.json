@@ -1,38 +1,8 @@
 {
-  "updated": "2026-03-09T06:37:28.340Z",
+  "updated": "2026-03-09T07:03:26.640Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "1155",
-      "recommendCount": "1489",
-      "title": "[討論] 一日酸迷、柵欄仔請進",
-      "link": "/bbs/Baseball/M.1772952475.A.7F9",
-      "author": "littlesheepy",
-      "board": "Baseball",
-      "publishTime": "2026/03/08 06:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "1089",
-      "recommendCount": "1299",
-      "title": "[公告] WBC塵戰首勝韓國喜灌區",
-      "link": "/bbs/Baseball/M.1772953202.A.948",
-      "author": "Matthew10244",
-      "board": "Baseball",
-      "publishTime": "2026/03/08 07:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "792",
-      "recommendCount": "819",
-      "title": "Re: [推薦] 棒球 丹狗牌 經典賽中韓大戰",
-      "link": "/bbs/SportLottery/M.1772952228.A.36D",
-      "author": "lotterywin",
-      "board": "SportLottery",
-      "publishTime": "2026/03/08 06:43",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "626",
       "recommendCount": "830",
@@ -84,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "385",
+      "recommendCount": "832",
+      "title": "[新聞] 日官房長官：卓榮泰訪日是私人行程 未與日政府關係人士接觸",
+      "link": "/bbs/Gossiping/M.1773031890.A.C7C",
+      "author": "kenny1300175",
+      "board": "Gossiping",
+      "publishTime": "2026/03/09 04:51",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "457",
       "recommendCount": "511",
       "title": "[發錢]感謝中華隊跟各位球迷",
@@ -114,16 +94,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "349",
-      "recommendCount": "772",
-      "title": "[新聞] 日官房長官：卓榮泰訪日是私人行程 未與日政府關係人士接觸",
-      "link": "/bbs/Gossiping/M.1773031890.A.C7C",
-      "author": "kenny1300175",
-      "board": "Gossiping",
-      "publishTime": "2026/03/09 04:51",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "397",
       "recommendCount": "462",
       "title": "[分享] 台韓戰現場真的超爽",
@@ -134,18 +104,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/V9QwwQg/s/c7d4168193ee270745d727071a5a7d7a"
     },
     {
-      "recommendScore": "298",
-      "recommendCount": "467",
-      "title": "[問題] 大家把費仔當自己人了嗎？",
-      "link": "/bbs/Baseball/M.1772952369.A.364",
-      "author": "snpb",
-      "board": "Baseball",
-      "publishTime": "2026/03/08 06:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "303",
-      "recommendCount": "473",
+      "recommendScore": "307",
+      "recommendCount": "490",
       "title": "[討論] 為什麼換張奕？",
       "link": "/bbs/Baseball/M.1773029824.A.10B",
       "author": "s910",
@@ -154,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "382",
-      "recommendCount": "604",
+      "recommendScore": "386",
+      "recommendCount": "612",
       "title": "[花邊] Jordan談他對GOAT爭論的想法",
       "link": "/bbs/NBA/M.1773014370.A.0E0",
       "author": "jeff1013",
@@ -184,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "77",
+      "recommendCount": "510",
+      "title": "[問卦] 林律師：日本人不會問天皇看球賽公費私費",
+      "link": "/bbs/Gossiping/M.1773029144.A.B6D",
+      "author": "a0802459",
+      "board": "Gossiping",
+      "publishTime": "2026/03/09 04:05",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "204",
       "recommendCount": "504",
       "title": "[問卦] 八卦看到台灣被逆轉 反而更開心(發錢)",
@@ -201,6 +171,36 @@
       "author": "chainstay120",
       "board": "Baseball",
       "publishTime": "2026/03/08 07:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "211",
+      "recommendCount": "402",
+      "title": "[新聞] 台股狂殺2070點　國安基金喊話「AI護體基本面仍佳」",
+      "link": "/bbs/Stock/M.1773020766.A.76D",
+      "author": "flgg30211",
+      "board": "Stock",
+      "publishTime": "2026/03/09 01:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "253",
+      "recommendCount": "506",
+      "title": "[新聞] 卓榮泰飛日看WBC 民眾黨團：軍機場何時開放自費私人包機？",
+      "link": "/bbs/Gossiping/M.1772985743.A.A42",
+      "author": "mongi",
+      "board": "Gossiping",
+      "publishTime": "2026/03/08 16:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "146",
+      "recommendCount": "402",
+      "title": "[討論] 金倒永的甩棒",
+      "link": "/bbs/Baseball/M.1772958207.A.6A5",
+      "author": "Herseth",
+      "board": "Baseball",
+      "publishTime": "2026/03/08 08:23",
       "imageUrl": ""
     }
   ]
