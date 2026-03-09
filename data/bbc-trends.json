@@ -1,10 +1,10 @@
 {
-  "updated": "2026-03-09T07:58:07.148Z",
+  "updated": "2026-03-09T08:27:51.686Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-03-09T07:58:00.000Z",
+    "lastBuildDate": "2026-03-09T08:27:42.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -42,11 +42,19 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7ae4/live/262c84f0-1878-11f1-8f1d-d7bdb1ea156f.jpg"
     },
     {
+      "title": "最新研究指社交媒體在傳統性別觀念宣傳中扮演「巨大角色」",
+      "description": "女性權益團體憂心，這股態度轉變恐將帶來深遠後果。",
+      "link": "https://www.bbc.com/zhongwen/articles/clyg04y55kxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-09T08:03:23.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/clyg04y55kxo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a3d0/live/2120cf80-18bd-11f1-a7c2-6f222fa5b6f1.jpg"
+    },
+    {
       "title": "宵禁、罰掃廁所、懷孕遭解約：菲律賓女移工抗議台灣「囚犯式管理」",
       "description": "一群女性菲律賓移工在台灣組織工會，抗議人身自由被嚴格管控，公司規定女性移工必須住在宿舍並每晚打卡，甚至明文規範工人的「男女感情」和私生活，並實施懲罰措施。",
       "link": "https://www.bbc.com/zhongwen/articles/crm81e4erkmo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-03-07T06:22:41.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crm81e4erkmo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/crm81e4erkmo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/de72/live/4abde4f0-196b-11f1-8943-0f02ddbbd48f.jpg"
     },
     {
@@ -80,14 +88,6 @@
       "pubDate": "2026-03-06T07:48:26.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c93j7y3l857o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/651c/live/72da95e0-18ae-11f1-8a24-35cedd1a21de.jpg"
-    },
-    {
-      "title": "我們擁有更多隱私控制權，卻比以往任何時候都更缺乏隱私",
-      "description": "英國創新智庫Nesta分析師湯瑪斯·邦廷（Thomas Bunting）指出：「2026年，網路隱私將成為奢侈品而非基本權利。」",
-      "link": "https://www.bbc.com/zhongwen/articles/ckg88wddg28o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-08T02:08:12.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckg88wddg28o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a32e/live/d4653000-1844-11f1-9120-a910fc22c6ac.jpg"
     },
     {
       "title": "五角大樓將AI公司Anthropic列為供應鏈風險，或遭起訴",
@@ -282,6 +282,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c79/live/898d6410-0275-11f1-9043-29b5389a6690.jpg"
     },
     {
+      "title": "我們擁有更多隱私控制權，卻比以往任何時候都更缺乏隱私",
+      "description": "英國創新智庫Nesta分析師湯瑪斯·邦廷（Thomas Bunting）指出：「2026年，網路隱私將成為奢侈品而非基本權利。」",
+      "link": "https://www.bbc.com/zhongwen/articles/ckg88wddg28o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-08T02:08:12.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckg88wddg28o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a32e/live/d4653000-1844-11f1-9120-a910fc22c6ac.jpg"
+    },
+    {
       "title": "美國和伊朗的彈藥庫如何影響這場衝突？",
       "description": "武器庫存本身並不能決定這場衝突的結局，但它無疑是一個重要因素。",
       "link": "https://www.bbc.com/zhongwen/articles/clyggp7jgjvo/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2026-03-04T06:34:46.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c70nn4j2369o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/26c2/live/ff54faf0-1783-11f1-9120-a910fc22c6ac.jpg"
-    },
-    {
-      "title": "為何美國以色列此刻出手？伊朗進入「生存模式」，結局仍充滿變數",
-      "description": "專家指出，這場針對伊朗的新一輪軍事行動意在推動政權更迭，可能引發更廣泛的地區衝突。",
-      "link": "https://www.bbc.com/zhongwen/articles/cy57glv45lgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-28T19:11:35.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cy57glv45lgo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/517f/live/e5a84490-14cc-11f1-9120-a910fc22c6ac.jpg"
     }
   ]
 }
