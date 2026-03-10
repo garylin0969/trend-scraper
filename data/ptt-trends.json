@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-10T01:06:26.437Z",
+  "updated": "2026-03-10T01:48:03.859Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "808",
-      "recommendCount": "841",
+      "recommendScore": "810",
+      "recommendCount": "843",
       "title": "Re: [推薦] 棒球[小律師]經典賽-南韓 @ 澳洲",
       "link": "/bbs/SportLottery/M.1773062080.A.71C",
       "author": "lotterywin",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "658",
-      "recommendCount": "883",
+      "recommendScore": "660",
+      "recommendCount": "885",
       "title": "[情報] 外資賣超歷史前十名(今天第一名)",
       "link": "/bbs/Stock/M.1773039801.A.360",
       "author": "paidzou",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "440",
-      "recommendCount": "775",
+      "recommendScore": "441",
+      "recommendCount": "776",
       "title": "[討論] 所以是輸在 我們被澳洲完封吧",
       "link": "/bbs/Baseball/M.1773061917.A.CC5",
       "author": "happy1b1c",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "128",
-      "recommendCount": "732",
+      "recommendScore": "129",
+      "recommendCount": "733",
       "title": "[問卦] 林律師：日本人不會問天皇看球賽公費私費",
       "link": "/bbs/Gossiping/M.1773029144.A.B6D",
       "author": "a0802459",
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "183",
+      "recommendCount": "770",
+      "title": "[新聞] 赴日看球賽…政院：卓揆私人行程皆為自費 維安隨行機票全包",
+      "link": "/bbs/Gossiping/M.1773046609.A.AA0",
+      "author": "Aqqqa",
+      "board": "Gossiping",
+      "publishTime": "2026/03/09 08:56",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "426",
       "recommendCount": "577",
       "title": "[新聞] 對台灣開轟甩棒 金倒永解釋：為了提振士氣",
@@ -81,16 +91,6 @@
       "author": "kensukeshu",
       "board": "Baseball",
       "publishTime": "2026/03/09 08:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "183",
-      "recommendCount": "769",
-      "title": "[新聞] 赴日看球賽…政院：卓揆私人行程皆為自費 維安隨行機票全包",
-      "link": "/bbs/Gossiping/M.1773046609.A.AA0",
-      "author": "Aqqqa",
-      "board": "Gossiping",
-      "publishTime": "2026/03/09 08:56",
       "imageUrl": ""
     },
     {
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "292",
-      "recommendCount": "492",
+      "recommendScore": "300",
+      "recommendCount": "503",
       "title": "[新聞] 苗博雅怒嗆仿冒帳號死全家 徐巧芯打臉:不",
       "link": "/bbs/Gossiping/M.1773068695.A.FB8",
       "author": "tsengcc",
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "214",
-      "recommendCount": "407",
-      "title": "[新聞] 台股狂殺2070點　國安基金喊話「AI護體基本面仍佳」",
-      "link": "/bbs/Stock/M.1773020766.A.76D",
-      "author": "flgg30211",
-      "board": "Stock",
-      "publishTime": "2026/03/09 01:46",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "359",
       "recommendCount": "792",
       "title": "[新聞] 韓國投手調度翻車？孫周永只休1天扛生死戰　韓媒怒轟：荒腔走板",
@@ -201,6 +191,16 @@
       "author": "Skyblueway",
       "board": "Baseball",
       "publishTime": "2026/03/09 03:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "103",
+      "recommendCount": "507",
+      "title": "[問卦] 故意三振",
+      "link": "/bbs/Gossiping/M.1773061241.A.F73",
+      "author": "AccVccA",
+      "board": "Gossiping",
+      "publishTime": "2026/03/09 13:00",
       "imageUrl": ""
     }
   ]
