@@ -1,14 +1,30 @@
 {
-  "updated": "2026-03-10T03:56:07.430Z",
+  "updated": "2026-03-10T04:49:35.840Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-03-10T03:55:55.000Z",
+    "lastBuildDate": "2026-03-10T04:49:26.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "特朗普稱美以伊戰爭「很快結束」，油價稍回落",
+      "description": "美國總統特朗普多次談及對伊朗的戰事，形容「很快結束」，又指仍有尚未攻擊的伊朗目標，但「一天之內就能全部摧毀」。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn9e484xdgwo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-10T04:13:27.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn9e484xdgwo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c98d/live/49883ff0-1c30-11f1-9120-a910fc22c6ac.jpg"
+    },
+    {
+      "title": "亞洲盃上拒唱國歌後，五名伊朗女足球員獲澳大利亞人道簽證",
+      "description": "伊朗女足隊員在亞洲盃賽前國歌演奏期間未行敬禮，並被國內一名評論員指責是「戰時叛徒」後，外界越發關注這支球隊的安全。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5yqz2z00v8o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-10T04:29:02.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5yqz2z00v8o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/87eb/live/752fb980-1c1c-11f1-a39b-e900fed13cf7.jpg"
+    },
     {
       "title": "烏克蘭部署將武裝機器人投入戰場",
       "description": "烏克蘭已啟動一項計劃，在戰場上部署武裝機器人對付俄軍。",
@@ -24,22 +40,6 @@
       "pubDate": "2026-03-09T00:12:54.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cewz7yxrqdgo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/be32/live/dbe05e50-193d-11f1-801d-ed3cff6bf876.jpg"
-    },
-    {
-      "title": "中國兩會：外長王毅評伊朗局勢避點名美國，稱今年是中美關係「大年」",
-      "description": "以往兩會最受關注的總理記者會已在2024年宣告終止，這使得外長記者會在兩會的對外傳播中分量愈重。3月8日上午，中國外長王毅出現在梅地亞中心，面對中外媒體，在90分鐘內回答了21個問題。",
-      "link": "https://www.bbc.com/zhongwen/articles/c0rj29rvnxeo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-08T09:36:54.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c0rj29rvnxeo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/15c6/live/c5f61520-1ace-11f1-a045-1937e4bb08ee.jpg"
-    },
-    {
-      "title": "守護孤獨老人的一群日本酸奶派送員",
-      "description": "隨著孤獨感在全球老齡化速度最快的國家之一持續加深，一張由女性組成、負責送遞益生菌乳酸飲品的網絡，正成為許多人日常生活中不可或缺的陪伴、聯繫與關懷來源。",
-      "link": "https://www.bbc.com/zhongwen/articles/c363yp87kzlo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-10T00:20:51.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c363yp87kzlo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e39/live/344ef8a0-1b8f-11f1-9120-a910fc22c6ac.jpg"
     },
     {
       "title": "穆傑塔巴‧哈梅內伊：伊朗新任最高領袖是誰？",
@@ -90,20 +90,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d8bf/live/81ac3c50-1907-11f1-b786-9dcb5017cde0.jpg"
     },
     {
+      "title": "守護孤獨老人的一群日本酸奶派送員",
+      "description": "隨著孤獨感在全球老齡化速度最快的國家之一持續加深，一張由女性組成、負責送遞益生菌乳酸飲品的網絡，正成為許多人日常生活中不可或缺的陪伴、聯繫與關懷來源。",
+      "link": "https://www.bbc.com/zhongwen/articles/c363yp87kzlo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-10T00:20:51.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c363yp87kzlo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e39/live/344ef8a0-1b8f-11f1-9120-a910fc22c6ac.jpg"
+    },
+    {
       "title": "伊朗迎戰之策分析：以耐力與嚇阻為核心的高風險戰略",
       "description": "伊朗深知自身侷限：美國本土遙不可及，但遍布區域的美軍基地——尤其是鄰近阿拉伯國家的基地——卻是在可打擊範圍內。若衝突持續，美國和以色列將不得不以高成本來攔截低成本的攻擊，使其戰爭負擔愈加沉重。",
       "link": "https://www.bbc.com/zhongwen/articles/c93j7y3l857o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-03-06T07:48:26.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c93j7y3l857o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/651c/live/72da95e0-18ae-11f1-8a24-35cedd1a21de.jpg"
-    },
-    {
-      "title": "五角大樓將AI公司Anthropic列為供應鏈風險，或遭起訴",
-      "description": "將這家人工智能公司列為供應鏈風險，是美國首次針對本土企業作出此類標註。",
-      "link": "https://www.bbc.com/zhongwen/articles/ce94mxdlxe4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-06T09:12:13.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce94mxdlxe4o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c175/live/f4a56420-18d0-11f1-801d-ed3cff6bf876.jpg"
     },
     {
       "title": "衛星影像顯示：美以空襲重創伊朗海軍、導彈設施與核基地",
@@ -194,6 +194,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/522e/live/9c1376a0-16bc-11f1-9120-a910fc22c6ac.jpg"
     },
     {
+      "title": "中國兩會：外長王毅評伊朗局勢避點名美國，稱今年是中美關係「大年」",
+      "description": "以往兩會最受關注的總理記者會已在2024年宣告終止，這使得外長記者會在兩會的對外傳播中分量愈重。3月8日上午，中國外長王毅出現在梅地亞中心，面對中外媒體，在90分鐘內回答了21個問題。",
+      "link": "https://www.bbc.com/zhongwen/articles/c0rj29rvnxeo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-08T09:36:54.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c0rj29rvnxeo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/15c6/live/c5f61520-1ace-11f1-a045-1937e4bb08ee.jpg"
+    },
+    {
       "title": "中國兩會政府工作報告看點：GDP目標下調傳遞諸多信號、對台措辭升級與缺席高官",
       "description": "政府工作報告中最引人矚目的是將GDP增長目標設定為區間值，具體增長目標數字為1991年以來最低，並罕見地將財政赤字率維持在歷史高位。",
       "link": "https://www.bbc.com/zhongwen/articles/ce8wwj819e5o/trad?at_medium=RSS&at_campaign=rss",
@@ -208,14 +216,6 @@
       "pubDate": "2026-03-04T00:21:15.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cpw0nnqrjxgo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e57c/live/663581a0-16cf-11f1-be43-152be4fb7054.jpg"
-    },
-    {
-      "title": "新世代的競技場：電競能在亞洲超越傳統體育嗎？",
-      "description": "電競在亞洲的迅速興起，背後可能是龐大的產業和技術驅動，也可能承載了21世紀年輕一代對於「競技」的想象。",
-      "link": "https://www.bbc.com/zhongwen/articles/cgk22828d1yo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-05T07:27:58.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cgk22828d1yo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ff51/live/62cdb380-1859-11f1-9120-a910fc22c6ac.jpg"
     },
     {
       "title": "國安審查下，飛到台灣看電影的香港人",
@@ -250,12 +250,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/793a/live/ca33c980-16d6-11f1-863e-5b1b32a487bf.jpg"
     },
     {
-      "title": "走進海湖莊園作戰室：特朗普如何幕後監控美以對伊朗空襲",
-      "description": "白宮最新發布的四張照片顯示，在美國與以色列對伊朗發動空襲期間，美國總統特朗普與其內閣成員的情況。BBC新聞透過分析這些影像，拆解當時有哪些人參與其中，以及這場行動在幕後如何展開。",
-      "link": "https://www.bbc.com/zhongwen/resources/idt-24f9546d-9bc0-4c0c-a49f-776799a9d5c4?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-04T00:00:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/resources/idt-24f9546d-9bc0-4c0c-a49f-776799a9d5c4#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8310/live/5326cfb0-1724-11f1-b048-c9424b2cf5fd.jpg"
+      "title": "新世代的競技場：電競能在亞洲超越傳統體育嗎？",
+      "description": "電競在亞洲的迅速興起，背後可能是龐大的產業和技術驅動，也可能承載了21世紀年輕一代對於「競技」的想象。",
+      "link": "https://www.bbc.com/zhongwen/articles/cgk22828d1yo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-05T07:27:58.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cgk22828d1yo/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ff51/live/62cdb380-1859-11f1-9120-a910fc22c6ac.jpg"
     },
     {
       "title": "「像鬼一樣工作」：台灣外籍移工為何陷入「強迫勞動」處境",
