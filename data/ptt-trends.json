@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-10T07:29:21.948Z",
+  "updated": "2026-03-10T07:49:05.063Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "770",
-      "recommendCount": "1093",
+      "recommendScore": "779",
+      "recommendCount": "1103",
       "title": "[新聞] 伊朗：與以、美斷交國家 才可自由通行荷姆茲海峽",
       "link": "/bbs/Stock/M.1773109159.A.52A",
       "author": "icemiku",
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "819",
-      "recommendCount": "852",
+      "recommendCount": "853",
       "title": "Re: [推薦] 棒球[小律師]經典賽-南韓 @ 澳洲",
       "link": "/bbs/SportLottery/M.1773062080.A.71C",
       "author": "lotterywin",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "411",
-      "recommendCount": "1174",
+      "recommendScore": "413",
+      "recommendCount": "1180",
       "title": "[新聞] 卓榮泰私人包機可用松指部？ 顧立雄：可以、那是軍民合用",
       "link": "/bbs/Gossiping/M.1773110670.A.37F",
       "author": "ambitious",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "520",
-      "recommendCount": "1022",
+      "recommendScore": "523",
+      "recommendCount": "1030",
       "title": "[爆卦] 二月份新生兒6523人",
       "link": "/bbs/Gossiping/M.1773107252.A.D01",
       "author": "anachronism",
@@ -64,14 +64,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "419",
-      "recommendCount": "707",
+      "recommendScore": "423",
+      "recommendCount": "717",
       "title": "[討論] 欠你台灣的喔 不幫你拿分在那邊狗叫",
       "link": "/bbs/Baseball/M.1773113870.A.45D",
       "author": "hunterneon",
       "board": "Baseball",
       "publishTime": "2026/03/10 03:37",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "237",
+      "recommendCount": "894",
+      "title": "[新聞] 不滿被說貪瀆百萬！卓榮泰嗆王鴻薇：私人包機為什麼要跟你報告？",
+      "link": "/bbs/Gossiping/M.1773107668.A.791",
+      "author": "qweerrt123",
+      "board": "Gossiping",
+      "publishTime": "2026/03/10 01:54",
+      "imageUrl": "https://cache.pttweb.cc/imgur/oMVo7aW/s/777d0113a14f650fa49302d4991f06c4"
     },
     {
       "recommendScore": "225",
@@ -82,16 +92,6 @@
       "board": "Baseball",
       "publishTime": "2026/03/09 13:10",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "237",
-      "recommendCount": "891",
-      "title": "[新聞] 不滿被說貪瀆百萬！卓榮泰嗆王鴻薇：私人包機為什麼要跟你報告？",
-      "link": "/bbs/Gossiping/M.1773107668.A.791",
-      "author": "qweerrt123",
-      "board": "Gossiping",
-      "publishTime": "2026/03/10 01:54",
-      "imageUrl": "https://cache.pttweb.cc/imgur/oMVo7aW/s/777d0113a14f650fa49302d4991f06c4"
     },
     {
       "recommendScore": "186",
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "396",
+      "recommendCount": "723",
+      "title": "[情報] 台積公司2026年2月營收報告",
+      "link": "/bbs/Stock/M.1773120692.A.3A3",
+      "author": "MOMO0478",
+      "board": "Stock",
+      "publishTime": "2026/03/10 05:31",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "281",
       "recommendCount": "464",
       "title": "[情報] 台灣隊 確定2026經典賽小組賽止步",
@@ -154,18 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "378",
-      "recommendCount": "698",
-      "title": "[情報] 台積公司2026年2月營收報告",
-      "link": "/bbs/Stock/M.1773120692.A.3A3",
-      "author": "MOMO0478",
-      "board": "Stock",
-      "publishTime": "2026/03/10 05:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "254",
-      "recommendCount": "472",
+      "recommendScore": "255",
+      "recommendCount": "473",
       "title": "[新聞] 文保景IG遭洗版　韓媒：台灣網友水準比未能晉級的中華隊還差",
       "link": "/bbs/Baseball/M.1773101563.A.0E5",
       "author": "whj0530",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "272",
-      "recommendCount": "502",
+      "recommendScore": "277",
+      "recommendCount": "512",
       "title": "[新聞] 國民黨4連霸議員遭爆「包養網紅許玲玲」豪月付20萬生活費",
       "link": "/bbs/Gossiping/M.1773113309.A.314",
       "author": "bluehttp",
