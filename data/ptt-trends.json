@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-10T08:22:56.264Z",
+  "updated": "2026-03-10T08:46:57.320Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "787",
-      "recommendCount": "1115",
+      "recommendScore": "797",
+      "recommendCount": "1126",
       "title": "[新聞] 伊朗：與以、美斷交國家 才可自由通行荷姆茲海峽",
       "link": "/bbs/Stock/M.1773109159.A.52A",
       "author": "icemiku",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "421",
-      "recommendCount": "1202",
+      "recommendScore": "427",
+      "recommendCount": "1217",
       "title": "[新聞] 卓榮泰私人包機可用松指部？ 顧立雄：可以、那是軍民合用",
       "link": "/bbs/Gossiping/M.1773110670.A.37F",
       "author": "ambitious",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "531",
-      "recommendCount": "1043",
+      "recommendScore": "540",
+      "recommendCount": "1058",
       "title": "[爆卦] 二月份新生兒6523人",
       "link": "/bbs/Gossiping/M.1773107252.A.D01",
       "author": "anachronism",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "432",
-      "recommendCount": "733",
+      "recommendScore": "443",
+      "recommendCount": "747",
       "title": "[討論] 欠你台灣的喔 不幫你拿分在那邊狗叫",
       "link": "/bbs/Baseball/M.1773113870.A.45D",
       "author": "hunterneon",
@@ -74,8 +74,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "239",
-      "recommendCount": "901",
+      "recommendScore": "485",
+      "recommendCount": "768",
+      "title": "[新聞] 韓媒：台灣覺得不公平對澳洲就該贏球",
+      "link": "/bbs/Baseball/M.1773124716.A.897",
+      "author": "fhjqwefs",
+      "board": "Baseball",
+      "publishTime": "2026/03/10 06:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "242",
+      "recommendCount": "905",
       "title": "[新聞] 不滿被說貪瀆百萬！卓榮泰嗆王鴻薇：私人包機為什麼要跟你報告？",
       "link": "/bbs/Gossiping/M.1773107668.A.791",
       "author": "qweerrt123",
@@ -104,26 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "426",
-      "recommendCount": "577",
-      "title": "[新聞] 對台灣開轟甩棒 金倒永解釋：為了提振士氣",
-      "link": "/bbs/Baseball/M.1773044728.A.3C5",
-      "author": "kensukeshu",
-      "board": "Baseball",
-      "publishTime": "2026/03/09 08:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "402",
-      "recommendCount": "654",
-      "title": "[新聞] 韓媒：台灣覺得不公平對澳洲就該贏球",
-      "link": "/bbs/Baseball/M.1773124716.A.897",
-      "author": "fhjqwefs",
-      "board": "Baseball",
-      "publishTime": "2026/03/10 06:38",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "251",
       "recommendCount": "667",
       "title": "[新聞] 文保景IG遭洗版！台灣球迷怒轟「沒運動家精神」　韓網友留言區嗆聲反擊",
@@ -131,6 +121,16 @@
       "author": "zzyyxx77",
       "board": "Baseball",
       "publishTime": "2026/03/09 14:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "418",
+      "recommendCount": "767",
+      "title": "[情報] 台積公司2026年2月營收報告",
+      "link": "/bbs/Stock/M.1773120692.A.3A3",
+      "author": "MOMO0478",
+      "board": "Stock",
+      "publishTime": "2026/03/10 05:31",
       "imageUrl": ""
     },
     {
@@ -144,26 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "407",
-      "recommendCount": "747",
-      "title": "[情報] 台積公司2026年2月營收報告",
-      "link": "/bbs/Stock/M.1773120692.A.3A3",
-      "author": "MOMO0478",
-      "board": "Stock",
-      "publishTime": "2026/03/10 05:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "377",
-      "recommendCount": "495",
-      "title": "[情報] 7780 大研生醫 本公司董事長辭世",
-      "link": "/bbs/Stock/M.1773044709.A.298",
-      "author": "f204137",
-      "board": "Stock",
-      "publishTime": "2026/03/09 08:25",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "281",
       "recommendCount": "464",
       "title": "[情報] 台灣隊 確定2026經典賽小組賽止步",
@@ -174,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "283",
-      "recommendCount": "525",
+      "recommendScore": "285",
+      "recommendCount": "534",
       "title": "[新聞] 國民黨4連霸議員遭爆「包養網紅許玲玲」豪月付20萬生活費",
       "link": "/bbs/Gossiping/M.1773113309.A.314",
       "author": "bluehttp",
@@ -201,6 +181,26 @@
       "author": "william8403",
       "board": "Gossiping",
       "publishTime": "2026/03/09 20:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "380",
+      "recommendCount": "565",
+      "title": "[炸裂] Robbie Glendinning",
+      "link": "/bbs/Baseball/M.1773056483.A.82F",
+      "author": "DsLove710",
+      "board": "Baseball",
+      "publishTime": "2026/03/09 11:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "675",
+      "recommendCount": "1499",
+      "title": "[LIVE] 棒球 南韓@澳洲 場中",
+      "link": "/bbs/SportLottery/M.1773048659.A.09A",
+      "author": "sean910587",
+      "board": "SportLottery",
+      "publishTime": "2026/03/09 09:30",
       "imageUrl": ""
     }
   ]
