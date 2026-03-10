@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-10T08:46:57.320Z",
+  "updated": "2026-03-10T09:05:01.960Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "797",
-      "recommendCount": "1126",
+      "recommendScore": "802",
+      "recommendCount": "1133",
       "title": "[新聞] 伊朗：與以、美斷交國家 才可自由通行荷姆茲海峽",
       "link": "/bbs/Stock/M.1773109159.A.52A",
       "author": "icemiku",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "427",
-      "recommendCount": "1217",
+      "recommendScore": "430",
+      "recommendCount": "1220",
       "title": "[新聞] 卓榮泰私人包機可用松指部？ 顧立雄：可以、那是軍民合用",
       "link": "/bbs/Gossiping/M.1773110670.A.37F",
       "author": "ambitious",
@@ -44,13 +44,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "540",
-      "recommendCount": "1058",
+      "recommendScore": "542",
+      "recommendCount": "1060",
       "title": "[爆卦] 二月份新生兒6523人",
       "link": "/bbs/Gossiping/M.1773107252.A.D01",
       "author": "anachronism",
       "board": "Gossiping",
       "publishTime": "2026/03/10 01:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "525",
+      "recommendCount": "842",
+      "title": "[新聞] 韓媒：台灣覺得不公平對澳洲就該贏球",
+      "link": "/bbs/Baseball/M.1773124716.A.897",
+      "author": "fhjqwefs",
+      "board": "Baseball",
+      "publishTime": "2026/03/10 06:38",
       "imageUrl": ""
     },
     {
@@ -64,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "443",
-      "recommendCount": "747",
+      "recommendScore": "447",
+      "recommendCount": "753",
       "title": "[討論] 欠你台灣的喔 不幫你拿分在那邊狗叫",
       "link": "/bbs/Baseball/M.1773113870.A.45D",
       "author": "hunterneon",
@@ -74,18 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "485",
-      "recommendCount": "768",
-      "title": "[新聞] 韓媒：台灣覺得不公平對澳洲就該贏球",
-      "link": "/bbs/Baseball/M.1773124716.A.897",
-      "author": "fhjqwefs",
-      "board": "Baseball",
-      "publishTime": "2026/03/10 06:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "242",
-      "recommendCount": "905",
+      "recommendScore": "238",
+      "recommendCount": "909",
       "title": "[新聞] 不滿被說貪瀆百萬！卓榮泰嗆王鴻薇：私人包機為什麼要跟你報告？",
       "link": "/bbs/Gossiping/M.1773107668.A.791",
       "author": "qweerrt123",
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "186",
-      "recommendCount": "774",
-      "title": "[新聞] 赴日看球賽…政院：卓揆私人行程皆為自費 維安隨行機票全包",
-      "link": "/bbs/Gossiping/M.1773046609.A.AA0",
-      "author": "Aqqqa",
-      "board": "Gossiping",
-      "publishTime": "2026/03/09 08:56",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "251",
       "recommendCount": "667",
       "title": "[新聞] 文保景IG遭洗版！台灣球迷怒轟「沒運動家精神」　韓網友留言區嗆聲反擊",
@@ -124,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "418",
-      "recommendCount": "767",
+      "recommendScore": "422",
+      "recommendCount": "771",
       "title": "[情報] 台積公司2026年2月營收報告",
       "link": "/bbs/Stock/M.1773120692.A.3A3",
       "author": "MOMO0478",
@@ -154,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "285",
-      "recommendCount": "534",
+      "recommendScore": "288",
+      "recommendCount": "538",
       "title": "[新聞] 國民黨4連霸議員遭爆「包養網紅許玲玲」豪月付20萬生活費",
       "link": "/bbs/Gossiping/M.1773113309.A.314",
       "author": "bluehttp",
@@ -164,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "255",
-      "recommendCount": "473",
+      "recommendScore": "254",
+      "recommendCount": "474",
       "title": "[新聞] 文保景IG遭洗版　韓媒：台灣網友水準比未能晉級的中華隊還差",
       "link": "/bbs/Baseball/M.1773101563.A.0E5",
       "author": "whj0530",
@@ -201,6 +191,16 @@
       "author": "sean910587",
       "board": "SportLottery",
       "publishTime": "2026/03/09 09:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "163",
+      "recommendCount": "534",
+      "title": "[新聞] 赴日收據都在牛皮紙袋卓榮泰但私人支出",
+      "link": "/bbs/Gossiping/M.1773117736.A.A39",
+      "author": "KH8019",
+      "board": "Gossiping",
+      "publishTime": "2026/03/10 04:42",
       "imageUrl": ""
     }
   ]
