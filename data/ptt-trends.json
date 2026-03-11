@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-11T07:12:27.113Z",
+  "updated": "2026-03-11T07:34:41.001Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "562",
-      "recommendCount": "968",
+      "recommendScore": "565",
+      "recommendCount": "971",
       "title": "[BOX ] Wizards 129:150 Heat",
       "link": "/bbs/NBA/M.1773195110.A.B1A",
       "author": "jason911152",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "512",
-      "recommendCount": "1006",
+      "recommendScore": "511",
+      "recommendCount": "1009",
       "title": "[新聞] 無台胞證也能回！70餘名滯留中東台灣人經上海返台",
       "link": "/bbs/Gossiping/M.1773138757.A.058",
       "author": "TZUYIC",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "437",
-      "recommendCount": "885",
+      "recommendScore": "438",
+      "recommendCount": "886",
       "title": "[情報] 今日Bam Adebayo 83分歷史第二",
       "link": "/bbs/NBA/M.1773195046.A.18D",
       "author": "rothanlin",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "514",
-      "recommendCount": "720",
+      "recommendScore": "525",
+      "recommendCount": "737",
       "title": "[討論] 美教頭：我算錯了 我以為輸了還能晉級",
       "link": "/bbs/Baseball/M.1773204675.A.F80",
       "author": "lmfao",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "406",
-      "recommendCount": "739",
+      "recommendScore": "415",
+      "recommendCount": "750",
       "title": "[分享] 美國隊數學教室開張",
       "link": "/bbs/Baseball/M.1773202663.A.4A9",
       "author": "Sfltnarud",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "270",
-      "recommendCount": "584",
+      "recommendScore": "271",
+      "recommendCount": "585",
       "title": "[新聞] 北院駁回準抗告 太子集團8要角確定免押",
       "link": "/bbs/Gossiping/M.1773145715.A.99F",
       "author": "ytkuang",
@@ -104,8 +104,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/fdoTvqm/s/02ad6f2bcf2b297e27ed1af1cf3b29a7"
     },
     {
-      "recommendScore": "345",
-      "recommendCount": "521",
+      "recommendScore": "346",
+      "recommendCount": "522",
       "title": "[分享] 曾豪駒Threads：讓我們一起畢業～",
       "link": "/bbs/Baseball/M.1773135156.A.E75",
       "author": "chyx741021",
@@ -114,14 +114,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "87",
-      "recommendCount": "564",
+      "recommendScore": "88",
+      "recommendCount": "567",
       "title": "[問卦]黃暐瀚：有一群人 不管台灣輸球贏球都不爽",
       "link": "/bbs/Gossiping/M.1773134632.A.9A0",
       "author": "a91153456",
       "board": "Gossiping",
       "publishTime": "2026/03/10 09:23",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "307",
+      "recommendCount": "491",
+      "title": "[分享] B組 美義墨淘汰圖表",
+      "link": "/bbs/Baseball/M.1773202654.A.A2D",
+      "author": "kmjhome",
+      "board": "Baseball",
+      "publishTime": "2026/03/11 04:17",
+      "imageUrl": "https://cache.pttweb.cc/imgur/fe0uehc/s/ad91dad82fab211b6b66851c960dded9"
     },
     {
       "recommendScore": "173",
@@ -134,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "303",
-      "recommendCount": "486",
-      "title": "[分享] B組 美義墨淘汰圖表",
-      "link": "/bbs/Baseball/M.1773202654.A.A2D",
-      "author": "kmjhome",
-      "board": "Baseball",
-      "publishTime": "2026/03/11 04:17",
-      "imageUrl": "https://cache.pttweb.cc/imgur/fe0uehc/s/ad91dad82fab211b6b66851c960dded9"
-    },
-    {
       "recommendScore": "226",
       "recommendCount": "487",
       "title": "[問卦] 央視報道滯留中東的台灣同胞感謝祖國",
@@ -151,6 +151,16 @@
       "author": "juang1985",
       "board": "Gossiping",
       "publishTime": "2026/03/10 08:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "336",
+      "recommendCount": "565",
+      "title": "[BOX ] Timberwolves 106:120 Lakers",
+      "link": "/bbs/NBA/M.1773207356.A.79F",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2026/03/11 05:35",
       "imageUrl": ""
     },
     {
@@ -164,23 +174,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "326",
-      "recommendCount": "547",
-      "title": "[BOX ] Timberwolves 106:120 Lakers",
-      "link": "/bbs/NBA/M.1773207356.A.79F",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2026/03/11 05:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "64",
-      "recommendCount": "366",
+      "recommendScore": "65",
+      "recommendCount": "367",
       "title": "Re: [標的] 台指期 這只是剛開始 空",
       "link": "/bbs/Stock/M.1773198541.A.179",
       "author": "TroyeSivan",
       "board": "Stock",
       "publishTime": "2026/03/11 03:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "268",
+      "recommendCount": "320",
+      "title": "[分享] Jonny龍仔有話想對大家說",
+      "link": "/bbs/Baseball/M.1773201233.A.051",
+      "author": "micheal59",
+      "board": "Baseball",
+      "publishTime": "2026/03/11 03:53",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/03/10 17:13",
       "imageUrl": "https://cache.pttweb.cc/imgur/2V04SKd/s/114caa63ca9cee8ee91d214067f80dbf"
-    },
-    {
-      "recommendScore": "265",
-      "recommendCount": "317",
-      "title": "[分享] Jonny龍仔有話想對大家說",
-      "link": "/bbs/Baseball/M.1773201233.A.051",
-      "author": "micheal59",
-      "board": "Baseball",
-      "publishTime": "2026/03/11 03:53",
-      "imageUrl": ""
     }
   ]
 }
