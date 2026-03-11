@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-11T14:36:16.215Z",
+  "updated": "2026-03-11T14:59:22.283Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "605",
-      "recommendCount": "1025",
+      "recommendScore": "606",
+      "recommendCount": "1026",
       "title": "[BOX ] Wizards 129:150 Heat",
       "link": "/bbs/NBA/M.1773195110.A.B1A",
       "author": "jason911152",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "582",
-      "recommendCount": "804",
+      "recommendScore": "583",
+      "recommendCount": "805",
       "title": "[討論] 美教頭：我算錯了 我以為輸了還能晉級",
       "link": "/bbs/Baseball/M.1773204675.A.F80",
       "author": "lmfao",
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "381",
-      "recommendCount": "1187",
+      "recommendCount": "1194",
       "title": "[新聞] 洪孟楷接中職會長？ 蔡其昌突拋感言：我跟曾豪駒一起畢業",
       "link": "/bbs/Baseball/M.1773212904.A.CC8",
       "author": "asdf1256",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "501",
-      "recommendCount": "579",
+      "recommendScore": "505",
+      "recommendCount": "583",
       "title": "Re: [新聞] 租屋養老遭拒！台中75歲長者「找40間",
       "link": "/bbs/Gossiping/M.1773203740.A.1E3",
       "author": "aallens",
@@ -74,8 +74,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/UnHiPD9/s/c558f82e1c2bb464af30bc1e597714f5"
     },
     {
-      "recommendScore": "311",
-      "recommendCount": "550",
+      "recommendScore": "317",
+      "recommendCount": "561",
       "title": "[新聞] 韓國出生率連2年上升！月租650元社宅加碼新增千間搶救人口",
       "link": "/bbs/Gossiping/M.1773219747.A.7B8",
       "author": "aza0290",
@@ -94,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "324",
-      "recommendCount": "517",
-      "title": "[分享] B組 美義墨淘汰圖表",
-      "link": "/bbs/Baseball/M.1773202654.A.A2D",
-      "author": "kmjhome",
-      "board": "Baseball",
-      "publishTime": "2026/03/11 04:17",
-      "imageUrl": "https://cache.pttweb.cc/imgur/fe0uehc/s/ad91dad82fab211b6b66851c960dded9"
-    },
-    {
-      "recommendScore": "332",
-      "recommendCount": "636",
+      "recommendScore": "340",
+      "recommendCount": "648",
       "title": "[心得] 股市多頭 但我畢業了",
       "link": "/bbs/Stock/M.1773220094.A.2FF",
       "author": "TW123456",
@@ -114,8 +104,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "276",
-      "recommendCount": "380",
+      "recommendScore": "325",
+      "recommendCount": "518",
+      "title": "[分享] B組 美義墨淘汰圖表",
+      "link": "/bbs/Baseball/M.1773202654.A.A2D",
+      "author": "kmjhome",
+      "board": "Baseball",
+      "publishTime": "2026/03/11 04:17",
+      "imageUrl": "https://cache.pttweb.cc/imgur/fe0uehc/s/ad91dad82fab211b6b66851c960dded9"
+    },
+    {
+      "recommendScore": "277",
+      "recommendCount": "381",
       "title": "[討論] 大家這次WBC看球花了多少？",
       "link": "/bbs/Baseball/M.1773223336.A.ECB",
       "author": "Kanojyo",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "67",
-      "recommendCount": "389",
+      "recommendScore": "66",
+      "recommendCount": "390",
       "title": "Re: [標的] 台指期 這只是剛開始 空",
       "link": "/bbs/Stock/M.1773198541.A.179",
       "author": "TroyeSivan",
@@ -161,6 +161,16 @@
       "author": "kent",
       "board": "Gossiping",
       "publishTime": "2026/03/11 02:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "315",
+      "recommendCount": "327",
+      "title": "[發錢] 最近運氣好 小抽現金",
+      "link": "/bbs/SportLottery/M.1773227509.A.410",
+      "author": "v11nce1217",
+      "board": "SportLottery",
+      "publishTime": "2026/03/11 11:11",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/03/10 17:13",
       "imageUrl": "https://cache.pttweb.cc/imgur/2V04SKd/s/114caa63ca9cee8ee91d214067f80dbf"
-    },
-    {
-      "recommendScore": "290",
-      "recommendCount": "302",
-      "title": "[發錢] 最近運氣好 小抽現金",
-      "link": "/bbs/SportLottery/M.1773227509.A.410",
-      "author": "v11nce1217",
-      "board": "SportLottery",
-      "publishTime": "2026/03/11 11:11",
-      "imageUrl": ""
     }
   ]
 }
