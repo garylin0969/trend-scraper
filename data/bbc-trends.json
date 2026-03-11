@@ -1,10 +1,10 @@
 {
-  "updated": "2026-03-11T07:06:02.916Z",
+  "updated": "2026-03-11T07:31:08.408Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-03-11T07:05:47.000Z",
+    "lastBuildDate": "2026-03-11T07:30:59.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -42,12 +42,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/63c1/live/9654e0b0-1cfb-11f1-b048-c9424b2cf5fd.jpg"
     },
     {
-      "title": "特朗普稱美以伊戰爭「很快結束」，油價稍回落",
-      "description": "美國總統特朗普多次談及對伊朗的戰事，形容「很快結束」，又指仍有尚未攻擊的伊朗目標，但「一天之內就能全部摧毀」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn9e484xdgwo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-10T05:04:54.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn9e484xdgwo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c98d/live/49883ff0-1c30-11f1-9120-a910fc22c6ac.jpg"
+      "title": "黑客針對政府官員後，Signal向用戶發布詐騙警告",
+      "description": "Signal表示其系統安全，但對於有針對性地試圖入侵某些官員的報告，該公司「非常重視」。",
+      "link": "https://www.bbc.com/zhongwen/articles/cg7emz4915mo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-11T07:27:18.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cg7emz4915mo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/788c/live/e9513570-1c79-11f1-a7bf-efb6e72f87e6.jpg"
     },
     {
       "title": "穆傑塔巴・哈梅內伊上台，伊朗民眾深陷分歧",
@@ -56,6 +56,14 @@
       "pubDate": "2026-03-10T06:40:10.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c363yrp5ewxo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ed3/live/6f6ac440-1bb3-11f1-8854-75b001a39386.jpg"
+    },
+    {
+      "title": "特朗普稱美以伊戰爭「很快結束」，油價稍回落",
+      "description": "美國總統特朗普多次談及對伊朗的戰事，形容「很快結束」，又指仍有尚未攻擊的伊朗目標，但「一天之內就能全部摧毀」。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn9e484xdgwo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-10T05:04:54.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn9e484xdgwo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c98d/live/49883ff0-1c30-11f1-9120-a910fc22c6ac.jpg"
     },
     {
       "title": "烏克蘭部署將武裝機器人投入戰場",
@@ -104,14 +112,6 @@
       "pubDate": "2026-03-10T06:05:49.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cewzqzpp784o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/36f2/live/c1ac77b0-1c46-11f1-937c-8da228b2c881.jpg"
-    },
-    {
-      "title": "宵禁、罰掃廁所、懷孕遭解約：菲律賓女移工抗議台灣「囚犯式管理」",
-      "description": "一群女性菲律賓移工在台灣組織工會，抗議人身自由被嚴格管控，公司規定女性移工必須住在宿舍並每晚打卡，甚至明文規範工人的「男女感情」和私生活，並實施懲罰措施。",
-      "link": "https://www.bbc.com/zhongwen/articles/crm81e4erkmo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-07T06:22:41.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crm81e4erkmo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/de72/live/4abde4f0-196b-11f1-8943-0f02ddbbd48f.jpg"
     },
     {
       "title": "2026中國兩會：北京如何定義未來五年？",
@@ -242,6 +242,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/905b/live/52266410-183f-11f1-b048-c9424b2cf5fd.jpg"
     },
     {
+      "title": "宵禁、罰掃廁所、懷孕遭解約：菲律賓女移工抗議台灣「囚犯式管理」",
+      "description": "一群女性菲律賓移工在台灣組織工會，抗議人身自由被嚴格管控，公司規定女性移工必須住在宿舍並每晚打卡，甚至明文規範工人的「男女感情」和私生活，並實施懲罰措施。",
+      "link": "https://www.bbc.com/zhongwen/articles/crm81e4erkmo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-07T06:22:41.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/crm81e4erkmo/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/de72/live/4abde4f0-196b-11f1-8943-0f02ddbbd48f.jpg"
+    },
+    {
       "title": "兩月內委內瑞拉伊朗接連巨變  中國原油進口體系面臨壓力測試",
       "description": "中國石油對外依存度長期維持在70%以上，伊朗和委內瑞拉這兩個受制裁來源約佔中國海運原油進口的17%至18%。加上霍爾木茲海峽被封影響合法石油採購，中國原油進口正面臨巨大壓力。",
       "link": "https://www.bbc.com/zhongwen/articles/ckgznz79e0po/trad?at_medium=RSS&at_campaign=rss",
@@ -256,14 +264,6 @@
       "pubDate": "2026-03-05T07:27:58.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cgk22828d1yo/trad#5",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ff51/live/62cdb380-1859-11f1-9120-a910fc22c6ac.jpg"
-    },
-    {
-      "title": "「像鬼一樣工作」：台灣外籍移工為何陷入「強迫勞動」處境",
-      "description": "台灣不少外籍移工因為債務纏身，而落入國際定義的「強迫勞動」。多名移工接受BBC中文訪談，有人經歷工傷，仍不敢停止工作；也有人被仲介收取高額仲介費和買工費，陷入債上加債的循環。",
-      "link": "https://www.bbc.com/zhongwen/articles/c8r1ekpkky0o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-02-26T05:12:43.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c8r1ekpkky0o/trad#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f48/live/6d5f59d0-0e3f-11f1-b5e2-dd58fc65f0f6.png"
     },
     {
       "title": "分析：張又俠「七宗罪」和 「紅二代」世交神話的破滅",
