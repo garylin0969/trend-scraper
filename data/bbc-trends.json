@@ -1,14 +1,22 @@
 {
-  "updated": "2026-03-12T03:35:50.867Z",
+  "updated": "2026-03-12T04:24:00.582Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-03-12T03:35:34.000Z",
+    "lastBuildDate": "2026-03-12T04:23:49.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "分析：特朗普呼籲伊朗起義，但1991年伊拉克的教訓仍揮之不去",
+      "description": "BBC國際事務編輯寫道，美國總統可能會發現，發動戰爭比結束戰爭容易得多。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5yr07j8gqjo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-12T03:55:10.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5yr07j8gqjo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c9d9/live/89059d00-1d7d-11f1-a17e-358a512ba0b9.jpg"
+    },
     {
       "title": "中國兩會人事觀察：新晉大員、將領寥落與邊疆重構",
       "description": "這些被公開展示的「在場」與「缺席」，拼湊出了過去一年中國隱秘政治的最新狀況。梳理本屆「兩會」的信息，有三條主線最值得觀察。",
@@ -46,7 +54,7 @@
       "description": "AI縮短新藥研發時程，從抗藥性細菌到帕金森症與罕見疾病，正成為科研突破的重要推手。",
       "link": "https://www.bbc.com/zhongwen/articles/c204jn30m03o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-03-12T00:13:30.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c204jn30m03o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c204jn30m03o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3345/live/d0f79670-1cf8-11f1-9120-a910fc22c6ac.jpg"
     },
     {
@@ -64,14 +72,6 @@
       "pubDate": "2026-03-10T06:50:33.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c0ljyj84k87o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/edb9/live/79696fc0-1c15-11f1-ac19-759eff7f5cf1.jpg"
-    },
-    {
-      "title": "黑客針對政府官員後，Signal向用戶發布詐騙警告",
-      "description": "Signal表示其系統安全，但對於有針對性地試圖入侵某些官員的報告，該公司「非常重視」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cg7emz4915mo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-11T07:27:18.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cg7emz4915mo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/788c/live/e9513570-1c79-11f1-a7bf-efb6e72f87e6.jpg"
     },
     {
       "title": "穆傑塔巴・哈梅內伊上台，伊朗民眾深陷分歧",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/36c2/live/d0d877a0-fb78-11f0-a47f-d352a7d9988a.jpg"
     },
     {
+      "title": "黑客針對政府官員後，Signal向用戶發布詐騙警告",
+      "description": "Signal表示其系統安全，但對於有針對性地試圖入侵某些官員的報告，該公司「非常重視」。",
+      "link": "https://www.bbc.com/zhongwen/articles/cg7emz4915mo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-11T07:27:18.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cg7emz4915mo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/788c/live/e9513570-1c79-11f1-a7bf-efb6e72f87e6.jpg"
+    },
+    {
       "title": "中國的下一場增長賭局全力押註AI、機器人等「未來產業」",
       "description": "在房地產退潮後，中國政府把科技推向經濟政策核心，但專家提醒，創新不是砸錢就行。",
       "link": "https://www.bbc.com/zhongwen/articles/cewz7yxrqdgo/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2026-03-09T08:03:23.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/clyg04y55kxo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a3d0/live/2120cf80-18bd-11f1-a7c2-6f222fa5b6f1.jpg"
-    },
-    {
-      "title": "守護孤獨老人的一群日本酸奶派送員",
-      "description": "隨著孤獨感在全球老齡化速度最快的國家之一持續加深，一張由女性組成、負責送遞益生菌乳酸飲品的網絡，正成為許多人日常生活中不可或缺的陪伴、聯繫與關懷來源。",
-      "link": "https://www.bbc.com/zhongwen/articles/c363yp87kzlo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-10T00:20:51.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c363yp87kzlo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e39/live/344ef8a0-1b8f-11f1-9120-a910fc22c6ac.jpg"
     }
   ]
 }
