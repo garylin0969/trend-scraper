@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-12T08:16:24.810Z",
+  "updated": "2026-03-12T08:33:49.482Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "816",
-      "recommendCount": "867",
+      "recommendScore": "821",
+      "recommendCount": "876",
       "title": "[祭品]WBC多明尼加贏韓國",
       "link": "/bbs/Baseball/M.1773288064.A.0BC",
       "author": "stonerr",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "578",
-      "recommendCount": "731",
+      "recommendScore": "579",
+      "recommendCount": "732",
       "title": "[分享] 日本火腿簽下林家正",
       "link": "/bbs/Baseball/M.1773285488.A.E13",
       "author": "kasim65",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "241",
-      "recommendCount": "528",
+      "recommendScore": "244",
+      "recommendCount": "531",
       "title": "[新聞] 快訊／川普再啟動301調查！台灣等16國入列",
       "link": "/bbs/Gossiping/M.1773272364.A.810",
       "author": "william8403",
@@ -75,12 +75,22 @@
     },
     {
       "recommendScore": "267",
-      "recommendCount": "574",
+      "recommendCount": "581",
       "title": "[新聞] 伊朗總統不忍了！開出「停戰3條件」：美以要付賠償金",
       "link": "/bbs/Stock/M.1773288132.A.B9D",
       "author": "yousking",
       "board": "Stock",
       "publishTime": "2026/03/12 04:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "286",
+      "recommendCount": "595",
+      "title": "[爆卦] 徐巧芯FB:松指部認了!行政院下令",
+      "link": "/bbs/Gossiping/M.1773297802.A.AAE",
+      "author": "postar",
+      "board": "Gossiping",
+      "publishTime": "2026/03/12 06:43",
       "imageUrl": ""
     },
     {
@@ -134,13 +144,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "275",
-      "recommendCount": "363",
+      "recommendScore": "276",
+      "recommendCount": "364",
       "title": "[新聞] WCY- 火腿宣布簽下林家正　與古林睿煬、",
       "link": "/bbs/Baseball/M.1773286296.A.77F",
       "author": "ruka660101",
       "board": "Baseball",
       "publishTime": "2026/03/12 03:31",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "294",
+      "recommendCount": "354",
+      "title": "[分享] 金倒永發現自己唱跳影片紅到台灣",
+      "link": "/bbs/Baseball/M.1773294130.A.A35",
+      "author": "micheal59",
+      "board": "Baseball",
+      "publishTime": "2026/03/12 05:42",
       "imageUrl": ""
     },
     {
@@ -154,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "260",
+      "recommendCount": "372",
+      "title": "[分享] 委內瑞拉打教：Ohtani？通通保送！",
+      "link": "/bbs/Baseball/M.1773292974.A.80F",
+      "author": "LABOYS",
+      "board": "Baseball",
+      "publishTime": "2026/03/12 05:22",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "51",
       "recommendCount": "344",
       "title": "[爆卦] 脆爆料：民進黨討論台灣加入美國51州",
@@ -164,43 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "280",
-      "recommendCount": "337",
-      "title": "[分享] 金倒永發現自己唱跳影片紅到台灣",
-      "link": "/bbs/Baseball/M.1773294130.A.A35",
-      "author": "micheal59",
-      "board": "Baseball",
-      "publishTime": "2026/03/12 05:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "272",
-      "recommendCount": "1414",
-      "title": "Re: [新聞] 快新聞／定調京華城案「世紀冤案」！民眾黨竟質疑公文遭隱匿　國土署反擊了",
-      "link": "/bbs/Gossiping/M.1773217169.A.EDB",
-      "author": "turbomons",
+      "recommendScore": "-130",
+      "recommendCount": "384",
+      "title": "[新聞] 苗博雅挺卓榮泰：有智商都知道是公務　松機本來就可借松指部停機坪",
+      "link": "/bbs/Gossiping/M.1773292677.A.F09",
+      "author": "tiger911",
       "board": "Gossiping",
-      "publishTime": "2026/03/11 08:19",
-      "imageUrl": "https://cache.pttweb.cc/imgur/zYaEkYA/s/87d29927225948d907de201faac9c886"
-    },
-    {
-      "recommendScore": "250",
-      "recommendCount": "352",
-      "title": "[分享] 委內瑞拉打教：Ohtani？通通保送！",
-      "link": "/bbs/Baseball/M.1773292974.A.80F",
-      "author": "LABOYS",
-      "board": "Baseball",
-      "publishTime": "2026/03/12 05:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "213",
-      "recommendCount": "449",
-      "title": "[爆卦] 徐巧芯FB:松指部認了!行政院下令",
-      "link": "/bbs/Gossiping/M.1773297802.A.AAE",
-      "author": "postar",
-      "board": "Gossiping",
-      "publishTime": "2026/03/12 06:43",
+      "publishTime": "2026/03/12 05:17",
       "imageUrl": ""
     }
   ]
