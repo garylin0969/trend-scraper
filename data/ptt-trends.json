@@ -1,28 +1,8 @@
 {
-  "updated": "2026-03-12T01:50:15.726Z",
+  "updated": "2026-03-12T02:50:29.312Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "611",
-      "recommendCount": "1033",
-      "title": "[BOX ] Wizards 129:150 Heat",
-      "link": "/bbs/NBA/M.1773195110.A.B1A",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2026/03/11 02:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "453",
-      "recommendCount": "920",
-      "title": "[情報] 今日Bam Adebayo 83分歷史第二",
-      "link": "/bbs/NBA/M.1773195046.A.18D",
-      "author": "rothanlin",
-      "board": "NBA",
-      "publishTime": "2026/03/11 02:10",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "585",
       "recommendCount": "810",
@@ -64,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "345",
-      "recommendCount": "611",
+      "recommendScore": "348",
+      "recommendCount": "616",
       "title": "[新聞] 韓國出生率連2年上升！月租650元社宅加碼新增千間搶救人口",
       "link": "/bbs/Gossiping/M.1773219747.A.7B8",
       "author": "aza0290",
@@ -74,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "390",
-      "recommendCount": "449",
+      "recommendScore": "395",
+      "recommendCount": "456",
       "title": "[分享] 紅襪宣布完成鄭宗哲一年合約協議",
       "link": "/bbs/Baseball/M.1773239940.A.210",
       "author": "kobe089",
@@ -134,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "230",
+      "recommendCount": "455",
+      "title": "[問卦] 花了畢生積蓄在伊朗旅行一年 Q_Q (圖多)",
+      "link": "/bbs/Gossiping/M.1773249521.A.187",
+      "author": "Amed21",
+      "board": "Gossiping",
+      "publishTime": "2026/03/11 17:18",
+      "imageUrl": "https://cache.pttweb.cc/imgur/oimNwxD/s/594e9260f9574589c861c9c91eda6b86"
+    },
+    {
       "recommendScore": "206",
       "recommendCount": "596",
       "title": "[問卦] 精彩了 川普被下達了全球追殺令？",
@@ -144,34 +134,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "313",
-      "recommendCount": "404",
+      "recommendScore": "315",
+      "recommendCount": "406",
       "title": "[分享] 費仔成為 CAFE!N 代言人",
       "link": "/bbs/Baseball/M.1773236112.A.555",
       "author": "kenbo",
       "board": "Baseball",
       "publishTime": "2026/03/11 13:35",
       "imageUrl": "https://cache.pttweb.cc/imgur/FLypB4N/s/01164dc7f892ba63e47a5004fd18bbef"
-    },
-    {
-      "recommendScore": "231",
-      "recommendCount": "379",
-      "title": "[新聞] 13歲女兒音訊全無兩周！父急曝外貌特徵",
-      "link": "/bbs/Gossiping/M.1773195158.A.990",
-      "author": "kent",
-      "board": "Gossiping",
-      "publishTime": "2026/03/11 02:12",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "380",
-      "recommendCount": "683",
-      "title": "[討論] 美國怎麼變成這樣？",
-      "link": "/bbs/Baseball/M.1773194929.A.920",
-      "author": "Sam920218",
-      "board": "Baseball",
-      "publishTime": "2026/03/11 02:08",
-      "imageUrl": ""
     },
     {
       "recommendScore": "66",
@@ -194,14 +164,44 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "215",
-      "recommendCount": "421",
-      "title": "[問卦] 花了畢生積蓄在伊朗旅行一年 Q_Q (圖多)",
-      "link": "/bbs/Gossiping/M.1773249521.A.187",
-      "author": "Amed21",
+      "recommendScore": "182",
+      "recommendCount": "406",
+      "title": "[新聞] 快訊／川普再啟動301調查！台灣等16國入列",
+      "link": "/bbs/Gossiping/M.1773272364.A.810",
+      "author": "william8403",
       "board": "Gossiping",
-      "publishTime": "2026/03/11 17:18",
-      "imageUrl": "https://cache.pttweb.cc/imgur/oimNwxD/s/594e9260f9574589c861c9c91eda6b86"
+      "publishTime": "2026/03/11 23:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "273",
+      "recommendCount": "327",
+      "title": "[分享] Jonny龍仔有話想對大家說",
+      "link": "/bbs/Baseball/M.1773201233.A.051",
+      "author": "micheal59",
+      "board": "Baseball",
+      "publishTime": "2026/03/11 03:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "288",
+      "recommendCount": "321",
+      "title": "[猜猜] 2026WBC預賽 墨西哥vs義大利 結果",
+      "link": "/bbs/Baseball/M.1773237091.A.E1D",
+      "author": "Midiya",
+      "board": "Baseball",
+      "publishTime": "2026/03/11 13:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "247",
+      "recommendCount": "534",
+      "title": "[討論] 這賽制真的有一點問題吧",
+      "link": "/bbs/Baseball/M.1773207331.A.095",
+      "author": "kumaHL",
+      "board": "Baseball",
+      "publishTime": "2026/03/11 05:35",
+      "imageUrl": ""
     }
   ]
 }
