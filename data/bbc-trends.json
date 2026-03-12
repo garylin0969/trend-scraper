@@ -1,10 +1,10 @@
 {
-  "updated": "2026-03-11T23:51:08.968Z",
+  "updated": "2026-03-12T00:45:03.038Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-03-11T23:50:56.000Z",
+    "lastBuildDate": "2026-03-12T00:44:57.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -34,14 +34,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3146/live/722b1ae0-1cb2-11f1-9ab1-b9f56adefedf.jpg"
     },
     {
-      "title": "科學家稱空襲引發德黑蘭黑雨及「前所未見」的污染",
-      "description": "自上個月美以對伊朗發動攻擊以來，空襲已造成至少四處石油設施受損。而攻擊煉油廠可能會造成嚴重的空氣污染，因為這些設施內含大量種類繁多的化學物質。",
-      "link": "https://www.bbc.com/zhongwen/articles/cjrqvyevv14o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-11T08:26:35.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cjrqvyevv14o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b08/live/e2362070-1c9c-11f1-9120-a910fc22c6ac.jpg"
-    },
-    {
       "title": "航運巨頭主管：伊朗戰爭成本將轉嫁給消費者",
       "description": "全球第二大航運公司負責人表示，由伊朗衝突推動的運輸成本上升將會轉嫁給消費者。他呼籲美國、以色列和伊朗達成「某種協議」，以恢復中東地區的全球貿易航線。",
       "link": "https://www.bbc.com/zhongwen/articles/cg4gd5g2lyyo/trad?at_medium=RSS&at_campaign=rss",
@@ -50,12 +42,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/63c1/live/9654e0b0-1cfb-11f1-b048-c9424b2cf5fd.jpg"
     },
     {
-      "title": "黑客針對政府官員後，Signal向用戶發布詐騙警告",
-      "description": "Signal表示其系統安全，但對於有針對性地試圖入侵某些官員的報告，該公司「非常重視」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cg7emz4915mo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-11T07:27:18.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cg7emz4915mo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/788c/live/e9513570-1c79-11f1-a7bf-efb6e72f87e6.jpg"
+      "title": "那些曾被視為無藥可治的疾病，AI解鎖新療法",
+      "description": "AI縮短新藥研發時程，從抗藥性細菌到帕金森症與罕見疾病，正成為科研突破的重要推手。",
+      "link": "https://www.bbc.com/zhongwen/articles/c204jn30m03o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-12T00:13:30.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c204jn30m03o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3345/live/d0f79670-1cf8-11f1-9120-a910fc22c6ac.jpg"
+    },
+    {
+      "title": "科學家稱空襲引發德黑蘭黑雨及「前所未見」的污染",
+      "description": "自上個月美以對伊朗發動攻擊以來，空襲已造成至少四處石油設施受損。而攻擊煉油廠可能會造成嚴重的空氣污染，因為這些設施內含大量種類繁多的化學物質。",
+      "link": "https://www.bbc.com/zhongwen/articles/cjrqvyevv14o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-11T08:26:35.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cjrqvyevv14o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b08/live/e2362070-1c9c-11f1-9120-a910fc22c6ac.jpg"
     },
     {
       "title": "中國為何即將通過一項促進「民族團結」的新法律？",
@@ -64,6 +64,14 @@
       "pubDate": "2026-03-10T06:50:33.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c0ljyj84k87o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/edb9/live/79696fc0-1c15-11f1-ac19-759eff7f5cf1.jpg"
+    },
+    {
+      "title": "黑客針對政府官員後，Signal向用戶發布詐騙警告",
+      "description": "Signal表示其系統安全，但對於有針對性地試圖入侵某些官員的報告，該公司「非常重視」。",
+      "link": "https://www.bbc.com/zhongwen/articles/cg7emz4915mo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-11T07:27:18.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cg7emz4915mo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/788c/live/e9513570-1c79-11f1-a7bf-efb6e72f87e6.jpg"
     },
     {
       "title": "穆傑塔巴・哈梅內伊上台，伊朗民眾深陷分歧",
@@ -80,14 +88,6 @@
       "pubDate": "2026-03-10T05:04:54.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn9e484xdgwo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c98d/live/49883ff0-1c30-11f1-9120-a910fc22c6ac.jpg"
-    },
-    {
-      "title": "中國的下一場增長賭局全力押註AI、機器人等「未來產業」",
-      "description": "在房地產退潮後，中國政府把科技推向經濟政策核心，但專家提醒，創新不是砸錢就行。",
-      "link": "https://www.bbc.com/zhongwen/articles/cewz7yxrqdgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-09T00:12:54.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cewz7yxrqdgo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/be32/live/dbe05e50-193d-11f1-801d-ed3cff6bf876.jpg"
     },
     {
       "title": "倫敦經貿辦案：英國港人社群受監視，控方形容涉從事「影子警察」行動",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/36c2/live/d0d877a0-fb78-11f0-a47f-d352a7d9988a.jpg"
     },
     {
+      "title": "中國的下一場增長賭局全力押註AI、機器人等「未來產業」",
+      "description": "在房地產退潮後，中國政府把科技推向經濟政策核心，但專家提醒，創新不是砸錢就行。",
+      "link": "https://www.bbc.com/zhongwen/articles/cewz7yxrqdgo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-09T00:12:54.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cewz7yxrqdgo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/be32/live/dbe05e50-193d-11f1-801d-ed3cff6bf876.jpg"
+    },
+    {
       "title": "從敲窗人到蠟燭鐘：那些沒有鬧鐘前叫你起床的「古董」",
       "description": "從每隔一小時就會掉下一根鐵針的蠟燭，到英國工業革命時期的「敲窗員」，歷史上人們想出了各種巧妙方法，確保能準時起床。",
       "link": "https://www.bbc.com/zhongwen/articles/c8xy285qypgo/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2026-03-10T00:20:51.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c363yp87kzlo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e39/live/344ef8a0-1b8f-11f1-9120-a910fc22c6ac.jpg"
-    },
-    {
-      "title": "因癌症差點失去舌頭的父親，呼籲男性認識HPV",
-      "description": "一位有兩個孩子的父親揭露，他舌頭內的腫瘤是由人類乳頭瘤病毒（HPV）引起的。",
-      "link": "https://www.bbc.com/zhongwen/articles/c75x22g57v4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-09T00:15:27.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c75x22g57v4o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c79/live/898d6410-0275-11f1-9043-29b5389a6690.jpg"
     }
   ]
 }
