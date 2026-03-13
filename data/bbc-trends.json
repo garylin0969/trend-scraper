@@ -1,10 +1,10 @@
 {
-  "updated": "2026-03-13T07:57:47.610Z",
+  "updated": "2026-03-13T08:24:52.151Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-03-13T07:57:37.000Z",
+    "lastBuildDate": "2026-03-13T08:24:44.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -16,6 +16,14 @@
       "pubDate": "2026-03-13T06:41:48.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c2lr8ejq0w8o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/042a/live/edf9b6e0-1e92-11f1-801d-ed3cff6bf876.jpg"
+    },
+    {
+      "title": "「對農民有點兒太虧了」：20元人民幣何以引爆中國養老金的討論",
+      "description": "中國2026年全國兩會落下帷幕，但有關政府基礎養老金提漲20元對農村居民影響的討論才剛開始。",
+      "link": "https://www.bbc.com/zhongwen/articles/c1mj1dm4px7o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-13T07:59:01.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1mj1dm4px7o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd91/live/29f2ae40-1e16-11f1-b048-c9424b2cf5fd.jpg"
     },
     {
       "title": "巴拿馬風波發酵：中國官方約談接管港口公司，專家分析巴拿馬政府做法是一種「平衡策略」",
@@ -34,14 +42,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7df7/live/48199650-1c94-11f1-b048-c9424b2cf5fd.jpg"
     },
     {
-      "title": "伊朗新任最高領袖穆傑塔巴誓言繼續封鎖霍爾木茲海峽",
-      "description": "據稱來自穆傑塔巴・哈梅內伊的訊息聲言，伊朗將繼續以區內美軍基地為攻擊目標。",
-      "link": "https://www.bbc.com/zhongwen/articles/c3v743lv42ro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-13T06:49:28.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3v743lv42ro/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0728/live/24bf66b0-1e26-11f1-8cc8-6d61f147f0ba.jpg"
-    },
-    {
       "title": "中國男子涉嫌企圖從肯亞走私兩千蟻后被捕",
       "description": "據檢察官稱，嫌犯將部分螞蟻裝入試管中，有些則藏匿在衛生紙筒內。",
       "link": "https://www.bbc.com/zhongwen/articles/c78x0npypn6o/trad?at_medium=RSS&at_campaign=rss",
@@ -50,20 +50,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f63b/live/49272250-1ddf-11f1-b78b-695aa1f5fbef.jpg"
     },
     {
+      "title": "伊朗新任最高領袖穆傑塔巴誓言繼續封鎖霍爾木茲海峽",
+      "description": "據稱來自穆傑塔巴・哈梅內伊的訊息聲言，伊朗將繼續以區內美軍基地為攻擊目標。",
+      "link": "https://www.bbc.com/zhongwen/articles/c3v743lv42ro/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-13T06:49:28.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3v743lv42ro/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0728/live/24bf66b0-1e26-11f1-8cc8-6d61f147f0ba.jpg"
+    },
+    {
       "title": "GPS干擾：中東看不見的戰場",
       "description": "GPS干擾使得海灣地區的航行變得危險，促使人們努力研發替代方案。",
       "link": "https://www.bbc.com/zhongwen/articles/c80jnnpgev2o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-03-13T00:17:02.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c80jnnpgev2o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e50/live/f7dc5ff0-1893-11f1-b048-c9424b2cf5fd.png"
-    },
-    {
-      "title": "伊朗戰爭：油價到底是怎麼了？",
-      "description": "自伊朗衝突爆發以來，油價波動頻繁成為新聞熱點——但如此劇烈的起伏到底是怎麼一回事？",
-      "link": "https://www.bbc.com/zhongwen/articles/cd6z8nxl4d5o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-13T07:11:49.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cd6z8nxl4d5o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a8d2/live/bcbb80d0-1e39-11f1-9120-a910fc22c6ac.jpg"
     },
     {
       "title": "中國通過「民族團結進步促進法」，少數民族須學普通話",
