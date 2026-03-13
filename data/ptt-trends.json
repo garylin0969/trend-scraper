@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-13T14:07:36.716Z",
+  "updated": "2026-03-13T14:27:19.113Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "1030",
-      "recommendCount": "1454",
+      "recommendScore": "1032",
+      "recommendCount": "1456",
       "title": "[問卦] 揪團包機去日本   要的+1",
       "link": "/bbs/Gossiping/M.1773374446.A.BE1",
       "author": "ubang",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "492",
-      "recommendCount": "1268",
+      "recommendScore": "496",
+      "recommendCount": "1283",
       "title": "[新聞] 苗博雅「有點智商都知道卓赴日是公務」卓榮泰重申私人行程",
       "link": "/bbs/Gossiping/M.1773387611.A.9C3",
       "author": "lycppt",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "537",
-      "recommendCount": "1389",
+      "recommendScore": "534",
+      "recommendCount": "1393",
       "title": "[標的] 華航 包機只要200萬 空",
       "link": "/bbs/Stock/M.1773377292.A.B7C",
       "author": "ifeedmydog",
@@ -44,8 +44,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/bTACgZE/s/5d5f96d62b5c5b0a46c9d97af200074d"
     },
     {
-      "recommendScore": "614",
-      "recommendCount": "1265",
+      "recommendScore": "616",
+      "recommendCount": "1269",
       "title": "[問卦] 東京看球賽為什麼匯款給中職？",
       "link": "/bbs/Gossiping/M.1773384196.A.D66",
       "author": "sexybox",
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "192",
-      "recommendCount": "370",
-      "title": "[問卦] 台南新火車站有雛形了，大家怎麼看？圖",
-      "link": "/bbs/Gossiping/M.1773324491.A.96E",
-      "author": "fraternity",
-      "board": "Gossiping",
-      "publishTime": "2026/03/12 14:08",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "154",
       "recommendCount": "411",
       "title": "[新聞] 漁電政策史詩級轉彎？農業部草案，開發商「設光電、免養殖」，撼動農地農用原則",
@@ -195,13 +185,23 @@
     },
     {
       "recommendScore": "143",
-      "recommendCount": "514",
+      "recommendCount": "515",
       "title": "[新聞] 卓榮泰秀赴日看球單據 徐巧芯反嗆：200萬包機來回根本不可能",
       "link": "/bbs/Gossiping/M.1773378072.A.D76",
       "author": "turbomons",
       "board": "Gossiping",
       "publishTime": "2026/03/13 05:01",
       "imageUrl": "https://cache.pttweb.cc/imgur/FPlP05l/s/47f810cf6fb44185c3a97b1cb457330b"
+    },
+    {
+      "recommendScore": "177",
+      "recommendCount": "368",
+      "title": "[新聞] 快訊／美國宣布「暫時授權」購買俄羅斯海上石油",
+      "link": "/bbs/Gossiping/M.1773363320.A.C1E",
+      "author": "cosmite",
+      "board": "Gossiping",
+      "publishTime": "2026/03/13 00:55",
+      "imageUrl": ""
     }
   ]
 }
