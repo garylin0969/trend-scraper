@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-14T15:48:57.076Z",
+  "updated": "2026-03-14T15:58:40.199Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "350",
-      "recommendCount": "1167",
+      "recommendScore": "349",
+      "recommendCount": "1168",
       "title": "[新聞] 卓榮泰赴日挺職棒遭攻擊 蔡其昌：棒球沒顏色 莫讓外交突破變口水",
       "link": "/bbs/Baseball/M.1773467658.A.40E",
       "author": "ruka660101",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "404",
-      "recommendCount": "432",
+      "recommendScore": "407",
+      "recommendCount": "437",
       "title": "Re: [推薦] 足球[小律師]喀拉拉爆破手 @ 東孟加拉",
       "link": "/bbs/SportLottery/M.1773494541.A.C88",
       "author": "lotterywin",
@@ -124,6 +124,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/qOpt0P3/s/48c28496877819ace69eea98c73136c8"
     },
     {
+      "recommendScore": "296",
+      "recommendCount": "490",
+      "title": "[爆卦] 阿扁發表對卓院長私人外交事件",
+      "link": "/bbs/Gossiping/M.1773490950.A.E9A",
+      "author": "compiler100",
+      "board": "Gossiping",
+      "publishTime": "2026/03/14 12:22",
+      "imageUrl": "https://cache.pttweb.cc/imgur/JJPsLTy/s/49d0778b7ffbc113ea5efcae836724a8"
+    },
+    {
       "recommendScore": "357",
       "recommendCount": "371",
       "title": "Re: [LIVE] 日甲 大阪櫻花2:1京都不死鳥 場中",
@@ -144,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "276",
-      "recommendCount": "455",
-      "title": "[爆卦] 阿扁發表對卓院長私人外交事件",
-      "link": "/bbs/Gossiping/M.1773490950.A.E9A",
-      "author": "compiler100",
-      "board": "Gossiping",
-      "publishTime": "2026/03/14 12:22",
-      "imageUrl": "https://cache.pttweb.cc/imgur/JJPsLTy/s/49d0778b7ffbc113ea5efcae836724a8"
-    },
-    {
       "recommendScore": "299",
       "recommendCount": "338",
       "title": "[情報] 今日Stuart Fairchild",
@@ -161,6 +161,26 @@
       "author": "SeanLi1013",
       "board": "Baseball",
       "publishTime": "2026/03/13 22:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "266",
+      "recommendCount": "770",
+      "title": "[新聞] 蔡其昌曝卓榮泰赴日看球門票來源　強調：院長赴日這是大事",
+      "link": "/bbs/Baseball/M.1773491960.A.815",
+      "author": "Skyblueway",
+      "board": "Baseball",
+      "publishTime": "2026/03/14 12:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "197",
+      "recommendCount": "387",
+      "title": "[問卦] 大家不覺得怪嗎？反核人士都消失了？",
+      "link": "/bbs/Gossiping/M.1773489536.A.1FB",
+      "author": "sammy98",
+      "board": "Gossiping",
+      "publishTime": "2026/03/14 11:58",
       "imageUrl": ""
     },
     {
@@ -181,26 +201,6 @@
       "author": "bengowa",
       "board": "Baseball",
       "publishTime": "2026/03/14 02:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "249",
-      "recommendCount": "742",
-      "title": "[新聞] 蔡其昌曝卓榮泰赴日看球門票來源　強調：院長赴日這是大事",
-      "link": "/bbs/Baseball/M.1773491960.A.815",
-      "author": "Skyblueway",
-      "board": "Baseball",
-      "publishTime": "2026/03/14 12:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "194",
-      "recommendCount": "383",
-      "title": "[問卦] 大家不覺得怪嗎？反核人士都消失了？",
-      "link": "/bbs/Gossiping/M.1773489536.A.1FB",
-      "author": "sammy98",
-      "board": "Gossiping",
-      "publishTime": "2026/03/14 11:58",
       "imageUrl": ""
     }
   ]
