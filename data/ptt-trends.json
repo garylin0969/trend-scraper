@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-14T12:11:52.191Z",
+  "updated": "2026-03-14T12:33:45.778Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -61,6 +61,16 @@
       "author": "access4096",
       "board": "Baseball",
       "publishTime": "2026/03/14 04:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "270",
+      "recommendCount": "767",
+      "title": "Re: [新聞] 卓榮泰赴日挺職棒遭攻擊 蔡其昌：棒球沒顏色 莫讓外交突破變口水",
+      "link": "/bbs/Baseball/M.1773471988.A.425",
+      "author": "CrossroadMEI",
+      "board": "Baseball",
+      "publishTime": "2026/03/14 07:06",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "yousking",
       "board": "Stock",
       "publishTime": "2026/03/13 15:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "109",
-      "recommendCount": "354",
-      "title": "[新聞] 妻搶好市多化妝台遭炎上　老公發聲了「咒父母雙亡太過頭」",
-      "link": "/bbs/Gossiping/M.1773451289.A.9FA",
-      "author": "tiger911",
-      "board": "Gossiping",
-      "publishTime": "2026/03/14 01:21",
       "imageUrl": ""
     }
   ]
