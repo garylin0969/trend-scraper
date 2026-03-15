@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T23:49:26.112Z",
+  "updated": "2026-03-15T23:59:10.162Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "265",
-      "recommendCount": "1063",
+      "recommendScore": "267",
+      "recommendCount": "1067",
       "title": "[新聞] 批藍不如日治！賴清德又語出驚人「殖民是為東亞共榮」全網嚇壞了",
       "link": "/bbs/Gossiping/M.1773560297.A.13D",
       "author": "Sparda",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "252",
-      "recommendCount": "603",
+      "recommendScore": "254",
+      "recommendCount": "605",
       "title": "[問卦] 肺癌十年爆增九成！？癌症死亡之首",
       "link": "/bbs/Gossiping/M.1773573389.A.185",
       "author": "rondox",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "277",
-      "recommendCount": "364",
+      "recommendScore": "278",
+      "recommendCount": "365",
       "title": "[問卦] 菲律賓包機撤僑 機上移工部長隨機 (發錢)",
       "link": "/bbs/Gossiping/M.1773573291.A.182",
       "author": "BIA",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "216",
+      "recommendCount": "356",
+      "title": "[問卦] 哇靠 南韓軍機中東載211人返國",
+      "link": "/bbs/Gossiping/M.1773569649.A.039",
+      "author": "paericsson",
+      "board": "Gossiping",
+      "publishTime": "2026/03/15 10:14",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "228",
       "recommendCount": "427",
       "title": "[問題] 日本如果輸掉 算是「爆冷」出局嗎？",
@@ -191,16 +201,6 @@
       "author": "AustinRiley",
       "board": "Baseball",
       "publishTime": "2026/03/15 03:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "216",
-      "recommendCount": "355",
-      "title": "[問卦] 哇靠 南韓軍機中東載211人返國",
-      "link": "/bbs/Gossiping/M.1773569649.A.039",
-      "author": "paericsson",
-      "board": "Gossiping",
-      "publishTime": "2026/03/15 10:14",
       "imageUrl": ""
     }
   ]
