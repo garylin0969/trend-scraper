@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-15T07:29:26.242Z",
+  "updated": "2026-03-15T07:50:29.946Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "590",
-      "recommendCount": "689",
+      "recommendScore": "591",
+      "recommendCount": "690",
       "title": "[炸裂] 大谷翔平",
       "link": "/bbs/Baseball/M.1773537543.A.DC9",
       "author": "jayjen",
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "318",
+      "recommendCount": "424",
+      "title": "[花邊] 老巴：我保證! 湖人今晚一定輸！",
+      "link": "/bbs/NBA/M.1773541954.A.EA9",
+      "author": "pneumo",
+      "board": "NBA",
+      "publishTime": "2026/03/15 02:32",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "314",
       "recommendCount": "434",
       "title": "[炸裂] Wilyer Abreu",
@@ -111,26 +121,6 @@
       "author": "heaventrain",
       "board": "Baseball",
       "publishTime": "2026/03/15 03:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "360",
-      "recommendCount": "386",
-      "title": "Re: [LIVE] 日甲 大阪櫻花2:1京都不死鳥 場中",
-      "link": "/bbs/SportLottery/M.1773473677.A.2B5",
-      "author": "b032819",
-      "board": "SportLottery",
-      "publishTime": "2026/03/14 07:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "311",
-      "recommendCount": "417",
-      "title": "[花邊] 老巴：我保證! 湖人今晚一定輸！",
-      "link": "/bbs/NBA/M.1773541954.A.EA9",
-      "author": "pneumo",
-      "board": "NBA",
-      "publishTime": "2026/03/15 02:32",
       "imageUrl": ""
     },
     {
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "210",
-      "recommendCount": "375",
+      "recommendScore": "209",
+      "recommendCount": "376",
       "title": "[BOX ] Nuggets 125:127 Lakers",
       "link": "/bbs/NBA/M.1773545316.A.D8E",
       "author": "KC90",
       "board": "NBA",
       "publishTime": "2026/03/15 03:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "166",
+      "recommendCount": "338",
+      "title": "[討論] 井端是最大戰犯嗎？",
+      "link": "/bbs/Baseball/M.1773548326.A.496",
+      "author": "danny2451",
+      "board": "Baseball",
+      "publishTime": "2026/03/15 04:18",
       "imageUrl": ""
     }
   ]
