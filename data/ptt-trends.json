@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T15:02:01.781Z",
+  "updated": "2026-03-15T15:19:14.207Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "442",
-      "recommendCount": "718",
+      "recommendScore": "444",
+      "recommendCount": "722",
       "title": "[問卦] 台灣有什麼稱霸全世界的= =....?",
       "link": "/bbs/Gossiping/M.1773556255.A.DCC",
       "author": "sasaki3630",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "258",
-      "recommendCount": "1019",
+      "recommendScore": "259",
+      "recommendCount": "1021",
       "title": "[新聞] 批藍不如日治！賴清德又語出驚人「殖民是為東亞共榮」全網嚇壞了",
       "link": "/bbs/Gossiping/M.1773560297.A.13D",
       "author": "Sparda",
@@ -105,7 +105,7 @@
     },
     {
       "recommendScore": "237",
-      "recommendCount": "341",
+      "recommendCount": "343",
       "title": "[問卦] 北車發生什麼事了？",
       "link": "/bbs/Gossiping/M.1773543841.A.7A9",
       "author": "assholeparty",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "220",
-      "recommendCount": "316",
+      "recommendScore": "221",
+      "recommendCount": "317",
       "title": "[祭品] 日本贏球",
       "link": "/bbs/Baseball/M.1773546062.A.169",
       "author": "KONAMI",
@@ -144,14 +144,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "153",
-      "recommendCount": "499",
-      "title": "[問卦] 中共為何不攻台?",
-      "link": "/bbs/Gossiping/M.1773501217.A.59A",
-      "author": "tyrosine123",
-      "board": "Gossiping",
-      "publishTime": "2026/03/14 15:13",
+      "recommendScore": "379",
+      "recommendCount": "1045",
+      "title": "[討論] 輕小說家：我原以為台灣人會恨日本人",
+      "link": "/bbs/C_Chat/M.1773573972.A.D35",
+      "author": "GTES",
+      "board": "C_Chat",
+      "publishTime": "2026/03/15 11:26",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "243",
+      "recommendCount": "318",
+      "title": "[問卦] 菲律賓包機撤僑 機上移工部長隨機 (發錢)",
+      "link": "/bbs/Gossiping/M.1773573291.A.182",
+      "author": "BIA",
+      "board": "Gossiping",
+      "publishTime": "2026/03/15 11:14",
+      "imageUrl": "https://cache.pttweb.cc/imgur/OrB7pRh/s/3513ccc973e4c985b98d6af059cfa414"
     },
     {
       "recommendScore": "228",
@@ -164,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "241",
-      "recommendCount": "313",
-      "title": "[問卦] 菲律賓包機撤僑 機上移工部長隨機 (發錢)",
-      "link": "/bbs/Gossiping/M.1773573291.A.182",
-      "author": "BIA",
-      "board": "Gossiping",
-      "publishTime": "2026/03/15 11:14",
-      "imageUrl": "https://cache.pttweb.cc/imgur/OrB7pRh/s/3513ccc973e4c985b98d6af059cfa414"
-    },
-    {
       "recommendScore": "235",
       "recommendCount": "333",
       "title": "[分享] 委國教練:井端的牛棚調度\"讓人驚訝\"",
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "368",
-      "recommendCount": "1023",
-      "title": "[討論] 輕小說家：我原以為台灣人會恨日本人",
-      "link": "/bbs/C_Chat/M.1773573972.A.D35",
-      "author": "GTES",
-      "board": "C_Chat",
-      "publishTime": "2026/03/15 11:26",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "170",
       "recommendCount": "344",
       "title": "[討論] 井端是最大戰犯嗎？",
@@ -201,6 +191,16 @@
       "author": "danny2451",
       "board": "Baseball",
       "publishTime": "2026/03/15 04:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "205",
+      "recommendCount": "330",
+      "title": "[問卦] 哇靠 南韓軍機中東載211人返國",
+      "link": "/bbs/Gossiping/M.1773569649.A.039",
+      "author": "paericsson",
+      "board": "Gossiping",
+      "publishTime": "2026/03/15 10:14",
       "imageUrl": ""
     }
   ]
