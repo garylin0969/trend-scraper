@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T14:32:03.489Z",
+  "updated": "2026-03-15T14:51:34.022Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "440",
-      "recommendCount": "715",
+      "recommendScore": "441",
+      "recommendCount": "716",
       "title": "[問卦] 台灣有什麼稱霸全世界的= =....?",
       "link": "/bbs/Gossiping/M.1773556255.A.DCC",
       "author": "sasaki3630",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "256",
-      "recommendCount": "1000",
+      "recommendScore": "259",
+      "recommendCount": "1016",
       "title": "[新聞] 批藍不如日治！賴清德又語出驚人「殖民是為東亞共榮」全網嚇壞了",
       "link": "/bbs/Gossiping/M.1773560297.A.13D",
       "author": "Sparda",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "326",
-      "recommendCount": "439",
+      "recommendScore": "327",
+      "recommendCount": "440",
       "title": "[花邊] 老巴：我保證! 湖人今晚一定輸！",
       "link": "/bbs/NBA/M.1773541954.A.EA9",
       "author": "pneumo",
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "182",
-      "recommendCount": "463",
-      "title": "[新聞] 川普稱各國將一起派軍艦護航荷姆茲海峽！中日韓都被點名",
-      "link": "/bbs/Gossiping/M.1773499386.A.C41",
-      "author": "CREA",
-      "board": "Gossiping",
-      "publishTime": "2026/03/14 14:43",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "228",
       "recommendCount": "427",
       "title": "[問題] 日本如果輸掉 算是「爆冷」出局嗎？",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2026/03/15 11:14",
       "imageUrl": "https://cache.pttweb.cc/imgur/OrB7pRh/s/3513ccc973e4c985b98d6af059cfa414"
+    },
+    {
+      "recommendScore": "173",
+      "recommendCount": "401",
+      "title": "[新聞] 川普自爆伊朗想談但他拒絕停火原因！稱「可能再打哈格島純粹好玩」",
+      "link": "/bbs/Stock/M.1773536491.A.9AF",
+      "author": "justin531xx",
+      "board": "Stock",
+      "publishTime": "2026/03/15 01:01",
+      "imageUrl": ""
     }
   ]
 }
