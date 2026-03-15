@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T12:13:36.697Z",
+  "updated": "2026-03-15T12:34:01.234Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "421",
-      "recommendCount": "683",
+      "recommendScore": "426",
+      "recommendCount": "690",
       "title": "[問卦] 台灣有什麼稱霸全世界的= =....?",
       "link": "/bbs/Gossiping/M.1773556255.A.DCC",
       "author": "sasaki3630",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "224",
-      "recommendCount": "893",
+      "recommendScore": "228",
+      "recommendCount": "899",
       "title": "[新聞] 批藍不如日治！賴清德又語出驚人「殖民是為東亞共榮」全網嚇壞了",
       "link": "/bbs/Gossiping/M.1773560297.A.13D",
       "author": "Sparda",
@@ -72,16 +72,6 @@
       "board": "Baseball",
       "publishTime": "2026/03/14 22:29",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "373",
-      "recommendCount": "627",
-      "title": "[爆卦] 阿扁發表對卓院長私人外交事件",
-      "link": "/bbs/Gossiping/M.1773490950.A.E9A",
-      "author": "compiler100",
-      "board": "Gossiping",
-      "publishTime": "2026/03/14 12:22",
-      "imageUrl": "https://cache.pttweb.cc/imgur/JJPsLTy/s/49d0778b7ffbc113ea5efcae836724a8"
     },
     {
       "recommendScore": "314",
@@ -144,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "230",
+      "recommendCount": "334",
+      "title": "[問卦] 北車發生什麼事了？",
+      "link": "/bbs/Gossiping/M.1773543841.A.7A9",
+      "author": "assholeparty",
+      "board": "Gossiping",
+      "publishTime": "2026/03/15 03:04",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "223",
       "recommendCount": "398",
       "title": "[BOX ] Nuggets 125:127 Lakers",
@@ -151,16 +151,6 @@
       "author": "KC90",
       "board": "NBA",
       "publishTime": "2026/03/15 03:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "229",
-      "recommendCount": "331",
-      "title": "[問卦] 北車發生什麼事了？",
-      "link": "/bbs/Gossiping/M.1773543841.A.7A9",
-      "author": "assholeparty",
-      "board": "Gossiping",
-      "publishTime": "2026/03/15 03:04",
       "imageUrl": ""
     },
     {
@@ -174,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "219",
+      "recommendCount": "469",
+      "title": "[新聞] 多明尼加侮辱大谷翔平？球員記者會無禮「吐茶」　韓網怒轟太過分",
+      "link": "/bbs/Baseball/M.1773550253.A.862",
+      "author": "iamshana",
+      "board": "Baseball",
+      "publishTime": "2026/03/15 04:50",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "182",
       "recommendCount": "463",
       "title": "[新聞] 川普稱各國將一起派軍艦護航荷姆茲海峽！中日韓都被點名",
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "216",
-      "recommendCount": "466",
-      "title": "[新聞] 多明尼加侮辱大谷翔平？球員記者會無禮「吐茶」　韓網怒轟太過分",
-      "link": "/bbs/Baseball/M.1773550253.A.862",
-      "author": "iamshana",
-      "board": "Baseball",
-      "publishTime": "2026/03/15 04:50",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "228",
       "recommendCount": "427",
       "title": "[問題] 日本如果輸掉 算是「爆冷」出局嗎？",
@@ -201,6 +191,16 @@
       "author": "AustinRiley",
       "board": "Baseball",
       "publishTime": "2026/03/15 03:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "170",
+      "recommendCount": "344",
+      "title": "[討論] 井端是最大戰犯嗎？",
+      "link": "/bbs/Baseball/M.1773548326.A.496",
+      "author": "danny2451",
+      "board": "Baseball",
+      "publishTime": "2026/03/15 04:18",
       "imageUrl": ""
     }
   ]
