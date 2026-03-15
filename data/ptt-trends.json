@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T17:22:50.837Z",
+  "updated": "2026-03-15T17:42:30.329Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "448",
-      "recommendCount": "731",
+      "recommendCount": "734",
       "title": "[問卦] 台灣有什麼稱霸全世界的= =....?",
       "link": "/bbs/Gossiping/M.1773556255.A.DCC",
       "author": "sasaki3630",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "262",
-      "recommendCount": "1048",
+      "recommendScore": "263",
+      "recommendCount": "1049",
       "title": "[新聞] 批藍不如日治！賴清德又語出驚人「殖民是為東亞共榮」全網嚇壞了",
       "link": "/bbs/Gossiping/M.1773560297.A.13D",
       "author": "Sparda",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "474",
-      "recommendCount": "494",
+      "recommendScore": "491",
+      "recommendCount": "511",
       "title": "Re: [推薦] 足球[小律師]阿斯頓維拉 @ 曼聯",
       "link": "/bbs/SportLottery/M.1773589087.A.D3B",
       "author": "lotterywin",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "401",
-      "recommendCount": "1097",
+      "recommendScore": "406",
+      "recommendCount": "1109",
       "title": "[討論] 輕小說家：我原以為台灣人會恨日本人",
       "link": "/bbs/C_Chat/M.1773573972.A.D35",
       "author": "GTES",
@@ -114,14 +114,34 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "262",
-      "recommendCount": "344",
+      "recommendScore": "265",
+      "recommendCount": "347",
       "title": "[問卦] 菲律賓包機撤僑 機上移工部長隨機 (發錢)",
       "link": "/bbs/Gossiping/M.1773573291.A.182",
       "author": "BIA",
       "board": "Gossiping",
       "publishTime": "2026/03/15 11:14",
       "imageUrl": "https://cache.pttweb.cc/imgur/OrB7pRh/s/3513ccc973e4c985b98d6af059cfa414"
+    },
+    {
+      "recommendScore": "183",
+      "recommendCount": "422",
+      "title": "[問卦] 台派網友哭了！燈會無人機排字「我那小",
+      "link": "/bbs/Gossiping/M.1773584610.A.572",
+      "author": "Beatrice322",
+      "board": "Gossiping",
+      "publishTime": "2026/03/15 14:23",
+      "imageUrl": "https://cache.pttweb.cc/imgur/8ZrLosD/s/0ad8fc0a1df5a8b6f938cdb579fa2eab"
+    },
+    {
+      "recommendScore": "226",
+      "recommendCount": "529",
+      "title": "[問卦] 肺癌十年爆增九成！？癌症死亡之首",
+      "link": "/bbs/Gossiping/M.1773573389.A.185",
+      "author": "rondox",
+      "board": "Gossiping",
+      "publishTime": "2026/03/15 11:16",
+      "imageUrl": "https://cache.pttweb.cc/imgur/IqGlJlP/s/e45ca57a12764706bdb8bf3d95ecb70c"
     },
     {
       "recommendScore": "237",
@@ -164,18 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "218",
-      "recommendCount": "502",
-      "title": "[問卦] 肺癌十年爆增九成！？癌症死亡之首",
-      "link": "/bbs/Gossiping/M.1773573389.A.185",
-      "author": "rondox",
-      "board": "Gossiping",
-      "publishTime": "2026/03/15 11:16",
-      "imageUrl": "https://cache.pttweb.cc/imgur/IqGlJlP/s/e45ca57a12764706bdb8bf3d95ecb70c"
-    },
-    {
-      "recommendScore": "241",
-      "recommendCount": "341",
+      "recommendScore": "242",
+      "recommendCount": "342",
       "title": "[分享] 委國教練:井端的牛棚調度\"讓人驚訝\"",
       "link": "/bbs/Baseball/M.1773568485.A.F35",
       "author": "goetz",
@@ -191,16 +201,6 @@
       "author": "AustinRiley",
       "board": "Baseball",
       "publishTime": "2026/03/15 03:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "170",
-      "recommendCount": "344",
-      "title": "[討論] 井端是最大戰犯嗎？",
-      "link": "/bbs/Baseball/M.1773548326.A.496",
-      "author": "danny2451",
-      "board": "Baseball",
-      "publishTime": "2026/03/15 04:18",
       "imageUrl": ""
     }
   ]
