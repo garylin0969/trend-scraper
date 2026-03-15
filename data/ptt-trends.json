@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T20:24:26.088Z",
+  "updated": "2026-03-15T20:43:40.006Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "205",
+      "recommendCount": "466",
+      "title": "[問卦] 台派網友哭了！燈會無人機排字「我那小",
+      "link": "/bbs/Gossiping/M.1773584610.A.572",
+      "author": "Beatrice322",
+      "board": "Gossiping",
+      "publishTime": "2026/03/15 14:23",
+      "imageUrl": "https://cache.pttweb.cc/imgur/8ZrLosD/s/0ad8fc0a1df5a8b6f938cdb579fa2eab"
+    },
+    {
       "recommendScore": "136",
       "recommendCount": "395",
       "title": "[討論] 日職打者是不是打不到大聯盟投手的球",
@@ -104,18 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "203",
-      "recommendCount": "460",
-      "title": "[問卦] 台派網友哭了！燈會無人機排字「我那小",
-      "link": "/bbs/Gossiping/M.1773584610.A.572",
-      "author": "Beatrice322",
-      "board": "Gossiping",
-      "publishTime": "2026/03/15 14:23",
-      "imageUrl": "https://cache.pttweb.cc/imgur/8ZrLosD/s/0ad8fc0a1df5a8b6f938cdb579fa2eab"
-    },
-    {
-      "recommendScore": "242",
-      "recommendCount": "565",
+      "recommendScore": "243",
+      "recommendCount": "567",
       "title": "[問卦] 肺癌十年爆增九成！？癌症死亡之首",
       "link": "/bbs/Gossiping/M.1773573389.A.185",
       "author": "rondox",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "270",
-      "recommendCount": "357",
+      "recommendScore": "271",
+      "recommendCount": "358",
       "title": "[問卦] 菲律賓包機撤僑 機上移工部長隨機 (發錢)",
       "link": "/bbs/Gossiping/M.1773573291.A.182",
       "author": "BIA",
