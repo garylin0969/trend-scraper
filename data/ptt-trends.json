@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T11:43:37.377Z",
+  "updated": "2026-03-15T11:56:09.249Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,13 +24,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "409",
-      "recommendCount": "661",
+      "recommendScore": "417",
+      "recommendCount": "676",
       "title": "[問卦] 台灣有什麼稱霸全世界的= =....?",
       "link": "/bbs/Gossiping/M.1773556255.A.DCC",
       "author": "sasaki3630",
       "board": "Gossiping",
       "publishTime": "2026/03/15 06:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "224",
+      "recommendCount": "861",
+      "title": "[新聞] 批藍不如日治！賴清德又語出驚人「殖民是為東亞共榮」全網嚇壞了",
+      "link": "/bbs/Gossiping/M.1773560297.A.13D",
+      "author": "Sparda",
+      "board": "Gossiping",
+      "publishTime": "2026/03/15 07:38",
       "imageUrl": ""
     },
     {
@@ -41,16 +51,6 @@
       "author": "kemos82004",
       "board": "Baseball",
       "publishTime": "2026/03/15 02:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "216",
-      "recommendCount": "832",
-      "title": "[新聞] 批藍不如日治！賴清德又語出驚人「殖民是為東亞共榮」全網嚇壞了",
-      "link": "/bbs/Gossiping/M.1773560297.A.13D",
-      "author": "Sparda",
-      "board": "Gossiping",
-      "publishTime": "2026/03/15 07:38",
       "imageUrl": ""
     },
     {
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "215",
-      "recommendCount": "465",
+      "recommendScore": "216",
+      "recommendCount": "466",
       "title": "[新聞] 多明尼加侮辱大谷翔平？球員記者會無禮「吐茶」　韓網怒轟太過分",
       "link": "/bbs/Baseball/M.1773550253.A.862",
       "author": "iamshana",
