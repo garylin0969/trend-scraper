@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T08:21:25.319Z",
+  "updated": "2026-03-15T08:39:05.452Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "314",
-      "recommendCount": "1018",
+      "recommendCount": "1026",
       "title": "Re: [新聞] 蔡其昌曝卓榮泰赴日看球門票來源　強調：院長赴日這是大事",
       "link": "/bbs/Baseball/M.1773527341.A.8EF",
       "author": "yftsai",
@@ -104,8 +104,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "318",
-      "recommendCount": "424",
+      "recommendScore": "299",
+      "recommendCount": "446",
+      "title": "[問卦] 台灣有什麼稱霸全世界的= =....?",
+      "link": "/bbs/Gossiping/M.1773556255.A.DCC",
+      "author": "sasaki3630",
+      "board": "Gossiping",
+      "publishTime": "2026/03/15 06:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "320",
+      "recommendCount": "427",
       "title": "[花邊] 老巴：我保證! 湖人今晚一定輸！",
       "link": "/bbs/NBA/M.1773541954.A.EA9",
       "author": "pneumo",
@@ -131,16 +141,6 @@
       "author": "kech9111",
       "board": "Baseball",
       "publishTime": "2026/03/15 01:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "258",
-      "recommendCount": "387",
-      "title": "[問卦] 台灣有什麼稱霸全世界的= =....?",
-      "link": "/bbs/Gossiping/M.1773556255.A.DCC",
-      "author": "sasaki3630",
-      "board": "Gossiping",
-      "publishTime": "2026/03/15 06:30",
       "imageUrl": ""
     },
     {
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "217",
+      "recommendCount": "388",
+      "title": "[BOX ] Nuggets 125:127 Lakers",
+      "link": "/bbs/NBA/M.1773545316.A.D8E",
+      "author": "KC90",
+      "board": "NBA",
+      "publishTime": "2026/03/15 03:28",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "181",
       "recommendCount": "461",
       "title": "[新聞] 川普稱各國將一起派軍艦護航荷姆茲海峽！中日韓都被點名",
@@ -181,16 +191,6 @@
       "author": "CREA",
       "board": "Gossiping",
       "publishTime": "2026/03/14 14:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "214",
-      "recommendCount": "384",
-      "title": "[BOX ] Nuggets 125:127 Lakers",
-      "link": "/bbs/NBA/M.1773545316.A.D8E",
-      "author": "KC90",
-      "board": "NBA",
-      "publishTime": "2026/03/15 03:28",
       "imageUrl": ""
     },
     {
