@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T14:51:34.022Z",
+  "updated": "2026-03-15T15:02:01.781Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "441",
-      "recommendCount": "716",
+      "recommendScore": "442",
+      "recommendCount": "718",
       "title": "[問卦] 台灣有什麼稱霸全世界的= =....?",
       "link": "/bbs/Gossiping/M.1773556255.A.DCC",
       "author": "sasaki3630",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "259",
-      "recommendCount": "1016",
+      "recommendScore": "258",
+      "recommendCount": "1019",
       "title": "[新聞] 批藍不如日治！賴清德又語出驚人「殖民是為東亞共榮」全網嚇壞了",
       "link": "/bbs/Gossiping/M.1773560297.A.13D",
       "author": "Sparda",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "236",
-      "recommendCount": "340",
+      "recommendScore": "237",
+      "recommendCount": "341",
       "title": "[問卦] 北車發生什麼事了？",
       "link": "/bbs/Gossiping/M.1773543841.A.7A9",
       "author": "assholeparty",
@@ -164,13 +164,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "233",
-      "recommendCount": "330",
+      "recommendScore": "241",
+      "recommendCount": "313",
+      "title": "[問卦] 菲律賓包機撤僑 機上移工部長隨機 (發錢)",
+      "link": "/bbs/Gossiping/M.1773573291.A.182",
+      "author": "BIA",
+      "board": "Gossiping",
+      "publishTime": "2026/03/15 11:14",
+      "imageUrl": "https://cache.pttweb.cc/imgur/OrB7pRh/s/3513ccc973e4c985b98d6af059cfa414"
+    },
+    {
+      "recommendScore": "235",
+      "recommendCount": "333",
       "title": "[分享] 委國教練:井端的牛棚調度\"讓人驚訝\"",
       "link": "/bbs/Baseball/M.1773568485.A.F35",
       "author": "goetz",
       "board": "Baseball",
       "publishTime": "2026/03/15 09:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "368",
+      "recommendCount": "1023",
+      "title": "[討論] 輕小說家：我原以為台灣人會恨日本人",
+      "link": "/bbs/C_Chat/M.1773573972.A.D35",
+      "author": "GTES",
+      "board": "C_Chat",
+      "publishTime": "2026/03/15 11:26",
       "imageUrl": ""
     },
     {
@@ -181,26 +201,6 @@
       "author": "danny2451",
       "board": "Baseball",
       "publishTime": "2026/03/15 04:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "234",
-      "recommendCount": "303",
-      "title": "[問卦] 菲律賓包機撤僑 機上移工部長隨機 (發錢)",
-      "link": "/bbs/Gossiping/M.1773573291.A.182",
-      "author": "BIA",
-      "board": "Gossiping",
-      "publishTime": "2026/03/15 11:14",
-      "imageUrl": "https://cache.pttweb.cc/imgur/OrB7pRh/s/3513ccc973e4c985b98d6af059cfa414"
-    },
-    {
-      "recommendScore": "173",
-      "recommendCount": "401",
-      "title": "[新聞] 川普自爆伊朗想談但他拒絕停火原因！稱「可能再打哈格島純粹好玩」",
-      "link": "/bbs/Stock/M.1773536491.A.9AF",
-      "author": "justin531xx",
-      "board": "Stock",
-      "publishTime": "2026/03/15 01:01",
       "imageUrl": ""
     }
   ]
