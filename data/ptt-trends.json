@@ -1,8 +1,18 @@
 {
-  "updated": "2026-03-15T01:09:01.894Z",
+  "updated": "2026-03-15T01:52:13.715Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "587",
+      "recommendCount": "620",
+      "title": "Re: [推薦] 足球[小律師]亞特蘭大 @ 國際米蘭",
+      "link": "/bbs/SportLottery/M.1773503889.A.3BA",
+      "author": "lotterywin",
+      "board": "SportLottery",
+      "publishTime": "2026/03/14 15:58",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "352",
       "recommendCount": "1173",
@@ -14,18 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "578",
-      "recommendCount": "611",
-      "title": "Re: [推薦] 足球[小律師]亞特蘭大 @ 國際米蘭",
-      "link": "/bbs/SportLottery/M.1773503889.A.3BA",
-      "author": "lotterywin",
-      "board": "SportLottery",
-      "publishTime": "2026/03/14 15:58",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "343",
-      "recommendCount": "745",
+      "recommendCount": "746",
       "title": "[新聞] WBC籤表不公平？韓國慘敗後痛批：一切只為了「美國VS日本」鋪路",
       "link": "/bbs/Baseball/M.1773463927.A.A7C",
       "author": "access4096",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "434",
-      "recommendCount": "494",
+      "recommendScore": "436",
+      "recommendCount": "498",
       "title": "Re: [推薦] 足球[小律師]喀拉拉爆破手 @ 東孟加拉",
       "link": "/bbs/SportLottery/M.1773494541.A.C88",
       "author": "lotterywin",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "355",
-      "recommendCount": "595",
+      "recommendScore": "358",
+      "recommendCount": "602",
       "title": "[爆卦] 阿扁發表對卓院長私人外交事件",
       "link": "/bbs/Gossiping/M.1773490950.A.E9A",
       "author": "compiler100",
@@ -84,8 +84,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/JJPsLTy/s/49d0778b7ffbc113ea5efcae836724a8"
     },
     {
-      "recommendScore": "305",
-      "recommendCount": "935",
+      "recommendScore": "308",
+      "recommendCount": "948",
       "title": "[新聞] 蔡其昌曝卓榮泰赴日看球門票來源　強調：院長赴日這是大事",
       "link": "/bbs/Baseball/M.1773491960.A.815",
       "author": "Skyblueway",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "286",
-      "recommendCount": "487",
+      "recommendScore": "287",
+      "recommendCount": "488",
       "title": "[問卦] 范斯：油價飆漲是拜登造成的",
       "link": "/bbs/Gossiping/M.1773478463.A.1E0",
       "author": "bluehttp",
@@ -115,7 +115,7 @@
     },
     {
       "recommendScore": "360",
-      "recommendCount": "382",
+      "recommendCount": "383",
       "title": "Re: [LIVE] 日甲 大阪櫻花2:1京都不死鳥 場中",
       "link": "/bbs/SportLottery/M.1773473677.A.2B5",
       "author": "b032819",
@@ -131,6 +131,16 @@
       "author": "lee0820",
       "board": "Baseball",
       "publishTime": "2026/03/14 06:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "199",
+      "recommendCount": "703",
+      "title": "Re: [新聞] 蔡其昌曝卓榮泰赴日看球門票來源　強調：院長赴日這是大事",
+      "link": "/bbs/Baseball/M.1773527341.A.8EF",
+      "author": "yftsai",
+      "board": "Baseball",
+      "publishTime": "2026/03/14 22:29",
       "imageUrl": ""
     },
     {
@@ -154,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "197",
-      "recommendCount": "440",
-      "title": "[討論] 如果中華隊晉級打多明尼加 會被扣倒嗎？",
-      "link": "/bbs/Baseball/M.1773451562.A.BCC",
-      "author": "AustinRiley",
-      "board": "Baseball",
-      "publishTime": "2026/03/14 01:26",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "181",
       "recommendCount": "426",
       "title": "[問卦] 中油吸收9.5元是什麼概念",
@@ -174,8 +174,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/xYNdpcQ/s/6e5dc2fb52ecad750c8db15a612daf02"
     },
     {
-      "recommendScore": "171",
-      "recommendCount": "522",
+      "recommendScore": "172",
+      "recommendCount": "523",
       "title": "[新聞] 郭台銘收購茶葉積欠8千萬 茶農赴信義豪宅、愛妻墓園撒冥紙",
       "link": "/bbs/Gossiping/M.1773466319.A.C06",
       "author": "stoneruler",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "174",
-      "recommendCount": "443",
+      "recommendScore": "177",
+      "recommendCount": "449",
       "title": "[新聞] 川普稱各國將一起派軍艦護航荷姆茲海峽！中日韓都被點名",
       "link": "/bbs/Gossiping/M.1773499386.A.C41",
       "author": "CREA",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "120",
-      "recommendCount": "432",
-      "title": "[新聞] 妻搶好市多化妝台遭炎上　老公發聲了「咒父母雙亡太過頭」",
-      "link": "/bbs/Gossiping/M.1773451289.A.9FA",
-      "author": "tiger911",
+      "recommendScore": "-94",
+      "recommendCount": "339",
+      "title": "[新聞] 賴清德：台灣已是主權獨立的國家、不需另外宣布獨立",
+      "link": "/bbs/Gossiping/M.1773461459.A.D44",
+      "author": "lycppt",
       "board": "Gossiping",
-      "publishTime": "2026/03/14 01:21",
+      "publishTime": "2026/03/14 04:10",
       "imageUrl": ""
     }
   ]
