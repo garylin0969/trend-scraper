@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T09:32:46.225Z",
+  "updated": "2026-03-15T09:51:57.864Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "364",
+      "recommendCount": "565",
+      "title": "[問卦] 台灣有什麼稱霸全世界的= =....?",
+      "link": "/bbs/Gossiping/M.1773556255.A.DCC",
+      "author": "sasaki3630",
+      "board": "Gossiping",
+      "publishTime": "2026/03/15 06:30",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "372",
       "recommendCount": "625",
       "title": "[爆卦] 阿扁發表對卓院長私人外交事件",
@@ -61,16 +71,6 @@
       "author": "yftsai",
       "board": "Baseball",
       "publishTime": "2026/03/14 22:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "343",
-      "recommendCount": "533",
-      "title": "[問卦] 台灣有什麼稱霸全世界的= =....?",
-      "link": "/bbs/Gossiping/M.1773556255.A.DCC",
-      "author": "sasaki3630",
-      "board": "Gossiping",
-      "publishTime": "2026/03/15 06:30",
       "imageUrl": ""
     },
     {
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "321",
-      "recommendCount": "429",
+      "recommendScore": "322",
+      "recommendCount": "430",
       "title": "[花邊] 老巴：我保證! 湖人今晚一定輸！",
       "link": "/bbs/NBA/M.1773541954.A.EA9",
       "author": "pneumo",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "219",
-      "recommendCount": "391",
+      "recommendScore": "220",
+      "recommendCount": "392",
       "title": "[BOX ] Nuggets 125:127 Lakers",
       "link": "/bbs/NBA/M.1773545316.A.D8E",
       "author": "KC90",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "144",
+      "recommendCount": "534",
+      "title": "[新聞] 批藍不如日治！賴清德又語出驚人「殖民是為東亞共榮」全網嚇壞了",
+      "link": "/bbs/Gossiping/M.1773560297.A.13D",
+      "author": "Sparda",
+      "board": "Gossiping",
+      "publishTime": "2026/03/15 07:38",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "227",
       "recommendCount": "426",
       "title": "[問題] 日本如果輸掉 算是「爆冷」出局嗎？",
@@ -191,16 +201,6 @@
       "author": "AustinRiley",
       "board": "Baseball",
       "publishTime": "2026/03/15 03:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "214",
-      "recommendCount": "310",
-      "title": "[問卦] 北車發生什麼事了？",
-      "link": "/bbs/Gossiping/M.1773543841.A.7A9",
-      "author": "assholeparty",
-      "board": "Gossiping",
-      "publishTime": "2026/03/15 03:04",
       "imageUrl": ""
     }
   ]
