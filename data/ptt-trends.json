@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T10:09:45.220Z",
+  "updated": "2026-03-15T10:23:43.228Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "376",
+      "recommendCount": "602",
+      "title": "[問卦] 台灣有什麼稱霸全世界的= =....?",
+      "link": "/bbs/Gossiping/M.1773556255.A.DCC",
+      "author": "sasaki3630",
+      "board": "Gossiping",
+      "publishTime": "2026/03/15 06:30",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "442",
       "recommendCount": "547",
       "title": "[炸裂] 森下翔太",
@@ -31,16 +41,6 @@
       "author": "kemos82004",
       "board": "Baseball",
       "publishTime": "2026/03/15 02:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "371",
-      "recommendCount": "583",
-      "title": "[問卦] 台灣有什麼稱霸全世界的= =....?",
-      "link": "/bbs/Gossiping/M.1773556255.A.DCC",
-      "author": "sasaki3630",
-      "board": "Gossiping",
-      "publishTime": "2026/03/15 06:30",
       "imageUrl": ""
     },
     {
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "318",
+      "recommendCount": "1035",
+      "title": "Re: [新聞] 蔡其昌曝卓榮泰赴日看球門票來源　強調：院長赴日這是大事",
+      "link": "/bbs/Baseball/M.1773527341.A.8EF",
+      "author": "yftsai",
+      "board": "Baseball",
+      "publishTime": "2026/03/14 22:29",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "372",
       "recommendCount": "625",
       "title": "[爆卦] 阿扁發表對卓院長私人外交事件",
@@ -62,16 +72,6 @@
       "board": "Gossiping",
       "publishTime": "2026/03/14 12:22",
       "imageUrl": "https://cache.pttweb.cc/imgur/JJPsLTy/s/49d0778b7ffbc113ea5efcae836724a8"
-    },
-    {
-      "recommendScore": "317",
-      "recommendCount": "1034",
-      "title": "Re: [新聞] 蔡其昌曝卓榮泰赴日看球門票來源　強調：院長赴日這是大事",
-      "link": "/bbs/Baseball/M.1773527341.A.8EF",
-      "author": "yftsai",
-      "board": "Baseball",
-      "publishTime": "2026/03/14 22:29",
-      "imageUrl": ""
     },
     {
       "recommendScore": "314",
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "323",
-      "recommendCount": "432",
+      "recommendCount": "433",
       "title": "[花邊] 老巴：我保證! 湖人今晚一定輸！",
       "link": "/bbs/NBA/M.1773541954.A.EA9",
       "author": "pneumo",
@@ -114,13 +114,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "303",
-      "recommendCount": "395",
+      "recommendScore": "305",
+      "recommendCount": "397",
       "title": "[爆卦] 地震",
       "link": "/bbs/Gossiping/M.1773562541.A.708",
       "author": "bray",
       "board": "Gossiping",
       "publishTime": "2026/03/15 08:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "169",
+      "recommendCount": "637",
+      "title": "[新聞] 批藍不如日治！賴清德又語出驚人「殖民是為東亞共榮」全網嚇壞了",
+      "link": "/bbs/Gossiping/M.1773560297.A.13D",
+      "author": "Sparda",
+      "board": "Gossiping",
+      "publishTime": "2026/03/15 07:38",
       "imageUrl": ""
     },
     {
@@ -131,16 +141,6 @@
       "author": "kech9111",
       "board": "Baseball",
       "publishTime": "2026/03/15 01:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "164",
-      "recommendCount": "617",
-      "title": "[新聞] 批藍不如日治！賴清德又語出驚人「殖民是為東亞共榮」全網嚇壞了",
-      "link": "/bbs/Gossiping/M.1773560297.A.13D",
-      "author": "Sparda",
-      "board": "Gossiping",
-      "publishTime": "2026/03/15 07:38",
       "imageUrl": ""
     },
     {
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "221",
-      "recommendCount": "318",
+      "recommendScore": "223",
+      "recommendCount": "321",
       "title": "[問卦] 北車發生什麼事了？",
       "link": "/bbs/Gossiping/M.1773543841.A.7A9",
       "author": "assholeparty",
