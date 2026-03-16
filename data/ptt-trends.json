@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-16T08:16:00.987Z",
+  "updated": "2026-03-16T08:39:39.499Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "258",
+      "recommendCount": "638",
+      "title": "[新聞] 中天主播「馬德」捲共諜案羈押快滿2個月",
+      "link": "/bbs/Gossiping/M.1773625452.A.3EE",
+      "author": "seiya2000",
+      "board": "Gossiping",
+      "publishTime": "2026/03/16 01:44",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "256",
       "recommendCount": "583",
       "title": "[問卦] 台派網友哭了！燈會無人機排字「我那小",
@@ -34,18 +44,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/8ZrLosD/s/0ad8fc0a1df5a8b6f938cdb579fa2eab"
     },
     {
-      "recommendScore": "255",
-      "recommendCount": "633",
-      "title": "[新聞] 中天主播「馬德」捲共諜案羈押快滿2個月",
-      "link": "/bbs/Gossiping/M.1773625452.A.3EE",
-      "author": "seiya2000",
+      "recommendScore": "281",
+      "recommendCount": "682",
+      "title": "[問卦] 軍方：包機使用松指部沒有發公文",
+      "link": "/bbs/Gossiping/M.1773637996.A.035",
+      "author": "gmisnotme",
       "board": "Gossiping",
-      "publishTime": "2026/03/16 01:44",
+      "publishTime": "2026/03/16 05:13",
       "imageUrl": ""
     },
     {
-      "recommendScore": "316",
-      "recommendCount": "1106",
+      "recommendScore": "319",
+      "recommendCount": "1130",
       "title": "[問卦] 離職預告期",
       "link": "/bbs/Gossiping/M.1773615320.A.969",
       "author": "aryue",
@@ -55,7 +65,7 @@
     },
     {
       "recommendScore": "122",
-      "recommendCount": "589",
+      "recommendCount": "595",
       "title": "[新聞] 劉世芳不上台！李貞秀首質詢遭阻「官員不必上台答詢」　雙方僵持5分鐘",
       "link": "/bbs/Gossiping/M.1773629584.A.D09",
       "author": "omanorboyo",
@@ -65,7 +75,7 @@
     },
     {
       "recommendScore": "270",
-      "recommendCount": "645",
+      "recommendCount": "646",
       "title": "[問卦] 肺癌十年爆增九成！？癌症死亡之首",
       "link": "/bbs/Gossiping/M.1773573389.A.185",
       "author": "rondox",
@@ -74,33 +84,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/IqGlJlP/s/e45ca57a12764706bdb8bf3d95ecb70c"
     },
     {
-      "recommendScore": "266",
-      "recommendCount": "645",
-      "title": "[問卦] 軍方：包機使用松指部沒有發公文",
-      "link": "/bbs/Gossiping/M.1773637996.A.035",
-      "author": "gmisnotme",
-      "board": "Gossiping",
-      "publishTime": "2026/03/16 05:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "307",
-      "recommendCount": "401",
-      "title": "[爆卦] 地震",
-      "link": "/bbs/Gossiping/M.1773562541.A.708",
-      "author": "bray",
-      "board": "Gossiping",
-      "publishTime": "2026/03/15 08:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "435",
-      "recommendCount": "1211",
+      "recommendScore": "436",
+      "recommendCount": "1218",
       "title": "[討論] 輕小說家：我原以為台灣人會恨日本人",
       "link": "/bbs/C_Chat/M.1773573972.A.D35",
       "author": "GTES",
       "board": "C_Chat",
       "publishTime": "2026/03/15 11:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "308",
+      "recommendCount": "422",
+      "title": "[問卦] 中正紀念堂發生什麼事了？",
+      "link": "/bbs/Gossiping/M.1773642325.A.04E",
+      "author": "ambitious",
+      "board": "Gossiping",
+      "publishTime": "2026/03/16 06:25",
       "imageUrl": ""
     },
     {
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "276",
-      "recommendCount": "370",
-      "title": "[問卦] 中正紀念堂發生什麼事了？",
-      "link": "/bbs/Gossiping/M.1773642325.A.04E",
-      "author": "ambitious",
-      "board": "Gossiping",
-      "publishTime": "2026/03/16 06:25",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "222",
       "recommendCount": "371",
       "title": "[問卦] 哇靠 南韓軍機中東載211人返國",
@@ -144,13 +134,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "302",
-      "recommendCount": "312",
+      "recommendScore": "303",
+      "recommendCount": "313",
       "title": "[分享] 感謝曾豪駒總教練的付出(文末發P)",
       "link": "/bbs/Baseball/M.1773602946.A.6FE",
       "author": "jses1",
       "board": "Baseball",
       "publishTime": "2026/03/15 19:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "261",
+      "recommendCount": "333",
+      "title": "[問卦] 越南發生什麼事了?",
+      "link": "/bbs/Gossiping/M.1773646705.A.8E5",
+      "author": "REMIOROMEN",
+      "board": "Gossiping",
+      "publishTime": "2026/03/16 07:38",
       "imageUrl": ""
     },
     {
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "184",
-      "recommendCount": "494",
+      "recommendScore": "185",
+      "recommendCount": "495",
       "title": "[新聞] 「比日本殖民還差」賴清德狠批國民黨　蔡正元揭日治驚人歷史",
       "link": "/bbs/Gossiping/M.1773576369.A.EDC",
       "author": "CREA",
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "262",
-      "recommendCount": "286",
+      "recommendScore": "263",
+      "recommendCount": "287",
       "title": "[炸裂] Stuart Fairchild",
       "link": "/bbs/Baseball/M.1773613676.A.458",
       "author": "SeanLi1013",
