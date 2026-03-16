@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-16T17:14:41.320Z",
+  "updated": "2026-03-16T17:41:37.267Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "742",
-      "recommendCount": "962",
+      "recommendScore": "744",
+      "recommendCount": "964",
       "title": "[問卦] 越南發生什麼事了?",
       "link": "/bbs/Gossiping/M.1773646705.A.8E5",
       "author": "REMIOROMEN",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "448",
-      "recommendCount": "620",
+      "recommendScore": "450",
+      "recommendCount": "622",
       "title": "[問卦] 中正紀念堂發生什麼事了？",
       "link": "/bbs/Gossiping/M.1773642325.A.04E",
       "author": "ambitious",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "260",
-      "recommendCount": "660",
+      "recommendScore": "261",
+      "recommendCount": "661",
       "title": "[新聞] 中天主播「馬德」捲共諜案羈押快滿2個月",
       "link": "/bbs/Gossiping/M.1773625452.A.3EE",
       "author": "seiya2000",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "381",
-      "recommendCount": "447",
+      "recommendScore": "397",
+      "recommendCount": "464",
       "title": "Re: [推薦] 足球[小律師]果阿邦 @ 旁遮普",
       "link": "/bbs/SportLottery/M.1773674097.A.E84",
       "author": "lotterywin",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "195",
-      "recommendCount": "555",
+      "recommendScore": "196",
+      "recommendCount": "558",
       "title": "[新聞] 8年砸近6千億元催生無功、2月新生兒創低",
       "link": "/bbs/Gossiping/M.1773653304.A.C1F",
       "author": "sploo",
@@ -115,7 +115,7 @@
     },
     {
       "recommendScore": "206",
-      "recommendCount": "575",
+      "recommendCount": "577",
       "title": "Re: [新聞] 劉世芳不上台！李貞秀首質詢遭阻「官員不必上台答詢」　雙方僵持5分鐘",
       "link": "/bbs/Gossiping/M.1773639141.A.4B9",
       "author": "noway",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "272",
-      "recommendCount": "414",
+      "recommendScore": "275",
+      "recommendCount": "418",
       "title": "[新聞] 貝森特：美國允許伊朗油輪通過荷姆茲海峽",
       "link": "/bbs/Stock/M.1773670099.A.503",
       "author": "vernc",
@@ -154,7 +154,17 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "654",
+      "recommendScore": "253",
+      "recommendCount": "500",
+      "title": "[討論] 為什麼「炸串」在台灣流行不起來？",
+      "link": "/bbs/C_Chat/M.1773652148.A.1D2",
+      "author": "GTES",
+      "board": "C_Chat",
+      "publishTime": "2026/03/16 09:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "651",
       "recommendCount": "1406",
       "title": "[電競] 2026 First Stand 第一階段 Day1",
       "link": "/bbs/LoL/M.1773662806.A.611",
@@ -164,13 +174,13 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/Huzdufv/s/1580060036900bd263d6ef4c9cf7f85d"
     },
     {
-      "recommendScore": "253",
-      "recommendCount": "500",
-      "title": "[討論] 為什麼「炸串」在台灣流行不起來？",
-      "link": "/bbs/C_Chat/M.1773652148.A.1D2",
-      "author": "GTES",
-      "board": "C_Chat",
-      "publishTime": "2026/03/16 09:09",
+      "recommendScore": "212",
+      "recommendCount": "281",
+      "title": "Re: [LIVE] 電競-LOL 無懼之狐X@BLG戰隊 單場",
+      "link": "/bbs/SportLottery/M.1773675102.A.1DB",
+      "author": "bvbin10242",
+      "board": "SportLottery",
+      "publishTime": "2026/03/16 15:31",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/03/16 02:50",
       "imageUrl": "https://cache.pttweb.cc/imgur/JrcYB9o/s/b03639dfd6db4fa178280a305218702e"
-    },
-    {
-      "recommendScore": "264",
-      "recommendCount": "288",
-      "title": "[炸裂] Stuart Fairchild",
-      "link": "/bbs/Baseball/M.1773613676.A.458",
-      "author": "SeanLi1013",
-      "board": "Baseball",
-      "publishTime": "2026/03/15 22:27",
-      "imageUrl": ""
     }
   ]
 }
