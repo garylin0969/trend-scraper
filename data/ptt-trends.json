@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-16T11:25:48.239Z",
+  "updated": "2026-03-16T11:47:27.859Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "598",
-      "recommendCount": "763",
+      "recommendScore": "615",
+      "recommendCount": "786",
       "title": "[問卦] 越南發生什麼事了?",
       "link": "/bbs/Gossiping/M.1773646705.A.8E5",
       "author": "REMIOROMEN",
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "404",
+      "recommendCount": "562",
+      "title": "[問卦] 中正紀念堂發生什麼事了？",
+      "link": "/bbs/Gossiping/M.1773642325.A.04E",
+      "author": "ambitious",
+      "board": "Gossiping",
+      "publishTime": "2026/03/16 06:25",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "320",
       "recommendCount": "763",
       "title": "[問卦] 軍方：包機使用松指部沒有發公文",
@@ -41,16 +51,6 @@
       "author": "gmisnotme",
       "board": "Gossiping",
       "publishTime": "2026/03/16 05:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "398",
-      "recommendCount": "552",
-      "title": "[問卦] 中正紀念堂發生什麼事了？",
-      "link": "/bbs/Gossiping/M.1773642325.A.04E",
-      "author": "ambitious",
-      "board": "Gossiping",
-      "publishTime": "2026/03/16 06:25",
       "imageUrl": ""
     },
     {
@@ -94,16 +94,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "436",
-      "recommendCount": "1218",
-      "title": "[討論] 輕小說家：我原以為台灣人會恨日本人",
-      "link": "/bbs/C_Chat/M.1773573972.A.D35",
-      "author": "GTES",
-      "board": "C_Chat",
-      "publishTime": "2026/03/15 11:26",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "229",
       "recommendCount": "417",
       "title": "[討論] 經典賽是不是證明了ABS很有必要",
@@ -114,13 +104,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "306",
-      "recommendCount": "316",
+      "recommendScore": "307",
+      "recommendCount": "317",
       "title": "[分享] 感謝曾豪駒總教練的付出(文末發P)",
       "link": "/bbs/Baseball/M.1773602946.A.6FE",
       "author": "jses1",
       "board": "Baseball",
       "publishTime": "2026/03/15 19:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "190",
+      "recommendCount": "526",
+      "title": "Re: [新聞] 劉世芳不上台！李貞秀首質詢遭阻「官員不必上台答詢」　雙方僵持5分鐘",
+      "link": "/bbs/Gossiping/M.1773639141.A.4B9",
+      "author": "noway",
+      "board": "Gossiping",
+      "publishTime": "2026/03/16 05:32",
       "imageUrl": ""
     },
     {
@@ -134,18 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "189",
-      "recommendCount": "517",
-      "title": "Re: [新聞] 劉世芳不上台！李貞秀首質詢遭阻「官員不必上台答詢」　雙方僵持5分鐘",
-      "link": "/bbs/Gossiping/M.1773639141.A.4B9",
-      "author": "noway",
-      "board": "Gossiping",
-      "publishTime": "2026/03/16 05:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "194",
-      "recommendCount": "307",
+      "recommendScore": "195",
+      "recommendCount": "308",
       "title": "[情報] 115年03月16日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1773645187.A.94C",
       "author": "coconing",
@@ -164,24 +154,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "172",
-      "recommendCount": "398",
-      "title": "[爆卦] 以色列準備動員45萬士兵入侵黎巴嫩",
-      "link": "/bbs/Gossiping/M.1773629403.A.F97",
-      "author": "bluehttp",
-      "board": "Gossiping",
-      "publishTime": "2026/03/16 02:50",
-      "imageUrl": "https://cache.pttweb.cc/imgur/JrcYB9o/s/b03639dfd6db4fa178280a305218702e"
-    },
-    {
-      "recommendScore": "260",
-      "recommendCount": "364",
+      "recommendScore": "264",
+      "recommendCount": "368",
       "title": "[討論] 史上最粗綠線",
       "link": "/bbs/MobileComm/M.1773575711.A.0F9",
       "author": "peoplemore",
       "board": "MobileComm",
       "publishTime": "2026/03/15 11:55",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "173",
+      "recommendCount": "403",
+      "title": "[爆卦] 以色列準備動員45萬士兵入侵黎巴嫩",
+      "link": "/bbs/Gossiping/M.1773629403.A.F97",
+      "author": "bluehttp",
+      "board": "Gossiping",
+      "publishTime": "2026/03/16 02:50",
+      "imageUrl": "https://cache.pttweb.cc/imgur/JrcYB9o/s/b03639dfd6db4fa178280a305218702e"
     },
     {
       "recommendScore": "157",
@@ -201,6 +191,16 @@
       "author": "wudahui",
       "board": "Baseball",
       "publishTime": "2026/03/16 03:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "136",
+      "recommendCount": "406",
+      "title": "[問卦]林志穎砸2億買法拉利 錢到底從哪來的啊？",
+      "link": "/bbs/Gossiping/M.1773586862.A.377",
+      "author": "a91153456",
+      "board": "Gossiping",
+      "publishTime": "2026/03/15 15:01",
       "imageUrl": ""
     }
   ]
