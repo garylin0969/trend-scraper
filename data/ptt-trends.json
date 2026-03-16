@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-16T19:02:15.582Z",
+  "updated": "2026-03-16T19:33:06.713Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "415",
-      "recommendCount": "486",
+      "recommendScore": "417",
+      "recommendCount": "489",
       "title": "Re: [推薦] 足球[小律師]果阿邦 @ 旁遮普",
       "link": "/bbs/SportLottery/M.1773674097.A.E84",
       "author": "lotterywin",
@@ -85,7 +85,7 @@
     },
     {
       "recommendScore": "198",
-      "recommendCount": "561",
+      "recommendCount": "564",
       "title": "[新聞] 8年砸近6千億元催生無功、2月新生兒創低",
       "link": "/bbs/Gossiping/M.1773653304.A.C1F",
       "author": "sploo",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "291",
-      "recommendCount": "359",
+      "recommendScore": "293",
+      "recommendCount": "361",
       "title": "[問卦] 日本飛田新地發生什麼事",
       "link": "/bbs/Gossiping/M.1773650359.A.E9D",
       "author": "bower1025",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "296",
-      "recommendCount": "448",
+      "recommendScore": "297",
+      "recommendCount": "449",
       "title": "[新聞] 貝森特：美國允許伊朗油輪通過荷姆茲海峽",
       "link": "/bbs/Stock/M.1773670099.A.503",
       "author": "vernc",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "578",
+      "recommendScore": "206",
+      "recommendCount": "581",
       "title": "Re: [新聞] 劉世芳不上台！李貞秀首質詢遭阻「官員不必上台答詢」　雙方僵持5分鐘",
       "link": "/bbs/Gossiping/M.1773639141.A.4B9",
       "author": "noway",
@@ -144,18 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "308",
-      "recommendCount": "318",
-      "title": "[分享] 感謝曾豪駒總教練的付出(文末發P)",
-      "link": "/bbs/Baseball/M.1773602946.A.6FE",
-      "author": "jses1",
-      "board": "Baseball",
-      "publishTime": "2026/03/15 19:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "253",
-      "recommendCount": "500",
+      "recommendScore": "254",
+      "recommendCount": "501",
       "title": "[討論] 為什麼「炸串」在台灣流行不起來？",
       "link": "/bbs/C_Chat/M.1773652148.A.1D2",
       "author": "GTES",
@@ -164,14 +154,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "220",
-      "recommendCount": "293",
+      "recommendScore": "221",
+      "recommendCount": "295",
       "title": "Re: [LIVE] 電競-LOL 無懼之狐X@BLG戰隊 單場",
       "link": "/bbs/SportLottery/M.1773675102.A.1DB",
       "author": "bvbin10242",
       "board": "SportLottery",
       "publishTime": "2026/03/16 15:31",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "736",
+      "recommendCount": "1406",
+      "title": "[電競] 2026 First Stand 第一階段 Day1",
+      "link": "/bbs/LoL/M.1773662806.A.611",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2026/03/16 12:06",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Huzdufv/s/1580060036900bd263d6ef4c9cf7f85d"
     },
     {
       "recommendScore": "199",
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "732",
-      "recommendCount": "1406",
-      "title": "[電競] 2026 First Stand 第一階段 Day1",
-      "link": "/bbs/LoL/M.1773662806.A.611",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2026/03/16 12:06",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Huzdufv/s/1580060036900bd263d6ef4c9cf7f85d"
-    },
-    {
       "recommendScore": "176",
       "recommendCount": "412",
       "title": "[爆卦] 以色列準備動員45萬士兵入侵黎巴嫩",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2026/03/16 02:50",
       "imageUrl": "https://cache.pttweb.cc/imgur/JrcYB9o/s/b03639dfd6db4fa178280a305218702e"
+    },
+    {
+      "recommendScore": "264",
+      "recommendCount": "288",
+      "title": "[炸裂] Stuart Fairchild",
+      "link": "/bbs/Baseball/M.1773613676.A.458",
+      "author": "SeanLi1013",
+      "board": "Baseball",
+      "publishTime": "2026/03/15 22:27",
+      "imageUrl": ""
     }
   ]
 }
