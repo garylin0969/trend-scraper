@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-16T11:01:16.323Z",
+  "updated": "2026-03-16T11:25:48.239Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "560",
-      "recommendCount": "715",
+      "recommendScore": "598",
+      "recommendCount": "763",
       "title": "[問卦] 越南發生什麼事了?",
       "link": "/bbs/Gossiping/M.1773646705.A.8E5",
       "author": "REMIOROMEN",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "321",
-      "recommendCount": "679",
+      "recommendScore": "322",
+      "recommendCount": "681",
       "title": "[新聞] 快訊／川普威脅「取消川習會」　施壓中國打通荷莫茲海峽",
       "link": "/bbs/Stock/M.1773618903.A.322",
       "author": "qazxc1156892",
@@ -34,13 +34,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "316",
-      "recommendCount": "758",
+      "recommendScore": "320",
+      "recommendCount": "763",
       "title": "[問卦] 軍方：包機使用松指部沒有發公文",
       "link": "/bbs/Gossiping/M.1773637996.A.035",
       "author": "gmisnotme",
       "board": "Gossiping",
       "publishTime": "2026/03/16 05:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "398",
+      "recommendCount": "552",
+      "title": "[問卦] 中正紀念堂發生什麼事了？",
+      "link": "/bbs/Gossiping/M.1773642325.A.04E",
+      "author": "ambitious",
+      "board": "Gossiping",
+      "publishTime": "2026/03/16 06:25",
       "imageUrl": ""
     },
     {
@@ -51,16 +61,6 @@
       "author": "seiya2000",
       "board": "Gossiping",
       "publishTime": "2026/03/16 01:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "389",
-      "recommendCount": "541",
-      "title": "[問卦] 中正紀念堂發生什麼事了？",
-      "link": "/bbs/Gossiping/M.1773642325.A.04E",
-      "author": "ambitious",
-      "board": "Gossiping",
-      "publishTime": "2026/03/16 06:25",
       "imageUrl": ""
     },
     {
@@ -84,24 +84,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "326",
-      "recommendCount": "1151",
+      "recommendScore": "327",
+      "recommendCount": "1152",
       "title": "[問卦] 離職預告期",
       "link": "/bbs/Gossiping/M.1773615320.A.969",
       "author": "aryue",
       "board": "Gossiping",
       "publishTime": "2026/03/15 22:55",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "271",
-      "recommendCount": "647",
-      "title": "[問卦] 肺癌十年爆增九成！？癌症死亡之首",
-      "link": "/bbs/Gossiping/M.1773573389.A.185",
-      "author": "rondox",
-      "board": "Gossiping",
-      "publishTime": "2026/03/15 11:16",
-      "imageUrl": "https://cache.pttweb.cc/imgur/IqGlJlP/s/e45ca57a12764706bdb8bf3d95ecb70c"
     },
     {
       "recommendScore": "436",
@@ -112,16 +102,6 @@
       "board": "C_Chat",
       "publishTime": "2026/03/15 11:26",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "286",
-      "recommendCount": "379",
-      "title": "[問卦] 菲律賓包機撤僑 機上移工部長隨機 (發錢)",
-      "link": "/bbs/Gossiping/M.1773573291.A.182",
-      "author": "BIA",
-      "board": "Gossiping",
-      "publishTime": "2026/03/15 11:14",
-      "imageUrl": "https://cache.pttweb.cc/imgur/OrB7pRh/s/3513ccc973e4c985b98d6af059cfa414"
     },
     {
       "recommendScore": "229",
@@ -154,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "187",
-      "recommendCount": "514",
+      "recommendScore": "189",
+      "recommendCount": "517",
       "title": "Re: [新聞] 劉世芳不上台！李貞秀首質詢遭阻「官員不必上台答詢」　雙方僵持5分鐘",
       "link": "/bbs/Gossiping/M.1773639141.A.4B9",
       "author": "noway",
@@ -164,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "193",
-      "recommendCount": "305",
+      "recommendScore": "194",
+      "recommendCount": "307",
       "title": "[情報] 115年03月16日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1773645187.A.94C",
       "author": "coconing",
@@ -184,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "171",
-      "recommendCount": "396",
+      "recommendScore": "172",
+      "recommendCount": "398",
       "title": "[爆卦] 以色列準備動員45萬士兵入侵黎巴嫩",
       "link": "/bbs/Gossiping/M.1773629403.A.F97",
       "author": "bluehttp",
@@ -194,13 +174,33 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/JrcYB9o/s/b03639dfd6db4fa178280a305218702e"
     },
     {
-      "recommendScore": "258",
-      "recommendCount": "362",
+      "recommendScore": "260",
+      "recommendCount": "364",
       "title": "[討論] 史上最粗綠線",
       "link": "/bbs/MobileComm/M.1773575711.A.0F9",
       "author": "peoplemore",
       "board": "MobileComm",
       "publishTime": "2026/03/15 11:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "157",
+      "recommendCount": "321",
+      "title": "[新聞] 王義川婉拒參選 傳賴總統鎖定他出戰桃園市長",
+      "link": "/bbs/Gossiping/M.1773588174.A.15B",
+      "author": "deathdecay",
+      "board": "Gossiping",
+      "publishTime": "2026/03/15 15:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "238",
+      "recommendCount": "296",
+      "title": "[分享] 旅美台灣球員集合啦！！",
+      "link": "/bbs/Baseball/M.1773630633.A.3F4",
+      "author": "wudahui",
+      "board": "Baseball",
+      "publishTime": "2026/03/16 03:10",
       "imageUrl": ""
     }
   ]
