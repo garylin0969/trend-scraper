@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-16T12:03:50.235Z",
+  "updated": "2026-03-16T12:32:17.717Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "628",
-      "recommendCount": "800",
+      "recommendScore": "648",
+      "recommendCount": "830",
       "title": "[問卦] 越南發生什麼事了?",
       "link": "/bbs/Gossiping/M.1773646705.A.8E5",
       "author": "REMIOROMEN",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "408",
-      "recommendCount": "567",
+      "recommendScore": "417",
+      "recommendCount": "579",
       "title": "[問卦] 中正紀念堂發生什麼事了？",
       "link": "/bbs/Gossiping/M.1773642325.A.04E",
       "author": "ambitious",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "322",
-      "recommendCount": "770",
+      "recommendScore": "323",
+      "recommendCount": "773",
       "title": "[問卦] 軍方：包機使用松指部沒有發公文",
       "link": "/bbs/Gossiping/M.1773637996.A.035",
       "author": "gmisnotme",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "328",
-      "recommendCount": "1154",
+      "recommendScore": "329",
+      "recommendCount": "1156",
       "title": "[問卦] 離職預告期",
       "link": "/bbs/Gossiping/M.1773615320.A.969",
       "author": "aryue",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "190",
-      "recommendCount": "533",
+      "recommendScore": "195",
+      "recommendCount": "542",
       "title": "Re: [新聞] 劉世芳不上台！李貞秀首質詢遭阻「官員不必上台答詢」　雙方僵持5分鐘",
       "link": "/bbs/Gossiping/M.1773639141.A.4B9",
       "author": "noway",
@@ -124,23 +124,43 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "186",
-      "recommendCount": "499",
-      "title": "[新聞] 「比日本殖民還差」賴清德狠批國民黨　蔡正元揭日治驚人歷史",
-      "link": "/bbs/Gossiping/M.1773576369.A.EDC",
-      "author": "CREA",
+      "recommendScore": "149",
+      "recommendCount": "411",
+      "title": "[新聞] 8年砸近6千億元催生無功、2月新生兒創低",
+      "link": "/bbs/Gossiping/M.1773653304.A.C1F",
+      "author": "sploo",
       "board": "Gossiping",
-      "publishTime": "2026/03/15 12:06",
+      "publishTime": "2026/03/16 09:28",
       "imageUrl": ""
     },
     {
-      "recommendScore": "195",
-      "recommendCount": "308",
+      "recommendScore": "198",
+      "recommendCount": "311",
       "title": "[情報] 115年03月16日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1773645187.A.94C",
       "author": "coconing",
       "board": "Stock",
       "publishTime": "2026/03/16 07:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "227",
+      "recommendCount": "457",
+      "title": "[討論] 為什麼「炸串」在台灣流行不起來？",
+      "link": "/bbs/C_Chat/M.1773652148.A.1D2",
+      "author": "GTES",
+      "board": "C_Chat",
+      "publishTime": "2026/03/16 09:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "229",
+      "recommendCount": "280",
+      "title": "[問卦] 日本飛田新地發生什麼事",
+      "link": "/bbs/Gossiping/M.1773650359.A.E9D",
+      "author": "bower1025",
+      "board": "Gossiping",
+      "publishTime": "2026/03/16 08:39",
       "imageUrl": ""
     },
     {
@@ -164,28 +184,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/JrcYB9o/s/b03639dfd6db4fa178280a305218702e"
     },
     {
-      "recommendScore": "219",
-      "recommendCount": "441",
-      "title": "[討論] 為什麼「炸串」在台灣流行不起來？",
-      "link": "/bbs/C_Chat/M.1773652148.A.1D2",
-      "author": "GTES",
-      "board": "C_Chat",
-      "publishTime": "2026/03/16 09:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "143",
-      "recommendCount": "374",
-      "title": "[新聞] 8年砸近6千億元催生無功、2月新生兒創低",
-      "link": "/bbs/Gossiping/M.1773653304.A.C1F",
-      "author": "sploo",
-      "board": "Gossiping",
-      "publishTime": "2026/03/16 09:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "156",
-      "recommendCount": "322",
+      "recommendScore": "157",
+      "recommendCount": "323",
       "title": "[新聞] 王義川婉拒參選 傳賴總統鎖定他出戰桃園市長",
       "link": "/bbs/Gossiping/M.1773588174.A.15B",
       "author": "deathdecay",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "214",
-      "recommendCount": "264",
-      "title": "[問卦] 日本飛田新地發生什麼事",
-      "link": "/bbs/Gossiping/M.1773650359.A.E9D",
-      "author": "bower1025",
-      "board": "Gossiping",
-      "publishTime": "2026/03/16 08:39",
+      "recommendScore": "238",
+      "recommendCount": "296",
+      "title": "[分享] 旅美台灣球員集合啦！！",
+      "link": "/bbs/Baseball/M.1773630633.A.3F4",
+      "author": "wudahui",
+      "board": "Baseball",
+      "publishTime": "2026/03/16 03:10",
       "imageUrl": ""
     }
   ]
