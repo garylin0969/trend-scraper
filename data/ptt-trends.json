@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-16T14:46:54.901Z",
+  "updated": "2026-03-16T15:14:38.541Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "716",
-      "recommendCount": "917",
+      "recommendScore": "723",
+      "recommendCount": "930",
       "title": "[問卦] 越南發生什麼事了?",
       "link": "/bbs/Gossiping/M.1773646705.A.8E5",
       "author": "REMIOROMEN",
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "438",
-      "recommendCount": "608",
+      "recommendCount": "609",
       "title": "[問卦] 中正紀念堂發生什麼事了？",
       "link": "/bbs/Gossiping/M.1773642325.A.04E",
       "author": "ambitious",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "327",
-      "recommendCount": "788",
+      "recommendCount": "789",
       "title": "[問卦] 軍方：包機使用松指部沒有發公文",
       "link": "/bbs/Gossiping/M.1773637996.A.035",
       "author": "gmisnotme",
@@ -55,7 +55,7 @@
     },
     {
       "recommendScore": "260",
-      "recommendCount": "658",
+      "recommendCount": "660",
       "title": "[新聞] 中天主播「馬德」捲共諜案羈押快滿2個月",
       "link": "/bbs/Gossiping/M.1773625452.A.3EE",
       "author": "seiya2000",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "125",
-      "recommendCount": "638",
+      "recommendCount": "639",
       "title": "[新聞] 劉世芳不上台！李貞秀首質詢遭阻「官員不必上台答詢」　雙方僵持5分鐘",
       "link": "/bbs/Gossiping/M.1773629584.A.D09",
       "author": "omanorboyo",
@@ -84,18 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "676",
-      "recommendCount": "1407",
-      "title": "[電競] 2026 First Stand 第一階段 Day1",
-      "link": "/bbs/LoL/M.1773662806.A.611",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2026/03/16 12:06",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Huzdufv/s/1580060036900bd263d6ef4c9cf7f85d"
-    },
-    {
-      "recommendScore": "177",
-      "recommendCount": "505",
+      "recommendScore": "181",
+      "recommendCount": "518",
       "title": "[新聞] 8年砸近6千億元催生無功、2月新生兒創低",
       "link": "/bbs/Gossiping/M.1773653304.A.C1F",
       "author": "sploo",
@@ -114,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "267",
-      "recommendCount": "325",
+      "recommendScore": "272",
+      "recommendCount": "335",
       "title": "[問卦] 日本飛田新地發生什麼事",
       "link": "/bbs/Gossiping/M.1773650359.A.E9D",
       "author": "bower1025",
@@ -124,14 +114,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "201",
-      "recommendCount": "556",
+      "recommendScore": "200",
+      "recommendCount": "557",
       "title": "Re: [新聞] 劉世芳不上台！李貞秀首質詢遭阻「官員不必上台答詢」　雙方僵持5分鐘",
       "link": "/bbs/Gossiping/M.1773639141.A.4B9",
       "author": "noway",
       "board": "Gossiping",
       "publishTime": "2026/03/16 05:32",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "709",
+      "recommendCount": "1407",
+      "title": "[電競] 2026 First Stand 第一階段 Day1",
+      "link": "/bbs/LoL/M.1773662806.A.611",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2026/03/16 12:06",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Huzdufv/s/1580060036900bd263d6ef4c9cf7f85d"
     },
     {
       "recommendScore": "308",
@@ -144,23 +144,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "246",
-      "recommendCount": "486",
-      "title": "[討論] 為什麼「炸串」在台灣流行不起來？",
-      "link": "/bbs/C_Chat/M.1773652148.A.1D2",
-      "author": "GTES",
-      "board": "C_Chat",
-      "publishTime": "2026/03/16 09:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "265",
-      "recommendCount": "487",
+      "recommendScore": "270",
+      "recommendCount": "499",
       "title": "[新聞] 委內瑞拉阿庫尼亞敗人品！狂嗑壽司嘲諷日本　網怒轟：大聯盟之恥",
       "link": "/bbs/Baseball/M.1773657366.A.05E",
       "author": "iamshana",
       "board": "Baseball",
       "publishTime": "2026/03/16 10:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "247",
+      "recommendCount": "490",
+      "title": "[討論] 為什麼「炸串」在台灣流行不起來？",
+      "link": "/bbs/C_Chat/M.1773652148.A.1D2",
+      "author": "GTES",
+      "board": "C_Chat",
+      "publishTime": "2026/03/16 09:09",
       "imageUrl": ""
     },
     {
