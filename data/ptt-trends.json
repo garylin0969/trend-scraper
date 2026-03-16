@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-16T18:33:14.934Z",
+  "updated": "2026-03-16T19:02:15.582Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "751",
-      "recommendCount": "975",
+      "recommendScore": "756",
+      "recommendCount": "982",
       "title": "[問卦] 越南發生什麼事了?",
       "link": "/bbs/Gossiping/M.1773646705.A.8E5",
       "author": "REMIOROMEN",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "410",
-      "recommendCount": "480",
+      "recommendScore": "415",
+      "recommendCount": "486",
       "title": "Re: [推薦] 足球[小律師]果阿邦 @ 旁遮普",
       "link": "/bbs/SportLottery/M.1773674097.A.E84",
       "author": "lotterywin",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "261",
-      "recommendCount": "662",
+      "recommendScore": "262",
+      "recommendCount": "663",
       "title": "[新聞] 中天主播「馬德」捲共諜案羈押快滿2個月",
       "link": "/bbs/Gossiping/M.1773625452.A.3EE",
       "author": "seiya2000",
@@ -85,12 +85,22 @@
     },
     {
       "recommendScore": "198",
-      "recommendCount": "560",
+      "recommendCount": "561",
       "title": "[新聞] 8年砸近6千億元催生無功、2月新生兒創低",
       "link": "/bbs/Gossiping/M.1773653304.A.C1F",
       "author": "sploo",
       "board": "Gossiping",
       "publishTime": "2026/03/16 09:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "291",
+      "recommendCount": "359",
+      "title": "[問卦] 日本飛田新地發生什麼事",
+      "link": "/bbs/Gossiping/M.1773650359.A.E9D",
+      "author": "bower1025",
+      "board": "Gossiping",
+      "publishTime": "2026/03/16 08:39",
       "imageUrl": ""
     },
     {
@@ -104,18 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "288",
-      "recommendCount": "355",
-      "title": "[問卦] 日本飛田新地發生什麼事",
-      "link": "/bbs/Gossiping/M.1773650359.A.E9D",
-      "author": "bower1025",
-      "board": "Gossiping",
-      "publishTime": "2026/03/16 08:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "293",
-      "recommendCount": "444",
+      "recommendScore": "296",
+      "recommendCount": "448",
       "title": "[新聞] 貝森特：美國允許伊朗油輪通過荷姆茲海峽",
       "link": "/bbs/Stock/M.1773670099.A.503",
       "author": "vernc",
@@ -135,7 +135,7 @@
     },
     {
       "recommendScore": "272",
-      "recommendCount": "513",
+      "recommendCount": "516",
       "title": "[新聞] 委內瑞拉阿庫尼亞敗人品！狂嗑壽司嘲諷日本　網怒轟：大聯盟之恥",
       "link": "/bbs/Baseball/M.1773657366.A.05E",
       "author": "iamshana",
@@ -164,24 +164,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "217",
-      "recommendCount": "288",
+      "recommendScore": "220",
+      "recommendCount": "293",
       "title": "Re: [LIVE] 電競-LOL 無懼之狐X@BLG戰隊 單場",
       "link": "/bbs/SportLottery/M.1773675102.A.1DB",
       "author": "bvbin10242",
       "board": "SportLottery",
       "publishTime": "2026/03/16 15:31",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "684",
-      "recommendCount": "1406",
-      "title": "[電競] 2026 First Stand 第一階段 Day1",
-      "link": "/bbs/LoL/M.1773662806.A.611",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2026/03/16 12:06",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Huzdufv/s/1580060036900bd263d6ef4c9cf7f85d"
     },
     {
       "recommendScore": "199",
@@ -192,6 +182,16 @@
       "board": "Stock",
       "publishTime": "2026/03/16 07:13",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "732",
+      "recommendCount": "1406",
+      "title": "[電競] 2026 First Stand 第一階段 Day1",
+      "link": "/bbs/LoL/M.1773662806.A.611",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2026/03/16 12:06",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Huzdufv/s/1580060036900bd263d6ef4c9cf7f85d"
     },
     {
       "recommendScore": "176",
