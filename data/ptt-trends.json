@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-18T12:49:00.454Z",
+  "updated": "2026-03-18T13:20:35.004Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "1114",
-      "recommendCount": "1131",
+      "recommendScore": "1122",
+      "recommendCount": "1139",
       "title": "[發錢] 發財金",
       "link": "/bbs/SportLottery/M.1773811124.A.FF9",
       "author": "minwind",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "397",
-      "recommendCount": "746",
+      "recommendScore": "410",
+      "recommendCount": "777",
       "title": "[問卦] 韓網 對於台灣把韓國改列「南韓」的反應",
       "link": "/bbs/Gossiping/M.1773826093.A.8BA",
       "author": "ReiKuromiya",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "420",
-      "recommendCount": "526",
+      "recommendScore": "423",
+      "recommendCount": "530",
       "title": "Re: [問卦] 普通男生真的很難結婚？",
       "link": "/bbs/Gossiping/M.1773764729.A.62C",
       "author": "y2718520",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "273",
-      "recommendCount": "490",
+      "recommendCount": "491",
       "title": "Re: [問卦] 脆：我被騙了 日本根本沒人跟唱島嶼天光",
       "link": "/bbs/Gossiping/M.1773787665.A.AD0",
       "author": "yokann",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "332",
-      "recommendCount": "436",
+      "recommendScore": "333",
+      "recommendCount": "438",
       "title": "[新聞] 建議別買輝達！谷月涵：台灣需警惕過度依賴半導體",
       "link": "/bbs/Stock/M.1773817810.A.25D",
       "author": "DrowningPool",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "350",
-      "recommendCount": "401",
+      "recommendScore": "351",
+      "recommendCount": "403",
       "title": "[炸裂] 田中幹也",
       "link": "/bbs/Baseball/M.1773824550.A.C10",
       "author": "teradayuki",
@@ -95,13 +95,23 @@
     },
     {
       "recommendScore": "339",
-      "recommendCount": "508",
+      "recommendCount": "509",
       "title": "[新聞] 持股比董事長還多！鄭麗君老公居旺宏最大個人股東逾5年",
       "link": "/bbs/Stock/M.1773803170.A.83D",
       "author": "bird09",
       "board": "Stock",
       "publishTime": "2026/03/18 03:06",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "206",
+      "recommendCount": "495",
+      "title": "[新聞] 籲賴清德派國軍護航荷姆茲海峽！汪浩：證",
+      "link": "/bbs/Gossiping/M.1773827880.A.975",
+      "author": "ak47good",
+      "board": "Gossiping",
+      "publishTime": "2026/03/18 09:58",
+      "imageUrl": "https://cache.pttweb.cc/imgur/uEh8s3K/s/47830d57a7c4f6583a65c565a45df62e"
     },
     {
       "recommendScore": "299",
@@ -114,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "203",
-      "recommendCount": "482",
-      "title": "[新聞] 籲賴清德派國軍護航荷姆茲海峽！汪浩：證",
-      "link": "/bbs/Gossiping/M.1773827880.A.975",
-      "author": "ak47good",
-      "board": "Gossiping",
-      "publishTime": "2026/03/18 09:58",
-      "imageUrl": "https://cache.pttweb.cc/imgur/uEh8s3K/s/47830d57a7c4f6583a65c565a45df62e"
-    },
-    {
       "recommendScore": "304",
       "recommendCount": "368",
       "title": "[炸裂] Bryce Harper",
@@ -131,6 +131,26 @@
       "author": "what62651",
       "board": "Baseball",
       "publishTime": "2026/03/18 02:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "256",
+      "recommendCount": "549",
+      "title": "[新聞] 快訊／免發票時代終結！財政部祭大絕",
+      "link": "/bbs/Stock/M.1773831516.A.CCF",
+      "author": "wu73",
+      "board": "Stock",
+      "publishTime": "2026/03/18 10:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "130",
+      "recommendCount": "437",
+      "title": "[新聞] 韓國電子入境卡寫「中國台灣」！外交部怒反制改稱「南韓」",
+      "link": "/bbs/Gossiping/M.1773808588.A.5F8",
+      "author": "keel90135",
+      "board": "Gossiping",
+      "publishTime": "2026/03/18 04:36",
       "imageUrl": ""
     },
     {
@@ -144,28 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "129",
-      "recommendCount": "433",
-      "title": "[新聞] 韓國電子入境卡寫「中國台灣」！外交部怒反制改稱「南韓」",
-      "link": "/bbs/Gossiping/M.1773808588.A.5F8",
-      "author": "keel90135",
-      "board": "Gossiping",
-      "publishTime": "2026/03/18 04:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "230",
-      "recommendCount": "502",
-      "title": "[新聞] 快訊／免發票時代終結！財政部祭大絕",
-      "link": "/bbs/Stock/M.1773831516.A.CCF",
-      "author": "wu73",
-      "board": "Stock",
-      "publishTime": "2026/03/18 10:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "273",
-      "recommendCount": "313",
+      "recommendScore": "274",
+      "recommendCount": "314",
       "title": "Re: [情報] 漫畫迷過世 5000本漫畫售二手書店",
       "link": "/bbs/C_Chat/M.1773798415.A.B85",
       "author": "zjo3xjp6",
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-95",
-      "recommendCount": "350",
+      "recommendScore": "-96",
+      "recommendCount": "352",
       "title": "[新聞] 林飛帆憶太陽花：謝謝當時守住台灣的大家部分政黨仍懷抱中國幻想",
       "link": "/bbs/Gossiping/M.1773808037.A.0FD",
       "author": "GGGGININ",
