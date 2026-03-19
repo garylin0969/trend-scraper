@@ -1,8 +1,13 @@
 {
-  "updated": "2026-03-19T19:24:45.927Z",
+  "updated": "2026-03-19T19:49:52.509Z",
   "trends": [
     {
       "googleTrend": "高市早苗",
+      "searchVolume": "200+",
+      "started": "3 小時前"
+    },
+    {
+      "googleTrend": "阿里山火災",
       "searchVolume": "100+",
       "started": "3 小時前"
     },
@@ -17,21 +22,6 @@
       "started": "2 小時前"
     },
     {
-      "googleTrend": "博通",
-      "searchVolume": "100+",
-      "started": "3 小時前"
-    },
-    {
-      "googleTrend": "阿里山火災",
-      "searchVolume": "100+",
-      "started": "3 小時前"
-    },
-    {
-      "googleTrend": "布魯斯威利",
-      "searchVolume": "200+",
-      "started": "3 小時前"
-    },
-    {
       "googleTrend": "賓士",
       "searchVolume": "100+",
       "started": "2 小時前"
@@ -42,8 +32,8 @@
       "started": "3 小時前"
     },
     {
-      "googleTrend": "台鐵訂票",
-      "searchVolume": "200+",
+      "googleTrend": "博通",
+      "searchVolume": "100+",
       "started": "3 小時前"
     },
     {
@@ -54,12 +44,12 @@
     {
       "googleTrend": "經濟日報",
       "searchVolume": "100+",
-      "started": "2 小時前"
+      "started": "3 小時前"
     },
     {
-      "googleTrend": "supreme",
+      "googleTrend": "高鐵訂票",
       "searchVolume": "100+",
-      "started": "3 小時前"
+      "started": "2 小時前"
     }
   ]
 }
