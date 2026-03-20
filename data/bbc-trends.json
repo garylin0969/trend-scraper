@@ -1,14 +1,22 @@
 {
-  "updated": "2026-03-20T04:00:05.598Z",
+  "updated": "2026-03-20T04:51:29.335Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-03-20T03:59:49.000Z",
+    "lastBuildDate": "2026-03-20T04:51:15.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "丹麥據報曾計劃在美國入侵時炸毀格陵蘭機場跑道",
+      "description": "丹麥公共廣播公司報導指稱，美國為抓捕委內瑞拉領導人而展開的行動，引發了丹麥方面擔憂華府可能同樣針對格陵蘭採取行動。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gxezjerelo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-20T04:25:45.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gxezjerelo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9bd4/live/ce7b2b90-23d9-11f1-92f6-6d3dbba93239.jpg"
+    },
     {
       "title": "日本首次部署「長程導彈」可覆蓋上海，為何選擇設在熊本？",
       "description": "有別於日本向來把導彈射程限制在300公里以內，這次熊本導彈射程可達1000公里，覆蓋東海、朝鮮半島至中國上海沿岸，被指象徵著日本防衛政策從「專守防衛」轉向具備「反擊能力」。",
@@ -34,14 +42,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b3d1/live/adb8a4e0-2349-11f1-aa71-85c576f31f99.jpg"
     },
     {
-      "title": "「很難阻止」——伊朗對以色列發動集束炸彈攻擊，BBC實地探訪現場",
-      "description": "以色列中部一枚炸彈飛入一對老年夫婦的公寓並爆炸，二人身亡。",
-      "link": "https://www.bbc.com/zhongwen/articles/c39w9e11zxko/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-19T03:25:02.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c39w9e11zxko/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b43e/live/c8e1b7c0-22ef-11f1-b297-95b0a0a8331e.jpg"
-    },
-    {
       "title": "「拉布布」電影正式啟動，由《柏靈頓》導演掌舵",
       "description": "這部電影將結合真人演出與電腦動畫，目前正處於「早期開發」階段。",
       "link": "https://www.bbc.com/zhongwen/articles/cr5l5ymljn6o/trad?at_medium=RSS&at_campaign=rss",
@@ -50,12 +50,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f272/live/21a57450-233b-11f1-8a9a-652e396751f3.jpg"
     },
     {
-      "title": "「黑金組」分案調查，台灣閣揆卓榮泰「自費包機」爭議越演越烈",
-      "description": "有學者對BBC中文表示，卓榮泰此行無疑是「外交行為」，事前與日方有默契定性為「私人行程」以免刺激北京，但這也意味著無論台灣內部質疑如何升溫，他都不可能改口承認是「公務行程」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvg3gx32p7zo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-19T01:33:39.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvg3gx32p7zo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/405f/live/cc233910-22ed-11f1-abe1-05da6de99c2b.jpg"
+      "title": "「很難阻止」——伊朗對以色列發動集束炸彈攻擊，BBC實地探訪現場",
+      "description": "以色列中部一枚炸彈飛入一對老年夫婦的公寓並爆炸，二人身亡。",
+      "link": "https://www.bbc.com/zhongwen/articles/c39w9e11zxko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-19T03:25:02.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c39w9e11zxko/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b43e/live/c8e1b7c0-22ef-11f1-b297-95b0a0a8331e.jpg"
     },
     {
       "title": "美國情報首長：伊朗政權「仍然存在」但「已大幅削弱」",
@@ -74,12 +74,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/66b6/live/c124f1b0-22a8-11f1-8a6e-abb477324122.jpg"
     },
     {
-      "title": "分析：最高安全官員拉里賈尼遇襲身亡加深伊朗核心領導層危機",
-      "description": "拉里賈尼的死不僅僅是伊朗失去一位官員。它加深了一場領導危機，而這場危機可能會同時影響戰爭的走向以及伊朗政權的整體穩定。",
-      "link": "https://www.bbc.com/zhongwen/articles/c5yrym9ym20o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-18T02:57:13.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5yrym9ym20o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/74f3/live/bf65d7a0-221b-11f1-a7da-4b07d7d50798.jpg"
+      "title": "「黑金組」分案調查，台灣閣揆卓榮泰「自費包機」爭議越演越烈",
+      "description": "有學者對BBC中文表示，卓榮泰此行無疑是「外交行為」，事前與日方有默契定性為「私人行程」以免刺激北京，但這也意味著無論台灣內部質疑如何升溫，他都不可能改口承認是「公務行程」。",
+      "link": "https://www.bbc.com/zhongwen/articles/cvg3gx32p7zo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-19T01:33:39.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvg3gx32p7zo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/405f/live/cc233910-22ed-11f1-abe1-05da6de99c2b.jpg"
     },
     {
       "title": "關於派軍艦前往霍爾木茲海峽，美國盟友和中國說了什麼？",
