@@ -1,22 +1,14 @@
 {
-  "updated": "2026-03-20T00:50:50.750Z",
+  "updated": "2026-03-20T01:53:09.745Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-03-20T00:50:39.000Z",
+    "lastBuildDate": "2026-03-20T01:53:00.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
-    {
-      "title": "宏福苑火災：勞工處多次巡查未發現吸煙，棚網承建商被指大火後試圖隱瞞",
-      "description": "獨立委員會代表大律師杜淦堃明確指出，幾乎全部消防措施都因人為因素而徹底失效，最具可能性的火源應是點燃的煙蒂。會上首度披露詳細傷亡狀況，亦公開殉職消防員偉豪最後行蹤。",
-      "link": "https://www.bbc.com/zhongwen/articles/c3dzd71xkjxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-19T11:29:59.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3dzd71xkjxo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b3d1/live/adb8a4e0-2349-11f1-aa71-85c576f31f99.jpg"
-    },
     {
       "title": "日本首次部署「長程導彈」可覆蓋上海，為何選擇設在熊本？",
       "description": "有別於日本向來把導彈射程限制在300公里以內，這次熊本導彈射程可達1000公里，覆蓋東海、朝鮮半島至中國上海沿岸，被指象徵著日本防衛政策從「專守防衛」轉向具備「反擊能力」。",
@@ -24,6 +16,14 @@
       "pubDate": "2026-03-19T11:52:36.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cgrzrrq2vkxo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7393/live/c337d9d0-2371-11f1-8f74-5f782ec9b448.jpg"
+    },
+    {
+      "title": "宏福苑火災：勞工處多次巡查未發現吸煙，棚網承建商被指大火後試圖隱瞞",
+      "description": "獨立委員會代表大律師杜淦堃明確指出，幾乎全部消防措施都因人為因素而徹底失效，最具可能性的火源應是點燃的煙蒂。會上首度披露詳細傷亡狀況，亦公開殉職消防員偉豪最後行蹤。",
+      "link": "https://www.bbc.com/zhongwen/articles/c3dzd71xkjxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-19T11:29:59.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3dzd71xkjxo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b3d1/live/adb8a4e0-2349-11f1-aa71-85c576f31f99.jpg"
     },
     {
       "title": "「很難阻止」——伊朗對以色列發動集束炸彈攻擊，BBC實地探訪現場",
@@ -34,20 +34,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b43e/live/c8e1b7c0-22ef-11f1-b297-95b0a0a8331e.jpg"
     },
     {
-      "title": "「拉布布」電影正式啟動，由《柏靈頓》導演掌舵",
-      "description": "這部電影將結合真人演出與電腦動畫，目前正處於「早期開發」階段。",
-      "link": "https://www.bbc.com/zhongwen/articles/cr5l5ymljn6o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-19T05:21:12.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cr5l5ymljn6o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f272/live/21a57450-233b-11f1-8a9a-652e396751f3.jpg"
-    },
-    {
       "title": "「黑金組」分案調查，台灣閣揆卓榮泰「自費包機」爭議越演越烈",
       "description": "有學者對BBC中文表示，卓榮泰此行無疑是「外交行為」，事前與日方有默契定性為「私人行程」以免刺激北京，但這也意味著無論台灣內部質疑如何升溫，他都不可能改口承認是「公務行程」。",
       "link": "https://www.bbc.com/zhongwen/articles/cvg3gx32p7zo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-03-19T01:33:39.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cvg3gx32p7zo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/405f/live/cc233910-22ed-11f1-abe1-05da6de99c2b.jpg"
+    },
+    {
+      "title": "「拉布布」電影正式啟動，由《柏靈頓》導演掌舵",
+      "description": "這部電影將結合真人演出與電腦動畫，目前正處於「早期開發」階段。",
+      "link": "https://www.bbc.com/zhongwen/articles/cr5l5ymljn6o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-19T05:21:12.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cr5l5ymljn6o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f272/live/21a57450-233b-11f1-8a9a-652e396751f3.jpg"
     },
     {
       "title": "美國情報首長：伊朗政權「仍然存在」但「已大幅削弱」",
