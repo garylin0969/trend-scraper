@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T23:49:04.585Z",
+  "updated": "2026-03-20T23:58:47.534Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "258",
-      "recommendCount": "1115",
+      "recommendCount": "1117",
       "title": "[新聞] 快新聞／藍白酸民超惡劣！假裝挺綠營「洗文」抹黑《島嶼天光》　議員開嗆了",
       "link": "/bbs/Gossiping/M.1773997198.A.3A9",
       "author": "asppsa",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "562",
-      "recommendCount": "699",
+      "recommendScore": "566",
+      "recommendCount": "703",
       "title": "Re: [問卦] 34歲國營女，這算是我慢熟還是對方難聊",
       "link": "/bbs/Gossiping/M.1773982758.A.727",
       "author": "Georgemerry",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "247",
-      "recommendCount": "350",
+      "recommendScore": "249",
+      "recommendCount": "354",
       "title": "[爆卦] Chuck Norris突然離世",
       "link": "/bbs/Gossiping/M.1774015997.A.129",
       "author": "b89207040",
@@ -184,6 +184,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ATIF7bo/s/1b88d8b3ffc626e1e1c29d59d2d2d40a"
     },
     {
+      "recommendScore": "141",
+      "recommendCount": "1252",
+      "title": "[討論] 八卦版：中華人民共和國不是外國！",
+      "link": "/bbs/HatePolitics/M.1774002000.A.7AD",
+      "author": "pigpigcom123",
+      "board": "HatePolitics",
+      "publishTime": "2026/03/20 10:20",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "225",
       "recommendCount": "350",
       "title": "[情報] LBJ 成為年齡最高的大三元球員",
@@ -191,16 +201,6 @@
       "author": "alberttao",
       "board": "NBA",
       "publishTime": "2026/03/20 02:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "141",
-      "recommendCount": "1245",
-      "title": "[討論] 八卦版：中華人民共和國不是外國！",
-      "link": "/bbs/HatePolitics/M.1774002000.A.7AD",
-      "author": "pigpigcom123",
-      "board": "HatePolitics",
-      "publishTime": "2026/03/20 10:20",
       "imageUrl": ""
     }
   ]
