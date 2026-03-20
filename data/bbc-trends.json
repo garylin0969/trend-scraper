@@ -1,10 +1,10 @@
 {
-  "updated": "2026-03-20T07:06:10.625Z",
+  "updated": "2026-03-20T07:32:43.312Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-03-20T07:05:59.000Z",
+    "lastBuildDate": "2026-03-20T07:32:34.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -34,20 +34,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d8bd/live/077ff0d0-22bb-11f1-b297-95b0a0a8331e.png"
     },
     {
+      "title": "解碼特朗普貼文：美國與以色列在伊朗戰爭上步調一致嗎？",
+      "description": "在天然氣田遭攻擊後，特朗普於「真相社交」（Truth Social）上發表的貼文，揭示了美國和以色列在戰爭策略上的一致程度究竟為何。",
+      "link": "https://www.bbc.com/zhongwen/articles/cq59d0j9971o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-20T07:13:03.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cq59d0j9971o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a5b1/live/97e8f3a0-239d-11f1-b297-95b0a0a8331e.png"
+    },
+    {
       "title": "澳門國安委法案：國安案可閉門審訊、律師須審查，學者憂未來被告「以一敵眾」",
       "description": "3月24日，澳門立法會通過《維護國家安全委員會》法案，當中列明國案委的權力職責，同時增訂《司法組織綱要法》條文，從法官權限、審訊過程，到代表律師，規範國安案的審理程序。\n",
       "link": "https://www.bbc.com/zhongwen/articles/czj1rz8g0nvo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-03-20T02:08:11.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/czj1rz8g0nvo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b466/live/330a1d70-21ee-11f1-b297-95b0a0a8331e.jpg"
-    },
-    {
-      "title": "宏福苑火災：勞工處多次巡查未發現吸煙，棚網承建商被指大火後試圖隱瞞",
-      "description": "獨立委員會代表大律師杜淦堃明確指出，幾乎全部消防措施都因人為因素而徹底失效，最具可能性的火源應是點燃的煙蒂。會上首度披露詳細傷亡狀況，亦公開殉職消防員偉豪最後行蹤。",
-      "link": "https://www.bbc.com/zhongwen/articles/c3dzd71xkjxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-19T11:29:59.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3dzd71xkjxo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b3d1/live/adb8a4e0-2349-11f1-aa71-85c576f31f99.jpg"
     },
     {
       "title": "「很難阻止」——伊朗對以色列發動集束炸彈攻擊，BBC實地探訪現場",
@@ -64,6 +64,14 @@
       "pubDate": "2026-03-19T03:38:24.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy4w4zp2n34o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/138f/live/926aeab0-22ed-11f1-abe1-05da6de99c2b.jpg"
+    },
+    {
+      "title": "宏福苑火災：勞工處多次巡查未發現吸煙，棚網承建商被指大火後試圖隱瞞",
+      "description": "獨立委員會代表大律師杜淦堃明確指出，幾乎全部消防措施都因人為因素而徹底失效，最具可能性的火源應是點燃的煙蒂。會上首度披露詳細傷亡狀況，亦公開殉職消防員偉豪最後行蹤。",
+      "link": "https://www.bbc.com/zhongwen/articles/c3dzd71xkjxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-19T11:29:59.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3dzd71xkjxo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b3d1/live/adb8a4e0-2349-11f1-aa71-85c576f31f99.jpg"
     },
     {
       "title": "特朗普計劃推遲訪華　對中國來說意味著什麼",
@@ -104,14 +112,6 @@
       "pubDate": "2026-03-18T08:25:03.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c4g0gkzmd8mo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7dfa/live/d77b01f0-1edb-11f1-801d-ed3cff6bf876.jpg"
-    },
-    {
-      "title": "雅虎香港宣佈結束新聞業務僅保留郵件及搜索  否認有政治壓力",
-      "description": "新聞部大部分員工將被遣散，屆時只餘小量員工留下負責過渡安排，而雅虎香港網頁將會在未來數月內停運。",
-      "link": "https://www.bbc.com/zhongwen/articles/c2d19k8xy47o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-18T01:20:04.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c2d19k8xy47o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f3f9/live/65917090-21df-11f1-a42b-a3f1101f2a6d.jpg"
     },
     {
       "title": "特朗普尋求推遲訪問中國 稱需坐鎮指揮對伊朗戰爭",
