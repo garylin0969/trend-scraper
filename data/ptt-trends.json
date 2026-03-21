@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21T22:09:53.084Z",
+  "updated": "2026-03-21T22:22:24.208Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "367",
-      "recommendCount": "580",
+      "recommendScore": "368",
+      "recommendCount": "583",
       "title": "[問卦] 慟！反核學者不見了？？？",
       "link": "/bbs/Gossiping/M.1774094533.A.3B9",
       "author": "rockido",
@@ -124,8 +124,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/dAqJT6D/s/eb4d834cc240b5114e21e45b7fd6f939"
     },
     {
-      "recommendScore": "178",
-      "recommendCount": "502",
+      "recommendScore": "182",
+      "recommendCount": "508",
       "title": "[問卦] 青鳥:「反核你也罵，擁核你也罵」要如何",
       "link": "/bbs/Gossiping/M.1774101295.A.23C",
       "author": "jcgood",
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "148",
+      "recommendCount": "322",
+      "title": "[問卦] 反核少女吳亞昕還活著嗎@@?",
+      "link": "/bbs/Gossiping/M.1774088167.A.A1B",
+      "author": "SuperPttMan",
+      "board": "Gossiping",
+      "publishTime": "2026/03/21 10:16",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "180",
       "recommendCount": "368",
       "title": "[創作] 島嶼天光",
@@ -174,33 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "148",
-      "recommendCount": "321",
-      "title": "[問卦] 反核少女吳亞昕還活著嗎@@?",
-      "link": "/bbs/Gossiping/M.1774088167.A.A1B",
-      "author": "SuperPttMan",
-      "board": "Gossiping",
-      "publishTime": "2026/03/21 10:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "203",
-      "recommendCount": "270",
-      "title": "[情報] 2026 CPBL熱身賽戰績 富邦登頂",
-      "link": "/bbs/Baseball/M.1774094965.A.333",
-      "author": "DoncicInPTT",
-      "board": "Baseball",
-      "publishTime": "2026/03/21 12:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "175",
-      "recommendCount": "408",
+      "recommendScore": "178",
+      "recommendCount": "413",
       "title": "[問卦] 除了核電，陰險母豬還埋了多少未爆彈？",
       "link": "/bbs/Gossiping/M.1774095525.A.A1A",
       "author": "eric2016",
       "board": "Gossiping",
       "publishTime": "2026/03/21 12:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "204",
+      "recommendCount": "271",
+      "title": "[情報] 2026 CPBL熱身賽戰績 富邦登頂",
+      "link": "/bbs/Baseball/M.1774094965.A.333",
+      "author": "DoncicInPTT",
+      "board": "Baseball",
+      "publishTime": "2026/03/21 12:09",
       "imageUrl": ""
     }
   ]
