@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21T08:10:50.229Z",
+  "updated": "2026-03-21T08:24:49.182Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "255",
-      "recommendCount": "783",
+      "recommendScore": "269",
+      "recommendCount": "826",
       "title": "[新聞] 核二、核三具備重啟條件！賴總統：月底重啟計畫送核安會審議",
       "link": "/bbs/Gossiping/M.1774070637.A.312",
       "author": "klniiii",
@@ -24,13 +24,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "322",
-      "recommendCount": "690",
+      "recommendScore": "323",
+      "recommendCount": "691",
       "title": "[新聞] 獨家／童持刀抵喉！高雄國小驚爆「教室",
       "link": "/bbs/Gossiping/M.1774001967.A.EA2",
       "author": "relax911",
       "board": "Gossiping",
       "publishTime": "2026/03/20 10:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "374",
+      "recommendCount": "865",
+      "title": "Re: [問卦] 以前聽「島嶼天光」會哭現在變會笑？",
+      "link": "/bbs/Gossiping/M.1774045981.A.8E7",
+      "author": "med5566",
+      "board": "Gossiping",
+      "publishTime": "2026/03/20 22:33",
       "imageUrl": ""
     },
     {
@@ -44,18 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "373",
-      "recommendCount": "864",
-      "title": "Re: [問卦] 以前聽「島嶼天光」會哭現在變會笑？",
-      "link": "/bbs/Gossiping/M.1774045981.A.8E7",
-      "author": "med5566",
-      "board": "Gossiping",
-      "publishTime": "2026/03/20 22:33",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "171",
-      "recommendCount": "558",
+      "recommendCount": "563",
       "title": "[問卦] 認真問，沒生小孩，老了怎麼辦？",
       "link": "/bbs/Gossiping/M.1774065138.A.8DC",
       "author": "saufu08",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "203",
-      "recommendCount": "402",
+      "recommendScore": "204",
+      "recommendCount": "403",
       "title": "[新聞] 快訊／川普政府宣布　伊朗石油制裁「豁免30天」",
       "link": "/bbs/Stock/M.1774052674.A.C1F",
       "author": "joanzkow",
@@ -104,8 +104,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ATIF7bo/s/1b88d8b3ffc626e1e1c29d59d2d2d40a"
     },
     {
-      "recommendScore": "100",
-      "recommendCount": "441",
+      "recommendScore": "101",
+      "recommendCount": "442",
       "title": "[問卦] 下禮拜宣判無罪 八卦板會怎麼吹司法？",
       "link": "/bbs/Gossiping/M.1774047053.A.CC6",
       "author": "johnny9667",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "287",
+      "recommendScore": "164",
+      "recommendCount": "289",
       "title": "[問卦]伊朗大學校長：校園關閉,停止上課",
       "link": "/bbs/Gossiping/M.1774057173.A.133",
       "author": "yushenglu",
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "168",
+      "recommendCount": "345",
+      "title": "[創作] 島嶼天光",
+      "link": "/bbs/Stock/M.1774052902.A.69D",
+      "author": "autokey",
+      "board": "Stock",
+      "publishTime": "2026/03/21 00:28",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "188",
       "recommendCount": "260",
       "title": "[地震] 地震",
@@ -151,16 +161,6 @@
       "author": "imayday3029",
       "board": "Gossiping",
       "publishTime": "2026/03/20 13:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "164",
-      "recommendCount": "341",
-      "title": "[創作] 島嶼天光",
-      "link": "/bbs/Stock/M.1774052902.A.69D",
-      "author": "autokey",
-      "board": "Stock",
-      "publishTime": "2026/03/21 00:28",
       "imageUrl": ""
     },
     {
@@ -185,7 +185,7 @@
     },
     {
       "recommendScore": "94",
-      "recommendCount": "334",
+      "recommendCount": "335",
       "title": "[問卦] 我弟34歲3000萬退休會太早嗎?",
       "link": "/bbs/Gossiping/M.1774049965.A.2BE",
       "author": "hittler",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "137",
-      "recommendCount": "332",
-      "title": "[問卦] 台北人怎麼不吹Twice演唱會？",
-      "link": "/bbs/Gossiping/M.1774022938.A.432",
-      "author": "king665714",
+      "recommendScore": "150",
+      "recommendCount": "304",
+      "title": "[問卦] 為何王郁文多拿466元就是貪汙、偽造文書?",
+      "link": "/bbs/Gossiping/M.1774062042.A.C2E",
+      "author": "syearth",
       "board": "Gossiping",
-      "publishTime": "2026/03/20 16:08",
+      "publishTime": "2026/03/21 03:00",
       "imageUrl": ""
     }
   ]
