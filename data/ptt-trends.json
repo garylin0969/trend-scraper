@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-21T17:00:44.906Z",
+  "updated": "2026-03-21T17:12:58.183Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "534",
-      "recommendCount": "1191",
+      "recommendScore": "532",
+      "recommendCount": "1196",
       "title": "[問卦] 最恐怖的是現在沒人出來反核吧?",
       "link": "/bbs/Gossiping/M.1774080817.A.BDD",
       "author": "ThorFukt",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "296",
-      "recommendCount": "781",
+      "recommendScore": "299",
+      "recommendCount": "786",
       "title": "[新聞] AI發展用電需求大！賴清德：核三、核二具重啟條件 3月送核安會審議",
       "link": "/bbs/Stock/M.1774082337.A.308",
       "author": "blackpudding",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "334",
-      "recommendCount": "525",
+      "recommendScore": "338",
+      "recommendCount": "532",
       "title": "[問卦] 慟！反核學者不見了？？？",
       "link": "/bbs/Gossiping/M.1774094533.A.3B9",
       "author": "rockido",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "251",
-      "recommendCount": "586",
+      "recommendScore": "252",
+      "recommendCount": "588",
       "title": "[新聞] 南韓「剝奪檢察官調查權」 國會通過立法",
       "link": "/bbs/Gossiping/M.1774071185.A.F13",
       "author": "catking015",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "205",
-      "recommendCount": "429",
+      "recommendScore": "206",
+      "recommendCount": "431",
       "title": "[問卦] 從反核到擁核，你看見什麼？",
       "link": "/bbs/Gossiping/M.1774089579.A.3E5",
       "author": "wtf556687",
@@ -114,7 +114,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "715",
+      "recommendScore": "737",
       "recommendCount": "1413",
       "title": "[電競] 2026 First Stand 四強賽",
       "link": "/bbs/LoL/M.1774095702.A.52D",
@@ -155,7 +155,7 @@
     },
     {
       "recommendScore": "179",
-      "recommendCount": "366",
+      "recommendCount": "367",
       "title": "[創作] 島嶼天光",
       "link": "/bbs/Stock/M.1774052902.A.69D",
       "author": "autokey",
@@ -171,6 +171,16 @@
       "author": "joanzkow",
       "board": "Stock",
       "publishTime": "2026/03/20 22:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "200",
+      "recommendCount": "264",
+      "title": "[情報] 2026 CPBL熱身賽戰績 富邦登頂",
+      "link": "/bbs/Baseball/M.1774094965.A.333",
+      "author": "DoncicInPTT",
+      "board": "Baseball",
+      "publishTime": "2026/03/21 12:09",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "newpasta",
       "board": "Gossiping",
       "publishTime": "2026/03/21 10:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "197",
-      "recommendCount": "261",
-      "title": "[情報] 2026 CPBL熱身賽戰績 富邦登頂",
-      "link": "/bbs/Baseball/M.1774094965.A.333",
-      "author": "DoncicInPTT",
-      "board": "Baseball",
-      "publishTime": "2026/03/21 12:09",
       "imageUrl": ""
     }
   ]
