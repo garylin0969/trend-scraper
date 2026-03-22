@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T23:13:21.934Z",
+  "updated": "2026-03-22T23:32:04.904Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,6 +14,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "443",
+      "recommendCount": "694",
+      "title": "[爆卦]  監察院公務車當尊榮吳柏～",
+      "link": "/bbs/Gossiping/M.1774185514.A.99E",
+      "author": "Made1ine",
+      "board": "Gossiping",
+      "publishTime": "2026/03/22 13:18",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "284",
       "recommendCount": "864",
       "title": "[新聞] 非核家園政策轉彎？賴清德：去年核三廠二號機停轉，已達到非核家園目標",
@@ -21,16 +31,6 @@
       "author": "runa2",
       "board": "Gossiping",
       "publishTime": "2026/03/22 03:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "435",
-      "recommendCount": "682",
-      "title": "[爆卦]  監察院公務車當尊榮吳柏～",
-      "link": "/bbs/Gossiping/M.1774185514.A.99E",
-      "author": "Made1ine",
-      "board": "Gossiping",
-      "publishTime": "2026/03/22 13:18",
       "imageUrl": ""
     },
     {
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "181",
-      "recommendCount": "658",
+      "recommendScore": "182",
+      "recommendCount": "659",
       "title": "[新聞] 總統強調非核家園目標已達到 3因素成重啟核電考量",
       "link": "/bbs/Stock/M.1774159688.A.F0B",
       "author": "joanzkow",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "206",
-      "recommendCount": "537",
+      "recommendScore": "208",
+      "recommendCount": "539",
       "title": "[新聞] 澳洲男環台哭不停！　坐超商淚崩告白：台灣人讓我重新找回自信",
       "link": "/bbs/Gossiping/M.1774157942.A.439",
       "author": "kikiki37",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "85",
-      "recommendCount": "529",
+      "recommendScore": "86",
+      "recommendCount": "531",
       "title": "[新聞] 汽油明漲1.8元「要跟中油說謝謝」　卓榮泰：原本漲15元",
       "link": "/bbs/Stock/M.1774180797.A.304",
       "author": "Reewalker",
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "272",
+      "recommendCount": "351",
+      "title": "Re: [問卦] 魚油這麼神？",
+      "link": "/bbs/Gossiping/M.1774190160.A.B34",
+      "author": "moonblacktea",
+      "board": "Gossiping",
+      "publishTime": "2026/03/22 14:36",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "208",
       "recommendCount": "467",
       "title": "[新聞] 核工人才流失 回聘培訓當務之急",
@@ -154,13 +164,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "268",
-      "recommendCount": "347",
-      "title": "Re: [問卦] 魚油這麼神？",
-      "link": "/bbs/Gossiping/M.1774190160.A.B34",
-      "author": "moonblacktea",
-      "board": "Gossiping",
-      "publishTime": "2026/03/22 14:36",
+      "recommendScore": "259",
+      "recommendCount": "554",
+      "title": "[新聞] 與台積電不一樣！馬斯克公布地表最大晶片廠計畫了",
+      "link": "/bbs/Stock/M.1774172938.A.9DD",
+      "author": "Carloslin",
+      "board": "Stock",
+      "publishTime": "2026/03/22 09:48",
       "imageUrl": ""
     },
     {
@@ -181,16 +191,6 @@
       "author": "chordate",
       "board": "Stock",
       "publishTime": "2026/03/22 00:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "254",
-      "recommendCount": "549",
-      "title": "[新聞] 與台積電不一樣！馬斯克公布地表最大晶片廠計畫了",
-      "link": "/bbs/Stock/M.1774172938.A.9DD",
-      "author": "Carloslin",
-      "board": "Stock",
-      "publishTime": "2026/03/22 09:48",
       "imageUrl": ""
     },
     {
