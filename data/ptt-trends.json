@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T15:31:27.003Z",
+  "updated": "2026-03-22T15:44:19.519Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "265",
-      "recommendCount": "631",
+      "recommendScore": "264",
+      "recommendCount": "633",
       "title": "[新聞] 賴總統拋重啟核電 反核團體：可能總統以前就愛核電…只是沒讓大家知道",
       "link": "/bbs/Gossiping/M.1774170878.A.84B",
       "author": "chopper594",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "203",
-      "recommendCount": "527",
+      "recommendCount": "530",
       "title": "[新聞] 澳洲男環台哭不停！　坐超商淚崩告白：台灣人讓我重新找回自信",
       "link": "/bbs/Gossiping/M.1774157942.A.439",
       "author": "kikiki37",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "176",
-      "recommendCount": "636",
+      "recommendScore": "179",
+      "recommendCount": "639",
       "title": "[新聞] 總統強調非核家園目標已達到 3因素成重啟核電考量",
       "link": "/bbs/Stock/M.1774159688.A.F0B",
       "author": "joanzkow",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "91",
-      "recommendCount": "469",
+      "recommendScore": "89",
+      "recommendCount": "479",
       "title": "[新聞] 汽油明漲1.8元「要跟中油說謝謝」　卓榮泰：原本漲15元",
       "link": "/bbs/Stock/M.1774180797.A.304",
       "author": "Reewalker",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "259",
-      "recommendCount": "403",
+      "recommendScore": "272",
+      "recommendCount": "424",
       "title": "[爆卦]  監察院公務車當尊榮吳柏～",
       "link": "/bbs/Gossiping/M.1774185514.A.99E",
       "author": "Made1ine",
@@ -124,17 +124,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "190",
-      "recommendCount": "437",
-      "title": "[問卦] 志祺：核三反應爐跟斷層只隔900公尺",
-      "link": "/bbs/Gossiping/M.1774156471.A.431",
-      "author": "Xenia1050",
-      "board": "Gossiping",
-      "publishTime": "2026/03/22 05:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "786",
+      "recommendScore": "801",
       "recommendCount": "1395",
       "title": "[電競] 2026 First Stand 冠軍賽",
       "link": "/bbs/LoL/M.1774181912.A.6B3",
@@ -144,6 +134,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/xi2nwKB/s/89cfcc6d052cbe1cce5f643f2ac0e2c4"
     },
     {
+      "recommendScore": "190",
+      "recommendCount": "439",
+      "title": "[問卦] 志祺：核三反應爐跟斷層只隔900公尺",
+      "link": "/bbs/Gossiping/M.1774156471.A.431",
+      "author": "Xenia1050",
+      "board": "Gossiping",
+      "publishTime": "2026/03/22 05:14",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "298",
       "recommendCount": "689",
       "title": "[討論] 古林睿煬被改成終結者,大家能接受嗎?",
@@ -151,16 +151,6 @@
       "author": "jumpballfan",
       "board": "Baseball",
       "publishTime": "2026/03/22 07:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "169",
-      "recommendCount": "471",
-      "title": "[新聞] 文化部70萬補助「性侵狗」歌曲 輻射魚市懶人包一次看",
-      "link": "/bbs/Gossiping/M.1774107104.A.F51",
-      "author": "yu1164",
-      "board": "Gossiping",
-      "publishTime": "2026/03/21 15:31",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "freeclouds",
       "board": "Gossiping",
       "publishTime": "2026/03/21 18:16",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "240",
+      "recommendCount": "527",
+      "title": "[新聞] 與台積電不一樣！馬斯克公布地表最大晶片廠計畫了",
+      "link": "/bbs/Stock/M.1774172938.A.9DD",
+      "author": "Carloslin",
+      "board": "Stock",
+      "publishTime": "2026/03/22 09:48",
       "imageUrl": ""
     }
   ]
