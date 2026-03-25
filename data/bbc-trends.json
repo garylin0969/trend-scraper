@@ -1,22 +1,14 @@
 {
-  "updated": "2026-03-25T06:09:24.759Z",
+  "updated": "2026-03-25T06:37:57.761Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-03-25T06:09:16.000Z",
+    "lastBuildDate": "2026-03-25T06:37:37.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
-    {
-      "title": "「保姆車」和「流量明星」：中國影視監管當局為何要打擊「撕番位」？",
-      "description": "一名不願透露姓名的中國影視產業工作者向BBC中文表示，「番位之爭」從過去不可⾔說的默契，演化到具有合約效益的商業權益；目前已不限於演員，更包括導演､ 編劇､ 攝影等核⼼⼯種｡",
-      "link": "https://www.bbc.com/zhongwen/articles/c8r4lzp4m2do/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-25T00:17:03.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c8r4lzp4m2do/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d3b/live/ee03e000-2759-11f1-a797-4bd7869bf0d1.jpg"
-    },
     {
       "title": "分析：美伊談判小窗口已開，但迅速結束戰爭仍不太可能",
       "description": "美國總統特朗普表示，美方已經在與伊朗的一位「最高層人士」接觸，但德黑蘭否認任何談判已經開始。",
@@ -26,20 +18,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5e3a/live/a33b24e0-27a7-11f1-a8d3-5d54fcb90a80.jpg"
     },
     {
+      "title": "伊朗戰爭顯示國際衝突的規範已被顛覆",
+      "description": "美國對能源基礎設施的威脅，以及伊朗對其海灣鄰國的報復，顯示局勢已出現明顯的轉變。",
+      "link": "https://www.bbc.com/zhongwen/articles/czx9deey2e1o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-25T06:06:49.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/czx9deey2e1o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/50fe/live/5001efa0-27a4-11f1-a79a-77e93010d956.jpg"
+    },
+    {
+      "title": "「保姆車」和「流量明星」：中國影視監管當局為何要打擊「撕番位」？",
+      "description": "一名不願透露姓名的中國影視產業工作者向BBC中文表示，「番位之爭」從過去不可⾔說的默契，演化到具有合約效益的商業權益；目前已不限於演員，更包括導演､ 編劇､ 攝影等核⼼⼯種｡",
+      "link": "https://www.bbc.com/zhongwen/articles/c8r4lzp4m2do/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-25T00:17:03.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c8r4lzp4m2do/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d3b/live/ee03e000-2759-11f1-a797-4bd7869bf0d1.jpg"
+    },
+    {
       "title": "當AI智能體開始上崗：2026年春天裡，三個中國人的興奮與恐懼",
       "description": "一個是極客，一個是創業者，一個是程序員。他們的情緒各不相同，興奮、恐懼，或者兩者同時發生。他們站的位置不同，聽到的轟鳴聲卻來自同一個方向。\n",
       "link": "https://www.bbc.com/zhongwen/articles/crm8mmg0y3eo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-03-24T02:45:14.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/crm8mmg0y3eo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e3a/live/805313b0-2375-11f1-8f74-5f782ec9b448.jpg"
-    },
-    {
-      "title": "從藥劑師到思鄉博主：看伊朗戰爭的平民代價",
-      "description": "隨著美國和以色列對伊朗的戰爭持續，平民死傷人數正急劇攀升。",
-      "link": "https://www.bbc.com/zhongwen/articles/czjw78z3mpvo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-24T05:55:46.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/czjw78z3mpvo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d3e0/live/5181ce60-26df-11f1-934f-036468834728.jpg"
     },
     {
       "title": "別一味計算卡路里了，吃得聰明一些更有用",
@@ -64,6 +64,14 @@
       "pubDate": "2026-03-23T08:11:31.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c0lep1nexx3o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a4e5/live/72bb0760-268d-11f1-82d0-fd391f4a7261.jpg"
+    },
+    {
+      "title": "從藥劑師到思鄉博主：看伊朗戰爭的平民代價",
+      "description": "隨著美國和以色列對伊朗的戰爭持續，平民死傷人數正急劇攀升。",
+      "link": "https://www.bbc.com/zhongwen/articles/czjw78z3mpvo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-24T05:55:46.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/czjw78z3mpvo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d3e0/live/5181ce60-26df-11f1-934f-036468834728.jpg"
     },
     {
       "title": "香港政府僱員袁松彪否認曾下令監視在英異見人士",
@@ -96,14 +104,6 @@
       "pubDate": "2026-03-22T06:10:44.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c30rl9p5lq1o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9823/live/0c0dc7c0-23f7-11f1-95ac-87c498222a64.jpg"
-    },
-    {
-      "title": "防彈少年團回歸，中國「限韓令」陰影依舊未散",
-      "description": "這場回歸不僅牽動著全球粉絲的心，也折射出當下困難重重的Kpop行業處境，以及中國市場在這場全球盛宴中的缺席。",
-      "link": "https://www.bbc.com/zhongwen/articles/cy914294x01o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-22T09:58:50.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cy914294x01o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5779/live/d120f040-25d3-11f1-b9ae-31be0b06de21.jpg"
     },
     {
       "title": "澳門國安委法案：國安案可閉門審訊、律師須審查，學者憂未來被告「以一敵眾」",
