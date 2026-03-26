@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-26T02:49:43.188Z",
+  "updated": "2026-03-26T03:50:58.176Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "773",
-      "recommendCount": "932",
+      "recommendScore": "776",
+      "recommendCount": "936",
       "title": "[情報] 115年1-2月 統一發票中獎號碼",
       "link": "/bbs/Lifeismoney/M.1774417219.A.EC8",
       "author": "jack801016",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "531",
-      "recommendCount": "920",
+      "recommendScore": "532",
+      "recommendCount": "924",
       "title": "[新聞]快新聞/不是鄭麗君?綠營台北最強新星出現 洪健益:蔣萬安會「非常難打」",
       "link": "/bbs/Gossiping/M.1774435891.A.4B5",
       "author": "yyyyyuuuuu",
@@ -34,8 +34,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "498",
-      "recommendCount": "543",
+      "recommendScore": "175",
+      "recommendCount": "767",
+      "title": "[新聞] 核廢有解 經長：可放乾式貯存場",
+      "link": "/bbs/Gossiping/M.1774481929.A.A4A",
+      "author": "semih",
+      "board": "Gossiping",
+      "publishTime": "2026/03/25 23:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "506",
+      "recommendCount": "552",
       "title": "[情報] 鄧愷威進入太空人開季26人名單",
       "link": "/bbs/Baseball/M.1774455457.A.A07",
       "author": "SeanLi1013",
@@ -44,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "287",
-      "recommendCount": "587",
+      "recommendScore": "288",
+      "recommendCount": "590",
       "title": "[新聞] 鄭麗君確定不選台北市長！沈伯洋意外成為民進黨最後希望",
       "link": "/bbs/Gossiping/M.1774432214.A.C56",
       "author": "googolplex",
@@ -54,13 +64,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "149",
-      "recommendCount": "666",
-      "title": "[新聞] 核廢有解 經長：可放乾式貯存場",
-      "link": "/bbs/Gossiping/M.1774481929.A.A4A",
-      "author": "semih",
+      "recommendScore": "204",
+      "recommendCount": "732",
+      "title": "[問卦] 美俄都忍不住 中國能忍住不打台灣厲害嗎?",
+      "link": "/bbs/Gossiping/M.1774421493.A.92E",
+      "author": "Borges",
       "board": "Gossiping",
-      "publishTime": "2026/03/25 23:38",
+      "publishTime": "2026/03/25 06:51",
       "imageUrl": ""
     },
     {
@@ -71,16 +81,6 @@
       "author": "yousking",
       "board": "Stock",
       "publishTime": "2026/03/25 07:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "204",
-      "recommendCount": "728",
-      "title": "[問卦] 美俄都忍不住 中國能忍住不打台灣厲害嗎?",
-      "link": "/bbs/Gossiping/M.1774421493.A.92E",
-      "author": "Borges",
-      "board": "Gossiping",
-      "publishTime": "2026/03/25 06:51",
       "imageUrl": ""
     },
     {
@@ -104,13 +104,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "147",
-      "recommendCount": "583",
+      "recommendScore": "153",
+      "recommendCount": "602",
       "title": "[新聞] 快訊／涉《反滲透法》4罪！徐春鶯不認 法院裁定續押3個月",
       "link": "/bbs/Gossiping/M.1774449923.A.239",
       "author": "cheinshin",
       "board": "Gossiping",
       "publishTime": "2026/03/25 14:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "212",
+      "recommendCount": "368",
+      "title": "[新聞] 綠讚沈伯洋：讓國民黨毫無招架之力 蔣萬安這場仗難打",
+      "link": "/bbs/Gossiping/M.1774456525.A.395",
+      "author": "mongi",
+      "board": "Gossiping",
+      "publishTime": "2026/03/25 16:35",
       "imageUrl": ""
     },
     {
@@ -124,18 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "203",
-      "recommendCount": "348",
-      "title": "[新聞] 綠讚沈伯洋：讓國民黨毫無招架之力 蔣萬安這場仗難打",
-      "link": "/bbs/Gossiping/M.1774456525.A.395",
-      "author": "mongi",
-      "board": "Gossiping",
-      "publishTime": "2026/03/25 16:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "158",
-      "recommendCount": "399",
+      "recommendScore": "159",
+      "recommendCount": "401",
       "title": "[新聞] 快訊／普發1萬發上癮？領取率98%超驚人！立委促今年續發",
       "link": "/bbs/Gossiping/M.1774416983.A.351",
       "author": "iam168888888",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "219",
-      "recommendCount": "306",
+      "recommendScore": "220",
+      "recommendCount": "308",
       "title": "[討論] 反抗惡檢調！柯文哲集氣專區！",
       "link": "/bbs/HatePolitics/M.1774415553.A.411",
       "author": "xinyi101",
@@ -164,18 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "174",
-      "recommendCount": "397",
-      "title": "[問卦] 外交部也自稱CHINA(TAIWAN)",
-      "link": "/bbs/Gossiping/M.1774407367.A.35B",
-      "author": "orz0857orz",
-      "board": "Gossiping",
-      "publishTime": "2026/03/25 02:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "150",
-      "recommendCount": "340",
+      "recommendScore": "151",
+      "recommendCount": "343",
       "title": "[新聞] 直擊／賴清德拋重啟核電　反核團體衝黨部：請蔡英文選2028延續非核",
       "link": "/bbs/Gossiping/M.1774425289.A.214",
       "author": "tan608287",
@@ -185,7 +175,7 @@
     },
     {
       "recommendScore": "158",
-      "recommendCount": "456",
+      "recommendCount": "458",
       "title": "[新聞] 中國直播帶貨自稱「灣灣」惹議　林益全：我怎麼了嗎？",
       "link": "/bbs/Baseball/M.1774433852.A.100",
       "author": "zzyyxx77",
@@ -194,14 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "130",
-      "recommendCount": "364",
-      "title": "[問卦] 台灣不敢打房的原因是什麼？",
-      "link": "/bbs/Gossiping/M.1774409752.A.341",
-      "author": "ambitious",
-      "board": "Gossiping",
-      "publishTime": "2026/03/25 03:35",
+      "recommendScore": "203",
+      "recommendCount": "250",
+      "title": "[分享] 朱迦恩停太晚漏球影片",
+      "link": "/bbs/Baseball/M.1774440041.A.FDF",
+      "author": "jason760520",
+      "board": "Baseball",
+      "publishTime": "2026/03/25 12:00",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "180",
+      "recommendCount": "824",
+      "title": "[討論] 我們的信息是黃國昌代理主席",
+      "link": "/bbs/HatePolitics/M.1774452491.A.9BF",
+      "author": "neverfly",
+      "board": "HatePolitics",
+      "publishTime": "2026/03/25 15:28",
+      "imageUrl": "https://cache.pttweb.cc/imgur/efytmjf/s/f741ccfa9cd4c71d078beb60e0017964"
     }
   ]
 }
