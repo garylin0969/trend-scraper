@@ -1,14 +1,22 @@
 {
-  "updated": "2026-03-26T08:05:59.204Z",
+  "updated": "2026-03-26T08:31:20.126Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-03-26T08:05:52.000Z",
+    "lastBuildDate": "2026-03-26T08:31:11.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "柯文哲「京華城」貪污案：一審判囚17年、褫奪公權6年",
+      "description": "這個判刑意味著，柯文哲將失去2028年總統選舉的參選資格。案件可上訴至更高級的法院進行二審，預料不會在短時間落幕。外界關注判刑將如何震盪民眾黨及台灣政壇的權力分配。",
+      "link": "https://www.bbc.com/zhongwen/articles/cvg083r7570o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-26T08:24:50.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvg083r7570o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2ca6/live/f415ad50-28e1-11f1-934f-036468834728.jpg"
+    },
     {
       "title": "伊朗外長：我們沒有和美國談判",
       "description": "特朗普表示，他正在與伊朗「正確的人」對話，但德黑蘭方面則稱並未進行任何此類談判。",
@@ -46,7 +54,7 @@
       "description": "被美國跨境抓捕的委內瑞拉前總統馬杜羅及其妻，將在3月出席第二次聽證。",
       "link": "https://www.bbc.com/zhongwen/articles/c98m3lp7y7mo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-03-26T00:14:15.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c98m3lp7y7mo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c98m3lp7y7mo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ec0/live/40b5f060-ed74-11f0-a422-4ba8a094a8fa.png"
     },
     {
@@ -74,14 +82,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d3b/live/ee03e000-2759-11f1-a797-4bd7869bf0d1.jpg"
     },
     {
-      "title": "分析：美伊談判小窗口已開，但迅速結束戰爭仍不太可能",
-      "description": "美國總統特朗普表示，美方已經在與伊朗的一位「最高層人士」接觸，但德黑蘭否認任何談判已經開始。",
-      "link": "https://www.bbc.com/zhongwen/articles/c62j784n11zo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-25T03:59:43.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c62j784n11zo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5e3a/live/a33b24e0-27a7-11f1-a8d3-5d54fcb90a80.jpg"
-    },
-    {
       "title": "「中國風」：早上喝熱水真的對身體有好處嗎？",
       "description": "作為「中國風」潮流的一部分，早上喝熱水正席捲網絡——但這項流傳了數百年的習慣真的能改善健康嗎？",
       "link": "https://www.bbc.com/zhongwen/articles/ce84x7meyk5o/trad?at_medium=RSS&at_campaign=rss",
@@ -98,20 +98,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e3a/live/805313b0-2375-11f1-8f74-5f782ec9b448.jpg"
     },
     {
-      "title": "哪些船隻仍在通過霍爾木茲海峽？",
-      "description": "根據BBC事實核查團隊分析的數據，自3月初以來，已有不到100艘船通過霍爾木茲海峽。",
-      "link": "https://www.bbc.com/zhongwen/articles/c17vg9e8xv9o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-21T17:13:18.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c17vg9e8xv9o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d8bd/live/077ff0d0-22bb-11f1-b297-95b0a0a8331e.png"
-    },
-    {
       "title": "從藥劑師到思鄉博主：看伊朗戰爭的平民代價",
       "description": "隨著美國和以色列對伊朗的戰爭持續，平民死傷人數正急劇攀升。",
       "link": "https://www.bbc.com/zhongwen/articles/czjw78z3mpvo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-03-24T05:55:46.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/czjw78z3mpvo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d3e0/live/5181ce60-26df-11f1-934f-036468834728.jpg"
+    },
+    {
+      "title": "哪些船隻仍在通過霍爾木茲海峽？",
+      "description": "根據BBC事實核查團隊分析的數據，自3月初以來，已有不到100艘船通過霍爾木茲海峽。",
+      "link": "https://www.bbc.com/zhongwen/articles/c17vg9e8xv9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-21T17:13:18.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c17vg9e8xv9o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d8bd/live/077ff0d0-22bb-11f1-b297-95b0a0a8331e.png"
     },
     {
       "title": "AI駕駛無人戰機：拆解未來戰場的攻防新技術",
@@ -154,6 +154,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/71c0/live/abc82980-1df9-11f1-9120-a910fc22c6ac.jpg"
     },
     {
+      "title": "分析：美伊談判小窗口已開，但迅速結束戰爭仍不太可能",
+      "description": "美國總統特朗普表示，美方已經在與伊朗的一位「最高層人士」接觸，但德黑蘭否認任何談判已經開始。",
+      "link": "https://www.bbc.com/zhongwen/articles/c62j784n11zo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-25T03:59:43.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c62j784n11zo/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5e3a/live/a33b24e0-27a7-11f1-a8d3-5d54fcb90a80.jpg"
+    },
+    {
       "title": "分析：戰爭持續越久，美國和伊朗就會更加陷入欲罷不能的境地",
       "description": "特朗普的選項越來越少。進一步升級可能成為無止境的破壞循環，卻缺乏明確戰略利益，使剩下的只會是最極端的方案。伊朗局勢同樣艱難。該國在衝突前就已面臨經濟壓力和廣泛民怨，若後退將顯得軟弱。",
       "link": "https://www.bbc.com/zhongwen/articles/cy01g4kpkk7o/trad?at_medium=RSS&at_campaign=rss",
@@ -184,14 +192,6 @@
       "pubDate": "2026-03-18T08:59:26.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c39w9xm01w7o/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/66b6/live/c124f1b0-22a8-11f1-8a6e-abb477324122.jpg"
-    },
-    {
-      "title": "霍爾木茲海峽「鎖喉」影響：日韓面臨危機、中國提前囤油、俄羅斯大賺一筆",
-      "description": "中東運輸咽喉被鎖，油價飆升只是肉眼可見的一層，更深的衝擊，藏在各國的能源帳單和政策困境之中。然而，同一場危機，在不同國家呈現出不同的影響。",
-      "link": "https://www.bbc.com/zhongwen/articles/c627y7x7n7vo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-16T00:15:39.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c627y7x7n7vo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7608/live/9308d930-204c-11f1-a5bd-118cf5a4e65c.jpg"
     },
     {
       "title": "「誰不想發篇學術垃圾」：從《新青年》到性別意識，中國年輕人自建學術自娛平台潮始末",
