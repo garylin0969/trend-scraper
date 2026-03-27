@@ -1,10 +1,10 @@
 {
-  "updated": "2026-03-27T04:36:37.695Z",
+  "updated": "2026-03-27T05:22:23.512Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-03-27T04:36:31.000Z",
+    "lastBuildDate": "2026-03-27T05:22:18.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -13,9 +13,17 @@
       "title": "特朗普為下台階同時追求兩條出路",
       "description": "白宮堅稱總統正主導事態發展，但甚至連部分共和黨人也因為他對戰爭目標的混亂訊息而感到沮喪。",
       "link": "https://www.bbc.com/zhongwen/articles/c1w4el57d90o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-27T04:29:07.000Z",
+      "pubDate": "2026-03-27T04:46:52.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c1w4el57d90o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2dcb/live/f0045c10-28e7-11f1-934f-036468834728.jpg"
+    },
+    {
+      "title": "國際奧委會：奧運會女子項目將僅限生理女性參賽",
+      "description": "國際奧林匹克委員會表示，自2028年起，奧運會女子項目將僅限生理女性參加。",
+      "link": "https://www.bbc.com/zhongwen/articles/ce8j564z90do/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-27T05:10:53.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce8j564z90do/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8e86/live/39b78b40-2918-11f1-babf-516204a6f1ce.jpg"
     },
     {
       "title": "伊朗外長：我們沒有和美國談判",
@@ -46,7 +54,7 @@
       "description": "明陽集團表示，英國政府未批准其在蘇格蘭阿德西爾建立風力渦輪機設施的計劃。",
       "link": "https://www.bbc.com/zhongwen/articles/c5yj41r1y00o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-03-26T05:14:40.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5yj41r1y00o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5yj41r1y00o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2575/live/c1cc6620-2857-11f1-937e-1d8f354c3b9a.png"
     },
     {
@@ -80,14 +88,6 @@
       "pubDate": "2026-03-26T05:31:34.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cq59ln14j7lo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/28f6/live/81639b50-2841-11f1-b297-95b0a0a8331e.jpg"
-    },
-    {
-      "title": "「保姆車」和「流量明星」：中國影視監管當局為何要打擊「撕番位」？",
-      "description": "一名不願透露姓名的中國影視產業工作者向BBC中文表示，「番位之爭」從過去不可⾔說的默契，演化到具有合約效益的商業權益；目前已不限於演員，更包括導演､ 編劇､ 攝影等核⼼⼯種｡",
-      "link": "https://www.bbc.com/zhongwen/articles/c8r4lzp4m2do/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-25T00:17:03.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c8r4lzp4m2do/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d3b/live/ee03e000-2759-11f1-a797-4bd7869bf0d1.jpg"
     },
     {
       "title": "「中國風」：早上喝熱水真的對身體有好處嗎？",
@@ -194,6 +194,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/66b6/live/c124f1b0-22a8-11f1-8a6e-abb477324122.jpg"
     },
     {
+      "title": "「保姆車」和「流量明星」：中國影視監管當局為何要打擊「撕番位」？",
+      "description": "一名不願透露姓名的中國影視產業工作者向BBC中文表示，「番位之爭」從過去不可⾔說的默契，演化到具有合約效益的商業權益；目前已不限於演員，更包括導演､ 編劇､ 攝影等核⼼⼯種｡",
+      "link": "https://www.bbc.com/zhongwen/articles/c8r4lzp4m2do/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-25T00:17:03.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c8r4lzp4m2do/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d3b/live/ee03e000-2759-11f1-a797-4bd7869bf0d1.jpg"
+    },
+    {
       "title": "「誰不想發篇學術垃圾」：從《新青年》到性別意識，中國年輕人自建學術自娛平台潮始末",
       "description": "面對中國學術逐漸封鎖，年輕人開始自己建立自娛學術平台、探索學術表達的邊界。",
       "link": "https://www.bbc.com/zhongwen/articles/c0ljr423x9wo/trad?at_medium=RSS&at_campaign=rss",
@@ -224,14 +232,6 @@
       "pubDate": "2026-03-13T08:27:50.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c2lr8ejq0w8o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/042a/live/edf9b6e0-1e92-11f1-801d-ed3cff6bf876.jpg"
-    },
-    {
-      "title": "巴拿馬風波發酵：中國官方約談接管港口公司，專家分析巴拿馬政府做法是一種「平衡策略」",
-      "description": "3月初，中國官方先後約談接管長和在巴拿馬港口的兩公司，隨後航運巨頭中遠海運又宣布暫停在巴爾博亞港的營運。連番舉動令外界猜測這是針對巴政府的首輪反制措施。\n",
-      "link": "https://www.bbc.com/zhongwen/articles/c5y4wz97w63o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-13T02:53:34.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5y4wz97w63o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a3c3/live/7e443c80-1dc5-11f1-9b52-af11cb515ae8.jpg"
     },
     {
       "title": "中國人形機器人之夢：當熱度退潮，留下的是泡沫還是繁榮？",
