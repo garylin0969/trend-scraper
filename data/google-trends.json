@@ -1,6 +1,16 @@
 {
-  "updated": "2026-03-28T07:25:48.414Z",
+  "updated": "2026-03-28T07:49:31.121Z",
   "trends": [
+    {
+      "googleTrend": "cpbl",
+      "searchVolume": "1,000+",
+      "started": "20 分鐘前"
+    },
+    {
+      "googleTrend": "npb",
+      "searchVolume": "500+",
+      "started": "2 小時前"
+    },
     {
       "googleTrend": "dazn",
       "searchVolume": "500+",
@@ -12,29 +22,14 @@
       "started": "2 小時前"
     },
     {
-      "googleTrend": "npb",
-      "searchVolume": "500+",
-      "started": "2 小時前"
-    },
-    {
       "googleTrend": "林安可",
-      "searchVolume": "200+",
-      "started": "50 分鐘前"
+      "searchVolume": "500+",
+      "started": "1 小時前"
     },
     {
       "googleTrend": "陳肇隆",
       "searchVolume": "200+",
       "started": "2 小時前"
-    },
-    {
-      "googleTrend": "中華職棒開幕戰",
-      "searchVolume": "200+",
-      "started": "2 小時前"
-    },
-    {
-      "googleTrend": "tqqq",
-      "searchVolume": "200+",
-      "started": "3 小時前"
     },
     {
       "googleTrend": "拓元",
@@ -52,6 +47,11 @@
       "started": "3 小時前"
     },
     {
+      "googleTrend": "tqqq",
+      "searchVolume": "200+",
+      "started": "3 小時前"
+    },
+    {
       "googleTrend": "2 小時前",
       "searchVolume": "200+",
       "started": "2 小時前"
@@ -59,17 +59,12 @@
     {
       "googleTrend": "大溪火災",
       "searchVolume": "200+",
-      "started": "2 小時前"
-    },
-    {
-      "googleTrend": "辛普森案",
-      "searchVolume": "200+",
       "started": "3 小時前"
     },
     {
       "googleTrend": "lakers vs nets",
       "searchVolume": "200+",
-      "started": "2 小時前"
+      "started": "3 小時前"
     },
     {
       "googleTrend": "dodgers",
@@ -79,12 +74,7 @@
     {
       "googleTrend": "warriors vs wizards",
       "searchVolume": "100+",
-      "started": "2 小時前"
-    },
-    {
-      "googleTrend": "湖人對籃網",
-      "searchVolume": "100+",
-      "started": "1 小時前"
+      "started": "3 小時前"
     },
     {
       "googleTrend": "遠大",
@@ -92,9 +82,14 @@
       "started": "3 小時前"
     },
     {
-      "googleTrend": "nba 直播",
+      "googleTrend": "湖人對籃網",
       "searchVolume": "100+",
       "started": "2 小時前"
+    },
+    {
+      "googleTrend": "nba 直播",
+      "searchVolume": "100+",
+      "started": "3 小時前"
     }
   ]
 }
