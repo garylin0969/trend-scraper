@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T10:10:56.409Z",
+  "updated": "2026-03-28T10:25:11.388Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "270",
-      "recommendCount": "653",
+      "recommendScore": "280",
+      "recommendCount": "685",
       "title": "[新聞] 國民黨團宣布：全力支持明天柯文哲凱道集會！超過20位立委出席",
       "link": "/bbs/Gossiping/M.1774680671.A.C62",
       "author": "kekeyoung",
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "217",
+      "recommendCount": "1032",
+      "title": "Re: [新聞] 柯文哲被認定私吞600萬政治獻金未申報 與李文宗兄妹公益侵占6734萬",
+      "link": "/bbs/Gossiping/M.1774666115.A.3E6",
+      "author": "dct817",
+      "board": "Gossiping",
+      "publishTime": "2026/03/28 02:48",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "290",
       "recommendCount": "449",
       "title": "[閒聊] 台中一中宿舍暴動 竟是因為放歌",
@@ -54,18 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "216",
-      "recommendCount": "1027",
-      "title": "Re: [新聞] 柯文哲被認定私吞600萬政治獻金未申報 與李文宗兄妹公益侵占6734萬",
-      "link": "/bbs/Gossiping/M.1774666115.A.3E6",
-      "author": "dct817",
-      "board": "Gossiping",
-      "publishTime": "2026/03/28 02:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "194",
-      "recommendCount": "400",
+      "recommendScore": "195",
+      "recommendCount": "401",
       "title": "[爆卦] 台中忠明南路情殺 有圖慎入",
       "link": "/bbs/Gossiping/M.1774610165.A.F1D",
       "author": "unszeo",
@@ -74,8 +74,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/TbzD4FG/s/c313edd905999ea767cafa8bf575529b"
     },
     {
-      "recommendScore": "231",
-      "recommendCount": "351",
+      "recommendScore": "232",
+      "recommendCount": "352",
       "title": "[爆卦] 李昌鈺享年87歲",
       "link": "/bbs/Gossiping/M.1774645779.A.EB7",
       "author": "kc092444",
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "151",
-      "recommendCount": "324",
+      "recommendCount": "325",
       "title": "[新聞] 川普：我原以為股市會跌的更多",
       "link": "/bbs/Stock/M.1774658553.A.EC0",
       "author": "aa923310tw",
@@ -104,13 +104,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "184",
-      "recommendCount": "480",
+      "recommendScore": "185",
+      "recommendCount": "489",
       "title": "[問卦] 對裝潢工人好他們會比較認真做事？",
       "link": "/bbs/Gossiping/M.1774672980.A.36E",
       "author": "GT3RS992",
       "board": "Gossiping",
       "publishTime": "2026/03/28 04:43",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "237",
+      "recommendCount": "413",
+      "title": "[新聞] 突發！胡塞武裝參戰　向以色列發射導彈",
+      "link": "/bbs/Stock/M.1774681307.A.A87",
+      "author": "AnneofGreen",
+      "board": "Stock",
+      "publishTime": "2026/03/28 07:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "136",
+      "recommendCount": "341",
+      "title": "[新聞] 塑膠袋之亂！經濟部喊供貨正常 業者怒：政府不知道？",
+      "link": "/bbs/Gossiping/M.1774669612.A.11D",
+      "author": "zxcxxx",
+      "board": "Gossiping",
+      "publishTime": "2026/03/28 03:46",
       "imageUrl": ""
     },
     {
@@ -121,26 +141,6 @@
       "author": "er5820",
       "board": "Gossiping",
       "publishTime": "2026/03/27 12:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "134",
-      "recommendCount": "338",
-      "title": "[新聞] 塑膠袋之亂！經濟部喊供貨正常 業者怒：政府不知道？",
-      "link": "/bbs/Gossiping/M.1774669612.A.11D",
-      "author": "zxcxxx",
-      "board": "Gossiping",
-      "publishTime": "2026/03/28 03:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "233",
-      "recommendCount": "406",
-      "title": "[新聞] 突發！胡塞武裝參戰　向以色列發射導彈",
-      "link": "/bbs/Stock/M.1774681307.A.A87",
-      "author": "AnneofGreen",
-      "board": "Stock",
-      "publishTime": "2026/03/28 07:01",
       "imageUrl": ""
     },
     {
@@ -155,7 +155,7 @@
     },
     {
       "recommendScore": "132",
-      "recommendCount": "392",
+      "recommendCount": "394",
       "title": "[新聞] 收割小草？上凱道前加價購200元阿館便當小草女神喊心安理得",
       "link": "/bbs/Gossiping/M.1774675576.A.5F5",
       "author": "iam168888888",
