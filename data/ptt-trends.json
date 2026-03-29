@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-29T22:32:09.508Z",
+  "updated": "2026-03-29T22:53:27.368Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/93mcpyH/s/627f35ba025c38f092c8166dbbf3f572"
     },
     {
-      "recommendScore": "497",
-      "recommendCount": "581",
+      "recommendScore": "498",
+      "recommendCount": "582",
       "title": "[情報] 今日鄧愷威",
       "link": "/bbs/Baseball/M.1774750811.A.0F0",
       "author": "SeanLi1013",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "221",
-      "recommendCount": "568",
+      "recommendScore": "223",
+      "recommendCount": "570",
       "title": "[爆卦] 凱道空拍圖",
       "link": "/bbs/Gossiping/M.1774777062.A.C41",
       "author": "suwy",
@@ -105,7 +105,7 @@
     },
     {
       "recommendScore": "291",
-      "recommendCount": "840",
+      "recommendCount": "841",
       "title": "[新聞] 美國副總統范斯：無意滯留伊朗 很快就會撤離",
       "link": "/bbs/Stock/M.1774760285.A.453",
       "author": "TCB006",
@@ -174,14 +174,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "169",
-      "recommendCount": "556",
+      "recommendScore": "170",
+      "recommendCount": "557",
       "title": "[請益] 指數投資派有在「先賣一趟」的嗎？",
       "link": "/bbs/Stock/M.1774759180.A.30A",
       "author": "tonyparker18",
       "board": "Stock",
       "publishTime": "2026/03/29 04:39",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "190",
+      "recommendCount": "573",
+      "title": "[問卦] 哇靠！軍武板現在超生氣欸！",
+      "link": "/bbs/Gossiping/M.1774802824.A.2A4",
+      "author": "westdoorcard",
+      "board": "Gossiping",
+      "publishTime": "2026/03/29 16:47",
+      "imageUrl": "https://cache.pttweb.cc/imgur/ZGD0Y91/s/f6fc25148a6f6e63be2747a44cab17fc"
     },
     {
       "recommendScore": "203",
@@ -192,16 +202,6 @@
       "board": "Baseball",
       "publishTime": "2026/03/29 09:17",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "183",
-      "recommendCount": "560",
-      "title": "[問卦] 哇靠！軍武板現在超生氣欸！",
-      "link": "/bbs/Gossiping/M.1774802824.A.2A4",
-      "author": "westdoorcard",
-      "board": "Gossiping",
-      "publishTime": "2026/03/29 16:47",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ZGD0Y91/s/f6fc25148a6f6e63be2747a44cab17fc"
     }
   ]
 }
