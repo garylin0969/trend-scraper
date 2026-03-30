@@ -1,10 +1,20 @@
 {
-  "updated": "2026-03-30T23:18:04.951Z",
+  "updated": "2026-03-30T23:48:03.551Z",
   "trends": [
     {
       "googleTrend": "vix指數",
+      "searchVolume": "200+",
+      "started": "40 分鐘前"
+    },
+    {
+      "googleTrend": "新冠 ba 3.2 變異株",
       "searchVolume": "100+",
-      "started": "10 分鐘前"
+      "started": "20 分鐘前"
+    },
+    {
+      "googleTrend": "那斯達克綜合指數",
+      "searchVolume": "100+",
+      "started": "1 小時前"
     },
     {
       "googleTrend": "清明連假",
@@ -12,24 +22,29 @@
       "started": "1 小時前"
     },
     {
-      "googleTrend": "mu stock",
+      "googleTrend": "中東戰爭",
       "searchVolume": "100+",
-      "started": "40 分鐘前"
+      "started": "1 小時前"
     },
     {
-      "googleTrend": "聯合新聞網",
+      "googleTrend": "mu stock",
       "searchVolume": "100+",
-      "started": "50 分鐘前"
+      "started": "1 小時前"
     },
     {
       "googleTrend": "戰爭",
       "searchVolume": "100+",
-      "started": "40 分鐘前"
+      "started": "1 小時前"
     },
     {
-      "googleTrend": "布蘭特原油價格",
+      "googleTrend": "聯合新聞網",
       "searchVolume": "100+",
-      "started": "40 分鐘前"
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "布蘭特原油期貨",
+      "searchVolume": "100+",
+      "started": "1 小時前"
     }
   ]
 }
