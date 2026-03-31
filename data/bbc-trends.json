@@ -1,14 +1,22 @@
 {
-  "updated": "2026-03-30T23:54:51.583Z",
+  "updated": "2026-03-31T00:56:19.310Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-03-30T23:54:43.000Z",
+    "lastBuildDate": "2026-03-31T00:56:10.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "雄安新區十年：領導人「個人設想」、洪水爭議與「疏解」暗戰",
+      "description": "「如果它成功，將可能成為一個可在全國複製推廣的模板；如果它失敗，則將徹底暴露單純依靠自上而下的頂層設計來打造創新活力與城市生機的根本局限。」",
+      "link": "https://www.bbc.com/zhongwen/articles/cpd5zj8e3p9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-31T00:19:54.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cpd5zj8e3p9o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/78b0/live/373e8040-2c1e-11f1-a165-7f32552c9375.jpg"
+    },
     {
       "title": "隨著美國抵達中東，伊朗稱部隊正「等待美國士兵」",
       "description": "美國官方尚未確認是否會向衝突地區部署地面部隊，這將會導致戰爭升級。",
@@ -34,14 +42,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7761/live/aa82d2e0-2a1b-11f1-b297-95b0a0a8331e.jpg"
     },
     {
-      "title": "我與母親逃離了朝鮮，如今害怕她會被中國遣返",
-      "description": "金成歷經一段危險的旅程抵達韓國，但他的母親卻被困在中國的監獄裡，並可能被強制遣返。",
-      "link": "https://www.bbc.com/zhongwen/articles/cwykg2er991o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-29T06:43:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwykg2er991o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2dc8/live/41c46680-29f6-11f1-934f-036468834728.png"
-    },
-    {
       "title": "科技公司大佬眾口一詞改口風：大裁員都怪AI",
       "description": "有分析指，裁員同時也向股市投資者傳達一個訊號——在面對AI開發「真實且巨大的」成本時，公司高層並非毫無節制地開空頭支票。",
       "link": "https://www.bbc.com/zhongwen/articles/cn4vwyk3np3o/trad?at_medium=RSS&at_campaign=rss",
@@ -58,12 +58,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b2a6/live/c4118b60-2b9d-11f1-a79a-77e93010d956.png"
     },
     {
-      "title": "「沒人幫忙媽媽會瘋掉」——台灣放寬外傭門檻，能解救誰？",
-      "description": "由於過去門檻過高，部分家庭早已透過非法途徑僱用外傭，新政策讓這些家庭有望「從黑市走向合法」。不少雙薪家庭表示歡迎，但政策也引發成本負擔、托育體系衝擊等多方爭議。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gdx5dyer7o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-28T12:14:11.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gdx5dyer7o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5eab/live/99345f40-2a07-11f1-a79a-77e93010d956.jpg"
+      "title": "我與母親逃離了朝鮮，如今害怕她會被中國遣返",
+      "description": "金成歷經一段危險的旅程抵達韓國，但他的母親卻被困在中國的監獄裡，並可能被強制遣返。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwykg2er991o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-29T06:43:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwykg2er991o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2dc8/live/41c46680-29f6-11f1-934f-036468834728.png"
     },
     {
       "title": "胡塞武裝威脅紅海航運如何進一步衝擊全球經濟",
