@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-01T11:30:36.799Z",
+  "updated": "2026-04-01T11:53:12.257Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "822",
-      "recommendCount": "903",
+      "recommendScore": "827",
+      "recommendCount": "909",
       "title": "[分享] 今日徐若熙 日職生涯首勝",
       "link": "/bbs/Baseball/M.1775026976.A.EF4",
       "author": "kevenchia",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "331",
-      "recommendCount": "837",
+      "recommendCount": "838",
       "title": "[分享] 樂「鬧」飯店1／12強國手深夜喧嘩引爆住",
       "link": "/bbs/Baseball/M.1774998385.A.9C5",
       "author": "SeanLi1013",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-139",
-      "recommendCount": "440",
+      "recommendScore": "-140",
+      "recommendCount": "441",
       "title": "[新聞] 被柯文哲罵邪惡! 檢察官廖彥鈞一席話爆紅",
       "link": "/bbs/Gossiping/M.1774969414.A.3EC",
       "author": "haha98",
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "209",
-      "recommendCount": "296",
-      "title": "[問卦] 日本男youtuber承認不倫 小三是男的",
-      "link": "/bbs/Gossiping/M.1774957218.A.395",
-      "author": "ReiKuromiya",
-      "board": "Gossiping",
-      "publishTime": "2026/03/31 11:40",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "211",
       "recommendCount": "317",
       "title": "[情報] 伊朗引爆AI泡沫 4/1起打擊資料中心",
@@ -201,6 +191,16 @@
       "author": "DrowningPool",
       "board": "Stock",
       "publishTime": "2026/03/31 15:43",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "164",
+      "recommendCount": "332",
+      "title": "[問卦] 20歲女大生被王文陽壓時在想什麼",
+      "link": "/bbs/Gossiping/M.1774969818.A.91F",
+      "author": "dododada",
+      "board": "Gossiping",
+      "publishTime": "2026/03/31 15:10",
       "imageUrl": ""
     }
   ]
