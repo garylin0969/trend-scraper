@@ -1,10 +1,10 @@
 {
-  "updated": "2026-04-01T03:21:33.520Z",
+  "updated": "2026-04-01T04:39:34.004Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-04-01T03:21:22.000Z",
+    "lastBuildDate": "2026-04-01T04:39:25.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -34,6 +34,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/40bd/live/1a087f50-28a7-11f1-a79a-77e93010d956.jpg"
     },
     {
+      "title": "中國禁止將空置住房改為「骨灰公寓」",
+      "description": "由於部分地區房價較低，很多人發現，將親屬的骨灰安置在一間空置公寓內，比承擔高昂的喪葬費用更能夠負擔得起。",
+      "link": "https://www.bbc.com/zhongwen/articles/cvge9v370d9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T03:42:06.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvge9v370d9o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c129/live/18c95360-2ceb-11f1-bdf5-ddbf94ae98c3.jpg"
+    },
+    {
       "title": "1970年代的石油危機是什麼樣子？我們會否面臨更糟糕的局面？",
       "description": "雖然兩次危機都與石油有關，但專家表示，20 世紀 70 年代和今天發生的事情之間存在一些重要的差異。\n",
       "link": "https://www.bbc.com/zhongwen/articles/c30rq424212o/trad?at_medium=RSS&at_campaign=rss",
@@ -46,7 +54,7 @@
       "description": "從與中國的競賽到月球探索，美國正在投入時間、精力和金錢，朝著月球甚至更遠的地方進發。",
       "link": "https://www.bbc.com/zhongwen/articles/c4gjr19w2q5o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-03-31T08:51:11.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gjr19w2q5o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gjr19w2q5o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d91a/live/1ce46b10-29e4-11f1-a79a-77e93010d956.jpg"
     },
     {
@@ -104,14 +112,6 @@
       "pubDate": "2026-03-29T05:14:53.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c3v6w6qrwl6o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8e7a/live/5f56a620-2ad9-11f1-b297-95b0a0a8331e.jpg"
-    },
-    {
-      "title": "香港國安法新細則：「強制解鎖」電子設備為何引起廣泛關注",
-      "description": "香港當局最新修訂《香港國安法》的實施細則，包括警方可要求任何涉嫌干犯危害國家安全的「指明人士」提供電子設備的密碼或其他解密方法，引起外界擔憂。",
-      "link": "https://www.bbc.com/zhongwen/articles/cwyv7wx9jd2o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-27T08:21:38.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwyv7wx9jd2o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d5a/live/0cde9850-29b5-11f1-bd05-4d2c4ed50be6.jpg"
     },
     {
       "title": "張雪峰去世引發萬人送別 中國網紅「升學規劃師」背後的教育焦慮",
@@ -194,12 +194,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/66b6/live/c124f1b0-22a8-11f1-8a6e-abb477324122.jpg"
     },
     {
-      "title": "當AI智能體開始上崗：2026年春天裡，三個中國人的興奮與恐懼",
-      "description": "一個是極客，一個是創業者，一個是程序員。他們的情緒各不相同，興奮、恐懼，或者兩者同時發生。他們站的位置不同，聽到的轟鳴聲卻來自同一個方向。\n",
-      "link": "https://www.bbc.com/zhongwen/articles/crm8mmg0y3eo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-24T02:45:14.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crm8mmg0y3eo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e3a/live/805313b0-2375-11f1-8f74-5f782ec9b448.jpg"
+      "title": "香港國安法新細則：「強制解鎖」電子設備為何引起廣泛關注",
+      "description": "香港當局最新修訂《香港國安法》的實施細則，包括警方可要求任何涉嫌干犯危害國家安全的「指明人士」提供電子設備的密碼或其他解密方法，引起外界擔憂。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwyv7wx9jd2o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-27T08:21:38.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwyv7wx9jd2o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d5a/live/0cde9850-29b5-11f1-bd05-4d2c4ed50be6.jpg"
     },
     {
       "title": "柯文哲「京華城」貪污案：一審判囚17年，喪失2028總統參選資格",
@@ -234,20 +234,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7761/live/aa82d2e0-2a1b-11f1-b297-95b0a0a8331e.jpg"
     },
     {
+      "title": "當AI智能體開始上崗：2026年春天裡，三個中國人的興奮與恐懼",
+      "description": "一個是極客，一個是創業者，一個是程序員。他們的情緒各不相同，興奮、恐懼，或者兩者同時發生。他們站的位置不同，聽到的轟鳴聲卻來自同一個方向。\n",
+      "link": "https://www.bbc.com/zhongwen/articles/crm8mmg0y3eo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-24T02:45:14.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/crm8mmg0y3eo/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e3a/live/805313b0-2375-11f1-8f74-5f782ec9b448.jpg"
+    },
+    {
       "title": "中國人形機器人之夢：當熱度退潮，留下的是泡沫還是繁榮？",
       "description": "就算舞跳得再好，連一杯水都不能幫人拿，那還有什麼意義？",
       "link": "https://www.bbc.com/zhongwen/articles/c99j81pe98ro/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-03-16T03:52:17.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c99j81pe98ro/trad#5",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/13e4/live/9f7a2da0-1dd5-11f1-8bcf-53d95ce601fe.jpg"
-    },
-    {
-      "title": "「和我有什麼關係？」：中國年輕人為何不再關注「兩會」",
-      "description": "本週在京召開的全國人民代表大會和政治協商會議（又名「兩會」）是中國上半年最值得關注的政策風向標，但這個名義上關乎各大民生問題的政治大會和年輕人開始逐漸脫節、失去其本該有的號召力。",
-      "link": "https://www.bbc.com/zhongwen/articles/ckg11107z1go/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-05T08:20:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckg11107z1go/trad#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/905b/live/52266410-183f-11f1-b048-c9424b2cf5fd.jpg"
     },
     {
       "title": "宵禁、罰掃廁所、懷孕遭解約：菲律賓女移工抗議台灣「囚犯式管理」",
