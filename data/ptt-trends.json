@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T05:06:40.315Z",
+  "updated": "2026-04-02T05:45:56.263Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "479",
-      "recommendCount": "947",
+      "recommendScore": "524",
+      "recommendCount": "1026",
       "title": "[新聞] 快訊／剛贏得民進黨北市議員初選　朱政騏涉當共諜被起訴求重刑",
       "link": "/bbs/Gossiping/M.1775096183.A.CFF",
       "author": "a0580531",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "362",
-      "recommendCount": "1012",
+      "recommendScore": "370",
+      "recommendCount": "1027",
       "title": "[問卦] 台灣新聞不報什麼真相？只會車禍打人新聞",
       "link": "/bbs/Gossiping/M.1775084820.A.298",
       "author": "sammy98",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "241",
-      "recommendCount": "539",
+      "recommendScore": "244",
+      "recommendCount": "544",
       "title": "[新聞] 鏡週刊獨家曝光柯文哲判決書　黃國昌直呼「怎麼拿到的」：連北院也淪陷了嗎",
       "link": "/bbs/Gossiping/M.1775054040.A.BC7",
       "author": "emuless",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "245",
-      "recommendCount": "495",
+      "recommendScore": "266",
+      "recommendCount": "527",
       "title": "[問卦] 川普：未來荷姆茲安全就交給日本了",
       "link": "/bbs/Gossiping/M.1775094016.A.220",
       "author": "logical01",
@@ -74,13 +74,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "240",
-      "recommendCount": "398",
+      "recommendScore": "246",
+      "recommendCount": "407",
       "title": "[新聞] 川普9時發表電視演說　宣布對伊朗戰爭「大獲全勝」",
       "link": "/bbs/Stock/M.1775090287.A.36C",
       "author": "pipiboygay",
       "board": "Stock",
       "publishTime": "2026/04/02 00:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "123",
+      "recommendCount": "442",
+      "title": "[問卦] 沒人發現摩斯漢堡會沒落很細思極恐嗎！",
+      "link": "/bbs/Gossiping/M.1775096681.A.0CD",
+      "author": "nobody0303",
+      "board": "Gossiping",
+      "publishTime": "2026/04/02 02:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "163",
+      "recommendCount": "418",
+      "title": "[新聞] 綠營再爆共諜！何志偉前特助朱政騏偷拍機密傳對岸 起訴求刑5年",
+      "link": "/bbs/Gossiping/M.1775097228.A.DC8",
+      "author": "tonto",
+      "board": "Gossiping",
+      "publishTime": "2026/04/02 02:33",
       "imageUrl": ""
     },
     {
@@ -94,33 +114,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "158",
-      "recommendCount": "400",
-      "title": "[新聞] 綠營再爆共諜！何志偉前特助朱政騏偷拍機密傳對岸 起訴求刑5年",
-      "link": "/bbs/Gossiping/M.1775097228.A.DC8",
-      "author": "tonto",
-      "board": "Gossiping",
-      "publishTime": "2026/04/02 02:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "176",
-      "recommendCount": "372",
+      "recommendScore": "179",
+      "recommendCount": "375",
       "title": "[問卦] 檢察官誣陷別人會覺得不安嗎？",
       "link": "/bbs/Gossiping/M.1775054631.A.CF4",
       "author": "smallplug",
       "board": "Gossiping",
       "publishTime": "2026/04/01 14:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "114",
-      "recommendCount": "406",
-      "title": "[問卦] 沒人發現摩斯漢堡會沒落很細思極恐嗎！",
-      "link": "/bbs/Gossiping/M.1775096681.A.0CD",
-      "author": "nobody0303",
-      "board": "Gossiping",
-      "publishTime": "2026/04/02 02:24",
       "imageUrl": ""
     },
     {
@@ -135,7 +135,7 @@
     },
     {
       "recommendScore": "-130",
-      "recommendCount": "399",
+      "recommendCount": "401",
       "title": "[新聞] 藍白太扯！總預算已遭擱置216天 賴清德嘆：憲政史上「前所未見」",
       "link": "/bbs/Gossiping/M.1775033637.A.EC9",
       "author": "eunhailoveu",
@@ -144,18 +144,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/UXBJgBI/s/c713c71fb34fed91adf5a5e8e52b696b"
     },
     {
-      "recommendScore": "182",
-      "recommendCount": "443",
-      "title": "[問卦] 被輾成兩截的外送員 他家人開始不爽了",
-      "link": "/bbs/Gossiping/M.1775037560.A.2D2",
-      "author": "kekeyoung",
+      "recommendScore": "163",
+      "recommendCount": "331",
+      "title": "[爆卦]  川普:沒有我你們就沒有以色列了",
+      "link": "/bbs/Gossiping/M.1775102014.A.FDE",
+      "author": "carotyao",
       "board": "Gossiping",
-      "publishTime": "2026/04/01 09:59",
-      "imageUrl": "https://cache.pttweb.cc/imgur/qPoB4xp/s/8c6c24b97c5f772dd8d44f1521759d53"
+      "publishTime": "2026/04/02 03:53",
+      "imageUrl": ""
     },
     {
-      "recommendScore": "198",
-      "recommendCount": "349",
+      "recommendScore": "199",
+      "recommendCount": "352",
       "title": "[新聞] 「我來、我見、我征服」川普全國演說擬宣告伊朗戰事勝利",
       "link": "/bbs/Stock/M.1775087009.A.310",
       "author": "baddaddy",
@@ -164,24 +164,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "249",
-      "recommendCount": "283",
+      "recommendScore": "181",
+      "recommendCount": "444",
+      "title": "[問卦] 被輾成兩截的外送員 他家人開始不爽了",
+      "link": "/bbs/Gossiping/M.1775037560.A.2D2",
+      "author": "kekeyoung",
+      "board": "Gossiping",
+      "publishTime": "2026/04/01 09:59",
+      "imageUrl": "https://cache.pttweb.cc/imgur/qPoB4xp/s/8c6c24b97c5f772dd8d44f1521759d53"
+    },
+    {
+      "recommendScore": "251",
+      "recommendCount": "285",
       "title": "[炸裂] Stuart Fairchild 雙響",
       "link": "/bbs/Baseball/M.1775092872.A.156",
       "author": "patrick2000",
       "board": "Baseball",
       "publishTime": "2026/04/02 01:21",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "256",
-      "recommendCount": "316",
-      "title": "[分享] 太空人 揮空三次後又選到保送",
-      "link": "/bbs/Baseball/M.1775020448.A.B70",
-      "author": "tobbaco",
-      "board": "Baseball",
-      "publishTime": "2026/04/01 05:14",
-      "imageUrl": "https://cache.pttweb.cc/imgur/HEgBTvF/s/cb30f3ba241b52c91a3aacc6831fdf17"
     },
     {
       "recommendScore": "745",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "122",
-      "recommendCount": "382",
-      "title": "[新聞] 東南亞更便宜！她不解「為何一堆人愛飛日本」　網曝1關鍵：太像了",
-      "link": "/bbs/Gossiping/M.1775021994.A.C8B",
-      "author": "MeiHS",
+      "recommendScore": "165",
+      "recommendCount": "338",
+      "title": "[新聞] 快訊／議員參選人涉共諜案　民進黨支持依法嚴辦：報中執會不予提名",
+      "link": "/bbs/Gossiping/M.1775100797.A.7D8",
+      "author": "WuSam",
       "board": "Gossiping",
-      "publishTime": "2026/04/01 05:39",
+      "publishTime": "2026/04/02 03:33",
       "imageUrl": ""
     }
   ]
