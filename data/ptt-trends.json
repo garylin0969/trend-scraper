@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T14:18:44.701Z",
+  "updated": "2026-04-02T14:42:23.313Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,18 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "250",
-      "recommendCount": "557",
-      "title": "[新聞] 鏡週刊獨家曝光柯文哲判決書　黃國昌直呼「怎麼拿到的」：連北院也淪陷了嗎",
-      "link": "/bbs/Gossiping/M.1775054040.A.BC7",
-      "author": "emuless",
-      "board": "Gossiping",
-      "publishTime": "2026/04/01 14:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "168",
-      "recommendCount": "563",
+      "recommendScore": "166",
+      "recommendCount": "570",
       "title": "[問卦] 沒人發現摩斯漢堡會沒落很細思極恐嗎！",
       "link": "/bbs/Gossiping/M.1775096681.A.0CD",
       "author": "nobody0303",
@@ -104,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "237",
-      "recommendCount": "518",
+      "recommendScore": "240",
+      "recommendCount": "523",
       "title": "[問卦] 伊朗：打到美國以色列救饒為止",
       "link": "/bbs/Gossiping/M.1775125203.A.148",
       "author": "logical01",
@@ -135,7 +125,7 @@
     },
     {
       "recommendScore": "160",
-      "recommendCount": "354",
+      "recommendCount": "355",
       "title": "[新聞] 50嵐「神秘黑金圍裙」內幕曝光！全台僅20人　前員工：超難考",
       "link": "/bbs/Gossiping/M.1775116938.A.310",
       "author": "chinaeatshit",
@@ -184,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "149",
-      "recommendCount": "359",
+      "recommendScore": "150",
+      "recommendCount": "360",
       "title": "[新聞] 路透：川普要范斯轉達 願用停火換開放荷莫茲海峽",
       "link": "/bbs/Stock/M.1775056542.A.918",
       "author": "humbler",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2026/04/02 04:13",
       "imageUrl": "https://cache.pttweb.cc/imgur/riqOX2a/s/e2d76bfc510082b24bf089699be5d28c"
+    },
+    {
+      "recommendScore": "17",
+      "recommendCount": "326",
+      "title": "[新聞] 悼念太魯閣號事故…台鐵8千萬打造紀念燈",
+      "link": "/bbs/Gossiping/M.1775099012.A.9C9",
+      "author": "seiya2000",
+      "board": "Gossiping",
+      "publishTime": "2026/04/02 03:03",
+      "imageUrl": ""
     }
   ]
 }
