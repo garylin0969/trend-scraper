@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-02T16:31:13.072Z",
-  "total_found": 18,
-  "returned_count": 18,
+  "updated": "2026-04-02T16:54:41.579Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "635",
-      "recommendCount": "1242",
+      "recommendScore": "636",
+      "recommendCount": "1244",
       "title": "[新聞] 快訊／剛贏得民進黨北市議員初選　朱政騏涉當共諜被起訴求重刑",
       "link": "/bbs/Gossiping/M.1775096183.A.CFF",
       "author": "a0580531",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "576",
+      "recommendScore": "163",
+      "recommendCount": "578",
       "title": "[問卦] 沒人發現摩斯漢堡會沒落很細思極恐嗎！",
       "link": "/bbs/Gossiping/M.1775096681.A.0CD",
       "author": "nobody0303",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "220",
-      "recommendCount": "435",
+      "recommendScore": "221",
+      "recommendCount": "436",
       "title": "[爆卦]  川普:沒有我你們就沒有以色列了",
       "link": "/bbs/Gossiping/M.1775102014.A.FDE",
       "author": "carotyao",
@@ -84,13 +84,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "266",
-      "recommendCount": "612",
+      "recommendScore": "269",
+      "recommendCount": "618",
       "title": "[問卦] 伊朗：打到美國以色列救饒為止",
       "link": "/bbs/Gossiping/M.1775125203.A.148",
       "author": "logical01",
       "board": "Gossiping",
       "publishTime": "2026/04/02 10:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "168",
+      "recommendCount": "373",
+      "title": "[新聞] 50嵐「神秘黑金圍裙」內幕曝光！全台僅20人　前員工：超難考",
+      "link": "/bbs/Gossiping/M.1775116938.A.310",
+      "author": "chinaeatshit",
+      "board": "Gossiping",
+      "publishTime": "2026/04/02 08:02",
       "imageUrl": ""
     },
     {
@@ -104,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "167",
-      "recommendCount": "372",
-      "title": "[新聞] 50嵐「神秘黑金圍裙」內幕曝光！全台僅20人　前員工：超難考",
-      "link": "/bbs/Gossiping/M.1775116938.A.310",
-      "author": "chinaeatshit",
-      "board": "Gossiping",
-      "publishTime": "2026/04/02 08:02",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "83",
       "recommendCount": "344",
       "title": "[新聞] 掌摑中職工讀生！　房仲吐30分心聲：想當面道歉但沒聯絡管道",
@@ -121,6 +121,16 @@
       "author": "whj0530",
       "board": "Baseball",
       "publishTime": "2026/04/02 05:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "222",
+      "recommendCount": "463",
+      "title": "[開戰] 黃偉哲：so what？（政治）",
+      "link": "/bbs/BaseballXXXX/M.1775134870.A.A1A",
+      "author": "rachel1029",
+      "board": "BaseballXXXX",
+      "publishTime": "2026/04/02 13:01",
       "imageUrl": ""
     },
     {
@@ -154,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "212",
-      "recommendCount": "447",
-      "title": "[開戰] 黃偉哲：so what？（政治）",
-      "link": "/bbs/BaseballXXXX/M.1775134870.A.A1A",
-      "author": "rachel1029",
-      "board": "BaseballXXXX",
-      "publishTime": "2026/04/02 13:01",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "166",
       "recommendCount": "348",
       "title": "[問卦] 法庭直播，看不見法官正常嗎？",
@@ -181,6 +181,26 @@
       "author": "pneumo",
       "board": "NBA",
       "publishTime": "2026/04/02 06:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "184",
+      "recommendCount": "325",
+      "title": "[爆卦] 法官複製貼上北檢起訴書被抓包",
+      "link": "/bbs/Gossiping/M.1775103229.A.B54",
+      "author": "suwy",
+      "board": "Gossiping",
+      "publishTime": "2026/04/02 04:13",
+      "imageUrl": "https://cache.pttweb.cc/imgur/riqOX2a/s/e2d76bfc510082b24bf089699be5d28c"
+    },
+    {
+      "recommendScore": "18",
+      "recommendCount": "327",
+      "title": "[新聞] 悼念太魯閣號事故…台鐵8千萬打造紀念燈",
+      "link": "/bbs/Gossiping/M.1775099012.A.9C9",
+      "author": "seiya2000",
+      "board": "Gossiping",
+      "publishTime": "2026/04/02 03:03",
       "imageUrl": ""
     }
   ]
