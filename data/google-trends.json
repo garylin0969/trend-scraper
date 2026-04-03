@@ -1,10 +1,15 @@
 {
-  "updated": "2026-04-03T21:16:12.361Z",
+  "updated": "2026-04-03T21:46:54.965Z",
   "trends": [
+    {
+      "googleTrend": "豪雨特報",
+      "searchVolume": "1,000+",
+      "started": "1 小時前"
+    },
     {
       "googleTrend": "道奇",
       "searchVolume": "500+",
-      "started": "2 小時前"
+      "started": "3 小時前"
     },
     {
       "googleTrend": "大谷翔平",
@@ -15,11 +20,6 @@
       "googleTrend": "mlb",
       "searchVolume": "1,000+",
       "started": "2 小時前"
-    },
-    {
-      "googleTrend": "下雨",
-      "searchVolume": "200+",
-      "started": "3 小時前"
     }
   ]
 }
