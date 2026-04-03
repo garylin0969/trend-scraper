@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-03T23:01:47.936Z",
+  "updated": "2026-04-03T23:20:47.310Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "239",
-      "recommendCount": "724",
+      "recommendScore": "238",
+      "recommendCount": "726",
       "title": "[新聞]沈伯洋傳選北市!鄭家純不忍了:台北不值得綠派優秀人才被糟蹋",
       "link": "/bbs/Gossiping/M.1775207948.A.052",
       "author": "CNS3056",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "193",
-      "recommendCount": "683",
+      "recommendScore": "195",
+      "recommendCount": "685",
       "title": "[新聞] 高鐵漲幅19%能接受？網一片叫好支持：有望解決台鐵化問題",
       "link": "/bbs/Stock/M.1775200760.A.8DB",
       "author": "Reewalker",
@@ -105,7 +105,7 @@
     },
     {
       "recommendScore": "204",
-      "recommendCount": "380",
+      "recommendCount": "381",
       "title": "[新聞] 王室成員沒閃兵！丹麥公主8月入伍　女性首納徵兵且將服役11個月",
       "link": "/bbs/Gossiping/M.1775189144.A.9FE",
       "author": "zxcxxx",
@@ -134,13 +134,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "184",
-      "recommendCount": "307",
+      "recommendScore": "185",
+      "recommendCount": "308",
       "title": "[問卦] 活動第一天衛武營恐龍就快斷了？",
       "link": "/bbs/Gossiping/M.1775215799.A.528",
       "author": "spark13579",
       "board": "Gossiping",
       "publishTime": "2026/04/03 11:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "161",
+      "recommendCount": "304",
+      "title": "[新聞] 打臉行政院？ 白宮：沒有給台灣藥品特別優惠稅率",
+      "link": "/bbs/Stock/M.1775212166.A.7C9",
+      "author": "TCB006",
+      "board": "Stock",
+      "publishTime": "2026/04/03 10:29",
       "imageUrl": ""
     },
     {
@@ -154,26 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "159",
-      "recommendCount": "302",
-      "title": "[新聞] 打臉行政院？ 白宮：沒有給台灣藥品特別優惠稅率",
-      "link": "/bbs/Stock/M.1775212166.A.7C9",
-      "author": "TCB006",
-      "board": "Stock",
-      "publishTime": "2026/04/03 10:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "145",
-      "recommendCount": "345",
-      "title": "[新聞] 黃偉哲「我的球場啊」被翻出　新球場距離遠「So what」",
-      "link": "/bbs/Baseball/M.1775171754.A.1D9",
-      "author": "monniea",
-      "board": "Baseball",
-      "publishTime": "2026/04/02 23:15",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "568",
       "recommendCount": "1501",
       "title": "[情報] 今日先發",
@@ -184,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "251",
-      "recommendCount": "262",
+      "recommendScore": "252",
+      "recommendCount": "263",
       "title": "[推投] 2026「冬番」最喜歡電視動畫「3票」",
       "link": "/bbs/C_Chat/M.1775206982.A.F12",
       "author": "MrSatan",
@@ -201,6 +191,16 @@
       "author": "junzi",
       "board": "Gossiping",
       "publishTime": "2026/04/02 23:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-136",
+      "recommendCount": "332",
+      "title": "[花邊] LBJ：2011年打不好是因為我被當成反派",
+      "link": "/bbs/NBA/M.1775181706.A.625",
+      "author": "Wojnarowski",
+      "board": "NBA",
+      "publishTime": "2026/04/03 02:01",
       "imageUrl": ""
     }
   ]
