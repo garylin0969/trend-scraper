@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-03T18:02:30.424Z",
+  "updated": "2026-04-03T18:24:16.679Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "232",
-      "recommendCount": "702",
+      "recommendScore": "233",
+      "recommendCount": "704",
       "title": "[新聞]沈伯洋傳選北市!鄭家純不忍了:台北不值得綠派優秀人才被糟蹋",
       "link": "/bbs/Gossiping/M.1775207948.A.052",
       "author": "CNS3056",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "312",
-      "recommendCount": "751",
+      "recommendScore": "313",
+      "recommendCount": "753",
       "title": "[問卦] 南部的薪資長這樣？",
       "link": "/bbs/Gossiping/M.1775181034.A.685",
       "author": "daoqu",
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "241",
-      "recommendCount": "606",
+      "recommendCount": "607",
       "title": "[問卦] 台灣人的素質到底要洗幾代 才能進步啊?",
       "link": "/bbs/Gossiping/M.1775195879.A.618",
       "author": "rainfruit",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "171",
-      "recommendCount": "615",
+      "recommendScore": "172",
+      "recommendCount": "622",
       "title": "[問卦]館長：壓力真的好大 我真的撐不下去了…",
       "link": "/bbs/Gossiping/M.1775208037.A.C8C",
       "author": "a91153456",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "266",
-      "recommendCount": "490",
+      "recommendScore": "265",
+      "recommendCount": "491",
       "title": "[新聞] 趕攤商風波｜黃偉哲「我的球場啊」被翻出新球場距離遠「So what」",
       "link": "/bbs/Gossiping/M.1775167692.A.538",
       "author": "MikaHakkinen",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "192",
-      "recommendCount": "482",
+      "recommendScore": "193",
+      "recommendCount": "484",
       "title": "[新聞] 台灣「詐騙之島」標籤難撕！檢察官打詐過勞「天天加班到深夜」辦公室倒地送醫",
       "link": "/bbs/Gossiping/M.1775192336.A.FB2",
       "author": "lycppt",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "175",
-      "recommendCount": "293",
+      "recommendScore": "176",
+      "recommendCount": "294",
       "title": "[問卦] 活動第一天衛武營恐龍就快斷了？",
       "link": "/bbs/Gossiping/M.1775215799.A.528",
       "author": "spark13579",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "151",
+      "recommendCount": "293",
+      "title": "[新聞] 打臉行政院？ 白宮：沒有給台灣藥品特別優惠稅率",
+      "link": "/bbs/Stock/M.1775212166.A.7C9",
+      "author": "TCB006",
+      "board": "Stock",
+      "publishTime": "2026/04/03 10:29",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "155",
       "recommendCount": "332",
       "title": "[新聞] 美國宣布課徵進口藥品100%關稅 優惠國中沒有台灣",
@@ -191,16 +201,6 @@
       "author": "joanzkow",
       "board": "Stock",
       "publishTime": "2026/04/02 22:59",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "151",
-      "recommendCount": "291",
-      "title": "[新聞] 打臉行政院？ 白宮：沒有給台灣藥品特別優惠稅率",
-      "link": "/bbs/Stock/M.1775212166.A.7C9",
-      "author": "TCB006",
-      "board": "Stock",
-      "publishTime": "2026/04/03 10:29",
       "imageUrl": ""
     }
   ]
