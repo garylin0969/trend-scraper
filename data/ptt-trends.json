@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-03T09:48:22.857Z",
+  "updated": "2026-04-03T10:06:45.147Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "295",
-      "recommendCount": "706",
+      "recommendCount": "710",
       "title": "[問卦] 南部的薪資長這樣？",
       "link": "/bbs/Gossiping/M.1775181034.A.685",
       "author": "daoqu",
@@ -24,8 +24,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "282",
+      "recommendCount": "658",
+      "title": "[問卦] 伊朗：打到美國以色列救饒為止",
+      "link": "/bbs/Gossiping/M.1775125203.A.148",
+      "author": "logical01",
+      "board": "Gossiping",
+      "publishTime": "2026/04/02 10:20",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "258",
-      "recommendCount": "469",
+      "recommendCount": "471",
       "title": "[新聞] 趕攤商風波｜黃偉哲「我的球場啊」被翻出新球場距離遠「So what」",
       "link": "/bbs/Gossiping/M.1775167692.A.538",
       "author": "MikaHakkinen",
@@ -34,13 +44,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "281",
-      "recommendCount": "657",
-      "title": "[問卦] 伊朗：打到美國以色列救饒為止",
-      "link": "/bbs/Gossiping/M.1775125203.A.148",
-      "author": "logical01",
+      "recommendScore": "192",
+      "recommendCount": "489",
+      "title": "[問卦] 台灣人的素質到底要洗幾代 才能進步啊?",
+      "link": "/bbs/Gossiping/M.1775195879.A.618",
+      "author": "rainfruit",
       "board": "Gossiping",
-      "publishTime": "2026/04/02 10:20",
+      "publishTime": "2026/04/03 05:57",
       "imageUrl": ""
     },
     {
@@ -51,6 +61,16 @@
       "author": "adamk2",
       "board": "Stock",
       "publishTime": "2026/04/03 02:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "176",
+      "recommendCount": "427",
+      "title": "[新聞] 台灣「詐騙之島」標籤難撕！檢察官打詐過勞「天天加班到深夜」辦公室倒地送醫",
+      "link": "/bbs/Gossiping/M.1775192336.A.FB2",
+      "author": "lycppt",
+      "board": "Gossiping",
+      "publishTime": "2026/04/03 04:58",
       "imageUrl": ""
     },
     {
@@ -71,26 +91,6 @@
       "author": "rachel1029",
       "board": "BaseballXXXX",
       "publishTime": "2026/04/02 13:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "174",
-      "recommendCount": "413",
-      "title": "[新聞] 台灣「詐騙之島」標籤難撕！檢察官打詐過勞「天天加班到深夜」辦公室倒地送醫",
-      "link": "/bbs/Gossiping/M.1775192336.A.FB2",
-      "author": "lycppt",
-      "board": "Gossiping",
-      "publishTime": "2026/04/03 04:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "172",
-      "recommendCount": "427",
-      "title": "[問卦] 台灣人的素質到底要洗幾代 才能進步啊?",
-      "link": "/bbs/Gossiping/M.1775195879.A.618",
-      "author": "rainfruit",
-      "board": "Gossiping",
-      "publishTime": "2026/04/03 05:57",
       "imageUrl": ""
     },
     {
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "202",
+      "recommendCount": "340",
+      "title": "[BOX ] Lakers 96:139 Thunder",
+      "link": "/bbs/NBA/M.1775188417.A.522",
+      "author": "jack34031",
+      "board": "NBA",
+      "publishTime": "2026/04/03 03:53",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "144",
       "recommendCount": "341",
       "title": "[新聞] 黃偉哲「我的球場啊」被翻出　新球場距離遠「So what」",
@@ -151,16 +161,6 @@
       "author": "monniea",
       "board": "Baseball",
       "publishTime": "2026/04/02 23:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "201",
-      "recommendCount": "336",
-      "title": "[BOX ] Lakers 96:139 Thunder",
-      "link": "/bbs/NBA/M.1775188417.A.522",
-      "author": "jack34031",
-      "board": "NBA",
-      "publishTime": "2026/04/03 03:53",
       "imageUrl": ""
     },
     {
