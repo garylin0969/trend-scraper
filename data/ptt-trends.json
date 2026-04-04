@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T08:56:46.441Z",
+  "updated": "2026-04-04T09:16:54.693Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "300",
-      "recommendCount": "792",
+      "recommendCount": "796",
       "title": "[新聞] 幕後／零溝通！賴清德脫稿「暴衝」重啟核能　友賴派系也炸鍋",
       "link": "/bbs/Gossiping/M.1775262213.A.1F7",
       "author": "lovea",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "258",
-      "recommendCount": "478",
+      "recommendScore": "267",
+      "recommendCount": "492",
       "title": "[新聞] 別再摸了！　衛武營首日湧25萬人　恐龍尾巴裂開急圍三角錐",
       "link": "/bbs/Gossiping/M.1775276232.A.5E9",
       "author": "chinaeatshit",
@@ -55,7 +55,7 @@
     },
     {
       "recommendScore": "232",
-      "recommendCount": "500",
+      "recommendCount": "502",
       "title": "[問卦] 美國提停戰48小時被伊朗拒絕",
       "link": "/bbs/Gossiping/M.1775260425.A.8C5",
       "author": "beaver",
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "180",
+      "recommendCount": "487",
+      "title": "[新聞] 「不想當中國人」　CNN：更多台灣人分散資產、取得外國國籍",
+      "link": "/bbs/Gossiping/M.1775286136.A.EBE",
+      "author": "luxuryer",
+      "board": "Gossiping",
+      "publishTime": "2026/04/04 07:02",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "246",
       "recommendCount": "324",
       "title": "[分享] CPBL戰績",
@@ -91,6 +101,16 @@
       "author": "nybbnan",
       "board": "Baseball",
       "publishTime": "2026/04/03 12:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "752",
+      "recommendCount": "1447",
+      "title": "[電競] 2026 LCK Regular Season W1D4",
+      "link": "/bbs/LoL/M.1775288473.A.70D",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/04/04 07:41",
       "imageUrl": ""
     },
     {
@@ -114,43 +134,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "255",
-      "recommendCount": "450",
+      "recommendScore": "259",
+      "recommendCount": "456",
       "title": "[情報] 今日 Cooper Flagg",
       "link": "/bbs/NBA/M.1775272396.A.098",
       "author": "murmurs0803",
       "board": "NBA",
       "publishTime": "2026/04/04 03:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "763",
-      "recommendCount": "1447",
-      "title": "[電競] 2026 LCK Regular Season W1D4",
-      "link": "/bbs/LoL/M.1775288473.A.70D",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/04/04 07:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "262",
-      "recommendCount": "273",
-      "title": "[推投] 2026「冬番」最喜歡電視動畫「3票」",
-      "link": "/bbs/C_Chat/M.1775206982.A.F12",
-      "author": "MrSatan",
-      "board": "C_Chat",
-      "publishTime": "2026/04/03 09:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "161",
-      "recommendCount": "426",
-      "title": "[新聞] 「不想當中國人」　CNN：更多台灣人分散資產、取得外國國籍",
-      "link": "/bbs/Gossiping/M.1775286136.A.EBE",
-      "author": "luxuryer",
-      "board": "Gossiping",
-      "publishTime": "2026/04/04 07:02",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "ifulita",
       "board": "Gossiping",
       "publishTime": "2026/04/03 17:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "154",
+      "recommendCount": "316",
+      "title": "[問卦] cnn : 美軍黑鷹直升機被無人機撞落",
+      "link": "/bbs/Gossiping/M.1775219316.A.01B",
+      "author": "logical01",
+      "board": "Gossiping",
+      "publishTime": "2026/04/03 12:28",
       "imageUrl": ""
     }
   ]
