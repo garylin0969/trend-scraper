@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-04T15:11:06.612Z",
+  "updated": "2026-04-04T15:25:20.751Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "392",
-      "recommendCount": "681",
+      "recommendScore": "398",
+      "recommendCount": "691",
       "title": "[新聞] 快新聞／拍板定案了！綠營擬推沈伯洋戰北",
       "link": "/bbs/Gossiping/M.1775304172.A.D61",
       "author": "Alberta99170",
@@ -24,8 +24,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/IUecykw/s/e2aa98ce3c39287556c30d8a5a74fa7a"
     },
     {
-      "recommendScore": "273",
-      "recommendCount": "788",
+      "recommendScore": "274",
+      "recommendCount": "789",
       "title": "[新聞] 「不想當中國人」　CNN：更多台灣人分散資產、取得外國國籍",
       "link": "/bbs/Gossiping/M.1775286136.A.EBE",
       "author": "luxuryer",
@@ -45,22 +45,22 @@
     },
     {
       "recommendScore": "238",
+      "recommendCount": "478",
+      "title": "[新聞] 非首次計畫逃亡！詐騙1.14億僅250萬交保",
+      "link": "/bbs/Gossiping/M.1775294303.A.1CE",
+      "author": "pm2001",
+      "board": "Gossiping",
+      "publishTime": "2026/04/04 09:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "238",
       "recommendCount": "513",
       "title": "[問卦] 美國提停戰48小時被伊朗拒絕",
       "link": "/bbs/Gossiping/M.1775260425.A.8C5",
       "author": "beaver",
       "board": "Gossiping",
       "publishTime": "2026/04/03 23:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "236",
-      "recommendCount": "473",
-      "title": "[新聞] 非首次計畫逃亡！詐騙1.14億僅250萬交保",
-      "link": "/bbs/Gossiping/M.1775294303.A.1CE",
-      "author": "pm2001",
-      "board": "Gossiping",
-      "publishTime": "2026/04/04 09:18",
       "imageUrl": ""
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "recommendScore": "179",
-      "recommendCount": "389",
+      "recommendCount": "391",
       "title": "[新聞] 快訊／經長龔明鑫提前宣布下周油價不調漲中油補貼逾90.6億",
       "link": "/bbs/Stock/M.1775287366.A.FAE",
       "author": "joanzkow",
@@ -114,13 +114,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "125",
-      "recommendCount": "328",
+      "recommendScore": "127",
+      "recommendCount": "330",
       "title": "[新聞] 陳柏惟宣布正式申請加入民進黨 理由全說了",
       "link": "/bbs/Gossiping/M.1775299491.A.AC5",
       "author": "eatk",
       "board": "Gossiping",
       "publishTime": "2026/04/04 10:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "206",
+      "recommendCount": "388",
+      "title": "[情報] 川普: 倒數48小時",
+      "link": "/bbs/Stock/M.1775312230.A.C3B",
+      "author": "aatzeng",
+      "board": "Stock",
+      "publishTime": "2026/04/04 14:17",
       "imageUrl": ""
     },
     {
@@ -134,7 +144,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "746",
+      "recommendScore": "745",
       "recommendCount": "1447",
       "title": "[電競] 2026 LCK Regular Season W1D4",
       "link": "/bbs/LoL/M.1775288473.A.70D",
@@ -174,18 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "141",
-      "recommendCount": "372",
-      "title": "[新聞] 荷姆茲海峽通行費曝光！全球分5級 須與伊朗IRGC協商",
-      "link": "/bbs/Gossiping/M.1775238770.A.9E5",
-      "author": "ifulita",
-      "board": "Gossiping",
-      "publishTime": "2026/04/03 17:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "230",
-      "recommendCount": "541",
+      "recommendScore": "232",
+      "recommendCount": "543",
       "title": "[閒聊] 魔戒真的有好看成這樣嗎？",
       "link": "/bbs/C_Chat/M.1775296054.A.B91",
       "author": "newpasta",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "155",
-      "recommendCount": "302",
-      "title": "[情報] 川普: 倒數48小時",
-      "link": "/bbs/Stock/M.1775312230.A.C3B",
-      "author": "aatzeng",
-      "board": "Stock",
-      "publishTime": "2026/04/04 14:17",
+      "recommendScore": "141",
+      "recommendCount": "372",
+      "title": "[新聞] 荷姆茲海峽通行費曝光！全球分5級 須與伊朗IRGC協商",
+      "link": "/bbs/Gossiping/M.1775238770.A.9E5",
+      "author": "ifulita",
+      "board": "Gossiping",
+      "publishTime": "2026/04/03 17:52",
       "imageUrl": ""
     }
   ]
