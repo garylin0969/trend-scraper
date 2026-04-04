@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T05:37:37.863Z",
+  "updated": "2026-04-04T06:02:39.487Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -42,16 +42,6 @@
       "board": "Gossiping",
       "publishTime": "2026/04/04 00:23",
       "imageUrl": "https://cache.pttweb.cc/imgur/IUecykw/s/e2aa98ce3c39287556c30d8a5a74fa7a"
-    },
-    {
-      "recommendScore": "251",
-      "recommendCount": "624",
-      "title": "[問卦] 台灣人的素質到底要洗幾代 才能進步啊?",
-      "link": "/bbs/Gossiping/M.1775195879.A.618",
-      "author": "rainfruit",
-      "board": "Gossiping",
-      "publishTime": "2026/04/03 05:57",
-      "imageUrl": ""
     },
     {
       "recommendScore": "246",
@@ -201,6 +191,16 @@
       "author": "iam168888888",
       "board": "Baseball",
       "publishTime": "2026/04/03 09:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "181",
+      "recommendCount": "635",
+      "title": "[新聞] 荷莫茲海峽通行費曝光 ！ 全球分5級收費",
+      "link": "/bbs/Stock/M.1775263354.A.3BE",
+      "author": "adamk2",
+      "board": "Stock",
+      "publishTime": "2026/04/04 00:42",
       "imageUrl": ""
     }
   ]
