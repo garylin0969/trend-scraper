@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T04:30:32.936Z",
+  "updated": "2026-04-04T05:08:19.424Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "256",
+      "recommendCount": "653",
+      "title": "[新聞] 幕後／零溝通！賴清德脫稿「暴衝」重啟核能　友賴派系也炸鍋",
+      "link": "/bbs/Gossiping/M.1775262213.A.1F7",
+      "author": "lovea",
+      "board": "Gossiping",
+      "publishTime": "2026/04/04 00:23",
+      "imageUrl": "https://cache.pttweb.cc/imgur/IUecykw/s/e2aa98ce3c39287556c30d8a5a74fa7a"
+    },
+    {
       "recommendScore": "249",
       "recommendCount": "621",
       "title": "[問卦] 台灣人的素質到底要洗幾代 才能進步啊?",
@@ -41,16 +51,6 @@
       "author": "rainfruit",
       "board": "Gossiping",
       "publishTime": "2026/04/03 05:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "197",
-      "recommendCount": "497",
-      "title": "[新聞] 台灣「詐騙之島」標籤難撕！檢察官打詐過勞「天天加班到深夜」辦公室倒地送醫",
-      "link": "/bbs/Gossiping/M.1775192336.A.FB2",
-      "author": "lycppt",
-      "board": "Gossiping",
-      "publishTime": "2026/04/03 04:58",
       "imageUrl": ""
     },
     {
@@ -72,16 +72,6 @@
       "board": "Stock",
       "publishTime": "2026/04/03 07:19",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "212",
-      "recommendCount": "533",
-      "title": "[新聞] 幕後／零溝通！賴清德脫稿「暴衝」重啟核能　友賴派系也炸鍋",
-      "link": "/bbs/Gossiping/M.1775262213.A.1F7",
-      "author": "lovea",
-      "board": "Gossiping",
-      "publishTime": "2026/04/04 00:23",
-      "imageUrl": "https://cache.pttweb.cc/imgur/IUecykw/s/e2aa98ce3c39287556c30d8a5a74fa7a"
     },
     {
       "recommendScore": "198",
@@ -201,6 +191,16 @@
       "author": "iam168888888",
       "board": "Baseball",
       "publishTime": "2026/04/03 09:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "124",
+      "recommendCount": "293",
+      "title": "[新聞] 鍾明軒人生首出庭！沒看到八炯、閩南狼",
+      "link": "/bbs/Gossiping/M.1775250121.A.09F",
+      "author": "leocean9816",
+      "board": "Gossiping",
+      "publishTime": "2026/04/03 21:02",
       "imageUrl": ""
     }
   ]
