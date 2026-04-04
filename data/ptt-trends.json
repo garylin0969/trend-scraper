@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T20:00:08.592Z",
+  "updated": "2026-04-04T20:13:58.721Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "422",
+      "recommendCount": "798",
+      "title": "[情報] 川普: 倒數48小時",
+      "link": "/bbs/Stock/M.1775312230.A.C3B",
+      "author": "aatzeng",
+      "board": "Stock",
+      "publishTime": "2026/04/04 14:17",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "281",
       "recommendCount": "805",
       "title": "[新聞] 「不想當中國人」　CNN：更多台灣人分散資產、取得外國國籍",
@@ -41,16 +51,6 @@
       "author": "luxuryer",
       "board": "Gossiping",
       "publishTime": "2026/04/04 07:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "419",
-      "recommendCount": "792",
-      "title": "[情報] 川普: 倒數48小時",
-      "link": "/bbs/Stock/M.1775312230.A.C3B",
-      "author": "aatzeng",
-      "board": "Stock",
-      "publishTime": "2026/04/04 14:17",
       "imageUrl": ""
     },
     {
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "249",
-      "recommendCount": "499",
+      "recommendScore": "250",
+      "recommendCount": "500",
       "title": "[新聞] 非首次計畫逃亡！詐騙1.14億僅250萬交保",
       "link": "/bbs/Gossiping/M.1775294303.A.1CE",
       "author": "pm2001",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "143",
-      "recommendCount": "445",
+      "recommendScore": "144",
+      "recommendCount": "447",
       "title": "[新聞] 陳柏惟宣布申請加入民進黨：少年仔要進大公司磨練了",
       "link": "/bbs/Gossiping/M.1775297150.A.39F",
       "author": "kenny1300175",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "164",
-      "recommendCount": "332",
+      "recommendScore": "165",
+      "recommendCount": "333",
       "title": "[爆卦] 川普：倒數48小時",
       "link": "/bbs/Gossiping/M.1775311824.A.7EE",
       "author": "Axwell",
