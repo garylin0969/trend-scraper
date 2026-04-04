@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-04T16:15:02.719Z",
+  "updated": "2026-04-04T16:32:47.448Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "424",
-      "recommendCount": "745",
+      "recommendScore": "427",
+      "recommendCount": "762",
       "title": "[新聞] 快新聞／拍板定案了！綠營擬推沈伯洋戰北",
       "link": "/bbs/Gossiping/M.1775304172.A.D61",
       "author": "Alberta99170",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "302",
-      "recommendCount": "826",
+      "recommendScore": "301",
+      "recommendCount": "829",
       "title": "[新聞] 幕後／零溝通！賴清德脫稿「暴衝」重啟核能　友賴派系也炸鍋",
       "link": "/bbs/Gossiping/M.1775262213.A.1F7",
       "author": "lovea",
@@ -24,8 +24,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/IUecykw/s/e2aa98ce3c39287556c30d8a5a74fa7a"
     },
     {
-      "recommendScore": "278",
-      "recommendCount": "795",
+      "recommendScore": "279",
+      "recommendCount": "796",
       "title": "[新聞] 「不想當中國人」　CNN：更多台灣人分散資產、取得外國國籍",
       "link": "/bbs/Gossiping/M.1775286136.A.EBE",
       "author": "luxuryer",
@@ -44,8 +44,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "241",
-      "recommendCount": "481",
+      "recommendScore": "347",
+      "recommendCount": "680",
+      "title": "[情報] 川普: 倒數48小時",
+      "link": "/bbs/Stock/M.1775312230.A.C3B",
+      "author": "aatzeng",
+      "board": "Stock",
+      "publishTime": "2026/04/04 14:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "240",
+      "recommendCount": "484",
       "title": "[新聞] 非首次計畫逃亡！詐騙1.14億僅250萬交保",
       "link": "/bbs/Gossiping/M.1775294303.A.1CE",
       "author": "pm2001",
@@ -64,16 +74,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "326",
-      "recommendCount": "637",
-      "title": "[情報] 川普: 倒數48小時",
-      "link": "/bbs/Stock/M.1775312230.A.C3B",
-      "author": "aatzeng",
-      "board": "Stock",
-      "publishTime": "2026/04/04 14:17",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "142",
       "recommendCount": "434",
       "title": "[新聞] 陳柏惟宣布申請加入民進黨：少年仔要進大公司磨練了",
@@ -85,7 +85,7 @@
     },
     {
       "recommendScore": "179",
-      "recommendCount": "400",
+      "recommendCount": "401",
       "title": "[新聞] 快訊／經長龔明鑫提前宣布下周油價不調漲中油補貼逾90.6億",
       "link": "/bbs/Stock/M.1775287366.A.FAE",
       "author": "joanzkow",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "129",
-      "recommendCount": "333",
+      "recommendScore": "130",
+      "recommendCount": "335",
       "title": "[新聞] 陳柏惟宣布正式申請加入民進黨 理由全說了",
       "link": "/bbs/Gossiping/M.1775299491.A.AC5",
       "author": "eatk",
@@ -125,7 +125,7 @@
     },
     {
       "recommendScore": "165",
-      "recommendCount": "364",
+      "recommendCount": "365",
       "title": "[新聞] 鍾明軒人生首出庭！沒看到八炯、閩南狼",
       "link": "/bbs/Gossiping/M.1775250121.A.09F",
       "author": "leocean9816",
@@ -174,8 +174,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "233",
-      "recommendCount": "545",
+      "recommendScore": "155",
+      "recommendCount": "309",
+      "title": "[爆卦] 川普：倒數48小時",
+      "link": "/bbs/Gossiping/M.1775311824.A.7EE",
+      "author": "Axwell",
+      "board": "Gossiping",
+      "publishTime": "2026/04/04 14:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "235",
+      "recommendCount": "547",
       "title": "[閒聊] 魔戒真的有好看成這樣嗎？",
       "link": "/bbs/C_Chat/M.1775296054.A.B91",
       "author": "newpasta",
@@ -191,16 +201,6 @@
       "author": "ifulita",
       "board": "Gossiping",
       "publishTime": "2026/04/03 17:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "164",
-      "recommendCount": "265",
-      "title": "[閒聊] Ru味春捲484失去初衷了",
-      "link": "/bbs/C_Chat/M.1775282175.A.611",
-      "author": "cezov0514",
-      "board": "C_Chat",
-      "publishTime": "2026/04/04 05:56",
       "imageUrl": ""
     }
   ]
