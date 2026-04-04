@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-04T20:32:28.156Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2026-04-04T20:51:55.887Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "452",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "281",
-      "recommendCount": "805",
+      "recommendScore": "282",
+      "recommendCount": "806",
       "title": "[新聞] 「不想當中國人」　CNN：更多台灣人分散資產、取得外國國籍",
       "link": "/bbs/Gossiping/M.1775286136.A.EBE",
       "author": "luxuryer",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "250",
-      "recommendCount": "501",
+      "recommendCount": "502",
       "title": "[新聞] 非首次計畫逃亡！詐騙1.14億僅250萬交保",
       "link": "/bbs/Gossiping/M.1775294303.A.1CE",
       "author": "pm2001",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "144",
-      "recommendCount": "447",
+      "recommendScore": "145",
+      "recommendCount": "451",
       "title": "[新聞] 陳柏惟宣布申請加入民進黨：少年仔要進大公司磨練了",
       "link": "/bbs/Gossiping/M.1775297150.A.39F",
       "author": "kenny1300175",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "272",
-      "recommendCount": "475",
+      "recommendScore": "273",
+      "recommendCount": "476",
       "title": "[情報] 今日 Cooper Flagg",
       "link": "/bbs/NBA/M.1775272396.A.098",
       "author": "murmurs0803",
@@ -125,7 +125,7 @@
     },
     {
       "recommendScore": "135",
-      "recommendCount": "343",
+      "recommendCount": "344",
       "title": "[新聞] 陳柏惟宣布正式申請加入民進黨 理由全說了",
       "link": "/bbs/Gossiping/M.1775299491.A.AC5",
       "author": "eatk",
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "166",
+      "recommendCount": "335",
+      "title": "[爆卦] 川普：倒數48小時",
+      "link": "/bbs/Gossiping/M.1775311824.A.7EE",
+      "author": "Axwell",
+      "board": "Gossiping",
+      "publishTime": "2026/04/04 14:10",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "207",
       "recommendCount": "712",
       "title": "[新聞] 荷莫茲海峽通行費曝光 ！ 全球分5級收費",
@@ -184,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "333",
-      "title": "[爆卦] 川普：倒數48小時",
-      "link": "/bbs/Gossiping/M.1775311824.A.7EE",
-      "author": "Axwell",
-      "board": "Gossiping",
-      "publishTime": "2026/04/04 14:10",
+      "recommendScore": "239",
+      "recommendCount": "555",
+      "title": "[閒聊] 魔戒真的有好看成這樣嗎？",
+      "link": "/bbs/C_Chat/M.1775296054.A.B91",
+      "author": "newpasta",
+      "board": "C_Chat",
+      "publishTime": "2026/04/04 09:47",
       "imageUrl": ""
     }
   ]
