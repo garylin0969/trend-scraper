@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-05T10:37:12.405Z",
+  "updated": "2026-04-05T10:55:15.884Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "355",
-      "recommendCount": "1000",
+      "recommendCount": "1017",
       "title": "[問卦] 中正紀念堂出大事了？",
       "link": "/bbs/Gossiping/M.1775369918.A.EA7",
       "author": "Kai877",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "248",
-      "recommendCount": "585",
+      "recommendScore": "250",
+      "recommendCount": "590",
       "title": "[新聞] 少子化海嘯加速：2026年2月新生兒跌破七千「創新低」",
       "link": "/bbs/Gossiping/M.1775362524.A.E72",
       "author": "crocus",
@@ -74,13 +74,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "179",
-      "recommendCount": "507",
+      "recommendScore": "185",
+      "recommendCount": "517",
       "title": "[問卦] 脆熱議：把中正紀念堂拆了！",
       "link": "/bbs/Gossiping/M.1775370130.A.627",
       "author": "pigpigcom123",
       "board": "Gossiping",
       "publishTime": "2026/04/05 06:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "204",
+      "recommendCount": "512",
+      "title": "[問卦] 脆熱議：台海開戰，七成台灣人選擇投降！",
+      "link": "/bbs/Gossiping/M.1775364598.A.192",
+      "author": "pigpigcom123",
+      "board": "Gossiping",
+      "publishTime": "2026/04/05 04:49",
       "imageUrl": ""
     },
     {
@@ -91,26 +101,6 @@
       "author": "asppsa",
       "board": "Gossiping",
       "publishTime": "2026/04/04 17:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "202",
-      "recommendCount": "509",
-      "title": "[問卦] 脆熱議：台海開戰，七成台灣人選擇投降！",
-      "link": "/bbs/Gossiping/M.1775364598.A.192",
-      "author": "pigpigcom123",
-      "board": "Gossiping",
-      "publishTime": "2026/04/05 04:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "142",
-      "recommendCount": "360",
-      "title": "[新聞] 陳柏惟宣布正式申請加入民進黨 理由全說了",
-      "link": "/bbs/Gossiping/M.1775299491.A.AC5",
-      "author": "eatk",
-      "board": "Gossiping",
-      "publishTime": "2026/04/04 10:44",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "joanzkow",
       "board": "Stock",
       "publishTime": "2026/04/05 00:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "173",
+      "recommendCount": "311",
+      "title": "[新聞] 伊朗預告「大驚喜」將登場！狠嗆美以戰略已失算",
+      "link": "/bbs/Stock/M.1775372083.A.F6C",
+      "author": "joanzkow",
+      "board": "Stock",
+      "publishTime": "2026/04/05 06:54",
       "imageUrl": ""
     }
   ]
