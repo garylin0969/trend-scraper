@@ -1,38 +1,8 @@
 {
-  "updated": "2026-04-05T07:35:03.307Z",
+  "updated": "2026-04-05T07:59:22.856Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "472",
-      "recommendCount": "848",
-      "title": "[新聞] 快新聞／拍板定案了！綠營擬推沈伯洋戰北",
-      "link": "/bbs/Gossiping/M.1775304172.A.D61",
-      "author": "Alberta99170",
-      "board": "Gossiping",
-      "publishTime": "2026/04/04 12:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "356",
-      "recommendCount": "1008",
-      "title": "[問卦] 酷的夢：我拍什麼都會看 台灣人就是自卑",
-      "link": "/bbs/Gossiping/M.1775340587.A.803",
-      "author": "kingmusk",
-      "board": "Gossiping",
-      "publishTime": "2026/04/04 22:09",
-      "imageUrl": "https://cache.pttweb.cc/imgur/6RFYqXr/s/7f50bab8c53489b166b10b9114aa310c"
-    },
-    {
-      "recommendScore": "476",
-      "recommendCount": "938",
-      "title": "[情報] 川普: 倒數48小時",
-      "link": "/bbs/Stock/M.1775312230.A.C3B",
-      "author": "aatzeng",
-      "board": "Stock",
-      "publishTime": "2026/04/04 14:17",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "453",
       "recommendCount": "585",
@@ -54,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "387",
-      "recommendCount": "463",
+      "recommendScore": "390",
+      "recommendCount": "466",
       "title": "[分享] 今日 Jo Adell 單場三度沒收全壘打",
       "link": "/bbs/Baseball/M.1775362095.A.775",
       "author": "carlchang092",
@@ -74,8 +44,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "204",
-      "recommendCount": "463",
+      "recommendScore": "181",
+      "recommendCount": "546",
+      "title": "[問卦] 中正紀念堂出大事了？",
+      "link": "/bbs/Gossiping/M.1775369918.A.EA7",
+      "author": "Kai877",
+      "board": "Gossiping",
+      "publishTime": "2026/04/05 06:18",
+      "imageUrl": "https://cache.pttweb.cc/imgur/RGCTHud/s/fafa3d59369020c810cf7526ea15cf3c"
+    },
+    {
+      "recommendScore": "217",
+      "recommendCount": "489",
       "title": "[新聞] 少子化海嘯加速：2026年2月新生兒跌破七千「創新低」",
       "link": "/bbs/Gossiping/M.1775362524.A.E72",
       "author": "crocus",
@@ -84,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "332",
-      "recommendCount": "380",
+      "recommendScore": "337",
+      "recommendCount": "385",
       "title": "[情報] 活塞確定拿下東區第一",
       "link": "/bbs/NBA/M.1775359316.A.686",
       "author": "ClownT",
@@ -104,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "136",
-      "recommendCount": "441",
-      "title": "[問卦] 中正紀念堂出大事了？",
-      "link": "/bbs/Gossiping/M.1775369918.A.EA7",
-      "author": "Kai877",
-      "board": "Gossiping",
-      "publishTime": "2026/04/05 06:18",
-      "imageUrl": "https://cache.pttweb.cc/imgur/RGCTHud/s/fafa3d59369020c810cf7526ea15cf3c"
-    },
-    {
       "recommendScore": "141",
       "recommendCount": "357",
       "title": "[新聞] 陳柏惟宣布正式申請加入民進黨 理由全說了",
@@ -124,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "97",
-      "recommendCount": "329",
-      "title": "[新聞] 溫朗東:沈伯洋選台北市長 最痛苦的人是黃國昌",
-      "link": "/bbs/Gossiping/M.1775351779.A.549",
-      "author": "william8403",
-      "board": "Gossiping",
-      "publishTime": "2026/04/05 01:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "151",
-      "recommendCount": "407",
+      "recommendScore": "154",
+      "recommendCount": "426",
       "title": "[問卦] 脆熱議：台海開戰，七成台灣人選擇投降！",
       "link": "/bbs/Gossiping/M.1775364598.A.192",
       "author": "pigpigcom123",
@@ -144,8 +104,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "237",
-      "recommendCount": "315",
+      "recommendScore": "93",
+      "recommendCount": "335",
+      "title": "[新聞] 溫朗東:沈伯洋選台北市長 最痛苦的人是黃國昌",
+      "link": "/bbs/Gossiping/M.1775351779.A.549",
+      "author": "william8403",
+      "board": "Gossiping",
+      "publishTime": "2026/04/05 01:16",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "238",
+      "recommendCount": "316",
       "title": "[新聞] 後藤光尊全力栽培王念好!守備些許失誤沒關係：睜一隻眼閉一隻眼",
       "link": "/bbs/Baseball/M.1775347811.A.7CC",
       "author": "micheal59",
@@ -154,18 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "745",
-      "recommendCount": "1447",
-      "title": "[電競] 2026 LCK Regular Season W1D4",
-      "link": "/bbs/LoL/M.1775288473.A.70D",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/04/04 07:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "222",
-      "recommendCount": "365",
+      "recommendScore": "224",
+      "recommendCount": "367",
       "title": "[情報] Austin Reaves預計缺席4-6週",
       "link": "/bbs/NBA/M.1775337572.A.03D",
       "author": "forever920fv",
@@ -202,6 +162,46 @@
       "board": "Gossiping",
       "publishTime": "2026/04/04 12:43",
       "imageUrl": "https://cache.pttweb.cc/imgur/S52Cykl/s/73e85f95b417ff428466743ca05fccfd"
+    },
+    {
+      "recommendScore": "232",
+      "recommendCount": "752",
+      "title": "Re: [問卦] 田馥甄484掉進周董的坑裡出不來了",
+      "link": "/bbs/Gossiping/M.1775327976.A.9CB",
+      "author": "fghi",
+      "board": "Gossiping",
+      "publishTime": "2026/04/04 18:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "58",
+      "recommendCount": "442",
+      "title": "[新聞] 臨停打雙黃燈恐噴3600元！「6大燈號誤區」曝光　交長陳世凱出手了",
+      "link": "/bbs/Gossiping/M.1775321066.A.7E8",
+      "author": "herewego",
+      "board": "Gossiping",
+      "publishTime": "2026/04/04 16:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "252",
+      "recommendCount": "574",
+      "title": "[閒聊] 魔戒真的有好看成這樣嗎？",
+      "link": "/bbs/C_Chat/M.1775296054.A.B91",
+      "author": "newpasta",
+      "board": "C_Chat",
+      "publishTime": "2026/04/04 09:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "181",
+      "recommendCount": "345",
+      "title": "[問卦] 美軍飛行員被找到了？",
+      "link": "/bbs/Gossiping/M.1775291649.A.8E5",
+      "author": "logical01",
+      "board": "Gossiping",
+      "publishTime": "2026/04/04 08:34",
+      "imageUrl": ""
     }
   ]
 }
