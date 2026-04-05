@@ -1,10 +1,10 @@
 {
-  "updated": "2026-04-05T12:25:21.651Z",
+  "updated": "2026-04-05T13:06:35.101Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-04-05T12:25:14.000Z",
+    "lastBuildDate": "2026-04-05T13:06:26.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -24,6 +24,14 @@
       "pubDate": "2026-04-03T10:33:06.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy472d80ewwo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b05e/live/968e5be0-ec56-11f0-862a-5f12fb5dd49d.jpg"
+    },
+    {
+      "title": "日本法律大改革：離婚夫妻可共享子女監護權　終結百年「單一親權制」",
+      "description": "日本正式實施新《民法》「共同親權」條款，亦即離婚夫妻可協議共享子女監護權，結束百年單一親權制度。評論稱這是日本家庭法史上最大變革，不過，家暴受害者仍擔心安全風險。",
+      "link": "https://www.bbc.com/zhongwen/articles/cgk0rl1g54ko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T12:25:01.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cgk0rl1g54ko/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3f3d/live/3286fc60-30e4-11f1-934f-036468834728.jpg"
     },
     {
       "title": "蘋果50週年：三件改變世人生活的產品⋯⋯和三件失敗之作",
@@ -46,7 +54,7 @@
       "description": "經歷六年改造，重新構建的敘事登場。港英殖民歷史被淡化，港督照片牆、港英旗被拆走；展板不再提「六七暴動」，「六四事件」亦被淡化為「春夏之交的政治風波」。",
       "link": "https://www.bbc.com/zhongwen/articles/cpd547jdgn6o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-02T02:00:39.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cpd547jdgn6o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cpd547jdgn6o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f809/live/504f2720-2df8-11f1-b297-95b0a0a8331e.jpg"
     },
     {
@@ -96,14 +104,6 @@
       "pubDate": "2026-04-02T08:27:14.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c8ej4r86119o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/83c6/live/4e4f5550-247d-11f1-a673-e3b236a15253.jpg"
-    },
-    {
-      "title": "雄安新區十年：領導人「個人設想」、洪水爭議與「疏解」暗戰",
-      "description": "「如果它成功，將可能成為一個可在全國複製推廣的模板；如果它失敗，則將徹底暴露單純依靠自上而下的頂層設計來打造創新活力與城市生機的根本局限。」",
-      "link": "https://www.bbc.com/zhongwen/articles/cpd5zj8e3p9o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-31T00:19:54.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cpd5zj8e3p9o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/78b0/live/373e8040-2c1e-11f1-a165-7f32552c9375.jpg"
     },
     {
       "title": "阿爾忒彌斯2號啟航：睽違54年 人類再度飛向月球",
@@ -194,6 +194,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/40bd/live/1a087f50-28a7-11f1-a79a-77e93010d956.jpg"
     },
     {
+      "title": "雄安新區十年：領導人「個人設想」、洪水爭議與「疏解」暗戰",
+      "description": "「如果它成功，將可能成為一個可在全國複製推廣的模板；如果它失敗，則將徹底暴露單純依靠自上而下的頂層設計來打造創新活力與城市生機的根本局限。」",
+      "link": "https://www.bbc.com/zhongwen/articles/cpd5zj8e3p9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-31T00:19:54.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cpd5zj8e3p9o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/78b0/live/373e8040-2c1e-11f1-a165-7f32552c9375.jpg"
+    },
+    {
       "title": "「鄭習會」將在特朗普訪華前登場   背後的美中台角力與國民黨路線之爭",
       "description": "「鄭習會」背後仍折射出國民黨內部乃至台灣的「親美」或「親中」路線之爭。這趟訪問不只是兩岸互動，更被視為對國民黨2026年地方選舉，甚至未來大選的一次提前測試。",
       "link": "https://www.bbc.com/zhongwen/articles/c5yvg1dljgeo/trad?at_medium=RSS&at_campaign=rss",
@@ -208,14 +216,6 @@
       "pubDate": "2026-03-31T07:00:58.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c30rq424212o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e9e7/live/befaf650-2c2b-11f1-b8c9-f5058c0aec9a.jpg"
-    },
-    {
-      "title": "香港國安法新細則：「強制解鎖」電子設備為何引起廣泛關注",
-      "description": "香港當局最新修訂《香港國安法》的實施細則，包括警方可要求任何涉嫌干犯危害國家安全的「指明人士」提供電子設備的密碼或其他解密方法，引起外界擔憂。",
-      "link": "https://www.bbc.com/zhongwen/articles/cwyv7wx9jd2o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-27T08:21:38.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwyv7wx9jd2o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d5a/live/0cde9850-29b5-11f1-bd05-4d2c4ed50be6.jpg"
     },
     {
       "title": "柯文哲「京華城」貪污案：一審判囚17年，喪失2028總統參選資格",
