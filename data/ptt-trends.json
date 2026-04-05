@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-05T09:00:05.686Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2026-04-05T09:21:52.485Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "476",
@@ -14,8 +14,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "362",
-      "recommendCount": "1022",
+      "recommendScore": "314",
+      "recommendCount": "868",
+      "title": "[問卦] 中正紀念堂出大事了？",
+      "link": "/bbs/Gossiping/M.1775369918.A.EA7",
+      "author": "Kai877",
+      "board": "Gossiping",
+      "publishTime": "2026/04/05 06:18",
+      "imageUrl": "https://cache.pttweb.cc/imgur/RGCTHud/s/fafa3d59369020c810cf7526ea15cf3c"
+    },
+    {
+      "recommendScore": "363",
+      "recommendCount": "1023",
       "title": "[問卦] 酷的夢：我拍什麼都會看 台灣人就是自卑",
       "link": "/bbs/Gossiping/M.1775340587.A.803",
       "author": "kingmusk",
@@ -24,24 +34,14 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/6RFYqXr/s/7f50bab8c53489b166b10b9114aa310c"
     },
     {
-      "recommendScore": "476",
-      "recommendCount": "938",
+      "recommendScore": "478",
+      "recommendCount": "940",
       "title": "[情報] 川普: 倒數48小時",
       "link": "/bbs/Stock/M.1775312230.A.C3B",
       "author": "aatzeng",
       "board": "Stock",
       "publishTime": "2026/04/04 14:17",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "286",
-      "recommendCount": "812",
-      "title": "[問卦] 中正紀念堂出大事了？",
-      "link": "/bbs/Gossiping/M.1775369918.A.EA7",
-      "author": "Kai877",
-      "board": "Gossiping",
-      "publishTime": "2026/04/05 06:18",
-      "imageUrl": "https://cache.pttweb.cc/imgur/RGCTHud/s/fafa3d59369020c810cf7526ea15cf3c"
     },
     {
       "recommendScore": "453",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "411",
-      "recommendCount": "488",
+      "recommendScore": "417",
+      "recommendCount": "495",
       "title": "[分享] 今日 Jo Adell 單場三度沒收全壘打",
       "link": "/bbs/Baseball/M.1775362095.A.775",
       "author": "carlchang092",
@@ -64,18 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "255",
-      "recommendCount": "517",
-      "title": "[新聞] 非首次計畫逃亡！詐騙1.14億僅250萬交保",
-      "link": "/bbs/Gossiping/M.1775294303.A.1CE",
-      "author": "pm2001",
-      "board": "Gossiping",
-      "publishTime": "2026/04/04 09:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "226",
-      "recommendCount": "524",
+      "recommendScore": "233",
+      "recommendCount": "534",
       "title": "[新聞] 少子化海嘯加速：2026年2月新生兒跌破七千「創新低」",
       "link": "/bbs/Gossiping/M.1775362524.A.E72",
       "author": "crocus",
@@ -94,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "346",
-      "recommendCount": "395",
+      "recommendScore": "350",
+      "recommendCount": "399",
       "title": "[情報] 活塞確定拿下東區第一",
       "link": "/bbs/NBA/M.1775359316.A.686",
       "author": "ClownT",
@@ -114,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "172",
-      "recommendCount": "459",
+      "recommendScore": "177",
+      "recommendCount": "466",
       "title": "[問卦] 脆熱議：台海開戰，七成台灣人選擇投降！",
       "link": "/bbs/Gossiping/M.1775364598.A.192",
       "author": "pigpigcom123",
@@ -134,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "139",
+      "recommendCount": "406",
+      "title": "[問卦] 脆熱議：把中正紀念堂拆了！",
+      "link": "/bbs/Gossiping/M.1775370130.A.627",
+      "author": "pigpigcom123",
+      "board": "Gossiping",
+      "publishTime": "2026/04/05 06:22",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "96",
       "recommendCount": "345",
       "title": "[新聞] 溫朗東:沈伯洋選台北市長 最痛苦的人是黃國昌",
@@ -141,16 +141,6 @@
       "author": "william8403",
       "board": "Gossiping",
       "publishTime": "2026/04/05 01:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "138",
-      "recommendCount": "389",
-      "title": "[問卦] 脆熱議：把中正紀念堂拆了！",
-      "link": "/bbs/Gossiping/M.1775370130.A.627",
-      "author": "pigpigcom123",
-      "board": "Gossiping",
-      "publishTime": "2026/04/05 06:22",
       "imageUrl": ""
     },
     {
@@ -164,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "225",
-      "recommendCount": "368",
+      "recommendScore": "226",
+      "recommendCount": "369",
       "title": "[情報] Austin Reaves預計缺席4-6週",
       "link": "/bbs/NBA/M.1775337572.A.03D",
       "author": "forever920fv",
@@ -192,6 +182,26 @@
       "board": "Gossiping",
       "publishTime": "2026/04/04 12:43",
       "imageUrl": "https://cache.pttweb.cc/imgur/S52Cykl/s/73e85f95b417ff428466743ca05fccfd"
+    },
+    {
+      "recommendScore": "237",
+      "recommendCount": "761",
+      "title": "Re: [問卦] 田馥甄484掉進周董的坑裡出不來了",
+      "link": "/bbs/Gossiping/M.1775327976.A.9CB",
+      "author": "fghi",
+      "board": "Gossiping",
+      "publishTime": "2026/04/04 18:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "56",
+      "recommendCount": "445",
+      "title": "[新聞] 臨停打雙黃燈恐噴3600元！「6大燈號誤區」曝光　交長陳世凱出手了",
+      "link": "/bbs/Gossiping/M.1775321066.A.7E8",
+      "author": "herewego",
+      "board": "Gossiping",
+      "publishTime": "2026/04/04 16:44",
+      "imageUrl": ""
     }
   ]
 }
