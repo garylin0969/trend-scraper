@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T21:24:38.794Z",
+  "updated": "2026-04-05T21:43:54.079Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/RGCTHud/s/fafa3d59369020c810cf7526ea15cf3c"
     },
     {
-      "recommendScore": "518",
-      "recommendCount": "1121",
+      "recommendScore": "521",
+      "recommendCount": "1125",
       "title": "[問卦]春捲業者嗆:又不是我的問題 我損失誰負責?",
       "link": "/bbs/Gossiping/M.1775385434.A.BD6",
       "author": "a91153456",
@@ -34,8 +34,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/6RFYqXr/s/7f50bab8c53489b166b10b9114aa310c"
     },
     {
-      "recommendScore": "162",
-      "recommendCount": "749",
+      "recommendScore": "164",
+      "recommendCount": "753",
       "title": "[新聞] 不婚不生！台灣生育率全球最低 政院：今年推少子女化對策2.0",
       "link": "/bbs/Gossiping/M.1775394462.A.86D",
       "author": "CREA",
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "342",
+      "recommendCount": "896",
+      "title": "[問卦] 臺灣嚴重少子化的根本原因到底是啥？",
+      "link": "/bbs/Gossiping/M.1775399591.A.E3A",
+      "author": "KyrieIrving1",
+      "board": "Gossiping",
+      "publishTime": "2026/04/05 14:33",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "463",
       "recommendCount": "547",
       "title": "[分享] 今日 Jo Adell 單場三度沒收全壘打",
@@ -61,16 +71,6 @@
       "author": "carlchang092",
       "board": "Baseball",
       "publishTime": "2026/04/05 04:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "341",
-      "recommendCount": "887",
-      "title": "[問卦] 臺灣嚴重少子化的根本原因到底是啥？",
-      "link": "/bbs/Gossiping/M.1775399591.A.E3A",
-      "author": "KyrieIrving1",
-      "board": "Gossiping",
-      "publishTime": "2026/04/05 14:33",
       "imageUrl": ""
     },
     {
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "317",
-      "recommendCount": "884",
+      "recommendScore": "318",
+      "recommendCount": "886",
       "title": "[新聞] 山友失蹤47天「跑山獸」協尋索費挨批賞金獵人 律師：找人幫忙本該付費",
       "link": "/bbs/Gossiping/M.1775382008.A.AEE",
       "author": "minche",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "309",
-      "recommendCount": "549",
+      "recommendScore": "310",
+      "recommendCount": "550",
       "title": "[爆卦] 川普：快打開他媽的霍爾木茲海峽",
       "link": "/bbs/Gossiping/M.1775390872.A.F94",
       "author": "Axwell",
@@ -154,8 +154,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ZaCTDHC/s/4a6eea9cd68e2ce1a5e51ad44c0aa7c9"
     },
     {
-      "recommendScore": "220",
-      "recommendCount": "406",
+      "recommendScore": "222",
+      "recommendCount": "410",
       "title": "[爆卦] 濫用職權肉搜草的警察被懲處了！",
       "link": "/bbs/Gossiping/M.1775401374.A.FD1",
       "author": "pigpigcom123",
@@ -184,23 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "200",
-      "recommendCount": "374",
-      "title": "[新聞] 伊朗預告「大驚喜」將登場！狠嗆美以戰略已失算",
-      "link": "/bbs/Stock/M.1775372083.A.F6C",
-      "author": "joanzkow",
-      "board": "Stock",
-      "publishTime": "2026/04/05 06:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "152",
-      "recommendCount": "305",
+      "recommendScore": "154",
+      "recommendCount": "307",
       "title": "[新聞] 快訊／清明吃春捲中毒擴大！人數飆至67人...衛生局勒令停業7天",
       "link": "/bbs/Gossiping/M.1775382595.A.46F",
       "author": "joanzkow",
       "board": "Gossiping",
       "publishTime": "2026/04/05 09:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "201",
+      "recommendCount": "375",
+      "title": "[新聞] 伊朗預告「大驚喜」將登場！狠嗆美以戰略已失算",
+      "link": "/bbs/Stock/M.1775372083.A.F6C",
+      "author": "joanzkow",
+      "board": "Stock",
+      "publishTime": "2026/04/05 06:54",
       "imageUrl": ""
     }
   ]
