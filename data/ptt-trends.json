@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-05T06:02:31.612Z",
+  "updated": "2026-04-05T06:38:33.075Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "471",
-      "recommendCount": "847",
+      "recommendScore": "472",
+      "recommendCount": "848",
       "title": "[新聞] 快新聞／拍板定案了！綠營擬推沈伯洋戰北",
       "link": "/bbs/Gossiping/M.1775304172.A.D61",
       "author": "Alberta99170",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "474",
-      "recommendCount": "935",
+      "recommendScore": "475",
+      "recommendCount": "937",
       "title": "[情報] 川普: 倒數48小時",
       "link": "/bbs/Stock/M.1775312230.A.C3B",
       "author": "aatzeng",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "348",
-      "recommendCount": "960",
+      "recommendScore": "352",
+      "recommendCount": "988",
       "title": "[問卦] 酷的夢：我拍什麼都會看 台灣人就是自卑",
       "link": "/bbs/Gossiping/M.1775340587.A.803",
       "author": "kingmusk",
@@ -74,8 +74,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "177",
-      "recommendCount": "468",
+      "recommendScore": "349",
+      "recommendCount": "421",
+      "title": "[分享] 今日 Jo Adell 單場三度沒收全壘打",
+      "link": "/bbs/Baseball/M.1775362095.A.775",
+      "author": "carlchang092",
+      "board": "Baseball",
+      "publishTime": "2026/04/05 04:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "179",
+      "recommendCount": "470",
       "title": "[新聞] 沈伯洋選北市長「非常不適合」　胡采蘋曝他這樣發言聽了頭皮發麻",
       "link": "/bbs/Gossiping/M.1775323811.A.6E2",
       "author": "asppsa",
@@ -84,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "184",
-      "recommendCount": "414",
+      "recommendScore": "185",
+      "recommendCount": "415",
       "title": "[新聞] 快訊／經長龔明鑫提前宣布下周油價不調漲中油補貼逾90.6億",
       "link": "/bbs/Stock/M.1775287366.A.FAE",
       "author": "joanzkow",
@@ -94,24 +104,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "308",
-      "recommendCount": "352",
+      "recommendScore": "317",
+      "recommendCount": "362",
       "title": "[情報] 活塞確定拿下東區第一",
       "link": "/bbs/NBA/M.1775359316.A.686",
       "author": "ClownT",
       "board": "NBA",
       "publishTime": "2026/04/05 03:21",
       "imageUrl": "https://cache.pttweb.cc/imgur/ZaCTDHC/s/4a6eea9cd68e2ce1a5e51ad44c0aa7c9"
-    },
-    {
-      "recommendScore": "310",
-      "recommendCount": "380",
-      "title": "[分享] 今日 Jo Adell 單場三度沒收全壘打",
-      "link": "/bbs/Baseball/M.1775362095.A.775",
-      "author": "carlchang092",
-      "board": "Baseball",
-      "publishTime": "2026/04/05 04:08",
-      "imageUrl": ""
     },
     {
       "recommendScore": "140",
@@ -121,6 +121,36 @@
       "author": "eatk",
       "board": "Gossiping",
       "publishTime": "2026/04/04 10:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "184",
+      "recommendCount": "389",
+      "title": "[新聞] 少子化海嘯加速：2026年2月新生兒跌破七千「創新低」",
+      "link": "/bbs/Gossiping/M.1775362524.A.E72",
+      "author": "crocus",
+      "board": "Gossiping",
+      "publishTime": "2026/04/05 04:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "236",
+      "recommendCount": "314",
+      "title": "[新聞] 後藤光尊全力栽培王念好!守備些許失誤沒關係：睜一隻眼閉一隻眼",
+      "link": "/bbs/Baseball/M.1775347811.A.7CC",
+      "author": "micheal59",
+      "board": "Baseball",
+      "publishTime": "2026/04/05 00:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "94",
+      "recommendCount": "315",
+      "title": "[新聞] 溫朗東:沈伯洋選台北市長 最痛苦的人是黃國昌",
+      "link": "/bbs/Gossiping/M.1775351779.A.549",
+      "author": "william8403",
+      "board": "Gossiping",
+      "publishTime": "2026/04/05 01:16",
       "imageUrl": ""
     },
     {
@@ -134,33 +164,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "235",
-      "recommendCount": "311",
-      "title": "[新聞] 後藤光尊全力栽培王念好!守備些許失誤沒關係：睜一隻眼閉一隻眼",
-      "link": "/bbs/Baseball/M.1775347811.A.7CC",
-      "author": "micheal59",
-      "board": "Baseball",
-      "publishTime": "2026/04/05 00:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "176",
-      "recommendCount": "352",
-      "title": "[爆卦] 川普：倒數48小時",
-      "link": "/bbs/Gossiping/M.1775311824.A.7EE",
-      "author": "Axwell",
-      "board": "Gossiping",
-      "publishTime": "2026/04/04 14:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "216",
-      "recommendCount": "353",
+      "recommendScore": "217",
+      "recommendCount": "358",
       "title": "[情報] Austin Reaves預計缺席4-6週",
       "link": "/bbs/NBA/M.1775337572.A.03D",
       "author": "forever920fv",
       "board": "NBA",
       "publishTime": "2026/04/04 21:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "176",
+      "recommendCount": "353",
+      "title": "[爆卦] 川普：倒數48小時",
+      "link": "/bbs/Gossiping/M.1775311824.A.7EE",
+      "author": "Axwell",
+      "board": "Gossiping",
+      "publishTime": "2026/04/04 14:10",
       "imageUrl": ""
     },
     {
@@ -174,34 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "84",
-      "recommendCount": "291",
-      "title": "[新聞] 溫朗東:沈伯洋選台北市長 最痛苦的人是黃國昌",
-      "link": "/bbs/Gossiping/M.1775351779.A.549",
-      "author": "william8403",
-      "board": "Gossiping",
-      "publishTime": "2026/04/05 01:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "201",
-      "recommendCount": "446",
+      "recommendScore": "202",
+      "recommendCount": "448",
       "title": "[問卦] 印度女童幼稚園入學，日本網友:回家吧",
       "link": "/bbs/Gossiping/M.1775306608.A.8D9",
       "author": "psychohero",
       "board": "Gossiping",
       "publishTime": "2026/04/04 12:43",
       "imageUrl": "https://cache.pttweb.cc/imgur/S52Cykl/s/73e85f95b417ff428466743ca05fccfd"
-    },
-    {
-      "recommendScore": "181",
-      "recommendCount": "345",
-      "title": "[問卦] 美軍飛行員被找到了？",
-      "link": "/bbs/Gossiping/M.1775291649.A.8E5",
-      "author": "logical01",
-      "board": "Gossiping",
-      "publishTime": "2026/04/04 08:34",
-      "imageUrl": ""
     }
   ]
 }
