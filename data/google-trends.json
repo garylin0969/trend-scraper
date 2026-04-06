@@ -1,34 +1,44 @@
 {
-  "updated": "2026-04-06T21:19:34.656Z",
+  "updated": "2026-04-06T21:48:25.785Z",
   "trends": [
     {
       "googleTrend": "s&p 500",
+      "searchVolume": "200+",
+      "started": "50 分鐘前"
+    },
+    {
+      "googleTrend": "道瓊工業平均指數",
+      "searchVolume": "200+",
+      "started": "50 分鐘前"
+    },
+    {
+      "googleTrend": "tsm",
       "searchVolume": "100+",
-      "started": "20 分鐘前"
+      "started": "30 分鐘前"
+    },
+    {
+      "googleTrend": "mu",
+      "searchVolume": "100+",
+      "started": "30 分鐘前"
     },
     {
       "googleTrend": "京華城案",
       "searchVolume": "100+",
-      "started": "10 分鐘前"
+      "started": "40 分鐘前"
     },
     {
-      "googleTrend": "道瓊工業平均指數",
+      "googleTrend": "謝金河",
+      "searchVolume": "100+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "vix指數",
       "searchVolume": "100+",
       "started": "20 分鐘前"
     },
     {
-      "googleTrend": "artemis ii",
-      "searchVolume": "200+",
-      "started": "3 小時前"
-    },
-    {
       "googleTrend": "意甲",
       "searchVolume": "100+",
-      "started": "2 小時前"
-    },
-    {
-      "googleTrend": "阿提米絲2號",
-      "searchVolume": "200+",
       "started": "3 小時前"
     }
   ]
