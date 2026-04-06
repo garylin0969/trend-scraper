@@ -1,21 +1,21 @@
 {
-  "updated": "2026-04-06T06:18:17.946Z",
+  "updated": "2026-04-06T07:12:10.830Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-04-06T06:18:12.000Z",
+    "lastBuildDate": "2026-04-06T07:12:01.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
     {
-      "title": "「阿提米絲二號」太空人今夜將與地球失聯40分鐘  環月衛星通訊網已提上日程",
-      "description": "50多年前，阿波羅任務的太空人也曾在飛往月球的旅途中，經歷因訊號中斷而帶來的孤獨。",
-      "link": "https://www.bbc.com/zhongwen/articles/c8x7rvv7gqqo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-06T04:52:36.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c8x7rvv7gqqo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/62f7/live/d3a93f70-2fb0-11f1-9885-91ba338bedfd.jpg"
+      "title": "阿提米絲大量「發帖」秀圖：這是科學之旅還是度假？",
+      "description": "獵戶座搭載了32部攝影機與相關設備——其中15部安裝在太空船上，另外17部由太空人手持操作。",
+      "link": "https://www.bbc.com/zhongwen/articles/cd7j282jxpxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-06T06:37:49.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cd7j282jxpxo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bfde/live/0c742dd0-30f4-11f1-b6e3-bf199a2978e2.jpg"
     },
     {
       "title": "美國戰鬥機在伊朗上空被擊落　兩人先後獲救",
@@ -34,12 +34,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b05e/live/968e5be0-ec56-11f0-862a-5f12fb5dd49d.jpg"
     },
     {
-      "title": "法籍華裔毒販囚禁20年後被執行死刑　巴黎「震驚」",
-      "description": "法國表示「震驚」獲悉法籍毒販陳森在廣州被處決，中國駐法使館間接證實消息，稱「打擊毒品犯罪是各國共同責任」。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1457zv7mr8o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-05T14:25:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1457zv7mr8o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a4d7/live/628cade0-30fa-11f1-934f-036468834728.jpg"
+      "title": "「阿提米絲二號」太空人今夜將與地球失聯40分鐘  環月衛星通訊網已提上日程",
+      "description": "50多年前，阿波羅任務的太空人也曾在飛往月球的旅途中，經歷因訊號中斷而帶來的孤獨。",
+      "link": "https://www.bbc.com/zhongwen/articles/c8x7rvv7gqqo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-06T04:52:36.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c8x7rvv7gqqo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/62f7/live/d3a93f70-2fb0-11f1-9885-91ba338bedfd.jpg"
     },
     {
       "title": "高壓水槍洗地、清理泳池和割草：為甚麼數百萬人正在玩幹著瑣碎工作的英國網遊？",
@@ -48,6 +48,14 @@
       "pubDate": "2026-04-06T00:45:02.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cjr91x2x1v4o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f2c0/live/dc9b1bc0-2dd6-11f1-a79a-77e93010d956.png"
+    },
+    {
+      "title": "法籍華裔毒販囚禁20年後被執行死刑　巴黎「震驚」",
+      "description": "法國表示「震驚」獲悉法籍毒販陳森在廣州被處決，中國駐法使館間接證實消息，稱「打擊毒品犯罪是各國共同責任」。",
+      "link": "https://www.bbc.com/zhongwen/articles/c1457zv7mr8o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T14:25:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1457zv7mr8o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a4d7/live/628cade0-30fa-11f1-934f-036468834728.jpg"
     },
     {
       "title": "蘋果50週年：三件改變世人生活的產品⋯⋯和三件失敗之作",
@@ -88,14 +96,6 @@
       "pubDate": "2026-04-03T04:42:21.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ce35nej38q3o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/45e9/live/8b83a3a0-2f08-11f1-934f-036468834728.jpg"
-    },
-    {
-      "title": "「要嚴肅一些……不要每天出來講話」：馬克龍批評特朗普對伊朗戰爭的處理方式",
-      "description": "法國總統馬克龍（馬克宏）批評特朗普（川普）處理與伊朗戰爭的方式，強調這類衝突需要「認真」對待，不能每天只是開口就自相矛盾。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gd8lxlg5vo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T03:59:04.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gd8lxlg5vo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/124a/live/4d40cb70-2f05-11f1-a79a-77e93010d956.jpg"
     },
     {
       "title": "中國試圖在伊朗戰爭中扮演和平調解者，這會奏效嗎？",
