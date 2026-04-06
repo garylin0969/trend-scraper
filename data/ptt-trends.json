@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-06T18:48:24.858Z",
+  "updated": "2026-04-06T19:15:52.806Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "278",
+      "recommendCount": "612",
+      "title": "[問卦] 慟！罷團：請金主們評評理！",
+      "link": "/bbs/Gossiping/M.1775472838.A.114",
+      "author": "pigpigcom123",
+      "board": "Gossiping",
+      "publishTime": "2026/04/06 10:53",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "164",
       "recommendCount": "464",
       "title": "[新聞] 台灣高麗菜外銷韓國爆紅 在韓台人瘋團購",
@@ -121,16 +131,6 @@
       "author": "yuting90",
       "board": "Gossiping",
       "publishTime": "2026/04/05 23:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "279",
-      "recommendCount": "611",
-      "title": "[問卦] 慟！罷團：請金主們評評理！",
-      "link": "/bbs/Gossiping/M.1775472838.A.114",
-      "author": "pigpigcom123",
-      "board": "Gossiping",
-      "publishTime": "2026/04/06 10:53",
       "imageUrl": ""
     },
     {
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "309",
-      "recommendCount": "743",
+      "recommendScore": "312",
+      "recommendCount": "748",
       "title": "[討論] 林哲瑄全盛時期有比陽岱鋼強嗎？",
       "link": "/bbs/Baseball/M.1775483473.A.57E",
       "author": "ej5g5",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "168",
-      "recommendCount": "314",
-      "title": "[問卦] 川普：再延24小時好了",
-      "link": "/bbs/Gossiping/M.1775440160.A.242",
-      "author": "beaver",
+      "recommendScore": "197",
+      "recommendCount": "441",
+      "title": "[問卦] 十年 幾兆新台幣 又回到核能原點有多白癡",
+      "link": "/bbs/Gossiping/M.1775488546.A.F4A",
+      "author": "tzujan",
       "board": "Gossiping",
-      "publishTime": "2026/04/06 01:49",
+      "publishTime": "2026/04/06 15:15",
       "imageUrl": ""
     }
   ]
