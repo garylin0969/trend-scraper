@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-06T08:19:05.397Z",
+  "updated": "2026-04-06T08:51:49.320Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "546",
-      "recommendCount": "1179",
+      "recommendScore": "547",
+      "recommendCount": "1180",
       "title": "[問卦]春捲業者嗆:又不是我的問題 我損失誰負責?",
       "link": "/bbs/Gossiping/M.1775385434.A.BD6",
       "author": "a91153456",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "214",
-      "recommendCount": "887",
+      "recommendScore": "217",
+      "recommendCount": "892",
       "title": "[新聞] 不婚不生！台灣生育率全球最低 政院：今年推少子女化對策2.0",
       "link": "/bbs/Gossiping/M.1775394462.A.86D",
       "author": "CREA",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "431",
-      "recommendCount": "964",
+      "recommendScore": "436",
+      "recommendCount": "977",
       "title": "[新聞] 台灣人口結構快速惡化！國發會估2065年提前跌破1200萬人",
       "link": "/bbs/Gossiping/M.1775439427.A.97C",
       "author": "SuperSg",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "422",
-      "recommendCount": "1126",
+      "recommendScore": "424",
+      "recommendCount": "1131",
       "title": "[問卦] 臺灣嚴重少子化的根本原因到底是啥？",
       "link": "/bbs/Gossiping/M.1775399591.A.E3A",
       "author": "KyrieIrving1",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "435",
-      "recommendCount": "766",
+      "recommendCount": "767",
       "title": "[情報] 川普：快打開他媽的霍爾木茲海峽",
       "link": "/bbs/Stock/M.1775394455.A.EDD",
       "author": "TCB006",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "309",
-      "recommendCount": "653",
+      "recommendScore": "314",
+      "recommendCount": "668",
       "title": "[新聞] 快訊／高雄春捲瘟「增至134人中毒」！業者說謊下場慘了",
       "link": "/bbs/Gossiping/M.1775446999.A.9F4",
       "author": "YU0121",
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "228",
+      "recommendCount": "636",
+      "title": "[新聞] 酷的夢不只爆「貶低台灣」！還疑似「支持民眾黨」網見鐵證怒退訂：根本是草",
+      "link": "/bbs/Gossiping/M.1775455880.A.1CD",
+      "author": "au4g3wk4k",
+      "board": "Gossiping",
+      "publishTime": "2026/04/06 06:11",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "318",
       "recommendCount": "565",
       "title": "[爆卦] 川普：快打開他媽的霍爾木茲海峽",
@@ -84,23 +94,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "333",
-      "recommendCount": "639",
+      "recommendScore": "334",
+      "recommendCount": "641",
       "title": "[爆卦] 濫用職權肉搜草的警察被懲處了！",
       "link": "/bbs/Gossiping/M.1775401374.A.FD1",
       "author": "pigpigcom123",
       "board": "Gossiping",
       "publishTime": "2026/04/05 15:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "213",
-      "recommendCount": "567",
-      "title": "[新聞] 酷的夢不只爆「貶低台灣」！還疑似「支持民眾黨」網見鐵證怒退訂：根本是草",
-      "link": "/bbs/Gossiping/M.1775455880.A.1CD",
-      "author": "au4g3wk4k",
-      "board": "Gossiping",
-      "publishTime": "2026/04/06 06:11",
       "imageUrl": ""
     },
     {
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "194",
-      "recommendCount": "428",
+      "recommendScore": "195",
+      "recommendCount": "433",
       "title": "[新聞] 「女戰神」比沈伯洋更適合選台北市長？",
       "link": "/bbs/Gossiping/M.1775432438.A.D5A",
       "author": "qazxc1156892",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "205",
-      "recommendCount": "532",
+      "recommendScore": "223",
+      "recommendCount": "561",
       "title": "[新聞] Axios：美伊及多方擬停火45天 續談永久終戰協議",
       "link": "/bbs/Stock/M.1775447680.A.06E",
       "author": "chordate",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "151",
-      "recommendCount": "440",
+      "recommendScore": "152",
+      "recommendCount": "445",
       "title": "[新聞] 台灣高麗菜外銷韓國爆紅 在韓台人瘋團購",
       "link": "/bbs/Gossiping/M.1775431824.A.F40",
       "author": "yuting90",
@@ -144,8 +144,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "183",
-      "recommendCount": "591",
+      "recommendScore": "268",
+      "recommendCount": "339",
+      "title": "[炸裂] 王柏融",
+      "link": "/bbs/Baseball/M.1775463719.A.E0B",
+      "author": "rochiou28",
+      "board": "Baseball",
+      "publishTime": "2026/04/06 08:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "194",
+      "recommendCount": "622",
       "title": "[問卦] 有沒有現在女生擇偶標準高到離譜的八卦",
       "link": "/bbs/Gossiping/M.1775442326.A.F1B",
       "author": "bruce20053",
@@ -164,13 +174,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "138",
-      "recommendCount": "372",
+      "recommendScore": "139",
+      "recommendCount": "374",
       "title": "[問卦] 荷姆茲海峽被封鎖台灣人都不擔心？",
       "link": "/bbs/Gossiping/M.1775392569.A.7D2",
       "author": "HisVol",
       "board": "Gossiping",
       "publishTime": "2026/04/05 12:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "172",
+      "recommendCount": "312",
+      "title": "[新聞] 快新聞／沈伯洋實力被嚴重低估？近1個月聲量數據暴增　竟連王世堅都吞敗",
+      "link": "/bbs/Gossiping/M.1775455803.A.5A1",
+      "author": "chopper594",
+      "board": "Gossiping",
+      "publishTime": "2026/04/06 06:10",
       "imageUrl": ""
     },
     {
@@ -181,26 +201,6 @@
       "author": "doklbaj",
       "board": "Baseball",
       "publishTime": "2026/04/05 09:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "157",
-      "recommendCount": "315",
-      "title": "[新聞] 快訊／清明吃春捲中毒擴大！人數飆至67人...衛生局勒令停業7天",
-      "link": "/bbs/Gossiping/M.1775382595.A.46F",
-      "author": "joanzkow",
-      "board": "Gossiping",
-      "publishTime": "2026/04/05 09:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "233",
-      "recommendCount": "457",
-      "title": "[BOX ] Lakers 128:134 Mavericks",
-      "link": "/bbs/NBA/M.1775441452.A.194",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2026/04/06 02:10",
       "imageUrl": ""
     }
   ]
