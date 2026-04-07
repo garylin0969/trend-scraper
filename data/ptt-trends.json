@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-07T10:49:01.316Z",
+  "updated": "2026-04-07T11:14:11.175Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "591",
-      "recommendCount": "946",
+      "recommendScore": "599",
+      "recommendCount": "959",
       "title": "[新聞] 陸女開車追搶匪「撞死歹徒」！法院認定「正當防衛」獲判無罪",
       "link": "/bbs/Gossiping/M.1775533909.A.7A4",
       "author": "zxcxxx",
@@ -14,13 +14,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "514",
-      "recommendCount": "874",
+      "recommendScore": "523",
+      "recommendCount": "885",
       "title": "[爆卦] 陳柏惟:沈伯洋右手拿CIA錢 左手拿中共錢",
       "link": "/bbs/Gossiping/M.1775537891.A.55B",
       "author": "chopper594",
       "board": "Gossiping",
       "publishTime": "2026/04/07 04:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "367",
+      "recommendCount": "957",
+      "title": "[新聞] 自爆「家裡被搜出100本存摺」引討論　陳佩琪揭原因：有很多嗎？",
+      "link": "/bbs/Gossiping/M.1775551320.A.B92",
+      "author": "chpen",
+      "board": "Gossiping",
+      "publishTime": "2026/04/07 08:42",
       "imageUrl": ""
     },
     {
@@ -31,16 +41,6 @@
       "author": "h2o1125",
       "board": "Gossiping",
       "publishTime": "2026/04/06 21:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "346",
-      "recommendCount": "897",
-      "title": "[新聞] 自爆「家裡被搜出100本存摺」引討論　陳佩琪揭原因：有很多嗎？",
-      "link": "/bbs/Gossiping/M.1775551320.A.B92",
-      "author": "chpen",
-      "board": "Gossiping",
-      "publishTime": "2026/04/07 08:42",
       "imageUrl": ""
     },
     {
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "264",
+      "recommendCount": "642",
+      "title": "[問卦] 有沒有人發現台灣是被綠電搞爛的？",
+      "link": "/bbs/Gossiping/M.1775514597.A.3A6",
+      "author": "sss1234",
+      "board": "Gossiping",
+      "publishTime": "2026/04/06 22:29",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "356",
       "recommendCount": "477",
       "title": "[分享] CPBL戰績",
@@ -81,16 +91,6 @@
       "author": "nybbnan",
       "board": "Baseball",
       "publishTime": "2026/04/06 12:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "264",
-      "recommendCount": "640",
-      "title": "[問卦] 有沒有人發現台灣是被綠電搞爛的？",
-      "link": "/bbs/Gossiping/M.1775514597.A.3A6",
-      "author": "sss1234",
-      "board": "Gossiping",
-      "publishTime": "2026/04/06 22:29",
       "imageUrl": ""
     },
     {
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "199",
-      "recommendCount": "518",
+      "recommendScore": "204",
+      "recommendCount": "530",
       "title": "[新聞] 求償無門？高雄毒春捲攤販「沒保險、沒登記」賠償恐逾4千萬",
       "link": "/bbs/Gossiping/M.1775547196.A.7EB",
       "author": "s110269",
@@ -134,18 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "299",
-      "recommendCount": "646",
-      "title": "[問卦] 慟！罷團：請金主們評評理！",
-      "link": "/bbs/Gossiping/M.1775472838.A.114",
-      "author": "pigpigcom123",
-      "board": "Gossiping",
-      "publishTime": "2026/04/06 10:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "65",
-      "recommendCount": "433",
+      "recommendScore": "66",
+      "recommendCount": "444",
       "title": "[新聞] 美退將示警：若台灣不積極提高國防預算川普將做出懲罰性回應",
       "link": "/bbs/Gossiping/M.1775546637.A.9FC",
       "author": "a828215362",
@@ -164,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "190",
-      "recommendCount": "437",
+      "recommendScore": "191",
+      "recommendCount": "438",
       "title": "[新聞] 美伊和談等結果 川普拋美國在荷莫茲海峽收費可能性",
       "link": "/bbs/Stock/M.1775512937.A.AF8",
       "author": "AnneofGreen",
@@ -174,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "194",
-      "recommendCount": "428",
+      "recommendScore": "195",
+      "recommendCount": "431",
       "title": "[新聞] 川普：該由美國收荷姆茲海峽「通行費」",
       "link": "/bbs/Stock/M.1775525645.A.198",
       "author": "a5687920",
@@ -185,7 +175,7 @@
     },
     {
       "recommendScore": "119",
-      "recommendCount": "383",
+      "recommendCount": "388",
       "title": "[新聞] 舊青安也開查！　她自住6年「才租1年」被追討利息、重談貸款",
       "link": "/bbs/Gossiping/M.1775534291.A.FC1",
       "author": "STAV72",
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "236",
-      "recommendCount": "445",
+      "recommendScore": "238",
+      "recommendCount": "447",
       "title": "[新聞] 快訊／2026藍白合「民眾黨首勝」　張啓楷參選嘉義市長",
       "link": "/bbs/Gossiping/M.1775532813.A.22F",
       "author": "kunamatataha",
       "board": "Gossiping",
       "publishTime": "2026/04/07 03:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "201",
+      "recommendCount": "869",
+      "title": "[閒聊] 所以為啥VT中之人不能被挖出來？",
+      "link": "/bbs/C_Chat/M.1775541658.A.BCE",
+      "author": "GGSuperInIn",
+      "board": "C_Chat",
+      "publishTime": "2026/04/07 06:00",
       "imageUrl": ""
     }
   ]
