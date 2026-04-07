@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-07T17:02:08.873Z",
-  "total_found": 18,
-  "returned_count": 18,
+  "updated": "2026-04-07T17:32:29.745Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "637",
-      "recommendCount": "1020",
+      "recommendScore": "638",
+      "recommendCount": "1021",
       "title": "[新聞] 陸女開車追搶匪「撞死歹徒」！法院認定「正當防衛」獲判無罪",
       "link": "/bbs/Gossiping/M.1775533909.A.7A4",
       "author": "zxcxxx",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "512",
-      "recommendCount": "1281",
+      "recommendScore": "513",
+      "recommendCount": "1290",
       "title": "[新聞] 自爆「家裡被搜出100本存摺」引討論　陳佩琪揭原因：有很多嗎？",
       "link": "/bbs/Gossiping/M.1775551320.A.B92",
       "author": "chpen",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "552",
-      "recommendCount": "935",
+      "recommendScore": "554",
+      "recommendCount": "937",
       "title": "[爆卦] 陳柏惟:沈伯洋右手拿CIA錢 左手拿中共錢",
       "link": "/bbs/Gossiping/M.1775537891.A.55B",
       "author": "chopper594",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "298",
-      "recommendCount": "666",
+      "recommendScore": "300",
+      "recommendCount": "668",
       "title": "[情報] 川普: 有一個文明將在今晚滅亡。",
       "link": "/bbs/Stock/M.1775565359.A.0FD",
       "author": "cuteSquirrel",
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "245",
+      "recommendCount": "516",
+      "title": "[新聞] 確定了？家樂福將改名為樂家康",
+      "link": "/bbs/Stock/M.1775561897.A.9BD",
+      "author": "hugh509",
+      "board": "Stock",
+      "publishTime": "2026/04/07 11:38",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "232",
       "recommendCount": "607",
       "title": "[新聞] 求償無門？高雄毒春捲攤販「沒保險、沒登記」賠償恐逾4千萬",
@@ -91,16 +101,6 @@
       "author": "s110269",
       "board": "Gossiping",
       "publishTime": "2026/04/07 07:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "237",
-      "recommendCount": "504",
-      "title": "[新聞] 確定了？家樂福將改名為樂家康",
-      "link": "/bbs/Stock/M.1775561897.A.9BD",
-      "author": "hugh509",
-      "board": "Stock",
-      "publishTime": "2026/04/07 11:38",
       "imageUrl": ""
     },
     {
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "266",
+      "recommendCount": "631",
+      "title": "[情報] 白宮否認正在考慮對伊朗使用核武",
+      "link": "/bbs/Stock/M.1775574271.A.C68",
+      "author": "ng101281",
+      "board": "Stock",
+      "publishTime": "2026/04/07 15:04",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "129",
       "recommendCount": "403",
       "title": "[新聞] 舊青安也開查！　她自住6年「才租1年」被追討利息、重談貸款",
@@ -164,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "257",
-      "recommendCount": "614",
-      "title": "[情報] 白宮否認正在考慮對伊朗使用核武",
-      "link": "/bbs/Stock/M.1775574271.A.C68",
-      "author": "ng101281",
-      "board": "Stock",
-      "publishTime": "2026/04/07 15:04",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "244",
       "recommendCount": "458",
       "title": "[新聞] 快訊／2026藍白合「民眾黨首勝」　張啓楷參選嘉義市長",
@@ -181,6 +181,26 @@
       "author": "kunamatataha",
       "board": "Gossiping",
       "publishTime": "2026/04/07 03:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "216",
+      "recommendCount": "376",
+      "title": "[情報] 伊朗: 關閉直接或間接的對美溝通管道。",
+      "link": "/bbs/Stock/M.1775571109.A.764",
+      "author": "cuteSquirrel",
+      "board": "Stock",
+      "publishTime": "2026/04/07 14:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "211",
+      "recommendCount": "893",
+      "title": "[閒聊] 所以為啥VT中之人不能被挖出來？",
+      "link": "/bbs/C_Chat/M.1775541658.A.BCE",
+      "author": "GGSuperInIn",
+      "board": "C_Chat",
+      "publishTime": "2026/04/07 06:00",
       "imageUrl": ""
     }
   ]
