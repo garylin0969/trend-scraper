@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-08T13:46:18.951Z",
+  "updated": "2026-04-08T14:22:16.127Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "254",
-      "recommendCount": "1205",
+      "recommendCount": "1207",
       "title": "[新聞] 2026不玩了！林右昌宣布離開台灣：2028繼續為民進黨打拚",
       "link": "/bbs/Gossiping/M.1775618560.A.452",
       "author": "s910222",
@@ -14,13 +14,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "392",
-      "recommendCount": "488",
+      "recommendScore": "399",
+      "recommendCount": "497",
       "title": "[分享] 今日徐若熙",
       "link": "/bbs/Baseball/M.1775647784.A.9CE",
       "author": "kevenchia",
       "board": "Baseball",
       "publishTime": "2026/04/08 11:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "384",
+      "recommendCount": "494",
+      "title": "[閒聊] 中國Coser不付尾款 被攝影師公佈原圖",
+      "link": "/bbs/C_Chat/M.1775647319.A.467",
+      "author": "victor87710",
+      "board": "C_Chat",
+      "publishTime": "2026/04/08 11:21",
       "imageUrl": ""
     },
     {
@@ -35,22 +45,12 @@
     },
     {
       "recommendScore": "348",
-      "recommendCount": "434",
+      "recommendCount": "435",
       "title": "Re: [推薦] 足球[小律師]國際喀什 @ 清奈",
       "link": "/bbs/SportLottery/M.1775577399.A.5CB",
       "author": "lotterywin",
       "board": "SportLottery",
       "publishTime": "2026/04/07 15:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "363",
-      "recommendCount": "471",
-      "title": "[閒聊] 中國Coser不付尾款 被攝影師公佈原圖",
-      "link": "/bbs/C_Chat/M.1775647319.A.467",
-      "author": "victor87710",
-      "board": "C_Chat",
-      "publishTime": "2026/04/08 11:21",
       "imageUrl": ""
     },
     {
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "247",
-      "recommendCount": "383",
+      "recommendScore": "252",
+      "recommendCount": "395",
       "title": "[新聞] 停火後全喊贏!繼美伊之後 阿聯也宣布大獲",
       "link": "/bbs/Gossiping/M.1775639716.A.673",
       "author": "wl3532",
@@ -101,16 +101,6 @@
       "author": "apparition10",
       "board": "SportLottery",
       "publishTime": "2026/04/07 16:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "229",
-      "recommendCount": "395",
-      "title": "[情報] 伊朗: 關閉直接或間接的對美溝通管道。",
-      "link": "/bbs/Stock/M.1775571109.A.764",
-      "author": "cuteSquirrel",
-      "board": "Stock",
-      "publishTime": "2026/04/07 14:11",
       "imageUrl": ""
     },
     {
@@ -134,6 +124,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/vgC81OJ/s/886c5665f6f2a97116ded5cab99f5fa7"
     },
     {
+      "recommendScore": "163",
+      "recommendCount": "373",
+      "title": "[新聞] 意外！3月CPI僅年增1.2％ 油料費年跌0.33％",
+      "link": "/bbs/Stock/M.1775645608.A.457",
+      "author": "keel90135",
+      "board": "Stock",
+      "publishTime": "2026/04/08 10:53",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "696",
       "recommendCount": "1442",
       "title": "[電競] 2026 LCK Regular Season W2D1",
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "195",
+      "recommendCount": "347",
+      "title": "[爆卦] 青鳥女神徐閉賣假台製風扇遭多人提告詐欺",
+      "link": "/bbs/Gossiping/M.1775625115.A.BE9",
+      "author": "stasis",
+      "board": "Gossiping",
+      "publishTime": "2026/04/08 05:11",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "191",
       "recommendCount": "335",
       "title": "[問卦] 大家都不喜歡家樂福改樂家康,那要叫什麼?",
@@ -161,16 +171,6 @@
       "author": "inmee",
       "board": "Gossiping",
       "publishTime": "2026/04/07 15:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "193",
-      "recommendCount": "345",
-      "title": "[爆卦] 青鳥女神徐閉賣假台製風扇遭多人提告詐欺",
-      "link": "/bbs/Gossiping/M.1775625115.A.BE9",
-      "author": "stasis",
-      "board": "Gossiping",
-      "publishTime": "2026/04/08 05:11",
       "imageUrl": ""
     },
     {
@@ -184,16 +184,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/SDDhIVT/s/ee991aca22a4377d5856df6f9437c081"
     },
     {
-      "recommendScore": "144",
-      "recommendCount": "345",
-      "title": "[新聞] 意外！3月CPI僅年增1.2％ 油料費年跌0.33％",
-      "link": "/bbs/Stock/M.1775645608.A.457",
-      "author": "keel90135",
-      "board": "Stock",
-      "publishTime": "2026/04/08 10:53",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "241",
       "recommendCount": "280",
       "title": "[心得] 作了16年的夢, 3小時達標",
@@ -201,6 +191,16 @@
       "author": "pla4242yer",
       "board": "Stock",
       "publishTime": "2026/04/07 23:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "189",
+      "recommendCount": "268",
+      "title": "[情報] 115年04月08日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1775632542.A.97C",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2026/04/08 07:15",
       "imageUrl": ""
     }
   ]
