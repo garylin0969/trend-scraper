@@ -1,26 +1,16 @@
 {
-  "updated": "2026-04-08T12:33:19.659Z",
+  "updated": "2026-04-08T13:03:54.061Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "246",
-      "recommendCount": "1195",
+      "recommendScore": "252",
+      "recommendCount": "1203",
       "title": "[新聞] 2026不玩了！林右昌宣布離開台灣：2028繼續為民進黨打拚",
       "link": "/bbs/Gossiping/M.1775618560.A.452",
       "author": "s910222",
       "board": "Gossiping",
       "publishTime": "2026/04/08 03:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "314",
-      "recommendCount": "689",
-      "title": "[情報] 川普: 有一個文明將在今晚滅亡。",
-      "link": "/bbs/Stock/M.1775565359.A.0FD",
-      "author": "cuteSquirrel",
-      "board": "Stock",
-      "publishTime": "2026/04/07 12:35",
       "imageUrl": ""
     },
     {
@@ -44,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "373",
+      "recommendCount": "466",
+      "title": "[分享] 今日徐若熙",
+      "link": "/bbs/Baseball/M.1775647784.A.9CE",
+      "author": "kevenchia",
+      "board": "Baseball",
+      "publishTime": "2026/04/08 11:29",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "395",
       "recommendCount": "919",
       "title": "[新聞] 伊朗「10點和平計畫」內容曝光！要求美軍全面撤離、解除制裁",
@@ -54,13 +54,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "320",
-      "recommendCount": "402",
-      "title": "[分享] 今日徐若熙",
-      "link": "/bbs/Baseball/M.1775647784.A.9CE",
-      "author": "kevenchia",
-      "board": "Baseball",
-      "publishTime": "2026/04/08 11:29",
+      "recommendScore": "315",
+      "recommendCount": "410",
+      "title": "[閒聊] 中國Coser不付尾款 被攝影師公佈原圖",
+      "link": "/bbs/C_Chat/M.1775647319.A.467",
+      "author": "victor87710",
+      "board": "C_Chat",
+      "publishTime": "2026/04/08 11:21",
       "imageUrl": ""
     },
     {
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "241",
+      "recommendCount": "375",
+      "title": "[新聞] 停火後全喊贏!繼美伊之後 阿聯也宣布大獲",
+      "link": "/bbs/Gossiping/M.1775639716.A.673",
+      "author": "wl3532",
+      "board": "Gossiping",
+      "publishTime": "2026/04/08 09:15",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "300",
       "recommendCount": "326",
       "title": "Re: [推薦] 足球 2200粗暴推薦",
@@ -91,16 +101,6 @@
       "author": "apparition10",
       "board": "SportLottery",
       "publishTime": "2026/04/07 16:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "235",
-      "recommendCount": "363",
-      "title": "[新聞] 停火後全喊贏!繼美伊之後 阿聯也宣布大獲",
-      "link": "/bbs/Gossiping/M.1775639716.A.673",
-      "author": "wl3532",
-      "board": "Gossiping",
-      "publishTime": "2026/04/08 09:15",
       "imageUrl": ""
     },
     {
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "179",
-      "recommendCount": "441",
+      "recommendScore": "180",
+      "recommendCount": "442",
       "title": "[新聞] 案件堆成山！書記官喊吃不消大逃亡　工會揭「留不住人」真相",
       "link": "/bbs/Gossiping/M.1775605612.A.098",
       "author": "wu73",
@@ -124,24 +124,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "160",
-      "recommendCount": "327",
+      "recommendScore": "164",
+      "recommendCount": "334",
       "title": "[新聞] 連白內障都Team Taiwan！高雄醫驚見「台灣島」水晶體",
       "link": "/bbs/Gossiping/M.1775630240.A.333",
       "author": "black80731",
       "board": "Gossiping",
       "publishTime": "2026/04/08 06:37",
       "imageUrl": "https://cache.pttweb.cc/imgur/vgC81OJ/s/886c5665f6f2a97116ded5cab99f5fa7"
-    },
-    {
-      "recommendScore": "239",
-      "recommendCount": "317",
-      "title": "[閒聊] 中國Coser不付尾款 被攝影師公佈原圖",
-      "link": "/bbs/C_Chat/M.1775647319.A.467",
-      "author": "victor87710",
-      "board": "C_Chat",
-      "publishTime": "2026/04/08 11:21",
-      "imageUrl": ""
     },
     {
       "recommendScore": "696",
@@ -154,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "158",
-      "recommendCount": "396",
+      "recommendScore": "160",
+      "recommendCount": "398",
       "title": "[新聞] 生育率持續下滑　國發會：8月發布最新人口推估",
       "link": "/bbs/Gossiping/M.1775615557.A.925",
       "author": "crocus",
@@ -175,7 +165,7 @@
     },
     {
       "recommendScore": "193",
-      "recommendCount": "342",
+      "recommendCount": "344",
       "title": "[爆卦] 青鳥女神徐閉賣假台製風扇遭多人提告詐欺",
       "link": "/bbs/Gossiping/M.1775625115.A.BE9",
       "author": "stasis",
@@ -184,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "170",
-      "recommendCount": "308",
+      "recommendScore": "174",
+      "recommendCount": "314",
       "title": "[問卦] 2大學生自製炸藥，炸爛廢棄學校………",
       "link": "/bbs/Gossiping/M.1775628552.A.99B",
       "author": "cowardlyman",
@@ -194,13 +184,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/SDDhIVT/s/ee991aca22a4377d5856df6f9437c081"
     },
     {
-      "recommendScore": "239",
-      "recommendCount": "278",
+      "recommendScore": "241",
+      "recommendCount": "280",
       "title": "[心得] 作了16年的夢, 3小時達標",
       "link": "/bbs/Stock/M.1775603611.A.5E5",
       "author": "pla4242yer",
       "board": "Stock",
       "publishTime": "2026/04/07 23:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "186",
+      "recommendCount": "265",
+      "title": "[情報] 115年04月08日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1775632542.A.97C",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2026/04/08 07:15",
       "imageUrl": ""
     }
   ]
