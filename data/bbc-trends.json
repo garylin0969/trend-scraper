@@ -1,10 +1,10 @@
 {
-  "updated": "2026-04-09T07:51:05.828Z",
+  "updated": "2026-04-09T08:46:11.057Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-04-09T07:50:56.000Z",
+    "lastBuildDate": "2026-04-09T08:46:01.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -16,6 +16,14 @@
       "pubDate": "2026-04-09T01:14:27.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cvglde51r78o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0507/live/b3be40d0-3301-11f1-842e-a38cd647f96c.jpg"
+    },
+    {
+      "title": "伊朗停火談判艱鉅，雙方和平方案分歧仍待彌合",
+      "description": "BBC外交記者寫道，美國的15點計劃和伊朗的10點計劃相差甚遠。",
+      "link": "https://www.bbc.com/zhongwen/articles/c17vxdrr81wo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T08:19:33.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c17vxdrr81wo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/49c5/live/64445c10-3383-11f1-9d5c-8ba507d7dbde.jpg"
     },
     {
       "title": "「鄭習會」前夕：鄭麗文罕有點名日本11次，能換來什麼？",
@@ -42,14 +50,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f48d/live/cd614be0-3397-11f1-9d5c-8ba507d7dbde.jpg"
     },
     {
-      "title": "中美在不同AI賽道上領先   但誰都可能最終超前",
-      "description": "中國在打造機器人「身體」方面領先全球，但每一具機器人仍需要一個「大腦」——也就是作業系統或軟體，來指揮各個金屬部件該做什麼。",
-      "link": "https://www.bbc.com/zhongwen/articles/c8dlrr0q1z5o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T01:16:20.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c8dlrr0q1z5o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f108/live/c25cbac0-2ea3-11f1-b297-95b0a0a8331e.png"
-    },
-    {
       "title": "美伊停火台前幕後  14日談判的焦點將是什麼",
       "description": "特朗普威脅若伊朗拒絕妥協，「一整個文明將在今夜死掉」後，巴基斯坦出面斡旋並達成停火協議。",
       "link": "https://www.bbc.com/zhongwen/articles/cj0vee83q8go/trad?at_medium=RSS&at_campaign=rss",
@@ -58,12 +58,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b499/live/2684d850-33ba-11f1-9d5c-8ba507d7dbde.jpg"
     },
     {
-      "title": "企業為何爭先恐後在AI搜尋中爭位？",
-      "description": "AI搜尋時代來臨。企業網站流量大減140億次，AI直接給答案讓點擊率暴跌60-70%。許多公司因此積極調整策略，想在ChatGPT與AI概述中被看見，傳統SEO已不夠，現在必須做好「答案引擎優化」才能抓住客戶。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvg3kjnjkpdo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T02:10:50.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvg3kjnjkpdo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1a9d/live/5122ab50-21e5-11f1-934f-036468834728.jpg"
+      "title": "中美在不同AI賽道上領先   但誰都可能最終超前",
+      "description": "中國在打造機器人「身體」方面領先全球，但每一具機器人仍需要一個「大腦」——也就是作業系統或軟體，來指揮各個金屬部件該做什麼。",
+      "link": "https://www.bbc.com/zhongwen/articles/c8dlrr0q1z5o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T01:16:20.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c8dlrr0q1z5o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f108/live/c25cbac0-2ea3-11f1-b297-95b0a0a8331e.png"
     },
     {
       "title": "亞洲半導體界如何看待馬斯克超級項目Terafab的夢想與現實? ",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/36c2/live/d0d877a0-fb78-11f0-a47f-d352a7d9988a.jpg"
     },
     {
+      "title": "企業為何爭先恐後在AI搜尋中爭位？",
+      "description": "AI搜尋時代來臨。企業網站流量大減140億次，AI直接給答案讓點擊率暴跌60-70%。許多公司因此積極調整策略，想在ChatGPT與AI概述中被看見，傳統SEO已不夠，現在必須做好「答案引擎優化」才能抓住客戶。",
+      "link": "https://www.bbc.com/zhongwen/articles/cvg3kjnjkpdo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T02:10:50.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvg3kjnjkpdo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1a9d/live/5122ab50-21e5-11f1-934f-036468834728.jpg"
+    },
+    {
       "title": "「阿提米絲二號」能否證明人類即將實現再次登月",
       "description": "阿提米絲二號任務圓滿成功，NASA火箭完美發射後，太空船精準飛掠月球，首次搭載人類完成跨月之旅，同時打破阿波羅13號遠距紀錄，但重返地球大氣層將是最終考驗，2028年重返月球又近一步。",
       "link": "https://www.bbc.com/zhongwen/articles/c705j92yj1go/trad?at_medium=RSS&at_campaign=rss",
@@ -296,14 +304,6 @@
       "pubDate": "2026-04-05T07:51:19.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c5yv23m78x0o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0e6c/live/8300ca40-2c57-11f1-a79a-77e93010d956.jpg"
-    },
-    {
-      "title": "高壓水槍洗地、清理泳池和割草：為甚麼數百萬人正在玩幹著瑣碎工作的英國網遊？",
-      "description": "電腦遊戲《洗車模擬器》讓你拿起高壓水槍把全世界最髒的地方洗到一塵不染！簡單重複卻超療癒的遊戲因此吸引了百萬玩家，專家稱對紓解壓力很有幫助。",
-      "link": "https://www.bbc.com/zhongwen/articles/cjr91x2x1v4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-06T00:45:02.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cjr91x2x1v4o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f2c0/live/dc9b1bc0-2dd6-11f1-a79a-77e93010d956.png"
     }
   ]
 }
