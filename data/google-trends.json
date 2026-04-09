@@ -1,20 +1,50 @@
 {
-  "updated": "2026-04-09T21:22:26.739Z",
+  "updated": "2026-04-09T21:50:06.244Z",
   "trends": [
+    {
+      "googleTrend": "s&p 500",
+      "searchVolume": "200+",
+      "started": "40 分鐘前"
+    },
     {
       "googleTrend": "張凌赫",
       "searchVolume": "200+",
-      "started": "10 分鐘前"
+      "started": "40 分鐘前"
     },
     {
-      "googleTrend": "s&p 500",
+      "googleTrend": "費城半導體指數",
+      "searchVolume": "200+",
+      "started": "20 分鐘前"
+    },
+    {
+      "googleTrend": "道瓊工業平均指數",
+      "searchVolume": "200+",
+      "started": "20 分鐘前"
+    },
+    {
+      "googleTrend": "mu",
       "searchVolume": "100+",
-      "started": "10 分鐘前"
+      "started": "30 分鐘前"
+    },
+    {
+      "googleTrend": "nvda",
+      "searchVolume": "100+",
+      "started": "20 分鐘前"
+    },
+    {
+      "googleTrend": "那斯達克綜合指數",
+      "searchVolume": "100+",
+      "started": "30 分鐘前"
+    },
+    {
+      "googleTrend": "vix指數",
+      "searchVolume": "100+",
+      "started": "20 分鐘前"
     },
     {
       "googleTrend": "booking",
       "searchVolume": "100+",
-      "started": "2 小時前"
+      "started": "3 小時前"
     }
   ]
 }
