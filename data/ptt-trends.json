@@ -1,21 +1,11 @@
 {
-  "updated": "2026-04-10T00:56:40.840Z",
+  "updated": "2026-04-10T01:39:00.610Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "577",
-      "recommendCount": "958",
-      "title": "[新聞] 南韓鐵腕打房　5/9大限後首爾多屋族將面臨75%超高稅率",
-      "link": "/bbs/Gossiping/M.1775717403.A.0BF",
-      "author": "doozia",
-      "board": "Gossiping",
-      "publishTime": "2026/04/09 06:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "353",
-      "recommendCount": "867",
+      "recommendScore": "355",
+      "recommendCount": "870",
       "title": "[爆卦] 民進黨性平部：民眾黨4大金釵就是禮物",
       "link": "/bbs/Gossiping/M.1775730914.A.8F2",
       "author": "cowardlyman",
@@ -24,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/3I8Kfro/s/34510d13eb92537d87b7124d1a6590dd"
     },
     {
-      "recommendScore": "420",
-      "recommendCount": "651",
+      "recommendScore": "426",
+      "recommendCount": "657",
       "title": "[問卦] 媽的被騙五萬，幹幹幹操雞掰 發錢！",
       "link": "/bbs/Gossiping/M.1775730685.A.B1F",
       "author": "ambitious",
@@ -35,7 +25,7 @@
     },
     {
       "recommendScore": "385",
-      "recommendCount": "1129",
+      "recommendCount": "1137",
       "title": "[問卦] 蔣中正沒來台，台灣現在如何",
       "link": "/bbs/Gossiping/M.1775701228.A.79D",
       "author": "dododada",
@@ -54,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "410",
-      "recommendCount": "449",
+      "recommendScore": "420",
+      "recommendCount": "459",
       "title": "Re: [推薦] 足球[小律師] 孟買城  @ 詹謝普爾",
       "link": "/bbs/SportLottery/M.1775749773.A.02A",
       "author": "lotterywin",
@@ -64,8 +54,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "213",
-      "recommendCount": "608",
+      "recommendScore": "296",
+      "recommendCount": "607",
+      "title": "[爆卦] 賴清德執政後放棄國籍人數暴增近3倍",
+      "link": "/bbs/Gossiping/M.1775739014.A.C9B",
+      "author": "jijijigigigi",
+      "board": "Gossiping",
+      "publishTime": "2026/04/09 12:50",
+      "imageUrl": "https://cache.pttweb.cc/imgur/PkgZBHV/s/a202beeb33849300c614dd08df218a3f"
+    },
+    {
+      "recommendScore": "212",
+      "recommendCount": "610",
       "title": "[新聞] 印度移工要來了！洪申翰：今年有機會引進 盼直聘超過5%",
       "link": "/bbs/Gossiping/M.1775722497.A.768",
       "author": "sploo",
@@ -84,18 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "289",
-      "recommendCount": "592",
-      "title": "[爆卦] 賴清德執政後放棄國籍人數暴增近3倍",
-      "link": "/bbs/Gossiping/M.1775739014.A.C9B",
-      "author": "jijijigigigi",
-      "board": "Gossiping",
-      "publishTime": "2026/04/09 12:50",
-      "imageUrl": "https://cache.pttweb.cc/imgur/PkgZBHV/s/a202beeb33849300c614dd08df218a3f"
-    },
-    {
-      "recommendScore": "214",
-      "recommendCount": "401",
+      "recommendScore": "215",
+      "recommendCount": "402",
       "title": "[新聞] 快訊／川普：美伊協議破裂將「全面開火」",
       "link": "/bbs/Stock/M.1775738620.A.06D",
       "author": "yuechen",
@@ -104,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "171",
-      "recommendCount": "479",
-      "title": "[新聞] 春捲老店害173人中毒恐賠5千萬　老闆娘被",
-      "link": "/bbs/Gossiping/M.1775697019.A.66B",
-      "author": "rpg",
-      "board": "Gossiping",
-      "publishTime": "2026/04/09 01:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "188",
-      "recommendCount": "435",
+      "recommendScore": "187",
+      "recommendCount": "438",
       "title": "[爆卦] 脆熱議：我陪南榕焦屍睡了一晚上。",
       "link": "/bbs/Gossiping/M.1775727591.A.7C8",
       "author": "Nivava",
@@ -124,8 +104,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/WN0Najv/s/9f7daaf4951da033f6c16efd119f51a7"
     },
     {
-      "recommendScore": "121",
-      "recommendCount": "408",
+      "recommendScore": "122",
+      "recommendCount": "409",
       "title": "[新聞] 名嘴罵徐巧芯「破格」不起訴 檢方採信：是華語非台語",
       "link": "/bbs/Gossiping/M.1775703345.A.C11",
       "author": "pm2001",
@@ -134,28 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "168",
-      "recommendCount": "438",
-      "title": "[花邊] AD：我不確定泡泡圈算不算冠軍",
-      "link": "/bbs/NBA/M.1775698658.A.A56",
-      "author": "liefuchen",
-      "board": "NBA",
-      "publishTime": "2026/04/09 01:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "141",
-      "recommendCount": "518",
-      "title": "[問卦] 為何不是0肇事責任",
-      "link": "/bbs/Gossiping/M.1775696411.A.208",
-      "author": "a6000200",
-      "board": "Gossiping",
-      "publishTime": "2026/04/09 01:00",
-      "imageUrl": "https://cache.pttweb.cc/imgur/DiyhDqE/s/95807a843d0d1daec67873bc43914736"
-    },
-    {
-      "recommendScore": "153",
-      "recommendCount": "324",
+      "recommendScore": "156",
+      "recommendCount": "327",
       "title": "[新聞] 民進黨性平部拍片稱白營女性「禮物」！黃國昌轟：廉價平權太可悲",
       "link": "/bbs/Gossiping/M.1775742927.A.108",
       "author": "CREA",
@@ -164,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "201",
-      "recommendCount": "408",
+      "recommendScore": "202",
+      "recommendCount": "411",
       "title": "Threads一堆詐騙改圖仔,滾!",
       "link": "/bbs/Stock/M.1775726847.A.8CF",
       "author": "nina801105",
@@ -174,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "154",
-      "recommendCount": "273",
+      "recommendScore": "155",
+      "recommendCount": "277",
       "title": "[新聞] 才領國際大獎18天公視Taiwan+組長淪偷拍狼",
       "link": "/bbs/Gossiping/M.1775721727.A.813",
       "author": "william8403",
@@ -184,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "163",
-      "recommendCount": "325",
+      "recommendScore": "164",
+      "recommendCount": "326",
       "title": "[新聞] SPC-藍鳥又抱怨大谷翔平的「特殊待遇」",
       "link": "/bbs/Baseball/M.1775710954.A.FF0",
       "author": "ruka660101",
@@ -194,14 +154,54 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "217",
-      "recommendCount": "228",
+      "recommendScore": "221",
+      "recommendCount": "232",
       "title": "[公告] 吃一口鹽酥雞要6年才消失 發錢  水桶",
       "link": "/bbs/Gossiping/M.1775735432.A.2ED",
       "author": "August2006",
       "board": "Gossiping",
       "publishTime": "2026/04/09 11:50",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "212",
+      "recommendCount": "445",
+      "title": "[分享]今日林安可",
+      "link": "/bbs/Baseball/M.1775734777.A.87F",
+      "author": "Trewf",
+      "board": "Baseball",
+      "publishTime": "2026/04/09 11:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "157",
+      "recommendCount": "287",
+      "title": "[請益] 獲利了結不知道下一步",
+      "link": "/bbs/Stock/M.1775705333.A.C82",
+      "author": "abc0203",
+      "board": "Stock",
+      "publishTime": "2026/04/09 03:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "157",
+      "recommendCount": "379",
+      "title": "[新聞] 以色列將與黎巴嫩舉行直接和平談判",
+      "link": "/bbs/Stock/M.1775750411.A.5A5",
+      "author": "ppippi",
+      "board": "Stock",
+      "publishTime": "2026/04/09 16:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "139",
+      "recommendCount": "235",
+      "title": "[新聞] 網美Coser拒付尾款！遭攝影師公開「0修圖原片」…對比照全網嚇瘋",
+      "link": "/bbs/Gossiping/M.1775720259.A.7F8",
+      "author": "taiwan08",
+      "board": "Gossiping",
+      "publishTime": "2026/04/09 07:37",
+      "imageUrl": "https://cache.pttweb.cc/imgur/ko4Htkr/s/e95ef158d74cd84b292bb8393c4de27d"
     }
   ]
 }
