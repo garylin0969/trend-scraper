@@ -1,18 +1,8 @@
 {
-  "updated": "2026-04-10T16:10:06.051Z",
+  "updated": "2026-04-10T16:32:52.861Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "1333",
-      "recommendCount": "1501",
-      "title": "[炸裂] 馬傑森 陽春砲 生涯首轟",
-      "link": "/bbs/Baseball/M.1775822734.A.CB4",
-      "author": "kevenchia",
-      "board": "Baseball",
-      "publishTime": "2026/04/10 12:05",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "498",
       "recommendCount": "1383",
@@ -34,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "378",
-      "recommendCount": "1110",
+      "recommendScore": "379",
+      "recommendCount": "1111",
       "title": "[新聞] 習近平：兩岸同胞都是一家人　把未來牢牢掌握在中國人手中",
       "link": "/bbs/Gossiping/M.1775793665.A.5CA",
       "author": "richshen",
@@ -54,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "493",
-      "recommendCount": "522",
+      "recommendScore": "498",
+      "recommendCount": "527",
       "title": "Re: [LIVE] 澳甲 布里斯本獅吼 @ 中岸水手 (場中)",
       "link": "/bbs/SportLottery/M.1775820697.A.03F",
       "author": "lotterywin",
@@ -201,6 +191,16 @@
       "author": "EDFR",
       "board": "Baseball",
       "publishTime": "2026/04/10 09:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "177",
+      "recommendCount": "349",
+      "title": "[問卦] 笑死，選前謠言，選後引進。",
+      "link": "/bbs/Gossiping/M.1775783488.A.FD9",
+      "author": "sploo",
+      "board": "Gossiping",
+      "publishTime": "2026/04/10 01:11",
       "imageUrl": ""
     }
   ]
