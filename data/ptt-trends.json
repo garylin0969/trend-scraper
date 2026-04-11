@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T13:42:13.243Z",
+  "updated": "2026-04-11T14:04:19.794Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,16 +24,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "402",
-      "recommendCount": "533",
-      "title": "[分享] CPBL戰績",
-      "link": "/bbs/Baseball/M.1775829032.A.853",
-      "author": "nybbnan",
-      "board": "Baseball",
-      "publishTime": "2026/04/10 13:50",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "381",
       "recommendCount": "422",
       "title": "[情報] 鄭宗哲 完全打擊",
@@ -44,13 +34,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "224",
-      "recommendCount": "419",
+      "recommendScore": "226",
+      "recommendCount": "423",
       "title": "[新聞] 美官員：伊朗找不到「自己埋的水雷」荷莫茲海峽重啟卡關",
       "link": "/bbs/Stock/M.1775876529.A.E2E",
       "author": "bkprt730",
       "board": "Stock",
       "publishTime": "2026/04/11 03:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "879",
+      "recommendCount": "1493",
+      "title": "[LIVE] BanG Dream Special LIVE in TAIPEI DAY1",
+      "link": "/bbs/C_Chat/M.1775864793.A.FB1",
+      "author": "mazjin",
+      "board": "C_Chat",
+      "publishTime": "2026/04/10 23:46",
       "imageUrl": ""
     },
     {
@@ -64,18 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "877",
-      "recommendCount": "1493",
-      "title": "[LIVE] BanG Dream Special LIVE in TAIPEI DAY1",
-      "link": "/bbs/C_Chat/M.1775864793.A.FB1",
-      "author": "mazjin",
-      "board": "C_Chat",
-      "publishTime": "2026/04/10 23:46",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "173",
-      "recommendCount": "319",
+      "recommendCount": "320",
       "title": "[新聞] 3163波若威 2月自結-0.13",
       "link": "/bbs/Stock/M.1775865959.A.434",
       "author": "Cartier",
@@ -184,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "79",
-      "recommendCount": "202",
+      "recommendScore": "78",
+      "recommendCount": "203",
       "title": "[新聞] 獨家／台股多頭成詐騙溫床？20人買原始股慘賠3千萬",
       "link": "/bbs/Stock/M.1775869758.A.D78",
       "author": "EstelleRinz",
@@ -201,6 +191,16 @@
       "author": "laptic",
       "board": "C_Chat",
       "publishTime": "2026/04/10 23:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "101",
+      "recommendCount": "190",
+      "title": "[新聞] 美伊談判前夕火藥味濃！川普再批伊朗「毫無籌碼」",
+      "link": "/bbs/Stock/M.1775839831.A.BED",
+      "author": "a0808996",
+      "board": "Stock",
+      "publishTime": "2026/04/10 16:50",
       "imageUrl": ""
     }
   ]
