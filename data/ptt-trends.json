@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T15:51:28.650Z",
+  "updated": "2026-04-11T16:03:08.440Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -72,16 +72,6 @@
       "board": "NBA",
       "publishTime": "2026/04/11 01:34",
       "imageUrl": "https://cache.pttweb.cc/imgur/YTafFtE/s/9d539130a12415a2e0fb011dd1178fff"
-    },
-    {
-      "recommendScore": "148",
-      "recommendCount": "301",
-      "title": "[問卦] 為什麼Thread網友這麼力挺印度移工",
-      "link": "/bbs/Gossiping/M.1775836828.A.703",
-      "author": "LukeSkywaker",
-      "board": "Gossiping",
-      "publishTime": "2026/04/10 16:00",
-      "imageUrl": ""
     },
     {
       "recommendScore": "225",
@@ -201,6 +191,16 @@
       "author": "a0808996",
       "board": "Stock",
       "publishTime": "2026/04/10 16:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-92",
+      "recommendCount": "188",
+      "title": "[討論] 奧運三金，極其偉大，榮耀不該被忽視",
+      "link": "/bbs/NBA/M.1775837422.A.849",
+      "author": "KingJamesGOD",
+      "board": "NBA",
+      "publishTime": "2026/04/10 16:10",
       "imageUrl": ""
     }
   ]
