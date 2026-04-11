@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T18:33:28.687Z",
+  "updated": "2026-04-11T19:00:19.762Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,7 +54,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "862",
+      "recommendScore": "863",
       "recommendCount": "1493",
       "title": "[LIVE] BanG Dream Special LIVE in TAIPEI DAY1",
       "link": "/bbs/C_Chat/M.1775864793.A.FB1",
@@ -71,6 +71,16 @@
       "author": "Cartier",
       "board": "Stock",
       "publishTime": "2026/04/11 00:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "199",
+      "recommendCount": "263",
+      "title": "[情報] 邦魯閣開張",
+      "link": "/bbs/Baseball/M.1775901787.A.764",
+      "author": "yasan1029",
+      "board": "Baseball",
+      "publishTime": "2026/04/11 10:03",
       "imageUrl": ""
     },
     {
@@ -94,13 +104,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "162",
-      "recommendCount": "216",
-      "title": "[情報] 邦魯閣開張",
-      "link": "/bbs/Baseball/M.1775901787.A.764",
-      "author": "yasan1029",
+      "recommendScore": "176",
+      "recommendCount": "321",
+      "title": "[新聞] 快訊／47年最高層級！美伊談判代表皆抵巴基斯坦　伊朗議長放話",
+      "link": "/bbs/Stock/M.1775894906.A.228",
+      "author": "joanzkow",
+      "board": "Stock",
+      "publishTime": "2026/04/11 08:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "190",
+      "recommendCount": "326",
+      "title": "[分享]今日林安可",
+      "link": "/bbs/Baseball/M.1775903266.A.DA9",
+      "author": "Trewf",
       "board": "Baseball",
-      "publishTime": "2026/04/11 10:03",
+      "publishTime": "2026/04/11 10:27",
       "imageUrl": ""
     },
     {
@@ -134,6 +154,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "150",
+      "recommendCount": "214",
+      "title": "[討論] 魔鷹怎麼了？",
+      "link": "/bbs/Baseball/M.1775898323.A.848",
+      "author": "leo589726",
+      "board": "Baseball",
+      "publishTime": "2026/04/11 09:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "134",
+      "recommendCount": "226",
+      "title": "[BOX ] Suns 73:101 Lakers",
+      "link": "/bbs/NBA/M.1775883638.A.0D7",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2026/04/11 05:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "409",
       "recommendCount": "829",
       "title": "[LIVE] 籃球 灰狼 火箭 場中",
@@ -154,53 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "152",
-      "recommendCount": "164",
-      "title": "[分享] 今日 鄭宗哲 完全打擊",
-      "link": "/bbs/Baseball/M.1775870301.A.16E",
-      "author": "alpacaHong",
-      "board": "Baseball",
-      "publishTime": "2026/04/11 01:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "78",
-      "recommendCount": "203",
-      "title": "[新聞] 獨家／台股多頭成詐騙溫床？20人買原始股慘賠3千萬",
-      "link": "/bbs/Stock/M.1775869758.A.D78",
-      "author": "EstelleRinz",
-      "board": "Stock",
-      "publishTime": "2026/04/11 01:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "954",
-      "recommendCount": "1466",
-      "title": "[討論] [Vtub] Hololive 日間直播單 (1150411)",
-      "link": "/bbs/C_Chat/M.1775862423.A.096",
+      "recommendScore": "812",
+      "recommendCount": "1205",
+      "title": "[討論] [Vtub] Hololive 晚間直播單 (1150411)",
+      "link": "/bbs/C_Chat/M.1775904624.A.194",
       "author": "laptic",
       "board": "C_Chat",
-      "publishTime": "2026/04/10 23:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "143",
-      "recommendCount": "249",
-      "title": "[分享]今日林安可",
-      "link": "/bbs/Baseball/M.1775903266.A.DA9",
-      "author": "Trewf",
-      "board": "Baseball",
-      "publishTime": "2026/04/11 10:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "105",
-      "recommendCount": "163",
-      "title": "[花邊] LBJ空中折疊爆扣+No Look背傳八村冷箭",
-      "link": "/bbs/NBA/M.1775885776.A.822",
-      "author": "yniori",
-      "board": "NBA",
-      "publishTime": "2026/04/11 05:36",
+      "publishTime": "2026/04/11 10:50",
       "imageUrl": ""
     }
   ]
