@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T20:23:21.811Z",
+  "updated": "2026-04-11T20:45:46.984Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -21,6 +21,16 @@
       "author": "alpacaHong",
       "board": "Baseball",
       "publishTime": "2026/04/11 01:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "543",
+      "recommendCount": "990",
+      "title": "[新聞] 專家：「跑山獸的存在」讓7.5億消防計畫像詐騙　林教官神隱5天",
+      "link": "/bbs/Gossiping/M.1775869350.A.428",
+      "author": "indigowaltz",
+      "board": "Gossiping",
+      "publishTime": "2026/04/11 01:02",
       "imageUrl": ""
     },
     {
@@ -64,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "195",
+      "recommendCount": "561",
+      "title": "[問卦]勞動部：放心啦 印度人強姦我們會把關ㄛ",
+      "link": "/bbs/Gossiping/M.1775869298.A.E1C",
+      "author": "a91153456",
+      "board": "Gossiping",
+      "publishTime": "2026/04/11 01:01",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "343",
       "recommendCount": "492",
       "title": "[分享] CPBL戰績",
@@ -72,6 +92,16 @@
       "board": "Baseball",
       "publishTime": "2026/04/11 11:37",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "200",
+      "recommendCount": "443",
+      "title": "[問卦] 趕羚羊！ 印度仔在台灣 強擄女童 ！！",
+      "link": "/bbs/Gossiping/M.1775862935.A.DA6",
+      "author": "k44754",
+      "board": "Gossiping",
+      "publishTime": "2026/04/10 23:15",
+      "imageUrl": "https://cache.pttweb.cc/imgur/MdVh50t/s/d2476f63e2f07ae611fef5a0eeb9351a"
     },
     {
       "recommendScore": "227",
@@ -114,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "163",
-      "recommendCount": "339",
+      "recommendScore": "166",
+      "recommendCount": "342",
       "title": "[問卦] 七名印度人在老公面前輪姦她的網紅老婆",
       "link": "/bbs/Gossiping/M.1775907581.A.35D",
       "author": "borondawon",
@@ -144,8 +174,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/bn5w9el/s/cd7fa30169023bdcf31003d873511b38"
     },
     {
-      "recommendScore": "163",
-      "recommendCount": "385",
+      "recommendScore": "164",
+      "recommendCount": "386",
       "title": "[爆卦] 柯文哲聲明稿：支持國昌競選新北市市長",
       "link": "/bbs/Gossiping/M.1775900803.A.BA5",
       "author": "lulu1305174",
@@ -171,36 +201,6 @@
       "author": "yasan1029",
       "board": "Baseball",
       "publishTime": "2026/04/11 10:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "149",
-      "recommendCount": "272",
-      "title": "[問卦] 許芳瑜法官 升官了 匾額要題什麼字？",
-      "link": "/bbs/Gossiping/M.1775882925.A.09D",
-      "author": "BlueBird5566",
-      "board": "Gossiping",
-      "publishTime": "2026/04/11 04:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "225",
-      "recommendCount": "267",
-      "title": "[發錢] 老鷹重返季後賽",
-      "link": "/bbs/NBA/M.1775871288.A.6F2",
-      "author": "dragon803",
-      "board": "NBA",
-      "publishTime": "2026/04/11 01:34",
-      "imageUrl": "https://cache.pttweb.cc/imgur/YTafFtE/s/9d539130a12415a2e0fb011dd1178fff"
-    },
-    {
-      "recommendScore": "225",
-      "recommendCount": "234",
-      "title": "[推薦] 足球 同喜同樂！",
-      "link": "/bbs/SportLottery/M.1775892465.A.B57",
-      "author": "ekkevin",
-      "board": "SportLottery",
-      "publishTime": "2026/04/11 07:27",
       "imageUrl": ""
     }
   ]
