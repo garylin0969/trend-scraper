@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T19:38:00.742Z",
+  "updated": "2026-04-11T19:52:36.695Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,7 +74,7 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/0CiswRm/s/af0f0e8b588813d30e2e11b05f79a9e2"
     },
     {
-      "recommendScore": "863",
+      "recommendScore": "862",
       "recommendCount": "1493",
       "title": "[LIVE] BanG Dream Special LIVE in TAIPEI DAY1",
       "link": "/bbs/C_Chat/M.1775864793.A.FB1",
@@ -92,6 +92,16 @@
       "board": "SportLottery",
       "publishTime": "2026/04/11 14:11",
       "imageUrl": "https://cache.pttweb.cc/imgur/bn5w9el/s/cd7fa30169023bdcf31003d873511b38"
+    },
+    {
+      "recommendScore": "163",
+      "recommendCount": "385",
+      "title": "[爆卦] 柯文哲聲明稿：支持國昌競選新北市市長",
+      "link": "/bbs/Gossiping/M.1775900803.A.BA5",
+      "author": "lulu1305174",
+      "board": "Gossiping",
+      "publishTime": "2026/04/11 09:46",
+      "imageUrl": ""
     },
     {
       "recommendScore": "178",
@@ -174,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "150",
-      "recommendCount": "214",
+      "recommendScore": "151",
+      "recommendCount": "215",
       "title": "[討論] 魔鷹怎麼了？",
       "link": "/bbs/Baseball/M.1775898323.A.848",
       "author": "leo589726",
@@ -191,16 +201,6 @@
       "author": "EmilyInTPE",
       "board": "Baseball",
       "publishTime": "2026/04/11 05:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "185",
-      "recommendCount": "426",
-      "title": "Re: [情報] 鄭宗哲被國民DFA",
-      "link": "/bbs/Baseball/M.1775871978.A.44D",
-      "author": "Sfltnarud",
-      "board": "Baseball",
-      "publishTime": "2026/04/11 01:46",
       "imageUrl": ""
     }
   ]
