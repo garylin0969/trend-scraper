@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T11:50:18.418Z",
+  "updated": "2026-04-11T12:00:36.562Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "220",
-      "recommendCount": "412",
+      "recommendScore": "222",
+      "recommendCount": "417",
       "title": "[新聞] 美官員：伊朗找不到「自己埋的水雷」荷莫茲海峽重啟卡關",
       "link": "/bbs/Stock/M.1775876529.A.E2E",
       "author": "bkprt730",
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "132",
+      "recommendCount": "401",
+      "title": "[轉播] 九局下 兄弟1:1樂天",
+      "link": "/bbs/Elephants/M.1775906967.A.7DF",
+      "author": "syusam0728",
+      "board": "Elephants",
+      "publishTime": "2026/04/11 11:29",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "172",
       "recommendCount": "273",
       "title": "Re: [問卦] 大腸癌四期很嚴重嗎？",
@@ -192,16 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2026/04/10 12:42",
       "imageUrl": "https://cache.pttweb.cc/imgur/oxA5I3o/s/410e69ff971eefb0f173329c863185b0"
-    },
-    {
-      "recommendScore": "130",
-      "recommendCount": "198",
-      "title": "[情報] 美國居民3月消費價格指數(CPI)",
-      "link": "/bbs/Stock/M.1775824459.A.2B2",
-      "author": "komeko",
-      "board": "Stock",
-      "publishTime": "2026/04/10 12:34",
-      "imageUrl": ""
     }
   ]
 }
