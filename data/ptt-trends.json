@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T11:31:58.121Z",
+  "updated": "2026-04-11T11:50:18.418Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -31,16 +31,6 @@
       "author": "Goo4u",
       "board": "Gossiping",
       "publishTime": "2026/04/10 14:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "523",
-      "recommendCount": "560",
-      "title": "Re: [LIVE] 澳甲 布里斯本獅吼 @ 中岸水手 (場中)",
-      "link": "/bbs/SportLottery/M.1775820697.A.03F",
-      "author": "lotterywin",
-      "board": "SportLottery",
-      "publishTime": "2026/04/10 11:31",
       "imageUrl": ""
     },
     {
@@ -104,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "849",
+      "recommendCount": "1493",
+      "title": "[LIVE] BanG Dream Special LIVE in TAIPEI DAY1",
+      "link": "/bbs/C_Chat/M.1775864793.A.FB1",
+      "author": "mazjin",
+      "board": "C_Chat",
+      "publishTime": "2026/04/10 23:46",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "171",
       "recommendCount": "314",
       "title": "[新聞] 3163波若威 2月自結-0.13",
@@ -115,7 +115,7 @@
     },
     {
       "recommendScore": "147",
-      "recommendCount": "299",
+      "recommendCount": "300",
       "title": "[問卦] 為什麼Thread網友這麼力挺印度移工",
       "link": "/bbs/Gossiping/M.1775836828.A.703",
       "author": "LukeSkywaker",
@@ -124,18 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "796",
-      "recommendCount": "1419",
-      "title": "[LIVE] BanG Dream Special LIVE in TAIPEI DAY1",
-      "link": "/bbs/C_Chat/M.1775864793.A.FB1",
-      "author": "mazjin",
-      "board": "C_Chat",
-      "publishTime": "2026/04/10 23:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "214",
-      "recommendCount": "254",
+      "recommendScore": "215",
+      "recommendCount": "256",
       "title": "[發錢] 老鷹重返季後賽",
       "link": "/bbs/NBA/M.1775871288.A.6F2",
       "author": "dragon803",
@@ -174,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "170",
-      "recommendCount": "270",
+      "recommendScore": "172",
+      "recommendCount": "273",
       "title": "Re: [問卦] 大腸癌四期很嚴重嗎？",
       "link": "/bbs/Gossiping/M.1775849420.A.3BF",
       "author": "sun11199",
@@ -202,6 +192,16 @@
       "board": "C_Chat",
       "publishTime": "2026/04/10 12:42",
       "imageUrl": "https://cache.pttweb.cc/imgur/oxA5I3o/s/410e69ff971eefb0f173329c863185b0"
+    },
+    {
+      "recommendScore": "130",
+      "recommendCount": "198",
+      "title": "[情報] 美國居民3月消費價格指數(CPI)",
+      "link": "/bbs/Stock/M.1775824459.A.2B2",
+      "author": "komeko",
+      "board": "Stock",
+      "publishTime": "2026/04/10 12:34",
+      "imageUrl": ""
     }
   ]
 }
