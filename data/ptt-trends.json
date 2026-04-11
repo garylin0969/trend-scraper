@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T06:11:48.591Z",
+  "updated": "2026-04-11T06:41:26.011Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "514",
-      "recommendCount": "1454",
+      "recommendScore": "515",
+      "recommendCount": "1455",
       "title": "[問卦] 習近平為何不想打台灣？",
       "link": "/bbs/Gossiping/M.1775806233.A.80D",
       "author": "fishing7414",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "265",
-      "recommendCount": "1166",
+      "recommendScore": "267",
+      "recommendCount": "1173",
       "title": "[問卦] 公視：印度移工很危險 是中國的認知作戰",
       "link": "/bbs/Gossiping/M.1775822549.A.966",
       "author": "ginne86",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "418",
-      "recommendCount": "766",
+      "recommendScore": "419",
+      "recommendCount": "769",
       "title": "[問卦] 高雄火車站要再蓋11年,都發局:影響不大",
       "link": "/bbs/Gossiping/M.1775832369.A.866",
       "author": "Goo4u",
@@ -55,7 +55,7 @@
     },
     {
       "recommendScore": "327",
-      "recommendCount": "724",
+      "recommendCount": "725",
       "title": "[爆卦] 史上最快連署中止引進印度外勞達標 發p",
       "link": "/bbs/Gossiping/M.1775809712.A.7C8",
       "author": "chicagoparis",
@@ -84,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "134",
-      "recommendCount": "471",
-      "title": "[問卦] 美國在台協會AIT最新聲明！",
-      "link": "/bbs/Gossiping/M.1775802426.A.360",
-      "author": "cutesoda",
-      "board": "Gossiping",
-      "publishTime": "2026/04/10 06:27",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "261",
       "recommendCount": "315",
       "title": "[分享] 今日馬傑森",
@@ -114,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "121",
-      "recommendCount": "418",
+      "recommendScore": "122",
+      "recommendCount": "419",
       "title": "[問卦] 為什麼要反對跟大陸和平相處",
       "link": "/bbs/Gossiping/M.1775817319.A.515",
       "author": "gogobar",
@@ -144,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "188",
+      "recommendCount": "511",
+      "title": "Re: [新聞] 快訊／柯文哲案「判決書全文」來了！27萬字一次看",
+      "link": "/bbs/Gossiping/M.1775812518.A.044",
+      "author": "treeeasy",
+      "board": "Gossiping",
+      "publishTime": "2026/04/10 09:15",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "87",
       "recommendCount": "412",
       "title": "[新聞] 面對中共軍事威脅 學者：重啟核電可強化防衛韌性",
@@ -151,16 +151,6 @@
       "author": "lycppt",
       "board": "Gossiping",
       "publishTime": "2026/04/10 09:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "188",
-      "recommendCount": "509",
-      "title": "Re: [新聞] 快訊／柯文哲案「判決書全文」來了！27萬字一次看",
-      "link": "/bbs/Gossiping/M.1775812518.A.044",
-      "author": "treeeasy",
-      "board": "Gossiping",
-      "publishTime": "2026/04/10 09:15",
       "imageUrl": ""
     },
     {
@@ -184,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "139",
-      "recommendCount": "288",
+      "recommendScore": "141",
+      "recommendCount": "291",
       "title": "[問卦] 為什麼Thread網友這麼力挺印度移工",
       "link": "/bbs/Gossiping/M.1775836828.A.703",
       "author": "LukeSkywaker",
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "227",
-      "recommendCount": "244",
-      "title": "[推薦] 籃球 冰球 同喜同樂！",
-      "link": "/bbs/SportLottery/M.1775802993.A.BD1",
-      "author": "ekkevin",
-      "board": "SportLottery",
-      "publishTime": "2026/04/10 06:36",
+      "recommendScore": "127",
+      "recommendCount": "312",
+      "title": "[問卦] 台灣鮮奶居然是全球第二貴？！ 憑什麼",
+      "link": "/bbs/Gossiping/M.1775810501.A.E58",
+      "author": "Alberta99170",
+      "board": "Gossiping",
+      "publishTime": "2026/04/10 08:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-144",
+      "recommendCount": "262",
+      "title": "[討論] 桃園棒球場檢舉人出沒",
+      "link": "/bbs/Baseball/M.1775824936.A.9A4",
+      "author": "elisha50319",
+      "board": "Baseball",
+      "publishTime": "2026/04/10 12:42",
       "imageUrl": ""
     }
   ]
