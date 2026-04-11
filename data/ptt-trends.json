@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T09:46:26.271Z",
+  "updated": "2026-04-11T10:03:11.263Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "734",
-      "recommendCount": "1500",
-      "title": "[閒聊] 今日先發打序",
-      "link": "/bbs/Elephants/M.1775815143.A.2B0",
-      "author": "micheal59",
-      "board": "Elephants",
-      "publishTime": "2026/04/10 09:59",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "215",
-      "recommendCount": "399",
+      "recommendScore": "217",
+      "recommendCount": "403",
       "title": "[新聞] 美官員：伊朗找不到「自己埋的水雷」荷莫茲海峽重啟卡關",
       "link": "/bbs/Stock/M.1775876529.A.E2E",
       "author": "bkprt730",
@@ -201,6 +191,16 @@
       "author": "laptic",
       "board": "C_Chat",
       "publishTime": "2026/04/10 10:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "6",
+      "recommendCount": "277",
+      "title": "[分享] CPBL戰績~誤按",
+      "link": "/bbs/Baseball/M.1775828353.A.CEC",
+      "author": "jerryyuan",
+      "board": "Baseball",
+      "publishTime": "2026/04/10 13:39",
       "imageUrl": ""
     }
   ]
