@@ -1,28 +1,8 @@
 {
-  "updated": "2026-04-11T12:00:36.562Z",
+  "updated": "2026-04-11T12:22:34.012Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "1331",
-      "recommendCount": "1501",
-      "title": "[炸裂] 馬傑森 陽春砲 生涯首轟",
-      "link": "/bbs/Baseball/M.1775822734.A.CB4",
-      "author": "kevenchia",
-      "board": "Baseball",
-      "publishTime": "2026/04/10 12:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "268",
-      "recommendCount": "1181",
-      "title": "[問卦] 公視：印度移工很危險 是中國的認知作戰",
-      "link": "/bbs/Gossiping/M.1775822549.A.966",
-      "author": "ginne86",
-      "board": "Gossiping",
-      "publishTime": "2026/04/10 12:02",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "429",
       "recommendCount": "784",
@@ -124,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "215",
-      "recommendCount": "256",
+      "recommendScore": "217",
+      "recommendCount": "258",
       "title": "[發錢] 老鷹重返季後賽",
       "link": "/bbs/NBA/M.1775871288.A.6F2",
       "author": "dragon803",
@@ -152,16 +132,6 @@
       "board": "Gossiping",
       "publishTime": "2026/04/10 16:54",
       "imageUrl": "https://cache.pttweb.cc/imgur/xFTkSOt/s/6bb14dde4c47df843180d8e7d4226f78"
-    },
-    {
-      "recommendScore": "176",
-      "recommendCount": "226",
-      "title": "[轉播] 五下 馬傑森 全壘打",
-      "link": "/bbs/Monkeys/M.1775822852.A.6F5",
-      "author": "sony1256",
-      "board": "Monkeys",
-      "publishTime": "2026/04/10 12:07",
-      "imageUrl": ""
     },
     {
       "recommendScore": "132",
@@ -194,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-99",
+      "recommendCount": "323",
+      "title": "[公告] 怒灌拐氣",
+      "link": "/bbs/Elephants/M.1775907576.A.037",
+      "author": "msarthur",
+      "board": "Elephants",
+      "publishTime": "2026/04/11 11:39",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "163",
       "recommendCount": "239",
       "title": "[情報] 崩壞：星穹鐵道 動畫化決定",
@@ -202,6 +182,26 @@
       "board": "C_Chat",
       "publishTime": "2026/04/10 12:42",
       "imageUrl": "https://cache.pttweb.cc/imgur/oxA5I3o/s/410e69ff971eefb0f173329c863185b0"
+    },
+    {
+      "recommendScore": "130",
+      "recommendCount": "198",
+      "title": "[情報] 美國居民3月消費價格指數(CPI)",
+      "link": "/bbs/Stock/M.1775824459.A.2B2",
+      "author": "komeko",
+      "board": "Stock",
+      "publishTime": "2026/04/10 12:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "149",
+      "recommendCount": "312",
+      "title": "[問題] 長途高速通勤車輛選擇",
+      "link": "/bbs/car/M.1775835932.A.995",
+      "author": "ca0001",
+      "board": "car",
+      "publishTime": "2026/04/10 15:45",
+      "imageUrl": ""
     }
   ]
 }
