@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T23:32:52.833Z",
+  "updated": "2026-04-11T23:52:17.568Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "526",
-      "recommendCount": "550",
+      "recommendScore": "528",
+      "recommendCount": "552",
       "title": "[發錢] 分享喜悅 祝福大家",
       "link": "/bbs/SportLottery/M.1775916719.A.FB8",
       "author": "berthuang",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "65",
-      "recommendCount": "819",
+      "recommendScore": "66",
+      "recommendCount": "821",
       "title": "[新聞] 判決書曝／柯文哲挪用政治獻金1500萬　妻轉兒帳戶買股",
       "link": "/bbs/Gossiping/M.1775879555.A.2E0",
       "author": "kent",
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "862",
-      "recommendCount": "1493",
-      "title": "[LIVE] BanG Dream Special LIVE in TAIPEI DAY1",
-      "link": "/bbs/C_Chat/M.1775864793.A.FB1",
-      "author": "mazjin",
-      "board": "C_Chat",
-      "publishTime": "2026/04/10 23:46",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "164",
       "recommendCount": "387",
       "title": "[爆卦] 柯文哲聲明稿：支持國昌競選新北市市長",
@@ -201,6 +191,16 @@
       "author": "yasan1029",
       "board": "Baseball",
       "publishTime": "2026/04/11 10:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "149",
+      "recommendCount": "272",
+      "title": "[問卦] 許芳瑜法官 升官了 匾額要題什麼字？",
+      "link": "/bbs/Gossiping/M.1775882925.A.09D",
+      "author": "BlueBird5566",
+      "board": "Gossiping",
+      "publishTime": "2026/04/11 04:48",
       "imageUrl": ""
     }
   ]
