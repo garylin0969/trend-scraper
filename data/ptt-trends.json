@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T15:20:20.664Z",
+  "updated": "2026-04-11T15:37:21.728Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "227",
-      "recommendCount": "425",
+      "recommendCount": "426",
       "title": "[新聞] 美官員：伊朗找不到「自己埋的水雷」荷莫茲海峽重啟卡關",
       "link": "/bbs/Stock/M.1775876529.A.E2E",
       "author": "bkprt730",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "176",
-      "recommendCount": "323",
+      "recommendScore": "177",
+      "recommendCount": "324",
       "title": "[新聞] 3163波若威 2月自結-0.13",
       "link": "/bbs/Stock/M.1775865959.A.434",
       "author": "Cartier",
@@ -64,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "223",
+      "recommendCount": "264",
+      "title": "[發錢] 老鷹重返季後賽",
+      "link": "/bbs/NBA/M.1775871288.A.6F2",
+      "author": "dragon803",
+      "board": "NBA",
+      "publishTime": "2026/04/11 01:34",
+      "imageUrl": "https://cache.pttweb.cc/imgur/YTafFtE/s/9d539130a12415a2e0fb011dd1178fff"
+    },
+    {
       "recommendScore": "148",
       "recommendCount": "301",
       "title": "[問卦] 為什麼Thread網友這麼力挺印度移工",
@@ -72,16 +82,6 @@
       "board": "Gossiping",
       "publishTime": "2026/04/10 16:00",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "221",
-      "recommendCount": "262",
-      "title": "[發錢] 老鷹重返季後賽",
-      "link": "/bbs/NBA/M.1775871288.A.6F2",
-      "author": "dragon803",
-      "board": "NBA",
-      "publishTime": "2026/04/11 01:34",
-      "imageUrl": "https://cache.pttweb.cc/imgur/YTafFtE/s/9d539130a12415a2e0fb011dd1178fff"
     },
     {
       "recommendScore": "225",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "101",
-      "recommendCount": "190",
-      "title": "[新聞] 美伊談判前夕火藥味濃！川普再批伊朗「毫無籌碼」",
-      "link": "/bbs/Stock/M.1775839831.A.BED",
-      "author": "a0808996",
-      "board": "Stock",
-      "publishTime": "2026/04/10 16:50",
+      "recommendScore": "143",
+      "recommendCount": "249",
+      "title": "[分享]今日林安可",
+      "link": "/bbs/Baseball/M.1775903266.A.DA9",
+      "author": "Trewf",
+      "board": "Baseball",
+      "publishTime": "2026/04/11 10:27",
       "imageUrl": ""
     }
   ]
