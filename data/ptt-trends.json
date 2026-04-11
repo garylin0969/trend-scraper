@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T16:37:38.871Z",
+  "updated": "2026-04-11T16:55:49.419Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "251",
+      "recommendCount": "367",
+      "title": "[分享] CPBL戰績",
+      "link": "/bbs/Baseball/M.1775907475.A.9E2",
+      "author": "nybbnan",
+      "board": "Baseball",
+      "publishTime": "2026/04/11 11:37",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "227",
       "recommendCount": "426",
       "title": "[新聞] 美官員：伊朗找不到「自己埋的水雷」荷莫茲海峽重啟卡關",
@@ -44,13 +54,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "177",
-      "recommendCount": "324",
+      "recommendScore": "178",
+      "recommendCount": "325",
       "title": "[新聞] 3163波若威 2月自結-0.13",
       "link": "/bbs/Stock/M.1775865959.A.434",
       "author": "Cartier",
       "board": "Stock",
       "publishTime": "2026/04/11 00:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "215",
+      "recommendCount": "273",
+      "title": "[情報] 陳晨威再見安打",
+      "link": "/bbs/Baseball/M.1775907210.A.19B",
+      "author": "DoncicInPTT",
+      "board": "Baseball",
+      "publishTime": "2026/04/11 11:33",
       "imageUrl": ""
     },
     {
@@ -74,16 +94,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "102",
-      "recommendCount": "308",
-      "title": "[問卦] 脆：冷知識 台男實施性犯罪機率為印度男",
-      "link": "/bbs/Gossiping/M.1775840079.A.7E8",
-      "author": "Oisiossos",
-      "board": "Gossiping",
-      "publishTime": "2026/04/10 16:54",
-      "imageUrl": "https://cache.pttweb.cc/imgur/xFTkSOt/s/6bb14dde4c47df843180d8e7d4226f78"
-    },
-    {
       "recommendScore": "162",
       "recommendCount": "216",
       "title": "[情報] 邦魯閣開張",
@@ -91,6 +101,16 @@
       "author": "yasan1029",
       "board": "Baseball",
       "publishTime": "2026/04/11 10:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-109",
+      "recommendCount": "350",
+      "title": "[公告] 怒灌拐氣",
+      "link": "/bbs/Elephants/M.1775907576.A.037",
+      "author": "msarthur",
+      "board": "Elephants",
+      "publishTime": "2026/04/11 11:39",
       "imageUrl": ""
     },
     {
@@ -111,16 +131,6 @@
       "author": "sun11199",
       "board": "Gossiping",
       "publishTime": "2026/04/10 19:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-99",
-      "recommendCount": "323",
-      "title": "[公告] 怒灌拐氣",
-      "link": "/bbs/Elephants/M.1775907576.A.037",
-      "author": "msarthur",
-      "board": "Elephants",
-      "publishTime": "2026/04/11 11:39",
       "imageUrl": ""
     },
     {
@@ -184,18 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "101",
-      "recommendCount": "190",
-      "title": "[新聞] 美伊談判前夕火藥味濃！川普再批伊朗「毫無籌碼」",
-      "link": "/bbs/Stock/M.1775839831.A.BED",
-      "author": "a0808996",
-      "board": "Stock",
-      "publishTime": "2026/04/10 16:50",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "86",
-      "recommendCount": "246",
+      "recommendCount": "247",
       "title": "[轉播] 六局上 兄弟1:1樂天",
       "link": "/bbs/Elephants/M.1775903050.A.1D1",
       "author": "syusam0728",
