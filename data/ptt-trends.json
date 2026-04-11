@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T19:52:36.695Z",
+  "updated": "2026-04-11T20:09:45.048Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "146",
+      "recommendCount": "254",
+      "title": "[新聞] 鳳山機器人公園百萬遮陽布「1年就沒了」議員怒：鑲金的嗎？",
+      "link": "/bbs/Gossiping/M.1775891392.A.057",
+      "author": "seiya2000",
+      "board": "Gossiping",
+      "publishTime": "2026/04/11 07:09",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "176",
       "recommendCount": "321",
       "title": "[新聞] 快訊／47年最高層級！美伊談判代表皆抵巴基斯坦　伊朗議長放話",
@@ -191,16 +201,6 @@
       "author": "leo589726",
       "board": "Baseball",
       "publishTime": "2026/04/11 09:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "160",
-      "recommendCount": "258",
-      "title": "[討論] 成晉threads被部分球迷出征中",
-      "link": "/bbs/Baseball/M.1775886015.A.77B",
-      "author": "EmilyInTPE",
-      "board": "Baseball",
-      "publishTime": "2026/04/11 05:40",
       "imageUrl": ""
     }
   ]
