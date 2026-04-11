@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T16:03:08.440Z",
+  "updated": "2026-04-11T16:20:16.009Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "223",
-      "recommendCount": "264",
+      "recommendScore": "224",
+      "recommendCount": "265",
       "title": "[發錢] 老鷹重返季後賽",
       "link": "/bbs/NBA/M.1775871288.A.6F2",
       "author": "dragon803",
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "124",
+      "recommendCount": "371",
+      "title": "[轉播] 八局上 兄弟1:1樂天",
+      "link": "/bbs/Elephants/M.1775905211.A.1CB",
+      "author": "syusam0728",
+      "board": "Elephants",
+      "publishTime": "2026/04/11 11:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "152",
       "recommendCount": "164",
       "title": "[分享] 今日 鄭宗哲 完全打擊",
@@ -191,16 +201,6 @@
       "author": "a0808996",
       "board": "Stock",
       "publishTime": "2026/04/10 16:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-92",
-      "recommendCount": "188",
-      "title": "[討論] 奧運三金，極其偉大，榮耀不該被忽視",
-      "link": "/bbs/NBA/M.1775837422.A.849",
-      "author": "KingJamesGOD",
-      "board": "NBA",
-      "publishTime": "2026/04/10 16:10",
       "imageUrl": ""
     }
   ]
