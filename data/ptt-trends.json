@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T16:20:16.009Z",
+  "updated": "2026-04-11T16:37:38.871Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,7 +34,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "862",
+      "recommendScore": "864",
       "recommendCount": "1493",
       "title": "[LIVE] BanG Dream Special LIVE in TAIPEI DAY1",
       "link": "/bbs/C_Chat/M.1775864793.A.FB1",
@@ -51,16 +51,6 @@
       "author": "Cartier",
       "board": "Stock",
       "publishTime": "2026/04/11 00:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "245",
-      "recommendCount": "258",
-      "title": "[推薦] 足球 同喜同樂！",
-      "link": "/bbs/SportLottery/M.1775838362.A.CA9",
-      "author": "ekkevin",
-      "board": "SportLottery",
-      "publishTime": "2026/04/10 16:26",
       "imageUrl": ""
     },
     {
@@ -144,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "124",
-      "recommendCount": "371",
+      "recommendScore": "125",
+      "recommendCount": "372",
       "title": "[轉播] 八局上 兄弟1:1樂天",
       "link": "/bbs/Elephants/M.1775905211.A.1CB",
       "author": "syusam0728",
@@ -201,6 +191,16 @@
       "author": "a0808996",
       "board": "Stock",
       "publishTime": "2026/04/10 16:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "86",
+      "recommendCount": "246",
+      "title": "[轉播] 六局上 兄弟1:1樂天",
+      "link": "/bbs/Elephants/M.1775903050.A.1D1",
+      "author": "syusam0728",
+      "board": "Elephants",
+      "publishTime": "2026/04/11 10:24",
       "imageUrl": ""
     }
   ]
