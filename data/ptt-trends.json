@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T12:22:34.012Z",
+  "updated": "2026-04-11T12:48:32.035Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,7 +74,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "849",
+      "recommendScore": "867",
       "recommendCount": "1493",
       "title": "[LIVE] BanG Dream Special LIVE in TAIPEI DAY1",
       "link": "/bbs/C_Chat/M.1775864793.A.FB1",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "147",
-      "recommendCount": "300",
+      "recommendScore": "148",
+      "recommendCount": "301",
       "title": "[問卦] 為什麼Thread網友這麼力挺印度移工",
       "link": "/bbs/Gossiping/M.1775836828.A.703",
       "author": "LukeSkywaker",
@@ -112,16 +112,6 @@
       "board": "NBA",
       "publishTime": "2026/04/11 01:34",
       "imageUrl": "https://cache.pttweb.cc/imgur/YTafFtE/s/9d539130a12415a2e0fb011dd1178fff"
-    },
-    {
-      "recommendScore": "-144",
-      "recommendCount": "262",
-      "title": "[討論] 桃園棒球場檢舉人出沒",
-      "link": "/bbs/Baseball/M.1775824936.A.9A4",
-      "author": "elisha50319",
-      "board": "Baseball",
-      "publishTime": "2026/04/10 12:42",
-      "imageUrl": ""
     },
     {
       "recommendScore": "99",
@@ -174,26 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "163",
-      "recommendCount": "239",
-      "title": "[情報] 崩壞：星穹鐵道 動畫化決定",
-      "link": "/bbs/C_Chat/M.1775824951.A.7C2",
-      "author": "dragon803",
-      "board": "C_Chat",
-      "publishTime": "2026/04/10 12:42",
-      "imageUrl": "https://cache.pttweb.cc/imgur/oxA5I3o/s/410e69ff971eefb0f173329c863185b0"
-    },
-    {
-      "recommendScore": "130",
-      "recommendCount": "198",
-      "title": "[情報] 美國居民3月消費價格指數(CPI)",
-      "link": "/bbs/Stock/M.1775824459.A.2B2",
-      "author": "komeko",
-      "board": "Stock",
-      "publishTime": "2026/04/10 12:34",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "149",
       "recommendCount": "312",
       "title": "[問題] 長途高速通勤車輛選擇",
@@ -201,6 +171,36 @@
       "author": "ca0001",
       "board": "car",
       "publishTime": "2026/04/10 15:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "152",
+      "recommendCount": "164",
+      "title": "[分享] 今日 鄭宗哲 完全打擊",
+      "link": "/bbs/Baseball/M.1775870301.A.16E",
+      "author": "alpacaHong",
+      "board": "Baseball",
+      "publishTime": "2026/04/11 01:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "79",
+      "recommendCount": "202",
+      "title": "[新聞] 獨家／台股多頭成詐騙溫床？20人買原始股慘賠3千萬",
+      "link": "/bbs/Stock/M.1775869758.A.D78",
+      "author": "EstelleRinz",
+      "board": "Stock",
+      "publishTime": "2026/04/11 01:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "235",
+      "recommendCount": "412",
+      "title": "[LIVE] 印超 奧里薩邦@果阿邦 場中",
+      "link": "/bbs/SportLottery/M.1775827868.A.F17",
+      "author": "pandalove",
+      "board": "SportLottery",
+      "publishTime": "2026/04/10 13:31",
       "imageUrl": ""
     }
   ]
