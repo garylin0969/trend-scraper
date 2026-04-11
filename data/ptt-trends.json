@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T07:08:27.661Z",
+  "updated": "2026-04-11T07:33:58.927Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -11,16 +11,6 @@
       "author": "kevenchia",
       "board": "Baseball",
       "publishTime": "2026/04/10 12:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "515",
-      "recommendCount": "1455",
-      "title": "[問卦] 習近平為何不想打台灣？",
-      "link": "/bbs/Gossiping/M.1775806233.A.80D",
-      "author": "fishing7414",
-      "board": "Gossiping",
-      "publishTime": "2026/04/10 07:30",
       "imageUrl": ""
     },
     {
@@ -154,23 +144,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "257",
+      "recommendScore": "245",
+      "recommendCount": "258",
       "title": "[推薦] 足球 同喜同樂！",
       "link": "/bbs/SportLottery/M.1775838362.A.CA9",
       "author": "ekkevin",
       "board": "SportLottery",
       "publishTime": "2026/04/10 16:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "742",
-      "recommendCount": "1448",
-      "title": "[電競] 2026 LCK Regular Season W2D3",
-      "link": "/bbs/LoL/M.1775806033.A.061",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/04/10 07:27",
       "imageUrl": ""
     },
     {
@@ -202,6 +182,26 @@
       "board": "Baseball",
       "publishTime": "2026/04/10 12:42",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "118",
+      "recommendCount": "329",
+      "title": "[新聞] 印度移工今年引進?!周玉蔻疾呼「勞動部",
+      "link": "/bbs/Gossiping/M.1775811173.A.1D2",
+      "author": "Goo4u",
+      "board": "Gossiping",
+      "publishTime": "2026/04/10 08:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "127",
+      "recommendCount": "298",
+      "title": "[問卦] 印度醫學院女遭強姦 首長：怎會半夜外出",
+      "link": "/bbs/Gossiping/M.1775819906.A.1AE",
+      "author": "norvasc",
+      "board": "Gossiping",
+      "publishTime": "2026/04/10 11:18",
+      "imageUrl": "https://cache.pttweb.cc/imgur/XkX5BRk/s/2cd2f45140dd11994d7a252b753a194f"
     }
   ]
 }
