@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12T09:52:44.360Z",
+  "updated": "2026-04-12T10:17:06.467Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,6 +14,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "771",
+      "recommendCount": "846",
+      "title": "Re: [討論] 林安可怎麼了？",
+      "link": "/bbs/Baseball/M.1775979372.A.968",
+      "author": "smad",
+      "board": "Baseball",
+      "publishTime": "2026/04/12 07:36",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "539",
       "recommendCount": "564",
       "title": "[發錢] 分享喜悅 祝福大家",
@@ -24,8 +34,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/bn5w9el/s/cd7fa30169023bdcf31003d873511b38"
     },
     {
-      "recommendScore": "461",
-      "recommendCount": "793",
+      "recommendScore": "462",
+      "recommendCount": "794",
       "title": "Re: [新聞] 有片／NHK揭中國「認知戰」真相　王定宇：我們已經在戰爭當中了",
       "link": "/bbs/Gossiping/M.1775915598.A.730",
       "author": "tonyhsie",
@@ -34,18 +44,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/Wm2HGG2/s/ed8aae6a9798cd34d4a8b96a71e54679"
     },
     {
-      "recommendScore": "537",
-      "recommendCount": "589",
-      "title": "Re: [討論] 林安可怎麼了？",
-      "link": "/bbs/Baseball/M.1775979372.A.968",
-      "author": "smad",
-      "board": "Baseball",
-      "publishTime": "2026/04/12 07:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "373",
-      "recommendCount": "944",
+      "recommendScore": "378",
+      "recommendCount": "954",
       "title": "[新聞] 獨／中共「大禮包」來了！鄭麗文返台前",
       "link": "/bbs/Gossiping/M.1775950129.A.FAD",
       "author": "joe19990815",
@@ -91,6 +91,16 @@
       "author": "wangyl",
       "board": "WorkinChina",
       "publishTime": "2026/04/12 04:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "283",
+      "recommendCount": "346",
+      "title": "[影片] 林安可再見全壘打影片",
+      "link": "/bbs/Baseball/M.1775978342.A.156",
+      "author": "jumpballfan",
+      "board": "Baseball",
+      "publishTime": "2026/04/12 07:19",
       "imageUrl": ""
     },
     {
@@ -144,26 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "216",
-      "recommendCount": "264",
-      "title": "[影片] 林安可再見全壘打影片",
-      "link": "/bbs/Baseball/M.1775978342.A.156",
-      "author": "jumpballfan",
-      "board": "Baseball",
-      "publishTime": "2026/04/12 07:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "199",
-      "recommendCount": "263",
-      "title": "[情報] 邦魯閣開張",
-      "link": "/bbs/Baseball/M.1775901787.A.764",
-      "author": "yasan1029",
-      "board": "Baseball",
-      "publishTime": "2026/04/11 10:03",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "107",
       "recommendCount": "369",
       "title": "[新聞] 鄭麗文提台灣加入國際組織 習近平:什麼事情都可商量",
@@ -201,6 +191,16 @@
       "author": "joanzkow",
       "board": "Stock",
       "publishTime": "2026/04/11 13:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "215",
+      "recommendCount": "360",
+      "title": "[閒聊] 韓網：因某選手導致韓其他電競替代役遭禁",
+      "link": "/bbs/LoL/M.1775916650.A.D70",
+      "author": "ubiqui",
+      "board": "LoL",
+      "publishTime": "2026/04/11 14:10",
       "imageUrl": ""
     }
   ]
