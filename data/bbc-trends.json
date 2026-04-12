@@ -1,14 +1,22 @@
 {
-  "updated": "2026-04-12T14:27:43.009Z",
+  "updated": "2026-04-12T14:58:37.385Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-04-12T14:27:33.000Z",
+    "lastBuildDate": "2026-04-12T14:58:27.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "美伊馬拉松和談失敗　特朗普下令「封鎖」霍爾木茲海峽",
+      "description": "美國總統特朗普宣佈即時封鎖霍爾木茲海峽。數小時前，副總統萬斯從伊斯蘭堡的馬拉松和談無功而還。",
+      "link": "https://www.bbc.com/zhongwen/articles/cjw81e6q10yo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T14:47:40.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cjw81e6q10yo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/937e/live/7ecc8d70-367e-11f1-8606-05fe34b06e1b.jpg"
+    },
     {
       "title": "鄭麗文結束訪陸北京發對台「十項措施」　台北批「一中框架化」",
       "description": "中國國台辦公佈的措施包括探索建立國共兩黨常態化溝通機制、恢復台灣漁獲與影視作品進口大陸，以及多項針對金門地區的措施。",
@@ -16,14 +24,6 @@
       "pubDate": "2026-04-12T11:01:44.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c4gdlm4zed5o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/010e/live/7276f3a0-365e-11f1-8606-05fe34b06e1b.jpg"
-    },
-    {
-      "title": "美伊馬拉松和談失敗　萬斯帶著「最後提議」離開巴基斯坦",
-      "description": "美國副總統萬斯稱，德黑蘭必須作出「根本性的承諾」，不發展核武器。伊朗則稱，美方應避免提出「過分要求」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cjw81e6q10yo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-12T10:17:41.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cjw81e6q10yo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/46f9/live/ee7bee30-3657-11f1-9d5c-8ba507d7dbde.jpg"
     },
     {
       "title": "阿提米絲二號繞月任務取得巨大成功，真正的挑戰尚在前面",
