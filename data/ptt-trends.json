@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12T11:15:50.227Z",
+  "updated": "2026-04-12T11:32:45.250Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "173",
+      "recommendCount": "375",
+      "title": "[新聞] 川普：如果伊朗不讓步，王牌是海上封鎖",
+      "link": "/bbs/Stock/M.1775969054.A.701",
+      "author": "komeko",
+      "board": "Stock",
+      "publishTime": "2026/04/12 04:44",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "162",
       "recommendCount": "413",
       "title": "[新聞] 快訊／陸宣布10項對台政策！開放上海、福建赴台自由行　支持金廈共用新機場",
@@ -191,16 +201,6 @@
       "author": "ihl123456",
       "board": "Gossiping",
       "publishTime": "2026/04/12 02:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "176",
-      "recommendCount": "329",
-      "title": "[新聞] 快訊／伊朗：美國同意在黎巴嫩停火",
-      "link": "/bbs/Stock/M.1775914778.A.CF8",
-      "author": "joanzkow",
-      "board": "Stock",
-      "publishTime": "2026/04/11 13:39",
       "imageUrl": ""
     }
   ]
