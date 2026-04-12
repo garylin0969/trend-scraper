@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12T09:10:45.773Z",
+  "updated": "2026-04-12T09:31:13.608Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "221",
+      "recommendCount": "678",
+      "title": "[新聞] 伊朗絕接受美方條件　范斯：主要癥結點在「伊朗不棄核」",
+      "link": "/bbs/Stock/M.1775959896.A.BA2",
+      "author": "joanzkow",
+      "board": "Stock",
+      "publishTime": "2026/04/12 02:11",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "227",
       "recommendCount": "289",
       "title": "[情報] 陳晨威再見安打",
@@ -191,16 +201,6 @@
       "author": "ihl123456",
       "board": "Gossiping",
       "publishTime": "2026/04/12 02:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "176",
-      "recommendCount": "329",
-      "title": "[新聞] 快訊／伊朗：美國同意在黎巴嫩停火",
-      "link": "/bbs/Stock/M.1775914778.A.CF8",
-      "author": "joanzkow",
-      "board": "Stock",
-      "publishTime": "2026/04/11 13:39",
       "imageUrl": ""
     }
   ]
