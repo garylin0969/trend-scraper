@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-12T18:16:08.088Z",
-  "total_found": 13,
-  "returned_count": 13,
+  "updated": "2026-04-12T18:33:55.026Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "1347",
@@ -11,7 +11,7 @@
       "author": "jumpballfan",
       "board": "Baseball",
       "publishTime": "2026/04/12 07:08",
-      "imageUrl": "https://cache.pttweb.cc/imgur/c8LFbMD/s/285e682fbd81e7eef4cb5360f85dea41"
+      "imageUrl": ""
     },
     {
       "recommendScore": "840",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "616",
-      "recommendCount": "1227",
+      "recommendScore": "617",
+      "recommendCount": "1228",
       "title": "[新聞] 川普：美國即日起封鎖進出荷莫茲海峽船隻",
       "link": "/bbs/Stock/M.1775999855.A.1F7",
       "author": "a0808996",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "306",
-      "recommendCount": "672",
+      "recommendScore": "307",
+      "recommendCount": "673",
       "title": "[問卦] 脆:比照印度 台灣被說都在搞詐騙你ok嗎",
       "link": "/bbs/Gossiping/M.1775975456.A.0C7",
       "author": "norvasc",
@@ -131,6 +131,76 @@
       "author": "gn505250",
       "board": "Gossiping",
       "publishTime": "2026/04/12 04:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "310",
+      "recommendCount": "387",
+      "title": "[影片] 林安可再見全壘打影片",
+      "link": "/bbs/Baseball/M.1775978342.A.156",
+      "author": "jumpballfan",
+      "board": "Baseball",
+      "publishTime": "2026/04/12 07:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "222",
+      "recommendCount": "584",
+      "title": "Fw: [新聞] 快訊／陸宣布10項對台政策！開放上海、福",
+      "link": "/bbs/WorkinChina/M.1775969559.A.851",
+      "author": "wangyl",
+      "board": "WorkinChina",
+      "publishTime": "2026/04/12 04:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "281",
+      "recommendCount": "381",
+      "title": "[分享]今日林安可 (再見全壘打）",
+      "link": "/bbs/Baseball/M.1775977919.A.237",
+      "author": "Trewf",
+      "board": "Baseball",
+      "publishTime": "2026/04/12 07:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "220",
+      "recommendCount": "472",
+      "title": "[新聞] 日本人台來旅遊　下飛機「就聞到臭味」！一票外國人點頭",
+      "link": "/bbs/Gossiping/M.1775990816.A.579",
+      "author": "sulanpa",
+      "board": "Gossiping",
+      "publishTime": "2026/04/12 10:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "218",
+      "recommendCount": "438",
+      "title": "[新聞] 川普：美國即日起封鎖進出荷莫茲海峽船隻",
+      "link": "/bbs/Gossiping/M.1775999543.A.C69",
+      "author": "Axwell",
+      "board": "Gossiping",
+      "publishTime": "2026/04/12 13:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "285",
+      "recommendCount": "314",
+      "title": "Re: [推薦] 足球[小律師]曼城 @ 切爾西",
+      "link": "/bbs/SportLottery/M.1776012995.A.D46",
+      "author": "lotterywin",
+      "board": "SportLottery",
+      "publishTime": "2026/04/12 16:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "229",
+      "recommendCount": "701",
+      "title": "[新聞] 伊朗絕接受美方條件　范斯：主要癥結點在「伊朗不棄核」",
+      "link": "/bbs/Stock/M.1775959896.A.BA2",
+      "author": "joanzkow",
+      "board": "Stock",
+      "publishTime": "2026/04/12 02:11",
       "imageUrl": ""
     }
   ]
