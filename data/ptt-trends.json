@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T17:26:44.780Z",
+  "updated": "2026-04-13T17:50:06.962Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,23 +24,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "425",
-      "recommendCount": "632",
+      "recommendScore": "434",
+      "recommendCount": "646",
       "title": "[新聞] 富邦領隊證實林哲瑄新竹球場受傷　造成他職棒生涯提前結束",
       "link": "/bbs/Baseball/M.1776087370.A.CDF",
       "author": "EDFR",
       "board": "Baseball",
       "publishTime": "2026/04/13 13:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "403",
-      "recommendCount": "507",
-      "title": "Re: [新聞] 快訊／到職不滿1年！桃市府31歲男墜樓亡曾傳訊：壓力很大",
-      "link": "/bbs/Gossiping/M.1776015138.A.F25",
-      "author": "tmac0818",
-      "board": "Gossiping",
-      "publishTime": "2026/04/12 17:32",
       "imageUrl": ""
     },
     {
@@ -64,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "251",
-      "recommendCount": "558",
+      "recommendScore": "253",
+      "recommendCount": "562",
       "title": "[問卦] 巴西駐臺代表：臺灣是中國的一部分",
       "link": "/bbs/Gossiping/M.1776068119.A.86A",
       "author": "chopper594",
@@ -104,8 +94,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/zUA6uz5/s/542b325a36c368fff41974c91fb48764"
     },
     {
-      "recommendScore": "206",
-      "recommendCount": "407",
+      "recommendScore": "207",
+      "recommendCount": "408",
       "title": "Re: [問卦] 媽的被騙五萬，幹幹幹操雞掰 發錢！",
       "link": "/bbs/Gossiping/M.1776065792.A.5D1",
       "author": "ambitious",
@@ -115,7 +105,7 @@
     },
     {
       "recommendScore": "315",
-      "recommendCount": "664",
+      "recommendCount": "665",
       "title": "[花邊] Durant:不覺得Wade比Harden更會贏球",
       "link": "/bbs/NBA/M.1776054415.A.267",
       "author": "OsmanGo",
@@ -144,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "206",
+      "recommendCount": "347",
+      "title": "[新聞] 李洋奧運金牌獲1000萬獎金！霸氣宣布「全部捐出」　建議單位曝光",
+      "link": "/bbs/Gossiping/M.1776055487.A.C4D",
+      "author": "DORAQMON",
+      "board": "Gossiping",
+      "publishTime": "2026/04/13 04:44",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "162",
       "recommendCount": "382",
       "title": "[問卦] 我只問一句以後印度人性侵該算誰頭上？",
@@ -154,18 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "205",
-      "recommendCount": "346",
-      "title": "[新聞] 李洋奧運金牌獲1000萬獎金！霸氣宣布「全部捐出」　建議單位曝光",
-      "link": "/bbs/Gossiping/M.1776055487.A.C4D",
-      "author": "DORAQMON",
-      "board": "Gossiping",
-      "publishTime": "2026/04/13 04:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "186",
-      "recommendCount": "327",
+      "recommendScore": "187",
+      "recommendCount": "329",
       "title": "[問卦] 許芳瑜法官 升官 是前金還是後謝？",
       "link": "/bbs/Gossiping/M.1776054605.A.316",
       "author": "BlueBird5566",
@@ -184,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-97",
-      "recommendCount": "353",
+      "recommendScore": "-98",
+      "recommendCount": "354",
       "title": "[新聞] 轟國共「假惠台真害台」！ 吳思瑤：年底大選是台灣價值vs.共產黨",
       "link": "/bbs/Gossiping/M.1776029389.A.E3B",
       "author": "MikaHakkinen",
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "201",
-      "recommendCount": "334",
+      "recommendScore": "204",
+      "recommendCount": "338",
       "title": "[新聞] 富邦領隊證實林哲瑄新竹球場受傷 造成他職棒生涯提前結束",
       "link": "/bbs/Gossiping/M.1776087344.A.167",
       "author": "DrowningPool",
       "board": "Gossiping",
       "publishTime": "2026/04/13 13:35",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "116",
+      "recommendCount": "366",
+      "title": "[問卦] 白沙屯根本狗屁不通== 沒人發現嗎？",
+      "link": "/bbs/Gossiping/M.1776039684.A.00D",
+      "author": "Dinenger",
+      "board": "Gossiping",
+      "publishTime": "2026/04/13 00:21",
       "imageUrl": ""
     }
   ]
