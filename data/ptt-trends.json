@@ -1,31 +1,21 @@
 {
-  "updated": "2026-04-14T13:04:08.768Z",
+  "updated": "2026-04-14T13:47:33.718Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "509",
-      "recommendCount": "786",
-      "title": "[新聞] 富邦領隊證實林哲瑄新竹球場受傷　造成他職棒生涯提前結束",
-      "link": "/bbs/Baseball/M.1776087370.A.CDF",
-      "author": "EDFR",
-      "board": "Baseball",
-      "publishTime": "2026/04/13 13:36",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Mc8vKoy/s/8aaf74098a274b0915bca47471573000"
-    },
-    {
-      "recommendScore": "297",
-      "recommendCount": "511",
+      "recommendScore": "300",
+      "recommendCount": "515",
       "title": "[新聞] 川普：美國不能讓一個國家敲詐全世界",
       "link": "/bbs/Stock/M.1776141124.A.731",
       "author": "adamk2",
       "board": "Stock",
       "publishTime": "2026/04/14 04:32",
-      "imageUrl": ""
+      "imageUrl": "https://cache.pttweb.cc/imgur/Mc8vKoy/s/8aaf74098a274b0915bca47471573000"
     },
     {
-      "recommendScore": "354",
-      "recommendCount": "457",
+      "recommendScore": "357",
+      "recommendCount": "461",
       "title": "[炸裂] 王柏融",
       "link": "/bbs/Baseball/M.1776163354.A.3B2",
       "author": "Bystander21",
@@ -35,7 +25,7 @@
     },
     {
       "recommendScore": "329",
-      "recommendCount": "539",
+      "recommendCount": "540",
       "title": "[新聞] 台新證下單出大包！重覆錯帳申報估逾1億元公司：緊急處理中",
       "link": "/bbs/Stock/M.1776143180.A.812",
       "author": "DrowningPool",
@@ -44,18 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "235",
-      "recommendCount": "440",
-      "title": "[新聞] 郭台銘16歲女兒太狂！　赴美參賽「學生版奧運」奪最高榮譽",
-      "link": "/bbs/Gossiping/M.1776129298.A.0C0",
-      "author": "crashonU",
-      "board": "Gossiping",
-      "publishTime": "2026/04/14 01:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "262",
-      "recommendCount": "494",
+      "recommendScore": "305",
+      "recommendCount": "559",
       "title": "[爆卦] 李貞秀又失言啦",
       "link": "/bbs/Gossiping/M.1776164978.A.5F2",
       "author": "Rueyh",
@@ -64,8 +44,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "192",
-      "recommendCount": "484",
+      "recommendScore": "237",
+      "recommendCount": "443",
+      "title": "[新聞] 郭台銘16歲女兒太狂！　赴美參賽「學生版奧運」奪最高榮譽",
+      "link": "/bbs/Gossiping/M.1776129298.A.0C0",
+      "author": "crashonU",
+      "board": "Gossiping",
+      "publishTime": "2026/04/14 01:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "195",
+      "recommendCount": "497",
       "title": "[新聞] 被問黃國昌選新北市長 李貞秀嗆「有認真選嗎」：他那個死樣子選不上吧",
       "link": "/bbs/Gossiping/M.1776160371.A.70E",
       "author": "LoveMakeLove",
@@ -74,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "255",
-      "recommendCount": "523",
+      "recommendScore": "257",
+      "recommendCount": "525",
       "title": "[問卦] 今天的三立政論會多精彩",
       "link": "/bbs/Gossiping/M.1776141938.A.9D6",
       "author": "a5687920",
@@ -84,38 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "174",
-      "recommendCount": "426",
-      "title": "[新聞] 鄭文燦涉貪案歷經1年多準備程序、法官更換 今首度進入實質審理",
-      "link": "/bbs/Gossiping/M.1776131473.A.5F1",
-      "author": "semih",
-      "board": "Gossiping",
-      "publishTime": "2026/04/14 01:51",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Mc8vKoy/s/8aaf74098a274b0915bca47471573000"
-    },
-    {
-      "recommendScore": "240",
-      "recommendCount": "409",
-      "title": "[新聞] 富邦領隊證實林哲瑄新竹球場受傷 造成他職棒生涯提前結束",
-      "link": "/bbs/Gossiping/M.1776087344.A.167",
-      "author": "DrowningPool",
-      "board": "Gossiping",
-      "publishTime": "2026/04/13 13:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "126",
-      "recommendCount": "419",
-      "title": "[問卦] 脆正妹：沒想到跟男友對中國議題差那麼",
-      "link": "/bbs/Gossiping/M.1776113223.A.BE1",
-      "author": "norvasc",
-      "board": "Gossiping",
-      "publishTime": "2026/04/13 20:47",
-      "imageUrl": "https://cache.pttweb.cc/imgur/UeyhrsV/s/6ed428ab87a78d4659ae59620a080377"
-    },
-    {
-      "recommendScore": "193",
-      "recommendCount": "540",
+      "recommendScore": "203",
+      "recommendCount": "562",
       "title": "[問卦] 什麼人才敢獨旅？",
       "link": "/bbs/Gossiping/M.1776152990.A.1D7",
       "author": "vava5566",
@@ -124,8 +84,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "173",
-      "recommendCount": "561",
+      "recommendScore": "174",
+      "recommendCount": "427",
+      "title": "[新聞] 鄭文燦涉貪案歷經1年多準備程序、法官更換 今首度進入實質審理",
+      "link": "/bbs/Gossiping/M.1776131473.A.5F1",
+      "author": "semih",
+      "board": "Gossiping",
+      "publishTime": "2026/04/14 01:51",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Mc8vKoy/s/8aaf74098a274b0915bca47471573000"
+    },
+    {
+      "recommendScore": "126",
+      "recommendCount": "422",
+      "title": "[問卦] 脆正妹：沒想到跟男友對中國議題差那麼",
+      "link": "/bbs/Gossiping/M.1776113223.A.BE1",
+      "author": "norvasc",
+      "board": "Gossiping",
+      "publishTime": "2026/04/13 20:47",
+      "imageUrl": "https://cache.pttweb.cc/imgur/UeyhrsV/s/6ed428ab87a78d4659ae59620a080377"
+    },
+    {
+      "recommendScore": "174",
+      "recommendCount": "563",
       "title": "[新聞] 開撕！李貞秀怒轟「黃國昌一派胡言」：壞人不怕毁了民眾黨",
       "link": "/bbs/Gossiping/M.1776143848.A.6C5",
       "author": "todao",
@@ -134,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "187",
-      "recommendCount": "393",
+      "recommendScore": "189",
+      "recommendCount": "400",
       "title": "[新聞] 粿粿叫王子「殿下」！擁吻照當庭被公開律師跪求范姜彥豐這1事",
       "link": "/bbs/Gossiping/M.1776156429.A.034",
       "author": "lycppt",
@@ -145,7 +125,7 @@
     },
     {
       "recommendScore": "159",
-      "recommendCount": "313",
+      "recommendCount": "314",
       "title": "[新聞] 美軍封鎖伊朗！川普：美國不能讓一個國家敲詐全世界",
       "link": "/bbs/Gossiping/M.1776138509.A.CBC",
       "author": "axxp",
@@ -174,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "210",
-      "recommendCount": "361",
+      "recommendScore": "212",
+      "recommendCount": "368",
       "title": "[請益] 信貸加碼可以嗎?",
       "link": "/bbs/Stock/M.1776156901.A.ECF",
       "author": "a281393",
@@ -185,7 +165,7 @@
     },
     {
       "recommendScore": "104",
-      "recommendCount": "391",
+      "recommendCount": "392",
       "title": "[新聞] 性侵未滿14歲少女獲輕判 法官：他與她有特殊「D／S 」關係",
       "link": "/bbs/Gossiping/M.1776137917.A.1B0",
       "author": "Aqqqa",
@@ -201,6 +181,26 @@
       "author": "MOMO0478",
       "board": "Stock",
       "publishTime": "2026/04/14 07:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "145",
+      "recommendCount": "363",
+      "title": "[新聞] 李貞秀上三立政論開嗆！不讓黃國昌把民眾黨變時力、見人就罵高虹安",
+      "link": "/bbs/Gossiping/M.1776150449.A.E4D",
+      "author": "william8403",
+      "board": "Gossiping",
+      "publishTime": "2026/04/14 07:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "734",
+      "recommendCount": "1499",
+      "title": "[情報] 今日先發",
+      "link": "/bbs/Elephants/M.1776160438.A.4F9",
+      "author": "nanashin",
+      "board": "Elephants",
+      "publishTime": "2026/04/14 09:53",
       "imageUrl": ""
     }
   ]
