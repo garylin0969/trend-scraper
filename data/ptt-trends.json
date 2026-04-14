@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T11:07:17.631Z",
+  "updated": "2026-04-14T11:34:57.933Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "294",
-      "recommendCount": "504",
+      "recommendScore": "296",
+      "recommendCount": "506",
       "title": "[新聞] 川普：美國不能讓一個國家敲詐全世界",
       "link": "/bbs/Stock/M.1776141124.A.731",
       "author": "adamk2",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "320",
-      "recommendCount": "528",
+      "recommendScore": "323",
+      "recommendCount": "531",
       "title": "[新聞] 台新證下單出大包！重覆錯帳申報估逾1億元公司：緊急處理中",
       "link": "/bbs/Stock/M.1776143180.A.812",
       "author": "DrowningPool",
@@ -34,8 +34,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "230",
-      "recommendCount": "432",
+      "recommendScore": "322",
+      "recommendCount": "418",
+      "title": "[炸裂] 王柏融",
+      "link": "/bbs/Baseball/M.1776163354.A.3B2",
+      "author": "Bystander21",
+      "board": "Baseball",
+      "publishTime": "2026/04/14 10:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "231",
+      "recommendCount": "435",
       "title": "[新聞] 郭台銘16歲女兒太狂！　赴美參賽「學生版奧運」奪最高榮譽",
       "link": "/bbs/Gossiping/M.1776129298.A.0C0",
       "author": "crashonU",
@@ -54,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "172",
+      "recommendCount": "424",
+      "title": "[新聞] 鄭文燦涉貪案歷經1年多準備程序、法官更換 今首度進入實質審理",
+      "link": "/bbs/Gossiping/M.1776131473.A.5F1",
+      "author": "semih",
+      "board": "Gossiping",
+      "publishTime": "2026/04/14 01:51",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Mc8vKoy/s/8aaf74098a274b0915bca47471573000"
+    },
+    {
       "recommendScore": "238",
       "recommendCount": "407",
       "title": "[新聞] 富邦領隊證實林哲瑄新竹球場受傷 造成他職棒生涯提前結束",
@@ -62,16 +82,6 @@
       "board": "Gossiping",
       "publishTime": "2026/04/13 13:35",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "172",
-      "recommendCount": "421",
-      "title": "[新聞] 鄭文燦涉貪案歷經1年多準備程序、法官更換 今首度進入實質審理",
-      "link": "/bbs/Gossiping/M.1776131473.A.5F1",
-      "author": "semih",
-      "board": "Gossiping",
-      "publishTime": "2026/04/14 01:51",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Mc8vKoy/s/8aaf74098a274b0915bca47471573000"
     },
     {
       "recommendScore": "124",
@@ -84,8 +94,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/UeyhrsV/s/6ed428ab87a78d4659ae59620a080377"
     },
     {
-      "recommendScore": "172",
-      "recommendCount": "557",
+      "recommendScore": "173",
+      "recommendCount": "560",
       "title": "[新聞] 開撕！李貞秀怒轟「黃國昌一派胡言」：壞人不怕毁了民眾黨",
       "link": "/bbs/Gossiping/M.1776143848.A.6C5",
       "author": "todao",
@@ -124,18 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "100",
-      "recommendCount": "383",
-      "title": "[新聞] 性侵未滿14歲少女獲輕判 法官：他與她有特殊「D／S 」關係",
-      "link": "/bbs/Gossiping/M.1776137917.A.1B0",
-      "author": "Aqqqa",
-      "board": "Gossiping",
-      "publishTime": "2026/04/14 03:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "170",
-      "recommendCount": "474",
+      "recommendScore": "172",
+      "recommendCount": "494",
       "title": "[問卦] 什麼人才敢獨旅？",
       "link": "/bbs/Gossiping/M.1776152990.A.1D7",
       "author": "vava5566",
@@ -144,8 +144,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "205",
-      "recommendCount": "346",
+      "recommendScore": "100",
+      "recommendCount": "386",
+      "title": "[新聞] 性侵未滿14歲少女獲輕判 法官：他與她有特殊「D／S 」關係",
+      "link": "/bbs/Gossiping/M.1776137917.A.1B0",
+      "author": "Aqqqa",
+      "board": "Gossiping",
+      "publishTime": "2026/04/14 03:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "154",
+      "recommendCount": "399",
+      "title": "[新聞] 被問黃國昌選新北市長 李貞秀嗆「有認真選嗎」：他那個死樣子選不上吧",
+      "link": "/bbs/Gossiping/M.1776160371.A.70E",
+      "author": "LoveMakeLove",
+      "board": "Gossiping",
+      "publishTime": "2026/04/14 09:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "206",
+      "recommendCount": "348",
       "title": "[情報] 快訊／南亞科召開重訊記者會！說明重大決",
       "link": "/bbs/Stock/M.1776150193.A.D9E",
       "author": "MOMO0478",
@@ -154,18 +174,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "205",
-      "recommendCount": "274",
-      "title": "[炸裂] 王柏融",
-      "link": "/bbs/Baseball/M.1776163354.A.3B2",
-      "author": "Bystander21",
-      "board": "Baseball",
-      "publishTime": "2026/04/14 10:42",
+      "recommendScore": "161",
+      "recommendCount": "344",
+      "title": "[新聞] 粿粿叫王子「殿下」！擁吻照當庭被公開律師跪求范姜彥豐這1事",
+      "link": "/bbs/Gossiping/M.1776156429.A.034",
+      "author": "lycppt",
+      "board": "Gossiping",
+      "publishTime": "2026/04/14 08:47",
       "imageUrl": ""
     },
     {
-      "recommendScore": "143",
-      "recommendCount": "350",
+      "recommendScore": "144",
+      "recommendCount": "351",
       "title": "[新聞] 李貞秀上三立政論開嗆！不讓黃國昌把民眾黨變時力、見人就罵高虹安",
       "link": "/bbs/Gossiping/M.1776150449.A.E4D",
       "author": "william8403",
@@ -181,26 +201,6 @@
       "author": "LDMisshit",
       "board": "Gossiping",
       "publishTime": "2026/04/13 12:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "122",
-      "recommendCount": "300",
-      "title": "[新聞] [新聞] 快訊／前三連霸綠委陳歐珀涉貪",
-      "link": "/bbs/Gossiping/M.1776131006.A.1F7",
-      "author": "tan608287",
-      "board": "Gossiping",
-      "publishTime": "2026/04/14 01:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "148",
-      "recommendCount": "321",
-      "title": "[新聞] 粿粿叫王子「殿下」！擁吻照當庭被公開律師跪求范姜彥豐這1事",
-      "link": "/bbs/Gossiping/M.1776156429.A.034",
-      "author": "lycppt",
-      "board": "Gossiping",
-      "publishTime": "2026/04/14 08:47",
       "imageUrl": ""
     }
   ]
