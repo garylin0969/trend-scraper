@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T06:22:57.466Z",
+  "updated": "2026-04-14T07:04:53.081Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "242",
+      "recommendCount": "416",
+      "title": "[新聞] 川普：美國不能讓一個國家敲詐全世界",
+      "link": "/bbs/Stock/M.1776141124.A.731",
+      "author": "adamk2",
+      "board": "Stock",
+      "publishTime": "2026/04/14 04:32",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "58",
       "recommendCount": "418",
       "title": "[新聞] 白沙屯媽祖顯靈！男鼻咽癌三期　拜完「癌細胞消失」",
@@ -52,16 +62,6 @@
       "board": "Gossiping",
       "publishTime": "2026/04/13 10:55",
       "imageUrl": "https://cache.pttweb.cc/imgur/zUA6uz5/s/542b325a36c368fff41974c91fb48764"
-    },
-    {
-      "recommendScore": "210",
-      "recommendCount": "368",
-      "title": "[新聞] 川普：美國不能讓一個國家敲詐全世界",
-      "link": "/bbs/Stock/M.1776141124.A.731",
-      "author": "adamk2",
-      "board": "Stock",
-      "publishTime": "2026/04/14 04:32",
-      "imageUrl": ""
     },
     {
       "recommendScore": "214",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "236",
-      "recommendCount": "405",
+      "recommendScore": "238",
+      "recommendCount": "407",
       "title": "[新聞] 富邦領隊證實林哲瑄新竹球場受傷 造成他職棒生涯提前結束",
       "link": "/bbs/Gossiping/M.1776087344.A.167",
       "author": "DrowningPool",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "214",
-      "recommendCount": "402",
+      "recommendScore": "218",
+      "recommendCount": "413",
       "title": "[新聞] 郭台銘16歲女兒太狂！　赴美參賽「學生版奧運」奪最高榮譽",
       "link": "/bbs/Gossiping/M.1776129298.A.0C0",
       "author": "crashonU",
@@ -104,28 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "227",
-      "recommendCount": "760",
-      "title": "[新聞] 貪污治罪條例修正案初審通過　公務員涉貪情節輕微、5萬元以下可免刑",
-      "link": "/bbs/HatePolitics/M.1776071910.A.8EF",
-      "author": "reticentcrow",
-      "board": "HatePolitics",
-      "publishTime": "2026/04/13 09:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "124",
-      "recommendCount": "401",
-      "title": "[問卦] 脆正妹：沒想到跟男友對中國議題差那麼",
-      "link": "/bbs/Gossiping/M.1776113223.A.BE1",
-      "author": "norvasc",
-      "board": "Gossiping",
-      "publishTime": "2026/04/13 20:47",
-      "imageUrl": "https://cache.pttweb.cc/imgur/UeyhrsV/s/6ed428ab87a78d4659ae59620a080377"
-    },
-    {
-      "recommendScore": "161",
-      "recommendCount": "394",
+      "recommendScore": "169",
+      "recommendCount": "405",
       "title": "[新聞] 鄭文燦涉貪案歷經1年多準備程序、法官更換 今首度進入實質審理",
       "link": "/bbs/Gossiping/M.1776131473.A.5F1",
       "author": "semih",
@@ -134,8 +114,38 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/Mc8vKoy/s/8aaf74098a274b0915bca47471573000"
     },
     {
-      "recommendScore": "237",
-      "recommendCount": "373",
+      "recommendScore": "122",
+      "recommendCount": "405",
+      "title": "[問卦] 脆正妹：沒想到跟男友對中國議題差那麼",
+      "link": "/bbs/Gossiping/M.1776113223.A.BE1",
+      "author": "norvasc",
+      "board": "Gossiping",
+      "publishTime": "2026/04/13 20:47",
+      "imageUrl": "https://cache.pttweb.cc/imgur/UeyhrsV/s/6ed428ab87a78d4659ae59620a080377"
+    },
+    {
+      "recommendScore": "228",
+      "recommendCount": "761",
+      "title": "[新聞] 貪污治罪條例修正案初審通過　公務員涉貪情節輕微、5萬元以下可免刑",
+      "link": "/bbs/HatePolitics/M.1776071910.A.8EF",
+      "author": "reticentcrow",
+      "board": "HatePolitics",
+      "publishTime": "2026/04/13 09:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "252",
+      "recommendCount": "406",
+      "title": "[新聞] 台新證下單出大包！重覆錯帳申報估逾1億元公司：緊急處理中",
+      "link": "/bbs/Stock/M.1776143180.A.812",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2026/04/14 05:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "239",
+      "recommendCount": "376",
       "title": "[協尋] 雲林斗六四年級女生失蹤",
       "link": "/bbs/Gossiping/M.1776121479.A.C02",
       "author": "Stabberlol",
@@ -144,8 +154,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "242",
-      "recommendCount": "427",
+      "recommendScore": "216",
+      "recommendCount": "448",
+      "title": "[問卦] 今天的三立政論會多精彩",
+      "link": "/bbs/Gossiping/M.1776141938.A.9D6",
+      "author": "a5687920",
+      "board": "Gossiping",
+      "publishTime": "2026/04/14 04:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "243",
+      "recommendCount": "430",
       "title": "[心得] 台新下多單的要小心",
       "link": "/bbs/Stock/M.1776132384.A.67F",
       "author": "id44kimo",
@@ -154,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "132",
-      "recommendCount": "268",
+      "recommendScore": "141",
+      "recommendCount": "284",
       "title": "[新聞] 美軍封鎖伊朗！川普：美國不能讓一個國家敲詐全世界",
       "link": "/bbs/Gossiping/M.1776138509.A.CBC",
       "author": "axxp",
@@ -164,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "159",
-      "recommendCount": "324",
+      "recommendScore": "160",
+      "recommendCount": "325",
       "title": "[新聞] 獨／印度工程師酒吧襲胸！「就業金卡」保護傘失靈　北檢驅逐出境",
       "link": "/bbs/Gossiping/M.1776082309.A.102",
       "author": "LDMisshit",
@@ -182,26 +202,6 @@
       "board": "NBA",
       "publishTime": "2026/04/13 08:50",
       "imageUrl": "https://cache.pttweb.cc/imgur/vrf05cp/s/fdcb302492cf2b73b7d5f9b52670be66"
-    },
-    {
-      "recommendScore": "203",
-      "recommendCount": "325",
-      "title": "[新聞] 台新證下單出大包！重覆錯帳申報估逾1億元公司：緊急處理中",
-      "link": "/bbs/Stock/M.1776143180.A.812",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2026/04/14 05:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "191",
-      "recommendCount": "377",
-      "title": "[問卦] 今天的三立政論會多精彩",
-      "link": "/bbs/Gossiping/M.1776141938.A.9D6",
-      "author": "a5687920",
-      "board": "Gossiping",
-      "publishTime": "2026/04/14 04:45",
-      "imageUrl": ""
     }
   ]
 }
