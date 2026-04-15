@@ -1,17 +1,27 @@
 {
-  "updated": "2026-04-15T01:02:08.616Z",
+  "updated": "2026-04-15T01:48:48.717Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "421",
-      "recommendCount": "760",
+      "recommendScore": "845",
+      "recommendCount": "1493",
+      "title": "[情報] 2026/04/15 盤中閒聊",
+      "link": "/bbs/Stock/M.1776213270.A.FC7",
+      "author": "BlueBird5566",
+      "board": "Stock",
+      "publishTime": "2026/04/15 00:34",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Mc8vKoy/s/8aaf74098a274b0915bca47471573000"
+    },
+    {
+      "recommendScore": "423",
+      "recommendCount": "763",
       "title": "[爆卦] 李貞秀又失言啦",
       "link": "/bbs/Gossiping/M.1776164978.A.5F2",
       "author": "Rueyh",
       "board": "Gossiping",
       "publishTime": "2026/04/14 11:09",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Mc8vKoy/s/8aaf74098a274b0915bca47471573000"
+      "imageUrl": ""
     },
     {
       "recommendScore": "306",
@@ -54,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "225",
-      "recommendCount": "612",
+      "recommendScore": "226",
+      "recommendCount": "613",
       "title": "[問卦] 什麼人才敢獨旅？",
       "link": "/bbs/Gossiping/M.1776152990.A.1D7",
       "author": "vava5566",
@@ -64,18 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "237",
-      "recommendCount": "449",
-      "title": "[新聞] 郭台銘16歲女兒太狂！　赴美參賽「學生版奧運」奪最高榮譽",
-      "link": "/bbs/Gossiping/M.1776129298.A.0C0",
-      "author": "crashonU",
-      "board": "Gossiping",
-      "publishTime": "2026/04/14 01:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "210",
-      "recommendCount": "446",
+      "recommendScore": "209",
+      "recommendCount": "451",
       "title": "[新聞] 粿粿叫王子「殿下」！擁吻照當庭被公開律師跪求范姜彥豐這1事",
       "link": "/bbs/Gossiping/M.1776156429.A.034",
       "author": "lycppt",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "176",
-      "recommendCount": "430",
+      "recommendScore": "177",
+      "recommendCount": "431",
       "title": "[新聞] 鄭文燦涉貪案歷經1年多準備程序、法官更換 今首度進入實質審理",
       "link": "/bbs/Gossiping/M.1776131473.A.5F1",
       "author": "semih",
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "162",
+      "recommendCount": "351",
+      "title": "[問卦] 請問台灣有史以來最大的「人禍」是什麼？",
+      "link": "/bbs/Gossiping/M.1776176523.A.500",
+      "author": "cutiehoneyzu",
+      "board": "Gossiping",
+      "publishTime": "2026/04/14 14:22",
+      "imageUrl": "https://cache.pttweb.cc/imgur/gBjy0df/s/b5e573f9c5bb8ebaaa1469cf79505b44"
+    },
+    {
       "recommendScore": "211",
       "recommendCount": "357",
       "title": "[情報] 快訊／南亞科召開重訊記者會！說明重大決",
@@ -184,23 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "268",
-      "recommendCount": "337",
+      "recommendScore": "272",
+      "recommendCount": "343",
       "title": "[討論] Bauer經紀人今晚現身新莊",
       "link": "/bbs/Baseball/M.1776182120.A.A34",
       "author": "littledos",
       "board": "Baseball",
       "publishTime": "2026/04/14 15:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "734",
-      "recommendCount": "1499",
-      "title": "[情報] 今日先發",
-      "link": "/bbs/Elephants/M.1776160438.A.4F9",
-      "author": "nanashin",
-      "board": "Elephants",
-      "publishTime": "2026/04/14 09:53",
       "imageUrl": ""
     }
   ]
