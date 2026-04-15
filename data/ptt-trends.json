@@ -1,16 +1,26 @@
 {
-  "updated": "2026-04-15T09:39:11.309Z",
+  "updated": "2026-04-15T10:08:03.811Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "592",
-      "recommendCount": "1058",
+      "recommendScore": "601",
+      "recommendCount": "1068",
       "title": "[爆卦] 直擊台南百公頃「光電廢墟」！數十億融",
       "link": "/bbs/Gossiping/M.1776225912.A.AC3",
       "author": "olctw",
       "board": "Gossiping",
       "publishTime": "2026/04/15 04:05",
+      "imageUrl": "https://cache.pttweb.cc/imgur/gBjy0df/s/b5e573f9c5bb8ebaaa1469cf79505b44"
+    },
+    {
+      "recommendScore": "505",
+      "recommendCount": "556",
+      "title": "[問卦] 友達五月底前上30元本文章請喝星巴克一",
+      "link": "/bbs/Gossiping/M.1776237776.A.BF5",
+      "author": "ann16",
+      "board": "Gossiping",
+      "publishTime": "2026/04/15 07:22",
       "imageUrl": ""
     },
     {
@@ -35,22 +45,12 @@
     },
     {
       "recommendScore": "344",
-      "recommendCount": "633",
+      "recommendCount": "635",
       "title": "[問卦] 今年白沙屯媽祖讓人討厭？（發錢）",
       "link": "/bbs/Gossiping/M.1776223467.A.669",
       "author": "BIA",
       "board": "Gossiping",
       "publishTime": "2026/04/15 03:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "407",
-      "recommendCount": "451",
-      "title": "[問卦] 友達五月底前上30元本文章請喝星巴克一",
-      "link": "/bbs/Gossiping/M.1776237776.A.BF5",
-      "author": "ann16",
-      "board": "Gossiping",
-      "publishTime": "2026/04/15 07:22",
       "imageUrl": ""
     },
     {
@@ -64,16 +64,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "209",
-      "recommendCount": "551",
-      "title": "[新聞] 被問黃國昌選新北市長 李貞秀嗆「有認真選嗎」：他那個死樣子選不上吧",
-      "link": "/bbs/Gossiping/M.1776160371.A.70E",
-      "author": "LoveMakeLove",
-      "board": "Gossiping",
-      "publishTime": "2026/04/14 09:52",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "187",
       "recommendCount": "576",
       "title": "[新聞] 李貞秀大復仇！轟陳智菡夫妻「民眾黨蛀蟲」：拿那麼多錢",
@@ -81,6 +71,16 @@
       "author": "LeeSeDol",
       "board": "Gossiping",
       "publishTime": "2026/04/14 23:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "190",
+      "recommendCount": "484",
+      "title": "[新聞] 切片後難分辨...美國發芽馬鈴薯將來台 醫：龍葵鹼超標最重恐致死",
+      "link": "/bbs/Gossiping/M.1776235161.A.F51",
+      "author": "SAgirl",
+      "board": "Gossiping",
+      "publishTime": "2026/04/15 06:39",
       "imageUrl": ""
     },
     {
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "310",
-      "recommendCount": "536",
+      "recommendScore": "311",
+      "recommendCount": "537",
       "title": "[心得] 台新庫存回朔了？",
       "link": "/bbs/Stock/M.1776204541.A.3AE",
       "author": "id44kimo",
@@ -114,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "177",
-      "recommendCount": "445",
-      "title": "[新聞] 切片後難分辨...美國發芽馬鈴薯將來台 醫：龍葵鹼超標最重恐致死",
-      "link": "/bbs/Gossiping/M.1776235161.A.F51",
-      "author": "SAgirl",
-      "board": "Gossiping",
-      "publishTime": "2026/04/15 06:39",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "130",
       "recommendCount": "409",
       "title": "[BOX ] Heat 126:127 Hornets",
@@ -134,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "136",
-      "recommendCount": "421",
+      "recommendScore": "135",
+      "recommendCount": "422",
       "title": "[問卦] 為什麼會有人相信共匪？",
       "link": "/bbs/Gossiping/M.1776213204.A.D1B",
       "author": "Dinenger",
@@ -154,8 +144,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/gBjy0df/s/b5e573f9c5bb8ebaaa1469cf79505b44"
     },
     {
-      "recommendScore": "201",
-      "recommendCount": "307",
+      "recommendScore": "203",
+      "recommendCount": "309",
       "title": "[問卦] 脆：台女就跟國旅一樣",
       "link": "/bbs/Gossiping/M.1776224673.A.3AB",
       "author": "cosmite",
@@ -164,8 +154,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/BQv1p27/s/35b8786fafa71749b0ce434c00e41aa8"
     },
     {
-      "recommendScore": "152",
-      "recommendCount": "380",
+      "recommendScore": "153",
+      "recommendCount": "381",
       "title": "[問卦] 今年白沙屯媽祖遶境失控了嗎？",
       "link": "/bbs/Gossiping/M.1776179211.A.FAD",
       "author": "ambitious",
@@ -194,14 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "238",
-      "recommendCount": "257",
+      "recommendScore": "239",
+      "recommendCount": "259",
       "title": "[問卦] 愛爾蘭狂戰士砍c130? (發錢）",
       "link": "/bbs/Gossiping/M.1776209211.A.641",
       "author": "BIA",
       "board": "Gossiping",
       "publishTime": "2026/04/14 23:26",
       "imageUrl": "https://cache.pttweb.cc/imgur/TmzbTMm/s/cab46707b0cd1cdc77942e7e37ae8c80"
+    },
+    {
+      "recommendScore": "6",
+      "recommendCount": "308",
+      "title": "[情報] Bam下背部受傷 本場回歸存疑",
+      "link": "/bbs/NBA/M.1776214188.A.02F",
+      "author": "murmurs0803",
+      "board": "NBA",
+      "publishTime": "2026/04/15 00:49",
+      "imageUrl": ""
     }
   ]
 }
