@@ -1,22 +1,14 @@
 {
-  "updated": "2026-04-15T23:59:50.679Z",
+  "updated": "2026-04-16T01:04:35.779Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-04-15T23:59:41.000Z",
+    "lastBuildDate": "2026-04-16T01:04:23.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
-    {
-      "title": "貝森特接受BBC採訪：為了免受伊朗長期安全威脅，「一點痛苦」是值得的",
-      "description": "國際貨幣基金組織警告，美以與伊朗的戰爭可能使全球經濟陷入衰退。貝森特表示，這場衝突是為了消除伊朗對西方國家首都發動核打擊的威脅。",
-      "link": "https://www.bbc.com/zhongwen/articles/cd9vve7pjlvo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-15T04:17:13.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cd9vve7pjlvo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dd1f/live/9b419490-38d2-11f1-8606-05fe34b06e1b.jpg"
-    },
     {
       "title": "美國封鎖霍爾木茲首日：中國公司擁有的貨輪「富星號」穿越海峽後折返",
       "description": "美國正式封鎖所有進出伊朗港口的船隻。有貨船試圖突破封鎖，一度穿越霍爾木茲海峽，但最後被美軍攔截折返。",
@@ -24,6 +16,14 @@
       "pubDate": "2026-04-15T08:10:22.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cp8444l85yro/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/667a/live/3b97b480-3890-11f1-866e-6700ddf80eed.jpg"
+    },
+    {
+      "title": "貝森特接受BBC採訪：為了免受伊朗長期安全威脅，「一點痛苦」是值得的",
+      "description": "國際貨幣基金組織警告，美以與伊朗的戰爭可能使全球經濟陷入衰退。貝森特表示，這場衝突是為了消除伊朗對西方國家首都發動核打擊的威脅。",
+      "link": "https://www.bbc.com/zhongwen/articles/cd9vve7pjlvo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T04:17:13.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cd9vve7pjlvo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dd1f/live/9b419490-38d2-11f1-8606-05fe34b06e1b.jpg"
     },
     {
       "title": "香港首個五年規劃：北京下達KPI還是「責無旁貸」的社會主義融合？",
@@ -42,12 +42,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5bae/live/1ac76100-3896-11f1-a836-373ce269a87a.jpg"
     },
     {
-      "title": "中國爆發式增長的團播潮背後：情感詐騙、主播收入和隱秘活動",
-      "description": "「長得好看、會聊天才是最重要的……如果只是跳舞，大家為什麼不去看那些專業的舞者直播呢？」",
-      "link": "https://www.bbc.com/zhongwen/articles/cpd5j2nepp8o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-13T03:58:20.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cpd5j2nepp8o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3a0a/live/d99d4fb0-36d7-11f1-9d5c-8ba507d7dbde.jpg"
+      "title": "少女如何定義自我的驚人現實",
+      "description": "儘管女性主義已有所進展，為何女孩們仍似乎透過男孩們的視角來看待自己？",
+      "link": "https://www.bbc.com/zhongwen/articles/cz677evevzwo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T00:19:36.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cz677evevzwo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6669/live/41191660-34ee-11f1-8606-05fe34b06e1b.png"
     },
     {
       "title": "到底有多少船隻正在冒險穿越霍爾木茲海峽？",
@@ -56,6 +56,14 @@
       "pubDate": "2026-04-14T05:52:26.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ckgww2w3009o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8b21/live/5f2f50e0-3351-11f1-8606-05fe34b06e1b.png"
+    },
+    {
+      "title": "中國爆發式增長的團播潮背後：情感詐騙、主播收入和隱秘活動",
+      "description": "「長得好看、會聊天才是最重要的……如果只是跳舞，大家為什麼不去看那些專業的舞者直播呢？」",
+      "link": "https://www.bbc.com/zhongwen/articles/cpd5j2nepp8o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-13T03:58:20.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cpd5j2nepp8o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3a0a/live/d99d4fb0-36d7-11f1-9d5c-8ba507d7dbde.jpg"
     },
     {
       "title": "巴黎男子花100歐元抽中價值逾百萬的畢卡索名畫",
@@ -104,14 +112,6 @@
       "pubDate": "2026-04-13T04:31:28.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ckg01jyz8pko/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0c84/live/7b883210-36e5-11f1-8606-05fe34b06e1b.jpg"
-    },
-    {
-      "title": "量子運算：歐洲有望獲勝的一場科技競賽？",
-      "description": "法國多個公司致力於開發量子運算，在這場新科技戰中，他們能否遙遙領先？",
-      "link": "https://www.bbc.com/zhongwen/articles/cx299lz2gdxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-14T05:47:51.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx299lz2gdxo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2826/live/e51ba3a0-37b8-11f1-9d5c-8ba507d7dbde.jpg"
     },
     {
       "title": "國共領袖時隔十年會晤 台灣民眾怎麼看？",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/36c2/live/d0d877a0-fb78-11f0-a47f-d352a7d9988a.jpg"
     },
     {
+      "title": "量子運算：歐洲有望獲勝的一場科技競賽？",
+      "description": "法國多個公司致力於開發量子運算，在這場新科技戰中，他們能否遙遙領先？",
+      "link": "https://www.bbc.com/zhongwen/articles/cx299lz2gdxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T05:47:51.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx299lz2gdxo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2826/live/e51ba3a0-37b8-11f1-9d5c-8ba507d7dbde.jpg"
+    },
+    {
       "title": "這個風景如畫的美國小鎮住滿了警察家庭，中間還潛伏著一名連環殺手",
       "description": "美國的一個警察常居小鎮發生命案，事隔多年終於偵破——這如何影響了小鎮居民的心態？",
       "link": "https://www.bbc.com/zhongwen/articles/c5ywxnng302o/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2026-04-09T04:54:07.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cdrmndz6rkro/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f48d/live/cd614be0-3397-11f1-9d5c-8ba507d7dbde.jpg"
-    },
-    {
-      "title": "狗狗電視節目蓬勃發展，但牠們真的在看嗎？",
-      "description": "為狗量身定做的影片頻道越來越多，這些旨在為狗服務的影片真的可以幫到狗狗嗎？",
-      "link": "https://www.bbc.com/zhongwen/articles/cp389xx0wkvo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-13T00:29:06.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cp389xx0wkvo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9e10/live/bc4808a0-34ad-11f1-8606-05fe34b06e1b.jpg"
     }
   ]
 }
