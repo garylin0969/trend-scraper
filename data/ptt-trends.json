@@ -1,8 +1,38 @@
 {
-  "updated": "2026-04-16T21:07:18.806Z",
+  "updated": "2026-04-16T21:27:14.776Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "516",
+      "recommendCount": "984",
+      "title": "[問卦] 5ch:台灣媒體水準低到難以想像",
+      "link": "/bbs/Gossiping/M.1776306211.A.6BA",
+      "author": "beaver",
+      "board": "Gossiping",
+      "publishTime": "2026/04/16 02:23",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "378",
+      "recommendCount": "754",
+      "title": "[問卦] 北港鎮民敬告香燈腳：到店家消費要付錢",
+      "link": "/bbs/Gossiping/M.1776323147.A.39E",
+      "author": "Skyblueway",
+      "board": "Gossiping",
+      "publishTime": "2026/04/16 07:05",
+      "imageUrl": "https://cache.pttweb.cc/imgur/DSn0Bxc/s/d13fcf6daa13471b733f9b4cee1beae0"
+    },
+    {
+      "recommendScore": "394",
+      "recommendCount": "694",
+      "title": "[新聞] 深化善終權　民眾黨：評估推「安樂死」專法",
+      "link": "/bbs/Gossiping/M.1776308028.A.44B",
+      "author": "dnzteeqrq",
+      "board": "Gossiping",
+      "publishTime": "2026/04/16 02:53",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "408",
       "recommendCount": "745",
@@ -172,36 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/04/16 09:00",
       "imageUrl": "https://cache.pttweb.cc/imgur/sApvvg6/s/abe0da84ac96faf735ded6d34398cb9d"
-    },
-    {
-      "recommendScore": "141",
-      "recommendCount": "310",
-      "title": "[問卦] 白沙屯收了報名費 垃圾都不用幫忙處理嗎",
-      "link": "/bbs/Gossiping/M.1776294495.A.2DD",
-      "author": "Skyblueway",
-      "board": "Gossiping",
-      "publishTime": "2026/04/15 23:08",
-      "imageUrl": "https://cache.pttweb.cc/imgur/eJyCqYd/s/d5fabec42752d4cabbd4c866fd5770c9"
-    },
-    {
-      "recommendScore": "197",
-      "recommendCount": "281",
-      "title": "[新聞] 台股市值突破4.14兆美元、超越英國,躍升全球第六大股市",
-      "link": "/bbs/Stock/M.1776319990.A.EB9",
-      "author": "myIDis7",
-      "board": "Stock",
-      "publishTime": "2026/04/16 06:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "181",
-      "recommendCount": "329",
-      "title": "[Live] 台積電法說會 LIVE",
-      "link": "/bbs/Stock/M.1776318029.A.62E",
-      "author": "JohnyDamon",
-      "board": "Stock",
-      "publishTime": "2026/04/16 05:40",
-      "imageUrl": ""
     }
   ]
 }
