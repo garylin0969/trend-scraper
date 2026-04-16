@@ -1,38 +1,8 @@
 {
-  "updated": "2026-04-16T22:46:32.833Z",
+  "updated": "2026-04-16T23:05:52.751Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "516",
-      "recommendCount": "984",
-      "title": "[問卦] 5ch:台灣媒體水準低到難以想像",
-      "link": "/bbs/Gossiping/M.1776306211.A.6BA",
-      "author": "beaver",
-      "board": "Gossiping",
-      "publishTime": "2026/04/16 02:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "382",
-      "recommendCount": "758",
-      "title": "[問卦] 北港鎮民敬告香燈腳：到店家消費要付錢",
-      "link": "/bbs/Gossiping/M.1776323147.A.39E",
-      "author": "Skyblueway",
-      "board": "Gossiping",
-      "publishTime": "2026/04/16 07:05",
-      "imageUrl": "https://cache.pttweb.cc/imgur/DSn0Bxc/s/d13fcf6daa13471b733f9b4cee1beae0"
-    },
-    {
-      "recommendScore": "395",
-      "recommendCount": "696",
-      "title": "[新聞] 深化善終權　民眾黨：評估推「安樂死」專法",
-      "link": "/bbs/Gossiping/M.1776308028.A.44B",
-      "author": "dnzteeqrq",
-      "board": "Gossiping",
-      "publishTime": "2026/04/16 02:53",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "408",
       "recommendCount": "745",
@@ -54,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "239",
-      "recommendCount": "522",
+      "recommendScore": "240",
+      "recommendCount": "523",
       "title": "[問卦] 民視在日本紅了==",
       "link": "/bbs/Gossiping/M.1776304673.A.2F4",
       "author": "AoyamaNanami",
@@ -74,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "154",
-      "recommendCount": "724",
+      "recommendScore": "155",
+      "recommendCount": "726",
       "title": "[新聞] 鄭麗文訪中480萬經費來源曝光！這一點讓習近平尷尬了",
       "link": "/bbs/Gossiping/M.1776303905.A.6E9",
       "author": "RRADA",
@@ -144,13 +114,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/HZa5L2T/s/55fe98726ff506036b3ea51ee1ffdb41"
     },
     {
-      "recommendScore": "98",
-      "recommendCount": "308",
+      "recommendScore": "99",
+      "recommendCount": "309",
       "title": "[新聞] 台新證券錯帳風暴擴大！未如期完成申報",
       "link": "/bbs/Stock/M.1776338589.A.A55",
       "author": "keel90135",
       "board": "Stock",
       "publishTime": "2026/04/16 11:23",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "196",
+      "recommendCount": "329",
+      "title": "[新聞] 獨家／台新證錯帳金額揭曉！竟超越17億元、筆數創紀錄 公司四",
+      "link": "/bbs/Stock/M.1776328069.A.DA2",
+      "author": "ChanHoPark",
+      "board": "Stock",
+      "publishTime": "2026/04/16 08:27",
       "imageUrl": ""
     },
     {
@@ -161,16 +141,6 @@
       "author": "jerryyuan",
       "board": "Baseball",
       "publishTime": "2026/04/16 04:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "196",
-      "recommendCount": "328",
-      "title": "[新聞] 獨家／台新證錯帳金額揭曉！竟超越17億元、筆數創紀錄 公司四",
-      "link": "/bbs/Stock/M.1776328069.A.DA2",
-      "author": "ChanHoPark",
-      "board": "Stock",
-      "publishTime": "2026/04/16 08:27",
       "imageUrl": ""
     },
     {
@@ -194,14 +164,44 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "149",
-      "recommendCount": "318",
+      "recommendScore": "150",
+      "recommendCount": "321",
       "title": "[新聞] 《陽光女子合唱團》進軍英國慘踢鐵板！遭狠評1星：應禁止導演拍片",
       "link": "/bbs/Gossiping/M.1776342647.A.FE5",
       "author": "AoyamaNanami",
       "board": "Gossiping",
       "publishTime": "2026/04/16 12:30",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "122",
+      "recommendCount": "266",
+      "title": "[新聞] 台積電期貨暴跌夜盤重挫逾600點！法說亮眼股價反應冷淡",
+      "link": "/bbs/Stock/M.1776350182.A.B07",
+      "author": "yuechen",
+      "board": "Stock",
+      "publishTime": "2026/04/16 14:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "166",
+      "recommendCount": "270",
+      "title": "[爆卦] 外媒爆台駐史瓦帝尼大使梁洪昇涉嫌貪汙",
+      "link": "/bbs/Gossiping/M.1776330023.A.749",
+      "author": "jijijigigigi",
+      "board": "Gossiping",
+      "publishTime": "2026/04/16 09:00",
+      "imageUrl": "https://cache.pttweb.cc/imgur/sApvvg6/s/abe0da84ac96faf735ded6d34398cb9d"
+    },
+    {
+      "recommendScore": "142",
+      "recommendCount": "311",
+      "title": "[問卦] 白沙屯收了報名費 垃圾都不用幫忙處理嗎",
+      "link": "/bbs/Gossiping/M.1776294495.A.2DD",
+      "author": "Skyblueway",
+      "board": "Gossiping",
+      "publishTime": "2026/04/15 23:08",
+      "imageUrl": "https://cache.pttweb.cc/imgur/eJyCqYd/s/d5fabec42752d4cabbd4c866fd5770c9"
     }
   ]
 }
