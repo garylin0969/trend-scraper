@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T20:27:28.273Z",
+  "updated": "2026-04-17T20:48:12.121Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "433",
-      "recommendCount": "963",
+      "recommendScore": "432",
+      "recommendCount": "965",
       "title": "[新聞] 「感覺遭背叛」？！日媒：卓榮泰「棒球之旅」曝光 出現低調外交摩擦",
       "link": "/bbs/Gossiping/M.1776413888.A.3C8",
       "author": "es612",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "221",
-      "recommendCount": "598",
+      "recommendScore": "224",
+      "recommendCount": "603",
       "title": "[問卦] 京都男童案 台灣民視正式道歉",
       "link": "/bbs/Gossiping/M.1776437448.A.B2D",
       "author": "logical01",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "266",
-      "recommendCount": "556",
+      "recommendScore": "270",
+      "recommendCount": "562",
       "title": "[新聞] 夜市掃街驚魂柯文哲遭噴辣椒水志工狂咳",
       "link": "/bbs/Gossiping/M.1776436037.A.859",
       "author": "KH8019",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "370",
-      "recommendCount": "449",
+      "recommendScore": "372",
+      "recommendCount": "451",
       "title": "[討論] 李灝宇升上大聯盟且明日先發",
       "link": "/bbs/Baseball/M.1776430931.A.B52",
       "author": "lgng66133",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "145",
+      "recommendCount": "379",
+      "title": "[問卦] 脆熱議：大罷免是人生最光榮事蹟！",
+      "link": "/bbs/Gossiping/M.1776388456.A.B25",
+      "author": "pigpigcom123",
+      "board": "Gossiping",
+      "publishTime": "2026/04/17 01:14",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-93",
       "recommendCount": "307",
       "title": "[新聞] 快新聞／國內最強政黨！公督盟「優秀立委評鑑」出爐　30位得獎人全是民進黨",
@@ -191,16 +201,6 @@
       "author": "zzyyxx77",
       "board": "Gossiping",
       "publishTime": "2026/04/17 08:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "144",
-      "recommendCount": "378",
-      "title": "[問卦] 脆熱議：大罷免是人生最光榮事蹟！",
-      "link": "/bbs/Gossiping/M.1776388456.A.B25",
-      "author": "pigpigcom123",
-      "board": "Gossiping",
-      "publishTime": "2026/04/17 01:14",
       "imageUrl": ""
     }
   ]
