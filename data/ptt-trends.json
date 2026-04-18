@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T16:22:09.940Z",
+  "updated": "2026-04-18T16:46:40.944Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "215",
-      "recommendCount": "407",
+      "recommendScore": "214",
+      "recommendCount": "408",
       "title": "[新聞] 英法德義宣佈將加入重啟霍爾木茲海峽",
       "link": "/bbs/Stock/M.1776469712.A.0AD",
       "author": "ppippi",
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "188",
+      "recommendCount": "291",
+      "title": "[情報] Dillon Brooks:雷霆一堆買飯仔 希望這是真正的季後賽",
+      "link": "/bbs/NBA/M.1776489002.A.EC5",
+      "author": "EZ78",
+      "board": "NBA",
+      "publishTime": "2026/04/18 05:10",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "231",
       "recommendCount": "289",
       "title": "[新聞] 外界太關注首轟「很不舒服」 魔鷹有話要說",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/04/18 01:29",
       "imageUrl": "https://cache.pttweb.cc/imgur/DYnI4ic/s/df0f1bc86e24a49c2e339f82aa29ea6e"
-    },
-    {
-      "recommendScore": "184",
-      "recommendCount": "284",
-      "title": "[情報] Dillon Brooks:雷霆一堆買飯仔 希望這是真正的季後賽",
-      "link": "/bbs/NBA/M.1776489002.A.EC5",
-      "author": "EZ78",
-      "board": "NBA",
-      "publishTime": "2026/04/18 05:10",
-      "imageUrl": ""
     }
   ]
 }
