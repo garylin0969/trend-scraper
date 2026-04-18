@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T16:46:40.944Z",
+  "updated": "2026-04-18T17:03:24.481Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "289",
-      "recommendCount": "621",
+      "recommendCount": "622",
       "title": "[新聞] 新北割喉案「乾兄妹最快出獄時間曝」！律師嘆：只要一年多",
       "link": "/bbs/Gossiping/M.1776486587.A.6F5",
       "author": "outsi",
@@ -54,8 +54,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/Mc8vKoy/s/8aaf74098a274b0915bca47471573000"
     },
     {
-      "recommendScore": "269",
-      "recommendCount": "486",
+      "recommendScore": "270",
+      "recommendCount": "488",
       "title": "[BOX ] Warriors 96:111 Suns",
       "link": "/bbs/NBA/M.1776487752.A.62E",
       "author": "jason911152",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "167",
-      "recommendCount": "487",
+      "recommendScore": "176",
+      "recommendCount": "499",
       "title": "[新聞] 高中生畢旅去台南抱怨「有災難感」：棺材板難吃！一票人反駁",
       "link": "/bbs/Gossiping/M.1776504013.A.96B",
       "author": "HTC92",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "152",
-      "recommendCount": "470",
+      "recommendScore": "153",
+      "recommendCount": "478",
       "title": "[問卦] 高雄版正在怪KMT導致交通建設很慢！？",
       "link": "/bbs/Gossiping/M.1776501374.A.45C",
       "author": "xup654z",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "261",
-      "recommendCount": "269",
+      "recommendScore": "264",
+      "recommendCount": "273",
       "title": "[發錢] 賀太陽進入季後賽",
       "link": "/bbs/NBA/M.1776491747.A.723",
       "author": "Aggro",
@@ -114,14 +114,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "201",
-      "recommendCount": "318",
+      "recommendScore": "203",
+      "recommendCount": "327",
       "title": "[情報] 荷姆茲海峽再次關閉",
       "link": "/bbs/Stock/M.1776510855.A.795",
       "author": "ntpcgov",
       "board": "Stock",
       "publishTime": "2026/04/18 11:14",
       "imageUrl": "https://cache.pttweb.cc/imgur/ugVqdJK/s/b2dcd4e285d14e06b24fb9cdaa9541d0"
+    },
+    {
+      "recommendScore": "239",
+      "recommendCount": "297",
+      "title": "[新聞] 外界太關注首轟「很不舒服」 魔鷹有話要說",
+      "link": "/bbs/Baseball/M.1776511908.A.0D4",
+      "author": "iamshana",
+      "board": "Baseball",
+      "publishTime": "2026/04/18 11:31",
+      "imageUrl": ""
     },
     {
       "recommendScore": "178",
@@ -164,14 +174,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "231",
-      "recommendCount": "289",
-      "title": "[新聞] 外界太關注首轟「很不舒服」 魔鷹有話要說",
-      "link": "/bbs/Baseball/M.1776511908.A.0D4",
-      "author": "iamshana",
-      "board": "Baseball",
-      "publishTime": "2026/04/18 11:31",
+      "recommendScore": "117",
+      "recommendCount": "310",
+      "title": "[問卦] 71歲女駕駛：那個車子就暴衝",
+      "link": "/bbs/Gossiping/M.1776488335.A.8AA",
+      "author": "lovea",
+      "board": "Gossiping",
+      "publishTime": "2026/04/18 04:58",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "205",
+      "recommendCount": "299",
+      "title": "[問卦] 大甲媽祖出巡 好像不太混亂? (發錢)",
+      "link": "/bbs/Gossiping/M.1776475750.A.BEE",
+      "author": "q347",
+      "board": "Gossiping",
+      "publishTime": "2026/04/18 01:29",
+      "imageUrl": "https://cache.pttweb.cc/imgur/DYnI4ic/s/df0f1bc86e24a49c2e339f82aa29ea6e"
     },
     {
       "recommendScore": "197",
@@ -182,26 +202,6 @@
       "board": "Baseball",
       "publishTime": "2026/04/18 10:22",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "116",
-      "recommendCount": "309",
-      "title": "[問卦] 71歲女駕駛：那個車子就暴衝",
-      "link": "/bbs/Gossiping/M.1776488335.A.8AA",
-      "author": "lovea",
-      "board": "Gossiping",
-      "publishTime": "2026/04/18 04:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "202",
-      "recommendCount": "296",
-      "title": "[問卦] 大甲媽祖出巡 好像不太混亂? (發錢)",
-      "link": "/bbs/Gossiping/M.1776475750.A.BEE",
-      "author": "q347",
-      "board": "Gossiping",
-      "publishTime": "2026/04/18 01:29",
-      "imageUrl": "https://cache.pttweb.cc/imgur/DYnI4ic/s/df0f1bc86e24a49c2e339f82aa29ea6e"
     }
   ]
 }
