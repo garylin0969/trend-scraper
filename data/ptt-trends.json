@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T05:54:24.732Z",
+  "updated": "2026-04-18T06:30:14.671Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "371",
-      "recommendCount": "856",
+      "recommendCount": "857",
       "title": "[新聞] 快新聞／讓共諜屁股開花？綠營議員出狠招了　開戰藍白：違反國安法應鞭刑",
       "link": "/bbs/Gossiping/M.1776408925.A.5F6",
       "author": "seiya2000",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "292",
-      "recommendCount": "829",
+      "recommendScore": "293",
+      "recommendCount": "832",
       "title": "[問卦] 京都男童案 台灣民視正式道歉",
       "link": "/bbs/Gossiping/M.1776437448.A.B2D",
       "author": "logical01",
@@ -74,16 +74,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/tbgAD4G/s/d666a575e1880c3e3190527c36f1cd48"
     },
     {
-      "recommendScore": "212",
-      "recommendCount": "432",
-      "title": "[問卦] 日本京都警方正式打臉台灣的眼睛",
-      "link": "/bbs/Gossiping/M.1776405890.A.DC5",
-      "author": "beaver",
-      "board": "Gossiping",
-      "publishTime": "2026/04/17 06:04",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "184",
       "recommendCount": "504",
       "title": "[新聞] 傳日方不滿卓榮泰東京巨蛋「高調」觀賽 政院：就是私人行程",
@@ -104,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "219",
-      "recommendCount": "472",
+      "recommendScore": "227",
+      "recommendCount": "491",
       "title": "[新聞] 印度移工是「民進黨主導推動」　事實查核中心：非國民黨發起提案",
       "link": "/bbs/Gossiping/M.1776474484.A.2EE",
       "author": "ptt987654321",
@@ -124,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "288",
-      "recommendCount": "427",
+      "recommendScore": "289",
+      "recommendCount": "428",
       "title": "[爆卦] Telegram支援繁體中文",
       "link": "/bbs/Gossiping/M.1776407979.A.C1F",
       "author": "NDSL",
@@ -134,14 +124,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "163",
-      "recommendCount": "400",
+      "recommendScore": "166",
+      "recommendCount": "406",
       "title": "[新聞] 快訊／女駕駛開車「整台衝進85度C」！",
       "link": "/bbs/Gossiping/M.1776478321.A.B85",
       "author": "hito0509",
       "board": "Gossiping",
       "publishTime": "2026/04/18 02:12",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "187",
+      "recommendCount": "353",
+      "title": "[新聞] 鄭文燦與黃世杰同框餐敘惹議",
+      "link": "/bbs/Gossiping/M.1776466451.A.DF1",
+      "author": "semih",
+      "board": "Gossiping",
+      "publishTime": "2026/04/17 22:54",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Mc8vKoy/s/8aaf74098a274b0915bca47471573000"
     },
     {
       "recommendScore": "688",
@@ -164,18 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "187",
-      "recommendCount": "347",
-      "title": "[新聞] 鄭文燦與黃世杰同框餐敘惹議",
-      "link": "/bbs/Gossiping/M.1776466451.A.DF1",
-      "author": "semih",
-      "board": "Gossiping",
-      "publishTime": "2026/04/17 22:54",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Mc8vKoy/s/8aaf74098a274b0915bca47471573000"
-    },
-    {
       "recommendScore": "191",
-      "recommendCount": "373",
+      "recommendCount": "377",
       "title": "[問卦] 脆熱議：大學生買股票 慘遭青鳥出征",
       "link": "/bbs/Gossiping/M.1776412833.A.EC9",
       "author": "netNT",
@@ -201,6 +191,16 @@
       "author": "nybbnan",
       "board": "Baseball",
       "publishTime": "2026/04/17 13:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "209",
+      "recommendCount": "383",
+      "title": "[新聞] 英法德義宣佈將加入重啟霍爾木茲海峽",
+      "link": "/bbs/Stock/M.1776469712.A.0AD",
+      "author": "ppippi",
+      "board": "Stock",
+      "publishTime": "2026/04/17 23:48",
       "imageUrl": ""
     }
   ]
