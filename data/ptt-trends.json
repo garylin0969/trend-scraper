@@ -1,28 +1,8 @@
 {
-  "updated": "2026-04-18T10:46:30.843Z",
+  "updated": "2026-04-18T11:04:27.000Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "271",
-      "recommendCount": "832",
-      "title": "[新聞] 2千萬換解除科控讓鍾文智跑了　高院法官：沒注意是矚目案",
-      "link": "/bbs/Gossiping/M.1776422815.A.AD4",
-      "author": "emperor",
-      "board": "Gossiping",
-      "publishTime": "2026/04/17 10:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "297",
-      "recommendCount": "840",
-      "title": "[問卦] 京都男童案 台灣民視正式道歉",
-      "link": "/bbs/Gossiping/M.1776437448.A.B2D",
-      "author": "logical01",
-      "board": "Gossiping",
-      "publishTime": "2026/04/17 14:50",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "501",
       "recommendCount": "540",
@@ -34,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/MjHdZ6Y/s/7621867ad995451f5c8c49c6289fff51"
     },
     {
-      "recommendScore": "330",
-      "recommendCount": "681",
+      "recommendScore": "329",
+      "recommendCount": "682",
       "title": "[新聞] 夜市掃街驚魂柯文哲遭噴辣椒水志工狂咳",
       "link": "/bbs/Gossiping/M.1776436037.A.859",
       "author": "KH8019",
@@ -44,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "272",
-      "recommendCount": "575",
+      "recommendScore": "275",
+      "recommendCount": "581",
       "title": "[新聞] 新北割喉案「乾兄妹最快出獄時間曝」！律師嘆：只要一年多",
       "link": "/bbs/Gossiping/M.1776486587.A.6F5",
       "author": "outsi",
@@ -54,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "375",
-      "recommendCount": "454",
+      "recommendScore": "376",
+      "recommendCount": "455",
       "title": "[討論] 李灝宇升上大聯盟且明日先發",
       "link": "/bbs/Baseball/M.1776430931.A.B52",
       "author": "lgng66133",
@@ -65,7 +45,7 @@
     },
     {
       "recommendScore": "263",
-      "recommendCount": "570",
+      "recommendCount": "571",
       "title": "[新聞] 印度移工是「民進黨主導推動」　事實查核中心：非國民黨發起提案",
       "link": "/bbs/Gossiping/M.1776474484.A.2EE",
       "author": "ptt987654321",
@@ -104,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "198",
-      "recommendCount": "369",
+      "recommendScore": "199",
+      "recommendCount": "371",
       "title": "[新聞] 鄭文燦與黃世杰同框餐敘惹議",
       "link": "/bbs/Gossiping/M.1776466451.A.DF1",
       "author": "semih",
@@ -124,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "212",
-      "recommendCount": "403",
+      "recommendScore": "213",
+      "recommendCount": "404",
       "title": "[新聞] 英法德義宣佈將加入重啟霍爾木茲海峽",
       "link": "/bbs/Stock/M.1776469712.A.0AD",
       "author": "ppippi",
@@ -164,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "699",
-      "recommendCount": "1446",
-      "title": "[電競] 2026 LCK Regular Season W3D4",
-      "link": "/bbs/LoL/M.1776497233.A.621",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/04/18 07:27",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "207",
       "recommendCount": "257",
       "title": "[炸裂] 何品室融",
@@ -201,6 +171,36 @@
       "author": "humbler",
       "board": "Gossiping",
       "publishTime": "2026/04/17 12:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "708",
+      "recommendCount": "1446",
+      "title": "[電競] 2026 LCK Regular Season W3D4",
+      "link": "/bbs/LoL/M.1776497233.A.621",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/04/18 07:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "238",
+      "recommendCount": "245",
+      "title": "[發錢] 賀太陽進入季後賽",
+      "link": "/bbs/NBA/M.1776491747.A.723",
+      "author": "Aggro",
+      "board": "NBA",
+      "publishTime": "2026/04/18 05:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "174",
+      "recommendCount": "310",
+      "title": "[新聞] 川普警告：若未能與伊朗達協議　美國可能重啟轟炸",
+      "link": "/bbs/Stock/M.1776484515.A.6BF",
+      "author": "joanzkow",
+      "board": "Stock",
+      "publishTime": "2026/04/18 03:55",
       "imageUrl": ""
     }
   ]
