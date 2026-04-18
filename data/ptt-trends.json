@@ -1,8 +1,18 @@
 {
-  "updated": "2026-04-18T11:04:27.000Z",
+  "updated": "2026-04-18T11:23:22.658Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "297",
+      "recommendCount": "840",
+      "title": "[問卦] 京都男童案 台灣民視正式道歉",
+      "link": "/bbs/Gossiping/M.1776437448.A.B2D",
+      "author": "logical01",
+      "board": "Gossiping",
+      "publishTime": "2026/04/17 14:50",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "501",
       "recommendCount": "540",
@@ -24,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "275",
-      "recommendCount": "581",
+      "recommendScore": "277",
+      "recommendCount": "591",
       "title": "[新聞] 新北割喉案「乾兄妹最快出獄時間曝」！律師嘆：只要一年多",
       "link": "/bbs/Gossiping/M.1776486587.A.6F5",
       "author": "outsi",
@@ -64,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "215",
-      "recommendCount": "412",
+      "recommendScore": "216",
+      "recommendCount": "415",
       "title": "[新聞] 要鞭刑都來！　綠議員籲民進黨團提案擴大範圍「鞭打賣台共諜」",
       "link": "/bbs/Gossiping/M.1776438843.A.786",
       "author": "mars1985",
@@ -84,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "199",
-      "recommendCount": "371",
+      "recommendScore": "200",
+      "recommendCount": "373",
       "title": "[新聞] 鄭文燦與黃世杰同框餐敘惹議",
       "link": "/bbs/Gossiping/M.1776466451.A.DF1",
       "author": "semih",
@@ -94,8 +104,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/Mc8vKoy/s/8aaf74098a274b0915bca47471573000"
     },
     {
-      "recommendScore": "263",
-      "recommendCount": "479",
+      "recommendScore": "264",
+      "recommendCount": "480",
       "title": "[BOX ] Warriors 96:111 Suns",
       "link": "/bbs/NBA/M.1776487752.A.62E",
       "author": "jason911152",
@@ -144,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "246",
+      "recommendCount": "253",
+      "title": "[發錢] 賀太陽進入季後賽",
+      "link": "/bbs/NBA/M.1776491747.A.723",
+      "author": "Aggro",
+      "board": "NBA",
+      "publishTime": "2026/04/18 05:55",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "207",
       "recommendCount": "257",
       "title": "[炸裂] 何品室融",
@@ -154,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "172",
-      "recommendCount": "304",
+      "recommendScore": "173",
+      "recommendCount": "305",
       "title": "[花邊] Kerr,Curry,Green擁抱彼此",
       "link": "/bbs/NBA/M.1776487786.A.0E3",
       "author": "dragon803",
@@ -174,33 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "708",
+      "recommendScore": "714",
       "recommendCount": "1446",
       "title": "[電競] 2026 LCK Regular Season W3D4",
       "link": "/bbs/LoL/M.1776497233.A.621",
       "author": "laptic",
       "board": "LoL",
       "publishTime": "2026/04/18 07:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "238",
-      "recommendCount": "245",
-      "title": "[發錢] 賀太陽進入季後賽",
-      "link": "/bbs/NBA/M.1776491747.A.723",
-      "author": "Aggro",
-      "board": "NBA",
-      "publishTime": "2026/04/18 05:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "174",
-      "recommendCount": "310",
-      "title": "[新聞] 川普警告：若未能與伊朗達協議　美國可能重啟轟炸",
-      "link": "/bbs/Stock/M.1776484515.A.6BF",
-      "author": "joanzkow",
-      "board": "Stock",
-      "publishTime": "2026/04/18 03:55",
       "imageUrl": ""
     }
   ]
