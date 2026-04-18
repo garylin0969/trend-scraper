@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T23:39:12.060Z",
+  "updated": "2026-04-18T23:54:53.829Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "432",
+      "recommendScore": "219",
+      "recommendCount": "456",
       "title": "[新聞] 快訊／大甲媽鑾轎遲到5小時！彰化民生地下道前開打「多警遭毆流鼻血」",
       "link": "/bbs/Gossiping/M.1776530380.A.E88",
       "author": "znck",
@@ -61,16 +61,6 @@
       "author": "HTC92",
       "board": "Gossiping",
       "publishTime": "2026/04/18 09:20",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "215",
-      "recommendCount": "409",
-      "title": "[新聞] 英法德義宣佈將加入重啟霍爾木茲海峽",
-      "link": "/bbs/Stock/M.1776469712.A.0AD",
-      "author": "ppippi",
-      "board": "Stock",
-      "publishTime": "2026/04/17 23:48",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "asppsa",
       "board": "Gossiping",
       "publishTime": "2026/04/18 16:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "197",
+      "recommendCount": "253",
+      "title": "[炸裂] 魔鷹",
+      "link": "/bbs/Baseball/M.1776507773.A.CBE",
+      "author": "norel147",
+      "board": "Baseball",
+      "publishTime": "2026/04/18 10:22",
       "imageUrl": ""
     }
   ]
