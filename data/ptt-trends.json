@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T10:17:24.403Z",
+  "updated": "2026-04-19T10:34:28.553Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,6 +94,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ugVqdJK/s/b2dcd4e285d14e06b24fb9cdaa9541d0"
     },
     {
+      "recommendScore": "238",
+      "recommendCount": "710",
+      "title": "[問卦] 請教為什麼台文這麼白癡？",
+      "link": "/bbs/Gossiping/M.1776582329.A.C75",
+      "author": "gozird",
+      "board": "Gossiping",
+      "publishTime": "2026/04/19 07:05",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "117",
       "recommendCount": "317",
       "title": "[新聞] 影音／愛車驚見「放射狀彈孔」！警出動6人調電眼採證　竟是鳥屎",
@@ -121,26 +131,6 @@
       "author": "poooooo",
       "board": "NBA",
       "publishTime": "2026/04/19 04:20",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "197",
-      "recommendCount": "253",
-      "title": "[炸裂] 魔鷹",
-      "link": "/bbs/Baseball/M.1776507773.A.CBE",
-      "author": "norel147",
-      "board": "Baseball",
-      "publishTime": "2026/04/18 10:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "201",
-      "recommendCount": "594",
-      "title": "[問卦] 請教為什麼台文這麼白癡？",
-      "link": "/bbs/Gossiping/M.1776582329.A.C75",
-      "author": "gozird",
-      "board": "Gossiping",
-      "publishTime": "2026/04/19 07:05",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2026/04/19 04:18",
       "imageUrl": "https://cache.pttweb.cc/imgur/bGnN0Ts/s/b95d4cf0f54f921cca7bbb74e825c064"
+    },
+    {
+      "recommendScore": "96",
+      "recommendCount": "290",
+      "title": "[問卦] 脆：就算人口少一半，也要台灣獨立！",
+      "link": "/bbs/Gossiping/M.1776528952.A.6C7",
+      "author": "pigpigcom123",
+      "board": "Gossiping",
+      "publishTime": "2026/04/18 16:15",
+      "imageUrl": ""
     }
   ]
 }
