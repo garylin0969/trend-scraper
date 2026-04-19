@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T07:52:03.381Z",
+  "updated": "2026-04-19T08:24:14.019Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,6 +14,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "250",
+      "recommendCount": "681",
+      "title": "[問卦] 軍武版：台灣人戰死，也決不投降！",
+      "link": "/bbs/Gossiping/M.1776570658.A.85B",
+      "author": "TCB006",
+      "board": "Gossiping",
+      "publishTime": "2026/04/19 03:50",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "368",
       "recommendCount": "446",
       "title": "巨乳台女抓計程車司機雞雞?（發錢",
@@ -22,16 +32,6 @@
       "board": "Gossiping",
       "publishTime": "2026/04/19 00:48",
       "imageUrl": "https://cache.pttweb.cc/imgur/GpnjfsL/s/955432101dcbb604a0b41e966cf58a33"
-    },
-    {
-      "recommendScore": "234",
-      "recommendCount": "632",
-      "title": "[問卦] 軍武版：台灣人戰死，也決不投降！",
-      "link": "/bbs/Gossiping/M.1776570658.A.85B",
-      "author": "TCB006",
-      "board": "Gossiping",
-      "publishTime": "2026/04/19 03:50",
-      "imageUrl": ""
     },
     {
       "recommendScore": "309",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "175",
-      "recommendCount": "245",
+      "recommendScore": "177",
+      "recommendCount": "247",
       "title": "[情報] 今日Luke Kennard 27分 三分5投5中",
       "link": "/bbs/NBA/M.1776568787.A.1FA",
       "author": "pneumo",
