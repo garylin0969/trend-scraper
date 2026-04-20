@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-20T17:40:16.571Z",
+  "updated": "2026-04-20T18:05:28.447Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "1008",
-      "recommendCount": "1180",
+      "recommendScore": "1034",
+      "recommendCount": "1207",
       "title": "[情報] 李灝宇 大聯盟首安",
       "link": "/bbs/Baseball/M.1776702433.A.F11",
       "author": "bha1106",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "473",
-      "recommendCount": "540",
+      "recommendScore": "480",
+      "recommendCount": "549",
       "title": "[祭品] 李灝宇本場比賽只要能打出全壘打的話",
       "link": "/bbs/Baseball/M.1776701270.A.297",
       "author": "siugwai",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "320",
-      "recommendCount": "872",
+      "recommendScore": "322",
+      "recommendCount": "920",
       "title": "[問卦] 什麼時候開始連「常識」都要吵？",
       "link": "/bbs/Gossiping/M.1776687783.A.98B",
       "author": "Balhae",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "349",
-      "recommendCount": "736",
+      "recommendScore": "347",
+      "recommendCount": "741",
       "title": "[新聞] 分局長噴辣椒水！見民眾黨報案「還站旁邊看」　深夜打給局長自首",
       "link": "/bbs/Gossiping/M.1776675022.A.AF3",
       "author": "Goog1e",
@@ -75,12 +75,22 @@
     },
     {
       "recommendScore": "274",
-      "recommendCount": "518",
+      "recommendCount": "520",
       "title": "[新聞] 知名黑白切少東…遭砍殺「斷手腳筋」丟包原因曝！父母：手機狂震",
       "link": "/bbs/Gossiping/M.1776672025.A.E34",
       "author": "Beziehung",
       "board": "Gossiping",
       "publishTime": "2026/04/20 08:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "281",
+      "recommendCount": "616",
+      "title": "[新聞] YT「乾哥乾妹割頸案」破177萬！楊爸看完1",
+      "link": "/bbs/Gossiping/M.1776678938.A.4FA",
+      "author": "Rostislav",
+      "board": "Gossiping",
+      "publishTime": "2026/04/20 09:55",
       "imageUrl": ""
     },
     {
@@ -94,18 +104,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/69XYind/s/de15937574feed227abe4780d3eb4745"
     },
     {
-      "recommendScore": "281",
-      "recommendCount": "613",
-      "title": "[新聞] YT「乾哥乾妹割頸案」破177萬！楊爸看完1",
-      "link": "/bbs/Gossiping/M.1776678938.A.4FA",
-      "author": "Rostislav",
-      "board": "Gossiping",
-      "publishTime": "2026/04/20 09:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "291",
-      "recommendCount": "522",
+      "recommendScore": "292",
+      "recommendCount": "523",
       "title": "[問卦] 脆的台灣用戶有9486萬？",
       "link": "/bbs/Gossiping/M.1776678462.A.097",
       "author": "stevenchiang",
@@ -154,8 +154,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "264",
-      "recommendCount": "699",
+      "recommendScore": "282",
+      "recommendCount": "319",
+      "title": "[情報] 李灝宇 首打點",
+      "link": "/bbs/Baseball/M.1776702474.A.B1E",
+      "author": "hsuaninteen",
+      "board": "Baseball",
+      "publishTime": "2026/04/20 16:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "263",
+      "recommendCount": "700",
       "title": "[新聞] 真相大白！柯文哲遭噴辣椒水竟是「分局長誤噴」　遭記過調離主管職",
       "link": "/bbs/HatePolitics/M.1776664962.A.633",
       "author": "Teng0615",
@@ -174,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "212",
-      "recommendCount": "401",
+      "recommendScore": "213",
+      "recommendCount": "402",
       "title": "[新聞] 雷射滅蚊神器「1秒擊殺30隻」！射程6公尺、戶外也能用：賣到爆單",
       "link": "/bbs/Gossiping/M.1776662401.A.975",
       "author": "colset",
@@ -184,23 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "187",
-      "recommendCount": "411",
+      "recommendScore": "189",
+      "recommendCount": "414",
       "title": "[問卦] 顏宗海：一顆馬鈴薯有毒 可能整批污染",
       "link": "/bbs/Gossiping/M.1776673384.A.B2D",
       "author": "Tsuzichen",
       "board": "Gossiping",
       "publishTime": "2026/04/20 08:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "249",
-      "recommendCount": "281",
-      "title": "[情報] 李灝宇 首打點",
-      "link": "/bbs/Baseball/M.1776702474.A.B1E",
-      "author": "hsuaninteen",
-      "board": "Baseball",
-      "publishTime": "2026/04/20 16:27",
       "imageUrl": ""
     }
   ]
