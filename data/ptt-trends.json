@@ -1,8 +1,18 @@
 {
-  "updated": "2026-04-20T19:36:42.963Z",
+  "updated": "2026-04-20T20:01:30.796Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "1060",
+      "recommendCount": "1240",
+      "title": "[情報] 李灝宇 大聯盟首安",
+      "link": "/bbs/Baseball/M.1776702433.A.F11",
+      "author": "bha1106",
+      "board": "Baseball",
+      "publishTime": "2026/04/20 16:27",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "604",
       "recommendCount": "1408",
@@ -24,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "377",
-      "recommendCount": "1142",
+      "recommendScore": "378",
+      "recommendCount": "1145",
       "title": "[新聞] 以前小一「自己走路上學」沒人信！過來人揭2命案：改變台灣社會",
       "link": "/bbs/Gossiping/M.1776646157.A.C5C",
       "author": "indigowaltz",
@@ -34,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "328",
-      "recommendCount": "953",
+      "recommendScore": "329",
+      "recommendCount": "954",
       "title": "[問卦] 什麼時候開始連「常識」都要吵？",
       "link": "/bbs/Gossiping/M.1776687783.A.98B",
       "author": "Balhae",
@@ -44,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "224",
-      "recommendCount": "636",
+      "recommendScore": "225",
+      "recommendCount": "637",
       "title": "[新聞] 賴清德出訪前爆我史瓦帝尼大使貪汙　國安單位追查中方操作軌跡",
       "link": "/bbs/Gossiping/M.1776654213.A.E86",
       "author": "seiya2000",
@@ -114,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "331",
+      "recommendCount": "381",
+      "title": "[分享] 今日 李灝宇",
+      "link": "/bbs/Baseball/M.1776709433.A.515",
+      "author": "hsuaninteen",
+      "board": "Baseball",
+      "publishTime": "2026/04/20 18:23",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "312",
       "recommendCount": "354",
       "title": "[情報] 李灝宇 首打點",
@@ -124,18 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "297",
-      "recommendCount": "346",
-      "title": "[分享] 今日 李灝宇",
-      "link": "/bbs/Baseball/M.1776709433.A.515",
-      "author": "hsuaninteen",
-      "board": "Baseball",
-      "publishTime": "2026/04/20 18:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "68",
-      "recommendCount": "550",
+      "recommendScore": "67",
+      "recommendCount": "551",
       "title": "[問卦] 阿淇博士：發芽馬鈴薯 毒素低可以吃",
       "link": "/bbs/Gossiping/M.1776661498.A.DA6",
       "author": "xz4979265",
@@ -144,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "285",
-      "recommendCount": "346",
+      "recommendScore": "287",
+      "recommendCount": "351",
       "title": "[情報] 李灝宇 生涯首長打",
       "link": "/bbs/Baseball/M.1776708510.A.0A4",
       "author": "yuchiwang",
@@ -184,23 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "191",
-      "recommendCount": "536",
+      "recommendScore": "192",
+      "recommendCount": "538",
       "title": "[新聞]青鳥竟稱發芽馬鈴薯可以吃 醫師痛批腦殘",
       "link": "/bbs/Gossiping/M.1776640148.A.E7A",
       "author": "yyyyyuuuuu",
       "board": "Gossiping",
       "publishTime": "2026/04/19 23:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "213",
-      "recommendCount": "402",
-      "title": "[新聞] 雷射滅蚊神器「1秒擊殺30隻」！射程6公尺、戶外也能用：賣到爆單",
-      "link": "/bbs/Gossiping/M.1776662401.A.975",
-      "author": "colset",
-      "board": "Gossiping",
-      "publishTime": "2026/04/20 05:20",
       "imageUrl": ""
     }
   ]
