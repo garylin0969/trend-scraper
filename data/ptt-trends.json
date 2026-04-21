@@ -1,28 +1,8 @@
 {
-  "updated": "2026-04-21T18:01:22.918Z",
-  "total_found": 18,
-  "returned_count": 18,
+  "updated": "2026-04-21T18:35:30.073Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "809",
-      "recommendCount": "906",
-      "title": "[分享] 今日 李灝宇",
-      "link": "/bbs/Baseball/M.1776709433.A.515",
-      "author": "hsuaninteen",
-      "board": "Baseball",
-      "publishTime": "2026/04/20 18:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "347",
-      "recommendCount": "426",
-      "title": "[情報] 李灝宇 生涯首長打",
-      "link": "/bbs/Baseball/M.1776708510.A.0A4",
-      "author": "yuchiwang",
-      "board": "Baseball",
-      "publishTime": "2026/04/20 18:08",
-      "imageUrl": "https://cache.pttweb.cc/imgur/TtJ2BGM/s/ca34f0baceeb65186e9082d743fc19da"
-    },
     {
       "recommendScore": "-219",
       "recommendCount": "299",
@@ -181,6 +161,46 @@
       "author": "JusTKurO",
       "board": "Stock",
       "publishTime": "2026/04/21 10:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "100",
+      "recommendCount": "251",
+      "title": "[請益] 這波是不是股齡越老的越想空？",
+      "link": "/bbs/Stock/M.1776749124.A.1D2",
+      "author": "Bowwuwu",
+      "board": "Stock",
+      "publishTime": "2026/04/21 05:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "107",
+      "recommendCount": "194",
+      "title": "[請益] 這一波是真的大家都賺爛嗎？",
+      "link": "/bbs/Stock/M.1776758336.A.DF8",
+      "author": "tonyparker18",
+      "board": "Stock",
+      "publishTime": "2026/04/21 07:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "146",
+      "recommendCount": "223",
+      "title": "[情報] 斑馬獲得全票DPOY",
+      "link": "/bbs/NBA/M.1776724182.A.D26",
+      "author": "Scion",
+      "board": "NBA",
+      "publishTime": "2026/04/20 22:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "95",
+      "recommendCount": "189",
+      "title": "[爆卦] 納坦雅胡:沒有猶太人就沒有美國存在",
+      "link": "/bbs/Gossiping/M.1776735155.A.910",
+      "author": "carotyao",
+      "board": "Gossiping",
+      "publishTime": "2026/04/21 01:32",
       "imageUrl": ""
     }
   ]
