@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T22:57:05.614Z",
+  "updated": "2026-04-21T23:17:14.007Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "117",
-      "recommendCount": "243",
-      "title": "[新聞] 快訊／庫克交棒！　卸任蘋果執行長",
-      "link": "/bbs/Stock/M.1776726611.A.C29",
-      "author": "Q00863",
-      "board": "Stock",
-      "publishTime": "2026/04/20 23:10",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "133",
       "recommendCount": "200",
       "title": "[新聞] 持刀夜闖總統府　男喊「我要殺共產黨假扮的賴清德」被起訴",
@@ -201,6 +191,16 @@
       "author": "tonyparker18",
       "board": "Stock",
       "publishTime": "2026/04/21 07:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "95",
+      "recommendCount": "189",
+      "title": "[爆卦] 納坦雅胡:沒有猶太人就沒有美國存在",
+      "link": "/bbs/Gossiping/M.1776735155.A.910",
+      "author": "carotyao",
+      "board": "Gossiping",
+      "publishTime": "2026/04/21 01:32",
       "imageUrl": ""
     }
   ]
