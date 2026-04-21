@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T00:03:54.968Z",
+  "updated": "2026-04-21T01:01:36.685Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,16 +54,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "381",
-      "recommendCount": "1151",
-      "title": "[新聞] 以前小一「自己走路上學」沒人信！過來人揭2命案：改變台灣社會",
-      "link": "/bbs/Gossiping/M.1776646157.A.C5C",
-      "author": "indigowaltz",
-      "board": "Gossiping",
-      "publishTime": "2026/04/20 00:49",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "225",
       "recommendCount": "639",
       "title": "[新聞] 賴清德出訪前爆我史瓦帝尼大使貪汙　國安單位追查中方操作軌跡",
@@ -74,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "351",
-      "recommendCount": "754",
+      "recommendScore": "352",
+      "recommendCount": "756",
       "title": "[新聞] 分局長噴辣椒水！見民眾黨報案「還站旁邊看」　深夜打給局長自首",
       "link": "/bbs/Gossiping/M.1776675022.A.AF3",
       "author": "Goog1e",
@@ -102,6 +92,16 @@
       "board": "Gossiping",
       "publishTime": "2026/04/20 17:51",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "347",
+      "recommendCount": "426",
+      "title": "[情報] 李灝宇 生涯首長打",
+      "link": "/bbs/Baseball/M.1776708510.A.0A4",
+      "author": "yuchiwang",
+      "board": "Baseball",
+      "publishTime": "2026/04/20 18:08",
+      "imageUrl": "https://cache.pttweb.cc/imgur/TtJ2BGM/s/ca34f0baceeb65186e9082d743fc19da"
     },
     {
       "recommendScore": "290",
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "315",
-      "recommendCount": "388",
-      "title": "[情報] 李灝宇 生涯首長打",
-      "link": "/bbs/Baseball/M.1776708510.A.0A4",
-      "author": "yuchiwang",
-      "board": "Baseball",
-      "publishTime": "2026/04/20 18:08",
-      "imageUrl": "https://cache.pttweb.cc/imgur/TtJ2BGM/s/ca34f0baceeb65186e9082d743fc19da"
-    },
-    {
       "recommendScore": "328",
       "recommendCount": "373",
       "title": "[情報] 李灝宇 首打點",
@@ -184,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "300",
-      "recommendCount": "468",
-      "title": "[問卦] 以色列砸毀耶穌雕像 貓熊圓仔 (發錢)",
-      "link": "/bbs/Gossiping/M.1776644041.A.56B",
-      "author": "q347",
-      "board": "Gossiping",
-      "publishTime": "2026/04/20 00:14",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Idx5WAF/s/9a5a81f91eac00f21636b98ef791fbd8"
-    },
-    {
       "recommendScore": "264",
       "recommendCount": "703",
       "title": "[新聞] 真相大白！柯文哲遭噴辣椒水竟是「分局長誤噴」　遭記過調離主管職",
@@ -201,6 +181,26 @@
       "author": "Teng0615",
       "board": "HatePolitics",
       "publishTime": "2026/04/20 06:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "214",
+      "recommendCount": "415",
+      "title": "[新聞] 雷射滅蚊神器「1秒擊殺30隻」！射程6公尺、戶外也能用：賣到爆單",
+      "link": "/bbs/Gossiping/M.1776662401.A.975",
+      "author": "colset",
+      "board": "Gossiping",
+      "publishTime": "2026/04/20 05:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "191",
+      "recommendCount": "420",
+      "title": "[問卦] 顏宗海：一顆馬鈴薯有毒 可能整批污染",
+      "link": "/bbs/Gossiping/M.1776673384.A.B2D",
+      "author": "Tsuzichen",
+      "board": "Gossiping",
+      "publishTime": "2026/04/20 08:23",
       "imageUrl": ""
     }
   ]
