@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-21T17:33:16.704Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2026-04-21T18:01:22.918Z",
+  "total_found": 18,
+  "returned_count": 18,
   "articles": [
     {
       "recommendScore": "809",
@@ -11,16 +11,6 @@
       "author": "hsuaninteen",
       "board": "Baseball",
       "publishTime": "2026/04/20 18:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "503",
-      "recommendCount": "1337",
-      "title": "[新聞] 北市警「把中風當酒駕」硬拖4小時逼認罪！孕妻苦求遭拒險害死人",
-      "link": "/bbs/Gossiping/M.1776707510.A.7D8",
-      "author": "Beatrice322",
-      "board": "Gossiping",
-      "publishTime": "2026/04/20 17:51",
       "imageUrl": ""
     },
     {
@@ -34,8 +24,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/TtJ2BGM/s/ca34f0baceeb65186e9082d743fc19da"
     },
     {
-      "recommendScore": "-218",
-      "recommendCount": "298",
+      "recommendScore": "-219",
+      "recommendCount": "299",
       "title": "[討論] 所以 李灝宇wbc為什麼不打",
       "link": "/bbs/Baseball/M.1776727734.A.9DD",
       "author": "justice0518",
@@ -114,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "63",
+      "recommendCount": "237",
+      "title": "[新聞] 出訪史國遭中共打壓告吹！賴清德火大發聲：傷害台灣人民感情",
+      "link": "/bbs/Gossiping/M.1776771192.A.946",
+      "author": "swamp0815",
+      "board": "Gossiping",
+      "publishTime": "2026/04/21 11:33",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "146",
       "recommendCount": "230",
       "title": "[BOX ] Hawks 107:106 Knicks",
@@ -181,26 +181,6 @@
       "author": "JusTKurO",
       "board": "Stock",
       "publishTime": "2026/04/21 10:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "100",
-      "recommendCount": "251",
-      "title": "[請益] 這波是不是股齡越老的越想空？",
-      "link": "/bbs/Stock/M.1776749124.A.1D2",
-      "author": "Bowwuwu",
-      "board": "Stock",
-      "publishTime": "2026/04/21 05:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "107",
-      "recommendCount": "194",
-      "title": "[請益] 這一波是真的大家都賺爛嗎？",
-      "link": "/bbs/Stock/M.1776758336.A.DF8",
-      "author": "tonyparker18",
-      "board": "Stock",
-      "publishTime": "2026/04/21 07:58",
       "imageUrl": ""
     }
   ]
