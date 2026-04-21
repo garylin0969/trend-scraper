@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T09:22:54.150Z",
+  "updated": "2026-04-21T10:02:07.182Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -52,26 +52,6 @@
       "board": "Baseball",
       "publishTime": "2026/04/20 16:07",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "309",
-      "recommendCount": "673",
-      "title": "[新聞] YT「乾哥乾妹割頸案」破177萬！楊爸看完1",
-      "link": "/bbs/Gossiping/M.1776678938.A.4FA",
-      "author": "Rostislav",
-      "board": "Gossiping",
-      "publishTime": "2026/04/20 09:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "318",
-      "recommendCount": "569",
-      "title": "[問卦] 脆的台灣用戶有9486萬？",
-      "link": "/bbs/Gossiping/M.1776678462.A.097",
-      "author": "stevenchiang",
-      "board": "Gossiping",
-      "publishTime": "2026/04/20 09:47",
-      "imageUrl": "https://cache.pttweb.cc/imgur/5NHj2AP/s/6ae7893b1db6b3e47cf8287d90624ee9"
     },
     {
       "recommendScore": "347",
@@ -144,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "237",
-      "recommendCount": "279",
+      "recommendScore": "239",
+      "recommendCount": "281",
       "title": "[爆卦] 伊朗片面決定終止和美國會談 (發錢)",
       "link": "/bbs/Gossiping/M.1776689570.A.775",
       "author": "q347",
@@ -154,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-74",
-      "recommendCount": "693",
+      "recommendScore": "-75",
+      "recommendCount": "694",
       "title": "[心得] 日本掃貨陀螺心得",
       "link": "/bbs/C_Chat/M.1776705404.A.777",
       "author": "PaiChiou",
@@ -185,7 +165,7 @@
     },
     {
       "recommendScore": "149",
-      "recommendCount": "258",
+      "recommendCount": "259",
       "title": "[新聞] 婚禮變煉獄！11歲童爆吃甜點…下秒遭外燴員「丟進高溫烤爐」全身燒爛命危",
       "link": "/bbs/Gossiping/M.1776693155.A.897",
       "author": "au4g3wk4k",
@@ -202,6 +182,26 @@
       "board": "Stock",
       "publishTime": "2026/04/20 12:32",
       "imageUrl": "https://cache.pttweb.cc/imgur/DG0FDOs/s/a8a4661cc283afda65b872b0d46cb900"
+    },
+    {
+      "recommendScore": "40",
+      "recommendCount": "294",
+      "title": "[新聞] 重查林智堅學倫案？監委：民眾陳情後首次啟動調查",
+      "link": "/bbs/Gossiping/M.1776679802.A.733",
+      "author": "DrowningPool",
+      "board": "Gossiping",
+      "publishTime": "2026/04/20 10:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "164",
+      "recommendCount": "333",
+      "title": "Re: [問卦] 脆的台灣用戶有9486萬？",
+      "link": "/bbs/Gossiping/M.1776696295.A.B55",
+      "author": "birdjack",
+      "board": "Gossiping",
+      "publishTime": "2026/04/20 14:44",
+      "imageUrl": ""
     }
   ]
 }
