@@ -1,8 +1,18 @@
 {
-  "updated": "2026-04-21T19:03:37.959Z",
+  "updated": "2026-04-21T19:38:56.512Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "239",
+      "recommendCount": "331",
+      "title": "[分享] 中信兄弟接力無安打比賽",
+      "link": "/bbs/Baseball/M.1776776166.A.88C",
+      "author": "kmjhome",
+      "board": "Baseball",
+      "publishTime": "2026/04/21 12:56",
+      "imageUrl": "https://cache.pttweb.cc/imgur/3i2g4XH/s/4823112392a671c25010d72bb9e8450c"
+    },
     {
       "recommendScore": "-219",
       "recommendCount": "299",
@@ -114,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "464",
+      "recommendCount": "995",
+      "title": "[LIVE] NBA 明尼蘇達灰狼 @ 丹佛金塊 場中",
+      "link": "/bbs/SportLottery/M.1776737400.A.2E6",
+      "author": "jerryyuan",
+      "board": "SportLottery",
+      "publishTime": "2026/04/21 02:10",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Ce4FFFj/s/1ac5cafb80aa5cc0bd8baf51eff60f28"
+    },
+    {
       "recommendScore": "59",
       "recommendCount": "293",
       "title": "[新聞] 殺錯人了？美國「斬首」伊朗溫和派領導層強硬派革命衛隊全面掌權",
@@ -181,26 +201,6 @@
       "author": "tonyparker18",
       "board": "Stock",
       "publishTime": "2026/04/21 07:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "146",
-      "recommendCount": "223",
-      "title": "[情報] 斑馬獲得全票DPOY",
-      "link": "/bbs/NBA/M.1776724182.A.D26",
-      "author": "Scion",
-      "board": "NBA",
-      "publishTime": "2026/04/20 22:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "95",
-      "recommendCount": "189",
-      "title": "[爆卦] 納坦雅胡:沒有猶太人就沒有美國存在",
-      "link": "/bbs/Gossiping/M.1776735155.A.910",
-      "author": "carotyao",
-      "board": "Gossiping",
-      "publishTime": "2026/04/21 01:32",
       "imageUrl": ""
     }
   ]
