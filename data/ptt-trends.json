@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T12:39:21.340Z",
+  "updated": "2026-04-21T13:07:53.586Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,18 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "240",
-      "recommendCount": "283",
-      "title": "[爆卦] 伊朗片面決定終止和美國會談 (發錢)",
-      "link": "/bbs/Gossiping/M.1776689570.A.775",
-      "author": "q347",
-      "board": "Gossiping",
-      "publishTime": "2026/04/20 12:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-75",
-      "recommendCount": "694",
+      "recommendScore": "-77",
+      "recommendCount": "696",
       "title": "[心得] 日本掃貨陀螺心得",
       "link": "/bbs/C_Chat/M.1776705404.A.777",
       "author": "PaiChiou",
@@ -154,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "224",
+      "recommendCount": "494",
+      "title": "[閒聊] 推特熱議：女漫畫家沒有隱性天花板呀",
+      "link": "/bbs/C_Chat/M.1776751851.A.156",
+      "author": "LABOYS",
+      "board": "C_Chat",
+      "publishTime": "2026/04/21 06:10",
+      "imageUrl": "https://cache.pttweb.cc/imgur/uJotUdP/s/4164c3eae3c0b9e5d9bc7389231a0bbc"
+    },
+    {
       "recommendScore": "197",
       "recommendCount": "212",
       "title": "[開戰] 李灝宇首轟的話",
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "217",
-      "recommendCount": "479",
-      "title": "[閒聊] 推特熱議：女漫畫家沒有隱性天花板呀",
-      "link": "/bbs/C_Chat/M.1776751851.A.156",
-      "author": "LABOYS",
-      "board": "C_Chat",
-      "publishTime": "2026/04/21 06:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/uJotUdP/s/4164c3eae3c0b9e5d9bc7389231a0bbc"
-    },
-    {
       "recommendScore": "-94",
       "recommendCount": "329",
       "title": "[新聞] 「發芽馬鈴薯絕不會進入市場」　卓榮泰：會整櫃拿出來檢查每一顆",
@@ -202,6 +192,16 @@
       "board": "car",
       "publishTime": "2026/04/20 13:22",
       "imageUrl": "https://cache.pttweb.cc/imgur/6vIha1A/s/c44da8b62840a2582a2d0a4d20bd5a75"
+    },
+    {
+      "recommendScore": "91",
+      "recommendCount": "183",
+      "title": "[發錢] 李灝宇",
+      "link": "/bbs/BaseballXXXX/M.1776702486.A.EC8",
+      "author": "BigFly5566",
+      "board": "BaseballXXXX",
+      "publishTime": "2026/04/20 16:28",
+      "imageUrl": ""
     }
   ]
 }
