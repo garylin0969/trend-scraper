@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T18:02:03.223Z",
+  "updated": "2026-04-22T18:35:53.564Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "658",
+      "recommendCount": "1494",
+      "title": "[情報] 今日先發",
+      "link": "/bbs/Lions/M.1776850788.A.6DF",
+      "author": "nybbnan",
+      "board": "Lions",
+      "publishTime": "2026/04/22 09:39",
+      "imageUrl": "https://cache.pttweb.cc/imgur/djAMqfg/s/60127b46cfb3f4e4ec05f9cf50e09e40"
+    },
+    {
       "recommendScore": "186",
       "recommendCount": "286",
       "title": "Re: [心得] 日本掃貨陀螺心得",
@@ -191,16 +201,6 @@
       "author": "xxxcv",
       "board": "HatePolitics",
       "publishTime": "2026/04/22 03:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "142",
-      "recommendCount": "304",
-      "title": "[情報] 日網熱議：曾經盛行的角色歌為何沒落了",
-      "link": "/bbs/C_Chat/M.1776835027.A.16F",
-      "author": "Winux",
-      "board": "C_Chat",
-      "publishTime": "2026/04/22 05:17",
       "imageUrl": ""
     }
   ]
