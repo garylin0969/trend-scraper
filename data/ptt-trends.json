@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T01:50:24.462Z",
+  "updated": "2026-04-22T02:52:41.253Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -12,6 +12,16 @@
       "board": "Baseball",
       "publishTime": "2026/04/21 12:56",
       "imageUrl": "https://cache.pttweb.cc/imgur/3i2g4XH/s/4823112392a671c25010d72bb9e8450c"
+    },
+    {
+      "recommendScore": "-182",
+      "recommendCount": "396",
+      "title": "[新聞] 自由開講》日租嫌煩、認養嫌貴！ 亞太主球場這筆帳，不該算在台南市府頭上",
+      "link": "/bbs/Baseball/M.1776788652.A.17F",
+      "author": "candysky",
+      "board": "Baseball",
+      "publishTime": "2026/04/21 16:24",
+      "imageUrl": ""
     },
     {
       "recommendScore": "138",
@@ -31,26 +41,6 @@
       "author": "jason911152",
       "board": "NBA",
       "publishTime": "2026/04/21 05:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "145",
-      "recommendCount": "506",
-      "title": "[問卦] 警方：該名中風男子點頭承認有喝酒",
-      "link": "/bbs/Gossiping/M.1776738998.A.DE8",
-      "author": "Gina4290",
-      "board": "Gossiping",
-      "publishTime": "2026/04/21 02:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-150",
-      "recommendCount": "341",
-      "title": "[新聞] 自由開講》日租嫌煩、認養嫌貴！ 亞太主球場這筆帳，不該算在台南市府頭上",
-      "link": "/bbs/Baseball/M.1776788652.A.17F",
-      "author": "candysky",
-      "board": "Baseball",
-      "publishTime": "2026/04/21 16:24",
       "imageUrl": ""
     },
     {
@@ -114,36 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "146",
-      "recommendCount": "230",
-      "title": "[BOX ] Hawks 107:106 Knicks",
-      "link": "/bbs/NBA/M.1776739652.A.C80",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2026/04/21 02:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "464",
-      "recommendCount": "995",
-      "title": "[LIVE] NBA 明尼蘇達灰狼 @ 丹佛金塊 場中",
-      "link": "/bbs/SportLottery/M.1776737400.A.2E6",
-      "author": "jerryyuan",
-      "board": "SportLottery",
-      "publishTime": "2026/04/21 02:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Ce4FFFj/s/1ac5cafb80aa5cc0bd8baf51eff60f28"
-    },
-    {
-      "recommendScore": "133",
-      "recommendCount": "200",
-      "title": "[新聞] 持刀夜闖總統府　男喊「我要殺共產黨假扮的賴清德」被起訴",
-      "link": "/bbs/Gossiping/M.1776737741.A.5E0",
-      "author": "jeff0025",
-      "board": "Gossiping",
-      "publishTime": "2026/04/21 02:15",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "110",
       "recommendCount": "349",
       "title": "[情報] 猛健樂合法省2/3 ~ 1/2",
@@ -201,6 +161,46 @@
       "author": "q347",
       "board": "Gossiping",
       "publishTime": "2026/04/21 09:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "73",
+      "recommendCount": "249",
+      "title": "[新聞] 單月新生兒跌破7000人大關！撒幣填不了「人口黑洞」",
+      "link": "/bbs/Gossiping/M.1776740920.A.AC8",
+      "author": "zxcxxx",
+      "board": "Gossiping",
+      "publishTime": "2026/04/21 03:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "123",
+      "recommendCount": "146",
+      "title": "[分享] 李灝宇:很爽終於出來了",
+      "link": "/bbs/Baseball/M.1776777900.A.925",
+      "author": "micheal59",
+      "board": "Baseball",
+      "publishTime": "2026/04/21 13:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "90",
+      "recommendCount": "148",
+      "title": "[討論] 鄭浩均怎麼調整這麼快？",
+      "link": "/bbs/Baseball/M.1776776224.A.2B4",
+      "author": "Huracansvj",
+      "board": "Baseball",
+      "publishTime": "2026/04/21 12:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "47",
+      "recommendCount": "193",
+      "title": "[新聞] 賴清德22日直飛非洲!林佳龍：美國歡迎他未來循例過境訪問",
+      "link": "/bbs/Gossiping/M.1776742648.A.290",
+      "author": "deathdecay",
+      "board": "Gossiping",
+      "publishTime": "2026/04/21 03:37",
       "imageUrl": ""
     }
   ]
