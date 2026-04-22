@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T09:19:27.760Z",
+  "updated": "2026-04-22T09:55:40.680Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "-201",
-      "recommendCount": "459",
+      "recommendCount": "461",
       "title": "[新聞] 自由開講》日租嫌煩、認養嫌貴！ 亞太主球場這筆帳，不該算在台南市府頭上",
       "link": "/bbs/Baseball/M.1776788652.A.17F",
       "author": "candysky",
@@ -64,8 +64,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "201",
-      "recommendCount": "454",
+      "recommendScore": "180",
+      "recommendCount": "338",
+      "title": "[新聞] 運動部長李洋刪協會3億元預算　盼未來依指引制度化【專訪】",
+      "link": "/bbs/Gossiping/M.1776825104.A.BB2",
+      "author": "mithralin",
+      "board": "Gossiping",
+      "publishTime": "2026/04/22 02:31",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "200",
+      "recommendCount": "455",
       "title": "[情報] 拓荒者新老闆的省錢計畫",
       "link": "/bbs/NBA/M.1776782832.A.93A",
       "author": "dragon803",
@@ -74,18 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "123",
-      "recommendCount": "312",
-      "title": "[新聞] 傳賴總統明天無法出訪史瓦帝尼 總統府晚間6時緊急召開記者會",
-      "link": "/bbs/Gossiping/M.1776764714.A.F69",
-      "author": "minche",
-      "board": "Gossiping",
-      "publishTime": "2026/04/21 09:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "119",
-      "recommendCount": "399",
+      "recommendScore": "124",
+      "recommendCount": "414",
       "title": "[情報] 猛健樂合法省2/3 ~ 1/2",
       "link": "/bbs/Lifeismoney/M.1776772429.A.B28",
       "author": "austinlee",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "103",
+      "recommendCount": "183",
+      "title": "[BOX ] Trail Blazers 106:103 Spurs",
+      "link": "/bbs/NBA/M.1776825732.A.AB1",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2026/04/22 02:42",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "95",
       "recommendCount": "210",
       "title": "[爆卦] 賴總統史瓦帝尼取消行程記者會 18:00開始",
@@ -191,16 +201,6 @@
       "author": "q347",
       "board": "Gossiping",
       "publishTime": "2026/04/21 09:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-112",
-      "recommendCount": "145",
-      "title": "[發錢] 開心看金狼☺  噓文救狗貝☁",
-      "link": "/bbs/NBA/M.1776767125.A.BF6",
-      "author": "Qorqios",
-      "board": "NBA",
-      "publishTime": "2026/04/21 10:25",
       "imageUrl": ""
     }
   ]
