@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T20:54:07.121Z",
+  "updated": "2026-04-22T21:20:34.766Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "212",
+      "recommendCount": "297",
+      "title": "[標的] 台指期 空",
+      "link": "/bbs/Stock/M.1776870182.A.2CF",
+      "author": "richer23",
+      "board": "Stock",
+      "publishTime": "2026/04/22 15:03",
+      "imageUrl": "https://cache.pttweb.cc/imgur/LvDgVXo/s/247bb3efe3ee61989b3f6c6b79e67359"
+    },
+    {
       "recommendScore": "732",
       "recommendCount": "1446",
       "title": "[電競] 2026 LCK Regular Season W4D1",
@@ -112,16 +122,6 @@
       "board": "LoL",
       "publishTime": "2026/04/22 07:32",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "202",
-      "recommendCount": "285",
-      "title": "[標的] 台指期 空",
-      "link": "/bbs/Stock/M.1776870182.A.2CF",
-      "author": "richer23",
-      "board": "Stock",
-      "publishTime": "2026/04/22 15:03",
-      "imageUrl": "https://cache.pttweb.cc/imgur/LvDgVXo/s/247bb3efe3ee61989b3f6c6b79e67359"
     },
     {
       "recommendScore": "160",
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "115",
-      "recommendCount": "196",
+      "recommendScore": "114",
+      "recommendCount": "200",
       "title": "[新聞] 帶頭作亂！　台南環保局「垃圾倒水溝」民眾當場目擊「餵垃圾」痛批太誇張",
       "link": "/bbs/Gossiping/M.1776863177.A.493",
       "author": "noposo",
