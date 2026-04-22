@@ -1,10 +1,10 @@
 {
-  "updated": "2026-04-22T04:39:07.037Z",
+  "updated": "2026-04-22T05:32:50.992Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-04-22T04:38:57.000Z",
+    "lastBuildDate": "2026-04-22T05:32:43.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -18,14 +18,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dab8/live/9f9610b0-3dab-11f1-b377-d7765ac78768.jpg"
     },
     {
-      "title": "伊朗戰火推高油價：中國新能源車「瘋狂三月」背後的危與機",
-      "description": "中國新能源汽車出口「受到制約的並非需求端，而是政治因素和貿易壁壘，尤其在歐洲和美國市場。」",
-      "link": "https://www.bbc.com/zhongwen/articles/cx2dr18rz2eo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-21T01:37:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx2dr18rz2eo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/64cd/live/5ed64190-3cab-11f1-8659-276ea07eb2ce.jpg"
-    },
-    {
       "title": "中國新一波「出海」商品：火鍋、奶茶與運動服如何走向全球",
       "description": "「中國製造」過去往往意味著廉價、量產的商品，但如今一批新的中國品牌正迅速崛起。",
       "link": "https://www.bbc.com/zhongwen/articles/cge040yl0rpo/trad?at_medium=RSS&at_campaign=rss",
@@ -34,12 +26,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/88d6/live/163e6770-3a4c-11f1-9d5c-8ba507d7dbde.jpg"
     },
     {
-      "title": "霍爾木茲海峽：海上封鎖真的有用嗎？",
-      "description": "美國宣布的封鎖決定，使戰爭時期最古老的脅迫手段之一——切斷海上航線以削弱經濟、擾亂貿易並迫使對手改變策略或讓步——再次成為焦點。",
-      "link": "https://www.bbc.com/zhongwen/articles/c5y7dge2513o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-21T03:55:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5y7dge2513o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f68/live/4f23d930-3d30-11f1-8606-05fe34b06e1b.jpg"
+      "title": "伊朗戰事迫使航班改道，機票價格飆升近25%",
+      "description": "研究顯示，伊朗戰爭衝突所引發的空域限制推高了機票的價格。",
+      "link": "https://www.bbc.com/zhongwen/articles/cde50p32wkdo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-22T04:58:41.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cde50p32wkdo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1062/live/da6149f0-3d90-11f1-92be-b5fcda70efcc.jpg"
+    },
+    {
+      "title": "伊朗戰火推高油價：中國新能源車「瘋狂三月」背後的危與機",
+      "description": "中國新能源汽車出口「受到制約的並非需求端，而是政治因素和貿易壁壘，尤其在歐洲和美國市場。」",
+      "link": "https://www.bbc.com/zhongwen/articles/cx2dr18rz2eo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-21T01:37:25.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx2dr18rz2eo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/64cd/live/5ed64190-3cab-11f1-8659-276ea07eb2ce.jpg"
     },
     {
       "title": "無煙世代：英國有望對2008年後出生者實施終身禁煙",
@@ -48,6 +48,14 @@
       "pubDate": "2026-04-22T02:35:00.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c98m0qd5jz7o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2a0c/live/b7b82910-3de9-11f1-b55d-0f258dce1735.jpg"
+    },
+    {
+      "title": "霍爾木茲海峽：海上封鎖真的有用嗎？",
+      "description": "美國宣布的封鎖決定，使戰爭時期最古老的脅迫手段之一——切斷海上航線以削弱經濟、擾亂貿易並迫使對手改變策略或讓步——再次成為焦點。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5y7dge2513o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-21T03:55:25.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5y7dge2513o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f68/live/4f23d930-3d30-11f1-8606-05fe34b06e1b.jpg"
     },
     {
       "title": "蘋果公司任命約翰·特納斯為新CEO，接替蒂姆・庫克",
@@ -106,14 +114,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5312/live/d2315560-3bf9-11f1-808b-d530aa7a4025.jpg"
     },
     {
-      "title": "特朗普時代備受關注的內幕交易質疑  以及幾個關鍵時刻",
-      "description": "BBC調查發現一個固定模式，在特朗普多次宣佈重大消息前，交易量出現了明顯飆升。一些分析師指出，這種情況具備非法內線交易的典型特徵",
-      "link": "https://www.bbc.com/zhongwen/articles/c79jgrwy350o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-20T06:05:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c79jgrwy350o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0993/live/bfcf1060-387a-11f1-9b73-21c33a4cdac9.jpg"
-    },
-    {
       "title": "宏福苑居民災後首度「回家」執拾 ：「每一位居民都不甘心」",
       "description": "香港大埔宏福苑七棟受災住宅居民，週一（4月20日）起分批返回受損單位執拾物品。這是自去年11月大火以來，居民首次獲准重返家園，每戶可停留三小時。",
       "link": "https://www.bbc.com/zhongwen/articles/c1krxz8ggxyo/trad?at_medium=RSS&at_campaign=rss",
@@ -154,6 +154,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4b9e/live/c47d1530-38d4-11f1-879d-1b2f5c3919b8.jpg"
     },
     {
+      "title": "特朗普時代備受關注的內幕交易質疑  以及幾個關鍵時刻",
+      "description": "BBC調查發現一個固定模式，在特朗普多次宣佈重大消息前，交易量出現了明顯飆升。一些分析師指出，這種情況具備非法內線交易的典型特徵",
+      "link": "https://www.bbc.com/zhongwen/articles/c79jgrwy350o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-20T06:05:25.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c79jgrwy350o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0993/live/bfcf1060-387a-11f1-9b73-21c33a4cdac9.jpg"
+    },
+    {
       "title": "美伊衝突接下來會如何發展：四種可能情境",
       "description": "停火能否維持、外交是否會延續，抑或伊朗與美國正走向「可控升級」，甚至滑向更大範圍的戰爭？",
       "link": "https://www.bbc.com/zhongwen/articles/clyxpdw4ynko/trad?at_medium=RSS&at_campaign=rss",
@@ -168,14 +176,6 @@
       "pubDate": "2026-04-17T08:50:39.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c0mj27g8v2vo/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7198/live/75659290-3994-11f1-afdb-63f82099d974.jpg"
-    },
-    {
-      "title": "到底有多少船隻正在冒險穿越霍爾木茲海峽？",
-      "description": "BBC事實核查團隊追蹤到，自周六清晨伊朗與美國停火談判破裂以來，共有23艘船隻穿越霍爾木茲海峽。",
-      "link": "https://www.bbc.com/zhongwen/articles/ckgww2w3009o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-14T05:52:26.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckgww2w3009o/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8b21/live/5f2f50e0-3351-11f1-8606-05fe34b06e1b.png"
     },
     {
       "title": "什麼是海上封鎖？在霍爾木茲海峽如何實施封鎖？",
