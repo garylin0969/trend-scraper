@@ -1,10 +1,10 @@
 {
-  "updated": "2026-04-22T07:13:43.358Z",
+  "updated": "2026-04-22T07:56:33.228Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-04-22T07:13:34.000Z",
+    "lastBuildDate": "2026-04-22T07:56:27.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -34,6 +34,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dab8/live/9f9610b0-3dab-11f1-b377-d7765ac78768.jpg"
     },
     {
+      "title": "戰爭陰影下的就業、通脹和消費   伊朗各行業大規模裁員",
+      "description": "戰爭影響已波及製造業、零售業及數碼產業，外界警告若戰事再度爆發，情況恐將進一步惡化。",
+      "link": "https://www.bbc.com/zhongwen/articles/c74vkywn92yo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-22T07:15:51.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c74vkywn92yo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fd4a/live/df3e79e0-3d8e-11f1-ac78-2112837ce2aa.jpg"
+    },
+    {
       "title": "伊朗戰事迫使航班改道，機票價格飆升近25%",
       "description": "研究顯示，伊朗戰爭衝突所引發的空域限制推高了機票的價格。",
       "link": "https://www.bbc.com/zhongwen/articles/cde50p32wkdo/trad?at_medium=RSS&at_campaign=rss",
@@ -46,7 +54,7 @@
       "description": "中國新能源汽車出口「受到制約的並非需求端，而是政治因素和貿易壁壘，尤其在歐洲和美國市場。」",
       "link": "https://www.bbc.com/zhongwen/articles/cx2dr18rz2eo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-21T01:37:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx2dr18rz2eo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx2dr18rz2eo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/64cd/live/5ed64190-3cab-11f1-8659-276ea07eb2ce.jpg"
     },
     {
@@ -96,14 +104,6 @@
       "pubDate": "2026-04-21T05:56:46.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cly6jgww9eno/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8cde/live/a64b25a0-3d40-11f1-879d-1b2f5c3919b8.jpg"
-    },
-    {
-      "title": "這就是德國納粹獨裁者希特勒的牙齒嗎？",
-      "description": "1945年，蘇聯戰時口譯員熱夫斯卡婭收到一個覆蓋著紅色緞面的細小盒子，裏面裝著據稱是納粹德國頭目希特勒死後留下的牙齒。",
-      "link": "https://www.bbc.com/zhongwen/articles/c93e5q7wqq4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-22T00:22:01.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c93e5q7wqq4o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/647a/live/595f7de0-3bf6-11f1-983e-05cd62d1d57e.jpg"
     },
     {
       "title": "藝術受審——雕塑家高兟被捕，凸顯中國審查制度的新極端",
@@ -298,12 +298,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dbcd/live/93df4d00-3a6c-11f1-9368-ddaac8cf7f1d.jpg"
     },
     {
-      "title": "頂住仇恨浪潮，韓國女性作家的暢銷書正在崛起",
-      "description": "在性別議題白熱化的韓國，女性作家們扛住壓力「我手寫我心」，讀者與作者之間緊密互動，形成有力的連結。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn7850gj4zjo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-19T07:09:52.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn7850gj4zjo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f40b/live/ff58f400-3b9d-11f1-879d-1b2f5c3919b8.jpg"
+      "title": "這就是德國納粹獨裁者希特勒的牙齒嗎？",
+      "description": "1945年，蘇聯戰時口譯員熱夫斯卡婭收到一個覆蓋著紅色緞面的細小盒子，裏面裝著據稱是納粹德國頭目希特勒死後留下的牙齒。",
+      "link": "https://www.bbc.com/zhongwen/articles/c93e5q7wqq4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-22T00:22:01.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c93e5q7wqq4o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/647a/live/595f7de0-3bf6-11f1-983e-05cd62d1d57e.jpg"
     },
     {
       "title": "新冠病毒新變種「蟬」有多令人擔憂？兒童是否更容易感染？",
