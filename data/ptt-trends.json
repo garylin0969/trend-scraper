@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T22:01:57.988Z",
+  "updated": "2026-04-22T22:27:57.642Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "219",
-      "recommendCount": "308",
+      "recommendScore": "224",
+      "recommendCount": "315",
       "title": "[標的] 台指期 空",
       "link": "/bbs/Stock/M.1776870182.A.2CF",
       "author": "richer23",
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "382",
+      "recommendCount": "874",
+      "title": "[LIVE] NBA 休士頓火箭  @ 洛杉磯湖人 場中",
+      "link": "/bbs/SportLottery/M.1776823226.A.8B6",
+      "author": "jerryyuan",
+      "board": "SportLottery",
+      "publishTime": "2026/04/22 02:00",
+      "imageUrl": "https://cache.pttweb.cc/imgur/DtSHZ6m/s/5e2f966f4534262c1b84bee1c4f0605b"
+    },
+    {
       "recommendScore": "48",
       "recommendCount": "213",
       "title": "[情報] 銳力獅五局PG",
@@ -191,16 +201,6 @@
       "author": "noposo",
       "board": "Gossiping",
       "publishTime": "2026/04/22 13:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "62",
-      "recommendCount": "225",
-      "title": "[新聞] 賴總統出訪非洲遭阻 美國多位參眾議員發文挺台",
-      "link": "/bbs/Gossiping/M.1776816987.A.268",
-      "author": "STi2011",
-      "board": "Gossiping",
-      "publishTime": "2026/04/22 00:16",
       "imageUrl": ""
     }
   ]
