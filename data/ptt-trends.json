@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T06:42:54.460Z",
+  "updated": "2026-04-22T07:19:17.726Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/3i2g4XH/s/4823112392a671c25010d72bb9e8450c"
     },
     {
-      "recommendScore": "-198",
-      "recommendCount": "456",
+      "recommendScore": "-201",
+      "recommendCount": "459",
       "title": "[新聞] 自由開講》日租嫌煩、認養嫌貴！ 亞太主球場這筆帳，不該算在台南市府頭上",
       "link": "/bbs/Baseball/M.1776788652.A.17F",
       "author": "candysky",
@@ -84,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-94",
-      "recommendCount": "329",
-      "title": "[新聞] 「發芽馬鈴薯絕不會進入市場」　卓榮泰：會整櫃拿出來檢查每一顆",
-      "link": "/bbs/Gossiping/M.1776755078.A.866",
-      "author": "HTC92",
-      "board": "Gossiping",
-      "publishTime": "2026/04/21 07:04",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "114",
       "recommendCount": "386",
       "title": "[情報] 猛健樂合法省2/3 ~ 1/2",
@@ -124,8 +114,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "62",
+      "recommendCount": "225",
+      "title": "[新聞] 賴總統出訪非洲遭阻 美國多位參眾議員發文挺台",
+      "link": "/bbs/Gossiping/M.1776816987.A.268",
+      "author": "STi2011",
+      "board": "Gossiping",
+      "publishTime": "2026/04/22 00:16",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "205",
-      "recommendCount": "787",
+      "recommendCount": "788",
       "title": "Re: [花邊] AE:他們不懂Gobert在場上對我們的重要性",
       "link": "/bbs/NBA/M.1776767946.A.E35",
       "author": "ZIDENS",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-112",
+      "recommendCount": "145",
+      "title": "[發錢] 開心看金狼☺  噓文救狗貝☁",
+      "link": "/bbs/NBA/M.1776767125.A.BF6",
+      "author": "Qorqios",
+      "board": "NBA",
+      "publishTime": "2026/04/21 10:25",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "90",
       "recommendCount": "148",
       "title": "[討論] 鄭浩均怎麼調整這麼快？",
@@ -191,16 +201,6 @@
       "author": "Huracansvj",
       "board": "Baseball",
       "publishTime": "2026/04/21 12:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "107",
-      "recommendCount": "158",
-      "title": "[分享] CPBL戰績",
-      "link": "/bbs/Baseball/M.1776777210.A.E59",
-      "author": "nybbnan",
-      "board": "Baseball",
-      "publishTime": "2026/04/21 13:13",
       "imageUrl": ""
     }
   ]
