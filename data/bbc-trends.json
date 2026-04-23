@@ -1,10 +1,10 @@
 {
-  "updated": "2026-04-23T07:15:43.236Z",
+  "updated": "2026-04-23T08:21:17.052Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-04-23T07:15:36.000Z",
+    "lastBuildDate": "2026-04-23T08:21:09.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -26,14 +26,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8a8d/live/54187c10-3ecb-11f1-b55d-0f258dce1735.jpg"
     },
     {
-      "title": "「去看回我以前的家」  香港宏福苑首批回家執拾居民的追悼與道別",
-      "description": "大火發生五個月後，宏福苑居民首度獲香港政府安排上樓執拾個人物品。BBC記錄下他們為這一天所做的準備，以及返家時的訴求和情感。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx2dzg4px5jo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-22T07:58:57.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx2dzg4px5jo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f77b/live/3ec516b0-3e22-11f1-bd52-e755d604ece4.jpg"
-    },
-    {
       "title": "中國新一波「出海」商品：火鍋、奶茶與運動服如何走向全球",
       "description": "「中國製造」過去往往意味著廉價、量產的商品，但如今一批新的中國品牌正迅速崛起。",
       "link": "https://www.bbc.com/zhongwen/articles/cge040yl0rpo/trad?at_medium=RSS&at_campaign=rss",
@@ -48,6 +40,22 @@
       "pubDate": "2026-04-23T03:36:37.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c3w3v1yx85po/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/00a0/live/a3779360-3e29-11f1-8ba5-cfdd8d3337ac.jpg"
+    },
+    {
+      "title": "五角大樓：美國海軍部長約翰・費蘭即時離任",
+      "description": "他是近月來又一個離開政府的高級軍事領導人，他的離任正值美國與以色列和伊朗的戰爭持續，以及美方持續封鎖霍爾木茲海峽之際。",
+      "link": "https://www.bbc.com/zhongwen/articles/c30re8eq41po/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-23T07:47:50.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c30re8eq41po/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f488/live/9ec92710-3e98-11f1-a4f7-2909a7c81847.jpg"
+    },
+    {
+      "title": "「去看回我以前的家」  香港宏福苑首批回家執拾居民的追悼與道別",
+      "description": "大火發生五個月後，宏福苑居民首度獲香港政府安排上樓執拾個人物品。BBC記錄下他們為這一天所做的準備，以及返家時的訴求和情感。",
+      "link": "https://www.bbc.com/zhongwen/articles/cx2dzg4px5jo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-22T07:58:57.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx2dzg4px5jo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f77b/live/3ec516b0-3e22-11f1-bd52-e755d604ece4.jpg"
     },
     {
       "title": "日本放寬武器出口規定，打破二戰後和平主義路線",
@@ -88,14 +96,6 @@
       "pubDate": "2026-04-22T04:58:41.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cde50p32wkdo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1062/live/da6149f0-3d90-11f1-92be-b5fcda70efcc.jpg"
-    },
-    {
-      "title": "霍爾木茲海峽：海上封鎖真的有用嗎？",
-      "description": "美國宣布的封鎖決定，使戰爭時期最古老的脅迫手段之一——切斷海上航線以削弱經濟、擾亂貿易並迫使對手改變策略或讓步——再次成為焦點。",
-      "link": "https://www.bbc.com/zhongwen/articles/c5y7dge2513o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-21T03:55:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5y7dge2513o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f68/live/4f23d930-3d30-11f1-8606-05fe34b06e1b.jpg"
     },
     {
       "title": "蘋果公司任命約翰·特納斯為新CEO，接替蒂姆・庫克",
@@ -162,6 +162,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0993/live/bfcf1060-387a-11f1-9b73-21c33a4cdac9.jpg"
     },
     {
+      "title": "霍爾木茲海峽：海上封鎖真的有用嗎？",
+      "description": "美國宣布的封鎖決定，使戰爭時期最古老的脅迫手段之一——切斷海上航線以削弱經濟、擾亂貿易並迫使對手改變策略或讓步——再次成為焦點。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5y7dge2513o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-21T03:55:25.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5y7dge2513o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f68/live/4f23d930-3d30-11f1-8606-05fe34b06e1b.jpg"
+    },
+    {
       "title": "美伊衝突接下來會如何發展：四種可能情境",
       "description": "停火能否維持、外交是否會延續，抑或伊朗與美國正走向「可控升級」，甚至滑向更大範圍的戰爭？",
       "link": "https://www.bbc.com/zhongwen/articles/clyxpdw4ynko/trad?at_medium=RSS&at_campaign=rss",
@@ -176,14 +184,6 @@
       "pubDate": "2026-04-17T08:50:39.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c0mj27g8v2vo/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7198/live/75659290-3994-11f1-afdb-63f82099d974.jpg"
-    },
-    {
-      "title": "什麼是海上封鎖？在霍爾木茲海峽如何實施封鎖？",
-      "description": "特朗普表示美國將開始封鎖霍爾木茲海峽。這在實際操作上意味著什麼？",
-      "link": "https://www.bbc.com/zhongwen/articles/c5ywv48v9e5o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-13T04:56:21.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5ywv48v9e5o/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c1bb/live/05ad5410-368d-11f1-8c7c-3d26c824719f.jpg"
     },
     {
       "title": "特朗普「關稅戰」一週年：  全球經濟如何在四個方面被改變",
