@@ -1,8 +1,18 @@
 {
-  "updated": "2026-04-23T01:19:50.558Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2026-04-23T02:07:59.435Z",
+  "total_found": 19,
+  "returned_count": 19,
   "articles": [
+    {
+      "recommendScore": "386",
+      "recommendCount": "1098",
+      "title": "[新聞] 大陸「高德地圖」在台爆紅 數發部不排除禁用",
+      "link": "/bbs/Gossiping/M.1776840091.A.AB1",
+      "author": "lunyen",
+      "board": "Gossiping",
+      "publishTime": "2026/04/22 06:41",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "478",
       "recommendCount": "937",
@@ -14,8 +24,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "314",
-      "recommendCount": "538",
+      "recommendScore": "203",
+      "recommendCount": "801",
+      "title": "[新聞] 所有馬鈴薯都有龍葵鹼! 知識YTR預告吃美",
+      "link": "/bbs/Gossiping/M.1776833720.A.84E",
+      "author": "CNS3056",
+      "board": "Gossiping",
+      "publishTime": "2026/04/22 04:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "352",
+      "recommendCount": "601",
       "title": "[BOX ] Rockets 94:101 Lakers",
       "link": "/bbs/NBA/M.1776835105.A.F0A",
       "author": "jason911152",
@@ -24,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "327",
-      "recommendCount": "389",
+      "recommendScore": "350",
+      "recommendCount": "408",
       "title": "[發錢] 這真的41歲？",
       "link": "/bbs/NBA/M.1776835615.A.B06",
       "author": "Pash97143",
@@ -34,13 +54,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "346",
-      "recommendCount": "364",
+      "recommendScore": "378",
+      "recommendCount": "400",
       "title": "Re: [推薦] 電競 LOL 山城恋推薦LCK0422",
       "link": "/bbs/SportLottery/M.1776858908.A.1A5",
       "author": "bvbin10242",
       "board": "SportLottery",
       "publishTime": "2026/04/22 11:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "302",
+      "recommendCount": "391",
+      "title": "[發錢] 看湖人的比賽看到哭出來",
+      "link": "/bbs/NBA/M.1776835207.A.09D",
+      "author": "Wardyal",
+      "board": "NBA",
+      "publishTime": "2026/04/22 05:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "206",
+      "recommendCount": "578",
+      "title": "[新聞] 馬鈴薯逐顆檢查破功？食藥署：維持2%抽驗",
+      "link": "/bbs/Gossiping/M.1776896976.A.31F",
+      "author": "leocean9816",
+      "board": "Gossiping",
+      "publishTime": "2026/04/22 22:29",
       "imageUrl": ""
     },
     {
@@ -54,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "259",
-      "recommendCount": "372",
-      "title": "[標的] 台指期 空",
-      "link": "/bbs/Stock/M.1776870182.A.2CF",
-      "author": "richer23",
-      "board": "Stock",
-      "publishTime": "2026/04/22 15:03",
-      "imageUrl": "https://cache.pttweb.cc/imgur/LvDgVXo/s/247bb3efe3ee61989b3f6c6b79e67359"
-    },
-    {
-      "recommendScore": "258",
-      "recommendCount": "308",
+      "recommendScore": "294",
+      "recommendCount": "347",
       "title": "[炸裂] 王勝偉",
       "link": "/bbs/Baseball/M.1776861709.A.3E2",
       "author": "yasan1029",
@@ -74,13 +104,43 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "243",
-      "recommendCount": "293",
-      "title": "[發錢] 看湖人的比賽看到哭出來",
-      "link": "/bbs/NBA/M.1776835207.A.09D",
-      "author": "Wardyal",
+      "recommendScore": "287",
+      "recommendCount": "357",
+      "title": "[討論] 林岳平目前策略是讓蘇暢打到打出來嗎？",
+      "link": "/bbs/Baseball/M.1776866160.A.084",
+      "author": "TPPKoWenJe",
+      "board": "Baseball",
+      "publishTime": "2026/04/22 13:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "266",
+      "recommendCount": "383",
+      "title": "[標的] 台指期 空",
+      "link": "/bbs/Stock/M.1776870182.A.2CF",
+      "author": "richer23",
+      "board": "Stock",
+      "publishTime": "2026/04/22 15:03",
+      "imageUrl": "https://cache.pttweb.cc/imgur/LvDgVXo/s/247bb3efe3ee61989b3f6c6b79e67359"
+    },
+    {
+      "recommendScore": "211",
+      "recommendCount": "356",
+      "title": "[情報] Wembanyama確診腦震盪 明天複查",
+      "link": "/bbs/NBA/M.1776826559.A.300",
+      "author": "EZ78",
       "board": "NBA",
-      "publishTime": "2026/04/22 05:20",
+      "publishTime": "2026/04/22 02:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "302",
+      "recommendCount": "540",
+      "title": "[問題] 兄弟大巨蛋票房怎麼了??",
+      "link": "/bbs/Baseball/M.1776838044.A.84A",
+      "author": "fish19831012",
+      "board": "Baseball",
+      "publishTime": "2026/04/22 06:07",
       "imageUrl": ""
     },
     {
@@ -94,14 +154,14 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/D6O0MOU/s/21fefad5011e0f8a1ef63d46fc2a5d5e"
     },
     {
-      "recommendScore": "111",
-      "recommendCount": "418",
-      "title": "[新聞] 所有馬鈴薯都有龍葵鹼! 知識YTR預告吃美",
-      "link": "/bbs/Gossiping/M.1776833720.A.84E",
-      "author": "CNS3056",
-      "board": "Gossiping",
-      "publishTime": "2026/04/22 04:55",
-      "imageUrl": ""
+      "recommendScore": "178",
+      "recommendCount": "325",
+      "title": "Re: [閒聊] 巴哈收到iwin來函 開始刪除二次元蘿莉圖",
+      "link": "/bbs/C_Chat/M.1776858291.A.FF7",
+      "author": "yyyyyuuuuu",
+      "board": "C_Chat",
+      "publishTime": "2026/04/22 11:44",
+      "imageUrl": "https://cache.pttweb.cc/imgur/S1Eyp9w/s/2b3ea4bbc946fe604254620db619b22f"
     },
     {
       "recommendScore": "732",
@@ -132,76 +192,6 @@
       "board": "Gossiping",
       "publishTime": "2026/04/22 02:31",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "658",
-      "recommendCount": "1494",
-      "title": "[情報] 今日先發",
-      "link": "/bbs/Lions/M.1776850788.A.6DF",
-      "author": "nybbnan",
-      "board": "Lions",
-      "publishTime": "2026/04/22 09:39",
-      "imageUrl": "https://cache.pttweb.cc/imgur/djAMqfg/s/60127b46cfb3f4e4ec05f9cf50e09e40"
-    },
-    {
-      "recommendScore": "46",
-      "recommendCount": "272",
-      "title": "[新聞] 外交部：北京所謂一中原則 未受到世界主要國家認可",
-      "link": "/bbs/Gossiping/M.1776863808.A.0C8",
-      "author": "alex1987",
-      "board": "Gossiping",
-      "publishTime": "2026/04/22 13:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "124",
-      "recommendCount": "219",
-      "title": "[新聞] 帶頭作亂！　台南環保局「垃圾倒水溝」民眾當場目擊「餵垃圾」痛批太誇張",
-      "link": "/bbs/Gossiping/M.1776863177.A.493",
-      "author": "noposo",
-      "board": "Gossiping",
-      "publishTime": "2026/04/22 13:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "186",
-      "recommendCount": "286",
-      "title": "Re: [心得] 日本掃貨陀螺心得",
-      "link": "/bbs/C_Chat/M.1776840683.A.EFC",
-      "author": "ikaros35",
-      "board": "C_Chat",
-      "publishTime": "2026/04/22 06:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "382",
-      "recommendCount": "874",
-      "title": "[LIVE] NBA 休士頓火箭  @ 洛杉磯湖人 場中",
-      "link": "/bbs/SportLottery/M.1776823226.A.8B6",
-      "author": "jerryyuan",
-      "board": "SportLottery",
-      "publishTime": "2026/04/22 02:00",
-      "imageUrl": "https://cache.pttweb.cc/imgur/DtSHZ6m/s/5e2f966f4534262c1b84bee1c4f0605b"
-    },
-    {
-      "recommendScore": "48",
-      "recommendCount": "213",
-      "title": "[情報] 銳力獅五局PG",
-      "link": "/bbs/Baseball/M.1776858009.A.5D5",
-      "author": "wenwenwen",
-      "board": "Baseball",
-      "publishTime": "2026/04/22 11:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "146",
-      "recommendCount": "283",
-      "title": "[新聞] 00981A飆太兇掀熱議！經理人陳釧瑤被股民封「瑤池金母」　持股前15檔有這些",
-      "link": "/bbs/Stock/M.1776859806.A.B78",
-      "author": "honeymemory",
-      "board": "Stock",
-      "publishTime": "2026/04/22 12:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/nAU5geA/s/01819f61419a62095ea03a605a583b0e"
     }
   ]
 }
