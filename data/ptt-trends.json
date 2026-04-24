@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-24T11:28:45.741Z",
+  "updated": "2026-04-24T11:52:23.456Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "316",
-      "recommendCount": "1070",
+      "recommendScore": "319",
+      "recommendCount": "1073",
       "title": "[問卦] 幹！你們為什麼不反中了？？？",
       "link": "/bbs/Gossiping/M.1776999113.A.895",
       "author": "kons",
@@ -24,8 +24,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/sZJkmBu/s/a6e549bf1a340c954ceda5ee52414999"
     },
     {
-      "recommendScore": "271",
-      "recommendCount": "792",
+      "recommendScore": "270",
+      "recommendCount": "793",
       "title": "[爆卦] 台南市政府高層欺壓基層",
       "link": "/bbs/Gossiping/M.1776983846.A.002",
       "author": "kneo8899",
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "336",
-      "recommendCount": "691",
+      "recommendCount": "693",
       "title": "[請益] 為何大盤狂漲，個股幾乎都崩爛?",
       "link": "/bbs/Stock/M.1777004412.A.54D",
       "author": "darkstar07",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "367",
-      "recommendCount": "641",
+      "recommendScore": "369",
+      "recommendCount": "647",
       "title": "[新聞] 快訊／北市忠孝東路中信銀行傳搶案！",
       "link": "/bbs/Gossiping/M.1777018028.A.6C3",
       "author": "Heisenberg",
@@ -55,7 +55,7 @@
     },
     {
       "recommendScore": "296",
-      "recommendCount": "535",
+      "recommendCount": "536",
       "title": "[花邊] JSJ談KD被包夾：他得自己想辦法",
       "link": "/bbs/NBA/M.1776994146.A.92D",
       "author": "eric20601",
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "226",
+      "recommendCount": "398",
+      "title": "[新聞] 快訊／搶銀行嫌犯畫面曝光！雨鞋、蒙面持假槍　搶1千萬後遭逮",
+      "link": "/bbs/Gossiping/M.1777022439.A.9C3",
+      "author": "pdz",
+      "board": "Gossiping",
+      "publishTime": "2026/04/24 09:20",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "238",
       "recommendCount": "596",
       "title": "[問卦] 娶越南人是被台灣兩性市場淘汰的？！",
@@ -84,14 +94,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "239",
-      "recommendCount": "357",
+      "recommendScore": "241",
+      "recommendCount": "362",
       "title": "[標的] 台指期 空",
       "link": "/bbs/Stock/M.1777002618.A.98B",
       "author": "ntumeddddd",
       "board": "Stock",
       "publishTime": "2026/04/24 03:50",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "183",
+      "recommendCount": "366",
+      "title": "[新聞] 沈伯洋被讚「可大談巴哈1小時」　蔣萬安：讓我想起老朋友堅哥",
+      "link": "/bbs/Gossiping/M.1777010004.A.751",
+      "author": "qweerrt123",
+      "board": "Gossiping",
+      "publishTime": "2026/04/24 05:53",
+      "imageUrl": "https://cache.pttweb.cc/imgur/5jtVG9E/s/55bf2b89e787a81fd345385e34bbb4c1"
     },
     {
       "recommendScore": "186",
@@ -114,23 +134,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "178",
-      "recommendCount": "360",
-      "title": "[新聞] 沈伯洋被讚「可大談巴哈1小時」　蔣萬安：讓我想起老朋友堅哥",
-      "link": "/bbs/Gossiping/M.1777010004.A.751",
-      "author": "qweerrt123",
+      "recommendScore": "169",
+      "recommendCount": "403",
+      "title": "[新聞] 殺害馬國女大生逃死確定 死者家屬對台灣司法悲痛絕望",
+      "link": "/bbs/Gossiping/M.1776991101.A.01B",
+      "author": "mongi",
       "board": "Gossiping",
-      "publishTime": "2026/04/24 05:53",
-      "imageUrl": "https://cache.pttweb.cc/imgur/5jtVG9E/s/55bf2b89e787a81fd345385e34bbb4c1"
-    },
-    {
-      "recommendScore": "208",
-      "recommendCount": "362",
-      "title": "[新聞] 快訊／搶銀行嫌犯畫面曝光！雨鞋、蒙面持假槍　搶1千萬後遭逮",
-      "link": "/bbs/Gossiping/M.1777022439.A.9C3",
-      "author": "pdz",
-      "board": "Gossiping",
-      "publishTime": "2026/04/24 09:20",
+      "publishTime": "2026/04/24 00:38",
       "imageUrl": ""
     },
     {
@@ -144,18 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "169",
-      "recommendCount": "400",
-      "title": "[新聞] 殺害馬國女大生逃死確定 死者家屬對台灣司法悲痛絕望",
-      "link": "/bbs/Gossiping/M.1776991101.A.01B",
-      "author": "mongi",
-      "board": "Gossiping",
-      "publishTime": "2026/04/24 00:38",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "202",
-      "recommendCount": "332",
+      "recommendCount": "333",
       "title": "[花邊] Kevin Durant 左腳踝扭傷",
       "link": "/bbs/NBA/M.1776989154.A.A72",
       "author": "thnlkj0665",
