@@ -1,38 +1,8 @@
 {
-  "updated": "2026-04-24T16:12:31.651Z",
+  "updated": "2026-04-24T16:39:26.855Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "324",
-      "recommendCount": "1090",
-      "title": "[問卦] 幹！你們為什麼不反中了？？？",
-      "link": "/bbs/Gossiping/M.1776999113.A.895",
-      "author": "kons",
-      "board": "Gossiping",
-      "publishTime": "2026/04/24 02:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "273",
-      "recommendCount": "798",
-      "title": "[爆卦] 台南市政府高層欺壓基層",
-      "link": "/bbs/Gossiping/M.1776983846.A.002",
-      "author": "kneo8899",
-      "board": "Gossiping",
-      "publishTime": "2026/04/23 22:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "338",
-      "recommendCount": "696",
-      "title": "[請益] 為何大盤狂漲，個股幾乎都崩爛?",
-      "link": "/bbs/Stock/M.1777004412.A.54D",
-      "author": "darkstar07",
-      "board": "Stock",
-      "publishTime": "2026/04/24 04:20",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "377",
       "recommendCount": "659",
@@ -44,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "304",
-      "recommendCount": "561",
+      "recommendScore": "307",
+      "recommendCount": "575",
       "title": "[新聞] 賴總統出訪遭取消飛航許可出現羅生門？張競：模里西斯稱從未同意申請",
       "link": "/bbs/Gossiping/M.1777031331.A.308",
       "author": "novashine",
@@ -54,8 +24,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/oDKmwCr/s/6d16e2c8a64af84eff87a9cc0cd896f1"
     },
     {
-      "recommendScore": "279",
-      "recommendCount": "501",
+      "recommendScore": "280",
+      "recommendCount": "506",
       "title": "[新聞] 快訊／搶銀行嫌犯畫面曝光！雨鞋、蒙面持假槍　搶1千萬後遭逮",
       "link": "/bbs/Gossiping/M.1777022439.A.9C3",
       "author": "pdz",
@@ -134,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "20",
+      "recommendCount": "385",
+      "title": "[花邊] NBA宣稱裁判沒錯 罰Booker卻收回全部3個技術犯規",
+      "link": "/bbs/NBA/M.1776995486.A.5E0",
+      "author": "EZ78",
+      "board": "NBA",
+      "publishTime": "2026/04/24 01:51",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "172",
       "recommendCount": "409",
       "title": "[新聞] 殺害馬國女大生逃死確定 死者家屬對台灣司法悲痛絕望",
@@ -144,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "21",
-      "recommendCount": "382",
-      "title": "[花邊] NBA宣稱裁判沒錯 罰Booker卻收回全部3個技術犯規",
-      "link": "/bbs/NBA/M.1776995486.A.5E0",
-      "author": "EZ78",
-      "board": "NBA",
-      "publishTime": "2026/04/24 01:51",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "202",
       "recommendCount": "340",
       "title": "[花邊] Kevin Durant 左腳踝扭傷",
@@ -161,6 +131,16 @@
       "author": "thnlkj0665",
       "board": "NBA",
       "publishTime": "2026/04/24 00:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "228",
+      "recommendCount": "330",
+      "title": "[標的] 台指空",
+      "link": "/bbs/Stock/M.1777039477.A.D6D",
+      "author": "lodestar3749",
+      "board": "Stock",
+      "publishTime": "2026/04/24 14:04",
       "imageUrl": ""
     },
     {
@@ -175,7 +155,7 @@
     },
     {
       "recommendScore": "173",
-      "recommendCount": "504",
+      "recommendCount": "505",
       "title": "[新聞] 遭爆到醫院施壓 柯文哲否認：只問問發生什麼事",
       "link": "/bbs/Gossiping/M.1777004053.A.6AB",
       "author": "KZS",
@@ -184,23 +164,43 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/wR3gyq9/s/f71933e46840fafd22b0ad101bf8bd30"
     },
     {
-      "recommendScore": "213",
-      "recommendCount": "310",
-      "title": "[標的] 台指空",
-      "link": "/bbs/Stock/M.1777039477.A.D6D",
-      "author": "lodestar3749",
-      "board": "Stock",
-      "publishTime": "2026/04/24 14:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "42",
-      "recommendCount": "325",
+      "recommendScore": "43",
+      "recommendCount": "326",
       "title": "[新聞] 賴清德出訪受阻 蕭美琴：沒人有權阻擋我們",
       "link": "/bbs/Gossiping/M.1777026186.A.2E1",
       "author": "keel90135",
       "board": "Gossiping",
       "publishTime": "2026/04/24 10:23",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "211",
+      "recommendCount": "392",
+      "title": "[情報] 苦命第1節10分是有統計以來老鷹替補最高",
+      "link": "/bbs/NBA/M.1776996283.A.131",
+      "author": "yniori",
+      "board": "NBA",
+      "publishTime": "2026/04/24 02:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "146",
+      "recommendCount": "403",
+      "title": "[新聞] 彈劾賴清德總統投票日確定了 5月19日立院表決大戰",
+      "link": "/bbs/Gossiping/M.1777001285.A.5C3",
+      "author": "chopper594",
+      "board": "Gossiping",
+      "publishTime": "2026/04/24 03:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "217",
+      "recommendCount": "476",
+      "title": "[請益] 朋友疑似陷入期貨代操詐騙？",
+      "link": "/bbs/Stock/M.1777031542.A.2E4",
+      "author": "shutout5566",
+      "board": "Stock",
+      "publishTime": "2026/04/24 11:52",
       "imageUrl": ""
     }
   ]
