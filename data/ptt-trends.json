@@ -1,8 +1,18 @@
 {
-  "updated": "2026-04-24T17:52:52.933Z",
+  "updated": "2026-04-24T18:18:35.826Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "325",
+      "recommendCount": "1096",
+      "title": "[問卦] 幹！你們為什麼不反中了？？？",
+      "link": "/bbs/Gossiping/M.1776999113.A.895",
+      "author": "kons",
+      "board": "Gossiping",
+      "publishTime": "2026/04/24 02:51",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "273",
       "recommendCount": "798",
@@ -14,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "339",
-      "recommendCount": "700",
+      "recommendScore": "340",
+      "recommendCount": "701",
       "title": "[請益] 為何大盤狂漲，個股幾乎都崩爛?",
       "link": "/bbs/Stock/M.1777004412.A.54D",
       "author": "darkstar07",
@@ -34,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "314",
-      "recommendCount": "599",
+      "recommendScore": "315",
+      "recommendCount": "611",
       "title": "[新聞] 賴總統出訪遭取消飛航許可出現羅生門？張競：模里西斯稱從未同意申請",
       "link": "/bbs/Gossiping/M.1777031331.A.308",
       "author": "novashine",
@@ -45,7 +55,7 @@
     },
     {
       "recommendScore": "280",
-      "recommendCount": "508",
+      "recommendCount": "511",
       "title": "[新聞] 快訊／搶銀行嫌犯畫面曝光！雨鞋、蒙面持假槍　搶1千萬後遭逮",
       "link": "/bbs/Gossiping/M.1777022439.A.9C3",
       "author": "pdz",
@@ -144,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "249",
-      "recommendCount": "353",
+      "recommendScore": "250",
+      "recommendCount": "355",
       "title": "[標的] 台指空",
       "link": "/bbs/Stock/M.1777039477.A.D6D",
       "author": "lodestar3749",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/04/24 04:14",
       "imageUrl": "https://cache.pttweb.cc/imgur/wR3gyq9/s/f71933e46840fafd22b0ad101bf8bd30"
-    },
-    {
-      "recommendScore": "211",
-      "recommendCount": "392",
-      "title": "[情報] 苦命第1節10分是有統計以來老鷹替補最高",
-      "link": "/bbs/NBA/M.1776996283.A.131",
-      "author": "yniori",
-      "board": "NBA",
-      "publishTime": "2026/04/24 02:04",
-      "imageUrl": ""
     }
   ]
 }
