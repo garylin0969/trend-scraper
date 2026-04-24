@@ -1,14 +1,22 @@
 {
-  "updated": "2026-04-24T00:01:05.348Z",
+  "updated": "2026-04-24T01:04:44.825Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-04-24T00:01:01.000Z",
+    "lastBuildDate": "2026-04-24T01:04:35.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "GDP增長超預期，消費冷感揮之不去，中國經濟「溫差」何來？",
+      "description": "疫情以來，中國經濟一直困於一個公認的結構性困境：供給強於需求，外需好於內需，出口一直被視為拉動增長的最重要引擎。如今內需貢獻率驟然躍至近85%，這個結論，與近年來經濟學家的分析、外界的普遍評價，乃至普通人的體感，都不太相符。",
+      "link": "https://www.bbc.com/zhongwen/articles/c2ev9nzp99yo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-24T00:26:39.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c2ev9nzp99yo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aa80/live/74f8f0d0-3ef4-11f1-95e9-c9f2031e3375.jpg"
+    },
     {
       "title": "美伊霍爾木茲相互鎖喉中國「意外」受到關注，特朗普訪華會再度延期嗎？",
       "description": "被指與中國有關聯的船舶接連成為焦點，這些船隻或嘗試突破美方封鎖後折返，或被美軍扣押。學者向BBC中文分析海灣局勢將如何影響特朗普下月的訪華行程及中美關係發展。",
@@ -16,14 +24,6 @@
       "pubDate": "2026-04-23T09:32:12.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c1l962v7y22o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3599/live/98ec6400-3ef3-11f1-95e9-c9f2031e3375.jpg"
-    },
-    {
-      "title": "中國挺過了特朗普關稅，但現在伊朗戰爭的影響來了",
-      "description": "中東的衝突正對中國以出口為導向的經濟造成衝擊，為工廠訂單、成本和就業帶來壓力。",
-      "link": "https://www.bbc.com/zhongwen/articles/ckg9q1zvg15o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-23T03:24:19.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckg9q1zvg15o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/411e/live/38447e10-3e73-11f1-b55d-0f258dce1735.jpg"
     },
     {
       "title": "索馬利蘭: 「非洲之角」的大國博弈與台灣能源佈局背後的美中角力",
@@ -34,12 +34,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8a8d/live/54187c10-3ecb-11f1-b55d-0f258dce1735.jpg"
     },
     {
-      "title": "中國新一波「出海」商品：火鍋、奶茶與運動服如何走向全球",
-      "description": "「中國製造」過去往往意味著廉價、量產的商品，但如今一批新的中國品牌正迅速崛起。",
-      "link": "https://www.bbc.com/zhongwen/articles/cge040yl0rpo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-22T03:26:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cge040yl0rpo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/88d6/live/163e6770-3a4c-11f1-9d5c-8ba507d7dbde.jpg"
+      "title": "中國挺過了特朗普關稅，但現在伊朗戰爭的影響來了",
+      "description": "中東的衝突正對中國以出口為導向的經濟造成衝擊，為工廠訂單、成本和就業帶來壓力。",
+      "link": "https://www.bbc.com/zhongwen/articles/ckg9q1zvg15o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-23T03:24:19.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckg9q1zvg15o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/411e/live/38447e10-3e73-11f1-b55d-0f258dce1735.jpg"
     },
     {
       "title": "億萬富豪孫宇晨指控特朗普家族旗下加密貨幣公司涉「勒索」",
@@ -48,6 +48,14 @@
       "pubDate": "2026-04-23T08:33:33.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cg407rlgpq6o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9fb9/live/14ab1e50-3e5f-11f1-8887-e93160959470.jpg"
+    },
+    {
+      "title": "中國新一波「出海」商品：火鍋、奶茶與運動服如何走向全球",
+      "description": "「中國製造」過去往往意味著廉價、量產的商品，但如今一批新的中國品牌正迅速崛起。",
+      "link": "https://www.bbc.com/zhongwen/articles/cge040yl0rpo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-22T03:26:25.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cge040yl0rpo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/88d6/live/163e6770-3a4c-11f1-9d5c-8ba507d7dbde.jpg"
     },
     {
       "title": "五角大樓：美國海軍部長約翰・費蘭即時離任",
@@ -104,14 +112,6 @@
       "pubDate": "2026-04-21T01:37:25.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx2dr18rz2eo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/64cd/live/5ed64190-3cab-11f1-8659-276ea07eb2ce.jpg"
-    },
-    {
-      "title": "蘋果公司任命約翰·特納斯為新CEO，接替蒂姆・庫克",
-      "description": "約翰・特納斯將接掌這家科技巨頭的日常營運，庫克則將升任執行董事長。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx26zn366z7o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-21T04:41:51.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx26zn366z7o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fd24/live/5d5e1f40-3d55-11f1-879d-1b2f5c3919b8.jpg"
     },
     {
       "title": "宏福苑居民災後首度「回家」執拾 ：「每一位居民都不甘心」",
