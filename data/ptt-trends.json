@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-25T04:44:08.102Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2026-04-25T05:29:38.075Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "368",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "397",
-      "recommendCount": "664",
+      "recommendScore": "410",
+      "recommendCount": "680",
       "title": "[BOX ] Lakers 112:108 Rockets",
       "link": "/bbs/NBA/M.1777086189.A.39F",
       "author": "jason911152",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "297",
-      "recommendCount": "473",
+      "recommendScore": "318",
+      "recommendCount": "513",
       "title": "[討論] 第四節剩2:11後，41歲老詹表現",
       "link": "/bbs/NBA/M.1777086255.A.848",
       "author": "robinkidd",
@@ -54,13 +54,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "52",
-      "recommendCount": "596",
+      "recommendScore": "58",
+      "recommendCount": "639",
       "title": "[新聞] 陳駿季：發芽馬鈴薯 由業者逐顆檢查",
       "link": "/bbs/Gossiping/M.1777078397.A.38D",
       "author": "cheninher",
       "board": "Gossiping",
       "publishTime": "2026/04/25 00:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "206",
+      "recommendCount": "597",
+      "title": "[請益] 100萬到1000萬的具體操作策略",
+      "link": "/bbs/Stock/M.1777045519.A.14E",
+      "author": "zxcd951",
+      "board": "Stock",
+      "publishTime": "2026/04/24 15:45",
       "imageUrl": ""
     },
     {
@@ -74,18 +84,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/5jtVG9E/s/55bf2b89e787a81fd345385e34bbb4c1"
     },
     {
-      "recommendScore": "205",
-      "recommendCount": "594",
-      "title": "[請益] 100萬到1000萬的具體操作策略",
-      "link": "/bbs/Stock/M.1777045519.A.14E",
-      "author": "zxcd951",
-      "board": "Stock",
-      "publishTime": "2026/04/24 15:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "278",
-      "recommendCount": "393",
+      "recommendScore": "280",
+      "recommendCount": "395",
       "title": "[標的] 台指空",
       "link": "/bbs/Stock/M.1777039477.A.D6D",
       "author": "lodestar3749",
@@ -94,88 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "273",
-      "recommendCount": "573",
-      "title": "[討論] 火箭這群年輕人要留誰?",
-      "link": "/bbs/NBA/M.1777086784.A.506",
-      "author": "dogwithheart",
-      "board": "NBA",
-      "publishTime": "2026/04/25 03:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "295",
-      "recommendCount": "378",
-      "title": "[炸裂] 村上宗隆炸裂",
-      "link": "/bbs/Baseball/M.1777077668.A.FF7",
-      "author": "papapatodo",
-      "board": "Baseball",
-      "publishTime": "2026/04/25 00:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "43",
-      "recommendCount": "352",
-      "title": "[新聞] 賴清德出訪受阻 蕭美琴：沒人有權阻擋我們",
-      "link": "/bbs/Gossiping/M.1777026186.A.2E1",
-      "author": "keel90135",
-      "board": "Gossiping",
-      "publishTime": "2026/04/24 10:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "223",
-      "recommendCount": "338",
-      "title": "[情報] LBJ三分幫助湖人追平",
-      "link": "/bbs/NBA/M.1777084858.A.F66",
-      "author": "steven183",
-      "board": "NBA",
-      "publishTime": "2026/04/25 02:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "96",
-      "recommendCount": "652",
-      "title": "[新聞] XBX 高雄比台南難經營 洪一中:需要政府",
-      "link": "/bbs/Baseball/M.1777037711.A.2B6",
-      "author": "micheal59",
-      "board": "Baseball",
-      "publishTime": "2026/04/24 13:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "139",
-      "recommendCount": "393",
-      "title": "[新聞] 【內幕】防沈伯洋壓垮小雞　綠高層喊話「少談統獨、多談市政民生」",
-      "link": "/bbs/Gossiping/M.1777047527.A.3AF",
-      "author": "LeeSeDol",
-      "board": "Gossiping",
-      "publishTime": "2026/04/24 16:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "204",
-      "recommendCount": "309",
-      "title": "[情報] 今日Marcus Smart聰明",
-      "link": "/bbs/NBA/M.1777086482.A.482",
-      "author": "Chang0212",
-      "board": "NBA",
-      "publishTime": "2026/04/25 03:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "23",
-      "recommendCount": "319",
-      "title": "[新聞] NCC癱瘓　蘋果新機恐難來台",
-      "link": "/bbs/Gossiping/M.1777037944.A.44D",
-      "author": "au4g3wk4k",
-      "board": "Gossiping",
-      "publishTime": "2026/04/24 13:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "215",
-      "recommendCount": "281",
+      "recommendScore": "267",
+      "recommendCount": "346",
       "title": "Re: [問卦] 娶越南人是被台灣兩性市場淘汰的？！",
       "link": "/bbs/Gossiping/M.1777080808.A.783",
       "author": "briankof",
@@ -184,8 +104,98 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/CIJ6cOI/s/90e48c82573e6acf5765a637e8532931"
     },
     {
-      "recommendScore": "241",
-      "recommendCount": "636",
+      "recommendScore": "290",
+      "recommendCount": "598",
+      "title": "[討論] 火箭這群年輕人要留誰?",
+      "link": "/bbs/NBA/M.1777086784.A.506",
+      "author": "dogwithheart",
+      "board": "NBA",
+      "publishTime": "2026/04/25 03:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "298",
+      "recommendCount": "386",
+      "title": "[炸裂] 村上宗隆炸裂",
+      "link": "/bbs/Baseball/M.1777077668.A.FF7",
+      "author": "papapatodo",
+      "board": "Baseball",
+      "publishTime": "2026/04/25 00:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "232",
+      "recommendCount": "351",
+      "title": "[情報] LBJ三分幫助湖人追平",
+      "link": "/bbs/NBA/M.1777084858.A.F66",
+      "author": "steven183",
+      "board": "NBA",
+      "publishTime": "2026/04/25 02:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "45",
+      "recommendCount": "356",
+      "title": "[新聞] 賴清德出訪受阻 蕭美琴：沒人有權阻擋我們",
+      "link": "/bbs/Gossiping/M.1777026186.A.2E1",
+      "author": "keel90135",
+      "board": "Gossiping",
+      "publishTime": "2026/04/24 10:23",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "96",
+      "recommendCount": "653",
+      "title": "[新聞] XBX 高雄比台南難經營 洪一中:需要政府",
+      "link": "/bbs/Baseball/M.1777037711.A.2B6",
+      "author": "micheal59",
+      "board": "Baseball",
+      "publishTime": "2026/04/24 13:35",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "142",
+      "recommendCount": "400",
+      "title": "[新聞] 【內幕】防沈伯洋壓垮小雞　綠高層喊話「少談統獨、多談市政民生」",
+      "link": "/bbs/Gossiping/M.1777047527.A.3AF",
+      "author": "LeeSeDol",
+      "board": "Gossiping",
+      "publishTime": "2026/04/24 16:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "210",
+      "recommendCount": "318",
+      "title": "[情報] 今日Marcus Smart聰明",
+      "link": "/bbs/NBA/M.1777086482.A.482",
+      "author": "Chang0212",
+      "board": "NBA",
+      "publishTime": "2026/04/25 03:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "22",
+      "recommendCount": "320",
+      "title": "[新聞] NCC癱瘓　蘋果新機恐難來台",
+      "link": "/bbs/Gossiping/M.1777037944.A.44D",
+      "author": "au4g3wk4k",
+      "board": "Gossiping",
+      "publishTime": "2026/04/24 13:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "157",
+      "recommendCount": "333",
+      "title": "[新聞] 噁！高雄豬肉攤深夜驚見「巨鼠狂嗑生肉」隔天仍正常營業",
+      "link": "/bbs/Gossiping/M.1777071831.A.127",
+      "author": "Workforme",
+      "board": "Gossiping",
+      "publishTime": "2026/04/24 23:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "242",
+      "recommendCount": "639",
       "title": "[花邊] Kevin O'Connor:不知道Kerr看到Kuminga在老鷹的表現會怎麼想",
       "link": "/bbs/NBA/M.1777024739.A.D2D",
       "author": "mike37",
