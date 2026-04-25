@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T11:56:30.302Z",
+  "updated": "2026-04-25T12:18:09.999Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,6 +14,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "55",
+      "recommendCount": "746",
+      "title": "[新聞] 陳駿季：發芽馬鈴薯 由業者逐顆檢查",
+      "link": "/bbs/Gossiping/M.1777078397.A.38D",
+      "author": "cheninher",
+      "board": "Gossiping",
+      "publishTime": "2026/04/25 00:53",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "408",
       "recommendCount": "491",
       "title": "[炸裂] 林安可 2分砲 猛打賞",
@@ -24,18 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "55",
-      "recommendCount": "743",
-      "title": "[新聞] 陳駿季：發芽馬鈴薯 由業者逐顆檢查",
-      "link": "/bbs/Gossiping/M.1777078397.A.38D",
-      "author": "cheninher",
-      "board": "Gossiping",
-      "publishTime": "2026/04/25 00:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "314",
-      "recommendCount": "554",
+      "recommendScore": "330",
+      "recommendCount": "573",
       "title": "[新聞] 上億打造亞太成棒主球場靠「手舀排水」市府致歉",
       "link": "/bbs/Baseball/M.1777110789.A.C63",
       "author": "leftavoid",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "295",
-      "recommendCount": "463",
+      "recommendScore": "299",
+      "recommendCount": "467",
       "title": "[新聞] 太扯！亞太成棒主球場又出包 雨後積水未退排水系統失靈凸顯工程瑕疵",
       "link": "/bbs/Baseball/M.1777104566.A.456",
       "author": "micheal59",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "347",
-      "recommendCount": "397",
+      "recommendScore": "352",
+      "recommendCount": "405",
       "title": "[分享] 今日林安可",
       "link": "/bbs/Baseball/M.1777107688.A.5A9",
       "author": "O10lOl01O",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "318",
-      "recommendCount": "641",
+      "recommendScore": "319",
+      "recommendCount": "642",
       "title": "[討論] 火箭這群年輕人要留誰?",
       "link": "/bbs/NBA/M.1777086784.A.506",
       "author": "dogwithheart",
@@ -114,8 +114,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/CIJ6cOI/s/90e48c82573e6acf5765a637e8532931"
     },
     {
-      "recommendScore": "251",
-      "recommendCount": "375",
+      "recommendScore": "252",
+      "recommendCount": "376",
       "title": "[情報] LBJ三分幫助湖人追平",
       "link": "/bbs/NBA/M.1777084858.A.F66",
       "author": "steven183",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "217",
-      "recommendCount": "330",
+      "recommendScore": "218",
+      "recommendCount": "331",
       "title": "[情報] 今日Marcus Smart聰明",
       "link": "/bbs/NBA/M.1777086482.A.482",
       "author": "Chang0212",
@@ -185,7 +185,7 @@
     },
     {
       "recommendScore": "236",
-      "recommendCount": "433",
+      "recommendCount": "436",
       "title": "[心得] 空軍週末取暖區",
       "link": "/bbs/Stock/M.1777083514.A.79B",
       "author": "aries0419",
