@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-25T10:36:55.749Z",
+  "updated": "2026-04-25T10:59:09.333Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "437",
-      "recommendCount": "717",
+      "recommendCount": "718",
       "title": "[BOX ] Lakers 112:108 Rockets",
       "link": "/bbs/NBA/M.1777086189.A.39F",
       "author": "jason911152",
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "54",
-      "recommendCount": "728",
+      "recommendCount": "730",
       "title": "[新聞] 陳駿季：發芽馬鈴薯 由業者逐顆檢查",
       "link": "/bbs/Gossiping/M.1777078397.A.38D",
       "author": "cheninher",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "397",
-      "recommendCount": "478",
+      "recommendScore": "400",
+      "recommendCount": "481",
       "title": "[炸裂] 林安可 2分砲 猛打賞",
       "link": "/bbs/Baseball/M.1777105194.A.1B2",
       "author": "jumpballfan",
@@ -54,13 +54,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "285",
-      "recommendCount": "446",
+      "recommendScore": "288",
+      "recommendCount": "452",
       "title": "[新聞] 太扯！亞太成棒主球場又出包 雨後積水未退排水系統失靈凸顯工程瑕疵",
       "link": "/bbs/Baseball/M.1777104566.A.456",
       "author": "micheal59",
       "board": "Baseball",
       "publishTime": "2026/04/25 08:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "325",
+      "recommendCount": "372",
+      "title": "[分享] 今日林安可",
+      "link": "/bbs/Baseball/M.1777107688.A.5A9",
+      "author": "O10lOl01O",
+      "board": "Baseball",
+      "publishTime": "2026/04/25 09:01",
       "imageUrl": ""
     },
     {
@@ -84,16 +94,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "315",
-      "recommendCount": "360",
-      "title": "[分享] 今日林安可",
-      "link": "/bbs/Baseball/M.1777107688.A.5A9",
-      "author": "O10lOl01O",
-      "board": "Baseball",
-      "publishTime": "2026/04/25 09:01",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "283",
       "recommendCount": "398",
       "title": "[標的] 台指空",
@@ -112,6 +112,16 @@
       "board": "Gossiping",
       "publishTime": "2026/04/25 01:33",
       "imageUrl": "https://cache.pttweb.cc/imgur/CIJ6cOI/s/90e48c82573e6acf5765a637e8532931"
+    },
+    {
+      "recommendScore": "225",
+      "recommendCount": "413",
+      "title": "[新聞] 上億打造亞太成棒主球場靠「手舀排水」市府致歉",
+      "link": "/bbs/Baseball/M.1777110789.A.C63",
+      "author": "leftavoid",
+      "board": "Baseball",
+      "publishTime": "2026/04/25 09:53",
+      "imageUrl": ""
     },
     {
       "recommendScore": "250",
@@ -144,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "277",
-      "recommendCount": "304",
+      "recommendScore": "278",
+      "recommendCount": "305",
       "title": "[情報] 今日Dylan Harper",
       "link": "/bbs/NBA/M.1777094691.A.B5C",
       "author": "love1500274",
@@ -154,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "146",
-      "recommendCount": "411",
+      "recommendScore": "148",
+      "recommendCount": "413",
       "title": "[新聞] 【內幕】防沈伯洋壓垮小雞　綠高層喊話「少談統獨、多談市政民生」",
       "link": "/bbs/Gossiping/M.1777047527.A.3AF",
       "author": "LeeSeDol",
@@ -185,22 +195,12 @@
     },
     {
       "recommendScore": "235",
-      "recommendCount": "430",
+      "recommendCount": "432",
       "title": "[心得] 空軍週末取暖區",
       "link": "/bbs/Stock/M.1777083514.A.79B",
       "author": "aries0419",
       "board": "Stock",
       "publishTime": "2026/04/25 02:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "153",
-      "recommendCount": "366",
-      "title": "[新聞] 地獄1小時！她拒絕75次仍遭性侵　南韓法院判惡狼無罪：未積極抵抗",
-      "link": "/bbs/Gossiping/M.1777077707.A.0E5",
-      "author": "nobady98",
-      "board": "Gossiping",
-      "publishTime": "2026/04/25 00:41",
       "imageUrl": ""
     }
   ]
