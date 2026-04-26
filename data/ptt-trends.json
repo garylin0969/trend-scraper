@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T19:13:14.574Z",
+  "updated": "2026-04-26T19:36:17.301Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "642",
+      "recommendScore": "246",
+      "recommendCount": "645",
       "title": "[問卦] 實測 高德地圖",
       "link": "/bbs/Gossiping/M.1777185753.A.F52",
       "author": "Dukkha",
@@ -105,7 +105,7 @@
     },
     {
       "recommendScore": "129",
-      "recommendCount": "412",
+      "recommendCount": "413",
       "title": "[新聞] 她揭：沈伯洋24小時聲量封頂，曝露蔣萬安「避戰」軟肋",
       "link": "/bbs/Gossiping/M.1777176617.A.D97",
       "author": "tiger911",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "129",
+      "recommendCount": "305",
+      "title": "[問卦] 脆：11月28日回台灣投票！",
+      "link": "/bbs/Gossiping/M.1777178398.A.72B",
+      "author": "pigpigcom123",
+      "board": "Gossiping",
+      "publishTime": "2026/04/26 04:39",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "693",
       "recommendCount": "1500",
       "title": "[情報] 今日先發之阿明有先發",
@@ -191,16 +201,6 @@
       "author": "nanashin",
       "board": "Elephants",
       "publishTime": "2026/04/26 07:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "130",
-      "recommendCount": "304",
-      "title": "[問卦] 脆：11月28日回台灣投票！",
-      "link": "/bbs/Gossiping/M.1777178398.A.72B",
-      "author": "pigpigcom123",
-      "board": "Gossiping",
-      "publishTime": "2026/04/26 04:39",
       "imageUrl": ""
     }
   ]
