@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-26T12:29:18.848Z",
+  "updated": "2026-04-26T12:52:28.932Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "529",
-      "recommendCount": "577",
+      "recommendCount": "579",
       "title": "Re: [閒聊] 爆哥是不是快扛不住了",
       "link": "/bbs/C_Chat/M.1777146876.A.290",
       "author": "xhibaoger",
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "347",
-      "recommendCount": "737",
+      "recommendCount": "738",
       "title": "[爆卦] 沈伯洋：國民黨在台北70年 被記者打臉",
       "link": "/bbs/Gossiping/M.1777164084.A.316",
       "author": "Skyblueway",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-81",
-      "recommendCount": "558",
+      "recommendScore": "-80",
+      "recommendCount": "559",
       "title": "[情報] SGA:「我不需要哨子」",
       "link": "/bbs/NBA/M.1777174606.A.FA6",
       "author": "VeryGoodBoy",
@@ -44,8 +44,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/omzn6Ys/s/ad179f825318bbe34da3ff55e88a1fa2"
     },
     {
-      "recommendScore": "175",
-      "recommendCount": "518",
+      "recommendScore": "176",
+      "recommendCount": "521",
       "title": "[新聞] 蔣萬安緊張了！綠營台北超強戰將要來了",
       "link": "/bbs/Gossiping/M.1777162740.A.BC6",
       "author": "bb10181128",
@@ -64,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "163",
+      "recommendCount": "564",
+      "title": "[新聞] 曾沛慈翻車了？突脫口「我的祖籍泉州」畫面曝光…網傻眼：最不想的事情發生了",
+      "link": "/bbs/Gossiping/M.1777197597.A.62A",
+      "author": "LeeSeDol",
+      "board": "Gossiping",
+      "publishTime": "2026/04/26 09:59",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "305",
       "recommendCount": "561",
       "title": "[BOX ] Nuggets 96:112 Timberwolves",
@@ -74,18 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "148",
-      "recommendCount": "531",
-      "title": "[新聞] 曾沛慈翻車了？突脫口「我的祖籍泉州」畫面曝光…網傻眼：最不想的事情發生了",
-      "link": "/bbs/Gossiping/M.1777197597.A.62A",
-      "author": "LeeSeDol",
-      "board": "Gossiping",
-      "publishTime": "2026/04/26 09:59",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "122",
-      "recommendCount": "396",
+      "recommendScore": "123",
+      "recommendCount": "399",
       "title": "[新聞] 她揭：沈伯洋24小時聲量封頂，曝露蔣萬安「避戰」軟肋",
       "link": "/bbs/Gossiping/M.1777176617.A.D97",
       "author": "tiger911",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "227",
-      "recommendCount": "586",
+      "recommendScore": "231",
+      "recommendCount": "591",
       "title": "[問卦] 實測 高德地圖",
       "link": "/bbs/Gossiping/M.1777185753.A.F52",
       "author": "Dukkha",
@@ -104,13 +104,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "206",
-      "recommendCount": "565",
+      "recommendScore": "214",
+      "recommendCount": "587",
       "title": "[問卦] 怎麼委婉的告訴朋友 他小孩可能有問題",
       "link": "/bbs/Gossiping/M.1777192942.A.C43",
       "author": "flameon5566",
       "board": "Gossiping",
       "publishTime": "2026/04/26 08:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "292",
+      "recommendCount": "299",
+      "title": "Re: [LIVE] 澳A 阿德雷德聯 @ 墨爾本城 場中",
+      "link": "/bbs/SportLottery/M.1777196250.A.E1C",
+      "author": "b032819",
+      "board": "SportLottery",
+      "publishTime": "2026/04/26 09:37",
       "imageUrl": ""
     },
     {
@@ -124,33 +134,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "284",
-      "recommendCount": "291",
-      "title": "Re: [LIVE] 澳A 阿德雷德聯 @ 墨爾本城 場中",
-      "link": "/bbs/SportLottery/M.1777196250.A.E1C",
-      "author": "b032819",
-      "board": "SportLottery",
-      "publishTime": "2026/04/26 09:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "32",
-      "recommendCount": "562",
-      "title": "[標的] 2330台積電 孟恭chika多",
-      "link": "/bbs/Stock/M.1777128229.A.101",
-      "author": "prokofieff",
-      "board": "Stock",
-      "publishTime": "2026/04/25 14:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "230",
-      "recommendCount": "302",
+      "recommendScore": "244",
+      "recommendCount": "316",
       "title": "[炸裂] 劉子杰生涯首轟再見全壘打",
       "link": "/bbs/Baseball/M.1777204659.A.DBE",
       "author": "IagoAspas",
       "board": "Baseball",
       "publishTime": "2026/04/26 11:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "32",
+      "recommendCount": "564",
+      "title": "[標的] 2330台積電 孟恭chika多",
+      "link": "/bbs/Stock/M.1777128229.A.101",
+      "author": "prokofieff",
+      "board": "Stock",
+      "publishTime": "2026/04/25 14:43",
       "imageUrl": ""
     },
     {
