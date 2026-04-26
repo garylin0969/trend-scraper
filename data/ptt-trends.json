@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-26T20:33:22.179Z",
+  "updated": "2026-04-26T20:56:35.291Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "353",
-      "recommendCount": "754",
+      "recommendCount": "755",
       "title": "[爆卦] 沈伯洋：國民黨在台北70年 被記者打臉",
       "link": "/bbs/Gossiping/M.1777164084.A.316",
       "author": "Skyblueway",
@@ -34,8 +34,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/omzn6Ys/s/ad179f825318bbe34da3ff55e88a1fa2"
     },
     {
+      "recommendScore": "486",
+      "recommendCount": "519",
+      "title": "[炸裂] 李灝宇",
+      "link": "/bbs/Baseball/M.1777231910.A.5F2",
+      "author": "SeanLi1013",
+      "board": "Baseball",
+      "publishTime": "2026/04/26 19:31",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "216",
-      "recommendCount": "738",
+      "recommendCount": "739",
       "title": "[新聞] 曾沛慈翻車了？突脫口「我的祖籍泉州」畫面曝光…網傻眼：最不想的事情發生了",
       "link": "/bbs/Gossiping/M.1777197597.A.62A",
       "author": "LeeSeDol",
@@ -45,22 +55,12 @@
     },
     {
       "recommendScore": "275",
-      "recommendCount": "806",
+      "recommendCount": "809",
       "title": "[問卦] 怎麼委婉的告訴朋友 他小孩可能有問題",
       "link": "/bbs/Gossiping/M.1777192942.A.C43",
       "author": "flameon5566",
       "board": "Gossiping",
       "publishTime": "2026/04/26 08:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "399",
-      "recommendCount": "424",
-      "title": "[炸裂] 李灝宇",
-      "link": "/bbs/Baseball/M.1777231910.A.5F2",
-      "author": "SeanLi1013",
-      "board": "Baseball",
-      "publishTime": "2026/04/26 19:31",
       "imageUrl": ""
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "recommendScore": "246",
-      "recommendCount": "645",
+      "recommendCount": "648",
       "title": "[問卦] 實測 高德地圖",
       "link": "/bbs/Gossiping/M.1777185753.A.F52",
       "author": "Dukkha",
