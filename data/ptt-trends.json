@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T05:28:09.425Z",
+  "updated": "2026-04-26T06:17:18.968Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "296",
-      "recommendCount": "611",
+      "recommendScore": "298",
+      "recommendCount": "622",
       "title": "[新聞] 籲藍別看不起沈伯洋！媒體人：他像顆隨時會炸裂的未爆彈",
       "link": "/bbs/Gossiping/M.1777116601.A.610",
       "author": "spermjapan",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "477",
-      "recommendCount": "522",
+      "recommendScore": "483",
+      "recommendCount": "528",
       "title": "Re: [閒聊] 爆哥是不是快扛不住了",
       "link": "/bbs/C_Chat/M.1777146876.A.290",
       "author": "xhibaoger",
@@ -34,14 +34,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "399",
-      "recommendCount": "796",
+      "recommendScore": "411",
+      "recommendCount": "822",
       "title": "[花邊] Jokic衝上去找McDaniels發生大場面",
       "link": "/bbs/NBA/M.1777173978.A.C30",
       "author": "dragon803",
       "board": "NBA",
       "publishTime": "2026/04/26 03:26",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "317",
+      "recommendCount": "668",
+      "title": "[爆卦] 沈伯洋：國民黨在台北70年 被記者打臉",
+      "link": "/bbs/Gossiping/M.1777164084.A.316",
+      "author": "Skyblueway",
+      "board": "Gossiping",
+      "publishTime": "2026/04/26 00:41",
+      "imageUrl": "https://cache.pttweb.cc/imgur/3y2oKPO/s/712ed8d636b85c1f954be66047d9c084"
     },
     {
       "recommendScore": "411",
@@ -54,16 +64,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "300",
-      "recommendCount": "605",
-      "title": "[爆卦] 沈伯洋：國民黨在台北70年 被記者打臉",
-      "link": "/bbs/Gossiping/M.1777164084.A.316",
-      "author": "Skyblueway",
-      "board": "Gossiping",
-      "publishTime": "2026/04/26 00:41",
-      "imageUrl": "https://cache.pttweb.cc/imgur/3y2oKPO/s/712ed8d636b85c1f954be66047d9c084"
-    },
-    {
       "recommendScore": "378",
       "recommendCount": "431",
       "title": "[分享] 今日林安可",
@@ -74,28 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "305",
-      "recommendCount": "478",
-      "title": "[新聞] 太扯！亞太成棒主球場又出包 雨後積水未退排水系統失靈凸顯工程瑕疵",
-      "link": "/bbs/Baseball/M.1777104566.A.456",
-      "author": "micheal59",
-      "board": "Baseball",
-      "publishTime": "2026/04/25 08:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "263",
-      "recommendCount": "488",
-      "title": "[新聞] 快訊／川普宣布「取消停火談判」！指示代表團：不用前往巴勒斯坦",
-      "link": "/bbs/Stock/M.1777134841.A.F6F",
-      "author": "qazxc1156892",
-      "board": "Stock",
-      "publishTime": "2026/04/25 16:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-27",
-      "recommendCount": "426",
+      "recommendScore": "-41",
+      "recommendCount": "458",
       "title": "[情報] SGA:「我不需要哨子」",
       "link": "/bbs/NBA/M.1777174606.A.FA6",
       "author": "VeryGoodBoy",
@@ -104,13 +84,43 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/omzn6Ys/s/ad179f825318bbe34da3ff55e88a1fa2"
     },
     {
-      "recommendScore": "152",
-      "recommendCount": "460",
+      "recommendScore": "306",
+      "recommendCount": "479",
+      "title": "[新聞] 太扯！亞太成棒主球場又出包 雨後積水未退排水系統失靈凸顯工程瑕疵",
+      "link": "/bbs/Baseball/M.1777104566.A.456",
+      "author": "micheal59",
+      "board": "Baseball",
+      "publishTime": "2026/04/25 08:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "264",
+      "recommendCount": "489",
+      "title": "[新聞] 快訊／川普宣布「取消停火談判」！指示代表團：不用前往巴勒斯坦",
+      "link": "/bbs/Stock/M.1777134841.A.F6F",
+      "author": "qazxc1156892",
+      "board": "Stock",
+      "publishTime": "2026/04/25 16:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "162",
+      "recommendCount": "478",
       "title": "[新聞] 蔣萬安緊張了！綠營台北超強戰將要來了",
       "link": "/bbs/Gossiping/M.1777162740.A.BC6",
       "author": "bb10181128",
       "board": "Gossiping",
       "publishTime": "2026/04/26 00:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "290",
+      "recommendCount": "538",
+      "title": "[BOX ] Nuggets 96:112 Timberwolves",
+      "link": "/bbs/NBA/M.1777173846.A.57E",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2026/04/26 03:24",
       "imageUrl": ""
     },
     {
@@ -124,18 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "284",
-      "recommendCount": "528",
-      "title": "[BOX ] Nuggets 96:112 Timberwolves",
-      "link": "/bbs/NBA/M.1777173846.A.57E",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2026/04/26 03:24",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "221",
-      "recommendCount": "524",
+      "recommendCount": "527",
       "title": "[新聞] 「大賣空」貝瑞重押半導體崩盤 稱費半終將「跌回原型」",
       "link": "/bbs/Stock/M.1777113361.A.B43",
       "author": "trumpet999",
@@ -155,7 +155,7 @@
     },
     {
       "recommendScore": "131",
-      "recommendCount": "429",
+      "recommendCount": "433",
       "title": "[問卦] 金管會是想讓中小企業滅亡嗎?",
       "link": "/bbs/Gossiping/M.1777110315.A.122",
       "author": "lelena",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "10",
-      "recommendCount": "442",
+      "recommendScore": "19",
+      "recommendCount": "489",
       "title": "[標的] 2330台積電 孟恭chika多",
       "link": "/bbs/Stock/M.1777128229.A.101",
       "author": "prokofieff",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "205",
-      "recommendCount": "302",
+      "recommendScore": "206",
+      "recommendCount": "303",
       "title": "[分享] CPBL戰績",
       "link": "/bbs/Baseball/M.1777121765.A.66B",
       "author": "tjbulls",
@@ -185,7 +185,7 @@
     },
     {
       "recommendScore": "177",
-      "recommendCount": "396",
+      "recommendCount": "399",
       "title": "[問卦] 生育率為什麼一直破新低",
       "link": "/bbs/Gossiping/M.1777115031.A.D1F",
       "author": "racefirst",
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "209",
-      "recommendCount": "308",
+      "recommendScore": "210",
+      "recommendCount": "314",
       "title": "[情報] Anthony Edwards 膝傷退場",
       "link": "/bbs/NBA/M.1777168023.A.122",
       "author": "willy911006",
