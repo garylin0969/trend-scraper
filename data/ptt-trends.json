@@ -1,11 +1,11 @@
 {
-  "updated": "2026-04-26T12:52:28.932Z",
+  "updated": "2026-04-26T13:31:52.982Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "529",
-      "recommendCount": "579",
+      "recommendScore": "530",
+      "recommendCount": "580",
       "title": "Re: [閒聊] 爆哥是不是快扛不住了",
       "link": "/bbs/C_Chat/M.1777146876.A.290",
       "author": "xhibaoger",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "347",
-      "recommendCount": "738",
+      "recommendScore": "350",
+      "recommendCount": "746",
       "title": "[爆卦] 沈伯洋：國民黨在台北70年 被記者打臉",
       "link": "/bbs/Gossiping/M.1777164084.A.316",
       "author": "Skyblueway",
@@ -24,8 +24,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/3y2oKPO/s/712ed8d636b85c1f954be66047d9c084"
     },
     {
-      "recommendScore": "436",
-      "recommendCount": "858",
+      "recommendScore": "437",
+      "recommendCount": "859",
       "title": "[花邊] Jokic衝上去找McDaniels發生大場面",
       "link": "/bbs/NBA/M.1777173978.A.C30",
       "author": "dragon803",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-80",
-      "recommendCount": "559",
+      "recommendScore": "-81",
+      "recommendCount": "562",
       "title": "[情報] SGA:「我不需要哨子」",
       "link": "/bbs/NBA/M.1777174606.A.FA6",
       "author": "VeryGoodBoy",
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "176",
+      "recommendCount": "608",
+      "title": "[新聞] 曾沛慈翻車了？突脫口「我的祖籍泉州」畫面曝光…網傻眼：最不想的事情發生了",
+      "link": "/bbs/Gossiping/M.1777197597.A.62A",
+      "author": "LeeSeDol",
+      "board": "Gossiping",
+      "publishTime": "2026/04/26 09:59",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "268",
       "recommendCount": "496",
       "title": "[新聞] 快訊／川普宣布「取消停火談判」！指示代表團：不用前往巴勒斯坦",
@@ -64,18 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "163",
-      "recommendCount": "564",
-      "title": "[新聞] 曾沛慈翻車了？突脫口「我的祖籍泉州」畫面曝光…網傻眼：最不想的事情發生了",
-      "link": "/bbs/Gossiping/M.1777197597.A.62A",
-      "author": "LeeSeDol",
-      "board": "Gossiping",
-      "publishTime": "2026/04/26 09:59",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "305",
-      "recommendCount": "561",
+      "recommendScore": "306",
+      "recommendCount": "562",
       "title": "[BOX ] Nuggets 96:112 Timberwolves",
       "link": "/bbs/NBA/M.1777173846.A.57E",
       "author": "jason911152",
@@ -84,28 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "123",
-      "recommendCount": "399",
-      "title": "[新聞] 她揭：沈伯洋24小時聲量封頂，曝露蔣萬安「避戰」軟肋",
-      "link": "/bbs/Gossiping/M.1777176617.A.D97",
-      "author": "tiger911",
-      "board": "Gossiping",
-      "publishTime": "2026/04/26 04:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "231",
-      "recommendCount": "591",
-      "title": "[問卦] 實測 高德地圖",
-      "link": "/bbs/Gossiping/M.1777185753.A.F52",
-      "author": "Dukkha",
-      "board": "Gossiping",
-      "publishTime": "2026/04/26 06:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "214",
-      "recommendCount": "587",
+      "recommendScore": "229",
+      "recommendCount": "629",
       "title": "[問卦] 怎麼委婉的告訴朋友 他小孩可能有問題",
       "link": "/bbs/Gossiping/M.1777192942.A.C43",
       "author": "flameon5566",
@@ -114,8 +94,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "292",
-      "recommendCount": "299",
+      "recommendScore": "234",
+      "recommendCount": "599",
+      "title": "[問卦] 實測 高德地圖",
+      "link": "/bbs/Gossiping/M.1777185753.A.F52",
+      "author": "Dukkha",
+      "board": "Gossiping",
+      "publishTime": "2026/04/26 06:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "124",
+      "recommendCount": "400",
+      "title": "[新聞] 她揭：沈伯洋24小時聲量封頂，曝露蔣萬安「避戰」軟肋",
+      "link": "/bbs/Gossiping/M.1777176617.A.D97",
+      "author": "tiger911",
+      "board": "Gossiping",
+      "publishTime": "2026/04/26 04:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "303",
+      "recommendCount": "310",
       "title": "Re: [LIVE] 澳A 阿德雷德聯 @ 墨爾本城 場中",
       "link": "/bbs/SportLottery/M.1777196250.A.E1C",
       "author": "b032819",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "316",
+      "recommendScore": "249",
+      "recommendCount": "322",
       "title": "[炸裂] 劉子杰生涯首轟再見全壘打",
       "link": "/bbs/Baseball/M.1777204659.A.DBE",
       "author": "IagoAspas",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "32",
-      "recommendCount": "564",
+      "recommendScore": "34",
+      "recommendCount": "569",
       "title": "[標的] 2330台積電 孟恭chika多",
       "link": "/bbs/Stock/M.1777128229.A.101",
       "author": "prokofieff",
@@ -154,23 +154,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "168",
-      "recommendCount": "347",
+      "recommendScore": "169",
+      "recommendCount": "349",
       "title": "[花邊] Jokic:我不後悔衝上去 我不是為了激勵球隊",
       "link": "/bbs/NBA/M.1777177754.A.345",
       "author": "EZ78",
       "board": "NBA",
       "publishTime": "2026/04/26 04:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "207",
-      "recommendCount": "304",
-      "title": "[分享] CPBL戰績",
-      "link": "/bbs/Baseball/M.1777121765.A.66B",
-      "author": "tjbulls",
-      "board": "Baseball",
-      "publishTime": "2026/04/25 12:56",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "C_Chat",
       "publishTime": "2026/04/26 02:05",
       "imageUrl": "https://cache.pttweb.cc/imgur/G5ACCqT/s/51af76a7ea2f9c2860f5b03cb2066de6"
+    },
+    {
+      "recommendScore": "692",
+      "recommendCount": "1500",
+      "title": "[情報] 今日先發之阿明有先發",
+      "link": "/bbs/Elephants/M.1777190110.A.D9E",
+      "author": "nanashin",
+      "board": "Elephants",
+      "publishTime": "2026/04/26 07:55",
+      "imageUrl": ""
     }
   ]
 }
