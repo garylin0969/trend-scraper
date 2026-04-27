@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T20:51:19.791Z",
+  "updated": "2026-04-27T21:16:54.921Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "213",
+      "recommendCount": "586",
+      "title": "[問卦] 脆熱議：台海兵推24次，台灣贏22次！",
+      "link": "/bbs/Gossiping/M.1777296540.A.E32",
+      "author": "pigpigcom123",
+      "board": "Gossiping",
+      "publishTime": "2026/04/27 13:29",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "206",
       "recommendCount": "692",
       "title": "[問卦] 中國做對了啥？為啥越來越多人親中？",
@@ -41,16 +51,6 @@
       "author": "bam5566",
       "board": "Gossiping",
       "publishTime": "2026/04/27 04:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "209",
-      "recommendCount": "577",
-      "title": "[問卦] 脆熱議：台海兵推24次，台灣贏22次！",
-      "link": "/bbs/Gossiping/M.1777296540.A.E32",
-      "author": "pigpigcom123",
-      "board": "Gossiping",
-      "publishTime": "2026/04/27 13:29",
       "imageUrl": ""
     },
     {
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "223",
-      "recommendCount": "418",
+      "recommendScore": "225",
+      "recommendCount": "421",
       "title": "[請益] 該獲利了結嗎",
       "link": "/bbs/Stock/M.1777292923.A.9F4",
       "author": "jkilonger123",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "235",
-      "recommendCount": "358",
+      "recommendScore": "236",
+      "recommendCount": "359",
       "title": "[問卦] 最有名的昏君",
       "link": "/bbs/Gossiping/M.1777281906.A.D80",
       "author": "iolo1166",
@@ -115,7 +115,7 @@
     },
     {
       "recommendScore": "208",
-      "recommendCount": "924",
+      "recommendCount": "930",
       "title": "Re: [問卦] 中國做對了啥？為啥越來越多人親中？",
       "link": "/bbs/Gossiping/M.1777276928.A.EC3",
       "author": "fucKMT5566",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "160",
-      "recommendCount": "396",
+      "recommendScore": "161",
+      "recommendCount": "399",
       "title": "[新聞] 公務人員大逃亡！ 台鐵、消防、警察等工會要求調薪至少6000元",
       "link": "/bbs/Gossiping/M.1777287423.A.D8C",
       "author": "keel90135",
@@ -195,7 +195,7 @@
     },
     {
       "recommendScore": "182",
-      "recommendCount": "335",
+      "recommendCount": "336",
       "title": "[閒聊] 頑皮狗知道不該殺死《最後生還者》喬爾！",
       "link": "/bbs/C_Chat/M.1777285819.A.9A1",
       "author": "betweenus020",
