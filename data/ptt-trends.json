@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T11:05:44.410Z",
+  "updated": "2026-04-27T11:47:00.547Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,6 +14,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "456",
+      "recommendCount": "648",
+      "title": "[情報] 115年04月27日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1777273415.A.7C0",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2026/04/27 07:03",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "484",
       "recommendCount": "572",
       "title": "[情報] 今日李灝宇",
@@ -24,18 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "449",
-      "recommendCount": "636",
-      "title": "[情報] 115年04月27日 三大法人買賣金額統計表",
-      "link": "/bbs/Stock/M.1777273415.A.7C0",
-      "author": "coconing",
-      "board": "Stock",
-      "publishTime": "2026/04/27 07:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "420",
-      "recommendCount": "520",
+      "recommendScore": "421",
+      "recommendCount": "523",
       "title": "[新聞] 40K真的來了！台股4萬點時代來臨 台積電飆逾半根漲停板",
       "link": "/bbs/Stock/M.1777253112.A.D28",
       "author": "rz2x",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "313",
-      "recommendCount": "528",
+      "recommendScore": "317",
+      "recommendCount": "533",
       "title": "[新聞] 沈伯洋台北隊成形！吳思瑤接總幹事、吳沛憶掌組織",
       "link": "/bbs/Gossiping/M.1777251178.A.627",
       "author": "copybrown",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "196",
-      "recommendCount": "642",
+      "recommendScore": "198",
+      "recommendCount": "656",
       "title": "[問卦] 中國做對了啥？為啥越來越多人親中？",
       "link": "/bbs/Gossiping/M.1777265864.A.E19",
       "author": "bam5566",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "195",
-      "recommendCount": "618",
+      "recommendScore": "196",
+      "recommendCount": "621",
       "title": "[心得] 錯過這波漲幅很惋惜",
       "link": "/bbs/Stock/M.1777225735.A.829",
       "author": "icanaryi",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "225",
-      "recommendCount": "525",
+      "recommendScore": "226",
+      "recommendCount": "526",
       "title": "[新聞] 高雄女童如廁遭襲胸！少年還想帶入男廁",
       "link": "/bbs/Gossiping/M.1777244399.A.6C7",
       "author": "Workforme",
@@ -101,6 +101,16 @@
       "author": "IagoAspas",
       "board": "Baseball",
       "publishTime": "2026/04/26 11:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "183",
+      "recommendCount": "370",
+      "title": "[新聞] 沈伯洋小試身手吸藍營群起圍攻 簡舒培：撲馬出馬，萬安不安！",
+      "link": "/bbs/Gossiping/M.1777276611.A.0C5",
+      "author": "kaminari22tw",
+      "board": "Gossiping",
+      "publishTime": "2026/04/27 07:56",
       "imageUrl": ""
     },
     {
@@ -124,16 +134,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "170",
-      "recommendCount": "349",
-      "title": "[新聞] 沈伯洋小試身手吸藍營群起圍攻 簡舒培：撲馬出馬，萬安不安！",
-      "link": "/bbs/Gossiping/M.1777276611.A.0C5",
-      "author": "kaminari22tw",
-      "board": "Gossiping",
-      "publishTime": "2026/04/27 07:56",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "177",
       "recommendCount": "550",
       "title": "[新聞] 「台北市沒這麼藍」網紅Cheap以近3次選舉分析選情：沈伯洋這種市民超不愛",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "205",
-      "recommendCount": "447",
+      "recommendScore": "208",
+      "recommendCount": "451",
       "title": "[閒聊] 台V：早餐店加蛋要20元 太貴了！",
       "link": "/bbs/C_Chat/M.1777262908.A.4A3",
       "author": "Gina4290",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "96",
-      "recommendCount": "313",
+      "recommendScore": "97",
+      "recommendCount": "314",
       "title": "[新聞] 搭機喊「空姐、空少」不尊重 機組員暴氣！揭正確稱呼",
       "link": "/bbs/Gossiping/M.1777258861.A.1BE",
       "author": "poeta",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "208",
-      "recommendCount": "410",
+      "recommendScore": "210",
+      "recommendCount": "413",
       "title": "[新聞] 屋主大跳水！房市資金流向台股 「台積電炒作區」刊登量暴增",
       "link": "/bbs/Stock/M.1777261332.A.1F4",
       "author": "cjol",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "192",
-      "recommendCount": "519",
+      "recommendScore": "194",
+      "recommendCount": "527",
       "title": "[花邊] Wemby 對於腦震盪協議處理方式感到不滿",
       "link": "/bbs/NBA/M.1777249724.A.1FF",
       "author": "love1500274",
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "193",
-      "recommendCount": "284",
+      "recommendScore": "196",
+      "recommendCount": "287",
       "title": "[情報] 0427 上市外資買賣超排行",
       "link": "/bbs/Stock/M.1777277364.A.41A",
       "author": "paidzou",
