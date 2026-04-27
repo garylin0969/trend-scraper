@@ -1,21 +1,11 @@
 {
-  "updated": "2026-04-27T12:54:30.605Z",
+  "updated": "2026-04-27T13:37:05.078Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "1402",
-      "recommendCount": "1498",
-      "title": "[炸裂] 李灝宇",
-      "link": "/bbs/Baseball/M.1777231910.A.5F2",
-      "author": "SeanLi1013",
-      "board": "Baseball",
-      "publishTime": "2026/04/26 19:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "458",
-      "recommendCount": "660",
+      "recommendScore": "462",
+      "recommendCount": "666",
       "title": "[情報] 115年04月27日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1777273415.A.7C0",
       "author": "coconing",
@@ -34,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "423",
-      "recommendCount": "525",
+      "recommendScore": "425",
+      "recommendCount": "527",
       "title": "[新聞] 40K真的來了！台股4萬點時代來臨 台積電飆逾半根漲停板",
       "link": "/bbs/Stock/M.1777253112.A.D28",
       "author": "rz2x",
@@ -55,7 +45,7 @@
     },
     {
       "recommendScore": "198",
-      "recommendCount": "679",
+      "recommendCount": "682",
       "title": "[問卦] 中國做對了啥？為啥越來越多人親中？",
       "link": "/bbs/Gossiping/M.1777265864.A.E19",
       "author": "bam5566",
@@ -84,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "226",
-      "recommendCount": "529",
+      "recommendScore": "228",
+      "recommendCount": "532",
       "title": "[新聞] 高雄女童如廁遭襲胸！少年還想帶入男廁",
       "link": "/bbs/Gossiping/M.1777244399.A.6C7",
       "author": "Workforme",
@@ -94,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "197",
-      "recommendCount": "397",
+      "recommendScore": "203",
+      "recommendCount": "406",
       "title": "[新聞] 沈伯洋小試身手吸藍營群起圍攻 簡舒培：撲馬出馬，萬安不安！",
       "link": "/bbs/Gossiping/M.1777276611.A.0C5",
       "author": "kaminari22tw",
@@ -114,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "212",
-      "recommendCount": "460",
+      "recommendScore": "213",
+      "recommendCount": "461",
       "title": "[閒聊] 台V：早餐店加蛋要20元 太貴了！",
       "link": "/bbs/C_Chat/M.1777262908.A.4A3",
       "author": "Gina4290",
@@ -134,8 +124,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "96",
-      "recommendCount": "317",
+      "recommendScore": "204",
+      "recommendCount": "301",
+      "title": "[問卦] 最有名的昏君",
+      "link": "/bbs/Gossiping/M.1777281906.A.D80",
+      "author": "iolo1166",
+      "board": "Gossiping",
+      "publishTime": "2026/04/27 09:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "97",
+      "recommendCount": "318",
       "title": "[新聞] 搭機喊「空姐、空少」不尊重 機組員暴氣！揭正確稱呼",
       "link": "/bbs/Gossiping/M.1777258861.A.1BE",
       "author": "poeta",
@@ -164,33 +164,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "190",
-      "recommendCount": "283",
-      "title": "[問卦] 最有名的昏君",
-      "link": "/bbs/Gossiping/M.1777281906.A.D80",
-      "author": "iolo1166",
-      "board": "Gossiping",
-      "publishTime": "2026/04/27 09:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "198",
-      "recommendCount": "289",
-      "title": "[情報] 0427 上市外資買賣超排行",
-      "link": "/bbs/Stock/M.1777277364.A.41A",
-      "author": "paidzou",
-      "board": "Stock",
-      "publishTime": "2026/04/27 08:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "152",
-      "recommendCount": "341",
+      "recommendScore": "153",
+      "recommendCount": "352",
       "title": "[新聞] T112步槍沒立「鐵瞄」？顧立雄、陸軍參謀長答不出來　徐巧芯翻白眼",
       "link": "/bbs/Gossiping/M.1777270950.A.6AA",
       "author": "Nivava",
       "board": "Gossiping",
       "publishTime": "2026/04/27 06:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "184",
+      "recommendCount": "844",
+      "title": "Re: [問卦] 中國做對了啥？為啥越來越多人親中？",
+      "link": "/bbs/Gossiping/M.1777276928.A.EC3",
+      "author": "fucKMT5566",
+      "board": "Gossiping",
+      "publishTime": "2026/04/27 08:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "200",
+      "recommendCount": "291",
+      "title": "[情報] 0427 上市外資買賣超排行",
+      "link": "/bbs/Stock/M.1777277364.A.41A",
+      "author": "paidzou",
+      "board": "Stock",
+      "publishTime": "2026/04/27 08:09",
       "imageUrl": ""
     },
     {
