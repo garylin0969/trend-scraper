@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T21:34:09.116Z",
+  "updated": "2026-04-28T22:01:54.627Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "242",
+      "recommendCount": "504",
+      "title": "[問卦] 台南女警是被支持台獨的台女害死！？",
+      "link": "/bbs/Gossiping/M.1777386918.A.FF1",
+      "author": "cowardlyman",
+      "board": "Gossiping",
+      "publishTime": "2026/04/28 14:35",
+      "imageUrl": "https://cache.pttweb.cc/imgur/KJv1Sev/s/0f542c9fdb6ead31199398df81e24324"
+    },
+    {
       "recommendScore": "230",
       "recommendCount": "448",
       "title": "[新聞] 高雄某國小學生帶美工刀恐嚇同學「要弄死你」 家長報警控校園霸凌",
@@ -72,16 +82,6 @@
       "board": "Gossiping",
       "publishTime": "2026/04/28 00:29",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "235",
-      "recommendCount": "492",
-      "title": "[問卦] 台南女警是被支持台獨的台女害死！？",
-      "link": "/bbs/Gossiping/M.1777386918.A.FF1",
-      "author": "cowardlyman",
-      "board": "Gossiping",
-      "publishTime": "2026/04/28 14:35",
-      "imageUrl": "https://cache.pttweb.cc/imgur/KJv1Sev/s/0f542c9fdb6ead31199398df81e24324"
     },
     {
       "recommendScore": "241",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "255",
-      "recommendCount": "361",
+      "recommendScore": "256",
+      "recommendCount": "362",
       "title": "[情報] 動畫瘋新授權：鋼彈鐵血孤兒第ㄧ、二季",
       "link": "/bbs/C_Chat/M.1777349119.A.B2D",
       "author": "basala5417",
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "143",
+      "recommendCount": "333",
+      "title": "[新聞] 蘆洲女高中生遭尾隨嚇壞求救 外婆護孫遭毆斷鼻骨肝臟破 警速逮嫌犯",
+      "link": "/bbs/Gossiping/M.1777385204.A.E9E",
+      "author": "minche",
+      "board": "Gossiping",
+      "publishTime": "2026/04/28 14:06",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "231",
       "recommendCount": "442",
       "title": "[情報] Cooper Flagg 拿下2025-26年球季新人王",
@@ -192,16 +202,6 @@
       "board": "LoL",
       "publishTime": "2026/04/28 07:32",
       "imageUrl": "https://cache.pttweb.cc/imgur/1CkPXxy/s/24ecc86e566c569a3cc6e3e1a78d82a9"
-    },
-    {
-      "recommendScore": "141",
-      "recommendCount": "324",
-      "title": "[新聞] 蘆洲女高中生遭尾隨嚇壞求救 外婆護孫遭毆斷鼻骨肝臟破 警速逮嫌犯",
-      "link": "/bbs/Gossiping/M.1777385204.A.E9E",
-      "author": "minche",
-      "board": "Gossiping",
-      "publishTime": "2026/04/28 14:06",
-      "imageUrl": ""
     }
   ]
 }
