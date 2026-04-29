@@ -1,11 +1,31 @@
 {
-  "updated": "2026-04-29T13:10:40.992Z",
+  "updated": "2026-04-29T13:53:46.324Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "503",
-      "recommendCount": "876",
+      "recommendScore": "837",
+      "recommendCount": "942",
+      "title": "[炸裂] 王柏融",
+      "link": "/bbs/Baseball/M.1777469241.A.92B",
+      "author": "oliverchamps",
+      "board": "Baseball",
+      "publishTime": "2026/04/29 13:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "593",
+      "recommendCount": "1235",
+      "title": "[爆卦] 賴總統被德國和捷克拒絕過境",
+      "link": "/bbs/Gossiping/M.1777463675.A.160",
+      "author": "HisVol",
+      "board": "Gossiping",
+      "publishTime": "2026/04/29 11:54",
+      "imageUrl": "https://cache.pttweb.cc/imgur/6adT8T6/s/e8b634dac7cca6d265fede385aea98f0"
+    },
+    {
+      "recommendScore": "518",
+      "recommendCount": "896",
       "title": "[新聞] 若沈伯洋戰台北市長　網路民調曝「支持度贏蔣萬安兩倍」",
       "link": "/bbs/Gossiping/M.1777449164.A.58A",
       "author": "chopper594",
@@ -14,24 +34,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "557",
-      "recommendCount": "835",
+      "recommendScore": "566",
+      "recommendCount": "849",
       "title": "[請益] 台股4萬點，哪支股票還讓你慘套牢",
       "link": "/bbs/Stock/M.1777443545.A.C4F",
       "author": "DogNotSmell",
       "board": "Stock",
       "publishTime": "2026/04/29 06:19",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "475",
-      "recommendCount": "1007",
-      "title": "[爆卦] 賴總統被德國和捷克拒絕過境",
-      "link": "/bbs/Gossiping/M.1777463675.A.160",
-      "author": "HisVol",
-      "board": "Gossiping",
-      "publishTime": "2026/04/29 11:54",
-      "imageUrl": "https://cache.pttweb.cc/imgur/6adT8T6/s/e8b634dac7cca6d265fede385aea98f0"
     },
     {
       "recommendScore": "351",
@@ -74,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "237",
-      "recommendCount": "430",
+      "recommendScore": "238",
+      "recommendCount": "431",
       "title": "[問卦] 脆上出現超可怕海量網軍大讚某熊",
       "link": "/bbs/Gossiping/M.1777433231.A.E85",
       "author": "O12345678",
@@ -94,8 +104,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "191",
+      "recommendCount": "463",
+      "title": "[問卦] 脆:撞女警固然有錯 但不要扯政治傾向",
+      "link": "/bbs/Gossiping/M.1777458650.A.050",
+      "author": "kingfsg7326",
+      "board": "Gossiping",
+      "publishTime": "2026/04/29 10:30",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "196",
-      "recommendCount": "493",
+      "recommendCount": "495",
       "title": "[新聞] 玩到早上六點 女大生騎機車趕上課肇事",
       "link": "/bbs/Gossiping/M.1777418572.A.8C4",
       "author": "coffee112",
@@ -124,28 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "180",
-      "recommendCount": "432",
-      "title": "[問卦] 脆:撞女警固然有錯 但不要扯政治傾向",
-      "link": "/bbs/Gossiping/M.1777458650.A.050",
-      "author": "kingfsg7326",
-      "board": "Gossiping",
-      "publishTime": "2026/04/29 10:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "269",
-      "recommendCount": "377",
-      "title": "[分享] CPBL戰績",
-      "link": "/bbs/Baseball/M.1777381981.A.C7C",
-      "author": "nybbnan",
-      "board": "Baseball",
-      "publishTime": "2026/04/28 13:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "262",
-      "recommendCount": "417",
+      "recommendScore": "263",
+      "recommendCount": "419",
       "title": "[心得] 倖存者的醒悟",
       "link": "/bbs/Stock/M.1777438528.A.0CE",
       "author": "marsshen",
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "177",
+      "recommendCount": "410",
+      "title": "[新聞] 肇事女大生沒一句道歉 女警男友心碎發聲「好氣又無能為力」：都沒了！",
+      "link": "/bbs/Gossiping/M.1777447897.A.6CF",
+      "author": "cowardlyman",
+      "board": "Gossiping",
+      "publishTime": "2026/04/29 07:31",
+      "imageUrl": "https://cache.pttweb.cc/imgur/5GGpOL1/s/eaa24233fb26633fe3a96aebff5df889"
+    },
+    {
       "recommendScore": "18",
       "recommendCount": "489",
       "title": "[新聞] 《柯文哲拆忠孝橋引道疑涉圖利》馬郁雯︰改工法 費用從3.1億變3千萬",
@@ -174,33 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "175",
-      "recommendCount": "404",
-      "title": "[新聞] 肇事女大生沒一句道歉 女警男友心碎發聲「好氣又無能為力」：都沒了！",
-      "link": "/bbs/Gossiping/M.1777447897.A.6CF",
-      "author": "cowardlyman",
-      "board": "Gossiping",
-      "publishTime": "2026/04/29 07:31",
-      "imageUrl": "https://cache.pttweb.cc/imgur/5GGpOL1/s/eaa24233fb26633fe3a96aebff5df889"
-    },
-    {
-      "recommendScore": "288",
-      "recommendCount": "314",
-      "title": "[閒聊] 推特：可以不要用斜槓隔開 GEN 和二隊嗎",
-      "link": "/bbs/LoL/M.1777382823.A.799",
-      "author": "y12544",
-      "board": "LoL",
-      "publishTime": "2026/04/28 13:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "191",
-      "recommendCount": "385",
+      "recommendScore": "196",
+      "recommendCount": "397",
       "title": "[新聞] 女警遭輾斃！女騎士只看車損「殯儀館也無視家屬」　網轟：太惡劣",
       "link": "/bbs/Gossiping/M.1777451832.A.A49",
       "author": "Kazmier",
       "board": "Gossiping",
       "publishTime": "2026/04/29 08:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "138",
+      "recommendCount": "349",
+      "title": "[問卦] 害死女警的女大生 拒絕道歉耶",
+      "link": "/bbs/Gossiping/M.1777447585.A.BED",
+      "author": "GLNB2RJ8",
+      "board": "Gossiping",
+      "publishTime": "2026/04/29 07:26",
       "imageUrl": ""
     }
   ]
