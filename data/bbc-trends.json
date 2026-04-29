@@ -1,14 +1,22 @@
 {
-  "updated": "2026-04-29T03:22:17.097Z",
+  "updated": "2026-04-29T04:52:22.365Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-04-29T03:22:01.000Z",
+    "lastBuildDate": "2026-04-29T04:52:15.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "英王查爾斯三世訪美：向美國國會發表歷史性演說的五大要點",
+      "description": "演說中有一些部分，可能令民主黨人備受鼓舞，卻讓白宮方面側目。",
+      "link": "https://www.bbc.com/zhongwen/articles/c93x525wkppo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-29T04:21:19.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c93x525wkppo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/04dd/live/4be42d20-4347-11f1-92c0-150b8e44bb63.jpg"
+    },
     {
       "title": "英王查理斯三世赴美展開國事訪問，料將聲言捍衛「民主價值」",
       "description": "英王查理斯三世將於週二在美國國會發表演說，預料將就上週六發生的槍擊襲擊表達慰問。",
@@ -34,20 +42,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c50b/live/f5be4960-42ad-11f1-ac78-2112837ce2aa.jpg"
     },
     {
-      "title": "如果沒有美國，北約還靠得住嗎？",
-      "description": "在沒有美國的情況下，歐洲國家是否能集結足夠的政治與軍事力量來保衛自身？",
-      "link": "https://www.bbc.com/zhongwen/articles/czx9x21rxn7o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-28T00:10:34.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/czx9x21rxn7o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ebd1/live/183b2a00-3efb-11f1-95e9-c9f2031e3375.jpg"
-    },
-    {
       "title": "伊朗戰爭：美國在中東地區「偷雲」的虛假說法是如何流傳的？",
       "description": "從伊拉克到伊朗，毫無根據的「天氣戰爭」指控正於網上蔓延。",
       "link": "https://www.bbc.com/zhongwen/articles/cg7p90mx45vo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-28T07:41:56.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cg7p90mx45vo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1940/live/f2014b30-421a-11f1-af30-5bf899ef6a6b.png"
+    },
+    {
+      "title": "如果沒有美國，北約還靠得住嗎？",
+      "description": "在沒有美國的情況下，歐洲國家是否能集結足夠的政治與軍事力量來保衛自身？",
+      "link": "https://www.bbc.com/zhongwen/articles/czx9x21rxn7o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-28T00:10:34.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/czx9x21rxn7o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ebd1/live/183b2a00-3efb-11f1-95e9-c9f2031e3375.jpg"
     },
     {
       "title": "安踏：一個正挑戰耐克與阿迪達斯的中國運動品牌",
@@ -106,14 +114,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dab5/live/4aaca9d0-411e-11f1-b55d-0f258dce1735.jpg"
     },
     {
-      "title": "白宮備忘錄指中國公司通過「蒸餾」活動大規模竊取美國AI技術",
-      "description": "所謂的「蒸餾」活動通常來自一些公司。這些公司往往會針對特定的AI聊天機器人或工具，運作數以千計的個人帳號，使其看起來就像一般使用者。\n",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgk9yw5x7yo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-24T04:17:52.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgk9yw5x7yo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7a85/live/6b1b6930-3f53-11f1-b55d-0f258dce1735.jpg"
-    },
-    {
       "title": "支付平台與電騙集團關聯被凍結 中國示威者柬埔寨爆衝突",
       "description": "數十名中國示威者在4月27日聚集柬埔寨國家銀行外抗議，要求解凍他們在「匯旺支付」平台開設的帳戶。抗議演變為與保安人員肢體衝突，有人流血受傷。",
       "link": "https://www.bbc.com/zhongwen/articles/c392kzx44gdo/trad?at_medium=RSS&at_campaign=rss",
@@ -154,20 +154,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ece/live/795d8600-37fa-11f1-8606-05fe34b06e1b.jpg"
     },
     {
+      "title": "白宮備忘錄指中國公司通過「蒸餾」活動大規模竊取美國AI技術",
+      "description": "所謂的「蒸餾」活動通常來自一些公司。這些公司往往會針對特定的AI聊天機器人或工具，運作數以千計的個人帳號，使其看起來就像一般使用者。\n",
+      "link": "https://www.bbc.com/zhongwen/articles/cvgk9yw5x7yo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-24T04:17:52.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvgk9yw5x7yo/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7a85/live/6b1b6930-3f53-11f1-b55d-0f258dce1735.jpg"
+    },
+    {
       "title": "白宮記者晚宴槍擊案：31歲男子被捕、特勤人員中彈——我們還知道什麼？",
       "description": "美國總統特朗普與第一夫人梅拉尼婭在傳出槍聲後，被迅速帶離現場。",
       "link": "https://www.bbc.com/zhongwen/articles/cx292l9pxwpo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-26T06:38:01.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx292l9pxwpo/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5aa2/live/2c514bf0-413a-11f1-ac78-2112837ce2aa.jpg"
-    },
-    {
-      "title": "圖輯：華盛頓宴會廳驟響槍聲，晚宴現場陷入混亂",
-      "description": "當特朗普總統被緊急帶離舞台時，持槍的特勤局人員迅速湧入華盛頓一間酒店的宴會廳。",
-      "link": "https://www.bbc.com/zhongwen/articles/ckgegv1p41no/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-26T06:54:21.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckgegv1p41no/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1eb0/live/4a86fa90-4138-11f1-a08d-bd20ad597c45.jpg"
     },
     {
       "title": "美伊霍爾木茲相互鎖喉中國「意外」受到關注，特朗普訪華會再度延期嗎？",
