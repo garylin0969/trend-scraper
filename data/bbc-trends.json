@@ -1,14 +1,22 @@
 {
-  "updated": "2026-04-29T09:54:53.355Z",
+  "updated": "2026-04-29T10:53:10.513Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-04-29T09:54:47.000Z",
+    "lastBuildDate": "2026-04-29T10:53:09.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "《穿Prada的惡魔2》陷種族歧視爭議：亞洲首映受關注，有專家稱這是能影響一代人的「嚴肅問題」",
+      "description": "《穿Prada的惡魔2》釋出影片中的亞裔角色形象惹爭議，學者指出這樣落後扁平、非常刻板印象化的亞裔形象會影響一代人的心理健康。",
+      "link": "https://www.bbc.com/zhongwen/articles/c86dlxxv1dzo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-29T10:17:23.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c86dlxxv1dzo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2833/live/fd04f2d0-43a9-11f1-ac78-2112837ce2aa.jpg"
+    },
     {
       "title": "英王查爾斯三世訪美：向美國國會發表歷史性演說的五大要點",
       "description": "演說中有一些部分，可能令民主黨人備受鼓舞，卻讓白宮方面側目。",
@@ -42,14 +50,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cd8b/live/0d18fdb0-4229-11f1-b1fb-7beaa4094668.jpg"
     },
     {
-      "title": "伊朗戰爭：美國在中東地區「偷雲」的虛假說法是如何流傳的？",
-      "description": "從伊拉克到伊朗，毫無根據的「天氣戰爭」指控正於網上蔓延。",
-      "link": "https://www.bbc.com/zhongwen/articles/cg7p90mx45vo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-28T07:41:56.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cg7p90mx45vo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1940/live/f2014b30-421a-11f1-af30-5bf899ef6a6b.png"
-    },
-    {
       "title": "英王查理斯三世赴美展開國事訪問，料將聲言捍衛「民主價值」",
       "description": "英王查理斯三世將於週二在美國國會發表演說，預料將就上週六發生的槍擊襲擊表達慰問。",
       "link": "https://www.bbc.com/zhongwen/articles/cn4p98l48eqo/trad?at_medium=RSS&at_campaign=rss",
@@ -74,12 +74,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c50b/live/f5be4960-42ad-11f1-ac78-2112837ce2aa.jpg"
     },
     {
-      "title": "中國阻止Meta以20億美元收購人工智能初創公司Manus",
-      "description": "有關交易是在中國監管機構就該項與Facebook母公司達成的協議，進行數月審查後出現的結果。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1d274yn2q9o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-28T06:18:53.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1d274yn2q9o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e98b/live/33358e40-422f-11f1-8502-4993a1291976.jpg"
+      "title": "伊朗戰爭：美國在中東地區「偷雲」的虛假說法是如何流傳的？",
+      "description": "從伊拉克到伊朗，毫無根據的「天氣戰爭」指控正於網上蔓延。",
+      "link": "https://www.bbc.com/zhongwen/articles/cg7p90mx45vo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-28T07:41:56.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cg7p90mx45vo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1940/live/f2014b30-421a-11f1-af30-5bf899ef6a6b.png"
     },
     {
       "title": "安踏：一個正挑戰耐克與阿迪達斯的中國運動品牌",
