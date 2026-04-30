@@ -1,25 +1,45 @@
 {
-  "updated": "2026-04-30T21:52:38.587Z",
+  "updated": "2026-04-30T22:26:15.636Z",
   "trends": [
     {
       "googleTrend": "阮慕驊",
+      "searchVolume": "200+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "aapl",
       "searchVolume": "100+",
       "started": "1 小時前"
     },
     {
-      "googleTrend": "nvda",
+      "googleTrend": "台灣彩券",
+      "searchVolume": "200+",
+      "started": "40 分鐘前"
+    },
+    {
+      "googleTrend": "道瓊工業平均指數",
       "searchVolume": "200+",
       "started": "30 分鐘前"
     },
     {
-      "googleTrend": "台灣彩券",
-      "searchVolume": "200+",
-      "started": "10 分鐘前"
+      "googleTrend": "中國",
+      "searchVolume": "100+",
+      "started": "50 分鐘前"
     },
     {
       "googleTrend": "sndk",
       "searchVolume": "200+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "nvda",
+      "searchVolume": "200+",
       "started": "1 小時前"
+    },
+    {
+      "googleTrend": "vix指數",
+      "searchVolume": "200+",
+      "started": "30 分鐘前"
     }
   ]
 }
