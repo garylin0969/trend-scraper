@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T06:53:08.628Z",
+  "updated": "2026-05-02T07:35:37.811Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "478",
-      "recommendCount": "816",
+      "recommendScore": "485",
+      "recommendCount": "824",
       "title": "[BOX ] Lakers 98:78 Rockets (LAL 4-2 HOU)",
       "link": "/bbs/NBA/M.1777695265.A.AB3",
       "author": "KC90",
@@ -24,8 +24,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "198",
-      "recommendCount": "490",
+      "recommendScore": "188",
+      "recommendCount": "503",
+      "title": "[新聞] 好心工廠老闆收留出獄男 拒借錢竟被殺全家",
+      "link": "/bbs/Gossiping/M.1777695312.A.CDD",
+      "author": "yukihira",
+      "board": "Gossiping",
+      "publishTime": "2026/05/02 04:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "201",
+      "recommendCount": "505",
       "title": "[爆卦] 戴姓女大生真的來靈堂上香了",
       "link": "/bbs/Gossiping/M.1777688637.A.C3A",
       "author": "kekeyoung",
@@ -54,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "239",
-      "recommendCount": "526",
+      "recommendScore": "240",
+      "recommendCount": "530",
       "title": "[新聞] 快訊／高雄車禍再添1死　岳母、女婿走路遭轎車從後方猛撞亡",
       "link": "/bbs/Gossiping/M.1777649063.A.FDE",
       "author": "qazxc1156892",
@@ -64,18 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "159",
-      "recommendCount": "419",
-      "title": "[新聞] 好心工廠老闆收留出獄男 拒借錢竟被殺全家",
-      "link": "/bbs/Gossiping/M.1777695312.A.CDD",
-      "author": "yukihira",
-      "board": "Gossiping",
-      "publishTime": "2026/05/02 04:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "170",
-      "recommendCount": "664",
+      "recommendScore": "173",
+      "recommendCount": "672",
       "title": "[問卦] 天啊！女生最累的職業排行榜第一竟然是",
       "link": "/bbs/Gossiping/M.1777676211.A.AD6",
       "author": "the06512",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "236",
-      "recommendCount": "397",
+      "recommendScore": "238",
+      "recommendCount": "400",
       "title": "[BOX ] Pistons 93:79 Magic",
       "link": "/bbs/NBA/M.1777685988.A.FE6",
       "author": "jason911152",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "96",
-      "recommendCount": "449",
+      "recommendScore": "99",
+      "recommendCount": "461",
       "title": "[新聞] 國安法修法 鼓吹武統重罰百萬 藍委及高金反對",
       "link": "/bbs/Gossiping/M.1777676443.A.EED",
       "author": "justice2008",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "236",
-      "recommendCount": "316",
+      "recommendScore": "237",
+      "recommendCount": "317",
       "title": "[花邊] RJ BARRETT續命G7 THE彈",
       "link": "/bbs/NBA/M.1777689080.A.54D",
       "author": "willy911006",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "143",
-      "recommendCount": "456",
+      "recommendScore": "145",
+      "recommendCount": "460",
       "title": "[問卦] 都沒人敢直接說義美豆漿就是不夠熟嗎",
       "link": "/bbs/Gossiping/M.1777644431.A.B95",
       "author": "duane",
@@ -164,24 +164,34 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "593",
-      "recommendCount": "1500",
-      "title": "[情報] 今日一軍先發",
-      "link": "/bbs/Elephants/M.1777619915.A.3F1",
-      "author": "tony900735",
-      "board": "Elephants",
-      "publishTime": "2026/05/01 07:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "183",
-      "recommendCount": "302",
+      "recommendScore": "188",
+      "recommendCount": "311",
       "title": "[情報] 湖人vs雷霆定於美國時間5月5號進行",
       "link": "/bbs/NBA/M.1777697218.A.CA7",
       "author": "NTD300w",
       "board": "NBA",
       "publishTime": "2026/05/02 04:46",
       "imageUrl": "https://cache.pttweb.cc/imgur/YvXTOdX/s/1952d555f90214964ff7f330446b876a"
+    },
+    {
+      "recommendScore": "157",
+      "recommendCount": "523",
+      "title": "[問卦] 機器人真的有料嗎？東森節目都在嘲笑",
+      "link": "/bbs/Gossiping/M.1777693361.A.33D",
+      "author": "wwwson1256",
+      "board": "Gossiping",
+      "publishTime": "2026/05/02 03:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "201",
+      "recommendCount": "291",
+      "title": "[炸裂] 村上宗隆 NO.13 獨居全壘打王",
+      "link": "/bbs/Baseball/M.1777688481.A.956",
+      "author": "carlchang092",
+      "board": "Baseball",
+      "publishTime": "2026/05/02 02:21",
+      "imageUrl": ""
     },
     {
       "recommendScore": "240",
@@ -192,16 +202,6 @@
       "board": "NBA",
       "publishTime": "2026/05/01 08:24",
       "imageUrl": "https://cache.pttweb.cc/imgur/sbwOesV/s/3a721fc5eb371464e8d7fba173da5ee7"
-    },
-    {
-      "recommendScore": "198",
-      "recommendCount": "287",
-      "title": "[炸裂] 村上宗隆 NO.13 獨居全壘打王",
-      "link": "/bbs/Baseball/M.1777688481.A.956",
-      "author": "carlchang092",
-      "board": "Baseball",
-      "publishTime": "2026/05/02 02:21",
-      "imageUrl": ""
     }
   ]
 }
