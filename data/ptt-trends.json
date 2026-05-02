@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-02T14:37:03.039Z",
+  "updated": "2026-05-02T14:59:56.577Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "485",
-      "recommendCount": "1355",
+      "recommendScore": "496",
+      "recommendCount": "1394",
       "title": "[新聞] 快訊／還是去成了！　賴清德突然抵達史瓦帝尼",
       "link": "/bbs/Gossiping/M.1777717679.A.614",
       "author": "Waitaha",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "184",
-      "recommendCount": "649",
+      "recommendScore": "183",
+      "recommendCount": "663",
       "title": "[新聞] 被學姐一句話惹毛了　名嘴吳靜怡「別逼我參選幹爆妳」",
       "link": "/bbs/Gossiping/M.1777716449.A.BD3",
       "author": "l983",
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "279",
+      "recommendCount": "680",
+      "title": "[新聞] 保密到家！賴清德搭乘史瓦帝尼國王專機直飛史國",
+      "link": "/bbs/Gossiping/M.1777723021.A.F37",
+      "author": "CREA",
+      "board": "Gossiping",
+      "publishTime": "2026/05/02 11:57",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "221",
       "recommendCount": "568",
       "title": "[爆卦] 戴姓女大生真的來靈堂上香了",
@@ -54,18 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "254",
-      "recommendCount": "619",
-      "title": "[新聞] 保密到家！賴清德搭乘史瓦帝尼國王專機直飛史國",
-      "link": "/bbs/Gossiping/M.1777723021.A.F37",
-      "author": "CREA",
-      "board": "Gossiping",
-      "publishTime": "2026/05/02 11:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "175",
-      "recommendCount": "537",
+      "recommendScore": "177",
+      "recommendCount": "542",
       "title": "[新聞] 獨家》台南肇事女大生赴女警靈堂致歉憂被打 行前打110報案",
       "link": "/bbs/Gossiping/M.1777715241.A.ED6",
       "author": "youhow0418",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "614",
+      "recommendScore": "248",
+      "recommendCount": "628",
       "title": "[新聞] 快訊／賴抵史國　陸外交部火速開嗆「偷渡式外竄鬧劇」",
       "link": "/bbs/Gossiping/M.1777721519.A.197",
       "author": "tenfu",
@@ -114,13 +114,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "304",
-      "recommendCount": "375",
+      "recommendScore": "307",
+      "recommendCount": "378",
       "title": "Fw: [情報] 我中的勒索病毒被解鎖了!!!!!!!!!",
       "link": "/bbs/Gossiping/M.1777707289.A.305",
       "author": "kidbaby",
       "board": "Gossiping",
       "publishTime": "2026/05/02 07:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "306",
+      "recommendCount": "494",
+      "title": "[討論] 湖人對雷霆是不是沒有懸念了？",
+      "link": "/bbs/NBA/M.1777714900.A.9D7",
+      "author": "chocobo4235",
+      "board": "NBA",
+      "publishTime": "2026/05/02 09:41",
       "imageUrl": ""
     },
     {
@@ -144,13 +154,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "298",
-      "recommendCount": "483",
-      "title": "[討論] 湖人對雷霆是不是沒有懸念了？",
-      "link": "/bbs/NBA/M.1777714900.A.9D7",
-      "author": "chocobo4235",
-      "board": "NBA",
-      "publishTime": "2026/05/02 09:41",
+      "recommendScore": "240",
+      "recommendCount": "509",
+      "title": "[新聞] 台積電霸權動搖？英特爾封裝良率狂飆90%！三大科技巨頭全面搶結盟",
+      "link": "/bbs/Stock/M.1777699190.A.8B5",
+      "author": "htjnt",
+      "board": "Stock",
+      "publishTime": "2026/05/02 05:19",
       "imageUrl": ""
     },
     {
@@ -164,18 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "239",
-      "recommendCount": "508",
-      "title": "[新聞] 台積電霸權動搖？英特爾封裝良率狂飆90%！三大科技巨頭全面搶結盟",
-      "link": "/bbs/Stock/M.1777699190.A.8B5",
-      "author": "htjnt",
-      "board": "Stock",
-      "publishTime": "2026/05/02 05:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "300",
-      "recommendCount": "1174",
+      "recommendScore": "299",
+      "recommendCount": "1177",
       "title": "[情報] LBJ季後賽157次25+5+5斷檔領先MJ兩倍多",
       "link": "/bbs/NBA/M.1777700374.A.2D2",
       "author": "yniori",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "160",
-      "recommendCount": "378",
+      "recommendScore": "161",
+      "recommendCount": "380",
       "title": "[新聞] 台北市長挺誰？最新網路投票出爐「他」竟贏27％",
       "link": "/bbs/Gossiping/M.1777703074.A.D83",
       "author": "TPPKoWenJe",
