@@ -1,26 +1,26 @@
 {
-  "updated": "2026-05-02T11:47:18.450Z",
+  "updated": "2026-05-02T12:04:21.979Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "288",
-      "recommendCount": "794",
-      "title": "[新聞] 好心工廠老闆收留出獄男 拒借錢竟被殺全家",
-      "link": "/bbs/Gossiping/M.1777695312.A.CDD",
-      "author": "yukihira",
-      "board": "Gossiping",
-      "publishTime": "2026/05/02 04:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "340",
-      "recommendCount": "915",
+      "recommendScore": "380",
+      "recommendCount": "1058",
       "title": "[新聞] 快訊／還是去成了！　賴清德突然抵達史瓦帝尼",
       "link": "/bbs/Gossiping/M.1777717679.A.614",
       "author": "Waitaha",
       "board": "Gossiping",
       "publishTime": "2026/05/02 10:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "290",
+      "recommendCount": "797",
+      "title": "[新聞] 好心工廠老闆收留出獄男 拒借錢竟被殺全家",
+      "link": "/bbs/Gossiping/M.1777695312.A.CDD",
+      "author": "yukihira",
+      "board": "Gossiping",
+      "publishTime": "2026/05/02 04:15",
       "imageUrl": ""
     },
     {
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "218",
-      "recommendCount": "561",
+      "recommendScore": "219",
+      "recommendCount": "562",
       "title": "[爆卦] 戴姓女大生真的來靈堂上香了",
       "link": "/bbs/Gossiping/M.1777688637.A.C3A",
       "author": "kekeyoung",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "298",
-      "recommendCount": "378",
+      "recommendScore": "303",
+      "recommendCount": "383",
       "title": "[炸裂] 王念好",
       "link": "/bbs/Baseball/M.1777719165.A.99A",
       "author": "norel147",
@@ -84,8 +84,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "178",
-      "recommendCount": "693",
+      "recommendScore": "122",
+      "recommendCount": "433",
+      "title": "[新聞] 被學姐一句話惹毛了　名嘴吳靜怡「別逼我參選幹爆妳」",
+      "link": "/bbs/Gossiping/M.1777716449.A.BD3",
+      "author": "l983",
+      "board": "Gossiping",
+      "publishTime": "2026/05/02 10:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "179",
+      "recommendCount": "694",
       "title": "[問卦] 天啊！女生最累的職業排行榜第一竟然是",
       "link": "/bbs/Gossiping/M.1777676211.A.AD6",
       "author": "the06512",
@@ -104,28 +114,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "99",
-      "recommendCount": "384",
-      "title": "[新聞] 被學姐一句話惹毛了　名嘴吳靜怡「別逼我參選幹爆妳」",
-      "link": "/bbs/Gossiping/M.1777716449.A.BD3",
-      "author": "l983",
+      "recommendScore": "144",
+      "recommendCount": "442",
+      "title": "[新聞] 獨家》台南肇事女大生赴女警靈堂致歉憂被打 行前打110報案",
+      "link": "/bbs/Gossiping/M.1777715241.A.ED6",
+      "author": "youhow0418",
       "board": "Gossiping",
-      "publishTime": "2026/05/02 10:07",
+      "publishTime": "2026/05/02 09:47",
       "imageUrl": ""
     },
     {
-      "recommendScore": "291",
-      "recommendCount": "1135",
-      "title": "[情報] LBJ季後賽157次25+5+5斷檔領先MJ兩倍多",
-      "link": "/bbs/NBA/M.1777700374.A.2D2",
-      "author": "yniori",
-      "board": "NBA",
-      "publishTime": "2026/05/02 05:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "262",
-      "recommendCount": "323",
+      "recommendScore": "271",
+      "recommendCount": "337",
       "title": "Fw: [情報] 我中的勒索病毒被解鎖了!!!!!!!!!",
       "link": "/bbs/Gossiping/M.1777707289.A.305",
       "author": "kidbaby",
@@ -134,8 +134,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "294",
+      "recommendCount": "1142",
+      "title": "[情報] LBJ季後賽157次25+5+5斷檔領先MJ兩倍多",
+      "link": "/bbs/NBA/M.1777700374.A.2D2",
+      "author": "yniori",
+      "board": "NBA",
+      "publishTime": "2026/05/02 05:39",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "225",
-      "recommendCount": "472",
+      "recommendCount": "475",
       "title": "[新聞] 台積電霸權動搖？英特爾封裝良率狂飆90%！三大科技巨頭全面搶結盟",
       "link": "/bbs/Stock/M.1777699190.A.8B5",
       "author": "htjnt",
@@ -154,18 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "132",
-      "recommendCount": "416",
-      "title": "[新聞] 獨家》台南肇事女大生赴女警靈堂致歉憂被打 行前打110報案",
-      "link": "/bbs/Gossiping/M.1777715241.A.ED6",
-      "author": "youhow0418",
-      "board": "Gossiping",
-      "publishTime": "2026/05/02 09:47",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "187",
-      "recommendCount": "612",
+      "recommendCount": "616",
       "title": "[問卦] 機器人真的有料嗎？東森節目都在嘲笑",
       "link": "/bbs/Gossiping/M.1777693361.A.33D",
       "author": "wwwson1256",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "242",
-      "recommendCount": "322",
+      "recommendScore": "243",
+      "recommendCount": "323",
       "title": "[花邊] RJ BARRETT續命G7 THE彈",
       "link": "/bbs/NBA/M.1777689080.A.54D",
       "author": "willy911006",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "149",
-      "recommendCount": "345",
+      "recommendScore": "150",
+      "recommendCount": "350",
       "title": "[新聞] 台北市長挺誰？最新網路投票出爐「他」竟贏27％",
       "link": "/bbs/Gossiping/M.1777703074.A.D83",
       "author": "TPPKoWenJe",
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-86",
-      "recommendCount": "372",
+      "recommendScore": "-90",
+      "recommendCount": "385",
       "title": "[新聞] 因應護理人力荒 卓榮泰：已拜託考試院長題目不要出太難",
       "link": "/bbs/Gossiping/M.1777713152.A.7EA",
       "author": "lunyen",
