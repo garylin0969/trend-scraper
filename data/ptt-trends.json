@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T22:16:12.068Z",
+  "updated": "2026-05-02T22:33:26.084Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "337",
-      "recommendCount": "370",
-      "title": "[祭品] 李灝宇開轟",
-      "link": "/bbs/Baseball/M.1777673757.A.DDE",
-      "author": "hsuaninteen",
-      "board": "Baseball",
-      "publishTime": "2026/05/01 22:15",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "309",
       "recommendCount": "391",
       "title": "[炸裂] 王念好",
@@ -201,6 +191,16 @@
       "author": "TBOC",
       "board": "Gossiping",
       "publishTime": "2026/05/02 15:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "106",
+      "recommendCount": "473",
+      "title": "[新聞] 國安法修法 鼓吹武統重罰百萬 藍委及高金反對",
+      "link": "/bbs/Gossiping/M.1777676443.A.EED",
+      "author": "justice2008",
+      "board": "Gossiping",
+      "publishTime": "2026/05/01 23:00",
       "imageUrl": ""
     }
   ]
