@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T16:50:30.516Z",
+  "updated": "2026-05-03T17:11:19.520Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "289",
-      "recommendCount": "347",
+      "recommendScore": "290",
+      "recommendCount": "348",
       "title": "[公告] 推文系統維修完成 本公告收回作廢",
       "link": "/bbs/Gossiping/M.1777776928.A.2F1",
       "author": "ubcs",
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "231",
+      "recommendCount": "550",
+      "title": "[新聞] 巴菲特：當今市場就像「一座附設賭場的教堂」賭博風氣之盛前所未見",
+      "link": "/bbs/Stock/M.1777780347.A.1D2",
+      "author": "bear3",
+      "board": "Stock",
+      "publishTime": "2026/05/03 03:52",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "244",
       "recommendCount": "313",
       "title": "[發錢] Joel Embiid生涯Game 7首勝",
@@ -81,16 +91,6 @@
       "author": "JoelEmbiid",
       "board": "NBA",
       "publishTime": "2026/05/03 02:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "230",
-      "recommendCount": "549",
-      "title": "[新聞] 巴菲特：當今市場就像「一座附設賭場的教堂」賭博風氣之盛前所未見",
-      "link": "/bbs/Stock/M.1777780347.A.1D2",
-      "author": "bear3",
-      "board": "Stock",
-      "publishTime": "2026/05/03 03:52",
       "imageUrl": ""
     },
     {
@@ -154,18 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "206",
-      "recommendCount": "275",
-      "title": "[分享] 今日江少慶 MAX155",
-      "link": "/bbs/Baseball/M.1777805022.A.E47",
-      "author": "Eric102990",
-      "board": "Baseball",
-      "publishTime": "2026/05/03 10:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "135",
-      "recommendCount": "341",
+      "recommendScore": "138",
+      "recommendCount": "348",
       "title": "[新聞] 25歲女星李芸「月領55萬零用錢」！爸爸職業曝光　上節目只因：躺在家無聊",
       "link": "/bbs/Gossiping/M.1777802126.A.C8A",
       "author": "davidaustin",
@@ -174,8 +164,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "207",
+      "recommendCount": "276",
+      "title": "[分享] 今日江少慶 MAX155",
+      "link": "/bbs/Baseball/M.1777805022.A.E47",
+      "author": "Eric102990",
+      "board": "Baseball",
+      "publishTime": "2026/05/03 10:43",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "154",
-      "recommendCount": "279",
+      "recommendCount": "280",
       "title": "[問卦] 所以去史瓦帝尼能幹嘛？",
       "link": "/bbs/Gossiping/M.1777780022.A.84C",
       "author": "Ommmmmm5566",
@@ -184,23 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "203",
-      "recommendCount": "374",
-      "title": "[問題] 希望中職全abs還是挑戰abs？",
-      "link": "/bbs/Baseball/M.1777789270.A.022",
-      "author": "c654321000",
-      "board": "Baseball",
-      "publishTime": "2026/05/03 06:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "175",
-      "recommendCount": "396",
+      "recommendScore": "176",
+      "recommendCount": "407",
       "title": "Re: [新聞] 鐵飯碗崩壞中？公務員離職潮擴大　血汗過勞掀「大逃亡潮」",
       "link": "/bbs/Gossiping/M.1777805611.A.41B",
       "author": "scott123321",
       "board": "Gossiping",
       "publishTime": "2026/05/03 10:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "204",
+      "recommendCount": "375",
+      "title": "[問題] 希望中職全abs還是挑戰abs？",
+      "link": "/bbs/Baseball/M.1777789270.A.022",
+      "author": "c654321000",
+      "board": "Baseball",
+      "publishTime": "2026/05/03 06:21",
       "imageUrl": ""
     }
   ]
