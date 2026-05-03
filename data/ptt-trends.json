@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-03T06:40:09.191Z",
+  "updated": "2026-05-03T07:27:31.573Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "1337",
-      "recommendCount": "1488",
+      "recommendScore": "1336",
+      "recommendCount": "1489",
       "title": "[問卦] 現主時 每推100p",
       "link": "/bbs/Gossiping/M.1777776237.A.66A",
       "author": "airva",
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "519",
-      "recommendCount": "1476",
+      "recommendCount": "1477",
       "title": "[新聞] 快訊／還是去成了！　賴清德突然抵達史瓦帝尼",
       "link": "/bbs/Gossiping/M.1777717679.A.614",
       "author": "Waitaha",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "151",
-      "recommendCount": "863",
+      "recommendScore": "152",
+      "recommendCount": "869",
       "title": "[問卦] 乾你涼 怎麼八卦版言論跟中國一樣",
       "link": "/bbs/Gossiping/M.1777723689.A.649",
       "author": "mycity16",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "180",
-      "recommendCount": "578",
+      "recommendScore": "181",
+      "recommendCount": "579",
       "title": "[新聞] 獨家》台南肇事女大生赴女警靈堂致歉憂被打 行前打110報案",
       "link": "/bbs/Gossiping/M.1777715241.A.ED6",
       "author": "youhow0418",
@@ -105,7 +105,7 @@
     },
     {
       "recommendScore": "-126",
-      "recommendCount": "493",
+      "recommendCount": "494",
       "title": "[新聞] 因應護理人力荒 卓榮泰：已拜託考試院長題目不要出太難",
       "link": "/bbs/Gossiping/M.1777713152.A.7EA",
       "author": "lunyen",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "261",
-      "recommendCount": "313",
+      "recommendScore": "268",
+      "recommendCount": "320",
       "title": "[公告] 推文系統維修完成 本公告收回作廢",
       "link": "/bbs/Gossiping/M.1777776928.A.2F1",
       "author": "ubcs",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "265",
-      "recommendCount": "467",
+      "recommendScore": "269",
+      "recommendCount": "472",
       "title": "[花邊] 馬祖拉：鉛筆的回歸改變了這個系列賽",
       "link": "/bbs/NBA/M.1777776171.A.D06",
       "author": "jeff1013",
@@ -144,18 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "331",
-      "recommendCount": "1188",
-      "title": "[新聞] Redick爆料「大家都在休息室裡咩咩叫」",
-      "link": "/bbs/NBA/M.1777722429.A.ED8",
-      "author": "Visa",
-      "board": "NBA",
-      "publishTime": "2026/05/02 11:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "132",
-      "recommendCount": "462",
+      "recommendScore": "131",
+      "recommendCount": "468",
       "title": "[花邊] J.Brown談鉛筆:他在那邊假摔，還拿到好處",
       "link": "/bbs/NBA/M.1777777918.A.A6A",
       "author": "bengowa",
@@ -164,13 +154,43 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "332",
+      "recommendCount": "1189",
+      "title": "[新聞] Redick爆料「大家都在休息室裡咩咩叫」",
+      "link": "/bbs/NBA/M.1777722429.A.ED8",
+      "author": "Visa",
+      "board": "NBA",
+      "publishTime": "2026/05/02 11:47",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "217",
-      "recommendCount": "580",
+      "recommendCount": "581",
       "title": "[新聞] Apple 高層直言：無損音質多數人聽不出來！力推空間音訊更有感",
       "link": "/bbs/Stock/M.1777717574.A.37A",
       "author": "GivemeApen",
       "board": "Stock",
       "publishTime": "2026/05/02 10:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-40",
+      "recommendCount": "634",
+      "title": "[新聞] 怒瞪味全龍棄將 葉總：你是故意的喔？",
+      "link": "/bbs/Baseball/M.1777786063.A.9A8",
+      "author": "ZHUGUA",
+      "board": "Baseball",
+      "publishTime": "2026/05/03 05:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "224",
+      "recommendCount": "290",
+      "title": "[發錢] Joel Embiid生涯Game 7首勝",
+      "link": "/bbs/NBA/M.1777774654.A.CCD",
+      "author": "JoelEmbiid",
+      "board": "NBA",
+      "publishTime": "2026/05/03 02:17",
       "imageUrl": ""
     },
     {
@@ -181,26 +201,6 @@
       "author": "PBfire",
       "board": "Stock",
       "publishTime": "2026/05/02 14:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "216",
-      "recommendCount": "281",
-      "title": "[發錢] Joel Embiid生涯Game 7首勝",
-      "link": "/bbs/NBA/M.1777774654.A.CCD",
-      "author": "JoelEmbiid",
-      "board": "NBA",
-      "publishTime": "2026/05/03 02:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "243",
-      "recommendCount": "291",
-      "title": "[分享] 今日林維恩 七局無失分",
-      "link": "/bbs/Baseball/M.1777775838.A.665",
-      "author": "TRosenthal",
-      "board": "Baseball",
-      "publishTime": "2026/05/03 02:37",
       "imageUrl": ""
     }
   ]
