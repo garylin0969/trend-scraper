@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T14:22:14.797Z",
+  "updated": "2026-05-03T14:47:29.338Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "286",
-      "recommendCount": "344",
+      "recommendScore": "287",
+      "recommendCount": "345",
       "title": "[公告] 推文系統維修完成 本公告收回作廢",
       "link": "/bbs/Gossiping/M.1777776928.A.2F1",
       "author": "ubcs",
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "226",
-      "recommendCount": "540",
+      "recommendCount": "542",
       "title": "[新聞] 巴菲特：當今市場就像「一座附設賭場的教堂」賭博風氣之盛前所未見",
       "link": "/bbs/Stock/M.1777780347.A.1D2",
       "author": "bear3",
@@ -104,18 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "178",
-      "recommendCount": "347",
-      "title": "[新聞] 大崩盤來了？華爾街傳奇預測家警告美股恐暴跌3成 - 自由財經",
-      "link": "/bbs/Stock/M.1777731705.A.156",
-      "author": "PBfire",
-      "board": "Stock",
-      "publishTime": "2026/05/02 14:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "180",
-      "recommendCount": "332",
+      "recommendScore": "181",
+      "recommendCount": "333",
       "title": "[新聞] 搭酷航「性侵鄰座女乘客」！　印度男被逮：以為她睡著了",
       "link": "/bbs/Gossiping/M.1777777179.A.420",
       "author": "taiwan08",
@@ -124,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "252",
-      "recommendCount": "303",
+      "recommendScore": "254",
+      "recommendCount": "305",
       "title": "[分享] 今日林維恩 七局無失分",
       "link": "/bbs/Baseball/M.1777775838.A.665",
       "author": "TRosenthal",
@@ -164,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "101",
-      "recommendCount": "397",
+      "recommendScore": "102",
+      "recommendCount": "398",
       "title": "[新聞] 加速返核 傳賴政府將洽購燃料棒趕2028大",
       "link": "/bbs/Gossiping/M.1777786863.A.873",
       "author": "CNS3056",
@@ -184,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "150",
-      "recommendCount": "275",
+      "recommendScore": "151",
+      "recommendCount": "276",
       "title": "[問卦] 所以去史瓦帝尼能幹嘛？",
       "link": "/bbs/Gossiping/M.1777780022.A.84C",
       "author": "Ommmmmm5566",
@@ -201,6 +191,16 @@
       "author": "c654321000",
       "board": "Baseball",
       "publishTime": "2026/05/03 06:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "711",
+      "recommendCount": "1439",
+      "title": "[電競] 2026 LCK Regular Season W5D5",
+      "link": "/bbs/LoL/M.1777793466.A.D97",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/05/03 07:31",
       "imageUrl": ""
     }
   ]
