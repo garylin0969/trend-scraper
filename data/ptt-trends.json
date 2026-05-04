@@ -1,10 +1,20 @@
 {
-  "updated": "2026-05-04T05:48:04.324Z",
+  "updated": "2026-05-04T06:47:36.179Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "871",
+      "recommendScore": "484",
+      "recommendCount": "660",
+      "title": "[標的] 台指空 菁英空軍大集合",
+      "link": "/bbs/Stock/M.1777864051.A.646",
+      "author": "hondata",
+      "board": "Stock",
+      "publishTime": "2026/05/04 03:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "904",
       "recommendCount": "1489",
       "title": "[閒聊] 2026/05/04 盤中閒聊",
       "link": "/bbs/Stock/M.1777854607.A.2E0",
@@ -14,18 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "451",
-      "recommendCount": "606",
-      "title": "[標的] 台指空 菁英空軍大集合",
-      "link": "/bbs/Stock/M.1777864051.A.646",
-      "author": "hondata",
-      "board": "Stock",
-      "publishTime": "2026/05/04 03:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "204",
-      "recommendCount": "769",
+      "recommendScore": "209",
+      "recommendCount": "789",
       "title": "[新聞] 賴清德不是口誤！　總統府新聞稿堅持「逐顆檢查進口馬鈴薯」",
       "link": "/bbs/Gossiping/M.1777852160.A.C71",
       "author": "asppsa",
@@ -34,8 +34,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "276",
-      "recommendCount": "630",
+      "recommendScore": "448",
+      "recommendCount": "555",
+      "title": "[情報] 台股前十大漲點紀錄(今天第一名)",
+      "link": "/bbs/Stock/M.1777873328.A.164",
+      "author": "paidzou",
+      "board": "Stock",
+      "publishTime": "2026/05/04 05:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "296",
+      "recommendCount": "665",
       "title": "[新聞] 獨家／比「南鼠北送」還要扯！林亮君發文罵蔣萬安　私下誘導環保局內幕曝光",
       "link": "/bbs/Gossiping/M.1777858380.A.FF6",
       "author": "DIAtai",
@@ -54,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "221",
-      "recommendCount": "413",
+      "recommendScore": "222",
+      "recommendCount": "415",
       "title": "[問卦] 網熱議：噁男呂捷 裝台派意淫女露馬腳",
       "link": "/bbs/Gossiping/M.1777818382.A.6A3",
       "author": "psychohero",
@@ -64,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "304",
-      "recommendCount": "328",
+      "recommendScore": "306",
+      "recommendCount": "330",
       "title": "[發錢] 本系列Cade：場均32.4/5.7/7.1 三分4成",
       "link": "/bbs/NBA/M.1777847476.A.0D3",
       "author": "c27932589",
@@ -74,8 +84,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/SMWnxw8/s/56e60070db016f3ee0bf56513a394a0c"
     },
     {
-      "recommendScore": "220",
-      "recommendCount": "507",
+      "recommendScore": "222",
+      "recommendCount": "509",
       "title": "Re: [新聞] 鐵飯碗崩壞中？公務員離職潮擴大　血汗過勞掀「大逃亡潮」",
       "link": "/bbs/Gossiping/M.1777805611.A.41B",
       "author": "scott123321",
@@ -84,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "110",
-      "recommendCount": "365",
+      "recommendScore": "114",
+      "recommendCount": "374",
       "title": "[新聞] 賴：期待台史攜手開拓非洲市場",
       "link": "/bbs/Stock/M.1777854821.A.CEA",
       "author": "a5687920",
@@ -104,13 +114,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "221",
-      "recommendCount": "461",
+      "recommendScore": "238",
+      "recommendCount": "496",
       "title": "[閒聊] 日韓熱議：日本的肯德基是全世界最難吃",
       "link": "/bbs/C_Chat/M.1777865523.A.E67",
       "author": "victor87710",
       "board": "C_Chat",
       "publishTime": "2026/05/04 03:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "153",
+      "recommendCount": "340",
+      "title": "[問卦] 脆熱議：史瓦帝尼文化水準很高！",
+      "link": "/bbs/Gossiping/M.1777863458.A.0E8",
+      "author": "pigpigcom123",
+      "board": "Gossiping",
+      "publishTime": "2026/05/04 02:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "170",
+      "recommendCount": "471",
+      "title": "[問卦] 國家虐待公務員是想達成什麼目的？",
+      "link": "/bbs/Gossiping/M.1777831183.A.838",
+      "author": "ARTCOM",
+      "board": "Gossiping",
+      "publishTime": "2026/05/03 17:59",
       "imageUrl": ""
     },
     {
@@ -124,23 +154,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "71",
-      "recommendCount": "669",
+      "recommendScore": "73",
+      "recommendCount": "704",
       "title": "Re: [新聞] 台灣人接受「被和平統一」比例超驚人！外交部次長示警可怕未來",
       "link": "/bbs/Gossiping/M.1777852550.A.496",
       "author": "s90011",
       "board": "Gossiping",
       "publishTime": "2026/05/03 23:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "165",
-      "recommendCount": "466",
-      "title": "[問卦] 國家虐待公務員是想達成什麼目的？",
-      "link": "/bbs/Gossiping/M.1777831183.A.838",
-      "author": "ARTCOM",
-      "board": "Gossiping",
-      "publishTime": "2026/05/03 17:59",
       "imageUrl": ""
     },
     {
@@ -154,28 +174,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/c9rU0ay/s/71b52424d0935a2ba8c2cc4e36e49392"
     },
     {
-      "recommendScore": "205",
-      "recommendCount": "377",
-      "title": "[問題] 希望中職全abs還是挑戰abs？",
-      "link": "/bbs/Baseball/M.1777789270.A.022",
-      "author": "c654321000",
-      "board": "Baseball",
-      "publishTime": "2026/05/03 06:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "168",
-      "recommendCount": "272",
-      "title": "[新聞] 「罵任磊沒必要」 郭天信：他不是故意的",
-      "link": "/bbs/Baseball/M.1777788137.A.E15",
-      "author": "iamshana",
-      "board": "Baseball",
-      "publishTime": "2026/05/03 06:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "146",
-      "recommendCount": "421",
+      "recommendScore": "149",
+      "recommendCount": "428",
       "title": "[問卦] 公務員沒人當，但一堆人考不上",
       "link": "/bbs/Gossiping/M.1777849855.A.B38",
       "author": "nk11208z",
@@ -194,14 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "133",
-      "recommendCount": "301",
-      "title": "[問卦] 脆熱議：史瓦帝尼文化水準很高！",
-      "link": "/bbs/Gossiping/M.1777863458.A.0E8",
-      "author": "pigpigcom123",
-      "board": "Gossiping",
-      "publishTime": "2026/05/04 02:57",
-      "imageUrl": ""
+      "recommendScore": "264",
+      "recommendCount": "889",
+      "title": "[閒聊] Reddit:日本人熱議為啥日本做不出異環？",
+      "link": "/bbs/C_Chat/M.1777870680.A.B50",
+      "author": "ggbi4zzz",
+      "board": "C_Chat",
+      "publishTime": "2026/05/04 04:58",
+      "imageUrl": "https://cache.pttweb.cc/imgur/Svxzblq/s/093e88c771400202b5795367130b5c32"
     }
   ]
 }
