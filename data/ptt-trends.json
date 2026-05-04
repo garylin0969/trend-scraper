@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-04T15:52:04.630Z",
+  "updated": "2026-05-04T16:37:18.698Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "737",
-      "recommendCount": "879",
+      "recommendScore": "738",
+      "recommendCount": "880",
       "title": "[情報] 台股前十大漲點紀錄(今天第一名)",
       "link": "/bbs/Stock/M.1777873328.A.164",
       "author": "paidzou",
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "535",
-      "recommendCount": "735",
+      "recommendCount": "736",
       "title": "[標的] 台指空 菁英空軍大集合",
       "link": "/bbs/Stock/M.1777864051.A.646",
       "author": "hondata",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "216",
-      "recommendCount": "826",
+      "recommendScore": "215",
+      "recommendCount": "828",
       "title": "[新聞] 賴清德不是口誤！　總統府新聞稿堅持「逐顆檢查進口馬鈴薯」",
       "link": "/bbs/Gossiping/M.1777852160.A.C71",
       "author": "asppsa",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "310",
-      "recommendCount": "714",
+      "recommendCount": "717",
       "title": "[新聞] 獨家／比「南鼠北送」還要扯！林亮君發文罵蔣萬安　私下誘導環保局內幕曝光",
       "link": "/bbs/Gossiping/M.1777858380.A.FF6",
       "author": "DIAtai",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "217",
-      "recommendCount": "658",
+      "recommendScore": "221",
+      "recommendCount": "682",
       "title": "[新聞] 假牙總監駕BMW狂飆113公里撞死打工妹 二審駁回仍判10月",
       "link": "/bbs/Gossiping/M.1777889118.A.C6C",
       "author": "iami1002",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "235",
-      "recommendCount": "688",
+      "recommendScore": "262",
+      "recommendCount": "764",
       "title": "[問卦] 大家不會覺得這次鼠患很不自然嗎？",
       "link": "/bbs/Gossiping/M.1777895454.A.973",
       "author": "fshfsh",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "94",
-      "recommendCount": "569",
+      "recommendScore": "95",
+      "recommendCount": "570",
       "title": "[新聞] 北市淪鼠都！居民睡覺「肚子和手被咬」一票人家中也有",
       "link": "/bbs/Gossiping/M.1777873795.A.BF2",
       "author": "kenryu",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "249",
-      "recommendCount": "452",
+      "recommendScore": "253",
+      "recommendCount": "456",
       "title": "[情報] 伊朗媒體：兩枚導彈擊中美軍艦",
       "link": "/bbs/Stock/M.1777889509.A.120",
       "author": "ntpcgov",
@@ -104,8 +104,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/SMWnxw8/s/56e60070db016f3ee0bf56513a394a0c"
     },
     {
+      "recommendScore": "297",
+      "recommendCount": "351",
+      "title": "[閒聊] 明坂聡美結婚",
+      "link": "/bbs/C_Chat/M.1777896717.A.86B",
+      "author": "gggiantguy",
+      "board": "C_Chat",
+      "publishTime": "2026/05/04 12:11",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "268",
-      "recommendCount": "555",
+      "recommendCount": "556",
       "title": "[閒聊] 日韓熱議：日本的肯德基是全世界最難吃",
       "link": "/bbs/C_Chat/M.1777865523.A.E67",
       "author": "victor87710",
@@ -124,16 +134,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "287",
-      "recommendCount": "340",
-      "title": "[閒聊] 明坂聡美結婚",
-      "link": "/bbs/C_Chat/M.1777896717.A.86B",
-      "author": "gggiantguy",
-      "board": "C_Chat",
-      "publishTime": "2026/05/04 12:11",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "122",
       "recommendCount": "392",
       "title": "[新聞] 賴：期待台史攜手開拓非洲市場",
@@ -145,12 +145,22 @@
     },
     {
       "recommendScore": "177",
-      "recommendCount": "374",
+      "recommendCount": "375",
       "title": "[新聞] 獨／台積電帶動「台灣嬰兒潮」　鳳凰城市長：已誕生500個寶寶",
       "link": "/bbs/Gossiping/M.1777878279.A.0FF",
       "author": "ChanHoPark",
       "board": "Gossiping",
       "publishTime": "2026/05/04 07:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "205",
+      "recommendCount": "341",
+      "title": "[情報] AR：我想跟SGA一樣罰很多球",
+      "link": "/bbs/NBA/M.1777871899.A.F46",
+      "author": "NTD300w",
+      "board": "NBA",
+      "publishTime": "2026/05/04 05:18",
       "imageUrl": ""
     },
     {
@@ -161,16 +171,6 @@
       "author": "laptic",
       "board": "LoL",
       "publishTime": "2026/05/04 06:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "202",
-      "recommendCount": "337",
-      "title": "[情報] AR：我想跟SGA一樣罰很多球",
-      "link": "/bbs/NBA/M.1777871899.A.F46",
-      "author": "NTD300w",
-      "board": "NBA",
-      "publishTime": "2026/05/04 05:18",
       "imageUrl": ""
     },
     {
