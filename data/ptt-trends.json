@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-04T22:12:45.228Z",
+  "updated": "2026-05-04T22:39:33.248Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "747",
-      "recommendCount": "889",
+      "recommendScore": "748",
+      "recommendCount": "890",
       "title": "[情報] 台股前十大漲點紀錄(今天第一名)",
       "link": "/bbs/Stock/M.1777873328.A.164",
       "author": "paidzou",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "310",
-      "recommendCount": "907",
+      "recommendScore": "313",
+      "recommendCount": "915",
       "title": "[問卦] 大家不會覺得這次鼠患很不自然嗎？",
       "link": "/bbs/Gossiping/M.1777895454.A.973",
       "author": "fshfsh",
@@ -55,7 +55,7 @@
     },
     {
       "recommendScore": "312",
-      "recommendCount": "720",
+      "recommendCount": "723",
       "title": "[新聞] 獨家／比「南鼠北送」還要扯！林亮君發文罵蔣萬安　私下誘導環保局內幕曝光",
       "link": "/bbs/Gossiping/M.1777858380.A.FF6",
       "author": "DIAtai",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "746",
+      "recommendScore": "247",
+      "recommendCount": "754",
       "title": "[新聞] 假牙總監駕BMW狂飆113公里撞死打工妹 二審駁回仍判10月",
       "link": "/bbs/Gossiping/M.1777889118.A.C6C",
       "author": "iami1002",
@@ -92,16 +92,6 @@
       "board": "Stock",
       "publishTime": "2026/05/04 10:11",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "308",
-      "recommendCount": "332",
-      "title": "[發錢] 本系列Cade：場均32.4/5.7/7.1 三分4成",
-      "link": "/bbs/NBA/M.1777847476.A.0D3",
-      "author": "c27932589",
-      "board": "NBA",
-      "publishTime": "2026/05/03 22:31",
-      "imageUrl": "https://cache.pttweb.cc/imgur/SMWnxw8/s/56e60070db016f3ee0bf56513a394a0c"
     },
     {
       "recommendScore": "307",
@@ -134,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "181",
-      "recommendCount": "380",
+      "recommendScore": "182",
+      "recommendCount": "381",
       "title": "[新聞] 獨／台積電帶動「台灣嬰兒潮」　鳳凰城市長：已誕生500個寶寶",
       "link": "/bbs/Gossiping/M.1777878279.A.0FF",
       "author": "ChanHoPark",
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "202",
-      "recommendCount": "276",
+      "recommendScore": "204",
+      "recommendCount": "278",
       "title": "[標的] 台指空 已經空到不懂怎做多了",
       "link": "/bbs/Stock/M.1777898715.A.681",
       "author": "r12121313",
       "board": "Stock",
       "publishTime": "2026/05/04 12:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "147",
+      "recommendCount": "350",
+      "title": "[問卦] 認真問 說真的 老鼠到底有什麼好報的阿？",
+      "link": "/bbs/Gossiping/M.1777881036.A.5E4",
+      "author": "black1x2y3z",
+      "board": "Gossiping",
+      "publishTime": "2026/05/04 07:50",
       "imageUrl": ""
     }
   ]
