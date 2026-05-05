@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05T23:25:26.705Z",
+  "updated": "2026-05-05T23:47:46.324Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "231",
-      "recommendCount": "500",
+      "recommendScore": "357",
+      "recommendCount": "642",
+      "title": "[問卦] 能幫我說一聲加油嗎？",
+      "link": "/bbs/Gossiping/M.1778007368.A.265",
+      "author": "zhxl",
+      "board": "Gossiping",
+      "publishTime": "2026/05/05 18:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "232",
+      "recommendCount": "501",
       "title": "[新聞] 2026高雄市長最大規模民調！賴瑞隆大勝16.3%　賴柯差距拉開選戰結構趨穩",
       "link": "/bbs/Gossiping/M.1777945206.A.0A0",
       "author": "chopper594",
@@ -44,23 +54,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "240",
-      "recommendCount": "577",
+      "recommendScore": "241",
+      "recommendCount": "578",
       "title": "[新聞] 買核三燃料棒多花80億元 審計長坦言：政策、管理有問題",
       "link": "/bbs/Gossiping/M.1777969745.A.BBD",
       "author": "Aqqqa",
       "board": "Gossiping",
       "publishTime": "2026/05/05 08:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "307",
-      "recommendCount": "559",
-      "title": "[問卦] 能幫我說一聲加油嗎？",
-      "link": "/bbs/Gossiping/M.1778007368.A.265",
-      "author": "zhxl",
-      "board": "Gossiping",
-      "publishTime": "2026/05/05 18:56",
       "imageUrl": ""
     },
     {
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "230",
-      "recommendCount": "475",
+      "recommendScore": "234",
+      "recommendCount": "480",
       "title": "[新聞] 4月已走5員工「都要去炒股」 雇主崩潰：是要我們怎麼活",
       "link": "/bbs/Stock/M.1777988153.A.749",
       "author": "icedog122",
