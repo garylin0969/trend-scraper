@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-05T22:07:26.627Z",
+  "updated": "2026-05-05T22:32:06.884Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "457",
+      "recommendScore": "458",
       "recommendCount": "1331",
       "title": "[爆卦] 中華民國外交官員集體跪見史國王太后",
       "link": "/bbs/Gossiping/M.1777951980.A.9CF",
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "231",
-      "recommendCount": "499",
+      "recommendCount": "500",
       "title": "[新聞] 2026高雄市長最大規模民調！賴瑞隆大勝16.3%　賴柯差距拉開選戰結構趨穩",
       "link": "/bbs/Gossiping/M.1777945206.A.0A0",
       "author": "chopper594",
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "227",
+      "recommendCount": "461",
+      "title": "[新聞] 4月已走5員工「都要去炒股」 雇主崩潰：是要我們怎麼活",
+      "link": "/bbs/Stock/M.1777988153.A.749",
+      "author": "icedog122",
+      "board": "Stock",
+      "publishTime": "2026/05/05 13:35",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "223",
       "recommendCount": "680",
       "title": "[問卦] 結婚買房",
@@ -81,16 +91,6 @@
       "author": "FateCool",
       "board": "Gossiping",
       "publishTime": "2026/05/05 10:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "226",
-      "recommendCount": "455",
-      "title": "[新聞] 4月已走5員工「都要去炒股」 雇主崩潰：是要我們怎麼活",
-      "link": "/bbs/Stock/M.1777988153.A.749",
-      "author": "icedog122",
-      "board": "Stock",
-      "publishTime": "2026/05/05 13:35",
       "imageUrl": ""
     },
     {
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "238",
-      "recommendCount": "350",
+      "recommendScore": "239",
+      "recommendCount": "351",
       "title": "[分享] CPBL戰績",
       "link": "/bbs/Baseball/M.1777989727.A.0CC",
       "author": "nybbnan",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "124",
-      "recommendCount": "339",
+      "recommendScore": "125",
+      "recommendCount": "341",
       "title": "[新聞] 台灣又有2座新高鐵站！三鐵共構「串聯台鐵、捷運」最快完工通車時間曝光",
       "link": "/bbs/Gossiping/M.1777959562.A.126",
       "author": "pegasusatlan",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "158",
-      "recommendCount": "480",
-      "title": "[新聞] 屏東高鐵「左營案」確定出局！高雄案明年5月闖關二階環評",
-      "link": "/bbs/Stock/M.1777945103.A.5E7",
-      "author": "chinaeatshit",
-      "board": "Stock",
-      "publishTime": "2026/05/05 01:38",
+      "recommendScore": "277",
+      "recommendCount": "833",
+      "title": "[閒聊] 現代理工大神穿回古代能做到什麼程度？",
+      "link": "/bbs/C_Chat/M.1777968606.A.E25",
+      "author": "gary861226",
+      "board": "C_Chat",
+      "publishTime": "2026/05/05 08:10",
       "imageUrl": ""
     }
   ]
