@@ -1,25 +1,25 @@
 {
-  "updated": "2026-05-06T21:52:59.800Z",
+  "updated": "2026-05-06T22:24:08.049Z",
   "trends": [
     {
+      "googleTrend": "雨",
+      "searchVolume": "2,000+",
+      "started": "2 小時前"
+    },
+    {
       "googleTrend": "中央銀行",
+      "searchVolume": "500+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "熱錢",
       "searchVolume": "500+",
       "started": "1 小時前"
     },
     {
-      "googleTrend": "雨",
-      "searchVolume": "1,000+",
-      "started": "2 小時前"
-    },
-    {
-      "googleTrend": "台灣虎航",
+      "googleTrend": "林志穎",
       "searchVolume": "200+",
       "started": "3 小時前"
-    },
-    {
-      "googleTrend": "歐冠",
-      "searchVolume": "500+",
-      "started": "50 分鐘前"
     },
     {
       "googleTrend": "psg",
@@ -27,24 +27,44 @@
       "started": "2 小時前"
     },
     {
-      "googleTrend": "熱錢",
-      "searchVolume": "100+",
+      "googleTrend": "歐冠",
+      "searchVolume": "500+",
       "started": "1 小時前"
     },
     {
-      "googleTrend": "林志穎",
+      "googleTrend": "tsm",
+      "searchVolume": "500+",
+      "started": "40 分鐘前"
+    },
+    {
+      "googleTrend": "方恩格",
       "searchVolume": "100+",
-      "started": "3 小時前"
+      "started": "2 小時前"
     },
     {
       "googleTrend": "nvda",
       "searchVolume": "200+",
-      "started": "30 分鐘前"
+      "started": "1 小時前"
     },
     {
-      "googleTrend": "豪雨",
+      "googleTrend": "先進封裝",
       "searchVolume": "100+",
       "started": "40 分鐘前"
+    },
+    {
+      "googleTrend": "鄭麗文",
+      "searchVolume": "100+",
+      "started": "40 分鐘前"
+    },
+    {
+      "googleTrend": "拜仁",
+      "searchVolume": "100+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "特斯拉股價",
+      "searchVolume": "100+",
+      "started": "30 分鐘前"
     },
     {
       "googleTrend": "lumentum股價",
@@ -52,9 +72,14 @@
       "started": "2 小時前"
     },
     {
+      "googleTrend": "豪雨",
+      "searchVolume": "100+",
+      "started": "1 小時前"
+    },
+    {
       "googleTrend": "ai",
       "searchVolume": "100+",
-      "started": "2 小時前"
+      "started": "3 小時前"
     }
   ]
 }
