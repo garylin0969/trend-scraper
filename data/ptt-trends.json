@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T21:16:08.076Z",
+  "updated": "2026-05-06T21:43:02.498Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "302",
-      "recommendCount": "707",
+      "recommendScore": "303",
+      "recommendCount": "708",
       "title": "[問題] 韓國是不是真的沒有好吃的？",
       "link": "/bbs/C_Chat/M.1778053058.A.9E5",
       "author": "MiCy",
@@ -141,16 +141,6 @@
       "author": "pigpigcom123",
       "board": "Gossiping",
       "publishTime": "2026/05/06 02:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "163",
-      "recommendCount": "489",
-      "title": "[新聞] 高雄半年發了22噸老鼠藥 比北市多出逾一倍",
-      "link": "/bbs/Gossiping/M.1778016424.A.545",
-      "author": "goatcheese",
-      "board": "Gossiping",
-      "publishTime": "2026/05/05 21:27",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "Stock",
       "publishTime": "2026/05/06 08:08",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "158",
+      "recommendCount": "293",
+      "title": "[情報] AR創湖人季後賽打鐵紀錄",
+      "link": "/bbs/NBA/M.1778038522.A.FDD",
+      "author": "VeryGoodBoy",
+      "board": "NBA",
+      "publishTime": "2026/05/06 03:35",
+      "imageUrl": "https://cache.pttweb.cc/imgur/rZdYNDi/s/4e82855cb0758b09d397a14d37d352d7"
     }
   ]
 }
