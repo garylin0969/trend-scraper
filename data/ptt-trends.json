@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-06T04:11:14.934Z",
+  "updated": "2026-05-06T05:24:53.139Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "642",
-      "recommendCount": "1095",
+      "recommendScore": "665",
+      "recommendCount": "1145",
       "title": "[問卦] 能幫我說一聲加油嗎？",
       "link": "/bbs/Gossiping/M.1778007368.A.265",
       "author": "zhxl",
@@ -14,23 +14,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "389",
-      "recommendCount": "681",
-      "title": "[BOX ] Timberwolves 104:102 Spurs",
-      "link": "/bbs/NBA/M.1777954419.A.462",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2026/05/05 04:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "230",
-      "recommendCount": "685",
+      "recommendScore": "237",
+      "recommendCount": "708",
       "title": "[新聞] 核四燃料棒送往美國 核三重啟又要重買！審計長：台電應改善",
       "link": "/bbs/Gossiping/M.1778019241.A.1E9",
       "author": "MikaHakkinen",
       "board": "Gossiping",
       "publishTime": "2026/05/05 22:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "253",
+      "recommendCount": "537",
+      "title": "[新聞] 4月已走5員工「都要去炒股」 雇主崩潰：是要我們怎麼活",
+      "link": "/bbs/Stock/M.1777988153.A.749",
+      "author": "icedog122",
+      "board": "Stock",
+      "publishTime": "2026/05/05 13:35",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "322",
+      "recommendCount": "619",
+      "title": "[BOX ] Lakers 90:108 Thunder",
+      "link": "/bbs/NBA/M.1778036780.A.B69",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2026/05/06 03:06",
       "imageUrl": ""
     },
     {
@@ -44,13 +54,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "250",
-      "recommendCount": "531",
-      "title": "[新聞] 4月已走5員工「都要去炒股」 雇主崩潰：是要我們怎麼活",
-      "link": "/bbs/Stock/M.1777988153.A.749",
-      "author": "icedog122",
-      "board": "Stock",
-      "publishTime": "2026/05/05 13:35",
+      "recommendScore": "337",
+      "recommendCount": "455",
+      "title": "[分享] 今日 大谷翔平",
+      "link": "/bbs/Baseball/M.1778034338.A.531",
+      "author": "alpacaHong",
+      "board": "Baseball",
+      "publishTime": "2026/05/06 02:25",
       "imageUrl": ""
     },
     {
@@ -64,26 +74,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "290",
-      "recommendCount": "564",
-      "title": "[BOX ] Lakers 90:108 Thunder",
-      "link": "/bbs/NBA/M.1778036780.A.B69",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2026/05/06 03:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "307",
-      "recommendCount": "421",
-      "title": "[分享] 今日 大谷翔平",
-      "link": "/bbs/Baseball/M.1778034338.A.531",
-      "author": "alpacaHong",
-      "board": "Baseball",
-      "publishTime": "2026/05/06 02:25",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "223",
       "recommendCount": "680",
       "title": "[問卦] 結婚買房",
@@ -91,16 +81,6 @@
       "author": "FateCool",
       "board": "Gossiping",
       "publishTime": "2026/05/05 10:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "225",
-      "recommendCount": "377",
-      "title": "[情報] 斑馬完成季後賽第一個沒有10助攻大三元",
-      "link": "/bbs/NBA/M.1777954468.A.F0A",
-      "author": "star880613",
-      "board": "NBA",
-      "publishTime": "2026/05/05 04:14",
       "imageUrl": ""
     },
     {
@@ -114,23 +94,13 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/dY6dE0n/s/e3130e0ad28e87cd687fbf92fa5f6fc0"
     },
     {
-      "recommendScore": "135",
-      "recommendCount": "444",
+      "recommendScore": "136",
+      "recommendCount": "447",
       "title": "[新聞] 滅鼠藥反害到鳳頭蒼鷹…動保團體：北北基死亡蒼鷹9成2檢出老鼠藥",
       "link": "/bbs/Gossiping/M.1777966839.A.858",
       "author": "Doica2445",
       "board": "Gossiping",
       "publishTime": "2026/05/05 07:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "192",
-      "recommendCount": "394",
-      "title": "[新聞] 遊韓撿到信用卡！大腸圈台女「盜刷8000」拿護照退稅　她怒曬影像",
-      "link": "/bbs/Gossiping/M.1777954401.A.36A",
-      "author": "cl3bp6",
-      "board": "Gossiping",
-      "publishTime": "2026/05/05 04:13",
       "imageUrl": ""
     },
     {
@@ -164,16 +134,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "306",
-      "recommendCount": "568",
-      "title": "[花邊] Finch：斑馬很多勾天頂沒吹",
-      "link": "/bbs/NBA/M.1777957560.A.FD7",
-      "author": "liefuchen",
-      "board": "NBA",
-      "publishTime": "2026/05/05 05:06",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "144",
       "recommendCount": "359",
       "title": "[新聞] 5度三字經辱罵賴總統！前白委林國成判拘役20日",
@@ -201,6 +161,46 @@
       "author": "newpasta",
       "board": "C_Chat",
       "publishTime": "2026/05/05 10:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "284",
+      "recommendCount": "857",
+      "title": "[閒聊] 現代理工大神穿回古代能做到什麼程度？",
+      "link": "/bbs/C_Chat/M.1777968606.A.E25",
+      "author": "gary861226",
+      "board": "C_Chat",
+      "publishTime": "2026/05/05 08:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "175",
+      "recommendCount": "288",
+      "title": "Re: [標的] 台指期 空",
+      "link": "/bbs/Stock/M.1777984690.A.B02",
+      "author": "alonso842",
+      "board": "Stock",
+      "publishTime": "2026/05/05 12:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "160",
+      "recommendCount": "478",
+      "title": "[新聞] 高雄半年發了22噸老鼠藥 比北市多出逾一倍",
+      "link": "/bbs/Gossiping/M.1778016424.A.545",
+      "author": "goatcheese",
+      "board": "Gossiping",
+      "publishTime": "2026/05/05 21:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "135",
+      "recommendCount": "305",
+      "title": "[新聞] 陣頭夢碎！男遭虐打逼吃貓屎慘死棄屍　主謀重判11年10月定讞",
+      "link": "/bbs/Gossiping/M.1777961461.A.7F4",
+      "author": "HTC92",
+      "board": "Gossiping",
+      "publishTime": "2026/05/05 06:11",
       "imageUrl": ""
     }
   ]
