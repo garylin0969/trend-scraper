@@ -1,21 +1,11 @@
 {
-  "updated": "2026-05-08T07:52:36.597Z",
+  "updated": "2026-05-08T08:36:40.683Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "346",
-      "recommendCount": "935",
-      "title": "[新聞] 快新聞／國民黨台北市失守了！支持率竟遭綠營反超、賴清德滿意度也出爐",
-      "link": "/bbs/Gossiping/M.1778141230.A.286",
-      "author": "ggbi4zzz",
-      "board": "Gossiping",
-      "publishTime": "2026/05/07 08:07",
-      "imageUrl": "https://cache.pttweb.cc/imgur/7kj1H4m/s/b79d27ccdf52cc4151101c91509d7615"
-    },
-    {
       "recommendScore": "476",
-      "recommendCount": "877",
+      "recommendCount": "878",
       "title": "[新聞] 老謝開金口！台股上看5萬點",
       "link": "/bbs/Stock/M.1778146147.A.E39",
       "author": "DrowningPool",
@@ -24,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "332",
-      "recommendCount": "1002",
+      "recommendScore": "346",
+      "recommendCount": "1035",
       "title": "[新聞] 綠攻「安鼠之亂」莊瑞雄：沈伯洋當市長兩天就處理掉了",
       "link": "/bbs/Gossiping/M.1778211124.A.E66",
       "author": "LeeSeDol",
@@ -54,8 +44,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/Vvt7Ljr/s/06276e67be66951fd4f7eee04c619d4d"
     },
     {
-      "recommendScore": "336",
-      "recommendCount": "645",
+      "recommendScore": "350",
+      "recommendCount": "668",
       "title": "[情報] 台積公司2026年4月營收報告",
       "link": "/bbs/Stock/M.1778218255.A.3DA",
       "author": "MOMO0478",
@@ -64,8 +54,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "289",
-      "recommendCount": "728",
+      "recommendScore": "101",
+      "recommendCount": "629",
+      "title": "[新聞] 負債3517億元還換LOGO遭批浪費錢　台電:Google、Apple都曾換過",
+      "link": "/bbs/Gossiping/M.1778210258.A.F62",
+      "author": "Kazmier",
+      "board": "Gossiping",
+      "publishTime": "2026/05/08 03:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "293",
+      "recommendCount": "733",
       "title": "[BOX ] Lakers 107:125 Thunder (OKC 2-0 LAL)",
       "link": "/bbs/NBA/M.1778213980.A.F6D",
       "author": "han726",
@@ -74,23 +74,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "430",
-      "recommendCount": "533",
+      "recommendScore": "431",
+      "recommendCount": "534",
       "title": "[閒聊] Faker的Google play廣告",
       "link": "/bbs/LoL/M.1778167537.A.4F6",
       "author": "itachi6060",
       "board": "LoL",
       "publishTime": "2026/05/07 15:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "102",
-      "recommendCount": "616",
-      "title": "[新聞] 負債3517億元還換LOGO遭批浪費錢　台電:Google、Apple都曾換過",
-      "link": "/bbs/Gossiping/M.1778210258.A.F62",
-      "author": "Kazmier",
-      "board": "Gossiping",
-      "publishTime": "2026/05/08 03:17",
       "imageUrl": ""
     },
     {
@@ -114,13 +104,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "93",
-      "recommendCount": "458",
+      "recommendScore": "94",
+      "recommendCount": "459",
       "title": "[新聞] 綠議員許淑華喊話「老鼠也是動物」　提醒蔣萬安：避免傷害牠",
       "link": "/bbs/Gossiping/M.1778142982.A.2B6",
       "author": "CREA",
       "board": "Gossiping",
       "publishTime": "2026/05/07 08:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "298",
+      "recommendCount": "547",
+      "title": "[Vtub] 茸茸鼠：台灣的建築美到能一直看下去",
+      "link": "/bbs/C_Chat/M.1778215397.A.8EC",
+      "author": "outsmart33",
+      "board": "C_Chat",
+      "publishTime": "2026/05/08 04:43",
       "imageUrl": ""
     },
     {
@@ -134,23 +134,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "287",
-      "recommendCount": "534",
-      "title": "[Vtub] 茸茸鼠：台灣的建築美到能一直看下去",
-      "link": "/bbs/C_Chat/M.1778215397.A.8EC",
-      "author": "outsmart33",
-      "board": "C_Chat",
-      "publishTime": "2026/05/08 04:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "333",
-      "recommendCount": "421",
+      "recommendScore": "336",
+      "recommendCount": "424",
       "title": "[分享] 今日林維恩 6局10K",
       "link": "/bbs/Baseball/M.1778207668.A.CF7",
       "author": "samyou",
       "board": "Baseball",
       "publishTime": "2026/05/08 02:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "185",
+      "recommendCount": "393",
+      "title": "[新聞] 生不如死！4月出生數僅8,144人 台灣人口連28月負成長",
+      "link": "/bbs/Gossiping/M.1778207873.A.E20",
+      "author": "Aqqqa",
+      "board": "Gossiping",
+      "publishTime": "2026/05/08 02:37",
       "imageUrl": ""
     },
     {
@@ -174,18 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "183",
-      "recommendCount": "384",
-      "title": "[新聞] 生不如死！4月出生數僅8,144人 台灣人口連28月負成長",
-      "link": "/bbs/Gossiping/M.1778207873.A.E20",
-      "author": "Aqqqa",
-      "board": "Gossiping",
-      "publishTime": "2026/05/08 02:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "270",
-      "recommendCount": "813",
+      "recommendScore": "281",
+      "recommendCount": "875",
       "title": "[情報] SGA使用分筋錯骨手獲得一級惡意犯規",
       "link": "/bbs/NBA/M.1778215977.A.E25",
       "author": "Hack",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2026/05/07 15:21",
       "imageUrl": "https://cache.pttweb.cc/imgur/FrsODKX/s/03d96fd42494d3b9ff149f44fe559b2c"
+    },
+    {
+      "recommendScore": "168",
+      "recommendCount": "388",
+      "title": "[爆卦] 馬文君FB:國防部大放水  水電商賣炸藥",
+      "link": "/bbs/Gossiping/M.1778195514.A.F5D",
+      "author": "jobli",
+      "board": "Gossiping",
+      "publishTime": "2026/05/07 23:11",
+      "imageUrl": ""
     }
   ]
 }
