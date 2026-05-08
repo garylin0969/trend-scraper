@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T22:31:17.946Z",
+  "updated": "2026-05-08T22:54:22.163Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "364",
-      "recommendCount": "701",
+      "recommendScore": "366",
+      "recommendCount": "707",
       "title": "[爆卦] 于右任替台電寫字得到的酬勞",
       "link": "/bbs/Gossiping/M.1778240108.A.0EE",
       "author": "GoToCHT",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "119",
-      "recommendCount": "907",
+      "recommendScore": "118",
+      "recommendCount": "909",
       "title": "[討論] 護理師公會陳玉鳳崩潰了",
       "link": "/bbs/HatePolitics/M.1778226667.A.064",
       "author": "oscarwu3041",
@@ -75,7 +75,7 @@
     },
     {
       "recommendScore": "51",
-      "recommendCount": "509",
+      "recommendCount": "515",
       "title": "[新聞] 軍購三讀7800億元　沈伯洋：藍白砍掉台灣9萬個工作機會",
       "link": "/bbs/Gossiping/M.1778233629.A.CAB",
       "author": "leocean9816",
@@ -174,6 +174,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/rrxjhyH/s/db401deb2158bc7ee241e46488c72787"
     },
     {
+      "recommendScore": "264",
+      "recommendCount": "422",
+      "title": "[爆卦] 北港民代之子也太屌 (發錢)",
+      "link": "/bbs/Gossiping/M.1778251180.A.FDA",
+      "author": "sport16328",
+      "board": "Gossiping",
+      "publishTime": "2026/05/08 14:39",
+      "imageUrl": "https://cache.pttweb.cc/imgur/xgH20Qk/s/1f801d03e12744a43306d3c1a7bd1be5"
+    },
+    {
       "recommendScore": "118",
       "recommendCount": "397",
       "title": "[新聞] 台電新LOGO近百萬標案被翻出綠友友得標",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/05/07 23:11",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "258",
-      "recommendCount": "415",
-      "title": "[爆卦] 北港民代之子也太屌 (發錢)",
-      "link": "/bbs/Gossiping/M.1778251180.A.FDA",
-      "author": "sport16328",
-      "board": "Gossiping",
-      "publishTime": "2026/05/08 14:39",
-      "imageUrl": "https://cache.pttweb.cc/imgur/xgH20Qk/s/1f801d03e12744a43306d3c1a7bd1be5"
     }
   ]
 }
