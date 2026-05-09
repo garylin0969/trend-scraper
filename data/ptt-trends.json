@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-09T00:11:38.968Z",
+  "updated": "2026-05-09T01:08:34.942Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "371",
-      "recommendCount": "1140",
+      "recommendScore": "373",
+      "recommendCount": "1145",
       "title": "[新聞] 綠攻「安鼠之亂」莊瑞雄：沈伯洋當市長兩天就處理掉了",
       "link": "/bbs/Gossiping/M.1778211124.A.E66",
       "author": "LeeSeDol",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "373",
-      "recommendCount": "721",
+      "recommendScore": "377",
+      "recommendCount": "729",
       "title": "[爆卦] 于右任替台電寫字得到的酬勞",
       "link": "/bbs/Gossiping/M.1778240108.A.0EE",
       "author": "GoToCHT",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "48",
-      "recommendCount": "521",
+      "recommendScore": "50",
+      "recommendCount": "526",
       "title": "[新聞] 軍購三讀7800億元　沈伯洋：藍白砍掉台灣9萬個工作機會",
       "link": "/bbs/Gossiping/M.1778233629.A.CAB",
       "author": "leocean9816",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "117",
-      "recommendCount": "915",
+      "recommendScore": "114",
+      "recommendCount": "921",
       "title": "[討論] 護理師公會陳玉鳳崩潰了",
       "link": "/bbs/HatePolitics/M.1778226667.A.064",
       "author": "oscarwu3041",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "312",
-      "recommendCount": "1001",
+      "recommendScore": "313",
+      "recommendCount": "1002",
       "title": "[情報] SGA使用分筋錯骨手獲得一級惡意犯規",
       "link": "/bbs/NBA/M.1778215977.A.E25",
       "author": "Hack",
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "303",
+      "recommendCount": "472",
+      "title": "[爆卦] 北港民代之子也太屌 (發錢)",
+      "link": "/bbs/Gossiping/M.1778251180.A.FDA",
+      "author": "sport16328",
+      "board": "Gossiping",
+      "publishTime": "2026/05/08 14:39",
+      "imageUrl": "https://cache.pttweb.cc/imgur/xgH20Qk/s/1f801d03e12744a43306d3c1a7bd1be5"
+    },
+    {
       "recommendScore": "341",
       "recommendCount": "430",
       "title": "[分享] 今日林維恩 6局10K",
@@ -124,24 +134,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "191",
-      "recommendCount": "409",
+      "recommendScore": "192",
+      "recommendCount": "410",
       "title": "[新聞] 生不如死！4月出生數僅8,144人 台灣人口連28月負成長",
       "link": "/bbs/Gossiping/M.1778207873.A.E20",
       "author": "Aqqqa",
       "board": "Gossiping",
       "publishTime": "2026/05/08 02:37",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "288",
-      "recommendCount": "447",
-      "title": "[爆卦] 北港民代之子也太屌 (發錢)",
-      "link": "/bbs/Gossiping/M.1778251180.A.FDA",
-      "author": "sport16328",
-      "board": "Gossiping",
-      "publishTime": "2026/05/08 14:39",
-      "imageUrl": "https://cache.pttweb.cc/imgur/xgH20Qk/s/1f801d03e12744a43306d3c1a7bd1be5"
     },
     {
       "recommendScore": "218",
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "261",
-      "recommendCount": "471",
-      "title": "Re: [新聞] 網傳台灣金援史國與引進移工　外交部：錯假訊息將蒐證究責",
-      "link": "/bbs/Gossiping/M.1778202150.A.86B",
-      "author": "cowardlyman",
-      "board": "Gossiping",
-      "publishTime": "2026/05/08 01:02",
-      "imageUrl": "https://cache.pttweb.cc/imgur/rrxjhyH/s/db401deb2158bc7ee241e46488c72787"
-    },
-    {
       "recommendScore": "118",
       "recommendCount": "397",
       "title": "[新聞] 台電新LOGO近百萬標案被翻出綠友友得標",
@@ -194,14 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "202",
-      "recommendCount": "463",
+      "recommendScore": "203",
+      "recommendCount": "466",
       "title": "[爆卦] 今年的聶永真跟1965年的台電有一方說謊",
       "link": "/bbs/Gossiping/M.1778242636.A.D94",
       "author": "jobli",
       "board": "Gossiping",
       "publishTime": "2026/05/08 12:17",
       "imageUrl": "https://cache.pttweb.cc/imgur/uI3yfZ2/s/8917e1687d9d1711e5e3614e95dd1d37"
+    },
+    {
+      "recommendScore": "-199",
+      "recommendCount": "388",
+      "title": "[新聞] 孔念恩3呎線跑壘惹議　葉君璋賽後激動：無法接受「球傳歪」理由",
+      "link": "/bbs/Baseball/M.1778248458.A.CE5",
+      "author": "nybbnan",
+      "board": "Baseball",
+      "publishTime": "2026/05/08 13:54",
+      "imageUrl": ""
     }
   ]
 }
