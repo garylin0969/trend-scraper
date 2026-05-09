@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-09T01:07:51.119Z",
+  "updated": "2026-05-09T01:54:13.881Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-05-09T01:07:44.000Z",
+    "lastBuildDate": "2026-05-09T01:54:03.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -16,6 +16,14 @@
       "pubDate": "2026-05-09T01:02:55.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c0j2ze1e01xo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eeb0/live/4c463660-4ab2-11f1-abbe-696bdf3a3d1b.jpg"
+    },
+    {
+      "title": "懸浮物體與閃光：五角大樓的UFO解密檔案披露了什麼？",
+      "description": "美國政府公開了有關不明飛行物、不明異常現象的文字記錄、影片和錄音。",
+      "link": "https://www.bbc.com/zhongwen/articles/czd23g2y415o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-09T01:40:31.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/czd23g2y415o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d2f/live/55b14d10-4b17-11f1-be9e-ad2f8d891a76.png"
     },
     {
       "title": "台灣醫美巨頭愛爾麗涉「系統性偷拍」，數以百計女性憂私密影片外流",
@@ -46,7 +54,7 @@
       "description": "日本現在面臨抉擇：究竟要堅守過去形塑的和平主義身份，還是適應一個更加動盪的未來?",
       "link": "https://www.bbc.com/zhongwen/articles/cx2178147kvo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-05-08T04:49:44.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx2178147kvo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx2178147kvo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b2d6/live/94ecf7e0-4a90-11f1-b55d-0f258dce1735.jpg"
     },
     {
@@ -104,14 +112,6 @@
       "pubDate": "2026-05-07T06:07:28.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c042zqlevzvo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bfb6/live/d2906a10-4896-11f1-b55d-0f258dce1735.png"
-    },
-    {
-      "title": "美國報告：中國東航空難肇因為燃料供應被切斷",
-      "description": "發生於2022年3月的東航廣西梧州空難造成132人罹難，中國社交媒體平台不久前曾傳出調查結果因國安理由而不予公佈。",
-      "link": "https://www.bbc.com/zhongwen/articles/cwy27rrrw4xo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-05T12:11:31.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwy27rrrw4xo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ceb6/live/9bdc5540-4839-11f1-bdd2-d3ff34c9beb8.jpg"
     },
     {
       "title": "前線的機器人：令人不安的戰爭未來",
@@ -210,12 +210,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8005/live/7f94fdd0-47a6-11f1-a815-8703cc282724.jpg"
     },
     {
-      "title": "中國取消對非洲國家關稅，但有一個國家除外",
-      "description": "中國宣布取消對53個非洲國家的關稅，僅排除與台灣維持外交關係的史瓦帝尼。此舉被視為北京提升對非影響力的重大讓利，但分析指出，中非貿易逆差持續擴大，非洲對中國出口仍以原料為主，關稅取消的實際經濟效益可能有限。",
-      "link": "https://www.bbc.com/zhongwen/articles/c70vz20zlvlo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-01T06:45:45.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c70vz20zlvlo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1140/live/03920640-4514-11f1-bd52-e755d604ece4.jpg"
+      "title": "美國報告：中國東航空難肇因為燃料供應被切斷",
+      "description": "發生於2022年3月的東航廣西梧州空難造成132人罹難，中國社交媒體平台不久前曾傳出調查結果因國安理由而不予公佈。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwy27rrrw4xo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-05T12:11:31.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwy27rrrw4xo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ceb6/live/9bdc5540-4839-11f1-bdd2-d3ff34c9beb8.jpg"
     },
     {
       "title": "2026高雄「亞洲同志運動會」：中國大陸選手為何全數被拒入境",
