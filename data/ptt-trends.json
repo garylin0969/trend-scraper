@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-10T17:38:40.635Z",
+  "updated": "2026-05-10T18:01:23.959Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "555",
-      "recommendCount": "967",
+      "recommendCount": "968",
       "title": "[爆卦] 文化部館所砸鉅資設計logo：楷體",
       "link": "/bbs/Gossiping/M.1778379707.A.FC1",
       "author": "minorin",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "300",
-      "recommendCount": "1030",
+      "recommendScore": "301",
+      "recommendCount": "1031",
       "title": "[問卦] 脆：于右任的草書字體很難印刷",
       "link": "/bbs/Gossiping/M.1778385501.A.2BE",
       "author": "lovea",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "301",
-      "recommendCount": "686",
+      "recommendScore": "302",
+      "recommendCount": "687",
       "title": "[問卦] 台派發起捐款補足1.25兆軍購",
       "link": "/bbs/Gossiping/M.1778400498.A.1DB",
       "author": "eatk",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "201",
-      "recommendCount": "558",
+      "recommendScore": "203",
+      "recommendCount": "568",
       "title": "[新聞] 沈伯洋不打老鼠了！「最新人設」影片曝光　青鳥嗨爆",
       "link": "/bbs/Gossiping/M.1778415175.A.8DC",
       "author": "juyhnmki",
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "188",
+      "recommendCount": "447",
+      "title": "[新聞] 普發現金2.0來了？ 羅明才提特別條例 每人發1萬「國民支援金」",
+      "link": "/bbs/Gossiping/M.1778409930.A.728",
+      "author": "chun0303",
+      "board": "Gossiping",
+      "publishTime": "2026/05/10 10:45",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "156",
       "recommendCount": "553",
       "title": "[新聞] 破紀錄！屏東知名五金行老闆娘遭詐4835萬元 女車手重判並全額賠償",
@@ -124,13 +134,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "188",
-      "recommendCount": "446",
-      "title": "[新聞] 普發現金2.0來了？ 羅明才提特別條例 每人發1萬「國民支援金」",
-      "link": "/bbs/Gossiping/M.1778409930.A.728",
-      "author": "chun0303",
-      "board": "Gossiping",
-      "publishTime": "2026/05/10 10:45",
+      "recommendScore": "284",
+      "recommendCount": "307",
+      "title": "[情報] 明日裁判名單（可能是最後一篇文了）",
+      "link": "/bbs/NBA/M.1778420821.A.708",
+      "author": "jack86326",
+      "board": "NBA",
+      "publishTime": "2026/05/10 13:47",
       "imageUrl": ""
     },
     {
@@ -141,16 +151,6 @@
       "author": "laptic",
       "board": "LoL",
       "publishTime": "2026/05/10 07:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "275",
-      "recommendCount": "297",
-      "title": "[情報] 明日裁判名單（可能是最後一篇文了）",
-      "link": "/bbs/NBA/M.1778420821.A.708",
-      "author": "jack86326",
-      "board": "NBA",
-      "publishTime": "2026/05/10 13:47",
       "imageUrl": ""
     },
     {
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "157",
+      "recommendCount": "490",
+      "title": "[花邊] 湖媒：若LBJ這系列賽之後就退休，不怪他",
+      "link": "/bbs/NBA/M.1778398444.A.CF1",
+      "author": "KC90",
+      "board": "NBA",
+      "publishTime": "2026/05/10 07:34",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "305",
       "recommendCount": "1275",
       "title": "[問卦]有PTT用戶在護航脆四倍人口的9486萬流量？",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/05/10 05:46",
       "imageUrl": "https://cache.pttweb.cc/imgur/rZY3aIv/s/a2b9f43af894531d382c21b13a5bfe91"
-    },
-    {
-      "recommendScore": "157",
-      "recommendCount": "488",
-      "title": "[花邊] 湖媒：若LBJ這系列賽之後就退休，不怪他",
-      "link": "/bbs/NBA/M.1778398444.A.CF1",
-      "author": "KC90",
-      "board": "NBA",
-      "publishTime": "2026/05/10 07:34",
-      "imageUrl": ""
     }
   ]
 }
