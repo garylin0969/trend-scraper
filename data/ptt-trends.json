@@ -1,17 +1,17 @@
 {
-  "updated": "2026-05-10T20:09:02.263Z",
+  "updated": "2026-05-10T20:28:33.769Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "555",
-      "recommendCount": "969",
+      "recommendScore": "556",
+      "recommendCount": "970",
       "title": "[爆卦] 文化部館所砸鉅資設計logo：楷體",
       "link": "/bbs/Gossiping/M.1778379707.A.FC1",
       "author": "minorin",
       "board": "Gossiping",
       "publishTime": "2026/05/10 02:21",
-      "imageUrl": "https://cache.pttweb.cc/imgur/R29eL4P/s/b86ad56a922a6127f1bc39187290ad02"
+      "imageUrl": ""
     },
     {
       "recommendScore": "301",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "204",
-      "recommendCount": "581",
+      "recommendScore": "202",
+      "recommendCount": "587",
       "title": "[新聞] 沈伯洋不打老鼠了！「最新人設」影片曝光　青鳥嗨爆",
       "link": "/bbs/Gossiping/M.1778415175.A.8DC",
       "author": "juyhnmki",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "85",
-      "recommendCount": "402",
+      "recommendScore": "86",
+      "recommendCount": "404",
       "title": "[新聞] 96萬改台電Logo遭酸「新細明體」！聶永真開嗆：我值得更好的",
       "link": "/bbs/Gossiping/M.1778374742.A.233",
       "author": "WuSam",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "157",
+      "recommendCount": "491",
+      "title": "[花邊] 湖媒：若LBJ這系列賽之後就退休，不怪他",
+      "link": "/bbs/NBA/M.1778398444.A.CF1",
+      "author": "KC90",
+      "board": "NBA",
+      "publishTime": "2026/05/10 07:34",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "305",
       "recommendCount": "1278",
       "title": "[問卦]有PTT用戶在護航脆四倍人口的9486萬流量？",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/05/10 05:46",
       "imageUrl": "https://cache.pttweb.cc/imgur/rZY3aIv/s/a2b9f43af894531d382c21b13a5bfe91"
-    },
-    {
-      "recommendScore": "157",
-      "recommendCount": "490",
-      "title": "[花邊] 湖媒：若LBJ這系列賽之後就退休，不怪他",
-      "link": "/bbs/NBA/M.1778398444.A.CF1",
-      "author": "KC90",
-      "board": "NBA",
-      "publishTime": "2026/05/10 07:34",
-      "imageUrl": ""
     }
   ]
 }
