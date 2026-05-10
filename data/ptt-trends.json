@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T21:31:18.685Z",
+  "updated": "2026-05-10T21:53:25.985Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "305",
-      "recommendCount": "693",
+      "recommendCount": "696",
       "title": "[問卦] 台派發起捐款補足1.25兆軍購",
       "link": "/bbs/Gossiping/M.1778400498.A.1DB",
       "author": "eatk",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "202",
-      "recommendCount": "588",
+      "recommendScore": "204",
+      "recommendCount": "591",
       "title": "[新聞] 沈伯洋不打老鼠了！「最新人設」影片曝光　青鳥嗨爆",
       "link": "/bbs/Gossiping/M.1778415175.A.8DC",
       "author": "juyhnmki",
@@ -174,14 +174,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "171",
-      "recommendCount": "383",
+      "recommendScore": "170",
+      "recommendCount": "384",
       "title": "[新聞] 賴清德任內罰不到醫院？三班護病比延後上路　6大醫院工會怒批：背棄總統競選承諾",
       "link": "/bbs/Gossiping/M.1778376712.A.C3B",
       "author": "ptt987654321",
       "board": "Gossiping",
       "publishTime": "2026/05/10 01:31",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "307",
+      "recommendCount": "1280",
+      "title": "[問卦]有PTT用戶在護航脆四倍人口的9486萬流量？",
+      "link": "/bbs/Gossiping/M.1778392014.A.5B7",
+      "author": "NARUTO",
+      "board": "Gossiping",
+      "publishTime": "2026/05/10 05:46",
+      "imageUrl": "https://cache.pttweb.cc/imgur/rZY3aIv/s/a2b9f43af894531d382c21b13a5bfe91"
     },
     {
       "recommendScore": "157",
@@ -192,16 +202,6 @@
       "board": "NBA",
       "publishTime": "2026/05/10 07:34",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "305",
-      "recommendCount": "1278",
-      "title": "[問卦]有PTT用戶在護航脆四倍人口的9486萬流量？",
-      "link": "/bbs/Gossiping/M.1778392014.A.5B7",
-      "author": "NARUTO",
-      "board": "Gossiping",
-      "publishTime": "2026/05/10 05:46",
-      "imageUrl": "https://cache.pttweb.cc/imgur/rZY3aIv/s/a2b9f43af894531d382c21b13a5bfe91"
     }
   ]
 }
