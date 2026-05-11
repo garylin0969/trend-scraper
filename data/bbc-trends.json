@@ -1,14 +1,22 @@
 {
-  "updated": "2026-05-11T00:03:23.746Z",
+  "updated": "2026-05-11T01:14:49.461Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-05-11T00:03:18.000Z",
+    "lastBuildDate": "2026-05-11T01:14:37.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "從「何劍」到台灣　盤點特朗普訪華啟程前中美輿論場上的「叫板」熱點",
+      "description": "華府公佈特朗普即將二度訪華，北京仍待發表相應消息，但中美雙方在輿論場上的交鋒已持續一段時間。",
+      "link": "https://www.bbc.com/zhongwen/articles/cgmp88mxy03o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-11T00:24:30.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cgmp88mxy03o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/65f6/live/fa078060-4af3-11f1-b55d-0f258dce1735.jpg"
+    },
     {
       "title": "漢他病毒：特內里費的醫護人員正準備迎接受病毒影響的郵輪抵達",
       "description": "BBC記者莎拉·雷恩斯福德從特內里費港口報道，在致命的漢他病毒爆發後，郵輪洪迪斯號即將停靠在該港口。",
@@ -40,14 +48,6 @@
       "pubDate": "2026-05-10T07:25:32.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cqxpe08p27do/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7c9d/live/c19e8dd0-4ad1-11f1-92c1-4f69e4cb55db.jpg"
-    },
-    {
-      "title": "當英國人向你說「Sorry」，背後的六種真實意思",
-      "description": "「Sorry」是英國最常被過度使用、也最容易被誤解的詞語之一。究竟應該如何解讀這個禮貌雷區？",
-      "link": "https://www.bbc.com/zhongwen/articles/c2e2wgldggxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-10T02:43:22.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c2e2wgldggxo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b20/live/bde74470-4acc-11f1-b55d-0f258dce1735.png"
     },
     {
       "title": "Instagram停用端對端加密——用戶私訊私隱將受到什麼影響？",
@@ -282,6 +282,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6449/live/7c5b5330-4841-11f1-bff2-217d16becbe5.jpg"
     },
     {
+      "title": "當英國人向你說「Sorry」，背後的六種真實意思",
+      "description": "「Sorry」是英國最常被過度使用、也最容易被誤解的詞語之一。究竟應該如何解讀這個禮貌雷區？",
+      "link": "https://www.bbc.com/zhongwen/articles/c2e2wgldggxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-10T02:43:22.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c2e2wgldggxo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b20/live/bde74470-4acc-11f1-b55d-0f258dce1735.png"
+    },
+    {
       "title": "「跳出機器人思維」：用科學回答人工智慧是否讓你變笨，以及解決辦法",
       "description": "記者訪問了這個領域的一些頂尖專家，了解他們認為我們應該如何使用人工智慧，以確保它不會使我們的腦袋變得遲鈍。",
       "link": "https://www.bbc.com/zhongwen/articles/c072zpzz49vo/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2026-05-04T13:22:17.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c8r8j7lze0ro/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d141/live/9a7c9710-479d-11f1-970b-c9a1b7950074.jpg"
-    },
-    {
-      "title": "「迷幻蘑菇」可能有助戒煙？",
-      "description": "尼古丁具有高度成癮性，但最新研究顯示，迷幻藥物能以改變人們世界觀的方式，幫助他們戒除吸煙習慣。",
-      "link": "https://www.bbc.com/zhongwen/articles/cy72k38gm5no/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-04T07:00:55.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cy72k38gm5no/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/48ba/live/694ca950-477a-11f1-ac78-2112837ce2aa.jpg"
     }
   ]
 }
