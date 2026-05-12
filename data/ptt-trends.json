@@ -1,10 +1,20 @@
 {
-  "updated": "2026-05-12T07:46:20.366Z",
+  "updated": "2026-05-12T08:46:31.667Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "748",
+      "recommendScore": "460",
+      "recommendCount": "641",
+      "title": "[發錢] 洛杉磯球商隊又又又被剃光頭",
+      "link": "/bbs/NBA/M.1778563436.A.C63",
+      "author": "shaaan",
+      "board": "NBA",
+      "publishTime": "2026/05/12 05:23",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "750",
       "recommendCount": "1488",
       "title": "[閒聊] 2026/05/12 盤中閒聊",
       "link": "/bbs/Stock/M.1778545841.A.F0C",
@@ -14,18 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "449",
-      "recommendCount": "623",
-      "title": "[發錢] 洛杉磯球商隊又又又被剃光頭",
-      "link": "/bbs/NBA/M.1778563436.A.C63",
-      "author": "shaaan",
-      "board": "NBA",
-      "publishTime": "2026/05/12 05:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "332",
-      "recommendCount": "783",
+      "recommendScore": "333",
+      "recommendCount": "784",
       "title": "[新聞] 又是他！葉元之爆經濟部Logo「聶永真操刀」　3部會標案全是同一人",
       "link": "/bbs/Gossiping/M.1778543312.A.3D8",
       "author": "HisVol",
@@ -34,8 +34,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "602",
+      "recommendScore": "243",
+      "recommendCount": "640",
+      "title": "[問卦] LOPIA總經理：高雄人只買便宜貨特價品",
+      "link": "/bbs/Gossiping/M.1778559094.A.C27",
+      "author": "TsukimiyaAyu",
+      "board": "Gossiping",
+      "publishTime": "2026/05/12 04:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "245",
+      "recommendCount": "604",
       "title": "[新聞] 堵死逃生門燒死房東母女！台中狠嫌哭求交保：別讓我當不孝子",
       "link": "/bbs/Gossiping/M.1778539226.A.307",
       "author": "yokann",
@@ -54,18 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "232",
-      "recommendCount": "603",
-      "title": "[問卦] LOPIA總經理：高雄人只買便宜貨特價品",
-      "link": "/bbs/Gossiping/M.1778559094.A.C27",
-      "author": "TsukimiyaAyu",
-      "board": "Gossiping",
-      "publishTime": "2026/05/12 04:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "279",
-      "recommendCount": "573",
+      "recommendScore": "280",
+      "recommendCount": "576",
       "title": "[問卦] 喜相逢私廚1人7700，這菜色給過嗎",
       "link": "/bbs/Gossiping/M.1778498079.A.D7E",
       "author": "zjeff1",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "371",
-      "recommendCount": "826",
+      "recommendScore": "376",
+      "recommendCount": "845",
       "title": "[情報] Lebron James 季後賽4:0被橫掃紀錄+1",
       "link": "/bbs/NBA/M.1778563492.A.3A0",
       "author": "iammatrix",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "213",
-      "recommendCount": "513",
+      "recommendScore": "214",
+      "recommendCount": "515",
       "title": "[問卦] 為什麼現在的官員感覺比以前荒唐好多",
       "link": "/bbs/Gossiping/M.1778502073.A.275",
       "author": "violet1024",
@@ -131,6 +131,16 @@
       "author": "ChrisDavis",
       "board": "NBA",
       "publishTime": "2026/05/11 12:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "236",
+      "recommendCount": "477",
+      "title": "[新聞] 監院LOGO也是聶永真改的 她驚490萬經費：不是要廢院？",
+      "link": "/bbs/Gossiping/M.1778555114.A.799",
+      "author": "DORAQMON",
+      "board": "Gossiping",
+      "publishTime": "2026/05/12 03:05",
       "imageUrl": ""
     },
     {
@@ -154,13 +164,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "232",
-      "recommendCount": "464",
-      "title": "[新聞] 監院LOGO也是聶永真改的 她驚490萬經費：不是要廢院？",
-      "link": "/bbs/Gossiping/M.1778555114.A.799",
-      "author": "DORAQMON",
+      "recommendScore": "112",
+      "recommendCount": "481",
+      "title": "[新聞] 快訊／賴清德宣布：三班護病比　明年5／20提前分階段實施",
+      "link": "/bbs/Gossiping/M.1778568306.A.85A",
+      "author": "SEVENxELEVEN",
       "board": "Gossiping",
-      "publishTime": "2026/05/12 03:05",
+      "publishTime": "2026/05/12 06:45",
       "imageUrl": ""
     },
     {
@@ -174,18 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "195",
-      "recommendCount": "353",
-      "title": "[新聞] 獨家》民進黨週三徵召沈伯洋選北市長 賴清德將親授戰旗反攻首都",
-      "link": "/bbs/Gossiping/M.1778495847.A.F74",
-      "author": "LIN9",
-      "board": "Gossiping",
-      "publishTime": "2026/05/11 10:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "262",
-      "recommendCount": "354",
+      "recommendScore": "265",
+      "recommendCount": "367",
       "title": "Re: [標的] 工信 新手爸爸想賺尿布錢多",
       "link": "/bbs/Stock/M.1778553201.A.85C",
       "author": "game7463",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "249",
-      "recommendCount": "305",
-      "title": "[地震] 地震",
-      "link": "/bbs/Gossiping/M.1778568863.A.8CB",
-      "author": "DsLove710",
+      "recommendScore": "195",
+      "recommendCount": "353",
+      "title": "[新聞] 獨家》民進黨週三徵召沈伯洋選北市長 賴清德將親授戰旗反攻首都",
+      "link": "/bbs/Gossiping/M.1778495847.A.F74",
+      "author": "LIN9",
       "board": "Gossiping",
-      "publishTime": "2026/05/12 06:54",
+      "publishTime": "2026/05/11 10:37",
       "imageUrl": ""
     }
   ]
