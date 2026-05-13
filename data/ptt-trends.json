@@ -1,21 +1,21 @@
 {
-  "updated": "2026-05-13T11:14:10.950Z",
+  "updated": "2026-05-13T12:02:49.713Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "613",
-      "recommendCount": "1043",
+      "recommendScore": "671",
+      "recommendCount": "1137",
       "title": "Re: [問卦] Cheap是不是走了一條不歸路？",
       "link": "/bbs/Gossiping/M.1778656233.A.DFF",
       "author": "ofpurity",
       "board": "Gossiping",
       "publishTime": "2026/05/13 07:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/pzAyIS2/s/84313ae319b8f60865c7f0599f08f24c"
+      "imageUrl": ""
     },
     {
-      "recommendScore": "375",
-      "recommendCount": "905",
+      "recommendScore": "379",
+      "recommendCount": "911",
       "title": "[新聞] 數發部國家資安院淪陷！內鬼植蠕蟲狂吸保密文件 二把手20萬元交保",
       "link": "/bbs/Gossiping/M.1778634144.A.A9A",
       "author": "lycppt",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "363",
-      "recommendCount": "795",
+      "recommendScore": "380",
+      "recommendCount": "838",
       "title": "[新聞] 暗酸賴清德？川普見習近平前喊：台灣若有「對的總統」就不會爆發衝突！",
       "link": "/bbs/Gossiping/M.1778655937.A.04D",
       "author": "cheninher",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "435",
-      "recommendCount": "731",
+      "recommendScore": "449",
+      "recommendCount": "751",
       "title": "[爆卦] 聶永真標案設計（致敬）大全集！",
       "link": "/bbs/Gossiping/M.1778653129.A.3C9",
       "author": "o0o7221",
@@ -44,48 +44,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/pzAyIS2/s/84313ae319b8f60865c7f0599f08f24c"
     },
     {
-      "recommendScore": "326",
-      "recommendCount": "680",
-      "title": "[新聞] 交通部螺絲真的鬆了？遭點名造謠 火花羅直播「徒手轉下淡江大橋螺帽」",
-      "link": "/bbs/Gossiping/M.1778585737.A.3FA",
-      "author": "Aqqqa",
-      "board": "Gossiping",
-      "publishTime": "2026/05/12 11:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "408",
-      "recommendCount": "426",
-      "title": "Re: [LIVE] NBA 明尼蘇達灰狼 @ 聖安東尼奧馬刺 場中",
-      "link": "/bbs/SportLottery/M.1778640824.A.6E9",
-      "author": "lotterywin",
-      "board": "SportLottery",
-      "publishTime": "2026/05/13 02:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "376",
-      "recommendCount": "477",
-      "title": "Re: [情報] Vassell:我們需要生氣的斑馬",
-      "link": "/bbs/NBA/M.1778646871.A.26E",
-      "author": "RoseC",
-      "board": "NBA",
-      "publishTime": "2026/05/13 04:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "235",
-      "recommendCount": "584",
-      "title": "[新聞] 9旬翁落水！婆媽求援「年輕人快去救」24歲大學生跟著跳…2人一起失蹤",
-      "link": "/bbs/Gossiping/M.1778635653.A.924",
-      "author": "luxuryer",
-      "board": "Gossiping",
-      "publishTime": "2026/05/13 01:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "277",
-      "recommendCount": "414",
+      "recommendScore": "365",
+      "recommendCount": "524",
       "title": "[分享] 爪魯閣",
       "link": "/bbs/Baseball/M.1778669973.A.184",
       "author": "Kanojyo",
@@ -94,8 +54,48 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "285",
-      "recommendCount": "467",
+      "recommendScore": "411",
+      "recommendCount": "430",
+      "title": "Re: [LIVE] NBA 明尼蘇達灰狼 @ 聖安東尼奧馬刺 場中",
+      "link": "/bbs/SportLottery/M.1778640824.A.6E9",
+      "author": "lotterywin",
+      "board": "SportLottery",
+      "publishTime": "2026/05/13 02:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "386",
+      "recommendCount": "489",
+      "title": "Re: [情報] Vassell:我們需要生氣的斑馬",
+      "link": "/bbs/NBA/M.1778646871.A.26E",
+      "author": "RoseC",
+      "board": "NBA",
+      "publishTime": "2026/05/13 04:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "237",
+      "recommendCount": "587",
+      "title": "[新聞] 9旬翁落水！婆媽求援「年輕人快去救」24歲大學生跟著跳…2人一起失蹤",
+      "link": "/bbs/Gossiping/M.1778635653.A.924",
+      "author": "luxuryer",
+      "board": "Gossiping",
+      "publishTime": "2026/05/13 01:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "140",
+      "recommendCount": "499",
+      "title": "[新聞] 要給台北完整免疫系統！　沈伯洋：請讓我成為你的市長",
+      "link": "/bbs/Gossiping/M.1778658829.A.8E8",
+      "author": "taiwan08",
+      "board": "Gossiping",
+      "publishTime": "2026/05/13 07:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "286",
+      "recommendCount": "468",
       "title": "[新聞] 快訊／黃仁勳登上空軍一號！　白宮證實：隨川普訪中",
       "link": "/bbs/Stock/M.1778638182.A.7C5",
       "author": "joanzkow",
@@ -144,18 +144,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "126",
-      "recommendCount": "443",
-      "title": "[新聞] 要給台北完整免疫系統！　沈伯洋：請讓我成為你的市長",
-      "link": "/bbs/Gossiping/M.1778658829.A.8E8",
-      "author": "taiwan08",
-      "board": "Gossiping",
-      "publishTime": "2026/05/13 07:53",
+      "recommendScore": "-143",
+      "recommendCount": "495",
+      "title": "[公告] 大怒灌",
+      "link": "/bbs/Elephants/M.1778670227.A.BEA",
+      "author": "msarthur",
+      "board": "Elephants",
+      "publishTime": "2026/05/13 11:03",
       "imageUrl": ""
     },
     {
-      "recommendScore": "273",
-      "recommendCount": "626",
+      "recommendScore": "556",
+      "recommendCount": "1499",
+      "title": "[情報] 今日一軍先發",
+      "link": "/bbs/Elephants/M.1778665400.A.691",
+      "author": "tony900735",
+      "board": "Elephants",
+      "publishTime": "2026/05/13 09:43",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "274",
+      "recommendCount": "628",
       "title": "[情報] 川普：希望中國能夠「對外開放」",
       "link": "/bbs/Stock/M.1778643365.A.275",
       "author": "c259888",
@@ -164,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "150",
-      "recommendCount": "436",
+      "recommendScore": "153",
+      "recommendCount": "439",
       "title": "[心得] 股市小白癡自掛東南枝以自我警惕",
       "link": "/bbs/Stock/M.1778645241.A.1A1",
       "author": "WeiBirdFan",
@@ -174,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "293",
-      "recommendCount": "634",
+      "recommendScore": "296",
+      "recommendCount": "637",
       "title": "[情報] 爵士老鷹有意追求Reaves 年薪預計4000萬",
       "link": "/bbs/NBA/M.1778642602.A.602",
       "author": "OsmanGo",
@@ -184,23 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "116",
-      "recommendCount": "417",
+      "recommendScore": "117",
+      "recommendCount": "418",
       "title": "[新聞] 路易莎女員工「肚子蓬蓬的」！揹嬰上班畫面暖哭400萬人",
       "link": "/bbs/Gossiping/M.1778636115.A.8F4",
       "author": "indigowaltz",
       "board": "Gossiping",
       "publishTime": "2026/05/13 01:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "249",
-      "recommendCount": "353",
-      "title": "[分享] CPBL戰績",
-      "link": "/bbs/Baseball/M.1778593134.A.B4A",
-      "author": "nybbnan",
-      "board": "Baseball",
-      "publishTime": "2026/05/12 13:38",
       "imageUrl": ""
     }
   ]
