@@ -1,17 +1,27 @@
 {
-  "updated": "2026-05-13T13:51:16.499Z",
+  "updated": "2026-05-13T14:52:27.578Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "724",
-      "recommendCount": "1242",
+      "recommendScore": "744",
+      "recommendCount": "1284",
       "title": "Re: [問卦] Cheap是不是走了一條不歸路？",
       "link": "/bbs/Gossiping/M.1778656233.A.DFF",
       "author": "ofpurity",
       "board": "Gossiping",
       "publishTime": "2026/05/13 07:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/pzAyIS2/s/84313ae319b8f60865c7f0599f08f24c"
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "603",
+      "recommendCount": "706",
+      "title": "[分享] 統一獅隊史2000勝 各總教練勝場數",
+      "link": "/bbs/Baseball/M.1778677650.A.E1D",
+      "author": "eunhailoveu",
+      "board": "Baseball",
+      "publishTime": "2026/05/13 13:07",
+      "imageUrl": ""
     },
     {
       "recommendScore": "382",
@@ -24,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "414",
-      "recommendCount": "906",
+      "recommendScore": "422",
+      "recommendCount": "923",
       "title": "[新聞] 暗酸賴清德？川普見習近平前喊：台灣若有「對的總統」就不會爆發衝突！",
       "link": "/bbs/Gossiping/M.1778655937.A.04D",
       "author": "cheninher",
@@ -34,18 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "509",
-      "recommendCount": "606",
-      "title": "[分享] 統一獅隊史2000勝 各總教練勝場數",
-      "link": "/bbs/Baseball/M.1778677650.A.E1D",
-      "author": "eunhailoveu",
-      "board": "Baseball",
-      "publishTime": "2026/05/13 13:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "464",
-      "recommendCount": "785",
+      "recommendScore": "469",
+      "recommendCount": "794",
       "title": "[爆卦] 聶永真標案設計（致敬）大全集！",
       "link": "/bbs/Gossiping/M.1778653129.A.3C9",
       "author": "o0o7221",
@@ -54,8 +54,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/pzAyIS2/s/84313ae319b8f60865c7f0599f08f24c"
     },
     {
-      "recommendScore": "401",
-      "recommendCount": "563",
+      "recommendScore": "404",
+      "recommendCount": "567",
       "title": "[分享] 爪魯閣",
       "link": "/bbs/Baseball/M.1778669973.A.184",
       "author": "Kanojyo",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-181",
-      "recommendCount": "658",
+      "recommendScore": "-196",
+      "recommendCount": "749",
       "title": "[公告] 大怒灌",
       "link": "/bbs/Elephants/M.1778670227.A.BEA",
       "author": "msarthur",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "163",
-      "recommendCount": "563",
+      "recommendScore": "173",
+      "recommendCount": "584",
       "title": "[新聞] 要給台北完整免疫系統！　沈伯洋：請讓我成為你的市長",
       "link": "/bbs/Gossiping/M.1778658829.A.8E8",
       "author": "taiwan08",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "400",
-      "recommendCount": "504",
+      "recommendScore": "405",
+      "recommendCount": "509",
       "title": "Re: [情報] Vassell:我們需要生氣的斑馬",
       "link": "/bbs/NBA/M.1778646871.A.26E",
       "author": "RoseC",
@@ -164,18 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "558",
-      "recommendCount": "1499",
-      "title": "[情報] 今日一軍先發",
-      "link": "/bbs/Elephants/M.1778665400.A.691",
-      "author": "tony900735",
-      "board": "Elephants",
-      "publishTime": "2026/05/13 09:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "153",
-      "recommendCount": "439",
+      "recommendScore": "155",
+      "recommendCount": "441",
       "title": "[心得] 股市小白癡自掛東南枝以自我警惕",
       "link": "/bbs/Stock/M.1778645241.A.1A1",
       "author": "WeiBirdFan",
@@ -185,7 +175,7 @@
     },
     {
       "recommendScore": "302",
-      "recommendCount": "644",
+      "recommendCount": "645",
       "title": "[情報] 爵士老鷹有意追求Reaves 年薪預計4000萬",
       "link": "/bbs/NBA/M.1778642602.A.602",
       "author": "OsmanGo",
@@ -194,8 +184,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "198",
-      "recommendCount": "343",
+      "recommendScore": "571",
+      "recommendCount": "1499",
+      "title": "[情報] 今日一軍先發",
+      "link": "/bbs/Elephants/M.1778665400.A.691",
+      "author": "tony900735",
+      "board": "Elephants",
+      "publishTime": "2026/05/13 09:43",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "201",
+      "recommendCount": "350",
       "title": "[情報] 鄭浩均投0.1局退場",
       "link": "/bbs/Baseball/M.1778669622.A.2DB",
       "author": "iahc5566",
