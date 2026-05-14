@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T12:14:10.668Z",
+  "updated": "2026-05-14T13:00:09.063Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "528",
-      "recommendCount": "789",
+      "recommendScore": "529",
+      "recommendCount": "790",
       "title": "[爆卦] 經濟部能源署 連結",
       "link": "/bbs/Gossiping/M.1778731065.A.FD2",
       "author": "gygy2020",
@@ -34,8 +34,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/lMIIH0Z/s/6206629ce76ce22c5ea1c0a8aff75b8a"
     },
     {
-      "recommendScore": "506",
-      "recommendCount": "529",
+      "recommendScore": "416",
+      "recommendCount": "699",
+      "title": "[新聞] 鴻海工程師尾牙抽中電動車　遭資遣領不到！怒求償百萬結果曝",
+      "link": "/bbs/Stock/M.1778744761.A.531",
+      "author": "CTC0115",
+      "board": "Stock",
+      "publishTime": "2026/05/14 07:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "512",
+      "recommendCount": "536",
       "title": "Re: [推薦] 籃球[小律師]克里夫蘭騎士 @ 底特律活塞",
       "link": "/bbs/SportLottery/M.1778728094.A.C5F",
       "author": "lotterywin",
@@ -45,7 +55,7 @@
     },
     {
       "recommendScore": "413",
-      "recommendCount": "762",
+      "recommendCount": "763",
       "title": "[新聞] 快訊／川普大讚習近平是「偉大領袖」",
       "link": "/bbs/Gossiping/M.1778728350.A.4D3",
       "author": "betweenus020",
@@ -54,18 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "399",
-      "recommendCount": "677",
-      "title": "[新聞] 鴻海工程師尾牙抽中電動車　遭資遣領不到！怒求償百萬結果曝",
-      "link": "/bbs/Stock/M.1778744761.A.531",
-      "author": "CTC0115",
-      "board": "Stock",
-      "publishTime": "2026/05/14 07:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "242",
-      "recommendCount": "464",
+      "recommendScore": "248",
+      "recommendCount": "472",
       "title": "[新聞] TVBS民調／賴清德執政兩周年「滿意度38％」　51％對未來施政沒信心",
       "link": "/bbs/Gossiping/M.1778738818.A.37F",
       "author": "chopper594",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "341",
-      "recommendCount": "512",
+      "recommendScore": "344",
+      "recommendCount": "515",
       "title": "Re: [爆卦] 經濟部能源署 連結",
       "link": "/bbs/Gossiping/M.1778733365.A.3FF",
       "author": "Goog1e",
@@ -84,28 +84,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/47UILRw/s/67bc16746558378e6e291ad3030e0d67"
     },
     {
-      "recommendScore": "303",
-      "recommendCount": "564",
-      "title": "[討論] 復盤鄭浩均的崩盤",
-      "link": "/bbs/Baseball/M.1778723679.A.FCF",
-      "author": "FatZhai017",
-      "board": "Baseball",
-      "publishTime": "2026/05/14 01:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "369",
-      "recommendCount": "564",
-      "title": "[分享] 今日大谷翔平",
-      "link": "/bbs/Baseball/M.1778733231.A.257",
-      "author": "jerryyuan",
-      "board": "Baseball",
-      "publishTime": "2026/05/14 04:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "229",
-      "recommendCount": "472",
+      "recommendScore": "240",
+      "recommendCount": "497",
       "title": "[新聞] 賴清德稱「沈伯洋跟太太沒血緣」被酸爆",
       "link": "/bbs/Gossiping/M.1778749153.A.841",
       "author": "balakan",
@@ -114,13 +94,43 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "281",
-      "recommendCount": "380",
+      "recommendScore": "304",
+      "recommendCount": "565",
+      "title": "[討論] 復盤鄭浩均的崩盤",
+      "link": "/bbs/Baseball/M.1778723679.A.FCF",
+      "author": "FatZhai017",
+      "board": "Baseball",
+      "publishTime": "2026/05/14 01:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "370",
+      "recommendCount": "566",
+      "title": "[分享] 今日大谷翔平",
+      "link": "/bbs/Baseball/M.1778733231.A.257",
+      "author": "jerryyuan",
+      "board": "Baseball",
+      "publishTime": "2026/05/14 04:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "284",
+      "recommendCount": "383",
       "title": "[新聞] 中職／不是抓到鄭浩均配球！　王念好親曝富邦首局「球來就打」暴打策略",
       "link": "/bbs/Baseball/M.1778734721.A.A0A",
       "author": "EDFR",
       "board": "Baseball",
       "publishTime": "2026/05/14 04:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "169",
+      "recommendCount": "635",
+      "title": "[爆卦] 民進黨駁斥川普指賴清德不適任之謠言",
+      "link": "/bbs/Gossiping/M.1778747204.A.EC4",
+      "author": "tsaotsaogh",
+      "board": "Gossiping",
+      "publishTime": "2026/05/14 08:26",
       "imageUrl": ""
     },
     {
@@ -131,16 +141,6 @@
       "author": "nybbnan",
       "board": "Baseball",
       "publishTime": "2026/05/13 14:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "169",
-      "recommendCount": "620",
-      "title": "[爆卦] 民進黨駁斥川普指賴清德不適任之謠言",
-      "link": "/bbs/Gossiping/M.1778747204.A.EC4",
-      "author": "tsaotsaogh",
-      "board": "Gossiping",
-      "publishTime": "2026/05/14 08:26",
       "imageUrl": ""
     },
     {
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "235",
-      "recommendCount": "370",
-      "title": "[情報] 美國生產者物價指數(PPI)  4月 6%",
-      "link": "/bbs/Stock/M.1778675681.A.052",
-      "author": "a0808996",
-      "board": "Stock",
-      "publishTime": "2026/05/13 12:34",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "222",
       "recommendCount": "493",
       "title": "[新聞] 鄭浩均被打爆還嘻嘻哈哈！李杜軒痛批不尊重球迷：在日職早就被冰",
@@ -195,12 +185,22 @@
     },
     {
       "recommendScore": "290",
-      "recommendCount": "578",
+      "recommendCount": "582",
       "title": "[Vtub] holoearth 倒了",
       "link": "/bbs/C_Chat/M.1778740970.A.3E6",
       "author": "dragon803",
       "board": "C_Chat",
       "publishTime": "2026/05/14 06:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "5",
+      "recommendCount": "975",
+      "title": "[新聞] 網紅直播拆淡江大橋螺帽 公路局：勿毀損公共設施",
+      "link": "/bbs/HatePolitics/M.1778721044.A.279",
+      "author": "kuninaka",
+      "board": "HatePolitics",
+      "publishTime": "2026/05/14 01:10",
       "imageUrl": ""
     }
   ]
