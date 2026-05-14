@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T19:08:38.800Z",
+  "updated": "2026-05-14T19:49:59.664Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "444",
-      "recommendCount": "775",
+      "recommendCount": "776",
       "title": "[新聞] 鴻海工程師尾牙抽中電動車　遭資遣領不到！怒求償百萬結果曝",
       "link": "/bbs/Stock/M.1778744761.A.531",
       "author": "CTC0115",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "531",
-      "recommendCount": "797",
+      "recommendScore": "532",
+      "recommendCount": "798",
       "title": "[爆卦] 經濟部能源署 連結",
       "link": "/bbs/Gossiping/M.1778731065.A.FD2",
       "author": "gygy2020",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "254",
-      "recommendCount": "487",
+      "recommendCount": "488",
       "title": "[新聞] TVBS民調／賴清德執政兩周年「滿意度38％」　51％對未來施政沒信心",
       "link": "/bbs/Gossiping/M.1778738818.A.37F",
       "author": "chopper594",
@@ -84,8 +84,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/47UILRw/s/67bc16746558378e6e291ad3030e0d67"
     },
     {
-      "recommendScore": "187",
-      "recommendCount": "682",
+      "recommendScore": "188",
+      "recommendCount": "683",
       "title": "[爆卦] 民進黨駁斥川普指賴清德不適任之謠言",
       "link": "/bbs/Gossiping/M.1778747204.A.EC4",
       "author": "tsaotsaogh",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "226",
+      "recommendCount": "363",
+      "title": "[爆卦] 印度又發生巴士車上輪姦事件",
+      "link": "/bbs/Gossiping/M.1778756166.A.535",
+      "author": "bluehttp",
+      "board": "Gossiping",
+      "publishTime": "2026/05/14 10:56",
+      "imageUrl": "https://cache.pttweb.cc/imgur/IbR2LvV/s/df6cacb82fb5c50be21cd2ca5135dfa1"
+    },
+    {
       "recommendScore": "5",
       "recommendCount": "975",
       "title": "[新聞] 網紅直播拆淡江大橋螺帽 公路局：勿毀損公共設施",
@@ -192,16 +202,6 @@
       "board": "HatePolitics",
       "publishTime": "2026/05/14 01:10",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "224",
-      "recommendCount": "361",
-      "title": "[爆卦] 印度又發生巴士車上輪姦事件",
-      "link": "/bbs/Gossiping/M.1778756166.A.535",
-      "author": "bluehttp",
-      "board": "Gossiping",
-      "publishTime": "2026/05/14 10:56",
-      "imageUrl": "https://cache.pttweb.cc/imgur/IbR2LvV/s/df6cacb82fb5c50be21cd2ca5135dfa1"
     }
   ]
 }
