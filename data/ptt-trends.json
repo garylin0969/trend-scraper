@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T20:53:06.947Z",
+  "updated": "2026-05-15T21:25:35.029Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "395",
+      "recommendCount": "692",
+      "title": "[新聞] 川普：與「治理台灣的人」談話後　很快會決定對台軍售案",
+      "link": "/bbs/Gossiping/M.1778854819.A.FC7",
+      "author": "tenfu",
+      "board": "Gossiping",
+      "publishTime": "2026/05/15 14:20",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "557",
       "recommendCount": "655",
       "title": "[閒聊] KARINA VS Faker，你想和誰一起玩",
@@ -31,16 +41,6 @@
       "author": "wang7752",
       "board": "LoL",
       "publishTime": "2026/05/15 03:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "391",
-      "recommendCount": "682",
-      "title": "[新聞] 川普：與「治理台灣的人」談話後　很快會決定對台軍售案",
-      "link": "/bbs/Gossiping/M.1778854819.A.FC7",
-      "author": "tenfu",
-      "board": "Gossiping",
-      "publishTime": "2026/05/15 14:20",
       "imageUrl": ""
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "247",
-      "recommendCount": "739",
+      "recommendCount": "741",
       "title": "[問卦] 川普：美國不會跑到9500哩外幫台灣打戰",
       "link": "/bbs/Gossiping/M.1778856471.A.512",
       "author": "logical01",
