@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T15:12:50.980Z",
+  "updated": "2026-05-16T15:40:03.420Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "241",
+      "recommendCount": "373",
+      "title": "[分享] CPBL戰績",
+      "link": "/bbs/Baseball/M.1778933104.A.E94",
+      "author": "nybbnan",
+      "board": "Baseball",
+      "publishTime": "2026/05/16 12:05",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-144",
       "recommendCount": "383",
       "title": "[新聞] 賴總統守護台灣！民進黨執政4大成果一次看",
@@ -114,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "154",
-      "recommendCount": "319",
+      "recommendScore": "156",
+      "recommendCount": "323",
       "title": "[新聞] 全民瘋炒股！41.7萬人「貸房入股」 專家憂台股崩盤歷史重演：市場翻臉連",
       "link": "/bbs/Stock/M.1778910248.A.E31",
       "author": "TT991",
@@ -135,7 +145,7 @@
     },
     {
       "recommendScore": "129",
-      "recommendCount": "332",
+      "recommendCount": "333",
       "title": "[問卦] 警察半夜去守擎天岡的桌子是不是很可悲",
       "link": "/bbs/Gossiping/M.1778884845.A.048",
       "author": "gigaman",
@@ -154,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "31",
+      "recommendCount": "383",
+      "title": "[新聞] 邰智源嘆「只有台灣人在拆自己台」！賈永婕霸氣嗆：不要當台灣人就走啊",
+      "link": "/bbs/Gossiping/M.1778899334.A.892",
+      "author": "l983",
+      "board": "Gossiping",
+      "publishTime": "2026/05/16 02:42",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "153",
       "recommendCount": "302",
       "title": "[情報] AE在比賽結束前8分鐘走向馬刺板凳道賀",
@@ -164,18 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "31",
-      "recommendCount": "381",
-      "title": "[新聞] 邰智源嘆「只有台灣人在拆自己台」！賈永婕霸氣嗆：不要當台灣人就走啊",
-      "link": "/bbs/Gossiping/M.1778899334.A.892",
-      "author": "l983",
-      "board": "Gossiping",
-      "publishTime": "2026/05/16 02:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "173",
-      "recommendCount": "282",
+      "recommendScore": "175",
+      "recommendCount": "284",
       "title": "[閒聊] 日本買陀螺被臺灣人惡搞",
       "link": "/bbs/C_Chat/M.1778902577.A.417",
       "author": "KyrieIrving1",
@@ -191,16 +201,6 @@
       "author": "access4096",
       "board": "NBA",
       "publishTime": "2026/05/16 03:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "107",
-      "recommendCount": "369",
-      "title": "[新聞] 再點名台灣！川普撂話「不希望有人走向獨立」：不想跑那麼遠打仗",
-      "link": "/bbs/Gossiping/M.1778895476.A.867",
-      "author": "ptt987654321",
-      "board": "Gossiping",
-      "publishTime": "2026/05/16 01:37",
       "imageUrl": ""
     }
   ]
