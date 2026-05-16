@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-16T11:06:07.885Z",
+  "updated": "2026-05-16T11:31:56.167Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "351",
-      "recommendCount": "986",
+      "recommendScore": "366",
+      "recommendCount": "1025",
       "title": "[問卦]脆:看到川普不支持台灣,我難過到大哭",
       "link": "/bbs/Gossiping/M.1778900638.A.41E",
       "author": "yyyyyuuuuu",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-113",
-      "recommendCount": "341",
+      "recommendScore": "-112",
+      "recommendCount": "350",
       "title": "[新聞] 蔡英文一句話戳中年輕人焦慮！台中演講片瘋傳 網淚：感覺被接住",
       "link": "/bbs/Gossiping/M.1778901861.A.146",
       "author": "MikaHakkinen",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "199",
+      "recommendCount": "431",
+      "title": "[討論] 灰狼需要重建嗎？",
+      "link": "/bbs/NBA/M.1778907264.A.231",
+      "author": "chifeng",
+      "board": "NBA",
+      "publishTime": "2026/05/16 04:54",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "125",
       "recommendCount": "326",
       "title": "[問卦] 警察半夜去守擎天岡的桌子是不是很可悲",
@@ -191,16 +201,6 @@
       "author": "gigaman",
       "board": "Gossiping",
       "publishTime": "2026/05/15 22:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "170",
-      "recommendCount": "277",
-      "title": "[閒聊] 日本買陀螺被臺灣人惡搞",
-      "link": "/bbs/C_Chat/M.1778902577.A.417",
-      "author": "KyrieIrving1",
-      "board": "C_Chat",
-      "publishTime": "2026/05/16 03:36",
       "imageUrl": ""
     }
   ]
