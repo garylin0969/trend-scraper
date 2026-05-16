@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-15T23:53:23.092Z",
+  "updated": "2026-05-16T00:45:40.447Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "439",
-      "recommendCount": "780",
+      "recommendScore": "451",
+      "recommendCount": "802",
       "title": "[新聞] 川普：與「治理台灣的人」談話後　很快會決定對台軍售案",
       "link": "/bbs/Gossiping/M.1778854819.A.FC7",
       "author": "tenfu",
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "557",
-      "recommendCount": "655",
+      "recommendCount": "656",
       "title": "[閒聊] KARINA VS Faker，你想和誰一起玩",
       "link": "/bbs/LoL/M.1778815660.A.A55",
       "author": "wang7752",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "439",
-      "recommendCount": "528",
+      "recommendCount": "529",
       "title": "名偵探柯南小蘭姐姐聲優過世",
       "link": "/bbs/C_Chat/M.1778814791.A.C54",
       "author": "FusoKai",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "390",
-      "recommendCount": "764",
+      "recommendScore": "392",
+      "recommendCount": "767",
       "title": "[爆卦] 法律白話文造謠被罵爆 緊急下架影片",
       "link": "/bbs/Gossiping/M.1778815993.A.1ED",
       "author": "Goog1e",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "291",
-      "recommendCount": "624",
+      "recommendCount": "625",
       "title": "[新聞] 獨家／臺電去掉于右任字體惹議！國家圖書館珍藏史料曝光　文化界炸鍋了",
       "link": "/bbs/Gossiping/M.1778813324.A.00F",
       "author": "talin5814",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "265",
-      "recommendCount": "812",
+      "recommendScore": "267",
+      "recommendCount": "824",
       "title": "[問卦] 川普：美國不會跑到9500哩外幫台灣打戰",
       "link": "/bbs/Gossiping/M.1778856471.A.512",
       "author": "logical01",
@@ -84,13 +84,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "260",
-      "recommendCount": "797",
+      "recommendScore": "262",
+      "recommendCount": "799",
       "title": "[問卦] 美國怎麼感覺已經對台海局勢興趣缺缺了",
       "link": "/bbs/Gossiping/M.1778834118.A.7BF",
       "author": "SAGIN",
       "board": "Gossiping",
       "publishTime": "2026/05/15 08:35",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "157",
+      "recommendCount": "437",
+      "title": "[新聞] 孫安佐公開新發明！「河堤實測爆巨大火光」 用途曝：拿這個剛好",
+      "link": "/bbs/Gossiping/M.1778820155.A.5FA",
+      "author": "palajuice",
+      "board": "Gossiping",
+      "publishTime": "2026/05/15 04:42",
       "imageUrl": ""
     },
     {
@@ -101,16 +111,6 @@
       "author": "warriors30",
       "board": "Elephants",
       "publishTime": "2026/05/15 09:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "156",
-      "recommendCount": "436",
-      "title": "[新聞] 孫安佐公開新發明！「河堤實測爆巨大火光」 用途曝：拿這個剛好",
-      "link": "/bbs/Gossiping/M.1778820155.A.5FA",
-      "author": "palajuice",
-      "board": "Gossiping",
-      "publishTime": "2026/05/15 04:42",
       "imageUrl": ""
     },
     {
@@ -134,8 +134,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-245",
-      "recommendCount": "721",
+      "recommendScore": "189",
+      "recommendCount": "543",
+      "title": "[問卦] 川普：不要以為美國會幫打仗",
+      "link": "/bbs/Gossiping/M.1778859568.A.F7F",
+      "author": "a40494",
+      "board": "Gossiping",
+      "publishTime": "2026/05/15 15:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-248",
+      "recommendCount": "724",
       "title": "[新聞] 許庭綸大秀雷射肩 兄弟教頭卻坦言：很丟臉",
       "link": "/bbs/Elephants/M.1778855994.A.85D",
       "author": "Jason520395",
@@ -154,13 +164,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "182",
-      "recommendCount": "514",
-      "title": "[問卦] 川普：不要以為美國會幫打仗",
-      "link": "/bbs/Gossiping/M.1778859568.A.F7F",
-      "author": "a40494",
-      "board": "Gossiping",
-      "publishTime": "2026/05/15 15:39",
+      "recommendScore": "309",
+      "recommendCount": "1007",
+      "title": "[外絮] 萊特拋出明知會惹火湖人球迷的Kobe觀點",
+      "link": "/bbs/NBA/M.1778815349.A.F9F",
+      "author": "Qorqios",
+      "board": "NBA",
+      "publishTime": "2026/05/15 03:22",
       "imageUrl": ""
     },
     {
@@ -171,16 +181,6 @@
       "author": "idingdang",
       "board": "Baseball",
       "publishTime": "2026/05/15 13:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "307",
-      "recommendCount": "1005",
-      "title": "[外絮] 萊特拋出明知會惹火湖人球迷的Kobe觀點",
-      "link": "/bbs/NBA/M.1778815349.A.F9F",
-      "author": "Qorqios",
-      "board": "NBA",
-      "publishTime": "2026/05/15 03:22",
       "imageUrl": ""
     },
     {
