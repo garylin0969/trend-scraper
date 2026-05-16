@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T06:51:09.566Z",
+  "updated": "2026-05-16T07:33:32.598Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-252",
+      "recommendCount": "743",
+      "title": "[新聞] 許庭綸大秀雷射肩 兄弟教頭卻坦言：很丟臉",
+      "link": "/bbs/Elephants/M.1778855994.A.85D",
+      "author": "Jason520395",
+      "board": "Elephants",
+      "publishTime": "2026/05/15 14:39",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "171",
       "recommendCount": "423",
       "title": "[新聞] 快訊／孫安佐今晨遭拘提！北投點火狂噴「超巨量火焰」出事",
@@ -101,16 +111,6 @@
       "author": "JHENGKUNLIN",
       "board": "Gossiping",
       "publishTime": "2026/05/16 02:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-250",
-      "recommendCount": "741",
-      "title": "[新聞] 許庭綸大秀雷射肩 兄弟教頭卻坦言：很丟臉",
-      "link": "/bbs/Elephants/M.1778855994.A.85D",
-      "author": "Jason520395",
-      "board": "Elephants",
-      "publishTime": "2026/05/15 14:39",
       "imageUrl": ""
     },
     {
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "183",
-      "recommendCount": "271",
-      "title": "[新聞] 快訊／台積電宣布出售世界先進1.52億股",
-      "link": "/bbs/Stock/M.1778829106.A.EA7",
-      "author": "joanzkow",
-      "board": "Stock",
-      "publishTime": "2026/05/15 07:11",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "196",
       "recommendCount": "329",
       "title": "[情報] 0515 上市外資買賣超排行",
@@ -175,17 +165,7 @@
     },
     {
       "recommendScore": "155",
-      "recommendCount": "285",
-      "title": "[新聞] 買50張00403A「成交價10.83」慘被套牢！FB自救會成立　人數破千",
-      "link": "/bbs/Stock/M.1778828786.A.7CA",
-      "author": "ChanHoPark",
-      "board": "Stock",
-      "publishTime": "2026/05/15 07:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "153",
-      "recommendCount": "417",
+      "recommendCount": "420",
       "title": "[新聞] 川普：不希望有人走向獨立 台不要期待美無條件軍事支持",
       "link": "/bbs/Gossiping/M.1778892910.A.E25",
       "author": "Oni028",
@@ -201,6 +181,26 @@
       "author": "laptic",
       "board": "LoL",
       "publishTime": "2026/05/15 07:35",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-103",
+      "recommendCount": "314",
+      "title": "[新聞] 蔡英文一句話戳中年輕人焦慮！台中演講片瘋傳 網淚：感覺被接住",
+      "link": "/bbs/Gossiping/M.1778901861.A.146",
+      "author": "MikaHakkinen",
+      "board": "Gossiping",
+      "publishTime": "2026/05/16 03:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "176",
+      "recommendCount": "366",
+      "title": "[情報] ClutchPoints:試想41歲LBJ加入巫師並奪冠",
+      "link": "/bbs/NBA/M.1778849758.A.B89",
+      "author": "shaaan",
+      "board": "NBA",
+      "publishTime": "2026/05/15 12:55",
       "imageUrl": ""
     }
   ]
