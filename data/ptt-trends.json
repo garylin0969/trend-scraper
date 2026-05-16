@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T17:48:54.863Z",
+  "updated": "2026-05-16T18:09:59.479Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "347",
+      "recommendCount": "399",
+      "title": "[閒聊] Taeyoon 在賽後把 NS 隊服丟掉",
+      "link": "/bbs/LoL/M.1778936839.A.635",
+      "author": "y12544",
+      "board": "LoL",
+      "publishTime": "2026/05/16 13:07",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "370",
       "recommendCount": "567",
       "title": "[BOX ] Spurs 139:109 Timberwolves (刺 4-2 狼)",
@@ -45,7 +55,7 @@
     },
     {
       "recommendScore": "-100",
-      "recommendCount": "987",
+      "recommendCount": "992",
       "title": "[討論] 藍白是不是閱讀理解0分？",
       "link": "/bbs/HatePolitics/M.1778910249.A.390",
       "author": "kobebrian",
@@ -54,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "188",
-      "recommendCount": "483",
+      "recommendScore": "190",
+      "recommendCount": "485",
       "title": "[新聞] 快訊／孫安佐今晨遭拘提！北投點火狂噴「超巨量火焰」出事",
       "link": "/bbs/Gossiping/M.1778897110.A.C4C",
       "author": "JHENGKUNLIN",
@@ -81,16 +91,6 @@
       "author": "chopper594",
       "board": "Gossiping",
       "publishTime": "2026/05/16 05:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "246",
-      "recommendCount": "287",
-      "title": "[閒聊] Taeyoon 在賽後把 NS 隊服丟掉",
-      "link": "/bbs/LoL/M.1778936839.A.635",
-      "author": "y12544",
-      "board": "LoL",
-      "publishTime": "2026/05/16 13:07",
       "imageUrl": ""
     },
     {
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "119",
-      "recommendCount": "259",
-      "title": "[新聞] NBA／柯爾留任勇士誓言整頓紀律  強調將重用年輕新秀",
-      "link": "/bbs/NBA/M.1778901690.A.301",
-      "author": "access4096",
-      "board": "NBA",
-      "publishTime": "2026/05/16 03:21",
+      "recommendScore": "122",
+      "recommendCount": "317",
+      "title": "[新聞] 台灣晶片盛世的代價！谷月涵示警「荷蘭病」：我們賺到全世界的錢，老百姓真",
+      "link": "/bbs/Stock/M.1778914776.A.C56",
+      "author": "ChanHoPark",
+      "board": "Stock",
+      "publishTime": "2026/05/16 06:59",
       "imageUrl": ""
     }
   ]
