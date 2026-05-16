@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T08:20:46.753Z",
+  "updated": "2026-05-16T09:01:32.265Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,16 +44,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "264",
-      "recommendCount": "804",
-      "title": "[問卦] 美國怎麼感覺已經對台海局勢興趣缺缺了",
-      "link": "/bbs/Gossiping/M.1778834118.A.7BF",
-      "author": "SAGIN",
-      "board": "Gossiping",
-      "publishTime": "2026/05/15 08:35",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "363",
       "recommendCount": "560",
       "title": "[BOX ] Spurs 139:109 Timberwolves (刺 4-2 狼)",
@@ -84,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-252",
-      "recommendCount": "743",
+      "recommendScore": "-253",
+      "recommendCount": "744",
       "title": "[新聞] 許庭綸大秀雷射肩 兄弟教頭卻坦言：很丟臉",
       "link": "/bbs/Elephants/M.1778855994.A.85D",
       "author": "Jason520395",
@@ -101,6 +91,16 @@
       "author": "JHENGKUNLIN",
       "board": "Gossiping",
       "publishTime": "2026/05/16 02:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-41",
+      "recommendCount": "804",
+      "title": "[討論] 藍白是不是閱讀理解0分？",
+      "link": "/bbs/HatePolitics/M.1778910249.A.390",
+      "author": "kobebrian",
+      "board": "HatePolitics",
+      "publishTime": "2026/05/16 05:44",
       "imageUrl": ""
     },
     {
@@ -124,13 +124,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-113",
-      "recommendCount": "346",
+      "recommendScore": "-114",
+      "recommendCount": "347",
       "title": "[新聞] 快訊／兩公約審查落幕！國際委員盯上台灣死刑：暫停執行與社會溝通",
       "link": "/bbs/Gossiping/M.1778841517.A.7C7",
       "author": "lovea",
       "board": "Gossiping",
       "publishTime": "2026/05/15 10:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-113",
+      "recommendCount": "341",
+      "title": "[新聞] 蔡英文一句話戳中年輕人焦慮！台中演講片瘋傳 網淚：感覺被接住",
+      "link": "/bbs/Gossiping/M.1778901861.A.146",
+      "author": "MikaHakkinen",
+      "board": "Gossiping",
+      "publishTime": "2026/05/16 03:24",
       "imageUrl": ""
     },
     {
@@ -151,16 +161,6 @@
       "author": "Oni028",
       "board": "Gossiping",
       "publishTime": "2026/05/16 00:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-103",
-      "recommendCount": "314",
-      "title": "[新聞] 蔡英文一句話戳中年輕人焦慮！台中演講片瘋傳 網淚：感覺被接住",
-      "link": "/bbs/Gossiping/M.1778901861.A.146",
-      "author": "MikaHakkinen",
-      "board": "Gossiping",
-      "publishTime": "2026/05/16 03:24",
       "imageUrl": ""
     },
     {
@@ -185,7 +185,7 @@
     },
     {
       "recommendScore": "125",
-      "recommendCount": "323",
+      "recommendCount": "326",
       "title": "[問卦] 警察半夜去守擎天岡的桌子是不是很可悲",
       "link": "/bbs/Gossiping/M.1778884845.A.048",
       "author": "gigaman",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "194",
-      "recommendCount": "261",
-      "title": "[新聞] 「我輸球也在笑」餅總爆料曾在洲際氣到打斷手",
-      "link": "/bbs/Baseball/M.1778834838.A.900",
-      "author": "ZHUGUA",
-      "board": "Baseball",
-      "publishTime": "2026/05/15 08:47",
+      "recommendScore": "-103",
+      "recommendCount": "297",
+      "title": "[新聞] 賴總統守護台灣！民進黨執政4大成果一次看",
+      "link": "/bbs/Gossiping/M.1778908986.A.480",
+      "author": "chopper594",
+      "board": "Gossiping",
+      "publishTime": "2026/05/16 05:23",
       "imageUrl": ""
     }
   ]
