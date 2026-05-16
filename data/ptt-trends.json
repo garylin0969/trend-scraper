@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T11:31:56.167Z",
+  "updated": "2026-05-16T11:59:50.003Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,13 +54,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "363",
-      "recommendCount": "560",
+      "recommendScore": "368",
+      "recommendCount": "565",
       "title": "[BOX ] Spurs 139:109 Timberwolves (刺 4-2 狼)",
       "link": "/bbs/NBA/M.1778904943.A.DDD",
       "author": "KC90",
       "board": "NBA",
       "publishTime": "2026/05/16 04:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "187",
+      "recommendCount": "474",
+      "title": "[新聞] 快訊／孫安佐今晨遭拘提！北投點火狂噴「超巨量火焰」出事",
+      "link": "/bbs/Gossiping/M.1778897110.A.C4C",
+      "author": "JHENGKUNLIN",
+      "board": "Gossiping",
+      "publishTime": "2026/05/16 02:05",
       "imageUrl": ""
     },
     {
@@ -81,16 +91,6 @@
       "author": "Jason520395",
       "board": "Elephants",
       "publishTime": "2026/05/15 14:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "171",
-      "recommendCount": "423",
-      "title": "[新聞] 快訊／孫安佐今晨遭拘提！北投點火狂噴「超巨量火焰」出事",
-      "link": "/bbs/Gossiping/M.1778897110.A.C4C",
-      "author": "JHENGKUNLIN",
-      "board": "Gossiping",
-      "publishTime": "2026/05/16 02:05",
       "imageUrl": ""
     },
     {
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-112",
-      "recommendCount": "350",
+      "recommendScore": "-114",
+      "recommendCount": "353",
       "title": "[新聞] 蔡英文一句話戳中年輕人焦慮！台中演講片瘋傳 網淚：感覺被接住",
       "link": "/bbs/Gossiping/M.1778901861.A.146",
       "author": "MikaHakkinen",
@@ -164,13 +164,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "175",
-      "recommendCount": "367",
+      "recommendScore": "176",
+      "recommendCount": "369",
       "title": "[情報] ClutchPoints:試想41歲LBJ加入巫師並奪冠",
       "link": "/bbs/NBA/M.1778849758.A.B89",
       "author": "shaaan",
       "board": "NBA",
       "publishTime": "2026/05/15 12:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "129",
+      "recommendCount": "330",
+      "title": "[問卦] 警察半夜去守擎天岡的桌子是不是很可悲",
+      "link": "/bbs/Gossiping/M.1778884845.A.048",
+      "author": "gigaman",
+      "board": "Gossiping",
+      "publishTime": "2026/05/15 22:40",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "chifeng",
       "board": "NBA",
       "publishTime": "2026/05/16 04:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "125",
-      "recommendCount": "326",
-      "title": "[問卦] 警察半夜去守擎天岡的桌子是不是很可悲",
-      "link": "/bbs/Gossiping/M.1778884845.A.048",
-      "author": "gigaman",
-      "board": "Gossiping",
-      "publishTime": "2026/05/15 22:40",
       "imageUrl": ""
     }
   ]
