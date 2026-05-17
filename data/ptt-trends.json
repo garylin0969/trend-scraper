@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T08:04:34.781Z",
+  "updated": "2026-05-17T08:54:35.452Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "174",
-      "recommendCount": "417",
+      "recommendScore": "175",
+      "recommendCount": "418",
       "title": "[問卦] 民視的政論節目這樣還能洗？",
       "link": "/bbs/Gossiping/M.1778941110.A.020",
       "author": "LouisLEE",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "162",
-      "recommendCount": "397",
+      "recommendScore": "163",
+      "recommendCount": "399",
       "title": "[新聞] 快訊／孫安佐遭聲押禁見「關鍵不是火焰槍」　狄鶯、孫鵬恐崩潰",
       "link": "/bbs/Gossiping/M.1778941816.A.DB8",
       "author": "qazxc1156892",
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "253",
+      "recommendCount": "383",
+      "title": "[炸裂] 大谷翔平",
+      "link": "/bbs/Baseball/M.1778990136.A.B05",
+      "author": "Axwell",
+      "board": "Baseball",
+      "publishTime": "2026/05/17 03:55",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "221",
       "recommendCount": "242",
       "title": "[祭品] 今日鄧愷威先發能獲得勝投的話",
@@ -134,14 +144,34 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "82",
-      "recommendCount": "239",
+      "recommendScore": "153",
+      "recommendCount": "409",
+      "title": "[新聞] 湖人詹皇若不退休　聯盟人士爆料：「新合約金額隨他開」",
+      "link": "/bbs/NBA/M.1778923482.A.8B4",
+      "author": "qaz630210",
+      "board": "NBA",
+      "publishTime": "2026/05/16 09:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "84",
+      "recommendCount": "242",
       "title": "[新聞] 文言文有難度 考生哀嚎：「看不懂題目在問什麼」",
       "link": "/bbs/Gossiping/M.1778936849.A.535",
       "author": "ivan609",
       "board": "Gossiping",
       "publishTime": "2026/05/16 13:07",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "112",
+      "recommendCount": "261",
+      "title": "[新聞] 台灣2字消失！總統府聲明稱「中華民國」1",
+      "link": "/bbs/Gossiping/M.1778988384.A.0A7",
+      "author": "sion1993",
+      "board": "Gossiping",
+      "publishTime": "2026/05/17 03:26",
+      "imageUrl": "https://cache.pttweb.cc/imgur/nkqmjb7/s/86f5291e46f6b3d6c709dea5962a20d3"
     },
     {
       "recommendScore": "146",
@@ -151,16 +181,6 @@
       "author": "carlchang092",
       "board": "Baseball",
       "publishTime": "2026/05/17 00:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "592",
-      "recommendCount": "1329",
-      "title": "[分享] 今日先發",
-      "link": "/bbs/Guardians/M.1778920010.A.8ED",
-      "author": "kevin17872",
-      "board": "Guardians",
-      "publishTime": "2026/05/16 08:26",
       "imageUrl": ""
     },
     {
@@ -181,26 +201,6 @@
       "author": "anti87",
       "board": "Gossiping",
       "publishTime": "2026/05/16 12:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "82",
-      "recommendCount": "218",
-      "title": "[問卦] 核電關掉又重啟，浪費公帑卻沒人負責？",
-      "link": "/bbs/Gossiping/M.1778931386.A.5CE",
-      "author": "shala",
-      "board": "Gossiping",
-      "publishTime": "2026/05/16 11:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "109",
-      "recommendCount": "225",
-      "title": "[問卦] 被警察通知「淡江大橋上錄影需申請」",
-      "link": "/bbs/Gossiping/M.1778977087.A.B96",
-      "author": "hentaihhh",
-      "board": "Gossiping",
-      "publishTime": "2026/05/17 00:18",
       "imageUrl": ""
     }
   ]
