@@ -1,8 +1,18 @@
 {
-  "updated": "2026-05-17T13:45:57.060Z",
+  "updated": "2026-05-17T14:19:28.070Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "179",
+      "recommendCount": "846",
+      "title": "[問卦] 現在 你自認中國人還是台灣人？",
+      "link": "/bbs/Gossiping/M.1778992588.A.492",
+      "author": "seabox",
+      "board": "Gossiping",
+      "publishTime": "2026/05/17 04:36",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "387",
       "recommendCount": "442",
@@ -104,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "221",
-      "recommendCount": "242",
-      "title": "[祭品] 今日鄧愷威先發能獲得勝投的話",
-      "link": "/bbs/Baseball/M.1778974011.A.F8F",
-      "author": "siugwai",
-      "board": "Baseball",
-      "publishTime": "2026/05/16 23:26",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "778",
       "recommendCount": "1472",
       "title": "[討論] [Vtub] Hololive 日間直播單 (1150517)",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "449",
-      "recommendCount": "1261",
+      "recommendScore": "450",
+      "recommendCount": "1263",
       "title": "[情報] 5/17 天母客場先發",
       "link": "/bbs/Monkeys/M.1779002431.A.F0F",
       "author": "wewe0403",
