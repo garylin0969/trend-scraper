@@ -1,8 +1,18 @@
 {
-  "updated": "2026-05-17T15:42:05.892Z",
+  "updated": "2026-05-17T16:10:23.280Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "843",
+      "recommendCount": "883",
+      "title": "[祭品] 今日鄧愷威先發能獲得勝投的話",
+      "link": "/bbs/Baseball/M.1778974011.A.F8F",
+      "author": "siugwai",
+      "board": "Baseball",
+      "publishTime": "2026/05/16 23:26",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "179",
       "recommendCount": "846",
@@ -94,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "187",
+      "recommendCount": "296",
+      "title": "[情報] 鄧愷威創下生涯單季局數新高",
+      "link": "/bbs/Baseball/M.1778978989.A.C5E",
+      "author": "Eric102990",
+      "board": "Baseball",
+      "publishTime": "2026/05/17 00:49",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "778",
       "recommendCount": "1472",
       "title": "[討論] [Vtub] Hololive 日間直播單 (1150517)",
@@ -181,26 +201,6 @@
       "author": "iori9060920",
       "board": "Lions",
       "publishTime": "2026/05/17 09:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "60",
-      "recommendCount": "308",
-      "title": "[新聞] 川普才稱不希望台獨 賴清德定義「台獨2意涵」：互不隸屬",
-      "link": "/bbs/Gossiping/M.1779011458.A.14C",
-      "author": "newmp4",
-      "board": "Gossiping",
-      "publishTime": "2026/05/17 09:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "107",
-      "recommendCount": "126",
-      "title": "[閒聊] Taeyoon：VicLa都會開著燈等我回房間",
-      "link": "/bbs/LoL/M.1778992490.A.1CE",
-      "author": "ubiqui",
-      "board": "LoL",
-      "publishTime": "2026/05/17 04:34",
       "imageUrl": ""
     }
   ]
