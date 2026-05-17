@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T12:07:34.814Z",
+  "updated": "2026-05-17T12:35:17.667Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "141",
-      "recommendCount": "250",
+      "recommendScore": "142",
+      "recommendCount": "253",
       "title": "[新聞] 美擬「大鐵錘行動」最快下周對伊朗新攻擊",
       "link": "/bbs/Stock/M.1778938680.A.77C",
       "author": "joanzkow",
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "137",
-      "recommendCount": "181",
-      "title": "[分享] 今日張育成 猛打賞",
-      "link": "/bbs/Baseball/M.1778934288.A.4C0",
-      "author": "lb01833364",
-      "board": "Baseball",
-      "publishTime": "2026/05/16 12:24",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "192",
       "recommendCount": "417",
       "title": "[LIVE] 足總盃 曼城 @ 切爾西 場中",
@@ -202,6 +192,16 @@
       "board": "SportLottery",
       "publishTime": "2026/05/16 13:31",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "132",
+      "recommendCount": "276",
+      "title": "[外絮] 拓荒者老闆:不帶雙向是因我不夠了解NBA",
+      "link": "/bbs/NBA/M.1778984931.A.9AD",
+      "author": "zxc906383",
+      "board": "NBA",
+      "publishTime": "2026/05/17 02:28",
+      "imageUrl": "https://cache.pttweb.cc/imgur/eiass17/s/c7ffc4a8cd807103f09deaa5c00fa7c4"
     }
   ]
 }
