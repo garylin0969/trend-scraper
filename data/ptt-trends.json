@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T17:32:12.227Z",
+  "updated": "2026-05-17T18:01:17.209Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-15",
+      "recommendCount": "482",
+      "title": "[新聞] 賴清德：台獨意涵是指台灣不屬於中華人民共和國",
+      "link": "/bbs/Gossiping/M.1779005613.A.9DE",
+      "author": "chopper594",
+      "board": "Gossiping",
+      "publishTime": "2026/05/17 08:13",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "198",
       "recommendCount": "594",
       "title": "[花邊] Danny Green：不幫LBJ立雕像就是不尊重",
@@ -51,16 +61,6 @@
       "author": "shaaan",
       "board": "NBA",
       "publishTime": "2026/05/17 03:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-15",
-      "recommendCount": "481",
-      "title": "[新聞] 賴清德：台獨意涵是指台灣不屬於中華人民共和國",
-      "link": "/bbs/Gossiping/M.1779005613.A.9DE",
-      "author": "chopper594",
-      "board": "Gossiping",
-      "publishTime": "2026/05/17 08:13",
       "imageUrl": ""
     },
     {
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "47",
+      "recommendCount": "311",
+      "title": "[新聞] 賴清德：不管是中華民國、中華民國台灣、台灣　指的都是我們2300萬人",
+      "link": "/bbs/Gossiping/M.1779019091.A.D0C",
+      "author": "BBQ2591",
+      "board": "Gossiping",
+      "publishTime": "2026/05/17 11:58",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "109",
       "recommendCount": "225",
       "title": "[問卦] 被警察通知「淡江大橋上錄影需申請」",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/05/17 00:18",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "142",
-      "recommendCount": "302",
-      "title": "[外絮] 拓荒者老闆:不帶雙向是因我不夠了解NBA",
-      "link": "/bbs/NBA/M.1778984931.A.9AD",
-      "author": "zxc906383",
-      "board": "NBA",
-      "publishTime": "2026/05/17 02:28",
-      "imageUrl": "https://cache.pttweb.cc/imgur/eiass17/s/c7ffc4a8cd807103f09deaa5c00fa7c4"
     }
   ]
 }
