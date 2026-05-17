@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T20:27:58.713Z",
+  "updated": "2026-05-17T20:49:48.190Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "94",
+      "recommendCount": "336",
+      "title": "[問卦] 狄鶯:我兒子有傷害人，有受害者嗎",
+      "link": "/bbs/Gossiping/M.1778982388.A.05D",
+      "author": "kikiki37",
+      "board": "Gossiping",
+      "publishTime": "2026/05/17 01:46",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "205",
       "recommendCount": "273",
       "title": "[討論] 張政禹盜本壘",
@@ -191,16 +201,6 @@
       "author": "pigpigcom123",
       "board": "Gossiping",
       "publishTime": "2026/05/17 04:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "187",
-      "recommendCount": "296",
-      "title": "[情報] 鄧愷威創下生涯單季局數新高",
-      "link": "/bbs/Baseball/M.1778978989.A.C5E",
-      "author": "Eric102990",
-      "board": "Baseball",
-      "publishTime": "2026/05/17 00:49",
       "imageUrl": ""
     }
   ]
