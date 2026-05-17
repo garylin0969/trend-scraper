@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T08:54:35.452Z",
+  "updated": "2026-05-17T09:37:03.745Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "153",
-      "recommendCount": "409",
-      "title": "[新聞] 湖人詹皇若不退休　聯盟人士爆料：「新合約金額隨他開」",
-      "link": "/bbs/NBA/M.1778923482.A.8B4",
-      "author": "qaz630210",
-      "board": "NBA",
-      "publishTime": "2026/05/16 09:24",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "84",
       "recommendCount": "242",
       "title": "[新聞] 文言文有難度 考生哀嚎：「看不懂題目在問什麼」",
@@ -201,6 +191,16 @@
       "author": "anti87",
       "board": "Gossiping",
       "publishTime": "2026/05/16 12:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "83",
+      "recommendCount": "219",
+      "title": "[問卦] 核電關掉又重啟，浪費公帑卻沒人負責？",
+      "link": "/bbs/Gossiping/M.1778931386.A.5CE",
+      "author": "shala",
+      "board": "Gossiping",
+      "publishTime": "2026/05/16 11:36",
       "imageUrl": ""
     }
   ]
