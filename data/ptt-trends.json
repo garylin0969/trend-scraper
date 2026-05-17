@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-17T10:12:00.532Z",
+  "updated": "2026-05-17T10:48:19.633Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "268",
-      "recommendCount": "818",
+      "recommendScore": "272",
+      "recommendCount": "827",
       "title": "[問卦] 川普:他們想推動獨立，就是因為想打仗",
       "link": "/bbs/Gossiping/M.1778939008.A.798",
       "author": "TBOC",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "362",
-      "recommendCount": "417",
+      "recommendScore": "365",
+      "recommendCount": "421",
       "title": "[閒聊] Taeyoon 在賽後把 NS 隊服丟掉",
       "link": "/bbs/LoL/M.1778936839.A.635",
       "author": "y12544",
@@ -134,16 +134,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "182",
-      "recommendCount": "243",
-      "title": "[情報] 布雷克九局無四死完投敗",
-      "link": "/bbs/Baseball/M.1778927396.A.A33",
-      "author": "Eric102990",
-      "board": "Baseball",
-      "publishTime": "2026/05/16 10:29",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "141",
       "recommendCount": "250",
       "title": "[新聞] 美擬「大鐵錘行動」最快下周對伊朗新攻擊",
@@ -154,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "84",
-      "recommendCount": "242",
+      "recommendScore": "86",
+      "recommendCount": "246",
       "title": "[新聞] 文言文有難度 考生哀嚎：「看不懂題目在問什麼」",
       "link": "/bbs/Gossiping/M.1778936849.A.535",
       "author": "ivan609",
@@ -184,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "160",
-      "recommendCount": "481",
-      "title": "[轉播] 九下 爪 1:0 喵",
-      "link": "/bbs/Lions/M.1778926713.A.5E2",
-      "author": "oscar8721184",
-      "board": "Lions",
-      "publishTime": "2026/05/16 10:18",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "89",
       "recommendCount": "191",
       "title": "[新聞] 川普再轟「台灣偷走晶片產業」　美國不應為台海跨9500英里打仗",
@@ -201,6 +181,26 @@
       "author": "anti87",
       "board": "Gossiping",
       "publishTime": "2026/05/16 12:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "143",
+      "recommendCount": "253",
+      "title": "[花邊] McDaniels：斑馬是我遇過最強的防守者",
+      "link": "/bbs/NBA/M.1778978012.A.4DE",
+      "author": "Kai877",
+      "board": "NBA",
+      "publishTime": "2026/05/17 00:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "83",
+      "recommendCount": "219",
+      "title": "[問卦] 核電關掉又重啟，浪費公帑卻沒人負責？",
+      "link": "/bbs/Gossiping/M.1778931386.A.5CE",
+      "author": "shala",
+      "board": "Gossiping",
+      "publishTime": "2026/05/16 11:36",
       "imageUrl": ""
     }
   ]
