@@ -1,8 +1,18 @@
 {
-  "updated": "2026-05-17T14:19:28.070Z",
+  "updated": "2026-05-17T14:45:33.553Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "843",
+      "recommendCount": "883",
+      "title": "[祭品] 今日鄧愷威先發能獲得勝投的話",
+      "link": "/bbs/Baseball/M.1778974011.A.F8F",
+      "author": "siugwai",
+      "board": "Baseball",
+      "publishTime": "2026/05/16 23:26",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "179",
       "recommendCount": "846",
@@ -21,36 +31,6 @@
       "author": "s9553001",
       "board": "Baseball",
       "publishTime": "2026/05/17 01:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "177",
-      "recommendCount": "424",
-      "title": "[問卦] 民視的政論節目這樣還能洗？",
-      "link": "/bbs/Gossiping/M.1778941110.A.020",
-      "author": "LouisLEE",
-      "board": "Gossiping",
-      "publishTime": "2026/05/16 14:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "164",
-      "recommendCount": "401",
-      "title": "[新聞] 快訊／孫安佐遭聲押禁見「關鍵不是火焰槍」　狄鶯、孫鵬恐崩潰",
-      "link": "/bbs/Gossiping/M.1778941816.A.DB8",
-      "author": "qazxc1156892",
-      "board": "Gossiping",
-      "publishTime": "2026/05/16 14:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "162",
-      "recommendCount": "435",
-      "title": "[新聞] 快新聞／CBS主播稱「在台報川習會遭住宿飯店制止」　圓山大飯店發聲了",
-      "link": "/bbs/Gossiping/M.1778942540.A.2FC",
-      "author": "zainc",
-      "board": "Gossiping",
-      "publishTime": "2026/05/16 14:42",
       "imageUrl": ""
     },
     {
@@ -144,8 +124,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/nkqmjb7/s/86f5291e46f6b3d6c709dea5962a20d3"
     },
     {
-      "recommendScore": "143",
-      "recommendCount": "253",
+      "recommendScore": "149",
+      "recommendCount": "269",
       "title": "[花邊] McDaniels：斑馬是我遇過最強的防守者",
       "link": "/bbs/NBA/M.1778978012.A.4DE",
       "author": "Kai877",
@@ -164,14 +144,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "132",
-      "recommendCount": "276",
+      "recommendScore": "138",
+      "recommendCount": "296",
       "title": "[外絮] 拓荒者老闆:不帶雙向是因我不夠了解NBA",
       "link": "/bbs/NBA/M.1778984931.A.9AD",
       "author": "zxc906383",
       "board": "NBA",
       "publishTime": "2026/05/17 02:28",
       "imageUrl": "https://cache.pttweb.cc/imgur/eiass17/s/c7ffc4a8cd807103f09deaa5c00fa7c4"
+    },
+    {
+      "recommendScore": "96",
+      "recommendCount": "382",
+      "title": "[轉播] 五△　爪 1:0 喵",
+      "link": "/bbs/Lions/M.1779009409.A.9A0",
+      "author": "iori9060920",
+      "board": "Lions",
+      "publishTime": "2026/05/17 09:16",
+      "imageUrl": ""
     },
     {
       "recommendScore": "78",
@@ -201,6 +191,16 @@
       "author": "a000000000",
       "board": "Stock",
       "publishTime": "2026/05/16 18:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "95",
+      "recommendCount": "184",
+      "title": "[討論] 白襪的改變是因為村上宗隆嗎",
+      "link": "/bbs/Baseball/M.1778978694.A.9DB",
+      "author": "indoman",
+      "board": "Baseball",
+      "publishTime": "2026/05/17 00:44",
       "imageUrl": ""
     }
   ]
