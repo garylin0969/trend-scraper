@@ -1,8 +1,18 @@
 {
-  "updated": "2026-05-19T20:09:06.376Z",
+  "updated": "2026-05-19T20:48:57.576Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "935",
+      "recommendCount": "1346",
+      "title": "[BOX ] Spurs 122:115 Thunder (SAS 1-0 OKC)",
+      "link": "/bbs/NBA/M.1779162197.A.56B",
+      "author": "KC90",
+      "board": "NBA",
+      "publishTime": "2026/05/19 03:43",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "904",
       "recommendCount": "980",
@@ -15,7 +25,7 @@
     },
     {
       "recommendScore": "560",
-      "recommendCount": "1379",
+      "recommendCount": "1383",
       "title": "[新聞] 川普暫緩140億對台軍售！　紐時：台灣當籌碼「送習近平大禮」",
       "link": "/bbs/Gossiping/M.1779172281.A.AF7",
       "author": "seysem",
@@ -44,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "269",
-      "recommendCount": "650",
+      "recommendScore": "268",
+      "recommendCount": "651",
       "title": "[舊聞] 馬宣稱：中華民國已獨 不必再宣布",
       "link": "/bbs/Gossiping/M.1779176662.A.546",
       "author": "a5687920",
@@ -85,7 +95,7 @@
     },
     {
       "recommendScore": "185",
-      "recommendCount": "385",
+      "recommendCount": "387",
       "title": "[新聞] 沒良心！肉過期14年還在賣　肉商12噸銷大飯店遭起訴重罰",
       "link": "/bbs/Gossiping/M.1779162744.A.B25",
       "author": "kenryu",
@@ -94,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "177",
-      "recommendCount": "483",
+      "recommendScore": "178",
+      "recommendCount": "484",
       "title": "[新聞] 快訊／憲政首例！56張同意票未達門檻  彈劾總統賴清德案未通",
       "link": "/bbs/Gossiping/M.1779162196.A.4C6",
       "author": "WuSam",
@@ -144,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "232",
-      "recommendCount": "297",
+      "recommendScore": "233",
+      "recommendCount": "298",
       "title": "[分享] 今日戶鄉翔征 七局無失分",
       "link": "/bbs/Baseball/M.1779192654.A.9DE",
       "author": "lee0820",
@@ -191,16 +201,6 @@
       "author": "tty0102",
       "board": "NBA",
       "publishTime": "2026/05/19 07:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "174",
-      "recommendCount": "288",
-      "title": "[新聞] 快訊／台南眼科診所2F驚見「無頭屍」",
-      "link": "/bbs/Gossiping/M.1779171512.A.EE5",
-      "author": "lihruh",
-      "board": "Gossiping",
-      "publishTime": "2026/05/19 06:18",
       "imageUrl": ""
     }
   ]
