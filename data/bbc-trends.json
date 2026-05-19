@@ -1,14 +1,22 @@
 {
-  "updated": "2026-05-19T08:23:25.097Z",
+  "updated": "2026-05-19T10:03:25.476Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-05-19T08:23:19.000Z",
+    "lastBuildDate": "2026-05-19T10:03:06.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "解讀「中美建設性戰略穩定關係」：習近平新詞反映兩國關係現實境遇",
+      "description": "又一個中國外交關係名詞在特朗普與習近平的會談中誕生，但在中國官方宣傳「積極評價」外，觀望氛圍同時存在。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4g09912wgdo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-19T09:51:58.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4g09912wgdo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/421c/live/d22f5fa0-535d-11f1-b682-cf91850925ea.jpg"
+    },
     {
       "title": "中俄關係：真正維繫兩國關係的是什麼？",
       "description": "近年來，中俄將彼此關係形容為「無上限的友誼」。那麽，這種關係的基礎究竟為何？這段「親密關係」又能持續多久呢？",
@@ -16,14 +24,6 @@
       "pubDate": "2026-05-19T06:34:50.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c62en0p8ldeo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ffe8/live/f72b3560-534c-11f1-b682-cf91850925ea.jpg"
-    },
-    {
-      "title": "特朗普稱因波斯灣國家請求，取消對伊朗新一波攻擊",
-      "description": "特朗普（川普）表示，應卡達、沙烏地阿拉伯等波灣國家請求，已取消原訂週二對伊朗的軍事攻擊，因為「嚴肅談判正在進行」。他強調伊朗絕不能擁有核武器，若無法達成協議，美國將準備全力大規模攻擊。",
-      "link": "https://www.bbc.com/zhongwen/articles/c5y7q592pdqo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-19T04:56:07.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5y7q592pdqo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5fa3/live/04d9f100-5335-11f1-b682-cf91850925ea.jpg"
     },
     {
       "title": "秘密警察與政治宣傳：在美國監視僑民的中國特工",
@@ -34,12 +34,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/68ff/live/376628f0-506f-11f1-8c42-ed39d04e1525.jpg"
     },
     {
-      "title": "普京訪華：中俄關係現在有多緊密",
-      "description": "根據兩國已經釋出的消息，普京訪華期間中俄將簽署最高級別的聯合聲明、以及系列雙邊文件。兩國元首還會共同出席「中俄教育年」開幕式。",
-      "link": "https://www.bbc.com/zhongwen/articles/cgjpngjwgwno/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-19T02:40:07.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cgjpngjwgwno/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ba58/live/8c19db80-532b-11f1-9c13-5d0b58370758.jpg"
+      "title": "特朗普稱因波斯灣國家請求，取消對伊朗新一波攻擊",
+      "description": "特朗普（川普）表示，應卡達、沙烏地阿拉伯等波灣國家請求，已取消原訂週二對伊朗的軍事攻擊，因為「嚴肅談判正在進行」。他強調伊朗絕不能擁有核武器，若無法達成協議，美國將準備全力大規模攻擊。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5y7q592pdqo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-19T04:56:07.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5y7q592pdqo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5fa3/live/04d9f100-5335-11f1-b682-cf91850925ea.jpg"
     },
     {
       "title": "為何人們對斯沃琪的Royal Pop系列如此瘋狂？",
@@ -48,6 +48,14 @@
       "pubDate": "2026-05-19T08:12:37.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cg4pnn3rplqo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e3d6/live/845de810-534d-11f1-8b8c-6d33e1d5abb6.jpg"
+    },
+    {
+      "title": "普京訪華：中俄關係現在有多緊密",
+      "description": "根據兩國已經釋出的消息，普京訪華期間中俄將簽署最高級別的聯合聲明、以及系列雙邊文件。兩國元首還會共同出席「中俄教育年」開幕式。",
+      "link": "https://www.bbc.com/zhongwen/articles/cgjpngjwgwno/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-19T02:40:07.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cgjpngjwgwno/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ba58/live/8c19db80-532b-11f1-9c13-5d0b58370758.jpg"
     },
     {
       "title": "剛果民主共和國的伊波拉疫情有多令人擔憂？",
@@ -104,14 +112,6 @@
       "pubDate": "2026-05-17T04:00:13.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c0l271rg2j0o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b3f/live/fab5e450-513f-11f1-b682-cf91850925ea.jpg"
-    },
-    {
-      "title": "《臺灣漫遊錄》入圍布克文學獎：楊双子筆下的台灣美食與殖民記憶",
-      "description": "英國最具指標的文學獎之一「布克獎」將於5月19日公布得主，台灣作家楊双子以小說《臺灣漫遊錄》入圍決選名單。她是本屆唯一來自亞洲的作家、也刷新了台灣作家在此獎項的紀錄。在頒獎前夕，她接受BBC中文專訪分享這部關於台灣殖民歷史的作品。",
-      "link": "https://www.bbc.com/zhongwen/articles/cpdp9v8gl4no/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-17T04:19:24.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cpdp9v8gl4no/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7ae9/live/3a2a5700-5038-11f1-b682-cf91850925ea.jpg"
     },
     {
       "title": "專訪台灣作家楊双子：從美食探尋台灣殖民歷史",
@@ -218,12 +218,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c6e5/live/bf0545e0-5022-11f1-b682-cf91850925ea.jpg"
     },
     {
-      "title": "特朗普時隔九年再度訪華，中國年輕一代的「美國夢」在褪色嗎？",
-      "description": "特朗普再度訪華，引起社交媒體上的熱議，中國的年輕人如何看待？關注的焦點又是什麼？",
-      "link": "https://www.bbc.com/zhongwen/articles/c362j4npz5xo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-14T03:09:58.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c362j4npz5xo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2462/live/1fe55320-4f40-11f1-b010-590460292038.jpg"
+      "title": "《臺灣漫遊錄》入圍布克文學獎：楊双子筆下的台灣美食與殖民記憶",
+      "description": "英國最具指標的文學獎之一「布克獎」將於5月19日公布得主，台灣作家楊双子以小說《臺灣漫遊錄》入圍決選名單。她是本屆唯一來自亞洲的作家、也刷新了台灣作家在此獎項的紀錄。在頒獎前夕，她接受BBC中文專訪分享這部關於台灣殖民歷史的作品。",
+      "link": "https://www.bbc.com/zhongwen/articles/cpdp9v8gl4no/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-17T04:19:24.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cpdp9v8gl4no/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7ae9/live/3a2a5700-5038-11f1-b682-cf91850925ea.jpg"
     },
     {
       "title": "特朗普訪華前夕  台灣立法院通過「閹割版」對美軍購案背後的內外角力",
@@ -250,20 +250,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d278/live/1ec66db0-49f2-11f1-a9e7-0f8f590f205b.jpg"
     },
     {
+      "title": "特朗普時隔九年再度訪華，中國年輕一代的「美國夢」在褪色嗎？",
+      "description": "特朗普再度訪華，引起社交媒體上的熱議，中國的年輕人如何看待？關注的焦點又是什麼？",
+      "link": "https://www.bbc.com/zhongwen/articles/c362j4npz5xo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-14T03:09:58.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c362j4npz5xo/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2462/live/1fe55320-4f40-11f1-b010-590460292038.jpg"
+    },
+    {
       "title": "老鼠、選票與科學：拆解台北「安鼠之亂」背後的治理危機",
       "description": "距離台北市長選舉約半年，尋求連任的國民黨籍市長蔣萬安遇到難題——鼠患，台灣網民戲稱是「安鼠之亂」。這個風波如何爆發？民生問題如何演變為政治危機？",
       "link": "https://www.bbc.com/zhongwen/articles/c5yerdxdvz6o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-05-08T12:03:23.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c5yerdxdvz6o/trad#5",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4da8/live/fecb9f90-4a2c-11f1-91d3-69962f9a0625.png"
-    },
-    {
-      "title": "馬興瑞落馬：習時代一屆中共政治局三名委員被查",
-      "description": "中國新華社4月3日公佈，中共政治局委員、前新疆黨委書記馬興瑞涉嫌嚴重違紀違法，正接受調查。",
-      "link": "https://www.bbc.com/zhongwen/articles/cy472d80ewwo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T10:33:06.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cy472d80ewwo/trad#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b05e/live/968e5be0-ec56-11f0-862a-5f12fb5dd49d.jpg"
     },
     {
       "title": "中國爆發式增長的團播潮背後：情感詐騙、主播收入和隱秘活動",
