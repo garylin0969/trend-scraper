@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-20T23:16:32.157Z",
+  "updated": "2026-05-20T23:47:41.386Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "638",
-      "recommendCount": "1038",
+      "recommendCount": "1039",
       "title": "[新聞] 黃捷拋捷運丟姓名貼「推銷沈伯洋」　蔣萬安皺眉：不要亂丟垃圾",
       "link": "/bbs/Gossiping/M.1779247745.A.140",
       "author": "a0580531",
@@ -44,18 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "283",
-      "recommendCount": "753",
-      "title": "[問卦] 台灣做了什麼，讓川普這麼看不起？",
-      "link": "/bbs/Gossiping/M.1779233373.A.D05",
-      "author": "sss1234",
-      "board": "Gossiping",
-      "publishTime": "2026/05/19 23:29",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "129",
-      "recommendCount": "555",
+      "recommendCount": "558",
       "title": "[新聞] 統獨爭議發燒 蘇巧慧：台灣主權獨立 國號是中華民國 不必再辦公投",
       "link": "/bbs/Gossiping/M.1779273771.A.A4C",
       "author": "runa2",
@@ -74,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "565",
+      "recommendScore": "208",
+      "recommendCount": "568",
       "title": "[新聞] 北科大爆研究生輕生！崩潰遺言控教授：每日工作20小時、威脅踢出",
       "link": "/bbs/Gossiping/M.1779256228.A.BED",
       "author": "luxuryer",
@@ -91,6 +81,16 @@
       "author": "jason911152",
       "board": "NBA",
       "publishTime": "2026/05/20 03:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "214",
+      "recommendCount": "680",
+      "title": "[新聞] 楊寶楨貼退黨聲明書 宣布獨立參選台中市議員",
+      "link": "/bbs/Gossiping/M.1779287489.A.4D9",
+      "author": "postar",
+      "board": "Gossiping",
+      "publishTime": "2026/05/20 14:31",
       "imageUrl": ""
     },
     {
@@ -114,18 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "214",
-      "recommendCount": "663",
-      "title": "[新聞] 楊寶楨貼退黨聲明書 宣布獨立參選台中市議員",
-      "link": "/bbs/Gossiping/M.1779287489.A.4D9",
-      "author": "postar",
-      "board": "Gossiping",
-      "publishTime": "2026/05/20 14:31",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "382",
-      "recommendCount": "843",
+      "recommendCount": "844",
       "title": "Re: [討論] 蔡易餘FB 兒少權法 動漫工會 ACGN協會",
       "link": "/bbs/C_Chat/M.1779265165.A.F3E",
       "author": "Alexander1",
@@ -194,14 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "75",
-      "recommendCount": "380",
+      "recommendScore": "74",
+      "recommendCount": "381",
       "title": "[新聞] 10月電價調漲壓力來了！台電警告：沒漲足全年虧280億",
       "link": "/bbs/Gossiping/M.1779263389.A.E3A",
       "author": "troyyuan",
       "board": "Gossiping",
       "publishTime": "2026/05/20 07:49",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "203",
+      "recommendCount": "321",
+      "title": "[標的] 台指期(空)",
+      "link": "/bbs/Stock/M.1779288248.A.A05",
+      "author": "pickchu22001",
+      "board": "Stock",
+      "publishTime": "2026/05/20 14:44",
+      "imageUrl": "https://cache.pttweb.cc/imgur/pdvgm6d/s/1e8dbf99d876d28f0ed4804209245379"
     }
   ]
 }
