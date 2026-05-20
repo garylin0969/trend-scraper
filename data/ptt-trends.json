@@ -1,16 +1,36 @@
 {
-  "updated": "2026-05-20T17:08:19.729Z",
+  "updated": "2026-05-20T18:03:25.400Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "556",
-      "recommendCount": "586",
+      "recommendScore": "635",
+      "recommendCount": "1035",
+      "title": "[新聞] 黃捷拋捷運丟姓名貼「推銷沈伯洋」　蔣萬安皺眉：不要亂丟垃圾",
+      "link": "/bbs/Gossiping/M.1779247745.A.140",
+      "author": "a0580531",
+      "board": "Gossiping",
+      "publishTime": "2026/05/20 03:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "559",
+      "recommendCount": "589",
       "title": "Re: [推薦] 籃球[小律師]克里夫蘭騎士 @ 紐約尼克",
       "link": "/bbs/SportLottery/M.1779246146.A.1DC",
       "author": "lotterywin",
       "board": "SportLottery",
       "publishTime": "2026/05/20 03:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "246",
+      "recommendCount": "701",
+      "title": "[新聞] 川普表態BBC打問號：台灣真的有想獨立嗎?",
+      "link": "/bbs/Gossiping/M.1779265546.A.5BF",
+      "author": "weshiao",
+      "board": "Gossiping",
+      "publishTime": "2026/05/20 08:25",
       "imageUrl": ""
     },
     {
@@ -24,16 +44,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "245",
-      "recommendCount": "699",
-      "title": "[新聞] 川普表態BBC打問號：台灣真的有想獨立嗎?",
-      "link": "/bbs/Gossiping/M.1779265546.A.5BF",
-      "author": "weshiao",
-      "board": "Gossiping",
-      "publishTime": "2026/05/20 08:25",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "281",
       "recommendCount": "751",
       "title": "[問卦] 台灣做了什麼，讓川普這麼看不起？",
@@ -44,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "127",
-      "recommendCount": "545",
+      "recommendScore": "125",
+      "recommendCount": "548",
       "title": "[新聞] 統獨爭議發燒 蘇巧慧：台灣主權獨立 國號是中華民國 不必再辦公投",
       "link": "/bbs/Gossiping/M.1779273771.A.A4C",
       "author": "runa2",
@@ -54,13 +64,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "251",
-      "recommendCount": "479",
+      "recommendScore": "252",
+      "recommendCount": "480",
       "title": "[花邊] 醜1-Chet在一次罰球卡位時踩住斑馬的腳",
       "link": "/bbs/NBA/M.1779249539.A.6C1",
       "author": "Kai877",
       "board": "NBA",
       "publishTime": "2026/05/20 03:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "204",
+      "recommendCount": "558",
+      "title": "[新聞] 北科大爆研究生輕生！崩潰遺言控教授：每日工作20小時、威脅踢出",
+      "link": "/bbs/Gossiping/M.1779256228.A.BED",
+      "author": "luxuryer",
+      "board": "Gossiping",
+      "publishTime": "2026/05/20 05:50",
       "imageUrl": ""
     },
     {
@@ -71,16 +91,6 @@
       "author": "jason911152",
       "board": "NBA",
       "publishTime": "2026/05/20 03:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "205",
-      "recommendCount": "552",
-      "title": "[新聞] 北科大爆研究生輕生！崩潰遺言控教授：每日工作20小時、威脅踢出",
-      "link": "/bbs/Gossiping/M.1779256228.A.BED",
-      "author": "luxuryer",
-      "board": "Gossiping",
-      "publishTime": "2026/05/20 05:50",
       "imageUrl": ""
     },
     {
@@ -104,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "379",
-      "recommendCount": "838",
+      "recommendScore": "380",
+      "recommendCount": "839",
       "title": "Re: [討論] 蔡易餘FB 兒少權法 動漫工會 ACGN協會",
       "link": "/bbs/C_Chat/M.1779265165.A.F3E",
       "author": "Alexander1",
@@ -114,23 +124,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "332",
-      "title": "[花邊] Ben Simmons 拿下運動釣魚公開賽冠軍",
-      "link": "/bbs/NBA/M.1779237235.A.4CC",
-      "author": "thnlkj0665",
-      "board": "NBA",
-      "publishTime": "2026/05/20 00:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "208",
-      "recommendCount": "434",
+      "recommendScore": "210",
+      "recommendCount": "437",
       "title": "[請益] 主動式ETF是可以不用停損的嗎？",
       "link": "/bbs/Stock/M.1779247613.A.68F",
       "author": "mopa",
       "board": "Stock",
       "publishTime": "2026/05/20 03:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "244",
+      "recommendCount": "333",
+      "title": "[花邊] Ben Simmons 拿下運動釣魚公開賽冠軍",
+      "link": "/bbs/NBA/M.1779237235.A.4CC",
+      "author": "thnlkj0665",
+      "board": "NBA",
+      "publishTime": "2026/05/20 00:33",
       "imageUrl": ""
     },
     {
@@ -144,13 +154,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "178",
-      "recommendCount": "515",
+      "recommendScore": "177",
+      "recommendCount": "516",
       "title": "[新聞] 沒人要當老師 這2科最慘 幾乎「報考就錄取」",
       "link": "/bbs/Gossiping/M.1779239042.A.C94",
       "author": "cagepig",
       "board": "Gossiping",
       "publishTime": "2026/05/20 01:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "125",
+      "recommendCount": "388",
+      "title": "[新聞] 500萬元塞桌下算收賄？鄭文燦律師團 狂揪疑點打臉檢方",
+      "link": "/bbs/Gossiping/M.1779238188.A.8D3",
+      "author": "Salcea",
+      "board": "Gossiping",
+      "publishTime": "2026/05/20 00:49",
       "imageUrl": ""
     },
     {
@@ -161,16 +181,6 @@
       "author": "sheng1300905",
       "board": "Gossiping",
       "publishTime": "2026/05/20 06:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "123",
-      "recommendCount": "385",
-      "title": "[新聞] 500萬元塞桌下算收賄？鄭文燦律師團 狂揪疑點打臉檢方",
-      "link": "/bbs/Gossiping/M.1779238188.A.8D3",
-      "author": "Salcea",
-      "board": "Gossiping",
-      "publishTime": "2026/05/20 00:49",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "laptic",
       "board": "LoL",
       "publishTime": "2026/05/20 07:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "73",
-      "recommendCount": "374",
-      "title": "[新聞] 10月電價調漲壓力來了！台電警告：沒漲足全年虧280億",
-      "link": "/bbs/Gossiping/M.1779263389.A.E3A",
-      "author": "troyyuan",
-      "board": "Gossiping",
-      "publishTime": "2026/05/20 07:49",
       "imageUrl": ""
     }
   ]
