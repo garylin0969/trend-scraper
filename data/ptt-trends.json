@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T19:54:22.659Z",
+  "updated": "2026-05-20T20:46:36.054Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "123",
-      "recommendCount": "439",
+      "recommendScore": "124",
+      "recommendCount": "440",
       "title": "[新聞] 柯文哲判17年「風險提升、有逃亡之虞」",
       "link": "/bbs/Gossiping/M.1779240234.A.6F0",
       "author": "pm2001",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "380",
-      "recommendCount": "839",
+      "recommendScore": "382",
+      "recommendCount": "843",
       "title": "Re: [討論] 蔡易餘FB 兒少權法 動漫工會 ACGN協會",
       "link": "/bbs/C_Chat/M.1779265165.A.F3E",
       "author": "Alexander1",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "195",
+      "recommendCount": "614",
+      "title": "[新聞] 楊寶楨貼退黨聲明書 宣布獨立參選台中市議員",
+      "link": "/bbs/Gossiping/M.1779287489.A.4D9",
+      "author": "postar",
+      "board": "Gossiping",
+      "publishTime": "2026/05/20 14:31",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-162",
       "recommendCount": "360",
       "title": "[新聞] 賴清德520談話全文！執政2年堅持做3件事 承諾會更謙卑傾聽人民",
@@ -191,16 +201,6 @@
       "author": "lycppt",
       "board": "Gossiping",
       "publishTime": "2026/05/20 02:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "73",
-      "recommendCount": "378",
-      "title": "[新聞] 10月電價調漲壓力來了！台電警告：沒漲足全年虧280億",
-      "link": "/bbs/Gossiping/M.1779263389.A.E3A",
-      "author": "troyyuan",
-      "board": "Gossiping",
-      "publishTime": "2026/05/20 07:49",
       "imageUrl": ""
     }
   ]
