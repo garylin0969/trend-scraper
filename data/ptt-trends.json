@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-20T18:03:25.400Z",
+  "updated": "2026-05-20T19:01:46.411Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "635",
-      "recommendCount": "1035",
+      "recommendScore": "636",
+      "recommendCount": "1036",
       "title": "[新聞] 黃捷拋捷運丟姓名貼「推銷沈伯洋」　蔣萬安皺眉：不要亂丟垃圾",
       "link": "/bbs/Gossiping/M.1779247745.A.140",
       "author": "a0580531",
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "246",
-      "recommendCount": "701",
+      "recommendCount": "705",
       "title": "[新聞] 川普表態BBC打問號：台灣真的有想獨立嗎?",
       "link": "/bbs/Gossiping/M.1779265546.A.5BF",
       "author": "weshiao",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "281",
-      "recommendCount": "751",
+      "recommendScore": "282",
+      "recommendCount": "752",
       "title": "[問卦] 台灣做了什麼，讓川普這麼看不起？",
       "link": "/bbs/Gossiping/M.1779233373.A.D05",
       "author": "sss1234",
@@ -64,13 +64,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "252",
-      "recommendCount": "480",
+      "recommendScore": "253",
+      "recommendCount": "481",
       "title": "[花邊] 醜1-Chet在一次罰球卡位時踩住斑馬的腳",
       "link": "/bbs/NBA/M.1779249539.A.6C1",
       "author": "Kai877",
       "board": "NBA",
       "publishTime": "2026/05/20 03:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "276",
+      "recommendCount": "469",
+      "title": "[BOX ] Cavaliers 104:115 Knicks (NYK 1-0 CLE)",
+      "link": "/bbs/NBA/M.1779246048.A.E7A",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2026/05/20 03:00",
       "imageUrl": ""
     },
     {
@@ -81,16 +91,6 @@
       "author": "luxuryer",
       "board": "Gossiping",
       "publishTime": "2026/05/20 05:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "275",
-      "recommendCount": "468",
-      "title": "[BOX ] Cavaliers 104:115 Knicks (NYK 1-0 CLE)",
-      "link": "/bbs/NBA/M.1779246048.A.E7A",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2026/05/20 03:00",
       "imageUrl": ""
     },
     {
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "186",
+      "recommendCount": "356",
+      "title": "[新聞] 川普、國稅局和解！　司法部拍板「永久禁止」對川普家族查稅",
+      "link": "/bbs/Gossiping/M.1779257162.A.AE4",
+      "author": "sheng1300905",
+      "board": "Gossiping",
+      "publishTime": "2026/05/20 06:06",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "125",
       "recommendCount": "388",
       "title": "[新聞] 500萬元塞桌下算收賄？鄭文燦律師團 狂揪疑點打臉檢方",
@@ -171,16 +181,6 @@
       "author": "Salcea",
       "board": "Gossiping",
       "publishTime": "2026/05/20 00:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "185",
-      "recommendCount": "355",
-      "title": "[新聞] 川普、國稅局和解！　司法部拍板「永久禁止」對川普家族查稅",
-      "link": "/bbs/Gossiping/M.1779257162.A.AE4",
-      "author": "sheng1300905",
-      "board": "Gossiping",
-      "publishTime": "2026/05/20 06:06",
       "imageUrl": ""
     },
     {
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "836",
-      "recommendCount": "1444",
-      "title": "[電競] 2026 LCK Regular Season W8D1",
-      "link": "/bbs/LoL/M.1779262319.A.ED9",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/05/20 07:31",
+      "recommendScore": "73",
+      "recommendCount": "378",
+      "title": "[新聞] 10月電價調漲壓力來了！台電警告：沒漲足全年虧280億",
+      "link": "/bbs/Gossiping/M.1779263389.A.E3A",
+      "author": "troyyuan",
+      "board": "Gossiping",
+      "publishTime": "2026/05/20 07:49",
       "imageUrl": ""
     }
   ]
