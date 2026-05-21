@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-21T22:17:50.199Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2026-05-21T22:49:07.684Z",
+  "total_found": 19,
+  "returned_count": 19,
   "articles": [
     {
       "recommendScore": "-615",
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "203",
+      "recommendCount": "741",
+      "title": "[新聞] 楊寶楨震撼退黨!黃國昌怒嗆:沒跑基層還用嘴巴參選",
+      "link": "/bbs/Gossiping/M.1779344044.A.11E",
+      "author": "postar",
+      "board": "Gossiping",
+      "publishTime": "2026/05/21 06:14",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "338",
       "recommendCount": "450",
       "title": "[炸裂] 王苡丞 本季首轟",
@@ -31,16 +41,6 @@
       "author": "Roy34",
       "board": "Baseball",
       "publishTime": "2026/05/21 10:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "204",
-      "recommendCount": "740",
-      "title": "[新聞] 楊寶楨震撼退黨!黃國昌怒嗆:沒跑基層還用嘴巴參選",
-      "link": "/bbs/Gossiping/M.1779344044.A.11E",
-      "author": "postar",
-      "board": "Gossiping",
-      "publishTime": "2026/05/21 06:14",
       "imageUrl": ""
     },
     {
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "255",
-      "recommendCount": "467",
+      "recommendScore": "258",
+      "recommendCount": "470",
       "title": "[新聞] Meta爆靠詐騙廣告每年爽賺2200億！他揭祖克柏黑暗",
       "link": "/bbs/Stock/M.1779366842.A.EF3",
       "author": "Riesz",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "309",
-      "recommendCount": "621",
+      "recommendScore": "311",
+      "recommendCount": "635",
       "title": "[新聞] 快訊／周美青、馬以南發布聲明：希望馬英九退休、安享晚年",
       "link": "/bbs/Gossiping/M.1779374303.A.C58",
       "author": "WuSam",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "233",
-      "recommendCount": "453",
+      "recommendScore": "234",
+      "recommendCount": "454",
       "title": "[新聞] 快訊／林志玲無預警請辭董事　文策院：很惋惜",
       "link": "/bbs/Gossiping/M.1779355568.A.81F",
       "author": "pttjordy",
@@ -161,6 +161,16 @@
       "author": "touyuan",
       "board": "Gossiping",
       "publishTime": "2026/05/21 02:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "283",
+      "recommendCount": "369",
+      "title": "[新聞] 「10元便當嬤」賣7房供餐50年　兒接力行善助弱勢84歲辭世",
+      "link": "/bbs/Gossiping/M.1779375233.A.523",
+      "author": "humbler",
+      "board": "Gossiping",
+      "publishTime": "2026/05/21 14:53",
       "imageUrl": ""
     },
     {
@@ -182,26 +192,6 @@
       "board": "Stock",
       "publishTime": "2026/05/21 02:01",
       "imageUrl": "https://cache.pttweb.cc/imgur/MnycQuS/s/c55069212af30fc95491d9ee11db6bbd"
-    },
-    {
-      "recommendScore": "119",
-      "recommendCount": "372",
-      "title": "[花邊] Hartenstein 上半場對斑馬的防守",
-      "link": "/bbs/NBA/M.1779331654.A.27A",
-      "author": "bryan9060",
-      "board": "NBA",
-      "publishTime": "2026/05/21 02:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "21",
-      "recommendCount": "356",
-      "title": "[新聞] 快訊／重大變革！±15%　金管會：國外成分ETF將分階限漲跌幅",
-      "link": "/bbs/Stock/M.1779352679.A.3B4",
-      "author": "ChanHoPark",
-      "board": "Stock",
-      "publishTime": "2026/05/21 08:37",
-      "imageUrl": ""
     }
   ]
 }
