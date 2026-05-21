@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-21T23:15:58.360Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2026-05-21T23:40:30.577Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "-615",
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "398",
-      "recommendCount": "763",
+      "recommendCount": "764",
       "title": "[花邊] SGA今天倒在地上的次數",
       "link": "/bbs/NBA/M.1779346248.A.6EE",
       "author": "yochiya",
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "203",
-      "recommendCount": "741",
+      "recommendCount": "742",
       "title": "[新聞] 楊寶楨震撼退黨!黃國昌怒嗆:沒跑基層還用嘴巴參選",
       "link": "/bbs/Gossiping/M.1779344044.A.11E",
       "author": "postar",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "260",
-      "recommendCount": "480",
+      "recommendScore": "262",
+      "recommendCount": "482",
       "title": "[新聞] Meta爆靠詐騙廣告每年爽賺2200億！他揭祖克柏黑暗",
       "link": "/bbs/Stock/M.1779366842.A.EF3",
       "author": "Riesz",
@@ -85,12 +85,22 @@
     },
     {
       "recommendScore": "317",
-      "recommendCount": "654",
+      "recommendCount": "662",
       "title": "[新聞] 快訊／周美青、馬以南發布聲明：希望馬英九退休、安享晚年",
       "link": "/bbs/Gossiping/M.1779374303.A.C58",
       "author": "WuSam",
       "board": "Gossiping",
       "publishTime": "2026/05/21 14:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "231",
+      "recommendCount": "496",
+      "title": "[新聞] 指賴清德全家美國有永居權綠卡　法官認未讓人心生畏懼與恐慌不罰",
+      "link": "/bbs/Gossiping/M.1779349894.A.85A",
+      "author": "chopper594",
+      "board": "Gossiping",
+      "publishTime": "2026/05/21 07:51",
       "imageUrl": ""
     },
     {
@@ -104,16 +114,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "229",
-      "recommendCount": "492",
-      "title": "[新聞] 指賴清德全家美國有永居權綠卡　法官認未讓人心生畏懼與恐慌不罰",
-      "link": "/bbs/Gossiping/M.1779349894.A.85A",
-      "author": "chopper594",
-      "board": "Gossiping",
-      "publishTime": "2026/05/21 07:51",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "343",
       "recommendCount": "439",
       "title": "[分享] 今日 大谷翔平",
@@ -121,6 +121,16 @@
       "author": "cheedo",
       "board": "Baseball",
       "publishTime": "2026/05/21 03:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "328",
+      "recommendCount": "424",
+      "title": "[新聞] 「10元便當嬤」賣7房供餐50年　兒接力行善助弱勢84歲辭世",
+      "link": "/bbs/Gossiping/M.1779375233.A.523",
+      "author": "humbler",
+      "board": "Gossiping",
+      "publishTime": "2026/05/21 14:53",
       "imageUrl": ""
     },
     {
@@ -144,18 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "312",
-      "recommendCount": "403",
-      "title": "[新聞] 「10元便當嬤」賣7房供餐50年　兒接力行善助弱勢84歲辭世",
-      "link": "/bbs/Gossiping/M.1779375233.A.523",
-      "author": "humbler",
-      "board": "Gossiping",
-      "publishTime": "2026/05/21 14:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "234",
-      "recommendCount": "454",
+      "recommendScore": "235",
+      "recommendCount": "457",
       "title": "[新聞] 快訊／林志玲無預警請辭董事　文策院：很惋惜",
       "link": "/bbs/Gossiping/M.1779355568.A.81F",
       "author": "pttjordy",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-106",
-      "recommendCount": "361",
+      "recommendScore": "-107",
+      "recommendCount": "362",
       "title": "[新聞] 肉搏溫班亞瑪建功 哈爾特斯坦：這就是我的球風",
       "link": "/bbs/NBA/M.1779349810.A.B17",
       "author": "c27932589",
@@ -185,13 +185,23 @@
     },
     {
       "recommendScore": "206",
-      "recommendCount": "328",
+      "recommendCount": "329",
       "title": "[標的] 台指空",
       "link": "/bbs/Stock/M.1779328872.A.B20",
       "author": "ssjayss",
       "board": "Stock",
       "publishTime": "2026/05/21 02:01",
       "imageUrl": "https://cache.pttweb.cc/imgur/MnycQuS/s/c55069212af30fc95491d9ee11db6bbd"
+    },
+    {
+      "recommendScore": "119",
+      "recommendCount": "372",
+      "title": "[花邊] Hartenstein 上半場對斑馬的防守",
+      "link": "/bbs/NBA/M.1779331654.A.27A",
+      "author": "bryan9060",
+      "board": "NBA",
+      "publishTime": "2026/05/21 02:47",
+      "imageUrl": ""
     }
   ]
 }
