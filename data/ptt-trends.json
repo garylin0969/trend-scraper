@@ -1,38 +1,8 @@
 {
-  "updated": "2026-05-21T16:34:16.704Z",
+  "updated": "2026-05-21T17:31:47.671Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "-614",
-      "recommendCount": "1388",
-      "title": "[BOX ] Spurs 113:122 Thunder (SAS 1-1 OKC)",
-      "link": "/bbs/NBA/M.1779332743.A.0BF",
-      "author": "KC90",
-      "board": "NBA",
-      "publishTime": "2026/05/21 03:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "391",
-      "recommendCount": "751",
-      "title": "[花邊] SGA今天倒在地上的次數",
-      "link": "/bbs/NBA/M.1779346248.A.6EE",
-      "author": "yochiya",
-      "board": "NBA",
-      "publishTime": "2026/05/21 06:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "338",
-      "recommendCount": "450",
-      "title": "[炸裂] 王苡丞 本季首轟",
-      "link": "/bbs/Baseball/M.1779360532.A.830",
-      "author": "Roy34",
-      "board": "Baseball",
-      "publishTime": "2026/05/21 10:48",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "109",
       "recommendCount": "544",
@@ -44,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "198",
-      "recommendCount": "715",
+      "recommendScore": "199",
+      "recommendCount": "720",
       "title": "[新聞] 楊寶楨震撼退黨!黃國昌怒嗆:沒跑基層還用嘴巴參選",
       "link": "/bbs/Gossiping/M.1779344044.A.11E",
       "author": "postar",
@@ -64,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "239",
-      "recommendCount": "453",
+      "recommendScore": "240",
+      "recommendCount": "454",
       "title": "[新聞] 快訊／台新證又出包！系統當機　用戶跳腳「無法下單一直轉圈圈」",
       "link": "/bbs/Stock/M.1779331069.A.D59",
       "author": "abcqq2323",
@@ -84,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "342",
-      "recommendCount": "438",
+      "recommendScore": "343",
+      "recommendCount": "439",
       "title": "[分享] 今日 大谷翔平",
       "link": "/bbs/Baseball/M.1779333999.A.FE7",
       "author": "cheedo",
@@ -94,14 +64,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "228",
-      "recommendCount": "476",
+      "recommendScore": "229",
+      "recommendCount": "480",
       "title": "[新聞] 指賴清德全家美國有永居權綠卡　法官認未讓人心生畏懼與恐慌不罰",
       "link": "/bbs/Gossiping/M.1779349894.A.85A",
       "author": "chopper594",
       "board": "Gossiping",
       "publishTime": "2026/05/21 07:51",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "-230",
+      "recommendCount": "589",
+      "title": "Re: [花邊] Hartenstein 上半場對斑馬的防守",
+      "link": "/bbs/NBA/M.1779339814.A.CC2",
+      "author": "vinc4320",
+      "board": "NBA",
+      "publishTime": "2026/05/21 05:03",
+      "imageUrl": "https://cache.pttweb.cc/imgur/crRc8jA/s/fe63b30cb88716f072c49d84b64e77c5"
     },
     {
       "recommendScore": "-173",
@@ -114,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-229",
-      "recommendCount": "588",
-      "title": "Re: [花邊] Hartenstein 上半場對斑馬的防守",
-      "link": "/bbs/NBA/M.1779339814.A.CC2",
-      "author": "vinc4320",
-      "board": "NBA",
-      "publishTime": "2026/05/21 05:03",
-      "imageUrl": "https://cache.pttweb.cc/imgur/crRc8jA/s/fe63b30cb88716f072c49d84b64e77c5"
-    },
-    {
-      "recommendScore": "227",
-      "recommendCount": "413",
+      "recommendScore": "239",
+      "recommendCount": "439",
       "title": "[新聞] Meta爆靠詐騙廣告每年爽賺2200億！他揭祖克柏黑暗",
       "link": "/bbs/Stock/M.1779366842.A.EF3",
       "author": "Riesz",
@@ -134,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "229",
-      "recommendCount": "437",
+      "recommendScore": "231",
+      "recommendCount": "442",
       "title": "[新聞] 快訊／林志玲無預警請辭董事　文策院：很惋惜",
       "link": "/bbs/Gossiping/M.1779355568.A.81F",
       "author": "pttjordy",
@@ -154,8 +124,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-100",
-      "recommendCount": "351",
+      "recommendScore": "279",
+      "recommendCount": "567",
+      "title": "[新聞] 快訊／周美青、馬以南發布聲明：希望馬英九退休、安享晚年",
+      "link": "/bbs/Gossiping/M.1779374303.A.C58",
+      "author": "WuSam",
+      "board": "Gossiping",
+      "publishTime": "2026/05/21 14:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-102",
+      "recommendCount": "355",
       "title": "[新聞] 肉搏溫班亞瑪建功 哈爾特斯坦：這就是我的球風",
       "link": "/bbs/NBA/M.1779349810.A.B17",
       "author": "c27932589",
@@ -184,23 +164,43 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/MnycQuS/s/c55069212af30fc95491d9ee11db6bbd"
     },
     {
-      "recommendScore": "266",
-      "recommendCount": "529",
-      "title": "[新聞] 快訊／周美青、馬以南發布聲明：希望馬英九退休、安享晚年",
-      "link": "/bbs/Gossiping/M.1779374303.A.C58",
-      "author": "WuSam",
-      "board": "Gossiping",
-      "publishTime": "2026/05/21 14:38",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "23",
-      "recommendCount": "350",
+      "recommendCount": "352",
       "title": "[新聞] 快訊／重大變革！±15%　金管會：國外成分ETF將分階限漲跌幅",
       "link": "/bbs/Stock/M.1779352679.A.3B4",
       "author": "ChanHoPark",
       "board": "Stock",
       "publishTime": "2026/05/21 08:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "91",
+      "recommendCount": "634",
+      "title": "[問卦] 八卦板是不是很配合國台辦的話？",
+      "link": "/bbs/Gossiping/M.1779359266.A.269",
+      "author": "reigon1126",
+      "board": "Gossiping",
+      "publishTime": "2026/05/21 10:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "195",
+      "recommendCount": "400",
+      "title": "[新聞] 川普指責台灣偷竊美國半導體 曹興誠曝真相批政院失職",
+      "link": "/bbs/Gossiping/M.1779325003.A.6F9",
+      "author": "stoneruler",
+      "board": "Gossiping",
+      "publishTime": "2026/05/21 00:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "761",
+      "recommendCount": "1445",
+      "title": "[電競] 2026 LCK Regular Season W8D2",
+      "link": "/bbs/LoL/M.1779349144.A.161",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/05/21 07:39",
       "imageUrl": ""
     }
   ]
