@@ -1,48 +1,8 @@
 {
-  "updated": "2026-05-21T21:04:54.392Z",
+  "updated": "2026-05-21T21:44:41.223Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "-615",
-      "recommendCount": "1388",
-      "title": "[BOX ] Spurs 113:122 Thunder (SAS 1-1 OKC)",
-      "link": "/bbs/NBA/M.1779332743.A.0BF",
-      "author": "KC90",
-      "board": "NBA",
-      "publishTime": "2026/05/21 03:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "397",
-      "recommendCount": "762",
-      "title": "[花邊] SGA今天倒在地上的次數",
-      "link": "/bbs/NBA/M.1779346248.A.6EE",
-      "author": "yochiya",
-      "board": "NBA",
-      "publishTime": "2026/05/21 06:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "338",
-      "recommendCount": "450",
-      "title": "[炸裂] 王苡丞 本季首轟",
-      "link": "/bbs/Baseball/M.1779360532.A.830",
-      "author": "Roy34",
-      "board": "Baseball",
-      "publishTime": "2026/05/21 10:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "110",
-      "recommendCount": "545",
-      "title": "[新聞] 狄鶯淚問中研院為什麼不吸收孫安佐？ 廖俊智：我們不做這方面的研究",
-      "link": "/bbs/Gossiping/M.1779332446.A.C50",
-      "author": "bengowa",
-      "board": "Gossiping",
-      "publishTime": "2026/05/21 03:00",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "203",
       "recommendCount": "738",
@@ -94,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "253",
+      "recommendCount": "459",
+      "title": "[新聞] Meta爆靠詐騙廣告每年爽賺2200億！他揭祖克柏黑暗",
+      "link": "/bbs/Stock/M.1779366842.A.EF3",
+      "author": "Riesz",
+      "board": "Stock",
+      "publishTime": "2026/05/21 12:34",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "229",
       "recommendCount": "489",
       "title": "[新聞] 指賴清德全家美國有永居權綠卡　法官認未讓人心生畏懼與恐慌不罰",
@@ -101,16 +71,6 @@
       "author": "chopper594",
       "board": "Gossiping",
       "publishTime": "2026/05/21 07:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "250",
-      "recommendCount": "456",
-      "title": "[新聞] Meta爆靠詐騙廣告每年爽賺2200億！他揭祖克柏黑暗",
-      "link": "/bbs/Stock/M.1779366842.A.EF3",
-      "author": "Riesz",
-      "board": "Stock",
-      "publishTime": "2026/05/21 12:34",
       "imageUrl": ""
     },
     {
@@ -134,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "300",
-      "recommendCount": "606",
+      "recommendScore": "302",
+      "recommendCount": "610",
       "title": "[新聞] 快訊／周美青、馬以南發布聲明：希望馬英九退休、安享晚年",
       "link": "/bbs/Gossiping/M.1779374303.A.C58",
       "author": "WuSam",
@@ -164,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-104",
-      "recommendCount": "359",
+      "recommendScore": "-105",
+      "recommendCount": "360",
       "title": "[新聞] 肉搏溫班亞瑪建功 哈爾特斯坦：這就是我的球風",
       "link": "/bbs/NBA/M.1779349810.A.B17",
       "author": "c27932589",
@@ -201,6 +161,46 @@
       "author": "ChanHoPark",
       "board": "Stock",
       "publishTime": "2026/05/21 08:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "92",
+      "recommendCount": "641",
+      "title": "[問卦] 八卦板是不是很配合國台辦的話？",
+      "link": "/bbs/Gossiping/M.1779359266.A.269",
+      "author": "reigon1126",
+      "board": "Gossiping",
+      "publishTime": "2026/05/21 10:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "195",
+      "recommendCount": "402",
+      "title": "[新聞] 川普指責台灣偷竊美國半導體 曹興誠曝真相批政院失職",
+      "link": "/bbs/Gossiping/M.1779325003.A.6F9",
+      "author": "stoneruler",
+      "board": "Gossiping",
+      "publishTime": "2026/05/21 00:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "181",
+      "recommendCount": "408",
+      "title": "[新聞] 黃仁勳認了！坦承中國AI市場已拱手讓給華為 「我們已退出那個市場」",
+      "link": "/bbs/Stock/M.1779348337.A.1E4",
+      "author": "yisky",
+      "board": "Stock",
+      "publishTime": "2026/05/21 07:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "761",
+      "recommendCount": "1445",
+      "title": "[電競] 2026 LCK Regular Season W8D2",
+      "link": "/bbs/LoL/M.1779349144.A.161",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/05/21 07:39",
       "imageUrl": ""
     }
   ]
