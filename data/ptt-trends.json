@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T19:47:11.751Z",
+  "updated": "2026-05-22T20:25:03.902Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "141",
-      "recommendCount": "368",
+      "recommendScore": "143",
+      "recommendCount": "371",
       "title": "[花邊] 老巴嗆雷酸:雷霆對斑馬粗暴？真的該閉嘴",
       "link": "/bbs/NBA/M.1779432727.A.416",
       "author": "LBJnot1to7",
@@ -174,13 +174,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "178",
-      "recommendCount": "312",
+      "recommendScore": "179",
+      "recommendCount": "313",
       "title": "[問卦] 高雄未來13條捷運線,大概多久能完工",
       "link": "/bbs/Gossiping/M.1779441687.A.5E1",
       "author": "u1114224",
       "board": "Gossiping",
       "publishTime": "2026/05/22 09:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "139",
+      "recommendCount": "311",
+      "title": "[情報] 確定不會發布馬刺雷霆G2賽後裁判報告。",
+      "link": "/bbs/NBA/M.1779440760.A.4E5",
+      "author": "sings123",
+      "board": "NBA",
+      "publishTime": "2026/05/22 09:06",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "tony900735",
       "board": "Elephants",
       "publishTime": "2026/05/22 09:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "138",
-      "recommendCount": "305",
-      "title": "[情報] 確定不會發布馬刺雷霆G2賽後裁判報告。",
-      "link": "/bbs/NBA/M.1779440760.A.4E5",
-      "author": "sings123",
-      "board": "NBA",
-      "publishTime": "2026/05/22 09:06",
       "imageUrl": ""
     }
   ]
