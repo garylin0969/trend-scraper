@@ -1,10 +1,20 @@
 {
-  "updated": "2026-05-22T07:47:07.074Z",
+  "updated": "2026-05-22T08:49:40.724Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "440",
+      "recommendCount": "575",
+      "title": "[新聞] 「10元便當嬤」賣7房供餐50年　兒接力行善助弱勢84歲辭世",
+      "link": "/bbs/Gossiping/M.1779375233.A.523",
+      "author": "humbler",
+      "board": "Gossiping",
+      "publishTime": "2026/05/21 14:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "432",
       "recommendCount": "1477",
       "title": "Re: [新聞] 北科大研究生輕生案「教授音檔曝光即下架」　原PO：基於外部壓力",
       "link": "/bbs/Gossiping/M.1779405180.A.8AA",
@@ -14,18 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "436",
-      "recommendCount": "566",
-      "title": "[新聞] 「10元便當嬤」賣7房供餐50年　兒接力行善助弱勢84歲辭世",
-      "link": "/bbs/Gossiping/M.1779375233.A.523",
-      "author": "humbler",
-      "board": "Gossiping",
-      "publishTime": "2026/05/21 14:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "300",
-      "recommendCount": "698",
+      "recommendScore": "301",
+      "recommendCount": "699",
       "title": "[新聞] 美代理海軍部長：華府正暫停對台灣140億美元軍售",
       "link": "/bbs/Gossiping/M.1779409821.A.108",
       "author": "STi2011",
@@ -34,13 +34,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "347",
-      "recommendCount": "737",
+      "recommendScore": "348",
+      "recommendCount": "738",
       "title": "[新聞] 快訊／周美青、馬以南發布聲明：希望馬英九退休、安享晚年",
       "link": "/bbs/Gossiping/M.1779374303.A.C58",
       "author": "WuSam",
       "board": "Gossiping",
       "publishTime": "2026/05/21 14:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "321",
+      "recommendCount": "623",
+      "title": "[新聞] 史書華擅用OMEGA名義賣錶 二審加判賠共70萬 須刊登勝訴啟事",
+      "link": "/bbs/Gossiping/M.1779417710.A.372",
+      "author": "poeta",
+      "board": "Gossiping",
+      "publishTime": "2026/05/22 02:41",
       "imageUrl": ""
     },
     {
@@ -64,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "393",
-      "recommendCount": "521",
+      "recommendScore": "394",
+      "recommendCount": "522",
       "title": "[閒聊] 中華一番 極 201 你全力做吧 否則贏不了",
       "link": "/bbs/C_Chat/M.1779379506.A.F82",
       "author": "chan324",
@@ -74,33 +84,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "295",
-      "recommendCount": "575",
-      "title": "[新聞] 史書華擅用OMEGA名義賣錶 二審加判賠共70萬 須刊登勝訴啟事",
-      "link": "/bbs/Gossiping/M.1779417710.A.372",
-      "author": "poeta",
-      "board": "Gossiping",
-      "publishTime": "2026/05/22 02:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "233",
-      "recommendCount": "504",
-      "title": "[新聞] 指賴清德全家美國有永居權綠卡　法官認未讓人心生畏懼與恐慌不罰",
-      "link": "/bbs/Gossiping/M.1779349894.A.85A",
-      "author": "chopper594",
-      "board": "Gossiping",
-      "publishTime": "2026/05/21 07:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "193",
-      "recommendCount": "498",
+      "recommendScore": "197",
+      "recommendCount": "503",
       "title": "[新聞] 妹子裸辭1年！「靠配息月領2萬」人生大轉變　網羨：神仙生活",
       "link": "/bbs/Stock/M.1779417619.A.EE1",
       "author": "Kevinsun",
       "board": "Stock",
       "publishTime": "2026/05/22 02:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "340",
+      "recommendCount": "474",
+      "title": "[分享] 今日徐若熙 (二軍)",
+      "link": "/bbs/Baseball/M.1779429336.A.09E",
+      "author": "EMU500",
+      "board": "Baseball",
+      "publishTime": "2026/05/22 05:55",
       "imageUrl": ""
     },
     {
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "268",
-      "recommendCount": "638",
+      "recommendScore": "270",
+      "recommendCount": "640",
       "title": "[新聞] 樂天球員陷劈腿風波!游承勳遭Threads貼文影射　石垣島睡陪酒女",
       "link": "/bbs/Baseball/M.1779411451.A.29F",
       "author": "micheal59",
@@ -124,23 +124,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-114",
-      "recommendCount": "376",
-      "title": "[新聞] 肉搏溫班亞瑪建功 哈爾特斯坦：這就是我的球風",
-      "link": "/bbs/NBA/M.1779349810.A.B17",
-      "author": "c27932589",
-      "board": "NBA",
-      "publishTime": "2026/05/21 07:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "296",
-      "recommendCount": "411",
-      "title": "[分享] 今日徐若熙 (二軍)",
-      "link": "/bbs/Baseball/M.1779429336.A.09E",
-      "author": "EMU500",
-      "board": "Baseball",
-      "publishTime": "2026/05/22 05:55",
+      "recommendScore": "214",
+      "recommendCount": "410",
+      "title": "[新聞] 民眾黨立院黨團提案　痛斥川普貶抑台灣人民、輕蔑我國元首",
+      "link": "/bbs/Gossiping/M.1779422678.A.490",
+      "author": "taiwan08",
+      "board": "Gossiping",
+      "publishTime": "2026/05/22 04:04",
       "imageUrl": ""
     },
     {
@@ -154,33 +144,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "23",
-      "recommendCount": "361",
-      "title": "[新聞] 快訊／重大變革！±15%　金管會：國外成分ETF將分階限漲跌幅",
-      "link": "/bbs/Stock/M.1779352679.A.3B4",
-      "author": "ChanHoPark",
-      "board": "Stock",
-      "publishTime": "2026/05/21 08:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "197",
-      "recommendCount": "365",
-      "title": "[新聞] 民眾黨立院黨團提案　痛斥川普貶抑台灣人民、輕蔑我國元首",
-      "link": "/bbs/Gossiping/M.1779422678.A.490",
-      "author": "taiwan08",
-      "board": "Gossiping",
-      "publishTime": "2026/05/22 04:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "151",
-      "recommendCount": "366",
+      "recommendScore": "152",
+      "recommendCount": "368",
       "title": "[花邊] LBJ談馬刺：都這麼幸運可以有天才",
       "link": "/bbs/NBA/M.1779372154.A.F29",
       "author": "bengowa",
       "board": "NBA",
       "publishTime": "2026/05/21 14:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "140",
+      "recommendCount": "396",
+      "title": "[爆卦] 2025台灣各縣市薪資中位數排名",
+      "link": "/bbs/Gossiping/M.1779355784.A.C82",
+      "author": "PPPa",
+      "board": "Gossiping",
+      "publishTime": "2026/05/21 09:29",
       "imageUrl": ""
     },
     {
@@ -194,13 +174,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "138",
-      "recommendCount": "394",
-      "title": "[爆卦] 2025台灣各縣市薪資中位數排名",
-      "link": "/bbs/Gossiping/M.1779355784.A.C82",
-      "author": "PPPa",
+      "recommendScore": "206",
+      "recommendCount": "455",
+      "title": "[新聞] 風波加劇 周美青聲明盼安享餘年 馬英九：未經我過目同意深表錯愕遺憾",
+      "link": "/bbs/Gossiping/M.1779432091.A.CF3",
+      "author": "minche",
       "board": "Gossiping",
-      "publishTime": "2026/05/21 09:29",
+      "publishTime": "2026/05/22 06:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "156",
+      "recommendCount": "258",
+      "title": "[新聞] 沈伯洋的台灣民主實驗室爆性騷 前理事長偷吻摸男員工下體有罪定讞",
+      "link": "/bbs/Gossiping/M.1779353593.A.12F",
+      "author": "girl55665566",
+      "board": "Gossiping",
+      "publishTime": "2026/05/21 08:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "160",
+      "recommendCount": "268",
+      "title": "[新聞] 「吃一下豆腐」摸下體！台灣民主實驗室前理事長涉性騷判刑定讞",
+      "link": "/bbs/Gossiping/M.1779367062.A.AD7",
+      "author": "lwt501cx",
+      "board": "Gossiping",
+      "publishTime": "2026/05/21 12:37",
       "imageUrl": ""
     }
   ]
