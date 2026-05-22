@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T22:25:27.185Z",
+  "updated": "2026-05-22T22:49:22.384Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "354",
+      "recommendCount": "392",
+      "title": "[新聞] 中職／不知開轟有錢拿　魔鷹臨時起意豪送花蓮球僮1萬！暖心善舉有原因",
+      "link": "/bbs/Baseball/M.1779457275.A.531",
+      "author": "lamigo",
+      "board": "Baseball",
+      "publishTime": "2026/05/22 13:41",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "358",
       "recommendCount": "501",
       "title": "[分享] 今日徐若熙 (二軍)",
@@ -51,16 +61,6 @@
       "author": "EMU500",
       "board": "Baseball",
       "publishTime": "2026/05/22 05:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "350",
-      "recommendCount": "387",
-      "title": "[新聞] 中職／不知開轟有錢拿　魔鷹臨時起意豪送花蓮球僮1萬！暖心善舉有原因",
-      "link": "/bbs/Baseball/M.1779457275.A.531",
-      "author": "lamigo",
-      "board": "Baseball",
-      "publishTime": "2026/05/22 13:41",
       "imageUrl": ""
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "277",
-      "recommendCount": "485",
+      "recommendCount": "486",
       "title": "[新聞] 富途老虎遭遇“黑天鵝”",
       "link": "/bbs/Stock/M.1779444816.A.05E",
       "author": "Ensidia",
