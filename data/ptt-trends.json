@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T12:02:22.391Z",
+  "updated": "2026-05-23T12:35:11.608Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "126",
-      "recommendCount": "579",
+      "recommendScore": "129",
+      "recommendCount": "586",
       "title": "[爆卦] 公督盟：台灣需要忠誠的反對黨",
       "link": "/bbs/Gossiping/M.1779511215.A.2C9",
       "author": "killeryuan",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "189",
-      "recommendCount": "513",
+      "recommendScore": "190",
+      "recommendCount": "516",
       "title": "[新聞] 高雄酒駕累犯名單公布！50人「姓名、無碼臉照」全曝光",
       "link": "/bbs/Gossiping/M.1779490678.A.844",
       "author": "Workforme",
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "205",
+      "recommendCount": "412",
+      "title": "[新聞] 柯文哲遭無預警攻擊！後腦杓被蛋擊 他被壓制大喊「臭俗辣」",
+      "link": "/bbs/Gossiping/M.1779526839.A.896",
+      "author": "lycppt",
+      "board": "Gossiping",
+      "publishTime": "2026/05/23 09:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "141",
       "recommendCount": "410",
       "title": "[新聞] 沈伯洋聲量超車蔣萬安！黃暐瀚預言「得票50萬以上」：25席綠市議員全上壘",
@@ -94,23 +104,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "269",
-      "recommendCount": "374",
+      "recommendScore": "272",
+      "recommendCount": "377",
       "title": "Re: [標的] 工信 新手爸爸想賺尿布錢多",
       "link": "/bbs/Stock/M.1779464245.A.298",
       "author": "game7463",
       "board": "Stock",
       "publishTime": "2026/05/22 15:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "173",
-      "recommendCount": "361",
-      "title": "[新聞] 柯文哲遭無預警攻擊！後腦杓被蛋擊 他被壓制大喊「臭俗辣」",
-      "link": "/bbs/Gossiping/M.1779526839.A.896",
-      "author": "lycppt",
-      "board": "Gossiping",
-      "publishTime": "2026/05/23 09:00",
       "imageUrl": ""
     },
     {
@@ -144,7 +144,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "623",
+      "recommendScore": "617",
       "recommendCount": "1502",
       "title": "[分享] 今日先發",
       "link": "/bbs/Elephants/M.1779524270.A.BDA",
@@ -164,14 +164,34 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "166",
-      "recommendCount": "692",
+      "recommendScore": "165",
+      "recommendCount": "693",
       "title": "[問卦] 中國貨怎麼捲死全世界?",
       "link": "/bbs/Gossiping/M.1779509163.A.CE6",
       "author": "teeo",
       "board": "Gossiping",
       "publishTime": "2026/05/23 04:06",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "172",
+      "recommendCount": "379",
+      "title": "[新聞] 新竹火鍋店推訂閱制「每月3千塊」會有人？一票暴動：超划算",
+      "link": "/bbs/Gossiping/M.1779514224.A.27F",
+      "author": "yu1164",
+      "board": "Gossiping",
+      "publishTime": "2026/05/23 05:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "205",
+      "recommendCount": "322",
+      "title": "[花邊] Ron Harper:希望球員們去踩那些假摔的人",
+      "link": "/bbs/NBA/M.1779508437.A.2C2",
+      "author": "steven183",
+      "board": "NBA",
+      "publishTime": "2026/05/23 03:53",
+      "imageUrl": "https://cache.pttweb.cc/imgur/3TpBKn1/s/c65db0597a3c435436309718d6b7b54c"
     },
     {
       "recommendScore": "158",
@@ -182,26 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/05/22 16:54",
       "imageUrl": "https://cache.pttweb.cc/imgur/VSASvad/s/c5d839ed44a6da64685751e2f5a0ed62"
-    },
-    {
-      "recommendScore": "203",
-      "recommendCount": "320",
-      "title": "[花邊] Ron Harper:希望球員們去踩那些假摔的人",
-      "link": "/bbs/NBA/M.1779508437.A.2C2",
-      "author": "steven183",
-      "board": "NBA",
-      "publishTime": "2026/05/23 03:53",
-      "imageUrl": "https://cache.pttweb.cc/imgur/3TpBKn1/s/c65db0597a3c435436309718d6b7b54c"
-    },
-    {
-      "recommendScore": "167",
-      "recommendCount": "371",
-      "title": "[新聞] 新竹火鍋店推訂閱制「每月3千塊」會有人？一票暴動：超划算",
-      "link": "/bbs/Gossiping/M.1779514224.A.27F",
-      "author": "yu1164",
-      "board": "Gossiping",
-      "publishTime": "2026/05/23 05:30",
-      "imageUrl": ""
     }
   ]
 }
