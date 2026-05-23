@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T01:16:29.986Z",
+  "updated": "2026-05-23T02:04:07.962Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "372",
-      "recommendCount": "416",
+      "recommendScore": "379",
+      "recommendCount": "423",
       "title": "[新聞] 中職／不知開轟有錢拿　魔鷹臨時起意豪送花蓮球僮1萬！暖心善舉有原因",
       "link": "/bbs/Baseball/M.1779457275.A.531",
       "author": "lamigo",
@@ -45,12 +45,22 @@
     },
     {
       "recommendScore": "297",
-      "recommendCount": "605",
+      "recommendCount": "610",
       "title": "[新聞] 風波加劇 周美青聲明盼安享餘年 馬英九：未經我過目同意深表錯愕遺憾",
       "link": "/bbs/Gossiping/M.1779432091.A.CF3",
       "author": "minche",
       "board": "Gossiping",
       "publishTime": "2026/05/22 06:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "222",
+      "recommendCount": "534",
+      "title": "[新聞] 美宣布暫停140億美元對台軍售美官員稱與伊朗戰事有關",
+      "link": "/bbs/Gossiping/M.1779466930.A.2DD",
+      "author": "SaraV",
+      "board": "Gossiping",
+      "publishTime": "2026/05/22 16:22",
       "imageUrl": ""
     },
     {
@@ -64,18 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "213",
-      "recommendCount": "508",
-      "title": "[新聞] 美宣布暫停140億美元對台軍售美官員稱與伊朗戰事有關",
-      "link": "/bbs/Gossiping/M.1779466930.A.2DD",
-      "author": "SaraV",
-      "board": "Gossiping",
-      "publishTime": "2026/05/22 16:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "284",
-      "recommendCount": "495",
+      "recommendScore": "288",
+      "recommendCount": "500",
       "title": "[新聞] 富途老虎遭遇“黑天鵝”",
       "link": "/bbs/Stock/M.1779444816.A.05E",
       "author": "Ensidia",
@@ -134,6 +134,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "132",
+      "recommendCount": "362",
+      "title": "[新聞]",
+      "link": "/bbs/Gossiping/M.1779491715.A.D76",
+      "author": "Taiwan007",
+      "board": "Gossiping",
+      "publishTime": "2026/05/22 23:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "184",
+      "recommendCount": "327",
+      "title": "[問卦] 高雄未來13條捷運線,大概多久能完工",
+      "link": "/bbs/Gossiping/M.1779441687.A.5E1",
+      "author": "u1114224",
+      "board": "Gossiping",
+      "publishTime": "2026/05/22 09:21",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "143",
       "recommendCount": "374",
       "title": "[花邊] 老巴嗆雷酸:雷霆對斑馬粗暴？真的該閉嘴",
@@ -144,13 +164,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "183",
-      "recommendCount": "326",
-      "title": "[問卦] 高雄未來13條捷運線,大概多久能完工",
-      "link": "/bbs/Gossiping/M.1779441687.A.5E1",
-      "author": "u1114224",
-      "board": "Gossiping",
-      "publishTime": "2026/05/22 09:21",
+      "recommendScore": "141",
+      "recommendCount": "317",
+      "title": "[情報] 確定不會發布馬刺雷霆G2賽後裁判報告。",
+      "link": "/bbs/NBA/M.1779440760.A.4E5",
+      "author": "sings123",
+      "board": "NBA",
+      "publishTime": "2026/05/22 09:06",
       "imageUrl": ""
     },
     {
@@ -164,18 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "142",
-      "recommendCount": "316",
-      "title": "[情報] 確定不會發布馬刺雷霆G2賽後裁判報告。",
-      "link": "/bbs/NBA/M.1779440760.A.4E5",
-      "author": "sings123",
-      "board": "NBA",
-      "publishTime": "2026/05/22 09:06",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "242",
-      "recommendCount": "977",
+      "recommendCount": "979",
       "title": "Re: [新聞] 北科大研究生輕生案「教授音檔曝光即下架」　原PO：基於外部壓力",
       "link": "/bbs/Gossiping/M.1779430520.A.E5B",
       "author": "e2167471",
@@ -191,16 +201,6 @@
       "author": "tony900735",
       "board": "Elephants",
       "publishTime": "2026/05/22 09:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "123",
-      "recommendCount": "361",
-      "title": "[花邊] 雷霆一點也不在乎成為聯盟反派！",
-      "link": "/bbs/NBA/M.1779446945.A.207",
-      "author": "yniori",
-      "board": "NBA",
-      "publishTime": "2026/05/22 10:49",
       "imageUrl": ""
     }
   ]
