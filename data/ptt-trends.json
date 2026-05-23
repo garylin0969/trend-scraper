@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T15:16:18.865Z",
+  "updated": "2026-05-23T15:45:14.595Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "356",
-      "recommendCount": "535",
+      "recommendScore": "359",
+      "recommendCount": "539",
       "title": "[新聞] 父入獄母離世！新竹7歲女童赴美迎新生",
       "link": "/bbs/Gossiping/M.1779507408.A.E51",
       "author": "Daniel0712",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "243",
-      "recommendCount": "528",
+      "recommendScore": "247",
+      "recommendCount": "534",
       "title": "[新聞] 柯文哲遭無預警攻擊！後腦杓被蛋擊 他被壓制大喊「臭俗辣」",
       "link": "/bbs/Gossiping/M.1779526839.A.896",
       "author": "lycppt",
@@ -64,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "133",
+      "recommendCount": "475",
+      "title": "[新聞]藍白大砍國防預算!破萬人上街「挺軍購」畫面曝",
+      "link": "/bbs/Gossiping/M.1779530152.A.181",
+      "author": "yyyyyuuuuu",
+      "board": "Gossiping",
+      "publishTime": "2026/05/23 09:55",
+      "imageUrl": "https://cache.pttweb.cc/imgur/ayT1vBc/s/f21ac4f042563a4748f6ea4ad78b5198"
+    },
+    {
       "recommendScore": "191",
       "recommendCount": "517",
       "title": "[新聞] 高雄酒駕累犯名單公布！50人「姓名、無碼臉照」全曝光",
@@ -72,16 +82,6 @@
       "board": "Gossiping",
       "publishTime": "2026/05/22 22:57",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "134",
-      "recommendCount": "468",
-      "title": "[新聞]藍白大砍國防預算!破萬人上街「挺軍購」畫面曝",
-      "link": "/bbs/Gossiping/M.1779530152.A.181",
-      "author": "yyyyyuuuuu",
-      "board": "Gossiping",
-      "publishTime": "2026/05/23 09:55",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ayT1vBc/s/f21ac4f042563a4748f6ea4ad78b5198"
     },
     {
       "recommendScore": "231",
@@ -94,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "146",
-      "recommendCount": "417",
-      "title": "[新聞] 沈伯洋聲量超車蔣萬安！黃暐瀚預言「得票50萬以上」：25席綠市議員全上壘",
-      "link": "/bbs/Gossiping/M.1779506220.A.C9D",
-      "author": "googolplex",
-      "board": "Gossiping",
-      "publishTime": "2026/05/23 03:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "286",
-      "recommendCount": "465",
+      "recommendScore": "294",
+      "recommendCount": "477",
       "title": "[分享] CPBL戰績",
       "link": "/bbs/Baseball/M.1779536911.A.B66",
       "author": "nybbnan",
@@ -114,18 +104,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "280",
-      "recommendCount": "390",
-      "title": "Re: [標的] 工信 新手爸爸想賺尿布錢多",
-      "link": "/bbs/Stock/M.1779464245.A.298",
-      "author": "game7463",
-      "board": "Stock",
-      "publishTime": "2026/05/22 15:37",
+      "recommendScore": "147",
+      "recommendCount": "418",
+      "title": "[新聞] 沈伯洋聲量超車蔣萬安！黃暐瀚預言「得票50萬以上」：25席綠市議員全上壘",
+      "link": "/bbs/Gossiping/M.1779506220.A.C9D",
+      "author": "googolplex",
+      "board": "Gossiping",
+      "publishTime": "2026/05/23 03:17",
       "imageUrl": ""
     },
     {
-      "recommendScore": "131",
-      "recommendCount": "325",
+      "recommendScore": "132",
+      "recommendCount": "332",
       "title": "[情報] PCHOME  送100P",
       "link": "/bbs/Lifeismoney/M.1779498619.A.C16",
       "author": "a123544714",
@@ -134,13 +124,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "183",
-      "recommendCount": "410",
+      "recommendScore": "189",
+      "recommendCount": "430",
       "title": "[新聞] 新竹火鍋店推訂閱制「每月3千塊」會有人？一票暴動：超划算",
       "link": "/bbs/Gossiping/M.1779514224.A.27F",
       "author": "yu1164",
       "board": "Gossiping",
       "publishTime": "2026/05/23 05:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "252",
+      "recommendCount": "412",
+      "title": "[討論] 幾年前的富邦球迷是怎麼熬過來的？",
+      "link": "/bbs/Baseball/M.1779543803.A.BB3",
+      "author": "KyrieIrving1",
+      "board": "Baseball",
+      "publishTime": "2026/05/23 13:43",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "166",
+      "recommendCount": "303",
+      "title": "[新聞] 快訊／今年首例本土登革熱現蹤高雄　前鎮男發燒、肌肉痛確診",
+      "link": "/bbs/Gossiping/M.1779532548.A.AAD",
+      "author": "qazxc1156892",
+      "board": "Gossiping",
+      "publishTime": "2026/05/23 10:35",
       "imageUrl": ""
     },
     {
@@ -154,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "162",
-      "recommendCount": "298",
-      "title": "[新聞] 快訊／今年首例本土登革熱現蹤高雄　前鎮男發燒、肌肉痛確診",
-      "link": "/bbs/Gossiping/M.1779532548.A.AAD",
-      "author": "qazxc1156892",
-      "board": "Gossiping",
-      "publishTime": "2026/05/23 10:35",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "617",
       "recommendCount": "1502",
       "title": "[分享] 今日先發",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "169",
-      "recommendCount": "706",
+      "recommendScore": "168",
+      "recommendCount": "708",
       "title": "[問卦] 中國貨怎麼捲死全世界?",
       "link": "/bbs/Gossiping/M.1779509163.A.CE6",
       "author": "teeo",
@@ -185,7 +185,7 @@
     },
     {
       "recommendScore": "162",
-      "recommendCount": "342",
+      "recommendCount": "343",
       "title": "[問卦] 暐瀚怎麼突然像是發瘋了",
       "link": "/bbs/Gossiping/M.1779527596.A.5CB",
       "author": "lecheck",
