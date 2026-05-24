@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-24T21:48:38.236Z",
+  "updated": "2026-05-24T22:11:57.071Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "501",
-      "recommendCount": "1234",
+      "recommendScore": "506",
+      "recommendCount": "1242",
       "title": "[新聞] 第一張台獨骨牌倒下？獨派「喜樂島聯盟」震撼宣示考慮統一，條件是「這件事」",
       "link": "/bbs/Gossiping/M.1779625666.A.EFC",
       "author": "a1e",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "259",
-      "recommendCount": "390",
+      "recommendScore": "262",
+      "recommendCount": "394",
       "title": "[爆卦] 碳基科技",
       "link": "/bbs/Gossiping/M.1779621027.A.7E6",
       "author": "TALUBAN",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "165",
+      "recommendCount": "294",
+      "title": "[新聞]外送員爬樓梯拍下送餐照再送檢舉！住戶門口放鞋櫃「噴4萬」",
+      "link": "/bbs/Gossiping/M.1779633730.A.F1E",
+      "author": "la1aco",
+      "board": "Gossiping",
+      "publishTime": "2026/05/24 14:42",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "707",
       "recommendCount": "1302",
       "title": "[Live] TPBL冠軍賽 G1 新北國王 vs 夢想家",
@@ -191,16 +201,6 @@
       "author": "neighbor29",
       "board": "basketballTW",
       "publishTime": "2026/05/24 08:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "160",
-      "recommendCount": "289",
-      "title": "[新聞]外送員爬樓梯拍下送餐照再送檢舉！住戶門口放鞋櫃「噴4萬」",
-      "link": "/bbs/Gossiping/M.1779633730.A.F1E",
-      "author": "la1aco",
-      "board": "Gossiping",
-      "publishTime": "2026/05/24 14:42",
       "imageUrl": ""
     }
   ]
