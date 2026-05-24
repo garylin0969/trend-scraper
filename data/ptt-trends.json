@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T10:02:39.260Z",
+  "updated": "2026-05-24T10:45:59.963Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,18 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "287",
-      "recommendCount": "702",
-      "title": "[新聞] 網傳台積電將砍分紅？員工揚言「罷工」",
-      "link": "/bbs/Stock/M.1779550357.A.263",
-      "author": "GNZ48",
-      "board": "Stock",
-      "publishTime": "2026/05/23 15:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "191",
-      "recommendCount": "706",
+      "recommendScore": "202",
+      "recommendCount": "744",
       "title": "[新聞] 選舉貸款200萬！卻遭爆「股票翻倍、擁2輛特斯拉」 沈伯洋澄清：錢花刀口上",
       "link": "/bbs/Gossiping/M.1779589887.A.065",
       "author": "googolplex",
@@ -34,14 +24,34 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "262",
-      "recommendCount": "1210",
+      "recommendScore": "294",
+      "recommendCount": "716",
+      "title": "[新聞] 網傳台積電將砍分紅？員工揚言「罷工」",
+      "link": "/bbs/Stock/M.1779550357.A.263",
+      "author": "GNZ48",
+      "board": "Stock",
+      "publishTime": "2026/05/23 15:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "269",
+      "recommendCount": "1213",
       "title": "這一切是不是台灣這國家的人應得的？",
       "link": "/bbs/Gossiping/M.1779572175.A.0D3",
       "author": "eyesg",
       "board": "Gossiping",
       "publishTime": "2026/05/23 21:36",
       "imageUrl": "https://cache.pttweb.cc/imgur/Zqw7TkA/s/9cc4a07088dc7917a61112e60d754eff"
+    },
+    {
+      "recommendScore": "213",
+      "recommendCount": "1135",
+      "title": "[新聞] 黃國昌新書稱「建中畢業棄醫從法」　高中同班同學看懵了",
+      "link": "/bbs/Gossiping/M.1779586269.A.7FF",
+      "author": "kent",
+      "board": "Gossiping",
+      "publishTime": "2026/05/24 01:31",
+      "imageUrl": ""
     },
     {
       "recommendScore": "212",
@@ -52,16 +62,6 @@
       "board": "Stock",
       "publishTime": "2026/05/24 03:24",
       "imageUrl": "https://cache.pttweb.cc/imgur/t3nrOQ2/s/9c27d38802755adf1b7abdc570be41ed"
-    },
-    {
-      "recommendScore": "203",
-      "recommendCount": "1090",
-      "title": "[新聞] 黃國昌新書稱「建中畢業棄醫從法」　高中同班同學看懵了",
-      "link": "/bbs/Gossiping/M.1779586269.A.7FF",
-      "author": "kent",
-      "board": "Gossiping",
-      "publishTime": "2026/05/24 01:31",
-      "imageUrl": ""
     },
     {
       "recommendScore": "328",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "214",
-      "recommendCount": "496",
+      "recommendScore": "215",
+      "recommendCount": "498",
       "title": "[問卦] 幹！現在每天至少一毒駕？",
       "link": "/bbs/Gossiping/M.1779539791.A.C04",
       "author": "qazzxc12351",
@@ -104,16 +104,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/4bZZQyj/s/751331c150b1baee6ef7704f98bb460c"
     },
     {
-      "recommendScore": "169",
-      "recommendCount": "333",
-      "title": "[新聞] 快訊／今年首例本土登革熱現蹤高雄　前鎮男發燒、肌肉痛確診",
-      "link": "/bbs/Gossiping/M.1779532548.A.AAD",
-      "author": "qazxc1156892",
-      "board": "Gossiping",
-      "publishTime": "2026/05/23 10:35",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "185",
       "recommendCount": "486",
       "title": "[新聞] 稱舉「打教下台」不是真心愛兄弟 平野惠一：要就寫具體內容",
@@ -121,6 +111,16 @@
       "author": "HTChima",
       "board": "Baseball",
       "publishTime": "2026/05/24 06:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "116",
+      "recommendCount": "392",
+      "title": "[新聞] 2年買2輛特斯拉 沈伯洋：出新款「舊換新」不該被攻擊",
+      "link": "/bbs/Gossiping/M.1779598378.A.903",
+      "author": "keel90135",
+      "board": "Gossiping",
+      "publishTime": "2026/05/24 04:52",
       "imageUrl": ""
     },
     {
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "193",
-      "recommendCount": "602",
+      "recommendScore": "197",
+      "recommendCount": "611",
       "title": "[閒聊] SquareEnix前高管：最大錯誤是讓米做原神",
       "link": "/bbs/C_Chat/M.1779584534.A.8C3",
       "author": "Yui5",
@@ -144,13 +144,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "106",
-      "recommendCount": "346",
-      "title": "[新聞] 2年買2輛特斯拉 沈伯洋：出新款「舊換新」不該被攻擊",
-      "link": "/bbs/Gossiping/M.1779598378.A.903",
-      "author": "keel90135",
+      "recommendScore": "155",
+      "recommendCount": "321",
+      "title": "[新聞] 快訊／疑高溫熱衰竭　台北看守所2受刑人無呼吸心跳搶救中",
+      "link": "/bbs/Gossiping/M.1779608002.A.ADD",
+      "author": "blueadam193",
       "board": "Gossiping",
-      "publishTime": "2026/05/24 04:52",
+      "publishTime": "2026/05/24 07:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "12",
+      "recommendCount": "258",
+      "title": "[新聞] 獨家／沈伯洋頻遭抹黑！學妹現身抱不平揭溫暖真面目",
+      "link": "/bbs/Gossiping/M.1779552571.A.270",
+      "author": "asppsa",
+      "board": "Gossiping",
+      "publishTime": "2026/05/23 16:09",
       "imageUrl": ""
     },
     {
@@ -164,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "12",
-      "recommendCount": "256",
-      "title": "[新聞] 獨家／沈伯洋頻遭抹黑！學妹現身抱不平揭溫暖真面目",
-      "link": "/bbs/Gossiping/M.1779552571.A.270",
-      "author": "asppsa",
-      "board": "Gossiping",
-      "publishTime": "2026/05/23 16:09",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "37",
       "recommendCount": "296",
       "title": "[新聞] 毒駕頻傳奪命！卓榮泰痛心下令法務部修法：朝提高刑責方向研議",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "182",
+      "recommendCount": "236",
+      "title": "[新聞] 83歲拾荒伯默默捐款逾400萬 「善的循環」感動消防弟兄",
+      "link": "/bbs/Gossiping/M.1779540486.A.367",
+      "author": "humbler",
+      "board": "Gossiping",
+      "publishTime": "2026/05/23 12:48",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "104",
       "recommendCount": "250",
       "title": "[討論] 現在兄弟象的看點剩下什麼",
@@ -191,16 +201,6 @@
       "author": "macassans",
       "board": "Baseball",
       "publishTime": "2026/05/23 13:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "181",
-      "recommendCount": "234",
-      "title": "[新聞] 83歲拾荒伯默默捐款逾400萬 「善的循環」感動消防弟兄",
-      "link": "/bbs/Gossiping/M.1779540486.A.367",
-      "author": "humbler",
-      "board": "Gossiping",
-      "publishTime": "2026/05/23 12:48",
       "imageUrl": ""
     }
   ]
