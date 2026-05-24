@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T23:36:13.110Z",
+  "updated": "2026-05-24T00:01:21.575Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "435",
-      "recommendCount": "490",
+      "recommendScore": "484",
+      "recommendCount": "547",
       "title": "[分享] 今日鄧愷威 六局無失分",
       "link": "/bbs/Baseball/M.1779568715.A.957",
       "author": "warriors30",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "259",
-      "recommendCount": "558",
+      "recommendScore": "260",
+      "recommendCount": "560",
       "title": "[新聞] 柯文哲遭無預警攻擊！後腦杓被蛋擊 他被壓制大喊「臭俗辣」",
       "link": "/bbs/Gossiping/M.1779526839.A.896",
       "author": "lycppt",
@@ -64,14 +64,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "138",
-      "recommendCount": "512",
+      "recommendScore": "139",
+      "recommendCount": "513",
       "title": "[新聞]藍白大砍國防預算!破萬人上街「挺軍購」畫面曝",
       "link": "/bbs/Gossiping/M.1779530152.A.181",
       "author": "yyyyyuuuuu",
       "board": "Gossiping",
       "publishTime": "2026/05/23 09:55",
       "imageUrl": "https://cache.pttweb.cc/imgur/ayT1vBc/s/f21ac4f042563a4748f6ea4ad78b5198"
+    },
+    {
+      "recommendScore": "211",
+      "recommendCount": "501",
+      "title": "[新聞] 網傳台積電將砍分紅？員工揚言「罷工」",
+      "link": "/bbs/Stock/M.1779550357.A.263",
+      "author": "GNZ48",
+      "board": "Stock",
+      "publishTime": "2026/05/23 15:32",
+      "imageUrl": ""
     },
     {
       "recommendScore": "299",
@@ -84,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "148",
-      "recommendCount": "420",
+      "recommendScore": "149",
+      "recommendCount": "422",
       "title": "[新聞] 沈伯洋聲量超車蔣萬安！黃暐瀚預言「得票50萬以上」：25席綠市議員全上壘",
       "link": "/bbs/Gossiping/M.1779506220.A.C9D",
       "author": "googolplex",
@@ -94,23 +104,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "312",
-      "recommendCount": "522",
+      "recommendScore": "314",
+      "recommendCount": "526",
       "title": "[討論] 幾年前的富邦球迷是怎麼熬過來的？",
       "link": "/bbs/Baseball/M.1779543803.A.BB3",
       "author": "KyrieIrving1",
       "board": "Baseball",
       "publishTime": "2026/05/23 13:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "203",
-      "recommendCount": "480",
-      "title": "[新聞] 網傳台積電將砍分紅？員工揚言「罷工」",
-      "link": "/bbs/Stock/M.1779550357.A.263",
-      "author": "GNZ48",
-      "board": "Stock",
-      "publishTime": "2026/05/23 15:32",
       "imageUrl": ""
     },
     {
@@ -124,13 +124,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "197",
-      "recommendCount": "463",
+      "recommendScore": "198",
+      "recommendCount": "464",
       "title": "[問卦] 幹！現在每天至少一毒駕？",
       "link": "/bbs/Gossiping/M.1779539791.A.C04",
       "author": "qazzxc12351",
       "board": "Gossiping",
       "publishTime": "2026/05/23 12:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "170",
+      "recommendCount": "325",
+      "title": "[新聞] 快訊／今年首例本土登革熱現蹤高雄　前鎮男發燒、肌肉痛確診",
+      "link": "/bbs/Gossiping/M.1779532548.A.AAD",
+      "author": "qazxc1156892",
+      "board": "Gossiping",
+      "publishTime": "2026/05/23 10:35",
       "imageUrl": ""
     },
     {
@@ -144,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "171",
-      "recommendCount": "322",
-      "title": "[新聞] 快訊／今年首例本土登革熱現蹤高雄　前鎮男發燒、肌肉痛確診",
-      "link": "/bbs/Gossiping/M.1779532548.A.AAD",
-      "author": "qazxc1156892",
-      "board": "Gossiping",
-      "publishTime": "2026/05/23 10:35",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "172",
       "recommendCount": "722",
       "title": "[問卦] 中國貨怎麼捲死全世界?",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "167",
-      "recommendCount": "349",
+      "recommendScore": "168",
+      "recommendCount": "350",
       "title": "[問卦] 暐瀚怎麼突然像是發瘋了",
       "link": "/bbs/Gossiping/M.1779527596.A.5CB",
       "author": "lecheck",
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "177",
-      "recommendCount": "301",
+      "recommendScore": "180",
+      "recommendCount": "307",
       "title": "[問卦] 路透社：數百人在臺北集會支持國防開支",
       "link": "/bbs/Gossiping/M.1779547414.A.344",
       "author": "zoeapezoo",
