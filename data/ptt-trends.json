@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-25T00:01:57.057Z",
+  "updated": "2026-05-25T01:19:01.658Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "513",
-      "recommendCount": "1308",
+      "recommendScore": "521",
+      "recommendCount": "1351",
       "title": "[新聞] 第一張台獨骨牌倒下？獨派「喜樂島聯盟」震撼宣示考慮統一，條件是「這件事」",
       "link": "/bbs/Gossiping/M.1779625666.A.EFC",
       "author": "a1e",
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "211",
-      "recommendCount": "771",
+      "recommendCount": "773",
       "title": "[新聞] 選舉貸款200萬！卻遭爆「股票翻倍、擁2輛特斯拉」 沈伯洋澄清：錢花刀口上",
       "link": "/bbs/Gossiping/M.1779589887.A.065",
       "author": "googolplex",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "232",
-      "recommendCount": "489",
+      "recommendCount": "490",
       "title": "[新聞] 快訊／新北保時捷男完全沒煞車狠撞燈桿",
       "link": "/bbs/Gossiping/M.1779611766.A.A88",
       "author": "qazxc1156892",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "232",
-      "recommendCount": "448",
+      "recommendScore": "237",
+      "recommendCount": "454",
       "title": "[新聞] 影音／不讓人活？室內逾35度　高雄消防隊傳禁開冷氣、切電源",
       "link": "/bbs/Gossiping/M.1779621619.A.712",
       "author": "CREA",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "268",
-      "recommendCount": "408",
+      "recommendScore": "275",
+      "recommendCount": "419",
       "title": "[爆卦] 碳基科技",
       "link": "/bbs/Gossiping/M.1779621027.A.7E6",
       "author": "TALUBAN",
@@ -74,13 +74,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "145",
-      "recommendCount": "493",
+      "recommendScore": "147",
+      "recommendCount": "500",
       "title": "[新聞] 2年買2輛特斯拉 沈伯洋：出新款「舊換新」不該被攻擊",
       "link": "/bbs/Gossiping/M.1779598378.A.903",
       "author": "keel90135",
       "board": "Gossiping",
       "publishTime": "2026/05/24 04:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "233",
+      "recommendCount": "443",
+      "title": "[新聞]外送員爬樓梯拍下送餐照再送檢舉！住戶門口放鞋櫃「噴4萬」",
+      "link": "/bbs/Gossiping/M.1779633730.A.F1E",
+      "author": "la1aco",
+      "board": "Gossiping",
+      "publishTime": "2026/05/24 14:42",
       "imageUrl": ""
     },
     {
@@ -94,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "213",
-      "recommendCount": "364",
+      "recommendScore": "215",
+      "recommendCount": "366",
       "title": "[新聞] 魯比歐：5/24宣布美伊協議 正式結束戰爭",
       "link": "/bbs/Stock/M.1779613390.A.EEC",
       "author": "chordate",
@@ -104,18 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "274",
-      "recommendCount": "369",
-      "title": "[分享] CPBL戰績",
-      "link": "/bbs/Baseball/M.1779624812.A.2B5",
-      "author": "nybbnan",
-      "board": "Baseball",
-      "publishTime": "2026/05/24 12:13",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "198",
-      "recommendCount": "417",
+      "recommendCount": "420",
       "title": "[新聞] 快訊／疑高溫熱衰竭　台北看守所2受刑人無呼吸心跳搶救中",
       "link": "/bbs/Gossiping/M.1779608002.A.ADD",
       "author": "blueadam193",
@@ -124,23 +124,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "191",
-      "recommendCount": "373",
-      "title": "[新聞]外送員爬樓梯拍下送餐照再送檢舉！住戶門口放鞋櫃「噴4萬」",
-      "link": "/bbs/Gossiping/M.1779633730.A.F1E",
-      "author": "la1aco",
-      "board": "Gossiping",
-      "publishTime": "2026/05/24 14:42",
+      "recommendScore": "273",
+      "recommendCount": "370",
+      "title": "[分享] CPBL戰績",
+      "link": "/bbs/Baseball/M.1779624812.A.2B5",
+      "author": "nybbnan",
+      "board": "Baseball",
+      "publishTime": "2026/05/24 12:13",
       "imageUrl": ""
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "633",
-      "title": "[閒聊] SquareEnix前高管：最大錯誤是讓米做原神",
-      "link": "/bbs/C_Chat/M.1779584534.A.8C3",
-      "author": "Yui5",
-      "board": "C_Chat",
-      "publishTime": "2026/05/24 01:02",
+      "recommendScore": "130",
+      "recommendCount": "423",
+      "title": "[問卦]Melody:40歲女人第一考量\"對方不能拖著我\"",
+      "link": "/bbs/Gossiping/M.1779629150.A.8B3",
+      "author": "a91153456",
+      "board": "Gossiping",
+      "publishTime": "2026/05/24 13:25",
       "imageUrl": ""
     },
     {
@@ -151,6 +151,16 @@
       "author": "msarthur",
       "board": "Elephants",
       "publishTime": "2026/05/24 10:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "50",
+      "recommendCount": "366",
+      "title": "[新聞] 毒駕頻傳奪命！卓榮泰痛心下令法務部修法：朝提高刑責方向研議",
+      "link": "/bbs/Gossiping/M.1779596861.A.5C2",
+      "author": "TPPKoWenJe",
+      "board": "Gossiping",
+      "publishTime": "2026/05/24 04:27",
       "imageUrl": ""
     },
     {
@@ -174,18 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "49",
-      "recommendCount": "364",
-      "title": "[新聞] 毒駕頻傳奪命！卓榮泰痛心下令法務部修法：朝提高刑責方向研議",
-      "link": "/bbs/Gossiping/M.1779596861.A.5C2",
-      "author": "TPPKoWenJe",
-      "board": "Gossiping",
-      "publishTime": "2026/05/24 04:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "169",
-      "recommendCount": "490",
+      "recommendScore": "170",
+      "recommendCount": "495",
       "title": "[討論] 聯盟為何要捧SGA??",
       "link": "/bbs/NBA/M.1779613125.A.8EC",
       "author": "filmystery",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "118",
-      "recommendCount": "359",
-      "title": "[問卦]Melody:40歲女人第一考量\"對方不能拖著我\"",
-      "link": "/bbs/Gossiping/M.1779629150.A.8B3",
-      "author": "a91153456",
-      "board": "Gossiping",
-      "publishTime": "2026/05/24 13:25",
+      "recommendScore": "159",
+      "recommendCount": "328",
+      "title": "[新聞] 記憶體準備跳水？美光宣布大擴產「產能翻4倍」　專家：周一可能要看到大場面",
+      "link": "/bbs/Stock/M.1779633707.A.9FD",
+      "author": "a0808996",
+      "board": "Stock",
+      "publishTime": "2026/05/24 14:41",
       "imageUrl": ""
     }
   ]
