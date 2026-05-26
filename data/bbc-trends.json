@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-26T05:37:30.876Z",
+  "updated": "2026-05-26T06:57:23.277Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-05-26T05:37:16.000Z",
+    "lastBuildDate": "2026-05-26T06:57:12.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -26,12 +26,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ec4/live/89add830-5847-11f1-9fcc-95002e18ab8a.jpg"
     },
     {
+      "title": "伊朗戰爭下，環球貨幣誰勝誰敗？",
+      "description": "美國、以色列對伊朗的軍事衝突引發全球金融市場動盪，但貨幣市場則是有人歡喜有人愁。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn8pp235vw8o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-26T06:39:04.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn8pp235vw8o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2be5/live/410aaf40-55ef-11f1-89a3-d1f559421220.jpg"
+    },
+    {
       "title": "中國15年來最嚴重煤礦事故後，民眾怒火升溫",
       "description": "在中國受到嚴密管控的互聯網上，民眾紛紛要求追究責任，並質疑事故為何會發生。",
       "link": "https://www.bbc.com/zhongwen/articles/c8jvvywlmezo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-05-25T10:33:25.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c8jvvywlmezo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1ed1/live/7ab063d0-580f-11f1-be4f-892ca05ec266.jpg"
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9a0a/live/9bc90480-58c5-11f1-89a3-d1f559421220.png"
     },
     {
       "title": "黎家盈：首位香港太空人被寄望激發民族主義浪潮",
@@ -46,7 +54,7 @@
       "description": "研究顯示，思考我們在死後會留下什麼樣的遺產，有助於改善心理健康，並讓我們在生命中找到更多意義——即使我們仍然年輕。",
       "link": "https://www.bbc.com/zhongwen/articles/crmp1mk2k82o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-05-26T00:14:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crmp1mk2k82o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/crmp1mk2k82o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/64b8/live/bba81b40-57f0-11f1-89a3-d1f559421220.jpg"
     },
     {
@@ -82,14 +90,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2e72/live/b5420d20-559c-11f1-a11d-091b34e0faa0.jpg"
     },
     {
-      "title": "足球世界盃2026：值得關注的黑馬球隊",
-      "description": "擴大規模後的賽制令很多小國也得以晉級世界盃決賽圈，以下是一些逆襲的黑馬球隊。",
-      "link": "https://www.bbc.com/zhongwen/articles/c5y98055lqwo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-24T06:56:24.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5y98055lqwo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d0c8/live/56467c10-c94d-11f0-8c06-f5d460985095.jpg"
-    },
-    {
       "title": "未來「正被推入黑暗」：從緬甸到委內瑞拉，民間如何抵抗官方網絡封鎖",
       "description": "從緬甸到委內瑞拉，在網絡封鎖頻繁的年代，民間正想方設法繞過官方網絡封鎖與打擊。",
       "link": "https://www.bbc.com/zhongwen/articles/cx21ywx9y2xo/trad?at_medium=RSS&at_campaign=rss",
@@ -98,20 +98,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fcb4/live/86667b00-4df7-11f1-aa1a-0d2841b91bc2.jpg"
     },
     {
+      "title": "足球世界盃2026：值得關注的黑馬球隊",
+      "description": "擴大規模後的賽制令很多小國也得以晉級世界盃決賽圈，以下是一些逆襲的黑馬球隊。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5y98055lqwo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-24T06:56:24.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5y98055lqwo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d0c8/live/56467c10-c94d-11f0-8c06-f5d460985095.jpg"
+    },
+    {
       "title": "法航與空中巴士被裁定須為2009年空難過失殺人負責",
       "description": "法國法院裁定，這些公司對造成 228 人死亡的空難負有責任。",
       "link": "https://www.bbc.com/zhongwen/articles/clyp8zq1zrlo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-05-22T05:05:04.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/clyp8zq1zrlo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d5b5/live/0f7f6c10-5511-11f1-9e5e-fb37d8c40e64.jpg"
-    },
-    {
-      "title": "美國起訴卡斯特羅後，古巴局勢的三種可能",
-      "description": "特朗普政府一直對古巴的共產政權施加巨大經濟壓力。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1k2gm0xx31o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-22T04:46:19.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1k2gm0xx31o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c3d/live/dc634240-553b-11f1-a125-a1007a98f90d.jpg"
     },
     {
       "title": "中國山西礦難至少82死 十七年來最致命事故",
@@ -162,6 +162,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/671d/live/60e1c5b0-5428-11f1-8b8c-6d33e1d5abb6.jpg"
     },
     {
+      "title": "美國起訴卡斯特羅後，古巴局勢的三種可能",
+      "description": "特朗普政府一直對古巴的共產政權施加巨大經濟壓力。",
+      "link": "https://www.bbc.com/zhongwen/articles/c1k2gm0xx31o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-22T04:46:19.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1k2gm0xx31o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c3d/live/dc634240-553b-11f1-a125-a1007a98f90d.jpg"
+    },
+    {
       "title": "特朗普訪華落幕：美中各取所需，台灣、關稅等未解之事走向何方？",
       "description": "當鏡頭逐漸淡出，北京與華盛頓之間的棘手問題幾乎都還留在桌上。雙方刻意釋放的「穩定」訊號能維持多久？",
       "link": "https://www.bbc.com/zhongwen/articles/czr2pjdj8ypo/trad?at_medium=RSS&at_campaign=rss",
@@ -176,14 +184,6 @@
       "pubDate": "2026-05-16T02:55:29.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c8xwr7vdk0no/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf0c/live/1b858c40-50d1-11f1-8186-db3f37d9f863.jpg"
-    },
-    {
-      "title": "紅毯、國宴、會談、台灣、黃仁勳：特朗普重返北京後的幾大關鍵時刻",
-      "description": "特朗普重返北京，與習近平展開備受矚目的元首峰會。紅毯、國宴與高規格歡迎儀式背後，真正的焦點落在AI晶片、關稅、台灣與伊朗局勢等敏感議題。馬斯克與黃仁勳罕見現身人民大會堂，也讓這場峰會充滿濃厚的科技博弈色彩。",
-      "link": "https://www.bbc.com/zhongwen/articles/ckgpdl5038ro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-14T11:48:48.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckgpdl5038ro/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/74b0/live/982558d0-4f6d-11f1-bd52-e755d604ece4.jpg"
     },
     {
       "title": "「八年貿易戰」後特朗普再訪華：打破舊平衡，還是重構新底線？",
