@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-28T22:23:46.380Z",
+  "updated": "2026-05-28T22:58:30.444Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "380",
-      "recommendCount": "1363",
+      "recommendScore": "386",
+      "recommendCount": "1384",
       "title": "[新聞] 黃仁勳4度說要有「電力」沈伯洋：印證我們講的要有變電所",
       "link": "/bbs/Gossiping/M.1779965563.A.649",
       "author": "deathdecay",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "395",
-      "recommendCount": "931",
+      "recommendScore": "397",
+      "recommendCount": "939",
       "title": "[新聞] 全民炒股「抽乾房市」　專家示警股房雙崩：一次痛10年",
       "link": "/bbs/Stock/M.1779949488.A.F50",
       "author": "diefishfish",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "457",
-      "recommendCount": "1182",
+      "recommendScore": "459",
+      "recommendCount": "1186",
       "title": "[花邊] 如果報價低於頂薪 LBJ要求湖人給出解釋",
       "link": "/bbs/NBA/M.1779950951.A.D22",
       "author": "yochiya",
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "-289",
-      "recommendCount": "600",
+      "recommendCount": "601",
       "title": "[花邊] 阿銀:我們的裁判在吹判表現很出色",
       "link": "/bbs/NBA/M.1779930751.A.5CA",
       "author": "bengowa",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "312",
-      "recommendCount": "636",
+      "recommendCount": "638",
       "title": "[新聞] T台民調輸28% 沈伯洋：我們笨鳥慢飛、投票率已衝出天際",
       "link": "/bbs/Gossiping/M.1779948690.A.8CC",
       "author": "bb10181128",
@@ -74,23 +74,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "121",
-      "recommendCount": "516",
-      "title": "[爆卦] Grace在Threads 威脅要公開柯P婚外情",
-      "link": "/bbs/Gossiping/M.1779940322.A.33E",
-      "author": "gogobar",
-      "board": "Gossiping",
-      "publishTime": "2026/05/28 03:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "254",
-      "recommendCount": "567",
+      "recommendScore": "258",
+      "recommendCount": "577",
       "title": "[問卦] 雅方道歉了!!!",
       "link": "/bbs/Gossiping/M.1779977645.A.176",
       "author": "AoyamaNanami",
       "board": "Gossiping",
       "publishTime": "2026/05/28 14:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "122",
+      "recommendCount": "517",
+      "title": "[爆卦] Grace在Threads 威脅要公開柯P婚外情",
+      "link": "/bbs/Gossiping/M.1779940322.A.33E",
+      "author": "gogobar",
+      "board": "Gossiping",
+      "publishTime": "2026/05/28 03:52",
       "imageUrl": ""
     },
     {
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "208",
-      "recommendCount": "471",
+      "recommendScore": "209",
+      "recommendCount": "472",
       "title": "[新聞] 孫安佐噴火槍風波升級為槍砲重罪 最重判10年",
       "link": "/bbs/Gossiping/M.1779957416.A.566",
       "author": "fab4312",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "210",
-      "recommendCount": "425",
+      "recommendScore": "211",
+      "recommendCount": "428",
       "title": "[爆卦] 台南烏山頭水庫水面光電板乾到落底了",
       "link": "/bbs/Gossiping/M.1779953182.A.B8F",
       "author": "olctw",
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "196",
+      "recommendCount": "376",
+      "title": "[新聞] 美國和伊朗達成延長停火協議",
+      "link": "/bbs/Stock/M.1779979342.A.8D6",
+      "author": "ppippi",
+      "board": "Stock",
+      "publishTime": "2026/05/28 14:42",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "262",
       "recommendCount": "334",
       "title": "[炸裂] 大谷翔平",
@@ -192,16 +202,6 @@
       "board": "Elephants",
       "publishTime": "2026/05/28 09:43",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "188",
-      "recommendCount": "352",
-      "title": "[問卦] 欸 備載剩8% 該緊張嗎？",
-      "link": "/bbs/Gossiping/M.1779963137.A.110",
-      "author": "orze04",
-      "board": "Gossiping",
-      "publishTime": "2026/05/28 10:12",
-      "imageUrl": "https://cache.pttweb.cc/imgur/jyelvIO/s/bcbd71823967514dccdac3662e423c9b"
     }
   ]
 }
