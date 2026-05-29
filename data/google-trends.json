@@ -1,15 +1,25 @@
 {
-  "updated": "2026-05-29T22:09:51.633Z",
+  "updated": "2026-05-29T22:59:02.639Z",
   "trends": [
     {
       "googleTrend": "半導體封裝",
-      "searchVolume": "200+",
+      "searchVolume": "500+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "1 小時前",
+      "searchVolume": "100+",
       "started": "1 小時前"
     },
     {
-      "googleTrend": "法網",
+      "googleTrend": "金融",
+      "searchVolume": "200+",
+      "started": "50 分鐘前"
+    },
+    {
+      "googleTrend": "道瓊工業平均指數",
       "searchVolume": "500+",
-      "started": "3 小時前"
+      "started": "40 分鐘前"
     },
     {
       "googleTrend": "周玉蔻",
@@ -17,22 +27,22 @@
       "started": "2 小時前"
     },
     {
-      "googleTrend": "金融",
-      "searchVolume": "200+",
-      "started": "10 分鐘前"
+      "googleTrend": "蕭旭岑",
+      "searchVolume": "100+",
+      "started": "20 分鐘前"
     },
     {
       "googleTrend": "英雄聯盟",
       "searchVolume": "100+",
-      "started": "2 小時前"
+      "started": "3 小時前"
+    },
+    {
+      "googleTrend": "國民年金",
+      "searchVolume": "200+",
+      "started": "30 分鐘前"
     },
     {
       "googleTrend": "riot",
-      "searchVolume": "100+",
-      "started": "2 小時前"
-    },
-    {
-      "googleTrend": "人工智慧",
       "searchVolume": "100+",
       "started": "3 小時前"
     },
@@ -44,7 +54,7 @@
     {
       "googleTrend": "twitch",
       "searchVolume": "100+",
-      "started": "1 小時前"
+      "started": "2 小時前"
     }
   ]
 }
