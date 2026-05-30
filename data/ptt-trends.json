@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-30T07:14:12.896Z",
+  "updated": "2026-05-30T08:09:19.096Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "421",
-      "recommendCount": "1137",
+      "recommendScore": "438",
+      "recommendCount": "1181",
       "title": "[新聞] 核四啟用發電 綠民調近8成支持",
       "link": "/bbs/Gossiping/M.1780105890.A.24F",
       "author": "ptt987654321",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "239",
-      "recommendCount": "479",
+      "recommendScore": "240",
+      "recommendCount": "482",
       "title": "[請益] 股市大漲，何時獲利了結？",
       "link": "/bbs/Stock/M.1780049048.A.FCC",
       "author": "foxher",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "296",
-      "recommendCount": "383",
+      "recommendScore": "295",
+      "recommendCount": "384",
       "title": "[情報] 115年05月29日信用交易統計",
       "link": "/bbs/Stock/M.1780061493.A.3D5",
       "author": "steward135",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "269",
-      "recommendCount": "423",
+      "recommendScore": "270",
+      "recommendCount": "424",
       "title": "[新聞] 「放鳥美智庫」大反轉！主席親向鄭麗文致歉：綠營消息人士太愚蠢",
       "link": "/bbs/Gossiping/M.1780060999.A.450",
       "author": "CREA",
@@ -64,18 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "237",
-      "recommendCount": "369",
-      "title": "[情報] 2008年以來，雷霆在主場打搶7沒輸過",
-      "link": "/bbs/NBA/M.1780041033.A.15E",
-      "author": "Kai877",
-      "board": "NBA",
-      "publishTime": "2026/05/29 07:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "74",
-      "recommendCount": "364",
+      "recommendScore": "72",
+      "recommendCount": "368",
       "title": "[新聞] 黃仁勳4度說要有「電力」 沈伯洋：印證我們講的要有變電所",
       "link": "/bbs/Gossiping/M.1780052280.A.C10",
       "author": "tsaotsaogh",
@@ -94,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "287",
-      "recommendCount": "424",
+      "recommendScore": "289",
+      "recommendCount": "426",
       "title": "[分享] 今日鄧愷威 5局7K 3ER",
       "link": "/bbs/Baseball/M.1780110341.A.FAC",
       "author": "Eric102990",
@@ -114,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-75",
+      "recommendCount": "325",
+      "title": "[討論] SGA今年奪冠的話是不是就超越Kobe了？",
+      "link": "/bbs/NBA/M.1780109047.A.9C2",
+      "author": "sth336",
+      "board": "NBA",
+      "publishTime": "2026/05/30 02:44",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "206",
       "recommendCount": "280",
       "title": "[分享]今日林書逸",
@@ -121,6 +121,26 @@
       "author": "suwagutao",
       "board": "Baseball",
       "publishTime": "2026/05/29 13:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "231",
+      "recommendCount": "316",
+      "title": "[新聞]和周星馳對罵成經典!《九品芝麻官》李公公劉洵驚傳離世",
+      "link": "/bbs/Gossiping/M.1780105566.A.309",
+      "author": "linhu8883324",
+      "board": "Gossiping",
+      "publishTime": "2026/05/30 01:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "115",
+      "recommendCount": "326",
+      "title": "[新聞] 快新聞／台北市竟傳「藍綠已翻盤」！他看民調驚吐1現象：民進黨選舉大有可為",
+      "link": "/bbs/Gossiping/M.1780056218.A.FFD",
+      "author": "iam168888888",
+      "board": "Gossiping",
+      "publishTime": "2026/05/29 12:03",
       "imageUrl": ""
     },
     {
@@ -134,48 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-68",
-      "recommendCount": "308",
-      "title": "[討論] SGA今年奪冠的話是不是就超越Kobe了？",
-      "link": "/bbs/NBA/M.1780109047.A.9C2",
-      "author": "sth336",
-      "board": "NBA",
-      "publishTime": "2026/05/30 02:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "115",
-      "recommendCount": "324",
-      "title": "[新聞] 快新聞／台北市竟傳「藍綠已翻盤」！他看民調驚吐1現象：民進黨選舉大有可為",
-      "link": "/bbs/Gossiping/M.1780056218.A.FFD",
-      "author": "iam168888888",
-      "board": "Gossiping",
-      "publishTime": "2026/05/29 12:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "223",
-      "recommendCount": "308",
-      "title": "[新聞]和周星馳對罵成經典!《九品芝麻官》李公公劉洵驚傳離世",
-      "link": "/bbs/Gossiping/M.1780105566.A.309",
-      "author": "linhu8883324",
-      "board": "Gossiping",
-      "publishTime": "2026/05/30 01:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "210",
-      "recommendCount": "297",
-      "title": "Re: [心得] 微台空軍凹單畢業 -123w",
-      "link": "/bbs/Stock/M.1780038975.A.0C3",
-      "author": "adult1219",
-      "board": "Stock",
-      "publishTime": "2026/05/29 07:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "248",
-      "recommendCount": "345",
+      "recommendScore": "257",
+      "recommendCount": "361",
       "title": "[新聞] KAT愛尼克　從林來瘋開始",
       "link": "/bbs/NBA/M.1780099498.A.DF1",
       "author": "thnlkj0665",
@@ -184,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "198",
-      "recommendCount": "268",
+      "recommendScore": "199",
+      "recommendCount": "269",
       "title": "[新聞] 藍白光誤事 洪總：我們也有經驗",
       "link": "/bbs/Baseball/M.1780065360.A.BE6",
       "author": "ruka660101",
@@ -201,6 +181,26 @@
       "author": "EstelleRinz",
       "board": "Gossiping",
       "publishTime": "2026/05/29 10:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "158",
+      "recommendCount": "294",
+      "title": "[問卦] 國軍下令：不要再稱新兵為「小朋友」！",
+      "link": "/bbs/Gossiping/M.1780054058.A.0FC",
+      "author": "pigpigcom123",
+      "board": "Gossiping",
+      "publishTime": "2026/05/29 11:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "190",
+      "recommendCount": "318",
+      "title": "[分享] CPBL戰績",
+      "link": "/bbs/Baseball/M.1780062541.A.932",
+      "author": "nybbnan",
+      "board": "Baseball",
+      "publishTime": "2026/05/29 13:49",
       "imageUrl": ""
     }
   ]
