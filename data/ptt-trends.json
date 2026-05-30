@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T12:46:39.394Z",
+  "updated": "2026-05-30T13:18:26.464Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "300",
+      "recommendCount": "572",
+      "title": "[新聞] 高雄6歲男童偷看如廁還指侵！嗆女童「告狀沒用」　教育局要查了",
+      "link": "/bbs/Gossiping/M.1780139498.A.1E9",
+      "author": "Daniel0712",
+      "board": "Gossiping",
+      "publishTime": "2026/05/30 11:11",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "384",
       "recommendCount": "606",
       "title": "[分享] 林書逸:我以為兄弟加油聲很大聲",
@@ -31,16 +41,6 @@
       "author": "micheal59",
       "board": "Baseball",
       "publishTime": "2026/05/29 14:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "250",
-      "recommendCount": "477",
-      "title": "[新聞] 高雄6歲男童偷看如廁還指侵！嗆女童「告狀沒用」　教育局要查了",
-      "link": "/bbs/Gossiping/M.1780139498.A.1E9",
-      "author": "Daniel0712",
-      "board": "Gossiping",
-      "publishTime": "2026/05/30 11:11",
       "imageUrl": ""
     },
     {
@@ -64,8 +64,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-92",
-      "recommendCount": "378",
+      "recommendScore": "78",
+      "recommendCount": "555",
+      "title": "[新聞] 股市破4萬點、青年怨分配不均 徐國勇：難道你沒有受益嗎？",
+      "link": "/bbs/Gossiping/M.1780135595.A.C88",
+      "author": "asd63312337",
+      "board": "Gossiping",
+      "publishTime": "2026/05/30 10:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-96",
+      "recommendCount": "382",
       "title": "[討論] SGA今年奪冠的話是不是就超越Kobe了？",
       "link": "/bbs/NBA/M.1780109047.A.9C2",
       "author": "sth336",
@@ -75,22 +85,12 @@
     },
     {
       "recommendScore": "129",
-      "recommendCount": "419",
+      "recommendCount": "420",
       "title": "[新聞] 黃仁勳Maybe熱議 莊瑞雄：沒變電所一樣電送不到北士科",
       "link": "/bbs/Gossiping/M.1780121116.A.E43",
       "author": "felix0616",
       "board": "Gossiping",
       "publishTime": "2026/05/30 06:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "79",
-      "recommendCount": "503",
-      "title": "[新聞] 股市破4萬點、青年怨分配不均 徐國勇：難道你沒有受益嗎？",
-      "link": "/bbs/Gossiping/M.1780135595.A.C88",
-      "author": "asd63312337",
-      "board": "Gossiping",
-      "publishTime": "2026/05/30 10:06",
       "imageUrl": ""
     },
     {
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "285",
-      "recommendCount": "394",
+      "recommendScore": "286",
+      "recommendCount": "395",
       "title": "[新聞] KAT愛尼克　從林來瘋開始",
       "link": "/bbs/NBA/M.1780099498.A.DF1",
       "author": "thnlkj0665",
@@ -124,18 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "738",
-      "recommendCount": "1445",
-      "title": "[電競] 2026 LCK Regular Season W9D4",
-      "link": "/bbs/LoL/M.1780124471.A.378",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/05/30 07:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "188",
-      "recommendCount": "331",
+      "recommendScore": "193",
+      "recommendCount": "337",
       "title": "[分享] 邦魯閣",
       "link": "/bbs/Baseball/M.1780143081.A.70F",
       "author": "tuuuurtle",
@@ -144,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "240",
-      "recommendCount": "326",
+      "recommendScore": "242",
+      "recommendCount": "328",
       "title": "[新聞]和周星馳對罵成經典!《九品芝麻官》李公公劉洵驚傳離世",
       "link": "/bbs/Gossiping/M.1780105566.A.309",
       "author": "linhu8883324",
@@ -174,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "708",
+      "recommendCount": "1445",
+      "title": "[電競] 2026 LCK Regular Season W9D4",
+      "link": "/bbs/LoL/M.1780124471.A.378",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/05/30 07:01",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "200",
       "recommendCount": "270",
       "title": "[新聞] 藍白光誤事 洪總：我們也有經驗",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "195",
-      "recommendCount": "618",
+      "recommendScore": "198",
+      "recommendCount": "625",
       "title": "[討論] 歷史有球員生涯第三年問鼎聯盟第一人嗎",
       "link": "/bbs/NBA/M.1780119595.A.818",
       "author": "k7202001",
