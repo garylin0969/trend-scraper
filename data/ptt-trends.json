@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T19:03:42.252Z",
+  "updated": "2026-05-30T19:40:33.071Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "455",
-      "recommendCount": "834",
+      "recommendScore": "456",
+      "recommendCount": "838",
       "title": "[新聞] 高雄6歲男童偷看如廁還指侵！嗆女童「告狀沒用」　教育局要查了",
       "link": "/bbs/Gossiping/M.1780139498.A.1E9",
       "author": "Daniel0712",
@@ -24,18 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "439",
-      "recommendCount": "466",
-      "title": "[情報] Guardians Select Stuart Fairchild",
-      "link": "/bbs/Baseball/M.1780081816.A.6E6",
-      "author": "sam9595",
-      "board": "Baseball",
-      "publishTime": "2026/05/29 19:10",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "96",
-      "recommendCount": "675",
+      "recommendCount": "679",
       "title": "[新聞] 股市破4萬點、青年怨分配不均 徐國勇：難道你沒有受益嗎？",
       "link": "/bbs/Gossiping/M.1780135595.A.C88",
       "author": "asd63312337",
@@ -44,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-108",
-      "recommendCount": "405",
+      "recommendScore": "-109",
+      "recommendCount": "406",
       "title": "[討論] SGA今年奪冠的話是不是就超越Kobe了？",
       "link": "/bbs/NBA/M.1780109047.A.9C2",
       "author": "sth336",
@@ -65,7 +55,7 @@
     },
     {
       "recommendScore": "146",
-      "recommendCount": "461",
+      "recommendCount": "463",
       "title": "[問卦] 台灣男女聯誼的條件也太噁？",
       "link": "/bbs/Gossiping/M.1780115960.A.27D",
       "author": "rick102233",
@@ -84,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "240",
+      "recommendCount": "412",
+      "title": "[心得] 記憶體空軍 畢業文",
+      "link": "/bbs/Stock/M.1780151896.A.194",
+      "author": "jack561029",
+      "board": "Stock",
+      "publishTime": "2026/05/30 14:38",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "199",
       "recommendCount": "345",
       "title": "[分享] 邦魯閣",
@@ -94,16 +94,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "234",
-      "recommendCount": "402",
-      "title": "[心得] 記憶體空軍 畢業文",
-      "link": "/bbs/Stock/M.1780151896.A.194",
-      "author": "jack561029",
-      "board": "Stock",
-      "publishTime": "2026/05/30 14:38",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "296",
       "recommendCount": "434",
       "title": "[分享] 今日鄧愷威 5局7K 3ER",
@@ -111,6 +101,16 @@
       "author": "Eric102990",
       "board": "Baseball",
       "publishTime": "2026/05/30 03:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "828",
+      "recommendCount": "1499",
+      "title": "[歐冠] PSG v Arsenal 決賽",
+      "link": "/bbs/FAPL/M.1780152895.A.875",
+      "author": "GoodMayor",
+      "board": "FAPL",
+      "publishTime": "2026/05/30 14:54",
       "imageUrl": ""
     },
     {
@@ -134,13 +134,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "826",
-      "recommendCount": "1499",
-      "title": "[歐冠] PSG v Arsenal 決賽",
-      "link": "/bbs/FAPL/M.1780152895.A.875",
-      "author": "GoodMayor",
-      "board": "FAPL",
-      "publishTime": "2026/05/30 14:54",
+      "recommendScore": "180",
+      "recommendCount": "509",
+      "title": "[問卦] 台灣什麼時候開始不再尊師重道了？",
+      "link": "/bbs/Gossiping/M.1780144618.A.B55",
+      "author": "smallplug",
+      "board": "Gossiping",
+      "publishTime": "2026/05/30 12:36",
       "imageUrl": ""
     },
     {
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "175",
-      "recommendCount": "500",
-      "title": "[問卦] 台灣什麼時候開始不再尊師重道了？",
-      "link": "/bbs/Gossiping/M.1780144618.A.B55",
-      "author": "smallplug",
-      "board": "Gossiping",
-      "publishTime": "2026/05/30 12:36",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "753",
       "recommendCount": "1499",
       "title": "[分享] 今日先發",
@@ -184,8 +174,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/4YeMxvj/s/76e466bc79c9abb306da4770960967e9"
     },
     {
-      "recommendScore": "202",
-      "recommendCount": "357",
+      "recommendScore": "204",
+      "recommendCount": "359",
       "title": "Re: [新聞] 高雄師墜樓網炸鍋！校長再發公開信「不算是霸凌」：皆捕風捉影",
       "link": "/bbs/Gossiping/M.1780128738.A.7CC",
       "author": "Tsucomi69",
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-199",
-      "recommendCount": "884",
+      "recommendScore": "-200",
+      "recommendCount": "886",
       "title": "[情報] 嘉義東石烤蚵200元吃到飽",
       "link": "/bbs/Lifeismoney/M.1780092722.A.E10",
       "author": "NEWOLD",
       "board": "Lifeismoney",
       "publishTime": "2026/05/29 22:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "227",
+      "recommendCount": "247",
+      "title": "Re: [LIVE] MLB 亞歷桑那響尾蛇@西雅圖水手 場中",
+      "link": "/bbs/SportLottery/M.1780116522.A.854",
+      "author": "lampar5566",
+      "board": "SportLottery",
+      "publishTime": "2026/05/30 04:48",
       "imageUrl": ""
     }
   ]
