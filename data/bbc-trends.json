@@ -1,14 +1,22 @@
 {
-  "updated": "2026-05-31T08:19:46.784Z",
+  "updated": "2026-05-31T09:39:34.707Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-05-31T08:19:33.000Z",
+    "lastBuildDate": "2026-05-31T09:39:32.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "日本防務大臣香格里拉對話會上否認新軍國主義，並批評中國「龐大武器庫」",
+      "description": "在新加坡峰會開始前一天，中國國防部發言人蔣斌警告稱，「重新軍事化的日本這頭『灰犀牛』正加速逼近」，並呼籲國際社會「共同遏制日本的新軍國主義」。",
+      "link": "https://www.bbc.com/zhongwen/articles/cz92z48dkn5o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-31T08:28:16.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cz92z48dkn5o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cc54/live/a59b3430-5cc9-11f1-8050-3fdb76d6b72b.jpg"
+    },
     {
       "title": "法拉利寄望首款純電車Luce迎戰中國品牌，卻引來批評",
       "description": "有網民形容它是「怪物」，另一人則寫道：「恩佐・法拉利會從墳墓裡爬出來重新接管公司。」",
@@ -26,14 +34,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/70a7/live/009c0ac0-5a3c-11f1-8b8c-6d33e1d5abb6.jpg"
     },
     {
-      "title": "美英澳三國防長宣佈共同研發無人潛航器",
-      "description": "這項技術是在奧庫斯合作條約下開發的，旨在保護海底電纜並加強海軍防禦。",
-      "link": "https://www.bbc.com/zhongwen/articles/c0426q4kgq9o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-31T05:56:22.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c0426q4kgq9o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0891/live/b13d4110-5c1b-11f1-92d1-ab2daf594570.jpg"
-    },
-    {
       "title": "美國「失控」的小費文化是否正在向海外蔓延？",
       "description": "隨著美國服務生在收到低於20%的小費時感到不滿，其他地區的小費金額也正在上升。",
       "link": "https://www.bbc.com/zhongwen/articles/cy82w2e91dwo/trad?at_medium=RSS&at_campaign=rss",
@@ -42,12 +42,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b48/live/fcd95050-5770-11f1-907e-c389fdeeba6e.jpg"
     },
     {
-      "title": "醫生稱報告顯示特朗普健康狀況極佳，美國總統體檢是否已成公關活動",
-      "description": "在經歷一段相對年輕總統的時期後美國接連選出了兩位史上最年長的總統。這使公眾對總統年度體檢報告的關注大幅升溫。",
-      "link": "https://www.bbc.com/zhongwen/articles/czj2zvlmg2do/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-31T05:07:31.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/czj2zvlmg2do/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7754/live/e233ead0-5c48-11f1-8b8c-6d33e1d5abb6.jpg"
+      "title": "美英澳三國防長宣佈共同研發無人潛航器",
+      "description": "這項技術是在奧庫斯合作條約下開發的，旨在保護海底電纜並加強海軍防禦。",
+      "link": "https://www.bbc.com/zhongwen/articles/c0426q4kgq9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-31T05:56:22.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c0426q4kgq9o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0891/live/b13d4110-5c1b-11f1-92d1-ab2daf594570.jpg"
     },
     {
       "title": "法國網球公開賽：被拒絕握手的王欣瑜，做錯了什麼？",
@@ -64,6 +64,14 @@
       "pubDate": "2026-05-29T09:36:55.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn9pny999jyo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7920/live/32314f50-5b36-11f1-9a6c-c14292377fff.jpg"
+    },
+    {
+      "title": "醫生稱報告顯示特朗普健康狀況極佳，美國總統體檢是否已成公關活動",
+      "description": "在經歷一段相對年輕總統的時期後美國接連選出了兩位史上最年長的總統。這使公眾對總統年度體檢報告的關注大幅升溫。",
+      "link": "https://www.bbc.com/zhongwen/articles/czj2zvlmg2do/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-31T05:07:31.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/czj2zvlmg2do/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7754/live/e233ead0-5c48-11f1-8b8c-6d33e1d5abb6.jpg"
     },
     {
       "title": "台灣推3800億「生育福利」，能否扭轉少子化？",
@@ -104,14 +112,6 @@
       "pubDate": "2026-05-28T06:07:41.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c0r2yx01g5go/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7c73/live/3f32dc60-58ec-11f1-8409-e1d7d8df4ed8.jpg"
-    },
-    {
-      "title": "中國男裝女穿潮：為何更多女性轉向購買男裝？",
-      "description": "有女性消費者認為同等價位的男裝面料、做工和尺碼對自己更為友好。業內人士透露成本壓力近年來導致女裝供應出現了調整。",
-      "link": "https://www.bbc.com/zhongwen/articles/cy42ew4lpeyo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-28T04:20:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cy42ew4lpeyo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/65ad/live/199c73d0-5a3b-11f1-b808-c16e614cfb67.jpg"
     },
     {
       "title": "突破防火長城：中國、伊朗、緬甸、委內瑞拉民間如何抵抗網絡封鎖？",
@@ -194,6 +194,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf0c/live/1b858c40-50d1-11f1-8186-db3f37d9f863.jpg"
     },
     {
+      "title": "中國男裝女穿潮：為何更多女性轉向購買男裝？",
+      "description": "有女性消費者認為同等價位的男裝面料、做工和尺碼對自己更為友好。業內人士透露成本壓力近年來導致女裝供應出現了調整。",
+      "link": "https://www.bbc.com/zhongwen/articles/cy42ew4lpeyo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-28T04:20:25.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cy42ew4lpeyo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/65ad/live/199c73d0-5a3b-11f1-b808-c16e614cfb67.jpg"
+    },
+    {
       "title": "伊朗戰爭下，環球貨幣誰勝誰敗？",
       "description": "美國、以色列對伊朗的軍事衝突引發全球金融市場動盪，但貨幣市場則是有人歡喜有人愁。",
       "link": "https://www.bbc.com/zhongwen/articles/cn8pp235vw8o/trad?at_medium=RSS&at_campaign=rss",
@@ -216,14 +224,6 @@
       "pubDate": "2026-05-22T08:52:03.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cm2prj02pdgo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2e72/live/b5420d20-559c-11f1-a11d-091b34e0faa0.jpg"
-    },
-    {
-      "title": "特朗普前腳離開，普京後腳抵京：兩場訪問背後的中國外交密碼",
-      "description": "習近平如何用兩場截然不同的接待，展示中國在中美俄之間的新角色？",
-      "link": "https://www.bbc.com/zhongwen/articles/c8d80qm6jllo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-20T09:16:10.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c8d80qm6jllo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/020d/live/172263e0-542c-11f1-89a3-d1f559421220.jpg"
     },
     {
       "title": "從「定義台獨」到「有所收斂」的演說：賴清德如何論述台灣主權？",
