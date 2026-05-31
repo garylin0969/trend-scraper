@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T20:41:49.325Z",
+  "updated": "2026-05-31T21:13:04.029Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -11,7 +11,7 @@
       "author": "poloyabi",
       "board": "NBA",
       "publishTime": "2026/05/31 02:49",
-      "imageUrl": ""
+      "imageUrl": "https://cache.pttweb.cc/imgur/EFokwmK/s/870868a6649be3557af66c297428bb6c"
     },
     {
       "recommendScore": "1016",
@@ -54,8 +54,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/EFokwmK/s/870868a6649be3557af66c297428bb6c"
     },
     {
-      "recommendScore": "386",
-      "recommendCount": "920",
+      "recommendScore": "387",
+      "recommendCount": "922",
       "title": "[新聞] 韓媒：台灣半導體經濟輝煌下 存在「乞丐超人」陰影",
       "link": "/bbs/Stock/M.1780217496.A.6F1",
       "author": "paericsson",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "445",
-      "recommendCount": "757",
+      "recommendCount": "758",
       "title": "Re: [新聞] 烏山頭水庫驚見「中國製」光電板",
       "link": "/bbs/Gossiping/M.1780208218.A.737",
       "author": "olctw",
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "271",
+      "recommendCount": "367",
+      "title": "[爆卦] 我剛剛",
+      "link": "/bbs/Gossiping/M.1780237783.A.2B8",
+      "author": "hsundo",
+      "board": "Gossiping",
+      "publishTime": "2026/05/31 14:29",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "265",
       "recommendCount": "475",
       "title": "[討論] 所以 Fox 到底重不重要",
@@ -191,16 +201,6 @@
       "author": "nightwing",
       "board": "Gossiping",
       "publishTime": "2026/05/30 23:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "269",
-      "recommendCount": "362",
-      "title": "[爆卦] 我剛剛",
-      "link": "/bbs/Gossiping/M.1780237783.A.2B8",
-      "author": "hsundo",
-      "board": "Gossiping",
-      "publishTime": "2026/05/31 14:29",
       "imageUrl": ""
     }
   ]
