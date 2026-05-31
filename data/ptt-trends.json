@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-31T05:18:18.412Z",
+  "updated": "2026-05-31T06:42:41.151Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "1176",
+      "recommendScore": "1175",
       "recommendCount": "1487",
       "title": "[發錢] 恭喜馬刺 雷霆再見",
       "link": "/bbs/NBA/M.1780195748.A.0C0",
@@ -14,7 +14,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "1006",
+      "recommendScore": "1015",
       "recommendCount": "1388",
       "title": "[BOX ] Spurs 111:103 Thunder (SAS 4-3 OKC)",
       "link": "/bbs/NBA/M.1780195718.A.E28",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "722",
-      "recommendCount": "903",
+      "recommendScore": "752",
+      "recommendCount": "941",
       "title": "[發錢] 輸P幣不要難過嘛 我這不是來了嗎",
       "link": "/bbs/NBA/M.1780196277.A.02D",
       "author": "ZIDENS",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "570",
-      "recommendCount": "794",
+      "recommendScore": "582",
+      "recommendCount": "812",
       "title": "[發錢] 搶七超精彩的啦! 馬刺西冠RRR",
       "link": "/bbs/NBA/M.1780196042.A.488",
       "author": "openbestbook",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-126",
-      "recommendCount": "900",
+      "recommendScore": "-130",
+      "recommendCount": "914",
       "title": "[花邊] 富保羅：皮朋拿掉，MJ的冠軍賽戰績會0-6",
       "link": "/bbs/NBA/M.1780159177.A.107",
       "author": "Kai877",
@@ -74,8 +74,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "327",
-      "recommendCount": "550",
+      "recommendScore": "306",
+      "recommendCount": "662",
+      "title": "[爆卦] 原來罵李多慧的DEI女權長這樣！",
+      "link": "/bbs/Gossiping/M.1780194130.A.863",
+      "author": "laowa",
+      "board": "Gossiping",
+      "publishTime": "2026/05/31 02:22",
+      "imageUrl": "https://cache.pttweb.cc/imgur/EFokwmK/s/870868a6649be3557af66c297428bb6c"
+    },
+    {
+      "recommendScore": "333",
+      "recommendCount": "557",
       "title": "[心得] 記憶體空軍 畢業文",
       "link": "/bbs/Stock/M.1780151896.A.194",
       "author": "jack561029",
@@ -84,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "265",
-      "recommendCount": "452",
-      "title": "[情報] Wemby拿下西區FMVP",
-      "link": "/bbs/NBA/M.1780196298.A.BC9",
-      "author": "love1500274",
-      "board": "NBA",
-      "publishTime": "2026/05/31 02:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "219",
-      "recommendCount": "505",
+      "recommendScore": "234",
+      "recommendCount": "528",
       "title": "[討論] 雷霆還能怎麼補強才能過馬刺??",
       "link": "/bbs/NBA/M.1780197136.A.9B2",
       "author": "sdfsonic",
@@ -104,18 +104,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-169",
-      "recommendCount": "419",
-      "title": "[花邊] 斑馬肘擊哈疼後買飯",
-      "link": "/bbs/NBA/M.1780193463.A.F14",
-      "author": "liefuchen",
+      "recommendScore": "273",
+      "recommendCount": "462",
+      "title": "[情報] Wemby拿下西區FMVP",
+      "link": "/bbs/NBA/M.1780196298.A.BC9",
+      "author": "love1500274",
       "board": "NBA",
-      "publishTime": "2026/05/31 02:11",
+      "publishTime": "2026/05/31 02:58",
       "imageUrl": ""
     },
     {
-      "recommendScore": "237",
-      "recommendCount": "378",
+      "recommendScore": "244",
+      "recommendCount": "386",
       "title": "[花邊] Sochan確定會拿冠軍戒指",
       "link": "/bbs/NBA/M.1780196046.A.8A4",
       "author": "dragon803",
@@ -124,8 +124,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "209",
-      "recommendCount": "622",
+      "recommendScore": "-171",
+      "recommendCount": "421",
+      "title": "[花邊] 斑馬肘擊哈疼後買飯",
+      "link": "/bbs/NBA/M.1780193463.A.F14",
+      "author": "liefuchen",
+      "board": "NBA",
+      "publishTime": "2026/05/31 02:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "208",
+      "recommendCount": "623",
       "title": "[問卦] 台灣什麼時候開始不再尊師重道了？",
       "link": "/bbs/Gossiping/M.1780144618.A.B55",
       "author": "smallplug",
@@ -144,48 +154,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/sICzxnc/s/e9eee401f68581841b531bb2ae42f5e8"
     },
     {
-      "recommendScore": "139",
-      "recommendCount": "450",
-      "title": "[新聞] 黃仁勳Maybe熱議 莊瑞雄：沒變電所一樣電送不到北士科",
-      "link": "/bbs/Gossiping/M.1780121116.A.E43",
-      "author": "felix0616",
+      "recommendScore": "301",
+      "recommendCount": "964",
+      "title": "[新聞] 桃市「可負擔住宅」 半價買永久居住權",
+      "link": "/bbs/Gossiping/M.1780189512.A.FE6",
+      "author": "kinki999",
       "board": "Gossiping",
-      "publishTime": "2026/05/30 06:05",
+      "publishTime": "2026/05/31 01:05",
       "imageUrl": ""
     },
     {
-      "recommendScore": "233",
-      "recommendCount": "507",
-      "title": "[爆卦] 原來罵李多慧的DEI女權長這樣！",
-      "link": "/bbs/Gossiping/M.1780194130.A.863",
-      "author": "laowa",
-      "board": "Gossiping",
-      "publishTime": "2026/05/31 02:22",
-      "imageUrl": "https://cache.pttweb.cc/imgur/EFokwmK/s/870868a6649be3557af66c297428bb6c"
-    },
-    {
-      "recommendScore": "193",
-      "recommendCount": "446",
-      "title": "[新聞] 核三標書僅用中文 台電稱合法",
-      "link": "/bbs/Gossiping/M.1780182387.A.B77",
-      "author": "nightwing",
-      "board": "Gossiping",
-      "publishTime": "2026/05/30 23:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "231",
-      "recommendCount": "404",
-      "title": "[情報] 西決Chet Holmgren場均10.7分7.1板",
-      "link": "/bbs/NBA/M.1780197000.A.62E",
-      "author": "c27932589",
-      "board": "NBA",
-      "publishTime": "2026/05/31 03:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/GMo1kP4/s/d4d787c2f8a2b85f0eac1786466f6b44"
-    },
-    {
-      "recommendScore": "-104",
-      "recommendCount": "346",
+      "recommendScore": "-115",
+      "recommendCount": "373",
       "title": "[討論] 雷霆王朝被終結了嗎？",
       "link": "/bbs/NBA/M.1780197226.A.7AD",
       "author": "Kazmier",
@@ -194,14 +174,34 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "199",
-      "recommendCount": "345",
-      "title": "[分享] 邦魯閣",
-      "link": "/bbs/Baseball/M.1780143081.A.70F",
-      "author": "tuuuurtle",
-      "board": "Baseball",
-      "publishTime": "2026/05/30 12:11",
+      "recommendScore": "241",
+      "recommendCount": "439",
+      "title": "[討論] 所以 Fox 到底重不重要",
+      "link": "/bbs/NBA/M.1780197934.A.A85",
+      "author": "suebard2000",
+      "board": "NBA",
+      "publishTime": "2026/05/31 03:25",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "201",
+      "recommendCount": "472",
+      "title": "[新聞] 核三標書僅用中文 台電稱合法",
+      "link": "/bbs/Gossiping/M.1780182387.A.B77",
+      "author": "nightwing",
+      "board": "Gossiping",
+      "publishTime": "2026/05/30 23:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "233",
+      "recommendCount": "409",
+      "title": "[情報] 西決Chet Holmgren場均10.7分7.1板",
+      "link": "/bbs/NBA/M.1780197000.A.62E",
+      "author": "c27932589",
+      "board": "NBA",
+      "publishTime": "2026/05/31 03:10",
+      "imageUrl": "https://cache.pttweb.cc/imgur/GMo1kP4/s/d4d787c2f8a2b85f0eac1786466f6b44"
     }
   ]
 }
