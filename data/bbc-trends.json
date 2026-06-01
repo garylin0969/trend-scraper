@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-01T05:53:58.986Z",
+  "updated": "2026-06-01T08:11:15.339Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-06-01T05:53:42.000Z",
+    "lastBuildDate": "2026-06-01T08:11:07.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -16,6 +16,22 @@
       "pubDate": "2026-06-01T04:27:30.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ckgpj127y4mo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2489/live/d26bb2d0-5b54-11f1-a62b-2f41c7c3a318.jpg"
+    },
+    {
+      "title": "金正恩為何從未談及其母親",
+      "description": "朝鮮很少有人知道她的存在，因為她的出身可能會威脅到政權的合法性。",
+      "link": "https://www.bbc.com/zhongwen/articles/c3e2ljjxj8no/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-01T06:36:20.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3e2ljjxj8no/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5020/live/310dfe20-5037-11f1-89a3-d1f559421220.png"
+    },
+    {
+      "title": "澳門十歲男童致命交通意外，為何引發社會公憤與集體哀悼",
+      "description": "這是澳門近年一宗引發全城關注，以及上升至特首回應的社會事件。有澳門網民表示，獻花除了悼念小朋友，也想向社會「發聲」。",
+      "link": "https://www.bbc.com/zhongwen/articles/cz928gw40qlo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-01T07:51:14.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cz928gw40qlo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/387a/live/95a83400-5d88-11f1-9eb5-ab3a963c44d3.jpg"
     },
     {
       "title": "普京如何成為形象操控大師？",
@@ -38,16 +54,8 @@
       "description": "在新加坡峰會開始前一天，中國國防部發言人蔣斌警告稱，「重新軍事化的日本這頭『灰犀牛』正加速逼近」，並呼籲國際社會「共同遏制日本的新軍國主義」。",
       "link": "https://www.bbc.com/zhongwen/articles/cz92z48dkn5o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-05-31T08:28:16.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cz92z48dkn5o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cz92z48dkn5o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cc54/live/a59b3430-5cc9-11f1-8050-3fdb76d6b72b.jpg"
-    },
-    {
-      "title": "美國「失控」的小費文化是否正在向海外蔓延？",
-      "description": "隨著美國服務生在收到低於20%的小費時感到不滿，其他地區的小費金額也正在上升。",
-      "link": "https://www.bbc.com/zhongwen/articles/cy82w2e91dwo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-31T02:08:38.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cy82w2e91dwo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b48/live/fcd95050-5770-11f1-907e-c389fdeeba6e.jpg"
     },
     {
       "title": "鄭麗文訪美：釋疑國民黨立場，還是佈局2028總統選戰？",
@@ -56,6 +64,14 @@
       "pubDate": "2026-05-29T09:36:55.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn9pny999jyo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7920/live/32314f50-5b36-11f1-9a6c-c14292377fff.jpg"
+    },
+    {
+      "title": "美國「失控」的小費文化是否正在向海外蔓延？",
+      "description": "隨著美國服務生在收到低於20%的小費時感到不滿，其他地區的小費金額也正在上升。",
+      "link": "https://www.bbc.com/zhongwen/articles/cy82w2e91dwo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-31T02:08:38.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cy82w2e91dwo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b48/live/fcd95050-5770-11f1-907e-c389fdeeba6e.jpg"
     },
     {
       "title": "日本飛驒山難倖存港人：如果再選一次，我會不去",
@@ -82,36 +98,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eda2/live/10992360-5a49-11f1-a7f6-656c5ce9b72d.jpg"
     },
     {
-      "title": "法國網球公開賽：被拒絕握手的王欣瑜，做錯了什麼？",
-      "description": "在堅持不使用電子線審和「鷹眼」挑戰制度的法網賽場，類似的爭議仍然會是比賽的一部分。",
-      "link": "https://www.bbc.com/zhongwen/articles/c3w20432v3zo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-29T08:34:23.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3w20432v3zo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc60/live/ad703df0-5b33-11f1-adc4-274fecea7050.jpg"
-    },
-    {
-      "title": "醫生稱報告顯示特朗普健康狀況極佳，美國總統體檢是否已成公關活動",
-      "description": "在經歷一段相對年輕總統的時期後美國接連選出了兩位史上最年長的總統。這使公眾對總統年度體檢報告的關注大幅升溫。",
-      "link": "https://www.bbc.com/zhongwen/articles/czj2zvlmg2do/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-31T05:07:31.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/czj2zvlmg2do/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7754/live/e233ead0-5c48-11f1-8b8c-6d33e1d5abb6.jpg"
-    },
-    {
-      "title": "「飛機突然跳到一千英里外」：擾亂航空旅行的GPS暗戰",
-      "description": "數據顯示，干擾衛星訊號並迷惑飛機的GPS欺騙正變得越來越普遍。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1d2146r1ezo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-29T06:25:19.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1d2146r1ezo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e66f/live/d236b1a0-5abb-11f1-b682-cf91850925ea.png"
-    },
-    {
       "title": "光纖無人機：學自烏克蘭戰場，成了黎真主黨攻擊以色列的新武器",
       "description": "這些無人機裝載炸藥，低空飛行，而且沒有無線電訊號，因此無法被以色列軍方干擾。它們透過一條細小的光纖線與操作員連接，使操作者能夠看見並追蹤地面目標。",
       "link": "https://www.bbc.com/zhongwen/articles/cvgz7pp4gkgo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-05-29T05:36:30.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cvgz7pp4gkgo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0c63/live/e5a53b30-5a84-11f1-b721-e3714617440a.jpg"
+    },
+    {
+      "title": "法國網球公開賽：被拒絕握手的王欣瑜，做錯了什麼？",
+      "description": "在堅持不使用電子線審和「鷹眼」挑戰制度的法網賽場，類似的爭議仍然會是比賽的一部分。",
+      "link": "https://www.bbc.com/zhongwen/articles/c3w20432v3zo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-29T08:34:23.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3w20432v3zo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc60/live/ad703df0-5b33-11f1-adc4-274fecea7050.jpg"
     },
     {
       "title": "突破防火長城：中國、伊朗、緬甸、委內瑞拉民間如何抵抗網絡封鎖？",
@@ -154,6 +154,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0621/live/c90e18b0-4ae0-11f1-b55d-0f258dce1735.jpg"
     },
     {
+      "title": "醫生稱報告顯示特朗普健康狀況極佳，美國總統體檢是否已成公關活動",
+      "description": "在經歷一段相對年輕總統的時期後美國接連選出了兩位史上最年長的總統。這使公眾對總統年度體檢報告的關注大幅升溫。",
+      "link": "https://www.bbc.com/zhongwen/articles/czj2zvlmg2do/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-31T05:07:31.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/czj2zvlmg2do/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7754/live/e233ead0-5c48-11f1-8b8c-6d33e1d5abb6.jpg"
+    },
+    {
       "title": "美國和伊朗是接近和平，還是正在滑向戰爭深淵？",
       "description": "儘管最近發生了相互空襲，但雙方似乎都無意恢復全面衝突。",
       "link": "https://www.bbc.com/zhongwen/articles/c1521vl09yko/trad?at_medium=RSS&at_campaign=rss",
@@ -168,14 +176,6 @@
       "pubDate": "2026-05-27T03:17:53.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c0l2yw2wd24o/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f0ed/live/68ae94b0-597a-11f1-89a3-d1f559421220.jpg"
-    },
-    {
-      "title": "特朗普指示談判代表「不要急於與伊朗達成協議」 油價大幅下跌",
-      "description": "據美國媒體報道，正在討論的協議包括將停火期限延長60天，在此期間將重新開放霍爾木茲海峽。",
-      "link": "https://www.bbc.com/zhongwen/articles/ckgpxkg35kwo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-25T03:26:10.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckgpxkg35kwo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a16c/live/d497f740-57a7-11f1-9a13-456ad0ca259e.jpg"
     },
     {
       "title": "解讀「中美建設性戰略穩定關係」：習近平新詞反映兩國關係現實境遇",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3a0a/live/d99d4fb0-36d7-11f1-9d5c-8ba507d7dbde.jpg"
     },
     {
+      "title": "「飛機突然跳到一千英里外」：擾亂航空旅行的GPS暗戰",
+      "description": "數據顯示，干擾衛星訊號並迷惑飛機的GPS欺騙正變得越來越普遍。",
+      "link": "https://www.bbc.com/zhongwen/articles/c1d2146r1ezo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-29T06:25:19.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1d2146r1ezo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e66f/live/d236b1a0-5abb-11f1-b682-cf91850925ea.png"
+    },
+    {
       "title": "極端高溫已在春季來襲，為什麼氣溫紀錄屢被大幅刷新？",
       "description": "熱穹和氣候變遷的共同作用為西歐帶來了極端高溫。",
       "link": "https://www.bbc.com/zhongwen/articles/cze29gx2z09o/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2026-05-27T00:24:03.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ceqppvxvrn5o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cfd1/live/8909cad0-55e8-11f1-b682-cf91850925ea.jpg"
-    },
-    {
-      "title": "人在死後會被記住什麼？現在思考你的遺產可能對你有益",
-      "description": "研究顯示，思考我們在死後會留下什麼樣的遺產，有助於改善心理健康，並讓我們在生命中找到更多意義——即使我們仍然年輕。",
-      "link": "https://www.bbc.com/zhongwen/articles/crmp1mk2k82o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-26T00:14:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crmp1mk2k82o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/64b8/live/bba81b40-57f0-11f1-89a3-d1f559421220.jpg"
     }
   ]
 }
