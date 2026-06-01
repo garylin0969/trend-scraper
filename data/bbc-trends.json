@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-01T00:06:52.901Z",
+  "updated": "2026-06-01T01:26:30.348Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-06-01T00:06:44.000Z",
+    "lastBuildDate": "2026-06-01T01:26:24.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -16,6 +16,14 @@
       "pubDate": "2026-05-31T08:28:16.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cz92z48dkn5o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cc54/live/a59b3430-5cc9-11f1-8050-3fdb76d6b72b.jpg"
+    },
+    {
+      "title": "普京如何成為形象操控大師？",
+      "description": "從神秘的克格勃特工到戰時統治者，普京一次又一次重塑自己的形象和自我。",
+      "link": "https://www.bbc.com/zhongwen/articles/cg4p93k2rv9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-01T00:27:21.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cg4p93k2rv9o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3f9e/live/3997c490-5b68-11f1-89a3-d1f559421220.jpg"
     },
     {
       "title": "法拉利寄望首款純電車Luce迎戰中國品牌，卻引來批評",
@@ -46,7 +54,7 @@
       "description": "這項技術是在奧庫斯合作條約下開發的，旨在保護海底電纜並加強海軍防禦。",
       "link": "https://www.bbc.com/zhongwen/articles/c0426q4kgq9o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-05-31T05:56:22.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c0426q4kgq9o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c0426q4kgq9o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0891/live/b13d4110-5c1b-11f1-92d1-ab2daf594570.jpg"
     },
     {
@@ -82,14 +90,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f570/live/b23e9540-5b3b-11f1-9a6c-c14292377fff.jpg"
     },
     {
-      "title": "美國和伊朗是接近和平，還是正在滑向戰爭深淵？",
-      "description": "儘管最近發生了相互空襲，但雙方似乎都無意恢復全面衝突。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1521vl09yko/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-29T04:33:44.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1521vl09yko/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4b47/live/14febc40-5a9d-11f1-8b8c-6d33e1d5abb6.jpg"
-    },
-    {
       "title": "「飛機突然跳到一千英里外」：擾亂航空旅行的GPS暗戰",
       "description": "數據顯示，干擾衛星訊號並迷惑飛機的GPS欺騙正變得越來越普遍。",
       "link": "https://www.bbc.com/zhongwen/articles/c1d2146r1ezo/trad?at_medium=RSS&at_campaign=rss",
@@ -98,20 +98,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e66f/live/d236b1a0-5abb-11f1-b682-cf91850925ea.png"
     },
     {
-      "title": "光纖無人機：學自烏克蘭戰場，成了黎真主黨攻擊以色列的新武器",
-      "description": "這些無人機裝載炸藥，低空飛行，而且沒有無線電訊號，因此無法被以色列軍方干擾。它們透過一條細小的光纖線與操作員連接，使操作者能夠看見並追蹤地面目標。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgz7pp4gkgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-29T05:36:30.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgz7pp4gkgo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0c63/live/e5a53b30-5a84-11f1-b721-e3714617440a.jpg"
-    },
-    {
       "title": "世界汽車製造商正努力與中國競爭",
       "description": "BBC走訪了中國的電動車工廠，發現它們正在主導塑造全球汽車產業的生態系統。",
       "link": "https://www.bbc.com/zhongwen/articles/c0r2yx01g5go/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-05-28T06:07:41.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c0r2yx01g5go/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7c73/live/3f32dc60-58ec-11f1-8409-e1d7d8df4ed8.jpg"
+    },
+    {
+      "title": "光纖無人機：學自烏克蘭戰場，成了黎真主黨攻擊以色列的新武器",
+      "description": "這些無人機裝載炸藥，低空飛行，而且沒有無線電訊號，因此無法被以色列軍方干擾。它們透過一條細小的光纖線與操作員連接，使操作者能夠看見並追蹤地面目標。",
+      "link": "https://www.bbc.com/zhongwen/articles/cvgz7pp4gkgo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-29T05:36:30.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvgz7pp4gkgo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0c63/live/e5a53b30-5a84-11f1-b721-e3714617440a.jpg"
     },
     {
       "title": "突破防火長城：中國、伊朗、緬甸、委內瑞拉民間如何抵抗網絡封鎖？",
@@ -154,6 +154,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0621/live/c90e18b0-4ae0-11f1-b55d-0f258dce1735.jpg"
     },
     {
+      "title": "美國和伊朗是接近和平，還是正在滑向戰爭深淵？",
+      "description": "儘管最近發生了相互空襲，但雙方似乎都無意恢復全面衝突。",
+      "link": "https://www.bbc.com/zhongwen/articles/c1521vl09yko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-29T04:33:44.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1521vl09yko/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4b47/live/14febc40-5a9d-11f1-8b8c-6d33e1d5abb6.jpg"
+    },
+    {
       "title": "NASA公佈永久月球基地多項細節，美中登月競爭日趨白熱化",
       "description": "美國希望在總統特朗普2029年離任前，再次將美國人送上月球。而中國正在積極推進自己的計劃，目標是在2030年前將人類送上月球。",
       "link": "https://www.bbc.com/zhongwen/articles/c0l2yw2wd24o/trad?at_medium=RSS&at_campaign=rss",
@@ -184,14 +192,6 @@
       "pubDate": "2026-05-16T10:06:55.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/czr2pjdj8ypo/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ce71/live/6052f140-5109-11f1-b332-0d15aaaa8302.jpg"
-    },
-    {
-      "title": "特朗普與習近平舉行峰會數小時後，告誡台灣不要宣布獨立",
-      "description": "特朗普在回程飛機上表示，自己與習近平「談了很多」關於台灣的問題。他拒絕說明美國是否會出手保衛台灣。",
-      "link": "https://www.bbc.com/zhongwen/articles/c8xwr7vdk0no/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-16T02:55:29.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c8xwr7vdk0no/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf0c/live/1b858c40-50d1-11f1-8186-db3f37d9f863.jpg"
     },
     {
       "title": "中國男裝女穿潮：為何更多女性轉向購買男裝？",
