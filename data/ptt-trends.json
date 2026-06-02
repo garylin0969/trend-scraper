@@ -1,21 +1,21 @@
 {
-  "updated": "2026-06-02T07:04:35.540Z",
+  "updated": "2026-06-02T08:44:00.423Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "992",
+      "recommendScore": "994",
       "recommendCount": "1458",
       "title": "[公告] 棒球板緊急狀況公告",
       "link": "/bbs/Baseball/M.1780318909.A.46D",
       "author": "JUNstudio",
       "board": "Baseball",
       "publishTime": "2026/06/01 13:01",
-      "imageUrl": "https://cache.pttweb.cc/imgur/aYPqg3N/s/ec53fce0fa72d97dbe99bf1845e387a9"
+      "imageUrl": ""
     },
     {
-      "recommendScore": "308",
-      "recommendCount": "719",
+      "recommendScore": "311",
+      "recommendCount": "725",
       "title": "[新聞] 台東警大陣仗逮詐團竟被秒放 檢抗告翻盤8人逆轉收押 1在逃將拘提",
       "link": "/bbs/Gossiping/M.1780353500.A.C70",
       "author": "MikaHakkinen",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "447",
-      "recommendCount": "492",
+      "recommendScore": "448",
+      "recommendCount": "493",
       "title": "[炸裂] 李灝宇 NO.2",
       "link": "/bbs/Baseball/M.1780359036.A.16C",
       "author": "carlchang092",
@@ -34,8 +34,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "164",
-      "recommendCount": "818",
+      "recommendScore": "343",
+      "recommendCount": "524",
+      "title": "[爆卦] 台南烏山頭光電板變水利設施禁止進入了",
+      "link": "/bbs/Gossiping/M.1780378939.A.6C2",
+      "author": "olctw",
+      "board": "Gossiping",
+      "publishTime": "2026/06/02 05:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "165",
+      "recommendCount": "824",
       "title": "[情報] 富保&Arenas：Kobe和MJ也像SGA這樣買犯",
       "link": "/bbs/NBA/M.1780306749.A.07B",
       "author": "Kai877",
@@ -44,18 +54,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-50",
-      "recommendCount": "663",
-      "title": "[問卦] 只有我覺得黃仁勳越來越刻意嗎？",
-      "link": "/bbs/Gossiping/M.1780344390.A.984",
-      "author": "stjchl",
+      "recommendScore": "210",
+      "recommendCount": "545",
+      "title": "[新聞] 沈伯洋手遊課金被攻擊！四叉貓反酸：玩手遊比玩女人健康多了",
+      "link": "/bbs/Gossiping/M.1780380522.A.832",
+      "author": "ymes9112",
       "board": "Gossiping",
-      "publishTime": "2026/06/01 20:06",
+      "publishTime": "2026/06/02 06:08",
       "imageUrl": ""
     },
     {
-      "recommendScore": "297",
-      "recommendCount": "510",
+      "recommendScore": "313",
+      "recommendCount": "551",
       "title": "[新聞] EXO高雄簽售主辦是中國官媒！台灣粉絲慘不能下單：被逼辦台胞證",
       "link": "/bbs/Gossiping/M.1780367531.A.F0A",
       "author": "MrDK",
@@ -64,18 +74,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "159",
-      "recommendCount": "526",
-      "title": "[新聞] 年砸數十萬玩手遊被酸爆 沈伯洋：除以12",
-      "link": "/bbs/Gossiping/M.1780312965.A.9F4",
-      "author": "juyhnmki",
+      "recommendScore": "-48",
+      "recommendCount": "667",
+      "title": "[問卦] 只有我覺得黃仁勳越來越刻意嗎？",
+      "link": "/bbs/Gossiping/M.1780344390.A.984",
+      "author": "stjchl",
       "board": "Gossiping",
-      "publishTime": "2026/06/01 11:22",
-      "imageUrl": "https://cache.pttweb.cc/imgur/aYPqg3N/s/ec53fce0fa72d97dbe99bf1845e387a9"
+      "publishTime": "2026/06/01 20:06",
+      "imageUrl": ""
     },
     {
-      "recommendScore": "253",
-      "recommendCount": "606",
+      "recommendScore": "257",
+      "recommendCount": "625",
       "title": "[問卦] 為何外交部要肯定日菲劃分我們經濟海域？",
       "link": "/bbs/Gossiping/M.1780359153.A.250",
       "author": "bb10181128",
@@ -84,8 +94,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "209",
-      "recommendCount": "477",
+      "recommendScore": "156",
+      "recommendCount": "530",
+      "title": "[新聞] 年砸數十萬玩手遊被酸爆 沈伯洋：除以12",
+      "link": "/bbs/Gossiping/M.1780312965.A.9F4",
+      "author": "juyhnmki",
+      "board": "Gossiping",
+      "publishTime": "2026/06/01 11:22",
+      "imageUrl": "https://cache.pttweb.cc/imgur/aYPqg3N/s/ec53fce0fa72d97dbe99bf1845e387a9"
+    },
+    {
+      "recommendScore": "210",
+      "recommendCount": "479",
       "title": "[新聞] 罵賴清德「X你娘」遭判拘役20天　林國成放棄上訴：接受判決結果",
       "link": "/bbs/Gossiping/M.1780305957.A.AE9",
       "author": "HTC92",
@@ -94,18 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "211",
-      "recommendCount": "417",
-      "title": "[新聞] 股市最慘回檔20％？驚見4大泡沫警訊 6月恐爆崩跌危機",
-      "link": "/bbs/Stock/M.1780299139.A.9AB",
-      "author": "diefishfish",
-      "board": "Stock",
-      "publishTime": "2026/06/01 07:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "227",
-      "recommendCount": "604",
+      "recommendScore": "228",
+      "recommendCount": "606",
       "title": "[問卦] 七年級生小時候真的都吃地瓜配白飯嗎 掛?",
       "link": "/bbs/Gossiping/M.1780318184.A.D3F",
       "author": "heero0333",
@@ -114,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "213",
-      "recommendCount": "482",
+      "recommendScore": "216",
+      "recommendCount": "491",
       "title": "[新聞] 快訊／空軍T-34初級教練機失事墜毀　2飛官殉職",
       "link": "/bbs/Gossiping/M.1780363731.A.1A0",
       "author": "tan608287",
@@ -124,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "214",
-      "recommendCount": "397",
+      "recommendScore": "215",
+      "recommendCount": "403",
       "title": "[請益] 現在都還沒停利算是技術派？",
       "link": "/bbs/Stock/M.1780325769.A.AC8",
       "author": "iloveuTaiwan",
@@ -134,8 +144,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "215",
-      "recommendCount": "742",
+      "recommendScore": "297",
+      "recommendCount": "683",
+      "title": "[討論] Luka Doncic在未來幾年還有奪冠希望嗎？",
+      "link": "/bbs/NBA/M.1780372829.A.82F",
+      "author": "bluegold",
+      "board": "NBA",
+      "publishTime": "2026/06/02 04:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "139",
+      "recommendCount": "521",
+      "title": "[新聞]「女兒穿這樣我會瘋掉！」李珠珢熱舞穿太露？台韓網友吵翻天",
+      "link": "/bbs/Gossiping/M.1780373688.A.86B",
+      "author": "kenny1300175",
+      "board": "Gossiping",
+      "publishTime": "2026/06/02 04:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "216",
+      "recommendCount": "744",
       "title": "[問卦] 中國為什麼拼了命的在發展電力啊",
       "link": "/bbs/Gossiping/M.1780306742.A.4D7",
       "author": "swommy",
@@ -144,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "278",
-      "recommendCount": "547",
+      "recommendScore": "281",
+      "recommendCount": "552",
       "title": "[花邊] Stephen Curry 和中國廠牌李寧簽下10年約",
       "link": "/bbs/NBA/M.1780352599.A.3A3",
       "author": "Myosotis",
@@ -164,43 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "266",
-      "recommendCount": "627",
-      "title": "[討論] Luka Doncic在未來幾年還有奪冠希望嗎？",
-      "link": "/bbs/NBA/M.1780372829.A.82F",
-      "author": "bluegold",
-      "board": "NBA",
-      "publishTime": "2026/06/02 04:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "182",
-      "recommendCount": "356",
+      "recommendScore": "186",
+      "recommendCount": "362",
       "title": "[問卦] 高市AI抹黑門日媒炸裂，台媒卻靜悄悄？",
       "link": "/bbs/Gossiping/M.1780364074.A.F80",
       "author": "whitenoise",
       "board": "Gossiping",
       "publishTime": "2026/06/02 01:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "80",
-      "recommendCount": "377",
-      "title": "[參選] q347",
-      "link": "/bbs/Baseball/M.1780326616.A.1CD",
-      "author": "q347",
-      "board": "Baseball",
-      "publishTime": "2026/06/01 15:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "210",
-      "recommendCount": "327",
-      "title": "[爆卦] 台南烏山頭光電板變水利設施禁止進入了",
-      "link": "/bbs/Gossiping/M.1780378939.A.6C2",
-      "author": "olctw",
-      "board": "Gossiping",
-      "publishTime": "2026/06/02 05:42",
       "imageUrl": ""
     }
   ]
