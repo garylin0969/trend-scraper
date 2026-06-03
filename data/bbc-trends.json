@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-03T00:15:48.087Z",
+  "updated": "2026-06-03T01:40:15.240Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-06-03T00:15:42.000Z",
+    "lastBuildDate": "2026-06-03T01:40:07.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -34,20 +34,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/387a/live/95a83400-5d88-11f1-9eb5-ab3a963c44d3.jpg"
     },
     {
+      "title": "沉迷白日夢的人  生活在兩個平行世界裡",
+      "description": "在所有症狀中，不良適應性白日夢是一種尚未被正式認可的臨床狀況，患者常因孤獨、創傷或情緒需求未被滿足而沉迷於幻想，導致生活受到干擾。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwy29wdyxq6o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-03T00:23:47.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwy29wdyxq6o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd17/live/938574a0-5e44-11f1-89a3-d1f559421220.jpg"
+    },
+    {
       "title": "47°C高溫下「早晨和夜晚已不復存在」：印度最炎熱地區的一天",
       "description": "在印度最熱的地區度過一天，可以了解極端高溫前線的生活。",
       "link": "https://www.bbc.com/zhongwen/articles/c809zjzym4vo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-06-02T05:42:04.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c809zjzym4vo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2568/live/4a93dda0-5d99-11f1-b199-9da46582c1b0.png"
-    },
-    {
-      "title": "瑪麗蓮·夢露誕辰100週年：她的死因為何至今仍是謎",
-      "description": "關於瑪麗蓮·夢露的死因，至今仍眾說紛紜，但一位調查此案的記者表示，這「很可能是一場可怕的意外」。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1d2140y63ro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-02T01:14:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1d2140y63ro/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d738/live/4e7c57f0-5581-11f1-90c6-8f1050a3fec2.jpg"
     },
     {
       "title": "金正恩為何從未談及其母親",
@@ -90,6 +90,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b11/live/db6d9060-5d7a-11f1-8b8c-6d33e1d5abb6.jpg"
     },
     {
+      "title": "瑪麗蓮·夢露誕辰100週年：她的死因為何至今仍是謎",
+      "description": "關於瑪麗蓮·夢露的死因，至今仍眾說紛紜，但一位調查此案的記者表示，這「很可能是一場可怕的意外」。",
+      "link": "https://www.bbc.com/zhongwen/articles/c1d2140y63ro/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-02T01:14:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1d2140y63ro/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d738/live/4e7c57f0-5581-11f1-90c6-8f1050a3fec2.jpg"
+    },
+    {
       "title": "美國「失控」的小費文化是否正在向海外蔓延？",
       "description": "隨著美國服務生在收到低於20%的小費時感到不滿，其他地區的小費金額也正在上升。",
       "link": "https://www.bbc.com/zhongwen/articles/cy82w2e91dwo/trad?at_medium=RSS&at_campaign=rss",
@@ -104,14 +112,6 @@
       "pubDate": "2026-05-31T05:56:22.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c0426q4kgq9o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0891/live/b13d4110-5c1b-11f1-92d1-ab2daf594570.jpg"
-    },
-    {
-      "title": "鄭麗文訪美：釋疑國民黨立場，還是佈局2028總統選戰？",
-      "description": "台灣最大在野黨中國國民黨主席鄭麗文，預計於6月1日訪問美國，行程長達16天。她啟程前表示希望能與美國總統特朗普會面，並強調台灣「不應被迫在華盛頓與北京之間二選一」。鄭麗文被外界認為可能角逐2028年總統大選，若此次訪美「面試」成功將鞏固她在國民黨的領導地位。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn9pny999jyo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-29T09:36:55.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn9pny999jyo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7920/live/32314f50-5b36-11f1-9a6c-c14292377fff.jpg"
     },
     {
       "title": "打造工程師之國？中國取消「無用」的大學學科",
@@ -194,12 +194,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ce71/live/6052f140-5109-11f1-b332-0d15aaaa8302.jpg"
     },
     {
-      "title": "日本飛驒山難倖存港人：如果再選一次，我會不去",
-      "description": "5月1日，兩名港人結伴攀爬日本飛驒山脈，因天氣惡化受困，最後僅一人生還。倖存者向BBC中文憶述經歷。",
-      "link": "https://www.bbc.com/zhongwen/articles/cwy203759ywo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-29T00:23:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwy203759ywo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/70a7/live/009c0ac0-5a3c-11f1-8b8c-6d33e1d5abb6.jpg"
+      "title": "鄭麗文訪美：釋疑國民黨立場，還是佈局2028總統選戰？",
+      "description": "台灣最大在野黨中國國民黨主席鄭麗文，預計於6月1日訪問美國，行程長達16天。她啟程前表示希望能與美國總統特朗普會面，並強調台灣「不應被迫在華盛頓與北京之間二選一」。鄭麗文被外界認為可能角逐2028年總統大選，若此次訪美「面試」成功將鞏固她在國民黨的領導地位。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn9pny999jyo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-29T09:36:55.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn9pny999jyo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7920/live/32314f50-5b36-11f1-9a6c-c14292377fff.jpg"
     },
     {
       "title": "中國男裝女穿潮：為何更多女性轉向購買男裝？",
@@ -234,6 +234,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2e72/live/b5420d20-559c-11f1-a11d-091b34e0faa0.jpg"
     },
     {
+      "title": "日本飛驒山難倖存港人：如果再選一次，我會不去",
+      "description": "5月1日，兩名港人結伴攀爬日本飛驒山脈，因天氣惡化受困，最後僅一人生還。倖存者向BBC中文憶述經歷。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwy203759ywo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-29T00:23:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwy203759ywo/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/70a7/live/009c0ac0-5a3c-11f1-8b8c-6d33e1d5abb6.jpg"
+    },
+    {
       "title": "中國「文化大革命」爆發60周年：學界詳解被掩蓋的文革真相 ——「集體殺戮」",
       "description": "學者從機密檔案、縣誌研究和政治運動模式，分析「大屠殺」如何發生、誰應負責，以及其對當代中國政治文化的影響。",
       "link": "https://www.bbc.com/zhongwen/articles/c152l37yvyyo/trad?at_medium=RSS&at_campaign=rss",
@@ -264,14 +272,6 @@
       "pubDate": "2026-05-08T12:03:23.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c5yerdxdvz6o/trad#5",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4da8/live/fecb9f90-4a2c-11f1-91d3-69962f9a0625.png"
-    },
-    {
-      "title": "中國爆發式增長的團播潮背後：情感詐騙、主播收入和隱秘活動",
-      "description": "「長得好看、會聊天才是最重要的……如果只是跳舞，大家為什麼不去看那些專業的舞者直播呢？」",
-      "link": "https://www.bbc.com/zhongwen/articles/cpd5j2nepp8o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-13T03:58:20.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cpd5j2nepp8o/trad#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3a0a/live/d99d4fb0-36d7-11f1-9d5c-8ba507d7dbde.jpg"
     },
     {
       "title": "法拉利寄望首款純電車Luce迎戰中國品牌，卻引來批評",
