@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-04T22:17:57.075Z",
+  "updated": "2026-06-04T22:51:02.625Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "450",
-      "recommendCount": "1060",
+      "recommendScore": "457",
+      "recommendCount": "1082",
       "title": "[問卦] 日本拒絕台灣劃界問題進行談判的要求",
       "link": "/bbs/Gossiping/M.1780570279.A.39F",
       "author": "beaver",
@@ -34,28 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "544",
-      "recommendCount": "778",
-      "title": "[問卦] 有人記得6年前64 台灣法院害死人嗎?(發錢",
-      "link": "/bbs/Gossiping/M.1780525546.A.8A6",
-      "author": "q347",
-      "board": "Gossiping",
-      "publishTime": "2026/06/03 22:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "318",
-      "recommendCount": "541",
-      "title": "[新聞] 三星喊10年內要超車 魏哲家：做夢",
-      "link": "/bbs/Stock/M.1780558334.A.7D6",
-      "author": "IzumiKonata",
-      "board": "Stock",
-      "publishTime": "2026/06/04 07:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "106",
-      "recommendCount": "636",
+      "recommendScore": "113",
+      "recommendCount": "682",
       "title": "[新聞] 保證供電無虞 賴總統邀黃仁勳參訪電廠：親眼看就有信心",
       "link": "/bbs/Gossiping/M.1780584244.A.622",
       "author": "deathdecay",
@@ -64,8 +44,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "298",
-      "recommendCount": "627",
+      "recommendScore": "321",
+      "recommendCount": "546",
+      "title": "[新聞] 三星喊10年內要超車 魏哲家：做夢",
+      "link": "/bbs/Stock/M.1780558334.A.7D6",
+      "author": "IzumiKonata",
+      "board": "Stock",
+      "publishTime": "2026/06/04 07:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "301",
+      "recommendCount": "632",
       "title": "[爆卦] 被戳屁股的老師是女生還被逼離職？",
       "link": "/bbs/Gossiping/M.1780561896.A.096",
       "author": "KyrieIrving1",
@@ -201,6 +191,16 @@
       "author": "coconing",
       "board": "Stock",
       "publishTime": "2026/06/04 07:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "148",
+      "recommendCount": "331",
+      "title": "[新聞] 民調／柯志恩支持度近4成　緊咬賴瑞隆！差距僅0.6個百分點",
+      "link": "/bbs/Gossiping/M.1780539350.A.A26",
+      "author": "newmp4",
+      "board": "Gossiping",
+      "publishTime": "2026/06/04 02:15",
       "imageUrl": ""
     }
   ]
