@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-04T04:07:17.060Z",
+  "updated": "2026-06-04T05:53:08.712Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-06-04T04:07:06.000Z",
+    "lastBuildDate": "2026-06-04T05:52:56.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -42,11 +42,19 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4a50/live/cd2ead50-5f40-11f1-ae51-c396b5163a64.jpg"
     },
     {
+      "title": "你是不是常常漫無目的地刷手機？其實你並不孤單",
+      "description": "有報告顯示，人們平均有 36% 的時間花在手機上沒有明確的目的。",
+      "link": "https://www.bbc.com/zhongwen/articles/c87q92r0jdno/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-04T04:38:52.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c87q92r0jdno/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b7a/live/181beb80-5f63-11f1-b682-cf91850925ea.jpg"
+    },
+    {
       "title": "「飛去高雄看演唱會比上班快」：亞洲追星族如何改造高雄？",
       "description": "高雄市政府串聯官方與民間單位，在演唱會期間用主題燈光、捷運廣播、夜市券等，營造出整體的「城市應援」。這座曾以港口和重工業聞名的台灣南部城市，正逐漸轉型為亞洲歌迷心中的新興「演唱會之都」，但其經濟效益有多廣泛、能延續多久？",
       "link": "https://www.bbc.com/zhongwen/articles/cp3pvn0pynwo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-06-03T10:57:10.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cp3pvn0pynwo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cp3pvn0pynwo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0783/live/5ba96c00-5f23-11f1-b682-cf91850925ea.jpg"
     },
     {
@@ -90,14 +98,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/387a/live/95a83400-5d88-11f1-9eb5-ab3a963c44d3.jpg"
     },
     {
-      "title": "金正恩為何從未談及其母親",
-      "description": "朝鮮很少有人知道她的存在，因為她的出身可能會威脅到政權的合法性。",
-      "link": "https://www.bbc.com/zhongwen/articles/c3e2ljjxj8no/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-01T06:36:20.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3e2ljjxj8no/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5020/live/310dfe20-5037-11f1-89a3-d1f559421220.png"
-    },
-    {
       "title": "普京如何成為形象操控大師？",
       "description": "從神秘的克格勃特工到戰時統治者，普京一次又一次重塑自己的形象和自我。",
       "link": "https://www.bbc.com/zhongwen/articles/cg4p93k2rv9o/trad?at_medium=RSS&at_campaign=rss",
@@ -106,12 +106,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3f9e/live/3997c490-5b68-11f1-89a3-d1f559421220.jpg"
     },
     {
-      "title": "秘密隧道與非法勞工：中國煤難令人想起黑暗的過去",
-      "description": "中國15年來最嚴重的煤礦災難發生之際，正值中國雄心勃勃地向綠色能源轉型之時。",
-      "link": "https://www.bbc.com/zhongwen/articles/ckgpj127y4mo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-01T04:27:30.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckgpj127y4mo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2489/live/d26bb2d0-5b54-11f1-a62b-2f41c7c3a318.jpg"
+      "title": "金正恩為何從未談及其母親",
+      "description": "朝鮮很少有人知道她的存在，因為她的出身可能會威脅到政權的合法性。",
+      "link": "https://www.bbc.com/zhongwen/articles/c3e2ljjxj8no/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-01T06:36:20.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3e2ljjxj8no/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5020/live/310dfe20-5037-11f1-89a3-d1f559421220.png"
     },
     {
       "title": "鄭麗文展開訪美行程：聚焦向美方釋疑與2028總統大選佈局",
@@ -210,6 +210,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/65ad/live/199c73d0-5a3b-11f1-b808-c16e614cfb67.jpg"
     },
     {
+      "title": "秘密隧道與非法勞工：中國煤難令人想起黑暗的過去",
+      "description": "中國15年來最嚴重的煤礦災難發生之際，正值中國雄心勃勃地向綠色能源轉型之時。",
+      "link": "https://www.bbc.com/zhongwen/articles/ckgpj127y4mo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-01T04:27:30.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckgpj127y4mo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2489/live/d26bb2d0-5b54-11f1-a62b-2f41c7c3a318.jpg"
+    },
+    {
       "title": "法國網球公開賽：被拒絕握手的王欣瑜，做錯了什麼？",
       "description": "在堅持不使用電子線審和「鷹眼」挑戰制度的法網賽場，類似的爭議仍然會是比賽的一部分。",
       "link": "https://www.bbc.com/zhongwen/articles/c3w20432v3zo/trad?at_medium=RSS&at_campaign=rss",
@@ -224,14 +232,6 @@
       "pubDate": "2026-05-25T08:26:42.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c1l22592njmo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bed8/live/4904d310-5810-11f1-be4f-892ca05ec266.jpg"
-    },
-    {
-      "title": "分析：美中新建貿易、投資委員會，能否為關稅戰「加裝防撞欄」？",
-      "description": "對特朗普來說，委員會不只是一個組織名稱，更像是一種工作方式。它意味著可以繞開現有國際機制，另起爐灶，重新設定規則。和平委員會可以繞開聯合國，去處理加沙問題；美中的貿易和投資委員會，則可以繞開WTO，去處理中美之間的爭議。 ",
-      "link": "https://www.bbc.com/zhongwen/articles/cm2prj02pdgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-22T08:52:03.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm2prj02pdgo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2e72/live/b5420d20-559c-11f1-a11d-091b34e0faa0.jpg"
     },
     {
       "title": "日本飛驒山難倖存港人：如果再選一次，我會不去",
