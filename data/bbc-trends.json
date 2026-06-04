@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-04T02:40:11.666Z",
+  "updated": "2026-06-04T04:07:17.060Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-06-04T02:40:06.000Z",
+    "lastBuildDate": "2026-06-04T04:07:06.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -24,6 +24,14 @@
       "pubDate": "2026-06-04T01:20:05.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c8d8v0v81l1o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/506b/live/e9b68ba0-5f90-11f1-89a3-d1f559421220.jpg"
+    },
+    {
+      "title": "英國軍情五處警告：中國間諜正利用招募網站鎖定政府工作人員",
+      "description": "軍情五處警告說，臥底特工冒充虛假的招募人員，試圖識別有用的目標。",
+      "link": "https://www.bbc.com/zhongwen/articles/cj3pkgrzrd8o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-04T02:52:47.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cj3pkgrzrd8o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e9df/live/46511960-5f92-11f1-b682-cf91850925ea.jpg"
     },
     {
       "title": "兩岸跨境器官買賣鏈：台灣名醫涉非法仲介病人赴中國換肝換腎遭廢照",
@@ -46,7 +54,7 @@
       "description": "國際海事組織估計，仍有1,600艘船隻被困在霍爾木茲海峽的另一側，無法離開。",
       "link": "https://www.bbc.com/zhongwen/articles/cq8plyd8p1wo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-06-03T09:45:58.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cq8plyd8p1wo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cq8plyd8p1wo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a7d2/live/460834f0-5e9f-11f1-89a3-d1f559421220.jpg"
     },
     {
@@ -56,14 +64,6 @@
       "pubDate": "2026-06-03T09:00:24.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c1j26gg690po/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e8fd/live/5e6c7880-59d1-11f1-a86d-8bf9558fa476.png"
-    },
-    {
-      "title": "47°C高溫下「早晨和夜晚已不復存在」：印度最炎熱地區的一天",
-      "description": "在印度最熱的地區度過一天，可以了解極端高溫前線的生活。",
-      "link": "https://www.bbc.com/zhongwen/articles/c809zjzym4vo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-02T05:42:04.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c809zjzym4vo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2568/live/4a93dda0-5d99-11f1-b199-9da46582c1b0.png"
     },
     {
       "title": "分析：普京在烏克蘭問題上依然毫不妥協，但俄羅斯民眾對戰爭的看法是否正在改變？",
@@ -98,20 +98,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5020/live/310dfe20-5037-11f1-89a3-d1f559421220.png"
     },
     {
-      "title": "秘密隧道與非法勞工：中國煤難令人想起黑暗的過去",
-      "description": "中國15年來最嚴重的煤礦災難發生之際，正值中國雄心勃勃地向綠色能源轉型之時。",
-      "link": "https://www.bbc.com/zhongwen/articles/ckgpj127y4mo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-01T04:27:30.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckgpj127y4mo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2489/live/d26bb2d0-5b54-11f1-a62b-2f41c7c3a318.jpg"
-    },
-    {
       "title": "普京如何成為形象操控大師？",
       "description": "從神秘的克格勃特工到戰時統治者，普京一次又一次重塑自己的形象和自我。",
       "link": "https://www.bbc.com/zhongwen/articles/cg4p93k2rv9o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-06-01T00:27:21.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cg4p93k2rv9o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3f9e/live/3997c490-5b68-11f1-89a3-d1f559421220.jpg"
+    },
+    {
+      "title": "秘密隧道與非法勞工：中國煤難令人想起黑暗的過去",
+      "description": "中國15年來最嚴重的煤礦災難發生之際，正值中國雄心勃勃地向綠色能源轉型之時。",
+      "link": "https://www.bbc.com/zhongwen/articles/ckgpj127y4mo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-01T04:27:30.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckgpj127y4mo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2489/live/d26bb2d0-5b54-11f1-a62b-2f41c7c3a318.jpg"
     },
     {
       "title": "鄭麗文展開訪美行程：聚焦向美方釋疑與2028總統大選佈局",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4da8/live/fecb9f90-4a2c-11f1-91d3-69962f9a0625.png"
     },
     {
+      "title": "47°C高溫下「早晨和夜晚已不復存在」：印度最炎熱地區的一天",
+      "description": "在印度最熱的地區度過一天，可以了解極端高溫前線的生活。",
+      "link": "https://www.bbc.com/zhongwen/articles/c809zjzym4vo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-02T05:42:04.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c809zjzym4vo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2568/live/4a93dda0-5d99-11f1-b199-9da46582c1b0.png"
+    },
+    {
       "title": "沉迷白日夢的人  生活在兩個平行世界裡",
       "description": "在所有症狀中，不良適應性白日夢是一種尚未被正式認可的臨床狀況，患者常因孤獨、創傷或情緒需求未被滿足而沉迷於幻想，導致生活受到干擾。",
       "link": "https://www.bbc.com/zhongwen/articles/cwy29wdyxq6o/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2026-06-02T00:27:59.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c1k2d7xnyz9o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b11/live/db6d9060-5d7a-11f1-8b8c-6d33e1d5abb6.jpg"
-    },
-    {
-      "title": "瑪麗蓮·夢露誕辰100週年：她的死因為何至今仍是謎",
-      "description": "關於瑪麗蓮·夢露的死因，至今仍眾說紛紜，但一位調查此案的記者表示，這「很可能是一場可怕的意外」。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1d2140y63ro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-02T01:14:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1d2140y63ro/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d738/live/4e7c57f0-5581-11f1-90c6-8f1050a3fec2.jpg"
     }
   ]
 }
