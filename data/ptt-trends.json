@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T18:43:42.529Z",
+  "updated": "2026-06-05T19:23:52.086Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "400",
-      "recommendCount": "831",
+      "recommendScore": "399",
+      "recommendCount": "833",
       "title": "[新聞] 烏山頭水庫「光電板泡水」引恐慌　經濟部急發影音澄清：不影響水質",
       "link": "/bbs/Gossiping/M.1780616188.A.A1F",
       "author": "asppsa",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "458",
-      "recommendCount": "868",
+      "recommendScore": "459",
+      "recommendCount": "869",
       "title": "[情報] AR尋求頂薪且不接受湖人打折",
       "link": "/bbs/NBA/M.1780632025.A.88E",
       "author": "stevenchiang",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "386",
-      "recommendCount": "625",
+      "recommendScore": "394",
+      "recommendCount": "636",
       "title": "[情報] 川普：股市應該上漲，而不是下跌！",
       "link": "/bbs/Stock/M.1780670300.A.7BD",
       "author": "komeko",
@@ -54,13 +54,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "71",
-      "recommendCount": "571",
+      "recommendScore": "73",
+      "recommendCount": "573",
       "title": "[新聞] 蔣萬安兩年存款多2千萬　沈伯洋僅18萬、貸款200萬拚選戰",
       "link": "/bbs/Gossiping/M.1780661223.A.899",
       "author": "iam168888888",
       "board": "Gossiping",
       "publishTime": "2026/06/05 12:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "50",
+      "recommendCount": "535",
+      "title": "[問卦]沒人覺得黃仁勳越看越假嗎？",
+      "link": "/bbs/Gossiping/M.1780633070.A.712",
+      "author": "locdan",
+      "board": "Gossiping",
+      "publishTime": "2026/06/05 04:17",
       "imageUrl": ""
     },
     {
@@ -74,18 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "49",
-      "recommendCount": "533",
-      "title": "[問卦]沒人覺得黃仁勳越看越假嗎？",
-      "link": "/bbs/Gossiping/M.1780633070.A.712",
-      "author": "locdan",
-      "board": "Gossiping",
-      "publishTime": "2026/06/05 04:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "221",
-      "recommendCount": "469",
+      "recommendScore": "223",
+      "recommendCount": "474",
       "title": "[問卦]原來台女眼中「大方的男生」是這種標準",
       "link": "/bbs/Gossiping/M.1780649045.A.2B0",
       "author": "a91153456",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "309",
-      "recommendCount": "470",
+      "recommendScore": "313",
+      "recommendCount": "474",
       "title": "[討論] jalen brunson難守在哪？",
       "link": "/bbs/NBA/M.1780654242.A.B90",
       "author": "qazxsw123",
@@ -134,13 +134,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "202",
-      "recommendCount": "338",
+      "recommendScore": "203",
+      "recommendCount": "339",
       "title": "[情報] 美國5月非農就業人數&失業率",
       "link": "/bbs/Stock/M.1780662650.A.851",
       "author": "xephon",
       "board": "Stock",
       "publishTime": "2026/06/05 12:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "210",
+      "recommendCount": "507",
+      "title": "[問卦] 林志玲在對岸炎上  慘遭全網封鎖！",
+      "link": "/bbs/Gossiping/M.1780668574.A.54B",
+      "author": "Xenia1050",
+      "board": "Gossiping",
+      "publishTime": "2026/06/05 14:09",
       "imageUrl": ""
     },
     {
@@ -174,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "199",
-      "recommendCount": "474",
-      "title": "[問卦] 林志玲在對岸炎上  慘遭全網封鎖！",
-      "link": "/bbs/Gossiping/M.1780668574.A.54B",
-      "author": "Xenia1050",
-      "board": "Gossiping",
-      "publishTime": "2026/06/05 14:09",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "381",
       "recommendCount": "1291",
       "title": "[轉播] 七上 邦 0:2 喵",
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "79",
-      "recommendCount": "361",
+      "recommendScore": "80",
+      "recommendCount": "362",
       "title": "[新聞] 總統邀黃仁勳訪電廠！沈伯洋喊「這是很好的事情」：政府就是要講清楚",
       "link": "/bbs/Gossiping/M.1780653418.A.B7D",
       "author": "tsaotsaogh",
