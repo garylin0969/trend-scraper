@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-05T19:23:52.086Z",
+  "updated": "2026-06-05T20:10:42.967Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "463",
+      "recommendScore": "457",
       "recommendCount": "1485",
       "title": "[新聞] 獨家影音／點不滿低消要求調降遭拒！母發文公審＋留負評　店家怒告",
       "link": "/bbs/Gossiping/M.1780647474.A.8E0",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "399",
-      "recommendCount": "833",
+      "recommendScore": "400",
+      "recommendCount": "834",
       "title": "[新聞] 烏山頭水庫「光電板泡水」引恐慌　經濟部急發影音澄清：不影響水質",
       "link": "/bbs/Gossiping/M.1780616188.A.A1F",
       "author": "asppsa",
@@ -24,8 +24,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "459",
-      "recommendCount": "869",
+      "recommendScore": "396",
+      "recommendCount": "639",
+      "title": "[情報] 川普：股市應該上漲，而不是下跌！",
+      "link": "/bbs/Stock/M.1780670300.A.7BD",
+      "author": "komeko",
+      "board": "Stock",
+      "publishTime": "2026/06/05 14:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "460",
+      "recommendCount": "870",
       "title": "[情報] AR尋求頂薪且不接受湖人打折",
       "link": "/bbs/NBA/M.1780632025.A.88E",
       "author": "stevenchiang",
@@ -34,13 +44,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "394",
-      "recommendCount": "636",
-      "title": "[情報] 川普：股市應該上漲，而不是下跌！",
-      "link": "/bbs/Stock/M.1780670300.A.7BD",
-      "author": "komeko",
-      "board": "Stock",
-      "publishTime": "2026/06/05 14:38",
+      "recommendScore": "69",
+      "recommendCount": "579",
+      "title": "[新聞] 蔣萬安兩年存款多2千萬　沈伯洋僅18萬、貸款200萬拚選戰",
+      "link": "/bbs/Gossiping/M.1780661223.A.899",
+      "author": "iam168888888",
+      "board": "Gossiping",
+      "publishTime": "2026/06/05 12:07",
       "imageUrl": ""
     },
     {
@@ -51,16 +61,6 @@
       "author": "colset",
       "board": "Gossiping",
       "publishTime": "2026/06/05 03:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "73",
-      "recommendCount": "573",
-      "title": "[新聞] 蔣萬安兩年存款多2千萬　沈伯洋僅18萬、貸款200萬拚選戰",
-      "link": "/bbs/Gossiping/M.1780661223.A.899",
-      "author": "iam168888888",
-      "board": "Gossiping",
-      "publishTime": "2026/06/05 12:07",
       "imageUrl": ""
     },
     {
@@ -84,13 +84,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "223",
-      "recommendCount": "474",
+      "recommendScore": "224",
+      "recommendCount": "475",
       "title": "[問卦]原來台女眼中「大方的男生」是這種標準",
       "link": "/bbs/Gossiping/M.1780649045.A.2B0",
       "author": "a91153456",
       "board": "Gossiping",
       "publishTime": "2026/06/05 08:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "317",
+      "recommendCount": "480",
+      "title": "[討論] jalen brunson難守在哪？",
+      "link": "/bbs/NBA/M.1780654242.A.B90",
+      "author": "qazxsw123",
+      "board": "NBA",
+      "publishTime": "2026/06/05 10:10",
       "imageUrl": ""
     },
     {
@@ -104,23 +114,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "313",
-      "recommendCount": "474",
-      "title": "[討論] jalen brunson難守在哪？",
-      "link": "/bbs/NBA/M.1780654242.A.B90",
-      "author": "qazxsw123",
-      "board": "NBA",
-      "publishTime": "2026/06/05 10:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "229",
-      "recommendCount": "410",
+      "recommendScore": "231",
+      "recommendCount": "413",
       "title": "[花邊] Siegel：勇士計畫追求LBJ",
       "link": "/bbs/NBA/M.1780623994.A.367",
       "author": "ccccccccccc",
       "board": "NBA",
       "publishTime": "2026/06/05 01:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "220",
+      "recommendCount": "534",
+      "title": "[問卦] 林志玲在對岸炎上  慘遭全網封鎖！",
+      "link": "/bbs/Gossiping/M.1780668574.A.54B",
+      "author": "Xenia1050",
+      "board": "Gossiping",
+      "publishTime": "2026/06/05 14:09",
       "imageUrl": ""
     },
     {
@@ -134,23 +144,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "203",
-      "recommendCount": "339",
+      "recommendScore": "204",
+      "recommendCount": "340",
       "title": "[情報] 美國5月非農就業人數&失業率",
       "link": "/bbs/Stock/M.1780662650.A.851",
       "author": "xephon",
       "board": "Stock",
       "publishTime": "2026/06/05 12:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "210",
-      "recommendCount": "507",
-      "title": "[問卦] 林志玲在對岸炎上  慘遭全網封鎖！",
-      "link": "/bbs/Gossiping/M.1780668574.A.54B",
-      "author": "Xenia1050",
-      "board": "Gossiping",
-      "publishTime": "2026/06/05 14:09",
       "imageUrl": ""
     },
     {
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "80",
-      "recommendCount": "362",
+      "recommendScore": "79",
+      "recommendCount": "363",
       "title": "[新聞] 總統邀黃仁勳訪電廠！沈伯洋喊「這是很好的事情」：政府就是要講清楚",
       "link": "/bbs/Gossiping/M.1780653418.A.B7D",
       "author": "tsaotsaogh",
