@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-05T08:15:20.919Z",
+  "updated": "2026-06-05T09:33:40.713Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "494",
-      "recommendCount": "1210",
+      "recommendCount": "1218",
       "title": "[問卦] 日本拒絕台灣劃界問題進行談判的要求",
       "link": "/bbs/Gossiping/M.1780570279.A.39F",
       "author": "beaver",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "138",
-      "recommendCount": "911",
+      "recommendScore": "139",
+      "recommendCount": "916",
       "title": "[新聞] 保證供電無虞 賴總統邀黃仁勳參訪電廠：親眼看就有信心",
       "link": "/bbs/Gossiping/M.1780584244.A.622",
       "author": "deathdecay",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "387",
-      "recommendCount": "801",
+      "recommendScore": "391",
+      "recommendCount": "808",
       "title": "[新聞] 烏山頭水庫「光電板泡水」引恐慌　經濟部急發影音澄清：不影響水質",
       "link": "/bbs/Gossiping/M.1780616188.A.A1F",
       "author": "asppsa",
@@ -34,18 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "321",
-      "recommendCount": "676",
-      "title": "[爆卦] 被戳屁股的老師是女生還被逼離職？",
-      "link": "/bbs/Gossiping/M.1780561896.A.096",
-      "author": "KyrieIrving1",
-      "board": "Gossiping",
-      "publishTime": "2026/06/04 08:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "382",
-      "recommendCount": "739",
+      "recommendScore": "400",
+      "recommendCount": "770",
       "title": "[情報] AR尋求頂薪且不接受湖人打折",
       "link": "/bbs/NBA/M.1780632025.A.88E",
       "author": "stevenchiang",
@@ -54,8 +44,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "268",
-      "recommendCount": "399",
+      "recommendScore": "279",
+      "recommendCount": "561",
+      "title": "[新聞] 馬英九昔派兵護漁、嗆菲國影片曝 粉專：賴政府喪權辱國",
+      "link": "/bbs/Gossiping/M.1780630374.A.E81",
+      "author": "colset",
+      "board": "Gossiping",
+      "publishTime": "2026/06/05 03:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "269",
+      "recommendCount": "400",
       "title": "[新聞] 谷月涵認台股到末升段！謝金河卻有不同看法",
       "link": "/bbs/Stock/M.1780622744.A.F5B",
       "author": "FUkobeCK",
@@ -64,13 +64,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "261",
-      "recommendCount": "527",
-      "title": "[新聞] 馬英九昔派兵護漁、嗆菲國影片曝 粉專：賴政府喪權辱國",
-      "link": "/bbs/Gossiping/M.1780630374.A.E81",
-      "author": "colset",
+      "recommendScore": "45",
+      "recommendCount": "490",
+      "title": "[問卦]沒人覺得黃仁勳越看越假嗎？",
+      "link": "/bbs/Gossiping/M.1780633070.A.712",
+      "author": "locdan",
       "board": "Gossiping",
-      "publishTime": "2026/06/05 03:32",
+      "publishTime": "2026/06/05 04:17",
       "imageUrl": ""
     },
     {
@@ -84,18 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "48",
-      "recommendCount": "463",
-      "title": "[問卦]沒人覺得黃仁勳越看越假嗎？",
-      "link": "/bbs/Gossiping/M.1780633070.A.712",
-      "author": "locdan",
-      "board": "Gossiping",
-      "publishTime": "2026/06/05 04:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "212",
-      "recommendCount": "380",
+      "recommendScore": "219",
+      "recommendCount": "392",
       "title": "[花邊] Siegel：勇士計畫追求LBJ",
       "link": "/bbs/NBA/M.1780623994.A.367",
       "author": "ccccccccccc",
@@ -104,13 +94,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "142",
-      "recommendCount": "387",
+      "recommendScore": "146",
+      "recommendCount": "415",
       "title": "[新聞] 高雄風強雨大 海鯤號延後海測 台船陳政宏：是一艘可以作戰的船",
       "link": "/bbs/Gossiping/M.1780635451.A.1DB",
       "author": "raiseSaga",
       "board": "Gossiping",
       "publishTime": "2026/06/05 04:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "166",
+      "recommendCount": "270",
+      "title": "[情報] 115年06月05日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1780643924.A.A6A",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2026/06/05 07:18",
       "imageUrl": ""
     },
     {
@@ -124,28 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "140",
-      "recommendCount": "291",
-      "title": "[新聞] 嫌太吵？36歲男持菜刀衝郵局砍人 郵務士被砍上半身血肉模糊死亡",
-      "link": "/bbs/Gossiping/M.1780567411.A.BF7",
-      "author": "f544544f",
-      "board": "Gossiping",
-      "publishTime": "2026/06/04 10:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "162",
-      "recommendCount": "314",
-      "title": "[請益] 關於今天記憶體鬼故事",
-      "link": "/bbs/Stock/M.1780631692.A.CEB",
-      "author": "akira911",
-      "board": "Stock",
-      "publishTime": "2026/06/05 03:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "227",
-      "recommendCount": "374",
+      "recommendScore": "233",
+      "recommendCount": "382",
       "title": "[花邊] Harper在自己的Tik Tok 轉發嘲諷Fox的影",
       "link": "/bbs/NBA/M.1780625931.A.16E",
       "author": "yen5642",
@@ -154,18 +134,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "179",
-      "recommendCount": "302",
-      "title": "[情報] Castle : Brunson不會刻意製造犯規",
-      "link": "/bbs/NBA/M.1780618071.A.0F9",
-      "author": "Kai877",
-      "board": "NBA",
-      "publishTime": "2026/06/05 00:07",
+      "recommendScore": "140",
+      "recommendCount": "292",
+      "title": "[新聞] 嫌太吵？36歲男持菜刀衝郵局砍人 郵務士被砍上半身血肉模糊死亡",
+      "link": "/bbs/Gossiping/M.1780567411.A.BF7",
+      "author": "f544544f",
+      "board": "Gossiping",
+      "publishTime": "2026/06/04 10:03",
       "imageUrl": ""
     },
     {
-      "recommendScore": "130",
-      "recommendCount": "255",
+      "recommendScore": "165",
+      "recommendCount": "321",
+      "title": "[請益] 關於今天記憶體鬼故事",
+      "link": "/bbs/Stock/M.1780631692.A.CEB",
+      "author": "akira911",
+      "board": "Stock",
+      "publishTime": "2026/06/05 03:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "134",
+      "recommendCount": "266",
       "title": "[新聞] 夫妻雨天找「刺激」 2支後照鏡噴21萬元",
       "link": "/bbs/Gossiping/M.1780633183.A.91C",
       "author": "ytkuang",
@@ -174,34 +164,44 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "139",
-      "recommendCount": "599",
-      "title": "[新聞] 竹南郵務士遭砍死！兇嫌父揭導火線：噪괱",
-      "link": "/bbs/Gossiping/M.1780587589.A.75D",
-      "author": "jing1219",
-      "board": "Gossiping",
-      "publishTime": "2026/06/04 15:39",
+      "recommendScore": "179",
+      "recommendCount": "304",
+      "title": "[情報] Castle : Brunson不會刻意製造犯規",
+      "link": "/bbs/NBA/M.1780618071.A.0F9",
+      "author": "Kai877",
+      "board": "NBA",
+      "publishTime": "2026/06/05 00:07",
       "imageUrl": ""
     },
     {
-      "recommendScore": "138",
-      "recommendCount": "224",
-      "title": "[情報] 115年06月05日 三大法人買賣金額統計表",
-      "link": "/bbs/Stock/M.1780643924.A.A6A",
-      "author": "coconing",
-      "board": "Stock",
-      "publishTime": "2026/06/05 07:18",
+      "recommendScore": "105",
+      "recommendCount": "254",
+      "title": "[新聞] 劉喬安做完筆錄突喊「呼吸困難」！警呼叫119戒護送醫",
+      "link": "/bbs/Gossiping/M.1780643161.A.7FD",
+      "author": "poeta",
+      "board": "Gossiping",
+      "publishTime": "2026/06/05 07:06",
       "imageUrl": ""
     },
     {
-      "recommendScore": "124",
-      "recommendCount": "313",
-      "title": "[新聞] 快新聞／語出驚人！世新大學校長畢典致詞稱「趕快結束自己」　校方急發聲明了",
-      "link": "/bbs/Gossiping/M.1780582846.A.ED9",
-      "author": "relax911",
+      "recommendScore": "171",
+      "recommendCount": "300",
+      "title": "[爆卦] 尼日的卡車在沙漠拋錨 49人渴死",
+      "link": "/bbs/Gossiping/M.1780628326.A.7F1",
+      "author": "bluehttp",
       "board": "Gossiping",
-      "publishTime": "2026/06/04 14:20",
-      "imageUrl": ""
+      "publishTime": "2026/06/05 02:58",
+      "imageUrl": "https://cache.pttweb.cc/imgur/s4YsRMD/s/f5ad08745e9b6a3afe7d4f3f322c9cbc"
+    },
+    {
+      "recommendScore": "273",
+      "recommendCount": "363",
+      "title": "[閒聊] 黃仁勳為了跟Faker見面特地改行程",
+      "link": "/bbs/LoL/M.1780637252.A.2C6",
+      "author": "nelson9461",
+      "board": "LoL",
+      "publishTime": "2026/06/05 05:27",
+      "imageUrl": "https://cache.pttweb.cc/imgur/d5LWUxo/s/30e105918cb89d66322655f0091932e9"
     }
   ]
 }
