@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T14:21:37.791Z",
+  "updated": "2026-06-06T14:55:57.832Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "234",
-      "recommendCount": "729",
+      "recommendScore": "236",
+      "recommendCount": "753",
       "title": "[新聞] 卓榮泰宣布：國家邁入大填海造陸計畫時代",
       "link": "/bbs/Gossiping/M.1780738121.A.FCC",
       "author": "lunyen",
@@ -34,23 +34,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "174",
-      "recommendCount": "712",
+      "recommendScore": "177",
+      "recommendCount": "715",
       "title": "[新聞] 是否辭職選市長？沈伯洋：當一天和尚敲一天鐘",
       "link": "/bbs/Gossiping/M.1780709812.A.44F",
       "author": "l983",
       "board": "Gossiping",
       "publishTime": "2026/06/06 01:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "414",
-      "recommendCount": "672",
-      "title": "[情報] 川普：股市應該上漲，而不是下跌！",
-      "link": "/bbs/Stock/M.1780670300.A.7BD",
-      "author": "komeko",
-      "board": "Stock",
-      "publishTime": "2026/06/05 14:38",
       "imageUrl": ""
     },
     {
@@ -64,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "314",
-      "recommendCount": "585",
+      "recommendScore": "315",
+      "recommendCount": "586",
       "title": "[請益] 指數正二教的，禮拜一會做什麼動作？",
       "link": "/bbs/Stock/M.1780727257.A.A58",
       "author": "dogwithheart",
@@ -104,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "245",
-      "recommendCount": "617",
+      "recommendScore": "246",
+      "recommendCount": "619",
       "title": "[討論] 什麼隊型比較剋制尼克",
       "link": "/bbs/NBA/M.1780717956.A.DA1",
       "author": "M2ehu121D",
@@ -114,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "256",
-      "recommendCount": "302",
+      "recommendScore": "258",
+      "recommendCount": "304",
       "title": "[分享] 林維恩升上AAA",
       "link": "/bbs/Baseball/M.1780694695.A.A00",
       "author": "k5204520",
@@ -144,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "211",
-      "recommendCount": "282",
+      "recommendScore": "212",
+      "recommendCount": "283",
       "title": "[情報] 老巴:斑馬被硬糖拖到柴房狂操就這麼簡單",
       "link": "/bbs/NBA/M.1780723992.A.73C",
       "author": "yniori",
@@ -154,24 +144,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "217",
-      "recommendCount": "269",
-      "title": "[公告] Stock 板 開始舉辦樂透!",
-      "link": "/bbs/Stock/M.1780722991.A.DCF",
-      "author": "BlueBird5566",
-      "board": "Stock",
-      "publishTime": "2026/06/06 05:16",
-      "imageUrl": "https://cache.pttweb.cc/imgur/hwXkvsG/s/154d1c63676426af6ecdbb91d14898ae"
-    },
-    {
-      "recommendScore": "140",
-      "recommendCount": "410",
+      "recommendScore": "142",
+      "recommendCount": "413",
       "title": "[請益] 台股這波暴漲是不是讓大家忘了風險評估",
       "link": "/bbs/Stock/M.1780733590.A.1D6",
       "author": "G4321",
       "board": "Stock",
       "publishTime": "2026/06/06 08:13",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "218",
+      "recommendCount": "270",
+      "title": "[公告] Stock 板 開始舉辦樂透!",
+      "link": "/bbs/Stock/M.1780722991.A.DCF",
+      "author": "BlueBird5566",
+      "board": "Stock",
+      "publishTime": "2026/06/06 05:16",
+      "imageUrl": "https://cache.pttweb.cc/imgur/hwXkvsG/s/154d1c63676426af6ecdbb91d14898ae"
     },
     {
       "recommendScore": "128",
@@ -194,14 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "148",
-      "recommendCount": "268",
+      "recommendScore": "151",
+      "recommendCount": "275",
       "title": "[新聞] 高盛逆勢發聲：股市回調是買入良機",
       "link": "/bbs/Stock/M.1780737815.A.24A",
       "author": "DrowningPool",
       "board": "Stock",
       "publishTime": "2026/06/06 09:23",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "202",
+      "recommendCount": "296",
+      "title": "[分享] 今日 佐佐木朗希 7IP 10K 0ER 問天",
+      "link": "/bbs/Baseball/M.1780720851.A.34F",
+      "author": "jerry00116",
+      "board": "Baseball",
+      "publishTime": "2026/06/06 04:40",
+      "imageUrl": "https://cache.pttweb.cc/imgur/VZzaJEn/s/371de0dedef0560e0f995252594a18c1"
     }
   ]
 }
