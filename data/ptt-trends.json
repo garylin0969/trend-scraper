@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T14:55:57.832Z",
+  "updated": "2026-06-06T15:30:52.069Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "236",
-      "recommendCount": "753",
+      "recommendScore": "234",
+      "recommendCount": "767",
       "title": "[新聞] 卓榮泰宣布：國家邁入大填海造陸計畫時代",
       "link": "/bbs/Gossiping/M.1780738121.A.FCC",
       "author": "lunyen",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "177",
-      "recommendCount": "715",
+      "recommendScore": "180",
+      "recommendCount": "719",
       "title": "[新聞] 是否辭職選市長？沈伯洋：當一天和尚敲一天鐘",
       "link": "/bbs/Gossiping/M.1780709812.A.44F",
       "author": "l983",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "267",
-      "recommendCount": "374",
+      "recommendScore": "268",
+      "recommendCount": "375",
       "title": "[花邊] 硬糖一步過斑馬爆扣怒吼:他X的鬥不過我!",
       "link": "/bbs/NBA/M.1780716691.A.0E5",
       "author": "yniori",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "246",
-      "recommendCount": "619",
+      "recommendScore": "247",
+      "recommendCount": "620",
       "title": "[討論] 什麼隊型比較剋制尼克",
       "link": "/bbs/NBA/M.1780717956.A.DA1",
       "author": "M2ehu121D",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "258",
-      "recommendCount": "304",
+      "recommendScore": "259",
+      "recommendCount": "305",
       "title": "[分享] 林維恩升上AAA",
       "link": "/bbs/Baseball/M.1780694695.A.A00",
       "author": "k5204520",
@@ -114,8 +114,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "147",
-      "recommendCount": "352",
+      "recommendScore": "155",
+      "recommendCount": "378",
+      "title": "[問卦] 脆熱議：亡國感超重！",
+      "link": "/bbs/Gossiping/M.1780754003.A.FB2",
+      "author": "pigpigcom123",
+      "board": "Gossiping",
+      "publishTime": "2026/06/06 13:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "148",
+      "recommendCount": "354",
       "title": "[新聞] 沈伯洋稱不排除赴陸交流 蔣萬安問民進黨一句話反酸",
       "link": "/bbs/Gossiping/M.1780718570.A.281",
       "author": "qweerrt123",
@@ -134,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "144",
+      "recommendCount": "417",
+      "title": "[請益] 台股這波暴漲是不是讓大家忘了風險評估",
+      "link": "/bbs/Stock/M.1780733590.A.1D6",
+      "author": "G4321",
+      "board": "Stock",
+      "publishTime": "2026/06/06 08:13",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "212",
       "recommendCount": "283",
       "title": "[情報] 老巴:斑馬被硬糖拖到柴房狂操就這麼簡單",
@@ -144,13 +164,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "142",
-      "recommendCount": "413",
-      "title": "[請益] 台股這波暴漲是不是讓大家忘了風險評估",
-      "link": "/bbs/Stock/M.1780733590.A.1D6",
-      "author": "G4321",
+      "recommendScore": "152",
+      "recommendCount": "278",
+      "title": "[新聞] 高盛逆勢發聲：股市回調是買入良機",
+      "link": "/bbs/Stock/M.1780737815.A.24A",
+      "author": "DrowningPool",
       "board": "Stock",
-      "publishTime": "2026/06/06 08:13",
+      "publishTime": "2026/06/06 09:23",
       "imageUrl": ""
     },
     {
@@ -182,26 +202,6 @@
       "board": "Stock",
       "publishTime": "2026/06/05 23:13",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "151",
-      "recommendCount": "275",
-      "title": "[新聞] 高盛逆勢發聲：股市回調是買入良機",
-      "link": "/bbs/Stock/M.1780737815.A.24A",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2026/06/06 09:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "202",
-      "recommendCount": "296",
-      "title": "[分享] 今日 佐佐木朗希 7IP 10K 0ER 問天",
-      "link": "/bbs/Baseball/M.1780720851.A.34F",
-      "author": "jerry00116",
-      "board": "Baseball",
-      "publishTime": "2026/06/06 04:40",
-      "imageUrl": "https://cache.pttweb.cc/imgur/VZzaJEn/s/371de0dedef0560e0f995252594a18c1"
     }
   ]
 }
