@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T15:58:20.505Z",
+  "updated": "2026-06-06T16:33:23.227Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "240",
-      "recommendCount": "791",
+      "recommendScore": "247",
+      "recommendCount": "813",
       "title": "[新聞] 卓榮泰宣布：國家邁入大填海造陸計畫時代",
       "link": "/bbs/Gossiping/M.1780738121.A.FCC",
       "author": "lunyen",
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "181",
-      "recommendCount": "721",
+      "recommendCount": "722",
       "title": "[新聞] 是否辭職選市長？沈伯洋：當一天和尚敲一天鐘",
       "link": "/bbs/Gossiping/M.1780709812.A.44F",
       "author": "l983",
@@ -64,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "198",
+      "recommendCount": "501",
+      "title": "[問卦] 脆熱議：亡國感超重！",
+      "link": "/bbs/Gossiping/M.1780754003.A.FB2",
+      "author": "pigpigcom123",
+      "board": "Gossiping",
+      "publishTime": "2026/06/06 13:53",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "268",
       "recommendCount": "375",
       "title": "[花邊] 硬糖一步過斑馬爆扣怒吼:他X的鬥不過我!",
@@ -74,18 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "182",
-      "recommendCount": "441",
-      "title": "[問卦] 脆熱議：亡國感超重！",
-      "link": "/bbs/Gossiping/M.1780754003.A.FB2",
-      "author": "pigpigcom123",
-      "board": "Gossiping",
-      "publishTime": "2026/06/06 13:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "294",
-      "recommendCount": "506",
+      "recommendScore": "295",
+      "recommendCount": "513",
       "title": "[新聞] 不信數據情蒐！「老派」魔鷹來台3年早摸透：還要研究投手什麼？",
       "link": "/bbs/Baseball/M.1780723789.A.218",
       "author": "nybbnan",
@@ -104,13 +104,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "247",
-      "recommendCount": "620",
+      "recommendScore": "248",
+      "recommendCount": "621",
       "title": "[討論] 什麼隊型比較剋制尼克",
       "link": "/bbs/NBA/M.1780717956.A.DA1",
       "author": "M2ehu121D",
       "board": "NBA",
       "publishTime": "2026/06/06 03:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "183",
+      "recommendCount": "505",
+      "title": "[新聞] 洪慈庸遭嗆「靠弟升級當立委」她親上火線怒回擊：我在這怎麼了",
+      "link": "/bbs/Gossiping/M.1780755725.A.464",
+      "author": "pl132",
+      "board": "Gossiping",
+      "publishTime": "2026/06/06 14:22",
       "imageUrl": ""
     },
     {
@@ -124,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "148",
-      "recommendCount": "354",
+      "recommendScore": "150",
+      "recommendCount": "357",
       "title": "[新聞] 沈伯洋稱不排除赴陸交流 蔣萬安問民進黨一句話反酸",
       "link": "/bbs/Gossiping/M.1780718570.A.281",
       "author": "qweerrt123",
@@ -145,7 +155,7 @@
     },
     {
       "recommendScore": "144",
-      "recommendCount": "418",
+      "recommendCount": "419",
       "title": "[請益] 台股這波暴漲是不是讓大家忘了風險評估",
       "link": "/bbs/Stock/M.1780733590.A.1D6",
       "author": "G4321",
@@ -155,7 +165,7 @@
     },
     {
       "recommendScore": "152",
-      "recommendCount": "279",
+      "recommendCount": "281",
       "title": "[新聞] 高盛逆勢發聲：股市回調是買入良機",
       "link": "/bbs/Stock/M.1780737815.A.24A",
       "author": "DrowningPool",
@@ -164,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "212",
-      "recommendCount": "283",
+      "recommendScore": "213",
+      "recommendCount": "284",
       "title": "[情報] 老巴:斑馬被硬糖拖到柴房狂操就這麼簡單",
       "link": "/bbs/NBA/M.1780723992.A.73C",
       "author": "yniori",
@@ -174,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "218",
-      "recommendCount": "270",
+      "recommendScore": "219",
+      "recommendCount": "271",
       "title": "[公告] Stock 板 開始舉辦樂透!",
       "link": "/bbs/Stock/M.1780722991.A.DCF",
       "author": "BlueBird5566",
@@ -191,16 +201,6 @@
       "author": "omanorboyo",
       "board": "Stock",
       "publishTime": "2026/06/05 23:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "128",
-      "recommendCount": "368",
-      "title": "[討論] 雷霆打尼克有可能那麼慘嗎",
-      "link": "/bbs/NBA/M.1780716798.A.733",
-      "author": "nO25948",
-      "board": "NBA",
-      "publishTime": "2026/06/06 03:33",
       "imageUrl": ""
     }
   ]
