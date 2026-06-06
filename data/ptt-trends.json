@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T13:04:26.560Z",
+  "updated": "2026-06-06T13:46:57.824Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "171",
-      "recommendCount": "709",
+      "recommendScore": "227",
+      "recommendCount": "688",
+      "title": "[新聞] 卓榮泰宣布：國家邁入大填海造陸計畫時代",
+      "link": "/bbs/Gossiping/M.1780738121.A.FCC",
+      "author": "lunyen",
+      "board": "Gossiping",
+      "publishTime": "2026/06/06 09:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "173",
+      "recommendCount": "711",
       "title": "[新聞] 是否辭職選市長？沈伯洋：當一天和尚敲一天鐘",
       "link": "/bbs/Gossiping/M.1780709812.A.44F",
       "author": "l983",
@@ -41,16 +51,6 @@
       "author": "komeko",
       "board": "Stock",
       "publishTime": "2026/06/05 14:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "210",
-      "recommendCount": "657",
-      "title": "[新聞] 卓榮泰宣布：國家邁入大填海造陸計畫時代",
-      "link": "/bbs/Gossiping/M.1780738121.A.FCC",
-      "author": "lunyen",
-      "board": "Gossiping",
-      "publishTime": "2026/06/06 09:28",
       "imageUrl": ""
     },
     {
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "312",
-      "recommendCount": "575",
+      "recommendScore": "314",
+      "recommendCount": "582",
       "title": "[請益] 指數正二教的，禮拜一會做什麼動作？",
       "link": "/bbs/Stock/M.1780727257.A.A58",
       "author": "dogwithheart",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "264",
-      "recommendCount": "371",
+      "recommendScore": "265",
+      "recommendCount": "372",
       "title": "[花邊] 硬糖一步過斑馬爆扣怒吼:他X的鬥不過我!",
       "link": "/bbs/NBA/M.1780716691.A.0E5",
       "author": "yniori",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "286",
-      "recommendCount": "496",
+      "recommendScore": "291",
+      "recommendCount": "501",
       "title": "[新聞] 不信數據情蒐！「老派」魔鷹來台3年早摸透：還要研究投手什麼？",
       "link": "/bbs/Baseball/M.1780723789.A.218",
       "author": "nybbnan",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "183",
-      "recommendCount": "368",
+      "recommendScore": "185",
+      "recommendCount": "373",
       "title": "[心得] 信心喊話",
       "link": "/bbs/Stock/M.1780719184.A.28B",
       "author": "dennis50253",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "145",
-      "recommendCount": "349",
+      "recommendScore": "146",
+      "recommendCount": "351",
       "title": "[新聞] 沈伯洋稱不排除赴陸交流 蔣萬安問民進黨一句話反酸",
       "link": "/bbs/Gossiping/M.1780718570.A.281",
       "author": "qweerrt123",
@@ -144,13 +144,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/HrbKrwQ/s/2c4d375c48ba22af6a1825ed38cd0f9b"
     },
     {
-      "recommendScore": "217",
-      "recommendCount": "363",
+      "recommendScore": "218",
+      "recommendCount": "364",
       "title": "[新聞] SPC 全部奪還!兄弟明星賽完全霸榜 百萬象",
       "link": "/bbs/Baseball/M.1780704402.A.136",
       "author": "micheal59",
       "board": "Baseball",
       "publishTime": "2026/06/06 00:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "210",
+      "recommendCount": "280",
+      "title": "[情報] 老巴:斑馬被硬糖拖到柴房狂操就這麼簡單",
+      "link": "/bbs/NBA/M.1780723992.A.73C",
+      "author": "yniori",
+      "board": "NBA",
+      "publishTime": "2026/06/06 05:33",
       "imageUrl": ""
     },
     {
@@ -174,18 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "206",
-      "recommendCount": "276",
-      "title": "[情報] 老巴:斑馬被硬糖拖到柴房狂操就這麼簡單",
-      "link": "/bbs/NBA/M.1780723992.A.73C",
-      "author": "yniori",
-      "board": "NBA",
-      "publishTime": "2026/06/06 05:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "213",
-      "recommendCount": "262",
+      "recommendScore": "218",
+      "recommendCount": "267",
       "title": "[公告] Stock 板 開始舉辦樂透!",
       "link": "/bbs/Stock/M.1780722991.A.DCF",
       "author": "BlueBird5566",
@@ -194,8 +194,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/hwXkvsG/s/154d1c63676426af6ecdbb91d14898ae"
     },
     {
-      "recommendScore": "131",
-      "recommendCount": "387",
+      "recommendScore": "139",
+      "recommendCount": "401",
       "title": "[請益] 台股這波暴漲是不是讓大家忘了風險評估",
       "link": "/bbs/Stock/M.1780733590.A.1D6",
       "author": "G4321",
