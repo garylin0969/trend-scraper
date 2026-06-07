@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-07T18:48:27.180Z",
+  "updated": "2026-06-07T19:20:15.162Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "330",
-      "recommendCount": "879",
+      "recommendScore": "331",
+      "recommendCount": "881",
       "title": "[問卦] 脆熱議：挺戒嚴！",
       "link": "/bbs/Gossiping/M.1780799732.A.2A3",
       "author": "pigpigcom123",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "290",
-      "recommendCount": "670",
+      "recommendScore": "289",
+      "recommendCount": "671",
       "title": "[新聞] 中國於台灣東部海域展開巡邏",
       "link": "/bbs/Gossiping/M.1780789603.A.C77",
       "author": "bear26",
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "287",
-      "recommendCount": "490",
+      "recommendCount": "493",
       "title": "[新聞] 詹皇出事了！打高爾夫入海 最嚴重恐關6年",
       "link": "/bbs/NBA/M.1780818022.A.19C",
       "author": "KC90",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "148",
-      "recommendCount": "355",
+      "recommendScore": "150",
+      "recommendCount": "359",
       "title": "[問卦]脆女:台北人好冷漠看我在暴雨滑倒不來幫",
       "link": "/bbs/Gossiping/M.1780830131.A.359",
       "author": "yyyyyuuuuu",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "178",
-      "recommendCount": "405",
+      "recommendScore": "179",
+      "recommendCount": "407",
       "title": "[問卦] Dcard 撐不下去了吧",
       "link": "/bbs/Gossiping/M.1780831680.A.859",
       "author": "ttyui",
@@ -174,23 +174,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "151",
-      "recommendCount": "292",
+      "recommendScore": "149",
+      "recommendCount": "294",
       "title": "Re: [心得] AI泡沫破裂 台股恐陷腰斬危機",
       "link": "/bbs/Stock/M.1780819769.A.934",
       "author": "ororolol",
       "board": "Stock",
       "publishTime": "2026/06/07 08:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "836",
-      "recommendCount": "1473",
-      "title": "[討論] [Vtub] Hololive 晚間直播單 (1150607)",
-      "link": "/bbs/C_Chat/M.1780828970.A.C1F",
-      "author": "laptic",
-      "board": "C_Chat",
-      "publishTime": "2026/06/07 10:42",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "thnlkj0665",
       "board": "basketballTW",
       "publishTime": "2026/06/07 08:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "838",
+      "recommendCount": "1473",
+      "title": "[討論] [Vtub] Hololive 晚間直播單 (1150607)",
+      "link": "/bbs/C_Chat/M.1780828970.A.C1F",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2026/06/07 10:42",
       "imageUrl": ""
     }
   ]
