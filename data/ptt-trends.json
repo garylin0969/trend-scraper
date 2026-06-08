@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-08T05:21:10.270Z",
+  "updated": "2026-06-08T07:02:22.618Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "381",
-      "recommendCount": "518",
+      "recommendScore": "397",
+      "recommendCount": "541",
       "title": "[新聞] 美股費半崩盤式大跌！謝金河：台日韓肯定會是重災區、特別是南韓",
       "link": "/bbs/Stock/M.1780884961.A.819",
       "author": "diefishfish",
@@ -14,8 +14,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "378",
+      "recommendCount": "647",
+      "title": "[花邊] 老詹IG：Catch Me If You Can",
+      "link": "/bbs/NBA/M.1780887403.A.B37",
+      "author": "shaaan",
+      "board": "NBA",
+      "publishTime": "2026/06/08 02:56",
+      "imageUrl": "https://cache.pttweb.cc/imgur/M3QVlNy/s/3efc3f7c45e8295c96d4109ca3f25790"
+    },
+    {
       "recommendScore": "141",
-      "recommendCount": "545",
+      "recommendCount": "558",
       "title": "[新聞] 沈伯洋不排斥到對岸交流",
       "link": "/bbs/Gossiping/M.1780873025.A.7F9",
       "author": "leocean9816",
@@ -25,7 +35,7 @@
     },
     {
       "recommendScore": "313",
-      "recommendCount": "547",
+      "recommendCount": "550",
       "title": "[新聞] 詹皇出事了！打高爾夫入海 最嚴重恐關6年",
       "link": "/bbs/NBA/M.1780818022.A.19C",
       "author": "KC90",
@@ -34,48 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "327",
-      "recommendCount": "561",
-      "title": "[花邊] 老詹IG：Catch Me If You Can",
-      "link": "/bbs/NBA/M.1780887403.A.B37",
-      "author": "shaaan",
-      "board": "NBA",
-      "publishTime": "2026/06/08 02:56",
-      "imageUrl": "https://cache.pttweb.cc/imgur/M3QVlNy/s/3efc3f7c45e8295c96d4109ca3f25790"
-    },
-    {
-      "recommendScore": "317",
-      "recommendCount": "661",
-      "title": "[新聞] 快訊／傅子純證實離世…生前零發病徵兆",
-      "link": "/bbs/Gossiping/M.1780827373.A.465",
-      "author": "Wojnarowski",
-      "board": "Gossiping",
-      "publishTime": "2026/06/07 10:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "299",
-      "recommendCount": "442",
-      "title": "[新聞] 快新聞／《新兵日記》男星傅子純疑罹血癌病逝　享年46歲",
-      "link": "/bbs/Gossiping/M.1780825111.A.A5D",
-      "author": "peterch",
-      "board": "Gossiping",
-      "publishTime": "2026/06/07 09:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "224",
-      "recommendCount": "414",
-      "title": "[新聞] 台股明面臨五大賣壓 法人：一旦失守月線恐下探4萬點大關",
-      "link": "/bbs/Stock/M.1780814880.A.CDF",
-      "author": "diefishfish",
-      "board": "Stock",
-      "publishTime": "2026/06/07 06:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "154",
-      "recommendCount": "481",
+      "recommendScore": "176",
+      "recommendCount": "555",
       "title": "[新聞] 快訊／南韓總統李在明「提到台灣」：台灣比南北韓更容易爆發戰爭",
       "link": "/bbs/Gossiping/M.1780885168.A.43A",
       "author": "tan608287",
@@ -84,8 +54,48 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "175",
-      "recommendCount": "406",
+      "recommendScore": "262",
+      "recommendCount": "436",
+      "title": "[情報] 台股前十大跌點紀錄(今天第三名)",
+      "link": "/bbs/Stock/M.1780897680.A.99E",
+      "author": "paidzou",
+      "board": "Stock",
+      "publishTime": "2026/06/08 05:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "319",
+      "recommendCount": "665",
+      "title": "[新聞] 快訊／傅子純證實離世…生前零發病徵兆",
+      "link": "/bbs/Gossiping/M.1780827373.A.465",
+      "author": "Wojnarowski",
+      "board": "Gossiping",
+      "publishTime": "2026/06/07 10:16",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "300",
+      "recommendCount": "443",
+      "title": "[新聞] 快新聞／《新兵日記》男星傅子純疑罹血癌病逝　享年46歲",
+      "link": "/bbs/Gossiping/M.1780825111.A.A5D",
+      "author": "peterch",
+      "board": "Gossiping",
+      "publishTime": "2026/06/07 09:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "196",
+      "recommendCount": "390",
+      "title": "[新聞] 快訊／大雨狂炸高雄！低窪處淹水慘況曝光　攤販苦嘆：東西水上漂先收攤",
+      "link": "/bbs/Gossiping/M.1780888453.A.3AF",
+      "author": "qqq87112",
+      "board": "Gossiping",
+      "publishTime": "2026/06/08 03:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "179",
+      "recommendCount": "412",
       "title": "[問卦]脆女:台北人好冷漠看我在暴雨滑倒不來幫",
       "link": "/bbs/Gossiping/M.1780830131.A.359",
       "author": "yyyyyuuuuu",
@@ -104,18 +114,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "169",
-      "recommendCount": "330",
-      "title": "[新聞] 快訊／大雨狂炸高雄！低窪處淹水慘況曝光　攤販苦嘆：東西水上漂先收攤",
-      "link": "/bbs/Gossiping/M.1780888453.A.3AF",
-      "author": "qqq87112",
+      "recommendScore": "167",
+      "recommendCount": "627",
+      "title": "[問卦] 長輩3C白痴到底是笨還是懶",
+      "link": "/bbs/Gossiping/M.1780886743.A.30F",
+      "author": "SkankHunt42",
       "board": "Gossiping",
-      "publishTime": "2026/06/08 03:14",
+      "publishTime": "2026/06/08 02:45",
       "imageUrl": ""
     },
     {
-      "recommendScore": "198",
-      "recommendCount": "463",
+      "recommendScore": "201",
+      "recommendCount": "468",
       "title": "[問卦] Dcard 撐不下去了吧",
       "link": "/bbs/Gossiping/M.1780831680.A.859",
       "author": "ttyui",
@@ -134,13 +144,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "174",
-      "recommendCount": "377",
+      "recommendScore": "175",
+      "recommendCount": "382",
       "title": "[新聞] 器捐漸少…每天3.3人 等不到移植過世",
       "link": "/bbs/Gossiping/M.1780842155.A.0D4",
       "author": "DarcyW",
       "board": "Gossiping",
       "publishTime": "2026/06/07 14:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "191",
+      "recommendCount": "450",
+      "title": "[閒聊] 想請問套女V皮的台灣男實況主是啥情況",
+      "link": "/bbs/C_Chat/M.1780886849.A.8EB",
+      "author": "borondawon",
+      "board": "C_Chat",
+      "publishTime": "2026/06/08 02:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "141",
+      "recommendCount": "440",
+      "title": "Re: [問卦] 義美無糖豆漿超難喝",
+      "link": "/bbs/Gossiping/M.1780876404.A.975",
+      "author": "iammatrix",
+      "board": "Gossiping",
+      "publishTime": "2026/06/07 23:53",
       "imageUrl": ""
     },
     {
@@ -154,48 +184,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "132",
-      "recommendCount": "516",
-      "title": "[問卦] 長輩3C白痴到底是笨還是懶",
-      "link": "/bbs/Gossiping/M.1780886743.A.30F",
-      "author": "SkankHunt42",
+      "recommendScore": "179",
+      "recommendCount": "321",
+      "title": "[新聞] 黃山料遭多米多羅狠批「史上最難看」",
+      "link": "/bbs/Gossiping/M.1780883741.A.AC0",
+      "author": "kinki999",
       "board": "Gossiping",
-      "publishTime": "2026/06/08 02:45",
+      "publishTime": "2026/06/08 01:55",
       "imageUrl": ""
     },
     {
-      "recommendScore": "137",
-      "recommendCount": "419",
-      "title": "Re: [問卦] 義美無糖豆漿超難喝",
-      "link": "/bbs/Gossiping/M.1780876404.A.975",
-      "author": "iammatrix",
-      "board": "Gossiping",
-      "publishTime": "2026/06/07 23:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "180",
-      "recommendCount": "417",
-      "title": "[閒聊] 想請問套女V皮的台灣男實況主是啥情況",
-      "link": "/bbs/C_Chat/M.1780886849.A.8EB",
-      "author": "borondawon",
-      "board": "C_Chat",
-      "publishTime": "2026/06/08 02:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "149",
-      "recommendCount": "296",
-      "title": "Re: [心得] AI泡沫破裂 台股恐陷腰斬危機",
-      "link": "/bbs/Stock/M.1780819769.A.934",
-      "author": "ororolol",
-      "board": "Stock",
-      "publishTime": "2026/06/07 08:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "131",
-      "recommendCount": "317",
+      "recommendScore": "133",
+      "recommendCount": "320",
       "title": "[問卦] 萊爾富是不是越來越強了？",
       "link": "/bbs/Gossiping/M.1780828639.A.AB8",
       "author": "lianginptt",
