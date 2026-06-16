@@ -1,21 +1,11 @@
 {
-  "updated": "2026-06-16T01:34:14.531Z",
+  "updated": "2026-06-16T02:34:38.713Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "502",
-      "recommendCount": "838",
-      "title": "[問卦] 脆熱議：民視新聞也慘遭停權！",
-      "link": "/bbs/Gossiping/M.1781493683.A.B59",
-      "author": "pigpigcom123",
-      "board": "Gossiping",
-      "publishTime": "2026/06/15 03:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "485",
-      "recommendCount": "519",
+      "recommendScore": "675",
+      "recommendCount": "723",
       "title": "[討論] 臺灣投打對決來了",
       "link": "/bbs/Baseball/M.1781570757.A.24B",
       "author": "darren31112",
@@ -24,8 +14,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "290",
-      "recommendCount": "632",
+      "recommendScore": "502",
+      "recommendCount": "839",
+      "title": "[問卦] 脆熱議：民視新聞也慘遭停權！",
+      "link": "/bbs/Gossiping/M.1781493683.A.B59",
+      "author": "pigpigcom123",
+      "board": "Gossiping",
+      "publishTime": "2026/06/15 03:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "292",
+      "recommendCount": "634",
       "title": "[新聞] 高雄51歲男「4天內2度毒駕」被抓　同一警連抓兩次驚：你出來了",
       "link": "/bbs/Gossiping/M.1781498489.A.AF9",
       "author": "palajuice",
@@ -64,8 +64,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/qNw5tGh/s/d881134784c48b7399841e72bd823ca0"
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "442",
+      "recommendScore": "246",
+      "recommendCount": "445",
       "title": "[新聞] Space X是龐氏騙局？謝金河揭「背後龐大供應鏈」打臉：世界對價值重新定價",
       "link": "/bbs/Stock/M.1781492316.A.690",
       "author": "FiveSix911",
@@ -74,38 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "243",
-      "recommendCount": "397",
-      "title": "[新聞] 川普「外星人合照」被秒刪！截圖瘋傳掀熱議  　AI真偽分析結果曝光",
-      "link": "/bbs/Gossiping/M.1781511198.A.1DE",
-      "author": "Scorpio",
-      "board": "Gossiping",
-      "publishTime": "2026/06/15 08:13",
-      "imageUrl": "https://cache.pttweb.cc/imgur/BtPnehs/s/8206a5a7f455545b113b9c731e0ee833"
-    },
-    {
-      "recommendScore": "167",
-      "recommendCount": "555",
-      "title": "[問卦] 脆女：小孩快兩歲就該帶出國玩",
-      "link": "/bbs/Gossiping/M.1781498008.A.E37",
-      "author": "koiopolo2",
-      "board": "Gossiping",
-      "publishTime": "2026/06/15 04:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "259",
-      "recommendCount": "332",
-      "title": "Re: [標的] 00631L 全力融資多",
-      "link": "/bbs/Stock/M.1781489266.A.BFF",
-      "author": "sweet79731",
-      "board": "Stock",
-      "publishTime": "2026/06/15 02:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "90",
-      "recommendCount": "1028",
+      "recommendScore": "88",
+      "recommendCount": "1108",
       "title": "[問卦] 進入中國後必須要遵守的一些潛規則",
       "link": "/bbs/Gossiping/M.1781550001.A.C28",
       "author": "Yeschange",
@@ -114,13 +84,43 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "206",
-      "recommendCount": "390",
+      "recommendScore": "244",
+      "recommendCount": "398",
+      "title": "[新聞] 川普「外星人合照」被秒刪！截圖瘋傳掀熱議  　AI真偽分析結果曝光",
+      "link": "/bbs/Gossiping/M.1781511198.A.1DE",
+      "author": "Scorpio",
+      "board": "Gossiping",
+      "publishTime": "2026/06/15 08:13",
+      "imageUrl": "https://cache.pttweb.cc/imgur/BtPnehs/s/8206a5a7f455545b113b9c731e0ee833"
+    },
+    {
+      "recommendScore": "165",
+      "recommendCount": "559",
+      "title": "[問卦] 脆女：小孩快兩歲就該帶出國玩",
+      "link": "/bbs/Gossiping/M.1781498008.A.E37",
+      "author": "koiopolo2",
+      "board": "Gossiping",
+      "publishTime": "2026/06/15 04:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "208",
+      "recommendCount": "392",
       "title": "[外絮] 富保羅:已有12支球隊☎過他，詢問LBJ",
       "link": "/bbs/NBA/M.1781511737.A.2E0",
       "author": "Qorqios",
       "board": "NBA",
       "publishTime": "2026/06/15 08:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "126",
+      "recommendCount": "341",
+      "title": "[新聞] Threads大規模停權帳號 數發部：已請業者協助復權並啟動調查",
+      "link": "/bbs/Gossiping/M.1781537472.A.296",
+      "author": "razan",
+      "board": "Gossiping",
+      "publishTime": "2026/06/15 15:31",
       "imageUrl": ""
     },
     {
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "216",
-      "recommendCount": "405",
+      "recommendScore": "215",
+      "recommendCount": "406",
       "title": "[花邊] 馬刺只有Kornet跟H.Barnes主動留下握手致",
       "link": "/bbs/NBA/M.1781497149.A.3B6",
       "author": "acemelo07",
@@ -144,24 +144,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "169",
-      "recommendCount": "316",
+      "recommendScore": "168",
+      "recommendCount": "317",
       "title": "[情報] 兄弟正式奪還！！",
       "link": "/bbs/Baseball/M.1781499960.A.8D9",
       "author": "gorbykuo",
       "board": "Baseball",
       "publishTime": "2026/06/15 05:06",
       "imageUrl": "https://cache.pttweb.cc/imgur/Nsuc68z/s/e462d5e0587d3e0542f396ae7ddc1b80"
-    },
-    {
-      "recommendScore": "122",
-      "recommendCount": "324",
-      "title": "[新聞] Threads大規模停權帳號 數發部：已請業者協助復權並啟動調查",
-      "link": "/bbs/Gossiping/M.1781537472.A.296",
-      "author": "razan",
-      "board": "Gossiping",
-      "publishTime": "2026/06/15 15:31",
-      "imageUrl": ""
     },
     {
       "recommendScore": "120",
@@ -184,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "283",
-      "recommendCount": "774",
-      "title": "Re: [討論] 斑馬跟馬刺的未來令人擔憂",
-      "link": "/bbs/NBA/M.1781487916.A.F06",
-      "author": "ccc101419",
-      "board": "NBA",
-      "publishTime": "2026/06/15 01:45",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "863",
       "recommendCount": "1479",
       "title": "[討論] [Vtub] Hololive 晚間直播單 (1150615)",
@@ -201,6 +181,26 @@
       "author": "laptic",
       "board": "C_Chat",
       "publishTime": "2026/06/15 10:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "146",
+      "recommendCount": "314",
+      "title": "[新聞]獨家／北市私校爆「老師揮拳」學生慘成熊貓眼",
+      "link": "/bbs/Gossiping/M.1781565191.A.A55",
+      "author": "linhu8883324",
+      "board": "Gossiping",
+      "publishTime": "2026/06/15 23:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "216",
+      "recommendCount": "221",
+      "title": "[交易] 玉井愛文芒果自產自銷 推文抽芒果",
+      "link": "/bbs/Tainan/M.1781503917.A.BED",
+      "author": "haha7788",
+      "board": "Tainan",
+      "publishTime": "2026/06/15 06:11",
       "imageUrl": ""
     }
   ]
