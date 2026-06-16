@@ -1,14 +1,22 @@
 {
-  "updated": "2026-06-16T02:39:32.466Z",
+  "updated": "2026-06-16T04:07:32.433Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-06-16T02:39:27.000Z",
+    "lastBuildDate": "2026-06-16T04:07:24.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "韓國星巴克爭議後，下周停業半天安排員工上歷史課",
+      "description": "該連鎖店因在軍事屠殺週年紀念日推出「坦克日」行銷噱頭而受到批評。",
+      "link": "https://www.bbc.com/zhongwen/articles/c8x242zqrgjo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-16T03:41:46.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c8x242zqrgjo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df4d/live/a0009660-68ad-11f1-a887-c513fdcee6e6.jpg"
+    },
     {
       "title": "白宮冷待、統戰部同框：鄭麗文15天訪美行程帶回了什麼？",
       "description": "外界原本預計鄭麗文有機會進入白宮艾森豪大樓，與美國國家安全會議官員會面。但媒體在大樓出入口等候多時，並未見鄭麗文現身，被指遭美方「冷處理」。",
@@ -16,6 +24,14 @@
       "pubDate": "2026-06-15T11:34:44.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c2lyj7024wwo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d157/live/b140e7f0-68bb-11f1-9e56-5d712991879f.jpg"
+    },
+    {
+      "title": "分析：伊朗協議為特朗普的戰爭劃下句號，也暴露了美國主導地位的局限",
+      "description": "2月28日，特朗普曾向伊朗人民承諾關於自由的願景，但他們如今仍然生活在一個殘暴政權統治之下。",
+      "link": "https://www.bbc.com/zhongwen/articles/c79y8y8p55go/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-16T03:41:05.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c79y8y8p55go/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e2ec/live/f929b930-68b0-11f1-a887-c513fdcee6e6.jpg"
     },
     {
       "title": "美國與伊朗宣布達成協議結束軍事行動，特朗普稱「讓石油流動起來！」",
@@ -26,28 +42,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b82b/live/0b1e95b0-6867-11f1-b1db-af71d47507d6.jpg"
     },
     {
-      "title": "英國與日本簽署總值180億英鎊的投資協議",
-      "description": "唐寧街表示，日本企業將在英國基礎設施和離岸風電領域投入數十億英鎊。",
-      "link": "https://www.bbc.com/zhongwen/articles/cq51zg720g8o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-15T05:32:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cq51zg720g8o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/539b/live/de1b20f0-67fe-11f1-9446-05fff8c055e2.jpg"
-    },
-    {
-      "title": "日本能否成為今屆世界盃的黑馬？",
-      "description": "日本有望成為2026年世界盃的驚喜之師之一。外界越來越相信，他們已準備好走得比以往任何一屆都更遠。",
-      "link": "https://www.bbc.com/zhongwen/articles/cgev1q0gq2do/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-15T11:32:07.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cgev1q0gq2do/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/48b4/live/f3b62c40-676b-11f1-9852-c7121e9e1897.jpg"
-    },
-    {
-      "title": "全球衝擊下，為什麼美國經濟持續逆勢而上？",
-      "description": "為什麼美國經濟在面臨相同的全球衝擊之下，仍然能持續優於許多其他經濟體？",
-      "link": "https://www.bbc.com/zhongwen/articles/cy04552x7r1o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-15T06:21:19.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cy04552x7r1o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e0cd/live/4877abc0-6599-11f1-99b8-5530f29d65f4.jpg"
+      "title": "首登世界盃零封西班牙，佛得角40歲門神創歷史",
+      "description": "首次晉身世界盃的佛得角爆冷逼和奪冠熱門西班牙，40歲門將在社交媒體上的追蹤者瞬間暴漲。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn8q9qdgwlno/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-16T03:23:20.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn8q9qdgwlno/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5264/live/55eae480-6930-11f1-b448-bd348b165b48.jpg"
     },
     {
       "title": "點擊瀏覽即時更新",
@@ -56,6 +56,14 @@
       "pubDate": "2026-06-12T04:11:10.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx211w7zkkeo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8bd/live/c8083d10-659d-11f1-8e1d-bbbb1017d210.png"
+    },
+    {
+      "title": "日本能否成為今屆世界盃的黑馬？",
+      "description": "日本有望成為2026年世界盃的驚喜之師之一。外界越來越相信，他們已準備好走得比以往任何一屆都更遠。",
+      "link": "https://www.bbc.com/zhongwen/articles/cgev1q0gq2do/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-15T11:32:07.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cgev1q0gq2do/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/48b4/live/f3b62c40-676b-11f1-9852-c7121e9e1897.jpg"
     },
     {
       "title": "Olé, olé, olé, olé：一首令人難忘的世界盃打氣歌曲需要什麼？",
@@ -82,12 +90,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fa2f/live/754ea070-67fd-11f1-8094-9970ec1ebecd.jpg"
     },
     {
-      "title": "2026足球世界盃賽程海報  點擊這裡免費下載",
-      "description": "你可以從這裡下載並打印免費的2026世界盃賽程海報，全面追蹤這項全球最大足球盛事的每一場賽程與比賽結果。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx21r3d9y1yo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-09T06:33:19.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx21r3d9y1yo/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/842b/live/d224de60-5e8c-11f1-89a3-d1f559421220.png"
+      "title": "全球衝擊下，為什麼美國經濟持續逆勢而上？",
+      "description": "為什麼美國經濟在面臨相同的全球衝擊之下，仍然能持續優於許多其他經濟體？",
+      "link": "https://www.bbc.com/zhongwen/articles/cy04552x7r1o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-15T06:21:19.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cy04552x7r1o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e0cd/live/4877abc0-6599-11f1-99b8-5530f29d65f4.jpg"
     },
     {
       "title": "瑞士公投否決將人口上限設為一千萬人",
@@ -114,14 +122,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b183/live/4c26bd20-65b1-11f1-8e1d-bbbb1017d210.jpg"
     },
     {
-      "title": "世界盃2026：足球會否終於「征服美國」，還是反過來？",
-      "description": "足球在美國日漸普及，背後受多元球迷群體和數碼增長推動，長期佔據主導地位的美國女子足球隊也扮演核心角色。不過，關於參與門檻和身份認同的問題仍然存在。",
-      "link": "https://www.bbc.com/zhongwen/articles/cz6vlevx5qno/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-13T07:00:04.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cz6vlevx5qno/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5aad/live/698513c0-68be-11f1-8546-8f19e4fe30f4.jpg"
-    },
-    {
       "title": "「沒想過他們這麼有錢」：台灣民間網站揭露多名立委、議員持股上億元",
       "description": "網站揭露，「台灣政壇股王」為國民黨籍台中市議會議長張清照，其持股市值約50億元新台幣，顏寬恒和王鴻薇則為立法院的股王、股后。",
       "link": "https://www.bbc.com/zhongwen/articles/cgqj1ndz78zo/trad?at_medium=RSS&at_campaign=rss",
@@ -138,20 +138,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1102/live/670cebd0-6621-11f1-9bc1-b74a9cee0cd8.jpg"
     },
     {
-      "title": "香港籃球教練體罰親歷者：「全部人都覺得不妥，但你又可以怎麼樣？」",
-      "description": "日前有網絡影片顯示，一名籃球教練抓着學生的手掌摑其面部，圍觀學生和助教均無阻止，引發討論。事實上，香港早已立法禁止老師體罰學生。但在競技運動上，是怎樣的權力架構和空間，仍然默許體罰存在？",
-      "link": "https://www.bbc.com/zhongwen/articles/c621r56739no/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-11T08:45:04.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c621r56739no/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0abe/live/e3cb05c0-63c0-11f1-9ff9-5d58eb5d116f.jpg"
-    },
-    {
       "title": "泰國當局判處兩維吾爾人死刑　BBC記者回憶當年的曼谷四面佛爆炸案",
       "description": "2015年造成20人死亡、120人受傷的泰國曼谷四面佛爆炸案一審判刑，當年遇難者中包括七名中國大陸與香港居民。",
       "link": "https://www.bbc.com/zhongwen/articles/c5yz48282n4o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-06-12T02:18:52.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c5yz48282n4o/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8489/live/6afd8fc0-6599-11f1-8e1d-bbbb1017d210.jpg"
+    },
+    {
+      "title": "香港籃球教練體罰親歷者：「全部人都覺得不妥，但你又可以怎麼樣？」",
+      "description": "日前有網絡影片顯示，一名籃球教練抓着學生的手掌摑其面部，圍觀學生和助教均無阻止，引發討論。事實上，香港早已立法禁止老師體罰學生。但在競技運動上，是怎樣的權力架構和空間，仍然默許體罰存在？",
+      "link": "https://www.bbc.com/zhongwen/articles/c621r56739no/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-11T08:45:04.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c621r56739no/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0abe/live/e3cb05c0-63c0-11f1-9ff9-5d58eb5d116f.jpg"
     },
     {
       "title": "香港籃球教練體罰爭議 前學員打破沉默",
