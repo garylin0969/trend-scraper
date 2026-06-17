@@ -1,22 +1,14 @@
 {
-  "updated": "2026-06-17T09:53:14.431Z",
+  "updated": "2026-06-17T11:51:40.550Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-06-17T09:53:06.000Z",
+    "lastBuildDate": "2026-06-17T11:51:30.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
-    {
-      "title": "世界各國船隻仍然過不了霍爾木茲海峽的三個原因",
-      "description": "專家指出，國際船舶要恢復通航霍爾木茲海峽，仍要克服三大障礙：安全風險、水雷與「過路費」。",
-      "link": "https://www.bbc.com/zhongwen/articles/c3ry894r045o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-17T08:58:59.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3ry894r045o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/939d/live/e5acdee0-6983-11f1-b1db-af71d47507d6.png"
-    },
     {
       "title": "梅西世界盃歷史性帽子戲法：50年來頂級足球員的身體如何改變",
       "description": "運動專家表示，比賽強度的提升，以及醫療與運動科學的進步，已大幅改變頂級球員的生理條件。",
@@ -26,12 +18,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a5c3/live/331dbc70-6a2f-11f1-b1db-af71d47507d6.jpg"
     },
     {
-      "title": "韓國星巴克爭議後，下周停業半天安排員工上歷史課",
-      "description": "該連鎖店因在軍事屠殺週年紀念日推出「坦克日」行銷噱頭而受到批評。",
-      "link": "https://www.bbc.com/zhongwen/articles/c8x242zqrgjo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-16T03:41:46.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c8x242zqrgjo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df4d/live/a0009660-68ad-11f1-a887-c513fdcee6e6.jpg"
+      "title": "德黑蘭將美伊協議包裝成勝利，而伊朗民眾想要的是柴米油鹽",
+      "description": "對許多伊朗人來說，問題不在於這項協議是否意味著勝利，而是它是否能降低物價，減少人們對再次開戰的恐懼。",
+      "link": "https://www.bbc.com/zhongwen/articles/c621j8z4rlno/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-17T10:47:45.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c621j8z4rlno/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd69/live/fa1ab490-698f-11f1-bf78-b9ee73ed2967.jpg"
+    },
+    {
+      "title": "世界各國船隻仍然過不了霍爾木茲海峽的三個原因",
+      "description": "專家指出，國際船舶要恢復通航霍爾木茲海峽，仍要克服三大障礙：安全風險、水雷與「過路費」。",
+      "link": "https://www.bbc.com/zhongwen/articles/c3ry894r045o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-17T08:58:59.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3ry894r045o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/939d/live/e5acdee0-6983-11f1-b1db-af71d47507d6.png"
     },
     {
       "title": "英國社交媒體禁令：大膽而直接，卻並非萬靈丹",
@@ -106,6 +106,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e2ec/live/f929b930-68b0-11f1-a887-c513fdcee6e6.jpg"
     },
     {
+      "title": "韓國星巴克爭議後，下周停業半天安排員工上歷史課",
+      "description": "該連鎖店因在軍事屠殺週年紀念日推出「坦克日」行銷噱頭而受到批評。",
+      "link": "https://www.bbc.com/zhongwen/articles/c8x242zqrgjo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-16T03:41:46.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c8x242zqrgjo/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df4d/live/a0009660-68ad-11f1-a887-c513fdcee6e6.jpg"
+    },
+    {
       "title": "政治與足球交織下，世界盃看台上的兩個伊朗",
       "description": "伊朗隊或許希望凝聚人心，但與新西蘭的首場比賽卻凸顯出，許多伊朗人之間的分歧依然深刻。\n\n",
       "link": "https://www.bbc.com/zhongwen/articles/c39yv87d3yzo/trad?at_medium=RSS&at_campaign=rss",
@@ -138,14 +146,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b183/live/4c26bd20-65b1-11f1-8e1d-bbbb1017d210.jpg"
     },
     {
-      "title": "「沒想過他們這麼有錢」：台灣民間網站揭露多名立委、議員持股上億元",
-      "description": "網站揭露，「台灣政壇股王」為國民黨籍台中市議會議長張清照，其持股市值約50億元新台幣，顏寬恒和王鴻薇則為立法院的股王、股后。",
-      "link": "https://www.bbc.com/zhongwen/articles/cgqj1ndz78zo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-12T08:36:05.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cgqj1ndz78zo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/72a5/live/08e0d8b0-660c-11f1-8546-8f19e4fe30f4.jpg"
-    },
-    {
       "title": "重慶虐狗風波：集會抗議被清場，中國立法反虐待動物有多難？",
       "description": "在中國，針對貓狗的虐殺、投毒等案件時有發生，重慶的虐狗事件為何引發抗議風波？在中國，立法禁止虐待動物到底有多難？",
       "link": "https://www.bbc.com/zhongwen/articles/c3wye90n4djo/trad?at_medium=RSS&at_campaign=rss",
@@ -154,7 +154,7 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1102/live/670cebd0-6621-11f1-9bc1-b74a9cee0cd8.jpg"
     },
     {
-      "title": "台灣原住民承拼板舟橫渡巴士海峽 尋根菲律賓重啟百年航線",
+      "title": "台灣原住民承拼板舟橫渡巴士海峽 「尋根」菲律賓重啟百年航線",
       "description": "一群台灣蘭嶼的達悟族原住民於週一（15日）乘坐傳統拼板舟出發，計劃橫渡巴士海峽前往菲律賓巴丹群島。此舉旨在重啟沉寂數百年的海上航線，重建兩地原住民迷失已久的文化連結。",
       "link": "https://www.bbc.com/zhongwen/articles/c0ry5vjjjl7o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-06-17T03:38:32.000Z",
@@ -234,7 +234,15 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7227/live/3f8dbf70-6325-11f1-b1db-af71d47507d6.jpg"
     },
     {
-      "title": "香港籃球教練體罰親歷者：「全部人都覺得不妥，但你又可以怎麼樣？」",
+      "title": "「沒想過他們這麼有錢」：台灣民間網站揭露多名立委、議員持股上億元",
+      "description": "網站揭露，「台灣政壇股王」為國民黨籍台中市議會議長張清照，其持股市值約50億元新台幣，顏寬恒和王鴻薇則為立法院的股王、股后。",
+      "link": "https://www.bbc.com/zhongwen/articles/cgqj1ndz78zo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-12T08:36:05.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cgqj1ndz78zo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/72a5/live/08e0d8b0-660c-11f1-8546-8f19e4fe30f4.jpg"
+    },
+    {
+      "title": "香港籃球教練體罰親歷者：「全部人都覺得不妥，但又能怎樣？」",
       "description": "日前有網絡影片顯示，一名籃球教練抓着學生的手掌摑其面部，圍觀學生和助教均無阻止，引發討論。事實上，香港早已立法禁止老師體罰學生。但在競技運動上，是怎樣的權力架構和空間，仍然默許體罰存在？",
       "link": "https://www.bbc.com/zhongwen/articles/c621r56739no/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-06-11T08:45:04.000Z",
@@ -250,15 +258,7 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ecf6/live/32bc89e0-64ae-11f1-9c89-85486d952f7c.jpg"
     },
     {
-      "title": "小紅書轉播足球世界盃了，播球和看球的女性還會被視為「花瓶」嗎？",
-      "description": "女性觀眾或者從業者的存在受到質疑、歧視乃至騷擾的問題一直存在。據稱女性用戶佔70%的「小紅書」拿下2026年世界盃版權，一個女性友好的平台成為官方轉播商，會使這種現象有所改變嗎？\n",
-      "link": "https://www.bbc.com/zhongwen/articles/c5y719lzn6po/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-09T01:10:36.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5y719lzn6po/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ff79/live/3a826050-60c6-11f1-80e9-dd3de3da8ef3.jpg"
-    },
-    {
-      "title": "習近平結束訪朝：不提「無核化」 重打「貿易牌」 對半島意味著什麼",
+      "title": "習近平訪朝不提「無核化」 重打「貿易牌」 對半島意味著什麼",
       "description": "「金正恩變得更大膽了。只要他不製造地區性動蕩，北京就不會試圖阻止他。」這便是「默許」的精確定義：不是同意，而是不攔。",
       "link": "https://www.bbc.com/zhongwen/articles/cx260z3k8yjo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-06-09T10:21:37.000Z",
