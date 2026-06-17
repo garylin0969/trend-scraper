@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T22:53:34.220Z",
+  "updated": "2026-06-17T23:35:55.012Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "290",
+      "recommendCount": "708",
+      "title": "[新聞] 再嗆台灣偷晶片！川普放狠話：不回美國就課200%稅",
+      "link": "/bbs/Stock/M.1781704452.A.CF4",
+      "author": "Gavatzky",
+      "board": "Stock",
+      "publishTime": "2026/06/17 13:54",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "188",
-      "recommendCount": "739",
+      "recommendCount": "743",
       "title": "[新聞] 台北像「剉冰」多過「火鍋」 沈伯洋：都可以吵要不要放芋頭",
       "link": "/bbs/Gossiping/M.1781685348.A.9CB",
       "author": "chopper594",
@@ -25,7 +35,7 @@
     },
     {
       "recommendScore": "289",
-      "recommendCount": "802",
+      "recommendCount": "805",
       "title": "[新聞] 沈伯洋：我根本沒講過「上班族住內湖就不會塞車」然後還有人信",
       "link": "/bbs/Gossiping/M.1781657221.A.997",
       "author": "tan608287",
@@ -34,18 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "283",
-      "recommendCount": "687",
-      "title": "[新聞] 再嗆台灣偷晶片！川普放狠話：不回美國就課200%稅",
-      "link": "/bbs/Stock/M.1781704452.A.CF4",
-      "author": "Gavatzky",
-      "board": "Stock",
-      "publishTime": "2026/06/17 13:54",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "199",
-      "recommendCount": "655",
+      "recommendCount": "656",
       "title": "[新聞] 「我明顯沒蔣萬安帥！」 沈伯洋盼選戰回歸市政",
       "link": "/bbs/Gossiping/M.1781671168.A.904",
       "author": "znck",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "409",
-      "recommendCount": "420",
+      "recommendScore": "411",
+      "recommendCount": "422",
       "title": "[贈票]【超少女】 特映搶先看",
       "link": "/bbs/movie/M.1781673130.A.47C",
       "author": "haha1121",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "353",
-      "recommendCount": "618",
+      "recommendScore": "357",
+      "recommendCount": "622",
       "title": "[外絮] 湖人休賽季 Luka:我想要一些射手跟中鋒",
       "link": "/bbs/NBA/M.1781682147.A.2BD",
       "author": "pneumo",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "63",
-      "recommendCount": "472",
+      "recommendScore": "70",
+      "recommendCount": "528",
       "title": "[新聞] 政院明提修法！毒駕拒測一律吊照、撞死人終身禁考",
       "link": "/bbs/Gossiping/M.1781711928.A.018",
       "author": "lamigo",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "59",
-      "recommendCount": "416",
+      "recommendScore": "63",
+      "recommendCount": "424",
       "title": "[新聞] 炒股加劇社會 M 型化 財政部允研議檢討奢侈稅",
       "link": "/bbs/Stock/M.1781693914.A.187",
       "author": "keel90135",
@@ -124,13 +124,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "201",
-      "recommendCount": "301",
+      "recommendScore": "202",
+      "recommendCount": "304",
       "title": "[情報] ASTS ：青鳥8.9.10號成功發射並進入軌道",
       "link": "/bbs/Stock/M.1781694358.A.DA5",
       "author": "Kai877",
       "board": "Stock",
       "publishTime": "2026/06/17 11:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "123",
+      "recommendCount": "335",
+      "title": "[新聞] 賴瑞隆拚了！自PO「鐵拳」影片 延續運動",
+      "link": "/bbs/Gossiping/M.1781705777.A.3ED",
+      "author": "CarBed",
+      "board": "Gossiping",
+      "publishTime": "2026/06/17 14:16",
       "imageUrl": ""
     },
     {
@@ -144,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "118",
+      "recommendCount": "427",
+      "title": "[問卦] 為什麼部分台灣人會覺得足球很無聊？",
+      "link": "/bbs/Gossiping/M.1781687842.A.649",
+      "author": "myis8787",
+      "board": "Gossiping",
+      "publishTime": "2026/06/17 09:17",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "163",
       "recommendCount": "337",
       "title": "[新聞] Threads達標5億用戶！負責人親曝：台灣靠「選舉」爆紅",
@@ -154,28 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "117",
-      "recommendCount": "426",
-      "title": "[問卦] 為什麼部分台灣人會覺得足球很無聊？",
-      "link": "/bbs/Gossiping/M.1781687842.A.649",
-      "author": "myis8787",
-      "board": "Gossiping",
-      "publishTime": "2026/06/17 09:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "117",
-      "recommendCount": "310",
-      "title": "[新聞] 賴瑞隆拚了！自PO「鐵拳」影片 延續運動",
-      "link": "/bbs/Gossiping/M.1781705777.A.3ED",
-      "author": "CarBed",
-      "board": "Gossiping",
-      "publishTime": "2026/06/17 14:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "114",
-      "recommendCount": "502",
+      "recommendScore": "113",
+      "recommendCount": "506",
       "title": "[問卦] 是否證明了，台灣不適合民主制度？",
       "link": "/bbs/Gossiping/M.1781677159.A.780",
       "author": "kons",
