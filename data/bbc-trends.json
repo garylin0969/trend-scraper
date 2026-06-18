@@ -1,14 +1,22 @@
 {
-  "updated": "2026-06-18T01:25:35.809Z",
+  "updated": "2026-06-18T02:39:14.238Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-06-18T01:25:24.000Z",
+    "lastBuildDate": "2026-06-18T02:38:58.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "日菲啓動劃界談判　中國海警東進：北京為何稱對台「近海治理」成功？",
+      "description": "日菲啟動太平洋專屬經濟區劃界談判引發中國強烈反制，北京宣稱已實現「近海治理」。專家指出，北京已將「灰色地帶」戰術施壓從台灣海峽擴展至東岸。",
+      "link": "https://www.bbc.com/zhongwen/articles/c24y1ep146lo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-18T02:16:41.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c24y1ep146lo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/66f3/live/59caf2d0-6aba-11f1-94e1-496848b1b769.png"
+    },
     {
       "title": "德黑蘭將美伊協議包裝成勝利，而伊朗民眾想要的是柴米油鹽",
       "description": "對許多伊朗人來說，問題不在於這項協議是否意味著勝利，而是它是否能降低物價，減少人們對再次開戰的恐懼。",
@@ -26,14 +34,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a5c3/live/331dbc70-6a2f-11f1-b1db-af71d47507d6.jpg"
     },
     {
-      "title": "世界各國船隻仍然過不了霍爾木茲海峽的三個原因",
-      "description": "專家指出，國際船舶要恢復通航霍爾木茲海峽，仍要克服三大障礙：安全風險、水雷與「過路費」。",
-      "link": "https://www.bbc.com/zhongwen/articles/c3ry894r045o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-17T08:58:59.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3ry894r045o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/939d/live/e5acdee0-6983-11f1-b1db-af71d47507d6.png"
-    },
-    {
       "title": "日本冰淇淋大戶涉嫌合謀定價遭反壟斷搜查",
       "description": "在酷暑難耐之際，日本六大冰品乳業巨頭遭到公正交易委員會搜查。",
       "link": "https://www.bbc.com/zhongwen/articles/cdr4gn705ppo/trad?at_medium=RSS&at_campaign=rss",
@@ -42,12 +42,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5129/live/adece430-6a2a-11f1-a5db-1fecb9f5cbdb.jpg"
     },
     {
-      "title": "中國一知名地下教會遭警方突襲，兩名領袖被拘",
-      "description": "秋雨聖約教會周一在一份聲明中稱，當時他們正在四川綿陽江油進行主日聚會，期間武裝警察突然闖入聚會場所。",
-      "link": "https://www.bbc.com/zhongwen/articles/c74y3y3481zo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-16T04:24:19.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c74y3y3481zo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2cb6/live/5bc24570-688a-11f1-8c6b-f595710535a5.jpg"
+      "title": "世界各國船隻仍然過不了霍爾木茲海峽的三個原因",
+      "description": "專家指出，國際船舶要恢復通航霍爾木茲海峽，仍要克服三大障礙：安全風險、水雷與「過路費」。",
+      "link": "https://www.bbc.com/zhongwen/articles/c3ry894r045o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-17T08:58:59.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3ry894r045o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/939d/live/e5acdee0-6983-11f1-b1db-af71d47507d6.png"
     },
     {
       "title": "點擊瀏覽即時更新",
@@ -98,6 +98,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d157/live/b140e7f0-68bb-11f1-9e56-5d712991879f.jpg"
     },
     {
+      "title": "中國一知名地下教會遭警方突襲，兩名領袖被拘",
+      "description": "秋雨聖約教會周一在一份聲明中稱，當時他們正在四川綿陽江油進行主日聚會，期間武裝警察突然闖入聚會場所。",
+      "link": "https://www.bbc.com/zhongwen/articles/c74y3y3481zo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-16T04:24:19.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c74y3y3481zo/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2cb6/live/5bc24570-688a-11f1-8c6b-f595710535a5.jpg"
+    },
+    {
       "title": "英國社交媒體禁令：大膽而直接，卻並非萬靈丹",
       "description": "BBC科技事務編輯佐伊・克萊因曼（Zoe Kleinman）探討即將影響年輕人網路生活的重大變化。",
       "link": "https://www.bbc.com/zhongwen/articles/cx2jgvp28xdo/trad?at_medium=RSS&at_campaign=rss",
@@ -144,14 +152,6 @@
       "pubDate": "2026-06-14T03:12:29.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cly0ne5y8x5o/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b183/live/4c26bd20-65b1-11f1-8e1d-bbbb1017d210.jpg"
-    },
-    {
-      "title": "重慶虐狗風波：集會抗議被清場，中國立法反虐待動物有多難？",
-      "description": "在中國，針對貓狗的虐殺、投毒等案件時有發生，重慶的虐狗事件為何引發抗議風波？在中國，立法禁止虐待動物到底有多難？",
-      "link": "https://www.bbc.com/zhongwen/articles/c3wye90n4djo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-12T08:53:08.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3wye90n4djo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1102/live/670cebd0-6621-11f1-9bc1-b74a9cee0cd8.jpg"
     },
     {
       "title": "台灣原住民承拼板舟橫渡巴士海峽 「尋根」菲律賓重啟百年航線",
@@ -234,6 +234,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7227/live/3f8dbf70-6325-11f1-b1db-af71d47507d6.jpg"
     },
     {
+      "title": "重慶虐狗風波：集會抗議被清場，中國立法反虐待動物有多難？",
+      "description": "在中國，針對貓狗的虐殺、投毒等案件時有發生，重慶的虐狗事件為何引發抗議風波？在中國，立法禁止虐待動物到底有多難？",
+      "link": "https://www.bbc.com/zhongwen/articles/c3wye90n4djo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-12T08:53:08.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3wye90n4djo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1102/live/670cebd0-6621-11f1-9bc1-b74a9cee0cd8.jpg"
+    },
+    {
       "title": "「沒想過他們這麼有錢」：台灣民間網站揭露多名立委、議員持股上億元",
       "description": "網站揭露，「台灣政壇股王」為國民黨籍台中市議會議長張清照，其持股市值約50億元新台幣，顏寬恒和王鴻薇則為立法院的股王、股后。",
       "link": "https://www.bbc.com/zhongwen/articles/cgqj1ndz78zo/trad?at_medium=RSS&at_campaign=rss",
@@ -264,14 +272,6 @@
       "pubDate": "2026-06-09T10:21:37.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx260z3k8yjo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e263/live/d21c2b60-63e8-11f1-bb83-f9b0320ac35b.jpg"
-    },
-    {
-      "title": "印太新局？日本與菲律賓最新軍事經濟結盟為何引發中國抗議",
-      "description": "日菲兩國宣佈正式啟動太平洋專屬經濟區劃界談判，這個被視為強化「第一島鏈」的戰略舉動立即引發中國強烈抨擊，稱有關舉動「完全非法且無效」，並派遣海警巡弋台灣東部海域。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx21293v800o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-05T08:30:13.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx21293v800o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8317/live/43940770-609e-11f1-89a3-d1f559421220.jpg"
     },
     {
       "title": "一部描繪潮汕華僑的中國電影《給阿嬤的情書》為何大賣",
