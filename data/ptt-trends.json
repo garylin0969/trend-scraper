@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T23:13:14.349Z",
+  "updated": "2026-06-19T23:43:44.087Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "563",
-      "recommendCount": "1046",
+      "recommendScore": "564",
+      "recommendCount": "1050",
       "title": "[問卦] 台灣榮登牛奶全球第一貴",
       "link": "/bbs/Gossiping/M.1781863382.A.432",
       "author": "seanliengodp",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "201",
-      "recommendCount": "447",
+      "recommendScore": "203",
+      "recommendCount": "449",
       "title": "[情報] 中信兄弟開除徐基麟（酒駕）",
       "link": "/bbs/Baseball/M.1781879552.A.F73",
       "author": "jack801016",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "111",
-      "recommendCount": "528",
+      "recommendScore": "113",
+      "recommendCount": "541",
       "title": "[問卦]館長：我真的不懂 為何我們業績一直下滑…",
       "link": "/bbs/Gossiping/M.1781874781.A.799",
       "author": "a91153456",
@@ -145,7 +145,7 @@
     },
     {
       "recommendScore": "163",
-      "recommendCount": "492",
+      "recommendCount": "494",
       "title": "[請益] 期貨風險真的大嗎？",
       "link": "/bbs/Stock/M.1781867691.A.255",
       "author": "ALEX492",
@@ -154,13 +154,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "239",
-      "recommendCount": "502",
+      "recommendScore": "242",
+      "recommendCount": "505",
       "title": "徐基麟毆打學弟？？",
       "link": "/bbs/Baseball/M.1781882328.A.BD5",
       "author": "aben15",
       "board": "Baseball",
       "publishTime": "2026/06/19 15:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "150",
+      "recommendCount": "321",
+      "title": "[問卦] 認真問 臺灣牛奶世界第一貴的原因是？",
+      "link": "/bbs/Gossiping/M.1781869117.A.11D",
+      "author": "black1x2y3z",
+      "board": "Gossiping",
+      "publishTime": "2026/06/19 11:38",
       "imageUrl": ""
     },
     {
@@ -174,33 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "148",
-      "recommendCount": "319",
-      "title": "[問卦] 認真問 臺灣牛奶世界第一貴的原因是？",
-      "link": "/bbs/Gossiping/M.1781869117.A.11D",
-      "author": "black1x2y3z",
-      "board": "Gossiping",
-      "publishTime": "2026/06/19 11:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "161",
-      "recommendCount": "337",
-      "title": "[情報] LBJ並不擔心要在Doncic身旁扮演輔助角色",
-      "link": "/bbs/NBA/M.1781843135.A.9C8",
-      "author": "shaaan",
-      "board": "NBA",
-      "publishTime": "2026/06/19 04:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "301",
-      "recommendCount": "707",
+      "recommendScore": "309",
+      "recommendCount": "725",
       "title": "[新聞] 徐基麟酒駕自撞現場畫面曝 電線桿撞歪、四輪朝天",
       "link": "/bbs/Baseball/M.1781885621.A.2B3",
       "author": "tomlishan",
       "board": "Baseball",
       "publishTime": "2026/06/19 16:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "170",
+      "recommendCount": "318",
+      "title": "[新聞] 聯電聯手英特爾跳級搶進先進製程！業界傳",
+      "link": "/bbs/Stock/M.1781880240.A.CEC",
+      "author": "aapcao",
+      "board": "Stock",
+      "publishTime": "2026/06/19 14:44",
       "imageUrl": ""
     }
   ]
