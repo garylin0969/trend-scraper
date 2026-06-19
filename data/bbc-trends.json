@@ -1,16 +1,24 @@
 {
-  "updated": "2026-06-19T09:50:36.813Z",
+  "updated": "2026-06-19T11:42:23.600Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-06-19T09:50:29.000Z",
+    "lastBuildDate": "2026-06-19T11:42:20.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
     {
-      "title": "伊朗和平協議影響你財務的五種可能 ",
+      "title": "中國「後地產時代」：地方政府從「賣地」到「做股東」的轉型成功了嗎？",
+      "description": "地方政府正在從「賣地者」變成「投資者」，從「地主」變成「股東」。但這場轉身並不那麼容易。",
+      "link": "https://www.bbc.com/zhongwen/articles/ce8j1rvjjvzo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-19T10:27:51.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce8j1rvjjvzo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c0f0/live/a1f381c0-6b97-11f1-b0cc-3d3aa508c8b5.jpg"
+    },
+    {
+      "title": "伊朗—美國和平協議影響你財務的五種可能",
       "description": "鑑於燃料和天然氣價格有所回落，BBC透過五張圖表，分析伊朗、美國與以色列之間敵對行動結束可能對你帶來的影響。",
       "link": "https://www.bbc.com/zhongwen/articles/cr7xzm1kpv5o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-06-19T04:37:29.000Z",
@@ -18,20 +26,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a0d6/live/f590fde0-6b28-11f1-bd3c-dfd1c36b4ceb.jpg"
     },
     {
-      "title": "AI浪潮下蘋果產品謀漲價　專家：追落後",
-      "description": "行將卸任的蘋果總裁庫克並未說明何時漲價、哪些產品將受影響，但稱這是「無可避免」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgqvl557e0o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-19T09:04:54.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgqvl557e0o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/09cb/live/82d01bd0-6aa9-11f1-9a45-c56b5234f7dc.jpg"
-    },
-    {
-      "title": "日菲啓動劃界談判　中國海警東進：北京對台「近海治理」成功？",
-      "description": "日菲啟動太平洋專屬經濟區劃界談判引發中國強烈反制，北京宣稱已實現「近海治理」。專家指出，北京已將「灰色地帶」戰術施壓從台灣海峽擴展至東岸。",
-      "link": "https://www.bbc.com/zhongwen/articles/c24y1ep146lo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-18T02:16:41.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c24y1ep146lo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/66f3/live/59caf2d0-6aba-11f1-94e1-496848b1b769.png"
+      "title": "英國首相競逐蓄勢待發　「北部王」貝安德其人其事",
+      "description": "大曼徹斯特市長貝安德當選國會下議院議員，為第三次挑戰工黨黨魁兼英國首相大位拉開帷幕。",
+      "link": "https://www.bbc.com/zhongwen/articles/c802k9v735no/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-19T11:25:54.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c802k9v735no/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9449/live/ba9c0f00-4e17-11f1-b55d-0f258dce1735.jpg"
     },
     {
       "title": "倫敦香港經貿辦案判刑：衛志樑監禁十年、袁松彪八年",
@@ -90,6 +90,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/842b/live/d224de60-5e8c-11f1-89a3-d1f559421220.png"
     },
     {
+      "title": "AI浪潮下蘋果產品謀漲價　專家：追落後",
+      "description": "行將卸任的蘋果總裁庫克並未說明何時漲價、哪些產品將受影響，但稱這是「無可避免」。",
+      "link": "https://www.bbc.com/zhongwen/articles/cvgqvl557e0o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-19T09:04:54.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvgqvl557e0o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/09cb/live/82d01bd0-6aa9-11f1-9a45-c56b5234f7dc.jpg"
+    },
+    {
       "title": "「他把單點菜單藏了起來」：誰應該為第一次約會付錢？",
       "description": "有些人堅持應該各自分攤費用，有人認為由提出邀請的一方付錢，而不少人仍將男性埋單視為是浪漫的表現。",
       "link": "https://www.bbc.com/zhongwen/articles/c0ky3d5ggpmo/trad?at_medium=RSS&at_campaign=rss",
@@ -104,6 +112,14 @@
       "pubDate": "2026-06-19T09:46:15.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c4gy2gen0p4o/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/885e/live/2a9114c0-6bc0-11f1-8e1d-bbbb1017d210.jpg"
+    },
+    {
+      "title": "日菲啓動劃界談判　中國海警東進：北京對台「近海治理」成功？",
+      "description": "日菲啟動太平洋專屬經濟區劃界談判引發中國強烈反制，北京宣稱已實現「近海治理」。專家指出，北京已將「灰色地帶」戰術施壓從台灣海峽擴展至東岸。",
+      "link": "https://www.bbc.com/zhongwen/articles/c24y1ep146lo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-18T02:16:41.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c24y1ep146lo/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/66f3/live/59caf2d0-6aba-11f1-94e1-496848b1b769.png"
     },
     {
       "title": "接種HPV疫苗年輕女性，子宮頸癌死亡率降至「接近零」",
@@ -138,20 +154,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd69/live/fa1ab490-698f-11f1-bf78-b9ee73ed2967.jpg"
     },
     {
-      "title": "白宮冷待、統戰部同框：鄭麗文15天訪美行程帶回了什麼？",
-      "description": "外界原本預計鄭麗文有機會進入白宮艾森豪大樓，與美國國家安全會議官員會面。但媒體在大樓出入口等候多時，並未見鄭麗文現身，被指遭美方「冷處理」。",
-      "link": "https://www.bbc.com/zhongwen/articles/c2lyj7024wwo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-15T11:34:44.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c2lyj7024wwo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d157/live/b140e7f0-68bb-11f1-9e56-5d712991879f.jpg"
-    },
-    {
-      "title": "日本冰淇淋大戶涉嫌合謀定價遭反壟斷搜查",
-      "description": "在酷暑難耐之際，日本六大冰品乳業巨頭遭到公正交易委員會搜查。",
-      "link": "https://www.bbc.com/zhongwen/articles/cdr4gn705ppo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-17T12:44:41.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cdr4gn705ppo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5129/live/adece430-6a2a-11f1-a5db-1fecb9f5cbdb.jpg"
+      "title": "經濟制裁、西方代表迴避：國際論壇現場的俄羅斯經濟挑戰",
+      "description": "烏克蘭六月初的無人機攻擊為普京在聖彼得堡舉辦的年度國際經濟論壇蒙上陰影。BBC俄羅斯事務編輯史蒂夫·羅森伯格帶觀眾走進論壇現場。在那裡，俄羅斯因戰爭承受的經濟壓力已經開始顯現衝擊。",
+      "link": "https://www.bbc.com/zhongwen/articles/cx2de9z1m34o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-19T10:25:14.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx2de9z1m34o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7540/live/e6fa5930-6bc2-11f1-8e1d-bbbb1017d210.jpg"
     },
     {
       "title": "「昨安葬父親，今告別母親」：伊波拉疫下死者日增 改變守喪文化",
@@ -184,14 +192,6 @@
       "pubDate": "2026-06-11T09:58:32.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cj9gnmkk28ro/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cfac/live/c6d520a0-6563-11f1-8e1d-bbbb1017d210.jpg"
-    },
-    {
-      "title": "緬甸政變五年：反抗軍與前線醫院面臨軍政府新一輪攻勢",
-      "description": "距緬甸政變已經過了五年，BBC記者夏昆汀與攝影記者達倫·康威深入當地，紀錄反抗軍的行動、年輕士兵抵抗的代價與位於叢林的前線醫院如何救治傷患。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1lynrqn59do/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-12T09:59:37.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1lynrqn59do/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ca25/live/5d8ca560-663e-11f1-8e1d-bbbb1017d210.jpg"
     },
     {
       "title": "特朗普和伊朗談判的核心：核問題如何解決？",
@@ -250,12 +250,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e0cd/live/4877abc0-6599-11f1-99b8-5530f29d65f4.jpg"
     },
     {
-      "title": "「沒想過他們這麼有錢」：台灣民間網站揭露多名立委、議員持股上億元",
-      "description": "網站揭露，「台灣政壇股王」為國民黨籍台中市議會議長張清照，其持股市值約50億元新台幣，顏寬恒和王鴻薇則為立法院的股王、股后。",
-      "link": "https://www.bbc.com/zhongwen/articles/cgqj1ndz78zo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-12T08:36:05.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cgqj1ndz78zo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/72a5/live/08e0d8b0-660c-11f1-8546-8f19e4fe30f4.jpg"
+      "title": "白宮冷待、統戰部同框：鄭麗文15天訪美行程帶回了什麼？",
+      "description": "外界原本預計鄭麗文有機會進入白宮艾森豪大樓，與美國國家安全會議官員會面。但媒體在大樓出入口等候多時，並未見鄭麗文現身，被指遭美方「冷處理」。",
+      "link": "https://www.bbc.com/zhongwen/articles/c2lyj7024wwo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-15T11:34:44.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c2lyj7024wwo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d157/live/b140e7f0-68bb-11f1-9e56-5d712991879f.jpg"
     },
     {
       "title": "香港籃球教練體罰親歷者：「全部人都覺得不妥，但又能怎樣？」",
