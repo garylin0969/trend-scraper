@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T11:06:13.236Z",
+  "updated": "2026-06-20T11:49:14.919Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,28 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "161",
-      "recommendCount": "357",
-      "title": "[問卦] 認真問 臺灣牛奶世界第一貴的原因是？",
-      "link": "/bbs/Gossiping/M.1781869117.A.11D",
-      "author": "black1x2y3z",
-      "board": "Gossiping",
-      "publishTime": "2026/06/19 11:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "175",
-      "recommendCount": "535",
-      "title": "[請益] 期貨風險真的大嗎？",
-      "link": "/bbs/Stock/M.1781867691.A.255",
-      "author": "ALEX492",
-      "board": "Stock",
-      "publishTime": "2026/06/19 11:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "133",
-      "recommendCount": "428",
+      "recommendScore": "132",
+      "recommendCount": "431",
       "title": "[新聞] 批陳建仁、廖俊智沒有學術風骨 台大教授陳培哲籲「廢中研院」",
       "link": "/bbs/Gossiping/M.1781911242.A.235",
       "author": "godofsex",
@@ -134,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "191",
-      "recommendCount": "377",
+      "recommendScore": "192",
+      "recommendCount": "380",
       "title": "[討論] 韓國最知名的體育人是李政厚還是孫興愍",
       "link": "/bbs/Baseball/M.1781920511.A.0F5",
       "author": "ej5g5",
@@ -164,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "184",
+      "recommendCount": "505",
+      "title": "[情報] 馬刺仍然將Fox視為先發控球後衛",
+      "link": "/bbs/NBA/M.1781891208.A.189",
+      "author": "dragon803",
+      "board": "NBA",
+      "publishTime": "2026/06/19 17:46",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "131",
       "recommendCount": "334",
       "title": "[新聞]  貨車司機貪快…仰德大道逆向超車！男大生遭撞慘死「母哭斷腸」",
@@ -184,23 +174,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "175",
-      "recommendCount": "485",
-      "title": "[情報] 馬刺仍然將Fox視為先發控球後衛",
-      "link": "/bbs/NBA/M.1781891208.A.189",
-      "author": "dragon803",
-      "board": "NBA",
-      "publishTime": "2026/06/19 17:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "111",
-      "recommendCount": "290",
+      "recommendScore": "112",
+      "recommendCount": "294",
       "title": "[新聞] 梁文傑指台灣人幾乎不吃鳳梨釋迦？ 李明賢：嘴賤傷農",
       "link": "/bbs/Gossiping/M.1781877687.A.168",
       "author": "zainc",
       "board": "Gossiping",
       "publishTime": "2026/06/19 14:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "143",
+      "recommendCount": "278",
+      "title": "[新聞] 中國5月消費數據出爐 跌回疫情封控時期",
+      "link": "/bbs/Stock/M.1781883367.A.344",
+      "author": "Su22",
+      "board": "Stock",
+      "publishTime": "2026/06/19 15:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-76",
+      "recommendCount": "231",
+      "title": "[新聞] 尋求在野合作 賴清德：我不會改變、也不會放棄",
+      "link": "/bbs/Gossiping/M.1781886205.A.468",
+      "author": "mongi",
+      "board": "Gossiping",
+      "publishTime": "2026/06/19 16:23",
       "imageUrl": ""
     }
   ]
