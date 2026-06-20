@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T18:51:00.658Z",
+  "updated": "2026-06-20T19:24:14.727Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "255",
+      "recommendCount": "548",
+      "title": "[新聞] 快訊／中東震撼彈！伊朗宣布「封鎖荷莫茲海峽」撂話：只是第一步",
+      "link": "/bbs/Stock/M.1781966486.A.B8A",
+      "author": "BikiniBottom",
+      "board": "Stock",
+      "publishTime": "2026/06/20 14:41",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "682",
       "recommendCount": "1484",
       "title": "[LIVE] 世界盃足球 巴拉圭@土耳其 場中",
@@ -34,18 +44,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/a23phBL/s/8c56b4ddd458ce8c3dbd7fd440d1bc41"
     },
     {
-      "recommendScore": "243",
-      "recommendCount": "534",
-      "title": "[新聞] 快訊／中東震撼彈！伊朗宣布「封鎖荷莫茲海峽」撂話：只是第一步",
-      "link": "/bbs/Stock/M.1781966486.A.B8A",
-      "author": "BikiniBottom",
-      "board": "Stock",
-      "publishTime": "2026/06/20 14:41",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "212",
-      "recommendCount": "563",
+      "recommendCount": "564",
       "title": "[爆卦] 日本等企業將幫美國出戰爭賠款24兆日元",
       "link": "/bbs/Gossiping/M.1781945542.A.750",
       "author": "swh922",
@@ -61,6 +61,16 @@
       "author": "Axwell",
       "board": "Baseball",
       "publishTime": "2026/06/20 00:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "205",
+      "recommendCount": "547",
+      "title": "[問卦] 為什麼這9年來台灣人不能檢討民生物價問",
+      "link": "/bbs/Gossiping/M.1781965802.A.AED",
+      "author": "fony1029",
+      "board": "Gossiping",
+      "publishTime": "2026/06/20 14:30",
       "imageUrl": ""
     },
     {
@@ -84,16 +94,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "196",
-      "recommendCount": "524",
-      "title": "[問卦] 為什麼這9年來台灣人不能檢討民生物價問",
-      "link": "/bbs/Gossiping/M.1781965802.A.AED",
-      "author": "fony1029",
-      "board": "Gossiping",
-      "publishTime": "2026/06/20 14:30",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "133",
       "recommendCount": "438",
       "title": "[新聞] 批陳建仁、廖俊智沒有學術風骨 台大教授陳培哲籲「廢中研院」",
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "77",
+      "recommendCount": "396",
+      "title": "[討論] 亞洲運動員的頂點是林書豪還是孫興愍",
+      "link": "/bbs/NBA/M.1781957576.A.C26",
+      "author": "shohei5566",
+      "board": "NBA",
+      "publishTime": "2026/06/20 12:12",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "192",
       "recommendCount": "388",
       "title": "[討論] 韓國最知名的體育人是李政厚還是孫興愍",
@@ -111,16 +121,6 @@
       "author": "ej5g5",
       "board": "Baseball",
       "publishTime": "2026/06/20 01:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "74",
-      "recommendCount": "386",
-      "title": "[討論] 亞洲運動員的頂點是林書豪還是孫興愍",
-      "link": "/bbs/NBA/M.1781957576.A.C26",
-      "author": "shohei5566",
-      "board": "NBA",
-      "publishTime": "2026/06/20 12:12",
       "imageUrl": ""
     },
     {
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "231",
-      "recommendCount": "485",
+      "recommendScore": "232",
+      "recommendCount": "489",
       "title": "[花邊] Hart:班馬淘汰雷霆後哭 就知道他們是盤菜",
       "link": "/bbs/NBA/M.1781938872.A.2AA",
       "author": "yochiya",
@@ -165,7 +165,7 @@
     },
     {
       "recommendScore": "123",
-      "recommendCount": "469",
+      "recommendCount": "470",
       "title": "[新聞] 30歲跟上行情買車房！他存款3000萬提早退休　1個月後喊：好空虛",
       "link": "/bbs/Stock/M.1781947788.A.5F9",
       "author": "icedog122",
