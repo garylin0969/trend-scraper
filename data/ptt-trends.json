@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T16:35:23.377Z",
+  "updated": "2026-06-20T17:08:31.559Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,8 +84,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "228",
-      "recommendCount": "471",
+      "recommendScore": "70",
+      "recommendCount": "371",
+      "title": "[討論] 亞洲運動員的頂點是林書豪還是孫興愍",
+      "link": "/bbs/NBA/M.1781957576.A.C26",
+      "author": "shohei5566",
+      "board": "NBA",
+      "publishTime": "2026/06/20 12:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "229",
+      "recommendCount": "472",
       "title": "[花邊] Hart:班馬淘汰雷霆後哭 就知道他們是盤菜",
       "link": "/bbs/NBA/M.1781938872.A.2AA",
       "author": "yochiya",
@@ -124,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "177",
+      "recommendCount": "194",
+      "title": "Re: [蔚藍] 山海經新活動 滿滿的衛星",
+      "link": "/bbs/C_Chat/M.1781955018.A.FB0",
+      "author": "nahsnib",
+      "board": "C_Chat",
+      "publishTime": "2026/06/20 11:30",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "137",
       "recommendCount": "270",
       "title": "[新聞] SpaceX股價兩連跌 散戶帳面收益幾近蒸發",
@@ -134,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "110",
-      "recommendCount": "245",
+      "recommendScore": "111",
+      "recommendCount": "247",
       "title": "[新聞] 霸凌日混血女童！14名同學嗆「滾回妳國家」釘書包　家長崩潰轉學",
       "link": "/bbs/Gossiping/M.1781937229.A.0D4",
       "author": "hito0509",
@@ -182,26 +202,6 @@
       "board": "Elephants",
       "publishTime": "2026/06/20 07:18",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "119",
-      "recommendCount": "180",
-      "title": "[問卦] 民視的Threads帳號又被停權了！",
-      "link": "/bbs/Gossiping/M.1781939682.A.06B",
-      "author": "betweenus020",
-      "board": "Gossiping",
-      "publishTime": "2026/06/20 07:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "106",
-      "recommendCount": "210",
-      "title": "[新聞] 勇士對Kawhi Leonard有濃厚興趣 但也有B計畫",
-      "link": "/bbs/NBA/M.1781931406.A.E65",
-      "author": "fack3170",
-      "board": "NBA",
-      "publishTime": "2026/06/20 04:56",
-      "imageUrl": "https://cache.pttweb.cc/imgur/mTtGqqM/s/668b03205c676682ea9f6b3d39487a6d"
     }
   ]
 }
