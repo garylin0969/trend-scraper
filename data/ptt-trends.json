@@ -1,21 +1,11 @@
 {
-  "updated": "2026-06-20T03:47:07.293Z",
+  "updated": "2026-06-20T05:17:32.930Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "1476",
-      "recommendCount": "1497",
-      "title": "[抽獎] PS5 俠盜列車手VI",
-      "link": "/bbs/C_Chat/M.1781844696.A.F18",
-      "author": "ririkasos",
-      "board": "C_Chat",
-      "publishTime": "2026/06/19 04:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "577",
-      "recommendCount": "1072",
+      "recommendScore": "579",
+      "recommendCount": "1076",
       "title": "[問卦] 台灣榮登牛奶全球第一貴",
       "link": "/bbs/Gossiping/M.1781863382.A.432",
       "author": "seanliengodp",
@@ -24,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "128",
-      "recommendCount": "620",
+      "recommendScore": "131",
+      "recommendCount": "639",
       "title": "[問卦]館長：我真的不懂 為何我們業績一直下滑…",
       "link": "/bbs/Gossiping/M.1781874781.A.799",
       "author": "a91153456",
@@ -34,8 +24,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "208",
-      "recommendCount": "461",
+      "recommendScore": "677",
+      "recommendCount": "1484",
+      "title": "[LIVE] 世界盃足球 巴拉圭@土耳其 場中",
+      "link": "/bbs/SportLottery/M.1781922658.A.787",
+      "author": "Lige",
+      "board": "SportLottery",
+      "publishTime": "2026/06/20 02:30",
+      "imageUrl": "https://cache.pttweb.cc/imgur/yEmV4t6/s/e999144d39b3a38d308028a674386fea"
+    },
+    {
+      "recommendScore": "207",
+      "recommendCount": "464",
       "title": "[情報] 中信兄弟開除徐基麟（酒駕）",
       "link": "/bbs/Baseball/M.1781879552.A.F73",
       "author": "jack801016",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "187",
-      "recommendCount": "624",
+      "recommendScore": "188",
+      "recommendCount": "628",
       "title": "[問卦] 你贊成類軍警系統進入校園嗎？",
       "link": "/bbs/Gossiping/M.1781859859.A.C0D",
       "author": "L1ON",
@@ -54,28 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "176",
-      "recommendCount": "539",
-      "title": "[問卦] 駕訓班教練是不是最可悲的一群人",
-      "link": "/bbs/Gossiping/M.1781844306.A.6FC",
-      "author": "Superxixai",
-      "board": "Gossiping",
-      "publishTime": "2026/06/19 04:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "350",
-      "recommendCount": "801",
-      "title": "[新聞] 徐基麟酒駕自撞現場畫面曝 電線桿撞歪、四輪朝天",
-      "link": "/bbs/Baseball/M.1781885621.A.2B3",
-      "author": "tomlishan",
-      "board": "Baseball",
-      "publishTime": "2026/06/19 16:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "254",
-      "recommendCount": "294",
+      "recommendScore": "282",
+      "recommendCount": "325",
       "title": "[情報] 大谷 陪產假",
       "link": "/bbs/Baseball/M.1781914467.A.5C5",
       "author": "Axwell",
@@ -84,8 +64,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "202",
-      "recommendCount": "388",
+      "recommendScore": "353",
+      "recommendCount": "807",
+      "title": "[新聞] 徐基麟酒駕自撞現場畫面曝 電線桿撞歪、四輪朝天",
+      "link": "/bbs/Baseball/M.1781885621.A.2B3",
+      "author": "tomlishan",
+      "board": "Baseball",
+      "publishTime": "2026/06/19 16:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "209",
+      "recommendCount": "397",
       "title": "[新聞] 聯電聯手英特爾跳級搶進先進製程！業界傳",
       "link": "/bbs/Stock/M.1781880240.A.CEC",
       "author": "aapcao",
@@ -94,8 +84,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "171",
-      "recommendCount": "525",
+      "recommendScore": "195",
+      "recommendCount": "423",
+      "title": "[新聞] 松江路大樓夾殺「都更孤島」成形　島主撤出售牌、拉封鎖線",
+      "link": "/bbs/Gossiping/M.1781919640.A.B8F",
+      "author": "icemaydays",
+      "board": "Gossiping",
+      "publishTime": "2026/06/20 01:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "160",
+      "recommendCount": "349",
+      "title": "[問卦] 認真問 臺灣牛奶世界第一貴的原因是？",
+      "link": "/bbs/Gossiping/M.1781869117.A.11D",
+      "author": "black1x2y3z",
+      "board": "Gossiping",
+      "publishTime": "2026/06/19 11:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "173",
+      "recommendCount": "527",
       "title": "[請益] 期貨風險真的大嗎？",
       "link": "/bbs/Stock/M.1781867691.A.255",
       "author": "ALEX492",
@@ -104,23 +114,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "252",
-      "recommendCount": "531",
+      "recommendScore": "254",
+      "recommendCount": "533",
       "title": "徐基麟毆打學弟？？",
       "link": "/bbs/Baseball/M.1781882328.A.BD5",
       "author": "aben15",
       "board": "Baseball",
       "publishTime": "2026/06/19 15:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "158",
-      "recommendCount": "345",
-      "title": "[問卦] 認真問 臺灣牛奶世界第一貴的原因是？",
-      "link": "/bbs/Gossiping/M.1781869117.A.11D",
-      "author": "black1x2y3z",
-      "board": "Gossiping",
-      "publishTime": "2026/06/19 11:38",
       "imageUrl": ""
     },
     {
@@ -134,38 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "539",
-      "recommendCount": "954",
-      "title": "[LIVE] 世界盃足球 海地@巴西 場中",
-      "link": "/bbs/SportLottery/M.1781914999.A.DB3",
-      "author": "Lige",
-      "board": "SportLottery",
-      "publishTime": "2026/06/20 00:23",
-      "imageUrl": "https://cache.pttweb.cc/imgur/GELyExH/s/40f86b66c10480520fb25106ae30c76b"
-    },
-    {
-      "recommendScore": "161",
-      "recommendCount": "338",
-      "title": "[情報] LBJ並不擔心要在Doncic身旁扮演輔助角色",
-      "link": "/bbs/NBA/M.1781843135.A.9C8",
-      "author": "shaaan",
-      "board": "NBA",
-      "publishTime": "2026/06/19 04:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "73",
-      "recommendCount": "365",
-      "title": "[新聞] 鄭麗文表態：若沒宣布台獨...大陸仍武力犯台　一定戰鬥還擊",
-      "link": "/bbs/Gossiping/M.1781849072.A.FF2",
-      "author": "LeeSeDol",
-      "board": "Gossiping",
-      "publishTime": "2026/06/19 06:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "110",
-      "recommendCount": "346",
+      "recommendScore": "115",
+      "recommendCount": "393",
       "title": "[新聞] 批陳建仁、廖俊智沒有學術風骨 台大教授陳培哲籲「廢中研院」",
       "link": "/bbs/Gossiping/M.1781911242.A.235",
       "author": "godofsex",
@@ -174,8 +144,38 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "180",
-      "recommendCount": "300",
+      "recommendScore": "541",
+      "recommendCount": "960",
+      "title": "[LIVE] 世界盃足球 海地@巴西 場中",
+      "link": "/bbs/SportLottery/M.1781914999.A.DB3",
+      "author": "Lige",
+      "board": "SportLottery",
+      "publishTime": "2026/06/20 00:23",
+      "imageUrl": "https://cache.pttweb.cc/imgur/GELyExH/s/40f86b66c10480520fb25106ae30c76b"
+    },
+    {
+      "recommendScore": "72",
+      "recommendCount": "370",
+      "title": "[新聞] 鄭麗文表態：若沒宣布台獨...大陸仍武力犯台　一定戰鬥還擊",
+      "link": "/bbs/Gossiping/M.1781849072.A.FF2",
+      "author": "LeeSeDol",
+      "board": "Gossiping",
+      "publishTime": "2026/06/19 06:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "167",
+      "recommendCount": "322",
+      "title": "[討論] 韓國最知名的體育人是李政厚還是孫興愍",
+      "link": "/bbs/Baseball/M.1781920511.A.0F5",
+      "author": "ej5g5",
+      "board": "Baseball",
+      "publishTime": "2026/06/20 01:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "181",
+      "recommendCount": "303",
       "title": "[閒聊] Fantia 開放申請復原已刪除的作品",
       "link": "/bbs/C_Chat/M.1781862544.A.2E9",
       "author": "dahos",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "119",
-      "recommendCount": "273",
+      "recommendScore": "120",
+      "recommendCount": "277",
       "title": "[新聞] 台灣牛奶「全球最貴」超越香港新加坡 網諷：讓世界看見台灣",
       "link": "/bbs/Gossiping/M.1781874002.A.470",
       "author": "blue999",
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "240",
-      "recommendCount": "736",
+      "recommendScore": "243",
+      "recommendCount": "742",
       "title": "[討論] 台灣coser發文公審攝影師+要錢 反遭炎上",
       "link": "/bbs/C_Chat/M.1781861430.A.414",
       "author": "Ragdolg",
