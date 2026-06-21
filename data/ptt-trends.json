@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-21T12:57:22.798Z",
+  "updated": "2026-06-21T13:39:11.147Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "315",
-      "recommendCount": "958",
+      "recommendCount": "959",
       "title": "[新聞] 影音／等不到一句抱歉...移工撞死人「肇逃出境」　家屬控雇主未出面",
       "link": "/bbs/Gossiping/M.1782001488.A.090",
       "author": "YumingHuang",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "182",
-      "recommendCount": "449",
+      "recommendScore": "183",
+      "recommendCount": "455",
       "title": "[新聞] 喊「真心換絕情」！汶汶阿北行兇動機曝遭雙重封鎖抓狂成黑粉",
       "link": "/bbs/Gossiping/M.1782009763.A.9A2",
       "author": "jal0309",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "155",
-      "recommendCount": "611",
+      "recommendScore": "162",
+      "recommendCount": "638",
       "title": "[新聞] 台灣鮮乳正式躍居全球最貴！原因曝光",
       "link": "/bbs/Stock/M.1782015272.A.A68",
       "author": "TCB006",
@@ -114,18 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "379",
-      "recommendCount": "1314",
-      "title": "[閒聊] 推特熱議：母親投書「不買遊戲機是對的」",
-      "link": "/bbs/C_Chat/M.1782008746.A.623",
-      "author": "LABOYS",
-      "board": "C_Chat",
-      "publishTime": "2026/06/21 02:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "173",
-      "recommendCount": "393",
+      "recommendScore": "177",
+      "recommendCount": "403",
       "title": "[問卦] 砍人伯花16萬買啦啦隊簽名卡？？？？？",
       "link": "/bbs/Gossiping/M.1782010589.A.C09",
       "author": "SpectreMan",
@@ -134,8 +124,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "138",
-      "recommendCount": "339",
+      "recommendScore": "381",
+      "recommendCount": "1318",
+      "title": "[閒聊] 推特熱議：母親投書「不買遊戲機是對的」",
+      "link": "/bbs/C_Chat/M.1782008746.A.623",
+      "author": "LABOYS",
+      "board": "C_Chat",
+      "publishTime": "2026/06/21 02:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "140",
+      "recommendCount": "344",
       "title": "[問卦] 脆熱議：吵牛奶很貴是中共的陰謀！",
       "link": "/bbs/Gossiping/M.1782015720.A.341",
       "author": "pigpigcom123",
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "161",
-      "recommendCount": "286",
-      "title": "[新聞] 伊朗軍方指揮部表示：荷姆茲海峽再次關閉",
-      "link": "/bbs/Stock/M.1781962311.A.DB9",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2026/06/20 13:31",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "183",
       "recommendCount": "243",
       "title": "[問卦](發錢)台灣現在去掉什麼馬上立刻會變好？",
@@ -184,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "163",
-      "recommendCount": "532",
+      "recommendScore": "164",
+      "recommendCount": "533",
       "title": "Re: [問卦] 為何喝不起鮮奶(全球最貴)要怪國家的八卦",
       "link": "/bbs/Gossiping/M.1781998818.A.88D",
       "author": "Killercat",
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "133",
-      "recommendCount": "505",
+      "recommendScore": "134",
+      "recommendCount": "506",
       "title": "[問卦] 美知名媒體人:沒想到美國霸權終結在伊朗",
       "link": "/bbs/Gossiping/M.1782005852.A.666",
       "author": "gn1384181",
       "board": "Gossiping",
       "publishTime": "2026/06/21 01:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "161",
+      "recommendCount": "252",
+      "title": "[新聞] 打擊率2成15的貝茲能打明星賽？美媒批球迷「沒必要如此盲目」",
+      "link": "/bbs/Baseball/M.1782010223.A.28F",
+      "author": "ahshao",
+      "board": "Baseball",
+      "publishTime": "2026/06/21 02:50",
       "imageUrl": ""
     }
   ]
