@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T20:19:27.628Z",
+  "updated": "2026-06-21T20:51:53.831Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "311",
-      "recommendCount": "660",
+      "recommendCount": "661",
       "title": "[新聞] 快訊／阿北移送情緒激動！雙手抵住拒上警車　怒吼：汶汶逼我這樣做",
       "link": "/bbs/Gossiping/M.1782023122.A.66B",
       "author": "Oisiossos",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "309",
-      "recommendCount": "460",
+      "recommendScore": "312",
+      "recommendCount": "465",
       "title": "Re: [新聞] 外媒大讚賴清德「真誠、有能力」一場茶敘看見台灣民主韌性",
       "link": "/bbs/Gossiping/M.1782039523.A.E61",
       "author": "zebra101",
@@ -52,6 +52,16 @@
       "board": "SportLottery",
       "publishTime": "2026/06/21 03:30",
       "imageUrl": "https://cache.pttweb.cc/imgur/NcfNR1t/s/e5914c35eb368e11e8de2cb6f08d9ed9"
+    },
+    {
+      "recommendScore": "37",
+      "recommendCount": "393",
+      "title": "[討論] Durant解釋加盟勇士:他們是Underdog",
+      "link": "/bbs/NBA/M.1782049716.A.2E5",
+      "author": "OsmanGo",
+      "board": "NBA",
+      "publishTime": "2026/06/21 13:48",
+      "imageUrl": ""
     },
     {
       "recommendScore": "170",
@@ -191,16 +201,6 @@
       "author": "xephon",
       "board": "Baseball",
       "publishTime": "2026/06/21 08:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "176",
-      "recommendCount": "503",
-      "title": "[閒聊] 日本足球怎麼這麼強啊？",
-      "link": "/bbs/C_Chat/M.1782020423.A.D63",
-      "author": "yniori",
-      "board": "C_Chat",
-      "publishTime": "2026/06/21 05:40",
       "imageUrl": ""
     }
   ]
