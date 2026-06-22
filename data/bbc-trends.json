@@ -1,14 +1,22 @@
 {
-  "updated": "2026-06-22T02:39:13.412Z",
+  "updated": "2026-06-22T04:07:35.438Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-06-22T02:39:07.000Z",
+    "lastBuildDate": "2026-06-22T04:07:30.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "斡旋國：美伊瑞士首輪談判「進展令人鼓舞」",
+      "description": "在伊朗與美國簽署「諒解備忘錄」後，兩國代表到瑞士琉森湖畔展開談判，預期在60天內達成最終協議。",
+      "link": "https://www.bbc.com/zhongwen/articles/c30yzqz7013o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-22T03:46:40.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c30yzqz7013o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e23/live/263cd140-6dee-11f1-8546-8f19e4fe30f4.jpg"
+    },
     {
       "title": "「逼宮」壓力倍增 英國首相施紀賢在考慮其政治前途",
       "description": "美國總統特朗普在網路社交媒體上稱，英國首相施紀賢爵士「將會辭職」，為英國動盪政局再添一擊。",
@@ -24,14 +32,6 @@
       "pubDate": "2026-06-21T23:15:41.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cp36kl4xxwqo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/551f/live/d7fe7860-6bbf-11f1-8e5f-879143928516.jpg"
-    },
-    {
-      "title": "日本流行女團XG：從殘酷五年練習生蛻變成全球流行巨星",
-      "description": "這支日本流行音樂組合在青少年時期就被發掘，如今已成為全球巨星。",
-      "link": "https://www.bbc.com/zhongwen/articles/c20ypq29xx9o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-21T04:35:33.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c20ypq29xx9o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b66/live/75d5eb00-6bf1-11f1-8631-5f302ec8cd09.jpg"
     },
     {
       "title": "「『上帝之手』固然經典，但馬拉多納的第二個入球呢？』」",
@@ -90,20 +90,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/842b/live/d224de60-5e8c-11f1-89a3-d1f559421220.png"
     },
     {
-      "title": "協議剛簽談判在即海峽再度封航 美國質疑伊朗吹噓",
-      "description": "伊朗海軍以黎巴嫩仍遭以色列轟擊為由，在瑞士談判前夕再度宣佈封鎖霍爾木茲海峽。美軍反駁稱區內船舶正常航行。",
-      "link": "https://www.bbc.com/zhongwen/articles/cy8dkpmn570o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-21T00:05:05.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cy8dkpmn570o/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b522/live/df959320-6cb8-11f1-9fea-e751269afdb9.jpg"
-    },
-    {
       "title": "施紀賢仍想繼續穩坐英國首相寶座，可他的支持者正「迅速蒸發」",
       "description": "BBC週日政論節目主持昆斯伯格說，大曼城市長貝安德在國會補選中旗開得勝後，首相施紀賢爵士的支持者正離他而去。",
       "link": "https://www.bbc.com/zhongwen/articles/cx2wnvlqn9go/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-06-21T03:51:00.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx2wnvlqn9go/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6079/live/e4af7040-6bed-11f1-b1db-af71d47507d6.jpg"
+    },
+    {
+      "title": "日本流行女團XG：從殘酷五年練習生蛻變成全球流行巨星",
+      "description": "這支日本流行音樂組合在青少年時期就被發掘，如今已成為全球巨星。",
+      "link": "https://www.bbc.com/zhongwen/articles/c20ypq29xx9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-21T04:35:33.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c20ypq29xx9o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b66/live/75d5eb00-6bf1-11f1-8631-5f302ec8cd09.jpg"
+    },
+    {
+      "title": "協議剛簽談判在即海峽再度封航 美國質疑伊朗吹噓",
+      "description": "伊朗海軍以黎巴嫩仍遭以色列轟擊為由，在瑞士談判前夕再度宣佈封鎖霍爾木茲海峽。美軍反駁稱區內船舶正常航行。",
+      "link": "https://www.bbc.com/zhongwen/articles/cy8dkpmn570o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-21T00:05:05.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cy8dkpmn570o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b522/live/df959320-6cb8-11f1-9fea-e751269afdb9.jpg"
     },
     {
       "title": "莫斯科煉油廠遇襲，俄烏戰爭離俄羅斯本土從此更近一步",
@@ -136,14 +144,6 @@
       "pubDate": "2026-06-19T07:18:38.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c0ky3d5ggpmo/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2bee/live/f9804710-6a44-11f1-8546-8f19e4fe30f4.png"
-    },
-    {
-      "title": "AI浪潮下蘋果產品謀漲價　專家：追落後",
-      "description": "行將卸任的蘋果總裁庫克並未說明何時漲價、哪些產品將受影響，但稱這是「無可避免」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgqvl557e0o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-19T09:04:54.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgqvl557e0o/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/09cb/live/82d01bd0-6aa9-11f1-9a45-c56b5234f7dc.jpg"
     },
     {
       "title": "英國首相競逐蓄勢待發　「北部王」貝安德其人其事",
