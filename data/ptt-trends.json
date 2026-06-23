@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T03:22:11.718Z",
+  "updated": "2026-06-23T04:50:29.920Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -52,16 +52,6 @@
       "board": "C_Chat",
       "publishTime": "2026/06/22 08:51",
       "imageUrl": "https://cache.pttweb.cc/imgur/ksIHQoU/s/39042f2b050eb1ee5b176cb9d856cb8c"
-    },
-    {
-      "recommendScore": "286",
-      "recommendCount": "539",
-      "title": "[問卦] 台彩被發現疑似同一人多次中獎",
-      "link": "/bbs/Gossiping/M.1782098586.A.2D4",
-      "author": "eatk",
-      "board": "Gossiping",
-      "publishTime": "2026/06/22 03:23",
-      "imageUrl": ""
     },
     {
       "recommendScore": "242",
@@ -201,6 +191,16 @@
       "author": "lamigo",
       "board": "Baseball",
       "publishTime": "2026/06/22 22:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "216",
+      "recommendCount": "497",
+      "title": "[新聞] 數十年最重大讓步！美國首次允許伊朗賣油以美元結算 為期60天",
+      "link": "/bbs/Stock/M.1782174322.A.201",
+      "author": "justin531xx",
+      "board": "Stock",
+      "publishTime": "2026/06/23 00:25",
       "imageUrl": ""
     }
   ]
