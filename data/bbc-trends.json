@@ -1,14 +1,22 @@
 {
-  "updated": "2026-06-24T07:55:39.829Z",
+  "updated": "2026-06-24T09:22:42.951Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-06-24T07:55:33.000Z",
+    "lastBuildDate": "2026-06-24T09:22:36.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "台灣大學排名落後，為何卻能培育出世界級半導體工程師？",
+      "description": "QS世界大學排名公布，台灣大學整體進步，但與新加坡、香港等頂尖大學相比仍明顯落後。為何台灣能培育出世界一流的半導體工程師？",
+      "link": "https://www.bbc.com/zhongwen/articles/c8d215n1z93o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-24T07:54:13.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c8d215n1z93o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5130/live/32b56d30-6f9f-11f1-bab3-af41a81b6d80.jpg"
+    },
     {
       "title": "當影像流水線走到極致——中國AI短劇是怎樣煉成的？",
       "description": "中國的短劇行業在短短一年內出現翻天覆地的變化，AI製成品佔據了最熱門短劇的四成，量產的速成也以幾何級增長，但真人演員在這個洪流中被迅速淘汰。",
@@ -18,28 +26,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/84e1/live/2a8415a0-6ea3-11f1-8e1d-bbbb1017d210.jpg"
     },
     {
-      "title": "警報響起：韓國應用程式讓受害者反追跟蹤狂",
-      "description": "韓國當局推出一項新的應用程式，讓受害者可即時追蹤受到電子監控的跟蹤者，但專家質疑此舉是否真能提升安全。",
-      "link": "https://www.bbc.com/zhongwen/articles/cz0j880g4xko/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-24T05:48:03.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cz0j880g4xko/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/430e/live/bc414480-6f8a-11f1-8546-8f19e4fe30f4.jpg"
-    },
-    {
-      "title": "被列軍工名單 阿里巴巴狀告美國國防部",
-      "description": "美國國防部將阿里巴巴列入支持中國解放軍企業家名單，公司在遞交加州法院的訴訟文件中反駁「毫無根據」。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gyq6k624zo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-24T03:31:21.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gyq6k624zo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1bfe/live/8a2019f0-6f5c-11f1-9ab9-83454fe8fa79.jpg"
-    },
-    {
       "title": "聯合國擬撤離霍爾木茲海峽滯留船員，盧比奧警告伊朗勿收費",
       "description": "聯合國國際海事組織表示，目前有超過1.1萬名船員滯留霍爾木茲海峽一帶。",
       "link": "https://www.bbc.com/zhongwen/articles/cx2jn91k5zlo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-06-24T02:56:14.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx2jn91k5zlo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a3dd/live/337aa3b0-6f78-11f1-8546-8f19e4fe30f4.jpg"
+    },
+    {
+      "title": "血緣關係與機會：為何越來越多世界盃球員「離鄉別井」？",
+      "description": "近四分之一參加 2026 年世界盃的足球員沒有為自己的出生國效力——這是歷史最高比例。",
+      "link": "https://www.bbc.com/zhongwen/articles/czxq0p95lv9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-24T07:51:26.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/czxq0p95lv9o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7a9c/live/9e3241a0-6f95-11f1-b1db-af71d47507d6.jpg"
     },
     {
       "title": "十年六個——英國首相換了又換為甚麼？",
@@ -90,6 +90,22 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/842b/live/d224de60-5e8c-11f1-89a3-d1f559421220.png"
     },
     {
+      "title": "警報響起：韓國應用程式讓受害者反追跟蹤狂",
+      "description": "韓國當局推出一項新的應用程式，讓受害者可即時追蹤受到電子監控的跟蹤者，但專家質疑此舉是否真能提升安全。",
+      "link": "https://www.bbc.com/zhongwen/articles/cz0j880g4xko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-24T05:48:03.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cz0j880g4xko/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/430e/live/bc414480-6f8a-11f1-8546-8f19e4fe30f4.jpg"
+    },
+    {
+      "title": "被列軍工名單 阿里巴巴狀告美國國防部",
+      "description": "美國國防部將阿里巴巴列入支持中國解放軍企業家名單，公司在遞交加州法院的訴訟文件中反駁「毫無根據」。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gyq6k624zo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-24T03:31:21.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gyq6k624zo/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1bfe/live/8a2019f0-6f5c-11f1-9ab9-83454fe8fa79.jpg"
+    },
+    {
       "title": "「人是幹不贏AI的」：中國短劇產業失業潮",
       "description": "AI衝擊中國短劇產業，數以萬計演員、導演和製作人員，從入行賺到盆滿鉢滿、到失業下崗之間僅有一兩個月時間差。幾個從業者向BBC中文講述了他們的故事。",
       "link": "https://www.bbc.com/zhongwen/articles/cvgdqjvzv9go/trad?at_medium=RSS&at_campaign=rss",
@@ -130,28 +146,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e37e/live/fa6ae0b0-6ecf-11f1-8546-8f19e4fe30f4.jpg"
     },
     {
-      "title": "連日壓力下 英國首相施紀賢宣佈辭職",
-      "description": "自5月底地方選舉失利以來飽受壓力的施紀賢在唐寧街發表演說，宣佈辭任首相。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn0vrr5kezpo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-22T11:32:48.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn0vrr5kezpo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/acb9/live/92e08d20-6e1e-11f1-8e1d-bbbb1017d210.jpg"
-    },
-    {
       "title": "貝安德成接替施紀賢大熱，但圍繞他的問號越來越多",
       "description": "BBC政治編輯梅森（Chris Mason）分析，貝安德仍要下功夫說明他到底打算如何兌現任何施政承諾。",
       "link": "https://www.bbc.com/zhongwen/articles/c3dypjm8glyo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-06-23T04:53:40.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c3dypjm8glyo/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cab0/live/dadc37f0-6eb4-11f1-8546-8f19e4fe30f4.jpg"
-    },
-    {
-      "title": "「不只是裸露」——女星訴說影像虐待的複雜現實",
-      "description": "社群媒體與主管機關處理影像性虐待時，只盯裸露而忽略同意，嚴重傷害女性。一份報告指出，非露骨照片如露出肩膀、西方服裝，在保守社群中同樣能毀掉人生。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1wy8d9gpdxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-22T23:00:22.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1wy8d9gpdxo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/001d/live/dccb1340-6bcd-11f1-8e1d-bbbb1017d210.jpg"
     },
     {
       "title": "經濟制裁、西方代表迴避：國際論壇現場的俄羅斯經濟挑戰",
@@ -234,6 +234,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0073/live/e8e49210-6424-11f1-a614-bb0f90cd931c.jpg"
     },
     {
+      "title": "「不只是裸露」——女星訴說影像虐待的複雜現實",
+      "description": "社群媒體與主管機關處理影像性虐待時，只盯裸露而忽略同意，嚴重傷害女性。一份報告指出，非露骨照片如露出肩膀、西方服裝，在保守社群中同樣能毀掉人生。",
+      "link": "https://www.bbc.com/zhongwen/articles/c1wy8d9gpdxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-22T23:00:22.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1wy8d9gpdxo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/001d/live/dccb1340-6bcd-11f1-8e1d-bbbb1017d210.jpg"
+    },
+    {
       "title": "價值2.5億美元的金礦——補水暫停廣告將成世界盃新常態？",
       "description": "BBC體育部剖析補水暫停時段廣告在世界各地如何操作，以及這能將對足球的未來帶來甚麼程度的影響。",
       "link": "https://www.bbc.com/zhongwen/articles/c36yxg512p6o/trad?at_medium=RSS&at_campaign=rss",
@@ -256,14 +264,6 @@
       "pubDate": "2026-06-18T02:16:41.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c24y1ep146lo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/66f3/live/59caf2d0-6aba-11f1-94e1-496848b1b769.png"
-    },
-    {
-      "title": "伊朗—美國和平協議影響你財務的五種可能",
-      "description": "鑑於燃料和天然氣價格有所回落，BBC透過五張圖表，分析伊朗、美國與以色列之間敵對行動結束可能對你帶來的影響。",
-      "link": "https://www.bbc.com/zhongwen/articles/cr7xzm1kpv5o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-19T04:37:29.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cr7xzm1kpv5o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a0d6/live/f590fde0-6b28-11f1-bd3c-dfd1c36b4ceb.jpg"
     },
     {
       "title": "全球衝擊下，為什麼美國經濟持續逆勢而上？",
