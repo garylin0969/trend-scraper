@@ -1,14 +1,22 @@
 {
-  "updated": "2026-06-25T01:16:53.893Z",
+  "updated": "2026-06-25T02:38:37.418Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-06-25T01:16:47.000Z",
+    "lastBuildDate": "2026-06-25T02:38:33.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "中國芯片出口額暴增110%，是否意味西方「封鎖失敗」？",
+      "description": "「我們仍然有一種印象，也就是中國正受到美國的卡脖子或限制。為什麼數據與這種認知之間會存在這種反差？」深入拆解這組數字，就能夠找到答案。",
+      "link": "https://www.bbc.com/zhongwen/articles/cg4w2n5ql32o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-25T01:48:08.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cg4w2n5ql32o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4226/live/8daea060-7037-11f1-85ab-7f21c1486b5b.jpg"
+    },
     {
       "title": "台灣大學排名落後，為何卻能培育出世界級半導體工程師？",
       "description": "QS世界大學排名公布，台灣大學整體進步，但與新加坡、香港等頂尖大學相比仍明顯落後。為何台灣能培育出世界一流的半導體工程師？",
@@ -31,7 +39,7 @@
       "link": "https://www.bbc.com/zhongwen/articles/cpq354p324po/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-06-24T23:13:51.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cpq354p324po/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/67bf/live/8bd34030-6fb4-11f1-8546-8f19e4fe30f4.jpg"
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ce97/live/42349310-7037-11f1-8546-8f19e4fe30f4.jpg"
     },
     {
       "title": "一張照片，盡覽銀河系6000萬顆星球——還可能有新的",
@@ -40,14 +48,6 @@
       "pubDate": "2026-06-24T23:15:11.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy04v1wnp5vo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/85ea/live/bb0e2350-6ee8-11f1-b1db-af71d47507d6.jpg"
-    },
-    {
-      "title": "聯合國擬撤離霍爾木茲海峽滯留船員，盧比奧警告伊朗勿收費",
-      "description": "聯合國國際海事組織表示，目前有超過1.1萬名船員滯留霍爾木茲海峽一帶。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx2jn91k5zlo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-24T02:56:14.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx2jn91k5zlo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a3dd/live/337aa3b0-6f78-11f1-8546-8f19e4fe30f4.jpg"
     },
     {
       "title": "點擊瀏覽即時更新",
@@ -106,12 +106,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/430e/live/bc414480-6f8a-11f1-8546-8f19e4fe30f4.jpg"
     },
     {
-      "title": "被列軍工名單 阿里巴巴狀告美國國防部",
-      "description": "美國國防部將阿里巴巴列入支持中國解放軍企業家名單，公司在遞交加州法院的訴訟文件中反駁「毫無根據」。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gyq6k624zo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-24T03:31:21.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gyq6k624zo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1bfe/live/8a2019f0-6f5c-11f1-9ab9-83454fe8fa79.jpg"
+      "title": "聯合國擬撤離霍爾木茲海峽滯留船員，盧比奧警告伊朗勿收費",
+      "description": "聯合國國際海事組織表示，目前有超過1.1萬名船員滯留霍爾木茲海峽一帶。",
+      "link": "https://www.bbc.com/zhongwen/articles/cx2jn91k5zlo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-24T02:56:14.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx2jn91k5zlo/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a3dd/live/337aa3b0-6f78-11f1-8546-8f19e4fe30f4.jpg"
     },
     {
       "title": "「人是幹不贏AI的」：中國短劇產業失業潮",
@@ -194,6 +194,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cfac/live/c6d520a0-6563-11f1-8e1d-bbbb1017d210.jpg"
     },
     {
+      "title": "被列軍工名單 阿里巴巴狀告美國國防部",
+      "description": "美國國防部將阿里巴巴列入支持中國解放軍企業家名單，公司在遞交加州法院的訴訟文件中反駁「毫無根據」。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gyq6k624zo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-24T03:31:21.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gyq6k624zo/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1bfe/live/8a2019f0-6f5c-11f1-9ab9-83454fe8fa79.jpg"
+    },
+    {
       "title": "白宮冷待、統戰部同框：鄭麗文15天訪美行程帶回了什麼？",
       "description": "外界原本預計鄭麗文有機會進入白宮艾森豪大樓，與美國國家安全會議官員會面。但媒體在大樓出入口等候多時，並未見鄭麗文現身，被指遭美方「冷處理」。",
       "link": "https://www.bbc.com/zhongwen/articles/c2lyj7024wwo/trad?at_medium=RSS&at_campaign=rss",
@@ -202,36 +210,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d157/live/b140e7f0-68bb-11f1-9e56-5d712991879f.jpg"
     },
     {
-      "title": "特朗普和伊朗談判的核心：核問題如何解決？",
-      "description": "如果協議最終簽署，外界很可能會將其與2015年由奧巴馬政府及多國共同談判達成的伊朗核協議相比較。特朗普第一任期內退出該協議。",
-      "link": "https://www.bbc.com/zhongwen/articles/c5yz648ej42o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-14T04:44:07.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5yz648ej42o/trad#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/de2c/live/88b7f730-6684-11f1-b1db-af71d47507d6.png"
-    },
-    {
-      "title": "伊朗與美國難以維持停火的四大原因",
-      "description": "美國與伊朗4月初達成的停火協議，在新一波地區攻擊後嚴重動搖。特朗普與伊朗互放狠話，衝突升級。專家指出四大原因：伊朗認為停火未解決核心問題、以色列持續軍事行動、升級已成談判策略，以及美國影響力有限。",
-      "link": "https://www.bbc.com/zhongwen/articles/c5yzxn14z3wo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-11T06:51:27.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5yzxn14z3wo/trad#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5920/live/b04ea7c0-64e1-11f1-bac9-d90357f227c3.jpg"
-    },
-    {
-      "title": "SpaceX上市首日股價飆升，助馬斯克成全球首位萬億富豪　",
-      "description": "根據彭博社富豪榜，馬斯克目前的身價為1.11萬億美元。SpaceX在納斯達克證券交易所上市，市值2.2萬億美元。",
-      "link": "https://www.bbc.com/zhongwen/articles/c78yxj0p4xgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-14T05:28:12.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c78yxj0p4xgo/trad#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f94f/live/233c68e0-66a3-11f1-80bb-fb4d08542828.jpg"
-    },
-    {
       "title": "台積電財務長黃仁昭BBC專訪：經營成本上升，晶片不排除加價",
       "description": "在一場罕有的專訪中，這名台積電高層主管談到人工智能熱潮、晶片的地緣政治，以及這對電子產品價格意味著什麼。",
       "link": "https://www.bbc.com/zhongwen/articles/cp9lzne9159o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-06-09T23:05:02.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cp9lzne9159o/trad#5",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0073/live/e8e49210-6424-11f1-a614-bb0f90cd931c.jpg"
+    },
+    {
+      "title": "「中美建設性戰略穩定關係」：習近平新詞反映的現實境遇",
+      "description": "又一個中國外交關係名詞在特朗普與習近平的會談中誕生，但在中國官方宣傳「積極評價」外，觀望氛圍同時存在。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4g09912wgdo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-19T09:51:58.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4g09912wgdo/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/671d/live/60e1c5b0-5428-11f1-8b8c-6d33e1d5abb6.jpg"
+    },
+    {
+      "title": "美中貿易、投資委員會能否為關稅戰「加裝防撞欄」？",
+      "description": "對特朗普來說，委員會不只是一個組織名稱，更像是一種工作方式。它意味著可以繞開現有國際機制，另起爐灶，重新設定規則。和平委員會可以繞開聯合國，去處理加沙問題；美中的貿易和投資委員會，則可以繞開WTO，去處理中美之間的爭議。 ",
+      "link": "https://www.bbc.com/zhongwen/articles/cm2prj02pdgo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-05-22T08:52:03.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cm2prj02pdgo/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2e72/live/b5420d20-559c-11f1-a11d-091b34e0faa0.jpg"
     },
     {
       "title": "「不只是裸露」——女星訴說影像虐待的複雜現實",
