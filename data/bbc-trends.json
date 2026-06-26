@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T11:14:30.734Z",
+  "updated": "2026-06-26T12:03:11.364Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-06-26T11:14:18.000Z",
+    "lastBuildDate": "2026-06-26T12:03:08.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -26,6 +26,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/70b8/live/4cbeb590-6fb0-11f1-9d49-f71d5004325f.jpg"
     },
     {
+      "title": "英王查爾斯與王后為何放棄遷入白金漢宮",
+      "description": "白金漢宮表示，查爾斯國王與卡蜜拉王后將繼續居住於相距不遠的克拉倫斯宮。",
+      "link": "https://www.bbc.com/zhongwen/articles/cj6gng2ln6xo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-26T11:28:50.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cj6gng2ln6xo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/307e/live/2a280890-7138-11f1-b1db-af71d47507d6.jpg"
+    },
+    {
       "title": "蓋房子、裝水電、洗空調：中國各地興起「全女維修隊」",
       "description": "她們曾被告誡要好好讀書，遠離工地；如今，在AI焦慮和就業不景氣環境下，卻主動回到這個傳統上由男性主導的行業。從辦公室白領到裝修師傅，這群中國女性正在用自己的方式，重新定義什麼是「體面的工作」。",
       "link": "https://www.bbc.com/zhongwen/articles/cn0v5xzzlgyo/trad?at_medium=RSS&at_campaign=rss",
@@ -39,15 +47,7 @@
       "link": "https://www.bbc.com/zhongwen/articles/c0qyp294pn7o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-06-26T08:10:32.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c0qyp294pn7o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/41f1/live/5fcb0e50-709f-11f1-86cf-0fd142c2b6fb.jpg"
-    },
-    {
-      "title": "中國芯片出口額暴增110%，是否意味西方「封鎖失敗」？",
-      "description": "「我們仍然有一種印象，也就是中國正受到美國的卡脖子或限制。為什麼數據與這種認知之間會存在這種反差？」深入拆解這組數字，就能夠找到答案。",
-      "link": "https://www.bbc.com/zhongwen/articles/cg4w2n5ql32o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-25T01:48:08.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cg4w2n5ql32o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4226/live/8daea060-7037-11f1-85ab-7f21c1486b5b.jpg"
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8030/live/b5f3ab00-7155-11f1-8546-8f19e4fe30f4.jpg"
     },
     {
       "title": "點擊瀏覽即時更新",
@@ -90,6 +90,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/842b/live/d224de60-5e8c-11f1-89a3-d1f559421220.png"
     },
     {
+      "title": "中國芯片出口額暴增110%，是否意味西方「封鎖失敗」？",
+      "description": "「我們仍然有一種印象，也就是中國正受到美國的卡脖子或限制。為什麼數據與這種認知之間會存在這種反差？」深入拆解這組數字，就能夠找到答案。",
+      "link": "https://www.bbc.com/zhongwen/articles/cg4w2n5ql32o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-25T01:48:08.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cg4w2n5ql32o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4226/live/8daea060-7037-11f1-85ab-7f21c1486b5b.jpg"
+    },
+    {
       "title": "聯合國暫停霍爾木茲海峽撤離行動　一貨船遭襲觸發安全疑慮",
       "description": "據報這艘船在接近阿曼海域時遭「不明彈體」擊中，但並無人員傷亡。",
       "link": "https://www.bbc.com/zhongwen/articles/ce8kge0xw44o/trad?at_medium=RSS&at_campaign=rss",
@@ -128,14 +136,6 @@
       "pubDate": "2026-06-24T23:13:51.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cpq354p324po/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ce97/live/42349310-7037-11f1-8546-8f19e4fe30f4.jpg"
-    },
-    {
-      "title": "當影像流水線走到極致——中國AI短劇是怎樣煉成的？",
-      "description": "中國的短劇行業在短短一年內出現翻天覆地的變化，AI製成品佔據了最熱門短劇的四成，量產的速成也以幾何級增長，但真人演員在這個洪流中被迅速淘汰。",
-      "link": "https://www.bbc.com/zhongwen/articles/c0ey9jyw37po/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-23T23:25:01.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c0ey9jyw37po/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/84e1/live/2a8415a0-6ea3-11f1-8e1d-bbbb1017d210.jpg"
     },
     {
       "title": "十年六個——英國首相換了又換為甚麼？",
@@ -274,12 +274,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b66/live/75d5eb00-6bf1-11f1-8631-5f302ec8cd09.jpg"
     },
     {
-      "title": "「人是幹不贏AI的」：中國短劇產業失業潮",
-      "description": "AI衝擊中國短劇產業，數以萬計演員、導演和製作人員，從入行賺到盆滿鉢滿、到失業下崗之間僅有一兩個月時間差。幾個從業者向BBC中文講述了他們的故事。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgdqjvzv9go/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-23T02:42:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgdqjvzv9go/trad#7",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f147/live/70e12f80-6bb3-11f1-8546-8f19e4fe30f4.jpg"
+      "title": "當影像流水線走到極致——中國AI短劇是怎樣煉成的？",
+      "description": "中國的短劇行業在短短一年內出現翻天覆地的變化，AI製成品佔據了最熱門短劇的四成，量產的速成也以幾何級增長，但真人演員在這個洪流中被迅速淘汰。",
+      "link": "https://www.bbc.com/zhongwen/articles/c0ey9jyw37po/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-23T23:25:01.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c0ey9jyw37po/trad#7",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/84e1/live/2a8415a0-6ea3-11f1-8e1d-bbbb1017d210.jpg"
     },
     {
       "title": "脫歐十年後，英國新首相在歐洲問題上必須做出重大抉擇",
