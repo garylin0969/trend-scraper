@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-26T15:50:06.265Z",
+  "updated": "2026-06-26T16:33:32.652Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "982",
-      "recommendCount": "1000",
+      "recommendScore": "1001",
+      "recommendCount": "1020",
       "title": "Re: [推薦] 足球[小律師]世界盃D組",
       "link": "/bbs/SportLottery/M.1782447015.A.51E",
       "author": "lotterywin",
@@ -54,8 +54,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/XRXXAGY/s/284111618018e3b6e949c812b56194a6"
     },
     {
-      "recommendScore": "251",
-      "recommendCount": "361",
+      "recommendScore": "300",
+      "recommendCount": "459",
+      "title": "[情報] 115年06月26日信用交易統計(資減200.74億)",
+      "link": "/bbs/Stock/M.1782479541.A.755",
+      "author": "steward135",
+      "board": "Stock",
+      "publishTime": "2026/06/26 13:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "263",
+      "recommendCount": "377",
       "title": "[新聞] 台股泡沫要爆了？謝金河示警「股市到最高點",
       "link": "/bbs/Stock/M.1782467363.A.B1B",
       "author": "DrowningPool",
@@ -192,16 +202,6 @@
       "board": "Stock",
       "publishTime": "2026/06/26 04:11",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "512",
-      "recommendCount": "944",
-      "title": "[LIVE] 世界盃足球 Ｄ組第③輪 場中",
-      "link": "/bbs/SportLottery/M.1782437405.A.DF8",
-      "author": "Lige",
-      "board": "SportLottery",
-      "publishTime": "2026/06/26 01:30",
-      "imageUrl": "https://cache.pttweb.cc/imgur/pJnKDcB/s/b9b8c4b1e97547c8964c5ea76fcdd80a"
     }
   ]
 }
