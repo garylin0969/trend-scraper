@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T21:21:16.335Z",
+  "updated": "2026-06-26T21:50:12.929Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,16 +34,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "263",
-      "recommendCount": "743",
-      "title": "[新聞] 公車站旁悄說「我喜歡你」 台中男遭認定性騷擾判罰2萬",
-      "link": "/bbs/Gossiping/M.1782424047.A.72D",
-      "author": "wu73",
-      "board": "Gossiping",
-      "publishTime": "2026/06/25 21:47",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "224",
       "recommendCount": "586",
       "title": "[問卦] 蔡阿嘎到底是怎麼了?",
@@ -74,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "64",
-      "recommendCount": "384",
+      "recommendScore": "63",
+      "recommendCount": "393",
       "title": "[新聞] 內湖淹慘留滿地淤泥！沈伯洋低調赴災區",
       "link": "/bbs/Gossiping/M.1782474840.A.E36",
       "author": "chopper594",
@@ -164,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "177",
+      "recommendCount": "369",
+      "title": "[問卦] 蔡阿嘎正式開戰！向嘎家軍發表教戰手則",
+      "link": "/bbs/Gossiping/M.1782491116.A.CC7",
+      "author": "jack8587",
+      "board": "Gossiping",
+      "publishTime": "2026/06/26 16:25",
+      "imageUrl": "https://cache.pttweb.cc/imgur/5AqJqhD/s/2e2e906fb2a94c009aad4e54126f341f"
+    },
+    {
       "recommendScore": "173",
       "recommendCount": "323",
       "title": "[標的] 0050該怎麼買？",
@@ -184,23 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "174",
-      "recommendCount": "354",
-      "title": "[問卦] 蔡阿嘎正式開戰！向嘎家軍發表教戰手則",
-      "link": "/bbs/Gossiping/M.1782491116.A.CC7",
-      "author": "jack8587",
-      "board": "Gossiping",
-      "publishTime": "2026/06/26 16:25",
-      "imageUrl": "https://cache.pttweb.cc/imgur/5AqJqhD/s/2e2e906fb2a94c009aad4e54126f341f"
-    },
-    {
-      "recommendScore": "320",
-      "recommendCount": "628",
+      "recommendScore": "321",
+      "recommendCount": "629",
       "title": "[花邊] Jalen Duren對報價不滿 尋求簽換的可能",
       "link": "/bbs/NBA/M.1782474006.A.05B",
       "author": "liefuchen",
       "board": "NBA",
       "publishTime": "2026/06/26 11:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "177",
+      "recommendCount": "452",
+      "title": "[請益] 台達電是買到撞到嗎？",
+      "link": "/bbs/Stock/M.1782447081.A.E01",
+      "author": "wvookevp",
+      "board": "Stock",
+      "publishTime": "2026/06/26 04:11",
       "imageUrl": ""
     }
   ]
