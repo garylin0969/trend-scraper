@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T13:08:32.268Z",
+  "updated": "2026-06-26T13:52:52.428Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,18 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "752",
-      "recommendCount": "1406",
-      "title": "[情報] 球三去灰狼",
-      "link": "/bbs/NBA/M.1782393829.A.131",
-      "author": "c27932589",
-      "board": "NBA",
-      "publishTime": "2026/06/25 13:23",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "354",
-      "recommendCount": "708",
+      "recommendCount": "709",
       "title": "[請益] 這波是正常回檔還是崩盤",
       "link": "/bbs/Stock/M.1782445415.A.1A6",
       "author": "teddy98",
@@ -34,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "256",
-      "recommendCount": "734",
+      "recommendScore": "258",
+      "recommendCount": "737",
       "title": "[新聞] 公車站旁悄說「我喜歡你」 台中男遭認定性騷擾判罰2萬",
       "link": "/bbs/Gossiping/M.1782424047.A.72D",
       "author": "wu73",
@@ -64,8 +54,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/XRXXAGY/s/284111618018e3b6e949c812b56194a6"
     },
     {
-      "recommendScore": "213",
-      "recommendCount": "359",
+      "recommendScore": "241",
+      "recommendCount": "343",
+      "title": "[新聞] 台股泡沫要爆了？謝金河示警「股市到最高點",
+      "link": "/bbs/Stock/M.1782467363.A.B1B",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2026/06/26 09:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "214",
+      "recommendCount": "362",
       "title": "[情報] 115年06月26日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1782459166.A.CA9",
       "author": "coconing",
@@ -74,13 +74,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "118",
-      "recommendCount": "404",
+      "recommendScore": "119",
+      "recommendCount": "405",
       "title": "[新聞] 打造「海鯤號」難度高！傳焊接人才狂跳槽台積電　台船董座親曝內幕",
       "link": "/bbs/Stock/M.1782398346.A.094",
       "author": "Reewalker",
       "board": "Stock",
       "publishTime": "2026/06/25 14:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "357",
+      "recommendCount": "816",
+      "title": "[情報] 醜1-湖人尚未向LBJ提供合約，雙方沒溝通",
+      "link": "/bbs/NBA/M.1782442908.A.6FF",
+      "author": "mike37",
+      "board": "NBA",
+      "publishTime": "2026/06/26 03:01",
       "imageUrl": ""
     },
     {
@@ -91,16 +101,6 @@
       "author": "paidzou",
       "board": "Stock",
       "publishTime": "2026/06/26 05:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "353",
-      "recommendCount": "808",
-      "title": "[情報] 醜1-湖人尚未向LBJ提供合約，雙方沒溝通",
-      "link": "/bbs/NBA/M.1782442908.A.6FF",
-      "author": "mike37",
-      "board": "NBA",
-      "publishTime": "2026/06/26 03:01",
       "imageUrl": ""
     },
     {
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "219",
-      "recommendCount": "303",
-      "title": "[新聞] 台股泡沫要爆了？謝金河示警「股市到最高點",
-      "link": "/bbs/Stock/M.1782467363.A.B1B",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2026/06/26 09:49",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "257",
       "recommendCount": "668",
       "title": "[新聞]告白「我喜歡你」 男遭認定性騷判罰2萬",
@@ -145,7 +135,7 @@
     },
     {
       "recommendScore": "238",
-      "recommendCount": "675",
+      "recommendCount": "681",
       "title": "[新聞] 蘋果是記憶體荒推手之一？美光暗示：過去砍價太狠，讓產業不敢投資",
       "link": "/bbs/Stock/M.1782443171.A.F77",
       "author": "M9665566",
@@ -155,7 +145,7 @@
     },
     {
       "recommendScore": "172",
-      "recommendCount": "318",
+      "recommendCount": "321",
       "title": "[標的] 0050該怎麼買？",
       "link": "/bbs/Stock/M.1782451218.A.55A",
       "author": "Rocal",
@@ -201,6 +191,16 @@
       "author": "q1a1",
       "board": "Stock",
       "publishTime": "2026/06/26 00:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "127",
+      "recommendCount": "327",
+      "title": "[新聞] 老公教召14天　人妻「挺2月孕肚帶4歲兒」崩潰：白天還要上班",
+      "link": "/bbs/Gossiping/M.1782440245.A.BCD",
+      "author": "s110269",
+      "board": "Gossiping",
+      "publishTime": "2026/06/26 02:17",
       "imageUrl": ""
     }
   ]
