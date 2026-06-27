@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T17:03:23.528Z",
+  "updated": "2026-06-27T17:34:56.710Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "278",
-      "recommendCount": "365",
+      "recommendScore": "335",
+      "recommendCount": "366",
+      "title": "[分享] 2位以上台灣人同日MLB先發 (首次3位)",
+      "link": "/bbs/Baseball/M.1782570441.A.016",
+      "author": "EMU500",
+      "board": "Baseball",
+      "publishTime": "2026/06/27 14:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "279",
+      "recommendCount": "366",
       "title": "[分享] 林維恩IG 接受TJ手術",
       "link": "/bbs/Baseball/M.1782540841.A.210",
       "author": "huihuiiiii",
@@ -124,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "143",
+      "recommendCount": "370",
+      "title": "[新聞] 快訊／蝴蝶谷山難4人慘被巨石砸死　遺體連夜運送下山",
+      "link": "/bbs/Gossiping/M.1782557551.A.181",
+      "author": "jal809",
+      "board": "Gossiping",
+      "publishTime": "2026/06/27 10:52",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "132",
       "recommendCount": "527",
       "title": "[問卦] 夫妻出門誰出錢？",
@@ -175,32 +195,12 @@
     },
     {
       "recommendScore": "215",
-      "recommendCount": "328",
+      "recommendCount": "329",
       "title": "[討論] 韓國隊完了 第八惹",
       "link": "/bbs/WorldCup/M.1782537088.A.ECA",
       "author": "wamng",
       "board": "WorldCup",
       "publishTime": "2026/06/27 05:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "572",
-      "recommendCount": "1015",
-      "title": "[LIVE] 世界盃足球 Ｉ組第③輪 場中",
-      "link": "/bbs/SportLottery/M.1782498603.A.B17",
-      "author": "Lige",
-      "board": "SportLottery",
-      "publishTime": "2026/06/26 18:30",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ptFniu7/s/2fa13486b5f9366333fbdf7c8ba1dd54"
-    },
-    {
-      "recommendScore": "219",
-      "recommendCount": "463",
-      "title": "[花邊] Shams:湖人在市場上很積極 影響LBJ續約",
-      "link": "/bbs/NBA/M.1782541136.A.23E",
-      "author": "shaaan",
-      "board": "NBA",
-      "publishTime": "2026/06/27 06:18",
       "imageUrl": ""
     }
   ]
