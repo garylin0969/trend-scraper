@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T20:15:27.336Z",
+  "updated": "2026-06-27T20:41:37.024Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "387",
-      "recommendCount": "422",
+      "recommendScore": "397",
+      "recommendCount": "434",
       "title": "[分享] 2位以上台灣人同日MLB先發 (首次3位)",
       "link": "/bbs/Baseball/M.1782570441.A.016",
       "author": "EMU500",
@@ -44,13 +44,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "348",
-      "recommendCount": "414",
+      "recommendScore": "351",
+      "recommendCount": "417",
       "title": "[情報] 今日李東洺(富邦隊史首位土投十連勝)",
       "link": "/bbs/Baseball/M.1782565603.A.3DF",
       "author": "idingdang",
       "board": "Baseball",
       "publishTime": "2026/06/27 13:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "312",
+      "recommendCount": "362",
+      "title": "[炸裂] HAO YU LEE",
+      "link": "/bbs/Baseball/M.1782585664.A.6D9",
+      "author": "ChrisDavis",
+      "board": "Baseball",
+      "publishTime": "2026/06/27 18:41",
       "imageUrl": ""
     },
     {
@@ -64,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "190",
-      "recommendCount": "404",
+      "recommendScore": "191",
+      "recommendCount": "410",
       "title": "[新聞] 沈伯洋大翻車！內湖勘災「蹲地打掃」影片曝　網傻眼：公關災難",
       "link": "/bbs/Gossiping/M.1782552416.A.2E2",
       "author": "emuless",
@@ -114,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "250",
-      "recommendCount": "413",
+      "recommendScore": "251",
+      "recommendCount": "416",
       "title": "[金曲] 最佳演唱組合獎",
       "link": "/bbs/Golden-Award/M.1782571398.A.B13",
       "author": "shengju1029",
@@ -145,7 +155,7 @@
     },
     {
       "recommendScore": "149",
-      "recommendCount": "380",
+      "recommendCount": "381",
       "title": "[新聞] 快訊／蝴蝶谷山難4人慘被巨石砸死　遺體連夜運送下山",
       "link": "/bbs/Gossiping/M.1782557551.A.181",
       "author": "jal809",
@@ -191,16 +201,6 @@
       "author": "joydow",
       "board": "Gossiping",
       "publishTime": "2026/06/27 01:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "142",
-      "recommendCount": "321",
-      "title": "[問卦] 為什麼台南每次淹水都這麼嚴重？",
-      "link": "/bbs/Gossiping/M.1782531212.A.6C7",
-      "author": "fraternity",
-      "board": "Gossiping",
-      "publishTime": "2026/06/27 03:33",
       "imageUrl": ""
     }
   ]
