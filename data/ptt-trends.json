@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T21:36:35.768Z",
+  "updated": "2026-06-27T22:02:05.492Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,16 +114,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/HLi02jl/s/2e24dc0829994c665c47b9e4f50d8f16"
     },
     {
-      "recommendScore": "258",
-      "recommendCount": "298",
-      "title": "[情報] 鄭宗哲升上大聯盟",
-      "link": "/bbs/Baseball/M.1782510669.A.339",
-      "author": "SeanLi1013",
-      "board": "Baseball",
-      "publishTime": "2026/06/26 21:51",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "251",
       "recommendCount": "416",
       "title": "[金曲] 最佳演唱組合獎",
@@ -201,6 +191,16 @@
       "author": "joydow",
       "board": "Gossiping",
       "publishTime": "2026/06/27 01:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "142",
+      "recommendCount": "322",
+      "title": "[問卦] 為什麼台南每次淹水都這麼嚴重？",
+      "link": "/bbs/Gossiping/M.1782531212.A.6C7",
+      "author": "fraternity",
+      "board": "Gossiping",
+      "publishTime": "2026/06/27 03:33",
       "imageUrl": ""
     }
   ]
