@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-28T15:18:09.401Z",
+  "updated": "2026-06-28T15:49:21.915Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "171",
-      "recommendCount": "1082",
+      "recommendCount": "1086",
       "title": "[新聞] 蝴蝶谷瀑布4死意外 主辦吳水丕：政府應該封閉步道",
       "link": "/bbs/Gossiping/M.1782619590.A.228",
       "author": "polanco",
@@ -24,14 +24,24 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/FGSZ9J2/s/378a53b6d5d31e2b6bccd9c04a495ff2"
     },
     {
-      "recommendScore": "264",
-      "recommendCount": "677",
+      "recommendScore": "269",
+      "recommendCount": "689",
       "title": "[新聞] 不用再淋雨！ 駕艙機車7月正式上路免戴安全帽",
       "link": "/bbs/Gossiping/M.1782637521.A.60A",
       "author": "PCC9169",
       "board": "Gossiping",
       "publishTime": "2026/06/28 09:05",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "379",
+      "recommendCount": "568",
+      "title": "[分享] 南韓晉級32強機率，從95%到0%",
+      "link": "/bbs/WorldCup/M.1782610321.A.A21",
+      "author": "robinkidd",
+      "board": "WorldCup",
+      "publishTime": "2026/06/28 01:32",
+      "imageUrl": "https://cache.pttweb.cc/imgur/74MuK7H/s/9e4fe72f2618a9de9e5d80f78ed2f740"
     },
     {
       "recommendScore": "371",
@@ -42,16 +52,6 @@
       "board": "Baseball",
       "publishTime": "2026/06/27 18:41",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "379",
-      "recommendCount": "567",
-      "title": "[分享] 南韓晉級32強機率，從95%到0%",
-      "link": "/bbs/WorldCup/M.1782610321.A.A21",
-      "author": "robinkidd",
-      "board": "WorldCup",
-      "publishTime": "2026/06/28 01:32",
-      "imageUrl": "https://cache.pttweb.cc/imgur/74MuK7H/s/9e4fe72f2618a9de9e5d80f78ed2f740"
     },
     {
       "recommendScore": "193",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "217",
-      "recommendCount": "1075",
+      "recommendScore": "219",
+      "recommendCount": "1080",
       "title": "[問卦] 難怪都更很難搞",
       "link": "/bbs/Gossiping/M.1782633110.A.59B",
       "author": "xvited945",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "224",
-      "recommendCount": "577",
+      "recommendScore": "225",
+      "recommendCount": "578",
       "title": "[請益] 景氣股市超好 但車子賣不太動 why？",
       "link": "/bbs/Stock/M.1782600146.A.8A0",
       "author": "ez4mylife",
@@ -114,8 +114,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/0U2eGTx/s/5bd85c078fe950319fdb1feb5d54e181"
     },
     {
-      "recommendScore": "188",
-      "recommendCount": "339",
+      "recommendScore": "190",
+      "recommendCount": "342",
       "title": "[新聞] 科技股殺盤還沒完？川普撂狠話「伊朗將不復存在」 全球股市剉咧等",
       "link": "/bbs/Stock/M.1782637699.A.1BF",
       "author": "justin531xx",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "206",
-      "recommendCount": "321",
+      "recommendScore": "207",
+      "recommendCount": "322",
       "title": "[新聞] 高雄少年惡作劇「安全帽裡撒尿」　乾姐揪2未成年痛毆半小時",
       "link": "/bbs/Gossiping/M.1782600647.A.061",
       "author": "Workforme",
@@ -155,12 +155,22 @@
     },
     {
       "recommendScore": "225",
-      "recommendCount": "502",
+      "recommendCount": "505",
       "title": "[討論] 所以LBJ現在還有可能去哪隊啊?",
       "link": "/bbs/NBA/M.1782627167.A.D06",
       "author": "Rocksolid",
       "board": "NBA",
       "publishTime": "2026/06/28 06:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "156",
+      "recommendCount": "354",
+      "title": "[新聞] 蔡阿嘎慘了！遭10萬人連署抵制　20多間品牌全數遭殃",
+      "link": "/bbs/Gossiping/M.1782648756.A.CB4",
+      "author": "kikiki37",
+      "board": "Gossiping",
+      "publishTime": "2026/06/28 12:12",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "SoulHsu",
       "board": "NBA",
       "publishTime": "2026/06/28 05:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "141",
-      "recommendCount": "323",
-      "title": "[新聞] 蔡阿嘎慘了！遭10萬人連署抵制　20多間品牌全數遭殃",
-      "link": "/bbs/Gossiping/M.1782648756.A.CB4",
-      "author": "kikiki37",
-      "board": "Gossiping",
-      "publishTime": "2026/06/28 12:12",
       "imageUrl": ""
     }
   ]
