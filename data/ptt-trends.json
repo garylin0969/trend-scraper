@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T17:16:53.050Z",
+  "updated": "2026-06-28T17:46:17.096Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "272",
-      "recommendCount": "704",
+      "recommendCount": "712",
       "title": "[新聞] 不用再淋雨！ 駕艙機車7月正式上路免戴安全帽",
       "link": "/bbs/Gossiping/M.1782637521.A.60A",
       "author": "PCC9169",
@@ -64,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "224",
+      "recommendCount": "1115",
+      "title": "[問卦] 難怪都更很難搞",
+      "link": "/bbs/Gossiping/M.1782633110.A.59B",
+      "author": "xvited945",
+      "board": "Gossiping",
+      "publishTime": "2026/06/28 07:51",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "300",
       "recommendCount": "652",
       "title": "[花邊] 湖記:若湖人的薪資沒誠意，LBJ或重返熱火",
@@ -71,16 +81,6 @@
       "author": "mike37",
       "board": "NBA",
       "publishTime": "2026/06/28 01:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "221",
-      "recommendCount": "1111",
-      "title": "[問卦] 難怪都更很難搞",
-      "link": "/bbs/Gossiping/M.1782633110.A.59B",
-      "author": "xvited945",
-      "board": "Gossiping",
-      "publishTime": "2026/06/28 07:51",
       "imageUrl": ""
     },
     {
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "182",
-      "recommendCount": "413",
+      "recommendScore": "181",
+      "recommendCount": "420",
       "title": "[新聞] 蔡阿嘎慘了！遭10萬人連署抵制　20多間品牌全數遭殃",
       "link": "/bbs/Gossiping/M.1782648756.A.CB4",
       "author": "kikiki37",
@@ -124,8 +124,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/0U2eGTx/s/5bd85c078fe950319fdb1feb5d54e181"
     },
     {
-      "recommendScore": "193",
-      "recommendCount": "351",
+      "recommendScore": "195",
+      "recommendCount": "353",
       "title": "[新聞] 科技股殺盤還沒完？川普撂狠話「伊朗將不復存在」 全球股市剉咧等",
       "link": "/bbs/Stock/M.1782637699.A.1BF",
       "author": "justin531xx",
@@ -134,13 +134,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "208",
-      "recommendCount": "323",
+      "recommendScore": "209",
+      "recommendCount": "324",
       "title": "[新聞] 高雄少年惡作劇「安全帽裡撒尿」　乾姐揪2未成年痛毆半小時",
       "link": "/bbs/Gossiping/M.1782600647.A.061",
       "author": "Workforme",
       "board": "Gossiping",
       "publishTime": "2026/06/27 22:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "232",
+      "recommendCount": "519",
+      "title": "[討論] 所以LBJ現在還有可能去哪隊啊?",
+      "link": "/bbs/NBA/M.1782627167.A.D06",
+      "author": "Rocksolid",
+      "board": "NBA",
+      "publishTime": "2026/06/28 06:12",
       "imageUrl": ""
     },
     {
@@ -151,16 +161,6 @@
       "author": "iamshana",
       "board": "WorldCup",
       "publishTime": "2026/06/28 02:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "232",
-      "recommendCount": "518",
-      "title": "[討論] 所以LBJ現在還有可能去哪隊啊?",
-      "link": "/bbs/NBA/M.1782627167.A.D06",
-      "author": "Rocksolid",
-      "board": "NBA",
-      "publishTime": "2026/06/28 06:12",
       "imageUrl": ""
     },
     {
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "241",
-      "recommendCount": "484",
+      "recommendScore": "242",
+      "recommendCount": "485",
       "title": "[外絮] 艾頓預計執行球員選項",
       "link": "/bbs/NBA/M.1782625661.A.195",
       "author": "SoulHsu",
