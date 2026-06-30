@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-30T23:09:02.858Z",
+  "updated": "2026-06-30T23:39:49.860Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "157",
-      "recommendCount": "729",
+      "recommendCount": "731",
       "title": "[新聞] 台股像大賭場！愛山林祝文宇憂重演民國79年崩盤悲劇 看好「股轉房」效應",
       "link": "/bbs/Stock/M.1782793432.A.79E",
       "author": "addy7533967",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "471",
-      "recommendCount": "811",
+      "recommendScore": "482",
+      "recommendCount": "823",
       "title": "老詹離開湖人",
       "link": "/bbs/NBA/M.1782835467.A.934",
       "author": "c27932589",
@@ -55,12 +55,22 @@
     },
     {
       "recommendScore": "251",
-      "recommendCount": "412",
+      "recommendCount": "413",
       "title": "[新聞] 曾因精神壓力逃避籃球！前狀元Simmons",
       "link": "/bbs/NBA/M.1782795587.A.BC9",
       "author": "access4096",
       "board": "NBA",
       "publishTime": "2026/06/30 04:59",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "339",
+      "recommendCount": "587",
+      "title": "[花邊] 湖人官方發文感謝LeBron",
+      "link": "/bbs/NBA/M.1782838645.A.ABE",
+      "author": "SungKyungMW",
+      "board": "NBA",
+      "publishTime": "2026/06/30 16:57",
       "imageUrl": ""
     },
     {
@@ -74,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "331",
-      "recommendCount": "577",
-      "title": "[花邊] 湖人官方發文感謝LeBron",
-      "link": "/bbs/NBA/M.1782838645.A.ABE",
-      "author": "SungKyungMW",
-      "board": "NBA",
-      "publishTime": "2026/06/30 16:57",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "236",
       "recommendCount": "565",
       "title": "[問卦] 100元便當看起來還可以啊",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "223",
-      "recommendCount": "465",
+      "recommendScore": "226",
+      "recommendCount": "476",
       "title": "[新聞] 粉絲亂送生魚片釀禍！樂天啦啦隊金佳垠「急性腸胃炎」送醫",
       "link": "/bbs/Gossiping/M.1782816859.A.D05",
       "author": "emperor",
@@ -104,8 +104,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "357",
-      "recommendCount": "600",
+      "recommendScore": "351",
+      "recommendCount": "685",
+      "title": "[情報] Curry和嘴綠將直接參與招募LBJ",
+      "link": "/bbs/NBA/M.1782840489.A.F7E",
+      "author": "stevenchiang",
+      "board": "NBA",
+      "publishTime": "2026/06/30 17:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "358",
+      "recommendCount": "603",
       "title": "[閒聊] TNCAP KIA Sportage兩星",
       "link": "/bbs/car/M.1782799605.A.DD0",
       "author": "boredmen345",
@@ -131,16 +141,6 @@
       "author": "jumpballfan",
       "board": "Baseball",
       "publishTime": "2026/06/30 08:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "329",
-      "recommendCount": "659",
-      "title": "[情報] Curry和嘴綠將直接參與招募LBJ",
-      "link": "/bbs/NBA/M.1782840489.A.F7E",
-      "author": "stevenchiang",
-      "board": "NBA",
-      "publishTime": "2026/06/30 17:28",
       "imageUrl": ""
     },
     {
@@ -184,7 +184,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "627",
+      "recommendScore": "626",
       "recommendCount": "1497",
       "title": "[外電] LeBron James 將離開湖人隊",
       "link": "/bbs/Lakers/M.1782835587.A.F99",
