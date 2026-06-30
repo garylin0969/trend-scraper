@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T17:16:11.205Z",
+  "updated": "2026-06-30T18:01:20.567Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "440",
+      "recommendCount": "756",
+      "title": "老詹離開湖人",
+      "link": "/bbs/NBA/M.1782835467.A.934",
+      "author": "c27932589",
+      "board": "NBA",
+      "publishTime": "2026/06/30 16:04",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "379",
       "recommendCount": "450",
       "title": "[分享] 今日 李灝宇",
@@ -31,16 +41,6 @@
       "author": "neyothen",
       "board": "Baseball",
       "publishTime": "2026/06/30 01:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "420",
-      "recommendCount": "726",
-      "title": "老詹離開湖人",
-      "link": "/bbs/NBA/M.1782835467.A.934",
-      "author": "c27932589",
-      "board": "NBA",
-      "publishTime": "2026/06/30 16:04",
       "imageUrl": ""
     },
     {
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "248",
-      "recommendCount": "408",
+      "recommendScore": "249",
+      "recommendCount": "409",
       "title": "[新聞] 曾因精神壓力逃避籃球！前狀元Simmons",
       "link": "/bbs/NBA/M.1782795587.A.BC9",
       "author": "access4096",
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "354",
+      "recommendCount": "591",
+      "title": "[閒聊] TNCAP KIA Sportage兩星",
+      "link": "/bbs/car/M.1782799605.A.DD0",
+      "author": "boredmen345",
+      "board": "car",
+      "publishTime": "2026/06/30 06:06",
+      "imageUrl": "https://cache.pttweb.cc/imgur/pqZdPWu/s/3f270e1612a36c6bee9d21a895321254"
+    },
+    {
       "recommendScore": "173",
       "recommendCount": "369",
       "title": "[新聞] 他愛看亂倫片...叫女友替3兒子打手槍、性侵還要求「3P」 和解換減刑",
@@ -94,18 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "353",
-      "recommendCount": "590",
-      "title": "[閒聊] TNCAP KIA Sportage兩星",
-      "link": "/bbs/car/M.1782799605.A.DD0",
-      "author": "boredmen345",
-      "board": "car",
-      "publishTime": "2026/06/30 06:06",
-      "imageUrl": "https://cache.pttweb.cc/imgur/pqZdPWu/s/3f270e1612a36c6bee9d21a895321254"
-    },
-    {
-      "recommendScore": "212",
-      "recommendCount": "436",
+      "recommendScore": "214",
+      "recommendCount": "441",
       "title": "[新聞] 粉絲亂送生魚片釀禍！樂天啦啦隊金佳垠「急性腸胃炎」送醫",
       "link": "/bbs/Gossiping/M.1782816859.A.D05",
       "author": "emperor",
@@ -144,13 +144,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/LOYgzcC/s/0c83a8ec6115b6f280a4742be9b2b530"
     },
     {
-      "recommendScore": "186",
-      "recommendCount": "424",
+      "recommendScore": "187",
+      "recommendCount": "425",
       "title": "[問卦] 三立跟民視的報導趨勢是不是怪怪的",
       "link": "/bbs/Gossiping/M.1782777508.A.BD6",
       "author": "chNhk",
       "board": "Gossiping",
       "publishTime": "2026/06/29 23:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "283",
+      "recommendCount": "498",
+      "title": "[花邊] 湖人官方發文感謝LeBron",
+      "link": "/bbs/NBA/M.1782838645.A.ABE",
+      "author": "SungKyungMW",
+      "board": "NBA",
+      "publishTime": "2026/06/30 16:57",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "polanco",
       "board": "Gossiping",
       "publishTime": "2026/06/29 22:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "211",
-      "recommendCount": "297",
-      "title": "[炸裂] 申皓瑋 再見兩分砲",
-      "link": "/bbs/Baseball/M.1782830808.A.4C2",
-      "author": "DsLove710",
-      "board": "Baseball",
-      "publishTime": "2026/06/30 14:46",
       "imageUrl": ""
     }
   ]
