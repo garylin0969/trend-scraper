@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T23:03:58.165Z",
+  "updated": "2026-07-01T23:41:01.496Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,6 +14,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "314",
+      "recommendCount": "749",
+      "title": "[問卦] 脆熱議：女生應團結起來讓台灣斷子絕孫!",
+      "link": "/bbs/Gossiping/M.1782876448.A.902",
+      "author": "pigpigcom123",
+      "board": "Gossiping",
+      "publishTime": "2026/07/01 03:27",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "403",
       "recommendCount": "756",
       "title": "[新聞] 沈伯洋喊萬芳醫院升格醫學中心 在地議員嚇呆：要不要先Google",
@@ -21,16 +31,6 @@
       "author": "chopper594",
       "board": "Gossiping",
       "publishTime": "2026/07/01 06:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "314",
-      "recommendCount": "747",
-      "title": "[問卦] 脆熱議：女生應團結起來讓台灣斷子絕孫!",
-      "link": "/bbs/Gossiping/M.1782876448.A.902",
-      "author": "pigpigcom123",
-      "board": "Gossiping",
-      "publishTime": "2026/07/01 03:27",
       "imageUrl": ""
     },
     {
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "209",
-      "recommendCount": "568",
+      "recommendScore": "211",
+      "recommendCount": "572",
       "title": "[問卦] 習近平：一定會統一台灣",
       "link": "/bbs/Gossiping/M.1782903279.A.3C8",
       "author": "beaver",
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "156",
+      "recommendCount": "468",
+      "title": "[新聞] 獨／欠台糖1.7億吳乃仁關12天就獲釋 理由曝光「台糖撤回聲請」",
+      "link": "/bbs/Gossiping/M.1782880425.A.330",
+      "author": "william8403",
+      "board": "Gossiping",
+      "publishTime": "2026/07/01 04:33",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "176",
       "recommendCount": "416",
       "title": "[新聞] 民進黨2026拿幾席? 徐國勇霸氣回:19縣市全力贏回來",
@@ -101,16 +111,6 @@
       "author": "googolplex",
       "board": "Gossiping",
       "publishTime": "2026/07/01 09:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "157",
-      "recommendCount": "467",
-      "title": "[新聞] 獨／欠台糖1.7億吳乃仁關12天就獲釋 理由曝光「台糖撤回聲請」",
-      "link": "/bbs/Gossiping/M.1782880425.A.330",
-      "author": "william8403",
-      "board": "Gossiping",
-      "publishTime": "2026/07/01 04:33",
       "imageUrl": ""
     },
     {
@@ -124,8 +124,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/OK2tj8Y/s/e7f282478df969ab6552cdfedd1d80f5"
     },
     {
-      "recommendScore": "337",
-      "recommendCount": "641",
+      "recommendScore": "338",
+      "recommendCount": "642",
       "title": "[情報] Kessler去湖人",
       "link": "/bbs/NBA/M.1782919990.A.FC0",
       "author": "wishxuso",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "211",
-      "recommendCount": "479",
+      "recommendScore": "212",
+      "recommendCount": "481",
       "title": "[新聞] 運動部》李洋傳請辭就因為他？官方回應：還在找適合人選",
       "link": "/bbs/Gossiping/M.1782896408.A.11F",
       "author": "ChanHoPark",
@@ -174,13 +174,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "305",
-      "recommendCount": "403",
+      "recommendScore": "306",
+      "recommendCount": "404",
       "title": "[爆卦] 黃士修踢爆反核冒充清大教授 結果被告了",
       "link": "/bbs/Gossiping/M.1782882525.A.F0C",
       "author": "Hyuui",
       "board": "Gossiping",
       "publishTime": "2026/07/01 05:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "330",
+      "recommendCount": "669",
+      "title": "[情報] 湖人已用完所有空間及特例&目前陣容",
+      "link": "/bbs/NBA/M.1782923513.A.F41",
+      "author": "c27932589",
+      "board": "NBA",
+      "publishTime": "2026/07/01 16:31",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "LoL",
       "publishTime": "2026/07/01 07:02",
       "imageUrl": "https://cache.pttweb.cc/imgur/s3PXBtR/s/e56281ba09f975acc9fd76c0ef0565d6"
-    },
-    {
-      "recommendScore": "321",
-      "recommendCount": "657",
-      "title": "[情報] 湖人已用完所有空間及特例&目前陣容",
-      "link": "/bbs/NBA/M.1782923513.A.F41",
-      "author": "c27932589",
-      "board": "NBA",
-      "publishTime": "2026/07/01 16:31",
-      "imageUrl": ""
     }
   ]
 }
