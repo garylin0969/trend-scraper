@@ -1,14 +1,22 @@
 {
-  "updated": "2026-07-02T13:52:57.471Z",
+  "updated": "2026-07-02T14:59:00.832Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-07-02T13:52:50.000Z",
+    "lastBuildDate": "2026-07-02T14:58:54.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "銅鑼灣書店林榮基病逝，終年70歲",
+      "description": "林榮基在2015年因販賣中國大陸政治「禁書」等原因被羈押8個月。在2019年移居台灣後，他曾表明「打死都不想回去」香港。台灣總統賴清德發文「表達最深切的哀悼」。",
+      "link": "https://www.bbc.com/zhongwen/articles/c99254nl28po/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-02T14:16:44.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c99254nl28po/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd2f/live/a49e9390-7616-11f1-a627-714adb4eed6e.jpg"
+    },
     {
       "title": "「中國尊」撞機：當局稱六旬男機師「長期焦慮」、多次提及輕生",
       "description": "涉事的66歲男子在事故中死亡，中國當局稱他生前患有焦慮症，並曾在日記中提及「結束生命」。",
@@ -40,14 +48,6 @@
       "pubDate": "2026-07-02T05:29:49.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ce8mly4m2z0o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8a47/live/d03343a0-6f0b-11f1-80ed-1dfdf65c4b32.jpg"
-    },
-    {
-      "title": "厄爾尼諾——為何2026年將是「最強一次」",
-      "description": "科學家群體擔憂，厄爾尼諾現象（聖嬰現象）加上人為氣候變化，將重塑全球天氣。",
-      "link": "https://www.bbc.com/zhongwen/resources/idt-54f4e985-a7fb-48b2-8246-f3be0d699402?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-01T00:00:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/resources/idt-54f4e985-a7fb-48b2-8246-f3be0d699402#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b86/live/00699a60-756a-11f1-b976-0b9c15b0ccfc.png"
     },
     {
       "title": "點擊瀏覽即時更新",
@@ -88,6 +88,14 @@
       "pubDate": "2026-06-09T06:33:19.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx21r3d9y1yo/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/842b/live/d224de60-5e8c-11f1-89a3-d1f559421220.png"
+    },
+    {
+      "title": "厄爾尼諾——為何2026年將是「最強一次」",
+      "description": "科學家群體擔憂，厄爾尼諾現象（聖嬰現象）加上人為氣候變化，將重塑全球天氣。",
+      "link": "https://www.bbc.com/zhongwen/resources/idt-54f4e985-a7fb-48b2-8246-f3be0d699402?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-01T00:00:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/resources/idt-54f4e985-a7fb-48b2-8246-f3be0d699402#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b86/live/00699a60-756a-11f1-b976-0b9c15b0ccfc.png"
     },
     {
       "title": "主權移交29年：香港政府首次同日舉辦「中共建黨」慶典的解讀",
@@ -136,14 +144,6 @@
       "pubDate": "2026-07-01T09:13:31.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cdejxrxn904o/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5b37/live/a1d38c70-7444-11f1-b2c7-5138402a5536.png"
-    },
-    {
-      "title": "中國現象級遊戲「引狼入室」：《戀與深空》如何觸發玩家抵制",
-      "description": "中國著名乙女向戀愛游戲《戀與深空》在近期上線新角色，由於發布視頻裡反覆套用威脅女性安全語句，被指威脅女性安全，引起大規模抵制。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gyrgqypwlo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-01T00:37:08.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gyrgqypwlo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/94fb/live/a82ce430-7486-11f1-b1db-af71d47507d6.jpg"
     },
     {
       "title": "郭文貴美國詐騙案以判囚30年告一段落",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/70b8/live/4cbeb590-6fb0-11f1-9d49-f71d5004325f.jpg"
     },
     {
+      "title": "中國現象級遊戲「引狼入室」：《戀與深空》如何觸發玩家抵制",
+      "description": "中國著名乙女向戀愛游戲《戀與深空》在近期上線新角色，由於發布視頻裡反覆套用威脅女性安全語句，被指威脅女性安全，引起大規模抵制。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gyrgqypwlo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-01T00:37:08.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gyrgqypwlo/trad#7",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/94fb/live/a82ce430-7486-11f1-b1db-af71d47507d6.jpg"
+    },
+    {
       "title": "「一場充滿意外的旅行」：首批上海遊客重返金門、馬祖",
       "description": "2019年起兩岸旅遊受政治與疫情影響中斷，2024年北京部分開放「小三通」，先允許福建居民赴金門、馬祖，今年4月底再擴及上海居民。Lily和丈夫Yuki是首批登上金門的上海旅客，他們經歷了一場困難重重又充滿意外的旅行。",
       "link": "https://www.bbc.com/zhongwen/articles/cy9rp1rxzvgo/trad?at_medium=RSS&at_campaign=rss",
@@ -296,14 +304,6 @@
       "pubDate": "2026-06-23T23:25:01.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c0ey9jyw37po/trad#7",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/84e1/live/2a8415a0-6ea3-11f1-8e1d-bbbb1017d210.jpg"
-    },
-    {
-      "title": "脫歐十年，對英國經濟的影響愈發清晰",
-      "description": "十年前，許多經濟學家認為英國離開歐盟將對其經濟造成長期損害。那麼，實際上又發生了什麼？",
-      "link": "https://www.bbc.com/zhongwen/articles/cj4g1v4lz27o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-25T12:04:42.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cj4g1v4lz27o/trad#7",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d195/live/4f1879d0-6e4c-11f1-8e1d-bbbb1017d210.jpg"
     },
     {
       "title": "脫歐十年後，英國新首相在歐洲問題上必須做出重大抉擇",
