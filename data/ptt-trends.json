@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T19:24:21.008Z",
+  "updated": "2026-07-02T20:02:11.382Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "257",
-      "recommendCount": "664",
+      "recommendScore": "258",
+      "recommendCount": "666",
       "title": "[新聞] 彰化童參加路跑遭撞亡　無照肇事駕駛判刑2年10月",
       "link": "/bbs/Gossiping/M.1782961071.A.0B0",
       "author": "a96385245",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "300",
-      "recommendCount": "660",
+      "recommendScore": "302",
+      "recommendCount": "663",
       "title": "[爆卦] 卓揆搞死台日關係後，更離譜後續來了",
       "link": "/bbs/Gossiping/M.1782991305.A.B6B",
       "author": "cbenlin",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "213",
+      "recommendCount": "300",
+      "title": "[花邊] 喬治生涯被交易3次 每次都帶來巨大回報",
+      "link": "/bbs/NBA/M.1782957824.A.0C0",
+      "author": "Kazmier",
+      "board": "NBA",
+      "publishTime": "2026/07/02 02:03",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "189",
       "recommendCount": "612",
       "title": "Re: [新聞] 快新聞／黃士修嗆蔡阿嘎兒「醜小孩」！藍營議員參選人憋笑喊1句挨批",
@@ -191,16 +201,6 @@
       "author": "MoSalah",
       "board": "Gossiping",
       "publishTime": "2026/07/02 01:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "212",
-      "recommendCount": "299",
-      "title": "[花邊] 喬治生涯被交易3次 每次都帶來巨大回報",
-      "link": "/bbs/NBA/M.1782957824.A.0C0",
-      "author": "Kazmier",
-      "board": "NBA",
-      "publishTime": "2026/07/02 02:03",
       "imageUrl": ""
     }
   ]
