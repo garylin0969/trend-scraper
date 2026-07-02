@@ -1,14 +1,22 @@
 {
-  "updated": "2026-07-02T11:57:33.605Z",
+  "updated": "2026-07-02T12:53:27.876Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-07-02T11:57:29.000Z",
+    "lastBuildDate": "2026-07-02T12:53:15.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "「中國尊」撞機：當局稱六旬男機師「長期焦慮」、多次提及輕生",
+      "description": "涉事的66歲男子在事故中死亡，中國當局稱他生前患有焦慮症，並曾在日記中提及「結束生命」。",
+      "link": "https://www.bbc.com/zhongwen/articles/c70y56p9ryro/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-02T12:45:37.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c70y56p9ryro/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0be4/live/5d268880-7600-11f1-b976-0b9c15b0ccfc.jpg"
+    },
     {
       "title": "中國對日本軍工管制升級：面對稀土牌，高市早苗如何應對？",
       "description": "中國再度擴大對日出口管制，新增20家日本實體列入管制名單等鎖定三菱集團、防衛研究所等研究機構。分析稱這是今年以來對日本最強硬一波制裁，瞄準高市早苗的防衛政策與日台及日菲關係，透過稀土等關鍵礦產施壓。",
@@ -32,14 +40,6 @@
       "pubDate": "2026-07-02T05:29:49.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ce8mly4m2z0o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8a47/live/d03343a0-6f0b-11f1-80ed-1dfdf65c4b32.jpg"
-    },
-    {
-      "title": "池子：被北京封殺的脫口秀演員 在海外回到舞台",
-      "description": "被北京封殺的中國脫口秀明星池子，2026 年展開海外巡演，在台北、新加坡等地回到舞台。他向BBC直言在中國空間狹窄，選擇在海外說出「不能說的話」，面對觀眾挑戰。",
-      "link": "https://www.bbc.com/zhongwen/articles/cm2d9ll6pn8o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-02T05:51:47.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm2d9ll6pn8o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/696c/live/219ce6d0-73e2-11f1-b1db-af71d47507d6.jpg"
     },
     {
       "title": "厄爾尼諾——為何2026年將是「最強一次」",
@@ -98,6 +98,22 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4558/live/3755ea90-7535-11f1-9fc0-0f953a0ed750.jpg"
     },
     {
+      "title": "池子：被北京封殺的脫口秀演員 在海外回到舞台",
+      "description": "被北京封殺的中國脫口秀明星池子，2026 年展開海外巡演，在台北、新加坡等地回到舞台。他向BBC直言在中國空間狹窄，選擇在海外說出「不能說的話」，面對觀眾挑戰。",
+      "link": "https://www.bbc.com/zhongwen/articles/cm2d9ll6pn8o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-02T05:51:47.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cm2d9ll6pn8o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/696c/live/219ce6d0-73e2-11f1-b1db-af71d47507d6.jpg"
+    },
+    {
+      "title": "薩爾瓦多大監獄為何讓右翼政治人物趨之若鶩？",
+      "description": "布克爾總統那種基於大規模逮捕和巨型監獄的「鐵腕」政策，正受到拉丁美洲和歐洲右翼領導人的青睞，但在其他國家的實施效果卻十分有限。",
+      "link": "https://www.bbc.com/zhongwen/articles/c75yx2ewewro/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-01T23:48:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c75yx2ewewro/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b610/live/59013ec0-6fdf-11f1-b873-31f4412355c8.jpg"
+    },
+    {
       "title": "中國能否透過《民族團結進步促進法》針對海外批評者？",
       "description": "人權團體擔心，這項新法律賦予北京追究境外公民的法律權力。",
       "link": "https://www.bbc.com/zhongwen/articles/c4gy88jye51o/trad?at_medium=RSS&at_campaign=rss",
@@ -130,28 +146,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/94fb/live/a82ce430-7486-11f1-b1db-af71d47507d6.jpg"
     },
     {
-      "title": "「中國尊」撞機後數日，當局仍未說明發生了什麼事",
-      "description": "撞擊在大樓外牆留下破洞，但北京已清除這宗事件其他可見痕跡。",
-      "link": "https://www.bbc.com/zhongwen/articles/c70yknxg05go/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-01T00:34:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c70yknxg05go/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0ee9/live/f266eb80-7446-11f1-b2c7-5138402a5536.jpg"
-    },
-    {
       "title": "郭文貴美國詐騙案以判囚30年告一段落",
       "description": "美國紐約南區聯邦法院法官表示，流亡商人郭文貴「利用了那些希望為中國帶來民主的人」，騙取金錢以過奢華生活。",
       "link": "https://www.bbc.com/zhongwen/articles/cy8dpl03e3xo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-06-30T05:24:58.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy8dpl03e3xo/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/01f3/live/c0e2a090-7441-11f1-8546-8f19e4fe30f4.jpg"
-    },
-    {
-      "title": "大馬榴槤大跌價：為何曾經矜貴的果王如今要半賣半送？",
-      "description": "由於馬來西亞榴槤正以極低的價格拋售，果農們對生計感到擔憂。",
-      "link": "https://www.bbc.com/zhongwen/articles/c20yg50wg02o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-30T08:47:16.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c20yg50wg02o/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/95b8/live/39f39760-745a-11f1-8e1d-bbbb1017d210.jpg"
     },
     {
       "title": "陸客自由行停擺七年，上海遊客如何「解鎖」金門之旅？",
