@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T15:29:27.889Z",
+  "updated": "2026-07-02T16:15:26.661Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "398",
-      "recommendCount": "997",
+      "recommendCount": "998",
       "title": "Re: [新聞] 快新聞／黃士修嗆蔡阿嘎兒「醜小孩」！藍營議員參選人憋笑喊1句挨批",
       "link": "/bbs/Gossiping/M.1782924619.A.40C",
       "author": "Hyuui",
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "370",
-      "recommendCount": "585",
+      "recommendCount": "595",
       "title": "Re: [新聞] 快新聞／黃士修嗆蔡阿嘎兒「醜小孩」！藍營議員參選人憋笑喊1句挨批",
       "link": "/bbs/Gossiping/M.1782981813.A.0A9",
       "author": "shrines",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "255",
-      "recommendCount": "660",
+      "recommendScore": "256",
+      "recommendCount": "662",
       "title": "[新聞] 彰化童參加路跑遭撞亡　無照肇事駕駛判刑2年10月",
       "link": "/bbs/Gossiping/M.1782961071.A.0B0",
       "author": "a96385245",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "468",
-      "recommendCount": "838",
+      "recommendScore": "469",
+      "recommendCount": "840",
       "title": "[情報] 金塊有意LBJ",
       "link": "/bbs/NBA/M.1782955428.A.866",
       "author": "ZIDENS",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "283",
-      "recommendCount": "554",
+      "recommendScore": "286",
+      "recommendCount": "560",
       "title": "[新聞] 詐欺犯假釋高調拍片「台灣是天堂」 撤銷假釋再判刑8月",
       "link": "/bbs/Gossiping/M.1782984114.A.234",
       "author": "AHsin",
@@ -74,13 +74,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-229",
-      "recommendCount": "967",
+      "recommendScore": "-232",
+      "recommendCount": "970",
       "title": "Re: [討論]現在的姆斯是什麼等級的球員？",
       "link": "/bbs/NBA/M.1782976556.A.4C2",
       "author": "HOlajuwon",
       "board": "NBA",
       "publishTime": "2026/07/02 07:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "258",
+      "recommendCount": "584",
+      "title": "[爆卦] 卓揆搞死台日關係後，更離譜後續來了",
+      "link": "/bbs/Gossiping/M.1782991305.A.B6B",
+      "author": "cbenlin",
+      "board": "Gossiping",
+      "publishTime": "2026/07/02 11:21",
       "imageUrl": ""
     },
     {
@@ -94,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "344",
-      "recommendCount": "654",
-      "title": "[情報] Kessler去湖人",
-      "link": "/bbs/NBA/M.1782919990.A.FC0",
-      "author": "wishxuso",
-      "board": "NBA",
-      "publishTime": "2026/07/01 15:33",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "378",
       "recommendCount": "941",
       "title": "[討論]現在的姆斯是什麼等級的球員？",
@@ -114,38 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "716",
-      "recommendCount": "1476",
-      "title": "[LIVE] 世界盃足球 民主剛果@英格蘭 場中",
-      "link": "/bbs/SportLottery/M.1782919806.A.1CD",
-      "author": "Lige",
-      "board": "SportLottery",
-      "publishTime": "2026/07/01 15:30",
-      "imageUrl": "https://cache.pttweb.cc/imgur/OK2tj8Y/s/e7f282478df969ab6552cdfedd1d80f5"
-    },
-    {
-      "recommendScore": "237",
-      "recommendCount": "529",
-      "title": "[爆卦] 卓揆搞死台日關係後，更離譜後續來了",
-      "link": "/bbs/Gossiping/M.1782991305.A.B6B",
-      "author": "cbenlin",
-      "board": "Gossiping",
-      "publishTime": "2026/07/02 11:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "272",
-      "recommendCount": "522",
-      "title": "[情報] Shams:LBJ願意接受底薪 加盟一支爭冠球隊",
-      "link": "/bbs/NBA/M.1782921358.A.72A",
-      "author": "yochiya",
-      "board": "NBA",
-      "publishTime": "2026/07/01 15:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "268",
-      "recommendCount": "436",
+      "recommendScore": "275",
+      "recommendCount": "448",
       "title": "[情報] 美國6月非農就業人數&失業率",
       "link": "/bbs/Stock/M.1782995440.A.EA0",
       "author": "xephon",
@@ -164,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "229",
-      "recommendCount": "468",
+      "recommendScore": "230",
+      "recommendCount": "469",
       "title": "[新聞] 得罪大咖「被請辭」李洋清理門戶計畫曝光一次槓11協會",
       "link": "/bbs/Gossiping/M.1782953617.A.D19",
       "author": "lycppt",
@@ -194,13 +164,43 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "296",
-      "recommendCount": "615",
-      "title": "[情報] Collin Sexton去湖人",
-      "link": "/bbs/NBA/M.1782922152.A.4CE",
-      "author": "c27932589",
+      "recommendScore": "284",
+      "recommendCount": "346",
+      "title": "[推投] 你買遊戲是實體派還是數位派",
+      "link": "/bbs/C_Chat/M.1782990665.A.DCF",
+      "author": "victor87710",
+      "board": "C_Chat",
+      "publishTime": "2026/07/02 11:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "240",
+      "recommendCount": "468",
+      "title": "[情報] 湖人還需要清出一張合約",
+      "link": "/bbs/NBA/M.1782924156.A.E31",
+      "author": "dragon803",
       "board": "NBA",
-      "publishTime": "2026/07/01 16:09",
+      "publishTime": "2026/07/01 16:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "145",
+      "recommendCount": "405",
+      "title": "[新聞] 欠6千借高利貸慘遭債主性侵！少女墜7樓重傷　淫男通緝中",
+      "link": "/bbs/Gossiping/M.1782925906.A.7E1",
+      "author": "g01794827",
+      "board": "Gossiping",
+      "publishTime": "2026/07/01 17:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "263",
+      "recommendCount": "626",
+      "title": "[花邊] Brad Stevens停用了自己的IG帳號",
+      "link": "/bbs/NBA/M.1782983088.A.E19",
+      "author": "yochiya",
+      "board": "NBA",
+      "publishTime": "2026/07/02 09:04",
       "imageUrl": ""
     }
   ]
