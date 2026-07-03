@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-03T10:10:50.223Z",
+  "updated": "2026-07-03T11:08:39.352Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "855",
-      "recommendCount": "911",
+      "recommendScore": "864",
+      "recommendCount": "920",
       "title": "Re: [推薦] 足球[小律師]克羅埃西亞 @ 葡萄牙",
       "link": "/bbs/SportLottery/M.1783042955.A.568",
       "author": "lotterywin",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "166",
-      "recommendCount": "1097",
+      "recommendScore": "167",
+      "recommendCount": "1106",
       "title": "[新聞] 若發生戰爭 調查：台灣年輕族群88%願為國而戰 高於日韓",
       "link": "/bbs/Gossiping/M.1783037968.A.92A",
       "author": "jobli",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "473",
-      "recommendCount": "820",
+      "recommendScore": "481",
+      "recommendCount": "856",
       "title": "[新聞] 把狗糧塞嘴裡！賴清德點頭直呼「很香」",
       "link": "/bbs/Gossiping/M.1783053924.A.027",
       "author": "STAV72",
@@ -44,13 +44,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "228",
-      "recommendCount": "615",
+      "recommendScore": "231",
+      "recommendCount": "620",
       "title": "[新聞] 宣布退出政壇！焦糖哥哥求職近況曝光　不忍感嘆：人生好難",
       "link": "/bbs/Gossiping/M.1783037122.A.C05",
       "author": "lunyen",
       "board": "Gossiping",
       "publishTime": "2026/07/03 00:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "274",
+      "recommendCount": "657",
+      "title": "[新聞] 獨／女花3百萬買賓士滿1年回廠　技師開上路出事！批回收價太扯",
+      "link": "/bbs/Gossiping/M.1783050784.A.217",
+      "author": "ThisisLongID",
+      "board": "Gossiping",
+      "publishTime": "2026/07/03 03:53",
       "imageUrl": ""
     },
     {
@@ -64,24 +74,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "269",
-      "recommendCount": "633",
-      "title": "[新聞] 獨／女花3百萬買賓士滿1年回廠　技師開上路出事！批回收價太扯",
-      "link": "/bbs/Gossiping/M.1783050784.A.217",
-      "author": "ThisisLongID",
-      "board": "Gossiping",
-      "publishTime": "2026/07/03 03:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "325",
-      "recommendCount": "525",
+      "recommendScore": "337",
+      "recommendCount": "538",
       "title": "[情報] 115年07月03日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1783062333.A.C15",
       "author": "coconing",
       "board": "Stock",
       "publishTime": "2026/07/03 07:05",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "888",
+      "recommendCount": "1407",
+      "title": "[電競] 2026 Mid-Season Invitational-分組賽 D1",
+      "link": "/bbs/LoL/M.1783045430.A.563",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2026/07/03 02:23",
+      "imageUrl": "https://cache.pttweb.cc/imgur/NXVjfa7/s/c969729d4816516a450dc4c6e7ad546b"
     },
     {
       "recommendScore": "298",
@@ -94,13 +104,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "527",
+      "recommendScore": "245",
+      "recommendCount": "529",
       "title": "[新聞] 國小導師脫光2女學童褲子「打屁股」...成立性騷擾 她打官司結果曝光",
       "link": "/bbs/Gossiping/M.1783030622.A.E2F",
       "author": "wu73",
       "board": "Gossiping",
       "publishTime": "2026/07/02 22:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "346",
+      "recommendCount": "660",
+      "title": "[花邊] JB: 他們想把我變成反派 來啊 開幹吧",
+      "link": "/bbs/NBA/M.1783054967.A.472",
+      "author": "surfingbboy",
+      "board": "NBA",
+      "publishTime": "2026/07/03 05:02",
       "imageUrl": ""
     },
     {
@@ -114,33 +134,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "338",
-      "recommendCount": "640",
-      "title": "[花邊] JB: 他們想把我變成反派 來啊 開幹吧",
-      "link": "/bbs/NBA/M.1783054967.A.472",
-      "author": "surfingbboy",
-      "board": "NBA",
-      "publishTime": "2026/07/03 05:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "829",
-      "recommendCount": "1408",
-      "title": "[電競] 2026 Mid-Season Invitational-分組賽 D1",
-      "link": "/bbs/LoL/M.1783045430.A.563",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2026/07/03 02:23",
-      "imageUrl": "https://cache.pttweb.cc/imgur/NXVjfa7/s/c969729d4816516a450dc4c6e7ad546b"
-    },
-    {
-      "recommendScore": "255",
-      "recommendCount": "354",
+      "recommendScore": "261",
+      "recommendCount": "368",
       "title": "[問卦] 狂賀！我兒子要出生了",
       "link": "/bbs/Gossiping/M.1783053621.A.DCA",
       "author": "jack97256",
       "board": "Gossiping",
       "publishTime": "2026/07/03 04:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "270",
+      "recommendCount": "510",
+      "title": "[花邊] Luka對湖人的操作感到興奮 滿足兩大願望",
+      "link": "/bbs/NBA/M.1783058879.A.E64",
+      "author": "shaaan",
+      "board": "NBA",
+      "publishTime": "2026/07/03 06:07",
       "imageUrl": ""
     },
     {
@@ -154,18 +164,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/APLd7sG/s/990b959072ae946229e6310d4ee35fbc"
     },
     {
-      "recommendScore": "256",
-      "recommendCount": "486",
-      "title": "[花邊] Luka對湖人的操作感到興奮 滿足兩大願望",
-      "link": "/bbs/NBA/M.1783058879.A.E64",
-      "author": "shaaan",
-      "board": "NBA",
-      "publishTime": "2026/07/03 06:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "173",
-      "recommendCount": "371",
+      "recommendScore": "172",
+      "recommendCount": "372",
       "title": "[情報] 經紀人:LeBron想追求真正的快樂",
       "link": "/bbs/NBA/M.1783038733.A.139",
       "author": "a5687920",
