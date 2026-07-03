@@ -1,14 +1,22 @@
 {
-  "updated": "2026-07-03T07:48:31.750Z",
+  "updated": "2026-07-03T09:21:44.412Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-07-03T07:48:21.000Z",
+    "lastBuildDate": "2026-07-03T09:21:33.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "美國建國250年：五個中美交往的歷史細節與默契",
+      "description": "250年來，這兩個國家每一次撕破臉，都留了後路；每一次交好，都留著後手。",
+      "link": "https://www.bbc.com/zhongwen/articles/cgrklk4g1rxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-03T09:09:03.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cgrklk4g1rxo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3a45/live/2ab98e30-769e-11f1-854e-475b00290f64.jpg"
+    },
     {
       "title": "中國、印度等八個人口大國無緣世界盃，為什麼？",
       "description": "全球十大人口大國中，八個屢屢無緣晉身足球界的頂級盛會。它們該如何扭轉自己在體育賽場上的命運？",
@@ -32,14 +40,6 @@
       "pubDate": "2026-07-03T02:04:40.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c99254nl28po/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd2f/live/a49e9390-7616-11f1-a627-714adb4eed6e.jpg"
-    },
-    {
-      "title": "「中國尊」撞機：當局稱六旬男機師「長期焦慮」、多次提及輕生",
-      "description": "涉事的66歲男子在事故中死亡，中國當局稱他生前患有焦慮症，並曾在日記中提及「結束生命」。",
-      "link": "https://www.bbc.com/zhongwen/articles/c70y56p9ryro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-02T12:45:37.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c70y56p9ryro/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0be4/live/5d268880-7600-11f1-b976-0b9c15b0ccfc.jpg"
     },
     {
       "title": "中國對日本軍工管制升級：面對稀土牌，高市早苗如何應對？",
@@ -90,6 +90,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/842b/live/d224de60-5e8c-11f1-89a3-d1f559421220.png"
     },
     {
+      "title": "「中國尊」撞機：當局稱六旬男機師「長期焦慮」、多次提及輕生",
+      "description": "涉事的66歲男子在事故中死亡，中國當局稱他生前患有焦慮症，並曾在日記中提及「結束生命」。",
+      "link": "https://www.bbc.com/zhongwen/articles/c70y56p9ryro/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-02T12:45:37.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c70y56p9ryro/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0be4/live/5d268880-7600-11f1-b976-0b9c15b0ccfc.jpg"
+    },
+    {
       "title": "香港《國安法解密檔案》：「電視認罪」文化會否成為新常態？",
       "description": "正值中國《香港國安法》實施六年，特區政府推出電視節目《國安法解密檔案》，以五宗涉及國家安全的案件為主題。",
       "link": "https://www.bbc.com/zhongwen/articles/c3dylkm1rlxo/trad?at_medium=RSS&at_campaign=rss",
@@ -136,14 +144,6 @@
       "pubDate": "2026-07-01T10:12:48.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c621ggjkyd0o/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4558/live/3755ea90-7535-11f1-9fc0-0f953a0ed750.jpg"
-    },
-    {
-      "title": "薩爾瓦多大監獄為何讓右翼政治人物趨之若鶩？",
-      "description": "布克爾總統那種基於大規模逮捕和巨型監獄的「鐵腕」政策，正受到拉丁美洲和歐洲右翼領導人的青睞，但在其他國家的實施效果卻十分有限。",
-      "link": "https://www.bbc.com/zhongwen/articles/c75yx2ewewro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-01T23:48:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c75yx2ewewro/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b610/live/59013ec0-6fdf-11f1-b873-31f4412355c8.jpg"
     },
     {
       "title": "中國能否透過《民族團結進步促進法》針對海外批評者？",
