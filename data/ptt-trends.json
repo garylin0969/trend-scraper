@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T22:34:09.631Z",
+  "updated": "2026-07-04T23:01:30.903Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "515",
-      "recommendCount": "1278",
+      "recommendScore": "514",
+      "recommendCount": "1279",
       "title": "[閒聊] 北市新設立吸煙區挨轟「跟狗籠一樣」",
       "link": "/bbs/C_Chat/M.1783154170.A.0B9",
       "author": "borondawon",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "343",
-      "recommendCount": "372",
+      "recommendScore": "345",
+      "recommendCount": "374",
       "title": "Re: [問卦] 辭職專門玩運彩如何 (職業玩家的告白",
       "link": "/bbs/Gossiping/M.1783150360.A.934",
       "author": "mark10933",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "829",
-      "recommendCount": "1426",
+      "recommendScore": "830",
+      "recommendCount": "1427",
       "title": "[LIVE] 世界盃足球 摩洛哥@加拿大 場中",
       "link": "/bbs/SportLottery/M.1783182638.A.6C0",
       "author": "Lige",
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "179",
+      "recommendCount": "373",
+      "title": "[問卦] 民視又造謠了",
+      "link": "/bbs/Gossiping/M.1783163588.A.8F4",
+      "author": "coon182",
+      "board": "Gossiping",
+      "publishTime": "2026/07/04 11:13",
+      "imageUrl": "https://cache.pttweb.cc/imgur/cAxYROH/s/ffb588fdddc4ad6070afd3ac5553a6f9"
+    },
+    {
       "recommendScore": "177",
       "recommendCount": "363",
       "title": "[新聞] 《大賣空》貝瑞放空美光！稱股價恐迎30%修正、警告AI泡沫將破裂",
@@ -152,16 +162,6 @@
       "board": "Stock",
       "publishTime": "2026/07/04 07:20",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "173",
-      "recommendCount": "363",
-      "title": "[問卦] 民視又造謠了",
-      "link": "/bbs/Gossiping/M.1783163588.A.8F4",
-      "author": "coon182",
-      "board": "Gossiping",
-      "publishTime": "2026/07/04 11:13",
-      "imageUrl": "https://cache.pttweb.cc/imgur/cAxYROH/s/ffb588fdddc4ad6070afd3ac5553a6f9"
     },
     {
       "recommendScore": "167",
@@ -174,18 +174,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "62",
-      "recommendCount": "364",
-      "title": "[新聞] 再嗆食藥署 林淑芬：致癌油不全面下架",
-      "link": "/bbs/Gossiping/M.1783129686.A.869",
-      "author": "l983",
-      "board": "Gossiping",
-      "publishTime": "2026/07/04 01:48",
+      "recommendScore": "270",
+      "recommendCount": "280",
+      "title": "Re: [LIVE] 世界盃足球 摩洛哥3:0加拿大 場中",
+      "link": "/bbs/SportLottery/M.1783192184.A.E3F",
+      "author": "b032819",
+      "board": "SportLottery",
+      "publishTime": "2026/07/04 19:09",
       "imageUrl": ""
     },
     {
-      "recommendScore": "153",
-      "recommendCount": "397",
+      "recommendScore": "157",
+      "recommendCount": "403",
       "title": "[新聞] 【內幕】李洋遭諷改革「比特犬」屢得罪人前運動次長配合請辭還被吃豆腐",
       "link": "/bbs/Gossiping/M.1783164373.A.3DF",
       "author": "chopper594",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "257",
-      "recommendCount": "267",
-      "title": "Re: [LIVE] 世界盃足球 摩洛哥3:0加拿大 場中",
-      "link": "/bbs/SportLottery/M.1783192184.A.E3F",
-      "author": "b032819",
-      "board": "SportLottery",
-      "publishTime": "2026/07/04 19:09",
+      "recommendScore": "62",
+      "recommendCount": "364",
+      "title": "[新聞] 再嗆食藥署 林淑芬：致癌油不全面下架",
+      "link": "/bbs/Gossiping/M.1783129686.A.869",
+      "author": "l983",
+      "board": "Gossiping",
+      "publishTime": "2026/07/04 01:48",
       "imageUrl": ""
     }
   ]
