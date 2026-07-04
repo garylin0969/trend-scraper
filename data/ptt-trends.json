@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T19:38:34.118Z",
+  "updated": "2026-07-04T20:06:09.421Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "340",
+      "recommendCount": "369",
+      "title": "Re: [問卦] 辭職專門玩運彩如何 (職業玩家的告白",
+      "link": "/bbs/Gossiping/M.1783150360.A.934",
+      "author": "mark10933",
+      "board": "Gossiping",
+      "publishTime": "2026/07/04 07:32",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "308",
       "recommendCount": "1099",
       "title": "[花邊] LBJ與湖人的裂痕來自於當年的龜龜交易",
@@ -51,16 +61,6 @@
       "author": "shaaan",
       "board": "NBA",
       "publishTime": "2026/07/04 04:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "339",
-      "recommendCount": "368",
-      "title": "Re: [問卦] 辭職專門玩運彩如何 (職業玩家的告白",
-      "link": "/bbs/Gossiping/M.1783150360.A.934",
-      "author": "mark10933",
-      "board": "Gossiping",
-      "publishTime": "2026/07/04 07:32",
       "imageUrl": ""
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "188",
-      "recommendCount": "391",
+      "recommendCount": "392",
       "title": "[問卦] 2013地溝油能全面公佈 現在怎不能",
       "link": "/bbs/Gossiping/M.1783154905.A.141",
       "author": "callhek",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "170",
-      "recommendCount": "352",
+      "recommendScore": "169",
+      "recommendCount": "353",
       "title": "[問卦] 民視又造謠了",
       "link": "/bbs/Gossiping/M.1783163588.A.8F4",
       "author": "coon182",
