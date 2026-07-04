@@ -1,16 +1,26 @@
 {
-  "updated": "2026-07-04T11:36:21.144Z",
+  "updated": "2026-07-04T12:03:06.294Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "400",
-      "recommendCount": "1243",
+      "recommendScore": "399",
+      "recommendCount": "1247",
       "title": "[新聞] 致癌沙拉油流向何方？食藥署拒公布291家業者名單：他們也是無辜受影響",
       "link": "/bbs/Gossiping/M.1783125107.A.92A",
       "author": "BSScene",
       "board": "Gossiping",
       "publishTime": "2026/07/04 00:31",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "447",
+      "recommendCount": "1127",
+      "title": "[閒聊] 北市新設立吸煙區挨轟「跟狗籠一樣」",
+      "link": "/bbs/C_Chat/M.1783154170.A.0B9",
+      "author": "borondawon",
+      "board": "C_Chat",
+      "publishTime": "2026/07/04 08:36",
       "imageUrl": ""
     },
     {
@@ -21,16 +31,6 @@
       "author": "iecju520",
       "board": "Gossiping",
       "publishTime": "2026/07/03 13:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "430",
-      "recommendCount": "1091",
-      "title": "[閒聊] 北市新設立吸煙區挨轟「跟狗籠一樣」",
-      "link": "/bbs/C_Chat/M.1783154170.A.0B9",
-      "author": "borondawon",
-      "board": "C_Chat",
-      "publishTime": "2026/07/04 08:36",
       "imageUrl": ""
     },
     {
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "151",
-      "recommendCount": "537",
+      "recommendCount": "538",
       "title": "[新聞] 中聯致癌油291家下游不公布？姜至剛：他們也是受影響業者",
       "link": "/bbs/Gossiping/M.1783129026.A.8EC",
       "author": "ptt987654321",
@@ -84,18 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "310",
-      "recommendCount": "634",
-      "title": "[情報] 醜1-Rich Paul在白板上列出5隊LBJ的下家",
-      "link": "/bbs/NBA/M.1783079159.A.A69",
-      "author": "shaaan",
-      "board": "NBA",
-      "publishTime": "2026/07/03 11:45",
-      "imageUrl": "https://cache.pttweb.cc/imgur/7LcK8sV/s/e6beadd67b4fff2abcbeab80fc0e8a38"
-    },
-    {
-      "recommendScore": "303",
-      "recommendCount": "1071",
+      "recommendScore": "302",
+      "recommendCount": "1072",
       "title": "[花邊] LBJ與湖人的裂痕來自於當年的龜龜交易",
       "link": "/bbs/NBA/M.1783139932.A.BF8",
       "author": "shaaan",
@@ -104,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "215",
-      "recommendCount": "456",
+      "recommendScore": "214",
+      "recommendCount": "458",
       "title": "Re: [新聞] 中聯致癌油291家下游不公布？姜至剛：他們也是受影響業者",
       "link": "/bbs/Gossiping/M.1783131646.A.A55",
       "author": "chirex",
@@ -134,8 +124,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/c6cCz54/s/ad2ade6f1f671e2867f73064fa84d4dd"
     },
     {
-      "recommendScore": "266",
-      "recommendCount": "417",
+      "recommendScore": "265",
+      "recommendCount": "418",
       "title": "[討論] 維德角這樣算強嗎？",
       "link": "/bbs/WorldCup/M.1783126613.A.302",
       "author": "boards",
@@ -144,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "113",
-      "recommendCount": "436",
+      "recommendScore": "118",
+      "recommendCount": "442",
       "title": "[新聞] 翁曉玲砍文化部預算！喊「刪4700萬」導演",
       "link": "/bbs/Gossiping/M.1783138045.A.B23",
       "author": "boppin",
@@ -154,13 +144,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "161",
-      "recommendCount": "533",
+      "recommendScore": "163",
+      "recommendCount": "535",
       "title": "[問卦] 善有善報 惡有惡報這話是真的嗎？",
       "link": "/bbs/Gossiping/M.1783136162.A.39C",
       "author": "hcid",
       "board": "Gossiping",
       "publishTime": "2026/07/04 03:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "60",
+      "recommendCount": "357",
+      "title": "[新聞] 再嗆食藥署 林淑芬：致癌油不全面下架",
+      "link": "/bbs/Gossiping/M.1783129686.A.869",
+      "author": "l983",
+      "board": "Gossiping",
+      "publishTime": "2026/07/04 01:48",
       "imageUrl": ""
     },
     {
@@ -174,13 +174,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "59",
-      "recommendCount": "355",
-      "title": "[新聞] 再嗆食藥署 林淑芬：致癌油不全面下架",
-      "link": "/bbs/Gossiping/M.1783129686.A.869",
-      "author": "l983",
+      "recommendScore": "156",
+      "recommendCount": "321",
+      "title": "[問卦] 2013地溝油能全面公佈 現在怎不能",
+      "link": "/bbs/Gossiping/M.1783154905.A.141",
+      "author": "callhek",
       "board": "Gossiping",
-      "publishTime": "2026/07/04 01:48",
+      "publishTime": "2026/07/04 08:48",
       "imageUrl": ""
     },
     {
