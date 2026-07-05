@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-05T13:10:19.301Z",
+  "updated": "2026-07-05T13:51:41.571Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "744",
+      "recommendScore": "745",
       "recommendCount": "1466",
       "title": "[新聞] 大夜喝拿鐵忘結帳改判無罪 高院批超商享24小時經濟利益卻忘員工體力",
       "link": "/bbs/Gossiping/M.1783211143.A.790",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "296",
-      "recommendCount": "703",
+      "recommendScore": "294",
+      "recommendCount": "709",
       "title": "[新聞] 獨家／女兒被撞死！母控法官「保護加害者」　竟問：有那麼傷心嗎",
       "link": "/bbs/Gossiping/M.1783226899.A.89A",
       "author": "BMTH5566",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "361",
-      "recommendCount": "372",
+      "recommendScore": "363",
+      "recommendCount": "374",
       "title": "Re: [LIVE] 世界盃足球 摩洛哥3:0加拿大 場中",
       "link": "/bbs/SportLottery/M.1783192184.A.E3F",
       "author": "b032819",
@@ -34,14 +34,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "349",
-      "recommendCount": "545",
+      "recommendScore": "350",
+      "recommendCount": "546",
       "title": "[花邊] 若LBJ願來，騎士為Bronny保留一個空間",
       "link": "/bbs/NBA/M.1783214037.A.AC0",
       "author": "Tonybrothers",
       "board": "NBA",
       "publishTime": "2026/07/05 01:13",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "313",
+      "recommendCount": "429",
+      "title": "Re: [新聞] 快訊／19歲女隨爸爸到台科大突失蹤　被發現墜落工程一館送醫亡",
+      "link": "/bbs/Gossiping/M.1783251302.A.CC9",
+      "author": "pchion2002",
+      "board": "Gossiping",
+      "publishTime": "2026/07/05 11:35",
+      "imageUrl": "https://cache.pttweb.cc/imgur/vNg5WEo/s/74d2af52c2f3abb57d7d325a30e83e54"
     },
     {
       "recommendScore": "830",
@@ -75,6 +85,16 @@
     },
     {
       "recommendScore": "199",
+      "recommendCount": "484",
+      "title": "[新聞] 中聯致癌油擴大下架　食藥署公布「257家業者」名單",
+      "link": "/bbs/Gossiping/M.1783244751.A.F1F",
+      "author": "william8403",
+      "board": "Gossiping",
+      "publishTime": "2026/07/05 09:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "199",
       "recommendCount": "436",
       "title": "[花邊] 富保談LBJ的選擇：近期不會決定",
       "link": "/bbs/NBA/M.1783179524.A.CA9",
@@ -84,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "253",
-      "recommendCount": "319",
+      "recommendScore": "254",
+      "recommendCount": "320",
       "title": "[問卦] 發錢！看完奧德賽預告,大家會去看電影嗎？",
       "link": "/bbs/Gossiping/M.1783183804.A.0CC",
       "author": "Teentop",
@@ -114,44 +134,34 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "186",
-      "recommendCount": "450",
-      "title": "[新聞] 中聯致癌油擴大下架　食藥署公布「257家業者」名單",
-      "link": "/bbs/Gossiping/M.1783244751.A.F1F",
-      "author": "william8403",
-      "board": "Gossiping",
-      "publishTime": "2026/07/05 09:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "251",
-      "recommendCount": "347",
-      "title": "Re: [新聞] 快訊／19歲女隨爸爸到台科大突失蹤　被發現墜落工程一館送醫亡",
-      "link": "/bbs/Gossiping/M.1783251302.A.CC9",
-      "author": "pchion2002",
-      "board": "Gossiping",
-      "publishTime": "2026/07/05 11:35",
-      "imageUrl": "https://cache.pttweb.cc/imgur/vNg5WEo/s/74d2af52c2f3abb57d7d325a30e83e54"
-    },
-    {
-      "recommendScore": "70",
-      "recommendCount": "362",
-      "title": "[新聞] 政策被罵爆改了！食藥署宣布 致癌油比率逾2成產品、調和油6日午夜前下架",
-      "link": "/bbs/Gossiping/M.1783173850.A.981",
-      "author": "HisVol",
-      "board": "Gossiping",
-      "publishTime": "2026/07/04 14:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "166",
-      "recommendCount": "375",
+      "recommendScore": "185",
+      "recommendCount": "403",
       "title": "[問卦] 大的來了？俄羅斯策劃攻擊波蘭！！",
       "link": "/bbs/Gossiping/M.1783248099.A.AA8",
       "author": "rondox",
       "board": "Gossiping",
       "publishTime": "2026/07/05 10:41",
       "imageUrl": "https://cache.pttweb.cc/imgur/JawrmOp/s/ae4c49290adf9c5ec8dd04726b6dd256"
+    },
+    {
+      "recommendScore": "187",
+      "recommendCount": "302",
+      "title": "[爆卦] 中聯油脂問題油品流向地圖",
+      "link": "/bbs/Gossiping/M.1783252129.A.0CA",
+      "author": "olctw",
+      "board": "Gossiping",
+      "publishTime": "2026/07/05 11:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "70",
+      "recommendCount": "363",
+      "title": "[新聞] 政策被罵爆改了！食藥署宣布 致癌油比率逾2成產品、調和油6日午夜前下架",
+      "link": "/bbs/Gossiping/M.1783173850.A.981",
+      "author": "HisVol",
+      "board": "Gossiping",
+      "publishTime": "2026/07/04 14:04",
+      "imageUrl": ""
     },
     {
       "recommendScore": "151",
@@ -164,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "135",
-      "recommendCount": "351",
+      "recommendScore": "138",
+      "recommendCount": "358",
       "title": "[新聞] 翁曉玲大砍4700萬預算 億萬導演怒轟：以後都別看台灣電視、電影",
       "link": "/bbs/movie/M.1783184099.A.875",
       "author": "godofsex",
@@ -184,23 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "148",
-      "recommendCount": "481",
+      "recommendScore": "149",
+      "recommendCount": "486",
       "title": "[問卦] 台灣這種官官相護能有台積電真是奇蹟",
       "link": "/bbs/Gossiping/M.1783230270.A.6D1",
       "author": "hondata",
       "board": "Gossiping",
       "publishTime": "2026/07/05 05:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "143",
-      "recommendCount": "276",
-      "title": "[問卦] 毒油流向為什麼可以蓋牌？",
-      "link": "/bbs/Gossiping/M.1783237327.A.AEF",
-      "author": "jazz801030",
-      "board": "Gossiping",
-      "publishTime": "2026/07/05 07:42",
       "imageUrl": ""
     }
   ]
