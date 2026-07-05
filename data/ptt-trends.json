@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-05T15:38:54.780Z",
+  "updated": "2026-07-05T16:06:15.185Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "745",
+      "recommendScore": "746",
       "recommendCount": "1466",
       "title": "[新聞] 大夜喝拿鐵忘結帳改判無罪 高院批超商享24小時經濟利益卻忘員工體力",
       "link": "/bbs/Gossiping/M.1783211143.A.790",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "369",
-      "recommendCount": "527",
+      "recommendScore": "377",
+      "recommendCount": "536",
       "title": "Re: [新聞] 快訊／19歲女隨爸爸到台科大突失蹤　被發現墜落工程一館送醫亡",
       "link": "/bbs/Gossiping/M.1783251302.A.CC9",
       "author": "pchion2002",
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "261",
+      "recommendCount": "398",
+      "title": "[爆卦] 中聯油脂問題油品流向地圖",
+      "link": "/bbs/Gossiping/M.1783252129.A.0CA",
+      "author": "olctw",
+      "board": "Gossiping",
+      "publishTime": "2026/07/05 11:48",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "830",
       "recommendCount": "1427",
       "title": "[LIVE] 世界盃足球 摩洛哥@加拿大 場中",
@@ -62,16 +72,6 @@
       "board": "SportLottery",
       "publishTime": "2026/07/04 16:30",
       "imageUrl": "https://cache.pttweb.cc/imgur/wNZic4r/s/9bcf629f08d98776b01869f698d3996f"
-    },
-    {
-      "recommendScore": "253",
-      "recommendCount": "388",
-      "title": "[爆卦] 中聯油脂問題油品流向地圖",
-      "link": "/bbs/Gossiping/M.1783252129.A.0CA",
-      "author": "olctw",
-      "board": "Gossiping",
-      "publishTime": "2026/07/05 11:48",
-      "imageUrl": ""
     },
     {
       "recommendScore": "205",
@@ -104,18 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "200",
-      "recommendCount": "437",
-      "title": "[花邊] 富保談LBJ的選擇：近期不會決定",
-      "link": "/bbs/NBA/M.1783179524.A.CA9",
-      "author": "Kai877",
-      "board": "NBA",
-      "publishTime": "2026/07/04 15:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "206",
-      "recommendCount": "452",
+      "recommendScore": "214",
+      "recommendCount": "469",
       "title": "[問卦] 大的來了？俄羅斯策劃攻擊波蘭！！",
       "link": "/bbs/Gossiping/M.1783248099.A.AA8",
       "author": "rondox",
@@ -144,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "133",
-      "recommendCount": "456",
+      "recommendScore": "132",
+      "recommendCount": "457",
       "title": "[問卦] 台女：175以上的男生都不太長腦",
       "link": "/bbs/Gossiping/M.1783217565.A.B72",
       "author": "blackman451",
@@ -165,7 +155,7 @@
     },
     {
       "recommendScore": "151",
-      "recommendCount": "314",
+      "recommendCount": "316",
       "title": "[新聞] 致癌油流向300店家食藥署不公布 蔣萬安喊話：立刻公布名單",
       "link": "/bbs/Gossiping/M.1783223044.A.81B",
       "author": "googolplex",
@@ -174,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "153",
-      "recommendCount": "496",
+      "recommendScore": "154",
+      "recommendCount": "500",
       "title": "[問卦] 台灣這種官官相護能有台積電真是奇蹟",
       "link": "/bbs/Gossiping/M.1783230270.A.6D1",
       "author": "hondata",
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "148",
-      "recommendCount": "282",
+      "recommendScore": "149",
+      "recommendCount": "284",
       "title": "[問卦] 毒油流向為什麼可以蓋牌？",
       "link": "/bbs/Gossiping/M.1783237327.A.AEF",
       "author": "jazz801030",
       "board": "Gossiping",
       "publishTime": "2026/07/05 07:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "480",
+      "recommendCount": "755",
+      "title": "Re: [颱風] 2609 巴威",
+      "link": "/bbs/TY_Research/M.1783234478.A.70D",
+      "author": "kadar",
+      "board": "TY_Research",
+      "publishTime": "2026/07/05 06:54",
       "imageUrl": ""
     }
   ]
