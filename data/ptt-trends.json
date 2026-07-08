@@ -1,26 +1,16 @@
 {
-  "updated": "2026-07-08T18:08:59.895Z",
+  "updated": "2026-07-08T18:43:44.045Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "1275",
-      "recommendCount": "1301",
+      "recommendScore": "1298",
+      "recommendCount": "1324",
       "title": "[發錢] 電競百萬單！百杯星巴克同樂～",
       "link": "/bbs/SportLottery/M.1783509918.A.6CC",
       "author": "wukyo2013",
       "board": "SportLottery",
       "publishTime": "2026/07/08 11:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "654",
-      "recommendCount": "679",
-      "title": "Re: [LIVE] 世界盃足球 埃及@阿根廷 場中",
-      "link": "/bbs/SportLottery/M.1783447749.A.20B",
-      "author": "b032819",
-      "board": "SportLottery",
-      "publishTime": "2026/07/07 18:09",
       "imageUrl": ""
     },
     {
@@ -44,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "217",
-      "recommendCount": "591",
+      "recommendScore": "220",
+      "recommendCount": "596",
       "title": "[新聞] 卓揆指示致癌油蓋牌？石崇良曝院長上周五就知情 曾指示「應再考慮」",
       "link": "/bbs/Gossiping/M.1783487205.A.90C",
       "author": "Lineage097",
@@ -64,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "242",
-      "recommendCount": "631",
+      "recommendScore": "244",
+      "recommendCount": "636",
       "title": "[新聞] 9處軍校衛哨外包保全 國防部：9月起分兩階段試辦",
       "link": "/bbs/Gossiping/M.1783504831.A.9BB",
       "author": "touyuan",
@@ -75,7 +65,7 @@
     },
     {
       "recommendScore": "309",
-      "recommendCount": "921",
+      "recommendCount": "923",
       "title": "[爆卦] 南僑發布重大訊息說明沒通報衛生局原因",
       "link": "/bbs/Gossiping/M.1783481322.A.631",
       "author": "yyyyyuuuuu",
@@ -104,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "293",
-      "recommendCount": "735",
-      "title": "[討論] 這場裁判是不是有點偏阿根廷呀？",
-      "link": "/bbs/WorldCup/M.1783447834.A.0C5",
-      "author": "Ragdolg",
-      "board": "WorldCup",
-      "publishTime": "2026/07/07 18:10",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "218",
-      "recommendCount": "429",
+      "recommendCount": "433",
       "title": "[新聞] 卓揆看球惹東京不快餘怒未消？外交部：不評論未經證實訊息",
       "link": "/bbs/Gossiping/M.1783509092.A.9A8",
       "author": "chopper594",
@@ -154,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "214",
+      "recommendCount": "341",
+      "title": "[新聞] 快訊／蹦闆才發聲喊「正當生意人」！",
+      "link": "/bbs/Gossiping/M.1783488410.A.7A6",
+      "author": "tenfu",
+      "board": "Gossiping",
+      "publishTime": "2026/07/08 05:26",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "600",
       "recommendCount": "961",
       "title": "Re: [颱風] 2609 巴威",
@@ -161,16 +151,6 @@
       "author": "kadar",
       "board": "TY_Research",
       "publishTime": "2026/07/08 08:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "213",
-      "recommendCount": "340",
-      "title": "[新聞] 快訊／蹦闆才發聲喊「正當生意人」！",
-      "link": "/bbs/Gossiping/M.1783488410.A.7A6",
-      "author": "tenfu",
-      "board": "Gossiping",
-      "publishTime": "2026/07/08 05:26",
       "imageUrl": ""
     },
     {
@@ -184,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "392",
+      "recommendScore": "243",
+      "recommendCount": "395",
       "title": "[閒聊] 黑白妹妹 的作者 辱華了",
       "link": "/bbs/C_Chat/M.1783520482.A.10E",
       "author": "black80731",
@@ -201,6 +181,26 @@
       "author": "kadar",
       "board": "TY_Research",
       "publishTime": "2026/07/08 01:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "143",
+      "recommendCount": "342",
+      "title": "[新聞] 世足賽／驚天逆轉遭指劇本 埃及主帥轟：FIFA就是想看梅西走下去",
+      "link": "/bbs/Gossiping/M.1783465922.A.84B",
+      "author": "Daniel0712",
+      "board": "Gossiping",
+      "publishTime": "2026/07/07 23:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "199",
+      "recommendCount": "296",
+      "title": "[閒聊] Peyz輸了直接收拾離場，被工作人員叫回來",
+      "link": "/bbs/LoL/M.1783510079.A.8FC",
+      "author": "keel90135",
+      "board": "LoL",
+      "publishTime": "2026/07/08 11:27",
       "imageUrl": ""
     }
   ]
