@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T01:36:53.544Z",
+  "updated": "2026-07-08T02:32:58.256Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "655",
-      "recommendCount": "702",
+      "recommendScore": "659",
+      "recommendCount": "706",
       "title": "[發錢］梅西我錯了",
       "link": "/bbs/WorldCup/M.1783447563.A.A70",
       "author": "poloyabi",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "633",
-      "recommendCount": "651",
+      "recommendScore": "641",
+      "recommendCount": "659",
       "title": "Re: [LIVE] 世界盃足球 埃及@阿根廷 場中",
       "link": "/bbs/SportLottery/M.1783447749.A.20B",
       "author": "b032819",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "265",
-      "recommendCount": "950",
+      "recommendCount": "954",
       "title": "[新聞] 食藥署邀專家談苯駢芘危害　「風險可控」、「烤肉更高」",
       "link": "/bbs/Gossiping/M.1783397823.A.4A4",
       "author": "ThisisLongID",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "189",
-      "recommendCount": "559",
+      "recommendCount": "562",
       "title": "[新聞] NCC空轉iPhone18恐無法進口　藍白：民進黨別再操作恐慌",
       "link": "/bbs/Gossiping/M.1783407147.A.F94",
       "author": "a96385245",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "173",
-      "recommendCount": "608",
+      "recommendScore": "172",
+      "recommendCount": "609",
       "title": "[新聞] 史上最高！中央重罰中聯1億6520萬石崇良：南僑也會罰",
       "link": "/bbs/Gossiping/M.1783404549.A.226",
       "author": "HisVol",
@@ -94,13 +94,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/kjROrkD/s/1d3e69b464ba5348b5e83e4c14615f7c"
     },
     {
-      "recommendScore": "197",
-      "recommendCount": "403",
+      "recommendScore": "206",
+      "recommendCount": "416",
       "title": "[問卦] 男生打「出」後面自動選字8成以上是出軌",
       "link": "/bbs/Gossiping/M.1783425761.A.788",
       "author": "TroyeSivan",
       "board": "Gossiping",
       "publishTime": "2026/07/07 12:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "288",
+      "recommendCount": "727",
+      "title": "[討論] 這場裁判是不是有點偏阿根廷呀？",
+      "link": "/bbs/WorldCup/M.1783447834.A.0C5",
+      "author": "Ragdolg",
+      "board": "WorldCup",
+      "publishTime": "2026/07/07 18:10",
       "imageUrl": ""
     },
     {
@@ -114,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "287",
-      "recommendCount": "718",
-      "title": "[討論] 這場裁判是不是有點偏阿根廷呀？",
-      "link": "/bbs/WorldCup/M.1783447834.A.0C5",
-      "author": "Ragdolg",
-      "board": "WorldCup",
-      "publishTime": "2026/07/07 18:10",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "228",
       "recommendCount": "479",
       "title": "[新聞] 法官稱女兒白死…判決出現「不存在的700萬」！律師調錄音檔打臉",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "220",
-      "recommendCount": "384",
+      "recommendScore": "221",
+      "recommendCount": "385",
       "title": "[新聞] 強颱巴威路徑類似凱米　陳其邁：高雄恐雨比風大",
       "link": "/bbs/Gossiping/M.1783423770.A.45F",
       "author": "l983",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "191",
-      "recommendCount": "433",
+      "recommendScore": "193",
+      "recommendCount": "440",
       "title": "[新聞] 沙拉醬、超商飯糰均中鏢！食藥署公布致癌沙拉油疑慮品項 232項產品一次看",
       "link": "/bbs/Gossiping/M.1783431184.A.1C0",
       "author": "semih",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "192",
-      "recommendCount": "353",
+      "recommendScore": "193",
+      "recommendCount": "354",
       "title": "[新聞] 快訊／巴威加速了！　全台「颱風假」機率曝",
       "link": "/bbs/Gossiping/M.1783394805.A.67A",
       "author": "crocus",
@@ -165,7 +165,7 @@
     },
     {
       "recommendScore": "129",
-      "recommendCount": "465",
+      "recommendCount": "468",
       "title": "[新聞] 致癌油產品回收二度轉彎 石崇良:使用疑慮油品20％以下明午夜前下架",
       "link": "/bbs/Gossiping/M.1783420153.A.DA5",
       "author": "googolplex",
@@ -184,24 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "131",
-      "recommendCount": "346",
-      "title": "[新聞] 涉扮詐團內鬼助洗錢！仙塔律師服軟認罪求輕判　一審判決出爐",
-      "link": "/bbs/Gossiping/M.1783389380.A.311",
-      "author": "tiger911",
-      "board": "Gossiping",
-      "publishTime": "2026/07/07 01:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "99",
-      "recommendCount": "300",
+      "recommendScore": "101",
+      "recommendCount": "302",
       "title": "[新聞] 民眾黨立委遭起訴！北檢：許忠信稱賴勁麟「光電門神」犯加重誹謗",
       "link": "/bbs/Gossiping/M.1783425039.A.E3A",
       "author": "chopper594",
       "board": "Gossiping",
       "publishTime": "2026/07/07 11:50",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "221",
+      "recommendCount": "329",
+      "title": "[花邊] 下季快艇預測先發",
+      "link": "/bbs/NBA/M.1783420373.A.823",
+      "author": "ClownT",
+      "board": "NBA",
+      "publishTime": "2026/07/07 10:32",
+      "imageUrl": "https://cache.pttweb.cc/imgur/VWJ62mH/s/486fd7759e8147a6faef7a97e8f424cf"
     }
   ]
 }
