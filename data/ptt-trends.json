@@ -1,17 +1,17 @@
 {
-  "updated": "2026-07-09T01:02:05.278Z",
+  "updated": "2026-07-09T01:49:23.314Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "1444",
-      "recommendCount": "1471",
+      "recommendScore": "1455",
+      "recommendCount": "1482",
       "title": "[發錢] 電競百萬單！百杯星巴克同樂～",
       "link": "/bbs/SportLottery/M.1783509918.A.6CC",
       "author": "wukyo2013",
       "board": "SportLottery",
       "publishTime": "2026/07/08 11:25",
-      "imageUrl": "https://cache.pttweb.cc/imgur/bCaNCGb/s/0c339f31bac4ca9766ca11ecbd33c610"
+      "imageUrl": ""
     },
     {
       "recommendScore": "496",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "246",
-      "recommendCount": "665",
+      "recommendCount": "669",
       "title": "[新聞] 9處軍校衛哨外包保全 國防部：9月起分兩階段試辦",
       "link": "/bbs/Gossiping/M.1783504831.A.9BB",
       "author": "touyuan",
@@ -84,8 +84,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/YvUVNpI/s/7c6ad13c4874ec9ace86cc7b7bc7799b"
     },
     {
-      "recommendScore": "356",
-      "recommendCount": "386",
+      "recommendScore": "360",
+      "recommendCount": "390",
       "title": "Re: [新聞] 武俠RPG《活俠傳》志願翻譯成員訪談",
       "link": "/bbs/C_Chat/M.1783507770.A.B8E",
       "author": "cloud7515",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "225",
-      "recommendCount": "461",
+      "recommendScore": "228",
+      "recommendCount": "465",
       "title": "[新聞] 卓揆看球惹東京不快餘怒未消？外交部：不評論未經證實訊息",
       "link": "/bbs/Gossiping/M.1783509092.A.9A8",
       "author": "chopper594",
@@ -104,8 +104,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "51",
-      "recommendCount": "550",
+      "recommendScore": "221",
+      "recommendCount": "496",
+      "title": "[新聞] 林佳龍傳赴日遭拒「只能在東京機場停留」？外交部發聲了",
+      "link": "/bbs/Gossiping/M.1783527763.A.DA9",
+      "author": "godofsex",
+      "board": "Gossiping",
+      "publishTime": "2026/07/08 16:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "53",
+      "recommendCount": "558",
       "title": "[花邊] LBJ表示生涯沒拿過DPOY讓他耿耿於懷",
       "link": "/bbs/NBA/M.1783497261.A.12A",
       "author": "shaaan",
@@ -124,28 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "206",
-      "recommendCount": "464",
-      "title": "[新聞] 林佳龍傳赴日遭拒「只能在東京機場停留」？外交部發聲了",
-      "link": "/bbs/Gossiping/M.1783527763.A.DA9",
-      "author": "godofsex",
-      "board": "Gossiping",
-      "publishTime": "2026/07/08 16:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "215",
-      "recommendCount": "495",
-      "title": "[問卦] 1級致癌物 卻沒頂新報導熱 談話節目沒談",
-      "link": "/bbs/Gossiping/M.1783506763.A.70A",
-      "author": "ptt987654321",
-      "board": "Gossiping",
-      "publishTime": "2026/07/08 10:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "175",
-      "recommendCount": "376",
+      "recommendScore": "180",
+      "recommendCount": "385",
       "title": "[新聞] 蘇巧慧稱毒油各自負責 李四川競辦：你爸蘇貞昌當年可不是這樣說的",
       "link": "/bbs/Gossiping/M.1783518322.A.59C",
       "author": "l983",
@@ -154,18 +144,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "213",
-      "recommendCount": "343",
-      "title": "[新聞] 快訊／蹦闆才發聲喊「正當生意人」！",
-      "link": "/bbs/Gossiping/M.1783488410.A.7A6",
-      "author": "tenfu",
+      "recommendScore": "217",
+      "recommendCount": "499",
+      "title": "[問卦] 1級致癌物 卻沒頂新報導熱 談話節目沒談",
+      "link": "/bbs/Gossiping/M.1783506763.A.70A",
+      "author": "ptt987654321",
       "board": "Gossiping",
-      "publishTime": "2026/07/08 05:26",
+      "publishTime": "2026/07/08 10:32",
       "imageUrl": ""
     },
     {
-      "recommendScore": "602",
-      "recommendCount": "964",
+      "recommendScore": "655",
+      "recommendCount": "1046",
       "title": "Re: [颱風] 2609 巴威",
       "link": "/bbs/TY_Research/M.1783499136.A.498",
       "author": "kadar",
@@ -174,8 +164,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "260",
-      "recommendCount": "438",
+      "recommendScore": "214",
+      "recommendCount": "344",
+      "title": "[新聞] 快訊／蹦闆才發聲喊「正當生意人」！",
+      "link": "/bbs/Gossiping/M.1783488410.A.7A6",
+      "author": "tenfu",
+      "board": "Gossiping",
+      "publishTime": "2026/07/08 05:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "261",
+      "recommendCount": "439",
       "title": "[閒聊] 黑白妹妹 的作者 辱華了",
       "link": "/bbs/C_Chat/M.1783520482.A.10E",
       "author": "black80731",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "520",
-      "recommendCount": "909",
-      "title": "Re: [颱風] 2609 巴威",
-      "link": "/bbs/TY_Research/M.1783475149.A.F15",
-      "author": "kadar",
-      "board": "TY_Research",
-      "publishTime": "2026/07/08 01:45",
+      "recommendScore": "202",
+      "recommendCount": "423",
+      "title": "[新聞] 僅3%畢業生願穿無塵衣！彭博：台積電、",
+      "link": "/bbs/Stock/M.1783508540.A.608",
+      "author": "doozia",
+      "board": "Stock",
+      "publishTime": "2026/07/08 11:02",
       "imageUrl": ""
     }
   ]
