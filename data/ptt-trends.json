@@ -1,8 +1,28 @@
 {
-  "updated": "2026-07-10T08:13:09.428Z",
+  "updated": "2026-07-10T09:32:22.144Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "490",
+      "recommendCount": "891",
+      "title": "[問卦] 北北基桃明天颱風天確定放蝦",
+      "link": "/bbs/Gossiping/M.1783596083.A.797",
+      "author": "st900501",
+      "board": "Gossiping",
+      "publishTime": "2026/07/09 11:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "197",
+      "recommendCount": "993",
+      "title": "[新聞] 虧大了！無風雨台股休市 美日韓股大漲、投資人少賺6萬元",
+      "link": "/bbs/Stock/M.1783656385.A.AEC",
+      "author": "ChanHoPark",
+      "board": "Stock",
+      "publishTime": "2026/07/10 04:06",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "321",
       "recommendCount": "611",
@@ -11,6 +31,16 @@
       "author": "alwang",
       "board": "Gossiping",
       "publishTime": "2026/07/09 10:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "390",
+      "recommendCount": "744",
+      "title": "[情報] AD追求四年275M合約",
+      "link": "/bbs/NBA/M.1783654608.A.068",
+      "author": "PaulDavis",
+      "board": "NBA",
+      "publishTime": "2026/07/10 03:36",
       "imageUrl": ""
     },
     {
@@ -24,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "407",
-      "recommendCount": "496",
+      "recommendScore": "414",
+      "recommendCount": "503",
       "title": "[活俠] 解藥來了",
       "link": "/bbs/C_Chat/M.1783656211.A.031",
       "author": "kao50126",
@@ -34,18 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "375",
-      "recommendCount": "718",
-      "title": "[情報] AD追求四年275M合約",
-      "link": "/bbs/NBA/M.1783654608.A.068",
-      "author": "PaulDavis",
-      "board": "NBA",
-      "publishTime": "2026/07/10 03:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "232",
-      "recommendCount": "544",
+      "recommendScore": "244",
+      "recommendCount": "579",
       "title": "[新聞] 高嘉瑜大翻車！「靈魂拷問」內湖清溝進度遭在地阿姨2句話秒打臉",
       "link": "/bbs/Gossiping/M.1783654411.A.5FD",
       "author": "yochiya",
@@ -54,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "266",
-      "recommendCount": "597",
+      "recommendScore": "268",
+      "recommendCount": "600",
       "title": "[爆卦] 上半年出生人數46344人",
       "link": "/bbs/Gossiping/M.1783645031.A.580",
       "author": "Zilinker",
@@ -94,34 +114,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "264",
-      "recommendCount": "289",
+      "recommendScore": "270",
+      "recommendCount": "295",
       "title": "[發錢] 活俠傳 年度新藥 9/15 發錢啦",
       "link": "/bbs/C_Chat/M.1783656990.A.648",
       "author": "LABOYS",
       "board": "C_Chat",
       "publishTime": "2026/07/10 04:16",
       "imageUrl": "https://cache.pttweb.cc/imgur/qGl2GCl/s/e2210d5307d2b33efbfa1c0da456b511"
-    },
-    {
-      "recommendScore": "273",
-      "recommendCount": "279",
-      "title": "Re: [LIVE] 籃球 山脈90：93公羊 場中",
-      "link": "/bbs/SportLottery/M.1783588540.A.3DB",
-      "author": "b032819",
-      "board": "SportLottery",
-      "publishTime": "2026/07/09 09:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "485",
-      "recommendCount": "807",
-      "title": "[颱風] 巴威颱風 海上颱風警報 第2報",
-      "link": "/bbs/TY_Research/M.1783589462.A.3AC",
-      "author": "Matthew10244",
-      "board": "TY_Research",
-      "publishTime": "2026/07/09 09:31",
-      "imageUrl": "https://cache.pttweb.cc/imgur/UJA0Der/s/ad91bd6c1a228074f4f24349bb3136e1"
     },
     {
       "recommendScore": "126",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "130",
-      "recommendCount": "335",
+      "recommendScore": "132",
+      "recommendCount": "339",
       "title": "[新聞] 巴威放颱風假！台股明休市　台指期夜盤大漲股民哭了",
       "link": "/bbs/Stock/M.1783604570.A.6AF",
       "author": "ptttpt",
@@ -144,18 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "225",
-      "recommendCount": "273",
-      "title": "[問卦] 台北人希望放假（發錢）",
-      "link": "/bbs/Gossiping/M.1783585089.A.32D",
-      "author": "iahc5566",
-      "board": "Gossiping",
-      "publishTime": "2026/07/09 08:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "156",
-      "recommendCount": "275",
+      "recommendScore": "157",
+      "recommendCount": "276",
       "title": "[問卦] 明天北北基桃放假崩潰的是哪些人？",
       "link": "/bbs/Gossiping/M.1783598798.A.5F9",
       "author": "lili712",
@@ -164,18 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "672",
-      "recommendCount": "1191",
-      "title": "[LIVE] 世界盃足球 摩洛哥@法國 場中",
-      "link": "/bbs/SportLottery/M.1783625537.A.BB8",
-      "author": "Lige",
-      "board": "SportLottery",
-      "publishTime": "2026/07/09 19:32",
-      "imageUrl": "https://cache.pttweb.cc/imgur/d2MA12r/s/e861599f4c1845cd401a959c69e154fe"
-    },
-    {
       "recommendScore": "110",
-      "recommendCount": "381",
+      "recommendCount": "384",
       "title": "[新聞] 沈伯洋：北市2023至今逾10起天坑 應總體檢讓人民安心",
       "link": "/bbs/Gossiping/M.1783640784.A.070",
       "author": "asppsa",
@@ -184,8 +164,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "159",
-      "recommendCount": "594",
+      "recommendScore": "673",
+      "recommendCount": "1192",
+      "title": "[LIVE] 世界盃足球 摩洛哥@法國 場中",
+      "link": "/bbs/SportLottery/M.1783625537.A.BB8",
+      "author": "Lige",
+      "board": "SportLottery",
+      "publishTime": "2026/07/09 19:32",
+      "imageUrl": "https://cache.pttweb.cc/imgur/d2MA12r/s/e861599f4c1845cd401a959c69e154fe"
+    },
+    {
+      "recommendScore": "160",
+      "recommendCount": "598",
       "title": "[閒聊] 台中放半天",
       "link": "/bbs/TaichungBun/M.1783598899.A.99E",
       "author": "ohyii",
@@ -194,14 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "156",
-      "recommendCount": "272",
-      "title": "[新聞] 颱風身體破一個大洞！巴威最新衛星雲圖出爐　氣象署：遇到魔王了",
-      "link": "/bbs/Gossiping/M.1783585853.A.1F8",
-      "author": "G4321",
-      "board": "Gossiping",
-      "publishTime": "2026/07/09 08:30",
+      "recommendScore": "142",
+      "recommendCount": "395",
+      "title": "Re: [新聞] 巴威放颱風假！台股明休市　台指期夜盤大漲股民哭了",
+      "link": "/bbs/Stock/M.1783653543.A.BFD",
+      "author": "nogood",
+      "board": "Stock",
+      "publishTime": "2026/07/10 03:19",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "604",
+      "recommendCount": "1084",
+      "title": "[電競] 2026 Mid-Season Invitational-四強賽 D1",
+      "link": "/bbs/LoL/M.1783667628.A.591",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2026/07/10 07:13",
+      "imageUrl": "https://cache.pttweb.cc/imgur/dnD4HUx/s/998a781d6feeff338d40d84b649bfa88"
     }
   ]
 }
