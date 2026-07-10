@@ -1,48 +1,8 @@
 {
-  "updated": "2026-07-10T18:05:00.205Z",
+  "updated": "2026-07-10T18:42:47.001Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "203",
-      "recommendCount": "1039",
-      "title": "[新聞] 虧大了！無風雨台股休市 美日韓股大漲、投資人少賺6萬元",
-      "link": "/bbs/Stock/M.1783656385.A.AEC",
-      "author": "ChanHoPark",
-      "board": "Stock",
-      "publishTime": "2026/07/10 04:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "425",
-      "recommendCount": "868",
-      "title": "[新聞] 彭博：台灣人口連30個月負成長 創二戰結束以來最久紀錄",
-      "link": "/bbs/Gossiping/M.1783680858.A.D69",
-      "author": "monnom",
-      "board": "Gossiping",
-      "publishTime": "2026/07/10 10:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "277",
-      "recommendCount": "641",
-      "title": "[新聞] 高嘉瑜大翻車！「靈魂拷問」內湖清溝進度遭在地阿姨2句話秒打臉",
-      "link": "/bbs/Gossiping/M.1783654411.A.5FD",
-      "author": "yochiya",
-      "board": "Gossiping",
-      "publishTime": "2026/07/10 03:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "408",
-      "recommendCount": "783",
-      "title": "[情報] AD追求四年275M合約",
-      "link": "/bbs/NBA/M.1783654608.A.068",
-      "author": "PaulDavis",
-      "board": "NBA",
-      "publishTime": "2026/07/10 03:36",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "430",
       "recommendCount": "519",
@@ -54,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "267",
-      "recommendCount": "489",
+      "recommendScore": "269",
+      "recommendCount": "494",
       "title": "[討論] 林孝程 再見妨礙守備",
       "link": "/bbs/Baseball/M.1783692618.A.2AD",
       "author": "passbyks",
@@ -64,8 +24,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ILCh9Kq/s/acf7bcce6fdc811fdae49a3951c1b429"
     },
     {
-      "recommendScore": "320",
-      "recommendCount": "466",
+      "recommendScore": "333",
+      "recommendCount": "481",
       "title": "[問卦] 國家地理雜誌臺灣攝影大賽冠軍",
       "link": "/bbs/Gossiping/M.1783689952.A.3B3",
       "author": "zoeapezoo",
@@ -84,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "220",
-      "recommendCount": "668",
+      "recommendScore": "222",
+      "recommendCount": "670",
       "title": "[問卦] 到底是什麼原因，讓越來越多人不想生？",
       "link": "/bbs/Gossiping/M.1783667449.A.522",
       "author": "aza0290",
@@ -154,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "122",
-      "recommendCount": "338",
+      "recommendScore": "125",
+      "recommendCount": "344",
       "title": "[問卦] 台大五姬陳匡怡現在長這樣？",
       "link": "/bbs/Gossiping/M.1783684731.A.4B5",
       "author": "shole",
@@ -202,6 +162,46 @@
       "board": "SportLottery",
       "publishTime": "2026/07/09 19:32",
       "imageUrl": "https://cache.pttweb.cc/imgur/d2MA12r/s/e861599f4c1845cd401a959c69e154fe"
+    },
+    {
+      "recommendScore": "128",
+      "recommendCount": "379",
+      "title": "[新聞] 颱風假遭質疑 蔣萬安：調整防災思維「防颱整備日」備戰",
+      "link": "/bbs/Gossiping/M.1783656289.A.114",
+      "author": "KONAMI",
+      "board": "Gossiping",
+      "publishTime": "2026/07/10 04:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "149",
+      "recommendCount": "581",
+      "title": "[新聞] 才控被趕出豪宅！S媽證實大S上億遺產遭凍結　「清算內幕」曝",
+      "link": "/bbs/Gossiping/M.1783644089.A.F35",
+      "author": "sasolala",
+      "board": "Gossiping",
+      "publishTime": "2026/07/10 00:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "132",
+      "recommendCount": "470",
+      "title": "[問卦] 報導者追殺頂新怎不追殺中聯？",
+      "link": "/bbs/Gossiping/M.1783677039.A.67C",
+      "author": "CrossroadMEI",
+      "board": "Gossiping",
+      "publishTime": "2026/07/10 09:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "122",
+      "recommendCount": "296",
+      "title": "[問卦] 台北雨蠻大的吧",
+      "link": "/bbs/Gossiping/M.1783658316.A.2F8",
+      "author": "Lisaann",
+      "board": "Gossiping",
+      "publishTime": "2026/07/10 04:38",
+      "imageUrl": ""
     }
   ]
 }
