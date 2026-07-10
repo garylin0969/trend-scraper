@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-10T19:18:38.510Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2026-07-10T19:54:41.889Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "202",
@@ -54,24 +54,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "270",
-      "recommendCount": "495",
-      "title": "[討論] 林孝程 再見妨礙守備",
-      "link": "/bbs/Baseball/M.1783692618.A.2AD",
-      "author": "passbyks",
-      "board": "Baseball",
-      "publishTime": "2026/07/10 14:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ILCh9Kq/s/acf7bcce6fdc811fdae49a3951c1b429"
-    },
-    {
-      "recommendScore": "338",
-      "recommendCount": "491",
+      "recommendScore": "345",
+      "recommendCount": "500",
       "title": "[問卦] 國家地理雜誌臺灣攝影大賽冠軍",
       "link": "/bbs/Gossiping/M.1783689952.A.3B3",
       "author": "zoeapezoo",
       "board": "Gossiping",
       "publishTime": "2026/07/10 13:25",
       "imageUrl": "https://cache.pttweb.cc/imgur/5CX3ZXl/s/ae214ea46eeac354427f6d92afce437c"
+    },
+    {
+      "recommendScore": "272",
+      "recommendCount": "497",
+      "title": "[討論] 林孝程 再見妨礙守備",
+      "link": "/bbs/Baseball/M.1783692618.A.2AD",
+      "author": "passbyks",
+      "board": "Baseball",
+      "publishTime": "2026/07/10 14:10",
+      "imageUrl": "https://cache.pttweb.cc/imgur/ILCh9Kq/s/acf7bcce6fdc811fdae49a3951c1b429"
     },
     {
       "recommendScore": "277",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "222",
-      "recommendCount": "670",
+      "recommendScore": "223",
+      "recommendCount": "672",
       "title": "[問卦] 到底是什麼原因，讓越來越多人不想生？",
       "link": "/bbs/Gossiping/M.1783667449.A.522",
       "author": "aza0290",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "128",
-      "recommendCount": "350",
+      "recommendScore": "129",
+      "recommendCount": "353",
       "title": "[問卦] 台大五姬陳匡怡現在長這樣？",
       "link": "/bbs/Gossiping/M.1783684731.A.4B5",
       "author": "shole",
@@ -175,7 +175,7 @@
     },
     {
       "recommendScore": "111",
-      "recommendCount": "386",
+      "recommendCount": "387",
       "title": "[新聞] 沈伯洋：北市2023至今逾10起天坑 應總體檢讓人民安心",
       "link": "/bbs/Gossiping/M.1783640784.A.070",
       "author": "asppsa",
@@ -191,6 +191,16 @@
       "author": "nogood",
       "board": "Stock",
       "publishTime": "2026/07/10 03:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "128",
+      "recommendCount": "379",
+      "title": "[新聞] 颱風假遭質疑 蔣萬安：調整防災思維「防颱整備日」備戰",
+      "link": "/bbs/Gossiping/M.1783656289.A.114",
+      "author": "KONAMI",
+      "board": "Gossiping",
+      "publishTime": "2026/07/10 04:04",
       "imageUrl": ""
     }
   ]
