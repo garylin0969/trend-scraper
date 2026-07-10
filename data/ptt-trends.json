@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-10T22:02:11.022Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2026-07-10T22:31:59.869Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "201",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "359",
-      "recommendCount": "527",
+      "recommendScore": "361",
+      "recommendCount": "544",
       "title": "[問卦] 國家地理雜誌臺灣攝影大賽冠軍",
       "link": "/bbs/Gossiping/M.1783689952.A.3B3",
       "author": "zoeapezoo",
@@ -164,18 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "125",
-      "recommendCount": "461",
-      "title": "[問卦] 我在台北天氣晴？？",
-      "link": "/bbs/Gossiping/M.1783635409.A.F39",
-      "author": "o523874",
-      "board": "Gossiping",
-      "publishTime": "2026/07/09 22:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "622",
-      "recommendCount": "1177",
+      "recommendScore": "623",
+      "recommendCount": "1178",
       "title": "[LIVE] 世界盃足球 比利時@西班牙 場中",
       "link": "/bbs/SportLottery/M.1783708231.A.65C",
       "author": "Lige",
@@ -191,6 +181,26 @@
       "author": "asppsa",
       "board": "Gossiping",
       "publishTime": "2026/07/09 23:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "148",
+      "recommendCount": "408",
+      "title": "Re: [新聞] 巴威放颱風假！台股明休市　台指期夜盤大漲股民哭了",
+      "link": "/bbs/Stock/M.1783653543.A.BFD",
+      "author": "nogood",
+      "board": "Stock",
+      "publishTime": "2026/07/10 03:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "137",
+      "recommendCount": "489",
+      "title": "[問卦] 報導者追殺頂新怎不追殺中聯？",
+      "link": "/bbs/Gossiping/M.1783677039.A.67C",
+      "author": "CrossroadMEI",
+      "board": "Gossiping",
+      "publishTime": "2026/07/10 09:50",
       "imageUrl": ""
     }
   ]
