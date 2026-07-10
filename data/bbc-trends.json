@@ -1,29 +1,45 @@
 {
-  "updated": "2026-07-10T03:22:14.146Z",
+  "updated": "2026-07-10T05:03:39.599Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-07-10T03:22:07.000Z",
+    "lastBuildDate": "2026-07-10T05:03:35.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
     {
-      "title": "颱風巴威來襲：近30年暴風半徑最大，台灣10縣市停班停課",
+      "title": "颱風巴威來襲：近30年暴風半徑最大，台灣12縣市停班停課",
       "description": "預計週五（10日）晚至週六（11日）全日，是巴威影響台灣最明顯的時間。台北市消防局建議民眾「備妥至少3天份的乾糧與飲用水」，不少賣場都出現搶購防颱物資的人潮。",
       "link": "https://www.bbc.com/zhongwen/articles/cz9lz18k399o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-10T03:21:19.000Z",
+      "pubDate": "2026-07-10T03:52:48.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cz9lz18k399o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2ba0/live/00cf92c0-7bfa-11f1-b447-c332f78126d1.jpg"
     },
     {
-      "title": "廣西洪災：多次預警之後，洪水為何仍令人措手不及？",
-      "description": "作為中國主要的糧食產區，廣西連年爆發洪災，背後原因為何？洪災現場民眾告訴BBC中文她的經歷。",
-      "link": "https://www.bbc.com/zhongwen/articles/c33yk63215yo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-09T14:07:43.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c33yk63215yo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ec42/live/4fc1dcb0-7b93-11f1-881d-8fcf7e2296a7.jpg"
+      "title": "廣西水災：一座建於「大躍進」時期的水庫，為何未能抵擋極端洪水？",
+      "description": "一場暴雨讓這座已有66年歷史的水庫失守，引發外界對中國老舊水庫安全性的討論。",
+      "link": "https://www.bbc.com/zhongwen/articles/ce8kxgwjer4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-10T04:35:26.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce8kxgwjer4o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bc32/live/f870af60-7ba9-11f1-9671-6995d20a3bb8.jpg"
+    },
+    {
+      "title": "福建泉州晉江鞋廠大火致28人遇難，習近平指「嚴肅追責」",
+      "description": "根據新華社消息，中國東南部城市晉江一家鞋廠在週四（7月9日晚）發生火災，造成至少28人死亡。週五，當地召開記者會，福建省政府宣布已經成立事故調查組追責。",
+      "link": "https://www.bbc.com/zhongwen/articles/cdr47vzk81no/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-10T04:51:23.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cdr47vzk81no/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2a09/live/cf307130-7c12-11f1-9510-1546718f668b.jpg"
+    },
+    {
+      "title": "哈梅內伊下葬之際，美伊互相發動攻擊",
+      "description": "美國中央司令部表示，在最新一輪空襲中打擊了90個伊朗目標；伊朗衛生部則表示，自週二以來已有14人死亡。",
+      "link": "https://www.bbc.com/zhongwen/articles/ckg8x8z317po/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-10T04:46:09.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckg8x8z317po/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/25b2/live/c138fc50-7bf4-11f1-bee8-53ce494e1abc.jpg"
     },
     {
       "title": "澳門國安法首案起訴 歐錦新顛覆罪面臨25年徒刑",
@@ -32,22 +48,6 @@
       "pubDate": "2026-07-09T13:30:24.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cp8l0jk3ygmo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f90/live/2111a2e0-7b9a-11f1-b976-0b9c15b0ccfc.jpg"
-    },
-    {
-      "title": "台灣毒油：致癌沙拉油流入各大超商，食安制度為何失效？",
-      "description": "事件揭露抽驗機制漏洞，生產商今年4月首次抽驗沒超標，到5月下游業者自主檢驗發現超標後，只在供應鏈內逐層向上游通報，主管機關延至6月底才收到通知，逾50日「空窗期」令問題油擴散全台。",
-      "link": "https://www.bbc.com/zhongwen/articles/c3dy71dgg5po/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-09T10:52:03.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3dy71dgg5po/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4cb8/live/55850830-7b83-11f1-b976-0b9c15b0ccfc.jpg"
-    },
-    {
-      "title": "中國搞笑網紅「陳土豆」台灣爆紅，為何引「統戰」爭議？",
-      "description": "來自中國廣東的陳土豆，以誇張的表情創作搞笑影片，在兩岸網絡走紅，近期更頻繁赴台參加活動。BBC中文採訪台灣粉絲和學者，了解她在台灣受歡迎的原因，以及在兩岸關係緊張之下，這位中國性少數網紅為何面對質疑？",
-      "link": "https://www.bbc.com/zhongwen/articles/c982vpj7zv1o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-09T04:31:07.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c982vpj7zv1o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da16/live/9c218a60-7a67-11f1-b3a0-9d60633dee75.png"
     },
     {
       "title": "點擊瀏覽即時更新",
@@ -90,28 +90,36 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/842b/live/d224de60-5e8c-11f1-89a3-d1f559421220.png"
     },
     {
+      "title": "廣西洪災：多次預警之後，洪水為何仍令人措手不及？",
+      "description": "作為中國主要的糧食產區，廣西連年爆發洪災，背後原因為何？洪災現場民眾告訴BBC中文她的經歷。",
+      "link": "https://www.bbc.com/zhongwen/articles/c33yk63215yo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-09T14:07:43.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c33yk63215yo/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ec42/live/4fc1dcb0-7b93-11f1-881d-8fcf7e2296a7.jpg"
+    },
+    {
+      "title": "中國搞笑網紅「陳土豆」台灣爆紅，為何引「統戰」爭議？",
+      "description": "來自中國廣東的陳土豆，以誇張的表情創作搞笑影片，在兩岸網絡走紅，近期更頻繁赴台參加活動。BBC中文採訪台灣粉絲和學者，了解她在台灣受歡迎的原因，以及在兩岸關係緊張之下，這位中國性少數網紅為何面對質疑？",
+      "link": "https://www.bbc.com/zhongwen/articles/c982vpj7zv1o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-09T04:31:07.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c982vpj7zv1o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da16/live/9c218a60-7a67-11f1-b3a0-9d60633dee75.png"
+    },
+    {
+      "title": "台灣毒油：致癌沙拉油流入各大超商，食安制度為何失效？",
+      "description": "事件揭露抽驗機制漏洞，生產商今年4月首次抽驗沒超標，到5月下游業者自主檢驗發現超標後，只在供應鏈內逐層向上游通報，主管機關延至6月底才收到通知，逾50日「空窗期」令問題油擴散全台。",
+      "link": "https://www.bbc.com/zhongwen/articles/c3dy71dgg5po/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-09T10:52:03.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3dy71dgg5po/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4cb8/live/55850830-7b83-11f1-b976-0b9c15b0ccfc.jpg"
+    },
+    {
       "title": "「沒戴保險套就不要做」？台灣擬管制事後避孕藥引發女性焦慮",
       "description": "事後避孕藥有越早服用效果越好，一般有「72小時」的黃金時效。有受訪的台灣女性對BBC中文說，擔心未來如果要先到醫院看診再取藥，過程將大幅增加不便，甚至可能因拖延而提高意外懷孕風險。",
       "link": "https://www.bbc.com/zhongwen/articles/cx2xlj2ew6lo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-09T03:18:47.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx2xlj2ew6lo/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d138/live/086406b0-7a88-11f1-bf04-effa1d05b41c.jpg"
-    },
-    {
-      "title": "一文讀懂貝安德拜相之路：英國工黨如何選舉新黨魁",
-      "description": "英國國會下議院的工黨議員們開始提名新黨魁，接替上月宣布辭職的施紀賢爵士（Sir Keir Starmer）。",
-      "link": "https://www.bbc.com/zhongwen/articles/cjrgxjpdz7xo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-09T18:08:35.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cjrgxjpdz7xo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ec06/live/eabf37b0-7adc-11f1-9a9c-53fd8f110370.jpg"
-    },
-    {
-      "title": "若入主唐寧街 貝安德會開啟新的中英關係嗎？",
-      "description": "貝安德被視為英國新任首相的大熱門，其中國政策是否會延續其大曼城市長經驗的務實路線引發議論。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgjm0x0pzlo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-09T04:39:15.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgjm0x0pzlo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/333d/live/fb614420-72ec-11f1-8e1d-bbbb1017d210.jpg"
     },
     {
       "title": "德國華人性侵案：拆解性暴力案件的犯罪心理",
@@ -136,14 +144,6 @@
       "pubDate": "2026-07-08T04:43:49.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c5yz21e5jy5o/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9ad7/live/839d8840-750d-11f1-8e1d-bbbb1017d210.png"
-    },
-    {
-      "title": "中國實施信訪新規：有學者指「最終目的是減少進北京上訪者」",
-      "description": "熟悉中國社會的學者向BBC中文分析指出，信訪制度主要為中央政府樹立形象，但實際上難以處理問題；新規主要增加了行政限制，減少赴京上訪者。",
-      "link": "https://www.bbc.com/zhongwen/articles/cly85p711zno/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-09T11:31:53.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cly85p711zno/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e40a/live/cc676ed0-7aa1-11f1-b976-0b9c15b0ccfc.jpg"
     },
     {
       "title": "哈梅內伊葬禮上的中國來客：一場外交安排透露北京的新盤算",
@@ -242,12 +242,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1662/live/8c9d1790-73e0-11f1-8546-8f19e4fe30f4.jpg"
     },
     {
-      "title": "「洪水來得太快了」：颱風在中國引發水災及罕見龍捲風",
-      "description": "家人受困的村民向BBC表示，他們正面臨食物短缺，且難以獲得援助。",
-      "link": "https://www.bbc.com/zhongwen/articles/ckg732x8l8yo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-08T06:31:49.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckg732x8l8yo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a2ca/live/a24f0740-7a95-11f1-9510-1546718f668b.jpg"
+      "title": "一文讀懂貝安德拜相之路：英國工黨如何選舉新黨魁",
+      "description": "英國國會下議院的工黨議員們開始提名新黨魁，接替上月宣布辭職的施紀賢爵士（Sir Keir Starmer）。",
+      "link": "https://www.bbc.com/zhongwen/articles/cjrgxjpdz7xo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-09T18:08:35.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cjrgxjpdz7xo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ec06/live/eabf37b0-7adc-11f1-9a9c-53fd8f110370.jpg"
     },
     {
       "title": "中國來的拖網漁船讓這群非洲漁民叫苦連天",
