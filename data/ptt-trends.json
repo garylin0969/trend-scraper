@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-10T21:02:58.778Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2026-07-10T21:33:05.064Z",
+  "total_found": 19,
+  "returned_count": 19,
   "articles": [
     {
       "recommendScore": "201",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "430",
-      "recommendCount": "881",
+      "recommendScore": "432",
+      "recommendCount": "883",
       "title": "[新聞] 彭博：台灣人口連30個月負成長 創二戰結束以來最久紀錄",
       "link": "/bbs/Gossiping/M.1783680858.A.D69",
       "author": "monnom",
@@ -34,14 +34,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "408",
-      "recommendCount": "786",
+      "recommendScore": "410",
+      "recommendCount": "788",
       "title": "[情報] AD追求四年275M合約",
       "link": "/bbs/NBA/M.1783654608.A.068",
       "author": "PaulDavis",
       "board": "NBA",
       "publishTime": "2026/07/10 03:36",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "357",
+      "recommendCount": "525",
+      "title": "[問卦] 國家地理雜誌臺灣攝影大賽冠軍",
+      "link": "/bbs/Gossiping/M.1783689952.A.3B3",
+      "author": "zoeapezoo",
+      "board": "Gossiping",
+      "publishTime": "2026/07/10 13:25",
+      "imageUrl": "https://cache.pttweb.cc/imgur/5CX3ZXl/s/ae214ea46eeac354427f6d92afce437c"
     },
     {
       "recommendScore": "430",
@@ -52,16 +62,6 @@
       "board": "C_Chat",
       "publishTime": "2026/07/10 04:03",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "354",
-      "recommendCount": "522",
-      "title": "[問卦] 國家地理雜誌臺灣攝影大賽冠軍",
-      "link": "/bbs/Gossiping/M.1783689952.A.3B3",
-      "author": "zoeapezoo",
-      "board": "Gossiping",
-      "publishTime": "2026/07/10 13:25",
-      "imageUrl": "https://cache.pttweb.cc/imgur/5CX3ZXl/s/ae214ea46eeac354427f6d92afce437c"
     },
     {
       "recommendScore": "273",
@@ -125,7 +125,7 @@
     },
     {
       "recommendScore": "212",
-      "recommendCount": "341",
+      "recommendCount": "342",
       "title": "[爆卦] 直擊一刀未剪！台南城西掩埋場溢流污染",
       "link": "/bbs/Gossiping/M.1783670745.A.DE1",
       "author": "olctw",
@@ -145,7 +145,7 @@
     },
     {
       "recommendScore": "129",
-      "recommendCount": "355",
+      "recommendCount": "356",
       "title": "[問卦] 台大五姬陳匡怡現在長這樣？",
       "link": "/bbs/Gossiping/M.1783684731.A.4B5",
       "author": "shole",
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "616",
+      "recommendCount": "1171",
+      "title": "[LIVE] 世界盃足球 比利時@西班牙 場中",
+      "link": "/bbs/SportLottery/M.1783708231.A.65C",
+      "author": "Lige",
+      "board": "SportLottery",
+      "publishTime": "2026/07/10 18:30",
+      "imageUrl": "https://cache.pttweb.cc/imgur/TZA1Qen/s/18311939337402c5bf2450b1c539c25b"
+    },
+    {
       "recommendScore": "111",
       "recommendCount": "387",
       "title": "[新聞] 沈伯洋：北市2023至今逾10起天坑 應總體檢讓人民安心",
@@ -181,26 +191,6 @@
       "author": "asppsa",
       "board": "Gossiping",
       "publishTime": "2026/07/09 23:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "148",
-      "recommendCount": "408",
-      "title": "Re: [新聞] 巴威放颱風假！台股明休市　台指期夜盤大漲股民哭了",
-      "link": "/bbs/Stock/M.1783653543.A.BFD",
-      "author": "nogood",
-      "board": "Stock",
-      "publishTime": "2026/07/10 03:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "136",
-      "recommendCount": "488",
-      "title": "[問卦] 報導者追殺頂新怎不追殺中聯？",
-      "link": "/bbs/Gossiping/M.1783677039.A.67C",
-      "author": "CrossroadMEI",
-      "board": "Gossiping",
-      "publishTime": "2026/07/10 09:50",
       "imageUrl": ""
     }
   ]
