@@ -1,38 +1,8 @@
 {
-  "updated": "2026-07-10T23:48:50.458Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2026-07-11T00:11:39.382Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "202",
-      "recommendCount": "1042",
-      "title": "[新聞] 虧大了！無風雨台股休市 美日韓股大漲、投資人少賺6萬元",
-      "link": "/bbs/Stock/M.1783656385.A.AEC",
-      "author": "ChanHoPark",
-      "board": "Stock",
-      "publishTime": "2026/07/10 04:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "437",
-      "recommendCount": "889",
-      "title": "[新聞] 彭博：台灣人口連30個月負成長 創二戰結束以來最久紀錄",
-      "link": "/bbs/Gossiping/M.1783680858.A.D69",
-      "author": "monnom",
-      "board": "Gossiping",
-      "publishTime": "2026/07/10 10:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "280",
-      "recommendCount": "644",
-      "title": "[新聞] 高嘉瑜大翻車！「靈魂拷問」內湖清溝進度遭在地阿姨2句話秒打臉",
-      "link": "/bbs/Gossiping/M.1783654411.A.5FD",
-      "author": "yochiya",
-      "board": "Gossiping",
-      "publishTime": "2026/07/10 03:33",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "410",
       "recommendCount": "789",
@@ -54,8 +24,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/5CX3ZXl/s/ae214ea46eeac354427f6d92afce437c"
     },
     {
-      "recommendScore": "431",
-      "recommendCount": "520",
+      "recommendScore": "432",
+      "recommendCount": "521",
       "title": "[活俠] 解藥來了",
       "link": "/bbs/C_Chat/M.1783656211.A.031",
       "author": "kao50126",
@@ -64,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "273",
-      "recommendCount": "500",
+      "recommendScore": "274",
+      "recommendCount": "504",
       "title": "[討論] 林孝程 再見妨礙守備",
       "link": "/bbs/Baseball/M.1783692618.A.2AD",
       "author": "passbyks",
@@ -124,8 +94,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/qGl2GCl/s/e2210d5307d2b33efbfa1c0da456b511"
     },
     {
-      "recommendScore": "213",
-      "recommendCount": "343",
+      "recommendScore": "214",
+      "recommendCount": "344",
       "title": "[爆卦] 直擊一刀未剪！台南城西掩埋場溢流污染",
       "link": "/bbs/Gossiping/M.1783670745.A.DE1",
       "author": "olctw",
@@ -164,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "625",
-      "recommendCount": "1183",
+      "recommendScore": "626",
+      "recommendCount": "1188",
       "title": "[LIVE] 世界盃足球 比利時@西班牙 場中",
       "link": "/bbs/SportLottery/M.1783708231.A.65C",
       "author": "Lige",
@@ -184,13 +154,53 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "180",
-      "recommendCount": "334",
+      "recommendScore": "184",
+      "recommendCount": "340",
       "title": "[討論] 為啥味全會有這麼多\"玩球\"的狀況?",
       "link": "/bbs/Baseball/M.1783695702.A.307",
       "author": "keane9112",
       "board": "Baseball",
       "publishTime": "2026/07/10 15:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "137",
+      "recommendCount": "490",
+      "title": "[問卦] 報導者追殺頂新怎不追殺中聯？",
+      "link": "/bbs/Gossiping/M.1783677039.A.67C",
+      "author": "CrossroadMEI",
+      "board": "Gossiping",
+      "publishTime": "2026/07/10 09:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "128",
+      "recommendCount": "379",
+      "title": "[新聞] 颱風假遭質疑 蔣萬安：調整防災思維「防颱整備日」備戰",
+      "link": "/bbs/Gossiping/M.1783656289.A.114",
+      "author": "KONAMI",
+      "board": "Gossiping",
+      "publishTime": "2026/07/10 04:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "149",
+      "recommendCount": "581",
+      "title": "[新聞] 才控被趕出豪宅！S媽證實大S上億遺產遭凍結　「清算內幕」曝",
+      "link": "/bbs/Gossiping/M.1783644089.A.F35",
+      "author": "sasolala",
+      "board": "Gossiping",
+      "publishTime": "2026/07/10 00:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "126",
+      "recommendCount": "261",
+      "title": "[問卦] 北部人摸良心講，是不是賺到一天颱風假",
+      "link": "/bbs/Gossiping/M.1783682893.A.E83",
+      "author": "wiki",
+      "board": "Gossiping",
+      "publishTime": "2026/07/10 11:28",
       "imageUrl": ""
     }
   ]
