@@ -1,18 +1,8 @@
 {
-  "updated": "2026-07-11T10:36:34.806Z",
+  "updated": "2026-07-11T11:02:37.219Z",
   "total_found": 19,
   "returned_count": 19,
   "articles": [
-    {
-      "recommendScore": "448",
-      "recommendCount": "912",
-      "title": "[新聞] 彭博：台灣人口連30個月負成長 創二戰結束以來最久紀錄",
-      "link": "/bbs/Gossiping/M.1783680858.A.D69",
-      "author": "monnom",
-      "board": "Gossiping",
-      "publishTime": "2026/07/10 10:54",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "407",
       "recommendCount": "605",
@@ -25,12 +15,22 @@
     },
     {
       "recommendScore": "40",
-      "recommendCount": "671",
+      "recommendCount": "685",
       "title": "[新聞] 颱風停班停課打亂重大手術　病患欲赴市府抗議：誰來承擔延誤風險？",
       "link": "/bbs/Gossiping/M.1783748082.A.E71",
       "author": "BABYINCAR",
       "board": "Gossiping",
       "publishTime": "2026/07/11 05:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "295",
+      "recommendCount": "530",
+      "title": "[新聞] 颱風夜想洗腳！印度男闖香閨 女喊不要仍遭侵犯",
+      "link": "/bbs/Gossiping/M.1783754569.A.4F8",
+      "author": "abc4",
+      "board": "Gossiping",
+      "publishTime": "2026/07/11 07:22",
       "imageUrl": ""
     },
     {
@@ -44,24 +44,24 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ILCh9Kq/s/acf7bcce6fdc811fdae49a3951c1b429"
     },
     {
-      "recommendScore": "266",
-      "recommendCount": "482",
-      "title": "[新聞] 颱風夜想洗腳！印度男闖香閨 女喊不要仍遭侵犯",
-      "link": "/bbs/Gossiping/M.1783754569.A.4F8",
-      "author": "abc4",
-      "board": "Gossiping",
-      "publishTime": "2026/07/11 07:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "210",
-      "recommendCount": "497",
+      "recommendScore": "216",
+      "recommendCount": "508",
       "title": "[新聞] 巴威颳強風高雄狀況一堆 11870戶停電、大樓磁磚剝落和號誌桿斷裂",
       "link": "/bbs/Gossiping/M.1783752888.A.854",
       "author": "EstelleRinz",
       "board": "Gossiping",
       "publishTime": "2026/07/11 06:54",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "125",
+      "recommendCount": "419",
+      "title": "[新聞] 全身抽搐瘋狂蛇行！她吸毒27年檢聲押失敗又是法官陳德池放人",
+      "link": "/bbs/Gossiping/M.1783742675.A.783",
+      "author": "taiwan08",
+      "board": "Gossiping",
+      "publishTime": "2026/07/11 04:04",
+      "imageUrl": "https://cache.pttweb.cc/imgur/PkJtovw/s/a5bd80ba6e7e9ac4c81f5642e1ec0c9b"
     },
     {
       "recommendScore": "244",
@@ -74,18 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "121",
-      "recommendCount": "412",
-      "title": "[新聞] 全身抽搐瘋狂蛇行！她吸毒27年檢聲押失敗又是法官陳德池放人",
-      "link": "/bbs/Gossiping/M.1783742675.A.783",
-      "author": "taiwan08",
-      "board": "Gossiping",
-      "publishTime": "2026/07/11 04:04",
-      "imageUrl": "https://cache.pttweb.cc/imgur/PkJtovw/s/a5bd80ba6e7e9ac4c81f5642e1ec0c9b"
-    },
-    {
-      "recommendScore": "366",
-      "recommendCount": "675",
+      "recommendScore": "367",
+      "recommendCount": "676",
       "title": "[情報] 斑馬續約馬刺",
       "link": "/bbs/NBA/M.1783723540.A.E6F",
       "author": "SeanLi1013",
@@ -104,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "311",
-      "recommendCount": "1184",
+      "recommendScore": "313",
+      "recommendCount": "1186",
       "title": "[新聞] 快訊／南僑通報第3起致癌油　食藥署下令中聯「不得恢復生產」",
       "link": "/bbs/Stock/M.1783711625.A.699",
       "author": "a0808996",
@@ -115,7 +105,7 @@
     },
     {
       "recommendScore": "138",
-      "recommendCount": "380",
+      "recommendCount": "381",
       "title": "[問卦] 台大五姬陳匡怡現在長這樣？",
       "link": "/bbs/Gossiping/M.1783684731.A.4B5",
       "author": "shole",
@@ -134,8 +124,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "257",
-      "recommendCount": "479",
+      "recommendScore": "195",
+      "recommendCount": "370",
+      "title": "[新聞] 颱風夜「北車淹水進不去」瘋傳 網友發2001年舊照遭北市刑大約談",
+      "link": "/bbs/Gossiping/M.1783759996.A.F79",
+      "author": "divda",
+      "board": "Gossiping",
+      "publishTime": "2026/07/11 08:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "259",
+      "recommendCount": "482",
       "title": "[問卦] 老爸昨天凌晨登出世界",
       "link": "/bbs/Gossiping/M.1783717046.A.426",
       "author": "xoxosoul",
@@ -144,8 +144,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "629",
+      "recommendCount": "1399",
+      "title": "[電競] 2026 Mid-Season Invitational-四強賽 D2",
+      "link": "/bbs/LoL/M.1783753969.A.8BB",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2026/07/11 07:12",
+      "imageUrl": "https://cache.pttweb.cc/imgur/vSoOPW1/s/1df16cacb406adae80a16c9badd9ce5f"
+    },
+    {
       "recommendScore": "148",
-      "recommendCount": "508",
+      "recommendCount": "509",
       "title": "[問卦] 這次的颱風是不是過譽了",
       "link": "/bbs/Gossiping/M.1783726107.A.41A",
       "author": "peter891116",
@@ -174,18 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "670",
-      "recommendCount": "1400",
-      "title": "[電競] 2026 Mid-Season Invitational-四強賽 D2",
-      "link": "/bbs/LoL/M.1783753969.A.8BB",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2026/07/11 07:12",
-      "imageUrl": "https://cache.pttweb.cc/imgur/vSoOPW1/s/1df16cacb406adae80a16c9badd9ce5f"
-    },
-    {
       "recommendScore": "635",
-      "recommendCount": "1204",
+      "recommendCount": "1205",
       "title": "[LIVE] 世界盃足球 比利時@西班牙 場中",
       "link": "/bbs/SportLottery/M.1783708231.A.65C",
       "author": "Lige",
