@@ -1,21 +1,41 @@
 {
-  "updated": "2026-07-11T06:49:28.042Z",
+  "updated": "2026-07-11T07:26:58.505Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "231",
-      "recommendCount": "689",
-      "title": "[問卦] 到底是什麼原因，讓越來越多人不想生？",
-      "link": "/bbs/Gossiping/M.1783667449.A.522",
-      "author": "aza0290",
+      "recommendScore": "448",
+      "recommendCount": "912",
+      "title": "[新聞] 彭博：台灣人口連30個月負成長 創二戰結束以來最久紀錄",
+      "link": "/bbs/Gossiping/M.1783680858.A.D69",
+      "author": "monnom",
       "board": "Gossiping",
-      "publishTime": "2026/07/10 07:10",
+      "publishTime": "2026/07/10 10:54",
       "imageUrl": ""
     },
     {
-      "recommendScore": "355",
-      "recommendCount": "655",
+      "recommendScore": "402",
+      "recommendCount": "600",
+      "title": "[問卦] 國家地理雜誌臺灣攝影大賽冠軍",
+      "link": "/bbs/Gossiping/M.1783689952.A.3B3",
+      "author": "zoeapezoo",
+      "board": "Gossiping",
+      "publishTime": "2026/07/10 13:25",
+      "imageUrl": "https://cache.pttweb.cc/imgur/5CX3ZXl/s/ae214ea46eeac354427f6d92afce437c"
+    },
+    {
+      "recommendScore": "279",
+      "recommendCount": "509",
+      "title": "[討論] 林孝程 再見妨礙守備",
+      "link": "/bbs/Baseball/M.1783692618.A.2AD",
+      "author": "passbyks",
+      "board": "Baseball",
+      "publishTime": "2026/07/10 14:10",
+      "imageUrl": "https://cache.pttweb.cc/imgur/ILCh9Kq/s/acf7bcce6fdc811fdae49a3951c1b429"
+    },
+    {
+      "recommendScore": "358",
+      "recommendCount": "663",
       "title": "[情報] 斑馬續約馬刺",
       "link": "/bbs/NBA/M.1783723540.A.E6F",
       "author": "SeanLi1013",
@@ -24,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "225",
-      "recommendCount": "365",
+      "recommendScore": "234",
+      "recommendCount": "375",
       "title": "[花邊] 班馬:只要能留在馬刺,我什麼都願意做！",
       "link": "/bbs/NBA/M.1783731975.A.4E4",
       "author": "abianisbitch",
@@ -34,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "262",
-      "recommendCount": "600",
+      "recommendScore": "266",
+      "recommendCount": "604",
       "title": "[新聞] 快訊／南僑通報第3起致癌油　食藥署下令中聯「不得恢復生產」",
       "link": "/bbs/Gossiping/M.1783706643.A.757",
       "author": "CrazySept",
@@ -44,18 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "709",
-      "recommendCount": "1404",
-      "title": "[電競] 2026 Mid-Season Invitational-四強賽 D1",
-      "link": "/bbs/LoL/M.1783667628.A.591",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2026/07/10 07:13",
-      "imageUrl": "https://cache.pttweb.cc/imgur/dnD4HUx/s/998a781d6feeff338d40d84b649bfa88"
-    },
-    {
       "recommendScore": "136",
-      "recommendCount": "375",
+      "recommendCount": "376",
       "title": "[問卦] 台大五姬陳匡怡現在長這樣？",
       "link": "/bbs/Gossiping/M.1783684731.A.4B5",
       "author": "shole",
@@ -74,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "289",
+      "recommendCount": "1129",
+      "title": "[新聞] 快訊／南僑通報第3起致癌油　食藥署下令中聯「不得恢復生產」",
+      "link": "/bbs/Stock/M.1783711625.A.699",
+      "author": "a0808996",
+      "board": "Stock",
+      "publishTime": "2026/07/10 19:27",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "172",
       "recommendCount": "542",
       "title": "[爆卦] 明天高雄停班停課",
@@ -81,16 +101,6 @@
       "author": "currygo",
       "board": "Gossiping",
       "publishTime": "2026/07/10 10:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "288",
-      "recommendCount": "1125",
-      "title": "[新聞] 快訊／南僑通報第3起致癌油　食藥署下令中聯「不得恢復生產」",
-      "link": "/bbs/Stock/M.1783711625.A.699",
-      "author": "a0808996",
-      "board": "Stock",
-      "publishTime": "2026/07/10 19:27",
       "imageUrl": ""
     },
     {
@@ -105,7 +115,7 @@
     },
     {
       "recommendScore": "240",
-      "recommendCount": "427",
+      "recommendCount": "429",
       "title": "[問卦] 老爸昨天凌晨登出世界",
       "link": "/bbs/Gossiping/M.1783717046.A.426",
       "author": "xoxosoul",
@@ -114,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "200",
-      "recommendCount": "373",
+      "recommendScore": "201",
+      "recommendCount": "374",
       "title": "[討論] 為啥味全會有這麼多\"玩球\"的狀況?",
       "link": "/bbs/Baseball/M.1783695702.A.307",
       "author": "keane9112",
@@ -125,7 +135,7 @@
     },
     {
       "recommendScore": "185",
-      "recommendCount": "443",
+      "recommendCount": "445",
       "title": "[新聞] 民進黨知大事不妙？徐巧芯示警：國防部已將採購油品吃掉45％",
       "link": "/bbs/Gossiping/M.1783702072.A.09F",
       "author": "godofsex",
@@ -144,6 +154,36 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/TZA1Qen/s/18311939337402c5bf2450b1c539c25b"
     },
     {
+      "recommendScore": "109",
+      "recommendCount": "333",
+      "title": "[新聞] 全身抽搐瘋狂蛇行！她吸毒27年檢聲押失敗又是法官陳德池放人",
+      "link": "/bbs/Gossiping/M.1783742675.A.783",
+      "author": "taiwan08",
+      "board": "Gossiping",
+      "publishTime": "2026/07/11 04:04",
+      "imageUrl": "https://cache.pttweb.cc/imgur/PkJtovw/s/a5bd80ba6e7e9ac4c81f5642e1ec0c9b"
+    },
+    {
+      "recommendScore": "228",
+      "recommendCount": "270",
+      "title": "[炸裂] 林安可 兩分砲！！",
+      "link": "/bbs/Baseball/M.1783750721.A.53C",
+      "author": "eunhailoveu",
+      "board": "Baseball",
+      "publishTime": "2026/07/11 06:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "30",
+      "recommendCount": "385",
+      "title": "[新聞] 颱風停班停課打亂重大手術　病患欲赴市府抗議：誰來承擔延誤風險？",
+      "link": "/bbs/Gossiping/M.1783748082.A.E71",
+      "author": "BABYINCAR",
+      "board": "Gossiping",
+      "publishTime": "2026/07/11 05:34",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "144",
       "recommendCount": "509",
       "title": "[問卦] 報導者追殺頂新怎不追殺中聯？",
@@ -154,53 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "97",
-      "recommendCount": "294",
-      "title": "[新聞] 全身抽搐瘋狂蛇行！她吸毒27年檢聲押失敗又是法官陳德池放人",
-      "link": "/bbs/Gossiping/M.1783742675.A.783",
-      "author": "taiwan08",
-      "board": "Gossiping",
-      "publishTime": "2026/07/11 04:04",
-      "imageUrl": "https://cache.pttweb.cc/imgur/PkJtovw/s/a5bd80ba6e7e9ac4c81f5642e1ec0c9b"
-    },
-    {
-      "recommendScore": "127",
-      "recommendCount": "271",
-      "title": "[問卦] 北部人摸良心講，是不是賺到一天颱風假",
-      "link": "/bbs/Gossiping/M.1783682893.A.E83",
-      "author": "wiki",
-      "board": "Gossiping",
-      "publishTime": "2026/07/10 11:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "223",
-      "recommendCount": "301",
-      "title": "[分享] 今日鄭宗哲",
-      "link": "/bbs/Baseball/M.1783738800.A.014",
-      "author": "nogardercas",
-      "board": "Baseball",
-      "publishTime": "2026/07/11 03:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "186",
-      "recommendCount": "450",
+      "recommendScore": "191",
+      "recommendCount": "471",
       "title": "[問卦] 〓.〓 燦坤什麼幹破你娘的施工品質？",
       "link": "/bbs/Gossiping/M.1783731042.A.414",
       "author": "xzcb2008",
       "board": "Gossiping",
       "publishTime": "2026/07/11 00:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "158",
-      "recommendCount": "314",
-      "title": "[新聞] 穆罕默德連三年成英國最受歡迎的男嬰名字",
-      "link": "/bbs/Gossiping/M.1783695065.A.C5B",
-      "author": "chadmu",
-      "board": "Gossiping",
-      "publishTime": "2026/07/10 14:51",
       "imageUrl": ""
     }
   ]
