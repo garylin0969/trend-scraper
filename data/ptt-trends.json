@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-12T20:18:20.038Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2026-07-12T20:36:14.811Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
       "recommendScore": "1205",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "392",
-      "recommendCount": "897",
+      "recommendScore": "393",
+      "recommendCount": "898",
       "title": "[新聞] 美進口「毒蘋果」來了？芬普尼殘留標準放寬6倍 網炸鍋",
       "link": "/bbs/Gossiping/M.1783860552.A.BB2",
       "author": "ytkuang",
@@ -52,16 +52,6 @@
       "board": "Gossiping",
       "publishTime": "2026/07/12 10:10",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "839",
-      "recommendCount": "1455",
-      "title": "[LIVE] 世界盃足球 英格蘭@挪威 場中",
-      "link": "/bbs/SportLottery/M.1783802006.A.676",
-      "author": "Lige",
-      "board": "SportLottery",
-      "publishTime": "2026/07/11 20:33",
-      "imageUrl": "https://cache.pttweb.cc/imgur/UIBvg72/s/f18d6d079868d4f063c0ebe1aa1de0f3"
     },
     {
       "recommendScore": "236",
@@ -144,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "182",
-      "recommendCount": "423",
+      "recommendScore": "181",
+      "recommendCount": "427",
       "title": "[爆卦]衛福部欲放寬准蘋果芬普尼藥殘增加至3ppm",
       "link": "/bbs/Gossiping/M.1783866552.A.FA8",
       "author": "yyyyyuuuuu",
@@ -165,7 +155,7 @@
     },
     {
       "recommendScore": "175",
-      "recommendCount": "358",
+      "recommendCount": "359",
       "title": "[問卦] 慟！普發一萬的領取率高達99.14%！",
       "link": "/bbs/Gossiping/M.1783825867.A.684",
       "author": "pigpigcom123",
@@ -191,6 +181,26 @@
       "author": "Lime5566",
       "board": "Stock",
       "publishTime": "2026/07/12 07:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "103",
+      "recommendCount": "498",
+      "title": "[新聞] 柯文哲稱「賴若合作政局不亂」 凌濤怒批：你的中心思想在哪裡？",
+      "link": "/bbs/Gossiping/M.1783839447.A.197",
+      "author": "com2",
+      "board": "Gossiping",
+      "publishTime": "2026/07/12 06:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "163",
+      "recommendCount": "258",
+      "title": "[閒聊] 2026 MSI FMVP Zeus",
+      "link": "/bbs/LoL/M.1783857527.A.E2D",
+      "author": "fairymomo",
+      "board": "LoL",
+      "publishTime": "2026/07/12 11:58",
       "imageUrl": ""
     }
   ]
