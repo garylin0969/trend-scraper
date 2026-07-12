@@ -1,14 +1,22 @@
 {
-  "updated": "2026-07-12T00:04:14.737Z",
+  "updated": "2026-07-12T00:56:32.875Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-07-12T00:04:05.000Z",
+    "lastBuildDate": "2026-07-12T00:56:26.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "中國一週內第二個颱風登陸，近200萬人疏散",
+      "description": "接近200萬人已從浙江東部疏散，而人口約1,000萬的溫州市位於風暴路徑之中。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gy1xleelgo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T00:50:11.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gy1xleelgo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5dd5/live/0a1f8470-7d1c-11f1-926f-c90d1bcfbc84.jpg"
+    },
     {
       "title": "颱風巴威登陸浙江 　台灣113傷、中國大陸疏散185萬人",
       "description": "颱風巴威在深夜時分登陸浙江台州玉環市。熱帶氣旋此前導致台灣北部、東部等多個地區豪雨，數以萬計住戶一度停電。",
@@ -16,14 +24,6 @@
       "pubDate": "",
       "guid": "https://www.bbc.com/zhongwen/live/czj8zrvmy4lt/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01a0/live/17196c30-7d4a-11f1-bee8-53ce494e1abc.jpg"
-    },
-    {
-      "title": "巴威逼近登陸：中國嚴陣以待一週內第二個颱風",
-      "description": "數十萬人已從浙江東部疏散，人口約1,000萬的溫州市位於風暴路徑附近。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gy1xleelgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-11T15:01:26.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gy1xleelgo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5dd5/live/0a1f8470-7d1c-11f1-926f-c90d1bcfbc84.jpg"
     },
     {
       "title": "廣西水災：「大躍進」時期建的水庫為何擋不了極端洪水？",
