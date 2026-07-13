@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T23:00:53.666Z",
+  "updated": "2026-07-13T23:24:34.726Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "402",
-      "recommendCount": "810",
+      "recommendCount": "814",
       "title": "[新聞] 不怪政府！巴威登陸中國「全村慘淹沒2公尺」　村民：我們習慣了",
       "link": "/bbs/Gossiping/M.1783930573.A.652",
       "author": "senma",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "246",
-      "recommendCount": "670",
+      "recommendScore": "247",
+      "recommendCount": "671",
       "title": "[新聞] 台灣「五星級飯店」熄燈！4間全停業　國旅大震盪",
       "link": "/bbs/Gossiping/M.1783912192.A.61D",
       "author": "bluehttp",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "176",
-      "recommendCount": "594",
+      "recommendScore": "177",
+      "recommendCount": "595",
       "title": "[問卦] Youtuber洗地了：吃到致癌油 其實不可怕",
       "link": "/bbs/Gossiping/M.1783908672.A.D1B",
       "author": "oppo5566",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "307",
-      "recommendCount": "363",
+      "recommendScore": "308",
+      "recommendCount": "364",
       "title": "[新聞] 山姆尼爾逝世，享年78歲",
       "link": "/bbs/movie/M.1783923726.A.F4E",
       "author": "jason748",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "391",
+      "recommendScore": "168",
+      "recommendCount": "399",
       "title": "[情報] 川普：重新封鎖伊朗 通過海峽美國酌收20%",
       "link": "/bbs/Stock/M.1783952756.A.261",
       "author": "DrowningPool",
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "233",
+      "recommendCount": "293",
+      "title": "[協尋] 板橋兩位少女一起失蹤",
+      "link": "/bbs/Gossiping/M.1783956348.A.343",
+      "author": "angevinC",
+      "board": "Gossiping",
+      "publishTime": "2026/07/13 15:25",
+      "imageUrl": "https://cache.pttweb.cc/imgur/MnffrUN/s/35a7474abe076260dbcae99efb407d12"
+    },
+    {
       "recommendScore": "129",
       "recommendCount": "443",
       "title": "[情報] 明星賽全壘打大賽最終名單",
@@ -164,28 +174,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/kHt5OMP/s/e0cc86b0131c9f234d7c7de01704296e"
     },
     {
-      "recommendScore": "139",
-      "recommendCount": "281",
-      "title": "[新聞] 城西潮汐「黑水」遭漁民質疑 市府稱天然有機質",
-      "link": "/bbs/Gossiping/M.1783927373.A.48C",
-      "author": "Fino5566",
-      "board": "Gossiping",
-      "publishTime": "2026/07/13 07:22",
-      "imageUrl": "https://cache.pttweb.cc/imgur/xmqO3id/s/aa7f563292dcb3b24ba6bf1387fcc47f"
-    },
-    {
-      "recommendScore": "134",
-      "recommendCount": "278",
-      "title": "[新聞] 打破「觸頂預言」！南韓央行發話：半導體一路旺到「這時」",
-      "link": "/bbs/Stock/M.1783945654.A.610",
-      "author": "justin531xx",
-      "board": "Stock",
-      "publishTime": "2026/07/13 12:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "43",
-      "recommendCount": "351",
+      "recommendScore": "46",
+      "recommendCount": "360",
       "title": "[新聞] 打臉蔣萬安！台大氣象團隊報告曝 未達停班課標準 他轟：推卸責任敢做不敢當！",
       "link": "/bbs/Gossiping/M.1783953382.A.3C3",
       "author": "ggbi4zzz",
@@ -194,14 +184,24 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/m1OuL6j/s/01e92df8fd0b1ed8c4ac416593c32010"
     },
     {
-      "recommendScore": "216",
-      "recommendCount": "274",
-      "title": "[協尋] 板橋兩位少女一起失蹤",
-      "link": "/bbs/Gossiping/M.1783956348.A.343",
-      "author": "angevinC",
+      "recommendScore": "134",
+      "recommendCount": "280",
+      "title": "[新聞] 打破「觸頂預言」！南韓央行發話：半導體一路旺到「這時」",
+      "link": "/bbs/Stock/M.1783945654.A.610",
+      "author": "justin531xx",
+      "board": "Stock",
+      "publishTime": "2026/07/13 12:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "140",
+      "recommendCount": "282",
+      "title": "[新聞] 城西潮汐「黑水」遭漁民質疑 市府稱天然有機質",
+      "link": "/bbs/Gossiping/M.1783927373.A.48C",
+      "author": "Fino5566",
       "board": "Gossiping",
-      "publishTime": "2026/07/13 15:25",
-      "imageUrl": "https://cache.pttweb.cc/imgur/MnffrUN/s/35a7474abe076260dbcae99efb407d12"
+      "publishTime": "2026/07/13 07:22",
+      "imageUrl": "https://cache.pttweb.cc/imgur/xmqO3id/s/aa7f563292dcb3b24ba6bf1387fcc47f"
     }
   ]
 }
