@@ -1,37 +1,29 @@
 {
-  "updated": "2026-07-15T11:49:44.110Z",
+  "updated": "2026-07-15T12:43:42.052Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-07-15T11:49:34.000Z",
+    "lastBuildDate": "2026-07-15T12:43:40.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
     {
-      "title": "中國以間諜罪嫌拘留研究朝鮮核試驗的地震學家陳友麟",
-      "description": "陳友麟家屬表示，中國當局以間諜罪嫌，將其錯誤拘留將近兩年。",
-      "link": "https://www.bbc.com/zhongwen/articles/cwykykkeql4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-15T07:16:07.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwykykkeql4o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b742/live/a647fbd0-7ff0-11f1-b7c7-fd8fa12609bd.jpg"
-    },
-    {
       "title": "「香港應是個更自由的地方」：大陸讀者眼中的獨立書店往事",
       "description": "在獵人書店負責人被捕後，不少中國大陸讀者在社交平台分享自己與香港獨立書店的故事。BBC中文了解四位讀者跨越地域的集體回憶。",
       "link": "https://www.bbc.com/zhongwen/articles/cn757r6824vo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-15T06:37:51.000Z",
+      "pubDate": "2026-07-15T12:05:18.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn757r6824vo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/becb/live/2bd2b750-7f5a-11f1-a97a-9b1029617ccb.jpg"
     },
     {
-      "title": "醫療廢物還是神奇療法？為什麼有人會走私人類胎盤？",
-      "description": "巴基斯坦一宗刑事調查揭露，有人涉嫌從醫院走私人類胎盤。但這宗案件揭示了一個更大的圖像：一個圍繞這種在分娩後被棄置的暫時性器官而迅速增長的全球市場。",
-      "link": "https://www.bbc.com/zhongwen/articles/cgjxj0wv982o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-15T08:36:31.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cgjxj0wv982o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/212e/live/12ad9d40-8021-11f1-9317-f3c8d3f68726.jpg"
+      "title": "曾研究朝鮮核試驗，地震學家陳友麟遭中國拘留",
+      "description": "陳友麟家屬表示，中國當局以間諜罪嫌，將其錯誤拘留將近兩年。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwykykkeql4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-15T12:26:18.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwykykkeql4o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b742/live/a647fbd0-7ff0-11f1-b7c7-fd8fa12609bd.jpg"
     },
     {
       "title": "小紅書前員工跨境實名舉報，傳聞中的赴港上市計劃會有變化嗎？",
@@ -40,6 +32,14 @@
       "pubDate": "2026-07-15T00:44:35.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cj3g3mygk2xo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4d73/live/f4980390-7f8f-11f1-bee8-53ce494e1abc.jpg"
+    },
+    {
+      "title": "醫療廢物還是神奇療法？為什麼有人會走私人類胎盤？",
+      "description": "巴基斯坦一宗刑事調查揭露，有人涉嫌從醫院走私人類胎盤。但這宗案件揭示了一個更大的圖像：一個圍繞這種在分娩後被棄置的暫時性器官而迅速增長的全球市場。",
+      "link": "https://www.bbc.com/zhongwen/articles/cgjxj0wv982o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-15T08:36:31.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cgjxj0wv982o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/212e/live/12ad9d40-8021-11f1-9317-f3c8d3f68726.jpg"
     },
     {
       "title": "中國經濟增長放緩至4.3%，創2022年底以來最低",
