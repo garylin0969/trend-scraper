@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-15T06:04:33.184Z",
+  "updated": "2026-07-15T06:57:32.656Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "330",
-      "recommendCount": "928",
+      "recommendScore": "331",
+      "recommendCount": "930",
       "title": "[新聞] 場面火爆！謝龍介要求為毒油道歉 卓榮泰高音量怒嗆：怎麼道歉？",
       "link": "/bbs/Gossiping/M.1784036892.A.E69",
       "author": "CREA",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "265",
-      "recommendCount": "810",
+      "recommendScore": "274",
+      "recommendCount": "843",
       "title": "[新聞] 年輕族群88％願意上戰場？ 專家一臉問號：大家心裡有數",
       "link": "/bbs/Gossiping/M.1784083416.A.4B9",
       "author": "jobli",
@@ -24,23 +24,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/w3nAWZ6/s/8e8fd9814a8053dad1daf03f5001cab5"
     },
     {
-      "recommendScore": "301",
-      "recommendCount": "564",
-      "title": "[請益] 有人這波也是資產減少15%以上嗎",
-      "link": "/bbs/Stock/M.1784020999.A.F14",
-      "author": "kgppra",
-      "board": "Stock",
-      "publishTime": "2026/07/14 09:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "230",
-      "recommendCount": "822",
+      "recommendScore": "238",
+      "recommendCount": "841",
       "title": "[新聞] 卓揆：颱風假股市照常交易 可研議",
       "link": "/bbs/Stock/M.1784077224.A.58B",
       "author": "kof70380",
       "board": "Stock",
       "publishTime": "2026/07/15 01:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "302",
+      "recommendCount": "566",
+      "title": "[請益] 有人這波也是資產減少15%以上嗎",
+      "link": "/bbs/Stock/M.1784020999.A.F14",
+      "author": "kgppra",
+      "board": "Stock",
+      "publishTime": "2026/07/14 09:23",
       "imageUrl": ""
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "recommendScore": "178",
-      "recommendCount": "538",
+      "recommendCount": "540",
       "title": "[新聞] 外送專法成本飆！協會建議：向外送員收「媒合費」 維持四方平衡",
       "link": "/bbs/Gossiping/M.1784019338.A.0C8",
       "author": "dsa3717",
@@ -84,23 +84,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "225",
-      "recommendCount": "461",
-      "title": "[情報] LBJ與嘴綠談話後 更認真考慮加入勇士",
-      "link": "/bbs/NBA/M.1784009881.A.AD1",
-      "author": "c27932589",
-      "board": "NBA",
-      "publishTime": "2026/07/14 06:18",
+      "recommendScore": "183",
+      "recommendCount": "529",
+      "title": "[新聞] 賴清德稱374台人赴陸失聯？　國台辦秀數據打臉：2年來1170萬人次來旅遊",
+      "link": "/bbs/Gossiping/M.1784089773.A.454",
+      "author": "palajuice",
+      "board": "Gossiping",
+      "publishTime": "2026/07/15 04:29",
       "imageUrl": ""
     },
     {
-      "recommendScore": "187",
-      "recommendCount": "386",
+      "recommendScore": "188",
+      "recommendCount": "387",
       "title": "[新聞] 散盡家產才驚暈船！大叔粉狠捅女神55刀",
       "link": "/bbs/Gossiping/M.1784013834.A.3D2",
       "author": "TZUYIC",
       "board": "Gossiping",
       "publishTime": "2026/07/14 07:23",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "136",
+      "recommendCount": "430",
+      "title": "[新聞] 「每月發1萬津貼也不生」 中研院曝少子化3大原因",
+      "link": "/bbs/Gossiping/M.1784039839.A.0E6",
+      "author": "holiybo",
+      "board": "Gossiping",
+      "publishTime": "2026/07/14 14:37",
       "imageUrl": ""
     },
     {
@@ -114,24 +124,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "648",
-      "recommendCount": "1365",
+      "recommendScore": "649",
+      "recommendCount": "1366",
       "title": "[LIVE] 世界盃足球 西班牙@法國 場中",
       "link": "/bbs/SportLottery/M.1784054107.A.03F",
       "author": "Lige",
       "board": "SportLottery",
       "publishTime": "2026/07/14 18:35",
       "imageUrl": "https://cache.pttweb.cc/imgur/u4Ns9Y2/s/ac5d2c92a16e86abc190982466da9bea"
-    },
-    {
-      "recommendScore": "134",
-      "recommendCount": "427",
-      "title": "[新聞] 「每月發1萬津貼也不生」 中研院曝少子化3大原因",
-      "link": "/bbs/Gossiping/M.1784039839.A.0E6",
-      "author": "holiybo",
-      "board": "Gossiping",
-      "publishTime": "2026/07/14 14:37",
-      "imageUrl": ""
     },
     {
       "recommendScore": "160",
@@ -164,28 +164,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "143",
-      "recommendCount": "417",
-      "title": "[問卦]剛剛遇到全聯店員跟垃圾老人吵架 超靠北",
-      "link": "/bbs/Gossiping/M.1784029712.A.C24",
-      "author": "a91153456",
-      "board": "Gossiping",
-      "publishTime": "2026/07/14 11:48",
+      "recommendScore": "179",
+      "recommendCount": "373",
+      "title": "[新聞] 勇士出局了！美媒爆料：詹皇考慮的僅剩3隊",
+      "link": "/bbs/NBA/M.1784088461.A.99D",
+      "author": "a10141013",
+      "board": "NBA",
+      "publishTime": "2026/07/15 04:07",
       "imageUrl": ""
     },
     {
-      "recommendScore": "126",
-      "recommendCount": "335",
-      "title": "[新聞] 人妻PO片炫「交18任前男友、嫁給備胎」！遭炎上求饒：影響到我了",
-      "link": "/bbs/Gossiping/M.1784035623.A.9E0",
-      "author": "SEVENxELEVEN",
-      "board": "Gossiping",
-      "publishTime": "2026/07/14 13:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-98",
-      "recommendCount": "387",
+      "recommendScore": "-102",
+      "recommendCount": "399",
       "title": "[新聞] 獨／還原9日行政院會...不滿台中先公布毒油流向 卓揆嗆：為什麼搶快？",
       "link": "/bbs/Gossiping/M.1784086512.A.D74",
       "author": "venson",
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "71",
-      "recommendCount": "283",
-      "title": "[新聞] 「下架致癌油再考慮一下」遭轟蓋牌　卓揆親解密「是要加嚴」",
-      "link": "/bbs/Gossiping/M.1784024908.A.3B3",
-      "author": "lovea",
+      "recommendScore": "127",
+      "recommendCount": "339",
+      "title": "[新聞] 人妻PO片炫「交18任前男友、嫁給備胎」！遭炎上求饒：影響到我了",
+      "link": "/bbs/Gossiping/M.1784035623.A.9E0",
+      "author": "SEVENxELEVEN",
       "board": "Gossiping",
-      "publishTime": "2026/07/14 10:28",
+      "publishTime": "2026/07/14 13:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "144",
+      "recommendCount": "418",
+      "title": "[問卦]剛剛遇到全聯店員跟垃圾老人吵架 超靠北",
+      "link": "/bbs/Gossiping/M.1784029712.A.C24",
+      "author": "a91153456",
+      "board": "Gossiping",
+      "publishTime": "2026/07/14 11:48",
       "imageUrl": ""
     }
   ]
