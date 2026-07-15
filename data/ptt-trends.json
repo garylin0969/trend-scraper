@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-15T18:27:33.214Z",
+  "updated": "2026-07-15T18:50:36.272Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "700",
-      "recommendCount": "1399",
+      "recommendScore": "701",
+      "recommendCount": "1401",
       "title": "[新聞] 高虹安清償百億公共債務新竹市睽違30年後達成零負債",
       "link": "/bbs/Gossiping/M.1784098730.A.C83",
       "author": "KH8019",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "391",
-      "recommendCount": "997",
+      "recommendScore": "393",
+      "recommendCount": "999",
       "title": "[新聞] 大逆轉！買「120元戰備水」被罵爆　國軍最新決標金額曝光",
       "link": "/bbs/Gossiping/M.1784108026.A.FD7",
       "author": "qweerrt123",
@@ -34,8 +34,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/w3nAWZ6/s/8e8fd9814a8053dad1daf03f5001cab5"
     },
     {
-      "recommendScore": "351",
-      "recommendCount": "639",
+      "recommendScore": "357",
+      "recommendCount": "647",
       "title": "[新聞] 黃國昌爆料「雙城喝到醉倒」　梁文傑：莫名其妙！",
       "link": "/bbs/Gossiping/M.1784118790.A.5DE",
       "author": "qazxc1156892",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "180",
-      "recommendCount": "504",
+      "recommendScore": "179",
+      "recommendCount": "505",
       "title": "[新聞] 青安3.0明出爐！年收200萬以下、未滿50歲可申請　貸款原則總額1000萬",
       "link": "/bbs/Gossiping/M.1784112297.A.EC3",
       "author": "t81511270",
@@ -94,7 +94,17 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "784",
+      "recommendScore": "309",
+      "recommendCount": "320",
+      "title": "[推薦] 世界盃0300 推薦",
+      "link": "/bbs/SportLottery/M.1784107530.A.3F2",
+      "author": "Sam95",
+      "board": "SportLottery",
+      "publishTime": "2026/07/15 09:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "785",
       "recommendCount": "1384",
       "title": "[電競] EWC 2024 電競世界盃 D1 B舞台 無中文",
       "link": "/bbs/LoL/M.1784103914.A.629",
@@ -104,17 +114,7 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ctSTX6o/s/58e596c95fd76a5ca922ad1d6c30225e"
     },
     {
-      "recommendScore": "308",
-      "recommendCount": "319",
-      "title": "[推薦] 世界盃0300 推薦",
-      "link": "/bbs/SportLottery/M.1784107530.A.3F2",
-      "author": "Sam95",
-      "board": "SportLottery",
-      "publishTime": "2026/07/15 09:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "791",
+      "recommendScore": "797",
       "recommendCount": "1385",
       "title": "[電競] EWC 2024 電競世界盃 D1 A舞台 中文",
       "link": "/bbs/LoL/M.1784103860.A.394",
@@ -142,16 +142,6 @@
       "board": "Gossiping",
       "publishTime": "2026/07/15 03:35",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "649",
-      "recommendCount": "1366",
-      "title": "[LIVE] 世界盃足球 西班牙@法國 場中",
-      "link": "/bbs/SportLottery/M.1784054107.A.03F",
-      "author": "Lige",
-      "board": "SportLottery",
-      "publishTime": "2026/07/14 18:35",
-      "imageUrl": "https://cache.pttweb.cc/imgur/u4Ns9Y2/s/ac5d2c92a16e86abc190982466da9bea"
     },
     {
       "recommendScore": "196",
@@ -201,6 +191,16 @@
       "author": "Julian9x9x9",
       "board": "Gossiping",
       "publishTime": "2026/07/15 05:53",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "150",
+      "recommendCount": "318",
+      "title": "Re: [新聞] 毒油苯駢芘「高溫烹調就有」 林靜儀：不鼓勵大家吃炸雞排",
+      "link": "/bbs/Gossiping/M.1784096341.A.990",
+      "author": "bengowa",
+      "board": "Gossiping",
+      "publishTime": "2026/07/15 06:19",
       "imageUrl": ""
     }
   ]
