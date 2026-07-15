@@ -1,17 +1,27 @@
 {
-  "updated": "2026-07-15T05:16:48.908Z",
+  "updated": "2026-07-15T06:04:33.184Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "329",
-      "recommendCount": "922",
+      "recommendScore": "330",
+      "recommendCount": "928",
       "title": "[新聞] 場面火爆！謝龍介要求為毒油道歉 卓榮泰高音量怒嗆：怎麼道歉？",
       "link": "/bbs/Gossiping/M.1784036892.A.E69",
       "author": "CREA",
       "board": "Gossiping",
       "publishTime": "2026/07/14 13:48",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "265",
+      "recommendCount": "810",
+      "title": "[新聞] 年輕族群88％願意上戰場？ 專家一臉問號：大家心裡有數",
+      "link": "/bbs/Gossiping/M.1784083416.A.4B9",
+      "author": "jobli",
+      "board": "Gossiping",
+      "publishTime": "2026/07/15 02:43",
+      "imageUrl": "https://cache.pttweb.cc/imgur/w3nAWZ6/s/8e8fd9814a8053dad1daf03f5001cab5"
     },
     {
       "recommendScore": "301",
@@ -24,24 +34,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "221",
-      "recommendCount": "807",
+      "recommendScore": "230",
+      "recommendCount": "822",
       "title": "[新聞] 卓揆：颱風假股市照常交易 可研議",
       "link": "/bbs/Stock/M.1784077224.A.58B",
       "author": "kof70380",
       "board": "Stock",
       "publishTime": "2026/07/15 01:00",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "251",
-      "recommendCount": "764",
-      "title": "[新聞] 年輕族群88％願意上戰場？ 專家一臉問號：大家心裡有數",
-      "link": "/bbs/Gossiping/M.1784083416.A.4B9",
-      "author": "jobli",
-      "board": "Gossiping",
-      "publishTime": "2026/07/15 02:43",
-      "imageUrl": "https://cache.pttweb.cc/imgur/w3nAWZ6/s/8e8fd9814a8053dad1daf03f5001cab5"
     },
     {
       "recommendScore": "290",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "177",
-      "recommendCount": "537",
+      "recommendScore": "178",
+      "recommendCount": "538",
       "title": "[新聞] 外送專法成本飆！協會建議：向外送員收「媒合費」 維持四方平衡",
       "link": "/bbs/Gossiping/M.1784019338.A.0C8",
       "author": "dsa3717",
@@ -124,8 +124,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/u4Ns9Y2/s/ac5d2c92a16e86abc190982466da9bea"
     },
     {
-      "recommendScore": "131",
-      "recommendCount": "423",
+      "recommendScore": "134",
+      "recommendCount": "427",
       "title": "[新聞] 「每月發1萬津貼也不生」 中研院曝少子化3大原因",
       "link": "/bbs/Gossiping/M.1784039839.A.0E6",
       "author": "holiybo",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "8",
-      "recommendCount": "373",
+      "recommendScore": "9",
+      "recommendCount": "374",
       "title": "[新聞] 亞運／紅襪能不放行鄭宗哲參賽？林宗成曝三方簽同意書：非受傷無權拒絕",
       "link": "/bbs/Baseball/M.1784014005.A.B7A",
       "author": "ROXSMEB",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "225",
-      "recommendCount": "311",
+      "recommendScore": "227",
+      "recommendCount": "314",
       "title": "Re: [分享] 今日林凱威 (發錢",
       "link": "/bbs/Baseball/M.1784053128.A.1B5",
       "author": "er520230",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-98",
+      "recommendCount": "387",
+      "title": "[新聞] 獨／還原9日行政院會...不滿台中先公布毒油流向 卓揆嗆：為什麼搶快？",
+      "link": "/bbs/Gossiping/M.1784086512.A.D74",
+      "author": "venson",
+      "board": "Gossiping",
+      "publishTime": "2026/07/15 03:35",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "71",
       "recommendCount": "283",
       "title": "[新聞] 「下架致癌油再考慮一下」遭轟蓋牌　卓揆親解密「是要加嚴」",
@@ -191,16 +201,6 @@
       "author": "lovea",
       "board": "Gossiping",
       "publishTime": "2026/07/14 10:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "172",
-      "recommendCount": "267",
-      "title": "[情報] 115年07月14日信用交易統計",
-      "link": "/bbs/Stock/M.1784034305.A.E45",
-      "author": "steward135",
-      "board": "Stock",
-      "publishTime": "2026/07/14 13:05",
       "imageUrl": ""
     }
   ]
