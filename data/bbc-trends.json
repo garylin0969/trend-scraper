@@ -1,14 +1,22 @@
 {
-  "updated": "2026-07-15T05:36:16.141Z",
+  "updated": "2026-07-15T06:28:36.387Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-07-15T05:36:07.000Z",
+    "lastBuildDate": "2026-07-15T06:28:28.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "中國經濟增長放緩至4.3%，創2022年底以來最低",
+      "description": "今年第二季度的經濟增長顯著放緩至4.3%，低於全年經濟增長目標，並且是自2022年底以來最低的季度增長。",
+      "link": "https://www.bbc.com/zhongwen/articles/cgrkrk4yvxpo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-15T06:08:28.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cgrkrk4yvxpo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c8de/live/7e6a3480-7f40-11f1-ba68-9b76167cb04b.jpg"
+    },
     {
       "title": "「香港應是個更自由的地方」：大陸讀者眼中的獨立書店往事",
       "description": "在獵人書店負責人被捕後，不少中國大陸讀者在社交平台分享自己與香港獨立書店的故事。BBC中文了解四位讀者跨越地域的集體回憶。",
@@ -32,14 +40,6 @@
       "pubDate": "2026-07-14T11:06:56.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c2dydezz0jro/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ec0/live/f4b5eba0-7f6a-11f1-8812-63adb81ec20b.jpg"
-    },
-    {
-      "title": "霸王龍創下史上最昂貴恐龍標本拍賣紀錄",
-      "description": "一具有6700萬年歷史的霸王龍（T. rex）化石在紐約拍賣會上以5,010萬美元成交，成為史上成交價最高的恐龍標本。",
-      "link": "https://www.bbc.com/zhongwen/articles/c33ygke3y83o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-15T02:48:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c33ygke3y83o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5d2f/live/866016c0-7c78-11f1-b976-0b9c15b0ccfc.jpg"
     },
     {
       "title": "「來月經讓我的ADHD更厲害了」",
@@ -90,6 +90,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/842b/live/d224de60-5e8c-11f1-89a3-d1f559421220.png"
     },
     {
+      "title": "霸王龍創下史上最昂貴恐龍標本拍賣紀錄",
+      "description": "一具有6700萬年歷史的霸王龍（T. rex）化石在紐約拍賣會上以5,010萬美元成交，成為史上成交價最高的恐龍標本。",
+      "link": "https://www.bbc.com/zhongwen/articles/c33ygke3y83o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-15T02:48:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c33ygke3y83o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5d2f/live/866016c0-7c78-11f1-b976-0b9c15b0ccfc.jpg"
+    },
+    {
       "title": "南海仲裁案：一紙裁決為何十年仍未能平息爭議？",
       "description": "十年後，南海仲裁案究竟改變了什麼？為何南海爭議至今仍未落幕？",
       "link": "https://www.bbc.com/zhongwen/articles/c1jy6kjn762o/trad?at_medium=RSS&at_campaign=rss",
@@ -122,6 +130,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ac4/live/19124130-7492-11f1-8e1d-bbbb1017d210.jpg"
     },
     {
+      "title": "英西118年邊防撤關 直布羅陀迎來新紀元",
+      "description": "英屬直布羅陀與西班牙均希望，實施人員自由流動可以促進經濟發展。",
+      "link": "https://www.bbc.com/zhongwen/articles/c8r27nd55y2o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-14T00:17:28.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c8r27nd55y2o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df71/live/aad05480-7c4a-11f1-bee8-53ce494e1abc.jpg"
+    },
+    {
       "title": "英國改革黨發言人韋黛琴命案變反恐調查 一文掌握來龍去脈",
       "description": "韋黛琴（Ann Widdecombe）上週在德文郡家中被發現身亡。她生前是英國改革黨（Reform UK）發言人，在此之前於保守黨歷任政府或影子內閣不同職位。",
       "link": "https://www.bbc.com/zhongwen/articles/cyv0v42e4qjo/trad?at_medium=RSS&at_campaign=rss",
@@ -136,22 +152,6 @@
       "pubDate": "2026-07-13T14:42:29.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c4gyn4yr9rlo/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/90cd/live/611c0320-7ea7-11f1-b976-0b9c15b0ccfc.jpg"
-    },
-    {
-      "title": "英西118年邊防撤關 直布羅陀迎來新紀元",
-      "description": "英屬直布羅陀與西班牙均希望，實施人員自由流動可以促進經濟發展。",
-      "link": "https://www.bbc.com/zhongwen/articles/c8r27nd55y2o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-14T00:17:28.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c8r27nd55y2o/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df71/live/aad05480-7c4a-11f1-bee8-53ce494e1abc.jpg"
-    },
-    {
-      "title": "高溫來襲，為何女性更難熬？",
-      "description": "專家呼籲各界更加關注高溫對女性的影響，並加強針對女性的保障措施。",
-      "link": "https://www.bbc.com/zhongwen/articles/c2kylx0z2kzo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-13T00:10:43.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c2kylx0z2kzo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2bab/live/abde6800-7ddd-11f1-91f9-abeb669686c2.jpg"
     },
     {
       "title": "美參議員葛蘭姆突辭世：主張友台、強硬對華的特朗普盟友",
@@ -314,6 +314,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9ad7/live/839d8840-750d-11f1-8e1d-bbbb1017d210.png"
     },
     {
+      "title": "高溫來襲，為何女性更難熬？",
+      "description": "專家呼籲各界更加關注高溫對女性的影響，並加強針對女性的保障措施。",
+      "link": "https://www.bbc.com/zhongwen/articles/c2kylx0z2kzo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-13T00:10:43.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c2kylx0z2kzo/trad#8",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2bab/live/abde6800-7ddd-11f1-91f9-abeb669686c2.jpg"
+    },
+    {
       "title": "「就像恐怖電影一樣」：曾現蹤台灣的「食腦」微生物或會蔓延全球",
       "description": "福氏耐格里原蟲（Naegleria fowleri）可在人們跳入水中時經由鼻孔進入大腦，而且往往致命。台灣近年就曾出現病例。",
       "link": "https://www.bbc.com/zhongwen/articles/cr479y23x29o/trad?at_medium=RSS&at_campaign=rss",
@@ -344,14 +352,6 @@
       "pubDate": "2026-07-10T07:12:18.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cwylzlg49lwo/trad#8",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/01ba/live/9c31c8b0-7b04-11f1-9742-ddd4bea925d0.jpg"
-    },
-    {
-      "title": "「在印度旅行的一頓飯，讓38條寄生蟲鑽進了我的腦袋」",
-      "description": "多年前一趟印度的旅行，讓這名英國女子罹患罕見罹患神經囊蟲病，治療多年後寄生蟲鈣化在腦中，她未做取出手術，醫師稱已治療以「殺死所有蟲卵」。",
-      "link": "https://www.bbc.com/zhongwen/articles/crlw1352re4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-05T01:08:34.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crlw1352re4o/trad#8",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ea65/live/801b8d10-74c3-11f1-b3a4-17c48cb4ee82.jpg"
     }
   ]
 }
