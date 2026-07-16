@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-16T11:13:48.748Z",
+  "updated": "2026-07-16T11:54:16.194Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "433",
-      "recommendCount": "783",
+      "recommendScore": "432",
+      "recommendCount": "784",
       "title": "[新聞] 黃國昌爆料「雙城喝到醉倒」　梁文傑：莫名其妙！",
       "link": "/bbs/Gossiping/M.1784118790.A.5DE",
       "author": "qazxc1156892",
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/cpbm4vh/s/b2246196d816928fcf2e2eac24c4d0f5"
     },
     {
-      "recommendScore": "418",
-      "recommendCount": "798",
+      "recommendScore": "420",
+      "recommendCount": "802",
       "title": "[情報] 2330台積電 Q2 27.25",
       "link": "/bbs/Stock/M.1784179918.A.1A0",
       "author": "DrowningPool",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "206",
-      "recommendCount": "723",
+      "recommendScore": "207",
+      "recommendCount": "726",
       "title": "[新聞] 柯文哲轟青安3.0「笨蛋！問題是房價」",
       "link": "/bbs/Gossiping/M.1784172295.A.44B",
       "author": "CTC0115",
@@ -34,14 +34,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "353",
-      "recommendCount": "836",
+      "recommendScore": "362",
+      "recommendCount": "852",
       "title": "[新聞] 台積電法說會／魏哲家宣布美國亞歷桑那加碼千億美元、投資2奈米以下",
       "link": "/bbs/Stock/M.1784184102.A.B58",
       "author": "mzwj",
       "board": "Stock",
       "publishTime": "2026/07/16 06:41",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "362",
+      "recommendCount": "615",
+      "title": "Re: [新聞] 高虹安還清新竹市百億債務 網喊難怪被辦：擋了綠營財路",
+      "link": "/bbs/Gossiping/M.1784178717.A.F9E",
+      "author": "turbomons",
+      "board": "Gossiping",
+      "publishTime": "2026/07/16 05:11",
+      "imageUrl": "https://cache.pttweb.cc/imgur/cpbm4vh/s/b2246196d816928fcf2e2eac24c4d0f5"
     },
     {
       "recommendScore": "414",
@@ -54,18 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "348",
-      "recommendCount": "587",
-      "title": "Re: [新聞] 高虹安還清新竹市百億債務 網喊難怪被辦：擋了綠營財路",
-      "link": "/bbs/Gossiping/M.1784178717.A.F9E",
-      "author": "turbomons",
-      "board": "Gossiping",
-      "publishTime": "2026/07/16 05:11",
-      "imageUrl": "https://cache.pttweb.cc/imgur/cpbm4vh/s/b2246196d816928fcf2e2eac24c4d0f5"
-    },
-    {
       "recommendScore": "248",
-      "recommendCount": "671",
+      "recommendCount": "677",
       "title": "[問卦] AV女優浜崎真緒「來台灣 價值會變低」",
       "link": "/bbs/Gossiping/M.1784166042.A.0A9",
       "author": "LeeAnAn",
@@ -74,8 +74,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/qO6We7l/s/f2d61afc00640d1288d9d2082d2eaf07"
     },
     {
-      "recommendScore": "179",
-      "recommendCount": "594",
+      "recommendScore": "180",
+      "recommendCount": "595",
       "title": "[新聞] 毒油案卓揆為何絕不道歉？他曝除怕重演「江揆效應」外還有「高雄因素」",
       "link": "/bbs/Gossiping/M.1784157525.A.308",
       "author": "godofsex",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "228",
-      "recommendCount": "508",
+      "recommendScore": "236",
+      "recommendCount": "522",
       "title": "[新聞] 台鋼沐妍「誤用支語」道歉！估狗了才知道：平常真的沒注意文字細節",
       "link": "/bbs/Gossiping/M.1784186072.A.8F4",
       "author": "runa2",
@@ -94,8 +94,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "231",
-      "recommendCount": "496",
+      "recommendScore": "244",
+      "recommendCount": "580",
+      "title": "[請益] 信貸還款請益",
+      "link": "/bbs/Stock/M.1784195506.A.C78",
+      "author": "ccmaple",
+      "board": "Stock",
+      "publishTime": "2026/07/16 09:51",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "229",
+      "recommendCount": "498",
       "title": "[新聞] 黃國昌爆梁文傑赴陸「醉倒飯店」國台辦幫照顧 林楚茵聲援丈夫轟造謠",
       "link": "/bbs/Gossiping/M.1784164685.A.611",
       "author": "postar",
@@ -105,13 +115,23 @@
     },
     {
       "recommendScore": "358",
-      "recommendCount": "740",
+      "recommendCount": "741",
       "title": "[情報] 台積電 2026/7 法說會直播",
       "link": "/bbs/Stock/M.1784180476.A.749",
       "author": "rz2x",
       "board": "Stock",
       "publishTime": "2026/07/16 05:41",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "759",
+      "recommendCount": "1404",
+      "title": "[電競] EWC 2026 電競世界盃 D2 CD組 SOOP中文",
+      "link": "/bbs/LoL/M.1784191184.A.973",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2026/07/16 08:39",
+      "imageUrl": "https://cache.pttweb.cc/imgur/dpStgUq/s/1f4df9a9affeea2d1738f4904f95c9bf"
     },
     {
       "recommendScore": "881",
@@ -124,18 +144,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/9gvKZ9J/s/216a7f46c75792e0c5de76fd0f978487"
     },
     {
-      "recommendScore": "756",
-      "recommendCount": "1406",
-      "title": "[電競] EWC 2026 電競世界盃 D2 CD組 SOOP中文",
-      "link": "/bbs/LoL/M.1784191184.A.973",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2026/07/16 08:39",
-      "imageUrl": "https://cache.pttweb.cc/imgur/dpStgUq/s/1f4df9a9affeea2d1738f4904f95c9bf"
+      "recommendScore": "233",
+      "recommendCount": "366",
+      "title": "[新聞] 破天荒！王鴻薇要求警政署派隨扈保護沈伯洋 切勿選前遭攻擊",
+      "link": "/bbs/Gossiping/M.1784196072.A.0DF",
+      "author": "Nivava",
+      "board": "Gossiping",
+      "publishTime": "2026/07/16 10:01",
+      "imageUrl": ""
     },
     {
-      "recommendScore": "218",
-      "recommendCount": "314",
+      "recommendScore": "219",
+      "recommendCount": "315",
       "title": "[標的] 台指期 地獄列車 空",
       "link": "/bbs/Stock/M.1784141930.A.D2A",
       "author": "hondata",
@@ -154,13 +174,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "177",
-      "recommendCount": "425",
-      "title": "[請益] 信貸還款請益",
-      "link": "/bbs/Stock/M.1784195506.A.C78",
-      "author": "ccmaple",
+      "recommendScore": "168",
+      "recommendCount": "297",
+      "title": "[情報] 115年07月16日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1784185737.A.5F6",
+      "author": "coconing",
       "board": "Stock",
-      "publishTime": "2026/07/16 09:51",
+      "publishTime": "2026/07/16 07:08",
       "imageUrl": ""
     },
     {
@@ -174,33 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "166",
-      "recommendCount": "294",
-      "title": "[情報] 115年07月16日 三大法人買賣金額統計表",
-      "link": "/bbs/Stock/M.1784185737.A.5F6",
-      "author": "coconing",
-      "board": "Stock",
-      "publishTime": "2026/07/16 07:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "134",
+      "recommendScore": "87",
       "recommendCount": "297",
-      "title": "[新聞] 致癌毒油流入校園！高雄13校中鏢「從幼兒園到高中」完整名單曝",
-      "link": "/bbs/Gossiping/M.1784158153.A.559",
-      "author": "Workforme",
-      "board": "Gossiping",
-      "publishTime": "2026/07/15 23:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "74",
-      "recommendCount": "372",
-      "title": "[分享] 錢定遠在節目上談亞運棒球名單 逐字稿",
-      "link": "/bbs/Baseball/M.1784162714.A.975",
-      "author": "leftavoid",
-      "board": "Baseball",
-      "publishTime": "2026/07/16 00:45",
+      "title": "[花邊] Adebayo：我單場83分，應得年度最佳表現",
+      "link": "/bbs/NBA/M.1784190660.A.1B2",
+      "author": "mike37",
+      "board": "NBA",
+      "publishTime": "2026/07/16 08:31",
       "imageUrl": ""
     }
   ]
