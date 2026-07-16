@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-16T21:07:19.207Z",
-  "total_found": 18,
-  "returned_count": 18,
+  "updated": "2026-07-16T21:32:54.758Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "343",
-      "recommendCount": "874",
+      "recommendScore": "344",
+      "recommendCount": "877",
       "title": "[請益] 信貸還款請益",
       "link": "/bbs/Stock/M.1784195506.A.C78",
       "author": "ccmaple",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "358",
-      "recommendCount": "651",
+      "recommendScore": "363",
+      "recommendCount": "658",
       "title": "[新聞] 蔣萬安罕見動怒！嗆簡舒培「索資佛地魔」：一次索資10萬筆資料，同仁受不了",
       "link": "/bbs/Gossiping/M.1784207097.A.1F3",
       "author": "emuless",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "210",
-      "recommendCount": "741",
+      "recommendScore": "209",
+      "recommendCount": "742",
       "title": "[新聞] 柯文哲轟青安3.0「笨蛋！問題是房價」",
       "link": "/bbs/Gossiping/M.1784172295.A.44B",
       "author": "CTC0115",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "360",
-      "recommendCount": "583",
+      "recommendCount": "584",
       "title": "[新聞] 破天荒！王鴻薇要求警政署派隨扈保護沈伯洋 切勿選前遭攻擊",
       "link": "/bbs/Gossiping/M.1784196072.A.0DF",
       "author": "Nivava",
@@ -75,7 +75,7 @@
     },
     {
       "recommendScore": "258",
-      "recommendCount": "585",
+      "recommendCount": "586",
       "title": "[新聞] 台鋼沐妍「誤用支語」道歉！估狗了才知道：平常真的沒注意文字細節",
       "link": "/bbs/Gossiping/M.1784186072.A.8F4",
       "author": "runa2",
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "240",
+      "recommendCount": "568",
+      "title": "[新聞] 談毒油暴走！吳崢嗆「又不是我逼你吃」全網轟：甩鍋一流高中生",
+      "link": "/bbs/Gossiping/M.1784214039.A.9C3",
+      "author": "TBOC",
+      "board": "Gossiping",
+      "publishTime": "2026/07/16 15:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "359",
       "recommendCount": "742",
       "title": "[情報] 台積電 2026/7 法說會直播",
@@ -131,16 +141,6 @@
       "author": "rz2x",
       "board": "Stock",
       "publishTime": "2026/07/16 05:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "236",
-      "recommendCount": "555",
-      "title": "[新聞] 談毒油暴走！吳崢嗆「又不是我逼你吃」全網轟：甩鍋一流高中生",
-      "link": "/bbs/Gossiping/M.1784214039.A.9C3",
-      "author": "TBOC",
-      "board": "Gossiping",
-      "publishTime": "2026/07/16 15:00",
       "imageUrl": ""
     },
     {
@@ -165,7 +165,7 @@
     },
     {
       "recommendScore": "90",
-      "recommendCount": "393",
+      "recommendCount": "394",
       "title": "[問卦] 脆熱議：新人準時下班 唸一下就離職？",
       "link": "/bbs/Gossiping/M.1784187944.A.BC8",
       "author": "luxuryer",
@@ -182,6 +182,26 @@
       "board": "Stock",
       "publishTime": "2026/07/16 07:08",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "148",
+      "recommendCount": "286",
+      "title": "[新聞]「四」字頭狂潮來了！台積電目標價4200！",
+      "link": "/bbs/Stock/M.1784212181.A.B12",
+      "author": "XDGEE",
+      "board": "Stock",
+      "publishTime": "2026/07/16 14:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "558",
+      "recommendCount": "914",
+      "title": "[電競] EWC 2026 電競世界盃 D2 AB組 B站中文",
+      "link": "/bbs/LoL/M.1784191136.A.9A9",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2026/07/16 08:38",
+      "imageUrl": "https://cache.pttweb.cc/imgur/LyUdxd1/s/388e2d7f36c13a2175a85cf3a3d7f907"
     }
   ]
 }
