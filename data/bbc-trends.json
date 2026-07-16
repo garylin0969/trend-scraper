@@ -1,22 +1,14 @@
 {
-  "updated": "2026-07-16T00:04:59.119Z",
+  "updated": "2026-07-16T00:49:58.411Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-07-16T00:04:48.000Z",
+    "lastBuildDate": "2026-07-16T00:49:45.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
-    {
-      "title": "「香港應是個更自由的地方」：大陸讀者眼中的獨立書店往事",
-      "description": "在獵人書店負責人被捕後，不少中國大陸讀者在社交平台分享自己與香港獨立書店的故事。BBC中文了解四位讀者跨越地域的集體回憶。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn757r6824vo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-15T12:05:18.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn757r6824vo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/becb/live/2bd2b750-7f5a-11f1-a97a-9b1029617ccb.jpg"
-    },
     {
       "title": "香港國安搜查兩間獨立書店，拘捕5人涉售賣「煽動」書籍",
       "description": "香港當局表示，被捕人士涉嫌出售具「煽動意圖」的刊物，內容包括煽動他人引起對香港當局的「憎恨」。",
@@ -26,12 +18,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7a33/live/847ae010-806a-11f1-bf5f-a7a6eeea7412.jpg"
     },
     {
-      "title": "曾研究朝鮮核試驗，地震學家陳友麟遭中國拘留",
-      "description": "陳友麟家屬表示，中國當局以間諜罪嫌，將其錯誤拘留將近兩年。",
-      "link": "https://www.bbc.com/zhongwen/articles/cwykykkeql4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-15T12:26:18.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwykykkeql4o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b742/live/a647fbd0-7ff0-11f1-b7c7-fd8fa12609bd.jpg"
+      "title": "「香港應是個更自由的地方」：大陸讀者眼中的獨立書店往事",
+      "description": "在獵人書店負責人被捕後，不少中國大陸讀者在社交平台分享自己與香港獨立書店的故事。BBC中文了解四位讀者跨越地域的集體回憶。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn757r6824vo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-15T12:05:18.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn757r6824vo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/becb/live/2bd2b750-7f5a-11f1-a97a-9b1029617ccb.jpg"
     },
     {
       "title": "小紅書前員工跨境實名舉報，傳聞中的赴港上市計劃會有變化嗎？",
@@ -40,6 +32,14 @@
       "pubDate": "2026-07-15T00:44:35.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cj3g3mygk2xo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4d73/live/f4980390-7f8f-11f1-bee8-53ce494e1abc.jpg"
+    },
+    {
+      "title": "為何有些女性看見常人無法目睹的顏色？",
+      "description": "有些女性擁有「第四種視錐細胞」，可分辨更細膩的色調，甚至看到全新色彩。",
+      "link": "https://www.bbc.com/zhongwen/articles/c9q2q2r3n0zo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-16T00:04:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c9q2q2r3n0zo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b18c/live/191a0c70-73ad-11f1-9da1-db101e3ae6ed.jpg"
     },
     {
       "title": "醫療廢物還是神奇療法？為什麼有人會走私人類胎盤？",
@@ -90,6 +90,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/842b/live/d224de60-5e8c-11f1-89a3-d1f559421220.png"
     },
     {
+      "title": "曾研究朝鮮核試驗，地震學家陳友麟遭中國拘留",
+      "description": "陳友麟家屬表示，中國當局以間諜罪嫌，將其錯誤拘留將近兩年。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwykykkeql4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-15T12:26:18.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwykykkeql4o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b742/live/a647fbd0-7ff0-11f1-b7c7-fd8fa12609bd.jpg"
+    },
+    {
       "title": "「不出去，這一輩子心都不甘」：中國異見人士董廣平跨海記",
       "description": "作為中國異見人士，他過去11年四次偷渡出國都失敗，更兩度遭遣返被判入獄。這次，他選擇了更冒險的方式——駕艇穿越300公里黃海。",
       "link": "https://www.bbc.com/zhongwen/articles/c2dydezz0jro/trad?at_medium=RSS&at_campaign=rss",
@@ -136,14 +144,6 @@
       "pubDate": "2026-07-14T03:50:28.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy472d80ewwo/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b05e/live/968e5be0-ec56-11f0-862a-5f12fb5dd49d.jpg"
-    },
-    {
-      "title": "「越來越像一隻迷因股」：SpaceX IPO熱潮消退了嗎？",
-      "description": "SpaceX上市首月，投資者的情緒已由最初的歡慶，逐漸轉為不安。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4gyglylpmro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-14T09:02:27.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gyglylpmro/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2ab1/live/ee081470-7c79-11f1-b976-0b9c15b0ccfc.png"
     },
     {
       "title": "英國改革黨發言人韋黛琴命案變反恐調查 一文掌握來龍去脈",
@@ -234,6 +234,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0073/live/e8e49210-6424-11f1-a614-bb0f90cd931c.jpg"
     },
     {
+      "title": "「越來越像一隻迷因股」：SpaceX IPO熱潮消退了嗎？",
+      "description": "SpaceX上市首月，投資者的情緒已由最初的歡慶，逐漸轉為不安。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gyglylpmro/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-14T09:02:27.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gyglylpmro/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2ab1/live/ee081470-7c79-11f1-b976-0b9c15b0ccfc.png"
+    },
+    {
       "title": "所有人「擠成一團」：目擊者描述致命大火如何席捲曼谷酒吧",
       "description": "一名在火災發生時正在表演的樂手表示，他當時沿地面爬向出口，之後因某處發生爆炸而被拋出酒吧。",
       "link": "https://www.bbc.com/zhongwen/articles/c4gyn4yr9rlo/trad?at_medium=RSS&at_campaign=rss",
@@ -256,14 +264,6 @@
       "pubDate": "2026-07-12T03:29:32.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c77ypm8re6vo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/932a/live/fd05d8d0-7bb2-11f1-9510-1546718f668b.jpg"
-    },
-    {
-      "title": "沒苦硬吃？「我們十年來天天自己帶飯，40歲就退休了」",
-      "description": "「財務自由，提前退休」FIRE運動興起，參與者扭盡六壬拼命存錢。",
-      "link": "https://www.bbc.com/zhongwen/articles/c9w208vvdg9o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-08T09:06:30.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c9w208vvdg9o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1662/live/8c9d1790-73e0-11f1-8546-8f19e4fe30f4.jpg"
     },
     {
       "title": "台灣毒油：致癌沙拉油流入各大超商，食安制度為何失效？",
