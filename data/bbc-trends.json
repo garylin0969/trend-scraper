@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-17T06:02:04.023Z",
+  "updated": "2026-07-17T07:01:29.478Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-07-17T06:01:55.000Z",
+    "lastBuildDate": "2026-07-17T07:01:21.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -18,12 +18,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d581/live/e4364610-818d-11f1-bee8-53ce494e1abc.jpg"
     },
     {
-      "title": "涉以特朗普演說內幕下注，白宮讀稿機操作員獲利10萬元被查",
-      "description": "白宮一名職員被指利用預先掌握演說內容的內幕資訊，在博彩平台Kalshi下注並獲利近10萬美元。",
-      "link": "https://www.bbc.com/zhongwen/articles/c3d392peye9o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-16T20:55:58.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3d392peye9o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/499c/live/7e558130-8147-11f1-badc-afcab3cff8b6.jpg"
+      "title": "英國鋼鐵國有化 中國「堅決反對」侵犯華資權益",
+      "description": "英國政府表示，將該公司收歸國有將保障「一項至關重要的國家能力」。",
+      "link": "https://www.bbc.com/zhongwen/articles/cedj1qld27yo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-17T06:39:31.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cedj1qld27yo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/72e5/live/17d2eee0-8181-11f1-a117-633a3b1f8a33.jpg"
+    },
+    {
+      "title": "特朗普政府收緊外國學生簽證規定",
+      "description": "學生若要在美國逗留超過四年，將須取得聯邦政府許可，而大學也將失去延長簽證期限的權力。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5y351rvz2lo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-17T05:57:54.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5y351rvz2lo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2810/live/f2f65d60-8143-11f1-badc-afcab3cff8b6.jpg"
     },
     {
       "title": "「贏了官司輸了輿論」：LV 訴茉莉奶白案，判決之後再被網絡審判",
@@ -32,14 +40,6 @@
       "pubDate": "2026-07-16T09:43:53.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy0jnwzx5dzo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c282/live/779e7180-80e3-11f1-a5c2-db1656c1a0a8.jpg"
-    },
-    {
-      "title": "皮尤研究：全球更多國家對中國好感勝過美國，逾20年以來首次",
-      "description": "這項美國智庫調查顯示，受訪者對習近平的信心高於特朗普。",
-      "link": "https://www.bbc.com/zhongwen/articles/cpq8jd9dwr2o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-16T12:50:35.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cpq8jd9dwr2o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3c14/live/40b48570-801f-11f1-9317-f3c8d3f68726.jpg"
     },
     {
       "title": "「充滿魔力與人性」電影《奧德賽》的五大看點",
@@ -90,12 +90,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/842b/live/d224de60-5e8c-11f1-89a3-d1f559421220.png"
     },
     {
+      "title": "涉以特朗普演說內幕下注，白宮讀稿機操作員獲利10萬元被查",
+      "description": "白宮一名職員被指利用預先掌握演說內容的內幕資訊，在博彩平台Kalshi下注並獲利近10萬美元。",
+      "link": "https://www.bbc.com/zhongwen/articles/c3d392peye9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-16T20:55:58.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3d392peye9o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/499c/live/7e558130-8147-11f1-badc-afcab3cff8b6.jpg"
+    },
+    {
       "title": "「天才少女」蔣方舟跌下神壇：中國學術打假為何變成制度之問",
       "description": "蔣方舟論文風波，不僅重創「天才少女」光環，也引發外界對中國學術監督制度的反思。",
       "link": "https://www.bbc.com/zhongwen/articles/cx2v2j1pdrxo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-16T01:28:37.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx2v2j1pdrxo/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1978/live/8ea0e120-80b5-11f1-b498-eb2d9a33cb96.jpg"
+    },
+    {
+      "title": "皮尤研究：全球更多國家對中國好感勝過美國，逾20年以來首次",
+      "description": "這項美國智庫調查顯示，受訪者對習近平的信心高於特朗普。",
+      "link": "https://www.bbc.com/zhongwen/articles/cpq8jd9dwr2o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-16T12:50:35.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cpq8jd9dwr2o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3c14/live/40b48570-801f-11f1-9317-f3c8d3f68726.jpg"
     },
     {
       "title": "霍爾木茲海峽：替代路線能否維持波斯灣油氣出口？",
@@ -128,22 +144,6 @@
       "pubDate": "2026-07-15T12:05:18.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn757r6824vo/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/becb/live/2bd2b750-7f5a-11f1-a97a-9b1029617ccb.jpg"
-    },
-    {
-      "title": "曾研究朝鮮核試驗，地震學家陳友麟遭中國拘留",
-      "description": "陳友麟家屬表示，中國當局以間諜罪嫌，將其錯誤拘留將近兩年。",
-      "link": "https://www.bbc.com/zhongwen/articles/cwykykkeql4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-15T12:26:18.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwykykkeql4o/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b742/live/a647fbd0-7ff0-11f1-b7c7-fd8fa12609bd.jpg"
-    },
-    {
-      "title": "「不出去，這一輩子心都不甘」：中國異見人士董廣平跨海記",
-      "description": "作為中國異見人士，他過去11年四次偷渡出國都失敗，更兩度遭遣返被判入獄。這次，他選擇了更冒險的方式——駕艇穿越300公里黃海。",
-      "link": "https://www.bbc.com/zhongwen/articles/c2dydezz0jro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-14T11:06:56.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c2dydezz0jro/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ec0/live/f4b5eba0-7f6a-11f1-8812-63adb81ec20b.jpg"
     },
     {
       "title": "小紅書前員工跨境實名舉報，傳聞中的赴港上市計劃會有變化嗎？",
@@ -194,6 +194,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cbaf/live/cc48ef80-7d00-11f1-926f-c90d1bcfbc84.jpg"
     },
     {
+      "title": "曾研究朝鮮核試驗，美籍華裔地震學家陳友麟遭中國拘留",
+      "description": "陳友麟家屬表示，中國當局以間諜罪嫌，將其錯誤拘留將近兩年。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwykykkeql4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-15T12:26:18.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwykykkeql4o/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b742/live/a647fbd0-7ff0-11f1-b7c7-fd8fa12609bd.jpg"
+    },
+    {
       "title": "南海仲裁案：一紙裁決為何十年仍未能平息爭議？",
       "description": "十年後，南海仲裁案究竟改變了什麼？為何南海爭議至今仍未落幕？",
       "link": "https://www.bbc.com/zhongwen/articles/c1jy6kjn762o/trad?at_medium=RSS&at_campaign=rss",
@@ -208,14 +216,6 @@
       "pubDate": "2026-07-07T09:08:14.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cg744yp35pgo/trad#5",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/898e/live/bba15860-79b9-11f1-b976-0b9c15b0ccfc.jpg"
-    },
-    {
-      "title": "中國試射導彈 美國質疑暗擴核武庫 澳洲斥挑釁",
-      "description": "中國在澳洲與斐濟簽署防務協議後不久，於太平洋試射「潛射戰略導彈」，美國質疑該飛彈「可攜帶核彈頭」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cp8rx7n8xjpo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-07T05:44:19.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cp8rx7n8xjpo/trad#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a369/live/42129120-79c4-11f1-a627-714adb4eed6e.jpg"
     },
     {
       "title": "美國建國250年：五個中美交往的歷史細節與默契",
@@ -274,20 +274,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/932a/live/fd05d8d0-7bb2-11f1-9510-1546718f668b.jpg"
     },
     {
+      "title": "「不出去，這一輩子心都不甘」：中國異見人士董廣平跨海記",
+      "description": "作為中國異見人士，他過去11年四次偷渡出國都失敗，更兩度遭遣返被判入獄。這次，他選擇了更冒險的方式——駕艇穿越300公里黃海。",
+      "link": "https://www.bbc.com/zhongwen/articles/c2dydezz0jro/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-14T11:06:56.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c2dydezz0jro/trad#7",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ec0/live/f4b5eba0-7f6a-11f1-8812-63adb81ec20b.jpg"
+    },
+    {
       "title": "「雙開」馬興瑞：習時代「技術官僚」代表隕落，政治局三委員落馬",
       "description": "中國官方新華社公佈，中共政治局委員、前新疆黨委書記馬興瑞被開除黨籍、開除公職處分，即「雙開」。",
       "link": "https://www.bbc.com/zhongwen/articles/cy472d80ewwo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-14T03:50:28.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy472d80ewwo/trad#7",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b05e/live/968e5be0-ec56-11f0-862a-5f12fb5dd49d.jpg"
-    },
-    {
-      "title": "那位被指為墨西哥「芬太尼王」的中國留學生",
-      "description": "販毒集團成員及前同事描述張智棟如何涉嫌將中國化學品與墨西哥製毒實驗室連繫起來。",
-      "link": "https://www.bbc.com/zhongwen/articles/cq61eqrdj74o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-13T07:44:56.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cq61eqrdj74o/trad#7",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4fb9/live/72884b10-7c62-11f1-926f-c90d1bcfbc84.png"
     },
     {
       "title": "廣西水災：「大躍進」時期建的水庫為何擋不了極端洪水？",
@@ -298,20 +298,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bc32/live/f870af60-7ba9-11f1-9671-6995d20a3bb8.jpg"
     },
     {
+      "title": "那位被指為墨西哥「芬太尼王」的中國留學生",
+      "description": "販毒集團成員及前同事描述張智棟如何涉嫌將中國化學品與墨西哥製毒實驗室連繫起來。",
+      "link": "https://www.bbc.com/zhongwen/articles/cq61eqrdj74o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-13T07:44:56.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cq61eqrdj74o/trad#7",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4fb9/live/72884b10-7c62-11f1-926f-c90d1bcfbc84.png"
+    },
+    {
       "title": "中國搞笑網紅「陳土豆」台灣爆紅，為何引「統戰」爭議？",
       "description": "來自中國廣東的陳土豆，以誇張的表情創作搞笑影片，在兩岸網絡走紅，近期更頻繁赴台參加活動。BBC中文採訪台灣粉絲和學者，了解她在台灣受歡迎的原因，以及在兩岸關係緊張之下，這位中國性少數網紅為何面對質疑？",
       "link": "https://www.bbc.com/zhongwen/articles/c982vpj7zv1o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-09T04:31:07.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c982vpj7zv1o/trad#7",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da16/live/9c218a60-7a67-11f1-b3a0-9d60633dee75.png"
-    },
-    {
-      "title": "「沒戴保險套就不要做」？台灣擬管制事後避孕藥引發女性焦慮",
-      "description": "事後避孕藥有越早服用效果越好，一般有「72小時」的黃金時效。有受訪的台灣女性對BBC中文說，擔心未來如果要先到醫院看診再取藥，過程將大幅增加不便，甚至可能因拖延而提高意外懷孕風險。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx2xlj2ew6lo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-09T03:18:47.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx2xlj2ew6lo/trad#7",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d138/live/086406b0-7a88-11f1-bf04-effa1d05b41c.jpg"
     },
     {
       "title": "為何有些女性看見常人無法目睹的顏色？",
