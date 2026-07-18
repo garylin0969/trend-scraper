@@ -1,18 +1,8 @@
 {
-  "updated": "2026-07-18T05:12:11.637Z",
+  "updated": "2026-07-18T06:02:33.017Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "1218",
-      "recommendCount": "1493",
-      "title": "[情報] 台股前十大跌點紀錄(今天第一名)",
-      "link": "/bbs/Stock/M.1784266504.A.389",
-      "author": "paidzou",
-      "board": "Stock",
-      "publishTime": "2026/07/17 05:35",
-      "imageUrl": ""
-    },
     {
       "recommendScore": "661",
       "recommendCount": "917",
@@ -24,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "275",
-      "recommendCount": "849",
+      "recommendScore": "279",
+      "recommendCount": "854",
       "title": "[新聞] 狂砍83分最佳單場表現獎仍輸給大谷翔平",
       "link": "/bbs/NBA/M.1784272736.A.A50",
       "author": "a10141013",
@@ -34,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "335",
-      "recommendCount": "853",
+      "recommendScore": "337",
+      "recommendCount": "855",
       "title": "[新聞] 內幕／吳崢失言被藍白搶到槍！綠高層急道歉止血　蔣萬安策略曝光",
       "link": "/bbs/Gossiping/M.1784280672.A.870",
       "author": "chopper594",
@@ -44,8 +34,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "308",
-      "recommendCount": "709",
+      "recommendScore": "275",
+      "recommendCount": "592",
+      "title": "[新聞] 人氣超高！沈伯洋萬華掃街　民眾台南北上要簽名、攤商開心合照喊凍蒜",
+      "link": "/bbs/Gossiping/M.1784346484.A.EB6",
+      "author": "chopper594",
+      "board": "Gossiping",
+      "publishTime": "2026/07/18 03:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "309",
+      "recommendCount": "710",
       "title": "[新聞] 蔣萬安酸簡舒培「索資佛地魔」！ 公務員控一天要20萬筆資料",
       "link": "/bbs/Gossiping/M.1784294276.A.2A7",
       "author": "akila08539",
@@ -74,7 +74,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "742",
+      "recommendScore": "741",
       "recommendCount": "1411",
       "title": "[電競] EWC 2026 電競世界盃 D3 A舞台 SOOP中文",
       "link": "/bbs/LoL/M.1784283029.A.00B",
@@ -91,6 +91,16 @@
       "author": "koko0123",
       "board": "Stock",
       "publishTime": "2026/07/17 09:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "227",
+      "recommendCount": "627",
+      "title": "[新聞] 索資壓垮公務員 北市爆離職潮",
+      "link": "/bbs/Gossiping/M.1784325716.A.01D",
+      "author": "godofsex",
+      "board": "Gossiping",
+      "publishTime": "2026/07/17 22:01",
       "imageUrl": ""
     },
     {
@@ -114,26 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "217",
-      "recommendCount": "600",
-      "title": "[新聞] 索資壓垮公務員 北市爆離職潮",
-      "link": "/bbs/Gossiping/M.1784325716.A.01D",
-      "author": "godofsex",
-      "board": "Gossiping",
-      "publishTime": "2026/07/17 22:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "204",
-      "recommendCount": "454",
-      "title": "[新聞] 人氣超高！沈伯洋萬華掃街　民眾台南北上要簽名、攤商開心合照喊凍蒜",
-      "link": "/bbs/Gossiping/M.1784346484.A.EB6",
-      "author": "chopper594",
-      "board": "Gossiping",
-      "publishTime": "2026/07/18 03:48",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "214",
       "recommendCount": "366",
       "title": "[新聞] 台股算帳時刻到了！謝金河指南韓槓桿釀災　他看國巨陳泰銘「1操作」露玄機",
@@ -154,13 +144,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "221",
-      "recommendCount": "403",
+      "recommendScore": "283",
+      "recommendCount": "314",
+      "title": "[分享] 今日李灝宇 九局逆轉二壘安打",
+      "link": "/bbs/Baseball/M.1784348886.A.C5A",
+      "author": "a23938554",
+      "board": "Baseball",
+      "publishTime": "2026/07/18 04:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "220",
+      "recommendCount": "405",
       "title": "[新聞] 不是只1頁！調查局佈建檔案：「王定宇」7",
       "link": "/bbs/Gossiping/M.1784278814.A.A2A",
       "author": "nido5566",
       "board": "Gossiping",
       "publishTime": "2026/07/17 09:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "29",
+      "recommendCount": "340",
+      "title": "[花邊] LBJ：想加入一支「相信過程」的球隊",
+      "link": "/bbs/NBA/M.1784325911.A.B4D",
+      "author": "SeanLi1013",
+      "board": "NBA",
+      "publishTime": "2026/07/17 22:05",
       "imageUrl": ""
     },
     {
@@ -174,33 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "229",
-      "recommendCount": "455",
+      "recommendScore": "158",
+      "recommendCount": "438",
+      "title": "[新聞]監院糾正新竹棒球場案 高虹安：違失都發生在林智堅任內，已提刑事告發",
+      "link": "/bbs/Gossiping/M.1784340066.A.70B",
+      "author": "coffee112",
+      "board": "Gossiping",
+      "publishTime": "2026/07/18 02:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "230",
+      "recommendCount": "456",
       "title": "[新聞] 亞運棒球／雄鷹、悍將表態全力配合 林宗成：有狀況會馬上聯絡",
       "link": "/bbs/Baseball/M.1784286718.A.43D",
       "author": "lamigo",
       "board": "Baseball",
       "publishTime": "2026/07/17 11:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "205",
-      "recommendCount": "388",
-      "title": "Re: [請益] 有人這波也是資產減少25%以上嗎",
-      "link": "/bbs/Stock/M.1784277718.A.59C",
-      "author": "missucrystal",
-      "board": "Stock",
-      "publishTime": "2026/07/17 08:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-124",
-      "recommendCount": "387",
-      "title": "[新聞] 戴培峰、曾子祐遭網路攻擊　兩隊領隊聯合發聲：還給他們安心打球空間",
-      "link": "/bbs/Baseball/M.1784281426.A.84B",
-      "author": "ruka660101",
-      "board": "Baseball",
-      "publishTime": "2026/07/17 09:43",
       "imageUrl": ""
     }
   ]
