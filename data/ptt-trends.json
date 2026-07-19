@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-19T15:55:06.281Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2026-07-19T16:21:15.805Z",
+  "total_found": 18,
+  "returned_count": 18,
   "articles": [
     {
       "recommendScore": "561",
@@ -11,11 +11,11 @@
       "author": "l983",
       "board": "Gossiping",
       "publishTime": "2026/07/19 04:00",
-      "imageUrl": "https://cache.pttweb.cc/imgur/K781uLY/s/351ec5d735b9f5c21619dac3df63019b"
+      "imageUrl": ""
     },
     {
-      "recommendScore": "646",
-      "recommendCount": "669",
+      "recommendScore": "651",
+      "recommendCount": "674",
       "title": "[心得] 終末の最後補貼（發錢）",
       "link": "/bbs/WorldCup/M.1784437031.A.8E2",
       "author": "mokia918",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "776",
-      "recommendCount": "1407",
+      "recommendScore": "729",
+      "recommendCount": "1406",
       "title": "[電競] EWC 2026 電競世界盃 D5 第三名賽+冠軍賽",
       "link": "/bbs/LoL/M.1784451837.A.0E2",
       "author": "f12345678900",
@@ -55,12 +55,22 @@
     },
     {
       "recommendScore": "162",
-      "recommendCount": "603",
+      "recommendCount": "604",
       "title": "[新聞] 城鎮韌性演習14縣市斷網半小時　手機僅能通話簡訊",
       "link": "/bbs/Gossiping/M.1784430079.A.CBC",
       "author": "abc4",
       "board": "Gossiping",
       "publishTime": "2026/07/19 03:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "305",
+      "recommendCount": "391",
+      "title": "[發錢] 許哥我哭了",
+      "link": "/bbs/LoL/M.1784475960.A.DC1",
+      "author": "serding",
+      "board": "LoL",
+      "publishTime": "2026/07/19 15:46",
       "imageUrl": ""
     },
     {
@@ -74,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "119",
-      "recommendCount": "549",
+      "recommendScore": "118",
+      "recommendCount": "551",
       "title": "[新聞] 全國首次「行動斷網演習」14縣市手機只能通話發簡訊 時間日期一次看",
       "link": "/bbs/Stock/M.1784418853.A.CB2",
       "author": "tedcat",
@@ -84,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "228",
-      "recommendCount": "435",
+      "recommendScore": "232",
+      "recommendCount": "440",
       "title": "[新聞] 昔花40萬買HAHABABY！「鑽石哈比」遲未等到二伯回應　失望發聲：被當盤子",
       "link": "/bbs/Gossiping/M.1784434169.A.E96",
       "author": "tiger911",
@@ -114,8 +124,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "232",
-      "recommendCount": "306",
+      "recommendScore": "216",
+      "recommendCount": "302",
+      "title": "[閒聊] 四個字總結EWC",
+      "link": "/bbs/LoL/M.1784476022.A.9A4",
+      "author": "AnitaHailey",
+      "board": "LoL",
+      "publishTime": "2026/07/19 15:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "234",
+      "recommendCount": "308",
       "title": "[情報] 中職首次ABS挑戰",
       "link": "/bbs/Baseball/M.1784459739.A.C51",
       "author": "lgng66133",
@@ -144,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "167",
-      "recommendCount": "485",
+      "recommendScore": "168",
+      "recommendCount": "487",
       "title": "[問卦] 露營為什麼突然退燒了阿？",
       "link": "/bbs/Gossiping/M.1784441223.A.F83",
       "author": "abianisbitch",
@@ -154,53 +174,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "223",
-      "recommendCount": "407",
-      "title": "[新聞] 被爆是台大「抓耙子」！黃偉哲全代會低調排隊　投完票後快閃零交談",
-      "link": "/bbs/Gossiping/M.1784451436.A.29C",
-      "author": "emuless",
-      "board": "Gossiping",
-      "publishTime": "2026/07/19 08:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-9",
-      "recommendCount": "375",
+      "recommendScore": "-7",
+      "recommendCount": "383",
       "title": "[新聞] 快新聞／在野別想再亂台灣！卓榮泰硬起來怒嗆藍白　賴總統也熱烈鼓掌",
       "link": "/bbs/Gossiping/M.1784466183.A.03E",
       "author": "au4g3wk4k",
       "board": "Gossiping",
       "publishTime": "2026/07/19 13:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-128",
-      "recommendCount": "366",
-      "title": "[新聞] 賴清德：民進黨執政10年　證明台灣更安全更進步",
-      "link": "/bbs/Gossiping/M.1784450095.A.FA5",
-      "author": "chopper594",
-      "board": "Gossiping",
-      "publishTime": "2026/07/19 08:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "144",
-      "recommendCount": "297",
-      "title": "[新聞] 駭人畫面曝！高雄後勁溪成「魚屍地獄」",
-      "link": "/bbs/Gossiping/M.1784453144.A.935",
-      "author": "Tiiek",
-      "board": "Gossiping",
-      "publishTime": "2026/07/19 09:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "124",
-      "recommendCount": "320",
-      "title": "[問卦]現在高中職女生尺度 已經這麼大嗎…？",
-      "link": "/bbs/Gossiping/M.1784449947.A.04A",
-      "author": "a91153456",
-      "board": "Gossiping",
-      "publishTime": "2026/07/19 08:32",
       "imageUrl": ""
     }
   ]
