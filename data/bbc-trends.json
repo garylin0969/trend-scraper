@@ -1,14 +1,22 @@
 {
-  "updated": "2026-07-19T04:51:19.203Z",
+  "updated": "2026-07-19T06:10:26.819Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-07-19T04:51:08.000Z",
+    "lastBuildDate": "2026-07-19T06:10:08.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "金正恩本應是朝鮮人唯一的偶像，直到他們發現K-pop",
+      "description": "多名脫北者向BBC表示，儘管受到種種限制，韓國流行音樂仍突破重重封鎖，傳入這個令人窒息的獨裁國家。",
+      "link": "https://www.bbc.com/zhongwen/articles/cx2mlyg0x21o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-19T06:04:01.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx2mlyg0x21o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/13ed/live/2f4fba60-821e-11f1-b966-41edf3b346b4.jpg"
+    },
     {
       "title": "梅西、馬拉多納、貝利——誰才是真正的足球史上最強？",
       "description": "39歲的梅西依然是阿根廷征戰2026年世界盃的核心人物，但他是否已超越同胞馬拉多納，以及巴西傳奇貝利？",
@@ -26,28 +34,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/979d/live/d555aff0-82ff-11f1-9bcc-27488bb80d29.jpg"
     },
     {
+      "title": "熱浪下歐洲人轉向中國空調，能否洗刷「中國製造」污名？",
+      "description": "中國品牌正滿足歐洲急增的空調需求，而當地的空調普及率一向偏低。",
+      "link": "https://www.bbc.com/zhongwen/articles/cm2gm3mymwwo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-19T05:04:48.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cm2gm3mymwwo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f3cf/live/1fbfeca0-801b-11f1-9317-f3c8d3f68726.jpg"
+    },
+    {
       "title": "遙遠恆星的適居帶內，首次發現類似地球的行星存在大氣層",
       "description": "研究人員發現，一顆類似地球的岩質行星在遙遠恆星的適居帶內運行，並擁有大氣層。",
       "link": "https://www.bbc.com/zhongwen/articles/c36d1glwl66o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-18T23:54:47.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c36d1glwl66o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2cd8/live/f3f60290-81d1-11f1-926f-c90d1bcfbc84.jpg"
-    },
-    {
-      "title": "月經週期追蹤App暗藏了什麼隱私漏洞？",
-      "description": "「經期追蹤應用程式收集的數據，這些資料拼湊起來，可以揭示很多事情。」",
-      "link": "https://www.bbc.com/zhongwen/articles/ckgvwk50z6vo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-18T04:53:42.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckgvwk50z6vo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/872b/live/56752880-81ad-11f1-b976-0b9c15b0ccfc.png"
-    },
-    {
-      "title": "香港「禁書時代」：國安法下那些被下架、點名與檢走的書",
-      "description": "自2020年港區國安法生效後，每年香港都有不同書籍被下架、消失或點名。BBC中文梳理這些年，曾被圖書館及書展下架、被建制報章點名，以及近來國安在搜捕行動中被檢走的書籍，試圖從這些軌跡中，拼湊出一份「禁書清單」。\n",
-      "link": "https://www.bbc.com/zhongwen/articles/c3v0xg2zq9go/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-17T11:27:20.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3v0xg2zq9go/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c03f/live/942bd1d0-81a6-11f1-a603-673178e2b07e.jpg"
     },
     {
       "title": "點擊瀏覽即時更新",
@@ -90,20 +90,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/842b/live/d224de60-5e8c-11f1-89a3-d1f559421220.png"
     },
     {
+      "title": "香港「禁書時代」：國安法下那些被下架、點名與檢走的書",
+      "description": "自2020年港區國安法生效後，每年香港都有不同書籍被下架、消失或點名。BBC中文梳理這些年，曾被圖書館及書展下架、被建制報章點名，以及近來國安在搜捕行動中被檢走的書籍，試圖從這些軌跡中，拼湊出一份「禁書清單」。\n",
+      "link": "https://www.bbc.com/zhongwen/articles/c3v0xg2zq9go/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-17T11:27:20.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3v0xg2zq9go/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c03f/live/942bd1d0-81a6-11f1-a603-673178e2b07e.jpg"
+    },
+    {
       "title": "劍指中國 特朗普稱美國選舉安全有「令人震驚的漏洞」",
       "description": "特朗普指責中國干預2020年選舉，這與美國情報部門過去的調查結果直接相矛盾。北京反駁其說法「無中生有，惡意抹黑」。",
       "link": "https://www.bbc.com/zhongwen/articles/c5ywdnz6yqgo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-17T07:39:26.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c5ywdnz6yqgo/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1a90/live/626bf4c0-81b2-11f1-926f-c90d1bcfbc84.jpg"
-    },
-    {
-      "title": "「貝安德是誰？」：為何新任英國首相仍是一個充滿謎團的人物",
-      "description": "貝安德會大幅改變英國的內政或外交政策嗎？近年來，很少有人像他一樣，在幾乎沒有經過公眾充分檢視的情況下便成為英國首相。",
-      "link": "https://www.bbc.com/zhongwen/articles/cm2g3pyx3j1o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-17T10:15:04.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm2g3pyx3j1o/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e027/live/a79022d0-811a-11f1-96bf-6155b9f8d82a.jpg"
     },
     {
       "title": "英國鋼鐵國有化 中國「堅決反對」侵犯華資權益",
@@ -314,6 +314,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da16/live/9c218a60-7a67-11f1-b3a0-9d60633dee75.png"
     },
     {
+      "title": "月經週期追蹤App暗藏了什麼隱私漏洞？",
+      "description": "「經期追蹤應用程式收集的數據，這些資料拼湊起來，可以揭示很多事情。」",
+      "link": "https://www.bbc.com/zhongwen/articles/ckgvwk50z6vo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-18T04:53:42.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckgvwk50z6vo/trad#8",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/872b/live/56752880-81ad-11f1-b976-0b9c15b0ccfc.png"
+    },
+    {
       "title": "為何有些女性看見常人無法目睹的顏色？",
       "description": "有些女性擁有「第四種視錐細胞」，可分辨更細膩的色調，甚至看到全新色彩。",
       "link": "https://www.bbc.com/zhongwen/articles/c9q2q2r3n0zo/trad?at_medium=RSS&at_campaign=rss",
@@ -336,14 +344,6 @@
       "pubDate": "2026-07-15T03:39:04.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cqj1jer2z22o/trad#8",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aa4f/live/cfcc3c30-7c37-11f1-a2fb-0b92ebfbb860.jpg"
-    },
-    {
-      "title": "追蹤你的食品購買紀錄有益健康嗎？",
-      "description": "食品追蹤應用程式十分受歡迎，但它們是否真能幫助人們建立更健康的飲食習慣？",
-      "link": "https://www.bbc.com/zhongwen/articles/c5yzy00z89po/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-14T09:42:11.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5yzy00z89po/trad#8",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ac4/live/19124130-7492-11f1-8e1d-bbbb1017d210.jpg"
     },
     {
       "title": "為什麼有些人特別容易被蚊叮？",
