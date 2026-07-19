@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T15:32:03.596Z",
+  "updated": "2026-07-19T15:55:06.281Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/K781uLY/s/351ec5d735b9f5c21619dac3df63019b"
     },
     {
-      "recommendScore": "639",
-      "recommendCount": "662",
+      "recommendScore": "646",
+      "recommendCount": "669",
       "title": "[心得] 終末の最後補貼（發錢）",
       "link": "/bbs/WorldCup/M.1784437031.A.8E2",
       "author": "mokia918",
@@ -44,7 +44,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "758",
+      "recommendScore": "776",
       "recommendCount": "1407",
       "title": "[電競] EWC 2026 電競世界盃 D5 第三名賽+冠軍賽",
       "link": "/bbs/LoL/M.1784451837.A.0E2",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "155",
-      "recommendCount": "418",
+      "recommendScore": "156",
+      "recommendCount": "419",
       "title": "[新聞] 潘孟安被追問致癌油「肘推記者」 總統府：自然抬手",
       "link": "/bbs/Gossiping/M.1784444801.A.E7D",
       "author": "STi2011",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "166",
-      "recommendCount": "478",
+      "recommendScore": "167",
+      "recommendCount": "485",
       "title": "[問卦] 露營為什麼突然退燒了阿？",
       "link": "/bbs/Gossiping/M.1784441223.A.F83",
       "author": "abianisbitch",
@@ -154,13 +154,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "221",
-      "recommendCount": "403",
+      "recommendScore": "223",
+      "recommendCount": "407",
       "title": "[新聞] 被爆是台大「抓耙子」！黃偉哲全代會低調排隊　投完票後快閃零交談",
       "link": "/bbs/Gossiping/M.1784451436.A.29C",
       "author": "emuless",
       "board": "Gossiping",
       "publishTime": "2026/07/19 08:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-9",
+      "recommendCount": "375",
+      "title": "[新聞] 快新聞／在野別想再亂台灣！卓榮泰硬起來怒嗆藍白　賴總統也熱烈鼓掌",
+      "link": "/bbs/Gossiping/M.1784466183.A.03E",
+      "author": "au4g3wk4k",
+      "board": "Gossiping",
+      "publishTime": "2026/07/19 13:03",
       "imageUrl": ""
     },
     {
@@ -174,33 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-8",
-      "recommendCount": "364",
-      "title": "[新聞] 快新聞／在野別想再亂台灣！卓榮泰硬起來怒嗆藍白　賴總統也熱烈鼓掌",
-      "link": "/bbs/Gossiping/M.1784466183.A.03E",
-      "author": "au4g3wk4k",
-      "board": "Gossiping",
-      "publishTime": "2026/07/19 13:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "120",
-      "recommendCount": "313",
-      "title": "[問卦]現在高中職女生尺度 已經這麼大嗎…？",
-      "link": "/bbs/Gossiping/M.1784449947.A.04A",
-      "author": "a91153456",
-      "board": "Gossiping",
-      "publishTime": "2026/07/19 08:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "138",
-      "recommendCount": "288",
+      "recommendScore": "144",
+      "recommendCount": "297",
       "title": "[新聞] 駭人畫面曝！高雄後勁溪成「魚屍地獄」",
       "link": "/bbs/Gossiping/M.1784453144.A.935",
       "author": "Tiiek",
       "board": "Gossiping",
       "publishTime": "2026/07/19 09:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "124",
+      "recommendCount": "320",
+      "title": "[問卦]現在高中職女生尺度 已經這麼大嗎…？",
+      "link": "/bbs/Gossiping/M.1784449947.A.04A",
+      "author": "a91153456",
+      "board": "Gossiping",
+      "publishTime": "2026/07/19 08:32",
       "imageUrl": ""
     }
   ]
