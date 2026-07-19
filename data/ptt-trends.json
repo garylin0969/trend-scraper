@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-19T21:18:53.452Z",
+  "updated": "2026-07-19T21:38:08.273Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "566",
-      "recommendCount": "1186",
+      "recommendScore": "567",
+      "recommendCount": "1187",
       "title": "[新聞] 快訊／致癌油流向高雄上百所學校！最新名單曝光「一次看」",
       "link": "/bbs/Gossiping/M.1784433634.A.313",
       "author": "l983",
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/K781uLY/s/351ec5d735b9f5c21619dac3df63019b"
     },
     {
-      "recommendScore": "270",
-      "recommendCount": "1030",
+      "recommendScore": "271",
+      "recommendCount": "1031",
       "title": "[新聞] 黃捷稱「一晚讀完336頁新書」遭疑！作家：不讀書的人很難理解",
       "link": "/bbs/Gossiping/M.1784424312.A.EF1",
       "author": "blue999",
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "804",
+      "recommendCount": "1357",
+      "title": "[LIVE] 世界盃足球 阿根廷@西班牙 場中",
+      "link": "/bbs/SportLottery/M.1784485830.A.695",
+      "author": "Lige",
+      "board": "SportLottery",
+      "publishTime": "2026/07/19 18:30",
+      "imageUrl": "https://cache.pttweb.cc/imgur/OK40bTy/s/a398ef01c0cf430eddd3222c71e102da"
+    },
+    {
       "recommendScore": "237",
       "recommendCount": "311",
       "title": "[情報] 中職首次ABS挑戰",
@@ -134,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "241",
-      "recommendCount": "442",
+      "recommendScore": "244",
+      "recommendCount": "450",
       "title": "[新聞] 被爆是台大「抓耙子」！黃偉哲全代會低調排隊　投完票後快閃零交談",
       "link": "/bbs/Gossiping/M.1784451436.A.29C",
       "author": "emuless",
@@ -191,16 +201,6 @@
       "author": "Tiiek",
       "board": "Gossiping",
       "publishTime": "2026/07/19 09:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "170",
-      "recommendCount": "329",
-      "title": "[新聞] NBA撼彈！詹皇新東家48小時內揭曉 哈登表態：目標在騎士聯手",
-      "link": "/bbs/NBA/M.1784455817.A.6B2",
-      "author": "turndown4wat",
-      "board": "NBA",
-      "publishTime": "2026/07/19 10:10",
       "imageUrl": ""
     }
   ]
