@@ -1,14 +1,22 @@
 {
-  "updated": "2026-07-20T06:21:10.008Z",
+  "updated": "2026-07-20T07:45:10.012Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-07-20T06:20:58.000Z",
+    "lastBuildDate": "2026-07-20T07:45:03.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "外賣騎手獲中國頂級文學獎，作品靈感來自日常工作挑戰",
+      "description": "王計兵是中國一群憑文學作品獲得更廣泛關注的藍領工人之一。",
+      "link": "https://www.bbc.com/zhongwen/articles/c05qzd2v54yo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-20T07:02:58.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c05qzd2v54yo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/27d9/live/016c8b40-83eb-11f1-a4bc-65277c7fcf81.jpg"
+    },
     {
       "title": "托雷斯加時建功助西班牙險勝阿根廷 二奪世界盃冠軍",
       "description": "西班牙在一場混亂的世界盃決賽中險勝，憑藉費蘭·托雷斯（費倫·托利斯）於加時賽攻入的制勝球擊敗阿根廷。",
@@ -40,14 +48,6 @@
       "pubDate": "2026-07-20T04:24:23.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx2mlyg0x21o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/13ed/live/2f4fba60-821e-11f1-b966-41edf3b346b4.jpg"
-    },
-    {
-      "title": "這對雙生姐妹身高不足1.2米，卻為預防癌症提供關鍵線索",
-      "description": "有研究顯示100名患者在22年內均沒發現糖尿病病例，只有一宗非致命性癌症；相比下，其1600名同村親屬的糖尿病和癌症比例高得多。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgle9q1vdxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-19T09:38:34.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgle9q1vdxo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6695/live/5f2f7af0-7c6e-11f1-9fad-d539485c17c2.jpg"
     },
     {
       "title": "點擊瀏覽即時更新",
@@ -98,6 +98,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c03f/live/942bd1d0-81a6-11f1-a603-673178e2b07e.jpg"
     },
     {
+      "title": "這對雙生姐妹身高不足1.2米，卻為預防癌症提供關鍵線索",
+      "description": "有研究顯示100名患者在22年內均沒發現糖尿病病例，只有一宗非致命性癌症；相比下，其1600名同村親屬的糖尿病和癌症比例高得多。",
+      "link": "https://www.bbc.com/zhongwen/articles/cvgle9q1vdxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-19T09:38:34.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvgle9q1vdxo/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6695/live/5f2f7af0-7c6e-11f1-9fad-d539485c17c2.jpg"
+    },
+    {
       "title": "熱浪下歐洲人轉向中國空調，能否洗刷「中國製造」污名？",
       "description": "中國品牌正滿足歐洲急增的空調需求，而當地的空調普及率一向偏低。",
       "link": "https://www.bbc.com/zhongwen/articles/cm2gm3mymwwo/trad?at_medium=RSS&at_campaign=rss",
@@ -128,14 +136,6 @@
       "pubDate": "2026-07-17T11:56:20.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cvgjm0x0pzlo/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/333d/live/fb614420-72ec-11f1-8e1d-bbbb1017d210.jpg"
-    },
-    {
-      "title": "特朗普政府收緊外國學生簽證規定",
-      "description": "學生若要在美國逗留超過四年，將須取得聯邦政府許可，而大學也將失去延長簽證期限的權力。",
-      "link": "https://www.bbc.com/zhongwen/articles/c5y351rvz2lo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-17T08:11:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5y351rvz2lo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2810/live/f2f65d60-8143-11f1-badc-afcab3cff8b6.jpg"
     },
     {
       "title": "「贏了官司輸了輿論」：LV 訴茉莉奶白案，判決之後再被網絡審判",
@@ -202,6 +202,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1a90/live/626bf4c0-81b2-11f1-926f-c90d1bcfbc84.jpg"
     },
     {
+      "title": "特朗普政府收緊外國學生簽證規定",
+      "description": "學生若要在美國逗留超過四年，將須取得聯邦政府許可，而大學也將失去延長簽證期限的權力。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5y351rvz2lo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-17T08:11:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5y351rvz2lo/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2810/live/f2f65d60-8143-11f1-badc-afcab3cff8b6.jpg"
+    },
+    {
       "title": "曾研究朝鮮核試驗，美籍華裔地震學家陳友麟遭中國拘留",
       "description": "陳友麟家屬表示，中國當局以間諜罪嫌，將其錯誤拘留將近兩年。",
       "link": "https://www.bbc.com/zhongwen/articles/cwykykkeql4o/trad?at_medium=RSS&at_campaign=rss",
@@ -224,14 +232,6 @@
       "pubDate": "2026-07-03T09:09:03.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cgrklk4g1rxo/trad#5",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3a45/live/2ab98e30-769e-11f1-854e-475b00290f64.jpg"
-    },
-    {
-      "title": "中國芯片出口額暴增110%，是否意味西方「封鎖失敗」？",
-      "description": "「我們仍然有一種印象，也就是中國正受到美國的卡脖子或限制。為什麼數據與這種認知之間會存在這種反差？」深入拆解這組數字，就能夠找到答案。",
-      "link": "https://www.bbc.com/zhongwen/articles/cg4w2n5ql32o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-25T01:48:08.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cg4w2n5ql32o/trad#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4226/live/8daea060-7037-11f1-85ab-7f21c1486b5b.jpg"
     },
     {
       "title": "「充滿魔力與人性」電影《奧德賽》的五大看點",
