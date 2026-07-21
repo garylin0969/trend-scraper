@@ -1,21 +1,29 @@
 {
-  "updated": "2026-07-21T00:04:50.669Z",
+  "updated": "2026-07-21T00:52:47.820Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-07-21T00:04:45.000Z",
+    "lastBuildDate": "2026-07-21T00:52:40.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
     {
-      "title": "貝安德就任英國首相　「北部王」其人其事",
-      "description": "前大曼徹斯特市長貝安德在無人挑戰下就任執政工黨黨魁，正式接替施紀賢爵士出任英國首相。",
-      "link": "https://www.bbc.com/zhongwen/articles/c802k9v735no/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-20T12:08:45.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c802k9v735no/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ae24/live/77e6f7e0-8433-11f1-bee8-53ce494e1abc.jpg"
+      "title": "「兩岸之間只剩三公里」：金門對面多了一座巨型機場，台灣憂軍事與飛航安全",
+      "description": "BBC中文記者實地走訪金門，隔海的廈門翔安機場設施清晰可辨，近距離感受遠超一般想像。這座由中國大陸填海興建的機場，由於位置敏感，正引發台灣對軍事威脅和區域安全的高度關切。",
+      "link": "https://www.bbc.com/zhongwen/articles/c3v0x30ny39o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-21T00:07:48.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3v0x30ny39o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5b2f/live/11cd9c60-81b4-11f1-b976-0b9c15b0ccfc.jpg"
+    },
+    {
+      "title": "從烏干達、美國到中國：在俄羅斯戰爭中喪生的外國人",
+      "description": "BBC調查發現，來自40多個國家的逾3,500名外國公民，在烏克蘭戰爭中為俄羅斯作戰時死亡，當中包括來自厄瓜多爾、烏干達、美國、中國、越南和斯里蘭卡的人。",
+      "link": "https://www.bbc.com/zhongwen/articles/c20e6vk7dn6o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-21T00:08:29.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c20e6vk7dn6o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d5b7/live/2091d530-8124-11f1-926f-c90d1bcfbc84.jpg"
     },
     {
       "title": "貝安德入主唐寧街後 中英關係會開啟新篇章嗎？",
@@ -34,14 +42,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2356/live/5799afb0-843c-11f1-926f-c90d1bcfbc84.jpg"
     },
     {
-      "title": "托雷斯加時建功助西班牙險勝阿根廷 二奪世界盃冠軍",
-      "description": "西班牙在一場混亂的世界盃決賽中險勝，憑藉費蘭·托雷斯（費倫·托利斯）於加時賽攻入的制勝球擊敗阿根廷。",
-      "link": "https://www.bbc.com/zhongwen/articles/crk547p26rpo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-20T11:34:22.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crk547p26rpo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e08a/live/b10448f0-83ea-11f1-bee8-53ce494e1abc.jpg"
-    },
-    {
       "title": "外賣騎手獲中國頂級文學獎，作品靈感來自日常工作挑戰",
       "description": "王計兵是中國一群憑文學作品獲得更廣泛關注的藍領工人之一。",
       "link": "https://www.bbc.com/zhongwen/articles/c05qzd2v54yo/trad?at_medium=RSS&at_campaign=rss",
@@ -56,6 +56,14 @@
       "pubDate": "2026-06-12T04:11:10.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx211w7zkkeo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8bd/live/c8083d10-659d-11f1-8e1d-bbbb1017d210.png"
+    },
+    {
+      "title": "托雷斯加時建功助西班牙險勝阿根廷 二奪世界盃冠軍",
+      "description": "西班牙在一場混亂的世界盃決賽中險勝，憑藉費蘭·托雷斯（費倫·托利斯）於加時賽攻入的制勝球擊敗阿根廷。",
+      "link": "https://www.bbc.com/zhongwen/articles/crk547p26rpo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-20T11:34:22.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/crk547p26rpo/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e08a/live/b10448f0-83ea-11f1-bee8-53ce494e1abc.jpg"
     },
     {
       "title": "更多比賽，更多爭議——該如何評價2026年FIFA世界盃？",
@@ -74,20 +82,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8a17/live/42603f40-7f93-11f1-ac71-510b51a60620.jpg"
     },
     {
-      "title": "輪到你了，梅西——姆巴佩領跑史詩級世界盃金靴之爭",
-      "description": "姆巴佩在金靴之爭中領先兩球，但梅西仍有可能在世界盃決賽反超前。",
-      "link": "https://www.bbc.com/zhongwen/articles/c78g1858m7go/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-19T00:23:42.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c78g1858m7go/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/979d/live/d555aff0-82ff-11f1-9bcc-27488bb80d29.jpg"
-    },
-    {
       "title": "2026足球世界盃賽程海報  點擊這裡免費下載",
       "description": "你可以從這裡下載並打印免費的2026世界盃賽程海報，全面追蹤這項全球最大足球盛事的每一場賽程與比賽結果。",
       "link": "https://www.bbc.com/zhongwen/articles/cx21r3d9y1yo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-06-09T06:33:19.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx21r3d9y1yo/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/842b/live/d224de60-5e8c-11f1-89a3-d1f559421220.png"
+    },
+    {
+      "title": "貝安德就任英國首相　「北部王」其人其事",
+      "description": "前大曼徹斯特市長貝安德在無人挑戰下就任執政工黨黨魁，正式接替施紀賢爵士出任英國首相。",
+      "link": "https://www.bbc.com/zhongwen/articles/c802k9v735no/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-20T12:08:45.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c802k9v735no/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ae24/live/77e6f7e0-8433-11f1-bee8-53ce494e1abc.jpg"
+    },
+    {
+      "title": "搭乘太陽能火車，穿越阿根廷一萬年的原住民歷史",
+      "description": "這列零排放豪華列車正帶領旅客穿越彩虹山脈、原住民村莊，以及一條擁有一萬年歷史的文化走廊。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5y4rneklx1o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-21T00:08:48.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5y4rneklx1o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/62e7/live/4db3fd40-8444-11f1-926f-c90d1bcfbc84.jpg"
     },
     {
       "title": "中國揭陽虐狗案：如何席捲全球各地輿論？",
@@ -122,28 +138,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f3cf/live/1fbfeca0-801b-11f1-9317-f3c8d3f68726.jpg"
     },
     {
-      "title": "擅長數學、喜愛爵士樂⋯⋯鯊魚其貌不揚的九件事",
-      "description": "人類跟鯊魚比想像中更像——BBC整理出九件你絕對想不到的鯊魚知識。",
-      "link": "https://www.bbc.com/zhongwen/articles/cly8ypxel59o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-20T09:13:43.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cly8ypxel59o/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e67a/live/ca26b560-812a-11f1-b976-0b9c15b0ccfc.jpg"
-    },
-    {
       "title": "香港「禁書時代」：國安法下那些被下架、點名與檢走的書",
       "description": "自2020年港區國安法生效後，每年香港都有不同書籍被下架、消失或點名。BBC中文梳理這些年，曾被圖書館及書展下架、被建制報章點名，以及近來國安在搜捕行動中被檢走的書籍，試圖從這些軌跡中，拼湊出一份「禁書清單」。\n",
       "link": "https://www.bbc.com/zhongwen/articles/c3v0xg2zq9go/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-17T11:27:20.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c3v0xg2zq9go/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c03f/live/942bd1d0-81a6-11f1-a603-673178e2b07e.jpg"
-    },
-    {
-      "title": "這對雙生姐妹身高不足1.2米，卻為預防癌症提供關鍵線索",
-      "description": "有研究顯示100名患者在22年內均沒發現糖尿病病例，只有一宗非致命性癌症；相比下，其1600名同村親屬的糖尿病和癌症比例高得多。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgle9q1vdxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-19T09:38:34.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgle9q1vdxo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6695/live/5f2f7af0-7c6e-11f1-9fad-d539485c17c2.jpg"
     },
     {
       "title": "英國鋼鐵國有化 中國「堅決反對」侵犯華資權益",
@@ -314,6 +314,22 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bc32/live/f870af60-7ba9-11f1-9671-6995d20a3bb8.jpg"
     },
     {
+      "title": "這對雙生姐妹身高不足1.2米，卻為預防癌症提供關鍵線索",
+      "description": "有研究顯示100名患者在22年內均沒發現糖尿病病例，只有一宗非致命性癌症；相比下，其1600名同村親屬的糖尿病和癌症比例高得多。",
+      "link": "https://www.bbc.com/zhongwen/articles/cvgle9q1vdxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-19T09:38:34.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvgle9q1vdxo/trad#8",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6695/live/5f2f7af0-7c6e-11f1-9fad-d539485c17c2.jpg"
+    },
+    {
+      "title": "擅長數學、喜愛爵士樂⋯⋯鯊魚其貌不揚的九件事",
+      "description": "人類跟鯊魚比想像中更像——BBC整理出九件你絕對想不到的鯊魚知識。",
+      "link": "https://www.bbc.com/zhongwen/articles/cly8ypxel59o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-20T09:13:43.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cly8ypxel59o/trad#8",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e67a/live/ca26b560-812a-11f1-b976-0b9c15b0ccfc.jpg"
+    },
+    {
       "title": "月經週期追蹤App暗藏了什麼隱私漏洞？",
       "description": "「經期追蹤應用程式收集的數據，這些資料拼湊起來，可以揭示很多事情。」",
       "link": "https://www.bbc.com/zhongwen/articles/ckgvwk50z6vo/trad?at_medium=RSS&at_campaign=rss",
@@ -336,22 +352,6 @@
       "pubDate": "2026-07-16T00:04:00.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c9q2q2r3n0zo/trad#8",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b18c/live/191a0c70-73ad-11f1-9da1-db101e3ae6ed.jpg"
-    },
-    {
-      "title": "醫療廢物還是神奇療法？為什麼有人會走私人類胎盤？",
-      "description": "巴基斯坦一宗刑事調查揭露，有人涉嫌從醫院走私人類胎盤。但這宗案件揭示了一個更大的圖像：一個圍繞這種在分娩後被棄置的暫時性器官而迅速增長的全球市場。",
-      "link": "https://www.bbc.com/zhongwen/articles/cgjxj0wv982o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-15T08:36:31.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cgjxj0wv982o/trad#8",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/212e/live/12ad9d40-8021-11f1-9317-f3c8d3f68726.jpg"
-    },
-    {
-      "title": "「來月經讓我的ADHD更厲害了」",
-      "description": "英國研究人員進行的一項同類首創研究，正探討月經週期與多動症（ADHD）之間的關聯。",
-      "link": "https://www.bbc.com/zhongwen/articles/cqj1jer2z22o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-15T03:39:04.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cqj1jer2z22o/trad#8",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aa4f/live/cfcc3c30-7c37-11f1-a2fb-0b92ebfbb860.jpg"
     }
   ]
 }
