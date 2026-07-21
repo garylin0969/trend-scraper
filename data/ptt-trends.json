@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-20T23:54:57.371Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2026-07-21T00:37:21.756Z",
+  "total_found": 19,
+  "returned_count": 19,
   "articles": [
     {
-      "recommendScore": "258",
-      "recommendCount": "1077",
+      "recommendScore": "257",
+      "recommendCount": "1084",
       "title": "[新聞] 綠議員談致癌油：感覺大家沒強烈不滿",
       "link": "/bbs/Gossiping/M.1784532292.A.158",
       "author": "SEVENxELEVEN",
       "board": "Gossiping",
       "publishTime": "2026/07/20 07:24",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Mwyc1of/s/119d8aa56e80ab8f5ea8ffee71c2c4a6"
+      "imageUrl": ""
     },
     {
-      "recommendScore": "328",
-      "recommendCount": "980",
+      "recommendScore": "332",
+      "recommendCount": "996",
       "title": "[問卦]楷教練：運動對減肥幾乎沒太多幫助",
       "link": "/bbs/Gossiping/M.1784546219.A.334",
       "author": "a91153456",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "333",
-      "recommendCount": "733",
+      "recommendScore": "332",
+      "recommendCount": "734",
       "title": "[新聞] 國巨開盤15分鐘跌停打破瑤池金母金身　00981A自7月以來一張不賣已跌19％",
       "link": "/bbs/Stock/M.1784536187.A.50D",
       "author": "troy30408",
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "228",
+      "recommendCount": "413",
+      "title": "[新聞] 快訊／「杯麵老師」退出民進黨！嘆理性討論愈來愈少：民主應接受批評",
+      "link": "/bbs/Gossiping/M.1784559083.A.4AC",
+      "author": "qazxc1156892",
+      "board": "Gossiping",
+      "publishTime": "2026/07/20 14:51",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "331",
       "recommendCount": "352",
       "title": "Re: [推薦] 足球 綠茶看世界盃（1007）",
@@ -64,18 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "215",
-      "recommendCount": "398",
-      "title": "[新聞] 快訊／「杯麵老師」退出民進黨！嘆理性討論愈來愈少：民主應接受批評",
-      "link": "/bbs/Gossiping/M.1784559083.A.4AC",
-      "author": "qazxc1156892",
-      "board": "Gossiping",
-      "publishTime": "2026/07/20 14:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "188",
-      "recommendCount": "539",
+      "recommendScore": "193",
+      "recommendCount": "545",
       "title": "[新聞] 裝修公司「福麥」炸藥採購案無法履約 軍備局：將沒入8000餘萬元",
       "link": "/bbs/Gossiping/M.1784544468.A.E51",
       "author": "usnavyseal",
@@ -105,7 +105,7 @@
     },
     {
       "recommendScore": "173",
-      "recommendCount": "388",
+      "recommendCount": "390",
       "title": "[新聞] 學霸女副理月薪5.5萬!入職115天操到腦中風知名酒商判賠1228萬",
       "link": "/bbs/Gossiping/M.1784510398.A.F2A",
       "author": "DsLove710",
@@ -114,13 +114,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "98",
-      "recommendCount": "343",
+      "recommendScore": "102",
+      "recommendCount": "349",
       "title": "[新聞] 苯駢芘是天然物質？戴瑋姍喊「植物本來就有」 社群炸鍋",
       "link": "/bbs/Gossiping/M.1784545585.A.81F",
       "author": "TBOC",
       "board": "Gossiping",
       "publishTime": "2026/07/20 11:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "80",
+      "recommendCount": "415",
+      "title": "[新聞] 陳建仁稱苯駢芘「多喝水可排掉」引議論 粉專嘆1句",
+      "link": "/bbs/Gossiping/M.1784551821.A.381",
+      "author": "CREA",
+      "board": "Gossiping",
+      "publishTime": "2026/07/20 12:50",
       "imageUrl": ""
     },
     {
@@ -134,23 +144,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "76",
-      "recommendCount": "402",
-      "title": "[新聞] 陳建仁稱苯駢芘「多喝水可排掉」引議論 粉專嘆1句",
-      "link": "/bbs/Gossiping/M.1784551821.A.381",
-      "author": "CREA",
-      "board": "Gossiping",
-      "publishTime": "2026/07/20 12:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "159",
-      "recommendCount": "338",
+      "recommendScore": "161",
+      "recommendCount": "340",
       "title": "[問卦] 蔡阿嘎為什麼會遭三立、自由追殺？",
       "link": "/bbs/Gossiping/M.1784516853.A.676",
       "author": "SkankHunt42",
       "board": "Gossiping",
       "publishTime": "2026/07/20 03:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "210",
+      "recommendCount": "291",
+      "title": "[新聞] 「四哥」謝賢驚傳離世！　享壽89歲…謝霆鋒緊急返港",
+      "link": "/bbs/Gossiping/M.1784534167.A.4AC",
+      "author": "ihl123456",
+      "board": "Gossiping",
+      "publishTime": "2026/07/20 07:56",
       "imageUrl": ""
     },
     {
@@ -164,18 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "210",
-      "recommendCount": "290",
-      "title": "[新聞] 「四哥」謝賢驚傳離世！　享壽89歲…謝霆鋒緊急返港",
-      "link": "/bbs/Gossiping/M.1784534167.A.4AC",
-      "author": "ihl123456",
-      "board": "Gossiping",
-      "publishTime": "2026/07/20 07:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "123",
-      "recommendCount": "319",
+      "recommendScore": "124",
+      "recommendCount": "320",
       "title": "[新聞] 護航毒油創金句？戴瑋姍稱「苯駢芘是天然物質」",
       "link": "/bbs/Gossiping/M.1784542964.A.8F7",
       "author": "AHsin",
@@ -184,23 +184,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "187",
-      "recommendCount": "281",
+      "recommendScore": "188",
+      "recommendCount": "283",
       "title": "[情報] 115年07月20日信用交易統計(50資增40897)",
       "link": "/bbs/Stock/M.1784553876.A.19F",
       "author": "steward135",
       "board": "Stock",
       "publishTime": "2026/07/20 13:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "186",
-      "recommendCount": "479",
-      "title": "[問卦] 自己煮一人份是不是智障",
-      "link": "/bbs/Gossiping/M.1784531037.A.7C2",
-      "author": "milkBK",
-      "board": "Gossiping",
-      "publishTime": "2026/07/20 07:03",
       "imageUrl": ""
     }
   ]
