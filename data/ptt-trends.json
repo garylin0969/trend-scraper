@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-21T03:06:25.411Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2026-07-21T04:16:39.978Z",
+  "total_found": 18,
+  "returned_count": 18,
   "articles": [
     {
-      "recommendScore": "259",
-      "recommendCount": "1089",
+      "recommendScore": "260",
+      "recommendCount": "1092",
       "title": "[新聞] 綠議員談致癌油：感覺大家沒強烈不滿",
       "link": "/bbs/Gossiping/M.1784532292.A.158",
       "author": "SEVENxELEVEN",
       "board": "Gossiping",
       "publishTime": "2026/07/20 07:24",
-      "imageUrl": "https://cache.pttweb.cc/imgur/yJZAbOt/s/887a61104f4a2167ba45707696c24420"
+      "imageUrl": ""
     },
     {
-      "recommendScore": "342",
-      "recommendCount": "1030",
+      "recommendScore": "349",
+      "recommendCount": "1076",
       "title": "[問卦]楷教練：運動對減肥幾乎沒太多幫助",
       "link": "/bbs/Gossiping/M.1784546219.A.334",
       "author": "a91153456",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "241",
-      "recommendCount": "444",
+      "recommendScore": "246",
+      "recommendCount": "451",
       "title": "[新聞] 快訊／「杯麵老師」退出民進黨！嘆理性討論愈來愈少：民主應接受批評",
       "link": "/bbs/Gossiping/M.1784559083.A.4AC",
       "author": "qazxc1156892",
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "200",
+      "recommendCount": "564",
+      "title": "[新聞] 裝修公司「福麥」炸藥採購案無法履約 軍備局：將沒入8000餘萬元",
+      "link": "/bbs/Gossiping/M.1784544468.A.E51",
+      "author": "usnavyseal",
+      "board": "Gossiping",
+      "publishTime": "2026/07/20 10:47",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "331",
       "recommendCount": "352",
       "title": "Re: [推薦] 足球 綠茶看世界盃（1007）",
@@ -51,16 +61,6 @@
       "author": "b032819",
       "board": "SportLottery",
       "publishTime": "2026/07/20 07:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "198",
-      "recommendCount": "558",
-      "title": "[新聞] 裝修公司「福麥」炸藥採購案無法履約 軍備局：將沒入8000餘萬元",
-      "link": "/bbs/Gossiping/M.1784544468.A.E51",
-      "author": "usnavyseal",
-      "board": "Gossiping",
-      "publishTime": "2026/07/20 10:47",
       "imageUrl": ""
     },
     {
@@ -74,8 +74,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "88",
-      "recommendCount": "457",
+      "recommendScore": "203",
+      "recommendCount": "414",
+      "title": "[新聞] 小六男童撲倒女老師「頂下體」猥褻！家長沒一句道歉　她請公傷假遭刁難",
+      "link": "/bbs/Gossiping/M.1784602368.A.E3B",
+      "author": "monniea",
+      "board": "Gossiping",
+      "publishTime": "2026/07/21 02:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "95",
+      "recommendCount": "473",
       "title": "[新聞] 陳建仁稱苯駢芘「多喝水可排掉」引議論 粉專嘆1句",
       "link": "/bbs/Gossiping/M.1784551821.A.381",
       "author": "CREA",
@@ -84,28 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "107",
-      "recommendCount": "355",
-      "title": "[新聞] 苯駢芘是天然物質？戴瑋姍喊「植物本來就有」 社群炸鍋",
-      "link": "/bbs/Gossiping/M.1784545585.A.81F",
-      "author": "TBOC",
-      "board": "Gossiping",
-      "publishTime": "2026/07/20 11:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "240",
-      "recommendCount": "284",
-      "title": "[閒聊] ShowMaker：只要不放棄總有一天會得償所",
-      "link": "/bbs/LoL/M.1784552972.A.DCE",
-      "author": "y12544",
-      "board": "LoL",
-      "publishTime": "2026/07/20 13:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "164",
-      "recommendCount": "378",
+      "recommendScore": "173",
+      "recommendCount": "391",
       "title": "[問卦] 聽說漢光演習也要演習斷網,斷網的用意是?",
       "link": "/bbs/Gossiping/M.1784581844.A.4C5",
       "author": "L1ON",
@@ -114,8 +104,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "130",
-      "recommendCount": "334",
+      "recommendScore": "243",
+      "recommendCount": "287",
+      "title": "[閒聊] ShowMaker：只要不放棄總有一天會得償所",
+      "link": "/bbs/LoL/M.1784552972.A.DCE",
+      "author": "y12544",
+      "board": "LoL",
+      "publishTime": "2026/07/20 13:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "107",
+      "recommendCount": "356",
+      "title": "[新聞] 苯駢芘是天然物質？戴瑋姍喊「植物本來就有」 社群炸鍋",
+      "link": "/bbs/Gossiping/M.1784545585.A.81F",
+      "author": "TBOC",
+      "board": "Gossiping",
+      "publishTime": "2026/07/20 11:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "134",
+      "recommendCount": "339",
       "title": "[新聞] 護航毒油創金句？戴瑋姍稱「苯駢芘是天然物質」",
       "link": "/bbs/Gossiping/M.1784542964.A.8F7",
       "author": "AHsin",
@@ -124,13 +134,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "162",
-      "recommendCount": "342",
-      "title": "[問卦] 蔡阿嘎為什麼會遭三立、自由追殺？",
-      "link": "/bbs/Gossiping/M.1784516853.A.676",
-      "author": "SkankHunt42",
+      "recommendScore": "158",
+      "recommendCount": "369",
+      "title": "[問卦]脆熱議:陶晶瑩按讚725凱道食安遊行被抵制！",
+      "link": "/bbs/Gossiping/M.1784554490.A.66D",
+      "author": "abianisbitch",
       "board": "Gossiping",
-      "publishTime": "2026/07/20 03:07",
+      "publishTime": "2026/07/20 13:34",
       "imageUrl": ""
     },
     {
@@ -141,26 +151,6 @@
       "author": "ihl123456",
       "board": "Gossiping",
       "publishTime": "2026/07/20 07:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "210",
-      "recommendCount": "503",
-      "title": "Re: [請益] 被動元件真的有缺嗎？",
-      "link": "/bbs/Stock/M.1784520773.A.80F",
-      "author": "miniric",
-      "board": "Stock",
-      "publishTime": "2026/07/20 04:12",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "154",
-      "recommendCount": "362",
-      "title": "[問卦]脆熱議:陶晶瑩按讚725凱道食安遊行被抵制！",
-      "link": "/bbs/Gossiping/M.1784554490.A.66D",
-      "author": "abianisbitch",
-      "board": "Gossiping",
-      "publishTime": "2026/07/20 13:34",
       "imageUrl": ""
     },
     {
@@ -184,23 +174,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "196",
-      "recommendCount": "422",
-      "title": "[閒聊] 日本自組電腦派被長輩叫回老家結果",
-      "link": "/bbs/C_Chat/M.1784534180.A.657",
-      "author": "Mikufans",
-      "board": "C_Chat",
-      "publishTime": "2026/07/20 07:56",
-      "imageUrl": "https://cache.pttweb.cc/imgur/yJZAbOt/s/887a61104f4a2167ba45707696c24420"
-    },
-    {
-      "recommendScore": "114",
-      "recommendCount": "331",
-      "title": "[新聞] 高雄列綠營艱困戰區！賴瑞隆自信喊全力以赴　柯志恩潑冷水",
-      "link": "/bbs/Gossiping/M.1784529046.A.E50",
-      "author": "runa2",
+      "recommendScore": "167",
+      "recommendCount": "261",
+      "title": "[新聞] 乾脆連作假都免了！尼加拉瓜總統宣布不再辦選舉 將築「高牆」封殺反對派",
+      "link": "/bbs/Gossiping/M.1784598174.A.3F2",
+      "author": "pm2001",
       "board": "Gossiping",
-      "publishTime": "2026/07/20 06:30",
+      "publishTime": "2026/07/21 01:42",
       "imageUrl": ""
     }
   ]
