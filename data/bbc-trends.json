@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-22T04:50:03.906Z",
+  "updated": "2026-07-22T06:08:49.231Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-07-22T04:49:56.000Z",
+    "lastBuildDate": "2026-07-22T06:08:41.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
     {
-      "title": "「如果有一座橋」：翔安機場啟用在即，金門人怎麼看北京的「情感工程」？",
+      "title": "「如果有一座橋」：金門人怎麼看翔安機場的「情感工程」？",
       "description": "廈門翔安機場設計中包含多項與金門連結的構想，這些基礎建設折射出金門居民心中的矛盾：有人視為多年來的發展願景，也有人認為是政治角力與國安風險的象徵。",
       "link": "https://www.bbc.com/zhongwen/articles/cx25g733w65o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-22T03:18:05.000Z",
@@ -50,6 +50,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/31f7/live/b3b895d0-84e2-11f1-b976-0b9c15b0ccfc.jpg"
     },
     {
+      "title": "特朗普訴BBC誹謗案 法官頒令總統交出紀錄",
+      "description": "法官批准一項動議，強制公開由「特朗普可撤銷信託」持有的文件。",
+      "link": "https://www.bbc.com/zhongwen/articles/cy74k4zk00ko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-22T04:51:10.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cy74k4zk00ko/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/17ef/live/2da18990-855d-11f1-926f-c90d1bcfbc84.jpg"
+    },
+    {
       "title": "金門對面多了一座巨型機場，台灣憂軍事與飛航安全",
       "description": "BBC中文記者實地走訪金門，隔海的廈門翔安機場設施清晰可辨，近距離感受遠超一般想像。這座由中國大陸填海興建的機場，由於位置敏感，正引發台灣對軍事威脅和區域安全的高度關切。",
       "link": "https://www.bbc.com/zhongwen/articles/c3v0x30ny39o/trad?at_medium=RSS&at_campaign=rss",
@@ -80,14 +88,6 @@
       "pubDate": "2026-07-21T08:25:04.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cvgwp1xgq02o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/851d/live/dc840590-80bd-11f1-bee8-53ce494e1abc.jpg"
-    },
-    {
-      "title": "智能戒指都知道我懷孕了，我還不知道",
-      "description": "不少女性發覺，智能戒指等健康監測裝置早在她們驗孕前，就已分析到她們有懷孕的跡象，甚至可以預示流產。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgvxejv3v6o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-21T08:53:26.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgvxejv3v6o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/443f/live/4d8e16d0-8425-11f1-8aab-7b42b0ff0499.jpg"
     },
     {
       "title": "阿里旗下速賣通因售非法商品 被歐盟罰款 5.5億歐元 ",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ec0/live/f4b5eba0-7f6a-11f1-8812-63adb81ec20b.jpg"
     },
     {
+      "title": "智能戒指都知道我懷孕了，我還不知道",
+      "description": "不少女性發覺，智能戒指等健康監測裝置早在她們驗孕前，就已分析到她們有懷孕的跡象，甚至可以預示流產。",
+      "link": "https://www.bbc.com/zhongwen/articles/cvgvxejv3v6o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-21T08:53:26.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvgvxejv3v6o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/443f/live/4d8e16d0-8425-11f1-8aab-7b42b0ff0499.jpg"
+    },
+    {
       "title": "這對雙生姐妹身高不足1.2米，卻為預防癌症提供關鍵線索",
       "description": "有研究顯示100名患者在22年內均沒發現糖尿病病例，只有一宗非致命性癌症；相比下，其1600名同村親屬的糖尿病和癌症比例高得多。",
       "link": "https://www.bbc.com/zhongwen/articles/cvgle9q1vdxo/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2026-07-18T23:54:47.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c36d1glwl66o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2cd8/live/f3f60290-81d1-11f1-926f-c90d1bcfbc84.jpg"
-    },
-    {
-      "title": "為何有些女性看見常人無法目睹的顏色？",
-      "description": "有些女性擁有「第四種視錐細胞」，可分辨更細膩的色調，甚至看到全新色彩。",
-      "link": "https://www.bbc.com/zhongwen/articles/c9q2q2r3n0zo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-16T00:04:00.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c9q2q2r3n0zo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b18c/live/191a0c70-73ad-11f1-9da1-db101e3ae6ed.jpg"
     }
   ]
 }
