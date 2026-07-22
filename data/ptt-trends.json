@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T20:09:22.965Z",
+  "updated": "2026-07-22T20:37:01.223Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "441",
+      "recommendCount": "823",
+      "title": "[爆卦] 王定宇遭爆連續重拳爆料（超誇張）",
+      "link": "/bbs/Gossiping/M.1784721472.A.7C9",
+      "author": "kiki6691tw",
+      "board": "Gossiping",
+      "publishTime": "2026/07/22 11:57",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "264",
       "recommendCount": "545",
       "title": "[新聞] 謝金河：先蹲才能再跳！3000點大跌後的台股新旅程",
@@ -31,16 +41,6 @@
       "author": "DrowningPool",
       "board": "Stock",
       "publishTime": "2026/07/22 06:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "441",
-      "recommendCount": "820",
-      "title": "[爆卦] 王定宇遭爆連續重拳爆料（超誇張）",
-      "link": "/bbs/Gossiping/M.1784721472.A.7C9",
-      "author": "kiki6691tw",
-      "board": "Gossiping",
-      "publishTime": "2026/07/22 11:57",
       "imageUrl": ""
     },
     {
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "254",
-      "recommendCount": "680",
+      "recommendScore": "253",
+      "recommendCount": "682",
       "title": "[新聞] 快新聞／致癌毒油禍首找到了！中聯自行",
       "link": "/bbs/Gossiping/M.1784709767.A.00D",
       "author": "turbomons",
@@ -84,8 +84,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/U1l3omR/s/d6ea5332b82976ba4b694f042a425c57"
     },
     {
-      "recommendScore": "273",
-      "recommendCount": "506",
+      "recommendScore": "276",
+      "recommendCount": "515",
       "title": "[新聞] 一家三口車禍亡「媽24歲就撞死」　父痛失妻兒：才過1年就換他",
       "link": "/bbs/Gossiping/M.1784725285.A.DAB",
       "author": "SEVENxELEVEN",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "454",
+      "recommendScore": "164",
+      "recommendCount": "455",
       "title": "[閒聊] 子午計畫 x 台中捷運 炎上",
       "link": "/bbs/C_Chat/M.1784710700.A.806",
       "author": "ANDORLESS",
@@ -134,8 +134,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/VF5p9eL/s/039b0fea8d5f467dbf9772575c7c06e2"
     },
     {
-      "recommendScore": "324",
-      "recommendCount": "358",
+      "recommendScore": "325",
+      "recommendCount": "359",
       "title": "[發錢] Matisse Thybulle是3D球員嗎",
       "link": "/bbs/NBA/M.1784730072.A.E0D",
       "author": "c27932589",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "164",
-      "recommendCount": "439",
+      "recommendScore": "165",
+      "recommendCount": "440",
       "title": "[新聞] 查到了！高雄後勁溪大量魚屍暴斃 環保局查到五家違規排放廢水業者",
       "link": "/bbs/Gossiping/M.1784709244.A.FFA",
       "author": "robert2692",
