@@ -1,10 +1,15 @@
 {
-  "updated": "2026-07-23T23:24:32.154Z",
+  "updated": "2026-07-23T23:52:43.088Z",
   "trends": [
     {
       "googleTrend": "intc",
-      "searchVolume": "500+",
+      "searchVolume": "1,000+",
       "started": "3 小時前"
+    },
+    {
+      "googleTrend": "簡舒培",
+      "searchVolume": "500+",
+      "started": "2 小時前"
     },
     {
       "googleTrend": "臺北 市長",
@@ -12,17 +17,7 @@
       "started": "1 小時前"
     },
     {
-      "googleTrend": "s&p 500",
-      "searchVolume": "1,000+",
-      "started": "2 小時前"
-    },
-    {
-      "googleTrend": "英特爾財報",
-      "searchVolume": "500+",
-      "started": "3 小時前"
-    },
-    {
-      "googleTrend": "簡舒培",
+      "googleTrend": "intel 股價",
       "searchVolume": "500+",
       "started": "2 小時前"
     },
@@ -33,43 +28,73 @@
     },
     {
       "googleTrend": "那斯達克綜合指數",
-      "searchVolume": "500+",
+      "searchVolume": "1,000+",
       "started": "2 小時前"
+    },
+    {
+      "googleTrend": "s&p 500",
+      "searchVolume": "1,000+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "伺服器",
+      "searchVolume": "200+",
+      "started": "1 小時前"
     },
     {
       "googleTrend": "巴士海峽",
       "searchVolume": "200+",
-      "started": "10 分鐘前"
+      "started": "40 分鐘前"
+    },
+    {
+      "googleTrend": "晶圓",
+      "searchVolume": "200+",
+      "started": "20 分鐘前"
     },
     {
       "googleTrend": "陳傑憲",
       "searchVolume": "200+",
-      "started": "1 小時前"
+      "started": "2 小時前"
     },
     {
-      "googleTrend": "伺服器",
-      "searchVolume": "100+",
-      "started": "50 分鐘前"
-    },
-    {
-      "googleTrend": "原油價格",
-      "searchVolume": "100+",
-      "started": "1 小時前"
-    },
-    {
-      "googleTrend": "qqq",
-      "searchVolume": "100+",
-      "started": "1 小時前"
-    },
-    {
-      "googleTrend": "那斯達克",
+      "googleTrend": "戴資穎",
       "searchVolume": "100+",
       "started": "2 小時前"
     },
     {
-      "googleTrend": "nvda",
+      "googleTrend": "原油價格",
+      "searchVolume": "200+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "美超微股價",
       "searchVolume": "100+",
       "started": "1 小時前"
+    },
+    {
+      "googleTrend": "amd stock",
+      "searchVolume": "100+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "康寧股價",
+      "searchVolume": "100+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "qqq",
+      "searchVolume": "100+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "space x 股價",
+      "searchVolume": "100+",
+      "started": "20 分鐘前"
+    },
+    {
+      "googleTrend": "nvda",
+      "searchVolume": "100+",
+      "started": "2 小時前"
     }
   ]
 }
