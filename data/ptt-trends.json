@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-24T00:10:13.859Z",
+  "updated": "2026-07-24T00:50:53.801Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "310",
-      "recommendCount": "764",
+      "recommendScore": "311",
+      "recommendCount": "766",
       "title": "[新聞] 出獄僅7個月又犯案！苗栗男街頭隨機殺童",
       "link": "/bbs/Gossiping/M.1784789240.A.C45",
       "author": "yukihira",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "381",
-      "recommendCount": "494",
+      "recommendScore": "385",
+      "recommendCount": "498",
       "title": "[今日] 陳仕朋 Maddux完投完封勝",
       "link": "/bbs/Baseball/M.1784813037.A.945",
       "author": "carlchang092",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "433",
-      "recommendCount": "447",
+      "recommendScore": "442",
+      "recommendCount": "456",
       "title": "Re: [推薦] 棒球[小律師]歐力士猛牛 @ 福岡軟銀鷹",
       "link": "/bbs/SportLottery/M.1784817426.A.5B3",
       "author": "lotterywin",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "535",
-      "recommendCount": "1372",
+      "recommendScore": "538",
+      "recommendCount": "1376",
       "title": "[情報] Sidery：勇士將向Curry提出2年136M頂薪",
       "link": "/bbs/NBA/M.1784809885.A.FC1",
       "author": "KC90",
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-107",
+      "recommendCount": "511",
+      "title": "[新聞] 林佳龍：台灣不是「被退出」聯合國　而是蔣介石政權被趕出",
+      "link": "/bbs/Gossiping/M.1784798550.A.77B",
+      "author": "ggbi4zzz",
+      "board": "Gossiping",
+      "publishTime": "2026/07/23 09:22",
+      "imageUrl": "https://cache.pttweb.cc/imgur/eZmsdMX/s/b95bff6c4f90807b2effdec16d98a37e"
+    },
+    {
       "recommendScore": "172",
       "recommendCount": "358",
       "title": "[新聞] 震民調／高雄最新戰況！賴瑞隆領先8百分點　柯志恩僅1行政區領先",
@@ -112,16 +122,6 @@
       "board": "Gossiping",
       "publishTime": "2026/07/23 07:13",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "-102",
-      "recommendCount": "501",
-      "title": "[新聞] 林佳龍：台灣不是「被退出」聯合國　而是蔣介石政權被趕出",
-      "link": "/bbs/Gossiping/M.1784798550.A.77B",
-      "author": "ggbi4zzz",
-      "board": "Gossiping",
-      "publishTime": "2026/07/23 09:22",
-      "imageUrl": "https://cache.pttweb.cc/imgur/eZmsdMX/s/b95bff6c4f90807b2effdec16d98a37e"
     },
     {
       "recommendScore": "-129",
@@ -145,7 +145,7 @@
     },
     {
       "recommendScore": "164",
-      "recommendCount": "322",
+      "recommendCount": "323",
       "title": "[請益] 500萬元資金配置",
       "link": "/bbs/Stock/M.1784768285.A.38F",
       "author": "ladrone",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "188",
-      "recommendCount": "314",
+      "recommendScore": "189",
+      "recommendCount": "318",
       "title": "[新聞] 路跑被酸賣晃奶！G級正妹YTR「參加舉重比賽」　全場狂讚",
       "link": "/bbs/Gossiping/M.1784793975.A.525",
       "author": "vdml",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "145",
+      "recommendCount": "347",
+      "title": "[問卦] 軍武板鄉民：台灣需要一場徹底清洗",
+      "link": "/bbs/Gossiping/M.1784821595.A.7BE",
+      "author": "a40494",
+      "board": "Gossiping",
+      "publishTime": "2026/07/23 15:46",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "112",
       "recommendCount": "338",
       "title": "[外絮] LBJ繼續拖 在等球隊換來KI或AD 但機會渺茫",
@@ -191,16 +201,6 @@
       "author": "usnavyseal",
       "board": "NBA",
       "publishTime": "2026/07/23 03:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "142",
-      "recommendCount": "298",
-      "title": "[問卦] 外送修法後，跑這個收入還及格嗎？",
-      "link": "/bbs/Gossiping/M.1784793372.A.B42",
-      "author": "zxc8424",
-      "board": "Gossiping",
-      "publishTime": "2026/07/23 07:56",
       "imageUrl": ""
     }
   ]
