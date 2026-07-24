@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-24T19:05:30.917Z",
-  "total_found": 19,
-  "returned_count": 19,
+  "updated": "2026-07-24T19:43:06.193Z",
+  "total_found": 20,
+  "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "863",
-      "recommendCount": "1344",
+      "recommendScore": "869",
+      "recommendCount": "1352",
       "title": "[情報] LBJ去76",
       "link": "/bbs/NBA/M.1784907085.A.987",
       "author": "c27932589",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "259",
-      "recommendCount": "756",
+      "recommendScore": "258",
+      "recommendCount": "760",
       "title": "[新聞] 台灣未來帳戶三讀通過！0-18歲保底114萬預算粗估2162億",
       "link": "/bbs/Gossiping/M.1784878842.A.CEB",
       "author": "chpen",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "374",
-      "recommendCount": "908",
+      "recommendScore": "380",
+      "recommendCount": "919",
       "title": "[問卦] 以前的大學生6000塊怎麼活下來的？？？",
       "link": "/bbs/Gossiping/M.1784892985.A.684",
       "author": "gn505250",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "267",
-      "recommendCount": "899",
+      "recommendCount": "900",
       "title": "[新聞] 批北宜高鐵是「盲腸高鐵」 張景森宣布退出民進黨",
       "link": "/bbs/Gossiping/M.1784867172.A.BEC",
       "author": "SAgirl",
@@ -75,7 +75,7 @@
     },
     {
       "recommendScore": "223",
-      "recommendCount": "485",
+      "recommendCount": "486",
       "title": "[新聞] 獨／政院食安修法會議爆歧見！陳其邁追問：20％到底誰決定的？",
       "link": "/bbs/Gossiping/M.1784870917.A.9A7",
       "author": "ChanHoPark",
@@ -185,12 +185,22 @@
     },
     {
       "recommendScore": "149",
-      "recommendCount": "314",
+      "recommendCount": "317",
       "title": "[新聞] 交通部長被打臉！女騎士淡江大橋慘摔",
       "link": "/bbs/Gossiping/M.1784894791.A.779",
       "author": "TBOC",
       "board": "Gossiping",
       "publishTime": "2026/07/24 12:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-145",
+      "recommendCount": "344",
+      "title": "[新聞] 籲725不必上凱道 台灣北社：重點在修食安法、究責違法廠商",
+      "link": "/bbs/Gossiping/M.1784884315.A.1E1",
+      "author": "axsd",
+      "board": "Gossiping",
+      "publishTime": "2026/07/24 09:11",
       "imageUrl": ""
     }
   ]
