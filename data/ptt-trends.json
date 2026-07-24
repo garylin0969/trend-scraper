@@ -1,8 +1,38 @@
 {
-  "updated": "2026-07-24T21:42:02.356Z",
+  "updated": "2026-07-24T22:14:20.369Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "891",
+      "recommendCount": "1386",
+      "title": "[情報] LBJ去76",
+      "link": "/bbs/NBA/M.1784907085.A.987",
+      "author": "c27932589",
+      "board": "NBA",
+      "publishTime": "2026/07/24 15:31",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "393",
+      "recommendCount": "953",
+      "title": "[問卦] 以前的大學生6000塊怎麼活下來的？？？",
+      "link": "/bbs/Gossiping/M.1784892985.A.684",
+      "author": "gn505250",
+      "board": "Gossiping",
+      "publishTime": "2026/07/24 11:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "260",
+      "recommendCount": "767",
+      "title": "[新聞] 台灣未來帳戶三讀通過！0-18歲保底114萬預算粗估2162億",
+      "link": "/bbs/Gossiping/M.1784878842.A.CEB",
+      "author": "chpen",
+      "board": "Gossiping",
+      "publishTime": "2026/07/24 07:40",
+      "imageUrl": ""
+    },
     {
       "recommendScore": "233",
       "recommendCount": "618",
@@ -144,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "151",
-      "recommendCount": "325",
+      "recommendScore": "152",
+      "recommendCount": "326",
       "title": "[新聞] 交通部長被打臉！女騎士淡江大橋慘摔",
       "link": "/bbs/Gossiping/M.1784894791.A.779",
       "author": "TBOC",
@@ -171,36 +201,6 @@
       "author": "axsd",
       "board": "Gossiping",
       "publishTime": "2026/07/24 09:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "146",
-      "recommendCount": "319",
-      "title": "[新聞] 淡江大橋騎士自摔「救護花30分鐘」　車道太窄再引爭議",
-      "link": "/bbs/Gossiping/M.1784870858.A.948",
-      "author": "aza0290",
-      "board": "Gossiping",
-      "publishTime": "2026/07/24 05:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "158",
-      "recommendCount": "421",
-      "title": "[問卦] 絕食跟靜坐真的有作用嗎",
-      "link": "/bbs/Gossiping/M.1784845092.A.8A4",
-      "author": "clever0705",
-      "board": "Gossiping",
-      "publishTime": "2026/07/23 22:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "40",
-      "recommendCount": "295",
-      "title": "[新聞] 快訊／沈伯洋訪美巧遇NBA球星！宣布10月來台「與台灣人站在一起」",
-      "link": "/bbs/Gossiping/M.1784863085.A.CD7",
-      "author": "william8403",
-      "board": "Gossiping",
-      "publishTime": "2026/07/24 03:18",
       "imageUrl": ""
     }
   ]
