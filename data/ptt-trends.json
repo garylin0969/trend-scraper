@@ -1,21 +1,31 @@
 {
-  "updated": "2026-07-24T15:31:30.112Z",
+  "updated": "2026-07-24T16:46:20.611Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "250",
-      "recommendCount": "724",
+      "recommendScore": "780",
+      "recommendCount": "1237",
+      "title": "[情報] LBJ去76",
+      "link": "/bbs/NBA/M.1784907085.A.987",
+      "author": "c27932589",
+      "board": "NBA",
+      "publishTime": "2026/07/24 15:31",
+      "imageUrl": "https://cache.pttweb.cc/imgur/7LcK8sV/s/e6beadd67b4fff2abcbeab80fc0e8a38"
+    },
+    {
+      "recommendScore": "254",
+      "recommendCount": "738",
       "title": "[新聞] 台灣未來帳戶三讀通過！0-18歲保底114萬預算粗估2162億",
       "link": "/bbs/Gossiping/M.1784878842.A.CEB",
       "author": "chpen",
       "board": "Gossiping",
       "publishTime": "2026/07/24 07:40",
-      "imageUrl": "https://cache.pttweb.cc/imgur/7LcK8sV/s/e6beadd67b4fff2abcbeab80fc0e8a38"
+      "imageUrl": ""
     },
     {
-      "recommendScore": "232",
-      "recommendCount": "605",
+      "recommendScore": "231",
+      "recommendCount": "607",
       "title": "[新聞] 快新聞／南霸天有夠狂！陳其邁驚人滿意度曝光　分析一查全網看傻...",
       "link": "/bbs/Gossiping/M.1784864620.A.493",
       "author": "asppsa",
@@ -24,18 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "266",
-      "recommendCount": "882",
-      "title": "[新聞] 批北宜高鐵是「盲腸高鐵」 張景森宣布退出民進黨",
-      "link": "/bbs/Gossiping/M.1784867172.A.BEC",
-      "author": "SAgirl",
-      "board": "Gossiping",
-      "publishTime": "2026/07/24 04:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "316",
-      "recommendCount": "780",
+      "recommendScore": "344",
+      "recommendCount": "845",
       "title": "[問卦] 以前的大學生6000塊怎麼活下來的？？？",
       "link": "/bbs/Gossiping/M.1784892985.A.684",
       "author": "gn505250",
@@ -44,8 +44,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "548",
+      "recommendScore": "268",
+      "recommendCount": "884",
+      "title": "[新聞] 批北宜高鐵是「盲腸高鐵」 張景森宣布退出民進黨",
+      "link": "/bbs/Gossiping/M.1784867172.A.BEC",
+      "author": "SAgirl",
+      "board": "Gossiping",
+      "publishTime": "2026/07/24 04:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "166",
+      "recommendCount": "549",
       "title": "[新聞] 兩性專家欣西亞「美籍老公外遇」 掉入痛苦深淵：我不夠優秀才婚變",
       "link": "/bbs/Gossiping/M.1784864980.A.699",
       "author": "whitenoise",
@@ -54,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "368",
-      "recommendCount": "449",
+      "recommendScore": "369",
+      "recommendCount": "450",
       "title": "[炸裂] 林安可",
       "link": "/bbs/Baseball/M.1784887246.A.D92",
       "author": "suwagutao",
@@ -64,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "219",
-      "recommendCount": "481",
+      "recommendScore": "223",
+      "recommendCount": "485",
       "title": "[新聞] 獨／政院食安修法會議爆歧見！陳其邁追問：20％到底誰決定的？",
       "link": "/bbs/Gossiping/M.1784870917.A.9A7",
       "author": "ChanHoPark",
@@ -74,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "183",
-      "recommendCount": "414",
+      "recommendScore": "186",
+      "recommendCount": "418",
       "title": "[新聞] 震撼彈！張景森宣布退出民進黨　「無法認同卓榮泰極大歷史錯誤」",
       "link": "/bbs/Gossiping/M.1784869788.A.1EE",
       "author": "kenny1300175",
@@ -84,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "197",
-      "recommendCount": "487",
-      "title": "[問卦] 軍武板鄉民：台灣需要一場徹底清洗",
-      "link": "/bbs/Gossiping/M.1784821595.A.7BE",
-      "author": "a40494",
-      "board": "Gossiping",
-      "publishTime": "2026/07/23 15:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "330",
-      "recommendCount": "721",
+      "recommendScore": "331",
+      "recommendCount": "722",
       "title": "[情報] 醜1-EPSN: LBJ可能得要簽下底薪合約",
       "link": "/bbs/NBA/M.1784845338.A.AA7",
       "author": "a10141013",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "285",
-      "recommendCount": "582",
+      "recommendScore": "287",
+      "recommendCount": "585",
       "title": "[花邊] 美媒：其實湖人是最適合LBJ的球隊之一",
       "link": "/bbs/NBA/M.1784875633.A.657",
       "author": "shaaan",
@@ -135,7 +135,7 @@
     },
     {
       "recommendScore": "252",
-      "recommendCount": "326",
+      "recommendCount": "328",
       "title": "[炸裂] 威克",
       "link": "/bbs/Baseball/M.1784892308.A.EE4",
       "author": "Blackie9211",
@@ -145,7 +145,7 @@
     },
     {
       "recommendScore": "166",
-      "recommendCount": "401",
+      "recommendCount": "409",
       "title": "[新聞] 柯文哲遭祭禁奢令高鐵也不能搭？　陳智菡嗆：這招先對付吳乃仁",
       "link": "/bbs/Gossiping/M.1784854188.A.5F2",
       "author": "a96385245",
@@ -174,8 +174,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/7LcK8sV/s/e6beadd67b4fff2abcbeab80fc0e8a38"
     },
     {
-      "recommendScore": "196",
-      "recommendCount": "449",
+      "recommendScore": "197",
+      "recommendCount": "450",
       "title": "[新聞] 波音售200飛機瀕破局 北京要美方長期零件保證",
       "link": "/bbs/Gossiping/M.1784853562.A.B7B",
       "author": "leocean9816",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "157",
-      "recommendCount": "291",
+      "recommendScore": "159",
+      "recommendCount": "293",
       "title": "[情報] 115年07月24日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1784876645.A.A5D",
       "author": "coconing",
@@ -195,7 +195,7 @@
     },
     {
       "recommendScore": "146",
-      "recommendCount": "318",
+      "recommendCount": "319",
       "title": "[新聞] 淡江大橋騎士自摔「救護花30分鐘」　車道太窄再引爭議",
       "link": "/bbs/Gossiping/M.1784870858.A.948",
       "author": "aza0290",
