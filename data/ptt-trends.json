@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-25T03:47:37.921Z",
-  "total_found": 20,
-  "returned_count": 20,
+  "updated": "2026-07-25T04:52:36.746Z",
+  "total_found": 19,
+  "returned_count": 19,
   "articles": [
     {
-      "recommendScore": "935",
-      "recommendCount": "1469",
+      "recommendScore": "939",
+      "recommendCount": "1474",
       "title": "[情報] LBJ去76",
       "link": "/bbs/NBA/M.1784907085.A.987",
       "author": "c27932589",
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "440",
-      "recommendCount": "1033",
+      "recommendScore": "444",
+      "recommendCount": "1046",
       "title": "[問卦] 以前的大學生6000塊怎麼活下來的？？？",
       "link": "/bbs/Gossiping/M.1784892985.A.684",
       "author": "gn505250",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "276",
-      "recommendCount": "811",
+      "recommendScore": "277",
+      "recommendCount": "815",
       "title": "[新聞] 台灣未來帳戶三讀通過！0-18歲保底114萬預算粗估2162億",
       "link": "/bbs/Gossiping/M.1784878842.A.CEB",
       "author": "chpen",
@@ -34,23 +34,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "271",
-      "recommendCount": "909",
-      "title": "[新聞] 批北宜高鐵是「盲腸高鐵」 張景森宣布退出民進黨",
-      "link": "/bbs/Gossiping/M.1784867172.A.BEC",
-      "author": "SAgirl",
+      "recommendScore": "249",
+      "recommendCount": "700",
+      "title": "[問卦] 突然公布每週失聯人數",
+      "link": "/bbs/Gossiping/M.1784948105.A.BF0",
+      "author": "thouloveme",
       "board": "Gossiping",
-      "publishTime": "2026/07/24 04:26",
+      "publishTime": "2026/07/25 02:55",
       "imageUrl": ""
     },
     {
-      "recommendScore": "168",
-      "recommendCount": "552",
-      "title": "[新聞] 兩性專家欣西亞「美籍老公外遇」 掉入痛苦深淵：我不夠優秀才婚變",
-      "link": "/bbs/Gossiping/M.1784864980.A.699",
-      "author": "whitenoise",
-      "board": "Gossiping",
-      "publishTime": "2026/07/24 03:49",
+      "recommendScore": "174",
+      "recommendCount": "596",
+      "title": "[討論] LBJ再拿這冠真的能成為GOAT嗎？",
+      "link": "/bbs/NBA/M.1784914474.A.59E",
+      "author": "efbnm753",
+      "board": "NBA",
+      "publishTime": "2026/07/24 17:34",
       "imageUrl": ""
     },
     {
@@ -64,18 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "575",
-      "title": "[討論] LBJ再拿這冠真的能成為GOAT嗎？",
-      "link": "/bbs/NBA/M.1784914474.A.59E",
-      "author": "efbnm753",
-      "board": "NBA",
-      "publishTime": "2026/07/24 17:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "225",
-      "recommendCount": "489",
+      "recommendScore": "226",
+      "recommendCount": "491",
       "title": "[新聞] 獨／政院食安修法會議爆歧見！陳其邁追問：20％到底誰決定的？",
       "link": "/bbs/Gossiping/M.1784870917.A.9A7",
       "author": "ChanHoPark",
@@ -84,13 +74,53 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "196",
-      "recommendCount": "436",
+      "recommendScore": "198",
+      "recommendCount": "438",
       "title": "[新聞] 震撼彈！張景森宣布退出民進黨　「無法認同卓榮泰極大歷史錯誤」",
       "link": "/bbs/Gossiping/M.1784869788.A.1EE",
       "author": "kenny1300175",
       "board": "Gossiping",
       "publishTime": "2026/07/24 05:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "244",
+      "recommendCount": "388",
+      "title": "Fw: [爆卦] 女神徐閉把中國製風扇當MIT賣割台派韭菜",
+      "link": "/bbs/AGR-GRADUATE/M.1784953029.A.DCB",
+      "author": "KOXD",
+      "board": "AGR-GRADUATE",
+      "publishTime": "2026/07/25 04:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "305",
+      "recommendCount": "372",
+      "title": "[分享] 今日 李灝宇",
+      "link": "/bbs/Baseball/M.1784940465.A.BE8",
+      "author": "jerry00116",
+      "board": "Baseball",
+      "publishTime": "2026/07/25 00:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "274",
+      "recommendCount": "351",
+      "title": "Fw: [爆卦] 女神徐閉把中國製風扇當MIT賣割台派韭菜",
+      "link": "/bbs/AGR-GRADUATE/M.1784953034.A.F8F",
+      "author": "KOXD",
+      "board": "AGR-GRADUATE",
+      "publishTime": "2026/07/25 04:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "128",
+      "recommendCount": "414",
+      "title": "[問卦] 高雄同事：今天誰去凱道我都會記得",
+      "link": "/bbs/Gossiping/M.1784935468.A.0F2",
+      "author": "Miyanishi25",
+      "board": "Gossiping",
+      "publishTime": "2026/07/24 23:24",
       "imageUrl": ""
     },
     {
@@ -104,18 +134,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "282",
-      "recommendCount": "346",
-      "title": "[分享] 今日 李灝宇",
-      "link": "/bbs/Baseball/M.1784940465.A.BE8",
-      "author": "jerry00116",
-      "board": "Baseball",
-      "publishTime": "2026/07/25 00:47",
+      "recommendScore": "284",
+      "recommendCount": "917",
+      "title": "[花邊] 老巴：我對LBJ的批評是你這傢伙總是組團",
+      "link": "/bbs/NBA/M.1784932070.A.8C4",
+      "author": "shaaan",
+      "board": "NBA",
+      "publishTime": "2026/07/24 22:27",
       "imageUrl": ""
     },
     {
-      "recommendScore": "174",
-      "recommendCount": "373",
+      "recommendScore": "176",
+      "recommendCount": "376",
       "title": "[新聞] 交通部長被打臉！女騎士淡江大橋慘摔",
       "link": "/bbs/Gossiping/M.1784894791.A.779",
       "author": "TBOC",
@@ -134,26 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "271",
-      "recommendCount": "886",
-      "title": "[花邊] 老巴：我對LBJ的批評是你這傢伙總是組團",
-      "link": "/bbs/NBA/M.1784932070.A.8C4",
-      "author": "shaaan",
-      "board": "NBA",
-      "publishTime": "2026/07/24 22:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "112",
-      "recommendCount": "379",
-      "title": "[問卦] 高雄同事：今天誰去凱道我都會記得",
-      "link": "/bbs/Gossiping/M.1784935468.A.0F2",
-      "author": "Miyanishi25",
-      "board": "Gossiping",
-      "publishTime": "2026/07/24 23:24",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-148",
       "recommendCount": "356",
       "title": "[新聞] 籲725不必上凱道 台灣北社：重點在修食安法、究責違法廠商",
@@ -165,7 +175,7 @@
     },
     {
       "recommendScore": "159",
-      "recommendCount": "293",
+      "recommendCount": "294",
       "title": "[情報] 115年07月24日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1784876645.A.A5D",
       "author": "coconing",
@@ -181,26 +191,6 @@
       "author": "aza0290",
       "board": "Gossiping",
       "publishTime": "2026/07/24 05:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "38",
-      "recommendCount": "318",
-      "title": "[新聞] 蔣萬安選情慘了！綠營這大咖全力輔選沈伯洋　賴清德交辦「1秘密任務」",
-      "link": "/bbs/Gossiping/M.1784913099.A.81E",
-      "author": "ggbi4zzz",
-      "board": "Gossiping",
-      "publishTime": "2026/07/24 17:11",
-      "imageUrl": "https://cache.pttweb.cc/imgur/kLqi9Rm/s/6b01b0cf2fd59a44c5c54cd9a189a599"
-    },
-    {
-      "recommendScore": "151",
-      "recommendCount": "279",
-      "title": "[問卦] 文組天花板是什麼職業？",
-      "link": "/bbs/Gossiping/M.1784886350.A.826",
-      "author": "danny2451",
-      "board": "Gossiping",
-      "publishTime": "2026/07/24 09:45",
       "imageUrl": ""
     }
   ]
