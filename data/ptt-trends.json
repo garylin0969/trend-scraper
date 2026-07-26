@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T06:44:39.812Z",
+  "updated": "2026-07-26T07:43:59.530Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "298",
-      "recommendCount": "695",
+      "recommendCount": "697",
       "title": "[問卦] 凱道空拍圖",
       "link": "/bbs/Gossiping/M.1784970456.A.E94",
       "author": "BlueBird5566",
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "66",
-      "recommendCount": "677",
+      "recommendCount": "679",
       "title": "[新聞] 國民黨真的慘了！深偽合成賴清德聲音",
       "link": "/bbs/Gossiping/M.1784990831.A.B11",
       "author": "EOMing",
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "292",
-      "recommendCount": "472",
+      "recommendCount": "476",
       "title": "[請益] 請問大家損益還好嗎？",
       "link": "/bbs/Stock/M.1784994139.A.555",
       "author": "dch44dyw",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "169",
-      "recommendCount": "583",
+      "recommendCount": "589",
       "title": "[新聞] 《油不得你》疑AI合成賴總統聲音！製作人遭關切　刑事局回應了",
       "link": "/bbs/Gossiping/M.1785020096.A.894",
       "author": "Workforme",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "268",
-      "recommendCount": "403",
+      "recommendScore": "269",
+      "recommendCount": "405",
       "title": "[情報] 巴克利認為湖人會贏得總冠軍",
       "link": "/bbs/NBA/M.1784968262.A.124",
       "author": "SoulHsu",
@@ -64,13 +64,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "58",
-      "recommendCount": "545",
-      "title": "[情報] LBJ帶43年無冠76人登頂將鞏固GOAT地位",
-      "link": "/bbs/NBA/M.1784963985.A.8CD",
-      "author": "yniori",
-      "board": "NBA",
-      "publishTime": "2026/07/25 07:19",
+      "recommendScore": "264",
+      "recommendCount": "367",
+      "title": "[新聞] 強又大！　新颱風「白海豚」可能生成",
+      "link": "/bbs/Gossiping/M.1785037321.A.EB4",
+      "author": "senma",
+      "board": "Gossiping",
+      "publishTime": "2026/07/26 03:42",
       "imageUrl": ""
     },
     {
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "258",
-      "recommendCount": "495",
+      "recommendScore": "263",
+      "recommendCount": "504",
       "title": "[花邊] JT：我不想跟自認什麼都知道的人待一起",
       "link": "/bbs/NBA/M.1785025809.A.57B",
       "author": "mike37",
@@ -94,28 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "240",
-      "recommendCount": "338",
-      "title": "[新聞] 強又大！　新颱風「白海豚」可能生成",
-      "link": "/bbs/Gossiping/M.1785037321.A.EB4",
-      "author": "senma",
-      "board": "Gossiping",
-      "publishTime": "2026/07/26 03:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "277",
-      "recommendCount": "324",
-      "title": "[分享] 今日 李灝宇",
-      "link": "/bbs/Baseball/M.1785007955.A.72A",
-      "author": "jerry00116",
-      "board": "Baseball",
-      "publishTime": "2026/07/25 19:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "204",
-      "recommendCount": "431",
+      "recommendScore": "212",
+      "recommendCount": "441",
       "title": "[問卦] 警察找人做筆錄 鬧大之後就說不用了 ???",
       "link": "/bbs/Gossiping/M.1785030707.A.AB6",
       "author": "ptt987654321",
@@ -124,8 +104,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "176",
-      "recommendCount": "435",
+      "recommendScore": "278",
+      "recommendCount": "325",
+      "title": "[分享] 今日 李灝宇",
+      "link": "/bbs/Baseball/M.1785007955.A.72A",
+      "author": "jerry00116",
+      "board": "Baseball",
+      "publishTime": "2026/07/25 19:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "175",
+      "recommendCount": "329",
+      "title": "[新聞] 記憶體7巨頭斷魂！謝金河曝「最大風暴已過」　預言後市走向",
+      "link": "/bbs/Stock/M.1785032328.A.70D",
+      "author": "genius721105",
+      "board": "Stock",
+      "publishTime": "2026/07/26 02:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "183",
+      "recommendCount": "449",
       "title": "[新聞] 女學生交友軟體認識牙醫「3天閃婚、10天鬧翻」：每月30萬元生活費沒給",
       "link": "/bbs/Gossiping/M.1785030194.A.C11",
       "author": "ha3810996",
@@ -134,13 +134,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "161",
-      "recommendCount": "294",
-      "title": "[新聞] 記憶體7巨頭斷魂！謝金河曝「最大風暴已過」　預言後市走向",
-      "link": "/bbs/Stock/M.1785032328.A.70D",
-      "author": "genius721105",
+      "recommendScore": "174",
+      "recommendCount": "341",
+      "title": "[新聞] 川普深夜突喊卡對伊朗大規模作戰！紐時曝光原因",
+      "link": "/bbs/Stock/M.1785029099.A.F86",
+      "author": "omanorboyo",
       "board": "Stock",
-      "publishTime": "2026/07/26 02:18",
+      "publishTime": "2026/07/26 01:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-143",
+      "recommendCount": "426",
+      "title": "[花邊] 富保羅談LBJ去費城：Kobe會感到「驕傲」",
+      "link": "/bbs/NBA/M.1785043198.A.E7A",
+      "author": "shaaan",
+      "board": "NBA",
+      "publishTime": "2026/07/26 05:19",
       "imageUrl": ""
     },
     {
@@ -154,23 +164,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "164",
-      "recommendCount": "324",
-      "title": "[新聞] 川普深夜突喊卡對伊朗大規模作戰！紐時曝光原因",
-      "link": "/bbs/Stock/M.1785029099.A.F86",
-      "author": "omanorboyo",
-      "board": "Stock",
-      "publishTime": "2026/07/26 01:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "186",
-      "recommendCount": "338",
+      "recommendScore": "187",
+      "recommendCount": "342",
       "title": "[新聞] Fed下周有可能意外升息 經濟學家點出理由",
       "link": "/bbs/Stock/M.1784981171.A.5E5",
       "author": "FDAer",
       "board": "Stock",
       "publishTime": "2026/07/25 12:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "103",
+      "recommendCount": "409",
+      "title": "[新聞] 又來！725才上凱道反毒油　國民黨團8／1再集結凱道「拒絕毒酒駕」",
+      "link": "/bbs/Gossiping/M.1785031621.A.A00",
+      "author": "HANASUCIA",
+      "board": "Gossiping",
+      "publishTime": "2026/07/26 02:07",
       "imageUrl": ""
     },
     {
@@ -184,23 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "97",
-      "recommendCount": "400",
-      "title": "[新聞] 又來！725才上凱道反毒油　國民黨團8／1再集結凱道「拒絕毒酒駕」",
-      "link": "/bbs/Gossiping/M.1785031621.A.A00",
-      "author": "HANASUCIA",
-      "board": "Gossiping",
-      "publishTime": "2026/07/26 02:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "158",
-      "recommendCount": "368",
-      "title": "[新聞] 「萊爾校長製作人」遭查水表 韋淳祐嗆不用麻煩：只要一句話就下架",
-      "link": "/bbs/Gossiping/M.1784999876.A.463",
-      "author": "minche",
-      "board": "Gossiping",
-      "publishTime": "2026/07/25 17:17",
+      "recommendScore": "246",
+      "recommendCount": "688",
+      "title": "[分享] 大都會隊騙了一位持有29年季票球迷",
+      "link": "/bbs/Baseball/M.1785041297.A.6C4",
+      "author": "Mikufans",
+      "board": "Baseball",
+      "publishTime": "2026/07/26 04:48",
       "imageUrl": ""
     }
   ]
