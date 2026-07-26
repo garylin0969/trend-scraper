@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-26T18:40:38.344Z",
+  "updated": "2026-07-26T19:08:29.529Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "481",
-      "recommendCount": "638",
+      "recommendScore": "482",
+      "recommendCount": "639",
       "title": "[爆卦] 地震",
       "link": "/bbs/Gossiping/M.1785069406.A.687",
       "author": "algebraic",
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "229",
+      "recommendCount": "567",
+      "title": "[新聞] 爆「鳥居護欄」的高雄九如橋冒雨搶裝防護網 如期31日通車",
+      "link": "/bbs/Gossiping/M.1785064021.A.82F",
+      "author": "KONAMI",
+      "board": "Gossiping",
+      "publishTime": "2026/07/26 11:07",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "322",
       "recommendCount": "396",
       "title": "[爆卦] 周天成 最老公開賽冠軍",
@@ -61,16 +71,6 @@
       "author": "Chang0212",
       "board": "Gossiping",
       "publishTime": "2026/07/26 10:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "226",
-      "recommendCount": "564",
-      "title": "[新聞] 爆「鳥居護欄」的高雄九如橋冒雨搶裝防護網 如期31日通車",
-      "link": "/bbs/Gossiping/M.1785064021.A.82F",
-      "author": "KONAMI",
-      "board": "Gossiping",
-      "publishTime": "2026/07/26 11:07",
       "imageUrl": ""
     },
     {
@@ -94,13 +94,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "203",
-      "recommendCount": "610",
+      "recommendScore": "204",
+      "recommendCount": "611",
       "title": "[討論] LBJ為何不想去雷霆或馬刺？",
       "link": "/bbs/NBA/M.1785052518.A.CF8",
       "author": "b9002052",
       "board": "NBA",
       "publishTime": "2026/07/26 07:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "239",
+      "recommendCount": "403",
+      "title": "[新聞] 快訊／藝人王凱驚傳暴斃！　陳屍北市大安區住家",
+      "link": "/bbs/Gossiping/M.1785053697.A.A76",
+      "author": "jordanlove",
+      "board": "Gossiping",
+      "publishTime": "2026/07/26 08:14",
       "imageUrl": ""
     },
     {
@@ -111,16 +121,6 @@
       "author": "ptt987654321",
       "board": "Gossiping",
       "publishTime": "2026/07/26 01:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "239",
-      "recommendCount": "402",
-      "title": "[新聞] 快訊／藝人王凱驚傳暴斃！　陳屍北市大安區住家",
-      "link": "/bbs/Gossiping/M.1785053697.A.A76",
-      "author": "jordanlove",
-      "board": "Gossiping",
-      "publishTime": "2026/07/26 08:14",
       "imageUrl": ""
     },
     {
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "150",
-      "recommendCount": "310",
+      "recommendScore": "152",
+      "recommendCount": "313",
       "title": "[新聞] 台南陷「生不如死」！生育率六都墊底 龍崎區5個月掛零",
       "link": "/bbs/Gossiping/M.1785065450.A.D60",
       "author": "Skyblueway",
