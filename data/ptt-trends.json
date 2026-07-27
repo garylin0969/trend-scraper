@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-27T23:07:30.076Z",
+  "updated": "2026-07-27T23:33:40.368Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "500",
-      "recommendCount": "1307",
+      "recommendScore": "503",
+      "recommendCount": "1313",
       "title": "[新聞] 反毒油影片檢測完！刑事局確認深偽「賴清德」聲音 追查是否偽造文書",
       "link": "/bbs/Gossiping/M.1785147149.A.5E1",
       "author": "viery",
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/rPNe9Gz/s/b73eecd14642d66c7c1a54fd111b256c"
     },
     {
-      "recommendScore": "261",
-      "recommendCount": "978",
+      "recommendScore": "260",
+      "recommendCount": "985",
       "title": "[爆卦] 王定宇：我小孩的生命處於危險中",
       "link": "/bbs/Gossiping/M.1785134538.A.375",
       "author": "kuso2005",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "482",
-      "recommendCount": "616",
+      "recommendScore": "483",
+      "recommendCount": "617",
       "title": "[爆卦] 作家の東野圭吾さん死去、68歳",
       "link": "/bbs/Gossiping/M.1785136580.A.BEA",
       "author": "william8403",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "294",
-      "recommendCount": "580",
+      "recommendScore": "293",
+      "recommendCount": "581",
       "title": "Re: [新聞] 合成總統聲音 擬報北檢偵辦",
       "link": "/bbs/Gossiping/M.1785119618.A.3F4",
       "author": "turbomons",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "303",
-      "recommendCount": "461",
+      "recommendScore": "306",
+      "recommendCount": "464",
       "title": "[問卦] 濱崎真緒：送給對簡體字很有反應的人",
       "link": "/bbs/Gossiping/M.1785149791.A.265",
       "author": "tanner51",
@@ -105,7 +105,7 @@
     },
     {
       "recommendScore": "230",
-      "recommendCount": "432",
+      "recommendCount": "434",
       "title": "[新聞] 20歲男遊日月潭「執意下水」！母攔不住",
       "link": "/bbs/Gossiping/M.1785133652.A.404",
       "author": "g01794827",
@@ -124,13 +124,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "155",
-      "recommendCount": "329",
+      "recommendScore": "154",
+      "recommendCount": "330",
       "title": "[新聞] 細數台積電20年買點！ 謝金河：機會來了",
       "link": "/bbs/Stock/M.1785140718.A.3AF",
       "author": "dnol",
       "board": "Stock",
       "publishTime": "2026/07/27 08:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "233",
+      "recommendCount": "350",
+      "title": "[花邊] LBJ將居住紐約 約45分鐘直升機航程",
+      "link": "/bbs/NBA/M.1785162811.A.EDE",
+      "author": "GreedyBian",
+      "board": "NBA",
+      "publishTime": "2026/07/27 14:33",
       "imageUrl": ""
     },
     {
@@ -154,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "224",
-      "recommendCount": "336",
-      "title": "[花邊] LBJ將居住紐約 約45分鐘直升機航程",
-      "link": "/bbs/NBA/M.1785162811.A.EDE",
-      "author": "GreedyBian",
-      "board": "NBA",
-      "publishTime": "2026/07/27 14:33",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "109",
       "recommendCount": "488",
       "title": "[問卦] 說真的，我一直看到中國在進步",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "207",
+      "recommendCount": "632",
+      "title": "[新聞]中國傳開始製造國產DUV曝光機　挑戰荷蘭巨頭ASML",
+      "link": "/bbs/Stock/M.1785165405.A.93C",
+      "author": "Roger5566",
+      "board": "Stock",
+      "publishTime": "2026/07/27 15:16",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "110",
       "recommendCount": "449",
       "title": "[討論] 李灝宇熱潮沒有當年王建民瘋狂 轉播問題?",
@@ -191,16 +201,6 @@
       "author": "bluehttp",
       "board": "Baseball",
       "publishTime": "2026/07/27 06:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "185",
-      "recommendCount": "287",
-      "title": "[新聞] 台股基本面完美無瑕！陳龍開示「量縮破季線是最後買點」：AI工業革命長線看8萬點",
-      "link": "/bbs/Stock/M.1785122383.A.680",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2026/07/27 03:19",
       "imageUrl": ""
     }
   ]
