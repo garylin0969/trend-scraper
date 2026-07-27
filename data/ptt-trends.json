@@ -1,8 +1,18 @@
 {
-  "updated": "2026-07-27T09:19:43.439Z",
+  "updated": "2026-07-27T10:37:40.483Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "225",
+      "recommendCount": "766",
+      "title": "[爆卦] 王定宇：我小孩的生命處於危險中",
+      "link": "/bbs/Gossiping/M.1785134538.A.375",
+      "author": "kuso2005",
+      "board": "Gossiping",
+      "publishTime": "2026/07/27 06:42",
+      "imageUrl": "https://cache.pttweb.cc/imgur/F7wT2lT/s/a4dcbdd90f0f9d4f32c06e29fe580d8f"
+    },
     {
       "recommendScore": "482",
       "recommendCount": "639",
@@ -11,21 +21,11 @@
       "author": "algebraic",
       "board": "Gossiping",
       "publishTime": "2026/07/26 12:36",
-      "imageUrl": "https://cache.pttweb.cc/imgur/F7wT2lT/s/a4dcbdd90f0f9d4f32c06e29fe580d8f"
-    },
-    {
-      "recommendScore": "187",
-      "recommendCount": "610",
-      "title": "[爆卦] 王定宇：我小孩的生命處於危險中",
-      "link": "/bbs/Gossiping/M.1785134538.A.375",
-      "author": "kuso2005",
-      "board": "Gossiping",
-      "publishTime": "2026/07/27 06:42",
       "imageUrl": ""
     },
     {
-      "recommendScore": "275",
-      "recommendCount": "1002",
+      "recommendScore": "279",
+      "recommendCount": "1012",
       "title": "[新聞]快訊/蔣萬安再出手提倒閣藍白若有共識將",
       "link": "/bbs/Gossiping/M.1785123758.A.1FB",
       "author": "KH8019",
@@ -34,8 +34,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "381",
+      "recommendCount": "492",
+      "title": "[爆卦] 作家の東野圭吾さん死去、68歳",
+      "link": "/bbs/Gossiping/M.1785136580.A.BEA",
+      "author": "william8403",
+      "board": "Gossiping",
+      "publishTime": "2026/07/27 07:16",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "217",
-      "recommendCount": "599",
+      "recommendCount": "602",
       "title": "[問卦] 現在陪玩這麼沒職業操守?",
       "link": "/bbs/Gossiping/M.1785098205.A.3D5",
       "author": "Antia691",
@@ -44,18 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "177",
-      "recommendCount": "516",
-      "title": "[新聞] 合成總統聲音 擬報北檢偵辦",
-      "link": "/bbs/Gossiping/M.1785107060.A.A48",
-      "author": "semih",
-      "board": "Gossiping",
-      "publishTime": "2026/07/26 23:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "278",
-      "recommendCount": "545",
+      "recommendScore": "281",
+      "recommendCount": "554",
       "title": "Re: [新聞] 合成總統聲音 擬報北檢偵辦",
       "link": "/bbs/Gossiping/M.1785119618.A.3F4",
       "author": "turbomons",
@@ -64,13 +64,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "222",
-      "recommendCount": "605",
+      "recommendScore": "226",
+      "recommendCount": "610",
       "title": "[新聞] 「萊爾校長」小編出事了！合成總統聲音",
       "link": "/bbs/Gossiping/M.1785112225.A.75E",
       "author": "a5687920",
       "board": "Gossiping",
       "publishTime": "2026/07/27 00:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "178",
+      "recommendCount": "517",
+      "title": "[新聞] 合成總統聲音 擬報北檢偵辦",
+      "link": "/bbs/Gossiping/M.1785107060.A.A48",
+      "author": "semih",
+      "board": "Gossiping",
+      "publishTime": "2026/07/26 23:04",
       "imageUrl": ""
     },
     {
@@ -84,28 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "337",
-      "recommendCount": "414",
-      "title": "[爆卦] 周天成 最老公開賽冠軍",
-      "link": "/bbs/Gossiping/M.1785060698.A.32C",
-      "author": "Chang0212",
-      "board": "Gossiping",
-      "publishTime": "2026/07/26 10:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "289",
-      "recommendCount": "378",
-      "title": "[爆卦] 作家の東野圭吾さん死去、68歳",
-      "link": "/bbs/Gossiping/M.1785136580.A.BEA",
-      "author": "william8403",
-      "board": "Gossiping",
-      "publishTime": "2026/07/27 07:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-206",
-      "recommendCount": "362",
+      "recommendScore": "-208",
+      "recommendCount": "366",
       "title": "[新聞] 郭智輝承諾棒協 ：四年、三件事",
       "link": "/bbs/Baseball/M.1785111841.A.EF8",
       "author": "lamigo",
@@ -114,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "160",
-      "recommendCount": "417",
+      "recommendScore": "158",
+      "recommendCount": "424",
       "title": "[問卦] 脆恐懼：目前態勢已拉到最高警戒！",
       "link": "/bbs/Gossiping/M.1785114718.A.31F",
       "author": "pigpigcom123",
@@ -124,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "227",
-      "recommendCount": "336",
+      "recommendScore": "247",
+      "recommendCount": "365",
       "title": "[情報] 115年07月27日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1785136129.A.FDF",
       "author": "coconing",
@@ -134,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "123",
-      "recommendCount": "353",
+      "recommendScore": "130",
+      "recommendCount": "371",
       "title": "[新聞] 說蘇巧慧長得像蘇貞昌「綠批容貌羞辱」",
       "link": "/bbs/Gossiping/M.1785126264.A.E3A",
       "author": "leocean9816",
@@ -144,13 +134,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "188",
-      "recommendCount": "419",
+      "recommendScore": "191",
+      "recommendCount": "425",
       "title": "[問卦] 40歲還在機車環島很奇怪嗎？",
       "link": "/bbs/Gossiping/M.1785117033.A.2A2",
       "author": "Historia",
       "board": "Gossiping",
       "publishTime": "2026/07/27 01:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "198",
+      "recommendCount": "377",
+      "title": "[新聞] 20歲男遊日月潭「執意下水」！母攔不住",
+      "link": "/bbs/Gossiping/M.1785133652.A.404",
+      "author": "g01794827",
+      "board": "Gossiping",
+      "publishTime": "2026/07/27 06:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "116",
+      "recommendCount": "338",
+      "title": "[新聞] 柯文哲改戴「電子手環」監控！法院理由曝光：3800筆告警98%系統異常",
+      "link": "/bbs/Gossiping/M.1785126544.A.F0D",
+      "author": "junzi",
+      "board": "Gossiping",
+      "publishTime": "2026/07/27 04:29",
       "imageUrl": ""
     },
     {
@@ -174,23 +184,13 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/F7wT2lT/s/a4dcbdd90f0f9d4f32c06e29fe580d8f"
     },
     {
-      "recommendScore": "183",
-      "recommendCount": "647",
+      "recommendScore": "185",
+      "recommendCount": "651",
       "title": "Re: [新聞] 藍白硬推台灣未來帳戶 政院擬祭不副署反",
       "link": "/bbs/Gossiping/M.1785105227.A.673",
       "author": "BSScene",
       "board": "Gossiping",
       "publishTime": "2026/07/26 22:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "107",
-      "recommendCount": "316",
-      "title": "[新聞] 柯文哲改戴「電子手環」監控！法院理由曝光：3800筆告警98%系統異常",
-      "link": "/bbs/Gossiping/M.1785126544.A.F0D",
-      "author": "junzi",
-      "board": "Gossiping",
-      "publishTime": "2026/07/27 04:29",
       "imageUrl": ""
     },
     {
