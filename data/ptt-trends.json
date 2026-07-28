@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T22:13:43.347Z",
+  "updated": "2026-07-28T22:40:56.411Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "271",
-      "recommendCount": "625",
+      "recommendScore": "273",
+      "recommendCount": "627",
       "title": "[新聞] 陳時中稱「照太陽喝水也有風險」　蔣萬安批：荒謬言論想趕快翻篇",
       "link": "/bbs/Gossiping/M.1785230952.A.0D6",
       "author": "Sapporo5566",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "312",
-      "recommendCount": "656",
+      "recommendScore": "311",
+      "recommendCount": "657",
       "title": "[花邊] R.Paul：LBJ會讓76人的球星認清自己斤兩",
       "link": "/bbs/NBA/M.1785217628.A.8A8",
       "author": "mike37",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "227",
-      "recommendCount": "378",
+      "recommendScore": "226",
+      "recommendCount": "379",
       "title": "[新聞] 台股血洗逾2千點 金管會喊安！",
       "link": "/bbs/Stock/M.1785239353.A.A6F",
       "author": "keel90135",
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "169",
+      "recommendCount": "357",
+      "title": "[請益] 台積電該停損嗎？",
+      "link": "/bbs/Stock/M.1785225435.A.8A1",
+      "author": "kingofsdtw",
+      "board": "Stock",
+      "publishTime": "2026/07/28 07:57",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "173",
       "recommendCount": "393",
       "title": "[問卦] HAHABABY的「快速開發」是什麼意思？",
@@ -154,13 +164,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "168",
-      "recommendCount": "356",
-      "title": "[請益] 台積電該停損嗎？",
-      "link": "/bbs/Stock/M.1785225435.A.8A1",
-      "author": "kingofsdtw",
+      "recommendScore": "122",
+      "recommendCount": "640",
+      "title": "[新聞] 幕後／「倒閣越想越正確」　20萬人凱道怒吼發酵！藍營估利大於弊",
+      "link": "/bbs/Gossiping/M.1785243621.A.585",
+      "author": "lazyjohn",
+      "board": "Gossiping",
+      "publishTime": "2026/07/28 13:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "194",
+      "recommendCount": "367",
+      "title": "[請益] 畢業文還沒出來，是不是還有得跌？",
+      "link": "/bbs/Stock/M.1785246969.A.C1D",
+      "author": "LbXM1027",
       "board": "Stock",
-      "publishTime": "2026/07/28 07:57",
+      "publishTime": "2026/07/28 13:56",
       "imageUrl": ""
     },
     {
@@ -171,26 +191,6 @@
       "author": "jacky1997",
       "board": "LoL",
       "publishTime": "2026/07/28 02:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "192",
-      "recommendCount": "363",
-      "title": "[請益] 畢業文還沒出來，是不是還有得跌？",
-      "link": "/bbs/Stock/M.1785246969.A.C1D",
-      "author": "LbXM1027",
-      "board": "Stock",
-      "publishTime": "2026/07/28 13:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "123",
-      "recommendCount": "627",
-      "title": "[新聞] 幕後／「倒閣越想越正確」　20萬人凱道怒吼發酵！藍營估利大於弊",
-      "link": "/bbs/Gossiping/M.1785243621.A.585",
-      "author": "lazyjohn",
-      "board": "Gossiping",
-      "publishTime": "2026/07/28 13:00",
       "imageUrl": ""
     },
     {
