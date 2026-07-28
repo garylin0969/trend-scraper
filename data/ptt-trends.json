@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T19:11:08.444Z",
+  "updated": "2026-07-28T19:48:51.515Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "271",
-      "recommendCount": "618",
+      "recommendCount": "619",
       "title": "[新聞] 陳時中稱「照太陽喝水也有風險」　蔣萬安批：荒謬言論想趕快翻篇",
       "link": "/bbs/Gossiping/M.1785230952.A.0D6",
       "author": "Sapporo5566",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "271",
-      "recommendCount": "596",
+      "recommendScore": "270",
+      "recommendCount": "597",
       "title": "[新聞] 恐怖國二生狂傳「我要內射你」！逼14歲女拍裸照　還嗆殺她家人",
       "link": "/bbs/Gossiping/M.1785219850.A.F37",
       "author": "RRADA",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "221",
-      "recommendCount": "505",
+      "recommendScore": "220",
+      "recommendCount": "506",
       "title": "[請益] 正2賠了15%還要續抱嗎",
       "link": "/bbs/Stock/M.1785227975.A.71A",
       "author": "a851019",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "150",
-      "recommendCount": "548",
+      "recommendCount": "549",
       "title": "[新聞] 陳時中稱毒油「全下架沒東西吃」　王鴻薇批講幹話：想回鍋衛福部？",
       "link": "/bbs/Gossiping/M.1785209623.A.9F8",
       "author": "qweerrt123",
@@ -105,7 +105,7 @@
     },
     {
       "recommendScore": "226",
-      "recommendCount": "376",
+      "recommendCount": "377",
       "title": "[新聞] 台股血洗逾2千點 金管會喊安！",
       "link": "/bbs/Stock/M.1785239353.A.A6F",
       "author": "keel90135",
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "238",
+      "recommendCount": "501",
+      "title": "[情報] LBJ將擔任76人的主要控球",
+      "link": "/bbs/NBA/M.1785196693.A.B10",
+      "author": "star880613",
+      "board": "NBA",
+      "publishTime": "2026/07/27 23:58",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "236",
       "recommendCount": "387",
       "title": "[情報] 115年07月28日信用交易統計(資減231.28億)",
@@ -131,16 +141,6 @@
       "author": "steward135",
       "board": "Stock",
       "publishTime": "2026/07/28 12:55",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "237",
-      "recommendCount": "500",
-      "title": "[情報] LBJ將擔任76人的主要控球",
-      "link": "/bbs/NBA/M.1785196693.A.B10",
-      "author": "star880613",
-      "board": "NBA",
-      "publishTime": "2026/07/27 23:58",
       "imageUrl": ""
     },
     {
@@ -164,13 +164,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "255",
-      "recommendCount": "308",
+      "recommendScore": "256",
+      "recommendCount": "309",
       "title": "[閒聊] Faker & Gumayusi 雜誌封面",
       "link": "/bbs/LoL/M.1785205968.A.DD3",
       "author": "jacky1997",
       "board": "LoL",
       "publishTime": "2026/07/28 02:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "192",
+      "recommendCount": "358",
+      "title": "[請益] 畢業文還沒出來，是不是還有得跌？",
+      "link": "/bbs/Stock/M.1785246969.A.C1D",
+      "author": "LbXM1027",
+      "board": "Stock",
+      "publishTime": "2026/07/28 13:56",
       "imageUrl": ""
     },
     {
@@ -184,18 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "189",
-      "recommendCount": "355",
-      "title": "[請益] 畢業文還沒出來，是不是還有得跌？",
-      "link": "/bbs/Stock/M.1785246969.A.C1D",
-      "author": "LbXM1027",
-      "board": "Stock",
-      "publishTime": "2026/07/28 13:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "118",
-      "recommendCount": "583",
+      "recommendScore": "122",
+      "recommendCount": "599",
       "title": "[新聞] 幕後／「倒閣越想越正確」　20萬人凱道怒吼發酵！藍營估利大於弊",
       "link": "/bbs/Gossiping/M.1785243621.A.585",
       "author": "lazyjohn",
