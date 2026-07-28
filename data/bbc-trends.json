@@ -1,14 +1,22 @@
 {
-  "updated": "2026-07-28T03:20:48.272Z",
+  "updated": "2026-07-28T04:47:01.863Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-07-28T03:20:38.000Z",
+    "lastBuildDate": "2026-07-28T04:46:53.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "唐山大地震50週年：從毛澤東批閱到44年後的餘震，五個鮮為人知的歷史細節",
+      "description": "毛澤東生前批閱的最後一份文件，就是《關於唐山豐南一帶抗震救災的通報》。一個多月後，9月9日，毛澤東去世。",
+      "link": "https://www.bbc.com/zhongwen/articles/cg5lvqre8lzo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-28T04:09:58.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cg5lvqre8lzo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ae97/live/8db65250-8a32-11f1-8e2f-179714f7490c.jpg"
+    },
     {
       "title": "「這只是開始」：印度Z世代抗議者迫使教育部長下台，然後呢？",
       "description": "教育部長辭職對莫迪政府而言是罕見的挫折，也讓許多年輕抗議者燃起希望，相信他們的聲音將被聽見。",
@@ -40,14 +48,6 @@
       "pubDate": "2026-07-27T12:02:43.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn0n57kynz2o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a6a2/live/33677c00-89b2-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "title": "「這不只是帶來不便」：我們低估了月經過多對健康造成的影響",
-      "description": "月經量過多是個嚴重的健康問題。直到最近，我們才開始了解它的成因，以及可以如何治療。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1l1m1v953no/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-28T00:16:03.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1l1m1v953no/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/12af/live/749399a0-8982-11f1-a7ab-8b30adf0800a.png"
     },
     {
       "title": "一文讀懂柏林驕傲遊行攻擊事件的最新情況",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1978/live/8ea0e120-80b5-11f1-b498-eb2d9a33cb96.jpg"
     },
     {
+      "title": "「這不只是帶來不便」：我們低估了月經過多對健康造成的影響",
+      "description": "月經量過多是個嚴重的健康問題。直到最近，我們才開始了解它的成因，以及可以如何治療。",
+      "link": "https://www.bbc.com/zhongwen/articles/c1l1m1v953no/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-28T00:16:03.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1l1m1v953no/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/12af/live/749399a0-8982-11f1-a7ab-8b30adf0800a.png"
+    },
+    {
       "title": "怎樣辨識出「AI臉」？",
       "description": "人類通常相當不擅長辨識AI生成的臉孔，但新研究顯示，一小時的訓練可能有助於改變這個情況。",
       "link": "https://www.bbc.com/zhongwen/articles/cedjl1vvjdyo/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2026-07-24T00:03:06.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cvgl8r4j1j4o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/83f9/live/4b60d010-85a5-11f1-b976-0b9c15b0ccfc.png"
-    },
-    {
-      "title": "智能戒指都知道我懷孕了，我還不知道",
-      "description": "不少女性發覺，智能戒指等健康監測裝置早在她們驗孕前，就已分析到她們有懷孕的跡象，甚至可以預示流產。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgvxejv3v6o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-21T08:53:26.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgvxejv3v6o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/443f/live/4d8e16d0-8425-11f1-8aab-7b42b0ff0499.jpg"
     }
   ]
 }
