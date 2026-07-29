@@ -1,17 +1,17 @@
 {
-  "updated": "2026-07-29T22:13:01.294Z",
+  "updated": "2026-07-29T22:39:41.724Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "517",
-      "recommendCount": "903",
+      "recommendCount": "904",
       "title": "[情報] 115年07月29日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1785309642.A.8BD",
       "author": "coconing",
       "board": "Stock",
       "publishTime": "2026/07/29 07:20",
-      "imageUrl": "https://cache.pttweb.cc/imgur/O3HUPKN/s/0cabb24539aea52fd47ddfd4c1e3deff"
+      "imageUrl": "https://cache.pttweb.cc/imgur/rCuCzFT/s/f570a002e9065dd4ef87822073a451cc"
     },
     {
       "recommendScore": "351",
@@ -34,16 +34,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "268",
-      "recommendCount": "680",
-      "title": "[新聞] 北市公務員「海巡」酸蘇巧慧像爸爸！公園處：已啟動調查",
-      "link": "/bbs/Gossiping/M.1785277182.A.174",
-      "author": "ggbi4zzz",
-      "board": "Gossiping",
-      "publishTime": "2026/07/28 22:19",
-      "imageUrl": "https://cache.pttweb.cc/imgur/O3HUPKN/s/0cabb24539aea52fd47ddfd4c1e3deff"
-    },
-    {
       "recommendScore": "402",
       "recommendCount": "646",
       "title": "[情報] 115年07月29日信用交易統計(資減385.22億)",
@@ -54,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "330",
-      "recommendCount": "603",
+      "recommendScore": "331",
+      "recommendCount": "604",
       "title": "[新聞] 融資維持率突然消失 CMoney緊急下架歷史數據",
       "link": "/bbs/Stock/M.1785333549.A.32B",
       "author": "largan6075",
@@ -74,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "430",
-      "recommendCount": "445",
+      "recommendScore": "432",
+      "recommendCount": "447",
       "title": "[贈票]【橡樹街末日】 特映搶先看",
       "link": "/bbs/movie/M.1785320920.A.F3D",
       "author": "haha1121",
@@ -104,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "268",
+      "recommendCount": "521",
+      "title": "[新聞] 吳興國登國際演出文化部卻拒見、25人只給3經濟艙機票　妻子怒拋3問",
+      "link": "/bbs/Gossiping/M.1785334000.A.95B",
+      "author": "wulaki",
+      "board": "Gossiping",
+      "publishTime": "2026/07/29 14:06",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "216",
       "recommendCount": "422",
       "title": "[新聞] 政府基金和大型行庫出手 股市大盤守住40000點以40039.18點作收",
@@ -114,13 +114,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "252",
-      "recommendCount": "499",
-      "title": "[新聞] 吳興國登國際演出文化部卻拒見、25人只給3經濟艙機票　妻子怒拋3問",
-      "link": "/bbs/Gossiping/M.1785334000.A.95B",
-      "author": "wulaki",
-      "board": "Gossiping",
-      "publishTime": "2026/07/29 14:06",
+      "recommendScore": "235",
+      "recommendCount": "466",
+      "title": "[新聞] 韓股連兩天熔斷失守5300點！政府稱「暫不救市」引爆散戶怒火",
+      "link": "/bbs/Stock/M.1785323573.A.160",
+      "author": "keel90135",
+      "board": "Stock",
+      "publishTime": "2026/07/29 11:12",
       "imageUrl": ""
     },
     {
@@ -131,16 +131,6 @@
       "author": "Goog1e",
       "board": "Stock",
       "publishTime": "2026/07/29 04:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "234",
-      "recommendCount": "465",
-      "title": "[新聞] 韓股連兩天熔斷失守5300點！政府稱「暫不救市」引爆散戶怒火",
-      "link": "/bbs/Stock/M.1785323573.A.160",
-      "author": "keel90135",
-      "board": "Stock",
-      "publishTime": "2026/07/29 11:12",
       "imageUrl": ""
     },
     {
@@ -164,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-90",
-      "recommendCount": "434",
+      "recommendScore": "-89",
+      "recommendCount": "435",
       "title": "[新聞] 內政部長劉世芳：偽造別人聲音 全體台灣人都不能接受",
       "link": "/bbs/Gossiping/M.1785288840.A.DB2",
       "author": "pm2001",
@@ -202,6 +192,16 @@
       "board": "Stock",
       "publishTime": "2026/07/29 03:26",
       "imageUrl": "https://cache.pttweb.cc/imgur/rCuCzFT/s/f570a002e9065dd4ef87822073a451cc"
+    },
+    {
+      "recommendScore": "235",
+      "recommendCount": "441",
+      "title": "[新聞] 謝龍介曝「民進黨高級幹部親屬」赴陸失蹤！　邱垂正證實：昨天獲報",
+      "link": "/bbs/Gossiping/M.1785310416.A.FAE",
+      "author": "jeff0025",
+      "board": "Gossiping",
+      "publishTime": "2026/07/29 07:33",
+      "imageUrl": ""
     }
   ]
 }
