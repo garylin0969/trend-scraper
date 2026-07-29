@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-29T08:06:13.945Z",
+  "updated": "2026-07-29T09:12:42.174Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-07-29T08:06:05.000Z",
+    "lastBuildDate": "2026-07-29T09:12:28.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -26,6 +26,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7d0c/live/300ac6b0-8b16-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
+      "title": "四名女性指控傑瑞德·萊托涉及刑事不當性行為",
+      "description": "這名演員兼音樂人合共面對10名女性的指控。她們表示，自己在青少年時期曾遭他不當對待。",
+      "link": "https://www.bbc.com/zhongwen/articles/c36d5l57e7no/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-29T08:45:53.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c36d5l57e7no/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/06c8/live/4a9ae6d0-8a6d-11f1-924e-bfa32777c3ff.jpg"
+    },
+    {
       "title": "唐山大地震50週年：五個鮮為人知的歷史細節",
       "description": "毛澤東生前批閱的最後一份文件，就是《關於唐山豐南一帶抗震救災的通報》。一個多月後，9月9日，毛澤東去世。",
       "link": "https://www.bbc.com/zhongwen/articles/cg5lvqre8lzo/trad?at_medium=RSS&at_campaign=rss",
@@ -34,28 +42,36 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ae97/live/8db65250-8a32-11f1-8e2f-179714f7490c.jpg"
     },
     {
-      "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
-      "description": "美國與伊朗的戰爭正好發生在常被稱為「戴維森窗口」的時間點之前。在部分美軍事規劃者眼中，中國在此期間對台灣發動入侵的可能性會升高。",
-      "link": "https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-28T08:43:16.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1efc/live/81743bf0-89cf-11f1-b8ee-9b3c26ad07bb.jpg"
+      "title": "依附理論正在重塑約會方式，但TikTok可能將它過於簡單化了",
+      "description": "依附理論（依戀理論）現在非常流行，但它究竟是什麼？你又該如何利用它來改善人際關係呢？",
+      "link": "https://www.bbc.com/zhongwen/articles/ckgd71ypxv7o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-29T05:18:05.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckgd71ypxv7o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f567/live/eca661b0-8997-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
+      "title": "重視骨骼健康就是補鈣？吃哪些食物會有幫助？",
+      "description": "我們的骨質密度開始下降的時間其實比你想像中更早。不過，只要飲食中攝取足夠的特定營養就有助維持骨骼強健，這些都是有幫助的食物。",
+      "link": "https://www.bbc.com/zhongwen/articles/cdx7vvn1n29o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-29T08:52:55.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cdx7vvn1n29o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/103b/live/5a46ab50-8a9f-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "title": "什麼是「火雲」? 為何會使野火更致命 ?",
       "description": "嚴重的野火可能會產生火積雲——美國太空總署稱之為「噴火的雲龍」。",
       "link": "https://www.bbc.com/zhongwen/articles/ce3q99dj835o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-29T01:24:40.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce3q99dj835o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce3q99dj835o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/af41/live/297ba580-89ae-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
-      "title": "依附理論正在重塑約會方式，但TikTok可能將它過於簡單化了",
-      "description": "依附理論（依戀理論）現在非常流行，但它究竟是什麼？你又該如何利用它來改善人際關係呢？",
-      "link": "https://www.bbc.com/zhongwen/articles/ckgd71ypxv7o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-29T05:18:05.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckgd71ypxv7o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f567/live/eca661b0-8997-11f1-b2ab-0dd01740f9f6.jpg"
+      "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
+      "description": "美國與伊朗的戰爭正好發生在常被稱為「戴維森窗口」的時間點之前。在部分美軍事規劃者眼中，中國在此期間對台灣發動入侵的可能性會升高。",
+      "link": "https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-28T08:43:16.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1efc/live/81743bf0-89cf-11f1-b8ee-9b3c26ad07bb.jpg"
     },
     {
       "title": "中國女童基因編輯治療後死亡，為何引發巨大爭議？",
@@ -96,22 +112,6 @@
       "pubDate": "2026-07-27T12:02:43.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn0n57kynz2o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a6a2/live/33677c00-89b2-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "title": "一文讀懂德國柏林驕傲遊行攻擊事件經過",
-      "description": "德國總理譴責這起襲擊事件令人髮指，此前一名嫌疑人駕車衝入歡慶同志驕傲遊行的群眾，該嫌犯已被警方擊斃。",
-      "link": "https://www.bbc.com/zhongwen/articles/ce34qp6zdryo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-27T07:10:04.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce34qp6zdryo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b106/live/ee7413e0-8936-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "title": "「它一點點侵蝕我的身體」：韓國超級便利隔夜送貨的人命代價",
-      "description": "在高度互聯的韓國夜間送貨十分普遍，但引發了關於工作條件的討論。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1l1m290yl3o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-27T04:51:41.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1l1m290yl3o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/190d/live/62c64fb0-8716-11f1-8525-bbb009ecb370.jpg"
     },
     {
       "title": "唐山大地震50週年：重塑中國社會肌理半世紀的「餘震」",
@@ -210,6 +210,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/97c2/live/f6eb0e80-8796-11f1-9d55-0b6742729f5d.jpg"
     },
     {
+      "title": "「它一點點侵蝕我的身體」：韓國超級便利隔夜送貨的人命代價",
+      "description": "在高度互聯的韓國夜間送貨十分普遍，但引發了關於工作條件的討論。",
+      "link": "https://www.bbc.com/zhongwen/articles/c1l1m290yl3o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-27T04:51:41.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1l1m290yl3o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/190d/live/62c64fb0-8716-11f1-8525-bbb009ecb370.jpg"
+    },
+    {
       "title": "曼德海峽：胡塞武裝的威脅會否觸發紅海航運危機？",
       "description": "全球約12%的海運石油貿易經過曼德海峽。隨着霍爾木茲海峽（荷莫茲海峽）實際上已被關閉，伊朗的盟友正威脅透過封鎖這條中東第二關鍵海上航道，進一步擾亂全球貿易。",
       "link": "https://www.bbc.com/zhongwen/articles/c4g63djrgy8o/trad?at_medium=RSS&at_campaign=rss",
@@ -224,14 +232,6 @@
       "pubDate": "2026-07-19T07:26:56.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ce97zxp9795o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6b00/live/77e09450-8338-11f1-b533-03631e11cfaa.png"
-    },
-    {
-      "title": "亞洲年輕人大舉押注科技股 他們過得怎麼樣？",
-      "description": "在人工智能（AI）熱潮帶動下，科技股的上漲吸引了大量普通投資者，其中許多人是二十多歲和三十出頭的年輕人。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgwp1xgq02o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-21T08:25:04.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgwp1xgq02o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/851d/live/dc840590-80bd-11f1-bee8-53ce494e1abc.jpg"
     },
     {
       "title": "「如果有一座橋」：金門人怎麼看翔安機場的「情感工程」？",
