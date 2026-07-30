@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T05:26:35.957Z",
+  "updated": "2026-07-30T06:19:05.651Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "412",
-      "recommendCount": "902",
+      "recommendScore": "420",
+      "recommendCount": "919",
       "title": "[新聞] 謝龍介爆料！民進黨高幹親姊赴陸失聯竟是「走私被逮」　關進深圳監獄踩縫紉機",
       "link": "/bbs/Gossiping/M.1785367602.A.B69",
       "author": "anna1203",
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "406",
-      "recommendCount": "800",
+      "recommendCount": "801",
       "title": "[新聞] 砸1億進場0050！台股跌破4萬點…郭哲榮兌現承諾：平均93.3元大買1100張",
       "link": "/bbs/Stock/M.1785308563.A.AF7",
       "author": "troy30408",
@@ -34,8 +34,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "358",
-      "recommendCount": "669",
+      "recommendScore": "502",
+      "recommendCount": "519",
+      "title": "[贈票]【橡樹街末日】 特映搶先看",
+      "link": "/bbs/movie/M.1785320920.A.F3D",
+      "author": "haha1121",
+      "board": "movie",
+      "publishTime": "2026/07/29 10:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "359",
+      "recommendCount": "670",
       "title": "[新聞] 融資維持率突然消失 CMoney緊急下架歷史數據",
       "link": "/bbs/Stock/M.1785333549.A.32B",
       "author": "largan6075",
@@ -54,23 +64,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "495",
-      "recommendCount": "512",
-      "title": "[贈票]【橡樹街末日】 特映搶先看",
-      "link": "/bbs/movie/M.1785320920.A.F3D",
-      "author": "haha1121",
-      "board": "movie",
-      "publishTime": "2026/07/29 10:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "323",
-      "recommendCount": "626",
+      "recommendScore": "324",
+      "recommendCount": "628",
       "title": "[新聞] 吳興國登國際演出文化部卻拒見、25人只給3經濟艙機票　妻子怒拋3問",
       "link": "/bbs/Gossiping/M.1785334000.A.95B",
       "author": "wulaki",
       "board": "Gossiping",
       "publishTime": "2026/07/29 14:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "98",
+      "recommendCount": "522",
+      "title": "[新聞] 石崇良：20%是專家會議訂的「我問心無愧",
+      "link": "/bbs/Gossiping/M.1785379753.A.8B3",
+      "author": "darren2586",
+      "board": "Gossiping",
+      "publishTime": "2026/07/30 02:49",
       "imageUrl": ""
     },
     {
@@ -94,18 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "92",
-      "recommendCount": "452",
-      "title": "[新聞] 石崇良：20%是專家會議訂的「我問心無愧",
-      "link": "/bbs/Gossiping/M.1785379753.A.8B3",
-      "author": "darren2586",
-      "board": "Gossiping",
-      "publishTime": "2026/07/30 02:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "140",
-      "recommendCount": "467",
+      "recommendScore": "141",
+      "recommendCount": "476",
       "title": "[新聞] 新北國中生割頸案「乾兄妹」一審要賠938萬　父母辯已盡責",
       "link": "/bbs/Gossiping/M.1785365909.A.016",
       "author": "Workforme",
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "78",
+      "recommendCount": "523",
+      "title": "[新聞] 江和樹突拋「廢除檢舉達人制度」議題",
+      "link": "/bbs/Gossiping/M.1785379775.A.5A0",
+      "author": "alwang",
+      "board": "Gossiping",
+      "publishTime": "2026/07/30 02:49",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "217",
       "recommendCount": "343",
       "title": "[心得] 多軍反擊第一搶已響起",
@@ -191,16 +201,6 @@
       "author": "win8719",
       "board": "Stock",
       "publishTime": "2026/07/29 09:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "217",
-      "recommendCount": "342",
-      "title": "[情報] 6488環球晶 6月自結 -8.27",
-      "link": "/bbs/Stock/M.1785317688.A.A75",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2026/07/29 09:34",
       "imageUrl": ""
     }
   ]
