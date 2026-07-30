@@ -1,14 +1,22 @@
 {
-  "updated": "2026-07-30T09:35:16.728Z",
+  "updated": "2026-07-30T10:32:41.890Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-07-30T09:35:10.000Z",
+    "lastBuildDate": "2026-07-30T10:32:33.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "中國機器人大軍如何改變英國零售業？",
+      "description": "英國生產力成長乏力、勞動力短缺，這給中國機器人公司創造了機會。",
+      "link": "https://www.bbc.com/zhongwen/articles/cevm082pgm7o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-30T09:33:51.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cevm082pgm7o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/96ad/live/c412f1a0-8708-11f1-94fc-011b42f226be.jpg"
+    },
     {
       "title": "日本熊本縣發生6.8級地震，這是目前已知的情況",
       "description": "日本九州島發生強烈地震，目前災情嚴重。以下是我們目前所了解的情況。",
@@ -24,14 +32,6 @@
       "pubDate": "2026-07-29T00:22:01.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/crrvd51lnp5o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eb6c/live/e538d700-8735-11f1-bee8-53ce494e1abc.jpg"
-    },
-    {
-      "title": "四名女性指控傑瑞德·萊托涉及刑事不當性行為",
-      "description": "這名演員兼音樂人合共面對10名女性的指控。她們表示，自己在青少年時期曾遭他不當對待。",
-      "link": "https://www.bbc.com/zhongwen/articles/c36d5l57e7no/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-29T10:35:20.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c36d5l57e7no/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ba2/live/20745e50-8b39-11f1-b8ee-9b3c26ad07bb.jpg"
     },
     {
       "title": "特朗普政府禁止中國人形機械人進口 北京批「泛化國家安全」",
@@ -58,6 +58,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8625/live/297e27a0-84fa-11f1-8b9b-a724b687bb3b.jpg"
     },
     {
+      "title": "四名女性指控傑瑞德·萊托涉及刑事不當性行為",
+      "description": "這名演員兼音樂人合共面對10名女性的指控。她們表示，自己在青少年時期曾遭他不當對待。",
+      "link": "https://www.bbc.com/zhongwen/articles/c36d5l57e7no/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-29T10:35:20.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c36d5l57e7no/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ba2/live/20745e50-8b39-11f1-b8ee-9b3c26ad07bb.jpg"
+    },
+    {
       "title": "OpenAI：失控AI曾試圖入侵其他公司系統",
       "description": "這個失控的AI找到四組登入憑證，令它能夠存取多個未具名的網上服務。",
       "link": "https://www.bbc.com/zhongwen/articles/c39ezlgpyx0o/trad?at_medium=RSS&at_campaign=rss",
@@ -72,14 +80,6 @@
       "pubDate": "2026-07-28T04:09:58.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cg5lvqre8lzo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ae97/live/8db65250-8a32-11f1-8e2f-179714f7490c.jpg"
-    },
-    {
-      "title": "依附理論正在重塑約會方式，但TikTok可能將它過於簡單化了",
-      "description": "依附理論（依戀理論）現在非常流行，但它究竟是什麼？你又該如何利用它來改善人際關係呢？",
-      "link": "https://www.bbc.com/zhongwen/articles/ckgd71ypxv7o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-29T05:18:05.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckgd71ypxv7o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f567/live/eca661b0-8997-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "title": "重視骨骼健康就是補鈣？吃哪些食物會有幫助？",
@@ -274,20 +274,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c03f/live/942bd1d0-81a6-11f1-a603-673178e2b07e.jpg"
     },
     {
+      "title": "依附理論正在重塑約會方式，但TikTok可能將它過於簡單化了",
+      "description": "依附理論（依戀理論）現在非常流行，但它究竟是什麼？你又該如何利用它來改善人際關係呢？",
+      "link": "https://www.bbc.com/zhongwen/articles/ckgd71ypxv7o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-29T05:18:05.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckgd71ypxv7o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f567/live/eca661b0-8997-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
       "title": "「這不只是帶來不便」：我們低估了月經過多對健康造成的影響",
       "description": "月經量過多是個嚴重的健康問題。直到最近，我們才開始了解它的成因，以及可以如何治療。",
       "link": "https://www.bbc.com/zhongwen/articles/c1l1m1v953no/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-28T00:16:03.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c1l1m1v953no/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/12af/live/749399a0-8982-11f1-a7ab-8b30adf0800a.png"
-    },
-    {
-      "title": "怎樣辨識出「AI臉」？",
-      "description": "人類通常相當不擅長辨識AI生成的臉孔，但新研究顯示，一小時的訓練可能有助於改變這個情況。",
-      "link": "https://www.bbc.com/zhongwen/articles/cedjl1vvjdyo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-26T02:54:37.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cedjl1vvjdyo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7425/live/a8b32d60-85ac-11f1-926f-c90d1bcfbc84.png"
     },
     {
       "title": "為什麼你總是在凌晨三點醒來？",
