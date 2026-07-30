@@ -1,14 +1,22 @@
 {
-  "updated": "2026-07-30T10:32:41.890Z",
+  "updated": "2026-07-30T11:24:59.428Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-07-30T10:32:33.000Z",
+    "lastBuildDate": "2026-07-30T11:24:53.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "澳門國安法首案：區錦新被羈押滿一年，家人「無法聯繫」",
+      "description": "澳門前民主派立法議員區錦新成為當地首宗國安法被告人，羈押至今滿一年。女兒區翰怡受訪稱父親被單獨監禁，家人無法與他聯繫，律師亦當局拒絕接觸。",
+      "link": "https://www.bbc.com/zhongwen/articles/ce852385914o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-30T11:09:20.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce852385914o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a3ba/live/8892eeb0-8c02-11f1-b8ee-9b3c26ad07bb.jpg"
+    },
     {
       "title": "中國機器人大軍如何改變英國零售業？",
       "description": "英國生產力成長乏力、勞動力短缺，這給中國機器人公司創造了機會。",
@@ -16,14 +24,6 @@
       "pubDate": "2026-07-30T09:33:51.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cevm082pgm7o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/96ad/live/c412f1a0-8708-11f1-94fc-011b42f226be.jpg"
-    },
-    {
-      "title": "日本熊本縣發生6.8級地震，這是目前已知的情況",
-      "description": "日本九州島發生強烈地震，目前災情嚴重。以下是我們目前所了解的情況。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx2jxz2xdw4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-29T07:08:24.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx2jxz2xdw4o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7d0c/live/300ac6b0-8b16-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "title": "中國使領館外牆的政治標語：如何從重慶擴展至全球",
@@ -56,6 +56,14 @@
       "pubDate": "2026-07-30T00:17:17.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c0rdvn5npelo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8625/live/297e27a0-84fa-11f1-8b9b-a724b687bb3b.jpg"
+    },
+    {
+      "title": "日本熊本縣發生6.8級地震，這是目前已知的情況",
+      "description": "日本九州島發生強烈地震，目前災情嚴重。以下是我們目前所了解的情況。",
+      "link": "https://www.bbc.com/zhongwen/articles/cx2jxz2xdw4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-29T07:08:24.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx2jxz2xdw4o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7d0c/live/300ac6b0-8b16-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "title": "四名女性指控傑瑞德·萊托涉及刑事不當性行為",
@@ -104,14 +112,6 @@
       "pubDate": "2026-07-27T09:19:49.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cjrv7vp8p53o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/be0e/live/a15062b0-898d-11f1-88b2-635548373e92.jpg"
-    },
-    {
-      "title": "自然災害頻傳，中國面臨新挑戰——AI偽造視頻",
-      "description": "過去幾個月發生的暴風雨和洪水事件導致社群媒體上充斥著假影片。",
-      "link": "https://www.bbc.com/zhongwen/articles/crmrk3p3e3wo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-28T07:32:39.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crmrk3p3e3wo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20fe/live/61704590-8666-11f1-93cb-95d7eb12ec49.png"
     },
     {
       "title": "唐山大地震50週年：重塑中國社會肌理半世紀的「餘震」",
@@ -200,6 +200,14 @@
       "pubDate": "2026-07-28T02:14:35.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c70gzyjnj44o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/03be/live/c2457ca0-89d1-11f1-b8ee-9b3c26ad07bb.jpg"
+    },
+    {
+      "title": "自然災害頻傳，中國面臨新挑戰——AI偽造視頻",
+      "description": "過去幾個月發生的暴風雨和洪水事件導致社群媒體上充斥著假影片。",
+      "link": "https://www.bbc.com/zhongwen/articles/crmrk3p3e3wo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-28T07:32:39.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/crmrk3p3e3wo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20fe/live/61704590-8666-11f1-93cb-95d7eb12ec49.png"
     },
     {
       "title": "《唯紅花綻放》馮哲芸專訪：看見「我是書店店員」被捕照落淚",
