@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T11:31:02.350Z",
+  "updated": "2026-07-30T12:10:06.772Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "116",
-      "recommendCount": "595",
+      "recommendScore": "119",
+      "recommendCount": "619",
       "title": "[新聞] 石崇良：20%是專家會議訂的「我問心無愧",
       "link": "/bbs/Gossiping/M.1785379753.A.8B3",
       "author": "darren2586",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "147",
-      "recommendCount": "486",
+      "recommendScore": "151",
+      "recommendCount": "497",
       "title": "[新聞] 新北國中生割頸案「乾兄妹」一審要賠938萬　父母辯已盡責",
       "link": "/bbs/Gossiping/M.1785365909.A.016",
       "author": "Workforme",
@@ -124,8 +124,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "200",
+      "recommendCount": "470",
+      "title": "[新聞] 國小生染喪屍煙彈　教育部9月擬進校園唾液快篩",
+      "link": "/bbs/Gossiping/M.1785391910.A.787",
+      "author": "kinki999",
+      "board": "Gossiping",
+      "publishTime": "2026/07/30 06:11",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "182",
-      "recommendCount": "336",
+      "recommendCount": "342",
       "title": "[問卦] 三立又假新聞了！！？？",
       "link": "/bbs/Gossiping/M.1785329996.A.989",
       "author": "THEHELY",
@@ -191,16 +201,6 @@
       "author": "betweenus020",
       "board": "Gossiping",
       "publishTime": "2026/07/29 23:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "117",
-      "recommendCount": "273",
-      "title": "[情報] ESPN記者：快艇開一年20M給姆斯被拒絕",
-      "link": "/bbs/NBA/M.1785329032.A.377",
-      "author": "jeff1013",
-      "board": "NBA",
-      "publishTime": "2026/07/29 12:43",
       "imageUrl": ""
     }
   ]
