@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T16:20:55.720Z",
+  "updated": "2026-07-30T16:55:42.024Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -64,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "55",
+      "recommendCount": "549",
+      "title": "[心得] 年輕人不要想賺快錢 ..",
+      "link": "/bbs/Stock/M.1785393139.A.C3A",
+      "author": "AdaWang",
+      "board": "Stock",
+      "publishTime": "2026/07/30 06:32",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "207",
       "recommendCount": "516",
       "title": "[新聞] 國小生染喪屍煙彈　教育部9月擬進校園唾液快篩",
@@ -84,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "54",
-      "recommendCount": "540",
-      "title": "[心得] 年輕人不要想賺快錢 ..",
-      "link": "/bbs/Stock/M.1785393139.A.C3A",
-      "author": "AdaWang",
-      "board": "Stock",
-      "publishTime": "2026/07/30 06:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "215",
-      "recommendCount": "729",
+      "recommendScore": "213",
+      "recommendCount": "740",
       "title": "[討論] KD的成就有辦法比肩Curry嗎？",
       "link": "/bbs/NBA/M.1785384366.A.709",
       "author": "were40228",
@@ -144,13 +144,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "105",
-      "recommendCount": "459",
+      "recommendScore": "108",
+      "recommendCount": "465",
       "title": "[花邊] 富保羅砲湖人:LBJ不會為了忠誠留在那裡",
       "link": "/bbs/NBA/M.1785394104.A.C62",
       "author": "shaaan",
       "board": "NBA",
       "publishTime": "2026/07/30 06:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "224",
+      "recommendCount": "387",
+      "title": "[情報] 115年07月30日信用交易統計",
+      "link": "/bbs/Stock/M.1785416073.A.95B",
+      "author": "steward135",
+      "board": "Stock",
+      "publishTime": "2026/07/30 12:54",
       "imageUrl": ""
     },
     {
@@ -164,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "218",
-      "recommendCount": "377",
-      "title": "[情報] 115年07月30日信用交易統計",
-      "link": "/bbs/Stock/M.1785416073.A.95B",
-      "author": "steward135",
-      "board": "Stock",
-      "publishTime": "2026/07/30 12:54",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "154",
       "recommendCount": "316",
       "title": "[新聞] 看台股暴跌　國安基金操盤手：若失序會處理",
@@ -184,23 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "203",
-      "recommendCount": "466",
-      "title": "[閒聊] 餐哥(魯蛋)實況什麼時候變得這麼難看的",
-      "link": "/bbs/C_Chat/M.1785343108.A.80A",
-      "author": "freewindg",
-      "board": "C_Chat",
-      "publishTime": "2026/07/29 16:38",
+      "recommendScore": "200",
+      "recommendCount": "309",
+      "title": "[新聞] 快訊/科技股利多來了?美股開盤費半噴漲",
+      "link": "/bbs/Stock/M.1785420633.A.094",
+      "author": "jumpballfan",
+      "board": "Stock",
+      "publishTime": "2026/07/30 14:10",
       "imageUrl": ""
     },
     {
-      "recommendScore": "158",
-      "recommendCount": "263",
-      "title": "[情報] 115年07月30日 三大法人買賣金額統計表",
-      "link": "/bbs/Stock/M.1785396141.A.BE9",
-      "author": "coconing",
-      "board": "Stock",
-      "publishTime": "2026/07/30 07:22",
+      "recommendScore": "142",
+      "recommendCount": "402",
+      "title": "[爆卦] 白宮 證實 COVID-19 起源：實驗室外洩",
+      "link": "/bbs/Gossiping/M.1785415264.A.175",
+      "author": "IJS",
+      "board": "Gossiping",
+      "publishTime": "2026/07/30 12:41",
       "imageUrl": ""
     }
   ]
