@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T18:05:56.159Z",
+  "updated": "2026-07-30T18:42:00.405Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "216",
+      "recommendCount": "340",
+      "title": "[新聞] 快訊/科技股利多來了?美股開盤費半噴漲",
+      "link": "/bbs/Stock/M.1785420633.A.094",
+      "author": "jumpballfan",
+      "board": "Stock",
+      "publishTime": "2026/07/30 14:10",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "224",
       "recommendCount": "387",
       "title": "[情報] 115年07月30日信用交易統計",
@@ -191,16 +201,6 @@
       "author": "DrowningPool",
       "board": "Stock",
       "publishTime": "2026/07/30 03:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "200",
-      "recommendCount": "309",
-      "title": "[新聞] 快訊/科技股利多來了?美股開盤費半噴漲",
-      "link": "/bbs/Stock/M.1785420633.A.094",
-      "author": "jumpballfan",
-      "board": "Stock",
-      "publishTime": "2026/07/30 14:10",
       "imageUrl": ""
     }
   ]
