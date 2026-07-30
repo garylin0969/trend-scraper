@@ -1,22 +1,14 @@
 {
-  "updated": "2026-07-30T00:05:15.863Z",
+  "updated": "2026-07-30T00:48:22.535Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-07-30T00:05:06.000Z",
+    "lastBuildDate": "2026-07-30T00:48:11.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
-    {
-      "title": "中國使領館外牆的政治標語：如何從重慶擴展至全球",
-      "description": "從重慶到紐約、柏林和悉尼，政治投影近年成為部分海外倡議團體表達政治訴求的新方式。",
-      "link": "https://www.bbc.com/zhongwen/articles/crrvd51lnp5o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-29T00:22:01.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crrvd51lnp5o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eb6c/live/e538d700-8735-11f1-bee8-53ce494e1abc.jpg"
-    },
     {
       "title": "日本熊本縣發生6.8級地震，這是目前已知的情況",
       "description": "日本九州島發生強烈地震，目前災情嚴重。以下是我們目前所了解的情況。",
@@ -24,6 +16,14 @@
       "pubDate": "2026-07-29T07:08:24.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx2jxz2xdw4o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7d0c/live/300ac6b0-8b16-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "title": "中國使領館外牆的政治標語：如何從重慶擴展至全球",
+      "description": "從重慶到紐約、柏林和悉尼，政治投影近年成為部分海外倡議團體表達政治訴求的新方式。",
+      "link": "https://www.bbc.com/zhongwen/articles/crrvd51lnp5o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-29T00:22:01.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/crrvd51lnp5o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eb6c/live/e538d700-8735-11f1-bee8-53ce494e1abc.jpg"
     },
     {
       "title": "四名女性指控傑瑞德·萊托涉及刑事不當性行為",
@@ -42,11 +42,27 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3b8e/live/23eaf6d0-8ade-11f1-b889-f97dd2fdd738.jpg"
     },
     {
+      "title": "健身練得滿身肌肉 為何有人卻因此英年早逝？",
+      "description": "一連串巴西知名年輕健美運動員死亡事件，再次引發外界對使用類固醇危險性的關注。",
+      "link": "https://www.bbc.com/zhongwen/articles/c98vjejn839o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-30T00:17:50.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c98vjejn839o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/adf7/live/0af76c90-85dd-11f1-9837-c51febdbeb82.jpg"
+    },
+    {
+      "title": "「不要等到想報復時才行動」：為何婚前協議越來越普遍？",
+      "description": "越來越多年輕伴侶選擇簽署婚前協議，列明一旦離婚，雙方將如何分配財產。",
+      "link": "https://www.bbc.com/zhongwen/articles/c0rdvn5npelo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-30T00:17:17.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c0rdvn5npelo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8625/live/297e27a0-84fa-11f1-8b9b-a724b687bb3b.jpg"
+    },
+    {
       "title": "OpenAI：失控AI曾試圖入侵其他公司系統",
       "description": "這個失控的AI找到四組登入憑證，令它能夠存取多個未具名的網上服務。",
       "link": "https://www.bbc.com/zhongwen/articles/c39ezlgpyx0o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-29T12:14:14.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c39ezlgpyx0o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c39ezlgpyx0o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/52e9/live/3c2ddae0-8a9e-11f1-bdb4-61a481e25caf.jpg"
     },
     {
@@ -82,14 +98,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/af41/live/297ba580-89ae-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
-      "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
-      "description": "美國與伊朗的戰爭正好發生在常被稱為「戴維森窗口」的時間點之前。在部分美軍事規劃者眼中，中國在此期間對台灣發動入侵的可能性會升高。",
-      "link": "https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-28T08:43:16.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1efc/live/81743bf0-89cf-11f1-b8ee-9b3c26ad07bb.jpg"
-    },
-    {
       "title": "中國女童基因編輯治療後死亡，為何引發巨大爭議？",
       "description": "中國一名6歲女童接受實驗性基因編輯治療後一周內死亡，事件一直未有公開，直至國際學術期刊《科學》與學術誠信監督平台「撤稿觀察」展開調查才曝光，引發中國官方調查及科學界廣泛關注。",
       "link": "https://www.bbc.com/zhongwen/articles/cjrv7vp8p53o/trad?at_medium=RSS&at_campaign=rss",
@@ -104,14 +112,6 @@
       "pubDate": "2026-07-28T07:32:39.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/crmrk3p3e3wo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20fe/live/61704590-8666-11f1-93cb-95d7eb12ec49.png"
-    },
-    {
-      "title": "香港前議員胡志偉獲准如常逗留英國 向BBC中文談機場風波",
-      "description": "英國阻止因中國《香港國安法》案件被判囚的前議員胡志偉入境後改變主意；他對BBC中文否認曾提出政治庇護申請。",
-      "link": "https://www.bbc.com/zhongwen/articles/c70gzyjnj44o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-28T02:14:35.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c70gzyjnj44o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/03be/live/c2457ca0-89d1-11f1-b8ee-9b3c26ad07bb.jpg"
     },
     {
       "title": "唐山大地震50週年：重塑中國社會肌理半世紀的「餘震」",
@@ -154,6 +154,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7015/live/4aaa6360-81aa-11f1-bee8-53ce494e1abc.jpg"
     },
     {
+      "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
+      "description": "美國與伊朗的戰爭正好發生在常被稱為「戴維森窗口」的時間點之前。在部分美軍事規劃者眼中，中國在此期間對台灣發動入侵的可能性會升高。",
+      "link": "https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-28T08:43:16.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1efc/live/81743bf0-89cf-11f1-b8ee-9b3c26ad07bb.jpg"
+    },
+    {
       "title": "美國以「強迫勞動」為由徵新關稅，波及中國、台灣",
       "description": "美國宣布對60個貿易夥伴課徵10%至12.5%關稅，指其未能有效禁止「強迫勞動」產品進口，涵蓋歐盟、日本、台灣、中國等經濟體，週五（7月24日）生效。",
       "link": "https://www.bbc.com/zhongwen/articles/clyezy3l60qo/trad?at_medium=RSS&at_campaign=rss",
@@ -170,14 +178,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8b7e/live/ab7d6920-8629-11f1-8e14-33590a929431.jpg"
     },
     {
-      "title": "美國與沙特簽署核協議 為中東再引核擴散風險",
-      "description": "專家表示，這將是美國首次達成此類安排，並可能增加這個本已不穩定地區未來出現核擴散的風險。",
-      "link": "https://www.bbc.com/zhongwen/articles/cj4k8ydd2jlo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-23T06:56:18.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cj4k8ydd2jlo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/63a6/live/6a9afff0-85af-11f1-9454-77c2271a5b4a.jpg"
-    },
-    {
       "title": "特朗普政府收緊外國學生簽證規定",
       "description": "學生若要在美國逗留超過四年，將須取得聯邦政府許可，而大學也將失去延長簽證期限的權力。",
       "link": "https://www.bbc.com/zhongwen/articles/c5y351rvz2lo/trad?at_medium=RSS&at_campaign=rss",
@@ -192,6 +192,14 @@
       "pubDate": "2026-07-15T12:26:18.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cwykykkeql4o/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b742/live/a647fbd0-7ff0-11f1-b7c7-fd8fa12609bd.jpg"
+    },
+    {
+      "title": "香港前議員胡志偉獲准如常逗留英國 向BBC中文談機場風波",
+      "description": "英國阻止因中國《香港國安法》案件被判囚的前議員胡志偉入境後改變主意；他對BBC中文否認曾提出政治庇護申請。",
+      "link": "https://www.bbc.com/zhongwen/articles/c70gzyjnj44o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-28T02:14:35.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c70gzyjnj44o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/03be/live/c2457ca0-89d1-11f1-b8ee-9b3c26ad07bb.jpg"
     },
     {
       "title": "《唯紅花綻放》馮哲芸專訪：看見「我是書店店員」被捕照落淚",
@@ -224,14 +232,6 @@
       "pubDate": "2026-07-27T04:51:41.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c1l1m290yl3o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/190d/live/62c64fb0-8716-11f1-8525-bbb009ecb370.jpg"
-    },
-    {
-      "title": "曼德海峽：胡塞武裝的威脅會否觸發紅海航運危機？",
-      "description": "全球約12%的海運石油貿易經過曼德海峽。隨着霍爾木茲海峽（荷莫茲海峽）實際上已被關閉，伊朗的盟友正威脅透過封鎖這條中東第二關鍵海上航道，進一步擾亂全球貿易。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4g63djrgy8o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-24T00:03:29.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4g63djrgy8o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d2a/live/b6b4c110-2c49-11f1-b979-37139b7cb8c6.jpg"
     },
     {
       "title": "審視阿努廷時代下的泰中關係：中國「長臂管轄」連上泰國了？",
