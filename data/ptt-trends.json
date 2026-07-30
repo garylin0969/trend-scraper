@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-30T22:51:07.383Z",
+  "updated": "2026-07-30T23:17:25.108Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "895",
-      "recommendCount": "1282",
+      "recommendScore": "899",
+      "recommendCount": "1286",
       "title": "[公告] 禁止三立新聞張貼一年、鏡相關媒體加罰",
       "link": "/bbs/Gossiping/M.1785411172.A.97C",
       "author": "ubcs",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "119",
-      "recommendCount": "680",
+      "recommendScore": "118",
+      "recommendCount": "681",
       "title": "[新聞] 江和樹突拋「廢除檢舉達人制度」議題",
       "link": "/bbs/Gossiping/M.1785379775.A.5A0",
       "author": "alwang",
@@ -81,16 +81,6 @@
       "author": "kinki999",
       "board": "Gossiping",
       "publishTime": "2026/07/30 06:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "148",
-      "recommendCount": "508",
-      "title": "[新聞] 新北國中生割頸案「乾兄妹」一審要賠938萬　父母辯已盡責",
-      "link": "/bbs/Gossiping/M.1785365909.A.016",
-      "author": "Workforme",
-      "board": "Gossiping",
-      "publishTime": "2026/07/29 22:58",
       "imageUrl": ""
     },
     {
@@ -164,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "228",
-      "recommendCount": "364",
+      "recommendScore": "234",
+      "recommendCount": "370",
       "title": "[新聞] 快訊/科技股利多來了?美股開盤費半噴漲",
       "link": "/bbs/Stock/M.1785420633.A.094",
       "author": "jumpballfan",
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "179",
-      "recommendCount": "467",
+      "recommendScore": "180",
+      "recommendCount": "469",
       "title": "[爆卦] 白宮 證實 COVID-19 起源：實驗室外洩",
       "link": "/bbs/Gossiping/M.1785415264.A.175",
       "author": "IJS",
       "board": "Gossiping",
       "publishTime": "2026/07/30 12:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "227",
+      "recommendCount": "391",
+      "title": "[情報] 115年07月30日信用交易統計",
+      "link": "/bbs/Stock/M.1785416073.A.95B",
+      "author": "steward135",
+      "board": "Stock",
+      "publishTime": "2026/07/30 12:54",
       "imageUrl": ""
     }
   ]
