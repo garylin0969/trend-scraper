@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-31T03:53:00.827Z",
+  "updated": "2026-07-31T05:12:29.739Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "991",
-      "recommendCount": "1410",
+      "recommendScore": "1011",
+      "recommendCount": "1432",
       "title": "[公告] 禁止三立新聞張貼一年、鏡相關媒體加罰",
       "link": "/bbs/Gossiping/M.1785411172.A.97C",
       "author": "ubcs",
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/WW9t4BR/s/fc085279210761c8ebe60cbd5d60d7e2"
     },
     {
-      "recommendScore": "467",
-      "recommendCount": "1260",
+      "recommendScore": "469",
+      "recommendCount": "1262",
       "title": "[新聞] 高市謝各國對熊本強震關懷但漏台灣 日網友留言怒噴：妳少了賴清德！",
       "link": "/bbs/Gossiping/M.1785399001.A.111",
       "author": "milleniue",
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "283",
-      "recommendCount": "500",
+      "recommendCount": "501",
       "title": "[新聞] 憤怒的韓國散戶扛花圈包圍國會，要求廢除三星、海力士槓桿 ETF",
       "link": "/bbs/Stock/M.1785389959.A.B95",
       "author": "keel90135",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "215",
-      "recommendCount": "542",
+      "recommendScore": "216",
+      "recommendCount": "543",
       "title": "[新聞] 國小生染喪屍煙彈　教育部9月擬進校園唾液快篩",
       "link": "/bbs/Gossiping/M.1785391910.A.787",
       "author": "kinki999",
@@ -54,18 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "219",
-      "recommendCount": "752",
-      "title": "[討論] KD的成就有辦法比肩Curry嗎？",
-      "link": "/bbs/NBA/M.1785384366.A.709",
-      "author": "were40228",
-      "board": "NBA",
-      "publishTime": "2026/07/30 04:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "55",
-      "recommendCount": "549",
+      "recommendScore": "54",
+      "recommendCount": "561",
       "title": "[心得] 年輕人不要想賺快錢 ..",
       "link": "/bbs/Stock/M.1785393139.A.C3A",
       "author": "AdaWang",
@@ -84,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "218",
+      "recommendCount": "575",
+      "title": "[爆卦] 白宮 證實 COVID-19 起源：實驗室外洩",
+      "link": "/bbs/Gossiping/M.1785415264.A.175",
+      "author": "IJS",
+      "board": "Gossiping",
+      "publishTime": "2026/07/30 12:41",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "219",
       "recommendCount": "375",
       "title": "[情報] 115年07月30日 三大法人買賣金額統計表",
@@ -91,16 +91,6 @@
       "author": "coconing",
       "board": "Stock",
       "publishTime": "2026/07/30 07:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "213",
-      "recommendCount": "566",
-      "title": "[爆卦] 白宮 證實 COVID-19 起源：實驗室外洩",
-      "link": "/bbs/Gossiping/M.1785415264.A.175",
-      "author": "IJS",
-      "board": "Gossiping",
-      "publishTime": "2026/07/30 12:41",
       "imageUrl": ""
     },
     {
@@ -144,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "111",
-      "recommendCount": "487",
+      "recommendScore": "113",
+      "recommendCount": "490",
       "title": "[花邊] 富保羅砲湖人:LBJ不會為了忠誠留在那裡",
       "link": "/bbs/NBA/M.1785394104.A.C62",
       "author": "shaaan",
@@ -164,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "169",
-      "recommendCount": "394",
+      "recommendScore": "171",
+      "recommendCount": "396",
       "title": "[新聞]高市早苗謝各國慰問「獨漏賴清德」！日網灌爆X：妳少了台灣",
       "link": "/bbs/Gossiping/M.1785412469.A.237",
       "author": "la1aco",
@@ -174,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "227",
-      "recommendCount": "391",
+      "recommendScore": "229",
+      "recommendCount": "399",
       "title": "[情報] 115年07月30日信用交易統計",
       "link": "/bbs/Stock/M.1785416073.A.95B",
       "author": "steward135",
@@ -184,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "121",
-      "recommendCount": "321",
+      "recommendScore": "127",
+      "recommendCount": "343",
       "title": "[心得] 歷史總是如此相近！",
       "link": "/bbs/Stock/M.1785435993.A.073",
       "author": "nopenisgreat",
@@ -195,12 +185,22 @@
     },
     {
       "recommendScore": "109",
-      "recommendCount": "682",
+      "recommendCount": "684",
       "title": "[情報] 富保羅回擊LBJ生涯一直抱團求冠的言論",
       "link": "/bbs/NBA/M.1785407111.A.ABE",
       "author": "shaaan",
       "board": "NBA",
       "publishTime": "2026/07/30 10:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "151",
+      "recommendCount": "413",
+      "title": "[外絮] 勇士追LBJ再度落空　Curry生涯恐黯淡收尾",
+      "link": "/bbs/NBA/M.1785395061.A.58A",
+      "author": "usnavyseal",
+      "board": "NBA",
+      "publishTime": "2026/07/30 07:04",
       "imageUrl": ""
     }
   ]
