@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T13:23:49.933Z",
+  "updated": "2026-07-31T14:16:24.393Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -11,10 +11,10 @@
       "author": "paidzou",
       "board": "Stock",
       "publishTime": "2026/07/31 05:35",
-      "imageUrl": "https://cache.pttweb.cc/imgur/YguAldl/s/6ed0b4c097f3ccd31ae67915c14802f7"
+      "imageUrl": "https://cache.pttweb.cc/imgur/1as8oTW/s/7ac5180556f9de0fd8854f6e3a0e8a88"
     },
     {
-      "recommendScore": "1277",
+      "recommendScore": "1268",
       "recommendCount": "1499",
       "title": "[公告] 趁亂公投",
       "link": "/bbs/Stock/M.1785486408.A.3B8",
@@ -32,6 +32,26 @@
       "board": "Stock",
       "publishTime": "2026/07/31 03:01",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "234",
+      "recommendCount": "1202",
+      "title": "[新聞] 法官開酸「不要用AI寫上訴狀」 判決內文要原告找「活生生」律師",
+      "link": "/bbs/Gossiping/M.1785451616.A.934",
+      "author": "ohfly",
+      "board": "Gossiping",
+      "publishTime": "2026/07/30 22:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "367",
+      "recommendCount": "526",
+      "title": "[問卦] 三立新聞是不是怕了？ （發錢）",
+      "link": "/bbs/Gossiping/M.1785458217.A.C38",
+      "author": "BIA",
+      "board": "Gossiping",
+      "publishTime": "2026/07/31 00:36",
+      "imageUrl": "https://cache.pttweb.cc/imgur/1as8oTW/s/7ac5180556f9de0fd8854f6e3a0e8a88"
     },
     {
       "recommendScore": "356",
@@ -124,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "247",
-      "recommendCount": "390",
-      "title": "[新聞] 快訊/科技股利多來了?美股開盤費半噴漲",
-      "link": "/bbs/Stock/M.1785420633.A.094",
-      "author": "jumpballfan",
-      "board": "Stock",
-      "publishTime": "2026/07/30 14:10",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "242",
       "recommendCount": "411",
       "title": "[情報] 0731 上市外資買賣超排行",
@@ -145,12 +155,32 @@
     },
     {
       "recommendScore": "204",
-      "recommendCount": "331",
+      "recommendCount": "333",
       "title": "[新聞] 緬甸通過《反網路詐騙法》「最重處死刑」！　上周33台人被逮",
       "link": "/bbs/Gossiping/M.1785454341.A.8C8",
       "author": "cagepig",
       "board": "Gossiping",
       "publishTime": "2026/07/30 23:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "207",
+      "recommendCount": "363",
+      "title": "[新聞] 徐佳青吃甜點、看電影列機密行程 竟說不可告人",
+      "link": "/bbs/Gossiping/M.1785463791.A.EAF",
+      "author": "TouchAgain",
+      "board": "Gossiping",
+      "publishTime": "2026/07/31 02:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "190",
+      "recommendCount": "353",
+      "title": "[新聞] 快訊／民進黨高雄市議員涉弊！捲光電場回扣案　檢發動搜索帶回",
+      "link": "/bbs/Gossiping/M.1785462207.A.FAB",
+      "author": "ptt987654321",
+      "board": "Gossiping",
+      "publishTime": "2026/07/31 01:43",
       "imageUrl": ""
     },
     {
@@ -171,36 +201,6 @@
       "author": "im609",
       "board": "Stock",
       "publishTime": "2026/07/31 00:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-139",
-      "recommendCount": "302",
-      "title": "[問卦] 只有我覺得禁止三立新聞不太恰當嗎",
-      "link": "/bbs/Gossiping/M.1785424388.A.D80",
-      "author": "oppo5566",
-      "board": "Gossiping",
-      "publishTime": "2026/07/30 15:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "117",
-      "recommendCount": "308",
-      "title": "[花邊] LBJ將拍攝類似MJ最後一舞的紀錄片",
-      "link": "/bbs/NBA/M.1785419586.A.7D2",
-      "author": "SeanLi1013",
-      "board": "NBA",
-      "publishTime": "2026/07/30 13:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "134",
-      "recommendCount": "339",
-      "title": "[新聞] 快訊／高市早苗再發文「感謝名單提台灣」！",
-      "link": "/bbs/Gossiping/M.1785488717.A.3AF",
-      "author": "taiwan08",
-      "board": "Gossiping",
-      "publishTime": "2026/07/31 09:05",
       "imageUrl": ""
     }
   ]
