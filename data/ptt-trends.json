@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T18:20:40.694Z",
+  "updated": "2026-07-31T18:53:00.515Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,7 +14,7 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/1as8oTW/s/7ac5180556f9de0fd8854f6e3a0e8a88"
     },
     {
-      "recommendScore": "1267",
+      "recommendScore": "1268",
       "recommendCount": "1499",
       "title": "[公告] 趁亂公投",
       "link": "/bbs/Stock/M.1785486408.A.3B8",
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-151",
+      "recommendCount": "341",
+      "title": "[新聞] 沈伯洋訪美巧遇NBA球星！　宣布10月來台「與台灣人站在一起」",
+      "link": "/bbs/NBA/M.1785499713.A.69D",
+      "author": "gy00015",
+      "board": "NBA",
+      "publishTime": "2026/07/31 12:08",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "245",
       "recommendCount": "418",
       "title": "[情報] 0731 上市外資買賣超排行",
@@ -191,16 +201,6 @@
       "author": "carlchang092",
       "board": "Baseball",
       "publishTime": "2026/07/31 13:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "133",
-      "recommendCount": "349",
-      "title": "[心得] 歷史總是如此相近！",
-      "link": "/bbs/Stock/M.1785435993.A.073",
-      "author": "nopenisgreat",
-      "board": "Stock",
-      "publishTime": "2026/07/30 18:26",
       "imageUrl": ""
     }
   ]
