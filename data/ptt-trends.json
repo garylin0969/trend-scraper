@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T18:53:00.515Z",
+  "updated": "2026-07-31T19:32:23.605Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "503",
+      "recommendCount": "630",
+      "title": "[新聞] 力積電董事長黃崇仁離世 由副董事長謝再居依法代理董事長職務",
+      "link": "/bbs/Stock/M.1785493056.A.66E",
+      "author": "asd8604",
+      "board": "Stock",
+      "publishTime": "2026/07/31 10:17",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "233",
-      "recommendCount": "1203",
+      "recommendCount": "1204",
       "title": "[新聞] 法官開酸「不要用AI寫上訴狀」 判決內文要原告找「活生生」律師",
       "link": "/bbs/Gossiping/M.1785451616.A.934",
       "author": "ohfly",
@@ -54,8 +64,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/1as8oTW/s/7ac5180556f9de0fd8854f6e3a0e8a88"
     },
     {
-      "recommendScore": "356",
-      "recommendCount": "591",
+      "recommendScore": "357",
+      "recommendCount": "594",
       "title": "[新聞] 0050「1億男」郭哲榮強勢解套！台股盤中飆2700點…1100張暴賺近900萬",
       "link": "/bbs/Stock/M.1785468093.A.C8B",
       "author": "IzumiKonata",
@@ -84,8 +94,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/YguAldl/s/6ed0b4c097f3ccd31ae67915c14802f7"
     },
     {
-      "recommendScore": "203",
-      "recommendCount": "480",
+      "recommendScore": "202",
+      "recommendCount": "481",
       "title": "[新聞] 黃偉哲公布「深偽蔣萬安」語音　殷瑋：公然坦承深偽、檢警調也該查",
       "link": "/bbs/Gossiping/M.1785471341.A.F1A",
       "author": "iolcst",
@@ -124,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "133",
-      "recommendCount": "343",
+      "recommendScore": "134",
+      "recommendCount": "344",
       "title": "[新聞] 謝金河曝全球股市新賽局：8月有望迎反彈",
       "link": "/bbs/Stock/M.1785468405.A.CD4",
       "author": "DrowningPool",
@@ -174,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "212",
-      "recommendCount": "373",
+      "recommendScore": "213",
+      "recommendCount": "374",
       "title": "[新聞] 徐佳青吃甜點、看電影列機密行程 竟說不可告人",
       "link": "/bbs/Gossiping/M.1785463791.A.EAF",
       "author": "TouchAgain",
@@ -191,16 +201,6 @@
       "author": "ptt987654321",
       "board": "Gossiping",
       "publishTime": "2026/07/31 01:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "218",
-      "recommendCount": "285",
-      "title": "[炸裂] 魔鷹 NO.13 逆轉大滿貫",
-      "link": "/bbs/Baseball/M.1785503686.A.046",
-      "author": "carlchang092",
-      "board": "Baseball",
-      "publishTime": "2026/07/31 13:14",
       "imageUrl": ""
     }
   ]
