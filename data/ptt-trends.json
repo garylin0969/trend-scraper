@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-30T23:41:13.299Z",
+  "updated": "2026-07-31T00:08:02.407Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "899",
-      "recommendCount": "1286",
+      "recommendScore": "917",
+      "recommendCount": "1313",
       "title": "[公告] 禁止三立新聞張貼一年、鏡相關媒體加罰",
       "link": "/bbs/Gossiping/M.1785411172.A.97C",
       "author": "ubcs",
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "462",
-      "recommendCount": "1239",
+      "recommendCount": "1247",
       "title": "[新聞] 高市謝各國對熊本強震關懷但漏台灣 日網友留言怒噴：妳少了賴清德！",
       "link": "/bbs/Gossiping/M.1785399001.A.111",
       "author": "milleniue",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "118",
-      "recommendCount": "681",
+      "recommendScore": "120",
+      "recommendCount": "684",
       "title": "[新聞] 江和樹突拋「廢除檢舉達人制度」議題",
       "link": "/bbs/Gossiping/M.1785379775.A.5A0",
       "author": "alwang",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "214",
-      "recommendCount": "530",
+      "recommendScore": "215",
+      "recommendCount": "531",
       "title": "[新聞] 國小生染喪屍煙彈　教育部9月擬進校園唾液快篩",
       "link": "/bbs/Gossiping/M.1785391910.A.787",
       "author": "kinki999",
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "242",
+      "recommendCount": "384",
+      "title": "[新聞] 快訊/科技股利多來了?美股開盤費半噴漲",
+      "link": "/bbs/Stock/M.1785420633.A.094",
+      "author": "jumpballfan",
+      "board": "Stock",
+      "publishTime": "2026/07/30 14:10",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "195",
       "recommendCount": "507",
       "title": "[爆卦] 白宮 證實 COVID-19 起源：實驗室外洩",
@@ -151,16 +161,6 @@
       "author": "IJS",
       "board": "Gossiping",
       "publishTime": "2026/07/30 12:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "236",
-      "recommendCount": "373",
-      "title": "[新聞] 快訊/科技股利多來了?美股開盤費半噴漲",
-      "link": "/bbs/Stock/M.1785420633.A.094",
-      "author": "jumpballfan",
-      "board": "Stock",
-      "publishTime": "2026/07/30 14:10",
       "imageUrl": ""
     },
     {
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "154",
-      "recommendCount": "368",
+      "recommendScore": "157",
+      "recommendCount": "373",
       "title": "[新聞]高市早苗謝各國慰問「獨漏賴清德」！日網灌爆X：妳少了台灣",
       "link": "/bbs/Gossiping/M.1785412469.A.237",
       "author": "la1aco",
