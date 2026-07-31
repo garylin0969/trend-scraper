@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T10:23:10.302Z",
+  "updated": "2026-07-31T11:19:12.049Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,7 +14,7 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/WW9t4BR/s/fc085279210761c8ebe60cbd5d60d7e2"
     },
     {
-      "recommendScore": "932",
+      "recommendScore": "864",
       "recommendCount": "1456",
       "title": "[公告] 禁止三立新聞張貼一年、鏡相關媒體加罰",
       "link": "/bbs/Gossiping/M.1785411172.A.97C",
@@ -22,6 +22,16 @@
       "board": "Gossiping",
       "publishTime": "2026/07/30 11:32",
       "imageUrl": "https://cache.pttweb.cc/imgur/WW9t4BR/s/fc085279210761c8ebe60cbd5d60d7e2"
+    },
+    {
+      "recommendScore": "560",
+      "recommendCount": "727",
+      "title": "[請益] 散戶圖現在走到哪",
+      "link": "/bbs/Stock/M.1785466891.A.594",
+      "author": "crystal0100",
+      "board": "Stock",
+      "publishTime": "2026/07/31 03:01",
+      "imageUrl": ""
     },
     {
       "recommendScore": "354",
@@ -84,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "192",
+      "recommendCount": "452",
+      "title": "[新聞] 黃偉哲公布「深偽蔣萬安」語音　殷瑋：公然坦承深偽、檢警調也該查",
+      "link": "/bbs/Gossiping/M.1785471341.A.F1A",
+      "author": "iolcst",
+      "board": "Gossiping",
+      "publishTime": "2026/07/31 04:15",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "134",
       "recommendCount": "339",
       "title": "[新聞] 謝金河曝全球股市新賽局：8月有望迎反彈",
@@ -104,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "187",
-      "recommendCount": "442",
-      "title": "[新聞] 黃偉哲公布「深偽蔣萬安」語音　殷瑋：公然坦承深偽、檢警調也該查",
-      "link": "/bbs/Gossiping/M.1785471341.A.F1A",
-      "author": "iolcst",
-      "board": "Gossiping",
-      "publishTime": "2026/07/31 04:15",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "247",
       "recommendCount": "390",
       "title": "[新聞] 快訊/科技股利多來了?美股開盤費半噴漲",
@@ -121,16 +131,6 @@
       "author": "jumpballfan",
       "board": "Stock",
       "publishTime": "2026/07/30 14:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "254",
-      "recommendCount": "319",
-      "title": "[請益] 散戶圖現在走到哪",
-      "link": "/bbs/Stock/M.1785466891.A.594",
-      "author": "crystal0100",
-      "board": "Stock",
-      "publishTime": "2026/07/31 03:01",
       "imageUrl": ""
     },
     {
@@ -165,22 +165,12 @@
     },
     {
       "recommendScore": "135",
-      "recommendCount": "306",
+      "recommendCount": "311",
       "title": "[新聞] 川普宣布達成協議　哈瑪斯將全面解除武裝",
       "link": "/bbs/Stock/M.1785457589.A.516",
       "author": "im609",
       "board": "Stock",
       "publishTime": "2026/07/31 00:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "108",
-      "recommendCount": "687",
-      "title": "[情報] 富保羅回擊LBJ生涯一直抱團求冠的言論",
-      "link": "/bbs/NBA/M.1785407111.A.ABE",
-      "author": "shaaan",
-      "board": "NBA",
-      "publishTime": "2026/07/30 10:25",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "NBA",
       "publishTime": "2026/07/30 13:53",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "218",
+      "recommendCount": "441",
+      "title": "[閒聊] Aiming IG聲明文",
+      "link": "/bbs/LoL/M.1785416098.A.E3F",
+      "author": "peggy0410",
+      "board": "LoL",
+      "publishTime": "2026/07/30 12:54",
+      "imageUrl": "https://cache.pttweb.cc/imgur/gwZ2VO1/s/5baeb0be066b3ff25f7c1167a11871a9"
     }
   ]
 }
