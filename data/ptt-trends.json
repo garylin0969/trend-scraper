@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T12:49:26.840Z",
+  "updated": "2026-07-31T13:23:49.933Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "560",
-      "recommendCount": "727",
+      "recommendScore": "566",
+      "recommendCount": "734",
       "title": "[請益] 散戶圖現在走到哪",
       "link": "/bbs/Stock/M.1785466891.A.594",
       "author": "crystal0100",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "354",
-      "recommendCount": "588",
+      "recommendScore": "356",
+      "recommendCount": "591",
       "title": "[新聞] 0050「1億男」郭哲榮強勢解套！台股盤中飆2700點…1100張暴賺近900萬",
       "link": "/bbs/Stock/M.1785468093.A.C8B",
       "author": "IzumiKonata",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "312",
-      "recommendCount": "496",
+      "recommendScore": "314",
+      "recommendCount": "498",
       "title": "[新聞] 0050郭哲榮砸1億大賺千萬打臉酸民！罕見與台積電（2330）雙雙亮燈漲停",
       "link": "/bbs/Stock/M.1785477762.A.6E9",
       "author": "diefishfish",
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "195",
+      "recommendCount": "466",
+      "title": "[新聞] 黃偉哲公布「深偽蔣萬安」語音　殷瑋：公然坦承深偽、檢警調也該查",
+      "link": "/bbs/Gossiping/M.1785471341.A.F1A",
+      "author": "iolcst",
+      "board": "Gossiping",
+      "publishTime": "2026/07/31 04:15",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "291",
       "recommendCount": "378",
       "title": "[新聞] 快訊／台積電猛飆漲停！台股飆逾3000點",
@@ -81,16 +91,6 @@
       "author": "rz2x",
       "board": "Stock",
       "publishTime": "2026/07/31 04:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "192",
-      "recommendCount": "462",
-      "title": "[新聞] 黃偉哲公布「深偽蔣萬安」語音　殷瑋：公然坦承深偽、檢警調也該查",
-      "link": "/bbs/Gossiping/M.1785471341.A.F1A",
-      "author": "iolcst",
-      "board": "Gossiping",
-      "publishTime": "2026/07/31 04:15",
       "imageUrl": ""
     },
     {
@@ -144,13 +144,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "229",
-      "recommendCount": "399",
-      "title": "[情報] 115年07月30日信用交易統計",
-      "link": "/bbs/Stock/M.1785416073.A.95B",
-      "author": "steward135",
-      "board": "Stock",
-      "publishTime": "2026/07/30 12:54",
+      "recommendScore": "204",
+      "recommendCount": "331",
+      "title": "[新聞] 緬甸通過《反網路詐騙法》「最重處死刑」！　上周33台人被逮",
+      "link": "/bbs/Gossiping/M.1785454341.A.8C8",
+      "author": "cagepig",
+      "board": "Gossiping",
+      "publishTime": "2026/07/30 23:32",
       "imageUrl": ""
     },
     {
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-136",
-      "recommendCount": "299",
+      "recommendScore": "-139",
+      "recommendCount": "302",
       "title": "[問卦] 只有我覺得禁止三立新聞不太恰當嗎",
       "link": "/bbs/Gossiping/M.1785424388.A.D80",
       "author": "oppo5566",
@@ -194,14 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "221",
-      "recommendCount": "446",
-      "title": "[閒聊] Aiming IG聲明文",
-      "link": "/bbs/LoL/M.1785416098.A.E3F",
-      "author": "peggy0410",
-      "board": "LoL",
-      "publishTime": "2026/07/30 12:54",
-      "imageUrl": "https://cache.pttweb.cc/imgur/gwZ2VO1/s/5baeb0be066b3ff25f7c1167a11871a9"
+      "recommendScore": "134",
+      "recommendCount": "339",
+      "title": "[新聞] 快訊／高市早苗再發文「感謝名單提台灣」！",
+      "link": "/bbs/Gossiping/M.1785488717.A.3AF",
+      "author": "taiwan08",
+      "board": "Gossiping",
+      "publishTime": "2026/07/31 09:05",
+      "imageUrl": ""
     }
   ]
 }
