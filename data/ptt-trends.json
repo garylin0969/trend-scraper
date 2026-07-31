@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T20:08:51.419Z",
+  "updated": "2026-07-31T20:38:21.969Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -21,6 +21,16 @@
       "author": "BlueBird5566",
       "board": "Stock",
       "publishTime": "2026/07/31 08:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "875",
+      "recommendCount": "1086",
+      "title": "[情報] 6770 力積電 本公司董事長逝世",
+      "link": "/bbs/Stock/M.1785491861.A.3EB",
+      "author": "BlueBird5566",
+      "board": "Stock",
+      "publishTime": "2026/07/31 09:57",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "TouchAgain",
       "board": "Gossiping",
       "publishTime": "2026/07/31 02:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "190",
-      "recommendCount": "353",
-      "title": "[新聞] 快訊／民進黨高雄市議員涉弊！捲光電場回扣案　檢發動搜索帶回",
-      "link": "/bbs/Gossiping/M.1785462207.A.FAB",
-      "author": "ptt987654321",
-      "board": "Gossiping",
-      "publishTime": "2026/07/31 01:43",
       "imageUrl": ""
     }
   ]
