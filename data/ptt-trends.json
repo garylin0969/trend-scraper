@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T23:02:02.123Z",
+  "updated": "2026-07-31T23:31:42.405Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "571",
-      "recommendCount": "741",
+      "recommendCount": "742",
       "title": "[請益] 散戶圖現在走到哪",
       "link": "/bbs/Stock/M.1785466891.A.594",
       "author": "crystal0100",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "197",
-      "recommendCount": "620",
+      "recommendScore": "199",
+      "recommendCount": "627",
       "title": "[新聞] 報告僅5頁…被批花巨資「假考察真觀光」",
       "link": "/bbs/Gossiping/M.1785493074.A.0D2",
       "author": "yahe0526",
@@ -85,7 +85,7 @@
     },
     {
       "recommendScore": "242",
-      "recommendCount": "447",
+      "recommendCount": "448",
       "title": "[新聞] 快訊／高雄黑心製麵店「地下水做麵」還加防腐劑　勒令停業",
       "link": "/bbs/Gossiping/M.1785492316.A.362",
       "author": "ihl123456",
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-171",
+      "recommendCount": "371",
+      "title": "[新聞] 沈伯洋訪美巧遇NBA球星！　宣布10月來台「與台灣人站在一起」",
+      "link": "/bbs/NBA/M.1785499713.A.69D",
+      "author": "gy00015",
+      "board": "NBA",
+      "publishTime": "2026/07/31 12:08",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "835",
       "recommendCount": "1446",
       "title": "[電競] 2026 LCK Regular Season W10D3",
@@ -161,16 +171,6 @@
       "author": "DrowningPool",
       "board": "Stock",
       "publishTime": "2026/07/31 03:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-165",
-      "recommendCount": "363",
-      "title": "[新聞] 沈伯洋訪美巧遇NBA球星！　宣布10月來台「與台灣人站在一起」",
-      "link": "/bbs/NBA/M.1785499713.A.69D",
-      "author": "gy00015",
-      "board": "NBA",
-      "publishTime": "2026/07/31 12:08",
       "imageUrl": ""
     },
     {
