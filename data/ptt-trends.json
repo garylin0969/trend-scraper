@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T22:02:32.650Z",
+  "updated": "2026-07-31T22:32:16.985Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "571",
-      "recommendCount": "740",
+      "recommendCount": "741",
       "title": "[請益] 散戶圖現在走到哪",
       "link": "/bbs/Stock/M.1785466891.A.594",
       "author": "crystal0100",
@@ -55,12 +55,22 @@
     },
     {
       "recommendScore": "233",
-      "recommendCount": "1204",
+      "recommendCount": "1205",
       "title": "[新聞] 法官開酸「不要用AI寫上訴狀」 判決內文要原告找「活生生」律師",
       "link": "/bbs/Gossiping/M.1785451616.A.934",
       "author": "ohfly",
       "board": "Gossiping",
       "publishTime": "2026/07/30 22:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "200",
+      "recommendCount": "617",
+      "title": "[新聞] 報告僅5頁…被批花巨資「假考察真觀光」",
+      "link": "/bbs/Gossiping/M.1785493074.A.0D2",
+      "author": "yahe0526",
+      "board": "Gossiping",
+      "publishTime": "2026/07/31 10:17",
       "imageUrl": ""
     },
     {
@@ -74,16 +84,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/1as8oTW/s/7ac5180556f9de0fd8854f6e3a0e8a88"
     },
     {
-      "recommendScore": "197",
-      "recommendCount": "614",
-      "title": "[新聞] 報告僅5頁…被批花巨資「假考察真觀光」",
-      "link": "/bbs/Gossiping/M.1785493074.A.0D2",
-      "author": "yahe0526",
-      "board": "Gossiping",
-      "publishTime": "2026/07/31 10:17",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "357",
       "recommendCount": "594",
       "title": "[新聞] 0050「1億男」郭哲榮強勢解套！台股盤中飆2700點…1100張暴賺近900萬",
@@ -91,6 +91,16 @@
       "author": "IzumiKonata",
       "board": "Stock",
       "publishTime": "2026/07/31 03:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "241",
+      "recommendCount": "446",
+      "title": "[新聞] 快訊／高雄黑心製麵店「地下水做麵」還加防腐劑　勒令停業",
+      "link": "/bbs/Gossiping/M.1785492316.A.362",
+      "author": "ihl123456",
+      "board": "Gossiping",
+      "publishTime": "2026/07/31 10:05",
       "imageUrl": ""
     },
     {
@@ -104,13 +114,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "238",
-      "recommendCount": "442",
-      "title": "[新聞] 快訊／高雄黑心製麵店「地下水做麵」還加防腐劑　勒令停業",
-      "link": "/bbs/Gossiping/M.1785492316.A.362",
-      "author": "ihl123456",
+      "recommendScore": "202",
+      "recommendCount": "484",
+      "title": "[新聞] 黃偉哲公布「深偽蔣萬安」語音　殷瑋：公然坦承深偽、檢警調也該查",
+      "link": "/bbs/Gossiping/M.1785471341.A.F1A",
+      "author": "iolcst",
       "board": "Gossiping",
-      "publishTime": "2026/07/31 10:05",
+      "publishTime": "2026/07/31 04:15",
       "imageUrl": ""
     },
     {
@@ -122,16 +132,6 @@
       "board": "Stock",
       "publishTime": "2026/07/31 04:14",
       "imageUrl": "https://cache.pttweb.cc/imgur/YguAldl/s/6ed0b4c097f3ccd31ae67915c14802f7"
-    },
-    {
-      "recommendScore": "202",
-      "recommendCount": "482",
-      "title": "[新聞] 黃偉哲公布「深偽蔣萬安」語音　殷瑋：公然坦承深偽、檢警調也該查",
-      "link": "/bbs/Gossiping/M.1785471341.A.F1A",
-      "author": "iolcst",
-      "board": "Gossiping",
-      "publishTime": "2026/07/31 04:15",
-      "imageUrl": ""
     },
     {
       "recommendScore": "295",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-160",
-      "recommendCount": "357",
+      "recommendScore": "-162",
+      "recommendCount": "360",
       "title": "[新聞] 沈伯洋訪美巧遇NBA球星！　宣布10月來台「與台灣人站在一起」",
       "link": "/bbs/NBA/M.1785499713.A.69D",
       "author": "gy00015",
