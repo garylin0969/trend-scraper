@@ -1,14 +1,22 @@
 {
-  "updated": "2026-08-01T08:57:02.769Z",
+  "updated": "2026-08-01T09:53:12.572Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-08-01T08:56:58.000Z",
+    "lastBuildDate": "2026-08-01T09:52:58.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
+      "description": "在現代戰爭中，環繞地球運行的人造衛星幾乎未曾受到波及；但到了21世紀，太空或許已不再是安全的避風港。",
+      "link": "https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-01T09:48:42.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e640/live/0d3629a0-8d8b-11f1-b2ab-0dd01740f9f6.jpg"
+    },
     {
       "title": "網傳胡錦濤舉家身亡　秦楓稱流傳帖文屬冒用",
       "description": "在黨政元老預計按傳統聚集北戴河休假之際，網傳前中共中央總書記胡錦濤與兒子胡海峰一家食物中毒身亡。原始消息來源後來被否認。",
@@ -16,14 +24,6 @@
       "pubDate": "2026-07-31T14:53:52.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx2r3xzp5z9o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9924/live/4501c470-8ce1-11f1-b8ee-9b3c26ad07bb.jpg"
-    },
-    {
-      "title": "特朗普公佈加沙繳械計劃 哈馬斯向BBC證實同意",
-      "description": "一名哈馬斯高級官員向BBC表示，該組織已同意美國總統特朗普提出的解除武裝計劃。",
-      "link": "https://www.bbc.com/zhongwen/articles/c8xn5pd7zneo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-31T06:10:24.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c8xn5pd7zneo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e768/live/8017c550-8ca5-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "title": "Apple警告Mac、iPhone及iPad未來將面臨「供應限制」",
@@ -48,6 +48,14 @@
       "pubDate": "2026-07-30T09:33:51.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cevm082pgm7o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/96ad/live/c412f1a0-8708-11f1-94fc-011b42f226be.jpg"
+    },
+    {
+      "title": "特朗普公佈加沙繳械計劃 哈馬斯向BBC證實同意",
+      "description": "一名哈馬斯高級官員向BBC表示，該組織已同意美國總統特朗普提出的解除武裝計劃。",
+      "link": "https://www.bbc.com/zhongwen/articles/c8xn5pd7zneo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-31T06:10:24.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c8xn5pd7zneo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e768/live/8017c550-8ca5-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "title": "驗血與超聲波檢查：韓國正成為全球醫療旅遊樞紐之一",
@@ -96,14 +104,6 @@
       "pubDate": "2026-07-29T07:08:24.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx2jxz2xdw4o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7d0c/live/300ac6b0-8b16-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "title": "四名女性指控傑瑞德·萊托涉及刑事不當性行為",
-      "description": "這名演員兼音樂人合共面對10名女性的指控。她們表示，自己在青少年時期曾遭他不當對待。",
-      "link": "https://www.bbc.com/zhongwen/articles/c36d5l57e7no/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-29T10:35:20.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c36d5l57e7no/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ba2/live/20745e50-8b39-11f1-b8ee-9b3c26ad07bb.jpg"
     },
     {
       "title": "OpenAI：失控AI曾試圖入侵其他公司系統",
