@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T01:13:38.063Z",
+  "updated": "2026-08-01T02:03:42.310Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "508",
-      "recommendCount": "635",
+      "recommendScore": "510",
+      "recommendCount": "637",
       "title": "[新聞] 力積電董事長黃崇仁離世 由副董事長謝再居依法代理董事長職務",
       "link": "/bbs/Stock/M.1785493056.A.66E",
       "author": "asd8604",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "202",
-      "recommendCount": "641",
+      "recommendScore": "207",
+      "recommendCount": "648",
       "title": "[新聞] 報告僅5頁…被批花巨資「假考察真觀光」",
       "link": "/bbs/Gossiping/M.1785493074.A.0D2",
       "author": "yahe0526",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "246",
-      "recommendCount": "454",
+      "recommendScore": "247",
+      "recommendCount": "457",
       "title": "[新聞] 快訊／高雄黑心製麵店「地下水做麵」還加防腐劑　勒令停業",
       "link": "/bbs/Gossiping/M.1785492316.A.362",
       "author": "ihl123456",
@@ -94,8 +94,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "-183",
+      "recommendCount": "401",
+      "title": "[新聞] 沈伯洋訪美巧遇NBA球星！　宣布10月來台「與台灣人站在一起」",
+      "link": "/bbs/NBA/M.1785499713.A.69D",
+      "author": "gy00015",
+      "board": "NBA",
+      "publishTime": "2026/07/31 12:08",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "202",
-      "recommendCount": "484",
+      "recommendCount": "485",
       "title": "[新聞] 黃偉哲公布「深偽蔣萬安」語音　殷瑋：公然坦承深偽、檢警調也該查",
       "link": "/bbs/Gossiping/M.1785471341.A.F1A",
       "author": "iolcst",
@@ -112,16 +122,6 @@
       "board": "Stock",
       "publishTime": "2026/07/31 04:14",
       "imageUrl": "https://cache.pttweb.cc/imgur/YguAldl/s/6ed0b4c097f3ccd31ae67915c14802f7"
-    },
-    {
-      "recommendScore": "-178",
-      "recommendCount": "392",
-      "title": "[新聞] 沈伯洋訪美巧遇NBA球星！　宣布10月來台「與台灣人站在一起」",
-      "link": "/bbs/NBA/M.1785499713.A.69D",
-      "author": "gy00015",
-      "board": "NBA",
-      "publishTime": "2026/07/31 12:08",
-      "imageUrl": ""
     },
     {
       "recommendScore": "295",
@@ -164,13 +164,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "225",
-      "recommendCount": "363",
-      "title": "[心得] 畢業了",
-      "link": "/bbs/Stock/M.1785461976.A.081",
-      "author": "jimmydabang",
-      "board": "Stock",
-      "publishTime": "2026/07/31 01:39",
+      "recommendScore": "137",
+      "recommendCount": "510",
+      "title": "[問卦] 新青安是亡國策",
+      "link": "/bbs/Gossiping/M.1785534204.A.1A5",
+      "author": "cloud72426",
+      "board": "Gossiping",
+      "publishTime": "2026/07/31 21:43",
       "imageUrl": ""
     },
     {
@@ -185,7 +185,7 @@
     },
     {
       "recommendScore": "216",
-      "recommendCount": "379",
+      "recommendCount": "380",
       "title": "[新聞] 徐佳青吃甜點、看電影列機密行程 竟說不可告人",
       "link": "/bbs/Gossiping/M.1785463791.A.EAF",
       "author": "TouchAgain",
