@@ -1,18 +1,8 @@
 {
-  "updated": "2026-08-01T08:23:31.396Z",
+  "updated": "2026-08-01T09:14:16.386Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "1266",
-      "recommendCount": "1498",
-      "title": "[公告] 趁亂公投",
-      "link": "/bbs/Stock/M.1785486408.A.3B8",
-      "author": "BlueBird5566",
-      "board": "Stock",
-      "publishTime": "2026/07/31 08:26",
-      "imageUrl": "https://cache.pttweb.cc/imgur/AGryipF/s/2ac483423a0846343a866cc083b8dd91"
-    },
     {
       "recommendScore": "886",
       "recommendCount": "1101",
@@ -21,11 +11,11 @@
       "author": "BlueBird5566",
       "board": "Stock",
       "publishTime": "2026/07/31 09:57",
-      "imageUrl": ""
+      "imageUrl": "https://cache.pttweb.cc/imgur/AGryipF/s/2ac483423a0846343a866cc083b8dd91"
     },
     {
-      "recommendScore": "383",
-      "recommendCount": "941",
+      "recommendScore": "397",
+      "recommendCount": "978",
       "title": "[新聞] 快新聞／PTT八卦版出手了！這2媒體慘遭封殺　連記者也遭殃",
       "link": "/bbs/Gossiping/M.1785556951.A.8DA",
       "author": "coon182",
@@ -44,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "291",
-      "recommendCount": "604",
+      "recommendScore": "300",
+      "recommendCount": "616",
       "title": "[新聞] 川普怒斥伊朗瘋了！　美媒曝：週末發動最猛烈空襲",
       "link": "/bbs/Stock/M.1785547947.A.B05",
       "author": "davidex",
@@ -64,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "216",
-      "recommendCount": "779",
+      "recommendScore": "218",
+      "recommendCount": "783",
       "title": "[問卦] 新青安是亡國策",
       "link": "/bbs/Gossiping/M.1785534204.A.1A5",
       "author": "cloud72426",
@@ -74,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "226",
-      "recommendCount": "570",
+      "recommendScore": "227",
+      "recommendCount": "580",
       "title": "[新聞] 今起無監委 監院至2028恐實質廢除",
       "link": "/bbs/Gossiping/M.1785545094.A.C5D",
       "author": "semih",
@@ -104,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "111",
-      "recommendCount": "424",
-      "title": "[新聞] 國際窗口被砍到負債11億！林宜瑾批：藍白惡鬥國家公共媒體",
-      "link": "/bbs/Gossiping/M.1785548068.A.8D0",
-      "author": "Taiwan007",
-      "board": "Gossiping",
-      "publishTime": "2026/08/01 01:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "153",
-      "recommendCount": "549",
+      "recommendScore": "185",
+      "recommendCount": "643",
       "title": "[新聞] 社宅驚爆恐直接歸零！地方也將「斷糧」",
       "link": "/bbs/Gossiping/M.1785559781.A.CE2",
       "author": "TouchAgain",
@@ -124,8 +104,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "94",
-      "recommendCount": "386",
+      "recommendScore": "112",
+      "recommendCount": "434",
+      "title": "[新聞] 國際窗口被砍到負債11億！林宜瑾批：藍白惡鬥國家公共媒體",
+      "link": "/bbs/Gossiping/M.1785548068.A.8D0",
+      "author": "Taiwan007",
+      "board": "Gossiping",
+      "publishTime": "2026/08/01 01:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "99",
+      "recommendCount": "397",
       "title": "[新聞] 出訪26天花115萬、考察報告僅5頁 徐佳青吐「搭商務艙」原因",
       "link": "/bbs/Gossiping/M.1785547039.A.EEE",
       "author": "betweenus020",
@@ -134,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "162",
-      "recommendCount": "461",
+      "recommendScore": "163",
+      "recommendCount": "466",
       "title": "[新聞] 金馬影帝李修賢公開虧周星馳「沒兒沒女沒家庭」：賺再多錢也沒用",
       "link": "/bbs/Gossiping/M.1785540364.A.4CA",
       "author": "lovea",
@@ -154,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "138",
-      "recommendCount": "457",
+      "recommendScore": "139",
+      "recommendCount": "458",
       "title": "[新聞] 通報109次無效！小學生遭爆4年來毀教具、毆師生 醫示警：這不是調皮",
       "link": "/bbs/Gossiping/M.1785501868.A.ADF",
       "author": "minche",
@@ -184,8 +174,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/AGryipF/s/2ac483423a0846343a866cc083b8dd91"
     },
     {
-      "recommendScore": "175",
-      "recommendCount": "352",
+      "recommendScore": "177",
+      "recommendCount": "354",
       "title": "[新聞] 監察院明起沒有監委！民眾黨設「熄燈日紀念碑」：監察失靈早已淪為廢物院",
       "link": "/bbs/Gossiping/M.1785510075.A.E07",
       "author": "TBOC",
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "146",
-      "recommendCount": "378",
-      "title": "[新聞] 快訊／高市早苗再發文「感謝名單提台灣」！",
-      "link": "/bbs/Gossiping/M.1785488717.A.3AF",
-      "author": "taiwan08",
+      "recommendScore": "119",
+      "recommendCount": "315",
+      "title": "[新聞] 補助經費恐全數刪除！TaiwanPlus發聲了「求立委手下留情」",
+      "link": "/bbs/Gossiping/M.1785567295.A.7FC",
+      "author": "william8403",
       "board": "Gossiping",
-      "publishTime": "2026/07/31 09:05",
+      "publishTime": "2026/08/01 06:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "132",
+      "recommendCount": "308",
+      "title": "[請益] 禮拜一走勢",
+      "link": "/bbs/Stock/M.1785508634.A.80B",
+      "author": "sky2150",
+      "board": "Stock",
+      "publishTime": "2026/07/31 14:37",
       "imageUrl": ""
     }
   ]
