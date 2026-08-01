@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-01T05:38:21.661Z",
+  "updated": "2026-08-01T06:33:55.709Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "1266",
+      "recommendScore": "1267",
       "recommendCount": "1499",
       "title": "[公告] 趁亂公投",
       "link": "/bbs/Stock/M.1785486408.A.3B8",
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/AGryipF/s/2ac483423a0846343a866cc083b8dd91"
     },
     {
-      "recommendScore": "884",
-      "recommendCount": "1099",
+      "recommendScore": "886",
+      "recommendCount": "1101",
       "title": "[情報] 6770 力積電 本公司董事長逝世",
       "link": "/bbs/Stock/M.1785491861.A.3EB",
       "author": "BlueBird5566",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "211",
-      "recommendCount": "654",
+      "recommendScore": "212",
+      "recommendCount": "655",
       "title": "[新聞] 報告僅5頁…被批花巨資「假考察真觀光」",
       "link": "/bbs/Gossiping/M.1785493074.A.0D2",
       "author": "yahe0526",
@@ -44,8 +44,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "260",
-      "recommendCount": "527",
+      "recommendScore": "318",
+      "recommendCount": "753",
+      "title": "[新聞] 快新聞／PTT八卦版出手了！這2媒體慘遭封殺　連記者也遭殃",
+      "link": "/bbs/Gossiping/M.1785556951.A.8DA",
+      "author": "coon182",
+      "board": "Gossiping",
+      "publishTime": "2026/08/01 04:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "275",
+      "recommendCount": "560",
       "title": "[新聞] 川普怒斥伊朗瘋了！　美媒曝：週末發動最猛烈空襲",
       "link": "/bbs/Stock/M.1785547947.A.B05",
       "author": "davidex",
@@ -54,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "199",
-      "recommendCount": "728",
+      "recommendScore": "203",
+      "recommendCount": "753",
       "title": "[問卦] 新青安是亡國策",
       "link": "/bbs/Gossiping/M.1785534204.A.1A5",
       "author": "cloud72426",
@@ -64,8 +74,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "216",
+      "recommendCount": "549",
+      "title": "[新聞] 今起無監委 監院至2028恐實質廢除",
+      "link": "/bbs/Gossiping/M.1785545094.A.C5D",
+      "author": "semih",
+      "board": "Gossiping",
+      "publishTime": "2026/08/01 00:44",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-202",
-      "recommendCount": "443",
+      "recommendCount": "448",
       "title": "[新聞] 沈伯洋訪美巧遇NBA球星！　宣布10月來台「與台灣人站在一起」",
       "link": "/bbs/NBA/M.1785499713.A.69D",
       "author": "gy00015",
@@ -81,36 +101,6 @@
       "author": "ihl123456",
       "board": "Gossiping",
       "publishTime": "2026/07/31 10:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "205",
-      "recommendCount": "505",
-      "title": "[新聞] 今起無監委 監院至2028恐實質廢除",
-      "link": "/bbs/Gossiping/M.1785545094.A.C5D",
-      "author": "semih",
-      "board": "Gossiping",
-      "publishTime": "2026/08/01 00:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "319",
-      "recommendCount": "508",
-      "title": "[新聞] 0050郭哲榮砸1億大賺千萬打臉酸民！罕見與台積電（2330）雙雙亮燈漲停",
-      "link": "/bbs/Stock/M.1785477762.A.6E9",
-      "author": "diefishfish",
-      "board": "Stock",
-      "publishTime": "2026/07/31 06:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "231",
-      "recommendCount": "557",
-      "title": "[新聞] 快新聞／PTT八卦版出手了！這2媒體慘遭封殺　連記者也遭殃",
-      "link": "/bbs/Gossiping/M.1785556951.A.8DA",
-      "author": "coon182",
-      "board": "Gossiping",
-      "publishTime": "2026/08/01 04:02",
       "imageUrl": ""
     },
     {
@@ -134,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "104",
+      "recommendCount": "403",
+      "title": "[新聞] 國際窗口被砍到負債11億！林宜瑾批：藍白惡鬥國家公共媒體",
+      "link": "/bbs/Gossiping/M.1785548068.A.8D0",
+      "author": "Taiwan007",
+      "board": "Gossiping",
+      "publishTime": "2026/08/01 01:34",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "247",
       "recommendCount": "420",
       "title": "[情報] 0731 上市外資買賣超排行",
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "94",
-      "recommendCount": "364",
-      "title": "[新聞] 國際窗口被砍到負債11億！林宜瑾批：藍白惡鬥國家公共媒體",
-      "link": "/bbs/Gossiping/M.1785548068.A.8D0",
-      "author": "Taiwan007",
-      "board": "Gossiping",
-      "publishTime": "2026/08/01 01:34",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "235",
       "recommendCount": "305",
       "title": "[炸裂] 魔鷹 NO.13 逆轉大滿貫",
@@ -161,6 +151,26 @@
       "author": "carlchang092",
       "board": "Baseball",
       "publishTime": "2026/07/31 13:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "148",
+      "recommendCount": "441",
+      "title": "[新聞] 金馬影帝李修賢公開虧周星馳「沒兒沒女沒家庭」：賺再多錢也沒用",
+      "link": "/bbs/Gossiping/M.1785540364.A.4CA",
+      "author": "lovea",
+      "board": "Gossiping",
+      "publishTime": "2026/07/31 23:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "86",
+      "recommendCount": "360",
+      "title": "[新聞] 出訪26天花115萬、考察報告僅5頁 徐佳青吐「搭商務艙」原因",
+      "link": "/bbs/Gossiping/M.1785547039.A.EEE",
+      "author": "betweenus020",
+      "board": "Gossiping",
+      "publishTime": "2026/08/01 01:17",
       "imageUrl": ""
     },
     {
@@ -185,23 +195,13 @@
     },
     {
       "recommendScore": "210",
-      "recommendCount": "327",
+      "recommendCount": "328",
       "title": "[新聞] 哲哲來了！郭哲榮受訪曝賺一千萬　台股盤中瘋漲最多3281點終場收43119",
       "link": "/bbs/Stock/M.1785496463.A.72D",
       "author": "Homura",
       "board": "Stock",
       "publishTime": "2026/07/31 11:14",
       "imageUrl": "https://cache.pttweb.cc/imgur/AGryipF/s/2ac483423a0846343a866cc083b8dd91"
-    },
-    {
-      "recommendScore": "144",
-      "recommendCount": "413",
-      "title": "[新聞] 金馬影帝李修賢公開虧周星馳「沒兒沒女沒家庭」：賺再多錢也沒用",
-      "link": "/bbs/Gossiping/M.1785540364.A.4CA",
-      "author": "lovea",
-      "board": "Gossiping",
-      "publishTime": "2026/07/31 23:26",
-      "imageUrl": ""
     }
   ]
 }
