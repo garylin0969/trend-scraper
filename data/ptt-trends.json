@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T02:03:42.310Z",
+  "updated": "2026-08-01T03:16:44.466Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -25,22 +25,12 @@
     },
     {
       "recommendScore": "880",
-      "recommendCount": "1091",
+      "recommendCount": "1092",
       "title": "[情報] 6770 力積電 本公司董事長逝世",
       "link": "/bbs/Stock/M.1785491861.A.3EB",
       "author": "BlueBird5566",
       "board": "Stock",
       "publishTime": "2026/07/31 09:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "571",
-      "recommendCount": "742",
-      "title": "[請益] 散戶圖現在走到哪",
-      "link": "/bbs/Stock/M.1785466891.A.594",
-      "author": "crystal0100",
-      "board": "Stock",
-      "publishTime": "2026/07/31 03:01",
       "imageUrl": ""
     },
     {
@@ -54,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "648",
+      "recommendScore": "210",
+      "recommendCount": "652",
       "title": "[新聞] 報告僅5頁…被批花巨資「假考察真觀光」",
       "link": "/bbs/Gossiping/M.1785493074.A.0D2",
       "author": "yahe0526",
@@ -74,13 +64,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "247",
-      "recommendCount": "457",
+      "recommendScore": "250",
+      "recommendCount": "464",
       "title": "[新聞] 快訊／高雄黑心製麵店「地下水做麵」還加防腐劑　勒令停業",
       "link": "/bbs/Gossiping/M.1785492316.A.362",
       "author": "ihl123456",
       "board": "Gossiping",
       "publishTime": "2026/07/31 10:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-198",
+      "recommendCount": "417",
+      "title": "[新聞] 沈伯洋訪美巧遇NBA球星！　宣布10月來台「與台灣人站在一起」",
+      "link": "/bbs/NBA/M.1785499713.A.69D",
+      "author": "gy00015",
+      "board": "NBA",
+      "publishTime": "2026/07/31 12:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "175",
+      "recommendCount": "592",
+      "title": "[問卦] 新青安是亡國策",
+      "link": "/bbs/Gossiping/M.1785534204.A.1A5",
+      "author": "cloud72426",
+      "board": "Gossiping",
+      "publishTime": "2026/07/31 21:43",
       "imageUrl": ""
     },
     {
@@ -94,18 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-183",
-      "recommendCount": "401",
-      "title": "[新聞] 沈伯洋訪美巧遇NBA球星！　宣布10月來台「與台灣人站在一起」",
-      "link": "/bbs/NBA/M.1785499713.A.69D",
-      "author": "gy00015",
-      "board": "NBA",
-      "publishTime": "2026/07/31 12:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "202",
-      "recommendCount": "485",
+      "recommendScore": "204",
+      "recommendCount": "489",
       "title": "[新聞] 黃偉哲公布「深偽蔣萬安」語音　殷瑋：公然坦承深偽、檢警調也該查",
       "link": "/bbs/Gossiping/M.1785471341.A.F1A",
       "author": "iolcst",
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "137",
-      "recommendCount": "510",
-      "title": "[問卦] 新青安是亡國策",
-      "link": "/bbs/Gossiping/M.1785534204.A.1A5",
-      "author": "cloud72426",
-      "board": "Gossiping",
-      "publishTime": "2026/07/31 21:43",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "246",
       "recommendCount": "419",
       "title": "[情報] 0731 上市外資買賣超排行",
@@ -184,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "216",
-      "recommendCount": "380",
-      "title": "[新聞] 徐佳青吃甜點、看電影列機密行程 竟說不可告人",
-      "link": "/bbs/Gossiping/M.1785463791.A.EAF",
-      "author": "TouchAgain",
-      "board": "Gossiping",
-      "publishTime": "2026/07/31 02:09",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "235",
       "recommendCount": "305",
       "title": "[炸裂] 魔鷹 NO.13 逆轉大滿貫",
@@ -201,6 +181,26 @@
       "author": "carlchang092",
       "board": "Baseball",
       "publishTime": "2026/07/31 13:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "183",
+      "recommendCount": "326",
+      "title": "[情報] 115年07月31日信用交易統計",
+      "link": "/bbs/Stock/M.1785502598.A.2F3",
+      "author": "steward135",
+      "board": "Stock",
+      "publishTime": "2026/07/31 12:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "136",
+      "recommendCount": "450",
+      "title": "[新聞] 通報109次無效！小學生遭爆4年來毀教具、毆師生 醫示警：這不是調皮",
+      "link": "/bbs/Gossiping/M.1785501868.A.ADF",
+      "author": "minche",
+      "board": "Gossiping",
+      "publishTime": "2026/07/31 12:44",
       "imageUrl": ""
     }
   ]
