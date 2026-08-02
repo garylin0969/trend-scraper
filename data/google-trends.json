@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T22:23:43.400Z",
+  "updated": "2026-08-02T22:51:47.579Z",
   "trends": [
     {
       "googleTrend": "遺產",
@@ -8,8 +8,13 @@
     },
     {
       "googleTrend": "水 煮 蛋",
+      "searchVolume": "500+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "柴油",
       "searchVolume": "200+",
-      "started": "1 小時前"
+      "started": "10 分鐘前"
     },
     {
       "googleTrend": "陳重銘",
@@ -17,19 +22,34 @@
       "started": "1 小時前"
     },
     {
-      "googleTrend": "柯志恩",
-      "searchVolume": "200+",
-      "started": "20 分鐘前"
-    },
-    {
       "googleTrend": "先進封裝",
-      "searchVolume": "100+",
+      "searchVolume": "200+",
       "started": "1 小時前"
     },
     {
       "googleTrend": "鋼",
+      "searchVolume": "200+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "taiwan",
       "searchVolume": "100+",
-      "started": "40 分鐘前"
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "柯志恩",
+      "searchVolume": "200+",
+      "started": "50 分鐘前"
+    },
+    {
+      "googleTrend": "華盛頓公開賽",
+      "searchVolume": "100+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "日本氣象廳",
+      "searchVolume": "100+",
+      "started": "30 分鐘前"
     }
   ]
 }
