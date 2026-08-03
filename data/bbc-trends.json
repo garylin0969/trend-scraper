@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-03T03:21:31.459Z",
+  "updated": "2026-08-03T04:54:24.329Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-08-03T03:21:21.000Z",
+    "lastBuildDate": "2026-08-03T04:54:17.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -16,6 +16,14 @@
       "pubDate": "2026-08-03T01:19:18.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cp8xzegl95jo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b7b3/live/a4f3cfb0-8ce4-11f1-a65d-4f54e31f4a67.jpg"
+    },
+    {
+      "title": "美日罕有聯手干預匯市，圖阻日圓跌至40年來新低",
+      "description": "兩國均表示，未來如有需要，將毫不猶豫再次採取聯合干預行動。",
+      "link": "https://www.bbc.com/zhongwen/articles/cj4kykyvnlko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-03T03:46:57.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cj4kykyvnlko/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/717b/live/62dcb0b0-8ed3-11f1-b2f6-e1f7eea93d58.jpg"
     },
     {
       "title": "特朗普表示同意取消對伊朗的打擊，前提是能「迅速」達成協議",
@@ -42,14 +50,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/affe/live/0ea2c6d0-8e2c-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
-      "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
-      "description": "在現代戰爭中，環繞地球運行的人造衛星幾乎未曾受到波及；但到了21世紀，太空或許已不再是安全的避風港。",
-      "link": "https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-01T09:56:01.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e640/live/0d3629a0-8d8b-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
       "title": "西班牙移民危機如何引發政治風暴  社交媒體推波助瀾",
       "description": "數萬摩洛哥移民游泳及徒步湧入西班牙飛地休達，至少67人死亡。多數已返回，但事件引發歐盟政治風暴，社群媒體假訊息成推手。",
       "link": "https://www.bbc.com/zhongwen/articles/cy07vj18epyo/trad?at_medium=RSS&at_campaign=rss",
@@ -66,20 +66,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9924/live/4501c470-8ce1-11f1-b8ee-9b3c26ad07bb.jpg"
     },
     {
+      "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
+      "description": "在現代戰爭中，環繞地球運行的人造衛星幾乎未曾受到波及；但到了21世紀，太空或許已不再是安全的避風港。",
+      "link": "https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-01T09:56:01.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e640/live/0d3629a0-8d8b-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
       "title": "Apple警告Mac、iPhone及iPad未來將面臨「供應限制」",
       "description": "因為蘋果公司發出未來幾個月銷售放緩的警告，股價因而暴跌。",
       "link": "https://www.bbc.com/zhongwen/articles/cx27x8yxzmmo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-07-31T06:32:17.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx27x8yxzmmo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8a0d/live/81d2aa70-8c52-11f1-ba3e-21e9a16dd8e9.jpg"
-    },
-    {
-      "title": "香港科大研究：兩歲前限制攝取糖分與較佳腦部健康有關聯",
-      "description": "來自香港科技大學廣州分校的一項研究顯示，生命早期較少攝取糖分有助長期腦部健康，但相關證據尚未有定論。",
-      "link": "https://www.bbc.com/zhongwen/articles/c78gny39xl8o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-31T00:27:53.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c78gny39xl8o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1448/live/0dc2e760-8b69-11f1-aeab-95d4580645f0.jpg"
     },
     {
       "title": "中國機器人大軍如何改變英國零售業？",
