@@ -1,17 +1,37 @@
 {
-  "updated": "2026-08-03T06:30:35.611Z",
+  "updated": "2026-08-03T07:46:02.107Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "286",
-      "recommendCount": "798",
+      "recommendScore": "209",
+      "recommendCount": "759",
+      "title": "[問卦] 哇靠 國家級警報啊",
+      "link": "/bbs/Gossiping/M.1785738653.A.575",
+      "author": "lianpig5566",
+      "board": "Gossiping",
+      "publishTime": "2026/08/03 06:30",
+      "imageUrl": "https://cache.pttweb.cc/imgur/zgbjggJ/s/e5bddf3fa0a26c87367986dabdbb759f"
+    },
+    {
+      "recommendScore": "284",
+      "recommendCount": "820",
       "title": "[新聞] EZ Way是私人公司經營驚呆網友　網紅傻眼：私企能這樣取得個資",
       "link": "/bbs/Gossiping/M.1785709007.A.A7A",
       "author": "ggbi4zzz",
       "board": "Gossiping",
       "publishTime": "2026/08/02 22:16",
       "imageUrl": "https://cache.pttweb.cc/imgur/zgbjggJ/s/e5bddf3fa0a26c87367986dabdbb759f"
+    },
+    {
+      "recommendScore": "339",
+      "recommendCount": "536",
+      "title": "[情報] 賽爾提克計畫打包PG換取更高級別的球員",
+      "link": "/bbs/NBA/M.1785719614.A.6A2",
+      "author": "mike37",
+      "board": "NBA",
+      "publishTime": "2026/08/03 01:13",
+      "imageUrl": ""
     },
     {
       "recommendScore": "98",
@@ -24,34 +44,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "332",
-      "recommendCount": "527",
-      "title": "[情報] 賽爾提克計畫打包PG換取更高級別的球員",
-      "link": "/bbs/NBA/M.1785719614.A.6A2",
-      "author": "mike37",
-      "board": "NBA",
-      "publishTime": "2026/08/03 01:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "270",
-      "recommendCount": "389",
-      "title": "[爆卦] 有人拿錯鄭怡靜的行李箱  內有比賽用品",
-      "link": "/bbs/Gossiping/M.1785677940.A.826",
-      "author": "tmac0818",
-      "board": "Gossiping",
-      "publishTime": "2026/08/02 13:39",
-      "imageUrl": "https://cache.pttweb.cc/imgur/fQR7J8X/s/16c462fc073adb43f8ac0250f537365e"
-    },
-    {
-      "recommendScore": "179",
-      "recommendCount": "565",
+      "recommendScore": "191",
+      "recommendCount": "591",
       "title": "[新聞] 詹皇加入七六人　杜蘭特酸雙標：我去勇士被噴然後現在4巨頭",
       "link": "/bbs/NBA/M.1785724559.A.A59",
       "author": "whj0530",
       "board": "NBA",
       "publishTime": "2026/08/03 02:35",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "271",
+      "recommendCount": "394",
+      "title": "[爆卦] 有人拿錯鄭怡靜的行李箱  內有比賽用品",
+      "link": "/bbs/Gossiping/M.1785677940.A.826",
+      "author": "tmac0818",
+      "board": "Gossiping",
+      "publishTime": "2026/08/02 13:39",
+      "imageUrl": "https://cache.pttweb.cc/imgur/fQR7J8X/s/16c462fc073adb43f8ac0250f537365e"
     },
     {
       "recommendScore": "215",
@@ -64,6 +74,36 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/XSfHkLb/s/87ccd1801eb7f30e325ae2c08558024f"
     },
     {
+      "recommendScore": "133",
+      "recommendCount": "349",
+      "title": "[新聞] 快新聞／最新網路民調出爐！他支持度過半輾壓藍營巨星　沈伯洋火線發聲",
+      "link": "/bbs/Gossiping/M.1785728287.A.05B",
+      "author": "israelii",
+      "board": "Gossiping",
+      "publishTime": "2026/08/03 03:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "241",
+      "recommendCount": "567",
+      "title": "[新聞] 台糖不必通報？ 張啓楷翻出食藥署蘇丹紅新聞稿：原料有危害需通報",
+      "link": "/bbs/Gossiping/M.1785732352.A.063",
+      "author": "zoeapezoo",
+      "board": "Gossiping",
+      "publishTime": "2026/08/03 04:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "164",
+      "recommendCount": "355",
+      "title": "[新聞] 韓股重摔爆發撤資潮！怒火直指李在明政府，部分散戶誓言「永不進場」",
+      "link": "/bbs/Stock/M.1785718704.A.278",
+      "author": "justin531xx",
+      "board": "Stock",
+      "publishTime": "2026/08/03 00:58",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "62",
       "recommendCount": "327",
       "title": "[新聞] 色公公趁兒入獄「2度硬上」：一下下就好！害媳「懷孕逼墮胎」含恨亡…法官怒重判",
@@ -74,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "218",
-      "recommendCount": "673",
+      "recommendScore": "219",
+      "recommendCount": "674",
       "title": "[問卦] 台灣故宮博物院在全世界PR多少?",
       "link": "/bbs/Gossiping/M.1785663850.A.D03",
       "author": "ahw12000",
@@ -94,38 +134,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "157",
-      "recommendCount": "346",
-      "title": "[新聞] 韓股重摔爆發撤資潮！怒火直指李在明政府，部分散戶誓言「永不進場」",
-      "link": "/bbs/Stock/M.1785718704.A.278",
-      "author": "justin531xx",
+      "recommendScore": "220",
+      "recommendCount": "282",
+      "title": "[標的] 台指期 空下去找媽媽",
+      "link": "/bbs/Stock/M.1785729787.A.1A7",
+      "author": "hondata",
       "board": "Stock",
-      "publishTime": "2026/08/03 00:58",
+      "publishTime": "2026/08/03 04:03",
       "imageUrl": ""
     },
     {
-      "recommendScore": "699",
-      "recommendCount": "1446",
-      "title": "[電競] 2026 LCK Regular Season W10D5",
-      "link": "/bbs/LoL/M.1785654759.A.E20",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/08/02 07:12",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "155",
-      "recommendCount": "391",
-      "title": "[閒聊] 制裁者演員：害怕比特犬是對狗的種族歧視",
-      "link": "/bbs/C_Chat/M.1785653079.A.B5F",
-      "author": "firewater899",
-      "board": "C_Chat",
-      "publishTime": "2026/08/02 06:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "157",
-      "recommendCount": "378",
+      "recommendScore": "158",
+      "recommendCount": "382",
       "title": "[問卦] 不給備品的國旅到底是白痴三小的",
       "link": "/bbs/Gossiping/M.1785659970.A.336",
       "author": "bang59487",
@@ -134,58 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "113",
-      "recommendCount": "303",
-      "title": "[新聞] 快新聞／最新網路民調出爐！他支持度過半輾壓藍營巨星　沈伯洋火線發聲",
-      "link": "/bbs/Gossiping/M.1785728287.A.05B",
-      "author": "israelii",
-      "board": "Gossiping",
-      "publishTime": "2026/08/03 03:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "171",
-      "recommendCount": "338",
-      "title": "[爆卦] 尚市長因為反公視遭死亡威脅...",
-      "link": "/bbs/Gossiping/M.1785688589.A.3C5",
-      "author": "jeanvanjohn",
-      "board": "Gossiping",
-      "publishTime": "2026/08/02 16:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "122",
-      "recommendCount": "351",
-      "title": "[新聞] 「台灣太美了」 BBC刊文介紹1000公里單車環台魅力",
-      "link": "/bbs/Gossiping/M.1785714073.A.9E4",
-      "author": "bird09",
-      "board": "Gossiping",
-      "publishTime": "2026/08/02 23:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "71",
-      "recommendCount": "774",
-      "title": "Re: [花邊] 富保羅搭檔：我認為76人沒辦法留下Embiid",
-      "link": "/bbs/NBA/M.1785663214.A.846",
-      "author": "sck921",
-      "board": "NBA",
-      "publishTime": "2026/08/02 09:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "215",
-      "recommendCount": "471",
-      "title": "[新聞] 台糖不必通報？ 張啓楷翻出食藥署蘇丹紅新聞稿：原料有危害需通報",
-      "link": "/bbs/Gossiping/M.1785732352.A.063",
-      "author": "zoeapezoo",
-      "board": "Gossiping",
-      "publishTime": "2026/08/03 04:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "117",
-      "recommendCount": "339",
+      "recommendScore": "120",
+      "recommendCount": "357",
       "title": "[新聞] 致癌油案知情不報？經濟部：台糖是受害者也是好寶寶",
       "link": "/bbs/Gossiping/M.1785727584.A.1FE",
       "author": "seiya2000",
@@ -194,13 +164,43 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "83",
-      "recommendCount": "383",
-      "title": "[新聞] 台糖退回中聯粗油未通報　石崇良：原料無強制通報義務",
-      "link": "/bbs/Gossiping/M.1785679570.A.9BF",
-      "author": "STi2011",
+      "recommendScore": "172",
+      "recommendCount": "341",
+      "title": "[爆卦] 尚市長因為反公視遭死亡威脅...",
+      "link": "/bbs/Gossiping/M.1785688589.A.3C5",
+      "author": "jeanvanjohn",
       "board": "Gossiping",
-      "publishTime": "2026/08/02 14:06",
+      "publishTime": "2026/08/02 16:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "158",
+      "recommendCount": "347",
+      "title": "[新聞] 蘇巧慧請假「立院表決竟燈亮47次」　民眾黨告發偽造文書",
+      "link": "/bbs/Gossiping/M.1785737414.A.5C5",
+      "author": "jeff0025",
+      "board": "Gossiping",
+      "publishTime": "2026/08/03 06:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "123",
+      "recommendCount": "354",
+      "title": "[新聞] 「台灣太美了」 BBC刊文介紹1000公里單車環台魅力",
+      "link": "/bbs/Gossiping/M.1785714073.A.9E4",
+      "author": "bird09",
+      "board": "Gossiping",
+      "publishTime": "2026/08/02 23:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "70",
+      "recommendCount": "776",
+      "title": "Re: [花邊] 富保羅搭檔：我認為76人沒辦法留下Embiid",
+      "link": "/bbs/NBA/M.1785663214.A.846",
+      "author": "sck921",
+      "board": "NBA",
+      "publishTime": "2026/08/02 09:33",
       "imageUrl": ""
     }
   ]
