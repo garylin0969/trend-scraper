@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T00:03:25.010Z",
+  "updated": "2026-08-04T00:52:28.196Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ZJ8PRrJ/s/432291a9bd8891d354c774b7c7fa844f"
     },
     {
-      "recommendScore": "375",
-      "recommendCount": "728",
+      "recommendScore": "374",
+      "recommendCount": "729",
       "title": "[新聞] 蘇巧慧請假「立院表決竟燈亮47次」　民眾黨告發偽造文書",
       "link": "/bbs/Gossiping/M.1785737414.A.5C5",
       "author": "jeff0025",
@@ -24,7 +24,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "368",
+      "recommendScore": "372",
       "recommendCount": "1475",
       "title": "[新聞] EZ WAY個資議題延燒　關務署長提3澄清：非強制使用",
       "link": "/bbs/Stock/M.1785760523.A.F2C",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "217",
-      "recommendCount": "690",
+      "recommendScore": "218",
+      "recommendCount": "694",
       "title": "[新聞] 詹皇加入七六人　杜蘭特酸雙標：我去勇士被噴然後現在4巨頭",
       "link": "/bbs/NBA/M.1785724559.A.A59",
       "author": "whj0530",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "307",
-      "recommendCount": "415",
+      "recommendScore": "312",
+      "recommendCount": "421",
       "title": "[問卦] 記者周亭瑋為啥不用AI生圖 要自己拍套圖",
       "link": "/bbs/Gossiping/M.1785736632.A.71C",
       "author": "poeta",
@@ -85,7 +85,7 @@
     },
     {
       "recommendScore": "231",
-      "recommendCount": "459",
+      "recommendCount": "461",
       "title": "[新聞] 台糖沒有義務通報致癌油？高檢署主任：通報是法律明定的義務",
       "link": "/bbs/Gossiping/M.1785750258.A.46D",
       "author": "Calcifer",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "321",
-      "recommendCount": "409",
+      "recommendScore": "323",
+      "recommendCount": "412",
       "title": "[標的] 00631L 元大50正二",
       "link": "/bbs/Stock/M.1785749005.A.D9A",
       "author": "sorrowfulsad",
@@ -144,8 +144,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "212",
-      "recommendCount": "478",
+      "recommendScore": "230",
+      "recommendCount": "293",
+      "title": "Re: [LIVE] 波超 斯塞新波貢 @ 克拉科維亞 (場中)",
+      "link": "/bbs/SportLottery/M.1785783516.A.09C",
+      "author": "lotterywin",
+      "board": "SportLottery",
+      "publishTime": "2026/08/03 18:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "213",
+      "recommendCount": "479",
       "title": "[新聞] NBA》吃定了柯瑞的忠誠而不積極補強？美媒批：換成詹皇早就跑了",
       "link": "/bbs/NBA/M.1785733200.A.2B5",
       "author": "betweenus020",
@@ -174,6 +184,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ZJ8PRrJ/s/432291a9bd8891d354c774b7c7fa844f"
     },
     {
+      "recommendScore": "177",
+      "recommendCount": "349",
+      "title": "[新聞] 台積電CoWoS勁敵！英特爾先進封裝良率逼近90％　成本低5成",
+      "link": "/bbs/Stock/M.1785768906.A.EB0",
+      "author": "tanted",
+      "board": "Stock",
+      "publishTime": "2026/08/03 14:55",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "256",
       "recommendCount": "273",
       "title": "Re: [LIVE] 阿甲 科爾多瓦學院 @ 拉努斯 (場中)",
@@ -181,26 +201,6 @@
       "author": "b032819",
       "board": "SportLottery",
       "publishTime": "2026/08/03 02:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "204",
-      "recommendCount": "259",
-      "title": "Re: [LIVE] 波超 斯塞新波貢 @ 克拉科維亞 (場中)",
-      "link": "/bbs/SportLottery/M.1785783516.A.09C",
-      "author": "lotterywin",
-      "board": "SportLottery",
-      "publishTime": "2026/08/03 18:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "159",
-      "recommendCount": "316",
-      "title": "[新聞] 台積電CoWoS勁敵！英特爾先進封裝良率逼近90％　成本低5成",
-      "link": "/bbs/Stock/M.1785768906.A.EB0",
-      "author": "tanted",
-      "board": "Stock",
-      "publishTime": "2026/08/03 14:55",
       "imageUrl": ""
     }
   ]
