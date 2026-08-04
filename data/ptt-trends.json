@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T17:09:15.953Z",
+  "updated": "2026-08-04T17:50:32.381Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "423",
-      "recommendCount": "442",
+      "recommendScore": "430",
+      "recommendCount": "449",
       "title": "Re: [推薦] 棒球[小律師]8/4日本小棒棒",
       "link": "/bbs/SportLottery/M.1785844126.A.D5F",
       "author": "lotterywin",
@@ -35,12 +35,22 @@
     },
     {
       "recommendScore": "295",
-      "recommendCount": "379",
+      "recommendCount": "380",
       "title": "Re: [LIVE] 波超 斯塞新波貢 @ 克拉科維亞 (場中)",
       "link": "/bbs/SportLottery/M.1785783516.A.09C",
       "author": "lotterywin",
       "board": "SportLottery",
       "publishTime": "2026/08/03 18:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "236",
+      "recommendCount": "480",
+      "title": "[新聞] 沈伯洋大跳「台北順起來」手勢舞　藍委酸：大罷免既視感",
+      "link": "/bbs/Gossiping/M.1785842578.A.57B",
+      "author": "chopper594",
+      "board": "Gossiping",
+      "publishTime": "2026/08/04 11:22",
       "imageUrl": ""
     },
     {
@@ -51,16 +61,6 @@
       "author": "d8917936",
       "board": "Gossiping",
       "publishTime": "2026/08/04 01:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "230",
-      "recommendCount": "467",
-      "title": "[新聞] 沈伯洋大跳「台北順起來」手勢舞　藍委酸：大罷免既視感",
-      "link": "/bbs/Gossiping/M.1785842578.A.57B",
-      "author": "chopper594",
-      "board": "Gossiping",
-      "publishTime": "2026/08/04 11:22",
       "imageUrl": ""
     },
     {
@@ -124,18 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "270",
-      "recommendCount": "622",
-      "title": "[閒聊] 有在辦比賽的才叫卡牌店，其他應該叫精",
-      "link": "/bbs/C_Chat/M.1785808828.A.8A5",
-      "author": "gino861027",
-      "board": "C_Chat",
-      "publishTime": "2026/08/04 02:00",
-      "imageUrl": "https://cache.pttweb.cc/imgur/8W5bvZE/s/f41235b88c1aecc22d638eb6cb594933"
-    },
-    {
-      "recommendScore": "174",
-      "recommendCount": "296",
+      "recommendScore": "175",
+      "recommendCount": "301",
       "title": "[新聞] 日本AV女優豪捐300萬日圓賑災 遭酸「髒錢」高EQ回應",
       "link": "/bbs/Gossiping/M.1785840257.A.198",
       "author": "hbl420ii",
@@ -144,23 +134,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "92",
-      "recommendCount": "337",
+      "recommendScore": "269",
+      "recommendCount": "623",
+      "title": "[閒聊] 有在辦比賽的才叫卡牌店，其他應該叫精",
+      "link": "/bbs/C_Chat/M.1785808828.A.8A5",
+      "author": "gino861027",
+      "board": "C_Chat",
+      "publishTime": "2026/08/04 02:00",
+      "imageUrl": "https://cache.pttweb.cc/imgur/8W5bvZE/s/f41235b88c1aecc22d638eb6cb594933"
+    },
+    {
+      "recommendScore": "93",
+      "recommendCount": "338",
       "title": "[新聞] 劉寶傑：綠軍手段粗暴 為鞏固政權拋棄價值「那你就是以前的國民黨」",
       "link": "/bbs/Gossiping/M.1785834737.A.A56",
       "author": "abiann",
       "board": "Gossiping",
       "publishTime": "2026/08/04 09:12",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "133",
-      "recommendCount": "294",
-      "title": "[新聞] 人體菸灰缸！極變態凌虐逼14歲少女賣淫",
-      "link": "/bbs/Gossiping/M.1785779028.A.3DC",
-      "author": "wu73",
-      "board": "Gossiping",
-      "publishTime": "2026/08/03 17:43",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "saber50116",
       "board": "Stock",
       "publishTime": "2026/08/04 08:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "116",
+      "recommendCount": "275",
+      "title": "[新聞] 鄭文燦貪汙案今將由審判長補詰問 釐清500萬是否為對價",
+      "link": "/bbs/Gossiping/M.1785805089.A.C9A",
+      "author": "pm2001",
+      "board": "Gossiping",
+      "publishTime": "2026/08/04 00:58",
       "imageUrl": ""
     }
   ]
