@@ -1,22 +1,14 @@
 {
-  "updated": "2026-08-05T10:14:37.698Z",
+  "updated": "2026-08-05T12:16:39.710Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-08-05T10:14:33.000Z",
+    "lastBuildDate": "2026-08-05T12:16:32.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
-    {
-      "title": "從「勸阻」到限制出境，中國如何重新定義出入境自由？",
-      "description": "中國公布新出入境管理規定引起廣泛討論，當中包括邊境人員「必要時可勸阻」公民前往高風險國家和地區，在海外「危害國安」的公民回國後會被禁止出境，科研技術人員亦被納入出境限制。",
-      "link": "https://www.bbc.com/zhongwen/articles/c0rdp7xg277o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-04T12:16:12.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c0rdp7xg277o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7034/live/27da0220-8ffe-11f1-b2ab-0dd01740f9f6.jpg"
-    },
     {
       "title": "BBC專訪金明日：「我雖然自由了，但實際上也有很大的負擔」",
       "description": "中國錫安教會創辦人及主任牧師獲釋一個月，接受了BBC中文的專訪。",
@@ -24,14 +16,6 @@
       "pubDate": "2026-08-05T00:02:37.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c7vg12p0z47o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f822/live/71a672f0-9060-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "title": "台灣「漢光演習」四大看點：淡江大橋首阻絕、民用工廠產軍火",
-      "description": "台灣國防部年度「漢光演習」將於8月5日展開，為期十天九夜，軍方目標是「擊潰敵人，讓全面入侵的作戰失敗」。分析指，演習焦點已轉為強調「軍民結合」，並擴展至城市防禦和韌性訓練。",
-      "link": "https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-05T08:40:02.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1d53/live/9e2ba9e0-906e-11f1-8a0c-6d75eaa4bd97.jpg"
     },
     {
       "title": "施壓日本、探測美國反應：中國在東海新設施釋放哪些信息？",
@@ -42,12 +26,36 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ec24/live/6d72ecf0-9014-11f1-b8ee-9b3c26ad07bb.jpg"
     },
     {
+      "title": "中國印尼合作衛星楠榜一號帶來的益處與風險",
+      "description": "楠榜省被稱為印尼首個利用中國先進影像衛星技術的省份，能夠探測患病樹木，甚至某個地區的黃金蘊藏量。一些人士對資料安全表示憂慮。",
+      "link": "https://www.bbc.com/zhongwen/articles/c2048gw99n3o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-05T10:59:27.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c2048gw99n3o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/54a9/live/bd37bc80-9086-11f1-8ba9-2d4cdafdb48d.jpg"
+    },
+    {
       "title": "霍爾木茲海峽滯留船隻可能觸發海洋「超級傳播」事件",
       "description": "生物學家在一份新報告中警告，目前滯留於霍爾木茲海峽的船隻，當航運恢復正常後，可能把入侵物種帶往世界各地。",
       "link": "https://www.bbc.com/zhongwen/articles/c62q0pr3ddwo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-08-05T08:20:14.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c62q0pr3ddwo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab64/live/41cf0bf0-901f-11f1-92a2-ef8b44c05b15.jpg"
+    },
+    {
+      "title": "從「勸阻」到限制出境，中國如何重新定義出入境自由？",
+      "description": "中國公布新出入境管理規定引起廣泛討論，當中包括邊境人員「必要時可勸阻」公民前往高風險國家和地區，在海外「危害國安」的公民回國後會被禁止出境，科研技術人員亦被納入出境限制。",
+      "link": "https://www.bbc.com/zhongwen/articles/c0rdp7xg277o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-04T12:16:12.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c0rdp7xg277o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7034/live/27da0220-8ffe-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
+      "title": "台灣「漢光演習」四大看點：淡江大橋首阻絕、民用工廠產軍火",
+      "description": "台灣國防部年度「漢光演習」將於8月5日展開，為期十天九夜，軍方目標是「擊潰敵人，讓全面入侵的作戰失敗」。分析指，演習焦點已轉為強調「軍民結合」，並擴展至城市防禦和韌性訓練。",
+      "link": "https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-05T08:40:02.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1d53/live/9e2ba9e0-906e-11f1-8a0c-6d75eaa4bd97.jpg"
     },
     {
       "title": "火裏去，槍下躺：俄羅斯如何將傷兵重新送回烏克蘭前線？",
@@ -96,14 +104,6 @@
       "pubDate": "2026-08-04T11:43:49.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn5n1qn6ne1o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5304/live/8eb45f90-8f4f-11f1-99e6-95543b07d23d.jpg"
-    },
-    {
-      "title": "緬甸軍方發佈最新照片 昂山素與世隔絕兩年半後首會客",
-      "description": "照片顯示昂山素季與一名紅十字國際委員會（ICRC）官員會面，這是兩年半來首次證實她與外界接觸。",
-      "link": "https://www.bbc.com/zhongwen/articles/c9v47zjjzpeo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-03T11:17:02.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c9v47zjjzpeo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/be82/live/e3cab6b0-8ef9-11f1-991a-31dd08ed4765.jpg"
     },
     {
       "title": "假截圖冒用秦楓帳號散播胡錦濤死訊",
