@@ -1,14 +1,22 @@
 {
-  "updated": "2026-08-04T23:40:27.219Z",
+  "updated": "2026-08-05T01:02:17.000Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-08-04T23:40:21.000Z",
+    "lastBuildDate": "2026-08-05T01:02:04.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "BBC專訪金明日：「我雖然自由了，但實際上也有很大的負擔」",
+      "description": "中國錫安教會創辦人及主任牧師獲釋一個月，接受了BBC中文的專訪。",
+      "link": "https://www.bbc.com/zhongwen/articles/c7vg12p0z47o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-05T00:02:37.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c7vg12p0z47o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f822/live/71a672f0-9060-11f1-a7ab-8b30adf0800a.jpg"
+    },
     {
       "title": "從「勸阻」到限制出境，中國如何重新定義出入境自由？",
       "description": "中國公布新出入境管理規定引起廣泛討論，當中包括邊境人員「必要時可勸阻」公民前往高風險國家和地區，在海外「危害國安」的公民回國後會被禁止出境，科研技術人員亦被納入出境限制。",
@@ -18,28 +26,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7034/live/27da0220-8ffe-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "title": "「台灣出版、香港銷售」模式受阻，書商如何在紅線下找出路？",
-      "description": "香港、台灣均使用繁體中文，台灣本地出版社視香港市場是重要的銷售點，「很多台灣（出版商）同行都表示，他們的第一桶金其實在香港賺的」。但在香港接連出現煽動圖書案件後，不少出版人要重新思考「台灣出版、香港銷售」模式的風險，電子書或成為新出路。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1d1qwq9502o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-04T01:17:05.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1d1qwq9502o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/14a1/live/8cb4d0f0-8f4d-11f1-9818-6fa9a4d75fb0.jpg"
+      "title": "施壓日本、探測美國反應：中國在東海新設施釋放哪些信息？",
+      "description": "日本抗議中國在東海新設構造物；剛出爐的防衛白皮書指中國為「前所未有最大戰略挑戰」。分析人士懷疑北京是否藉灰色地帶策略試探美國對印太盟友的承諾。",
+      "link": "https://www.bbc.com/zhongwen/articles/ckgv49zxy2zo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-05T00:02:45.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckgv49zxy2zo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ec24/live/6d72ecf0-9014-11f1-b8ee-9b3c26ad07bb.jpg"
     },
     {
-      "title": "「中東油輪受威脅程度已達伊朗戰爭爆發以來最高水平」",
-      "description": "多艘船隻在紅海遭到襲擊——自伊朗封鎖霍爾木茲海峽後，一些油輪一直使用這條替代水道。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn5n1qn6ne1o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-04T11:43:49.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn5n1qn6ne1o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5304/live/8eb45f90-8f4f-11f1-99e6-95543b07d23d.jpg"
-    },
-    {
-      "title": "特習會後美中再現摩擦　「建設性穩定」能否撐到九月？",
-      "description": "關稅、台灣、安全議題再起摩擦，特習會後的美中「建設性穩定」還能持續多久？",
-      "link": "https://www.bbc.com/zhongwen/articles/cqx7z51qvpgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-04T00:01:45.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cqx7z51qvpgo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/94d3/live/415a1170-4d20-11f1-894d-1b54d8c2d924.jpg"
+      "title": "火裏去，槍下躺：俄羅斯如何將傷兵重新送回烏克蘭前線？",
+      "description": "BBC俄語取得的法庭文件顯示，多次有指控稱，指揮官將在烏克蘭受傷的士兵重新送回戰場，而非按照法律要求安排他們接受醫療評估。",
+      "link": "https://www.bbc.com/zhongwen/articles/c07rmmvm1pmo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-05T00:03:04.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c07rmmvm1pmo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2663/live/e9e4aa20-85e8-11f1-8ade-a7a676c613b9.jpg"
     },
     {
       "title": "「我們並不孤獨」：獨處如何成為令人嚮往的新時尚",
@@ -48,6 +48,30 @@
       "pubDate": "2026-08-04T12:36:25.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn0ngz34dddo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/75c5/live/1df356c0-8dc0-11f1-8e90-d5da5aa44106.jpg"
+    },
+    {
+      "title": "特習會後美中再現摩擦　「建設性穩定」能否撐到九月？",
+      "description": "關稅、台灣、安全議題再起摩擦，特習會後的美中「建設性穩定」還能持續多久？",
+      "link": "https://www.bbc.com/zhongwen/articles/cqx7z51qvpgo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-04T00:01:45.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cqx7z51qvpgo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/94d3/live/415a1170-4d20-11f1-894d-1b54d8c2d924.jpg"
+    },
+    {
+      "title": "「台灣出版、香港銷售」模式受阻，書商如何在紅線下找出路？",
+      "description": "香港、台灣均使用繁體中文，台灣本地出版社視香港市場是重要的銷售點，「很多台灣（出版商）同行都表示，他們的第一桶金其實在香港賺的」。但在香港接連出現煽動圖書案件後，不少出版人要重新思考「台灣出版、香港銷售」模式的風險，電子書或成為新出路。",
+      "link": "https://www.bbc.com/zhongwen/articles/c1d1qwq9502o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-04T01:17:05.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1d1qwq9502o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/14a1/live/8cb4d0f0-8f4d-11f1-9818-6fa9a4d75fb0.jpg"
+    },
+    {
+      "title": "「中東油輪受威脅程度已達伊朗戰爭爆發以來最高水平」",
+      "description": "多艘船隻在紅海遭到襲擊——自伊朗封鎖霍爾木茲海峽後，一些油輪一直使用這條替代水道。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn5n1qn6ne1o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-04T11:43:49.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn5n1qn6ne1o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5304/live/8eb45f90-8f4f-11f1-99e6-95543b07d23d.jpg"
     },
     {
       "title": "「奇蹟」嬰兒胚胎接受開創性子宮手術 修復腸臟外露",
@@ -80,30 +104,6 @@
       "pubDate": "2026-08-03T11:17:02.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c9v47zjjzpeo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/be82/live/e3cab6b0-8ef9-11f1-991a-31dd08ed4765.jpg"
-    },
-    {
-      "title": "為何我不後悔20多歲就選擇結紮？",
-      "description": "隨着愈來愈多年輕男性接受輸精管結紮手術，BBC訪問了兩名親身經歷者，了解他們為何選擇接受這項手術。",
-      "link": "https://www.bbc.com/zhongwen/articles/cpw91e718vzo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-03T08:23:44.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cpw91e718vzo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8dbb/live/b3b9b190-8cd5-11f1-8c57-5f0cfa11bb7e.jpg"
-    },
-    {
-      "title": "美日罕有聯手干預匯市，圖阻日圓跌至40年來新低",
-      "description": "兩國均表示，未來如有需要，將毫不猶豫再次採取聯合干預行動。",
-      "link": "https://www.bbc.com/zhongwen/articles/cj4kykyvnlko/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-03T03:46:57.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cj4kykyvnlko/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/717b/live/62dcb0b0-8ed3-11f1-b2f6-e1f7eea93d58.jpg"
-    },
-    {
-      "title": "讓人遍體鱗傷的24小時過後，國際足協與恩凡蒂諾如何走下去？",
-      "description": "壓力正逐漸落在詹尼·恩凡蒂諾身上。在這項備受爭議的世界盃投資計劃崩潰後，他這國際足協主席還當得下去嗎？",
-      "link": "https://www.bbc.com/zhongwen/articles/c5ywjq8ywp5o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-03T00:01:11.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5ywjq8ywp5o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/de1b/live/d2f82cb0-8ddb-11f1-9d54-295807679b3c.jpg"
     },
     {
       "title": "假截圖冒用秦楓帳號散播胡錦濤死訊",
@@ -202,6 +202,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/affe/live/0ea2c6d0-8e2c-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
+      "title": "讓人遍體鱗傷的24小時過後，國際足協與恩凡蒂諾如何走下去？",
+      "description": "壓力正逐漸落在詹尼·恩凡蒂諾身上。在這項備受爭議的世界盃投資計劃崩潰後，他這國際足協主席還當得下去嗎？",
+      "link": "https://www.bbc.com/zhongwen/articles/c5ywjq8ywp5o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-03T00:01:11.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5ywjq8ywp5o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/de1b/live/d2f82cb0-8ddb-11f1-9d54-295807679b3c.jpg"
+    },
+    {
       "title": "中國機器人大軍如何改變英國零售業？",
       "description": "英國生產力成長乏力、勞動力短缺，這給中國機器人公司創造了機會。",
       "link": "https://www.bbc.com/zhongwen/articles/cevm082pgm7o/trad?at_medium=RSS&at_campaign=rss",
@@ -216,14 +224,6 @@
       "pubDate": "2026-07-27T09:19:49.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cjrv7vp8p53o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/be0e/live/a15062b0-898d-11f1-88b2-635548373e92.jpg"
-    },
-    {
-      "title": "香港前議員胡志偉獲准如常逗留英國 向BBC中文談機場風波",
-      "description": "英國阻止因中國《香港國安法》案件被判囚的前議員胡志偉入境後改變主意；他對BBC中文否認曾提出政治庇護申請。",
-      "link": "https://www.bbc.com/zhongwen/articles/c70gzyjnj44o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-28T02:14:35.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c70gzyjnj44o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/03be/live/c2457ca0-89d1-11f1-b8ee-9b3c26ad07bb.jpg"
     },
     {
       "title": "《唯紅花綻放》馮哲芸專訪：看見「我是書店店員」被捕照落淚",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5237/live/536264a0-84aa-11f1-bf17-d1bdadb563b6.jpg"
     },
     {
+      "title": "為何我不後悔20多歲就選擇結紮？",
+      "description": "隨着愈來愈多年輕男性接受輸精管結紮手術，BBC訪問了兩名親身經歷者，了解他們為何選擇接受這項手術。",
+      "link": "https://www.bbc.com/zhongwen/articles/cpw91e718vzo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-03T08:23:44.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cpw91e718vzo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8dbb/live/b3b9b190-8cd5-11f1-8c57-5f0cfa11bb7e.jpg"
+    },
+    {
       "title": "時差如何影響你的身體？如何減輕不適？",
       "description": "時差幾乎是長途旅行無可避免的副作用，會對人體帶來多方面影響。本文介紹如何把它造成的不適減至最低。",
       "link": "https://www.bbc.com/zhongwen/articles/cwyl8d3d4gdo/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2026-07-29T08:52:55.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cdx7vvn1n29o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/103b/live/5a46ab50-8a9f-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
-      "title": "依附理論正在重塑約會方式，但TikTok可能將它過於簡單化了",
-      "description": "依附理論（依戀理論）現在非常流行，但它究竟是什麼？你又該如何利用它來改善人際關係呢？",
-      "link": "https://www.bbc.com/zhongwen/articles/ckgd71ypxv7o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-29T05:18:05.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckgd71ypxv7o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f567/live/eca661b0-8997-11f1-b2ab-0dd01740f9f6.jpg"
     }
   ]
 }
