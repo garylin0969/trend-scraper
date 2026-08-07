@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-07T13:51:58.354Z",
+  "updated": "2026-08-07T14:50:26.499Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "186",
-      "recommendCount": "1310",
+      "recommendScore": "184",
+      "recommendCount": "1314",
       "title": "[爆卦] 「擋疫苗」時間線整理",
       "link": "/bbs/Gossiping/M.1786074475.A.EBB",
       "author": "shirman",
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "302",
+      "recommendCount": "850",
+      "title": "[問卦] 新冠你覺得最蠢的事是什麼？",
+      "link": "/bbs/Gossiping/M.1786101717.A.F0D",
+      "author": "henin2003",
+      "board": "Gossiping",
+      "publishTime": "2026/08/07 11:21",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "291",
       "recommendCount": "741",
       "title": "[新聞] 獨家｜台中國一特教生持掃把攻擊老師　女師右眼虹膜斷裂恐失明",
@@ -44,23 +54,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "235",
-      "recommendCount": "602",
+      "recommendScore": "236",
+      "recommendCount": "605",
       "title": "[請益] 停損後隔天就反彈，大家都怎麼克服這種心",
       "link": "/bbs/Stock/M.1786037081.A.06A",
       "author": "chunzheng",
       "board": "Stock",
       "publishTime": "2026/08/06 17:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "242",
-      "recommendCount": "681",
-      "title": "[問卦] 新冠你覺得最蠢的事是什麼？",
-      "link": "/bbs/Gossiping/M.1786101717.A.F0D",
-      "author": "henin2003",
-      "board": "Gossiping",
-      "publishTime": "2026/08/07 11:21",
       "imageUrl": ""
     },
     {
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "252",
-      "recommendCount": "719",
+      "recommendScore": "254",
+      "recommendCount": "724",
       "title": "[新聞]慈濟買疫苗慘被詐10億 蔣萬安：若政府買夠疫苗民間也不必集資",
       "link": "/bbs/Gossiping/M.1786086517.A.2D9",
       "author": "tsaotsaogh",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "198",
-      "recommendCount": "560",
+      "recommendScore": "199",
+      "recommendCount": "561",
       "title": "[新聞] 台中小六生暑輔失控！「折斷掃把刺眼」女老師重傷恐失明",
       "link": "/bbs/Gossiping/M.1786069704.A.B32",
       "author": "DoncicInPTT",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "196",
-      "recommendCount": "474",
+      "recommendScore": "197",
+      "recommendCount": "476",
       "title": "[問卦] 慈濟這個案子到底要打什麼??",
       "link": "/bbs/Gossiping/M.1786079326.A.42F",
       "author": "TALUBAN",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "223",
-      "recommendCount": "882",
+      "recommendScore": "224",
+      "recommendCount": "883",
       "title": "[閒聊] 慈濟被騙10億為什麼好像不痛不癢？",
       "link": "/bbs/C_Chat/M.1786076157.A.E21",
       "author": "a1106abc",
@@ -125,7 +125,7 @@
     },
     {
       "recommendScore": "72",
-      "recommendCount": "422",
+      "recommendCount": "425",
       "title": "[新聞] 董事長樂團貝斯手問「藍白修了什麼法案」　江宏恩：砍國防、砍公視",
       "link": "/bbs/Gossiping/M.1786072869.A.217",
       "author": "ggbi4zzz",
@@ -135,7 +135,7 @@
     },
     {
       "recommendScore": "173",
-      "recommendCount": "490",
+      "recommendCount": "495",
       "title": "Re: [新聞] 慈濟被詐10.6億「陳時中早示警」　王必勝：時間久就看出睿智",
       "link": "/bbs/Gossiping/M.1786061019.A.40B",
       "author": "L1ON",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "188",
-      "recommendCount": "402",
+      "recommendScore": "194",
+      "recommendCount": "420",
       "title": "[新聞] 詐慈濟10.6億！陳昱瑄昔日出席BNT抵台接機　與陳時中同框畫面曝",
       "link": "/bbs/Gossiping/M.1786094802.A.30A",
       "author": "Oisiossos",
@@ -164,14 +164,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "170",
-      "recommendCount": "328",
+      "recommendScore": "174",
+      "recommendCount": "335",
       "title": "[問卦] 台灣No.1胸章為什麼用日文？還大陸產？",
       "link": "/bbs/Gossiping/M.1786088233.A.15D",
       "author": "swh922",
       "board": "Gossiping",
       "publishTime": "2026/08/07 07:37",
       "imageUrl": "https://cache.pttweb.cc/imgur/K2kqAPs/s/4ed81ac50af6c1f4b131d12410f3e556"
+    },
+    {
+      "recommendScore": "258",
+      "recommendCount": "734",
+      "title": "[花邊] 湖記：湖人需要苦命成為AG、圍巾",
+      "link": "/bbs/NBA/M.1786079812.A.489",
+      "author": "ccccccccccc",
+      "board": "NBA",
+      "publishTime": "2026/08/07 05:16",
+      "imageUrl": ""
     },
     {
       "recommendScore": "205",
@@ -184,23 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "257",
-      "recommendCount": "724",
-      "title": "[花邊] 湖記：湖人需要苦命成為AG、圍巾",
-      "link": "/bbs/NBA/M.1786079812.A.489",
-      "author": "ccccccccccc",
-      "board": "NBA",
-      "publishTime": "2026/08/07 05:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "774",
-      "recommendCount": "1334",
-      "title": "[電競] 2026 LCK Regular Season W11D3",
-      "link": "/bbs/LoL/M.1786086727.A.DEA",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/08/07 07:12",
+      "recommendScore": "173",
+      "recommendCount": "292",
+      "title": "Re: [問卦] 網軍又開始一條龍洗疫苗了。有用嗎？",
+      "link": "/bbs/Gossiping/M.1786095449.A.0D1",
+      "author": "nojobman",
+      "board": "Gossiping",
+      "publishTime": "2026/08/07 09:37",
       "imageUrl": ""
     }
   ]
