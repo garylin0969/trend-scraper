@@ -1,8 +1,18 @@
 {
-  "updated": "2026-08-07T08:55:56.373Z",
+  "updated": "2026-08-07T09:58:32.313Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "174",
+      "recommendCount": "1202",
+      "title": "[爆卦] 「擋疫苗」時間線整理",
+      "link": "/bbs/Gossiping/M.1786074475.A.EBB",
+      "author": "shirman",
+      "board": "Gossiping",
+      "publishTime": "2026/08/07 03:47",
+      "imageUrl": "https://cache.pttweb.cc/imgur/zsDeyKU/s/ca6fc825509f06c7cc9d007bf8b78a94"
+    },
     {
       "recommendScore": "386",
       "recommendCount": "843",
@@ -11,7 +21,7 @@
       "author": "Workforme",
       "board": "Gossiping",
       "publishTime": "2026/08/06 23:00",
-      "imageUrl": "https://cache.pttweb.cc/imgur/zsDeyKU/s/ca6fc825509f06c7cc9d007bf8b78a94"
+      "imageUrl": ""
     },
     {
       "recommendScore": "353",
@@ -24,18 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "152",
-      "recommendCount": "1120",
-      "title": "[爆卦] 「擋疫苗」時間線整理",
-      "link": "/bbs/Gossiping/M.1786074475.A.EBB",
-      "author": "shirman",
-      "board": "Gossiping",
-      "publishTime": "2026/08/07 03:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "286",
-      "recommendCount": "736",
+      "recommendScore": "290",
+      "recommendCount": "740",
       "title": "[新聞] 獨家｜台中國一特教生持掃把攻擊老師　女師右眼虹膜斷裂恐失明",
       "link": "/bbs/Gossiping/M.1786028439.A.287",
       "author": "pchunters",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "115",
-      "recommendCount": "841",
+      "recommendScore": "123",
+      "recommendCount": "881",
       "title": "[新聞] 拒向陳時中道歉！蔣萬安：政府若採購足夠疫苗不需民間出力",
       "link": "/bbs/HatePolitics/M.1786073732.A.6FA",
       "author": "rickcoo",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "188",
-      "recommendCount": "536",
+      "recommendScore": "193",
+      "recommendCount": "544",
       "title": "[新聞] 台中小六生暑輔失控！「折斷掃把刺眼」女老師重傷恐失明",
       "link": "/bbs/Gossiping/M.1786069704.A.B32",
       "author": "DoncicInPTT",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "105",
-      "recommendCount": "369",
+      "recommendScore": "107",
+      "recommendCount": "371",
       "title": "[新聞] 台灣1海鮮「大降價55%」！漁民崩潰不敢養：賣1斤賠1斤",
       "link": "/bbs/Gossiping/M.1786015787.A.019",
       "author": "gearty",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "192",
-      "recommendCount": "731",
+      "recommendScore": "204",
+      "recommendCount": "817",
       "title": "[閒聊] 慈濟被騙10億為什麼好像不痛不癢？",
       "link": "/bbs/C_Chat/M.1786076157.A.E21",
       "author": "a1106abc",
