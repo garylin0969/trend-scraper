@@ -1,22 +1,14 @@
 {
-  "updated": "2026-08-06T14:58:39.211Z",
+  "updated": "2026-08-07T00:29:11.593Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-08-06T14:58:32.000Z",
+    "lastBuildDate": "2026-08-07T00:29:01.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
-    {
-      "title": "軍政府因中國再次強硬 緬甸百姓的革命夢想幻滅了嗎？",
-      "description": "在中國支持下，「棄戎從文」的緬甸總統敏昂萊正尋求突破外交孤立。對於那些希望透過革命來重塑國家的緬甸反對派支持者來說，前景讓人沮喪。",
-      "link": "https://www.bbc.com/zhongwen/articles/c2elpyr132vo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-06T13:34:05.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c2elpyr132vo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eb1f/live/625da2d0-8bf8-11f1-9127-6b0fc0b6fa67.jpg"
-    },
     {
       "title": "日本2026防衛白皮書為何刪去「台海攸關安保」？",
       "description": "日本2026防衛白皮書將中國定位為空前最大戰略挑戰，但新版本刪除了台海「攸關日本安保」字句，僅強調國際社會穩定，原因何在？\n",
@@ -26,12 +18,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1cde/live/a477dd40-90e7-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
-      "title": "Meta證實其AI模型「越獄」上網黑進別家公司",
-      "description": "Meta是又一家披露其人工智能（AI）代理突破密閉環境的公司，引發外界對網絡安全的憂慮。",
-      "link": "https://www.bbc.com/zhongwen/articles/ce34wgv4krqo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-06T06:45:36.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce34wgv4krqo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f468/live/5910e320-9131-11f1-b387-374684edd409.jpg"
+      "title": "歐洲乾旱與河流乾涸：炸彈、戰艦殘骸、猛獁象骨骸重見天日",
+      "description": "歐洲各地的極端高溫和乾旱揭示了從納粹戰艦到古代猛獁象骨頭甚至被遺忘的修道院等歷史遺跡。 流經19個國家的多瑙河流域的水位已降至30年來的最低水位。",
+      "link": "https://www.bbc.com/zhongwen/articles/c86n5vgell5o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-07T00:06:39.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c86n5vgell5o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c5c0/live/c5e9ba60-9101-11f1-883e-7f87b9cbea15.jpg"
+    },
+    {
+      "title": "一半疫苗被丟棄讓人不解，免冷藏版本有望減少浪費",
+      "description": "英國科學家首次成功人體試驗免冷藏疫苗，可在室溫保存，有望在全球範圍大幅減少因冷鏈失效而被浪費掉的防疫靈丹。",
+      "link": "https://www.bbc.com/zhongwen/articles/cp9ekjrznngo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-07T00:06:46.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cp9ekjrznngo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/449d/live/95d9d1b0-90d5-11f1-a5b9-331adf7bef90.jpg"
+    },
+    {
+      "title": "軍政府因中國再次強硬 緬甸百姓的革命夢想幻滅了嗎？",
+      "description": "在中國支持下，「棄戎從文」的緬甸總統敏昂萊正尋求突破外交孤立。對於那些希望透過革命來重塑國家的緬甸反對派支持者來說，前景讓人沮喪。",
+      "link": "https://www.bbc.com/zhongwen/articles/c2elpyr132vo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-06T13:34:05.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c2elpyr132vo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eb1f/live/625da2d0-8bf8-11f1-9127-6b0fc0b6fa67.jpg"
     },
     {
       "title": "在祖國被禁止踢球後，阿富汗女足於13,000公里外重聚",
@@ -46,8 +54,16 @@
       "description": "雖然這次碰撞是意外，但對行星地質學家來說，可能為未來的太空任務提供重要數據。",
       "link": "https://www.bbc.com/zhongwen/articles/cvgljjgle0po/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-08-06T09:35:23.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgljjgle0po/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvgljjgle0po/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d22/live/0a0bd020-917a-11f1-b8ee-9b3c26ad07bb.jpg"
+    },
+    {
+      "title": "Meta證實其AI模型「越獄」上網黑進別家公司",
+      "description": "Meta是又一家披露其人工智能（AI）代理突破密閉環境的公司，引發外界對網絡安全的憂慮。",
+      "link": "https://www.bbc.com/zhongwen/articles/ce34wgv4krqo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-06T06:45:36.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce34wgv4krqo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f468/live/5910e320-9131-11f1-b387-374684edd409.jpg"
     },
     {
       "title": "BBC專訪金明日：「我雖然自由了，但實際上也有很大的負擔」",
@@ -82,14 +98,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab64/live/41cf0bf0-901f-11f1-92a2-ef8b44c05b15.jpg"
     },
     {
-      "title": "從「勸阻」到限制出境，中國如何重新定義出入境自由？",
-      "description": "中國公布新出入境管理規定引起廣泛討論，當中包括邊境人員「必要時可勸阻」公民前往高風險國家和地區，在海外「危害國安」的公民回國後會被禁止出境，科研技術人員亦被納入出境限制。",
-      "link": "https://www.bbc.com/zhongwen/articles/c0rdp7xg277o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-04T12:16:12.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c0rdp7xg277o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7034/live/27da0220-8ffe-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
       "title": "中國印尼合作衛星楠榜一號帶來的益處與風險",
       "description": "楠榜省被稱為印尼首個利用中國先進影像衛星技術的省份，能夠探測患病樹木，甚至某個地區的黃金蘊藏量。一些人士對資料安全表示憂慮。",
       "link": "https://www.bbc.com/zhongwen/articles/c2048gw99n3o/trad?at_medium=RSS&at_campaign=rss",
@@ -104,14 +112,6 @@
       "pubDate": "2026-08-05T08:40:02.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1d53/live/9e2ba9e0-906e-11f1-8a0c-6d75eaa4bd97.jpg"
-    },
-    {
-      "title": "「我們並不孤獨」：獨處如何成為令人嚮往的新時尚",
-      "description": "愈來愈多被稱為「孤獨網紅」的人在網上分享沒有孩子、沒有朋友的獨居生活，引發外界熱議。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn0ngz34dddo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-04T12:36:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn0ngz34dddo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/75c5/live/1df356c0-8dc0-11f1-8e90-d5da5aa44106.jpg"
     },
     {
       "title": "中國錫安教會牧師金明日專訪 談獲釋赴美細節與獄中抗爭",
@@ -194,6 +194,22 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/02b7/live/fa2c0bc0-86b1-11f1-bb58-d3ffca85db6d.jpg"
     },
     {
+      "title": "從「勸阻」到限制出境，中國如何重新定義出入境自由？",
+      "description": "中國公布新出入境管理規定引起廣泛討論，當中包括邊境人員「必要時可勸阻」公民前往高風險國家和地區，在海外「危害國安」的公民回國後會被禁止出境，科研技術人員亦被納入出境限制。",
+      "link": "https://www.bbc.com/zhongwen/articles/c0rdp7xg277o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-04T12:16:12.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c0rdp7xg277o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7034/live/27da0220-8ffe-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
+      "title": "假截圖冒用秦楓帳號散播胡錦濤死訊",
+      "description": "網傳前中共中央總書記胡錦濤與兒子胡海峰一家食物中毒身亡，但該消息被證實來自冒名偽造的帖文截圖。",
+      "link": "https://www.bbc.com/zhongwen/articles/cx2r3xzp5z9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-03T15:11:26.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx2r3xzp5z9o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9924/live/4501c470-8ce1-11f1-b8ee-9b3c26ad07bb.jpg"
+    },
+    {
       "title": "火裏去，槍下躺：俄羅斯如何將傷兵重新送回烏克蘭前線？",
       "description": "BBC俄語取得的法庭文件顯示，多次有指控稱，指揮官將在烏克蘭受傷的士兵重新送回戰場，而非按照法律要求安排他們接受醫療評估。",
       "link": "https://www.bbc.com/zhongwen/articles/c07rmmvm1pmo/trad?at_medium=RSS&at_campaign=rss",
@@ -210,28 +226,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5304/live/8eb45f90-8f4f-11f1-99e6-95543b07d23d.jpg"
     },
     {
-      "title": "假截圖冒用秦楓帳號散播胡錦濤死訊",
-      "description": "網傳前中共中央總書記胡錦濤與兒子胡海峰一家食物中毒身亡，但該消息被證實來自冒名偽造的帖文截圖。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx2r3xzp5z9o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-03T15:11:26.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx2r3xzp5z9o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9924/live/4501c470-8ce1-11f1-b8ee-9b3c26ad07bb.jpg"
-    },
-    {
       "title": "「台灣太美啦」：1000公里環台單車之旅為何令人著迷？",
       "description": "每年都有成千上萬人騎單車環繞台灣一圈，這項被不少人視為成年禮的挑戰，如今正吸引越來越多海外旅客參與。這條1000公里的路線究竟有何魅力？",
       "link": "https://www.bbc.com/zhongwen/articles/ce97r8g44mlo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-08-02T05:40:11.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ce97r8g44mlo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/affe/live/0ea2c6d0-8e2c-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "title": "讓人遍體鱗傷的24小時過後，國際足協與恩凡蒂諾如何走下去？",
-      "description": "壓力正逐漸落在詹尼·恩凡蒂諾身上。在這項備受爭議的世界盃投資計劃崩潰後，他這國際足協主席還當得下去嗎？",
-      "link": "https://www.bbc.com/zhongwen/articles/c5ywjq8ywp5o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-03T00:01:11.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5ywjq8ywp5o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/de1b/live/d2f82cb0-8ddb-11f1-9d54-295807679b3c.jpg"
     },
     {
       "title": "AI衝擊就業：中國畢業生的陣痛與機遇",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ae97/live/8db65250-8a32-11f1-8e2f-179714f7490c.jpg"
     },
     {
+      "title": "「我們並不孤獨」：獨處如何成為令人嚮往的新時尚",
+      "description": "愈來愈多被稱為「孤獨網紅」的人在網上分享沒有孩子、沒有朋友的獨居生活，引發外界熱議。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn0ngz34dddo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-04T12:36:25.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn0ngz34dddo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/75c5/live/1df356c0-8dc0-11f1-8e90-d5da5aa44106.jpg"
+    },
+    {
       "title": "月經週期：什麼是「黃體期變醜」？如何影響女性？",
       "description": "越來越多的女性在社群媒體上談論黃體期，但它究竟會對你產生什麼影響呢？",
       "link": "https://www.bbc.com/zhongwen/articles/cy450nxz11eo/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2026-07-30T00:17:50.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c98vjejn839o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/adf7/live/0af76c90-85dd-11f1-9837-c51febdbeb82.jpg"
-    },
-    {
-      "title": "重視骨骼健康就是補鈣？吃哪些食物會有幫助？",
-      "description": "我們的骨質密度開始下降的時間其實比你想像中更早。不過，只要飲食中攝取足夠的特定營養就有助維持骨骼強健，這些都是有幫助的食物。",
-      "link": "https://www.bbc.com/zhongwen/articles/cdx7vvn1n29o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-29T08:52:55.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cdx7vvn1n29o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/103b/live/5a46ab50-8a9f-11f1-b2ab-0dd01740f9f6.jpg"
     }
   ]
 }
