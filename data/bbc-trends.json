@@ -1,14 +1,22 @@
 {
-  "updated": "2026-08-07T05:21:33.807Z",
+  "updated": "2026-08-07T06:51:23.404Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-08-07T05:21:24.000Z",
+    "lastBuildDate": "2026-08-07T06:51:13.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "泰國校園槍擊案至少六人死亡 槍手同告斃命",
+      "description": "曼谷西北面市郊一家學校發生槍擊事件，槍手據稱是一名14歲男生。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn8n2yxew0eo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-07T06:30:18.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn8n2yxew0eo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/12c7/live/30fc6330-9228-11f1-af4d-5164294a85c7.jpg"
+    },
     {
       "title": "特朗普簽署新行政命令 試圖重新限制美國出生公民權",
       "description": "美國總統特朗普（川普）簽署行政命令，禁止生育旅遊，並擴大了對不符合美國出生公民權資格的兒童的定義。",
@@ -46,7 +54,7 @@
       "description": "英國科學家首次成功人體試驗免冷藏疫苗，可在室溫保存，有望在全球範圍大幅減少因冷鏈失效而被浪費掉的防疫靈丹。",
       "link": "https://www.bbc.com/zhongwen/articles/cp9ekjrznngo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-08-07T03:43:54.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cp9ekjrznngo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cp9ekjrznngo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/449d/live/95d9d1b0-90d5-11f1-a5b9-331adf7bef90.jpg"
     },
     {
@@ -88,14 +96,6 @@
       "pubDate": "2026-08-06T00:35:47.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c62x0pvmn7mo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c48/live/490cc1a0-396c-11f1-a650-6399b8700755.jpg"
-    },
-    {
-      "title": "人工智能、無人機⋯⋯科技能否取代消防員對抗山火？",
-      "description": "科技正被用於監測野火，但仍需消防員來撲滅火災。",
-      "link": "https://www.bbc.com/zhongwen/articles/c0jldjn404lo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-06T00:36:59.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c0jldjn404lo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4f7b/live/9039ecc0-8f10-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "title": "霍爾木茲海峽滯留船隻可能觸發海洋「超級傳播」事件",
@@ -202,6 +202,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7034/live/27da0220-8ffe-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
+      "title": "人工智能、無人機⋯⋯科技能否取代消防員對抗山火？",
+      "description": "科技正被用於監測野火，但仍需消防員來撲滅火災。",
+      "link": "https://www.bbc.com/zhongwen/articles/c0jldjn404lo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-06T00:36:59.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c0jldjn404lo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4f7b/live/9039ecc0-8f10-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
       "title": "假截圖冒用秦楓帳號散播胡錦濤死訊",
       "description": "網傳前中共中央總書記胡錦濤與兒子胡海峰一家食物中毒身亡，但該消息被證實來自冒名偽造的帖文截圖。",
       "link": "https://www.bbc.com/zhongwen/articles/cx2r3xzp5z9o/trad?at_medium=RSS&at_campaign=rss",
@@ -216,14 +224,6 @@
       "pubDate": "2026-08-05T00:03:04.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c07rmmvm1pmo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2663/live/e9e4aa20-85e8-11f1-8ade-a7a676c613b9.jpg"
-    },
-    {
-      "title": "「中東油輪受威脅程度已達伊朗戰爭爆發以來最高水平」",
-      "description": "多艘船隻在紅海遭到襲擊——自伊朗封鎖霍爾木茲海峽後，一些油輪一直使用這條替代水道。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn5n1qn6ne1o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-04T11:43:49.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn5n1qn6ne1o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5304/live/8eb45f90-8f4f-11f1-99e6-95543b07d23d.jpg"
     },
     {
       "title": "「台灣太美啦」：1000公里環台單車之旅為何令人著迷？",
