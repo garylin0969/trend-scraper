@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-09T04:03:27.814Z",
+  "updated": "2026-08-09T05:15:22.023Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "740",
-      "recommendCount": "791",
+      "recommendScore": "743",
+      "recommendCount": "795",
       "title": "[公告] PTT 8/8維修後多數更新整合宣導(發錢)",
       "link": "/bbs/Gossiping/M.1786179614.A.51C",
       "author": "ubcs",
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/5ZQAXSv/s/5dd1483104d2b1a5f2a8bbf9b65d2e6b"
     },
     {
-      "recommendScore": "528",
-      "recommendCount": "686",
+      "recommendScore": "534",
+      "recommendCount": "693",
       "title": "[問卦] 幹你媽的爛父親節",
       "link": "/bbs/Gossiping/M.1786186045.A.FA2",
       "author": "gguntank",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "439",
-      "recommendCount": "935",
+      "recommendScore": "442",
+      "recommendCount": "943",
       "title": "[新聞] 柯文哲：政府不買疫苗還嘲笑民間被騙陳時",
       "link": "/bbs/Gossiping/M.1786179346.A.B90",
       "author": "KH8019",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "160",
-      "recommendCount": "385",
+      "recommendScore": "161",
+      "recommendCount": "386",
       "title": "[新聞] 為沈伯洋拚了！9綠委「台北順起來舞」影片瘋傳　網傻眼噴一句",
       "link": "/bbs/Gossiping/M.1786183103.A.E5D",
       "author": "wiki",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "121",
-      "recommendCount": "358",
+      "recommendScore": "125",
+      "recommendCount": "368",
       "title": "[新聞] 台中老師遭學生攻擊恐失明！人本回應全網炸鍋轟：講啥風涼話",
       "link": "/bbs/Gossiping/M.1786188946.A.758",
       "author": "DoncicInPTT",
@@ -74,7 +74,17 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "94",
+      "recommendScore": "111",
+      "recommendCount": "486",
+      "title": "[新聞] 臉書遭灌爆「沒颱風整備假」　蔣萬安：中央氣象署沒發陸上警報",
+      "link": "/bbs/Gossiping/M.1786240917.A.2E9",
+      "author": "qazxc1156892",
+      "board": "Gossiping",
+      "publishTime": "2026/08/09 02:01",
+      "imageUrl": "https://cache.pttweb.cc/imgur/u7Jva4s/s/734428f8dfcb211bdba16a4232e7a856"
+    },
+    {
+      "recommendScore": "93",
       "recommendCount": "1499",
       "title": "[討論] 武漢肺炎疫苗接種後死亡統計",
       "link": "/bbs/HatePolitics/M.1786196412.A.C09",
@@ -82,6 +92,16 @@
       "board": "HatePolitics",
       "publishTime": "2026/08/08 13:40",
       "imageUrl": "https://cache.pttweb.cc/imgur/ghlTIAo/s/a0869d442287b5d2eaf749139be85ac3"
+    },
+    {
+      "recommendScore": "229",
+      "recommendCount": "239",
+      "title": "Re: [LIVE] 德乙 比勒費爾德@卡爾斯魯爾 場中",
+      "link": "/bbs/SportLottery/M.1786194305.A.246",
+      "author": "b032819",
+      "board": "SportLottery",
+      "publishTime": "2026/08/08 13:05",
+      "imageUrl": ""
     },
     {
       "recommendScore": "142",
@@ -94,13 +114,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "226",
-      "recommendCount": "236",
-      "title": "Re: [LIVE] 德乙 比勒費爾德@卡爾斯魯爾 場中",
-      "link": "/bbs/SportLottery/M.1786194305.A.246",
-      "author": "b032819",
-      "board": "SportLottery",
-      "publishTime": "2026/08/08 13:05",
+      "recommendScore": "202",
+      "recommendCount": "1039",
+      "title": "[外絮] 詹皇前隊友:MJ是GOAT，沒人畏懼LeBron",
+      "link": "/bbs/NBA/M.1786179669.A.3F3",
+      "author": "iammatrix",
+      "board": "NBA",
+      "publishTime": "2026/08/08 09:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "200",
+      "recommendCount": "254",
+      "title": "[問卦] 現在哪裡還有高端可以打？ （發錢）",
+      "link": "/bbs/Gossiping/M.1786232472.A.3B1",
+      "author": "BIA",
+      "board": "Gossiping",
+      "publishTime": "2026/08/08 23:41",
+      "imageUrl": "https://cache.pttweb.cc/imgur/PXKD09Z/s/70cec179d04e16be2a29461d774aa4b1"
+    },
+    {
+      "recommendScore": "156",
+      "recommendCount": "429",
+      "title": "[新聞] 楊宗緯上陸綜唱「台語歌」 大陸閩南語人口5000萬 比台灣人還多",
+      "link": "/bbs/Gossiping/M.1786194898.A.986",
+      "author": "anna1203",
+      "board": "Gossiping",
+      "publishTime": "2026/08/08 13:14",
       "imageUrl": ""
     },
     {
@@ -114,28 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "193",
-      "recommendCount": "790",
-      "title": "[外絮] 詹皇前隊友:MJ是GOAT，沒人畏懼LeBron",
-      "link": "/bbs/NBA/M.1786179669.A.3F3",
-      "author": "iammatrix",
-      "board": "NBA",
-      "publishTime": "2026/08/08 09:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "154",
-      "recommendCount": "423",
-      "title": "[新聞] 楊宗緯上陸綜唱「台語歌」 大陸閩南語人口5000萬 比台灣人還多",
-      "link": "/bbs/Gossiping/M.1786194898.A.986",
-      "author": "anna1203",
-      "board": "Gossiping",
-      "publishTime": "2026/08/08 13:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "97",
-      "recommendCount": "304",
+      "recommendScore": "96",
+      "recommendCount": "305",
       "title": "[新聞] 出席竹市活動被指行政不中立　柯文哲：未政治宣傳",
       "link": "/bbs/Gossiping/M.1786185184.A.407",
       "author": "deathdecay",
@@ -144,18 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "193",
-      "recommendCount": "244",
-      "title": "[問卦] 現在哪裡還有高端可以打？ （發錢）",
-      "link": "/bbs/Gossiping/M.1786232472.A.3B1",
-      "author": "BIA",
-      "board": "Gossiping",
-      "publishTime": "2026/08/08 23:41",
-      "imageUrl": "https://cache.pttweb.cc/imgur/PXKD09Z/s/70cec179d04e16be2a29461d774aa4b1"
-    },
-    {
       "recommendScore": "106",
-      "recommendCount": "233",
+      "recommendCount": "234",
       "title": "[新聞] 父親節拋育兒政見！賴瑞隆推「玩中學」",
       "link": "/bbs/Gossiping/M.1786180277.A.C88",
       "author": "tiger911",
@@ -164,43 +174,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-125",
-      "recommendCount": "228",
+      "recommendScore": "152",
+      "recommendCount": "265",
+      "title": "[新聞] AI性愛機器人來了！名模身材「精通165種姿勢」他嗆：誰能撐3小時？",
+      "link": "/bbs/Gossiping/M.1786234201.A.3AD",
+      "author": "lycppt",
+      "board": "Gossiping",
+      "publishTime": "2026/08/09 00:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "125",
+      "recommendCount": "337",
+      "title": "[新聞] 台日不友好？長崎原爆紀念典禮遭矮化駐日代表拒出席：屈從中國意志",
+      "link": "/bbs/Gossiping/M.1786247063.A.75D",
+      "author": "KH8019",
+      "board": "Gossiping",
+      "publishTime": "2026/08/09 03:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-129",
+      "recommendCount": "240",
       "title": "[新聞] 快新聞／翻車惱羞了？柯文哲暴怒狂嗆陳時中「不要臉沒良心」　瞎扯政府不買疫苗",
       "link": "/bbs/Gossiping/M.1786208580.A.243",
       "author": "iam168888888",
       "board": "Gossiping",
       "publishTime": "2026/08/08 17:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "64",
-      "recommendCount": "223",
-      "title": "[新聞] 快新聞／沈伯洋簽名簽到手軟！走進成功市場傾聽市民心聲　親曝「父親節」願望",
-      "link": "/bbs/Gossiping/M.1786205701.A.ECA",
-      "author": "asppsa",
-      "board": "Gossiping",
-      "publishTime": "2026/08/08 16:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "90",
-      "recommendCount": "326",
-      "title": "[新聞] 臉書遭灌爆「沒颱風整備假」　蔣萬安：中央氣象署沒發陸上警報",
-      "link": "/bbs/Gossiping/M.1786240917.A.2E9",
-      "author": "qazxc1156892",
-      "board": "Gossiping",
-      "publishTime": "2026/08/09 02:01",
-      "imageUrl": "https://cache.pttweb.cc/imgur/u7Jva4s/s/734428f8dfcb211bdba16a4232e7a856"
-    },
-    {
-      "recommendScore": "96",
-      "recommendCount": "240",
-      "title": "[問卦] 台灣什麼工作能穩5萬以上？",
-      "link": "/bbs/Gossiping/M.1786182478.A.CF6",
-      "author": "YMGee",
-      "board": "Gossiping",
-      "publishTime": "2026/08/08 09:47",
       "imageUrl": ""
     }
   ]
