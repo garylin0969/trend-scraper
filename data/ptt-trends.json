@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-10T22:17:53.761Z",
+  "updated": "2026-08-10T22:59:15.063Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "342",
-      "recommendCount": "876",
+      "recommendScore": "341",
+      "recommendCount": "878",
       "title": "[新聞] 吳乃仁只想月還5萬？台糖：8月下旬協商還錢沒誠意 就再聲請管收",
       "link": "/bbs/Gossiping/M.1786333852.A.FF9",
       "author": "newdavid83",
@@ -24,16 +24,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "228",
-      "recommendCount": "793",
-      "title": "[問卦] 脆崩潰：當台派真的很累！",
-      "link": "/bbs/Gossiping/M.1786316282.A.610",
-      "author": "pigpigcom123",
-      "board": "Gossiping",
-      "publishTime": "2026/08/09 22:58",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "305",
       "recommendCount": "749",
       "title": "[問卦] 你是習近平要怎樣統一台灣？",
@@ -44,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "333",
-      "recommendCount": "604",
+      "recommendScore": "334",
+      "recommendCount": "605",
       "title": "[爆卦] 七月新生兒 7,906",
       "link": "/bbs/Gossiping/M.1786325567.A.EC4",
       "author": "anachronism",
@@ -85,7 +75,7 @@
     },
     {
       "recommendScore": "239",
-      "recommendCount": "763",
+      "recommendCount": "765",
       "title": "[花邊] Jaylen Brown：NBA的經紀人模式行不通的",
       "link": "/bbs/NBA/M.1786326808.A.C80",
       "author": "mike37",
@@ -114,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "208",
-      "recommendCount": "363",
-      "title": "[新聞] 高捷新制服被比擬禮儀社、房務員 員工：像九如橋不符美學",
-      "link": "/bbs/Gossiping/M.1786316212.A.F8F",
-      "author": "godofsex",
-      "board": "Gossiping",
-      "publishTime": "2026/08/09 22:56",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "295",
       "recommendCount": "927",
       "title": "[花邊] Shaq: 湖人傳奇至少3冠 LBJ僅1冠還差得遠",
@@ -135,7 +115,7 @@
     },
     {
       "recommendScore": "106",
-      "recommendCount": "408",
+      "recommendCount": "410",
       "title": "[新聞] 長崎原爆典禮「排擠台灣」惹怒日網！",
       "link": "/bbs/Gossiping/M.1786327396.A.61F",
       "author": "str8g",
@@ -164,14 +144,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-154",
-      "recommendCount": "298",
+      "recommendScore": "-155",
+      "recommendCount": "299",
       "title": "[閒聊] Oner下二隊原因乳摸",
       "link": "/bbs/LoL/M.1786360768.A.D8D",
       "author": "s2678132",
       "board": "LoL",
       "publishTime": "2026/08/10 11:19",
       "imageUrl": "https://cache.pttweb.cc/imgur/GGWCqHB/s/e0bd3e9ac01562b3830a4cb30e121786"
+    },
+    {
+      "recommendScore": "178",
+      "recommendCount": "932",
+      "title": "[討論] 台灣遊戲產業當年走錯了哪一步？",
+      "link": "/bbs/C_Chat/M.1786325091.A.A76",
+      "author": "timco",
+      "board": "C_Chat",
+      "publishTime": "2026/08/10 01:24",
+      "imageUrl": ""
     },
     {
       "recommendScore": "146",
@@ -184,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "179",
-      "recommendCount": "929",
-      "title": "[討論] 台灣遊戲產業當年走錯了哪一步？",
-      "link": "/bbs/C_Chat/M.1786325091.A.A76",
-      "author": "timco",
-      "board": "C_Chat",
-      "publishTime": "2026/08/10 01:24",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "161",
       "recommendCount": "451",
       "title": "[問卦] 為什麼相親聽到這些就要趕緊找理由跑路了",
@@ -201,6 +181,26 @@
       "author": "Himiko9975",
       "board": "Gossiping",
       "publishTime": "2026/08/10 00:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "200",
+      "recommendCount": "420",
+      "title": "[新聞] 活塞「小魔獸」續約陷入僵局　杜倫考慮先簽1年960萬美金短約",
+      "link": "/bbs/NBA/M.1786332264.A.5DB",
+      "author": "betweenus020",
+      "board": "NBA",
+      "publishTime": "2026/08/10 03:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "170",
+      "recommendCount": "323",
+      "title": "[情報] 幾支球隊對西門有興趣 西門願意接受底薪",
+      "link": "/bbs/NBA/M.1786339928.A.0B7",
+      "author": "Kai877",
+      "board": "NBA",
+      "publishTime": "2026/08/10 05:32",
       "imageUrl": ""
     }
   ]
