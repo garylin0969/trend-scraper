@@ -1,14 +1,22 @@
 {
-  "updated": "2026-08-14T09:18:10.559Z",
+  "updated": "2026-08-14T10:38:06.865Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-08-14T09:18:00.000Z",
+    "lastBuildDate": "2026-08-14T10:37:57.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "時隔20年，台灣前總統陳水扁女兒陳幸妤再次成為媒體焦點",
+      "description": "台灣前總統陳水扁的女兒陳幸妤，近日因離婚一事曝光，時隔多年再次成為了台灣輿論焦點，也引起社會反思20年前媒體追訪她的倫理問題。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn7n5zxmmr1o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-14T10:29:14.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn7n5zxmmr1o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3f20/live/478ccfe0-97c8-11f1-870d-5d08c49babb2.jpg"
+    },
     {
       "title": "美軍林肯號航母航行250天 引發官兵人道狀況擔憂",
       "description": "據報美國海軍亞伯拉罕·林肯號航空母艦（USS Abraham Lincoln）上數以千計水兵面臨食物短缺和排污管道損壞，部分人甚至試圖跳海。",
@@ -18,18 +26,10 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d681/live/2f769830-97a7-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
-      "title": "美國稱數十國助中國避特朗普關稅",
-      "description": "美國一份新報告稱，中國透過關稅較低的國家轉運貨物，以規避較高關稅。",
-      "link": "https://www.bbc.com/zhongwen/articles/cq6d1y1212po/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-14T05:11:59.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cq6d1y1212po/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d8fc/live/12e1de40-977b-11f1-a8a8-85d648bbf002.jpg"
-    },
-    {
-      "title": "朱鎔基：台灣記住「搞台獨沒好下場」 香港感念「挺港功臣」",
+      "title": "朱鎔基的話：從「搞台獨沒好下場」 到「搞壞香港是民族罪人」",
       "description": "朱鎔基辭世，台灣聚焦2000年「搞台獨沒好下場」反助陳水扁勝選；港澳感念其金融風暴挺港與市場開放貢獻。",
       "link": "https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-13T09:58:02.000Z",
+      "pubDate": "2026-08-14T09:20:28.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/689a/live/aedf4350-96f4-11f1-870d-5d08c49babb2.jpg"
     },
@@ -122,6 +122,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3935/live/cd7066e0-978b-11f1-870d-5d08c49babb2.jpg"
     },
     {
+      "title": "中國國產C919首飛國際航線 挑戰波音、空中巴士再進一步？",
+      "description": "C919完成首次國際商業航班飛行，由北京飛往蒙古烏蘭巴托，象徵中國國產客機邁向海外市場的里程碑。北京希望藉此挑戰波音及空中巴士的市場主導地位，但此款飛機仍面臨國際認證及供應鏈緊張等挑戰。",
+      "link": "https://www.bbc.com/zhongwen/articles/c1w1ypqx1qxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-14T09:36:38.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1w1ypqx1qxo/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c69f/live/64089320-97be-11f1-870d-5d08c49babb2.jpg"
+    },
+    {
       "title": "朱鎔基逝世：推動中國經濟改革的「鐵腕總理」是誰？",
       "description": "中國前總理朱鎔基週三在北京逝世。在1990至2000年代擔任副總理和總理期間，他主導中國經濟改革逾十年，被外界稱為中國「經濟沙皇」。",
       "link": "https://www.bbc.com/zhongwen/articles/cdrvp51pm44o/trad?at_medium=RSS&at_campaign=rss",
@@ -138,20 +146,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6822/live/4163a190-9712-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
-      "title": "台灣「城鎮韌性」演練 模擬戰時「斷網」",
-      "description": "台灣8月13日舉行一年一度的「城鎮韌性」演練，並在北部七個縣市同步進行「行動網路降速」演習。BBC中文直播台北市及新北市的演習實況。",
-      "link": "https://www.bbc.com/zhongwen/articles/cp87prg297po/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-13T09:19:35.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cp87prg297po/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/638a/live/8a102b40-96f7-11f1-870d-5d08c49babb2.jpg"
-    },
-    {
       "title": "台灣首度演練「斷網半小時」：戰時通訊中斷，民眾準備好了嗎？",
       "description": "台灣2026年「城鎮韌性演習」首次加入「斷網場景」，BBC中文記者前往台中現場直擊，了解民眾對網路降速措施的看法。",
       "link": "https://www.bbc.com/zhongwen/articles/cm2g51m6vlpo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-08-11T11:00:58.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cm2g51m6vlpo/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8427/live/3e86c9e0-9571-11f1-870d-5d08c49babb2.jpg"
+    },
+    {
+      "title": "美國稱數十國助中國避特朗普關稅",
+      "description": "美國一份新報告稱，中國透過關稅較低的國家轉運貨物，以規避較高關稅。",
+      "link": "https://www.bbc.com/zhongwen/articles/cq6d1y1212po/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-14T05:11:59.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cq6d1y1212po/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d8fc/live/12e1de40-977b-11f1-a8a8-85d648bbf002.jpg"
     },
     {
       "title": "特習會後美中再現摩擦　「建設性穩定」能否撐到九月？",
