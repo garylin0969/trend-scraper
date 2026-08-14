@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T21:36:11.016Z",
+  "updated": "2026-08-14T21:55:15.058Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "259",
-      "recommendCount": "314",
-      "title": "[花邊] KD祝福龜龜退休",
-      "link": "/bbs/NBA/M.1786657813.A.12A",
-      "author": "SeanLi1013",
-      "board": "NBA",
-      "publishTime": "2026/08/13 21:50",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "203",
       "recommendCount": "447",
       "title": "[問卦] 豪豪吃的炸豬排90分鐘無限續點也太鳥",
@@ -184,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "148",
-      "recommendCount": "416",
+      "recommendScore": "147",
+      "recommendCount": "417",
       "title": "[新聞] 月薪5萬仍留不住人！警界爆出走潮　基層嘆「像高級服務業」",
       "link": "/bbs/Gossiping/M.1786711950.A.DF4",
       "author": "touyuan",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2026/08/14 04:09",
       "imageUrl": "https://cache.pttweb.cc/imgur/wH0cO4d/s/daae3b6519bb1f27bdf39cf80e3fd515"
+    },
+    {
+      "recommendScore": "154",
+      "recommendCount": "296",
+      "title": "[新聞] 想跳槽中國公司領高薪！南亞科工程師「零食堆藏攝影機」偷拍機密遭起訴",
+      "link": "/bbs/Stock/M.1786670955.A.658",
+      "author": "AnimalSpirit",
+      "board": "Stock",
+      "publishTime": "2026/08/14 01:29",
+      "imageUrl": ""
     }
   ]
 }
