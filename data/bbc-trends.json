@@ -1,22 +1,14 @@
 {
-  "updated": "2026-08-14T00:42:16.847Z",
+  "updated": "2026-08-14T03:11:29.811Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-08-14T00:42:11.000Z",
+    "lastBuildDate": "2026-08-14T03:11:19.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
-    {
-      "title": "朱鎔基逝世：台灣記住「搞台獨沒好下場」 香港感念金融風暴「挺港功臣」",
-      "description": "朱鎔基辭世，台灣聚焦2000年「搞台獨沒好下場」反助陳水扁勝選；港澳感念其金融風暴挺港與市場開放貢獻。",
-      "link": "https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-13T09:58:02.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/689a/live/aedf4350-96f4-11f1-870d-5d08c49babb2.jpg"
-    },
     {
       "title": "伊朗跟美國、以色列打仗 還能撐多久？",
       "description": "伊朗戰爭爆發七個月後，儘管該國經濟和基礎設施承受巨大壓力，其決策者看來仍不急於結束戰事。但這場戰爭還能持續多久？",
@@ -24,6 +16,14 @@
       "pubDate": "2026-08-14T00:01:11.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c4g48ryvnz2o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ca1/live/fb244850-94b0-11f1-afe9-fb1a837ec5d9.jpg"
+    },
+    {
+      "title": "朱鎔基：台灣記住「搞台獨沒好下場」 香港感念「挺港功臣」",
+      "description": "朱鎔基辭世，台灣聚焦2000年「搞台獨沒好下場」反助陳水扁勝選；港澳感念其金融風暴挺港與市場開放貢獻。",
+      "link": "https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-13T09:58:02.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/689a/live/aedf4350-96f4-11f1-870d-5d08c49babb2.jpg"
     },
     {
       "title": "台灣首度模擬戰時「斷網」，30分鐘演練了什麼？",
