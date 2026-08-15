@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-15T07:46:58.769Z",
+  "updated": "2026-08-15T08:02:09.760Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "264",
-      "recommendCount": "541",
+      "recommendCount": "546",
       "title": "[問卦] 有人跟我一樣聽到韌性就歸懶趴火的嗎",
       "link": "/bbs/Gossiping/M.1786751987.A.6F4",
       "author": "L1ON",
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "-212",
-      "recommendCount": "668",
+      "recommendCount": "669",
       "title": "[分享] 錢定遠呼籲棒協：別讓列管操爆選手",
       "link": "/bbs/Baseball/M.1786759073.A.E33",
       "author": "leftavoid",
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "196",
-      "recommendCount": "537",
+      "recommendCount": "545",
       "title": "[新聞] 月薪5萬仍留不住人！警界爆出走潮　基層嘆「像高級服務業」",
       "link": "/bbs/Gossiping/M.1786711950.A.DF4",
       "author": "touyuan",
@@ -55,7 +55,7 @@
     },
     {
       "recommendScore": "76",
-      "recommendCount": "346",
+      "recommendCount": "355",
       "title": "[新聞] 快新聞／最新民調出爐！蔣萬安領先優勢大縮水　4成4市民不滿這表現",
       "link": "/bbs/Gossiping/M.1786753953.A.7B3",
       "author": "james7923",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "127",
-      "recommendCount": "407",
+      "recommendScore": "130",
+      "recommendCount": "412",
       "title": "[新聞] 台南男狂吸2毒上路撞死行人　國民法官輕判3年6月原因曝",
       "link": "/bbs/Gossiping/M.1786749147.A.56C",
       "author": "Workforme",
@@ -84,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "144",
-      "recommendCount": "311",
-      "title": "[新聞] 彈了6000點卻沒量只是B波？陳嘉偉點波浪理論：C波恐先破年線35729點",
-      "link": "/bbs/Stock/M.1786694447.A.126",
-      "author": "sera520",
-      "board": "Stock",
-      "publishTime": "2026/08/14 08:00",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "-107",
       "recommendCount": "318",
       "title": "[新聞] 脫稿演說！賴清德：給我「8年」 國人平均餘命延長3年",
@@ -104,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "132",
-      "recommendCount": "272",
+      "recommendScore": "136",
+      "recommendCount": "277",
       "title": "[新聞] 川普：擊敗伊朗後宣布荷莫茲海峽為美國領土",
       "link": "/bbs/Stock/M.1786761674.A.30E",
       "author": "davidaustin",
@@ -124,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "143",
-      "recommendCount": "317",
+      "recommendScore": "146",
+      "recommendCount": "325",
       "title": "[新聞] 綠內參民調賴瑞隆領先柯志恩10%",
       "link": "/bbs/Gossiping/M.1786760066.A.802",
       "author": "googolplex",
@@ -144,24 +134,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "172",
-      "recommendCount": "221",
-      "title": "[情報] 文波受傷",
-      "link": "/bbs/LoL/M.1786720149.A.3D8",
-      "author": "forng",
-      "board": "LoL",
-      "publishTime": "2026/08/14 15:09",
-      "imageUrl": "https://cache.pttweb.cc/imgur/EKG60N2/s/5e42b99e880dc6b94f73f606e9f42c40"
-    },
-    {
-      "recommendScore": "165",
-      "recommendCount": "217",
+      "recommendScore": "167",
+      "recommendCount": "219",
       "title": "[問卦] 今天是日本宣布投降81週年 [發錢]",
       "link": "/bbs/Gossiping/M.1786765531.A.64C",
       "author": "ejijo761115",
       "board": "Gossiping",
       "publishTime": "2026/08/15 03:45",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "172",
+      "recommendCount": "222",
+      "title": "[情報] 文波受傷",
+      "link": "/bbs/LoL/M.1786720149.A.3D8",
+      "author": "forng",
+      "board": "LoL",
+      "publishTime": "2026/08/14 15:09",
+      "imageUrl": "https://cache.pttweb.cc/imgur/EKG60N2/s/5e42b99e880dc6b94f73f606e9f42c40"
     },
     {
       "recommendScore": "0",
@@ -201,6 +191,16 @@
       "author": "comet1124",
       "board": "Gossiping",
       "publishTime": "2026/08/14 11:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "176",
+      "recommendCount": "442",
+      "title": "[閒聊] 現在用AI查遊戲攻略是不是值得信任了？",
+      "link": "/bbs/C_Chat/M.1786726413.A.C30",
+      "author": "goodday5566",
+      "board": "C_Chat",
+      "publishTime": "2026/08/14 16:53",
       "imageUrl": ""
     }
   ]
