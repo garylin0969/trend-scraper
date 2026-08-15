@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T17:53:38.507Z",
+  "updated": "2026-08-15T18:23:40.811Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,6 +14,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ma3feW5/s/1649d562977c7c9aa03832de5b6affc4"
     },
     {
+      "recommendScore": "260",
+      "recommendCount": "496",
+      "title": "[新聞] 7.65億蓋高雄三民運動中心…跑步機僅4台、廁所飄臭味 議員怒：錢花哪去？",
+      "link": "/bbs/Gossiping/M.1786802610.A.1F7",
+      "author": "EstelleRinz",
+      "board": "Gossiping",
+      "publishTime": "2026/08/15 14:03",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "320",
       "recommendCount": "480",
       "title": "[問卦] 北宋滅亡也太荒謬 砲車資敵（發錢）",
@@ -21,16 +31,6 @@
       "author": "BIA",
       "board": "Gossiping",
       "publishTime": "2026/08/14 23:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "254",
-      "recommendCount": "486",
-      "title": "[新聞] 7.65億蓋高雄三民運動中心…跑步機僅4台、廁所飄臭味 議員怒：錢花哪去？",
-      "link": "/bbs/Gossiping/M.1786802610.A.1F7",
-      "author": "EstelleRinz",
-      "board": "Gossiping",
-      "publishTime": "2026/08/15 14:03",
       "imageUrl": ""
     },
     {
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "80",
-      "recommendCount": "380",
+      "recommendScore": "81",
+      "recommendCount": "381",
       "title": "[新聞] 快新聞／最新民調出爐！蔣萬安領先優勢大縮水　4成4市民不滿這表現",
       "link": "/bbs/Gossiping/M.1786753953.A.7B3",
       "author": "james7923",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "131",
-      "recommendCount": "466",
+      "recommendScore": "134",
+      "recommendCount": "470",
       "title": "[爆卦] 高市早苗：中日戰爭是日本的自衛戰爭！",
       "link": "/bbs/Gossiping/M.1786782522.A.4B7",
       "author": "swh922",
@@ -94,8 +94,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ma3feW5/s/1649d562977c7c9aa03832de5b6affc4"
     },
     {
-      "recommendScore": "193",
-      "recommendCount": "310",
+      "recommendScore": "198",
+      "recommendCount": "315",
       "title": "[閒聊] DPP是什麼？「數位產品護照」未來可能影",
       "link": "/bbs/C_Chat/M.1786796213.A.533",
       "author": "HarunoYukino",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "155",
-      "recommendCount": "332",
+      "recommendScore": "154",
+      "recommendCount": "334",
       "title": "[外絮] Luka:我們現在的陣容更好更能贏球",
       "link": "/bbs/NBA/M.1786774565.A.9BD",
       "author": "SoulHsu",
@@ -185,7 +185,7 @@
     },
     {
       "recommendScore": "131",
-      "recommendCount": "467",
+      "recommendCount": "476",
       "title": "[問卦] 廣設大學是智障想出來的嗎？",
       "link": "/bbs/Gossiping/M.1786796845.A.BB0",
       "author": "theyrbillion",
