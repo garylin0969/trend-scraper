@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T11:44:31.115Z",
+  "updated": "2026-08-15T11:59:00.088Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "187",
+      "recommendCount": "356",
+      "title": "[新聞] 川普：擊敗伊朗後宣布荷莫茲海峽為美國領土",
+      "link": "/bbs/Stock/M.1786761674.A.30E",
+      "author": "davidaustin",
+      "board": "Stock",
+      "publishTime": "2026/08/15 02:41",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "80",
       "recommendCount": "374",
       "title": "[新聞] 快新聞／最新民調出爐！蔣萬安領先優勢大縮水　4成4市民不滿這表現",
@@ -51,16 +61,6 @@
       "author": "james7923",
       "board": "Gossiping",
       "publishTime": "2026/08/15 00:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "185",
-      "recommendCount": "352",
-      "title": "[新聞] 川普：擊敗伊朗後宣布荷莫茲海峽為美國領土",
-      "link": "/bbs/Stock/M.1786761674.A.30E",
-      "author": "davidaustin",
-      "board": "Stock",
-      "publishTime": "2026/08/15 02:41",
       "imageUrl": ""
     },
     {
@@ -74,23 +74,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "730",
+      "recommendScore": "186",
+      "recommendCount": "393",
+      "title": "[新聞] 獨／「117大限」大一生剩18.3萬人 教團示警：估私校倒一半",
+      "link": "/bbs/Gossiping/M.1786780860.A.86E",
+      "author": "crocus",
+      "board": "Gossiping",
+      "publishTime": "2026/08/15 08:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "732",
       "recommendCount": "1444",
       "title": "[電競] 2026 LCK Regular Season W12D4",
       "link": "/bbs/LoL/M.1786777952.A.6E5",
       "author": "laptic",
       "board": "LoL",
       "publishTime": "2026/08/15 07:12",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "174",
-      "recommendCount": "374",
-      "title": "[新聞] 獨／「117大限」大一生剩18.3萬人 教團示警：估私校倒一半",
-      "link": "/bbs/Gossiping/M.1786780860.A.86E",
-      "author": "crocus",
-      "board": "Gossiping",
-      "publishTime": "2026/08/15 08:01",
       "imageUrl": ""
     },
     {
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "148",
-      "recommendCount": "337",
+      "recommendScore": "149",
+      "recommendCount": "343",
       "title": "[新聞] 綠內參民調賴瑞隆領先柯志恩10%",
       "link": "/bbs/Gossiping/M.1786760066.A.802",
       "author": "googolplex",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "112",
-      "recommendCount": "332",
+      "recommendScore": "116",
+      "recommendCount": "338",
       "title": "[新聞] 真相大白 陳幸妤 許芊芊對話內容全流出",
       "link": "/bbs/Gossiping/M.1786770612.A.10C",
       "author": "yuting90",
@@ -124,13 +124,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "139",
-      "recommendCount": "287",
+      "recommendScore": "140",
+      "recommendCount": "290",
       "title": "[外絮] Luka:我們現在的陣容更好更能贏球",
       "link": "/bbs/NBA/M.1786774565.A.9BD",
       "author": "SoulHsu",
       "board": "NBA",
       "publishTime": "2026/08/15 06:16",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "106",
+      "recommendCount": "368",
+      "title": "[爆卦] 高市早苗：中日戰爭是日本的自衛戰爭！",
+      "link": "/bbs/Gossiping/M.1786782522.A.4B7",
+      "author": "swh922",
+      "board": "Gossiping",
+      "publishTime": "2026/08/15 08:28",
+      "imageUrl": "https://cache.pttweb.cc/imgur/ma3feW5/s/1649d562977c7c9aa03832de5b6affc4"
+    },
+    {
+      "recommendScore": "720",
+      "recommendCount": "1500",
+      "title": "[情報] 今日先發",
+      "link": "/bbs/Elephants/M.1786781231.A.48E",
+      "author": "love85023",
+      "board": "Elephants",
+      "publishTime": "2026/08/15 08:07",
       "imageUrl": ""
     },
     {
@@ -144,24 +164,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "177",
-      "recommendCount": "231",
+      "recommendScore": "178",
+      "recommendCount": "233",
       "title": "[爆卦] 地震?",
       "link": "/bbs/Gossiping/M.1786793468.A.F41",
       "author": "Despairile",
       "board": "Gossiping",
       "publishTime": "2026/08/15 11:31",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "107",
-      "recommendCount": "358",
-      "title": "[爆卦] 高市早苗：中日戰爭是日本的自衛戰爭！",
-      "link": "/bbs/Gossiping/M.1786782522.A.4B7",
-      "author": "swh922",
-      "board": "Gossiping",
-      "publishTime": "2026/08/15 08:28",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ma3feW5/s/1649d562977c7c9aa03832de5b6affc4"
     },
     {
       "recommendScore": "179",
@@ -174,13 +184,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "737",
-      "recommendCount": "1500",
-      "title": "[情報] 今日先發",
-      "link": "/bbs/Elephants/M.1786781231.A.48E",
-      "author": "love85023",
-      "board": "Elephants",
-      "publishTime": "2026/08/15 08:07",
+      "recommendScore": "121",
+      "recommendCount": "243",
+      "title": "[新聞] 范雲稱「DPP 100萬」數位產品護照縮寫",
+      "link": "/bbs/Gossiping/M.1786775089.A.59B",
+      "author": "YumingHuang",
+      "board": "Gossiping",
+      "publishTime": "2026/08/15 06:24",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "LoL",
       "publishTime": "2026/08/14 15:09",
       "imageUrl": "https://cache.pttweb.cc/imgur/EKG60N2/s/5e42b99e880dc6b94f73f606e9f42c40"
-    },
-    {
-      "recommendScore": "117",
-      "recommendCount": "236",
-      "title": "[新聞] 范雲稱「DPP 100萬」數位產品護照縮寫",
-      "link": "/bbs/Gossiping/M.1786775089.A.59B",
-      "author": "YumingHuang",
-      "board": "Gossiping",
-      "publishTime": "2026/08/15 06:24",
-      "imageUrl": ""
     }
   ]
 }
