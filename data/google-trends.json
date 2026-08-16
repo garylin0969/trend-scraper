@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-16T23:19:17.378Z",
+  "updated": "2026-08-16T23:44:23.650Z",
   "trends": [
-    {
-      "googleTrend": "股價",
-      "searchVolume": "500+",
-      "started": "2 小時前"
-    },
     {
       "googleTrend": "臺北 捷 運",
       "searchVolume": "500+",
-      "started": "10 分鐘前"
+      "started": "40 分鐘前"
+    },
+    {
+      "googleTrend": "股價",
+      "searchVolume": "1,000+",
+      "started": "2 小時前"
     },
     {
       "googleTrend": "俄羅斯",
@@ -17,39 +17,24 @@
       "started": "1 小時前"
     },
     {
+      "googleTrend": "退休 金",
+      "searchVolume": "200+",
+      "started": "50 分鐘前"
+    },
+    {
       "googleTrend": "政策",
       "searchVolume": "100+",
-      "started": "10 分鐘前"
+      "started": "40 分鐘前"
     },
     {
       "googleTrend": "蕭 伊",
       "searchVolume": "200+",
-      "started": "1 小時前"
-    },
-    {
-      "googleTrend": "退休 金",
-      "searchVolume": "200+",
-      "started": "20 分鐘前"
-    },
-    {
-      "googleTrend": "liverpool vs como",
-      "searchVolume": "100+",
-      "started": "1 小時前"
-    },
-    {
-      "googleTrend": "道奇 對 釀酒人",
-      "searchVolume": "100+",
       "started": "2 小時前"
     },
     {
-      "googleTrend": "claude",
+      "googleTrend": "道奇 對 釀酒人",
       "searchVolume": "200+",
-      "started": "1 小時前"
-    },
-    {
-      "googleTrend": "盧秀燕",
-      "searchVolume": "200+",
-      "started": "1 小時前"
+      "started": "3 小時前"
     },
     {
       "googleTrend": "schalke 04 vs madrid",
@@ -57,19 +42,39 @@
       "started": "2 小時前"
     },
     {
+      "googleTrend": "liverpool vs como",
+      "searchVolume": "100+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "大聯盟戰績",
+      "searchVolume": "100+",
+      "started": "1 小時前"
+    },
+    {
+      "googleTrend": "claude",
+      "searchVolume": "200+",
+      "started": "1 小時前"
+    },
+    {
       "googleTrend": "柯文哲",
       "searchVolume": "200+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "盧秀燕",
+      "searchVolume": "200+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "輝達",
+      "searchVolume": "100+",
       "started": "1 小時前"
     },
     {
       "googleTrend": "南亞科技",
       "searchVolume": "100+",
       "started": "1 小時前"
-    },
-    {
-      "googleTrend": "輝達",
-      "searchVolume": "100+",
-      "started": "30 分鐘前"
     }
   ]
 }
