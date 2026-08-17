@@ -1,14 +1,22 @@
 {
-  "updated": "2026-08-17T11:57:11.260Z",
+  "updated": "2026-08-17T13:03:20.937Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-08-17T11:57:06.000Z",
+    "lastBuildDate": "2026-08-17T13:03:04.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "「爛到爆紅」的動畫電影成為中國票房黑馬",
+      "description": "《牛來》令人摸不着頭腦的劇情和令人發笑的粗糙動畫，反而在網絡上吸引了一批抱着戲謔心態追捧它的粉絲。",
+      "link": "https://www.bbc.com/zhongwen/articles/c07rl9x87lvo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-17T09:40:26.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c07rl9x87lvo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e236/live/6f76c6e0-9a12-11f1-a05c-fdd5e0ed226e.jpg"
+    },
     {
       "title": "韓國疏遠伊朗戰事 特朗普稱將縮減聯合軍演規模",
       "description": "特朗普表示，將演習規模縮小的決定，是基於他與朝鮮領導人金正恩之間「非常良好的關係」。",
@@ -18,12 +26,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg"
     },
     {
-      "title": "「爛到爆紅」的動畫電影成為中國票房黑馬",
-      "description": "《牛來》令人摸不着頭腦的劇情和令人發笑的粗糙動畫，反而在網絡上吸引了一批抱着戲謔心態追捧它的粉絲。",
-      "link": "https://www.bbc.com/zhongwen/articles/c07rl9x87lvo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-17T09:40:26.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c07rl9x87lvo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e236/live/6f76c6e0-9a12-11f1-a05c-fdd5e0ed226e.jpg"
+      "title": "Meta 若輸掉這訴訟，Instagram 和 Facebook 或會永遠改變",
+      "description": "美國30個州已對Meta提起訴訟，要求徹底改革年輕用戶的社交平台。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4g33g9red9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-17T12:16:16.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4g33g9red9o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/078d/live/f51173c0-97c1-11f1-9963-d1f200dff659.jpg"
     },
     {
       "title": "靖國神社：81年後，為何一次參拜仍能牽動東亞？",
@@ -34,20 +42,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/33b1/live/6ad49130-9a21-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "title": "泰國槍枝問題規模有多大？1000萬把槍",
-      "description": "泰國近期發生的槍擊事件凸顯了該國違法擁有槍支的問題，而相關法律對遏制暴力行為收效甚微。 ",
-      "link": "https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-17T09:43:58.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/57f1/live/f3882690-97bf-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
       "title": "「我從20多歲開始賺了8000英鎊」：為何女性總是更懂投資？",
       "description": "女性可以獲得更高的回報，但英國只有約四分之一的女性擁有投資，相比之下，男性的比例約為40%。",
       "link": "https://www.bbc.com/zhongwen/articles/c2352dp3y4vo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-08-17T00:05:37.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c2352dp3y4vo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c9c7/live/957b4470-93ea-11f1-8231-7d4e2048054e.jpg"
+    },
+    {
+      "title": "泰國槍枝問題規模有多大？1000萬把槍",
+      "description": "泰國近期發生的槍擊事件凸顯了該國違法擁有槍支的問題，而相關法律對遏制暴力行為收效甚微。 ",
+      "link": "https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-17T09:43:58.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/57f1/live/f3882690-97bf-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "title": "美軍指揮官許諾「優先」應對林肯號航母人員精神健康",
@@ -80,14 +88,6 @@
       "pubDate": "2026-08-16T03:07:46.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/clyll19nvj9o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg"
-    },
-    {
-      "title": "為何Z世代女性比母親一代更了解月經？",
-      "description": "從多囊性卵巢症候群到「生理週期同步」，愈來愈多年輕女性表示，她們正把新學到的月經知識分享給母親一代。",
-      "link": "https://www.bbc.com/zhongwen/articles/cr49931x112o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-16T08:34:23.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cr49931x112o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1d54/live/c7e7cd30-97b8-11f1-ba0b-f992fff710db.jpg"
     },
     {
       "title": "時隔20年，台灣前總統陳水扁女兒陳幸妤再次成為媒體焦點",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eb1f/live/625da2d0-8bf8-11f1-9127-6b0fc0b6fa67.jpg"
     },
     {
+      "title": "為何Z世代女性比母親一代更了解月經？",
+      "description": "從多囊性卵巢症候群到「生理週期同步」，愈來愈多年輕女性表示，她們正把新學到的月經知識分享給母親一代。",
+      "link": "https://www.bbc.com/zhongwen/articles/cr49931x112o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-16T08:34:23.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cr49931x112o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1d54/live/c7e7cd30-97b8-11f1-ba0b-f992fff710db.jpg"
+    },
+    {
       "title": "太陽前所未有的清晰：迄今最詳細的觀測影像曝光",
       "description": "最新影像和影片顯示到了太陽活動形成的「漩渦」，呈現出過去無法觀測到的景象。",
       "link": "https://www.bbc.com/zhongwen/articles/crmr102zj9go/trad?at_medium=RSS&at_campaign=rss",
@@ -304,22 +312,6 @@
       "pubDate": "2026-08-13T01:34:37.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cddjp613mvdo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b16/live/38886b20-9576-11f1-bfbd-3fe7d55dcf7b.png"
-    },
-    {
-      "title": "多了少了都不行：我們到底需要多少陽光？",
-      "description": "與日曬最多的組別相比，避開陽光的人全因死亡率是其兩倍。相反，使用日光浴床則與總體死亡率和癌症死亡率上升相關。",
-      "link": "https://www.bbc.com/zhongwen/articles/clyj0nz7d5mo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-11T00:02:18.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/clyj0nz7d5mo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a6c7/live/e9b21250-9497-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "title": "「瘦瘦針」如何改變人們的飲酒習慣？",
-      "description": "包含猛健樂在內的「瘦瘦針」施打者告訴BBC，除了減肥外，他們的飲酒量大幅下降，但也妨礙了在大學的社交生活。",
-      "link": "https://www.bbc.com/zhongwen/articles/c36d3735ng1o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-09T03:59:09.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c36d3735ng1o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3dba/live/f6aa7180-91a6-11f1-a7ab-8b30adf0800a.jpg"
     }
   ]
 }
