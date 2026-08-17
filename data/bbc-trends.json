@@ -1,14 +1,22 @@
 {
-  "updated": "2026-08-17T14:41:11.546Z",
+  "updated": "2026-08-17T14:59:26.599Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-08-17T14:41:05.000Z",
+    "lastBuildDate": "2026-08-17T14:59:14.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "江澤民紀念規格比肩「開國元老」：中共如何紀念已故領導人？",
+      "description": "這意味著，此次由中共中央舉辦江澤民誕辰百年紀念大會，按照中共既有的紀念規格，江澤民在官方已故領導人的紀念序列中，待遇與周恩來、劉少奇、朱德、鄧小平、陳雲等同屬一個級別，僅次於毛澤東。",
+      "link": "https://www.bbc.com/zhongwen/articles/cx25z9pkll0o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-17T14:43:54.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx25z9pkll0o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bebc/live/69c47330-9a41-11f1-a86b-519b4d19bbee.jpg"
+    },
     {
       "title": "「爛到爆紅」的動畫電影成為中國票房黑馬",
       "description": "《牛來》令人摸不着頭腦的劇情和令人發笑的粗糙動畫，反而在網絡上吸引了一批抱着戲謔心態追捧它的粉絲。",
@@ -40,14 +48,6 @@
       "pubDate": "2026-08-16T10:44:03.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/33b1/live/6ad49130-9a21-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "title": "「我從20多歲開始賺了8000英鎊」：為何女性總是更懂投資？",
-      "description": "女性可以獲得更高的回報，但英國只有約四分之一的女性擁有投資，相比之下，男性的比例約為40%。",
-      "link": "https://www.bbc.com/zhongwen/articles/c2352dp3y4vo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-17T00:05:37.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c2352dp3y4vo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c9c7/live/957b4470-93ea-11f1-8231-7d4e2048054e.jpg"
     },
     {
       "title": "泰國槍枝問題規模有多大？1000萬把槍",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eb1f/live/625da2d0-8bf8-11f1-9127-6b0fc0b6fa67.jpg"
     },
     {
+      "title": "「我從20多歲開始賺了8000英鎊」：為何女性總是更懂投資？",
+      "description": "女性可以獲得更高的回報，但英國只有約四分之一的女性擁有投資，相比之下，男性的比例約為40%。",
+      "link": "https://www.bbc.com/zhongwen/articles/c2352dp3y4vo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-17T00:05:37.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c2352dp3y4vo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c9c7/live/957b4470-93ea-11f1-8231-7d4e2048054e.jpg"
+    },
+    {
       "title": "為何Z世代女性比母親一代更了解月經？",
       "description": "從多囊性卵巢症候群到「生理週期同步」，愈來愈多年輕女性表示，她們正把新學到的月經知識分享給母親一代。",
       "link": "https://www.bbc.com/zhongwen/articles/cr49931x112o/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2026-08-13T00:03:47.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cg5lp79nd00o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8363/live/811877b0-86ab-11f1-a0b6-435e4178a497.jpg"
-    },
-    {
-      "title": "AI代理新案例：黑進健身中心系統替「主人」預約課堂",
-      "description": "此事件被視為人工智慧工具為完成任務而不擇手段的最新例證。",
-      "link": "https://www.bbc.com/zhongwen/articles/cddjp613mvdo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-13T01:34:37.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cddjp613mvdo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b16/live/38886b20-9576-11f1-bfbd-3fe7d55dcf7b.png"
     }
   ]
 }
