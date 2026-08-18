@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T20:03:11.349Z",
+  "updated": "2026-08-18T20:35:53.744Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "178",
+      "recommendCount": "511",
+      "title": "[新聞] 曾嗆普發1萬「就是買票」 苗博雅今改口：買立院審預算",
+      "link": "/bbs/Gossiping/M.1787053121.A.F11",
+      "author": "DrowningPool",
+      "board": "Gossiping",
+      "publishTime": "2026/08/18 11:38",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "287",
       "recommendCount": "541",
       "title": "[問卦] 年輕人：「PTT一堆G8老人」 怎麼反駁？",
@@ -64,18 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "176",
-      "recommendCount": "509",
-      "title": "[新聞] 曾嗆普發1萬「就是買票」 苗博雅今改口：買立院審預算",
-      "link": "/bbs/Gossiping/M.1787053121.A.F11",
-      "author": "DrowningPool",
-      "board": "Gossiping",
-      "publishTime": "2026/08/18 11:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "363",
-      "recommendCount": "380",
+      "recommendScore": "364",
+      "recommendCount": "381",
       "title": "Re: [LIVE] 墨超 普埃布拉 @ 帕丘卡 (場中)",
       "link": "/bbs/SportLottery/M.1787030655.A.C29",
       "author": "lotterywin",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "212",
-      "recommendCount": "535",
+      "recommendScore": "213",
+      "recommendCount": "536",
       "title": "[新聞]政院又不副署三讀法案 韓國瑜說重話了：誰給的權力？",
       "link": "/bbs/Gossiping/M.1787057476.A.836",
       "author": "medama",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "201",
-      "recommendCount": "480",
+      "recommendScore": "202",
+      "recommendCount": "481",
       "title": "[新聞] 經濟半世紀最強，韓媒：台灣陷入平均值陷阱",
       "link": "/bbs/Stock/M.1787017061.A.637",
       "author": "mzwj",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "312",
+      "recommendScore": "206",
+      "recommendCount": "313",
       "title": "[今日] 今日Edwin Diaz",
       "link": "/bbs/Baseball/M.1787024407.A.DF8",
       "author": "jouen",
