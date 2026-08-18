@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T19:30:50.064Z",
+  "updated": "2026-08-18T19:50:49.104Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "174",
-      "recommendCount": "506",
+      "recommendCount": "507",
       "title": "[新聞] 曾嗆普發1萬「就是買票」 苗博雅今改口：買立院審預算",
       "link": "/bbs/Gossiping/M.1787053121.A.F11",
       "author": "DrowningPool",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "209",
-      "recommendCount": "528",
+      "recommendScore": "211",
+      "recommendCount": "534",
       "title": "[新聞]政院又不副署三讀法案 韓國瑜說重話了：誰給的權力？",
       "link": "/bbs/Gossiping/M.1787057476.A.836",
       "author": "medama",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "169",
-      "recommendCount": "424",
+      "recommendScore": "170",
+      "recommendCount": "426",
       "title": "[新聞] 李多慧合體蔣萬安拍廣告　綠支持者灌爆：我挺不下去「我挺伯洋」",
       "link": "/bbs/Gossiping/M.1787027274.A.B9C",
       "author": "a5687920",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "164",
-      "recommendCount": "325",
+      "recommendScore": "165",
+      "recommendCount": "327",
       "title": "[問卦] Joeman租屋女網紅 聲明",
       "link": "/bbs/Gossiping/M.1787046566.A.204",
       "author": "asxc530530",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "145",
+      "recommendCount": "285",
+      "title": "[新聞] 美伊停戰協議到期！川普拒延長嗆這盟國：炸爛你們",
+      "link": "/bbs/Stock/M.1787020213.A.D85",
+      "author": "omanorboyo",
+      "board": "Stock",
+      "publishTime": "2026/08/18 02:30",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "131",
       "recommendCount": "389",
       "title": "[新聞] 賴清德用116年預算普發1萬　主計總處：沒規定非用歲計賸餘",
@@ -191,16 +201,6 @@
       "author": "ptt987654321",
       "board": "Gossiping",
       "publishTime": "2026/08/18 00:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "144",
-      "recommendCount": "284",
-      "title": "[新聞] 美伊停戰協議到期！川普拒延長嗆這盟國：炸爛你們",
-      "link": "/bbs/Stock/M.1787020213.A.D85",
-      "author": "omanorboyo",
-      "board": "Stock",
-      "publishTime": "2026/08/18 02:30",
       "imageUrl": ""
     }
   ]
