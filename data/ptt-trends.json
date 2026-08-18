@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T22:31:36.589Z",
+  "updated": "2026-08-18T22:53:43.032Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "179",
+      "recommendCount": "532",
+      "title": "[新聞] 曾嗆普發1萬「就是買票」 苗博雅今改口：買立院審預算",
+      "link": "/bbs/Gossiping/M.1787053121.A.F11",
+      "author": "DrowningPool",
+      "board": "Gossiping",
+      "publishTime": "2026/08/18 11:38",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "397",
       "recommendCount": "485",
       "title": "[今日] 李灝宇 3-3 2RBI 2BB MLB首次猛打賞",
@@ -32,16 +42,6 @@
       "board": "Baseball",
       "publishTime": "2026/08/18 02:29",
       "imageUrl": "https://cache.pttweb.cc/imgur/guBD68f/s/ccb16e101a9345b803159044351f78ac"
-    },
-    {
-      "recommendScore": "179",
-      "recommendCount": "524",
-      "title": "[新聞] 曾嗆普發1萬「就是買票」 苗博雅今改口：買立院審預算",
-      "link": "/bbs/Gossiping/M.1787053121.A.F11",
-      "author": "DrowningPool",
-      "board": "Gossiping",
-      "publishTime": "2026/08/18 11:38",
-      "imageUrl": ""
     },
     {
       "recommendScore": "281",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "219",
-      "recommendCount": "554",
+      "recommendScore": "224",
+      "recommendCount": "570",
       "title": "[新聞]政院又不副署三讀法案 韓國瑜說重話了：誰給的權力？",
       "link": "/bbs/Gossiping/M.1787057476.A.836",
       "author": "medama",
@@ -124,18 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "160",
-      "recommendCount": "436",
-      "title": "Re: [新聞] 北京出大事？傳北戴河槍戰火拼習近平逃難",
-      "link": "/bbs/Gossiping/M.1787007119.A.DF8",
-      "author": "a40494",
-      "board": "Gossiping",
-      "publishTime": "2026/08/17 22:51",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "164",
-      "recommendCount": "329",
+      "recommendCount": "330",
       "title": "[問卦] Joeman租屋女網紅 聲明",
       "link": "/bbs/Gossiping/M.1787046566.A.204",
       "author": "asxc530530",
@@ -201,6 +191,16 @@
       "author": "ptt987654321",
       "board": "Gossiping",
       "publishTime": "2026/08/18 00:43",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "128",
+      "recommendCount": "270",
+      "title": "[新聞] 陳時中諷蔣萬安「帥但面目猙獰」 盧秀燕：選輸了 不要一直攻擊萬安",
+      "link": "/bbs/Gossiping/M.1787019489.A.8EB",
+      "author": "pm2001",
+      "board": "Gossiping",
+      "publishTime": "2026/08/18 02:18",
       "imageUrl": ""
     }
   ]
