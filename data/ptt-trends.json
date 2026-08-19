@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T21:01:04.448Z",
+  "updated": "2026-08-19T21:32:57.121Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,18 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "99",
-      "recommendCount": "648",
-      "title": "[新聞] 回應韓國瑜　政院：不副署違憲法案就是捍衛憲政",
-      "link": "/bbs/Gossiping/M.1787087662.A.EC3",
-      "author": "nightwing",
-      "board": "Gossiping",
-      "publishTime": "2026/08/18 21:14",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "62",
-      "recommendCount": "537",
+      "recommendCount": "538",
       "title": "[新聞] 快訊／賴清德宣布：軍人加薪！　軍公教明年還要再加薪4%",
       "link": "/bbs/Gossiping/M.1787129586.A.EA1",
       "author": "HANASUCIA",
@@ -44,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "178",
-      "recommendCount": "469",
+      "recommendScore": "177",
+      "recommendCount": "471",
       "title": "[新聞] 問A答B遭群嘲！最新綽號「寶立答B」　蔣萬安：最好笑是萊爾校長",
       "link": "/bbs/Gossiping/M.1787109397.A.CDB",
       "author": "ccf52881",
@@ -74,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "178",
+      "recommendCount": "1060",
+      "title": "[討論] 論民眾黨的窘境:跟想併吞你的人合作=找死",
+      "link": "/bbs/HatePolitics/M.1787135979.A.813",
+      "author": "KingKingCold",
+      "board": "HatePolitics",
+      "publishTime": "2026/08/19 10:39",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "139",
       "recommendCount": "374",
       "title": "[新聞] 蕭伊宣布停火Joeman！父母得知內幕心疼痛罵：明明在家是小公主",
@@ -84,18 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "177",
-      "recommendCount": "1058",
-      "title": "[討論] 論民眾黨的窘境:跟想併吞你的人合作=找死",
-      "link": "/bbs/HatePolitics/M.1787135979.A.813",
-      "author": "KingKingCold",
-      "board": "HatePolitics",
-      "publishTime": "2026/08/19 10:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "135",
-      "recommendCount": "376",
+      "recommendScore": "136",
+      "recommendCount": "377",
       "title": "[問卦] Selina怎變成大媽啦=.=",
       "link": "/bbs/Gossiping/M.1787141335.A.EE6",
       "author": "older",
@@ -104,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "278",
+      "recommendScore": "208",
+      "recommendCount": "279",
       "title": "Re: [問卦] 慟！法務局找上八卦板主惹！",
       "link": "/bbs/Gossiping/M.1787136116.A.00B",
       "author": "ubcs",
@@ -201,6 +191,16 @@
       "author": "Adolf5566",
       "board": "Gossiping",
       "publishTime": "2026/08/19 08:59",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "796",
+      "recommendCount": "1445",
+      "title": "[電競] 2026 LCK Regular Season W13D1",
+      "link": "/bbs/LoL/M.1787123525.A.AA2",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/08/19 07:12",
       "imageUrl": ""
     }
   ]
