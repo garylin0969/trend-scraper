@@ -1,21 +1,29 @@
 {
-  "updated": "2026-08-19T11:58:27.286Z",
+  "updated": "2026-08-19T13:06:19.193Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-08-19T11:58:10.000Z",
+    "lastBuildDate": "2026-08-19T13:06:09.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
     {
-      "title": "中國動畫電影《牛來》爆紅背後：為爛片還是真誠買單",
+      "title": "《牛來》為何爆紅？觀眾、導演與電影從業者解讀「粗糙」動畫的意外狂歡",
       "description": "一部因製作粗糙而被網友嘲笑的中國動畫《牛來》，意外在社交網絡走紅並掀起觀影熱潮，觀眾為何從「玩梗」轉而買票支持？",
       "link": "https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-08-19T10:33:54.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c222/live/57f7f3a0-9ba6-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
+      "title": "上市首天漲價近五倍 宇樹科技是怎樣的機械人企業？",
+      "description": "全球最大人形機械人製造商的股票於上海科創板開始交易，首天股價漲幅數以倍計。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-19T12:47:27.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f5e/live/f165f440-9b6c-11f1-b1cb-859c01609bc4.jpg"
     },
     {
       "title": "經濟放緩、「掃黑除惡」下中國民商事律師重新評估風險",
@@ -32,14 +40,6 @@
       "pubDate": "2026-08-18T18:00:44.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1d24/live/30f6b690-9b2b-11f1-b792-a710e56a11dc.jpg"
-    },
-    {
-      "title": "江澤民紀念規格比肩「開國元老」：中共如何紀念已故領導人？",
-      "description": "這意味著，此次由中共中央舉辦江澤民誕辰百年紀念大會，按照中共既有的紀念規格，江澤民在官方已故領導人的紀念序列中，待遇與周恩來、劉少奇、朱德、鄧小平、陳雲等同屬一個級別，僅次於毛澤東。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx25z9pkll0o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-17T14:43:54.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx25z9pkll0o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bebc/live/69c47330-9a41-11f1-a86b-519b4d19bbee.jpg"
     },
     {
       "title": "她指控：一名法國公務員下藥，讓我們小便失禁",
@@ -82,6 +82,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/078d/live/f51173c0-97c1-11f1-9963-d1f200dff659.jpg"
     },
     {
+      "title": "江澤民紀念規格比肩「開國元老」：中共如何紀念已故領導人？",
+      "description": "這意味著，此次由中共中央舉辦江澤民誕辰百年紀念大會，按照中共既有的紀念規格，江澤民在官方已故領導人的紀念序列中，待遇與周恩來、劉少奇、朱德、鄧小平、陳雲等同屬一個級別，僅次於毛澤東。",
+      "link": "https://www.bbc.com/zhongwen/articles/cx25z9pkll0o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-17T14:43:54.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx25z9pkll0o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bebc/live/69c47330-9a41-11f1-a86b-519b4d19bbee.jpg"
+    },
+    {
       "title": "「我在遊戲中當了兩年英國首相，然後閣員們都離我而去」",
       "description": "手機遊戲《唐寧街10號：充分信任》最近在英國App Store付費遊戲排行榜上超越了《我的世界》（Minecraft）。",
       "link": "https://www.bbc.com/zhongwen/articles/cqx7vr7qjwjo/trad?at_medium=RSS&at_campaign=rss",
@@ -104,14 +112,6 @@
       "pubDate": "2026-08-17T09:43:58.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/57f1/live/f3882690-97bf-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "title": "劍橋大學教授阿爾戴之死勢將在分裂的學術界引發震盪",
-      "description": "圍繞學術研究的爭議很少演變成全國性公共討論，但這次事件因涉及英國頂尖學府劍橋大學及其備受關注的學者而引發廣泛關注。這位教授曾公開講述自己作為自閉症患者直到11歲才開始說話、18歲才學會讀寫的非凡成長經歷。",
-      "link": "https://www.bbc.com/zhongwen/articles/c3044704219o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-16T03:50:04.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3044704219o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e1f2/live/c7b603c0-91a2-11f1-964d-6f76397ea067.jpg"
     },
     {
       "title": "AI浪潮衝擊青年就業 畢業生如何應對？",
@@ -202,20 +202,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/33b1/live/6ad49130-9a21-11f1-a291-b542ee92de7c.jpg"
     },
     {
+      "title": "劍橋大學教授阿爾戴之死勢將在分裂的學術界引發震盪",
+      "description": "圍繞學術研究的爭議很少演變成全國性公共討論，但這次事件因涉及英國頂尖學府劍橋大學及其備受關注的學者而引發廣泛關注。這位教授曾公開講述自己作為自閉症患者直到11歲才開始說話、18歲才學會讀寫的非凡成長經歷。",
+      "link": "https://www.bbc.com/zhongwen/articles/c3044704219o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-16T03:50:04.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3044704219o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e1f2/live/c7b603c0-91a2-11f1-964d-6f76397ea067.jpg"
+    },
+    {
       "title": "時隔20年，台灣前總統陳水扁女兒陳幸妤再次成為媒體焦點",
       "description": "台灣前總統陳水扁的女兒陳幸妤，近日因離婚一事曝光，時隔多年再次成為了台灣輿論焦點，也引起社會反思20年前媒體追訪她的倫理問題。",
       "link": "https://www.bbc.com/zhongwen/articles/cn7n5zxmmr1o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-08-15T03:19:46.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn7n5zxmmr1o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3f20/live/478ccfe0-97c8-11f1-870d-5d08c49babb2.jpg"
-    },
-    {
-      "title": "朱鎔基的話：從「搞台獨沒好下場」 到「搞壞香港是民族罪人」",
-      "description": "朱鎔基辭世，台灣聚焦2000年「搞台獨沒好下場」反助陳水扁勝選；港澳感念其金融風暴挺港與市場開放貢獻。",
-      "link": "https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-14T09:20:28.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/689a/live/aedf4350-96f4-11f1-870d-5d08c49babb2.jpg"
     },
     {
       "title": "卡斯特羅之女回顧那個她從不想認的父親",
