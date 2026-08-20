@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-20T14:45:12.481Z",
+  "updated": "2026-08-20T15:17:40.590Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "398",
-      "recommendCount": "716",
+      "recommendScore": "403",
+      "recommendCount": "725",
       "title": "[情報] 動畫瘋尼古喵喵異動公告",
       "link": "/bbs/C_Chat/M.1787214677.A.DAA",
       "author": "liutj5800",
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "127",
+      "recommendCount": "440",
+      "title": "[花邊] 嘴綠:Poole被揍影片外流 百分之百有預謀",
+      "link": "/bbs/NBA/M.1787198071.A.726",
+      "author": "Kazmier",
+      "board": "NBA",
+      "publishTime": "2026/08/20 03:54",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "183",
       "recommendCount": "485",
       "title": "[新聞] 多家台灣團體齊批：台灣應停播尼古喵喵",
@@ -82,16 +92,6 @@
       "board": "Gossiping",
       "publishTime": "2026/08/20 08:19",
       "imageUrl": "https://cache.pttweb.cc/imgur/0v9yE33/s/d59895aa6d1fe5b3eff3597e9a4b2e3a"
-    },
-    {
-      "recommendScore": "119",
-      "recommendCount": "422",
-      "title": "[花邊] 嘴綠:Poole被揍影片外流 百分之百有預謀",
-      "link": "/bbs/NBA/M.1787198071.A.726",
-      "author": "Kazmier",
-      "board": "NBA",
-      "publishTime": "2026/08/20 03:54",
-      "imageUrl": ""
     },
     {
       "recommendScore": "-142",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "197",
-      "recommendCount": "424",
+      "recommendScore": "198",
+      "recommendCount": "425",
       "title": "Re: [新聞] 捍衛普發1萬政策 卓榮泰：沒有雙標 只有達標",
       "link": "/bbs/Gossiping/M.1787189549.A.702",
       "author": "junior020486",
@@ -164,13 +164,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "141",
-      "recommendCount": "271",
+      "recommendScore": "145",
+      "recommendCount": "276",
       "title": "[新聞] 川普對伊朗發動經濟D-Day！宣布史上最強經濟戰 敢伸援手就一起付代價",
       "link": "/bbs/Stock/M.1787199942.A.221",
       "author": "haha98",
       "board": "Stock",
       "publishTime": "2026/08/20 04:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "146",
+      "recommendCount": "314",
+      "title": "[新聞] 牛肉麵很香「股票卻不香」？三商餐飲賺翻股價卻重摔7成 達人揭背後原因",
+      "link": "/bbs/Stock/M.1787184453.A.2A6",
+      "author": "cjol",
+      "board": "Stock",
+      "publishTime": "2026/08/20 00:07",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "kun0616",
       "board": "C_Chat",
       "publishTime": "2026/08/20 10:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "108",
-      "recommendCount": "240",
-      "title": "[新聞] 川普大怒！親宣對伊朗祭「史上最毀滅經濟制裁」：沒人比我給更多機會",
-      "link": "/bbs/Gossiping/M.1787185591.A.D5C",
-      "author": "STi2011",
-      "board": "Gossiping",
-      "publishTime": "2026/08/20 00:26",
       "imageUrl": ""
     }
   ]
