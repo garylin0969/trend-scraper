@@ -1,17 +1,27 @@
 {
-  "updated": "2026-08-20T15:17:40.590Z",
+  "updated": "2026-08-20T15:51:09.398Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "403",
-      "recommendCount": "725",
+      "recommendScore": "405",
+      "recommendCount": "729",
       "title": "[情報] 動畫瘋尼古喵喵異動公告",
       "link": "/bbs/C_Chat/M.1787214677.A.DAA",
       "author": "liutj5800",
       "board": "C_Chat",
       "publishTime": "2026/08/20 08:31",
       "imageUrl": "https://cache.pttweb.cc/imgur/0v9yE33/s/d59895aa6d1fe5b3eff3597e9a4b2e3a"
+    },
+    {
+      "recommendScore": "267",
+      "recommendCount": "892",
+      "title": "[問卦] 越來越多年輕人去大陸自由行了",
+      "link": "/bbs/Gossiping/M.1787207856.A.732",
+      "author": "opemhood",
+      "board": "Gossiping",
+      "publishTime": "2026/08/20 06:37",
+      "imageUrl": ""
     },
     {
       "recommendScore": "371",
@@ -21,16 +31,6 @@
       "author": "ElfFail",
       "board": "C_Chat",
       "publishTime": "2026/08/20 09:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "249",
-      "recommendCount": "840",
-      "title": "[問卦] 越來越多年輕人去大陸自由行了",
-      "link": "/bbs/Gossiping/M.1787207856.A.732",
-      "author": "opemhood",
-      "board": "Gossiping",
-      "publishTime": "2026/08/20 06:37",
       "imageUrl": ""
     },
     {
@@ -94,8 +94,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/0v9yE33/s/d59895aa6d1fe5b3eff3597e9a4b2e3a"
     },
     {
-      "recommendScore": "-142",
-      "recommendCount": "434",
+      "recommendScore": "-149",
+      "recommendCount": "443",
       "title": "[新聞] 孩子一直問訂單咧…總統府中秋採購被迫喊卡 庇護工場心碎求援國人認購",
       "link": "/bbs/Gossiping/M.1787204814.A.521",
       "author": "jal809",
