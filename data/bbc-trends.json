@@ -1,14 +1,22 @@
 {
-  "updated": "2026-08-21T01:55:20.769Z",
+  "updated": "2026-08-21T03:13:50.303Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-08-21T01:55:16.000Z",
+    "lastBuildDate": "2026-08-21T03:13:46.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "香港支聯會煽動顛覆案 高等法院裁定有罪",
+      "description": "香港特區高等法院認定支聯會與李卓人、鄒幸彤、何俊仁意圖煽動顛覆中國政權，他們將面臨最高10年監禁。",
+      "link": "https://www.bbc.com/zhongwen/articles/cvgvrpy7pjro/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-21T02:13:03.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvgvrpy7pjro/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf0a/live/9853abc0-9c90-11f1-b109-879e35c24276.jpg"
+    },
     {
       "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
       "description": "美國和中國再次就巴拿馬運河問題交鋒。這條戰略水道約佔全球海運貿易量5%，而美國近40%的集裝箱運輸都經過這裏。",
@@ -16,14 +24,6 @@
       "pubDate": "2026-08-20T20:55:34.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cea1/live/d02d6780-9b0e-11f1-9341-0383083a41e3.jpg"
-    },
-    {
-      "title": "恆大許家印被判處無期徒刑 集團罰款近160億元人民幣",
-      "description": "深圳法院裁定沒收許家印個人全部財產；已被頒令清盤的恆大集團與恆大地產合共被罰款158.2億元人民幣（23.52億美元；749.45億元新台幣）。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-20T06:43:47.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a0da/live/5a787d90-9c62-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "title": "她辭掉了8萬英鎊年薪工作去做冰淇淋，然後造出了爆款",
@@ -48,6 +48,14 @@
       "pubDate": "2026-08-20T08:36:06.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cvg96l8e5q9o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cdae/live/7a1047c0-9bb1-11f1-ae8a-8d57110c5ba6.jpg"
+    },
+    {
+      "title": "恆大許家印被判處無期徒刑 集團罰款近160億元人民幣",
+      "description": "深圳法院裁定沒收許家印個人全部財產；已被頒令清盤的恆大集團與恆大地產合共被罰款158.2億元人民幣（23.52億美元；749.45億元新台幣）。",
+      "link": "https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-20T06:43:47.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a0da/live/5a787d90-9c62-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "title": "台灣為何此刻提出「鞭刑入法」公投？",
@@ -104,14 +112,6 @@
       "pubDate": "2026-08-17T12:16:16.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c4g33g9red9o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/078d/live/f51173c0-97c1-11f1-9963-d1f200dff659.jpg"
-    },
-    {
-      "title": "日本企業應用人工智慧為何如此緩慢？",
-      "description": "日本的風險規避和保守主義被認為是導致該國企業界對AI人工智慧接受度低的原因。",
-      "link": "https://www.bbc.com/zhongwen/articles/cy74z6ln0m2o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-18T00:06:44.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cy74z6ln0m2o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ede/live/9f7531a0-8f41-11f1-8c3d-6f698d2b4d1e.jpg"
     },
     {
       "title": "AI浪潮衝擊青年就業 畢業生如何應對？",
@@ -210,20 +210,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1a22/live/86235450-9731-11f1-870d-5d08c49babb2.jpg"
     },
     {
+      "title": "日本企業應用人工智慧為何如此緩慢？",
+      "description": "日本的風險規避和保守主義被認為是導致該國企業界對AI人工智慧接受度低的原因。",
+      "link": "https://www.bbc.com/zhongwen/articles/cy74z6ln0m2o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-18T00:06:44.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cy74z6ln0m2o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ede/live/9f7531a0-8f41-11f1-8c3d-6f698d2b4d1e.jpg"
+    },
+    {
       "title": "泰國槍枝問題規模有多大？1000萬把槍",
       "description": "泰國近期發生的槍擊事件凸顯了該國違法擁有槍支的問題，而相關法律對遏制暴力行為收效甚微。 ",
       "link": "https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-08-17T09:43:58.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/57f1/live/f3882690-97bf-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "title": "劍橋大學教授阿爾戴之死勢將在分裂的學術界引發震盪",
-      "description": "圍繞學術研究的爭議很少演變成全國性公共討論，但這次事件因涉及英國頂尖學府劍橋大學及其備受關注的學者而引發廣泛關注。這位教授曾公開講述自己作為自閉症患者直到11歲才開始說話、18歲才學會讀寫的非凡成長經歷。",
-      "link": "https://www.bbc.com/zhongwen/articles/c3044704219o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-16T03:50:04.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3044704219o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e1f2/live/c7b603c0-91a2-11f1-964d-6f76397ea067.jpg"
     },
     {
       "title": "時隔20年，台灣前總統陳水扁女兒陳幸妤再次成為媒體焦點",
