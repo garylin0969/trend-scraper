@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-21T10:26:23.025Z",
+  "updated": "2026-08-21T10:56:50.446Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "178",
-      "recommendCount": "473",
+      "recommendScore": "182",
+      "recommendCount": "484",
       "title": "[新聞] 賴總統宣布普發現金1萬元 傅崐萁加碼：國民黨團規畫到3萬元",
       "link": "/bbs/Gossiping/M.1787280237.A.791",
       "author": "jal0309",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "85",
-      "recommendCount": "243",
+      "recommendScore": "84",
+      "recommendCount": "247",
       "title": "[新聞] 中華藍保送條款引戰！菲教頭吐苦水　籃協硬起來：賽制大家都同意",
       "link": "/bbs/Gossiping/M.1787244568.A.E12",
       "author": "Rostislav",
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "106",
-      "recommendCount": "376",
-      "title": "[問題] 相比菸的危害 酒其實更恐怖吧?",
-      "link": "/bbs/C_Chat/M.1787222123.A.BD3",
-      "author": "kasim65",
-      "board": "C_Chat",
-      "publishTime": "2026/08/20 10:35",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "232",
       "recommendCount": "480",
       "title": "[轉播] 九下 兄弟4：2味全",
@@ -184,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "840",
-      "recommendCount": "1471",
-      "title": "[討論] [Vtub] Hololive 晚間直播單 (1150820)",
-      "link": "/bbs/C_Chat/M.1787222577.A.DA8",
-      "author": "laptic",
-      "board": "C_Chat",
-      "publishTime": "2026/08/20 10:42",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "129",
       "recommendCount": "216",
       "title": "[分享] 今日陳子豪",
@@ -202,6 +182,26 @@
       "board": "Baseball",
       "publishTime": "2026/08/20 13:49",
       "imageUrl": "https://cache.pttweb.cc/imgur/zI67MDo/s/ab584da5ea29da3cf456fbe1b20b1d71"
+    },
+    {
+      "recommendScore": "70",
+      "recommendCount": "222",
+      "title": "[情報] 瓊斯盃戰績",
+      "link": "/bbs/basketballTW/M.1787232170.A.F6F",
+      "author": "abbeywei",
+      "board": "basketballTW",
+      "publishTime": "2026/08/20 13:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "238",
+      "recommendCount": "527",
+      "title": "[轉播] 八下 兄弟4：0味全",
+      "link": "/bbs/Elephants/M.1787230101.A.8AE",
+      "author": "hsuaninteen",
+      "board": "Elephants",
+      "publishTime": "2026/08/20 12:48",
+      "imageUrl": ""
     }
   ]
 }
