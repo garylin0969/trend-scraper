@@ -1,15 +1,20 @@
 {
-  "updated": "2026-08-21T19:25:13.677Z",
+  "updated": "2026-08-21T19:48:06.143Z",
   "trends": [
     {
       "googleTrend": "台南火災",
+      "searchVolume": "1,000+",
+      "started": "2 小時前"
+    },
+    {
+      "googleTrend": "台南",
       "searchVolume": "500+",
       "started": "1 小時前"
     },
     {
-      "googleTrend": "台南",
+      "googleTrend": "兵工廠 對 科芬特里城",
       "searchVolume": "200+",
-      "started": "1 小時前"
+      "started": "40 分鐘前"
     },
     {
       "googleTrend": "周子瑜",
@@ -17,22 +22,12 @@
       "started": "3 小時前"
     },
     {
-      "googleTrend": "兵工廠 對 科芬特里城",
-      "searchVolume": "200+",
-      "started": "20 分鐘前"
-    },
-    {
       "googleTrend": "火災",
-      "searchVolume": "200+",
-      "started": "1 小時前"
-    },
-    {
-      "googleTrend": "手機 報稅 中獎 名單",
       "searchVolume": "200+",
       "started": "2 小時前"
     },
     {
-      "googleTrend": "嚴立婷",
+      "googleTrend": "手機 報稅 中獎 名單",
       "searchVolume": "200+",
       "started": "3 小時前"
     },
@@ -45,6 +40,11 @@
       "googleTrend": "黑神話:鍾馗",
       "searchVolume": "100+",
       "started": "3 小時前"
+    },
+    {
+      "googleTrend": "grok",
+      "searchVolume": "100+",
+      "started": "50 分鐘前"
     }
   ]
 }
