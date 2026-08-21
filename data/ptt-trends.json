@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T20:48:52.737Z",
+  "updated": "2026-08-21T21:09:23.637Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "206",
+      "recommendCount": "321",
+      "title": "[分享] 統一獅滿壘計",
+      "link": "/bbs/Baseball/M.1787317473.A.7A7",
+      "author": "neo7",
+      "board": "Baseball",
+      "publishTime": "2026/08/21 13:04",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "185",
       "recommendCount": "453",
       "title": "[問卦] 脆熱議：最自卑的城市是高雄",
@@ -122,16 +132,6 @@
       "board": "Gossiping",
       "publishTime": "2026/08/21 09:58",
       "imageUrl": "https://cache.pttweb.cc/imgur/eCzu0dC/s/c7b4fcd0dcd9b5a536ee505a4abe7df7"
-    },
-    {
-      "recommendScore": "205",
-      "recommendCount": "320",
-      "title": "[分享] 統一獅滿壘計",
-      "link": "/bbs/Baseball/M.1787317473.A.7A7",
-      "author": "neo7",
-      "board": "Baseball",
-      "publishTime": "2026/08/21 13:04",
-      "imageUrl": ""
     },
     {
       "recommendScore": "725",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "329",
-      "recommendCount": "695",
+      "recommendScore": "330",
+      "recommendCount": "698",
       "title": "[新聞] NBA》網評不如雷槍！意外釣出K湯反擊酸民：我去弱隊刷數據超簡單",
       "link": "/bbs/NBA/M.1787286082.A.EAD",
       "author": "access4096",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "153",
-      "recommendCount": "322",
+      "recommendScore": "154",
+      "recommendCount": "323",
       "title": "[花邊] James Harden：我以為犧牲可以換來總冠軍",
       "link": "/bbs/NBA/M.1787277201.A.739",
       "author": "jason911152",
