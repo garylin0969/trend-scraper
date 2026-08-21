@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T03:32:57.118Z",
+  "updated": "2026-08-21T04:20:32.731Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -52,16 +52,6 @@
       "board": "Gossiping",
       "publishTime": "2026/08/20 08:19",
       "imageUrl": "https://cache.pttweb.cc/imgur/0v9yE33/s/d59895aa6d1fe5b3eff3597e9a4b2e3a"
-    },
-    {
-      "recommendScore": "126",
-      "recommendCount": "461",
-      "title": "[花邊] 嘴綠:Poole被揍影片外流 百分之百有預謀",
-      "link": "/bbs/NBA/M.1787198071.A.726",
-      "author": "Kazmier",
-      "board": "NBA",
-      "publishTime": "2026/08/20 03:54",
-      "imageUrl": ""
     },
     {
       "recommendScore": "194",
@@ -134,13 +124,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "149",
-      "recommendCount": "244",
+      "recommendScore": "150",
+      "recommendCount": "245",
       "title": "[問卦] 對岸有黑悟空黑鐘馗，台灣能黑什麼？",
       "link": "/bbs/Gossiping/M.1787226762.A.228",
       "author": "LukeSkywaker",
       "board": "Gossiping",
       "publishTime": "2026/08/20 11:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "123",
+      "recommendCount": "262",
+      "title": "[新聞] 曾表態廢監察院 監委被提名人今改口：五權分立未必較差",
+      "link": "/bbs/Gossiping/M.1787227421.A.659",
+      "author": "Calcifer",
+      "board": "Gossiping",
+      "publishTime": "2026/08/20 12:03",
       "imageUrl": ""
     },
     {
@@ -154,18 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "120",
-      "recommendCount": "259",
-      "title": "[新聞] 曾表態廢監察院 監委被提名人今改口：五權分立未必較差",
-      "link": "/bbs/Gossiping/M.1787227421.A.659",
-      "author": "Calcifer",
-      "board": "Gossiping",
-      "publishTime": "2026/08/20 12:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "209",
-      "recommendCount": "297",
+      "recommendScore": "210",
+      "recommendCount": "298",
       "title": "[分享] CPBL戰績",
       "link": "/bbs/Baseball/M.1787232714.A.9EB",
       "author": "suwagutao",
@@ -201,6 +191,16 @@
       "author": "kun0616",
       "board": "C_Chat",
       "publishTime": "2026/08/20 10:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "141",
+      "recommendCount": "232",
+      "title": "[問卦] 趙建銘下機第一句話說什麼才能震撼全場",
+      "link": "/bbs/Gossiping/M.1787219262.A.B3C",
+      "author": "zqAI3yGOAT",
+      "board": "Gossiping",
+      "publishTime": "2026/08/20 09:47",
       "imageUrl": ""
     }
   ]
