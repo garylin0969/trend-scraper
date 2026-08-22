@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T19:21:18.616Z",
+  "updated": "2026-08-22T19:41:43.224Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "298",
-      "recommendCount": "521",
+      "recommendScore": "300",
+      "recommendCount": "525",
       "title": "[新聞] 台南大爆炸登CNN：「兩次巨大爆炸」火球衝天",
       "link": "/bbs/Gossiping/M.1787399424.A.27C",
       "author": "hito0509",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "167",
-      "recommendCount": "603",
+      "recommendScore": "168",
+      "recommendCount": "604",
       "title": "[問卦] 國旅補助來了 台南民宿漲至160%",
       "link": "/bbs/Gossiping/M.1787365400.A.D1D",
       "author": "medama",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "156",
-      "recommendCount": "349",
+      "recommendScore": "157",
+      "recommendCount": "350",
       "title": "[新聞] 安南區大爆炸！黃偉哲新加坡急改班機 預計下午返台",
       "link": "/bbs/Gossiping/M.1787391899.A.F53",
       "author": "qq204",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "167",
-      "recommendCount": "327",
+      "recommendScore": "168",
+      "recommendCount": "330",
       "title": "[問卦] 為何高雄越淹水，向心力、榮譽感就越高",
       "link": "/bbs/Gossiping/M.1787393062.A.3C0",
       "author": "zakijudelo",
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "161",
+      "recommendCount": "334",
+      "title": "[問卦] 2026了南部這幾年怎麼還像未開化地區",
+      "link": "/bbs/Gossiping/M.1787402699.A.1BA",
+      "author": "wer50888",
+      "board": "Gossiping",
+      "publishTime": "2026/08/22 12:44",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "172",
       "recommendCount": "354",
       "title": "[分享] 新竹球場來到驗收階段",
@@ -131,16 +141,6 @@
       "author": "kobe089",
       "board": "Baseball",
       "publishTime": "2026/08/22 04:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "160",
-      "recommendCount": "333",
-      "title": "[問卦] 2026了南部這幾年怎麼還像未開化地區",
-      "link": "/bbs/Gossiping/M.1787402699.A.1BA",
-      "author": "wer50888",
-      "board": "Gossiping",
-      "publishTime": "2026/08/22 12:44",
       "imageUrl": ""
     },
     {
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "142",
+      "recommendCount": "545",
+      "title": "[討論] 庇護工廠事件好像越燒越大了",
+      "link": "/bbs/HatePolitics/M.1787393734.A.FFE",
+      "author": "Arthurseed",
+      "board": "HatePolitics",
+      "publishTime": "2026/08/22 10:15",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "90",
       "recommendCount": "250",
       "title": "[情報] 董氏基金會:業者知道違法後自主下架尼古",
@@ -191,16 +201,6 @@
       "author": "PealRay",
       "board": "C_Chat",
       "publishTime": "2026/08/22 10:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "142",
-      "recommendCount": "543",
-      "title": "[討論] 庇護工廠事件好像越燒越大了",
-      "link": "/bbs/HatePolitics/M.1787393734.A.FFE",
-      "author": "Arthurseed",
-      "board": "HatePolitics",
-      "publishTime": "2026/08/22 10:15",
       "imageUrl": ""
     }
   ]
