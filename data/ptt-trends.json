@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T10:48:22.622Z",
+  "updated": "2026-08-22T11:02:21.343Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "287",
-      "recommendCount": "533",
+      "recommendScore": "291",
+      "recommendCount": "540",
       "title": "[新聞] 快訊／堆鎂鋁廢棄物釀台南大爆炸！環保局奔公司稽查　竟是美髮店",
       "link": "/bbs/Gossiping/M.1787380287.A.C05",
       "author": "joanzkow",
@@ -64,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "794",
+      "recommendCount": "1445",
+      "title": "[電競] 2026 LCK Regular Season W13D4",
+      "link": "/bbs/LoL/M.1787383812.A.B4F",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/08/22 07:30",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "151",
       "recommendCount": "407",
       "title": "[討論] 北市民調只差0.5%是真的嗎？",
@@ -74,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "149",
-      "recommendCount": "556",
+      "recommendScore": "154",
+      "recommendCount": "566",
       "title": "[問卦] 國旅補助來了 台南民宿漲至160%",
       "link": "/bbs/Gossiping/M.1787365400.A.D1D",
       "author": "medama",
@@ -94,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "797",
-      "recommendCount": "1445",
-      "title": "[電競] 2026 LCK Regular Season W13D4",
-      "link": "/bbs/LoL/M.1787383812.A.B4F",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/08/22 07:30",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "86",
       "recommendCount": "333",
       "title": "[新聞] 新北軟爛夫砍死妻、小姨子逃死！法院判決理由曝光：非最嚴重情節",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "160",
-      "recommendCount": "334",
+      "recommendScore": "161",
+      "recommendCount": "335",
       "title": "[分享] 新竹球場來到驗收階段",
       "link": "/bbs/Baseball/M.1787374230.A.67C",
       "author": "kobe089",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "138",
-      "recommendCount": "247",
+      "recommendScore": "140",
+      "recommendCount": "249",
       "title": "[問卦] 脆熱議：台南高雄大淹水",
       "link": "/bbs/Gossiping/M.1787375893.A.40F",
       "author": "ig49999",
@@ -161,16 +161,6 @@
       "author": "DsLove710",
       "board": "Gossiping",
       "publishTime": "2026/08/22 02:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "891",
-      "recommendCount": "1470",
-      "title": "[討論] [Vtub] Hololive 日間直播單 (1150822)",
-      "link": "/bbs/C_Chat/M.1787353204.A.111",
-      "author": "laptic",
-      "board": "C_Chat",
-      "publishTime": "2026/08/21 23:00",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "CrazySept",
       "board": "Gossiping",
       "publishTime": "2026/08/22 05:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "865",
+      "recommendCount": "1470",
+      "title": "[討論] [Vtub] Hololive 日間直播單 (1150822)",
+      "link": "/bbs/C_Chat/M.1787353204.A.111",
+      "author": "laptic",
+      "board": "C_Chat",
+      "publishTime": "2026/08/21 23:00",
       "imageUrl": ""
     }
   ]
