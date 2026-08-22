@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-22T07:48:52.546Z",
+  "updated": "2026-08-22T08:11:29.085Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "293",
-      "recommendCount": "475",
+      "recommendScore": "296",
+      "recommendCount": "481",
       "title": "[問卦] 脆熱議：只剩四個字的台北市！",
       "link": "/bbs/Gossiping/M.1787362899.A.B6C",
       "author": "pigpigcom123",
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/eCzu0dC/s/c7b4fcd0dcd9b5a536ee505a4abe7df7"
     },
     {
-      "recommendScore": "252",
-      "recommendCount": "452",
+      "recommendScore": "260",
+      "recommendCount": "464",
       "title": "[新聞] 高雄持續大雨「路邊長野菇」1家3口採來吃上吐下瀉中毒送醫",
       "link": "/bbs/Gossiping/M.1787366779.A.258",
       "author": "qazxc1156892",
@@ -84,8 +84,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "173",
+      "recommendCount": "338",
+      "title": "[新聞] 快訊／堆鎂鋁廢棄物釀台南大爆炸！環保局奔公司稽查　竟是美髮店",
+      "link": "/bbs/Gossiping/M.1787380287.A.C05",
+      "author": "joanzkow",
+      "board": "Gossiping",
+      "publishTime": "2026/08/22 06:31",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "135",
-      "recommendCount": "497",
+      "recommendCount": "505",
       "title": "[問卦] 國旅補助來了 台南民宿漲至160%",
       "link": "/bbs/Gossiping/M.1787365400.A.D1D",
       "author": "medama",
@@ -124,18 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "156",
-      "recommendCount": "297",
-      "title": "[新聞] 快訊／堆鎂鋁廢棄物釀台南大爆炸！環保局奔公司稽查　竟是美髮店",
-      "link": "/bbs/Gossiping/M.1787380287.A.C05",
-      "author": "joanzkow",
-      "board": "Gossiping",
-      "publishTime": "2026/08/22 06:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "110",
-      "recommendCount": "1015",
+      "recommendScore": "115",
+      "recommendCount": "1022",
       "title": "[討論] 卓榮泰又不附署民生法案了！",
       "link": "/bbs/HatePolitics/M.1787370884.A.226",
       "author": "gn7722",
@@ -174,6 +174,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/IRSPonO/s/65f38dc0ee6e49366a7d2746543a75a0"
     },
     {
+      "recommendScore": "116",
+      "recommendCount": "227",
+      "title": "[新聞] 快訊／高雄泡水中！鳳山行政中心周邊也變汪洋　護欄到處漂",
+      "link": "/bbs/Gossiping/M.1787365297.A.B7F",
+      "author": "DsLove710",
+      "board": "Gossiping",
+      "publishTime": "2026/08/22 02:21",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "139",
       "recommendCount": "627",
       "title": "[轉播] 八局下 中信1:1統一",
@@ -184,23 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "153",
-      "recommendCount": "250",
-      "title": "[問卦] 倚天 殷素素是怎麼瞞著謝遜偷做愛的?",
-      "link": "/bbs/Gossiping/M.1787298607.A.785",
-      "author": "tose4433",
-      "board": "Gossiping",
-      "publishTime": "2026/08/21 07:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "113",
-      "recommendCount": "219",
-      "title": "[新聞] 快訊／高雄泡水中！鳳山行政中心周邊也變汪洋　護欄到處漂",
-      "link": "/bbs/Gossiping/M.1787365297.A.B7F",
-      "author": "DsLove710",
-      "board": "Gossiping",
-      "publishTime": "2026/08/22 02:21",
+      "recommendScore": "130",
+      "recommendCount": "272",
+      "title": "[分享] 新竹球場來到驗收階段",
+      "link": "/bbs/Baseball/M.1787374230.A.67C",
+      "author": "kobe089",
+      "board": "Baseball",
+      "publishTime": "2026/08/22 04:50",
       "imageUrl": ""
     }
   ]
