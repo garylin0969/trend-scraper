@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-22T11:02:21.343Z",
+  "updated": "2026-08-22T11:31:40.671Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "315",
-      "recommendCount": "507",
+      "recommendScore": "317",
+      "recommendCount": "510",
       "title": "[問卦] 脆熱議：只剩四個字的台北市！",
       "link": "/bbs/Gossiping/M.1787362899.A.B6C",
       "author": "pigpigcom123",
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/U5EEqL7/s/03bb3108d803183b90b59e093f06138a"
     },
     {
-      "recommendScore": "290",
-      "recommendCount": "504",
+      "recommendScore": "292",
+      "recommendCount": "509",
       "title": "[新聞] 高雄持續大雨「路邊長野菇」1家3口採來吃上吐下瀉中毒送醫",
       "link": "/bbs/Gossiping/M.1787366779.A.258",
       "author": "qazxc1156892",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "291",
-      "recommendCount": "540",
+      "recommendScore": "299",
+      "recommendCount": "557",
       "title": "[新聞] 快訊／堆鎂鋁廢棄物釀台南大爆炸！環保局奔公司稽查　竟是美髮店",
       "link": "/bbs/Gossiping/M.1787380287.A.C05",
       "author": "joanzkow",
@@ -64,13 +64,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "794",
+      "recommendScore": "791",
       "recommendCount": "1445",
       "title": "[電競] 2026 LCK Regular Season W13D4",
       "link": "/bbs/LoL/M.1787383812.A.B4F",
       "author": "laptic",
       "board": "LoL",
       "publishTime": "2026/08/22 07:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "157",
+      "recommendCount": "572",
+      "title": "[問卦] 國旅補助來了 台南民宿漲至160%",
+      "link": "/bbs/Gossiping/M.1787365400.A.D1D",
+      "author": "medama",
+      "board": "Gossiping",
+      "publishTime": "2026/08/22 02:23",
       "imageUrl": ""
     },
     {
@@ -84,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "154",
-      "recommendCount": "566",
-      "title": "[問卦] 國旅補助來了 台南民宿漲至160%",
-      "link": "/bbs/Gossiping/M.1787365400.A.D1D",
-      "author": "medama",
-      "board": "Gossiping",
-      "publishTime": "2026/08/22 02:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "127",
-      "recommendCount": "1084",
+      "recommendScore": "126",
+      "recommendCount": "1085",
       "title": "[討論] 卓榮泰又不附署民生法案了！",
       "link": "/bbs/HatePolitics/M.1787370884.A.226",
       "author": "gn7722",
@@ -114,13 +114,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "161",
-      "recommendCount": "335",
+      "recommendScore": "162",
+      "recommendCount": "336",
       "title": "[分享] 新竹球場來到驗收階段",
       "link": "/bbs/Baseball/M.1787374230.A.67C",
       "author": "kobe089",
       "board": "Baseball",
       "publishTime": "2026/08/22 04:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "200",
+      "recommendCount": "377",
+      "title": "[問卦] 台南安南區發生爆炸？",
+      "link": "/bbs/Gossiping/M.1787339146.A.DCF",
+      "author": "Eric00132",
+      "board": "Gossiping",
+      "publishTime": "2026/08/21 19:05",
       "imageUrl": ""
     },
     {
@@ -134,18 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "199",
-      "recommendCount": "376",
-      "title": "[問卦] 台南安南區發生爆炸？",
-      "link": "/bbs/Gossiping/M.1787339146.A.DCF",
-      "author": "Eric00132",
-      "board": "Gossiping",
-      "publishTime": "2026/08/21 19:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "140",
-      "recommendCount": "249",
+      "recommendScore": "142",
+      "recommendCount": "251",
       "title": "[問卦] 脆熱議：台南高雄大淹水",
       "link": "/bbs/Gossiping/M.1787375893.A.40F",
       "author": "ig49999",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "109",
-      "recommendCount": "221",
+      "recommendScore": "111",
+      "recommendCount": "225",
       "title": "[新聞] 抓到了！台南住宅空地藏危險物釀爆炸 來自高雄鼓山業者",
       "link": "/bbs/Gossiping/M.1787376981.A.B60",
       "author": "CrazySept",
@@ -194,7 +194,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "865",
+      "recommendScore": "866",
       "recommendCount": "1470",
       "title": "[討論] [Vtub] Hololive 日間直播單 (1150822)",
       "link": "/bbs/C_Chat/M.1787353204.A.111",
