@@ -1,8 +1,18 @@
 {
-  "updated": "2026-08-22T14:49:56.012Z",
+  "updated": "2026-08-22T15:02:03.823Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "298",
+      "recommendCount": "520",
+      "title": "[新聞] 高雄持續大雨「路邊長野菇」1家3口採來吃上吐下瀉中毒送醫",
+      "link": "/bbs/Gossiping/M.1787366779.A.258",
+      "author": "qazxc1156892",
+      "board": "Gossiping",
+      "publishTime": "2026/08/22 02:46",
+      "imageUrl": "https://cache.pttweb.cc/imgur/U5EEqL7/s/03bb3108d803183b90b59e093f06138a"
+    },
     {
       "recommendScore": "322",
       "recommendCount": "520",
@@ -11,21 +21,11 @@
       "author": "pigpigcom123",
       "board": "Gossiping",
       "publishTime": "2026/08/22 01:41",
-      "imageUrl": "https://cache.pttweb.cc/imgur/U5EEqL7/s/03bb3108d803183b90b59e093f06138a"
-    },
-    {
-      "recommendScore": "299",
-      "recommendCount": "519",
-      "title": "[新聞] 高雄持續大雨「路邊長野菇」1家3口採來吃上吐下瀉中毒送醫",
-      "link": "/bbs/Gossiping/M.1787366779.A.258",
-      "author": "qazxc1156892",
-      "board": "Gossiping",
-      "publishTime": "2026/08/22 02:46",
       "imageUrl": ""
     },
     {
-      "recommendScore": "316",
-      "recommendCount": "610",
+      "recommendScore": "321",
+      "recommendCount": "616",
       "title": "[新聞] 快訊／台南廢棄物爆炸！五金行負責人是通緝犯　6月出國下落不明",
       "link": "/bbs/Gossiping/M.1787396641.A.D1D",
       "author": "Skyblueway",
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "241",
+      "recommendCount": "435",
+      "title": "[新聞] 台南大爆炸登CNN：「兩次巨大爆炸」火球衝天",
+      "link": "/bbs/Gossiping/M.1787399424.A.27C",
+      "author": "hito0509",
+      "board": "Gossiping",
+      "publishTime": "2026/08/22 11:50",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "265",
       "recommendCount": "694",
       "title": "Re: [新聞] 快新聞／副署權只能制衡總統？東吳教授反嗆趙少康：越外行的人喊越大聲！",
@@ -51,16 +61,6 @@
       "author": "junior020486",
       "board": "Gossiping",
       "publishTime": "2026/08/21 16:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "236",
-      "recommendCount": "425",
-      "title": "[新聞] 台南大爆炸登CNN：「兩次巨大爆炸」火球衝天",
-      "link": "/bbs/Gossiping/M.1787399424.A.27C",
-      "author": "hito0509",
-      "board": "Gossiping",
-      "publishTime": "2026/08/22 11:50",
       "imageUrl": ""
     },
     {
@@ -74,23 +74,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "163",
-      "recommendCount": "596",
-      "title": "[問卦] 國旅補助來了 台南民宿漲至160%",
-      "link": "/bbs/Gossiping/M.1787365400.A.D1D",
-      "author": "medama",
-      "board": "Gossiping",
-      "publishTime": "2026/08/22 02:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "195",
-      "recommendCount": "359",
+      "recommendScore": "202",
+      "recommendCount": "370",
       "title": "[閒聊] 董氏基金會遭炎上：菸商用網軍帶風向",
       "link": "/bbs/C_Chat/M.1787400278.A.1D1",
       "author": "jack8587",
       "board": "C_Chat",
       "publishTime": "2026/08/22 12:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "163",
+      "recommendCount": "597",
+      "title": "[問卦] 國旅補助來了 台南民宿漲至160%",
+      "link": "/bbs/Gossiping/M.1787365400.A.D1D",
+      "author": "medama",
+      "board": "Gossiping",
+      "publishTime": "2026/08/22 02:23",
       "imageUrl": ""
     },
     {
@@ -125,7 +125,7 @@
     },
     {
       "recommendScore": "144",
-      "recommendCount": "315",
+      "recommendCount": "317",
       "title": "[新聞] 安南區大爆炸！黃偉哲新加坡急改班機 預計下午返台",
       "link": "/bbs/Gossiping/M.1787391899.A.F53",
       "author": "qq204",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "150",
-      "recommendCount": "292",
+      "recommendScore": "151",
+      "recommendCount": "294",
       "title": "[問卦] 為何高雄越淹水，向心力、榮譽感就越高",
       "link": "/bbs/Gossiping/M.1787393062.A.3C0",
       "author": "zakijudelo",
