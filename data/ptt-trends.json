@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-23T06:35:28.730Z",
+  "updated": "2026-08-23T07:18:30.017Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "411",
-      "recommendCount": "767",
+      "recommendCount": "769",
       "title": "[新聞] 快訊／台南廢棄物爆炸！五金行負責人是通緝犯　6月出國下落不明",
       "link": "/bbs/Gossiping/M.1787396641.A.D1D",
       "author": "Skyblueway",
@@ -24,8 +24,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "230",
-      "recommendCount": "540",
+      "recommendScore": "75",
+      "recommendCount": "539",
+      "title": "[新聞] 快新聞／高虹安快看！沈伯洋遇新竹高中生要簽名　獎狀上名字慘遭劃掉",
+      "link": "/bbs/Gossiping/M.1787459625.A.4F5",
+      "author": "tiger911",
+      "board": "Gossiping",
+      "publishTime": "2026/08/23 04:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "235",
+      "recommendCount": "549",
       "title": "[問卦] 為何淹水爆炸台南人都不生氣？",
       "link": "/bbs/Gossiping/M.1787446924.A.1FC",
       "author": "onlygoog",
@@ -34,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "355",
-      "recommendCount": "395",
+      "recommendScore": "357",
+      "recommendCount": "398",
       "title": "[炸裂] 李灝宇",
       "link": "/bbs/Baseball/M.1787444255.A.764",
       "author": "Axwell",
@@ -54,18 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "52",
-      "recommendCount": "415",
-      "title": "[新聞] 快新聞／高虹安快看！沈伯洋遇新竹高中生要簽名　獎狀上名字慘遭劃掉",
-      "link": "/bbs/Gossiping/M.1787459625.A.4F5",
-      "author": "tiger911",
-      "board": "Gossiping",
-      "publishTime": "2026/08/23 04:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "217",
-      "recommendCount": "560",
+      "recommendScore": "225",
+      "recommendCount": "586",
       "title": "[問卦] 脆：全額買lexus買到空氣",
       "link": "/bbs/Gossiping/M.1787446493.A.441",
       "author": "koiopolo2",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "320",
-      "recommendCount": "989",
+      "recommendScore": "326",
+      "recommendCount": "999",
       "title": "[閒聊] 脆上熱議，40歲的生活",
       "link": "/bbs/C_Chat/M.1787441148.A.474",
       "author": "hololive45P",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "168",
-      "recommendCount": "296",
+      "recommendScore": "171",
+      "recommendCount": "300",
       "title": "[問卦] 這次鋒面好怪，死賴在南部不動??",
       "link": "/bbs/Gossiping/M.1787447461.A.475",
       "author": "lovea",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "105",
-      "recommendCount": "536",
+      "recommendScore": "109",
+      "recommendCount": "541",
       "title": "[問卦] 庇護工場不是靠好吃吸引買氣？",
       "link": "/bbs/Gossiping/M.1787441554.A.B9D",
       "author": "syearth",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "137",
-      "recommendCount": "250",
+      "recommendScore": "138",
+      "recommendCount": "254",
       "title": "[新聞] 豪雨狂炸！水利署：全台已199件淹水　高雄130案最慘",
       "link": "/bbs/Gossiping/M.1787453747.A.028",
       "author": "Calcifer",
@@ -174,13 +174,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "142",
-      "recommendCount": "267",
+      "recommendScore": "144",
+      "recommendCount": "274",
       "title": "[新聞] 川普要派軍隊穩定債市？迷之回答 引發網友調侃解讀",
       "link": "/bbs/Stock/M.1787403640.A.A5C",
       "author": "omanorboyo",
       "board": "Stock",
       "publishTime": "2026/08/22 13:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "135",
+      "recommendCount": "270",
+      "title": "[新聞] 豪雨炸南台灣！高雄「愛河之心」環河步道被淹沒　水深及腰畫面曝",
+      "link": "/bbs/Gossiping/M.1787449396.A.17F",
+      "author": "SEVENxELEVEN",
+      "board": "Gossiping",
+      "publishTime": "2026/08/23 01:43",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "PealRay",
       "board": "C_Chat",
       "publishTime": "2026/08/22 10:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "132",
-      "recommendCount": "266",
-      "title": "[新聞] 豪雨炸南台灣！高雄「愛河之心」環河步道被淹沒　水深及腰畫面曝",
-      "link": "/bbs/Gossiping/M.1787449396.A.17F",
-      "author": "SEVENxELEVEN",
-      "board": "Gossiping",
-      "publishTime": "2026/08/23 01:43",
       "imageUrl": ""
     }
   ]
