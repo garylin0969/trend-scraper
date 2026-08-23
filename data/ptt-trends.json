@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-23T14:05:44.195Z",
+  "updated": "2026-08-23T14:35:19.429Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "106",
-      "recommendCount": "769",
+      "recommendScore": "107",
+      "recommendCount": "770",
       "title": "[新聞] 快新聞／高虹安快看！沈伯洋遇新竹高中生要簽名　獎狀上名字慘遭劃掉",
       "link": "/bbs/Gossiping/M.1787459625.A.4F5",
       "author": "tiger911",
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/IfAAzcA/s/d2f304530a31cb935c6dedbd0eecd76f"
     },
     {
-      "recommendScore": "151",
-      "recommendCount": "700",
+      "recommendScore": "157",
+      "recommendCount": "723",
       "title": "[新聞] 台南大雨狂炸！黃偉哲嘆「面積大、預算少」 籲中央加碼治水",
       "link": "/bbs/Gossiping/M.1787480588.A.BF0",
       "author": "keel90135",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "297",
-      "recommendCount": "693",
+      "recommendScore": "301",
+      "recommendCount": "698",
       "title": "[爆卦] 高雄8/24停班停課",
       "link": "/bbs/Gossiping/M.1787479533.A.850",
       "author": "pigpigcom123",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "204",
-      "recommendCount": "599",
+      "recommendScore": "208",
+      "recommendCount": "626",
       "title": "[問卦] 北部會不會過太爽了…",
       "link": "/bbs/Gossiping/M.1787480825.A.768",
       "author": "luckysmallsu",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "414",
+      "recommendScore": "246",
+      "recommendCount": "417",
       "title": "[問卦] 一人一句話 為高雄台南朋友打氣加油！",
       "link": "/bbs/Gossiping/M.1787470075.A.7A2",
       "author": "black1x2y3z",
@@ -84,8 +84,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "111",
-      "recommendCount": "402",
+      "recommendScore": "260",
+      "recommendCount": "338",
+      "title": "[情報] 味全龍 郭天信 再見雙殺",
+      "link": "/bbs/Baseball/M.1787487584.A.619",
+      "author": "hsuaninteen",
+      "board": "Baseball",
+      "publishTime": "2026/08/23 12:19",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "112",
+      "recommendCount": "405",
       "title": "[新聞] 獎狀劃掉高虹安找沈伯洋簽名 新竹高中生：變成自己喜歡且值得紀念的模樣",
       "link": "/bbs/Gossiping/M.1787468534.A.3C6",
       "author": "LeeSeDol",
@@ -94,23 +104,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "238",
-      "recommendCount": "403",
+      "recommendScore": "241",
+      "recommendCount": "407",
       "title": "[新聞] 台女涉向日本國寶「佛足石」灑油！稱「太感動」入境秒遭逮",
       "link": "/bbs/Gossiping/M.1787461759.A.981",
       "author": "Uranus20",
       "board": "Gossiping",
       "publishTime": "2026/08/23 05:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "255",
-      "recommendCount": "333",
-      "title": "[情報] 味全龍 郭天信 再見雙殺",
-      "link": "/bbs/Baseball/M.1787487584.A.619",
-      "author": "hsuaninteen",
-      "board": "Baseball",
-      "publishTime": "2026/08/23 12:19",
       "imageUrl": ""
     },
     {
@@ -122,6 +122,16 @@
       "board": "C_Chat",
       "publishTime": "2026/08/22 23:25",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "163",
+      "recommendCount": "393",
+      "title": "[問卦] 這少子化動圖也太可怕了吧 看到這樣還笑",
+      "link": "/bbs/Gossiping/M.1787482583.A.4AC",
+      "author": "ruby00514",
+      "board": "Gossiping",
+      "publishTime": "2026/08/23 10:56",
+      "imageUrl": "https://cache.pttweb.cc/imgur/IfAAzcA/s/d2f304530a31cb935c6dedbd0eecd76f"
     },
     {
       "recommendScore": "235",
@@ -144,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "150",
-      "recommendCount": "360",
-      "title": "[問卦] 這少子化動圖也太可怕了吧 看到這樣還笑",
-      "link": "/bbs/Gossiping/M.1787482583.A.4AC",
-      "author": "ruby00514",
-      "board": "Gossiping",
-      "publishTime": "2026/08/23 10:56",
-      "imageUrl": "https://cache.pttweb.cc/imgur/IfAAzcA/s/d2f304530a31cb935c6dedbd0eecd76f"
-    },
-    {
       "recommendScore": "764",
       "recommendCount": "1445",
       "title": "[電競] 2026 LCK Regular Season W13D5",
@@ -174,14 +174,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "167",
-      "recommendCount": "261",
+      "recommendScore": "168",
+      "recommendCount": "264",
       "title": "[爆卦] 跟台灣斷交47年後慘了？公債突破 40 兆",
       "link": "/bbs/Gossiping/M.1787467023.A.47D",
       "author": "lute",
       "board": "Gossiping",
       "publishTime": "2026/08/23 06:37",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "116",
+      "recommendCount": "264",
+      "title": "[爆卦] 自由時報造神，將賴清德比作財神",
+      "link": "/bbs/Gossiping/M.1787475478.A.771",
+      "author": "swh922",
+      "board": "Gossiping",
+      "publishTime": "2026/08/23 08:57",
+      "imageUrl": "https://cache.pttweb.cc/imgur/l6c4el0/s/ebd972707091d23a07b7b8c8f51e1bf6"
     },
     {
       "recommendScore": "111",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/08/22 23:32",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "116",
-      "recommendCount": "258",
-      "title": "[爆卦] 自由時報造神，將賴清德比作財神",
-      "link": "/bbs/Gossiping/M.1787475478.A.771",
-      "author": "swh922",
-      "board": "Gossiping",
-      "publishTime": "2026/08/23 08:57",
-      "imageUrl": "https://cache.pttweb.cc/imgur/l6c4el0/s/ebd972707091d23a07b7b8c8f51e1bf6"
     }
   ]
 }
