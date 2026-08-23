@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-23T20:43:06.290Z",
+  "updated": "2026-08-23T21:01:44.158Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "111",
-      "recommendCount": "778",
+      "recommendScore": "110",
+      "recommendCount": "781",
       "title": "[新聞] 快新聞／高虹安快看！沈伯洋遇新竹高中生要簽名　獎狀上名字慘遭劃掉",
       "link": "/bbs/Gossiping/M.1787459625.A.4F5",
       "author": "tiger911",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "215",
-      "recommendCount": "542",
+      "recommendScore": "216",
+      "recommendCount": "543",
       "title": "[問卦] 這少子化動圖也太可怕了吧 看到這樣還笑",
       "link": "/bbs/Gossiping/M.1787482583.A.4AC",
       "author": "ruby00514",
@@ -174,13 +174,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "246",
-      "recommendCount": "256",
+      "recommendScore": "248",
+      "recommendCount": "258",
       "title": "Re: [LIVE] 英超 利物浦 @ 紐卡索聯 場中",
       "link": "/bbs/SportLottery/M.1787506381.A.68A",
       "author": "lotterywin",
       "board": "SportLottery",
       "publishTime": "2026/08/23 17:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "137",
+      "recommendCount": "369",
+      "title": "[問卦] 為何南部淹水 要被嘲笑?",
+      "link": "/bbs/Gossiping/M.1787496404.A.302",
+      "author": "getlonely",
+      "board": "Gossiping",
+      "publishTime": "2026/08/23 14:46",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "omanorboyo",
       "board": "Gossiping",
       "publishTime": "2026/08/23 13:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "136",
-      "recommendCount": "368",
-      "title": "[問卦] 為何南部淹水 要被嘲笑?",
-      "link": "/bbs/Gossiping/M.1787496404.A.302",
-      "author": "getlonely",
-      "board": "Gossiping",
-      "publishTime": "2026/08/23 14:46",
       "imageUrl": ""
     }
   ]
