@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-23T09:39:24.599Z",
+  "updated": "2026-08-23T09:57:28.827Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-08-23T09:39:13.000Z",
+    "lastBuildDate": "2026-08-23T09:57:18.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -24,6 +24,14 @@
       "pubDate": "2026-08-21T09:40:09.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c74g2d2293zo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f73b/live/1c118420-9c76-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "title": "中國機器人打破人類百米短跑世界紀錄",
+      "description": "在北京舉行的世界人形機器人運動會上，一台「天工Ultra」以9.39秒跑畢100米路程。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gkg78wp1ko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-23T09:43:30.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gkg78wp1ko/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ea27/live/34068af0-9ed6-11f1-b109-879e35c24276.jpg"
     },
     {
       "title": "如何不用鬧鐘就能起床？",
@@ -46,7 +54,7 @@
       "description": "從9月15日開始，中國出入境新規將開始實施，不少民眾擔心出境自由受限。但早在新規出台前，從公務員、國企人員到普通民眾，已經有不少人因為各種原因被限制出境。",
       "link": "https://www.bbc.com/zhongwen/articles/ce3q0yd25j9o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-08-20T00:07:18.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ce3q0yd25j9o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/ce3q0yd25j9o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b375/live/90fed690-9a99-11f1-9bc9-3357f6c86fbb.jpg"
     },
     {
@@ -56,14 +64,6 @@
       "pubDate": "2026-08-21T13:24:42.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cvgvrpy7pjro/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3602/live/746ddbd0-9d4f-11f1-b109-879e35c24276.jpg"
-    },
-    {
-      "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
-      "description": "美國和中國再次就巴拿馬運河問題交鋒。這條戰略水道約佔全球海運貿易量5%，而美國近40%的集裝箱運輸都經過這裏。",
-      "link": "https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-21T13:39:35.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cea1/live/d02d6780-9b0e-11f1-9341-0383083a41e3.jpg"
     },
     {
       "title": "生於烏克蘭，為何替俄羅斯作戰？被俘士兵向BBC講述背後故事",
@@ -154,6 +154,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1df6/live/b131efb0-9661-11f1-870d-5d08c49babb2.jpg"
     },
     {
+      "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
+      "description": "美國和中國再次就巴拿馬運河問題交鋒。這條戰略水道約佔全球海運貿易量5%，而美國近40%的集裝箱運輸都經過這裏。",
+      "link": "https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-21T13:39:35.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cea1/live/d02d6780-9b0e-11f1-9341-0383083a41e3.jpg"
+    },
+    {
       "title": "美國稱數十國助中國避特朗普關稅",
       "description": "美國一份新報告稱，中國透過關稅較低的國家轉運貨物，以規避較高關稅。",
       "link": "https://www.bbc.com/zhongwen/articles/cq6d1y1212po/trad?at_medium=RSS&at_campaign=rss",
@@ -176,14 +184,6 @@
       "pubDate": "2026-08-01T09:56:01.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e640/live/0d3629a0-8d8b-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
-      "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
-      "description": "美國與伊朗的戰爭正好發生在常被稱為「戴維森窗口」的時間點之前。在部分美軍事規劃者眼中，中國在此期間對台灣發動入侵的可能性會升高。",
-      "link": "https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-28T08:43:16.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1efc/live/81743bf0-89cf-11f1-b8ee-9b3c26ad07bb.jpg"
     },
     {
       "title": "特朗普政府禁止中國人形機械人進口 北京批「泛化國家安全」",
