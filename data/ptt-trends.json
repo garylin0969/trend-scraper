@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T21:02:59.233Z",
+  "updated": "2026-08-24T21:39:59.037Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "336",
-      "recommendCount": "792",
+      "recommendScore": "337",
+      "recommendCount": "793",
       "title": "[問卦] 遇到開口就是政治的女孩 單兵如何處置？",
       "link": "/bbs/Gossiping/M.1787523395.A.C33",
       "author": "hwang1460",
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "211",
-      "recommendCount": "278",
-      "title": "[今日] 李灝宇 2-5 1RBI 2Bx1 wRC+111",
-      "link": "/bbs/Baseball/M.1787519097.A.30E",
-      "author": "ProducerChen",
-      "board": "Baseball",
-      "publishTime": "2026/08/23 21:04",
-      "imageUrl": "https://cache.pttweb.cc/imgur/a9tOLJw/s/1bc7c8b173d4152de8168d77ef6cb9f8"
-    },
-    {
       "recommendScore": "100",
       "recommendCount": "290",
       "title": "[新聞] 快新聞／「洋流」買爆臨江夜市！沈伯洋現身引發轟動　烤玉米賣光光",
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "160",
-      "recommendCount": "280",
+      "recommendScore": "162",
+      "recommendCount": "283",
       "title": "[尼古]台北市衛生局:調查中將發函請巴哈姆特說明",
       "link": "/bbs/C_Chat/M.1787576597.A.626",
       "author": "PealRay",
       "board": "C_Chat",
       "publishTime": "2026/08/24 13:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "157",
+      "recommendCount": "244",
+      "title": "[新聞]五熊遭逮移送畫面曝光！認其他地方也潑過",
+      "link": "/bbs/Gossiping/M.1787582111.A.44D",
+      "author": "friedrich",
+      "board": "Gossiping",
+      "publishTime": "2026/08/24 14:35",
       "imageUrl": ""
     }
   ]
