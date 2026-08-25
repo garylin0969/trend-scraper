@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T09:31:53.234Z",
+  "updated": "2026-08-25T10:04:04.000Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -12,16 +12,6 @@
       "board": "Gossiping",
       "publishTime": "2026/08/25 07:00",
       "imageUrl": "https://cache.pttweb.cc/imgur/8sz1qv5/s/0afee3f964bd0c4e09663d90c92cef89"
-    },
-    {
-      "recommendScore": "293",
-      "recommendCount": "610",
-      "title": "[問卦] 台南受災戶:住40年沒看過來清一次水溝",
-      "link": "/bbs/Gossiping/M.1787565045.A.EA8",
-      "author": "a5687920",
-      "board": "Gossiping",
-      "publishTime": "2026/08/24 09:50",
-      "imageUrl": ""
     },
     {
       "recommendScore": "295",
@@ -74,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "169",
-      "recommendCount": "423",
+      "recommendScore": "171",
+      "recommendCount": "433",
       "title": "[閒聊] 目前高雄狂下暴雨,真的有要堅持上班上課?",
       "link": "/bbs/Kaohsiung/M.1787611053.A.B95",
       "author": "xup654z",
@@ -201,6 +191,16 @@
       "author": "Workforme",
       "board": "Gossiping",
       "publishTime": "2026/08/24 23:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "164",
+      "recommendCount": "236",
+      "title": "Re: [標的] 大盤   鞭屍  空",
+      "link": "/bbs/Stock/M.1787627261.A.850",
+      "author": "pianoluke",
+      "board": "Stock",
+      "publishTime": "2026/08/25 03:07",
       "imageUrl": ""
     }
   ]
