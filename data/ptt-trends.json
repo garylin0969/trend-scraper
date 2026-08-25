@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T10:45:56.367Z",
+  "updated": "2026-08-25T11:11:09.886Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "303",
+      "recommendCount": "726",
+      "title": "[閒聊] T1第三賽段選手數據圖",
+      "link": "/bbs/LoL/M.1787641227.A.078",
+      "author": "popo206688",
+      "board": "LoL",
+      "publishTime": "2026/08/25 07:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "96",
       "recommendCount": "292",
       "title": "[新聞] 獨家／國中少年「攻擊老師」4次！同學也遭毆打勒索　控教育局僅要雙方修復關係",
@@ -191,16 +201,6 @@
       "author": "Workforme",
       "board": "Gossiping",
       "publishTime": "2026/08/24 23:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "164",
-      "recommendCount": "236",
-      "title": "Re: [標的] 大盤   鞭屍  空",
-      "link": "/bbs/Stock/M.1787627261.A.850",
-      "author": "pianoluke",
-      "board": "Stock",
-      "publishTime": "2026/08/25 03:07",
       "imageUrl": ""
     }
   ]
