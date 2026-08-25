@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T23:34:16.395Z",
+  "updated": "2026-08-25T23:55:39.298Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "200",
+      "recommendCount": "442",
+      "title": "[新聞] 以民為先拖到旁邊？賴清德台南勘災",
+      "link": "/bbs/Gossiping/M.1787661670.A.0B0",
+      "author": "alex1987",
+      "board": "Gossiping",
+      "publishTime": "2026/08/25 12:41",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "205",
       "recommendCount": "559",
       "title": "[新聞] 趙建銘：我被逼離婚　承認追過許芊芊",
@@ -51,16 +61,6 @@
       "author": "gamehome",
       "board": "Gossiping",
       "publishTime": "2026/08/25 00:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "194",
-      "recommendCount": "425",
-      "title": "[新聞] 以民為先拖到旁邊？賴清德台南勘災",
-      "link": "/bbs/Gossiping/M.1787661670.A.0B0",
-      "author": "alex1987",
-      "board": "Gossiping",
-      "publishTime": "2026/08/25 12:41",
       "imageUrl": ""
     },
     {
@@ -74,8 +74,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/8sz1qv5/s/0afee3f964bd0c4e09663d90c92cef89"
     },
     {
-      "recommendScore": "112",
-      "recommendCount": "537",
+      "recommendScore": "114",
+      "recommendCount": "544",
       "title": "[問卦] 新人跑了 為什麼怪我=   =?",
       "link": "/bbs/Gossiping/M.1787649219.A.5B4",
       "author": "Silent",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "99",
-      "recommendCount": "356",
+      "recommendScore": "100",
+      "recommendCount": "358",
       "title": "[新聞] 沈伯洋競選小物亮相！象徵他與女兒",
       "link": "/bbs/Gossiping/M.1787650788.A.9D8",
       "author": "darren31112",
@@ -94,8 +94,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/MsFXlLO/s/cdb432e1517f82288226126ba238e3d1"
     },
     {
-      "recommendScore": "270",
-      "recommendCount": "279",
+      "recommendScore": "272",
+      "recommendCount": "281",
       "title": "Re: [推薦] 足球 綠茶看韓足（1096）",
       "link": "/bbs/SportLottery/M.1787660892.A.B1A",
       "author": "b032819",
@@ -114,18 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "182",
-      "recommendCount": "321",
-      "title": "[新聞] 高雄凌晨又淹水！　陳其邁臉書被灌到「咕嚕咕嚕」",
-      "link": "/bbs/Gossiping/M.1787614771.A.C64",
-      "author": "hbl420ii",
-      "board": "Gossiping",
-      "publishTime": "2026/08/24 23:39",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "164",
-      "recommendCount": "523",
+      "recommendCount": "525",
       "title": "[問卦] 陳幸妤這性格當你老婆 你真的OK?",
       "link": "/bbs/Gossiping/M.1787650408.A.377",
       "author": "G4321",
@@ -164,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "111",
-      "recommendCount": "302",
+      "recommendScore": "112",
+      "recommendCount": "303",
       "title": "[新聞] 高雄被倒3天雨但治水有感 復健科醫師：不得不誇一下「邁哥」",
       "link": "/bbs/Gossiping/M.1787654829.A.909",
       "author": "axsd",
@@ -201,6 +191,16 @@
       "author": "pianoluke",
       "board": "Stock",
       "publishTime": "2026/08/25 03:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "162",
+      "recommendCount": "328",
+      "title": "[新聞] 趙建銘喊沒追護理師　陳幸妤秒拆台「手機桌布還是許芊芊」",
+      "link": "/bbs/Gossiping/M.1787635196.A.DA4",
+      "author": "vickyshan",
+      "board": "Gossiping",
+      "publishTime": "2026/08/25 05:19",
       "imageUrl": ""
     }
   ]
