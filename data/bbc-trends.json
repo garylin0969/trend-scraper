@@ -1,14 +1,22 @@
 {
-  "updated": "2026-08-26T03:15:52.610Z",
+  "updated": "2026-08-26T04:21:57.093Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-08-26T03:15:40.000Z",
+    "lastBuildDate": "2026-08-26T04:21:45.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "「我感到被騙了」：AI假醫師給台灣老人的震撼教育",
+      "description": "近一年來，AI生成影片在台灣長者社群間廣泛流傳。最常見形式是由一名「醫師」或「專家」的虛擬人物主持，但有關健康與生活資訊往往虛實參半。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gq4999446o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-26T03:58:37.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gq4999446o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5d79/live/dad0e5a0-a0ee-11f1-a291-b542ee92de7c.png"
+    },
     {
       "title": "美國制裁伊朗經濟新措施 為何對中國「鬆手」？",
       "description": "中國反對美國對伊朗頒布「非法單邊制裁」。學者指出華府不便此刻對付德黑蘭的石油大買家，以免讓9月底習近平訪美增添變數。",
@@ -24,14 +32,6 @@
       "pubDate": "2026-08-25T09:28:45.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c5y7l9dng2eo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/26a4/live/b1ea09c0-96dd-11f1-9b96-77d3dc534330.jpg"
-    },
-    {
-      "title": "厄爾尼諾增強：全球海洋溫度創有紀錄以來新高",
-      "description": "歐洲哥白尼氣候變化服務的薩曼莎·伯吉斯博士表示，這項紀錄是「另一個表明海洋正面臨越來越大壓力的清晰訊號」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn459py3371o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-26T00:22:13.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn459py3371o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg"
     },
     {
       "title": "人形機器人以外，一場中國機器革命正靜悄悄地發生",
@@ -50,6 +50,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a4b5/live/63f8e000-9b11-11f1-9341-0383083a41e3.jpg"
     },
     {
+      "title": "厄爾尼諾增強：全球海洋溫度創有紀錄以來新高",
+      "description": "歐洲哥白尼氣候變化服務的薩曼莎·伯吉斯博士表示，這項紀錄是「另一個表明海洋正面臨越來越大壓力的清晰訊號」。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn459py3371o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-26T00:22:13.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn459py3371o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg"
+    },
+    {
       "title": "台灣藝人涉「潑油」損日本國寶，如何牽動台日關係？",
       "description": "蔡宜臻被捕後坦承犯行，供稱自己「會對令我感動的事物淋油祈禱，因此應該有在佛足石上淋油」。外界討論「潑油」行為是否屬基督教的宗教儀式，也關注事情對台日關係的影響。",
       "link": "https://www.bbc.com/zhongwen/articles/cje82403k49o/trad?at_medium=RSS&at_campaign=rss",
@@ -64,14 +72,6 @@
       "pubDate": "2026-08-25T08:03:21.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cvgyr5y5exro/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/67bd/live/747ca240-a057-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "title": "快時尚品牌Shein赴港上市 估值大減至270億美元",
-      "description": "據Shein提交港交所文件，該公司股份擬於9月1日正式掛牌。",
-      "link": "https://www.bbc.com/zhongwen/articles/cgqd22pp13lo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-24T05:16:33.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cgqd22pp13lo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e462/live/c906d120-9f60-11f1-8564-6b99aa01bb8b.jpg"
     },
     {
       "title": "離婚、智能手機與管控——BBC觀察塔利班如何治理阿富汗",
