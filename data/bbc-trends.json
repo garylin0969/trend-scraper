@@ -1,21 +1,37 @@
 {
-  "updated": "2026-08-27T00:47:32.689Z",
+  "updated": "2026-08-27T11:10:24.446Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-08-27T00:47:22.000Z",
+    "lastBuildDate": "2026-08-27T11:10:18.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
     {
-      "title": "西藏—尼泊爾邊境山洪暴發 數百人失蹤包括多國遊客",
-      "description": "事發地點為西藏日喀則市吉隆縣接壤尼泊爾邊境，中尼兩國數百人失聯，其中包括尼方340餘名外國遊客。",
+      "title": "西藏—尼泊爾邊境山洪暴發 上千人失蹤包括多國遊客",
+      "description": "事發地點為西藏日喀則市吉隆縣接壤尼泊爾邊境，中尼兩國各數百人失聯，其中包括大批外國遊客。中國總理李強抵達吉隆指導救災。",
       "link": "https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-27T00:21:56.000Z",
+      "pubDate": "2026-08-27T09:54:13.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d4d4/live/fb2b28e0-a163-11f1-b109-879e35c24276.jpg"
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8905/live/e7facd40-a1fc-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "title": "「家人在我眼前被洪水沖走了」：中尼邊境山洪倖存者憶述事發經過",
+      "description": "有尼泊爾災區的倖存者告訴BBC，她的多名家人在自己的眼前被洪水沖走，而她和兒子因爬到屋頂上而得以生還。",
+      "link": "https://www.bbc.com/zhongwen/articles/cgk5754v4nmo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-27T06:17:23.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cgk5754v4nmo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/59be/live/e18f2300-a1db-11f1-b132-bb16290da3a7.jpg"
+    },
+    {
+      "title": "日本藝術家「波點女王」草間彌生逝世，享年97歲",
+      "description": "她以色彩繽紛的作品吸引了大量觀眾，並為女性藝術家作品拍賣出有史以來最高的價格。",
+      "link": "https://www.bbc.com/zhongwen/articles/c7v46pr3ylqo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-27T09:40:20.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c7v46pr3ylqo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/68e9/live/c0186840-a1df-11f1-b109-879e35c24276.jpg"
     },
     {
       "title": "「甲醛白菜」再現中國：食品安全監管的盲區在哪裡？",
@@ -26,11 +42,19 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fdf2/live/394d3040-a133-11f1-a291-b542ee92de7c.jpg"
     },
     {
+      "title": "Meta案突以180億美元和解，或加快清算社交媒體兒童安全",
+      "description": "BBC科技編輯佐伊·克萊曼（Zoe Kleinman）認為，我們無止境刷看負面資訊的習慣已時日無多。",
+      "link": "https://www.bbc.com/zhongwen/articles/cew9197pqzwo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-27T06:36:56.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cew9197pqzwo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e8a1/live/dac60130-a193-11f1-9e49-ab6cded816f9.jpg"
+    },
+    {
       "title": "特斯拉為何捲入中國大規模汽車召回風波？",
       "description": "中國史上最大規模的汽車召回事件影響超過400萬輛由特斯拉、小鵬汽車、小米等公司生產的汽車。",
       "link": "https://www.bbc.com/zhongwen/articles/czxzdwp7re1o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-08-27T00:02:54.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/czxzdwp7re1o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/czxzdwp7re1o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/454c/live/fff5c310-a020-11f1-9a9c-a9fc171e125c.jpg"
     },
     {
@@ -38,16 +62,8 @@
       "description": "近一年來，AI生成影片在台灣長者社群間廣泛流傳。最常見形式是由一名「醫師」或「專家」的虛擬人物主持，但有關健康與生活資訊往往虛實參半。",
       "link": "https://www.bbc.com/zhongwen/articles/c4gq4999446o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-08-26T03:58:37.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gq4999446o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gq4999446o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5d79/live/dad0e5a0-a0ee-11f1-a291-b542ee92de7c.png"
-    },
-    {
-      "title": "這些藥物讓人更難以應對高溫",
-      "description": "一些最常獲處方的藥物，包括用於治療抑鬱症、注意力不足過動症（ADHD）和高血壓的藥物，可能會增加脫水及其他與高溫相關疾病的風險。",
-      "link": "https://www.bbc.com/zhongwen/articles/cg49yzyv4yko/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-27T00:02:59.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cg49yzyv4yko/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d86/live/ed96ec50-9fc9-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "title": "中國青少年濫藥問題：利用處方藥物來「逃避現實」",
@@ -56,6 +72,14 @@
       "pubDate": "2026-08-26T06:12:27.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cx2z5jnkv2eo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b5da/live/34a325e0-a093-11f1-91dc-4919512f173f.jpg"
+    },
+    {
+      "title": "這些藥物讓人更難以應對高溫",
+      "description": "一些最常獲處方的藥物，包括用於治療抑鬱症、注意力不足過動症（ADHD）和高血壓的藥物，可能會增加脫水及其他與高溫相關疾病的風險。",
+      "link": "https://www.bbc.com/zhongwen/articles/cg49yzyv4yko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-27T00:02:59.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cg49yzyv4yko/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d86/live/ed96ec50-9fc9-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "title": "鄉村音樂女王Dolly Parton逝世：六首名曲訴說生命故事",
@@ -90,28 +114,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/49da/live/a1f1a310-a0f7-11f1-b5e2-83a82bff70ae.png"
     },
     {
-      "title": "厄爾尼諾增強：全球海洋溫度創有紀錄以來新高",
-      "description": "歐洲哥白尼氣候變化服務的薩曼莎·伯吉斯博士表示，這項紀錄是「另一個表明海洋正面臨越來越大壓力的清晰訊號」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn459py3371o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-26T00:22:13.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn459py3371o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg"
-    },
-    {
-      "title": "先天黑色素細胞痣：「皮膚使我獨一無二，我正學習接納它。」",
-      "description": "28歲的勞拉·凱利（Laura Kelly）天生患有先天性黑色素細胞痣（CMN），並在嬰兒時期接受了14次手術。",
-      "link": "https://www.bbc.com/zhongwen/articles/c0j3pwj2x6eo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-26T00:22:07.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c0j3pwj2x6eo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a4b5/live/63f8e000-9b11-11f1-9341-0383083a41e3.jpg"
-    },
-    {
-      "title": "人形機器人以外，一場中國機器革命正靜悄悄地發生",
-      "description": "中國工廠裡有超過兩百萬台機器人正在工作——而且它們的數量還在快速增長。",
-      "link": "https://www.bbc.com/zhongwen/articles/c804e143e9yo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-25T08:51:14.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c804e143e9yo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/011f/live/b924ff70-a055-11f1-a291-b542ee92de7c.jpg"
+      "title": "西藏尼泊爾山洪致逾160人死亡 吉隆口岸大樓被吞沒",
+      "description": "尼泊爾北部接壤西藏地區週三發生毀滅性洪災，導致中尼兩國逾160人死亡。",
+      "link": "https://www.bbc.com/zhongwen/articles/c2e0k9d7lkyo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-27T05:56:59.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c2e0k9d7lkyo/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c7c4/live/03f32720-a1dc-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "title": "中國機器人打破人類百米短跑世界紀錄",
@@ -144,14 +152,6 @@
       "pubDate": "2026-08-14T03:41:21.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cwye07v501ro/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3935/live/cd7066e0-978b-11f1-870d-5d08c49babb2.jpg"
-    },
-    {
-      "title": "中國國產C919首飛國際航線 挑戰波音、空中巴士再進一步？",
-      "description": "C919完成首次國際商業航班飛行，由北京飛往蒙古烏蘭巴托，象徵中國國產客機邁向海外市場的里程碑。北京希望藉此挑戰波音及空中巴士的市場主導地位，但此款飛機仍面臨國際認證及供應鏈緊張等挑戰。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1w1ypqx1qxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-14T09:36:38.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1w1ypqx1qxo/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c69f/live/64089320-97be-11f1-870d-5d08c49babb2.jpg"
     },
     {
       "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
@@ -234,6 +234,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b0d2/live/96d62b30-9bda-11f1-bb4d-1147ef2e78e5.jpg"
     },
     {
+      "title": "人形機器人以外，一場中國機器革命正靜悄悄地發生",
+      "description": "中國工廠裡有超過兩百萬台機器人正在工作——而且它們的數量還在快速增長。",
+      "link": "https://www.bbc.com/zhongwen/articles/c804e143e9yo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-25T08:51:14.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c804e143e9yo/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/011f/live/b924ff70-a055-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
       "title": "普京首登擇捉島：俄羅斯與中國共同牽制日本？",
       "description": "這是普京執政逾25年來首次踏足「北方四島」（俄稱南千島群島）之一。當前正值俄羅斯遭遇來自烏克蘭一波接一波的無人機攻勢之際，普京為何要在此時親赴遠東登島？",
       "link": "https://www.bbc.com/zhongwen/articles/c5y7l9dng2eo/trad?at_medium=RSS&at_campaign=rss",
@@ -258,14 +266,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b375/live/90fed690-9a99-11f1-9bc9-3357f6c86fbb.jpg"
     },
     {
-      "title": "台灣為何此刻提出「鞭刑入法」公投？",
-      "description": "關於鞭刑的討論已在台灣醞釀了近十年，尤其在重大刑案發生後，民眾不滿刑罰不足，主張仿效新加坡制度。最新民調顯示約八成台灣人贊同政府評估鞭刑，人權團體與法律界則批評此舉違反國際人權標準。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-20T08:57:23.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/44b8/live/cc47c200-9c44-11f1-aa7b-4f8061485a9b.jpg"
-    },
-    {
       "title": "台灣再提「普發一萬」：背後的K型經濟與政治算盤",
       "description": "台灣總統賴清德宣布明年普發每人1萬元現金，理由是經濟成長創39年新高。但K型經濟下的分配焦慮與年底選舉，成為此政策的激辯核心。",
       "link": "https://www.bbc.com/zhongwen/articles/cvg96l8e5q9o/trad?at_medium=RSS&at_campaign=rss",
@@ -274,12 +274,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cdae/live/7a1047c0-9bb1-11f1-ae8a-8d57110c5ba6.jpg"
     },
     {
+      "title": "厄爾尼諾增強：全球海洋溫度創有紀錄以來新高",
+      "description": "歐洲哥白尼氣候變化服務的薩曼莎·伯吉斯博士表示，這項紀錄是「另一個表明海洋正面臨越來越大壓力的清晰訊號」。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn459py3371o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-26T00:22:13.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn459py3371o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg"
+    },
+    {
       "title": "我六歲就來月經了，但醫生們也不知道為什麼",
       "description": "性早熟會導致兒童過早出現第二性徵，而且對女孩的影響比例明顯較高。",
       "link": "https://www.bbc.com/zhongwen/articles/cz0z77y4dj2o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-08-25T00:10:45.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cz0z77y4dj2o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2f69/live/66a2d030-8b40-11f1-b2d7-b96c6bc9d7f5.jpg"
+    },
+    {
+      "title": "先天黑色素細胞痣：「皮膚使我獨一無二，我正學習接納它。」",
+      "description": "28歲的勞拉·凱利（Laura Kelly）天生患有先天性黑色素細胞痣（CMN），並在嬰兒時期接受了14次手術。",
+      "link": "https://www.bbc.com/zhongwen/articles/c0j3pwj2x6eo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-08-26T00:22:07.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c0j3pwj2x6eo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a4b5/live/63f8e000-9b11-11f1-9341-0383083a41e3.jpg"
     },
     {
       "title": "「我說的不是女王英語」：為何人們會擔心自己的口音",
@@ -296,22 +312,6 @@
       "pubDate": "2026-08-24T00:01:33.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cy5d5qp19gyo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c808/live/97a1f140-8c24-11f1-bdac-871e920411eb.jpg"
-    },
-    {
-      "title": "如何不用鬧鐘就能起床？",
-      "description": " 只要稍微安排睡眠，自然起床其實很容易。",
-      "link": "https://www.bbc.com/zhongwen/articles/cy8e8584160o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-23T05:58:45.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cy8e8584160o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cc3c/live/5d62baa0-9d72-11f1-aed2-8d6da8d75094.png"
-    },
-    {
-      "title": "專門減肥藥能否提升運動員表現？",
-      "description": "GLP-1減重藥物能夠減輕體重並改善健康，但它們是否也能提升運動表現？科學家表示目前證據尚不明確，但爭論正日益升溫。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgvy8xx27lo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-19T00:07:17.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgvy8xx27lo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3369/live/b1caece0-9aaa-11f1-a291-b542ee92de7c.jpg"
     }
   ]
 }
