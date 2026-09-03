@@ -1,21 +1,31 @@
 {
-  "updated": "2026-09-03T08:58:50.951Z",
+  "updated": "2026-09-03T13:22:37.624Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "345",
-      "recommendCount": "830",
+      "recommendScore": "422",
+      "recommendCount": "1077",
+      "title": "[新聞] 核三重啟將核定 拚2028運轉",
+      "link": "/bbs/Gossiping/M.1788422028.A.349",
+      "author": "troyyuan",
+      "board": "Gossiping",
+      "publishTime": "2026/09/03 07:53",
+      "imageUrl": "https://cache.pttweb.cc/imgur/5EJv01I/s/d169d23dd59836fb6ac8671b5fc5af8b"
+    },
+    {
+      "recommendScore": "358",
+      "recommendCount": "859",
       "title": "[新聞] 快新聞／鄭麗文真的糗了！陪徐欣瑩、吳旭智登記參選　口誤喊：藍白對決",
       "link": "/bbs/Gossiping/M.1788404267.A.11D",
       "author": "davidaustin",
       "board": "Gossiping",
       "publishTime": "2026/09/03 02:57",
-      "imageUrl": "https://cache.pttweb.cc/imgur/5EJv01I/s/d169d23dd59836fb6ac8671b5fc5af8b"
+      "imageUrl": ""
     },
     {
       "recommendScore": "178",
-      "recommendCount": "589",
+      "recommendCount": "590",
       "title": "[問卦] 習近平出事了？",
       "link": "/bbs/Gossiping/M.1788368120.A.47D",
       "author": "lonzoball02",
@@ -24,8 +34,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/5EJv01I/s/d169d23dd59836fb6ac8671b5fc5af8b"
     },
     {
-      "recommendScore": "431",
-      "recommendCount": "770",
+      "recommendScore": "446",
+      "recommendCount": "791",
       "title": "[情報] 聯盟懲罰快艇和可愛的內容",
       "link": "/bbs/NBA/M.1788380733.A.31F",
       "author": "SeanLi1013",
@@ -34,18 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "308",
-      "recommendCount": "491",
-      "title": "[新聞] 快訊／大到像AI！高雄驚現7x5米「超巨天坑」　離譜畫面曝光",
-      "link": "/bbs/Gossiping/M.1788344852.A.127",
-      "author": "Goog1e",
-      "board": "Gossiping",
-      "publishTime": "2026/09/02 10:27",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "175",
-      "recommendCount": "553",
+      "recommendCount": "562",
       "title": "[新聞] 台積太太來美享高薪生活 卻一點都不開心",
       "link": "/bbs/Gossiping/M.1788393184.A.143",
       "author": "mife103",
@@ -54,28 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "196",
-      "recommendCount": "678",
-      "title": "[問卦] 為什麼現在這麼缺老師啊？",
-      "link": "/bbs/Gossiping/M.1788392428.A.EF2",
-      "author": "saufu08",
-      "board": "Gossiping",
-      "publishTime": "2026/09/02 23:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "200",
-      "recommendCount": "417",
-      "title": "[新聞] 徐巧芯爆「賴清德決定20%下架」　衛福部斥不實訊息：必要時提告",
-      "link": "/bbs/Gossiping/M.1788400153.A.CA9",
-      "author": "ptt987654321",
-      "board": "Gossiping",
-      "publishTime": "2026/09/03 01:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "212",
-      "recommendCount": "502",
+      "recommendScore": "218",
+      "recommendCount": "526",
       "title": "[情報] 可愛:我不知情任何人有意規避工資帽",
       "link": "/bbs/NBA/M.1788393840.A.5EE",
       "author": "iammatrix",
@@ -84,8 +64,38 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "199",
-      "recommendCount": "333",
+      "recommendScore": "206",
+      "recommendCount": "429",
+      "title": "[新聞] 徐巧芯爆「賴清德決定20%下架」　衛福部斥不實訊息：必要時提告",
+      "link": "/bbs/Gossiping/M.1788400153.A.CA9",
+      "author": "ptt987654321",
+      "board": "Gossiping",
+      "publishTime": "2026/09/03 01:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "202",
+      "recommendCount": "691",
+      "title": "[問卦] 為什麼現在這麼缺老師啊？",
+      "link": "/bbs/Gossiping/M.1788392428.A.EF2",
+      "author": "saufu08",
+      "board": "Gossiping",
+      "publishTime": "2026/09/02 23:40",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "181",
+      "recommendCount": "442",
+      "title": "[新聞] 謝宜容遭記兩大過免職案 北高行判撤銷處分",
+      "link": "/bbs/Gossiping/M.1788433169.A.EE6",
+      "author": "l983",
+      "board": "Gossiping",
+      "publishTime": "2026/09/03 10:59",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "207",
+      "recommendCount": "346",
       "title": "[新聞] 欣興：載板供貨極度告急…客戶搶著要貨",
       "link": "/bbs/Stock/M.1788406566.A.F1A",
       "author": "EstelleRinz",
@@ -94,88 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "196",
-      "recommendCount": "527",
-      "title": "[新聞] 核三重啟將核定 拚2028運轉",
-      "link": "/bbs/Gossiping/M.1788422028.A.349",
-      "author": "troyyuan",
-      "board": "Gossiping",
-      "publishTime": "2026/09/03 07:53",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "191",
-      "recommendCount": "356",
-      "title": "[新聞] 把手機丟向助理造成恐懼 民進黨縣長參選人溫世政公開表達歉意",
-      "link": "/bbs/Gossiping/M.1788391040.A.1BA",
-      "author": "q347",
-      "board": "Gossiping",
-      "publishTime": "2026/09/02 23:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "284",
-      "recommendCount": "1075",
-      "title": "[閒聊] 看完鐵拳教育會覺得台灣教育也崩盤了嗎",
-      "link": "/bbs/C_Chat/M.1788401810.A.918",
-      "author": "rhinfly",
-      "board": "C_Chat",
-      "publishTime": "2026/09/03 02:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "175",
-      "recommendCount": "509",
-      "title": "[問卦] 台灣教育怎麼做到這10年崩盤的",
-      "link": "/bbs/Gossiping/M.1788394595.A.4D9",
-      "author": "xz4979265",
-      "board": "Gossiping",
-      "publishTime": "2026/09/03 00:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "313",
-      "recommendCount": "722",
-      "title": "[閒聊] netflix尼古喵喵品牌打碼了",
-      "link": "/bbs/C_Chat/M.1788341325.A.D39",
-      "author": "BPME",
-      "board": "C_Chat",
-      "publishTime": "2026/09/02 09:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "239",
-      "recommendCount": "437",
-      "title": "[閒聊] \"中文使用者救命!『就』到底是什麼意思\"",
-      "link": "/bbs/C_Chat/M.1788414005.A.3C7",
-      "author": "LABOYS",
-      "board": "C_Chat",
-      "publishTime": "2026/09/03 05:40",
-      "imageUrl": "https://cache.pttweb.cc/imgur/r4Zan6K/s/f5136fcbcb706ddcfefcbec8f394eb1e"
-    },
-    {
-      "recommendScore": "129",
-      "recommendCount": "334",
-      "title": "[新聞] 新店男躲到36歲除役才回台灣！法院判決結果出爐：花30萬換免當兵",
-      "link": "/bbs/Gossiping/M.1788359200.A.7BC",
-      "author": "CREA",
-      "board": "Gossiping",
-      "publishTime": "2026/09/02 14:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "167",
-      "recommendCount": "302",
-      "title": "[新聞] 美商務部長證實將加徵半導體關稅 透露台灣下周將再宣布上看9500億投資",
-      "link": "/bbs/Stock/M.1788355165.A.9DA",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2026/09/02 13:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "160",
-      "recommendCount": "306",
+      "recommendScore": "198",
+      "recommendCount": "395",
       "title": "[新聞] 五熊毀損日本國寶判決出爐　「拘留+罰款」中國翻譯人員全說了",
       "link": "/bbs/Gossiping/M.1788416423.A.31A",
       "author": "Icestorm",
@@ -184,8 +114,68 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/x82aWTn/s/1804f4de7241d4a59ba3ad4afddf10b8"
     },
     {
-      "recommendScore": "170",
-      "recommendCount": "635",
+      "recommendScore": "277",
+      "recommendCount": "514",
+      "title": "[閒聊] \"中文使用者救命!『就』到底是什麼意思\"",
+      "link": "/bbs/C_Chat/M.1788414005.A.3C7",
+      "author": "LABOYS",
+      "board": "C_Chat",
+      "publishTime": "2026/09/03 05:40",
+      "imageUrl": "https://cache.pttweb.cc/imgur/r4Zan6K/s/f5136fcbcb706ddcfefcbec8f394eb1e"
+    },
+    {
+      "recommendScore": "195",
+      "recommendCount": "362",
+      "title": "[新聞] 把手機丟向助理造成恐懼 民進黨縣長參選人溫世政公開表達歉意",
+      "link": "/bbs/Gossiping/M.1788391040.A.1BA",
+      "author": "q347",
+      "board": "Gossiping",
+      "publishTime": "2026/09/02 23:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "732",
+      "recommendCount": "1453",
+      "title": "[電競] 2026 LCK Playoffs Lower Round 1",
+      "link": "/bbs/LoL/M.1788420603.A.A8B",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/09/03 07:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "289",
+      "recommendCount": "1102",
+      "title": "[閒聊] 看完鐵拳教育會覺得台灣教育也崩盤了嗎",
+      "link": "/bbs/C_Chat/M.1788401810.A.918",
+      "author": "rhinfly",
+      "board": "C_Chat",
+      "publishTime": "2026/09/03 02:16",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "177",
+      "recommendCount": "515",
+      "title": "[問卦] 台灣教育怎麼做到這10年崩盤的",
+      "link": "/bbs/Gossiping/M.1788394595.A.4D9",
+      "author": "xz4979265",
+      "board": "Gossiping",
+      "publishTime": "2026/09/03 00:16",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "129",
+      "recommendCount": "336",
+      "title": "[新聞] 新店男躲到36歲除役才回台灣！法院判決結果出爐：花30萬換免當兵",
+      "link": "/bbs/Gossiping/M.1788359200.A.7BC",
+      "author": "CREA",
+      "board": "Gossiping",
+      "publishTime": "2026/09/02 14:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "171",
+      "recommendCount": "636",
       "title": "[討論] 蔣寶這把火燒得有點大耶！",
       "link": "/bbs/HatePolitics/M.1788392905.A.B64",
       "author": "Cosmoswalker",
@@ -194,13 +184,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/nAvEdQc/s/c4db7f5f0bb2c1dbe045bed428c0e153"
     },
     {
-      "recommendScore": "66",
-      "recommendCount": "252",
-      "title": "[新聞]逼精液漱口狂詐9億！AI詐團火辣闆娘曝光",
-      "link": "/bbs/Gossiping/M.1788360794.A.9BD",
-      "author": "la1aco",
+      "recommendScore": "97",
+      "recommendCount": "339",
+      "title": "[新聞] 洪申翰參加APEC「不用台胞證」陸委會：出席就證明中華民國存在",
+      "link": "/bbs/Gossiping/M.1788433672.A.267",
+      "author": "pigpigcom123",
       "board": "Gossiping",
-      "publishTime": "2026/09/02 14:53",
+      "publishTime": "2026/09/03 11:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "206",
+      "recommendCount": "478",
+      "title": "[閒聊] 拍賣任意門能賣到10兆美金嗎?",
+      "link": "/bbs/C_Chat/M.1788403559.A.83C",
+      "author": "happyotogi",
+      "board": "C_Chat",
+      "publishTime": "2026/09/03 02:45",
       "imageUrl": ""
     }
   ]
