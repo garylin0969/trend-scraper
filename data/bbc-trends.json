@@ -1,14 +1,30 @@
 {
-  "updated": "2026-09-04T06:31:38.624Z",
+  "updated": "2026-09-04T11:43:28.048Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-09-04T06:31:29.000Z",
+    "lastBuildDate": "2026-09-04T11:43:12.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "「究竟是誰在批准什麼？」：光州雙年展台灣復名、中國退展，改名風波背後透露什麼",
+      "description": "8月初，韓國舉行的光州雙年展因主辦單位改動「台灣館」名稱陷入爭議。事件曝光後，台灣參展藝術家提出抗議，當地許多藝術家、民眾也進行聲援。主辦單位最終同意恢復使用「台灣館」，但引起中方不滿。",
+      "link": "https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-04T11:04:50.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/abc8/live/8ff2a750-a83a-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
+      "title": "福克蘭群島爭議升溫：阿根廷宣佈制裁附近油企，特朗普暗示未必協助英國",
+      "description": "美國總統特朗普說，英國「在我們與伊朗開戰時沒有出手幫忙」。他此前表示，若英國未能增加防務開支，美國可能會修改在福克蘭群島主權問題上的中立立場。",
+      "link": "https://www.bbc.com/zhongwen/articles/c89jgd5gn14o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-04T07:41:46.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c89jgd5gn14o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df89/live/122137b0-a821-11f1-b109-879e35c24276.jpg"
+    },
     {
       "title": "親俄宣傳網絡內幕：利用烏克蘭女性遭強姦的虛假消息，作引流「誘餌」",
       "description": "俄羅斯 Telegram 頻道利用虛假的強姦消息和烏克蘭女性的照片，引誘數百萬用戶加入親戰宣傳網。",
@@ -16,22 +32,6 @@
       "pubDate": "2026-09-04T01:39:26.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c87v19vx721o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e1c5/live/4c29ec60-a626-11f1-b384-1f35d0eeee9d.jpg"
-    },
-    {
-      "title": "豬腎在人體內運作271天——這會是器官移植的未來嗎？",
-      "description": "一名男子在等待人體腎臟移植期間，依靠移植的豬腎存活了創紀錄的九個月。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1dlr007vkgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-04T05:57:06.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1dlr007vkgo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e7ac/live/9ea66460-a7b5-11f1-b5cf-8556ae508a51.jpg"
-    },
-    {
-      "title": "聯合國警告可能出現「超大型」厄爾尼諾現象，各國須準備應對",
-      "description": "聯合國世界氣象組織（WMO）警告，這種自然天氣現象可能為全球經濟帶來衝擊。",
-      "link": "https://www.bbc.com/zhongwen/articles/cm27n2emn1zo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-03T12:09:57.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm27n2emn1zo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2bbb/live/3f325b30-a790-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "title": "美國航母「林肯號」航行250天終抵泰國，這是我們目前知道的情況",
@@ -82,12 +82,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cb62/live/3f550e60-a46f-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "title": "「我面試完就被捲走了積蓄」——Z世代求職者成為詐騙目標",
-      "description": "求職者、尤其是 Z 世代，正成為虛假、帶有陷阱的招聘應用程式的目標。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx2z87ekee1o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-04T05:25:38.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx2z87ekee1o/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/19fd/live/cfe7a280-a820-11f1-97c8-23a831931e75.jpg"
+      "title": "豬腎在人體內運作271天——這會是器官移植的未來嗎？",
+      "description": "一名男子在等待人體腎臟移植期間，依靠移植的豬腎存活了創紀錄的九個月。",
+      "link": "https://www.bbc.com/zhongwen/articles/c1dlr007vkgo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-04T05:57:06.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1dlr007vkgo/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e7ac/live/9ea66460-a7b5-11f1-b5cf-8556ae508a51.jpg"
+    },
+    {
+      "title": "行走在紐約：我發現監控攝像頭數量遠超想像",
+      "description": "在私隱與安全之間作出取捨時，了解你所在社區的監控基礎設施到底有多普遍或會有所幫助。要查清楚這一點已有一些簡單的方法。\n\n",
+      "link": "https://www.bbc.com/zhongwen/articles/cwyznp4qlg9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-04T06:25:54.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwyznp4qlg9o/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b011/live/946bf610-a81c-11f1-ac3c-9d896728a67a.png"
+    },
+    {
+      "title": "加拿大新鈔首印查爾斯國王肖像，為英國以外首例",
+      "description": "這張豎版紙幣上印有查爾斯三世國王的肖像，他是70多年來第一位出現在加拿大紙幣上的新君主。",
+      "link": "https://www.bbc.com/zhongwen/articles/clyk1degv1ro/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-04T08:09:11.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/clyk1degv1ro/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e5e3/live/e1398a40-a7c0-11f1-b5cf-8556ae508a51.jpg"
     },
     {
       "title": "《肖申克的救贖》中國公映：官方字幕翻譯何以引發爭議？",
@@ -98,12 +114,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/70e3/live/c7e7e070-a75f-11f1-8888-832c5829c86c.jpg"
     },
     {
-      "title": "莫迪敦促普京結束烏克蘭戰爭，他能勸得動嗎？",
-      "description": "印度經濟高度依賴自俄羅斯進口的折扣石油。自2022年普京發動對烏克蘭的全面入侵以來，莫迪已多次向普京提出過類似的呼籲。",
-      "link": "https://www.bbc.com/zhongwen/articles/c5y4r8e52nyo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-03T00:24:54.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5y4r8e52nyo/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7e98/live/59804970-a5fb-11f1-a291-b542ee92de7c.jpg"
+      "title": "聯合國警告可能出現「超大型」厄爾尼諾現象，各國須準備應對",
+      "description": "聯合國世界氣象組織（WMO）警告，這種自然天氣現象可能為全球經濟帶來衝擊。",
+      "link": "https://www.bbc.com/zhongwen/articles/cm27n2emn1zo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-03T12:09:57.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cm27n2emn1zo/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2bbb/live/3f325b30-a790-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "title": "美國公司獲批委內瑞拉油田百年開採權 分析人士迷惑 國民震怒",
@@ -122,14 +138,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b593/live/fe6567e0-a47a-11f1-bed8-470734b5b662.jpg"
     },
     {
-      "title": "黃之鋒：從學運領袖到國安法囚犯，重獲自由未有期",
-      "description": "自2020年11月被關押以來，香港民主派活動人士黃之鋒被控多宗罪名，至今已身在獄中接近六年。",
-      "link": "https://www.bbc.com/zhongwen/articles/cj4j8n42r51o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-02T14:11:34.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cj4j8n42r51o/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1e73/live/aff92d70-a60b-11f1-b109-879e35c24276.jpg"
-    },
-    {
       "title": "日本企業大舉押注印度　中國風險加深之際尋求新成長",
       "description": "日本企業正加碼布局印度，因國內市場萎縮及中國風險升高。",
       "link": "https://www.bbc.com/zhongwen/articles/czxzkex7nd1o/trad?at_medium=RSS&at_campaign=rss",
@@ -138,12 +146,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8857/live/1bc1a980-a605-11f1-83fc-0df57e6b3866.jpg"
     },
     {
-      "title": "「我從未去過的祖國」：600萬人遭遣返阿富汗，在塔利班治下重新開始",
-      "description": "今年從巴基斯坦和伊朗遭遣返回阿富汗的人數，已再增加100萬。",
-      "link": "https://www.bbc.com/zhongwen/articles/c4g5djd75gpo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-02T09:18:53.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4g5djd75gpo/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ae4b/live/abaa7a90-a54c-11f1-aed2-8d6da8d75094.jpg"
+      "title": "韓國光州雙年展: 中國退展，「台灣館」風波透露什麼？",
+      "description": "韓國舉行的光州雙年展因「台灣館」名稱遭改動陷入爭議，中國週四（9月3日）宣布退出展覽。",
+      "link": "https://www.bbc.com/zhongwen/articles/cz6zd7j8nn0o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-04T10:56:52.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cz6zd7j8nn0o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4000/live/e0847000-a84d-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "title": "重獲自由未有期 回顧黃之鋒的公共生涯",
@@ -152,6 +160,14 @@
       "pubDate": "2026-09-02T13:55:55.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cwyzd1jp8gqo/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/04bd/live/def8d3d0-a6d5-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "title": "前線報導：BBC深入尼泊爾隧道和被洪水吞沒的小鎮",
+      "description": "在貝特拉瓦蒂地區，一些居民返回面目全非的家園，他們還要面臨的一大挑戰是如何處理逝者的遺體。與此同時，救援人員仍未放棄尋找倖存者，他們相信仍有人受困於特里蘇里河沿岸的隧道內。",
+      "link": "https://www.bbc.com/zhongwen/articles/cy4z8w39j3no/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-04T10:25:57.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cy4z8w39j3no/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a41a/live/eafe59e0-a84a-11f1-b109-879e35c24276.jpg"
     },
     {
       "title": "「大家都是做做樣子」：香港高中公民科推行五週年",
@@ -168,22 +184,6 @@
       "pubDate": "2026-09-01T05:45:54.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cgmryk7xky8o/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/79d7/live/4d0ee4e0-a5c8-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "title": "前線報導：尼泊爾洪災逾900人罹難  民眾絕望尋找失蹤親人",
-      "description": "尼泊爾上周遭遇毀滅性洪災，已有超過900人死亡，仍有4200人失蹤。有許多人在街頭一張張查看尋找到的遺體照片，絕望地尋找失聯的親人；也有數百人被困隧道，至今生死未卜。",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgy4vd7ny4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-31T10:56:56.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cvgy4vd7ny4o/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0ea5/live/93f51d00-a52a-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "title": "香港卡牌熱潮：一張卡如何從遊戲變資產成為「紙上黃金」？",
-      "description": "近年全球掀起一波集換式卡牌熱潮，除了玩樂以外，更有不少人用來投資炒賣。美國市場分析公司統計，2025年全球集換式卡牌市場規模達到約78億美元，到2031年有望升至128.6億美元。一張卡由遊戲變成資產，成為「紙上黃金」。BBC中文拆解卡牌熱潮的起因以及熱潮延續的可能性。",
-      "link": "https://www.bbc.com/zhongwen/articles/cm2q7zj89qyo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-28T02:06:41.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm2q7zj89qyo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9e9f/live/7bed0100-a296-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
@@ -226,6 +226,22 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3b8e/live/23eaf6d0-8ade-11f1-b889-f97dd2fdd738.jpg"
     },
     {
+      "title": "黃之鋒：從學運領袖到國安法囚犯，重獲自由未有期",
+      "description": "自2020年11月被關押以來，香港民主派活動人士黃之鋒被控多宗罪名，至今已身在獄中接近六年。",
+      "link": "https://www.bbc.com/zhongwen/articles/cj4j8n42r51o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-02T14:11:34.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cj4j8n42r51o/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1e73/live/aff92d70-a60b-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "title": "莫迪敦促普京結束烏克蘭戰爭，他能勸得動嗎？",
+      "description": "印度經濟高度依賴自俄羅斯進口的折扣石油。自2022年普京發動對烏克蘭的全面入侵以來，莫迪已多次向普京提出過類似的呼籲。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5y4r8e52nyo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-03T00:24:54.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5y4r8e52nyo/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7e98/live/59804970-a5fb-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
       "title": "上合組織25週年：中國舞台、伊朗考驗，還是「清談場所」？",
       "description": "「整套東西說穿了，就是共識旗幟下的中國工具箱。成員加入自己感興趣的部分，沒有人被要求成為盟友。北京不要求同盟式義務，它要的是背書、參與，以及不要阻擋（中國）。」",
       "link": "https://www.bbc.com/zhongwen/articles/c8d39n7m2g8o/trad?at_medium=RSS&at_campaign=rss",
@@ -248,22 +264,6 @@
       "pubDate": "2026-08-31T00:15:53.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/czjzdlvly70o/trad#5",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2610/live/391b25e0-a477-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "title": "Dolly Parton的父親生前不識字，於是她給數百萬孩子寄上書本",
-      "description": "全球各地的家庭分享了帕頓想像圖書館提供的免費書籍如何幫助他們的孩子。",
-      "link": "https://www.bbc.com/zhongwen/articles/c5ydw7pv2nzo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-30T11:03:44.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5ydw7pv2nzo/trad#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2cb0/live/9d09bab0-a22b-11f1-bd6a-3d72a7f54a3e.jpg"
-    },
-    {
-      "title": "女性罵髒話很低劣嗎？莫迪言論引燃「蟑螂人民黨」後續辯論",
-      "description": "印度在野黨議員拉胡爾·甘地的言論再次引發有關性別差異的辯論，焦點在於人們對辱罵總理莫迪言論的反應是否因性別而有所不同。",
-      "link": "https://www.bbc.com/zhongwen/articles/c5y7w1xgp2ro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-28T02:49:24.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5y7w1xgp2ro/trad#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2126/live/4de286c0-a121-11f1-92eb-a9b3bbcf6f4a.jpg"
     },
     {
       "title": "中國科技公司新嘗試：「性愛」機器人，瞄準「陪伴經濟」",
@@ -306,12 +306,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/011f/live/b924ff70-a055-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "title": "星巴克咖啡就算了吧——Z世代喜歡喝冰飲",
-      "description": "年輕消費者偏好冷飲和客製化飲品，到星巴克買熱咖啡不是他們的第一選擇。",
-      "link": "https://www.bbc.com/zhongwen/articles/c15897j72vno/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-01T01:19:55.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c15897j72vno/trad#7",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c62a/live/b53cba30-a2f1-11f1-92c5-6fbfa8f46936.jpg"
+      "title": "「我面試完就被捲走了積蓄」——Z世代求職者成為詐騙目標",
+      "description": "求職者、尤其是 Z 世代，正成為虛假、帶有陷阱的招聘應用程式的目標。",
+      "link": "https://www.bbc.com/zhongwen/articles/cx2z87ekee1o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-04T05:25:38.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx2z87ekee1o/trad#7",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/19fd/live/cfe7a280-a820-11f1-97c8-23a831931e75.jpg"
     },
     {
       "title": "美國NASA全新超強望遠鏡將改寫我們對宇宙的理解",
@@ -322,20 +322,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0710/live/eeb11b30-a535-11f1-a291-b542ee92de7c.jpg"
     },
     {
+      "title": "星巴克咖啡就算了吧——Z世代喜歡喝冰飲",
+      "description": "年輕消費者偏好冷飲和客製化飲品，到星巴克買熱咖啡不是他們的第一選擇。",
+      "link": "https://www.bbc.com/zhongwen/articles/c15897j72vno/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-01T01:19:55.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c15897j72vno/trad#7",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c62a/live/b53cba30-a2f1-11f1-92c5-6fbfa8f46936.jpg"
+    },
+    {
       "title": "這些藥物讓人更難以應對高溫",
       "description": "一些最常獲處方的藥物，包括用於治療抑鬱症、注意力不足過動症（ADHD）和高血壓的藥物，可能會增加脫水及其他與高溫相關疾病的風險。",
       "link": "https://www.bbc.com/zhongwen/articles/cg49yzyv4yko/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-08-27T00:02:59.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cg49yzyv4yko/trad#7",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d86/live/ed96ec50-9fc9-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "title": "厄爾尼諾增強：全球海洋溫度創有紀錄以來新高",
-      "description": "歐洲哥白尼氣候變化服務的薩曼莎·伯吉斯博士表示，這項紀錄是「另一個表明海洋正面臨越來越大壓力的清晰訊號」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn459py3371o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-26T00:22:13.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn459py3371o/trad#7",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg"
     },
     {
       "title": "我六歲就來月經了，但醫生們也不知道為什麼",
