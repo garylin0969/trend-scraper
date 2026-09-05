@@ -1,8 +1,18 @@
 {
-  "updated": "2026-09-05T19:05:44.995Z",
+  "updated": "2026-09-05T21:10:21.705Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "456",
+      "recommendCount": "1260",
+      "title": "[問卦] 8年級出生以前體罰到底有多狠",
+      "link": "/bbs/Gossiping/M.1788597398.A.1E2",
+      "author": "er5820",
+      "board": "Gossiping",
+      "publishTime": "2026/09/05 08:36",
+      "imageUrl": "https://cache.pttweb.cc/imgur/wuZbpbE/s/1d4dc31480c09ab28c8b6dd08b0ce583"
+    },
     {
       "recommendScore": "176",
       "recommendCount": "813",
@@ -11,21 +21,11 @@
       "author": "lovea",
       "board": "Gossiping",
       "publishTime": "2026/09/05 00:59",
-      "imageUrl": "https://cache.pttweb.cc/imgur/wuZbpbE/s/1d4dc31480c09ab28c8b6dd08b0ce583"
-    },
-    {
-      "recommendScore": "450",
-      "recommendCount": "1234",
-      "title": "[問卦] 8年級出生以前體罰到底有多狠",
-      "link": "/bbs/Gossiping/M.1788597398.A.1E2",
-      "author": "er5820",
-      "board": "Gossiping",
-      "publishTime": "2026/09/05 08:36",
       "imageUrl": ""
     },
     {
-      "recommendScore": "141",
-      "recommendCount": "583",
+      "recommendScore": "142",
+      "recommendCount": "586",
       "title": "[新聞] 台電：累虧已達3,722億元 盼各界支持預算撥補",
       "link": "/bbs/Stock/M.1788587608.A.04C",
       "author": "brbear",
@@ -34,13 +34,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "269",
-      "recommendCount": "534",
+      "recommendScore": "270",
+      "recommendCount": "535",
       "title": "[新聞] 影音／雨沒變多卻淹更慘？台南單場降雨強度飆升　永康、仁德淹到怕",
       "link": "/bbs/Gossiping/M.1788562806.A.956",
       "author": "Workforme",
       "board": "Gossiping",
       "publishTime": "2026/09/04 23:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "104",
+      "recommendCount": "580",
+      "title": "[新聞] 台電：累虧已達3,722億元 盼各界支持預算撥補",
+      "link": "/bbs/Gossiping/M.1788571433.A.CAB",
+      "author": "ptt987654321",
+      "board": "Gossiping",
+      "publishTime": "2026/09/05 01:23",
       "imageUrl": ""
     },
     {
@@ -54,18 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "104",
-      "recommendCount": "578",
-      "title": "[新聞] 台電：累虧已達3,722億元 盼各界支持預算撥補",
-      "link": "/bbs/Gossiping/M.1788571433.A.CAB",
-      "author": "ptt987654321",
-      "board": "Gossiping",
-      "publishTime": "2026/09/05 01:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "205",
-      "recommendCount": "504",
+      "recommendScore": "213",
+      "recommendCount": "526",
       "title": "[問卦] 以前真的有50元的便當嗎？？？",
       "link": "/bbs/Gossiping/M.1788609833.A.D7B",
       "author": "gn505250",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "107",
-      "recommendCount": "358",
+      "recommendScore": "109",
+      "recommendCount": "367",
       "title": "[新聞] 快新聞／蔣萬安選情崩潰了？負面聲量竟狂飆70.7%　沈伯洋揭致命關鍵",
       "link": "/bbs/Gossiping/M.1788607745.A.08A",
       "author": "ak47good",
@@ -84,23 +84,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "194",
-      "recommendCount": "347",
-      "title": "[新聞] 陳嘉偉重磅警告！金融股拉抬是「多頭最後一棒」　呼籲趕快出清電子股",
-      "link": "/bbs/Stock/M.1788571967.A.AE7",
-      "author": "EstelleRinz",
-      "board": "Stock",
-      "publishTime": "2026/09/05 01:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "305",
-      "recommendCount": "819",
+      "recommendScore": "304",
+      "recommendCount": "822",
       "title": "[花邊] 過去四年球員公開心中GOAT人選",
       "link": "/bbs/NBA/M.1788581365.A.FA6",
       "author": "waterice0902",
       "board": "NBA",
       "publishTime": "2026/09/05 04:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "196",
+      "recommendCount": "349",
+      "title": "[新聞] 陳嘉偉重磅警告！金融股拉抬是「多頭最後一棒」　呼籲趕快出清電子股",
+      "link": "/bbs/Stock/M.1788571967.A.AE7",
+      "author": "EstelleRinz",
+      "board": "Stock",
+      "publishTime": "2026/09/05 01:32",
       "imageUrl": ""
     },
     {
@@ -115,7 +115,7 @@
     },
     {
       "recommendScore": "205",
-      "recommendCount": "821",
+      "recommendCount": "828",
       "title": "[花邊] Curry：盼 NBA 球員未來能參與球隊股權",
       "link": "/bbs/NBA/M.1788574577.A.591",
       "author": "jason911152",
@@ -125,7 +125,7 @@
     },
     {
       "recommendScore": "47",
-      "recommendCount": "297",
+      "recommendCount": "298",
       "title": "[新聞] 蔣萬安選情崩潰了？負面聲量竟狂飆70.7% 沈伯洋揭致命關鍵",
       "link": "/bbs/Gossiping/M.1788587885.A.5D6",
       "author": "eunhailoveu",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "160",
-      "recommendCount": "357",
+      "recommendScore": "161",
+      "recommendCount": "359",
       "title": "[問卦] 朋友說年薪破百只是普通人？",
       "link": "/bbs/Gossiping/M.1788577670.A.B94",
       "author": "faye52520",
@@ -164,6 +164,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/yFLciP9/s/b37215131f17cf223546ecb8dfc12150"
     },
     {
+      "recommendScore": "98",
+      "recommendCount": "364",
+      "title": "[問卦] 明年3月裸辭,這配置能撐多久?",
+      "link": "/bbs/Gossiping/M.1788565360.A.A9D",
+      "author": "lelena",
+      "board": "Gossiping",
+      "publishTime": "2026/09/04 23:42",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "192",
       "recommendCount": "245",
       "title": "[情報] 李灝宇 左小腿脛骨挫傷",
@@ -174,18 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "98",
-      "recommendCount": "363",
-      "title": "[問卦] 明年3月裸辭,這配置能撐多久?",
-      "link": "/bbs/Gossiping/M.1788565360.A.A9D",
-      "author": "lelena",
-      "board": "Gossiping",
-      "publishTime": "2026/09/04 23:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "148",
-      "recommendCount": "286",
+      "recommendScore": "147",
+      "recommendCount": "287",
       "title": "[新聞] 中山大學獼猴海宿舍垂降！新生開學震撼較",
       "link": "/bbs/Gossiping/M.1788591550.A.B1E",
       "author": "godshibainu",
@@ -195,7 +195,7 @@
     },
     {
       "recommendScore": "161",
-      "recommendCount": "326",
+      "recommendCount": "327",
       "title": "[問題] 中職要怎麼改變全壘打數一直掉的問題？",
       "link": "/bbs/Baseball/M.1788590538.A.917",
       "author": "Tanjiro",
