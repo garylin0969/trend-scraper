@@ -1,51 +1,21 @@
 {
-  "updated": "2026-09-06T09:22:01.700Z",
+  "updated": "2026-09-06T13:02:13.142Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "125",
-      "recommendCount": "446",
-      "title": "[新聞] 快新聞／蔣萬安選情崩潰了？負面聲量竟狂飆70.7%　沈伯洋揭致命關鍵",
-      "link": "/bbs/Gossiping/M.1788607745.A.08A",
-      "author": "ak47good",
-      "board": "Gossiping",
-      "publishTime": "2026/09/05 11:29",
-      "imageUrl": "https://cache.pttweb.cc/imgur/IYHUGQ3/s/e65a2717916bbd85df62b0aa4fb4ec6d"
-    },
-    {
-      "recommendScore": "242",
-      "recommendCount": "600",
-      "title": "[問卦] 以前真的有50元的便當嗎？？？",
-      "link": "/bbs/Gossiping/M.1788609833.A.D7B",
-      "author": "gn505250",
-      "board": "Gossiping",
-      "publishTime": "2026/09/05 12:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "773",
+      "recommendScore": "771",
       "recommendCount": "1438",
       "title": "[電競] 2026 LCK Playoffs Lower Round 3",
       "link": "/bbs/LoL/M.1788679807.A.1E9",
       "author": "laptic",
       "board": "LoL",
       "publishTime": "2026/09/06 07:30",
-      "imageUrl": ""
+      "imageUrl": "https://cache.pttweb.cc/imgur/IYHUGQ3/s/e65a2717916bbd85df62b0aa4fb4ec6d"
     },
     {
-      "recommendScore": "273",
-      "recommendCount": "727",
-      "title": "[爆卦] 民眾黨：新竹縣跟竹北沒有藍白合",
-      "link": "/bbs/Gossiping/M.1788660494.A.85E",
-      "author": "Skyblueway",
-      "board": "Gossiping",
-      "publishTime": "2026/09/06 02:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "169",
-      "recommendCount": "368",
+      "recommendScore": "200",
+      "recommendCount": "443",
       "title": "Re: [新聞] 快新聞／蔣萬安選情崩潰了？負面聲量竟狂飆70.7%　沈伯洋揭致命關鍵",
       "link": "/bbs/Gossiping/M.1788668049.A.E38",
       "author": "emma750808",
@@ -54,8 +24,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/IYHUGQ3/s/e65a2717916bbd85df62b0aa4fb4ec6d"
     },
     {
-      "recommendScore": "144",
-      "recommendCount": "525",
+      "recommendScore": "276",
+      "recommendCount": "741",
+      "title": "[爆卦] 民眾黨：新竹縣跟竹北沒有藍白合",
+      "link": "/bbs/Gossiping/M.1788660494.A.85E",
+      "author": "Skyblueway",
+      "board": "Gossiping",
+      "publishTime": "2026/09/06 02:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "148",
+      "recommendCount": "538",
       "title": "Re: [新聞] 沈伯洋競選開低走高形成「洋流」 簡舒培讚其「誠懇」特",
       "link": "/bbs/Gossiping/M.1788651634.A.BBB",
       "author": "emma750808",
@@ -64,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "145",
-      "recommendCount": "418",
+      "recommendScore": "147",
+      "recommendCount": "424",
       "title": "[問卦] 慟！台派開始出征蔣二寶！",
       "link": "/bbs/Gossiping/M.1788651937.A.A7D",
       "author": "pigpigcom123",
@@ -74,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "167",
-      "recommendCount": "334",
+      "recommendScore": "171",
+      "recommendCount": "339",
       "title": "[新聞] 貝森特預測伊朗戰事落幕：油價最低40美元 美債殖利率跟著降",
       "link": "/bbs/Stock/M.1788615347.A.CDF",
       "author": "d8917936",
@@ -84,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "234",
-      "recommendCount": "283",
+      "recommendScore": "239",
+      "recommendCount": "288",
       "title": "[炸裂] 林安可",
       "link": "/bbs/Baseball/M.1788672893.A.DD3",
       "author": "akiraje",
@@ -94,28 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "158",
-      "recommendCount": "327",
-      "title": "[請益] 盤中盯盤 主要是在看什麼",
-      "link": "/bbs/Stock/M.1788609519.A.6AE",
-      "author": "eigenvalueqq",
-      "board": "Stock",
-      "publishTime": "2026/09/05 11:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "211",
-      "recommendCount": "228",
-      "title": "Re: [LIVE] 意甲 拿坡里@國際米蘭 場中",
-      "link": "/bbs/SportLottery/M.1788630302.A.B87",
-      "author": "b032819",
-      "board": "SportLottery",
-      "publishTime": "2026/09/05 17:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "138",
-      "recommendCount": "499",
+      "recommendScore": "151",
+      "recommendCount": "548",
       "title": "Re: [爆卦] 民眾黨：新竹縣跟竹北沒有藍白合",
       "link": "/bbs/Gossiping/M.1788662203.A.9F9",
       "author": "BlueBird5566",
@@ -124,28 +84,38 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "199",
-      "recommendCount": "324",
-      "title": "[大炎上] 吉伊卡哇x藏壽司合作 藏大獎 店員當黃牛 提前終止",
-      "link": "/bbs/C_Chat/M.1788604363.A.94B",
-      "author": "S890127",
-      "board": "C_Chat",
-      "publishTime": "2026/09/05 10:32",
+      "recommendScore": "142",
+      "recommendCount": "323",
+      "title": "[新聞] 卓榮泰不副署法案竟然登上國際 學者酸：連川普都只能羨慕",
+      "link": "/bbs/Gossiping/M.1788689332.A.721",
+      "author": "henry8168",
+      "board": "Gossiping",
+      "publishTime": "2026/09/06 10:08",
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "284",
-      "title": "Re: [大炎上] 吉伊卡哇x藏壽司合作 藏大獎 店員",
-      "link": "/bbs/C_Chat/M.1788665475.A.BA4",
-      "author": "s50189",
-      "board": "C_Chat",
-      "publishTime": "2026/09/06 03:31",
-      "imageUrl": "https://cache.pttweb.cc/imgur/c92Bb3T/s/45ae9857ccb24c582d47e74a0c1cdb7d"
+      "recommendScore": "214",
+      "recommendCount": "231",
+      "title": "Re: [LIVE] 意甲 拿坡里@國際米蘭 場中",
+      "link": "/bbs/SportLottery/M.1788630302.A.B87",
+      "author": "b032819",
+      "board": "SportLottery",
+      "publishTime": "2026/09/05 17:45",
+      "imageUrl": ""
     },
     {
-      "recommendScore": "77",
-      "recommendCount": "308",
+      "recommendScore": "214",
+      "recommendCount": "328",
+      "title": "[分享] CPBL戰績",
+      "link": "/bbs/Baseball/M.1788696795.A.6D7",
+      "author": "suwagutao",
+      "board": "Baseball",
+      "publishTime": "2026/09/06 12:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "85",
+      "recommendCount": "325",
       "title": "[問卦] 沒人發現台湾的氛圍越來越像中國了嗎??",
       "link": "/bbs/Gossiping/M.1788657575.A.4B6",
       "author": "lovea",
@@ -154,8 +124,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "176",
-      "recommendCount": "810",
+      "recommendScore": "173",
+      "recommendCount": "295",
+      "title": "Re: [大炎上] 吉伊卡哇x藏壽司合作 藏大獎 店員",
+      "link": "/bbs/C_Chat/M.1788665475.A.BA4",
+      "author": "s50189",
+      "board": "C_Chat",
+      "publishTime": "2026/09/06 03:31",
+      "imageUrl": "https://cache.pttweb.cc/imgur/c92Bb3T/s/45ae9857ccb24c582d47e74a0c1cdb7d"
+    },
+    {
+      "recommendScore": "170",
+      "recommendCount": "327",
+      "title": "[問卦] 為什麼反核的人全部都消失了？",
+      "link": "/bbs/Gossiping/M.1788688713.A.414",
+      "author": "abianisbitch",
+      "board": "Gossiping",
+      "publishTime": "2026/09/06 09:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "178",
+      "recommendCount": "814",
       "title": "Re: [新聞] 竹北藍白合破局誰是戰犯？徐欣瑩稱「大家誤解了」：兩黨互相詢問不構成承諾",
       "link": "/bbs/Gossiping/M.1788620778.A.B99",
       "author": "TouchAgain",
@@ -164,8 +154,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "108",
-      "recommendCount": "201",
+      "recommendScore": "615",
+      "recommendCount": "1502",
+      "title": "[情報] 今日先發打線",
+      "link": "/bbs/Elephants/M.1788682442.A.0BE",
+      "author": "eattting",
+      "board": "Elephants",
+      "publishTime": "2026/09/06 08:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "114",
+      "recommendCount": "216",
       "title": "[新聞] 快訊／高雄賣場46歲女員工突倒地　顧客狂做CPR送醫不治！",
       "link": "/bbs/Gossiping/M.1788665314.A.B89",
       "author": "tsukiji",
@@ -174,33 +174,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "166",
-      "recommendCount": "250",
-      "title": "[分享] CPBL戰績",
-      "link": "/bbs/Baseball/M.1788611036.A.4A9",
-      "author": "suwagutao",
+      "recommendScore": "152",
+      "recommendCount": "189",
+      "title": "[炸裂] 林泓育",
+      "link": "/bbs/Baseball/M.1788692732.A.B4D",
+      "author": "edison321",
       "board": "Baseball",
-      "publishTime": "2026/09/05 12:23",
+      "publishTime": "2026/09/06 11:05",
       "imageUrl": ""
     },
     {
-      "recommendScore": "126",
-      "recommendCount": "410",
-      "title": "[討論] 北市童軍會再聲明：補考也是一種學習",
-      "link": "/bbs/HatePolitics/M.1788606004.A.A12",
-      "author": "oscarwu3041",
-      "board": "HatePolitics",
-      "publishTime": "2026/09/05 11:00",
+      "recommendScore": "152",
+      "recommendCount": "189",
+      "title": "[推薦] 沒有女性朋友的我跟校花開始交往了",
+      "link": "/bbs/C_Chat/M.1788679081.A.613",
+      "author": "Gary5566",
+      "board": "C_Chat",
+      "publishTime": "2026/09/06 07:18",
       "imageUrl": ""
     },
     {
-      "recommendScore": "69",
-      "recommendCount": "253",
-      "title": "[新聞] 這些優勢太大 南加掀回台灣養老潮",
-      "link": "/bbs/Gossiping/M.1788661536.A.D67",
-      "author": "ohfly",
-      "board": "Gossiping",
-      "publishTime": "2026/09/06 02:25",
+      "recommendScore": "758",
+      "recommendCount": "1460",
+      "title": "[情報] 今日先發",
+      "link": "/bbs/Lions/M.1788678078.A.406",
+      "author": "xFANx",
+      "board": "Lions",
+      "publishTime": "2026/09/06 07:01",
       "imageUrl": ""
     }
   ]
