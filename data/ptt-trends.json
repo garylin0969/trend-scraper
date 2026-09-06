@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-06T20:38:06.090Z",
+  "updated": "2026-09-06T22:19:25.587Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "312",
-      "recommendCount": "722",
+      "recommendScore": "327",
+      "recommendCount": "785",
       "title": "[新聞] 卓榮泰不副署法案竟然登上國際 學者酸：連川普都只能羨慕",
       "link": "/bbs/Gossiping/M.1788689332.A.721",
       "author": "henry8168",
@@ -14,24 +14,24 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/IYHUGQ3/s/e65a2717916bbd85df62b0aa4fb4ec6d"
     },
     {
-      "recommendScore": "217",
-      "recommendCount": "470",
-      "title": "Re: [新聞] 快新聞／蔣萬安選情崩潰了？負面聲量竟狂飆70.7%　沈伯洋揭致命關鍵",
-      "link": "/bbs/Gossiping/M.1788668049.A.E38",
-      "author": "emma750808",
-      "board": "Gossiping",
-      "publishTime": "2026/09/06 04:14",
-      "imageUrl": "https://cache.pttweb.cc/imgur/IYHUGQ3/s/e65a2717916bbd85df62b0aa4fb4ec6d"
-    },
-    {
-      "recommendScore": "242",
-      "recommendCount": "604",
+      "recommendScore": "255",
+      "recommendCount": "633",
       "title": "[問卦] 台灣人是不是逐漸不愛逛夜市了？",
       "link": "/bbs/Gossiping/M.1788699309.A.1DC",
       "author": "YU0121",
       "board": "Gossiping",
       "publishTime": "2026/09/06 12:55",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "217",
+      "recommendCount": "471",
+      "title": "Re: [新聞] 快新聞／蔣萬安選情崩潰了？負面聲量竟狂飆70.7%　沈伯洋揭致命關鍵",
+      "link": "/bbs/Gossiping/M.1788668049.A.E38",
+      "author": "emma750808",
+      "board": "Gossiping",
+      "publishTime": "2026/09/06 04:14",
+      "imageUrl": "https://cache.pttweb.cc/imgur/IYHUGQ3/s/e65a2717916bbd85df62b0aa4fb4ec6d"
     },
     {
       "recommendScore": "769",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "164",
-      "recommendCount": "204",
+      "recommendScore": "166",
+      "recommendCount": "206",
       "title": "[推薦] 沒有女性朋友的我跟校花開始交往了",
       "link": "/bbs/C_Chat/M.1788679081.A.613",
       "author": "Gary5566",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "71",
+      "recommendCount": "285",
+      "title": "[新聞] 這些優勢太大 南加掀回台灣養老潮",
+      "link": "/bbs/Gossiping/M.1788661536.A.D67",
+      "author": "ohfly",
+      "board": "Gossiping",
+      "publishTime": "2026/09/06 02:25",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "632",
       "recommendCount": "1502",
       "title": "[情報] 今日先發打線",
@@ -191,16 +201,6 @@
       "author": "eattting",
       "board": "Elephants",
       "publishTime": "2026/09/06 08:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "70",
-      "recommendCount": "278",
-      "title": "[新聞] 這些優勢太大 南加掀回台灣養老潮",
-      "link": "/bbs/Gossiping/M.1788661536.A.D67",
-      "author": "ohfly",
-      "board": "Gossiping",
-      "publishTime": "2026/09/06 02:25",
       "imageUrl": ""
     }
   ]
