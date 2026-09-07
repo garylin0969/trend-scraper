@@ -1,21 +1,29 @@
 {
-  "updated": "2026-09-07T00:59:22.896Z",
+  "updated": "2026-09-07T06:03:43.060Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-09-07T00:59:12.000Z",
+    "lastBuildDate": "2026-09-07T06:03:35.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
     {
-      "title": "歐洲國家接連提走北美黃金儲備所為何事",
+      "title": "歐洲國家提走北美黃金儲備所為何事",
       "description": "荷蘭已將86噸閃閃發亮的黃金儲備從美國遷移至其他地方，究竟發生了甚麼事？",
       "link": "https://www.bbc.com/zhongwen/articles/cwyzv9w5w6yo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-07T00:03:22.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cwyzv9w5w6yo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/69ed/live/1f74ae20-a870-11f1-bbad-43eaf67b94b6.jpg"
+    },
+    {
+      "title": "印尼火山爆發，17萬名旅客滯留機場",
+      "description": "印尼喀拉喀托之子火山（Anak Krakatau）爆發，八個機場暫停運作，約17萬名乘客滯留。",
+      "link": "https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-07T02:44:40.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9193/live/bc786310-a9bf-11f1-a47c-49756d8d78ae.jpg"
     },
     {
       "title": "尼泊爾給水力發電押下重注，泥石流把問題徹底暴露",
@@ -24,14 +32,6 @@
       "pubDate": "2026-09-06T05:19:17.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c0re1x8wg24o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/490f/live/cf76c760-a864-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "title": "「究竟是誰在批准什麼？」：光州雙年展台灣改名風波背後的角力",
-      "description": "8月初，韓國舉行的光州雙年展因主辦單位改動「台灣館」名稱陷入爭議。事件曝光後，台灣參展藝術家提出抗議，當地許多藝術家、民眾也進行聲援。主辦單位最終同意恢復使用「台灣館」，但引起中方不滿。",
-      "link": "https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-04T14:33:16.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/abc8/live/8ff2a750-a83a-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "title": "女性「精神負擔」為何比男人大? 夫妻如何一同分擔？",
@@ -82,6 +82,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cb62/live/3f550e60-a46f-11f1-a291-b542ee92de7c.jpg"
     },
     {
+      "title": "「究竟是誰在批准什麼？」：光州雙年展台灣改名風波背後的角力",
+      "description": "8月初，韓國舉行的光州雙年展因主辦單位改動「台灣館」名稱陷入爭議。事件曝光後，台灣參展藝術家提出抗議，當地許多藝術家、民眾也進行聲援。主辦單位最終同意恢復使用「台灣館」，但引起中方不滿。",
+      "link": "https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-04T14:33:16.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/abc8/live/8ff2a750-a83a-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
       "title": "印度洋蔥「政治敏感」得要坐上鐵路快車",
       "description": "印度洋蔥價格急劇飆升，這種家家戶戶必備食材正被運往主要城市。這個國家生產和消費大量洋蔥，而其價格波動歷來具有政治影響。",
       "link": "https://www.bbc.com/zhongwen/articles/cj4j2kp0818o/trad?at_medium=RSS&at_campaign=rss",
@@ -120,14 +128,6 @@
       "pubDate": "2026-09-03T06:01:33.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cwyzg4en4k3o/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/54f9/live/eb5af6f0-a6d8-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "title": "豬腎在人體內運作271天——這會是器官移植的未來嗎？",
-      "description": "一名男子在等待人體腎臟移植期間，依靠移植的豬腎存活了創紀錄的九個月。",
-      "link": "https://www.bbc.com/zhongwen/articles/c1dlr007vkgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-04T05:57:06.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c1dlr007vkgo/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e7ac/live/9ea66460-a7b5-11f1-b5cf-8556ae508a51.jpg"
     },
     {
       "title": "行走在紐約：我發現監控攝像頭數量遠超想像",
@@ -314,6 +314,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fdf2/live/394d3040-a133-11f1-a291-b542ee92de7c.jpg"
     },
     {
+      "title": "豬腎在人體內運作271天——這會是器官移植的未來嗎？",
+      "description": "一名男子在等待人體腎臟移植期間，依靠移植的豬腎存活了創紀錄的九個月。",
+      "link": "https://www.bbc.com/zhongwen/articles/c1dlr007vkgo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-04T05:57:06.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c1dlr007vkgo/trad#7",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e7ac/live/9ea66460-a7b5-11f1-b5cf-8556ae508a51.jpg"
+    },
+    {
       "title": "執迷於「睡眠分數」如何反讓你睡得更差？",
       "description": "不少人會配戴追蹤器，檢測自己的睡眠分數，並用盡方法「睡眠極大化」（sleepmaxxing）。但專家指出，把睡眠遊戲化，正導致更多人出現睡眠失調問題。",
       "link": "https://www.bbc.com/zhongwen/articles/c3wj1gd3x9no/trad?at_medium=RSS&at_campaign=rss",
@@ -344,14 +352,6 @@
       "pubDate": "2026-09-01T01:19:55.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c15897j72vno/trad#7",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c62a/live/b53cba30-a2f1-11f1-92c5-6fbfa8f46936.jpg"
-    },
-    {
-      "title": "這些藥物讓人更難以應對高溫",
-      "description": "一些最常獲處方的藥物，包括用於治療抑鬱症、注意力不足過動症（ADHD）和高血壓的藥物，可能會增加脫水及其他與高溫相關疾病的風險。",
-      "link": "https://www.bbc.com/zhongwen/articles/cg49yzyv4yko/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-08-27T00:02:59.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cg49yzyv4yko/trad#7",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d86/live/ed96ec50-9fc9-11f1-a291-b542ee92de7c.jpg"
     }
   ]
 }
