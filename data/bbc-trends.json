@@ -1,14 +1,22 @@
 {
-  "updated": "2026-09-06T22:52:41.290Z",
+  "updated": "2026-09-07T00:59:22.896Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-09-06T22:52:31.000Z",
+    "lastBuildDate": "2026-09-07T00:59:12.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "歐洲國家接連提走北美黃金儲備所為何事",
+      "description": "荷蘭已將86噸閃閃發亮的黃金儲備從美國遷移至其他地方，究竟發生了甚麼事？",
+      "link": "https://www.bbc.com/zhongwen/articles/cwyzv9w5w6yo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-07T00:03:22.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwyzv9w5w6yo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/69ed/live/1f74ae20-a870-11f1-bbad-43eaf67b94b6.jpg"
+    },
     {
       "title": "尼泊爾給水力發電押下重注，泥石流把問題徹底暴露",
       "description": "一場喜馬拉雅山冰岩崩造成的泥石流，摧毀了尼泊爾超過10%的發電能力。",
@@ -26,20 +34,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/abc8/live/8ff2a750-a83a-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "title": "特朗普取態何以左右福克蘭群島爭議",
-      "description": "隨著阿根廷總統米萊承諾為福克蘭群島帶來「變革之風」，特朗普會改變他對英國統治的立場嗎？",
-      "link": "https://www.bbc.com/zhongwen/articles/cm2q6pyyzn0o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-06T07:42:46.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm2q6pyyzn0o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4547/live/523d1300-a88f-11f1-96fc-dd627484b0e6.jpg"
-    },
-    {
-      "title": "印度洋蔥「政治敏感」得要坐上鐵路快車",
-      "description": "印度洋蔥價格急劇飆升，這種家家戶戶必備食材正被運往主要城市。這個國家生產和消費大量洋蔥，而其價格波動歷來具有政治影響。",
-      "link": "https://www.bbc.com/zhongwen/articles/cj4j2kp0818o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-06T13:17:31.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cj4j2kp0818o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/74ff/live/6dbb4270-a9f0-11f1-a291-b542ee92de7c.jpg"
+      "title": "女性「精神負擔」為何比男人大? 夫妻如何一同分擔？",
+      "description": "計劃、組織和記住家務活不成比例地落在母親身上——以下是一些幫助她們的技巧。",
+      "link": "https://www.bbc.com/zhongwen/articles/c4gl35zly2po/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-07T00:03:27.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gl35zly2po/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3208/live/d6a01a10-a6c9-11f1-b109-879e35c24276.jpg"
     },
     {
       "title": "不同版本的世界地圖有哪些正確及錯誤之處？",
@@ -82,20 +82,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cb62/live/3f550e60-a46f-11f1-a291-b542ee92de7c.jpg"
     },
     {
+      "title": "印度洋蔥「政治敏感」得要坐上鐵路快車",
+      "description": "印度洋蔥價格急劇飆升，這種家家戶戶必備食材正被運往主要城市。這個國家生產和消費大量洋蔥，而其價格波動歷來具有政治影響。",
+      "link": "https://www.bbc.com/zhongwen/articles/cj4j2kp0818o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-06T13:17:31.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cj4j2kp0818o/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/74ff/live/6dbb4270-a9f0-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "title": "特朗普取態何以左右福克蘭群島爭議",
+      "description": "隨著阿根廷總統米萊承諾為福克蘭群島帶來「變革之風」，特朗普會改變他對英國統治的立場嗎？",
+      "link": "https://www.bbc.com/zhongwen/articles/cm2q6pyyzn0o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-06T07:42:46.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cm2q6pyyzn0o/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4547/live/523d1300-a88f-11f1-96fc-dd627484b0e6.jpg"
+    },
+    {
       "title": "機器人開始索要小費，但錢到底進了誰的口袋？",
       "description": "自疫情以來，人們被索要小費的場合比以往任何時候都多，而且往往是由數字支付系統主動提示的。消費者抱怨這是一種「情感勒索」，而建議小費的百分比還在不斷攀升。儘管有些人嘲笑美國人「失控」的小費文化，但它正蔓延全球。\n",
       "link": "https://www.bbc.com/zhongwen/articles/cn5dx6gqxn9o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-06T02:02:19.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cn5dx6gqxn9o/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/93e5/live/60e82410-a837-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "title": "福島爭議升溫：阿根廷制裁附近油企，特朗普暗示未必協助英國",
-      "description": "美國總統特朗普說，英國「在我們與伊朗開戰時沒有出手幫忙」。他此前表示，若英國未能增加防務開支，美國可能會修改在福克蘭群島主權問題上的中立立場。",
-      "link": "https://www.bbc.com/zhongwen/articles/c89jgd5gn14o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-04T07:41:46.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c89jgd5gn14o/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df89/live/122137b0-a821-11f1-b109-879e35c24276.jpg"
     },
     {
       "title": "親俄宣傳網絡內幕：利用烏克蘭女性遭強姦的假消息作引流「誘餌」",
@@ -136,14 +144,6 @@
       "pubDate": "2026-09-04T08:09:11.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/clyk1degv1ro/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e5e3/live/e1398a40-a7c0-11f1-b5cf-8556ae508a51.jpg"
-    },
-    {
-      "title": "《肖申克的救贖》中國公映：官方字幕翻譯何以引發爭議？",
-      "description": "例如，同性戀（homosexual）譯成「不同的人」，queer 譯成「變態」，「make love under tree」（直譯應為「在樹下做愛」）譯成「許下終身」。",
-      "link": "https://www.bbc.com/zhongwen/articles/c5yd4361y6no/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-03T00:24:43.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5yd4361y6no/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/70e3/live/c7e7e070-a75f-11f1-8888-832c5829c86c.jpg"
     },
     {
       "title": "韓國光州雙年展: 中國退展，「台灣館」風波透露什麼？",
@@ -224,6 +224,14 @@
       "pubDate": "2026-07-29T11:14:21.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c3ekn91y5j5o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3b8e/live/23eaf6d0-8ade-11f1-b889-f97dd2fdd738.jpg"
+    },
+    {
+      "title": "《肖申克的救贖》中國公映：官方字幕翻譯何以引發爭議？",
+      "description": "例如，同性戀（homosexual）譯成「不同的人」，queer 譯成「變態」，「make love under tree」（直譯應為「在樹下做愛」）譯成「許下終身」。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5yd4361y6no/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-03T00:24:43.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5yd4361y6no/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/70e3/live/c7e7e070-a75f-11f1-8888-832c5829c86c.jpg"
     },
     {
       "title": "黃之鋒：從學運領袖到國安法囚犯，重獲自由未有期",
