@@ -1,21 +1,37 @@
 {
-  "updated": "2026-09-07T12:24:52.334Z",
+  "updated": "2026-09-07T17:53:59.480Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-09-07T12:24:38.000Z",
+    "lastBuildDate": "2026-09-07T17:53:49.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
     {
-      "title": "倫敦警察擬對在囚連環強姦犯鄒鎮豪起訴新罪",
+      "title": "從特朗普到中國，德國極右翼政黨州選獲勝意義在哪？",
+      "description": "BBC歐洲事務編輯卡緹雅·阿德勒認為，極右翼在薩克森—安哈特州獲勝，為歐盟及傳統政黨敲響了警鐘。",
+      "link": "https://www.bbc.com/zhongwen/articles/cddvzm721vpo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-07T14:36:09.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cddvzm721vpo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a6be/live/08c19210-aa82-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "title": "鄒鎮豪連環強姦案：警察報請英國檢察官考慮起訴新罪",
       "description": "鄒鎮豪被法院裁定在英國等地強姦10名女子罪名成立，但執法當局相信受害人數不止於此。",
       "link": "https://www.bbc.com/zhongwen/articles/cd9477z832wo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-07T09:55:09.000Z",
+      "pubDate": "2026-09-07T13:01:37.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cd9477z832wo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fac5/live/7de23be0-aa9a-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "title": "印尼火山爆發：機場延長關閉，逾34萬旅客滯留",
+      "description": "印尼喀拉喀托之子火山（Anak Krakatau）爆發，多個機場連續第二天停運，數以十萬計旅客滯留。該局警告火山「未來一段時間再次爆發的可能性仍然很高」。",
+      "link": "https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-07T16:37:47.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9193/live/bc786310-a9bf-11f1-a47c-49756d8d78ae.jpg"
     },
     {
       "title": "美國特使穿梭俄烏：雙方分歧未解 澤連斯基料戰事持續到冬季",
@@ -24,22 +40,6 @@
       "pubDate": "2026-09-07T07:07:52.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cly7z85pgpeo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d92f/live/db3104a0-aa7e-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "title": "印尼火山爆發，27萬旅客滯留機場",
-      "description": "印尼喀拉喀托之子火山（Anak Krakatau）爆發，多個機場連續第二天停運，約27萬名旅客滯留。該局警告火山「未來一段時間再次爆發的可能性仍然很高」。",
-      "link": "https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-07T07:03:11.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9193/live/bc786310-a9bf-11f1-a47c-49756d8d78ae.jpg"
-    },
-    {
-      "title": "氣候變暖如何影響你的飛行旅程？",
-      "description": "隨著氣候變遷的影響日益加劇，人們是否將不得不接受越來越多的延誤和改道？",
-      "link": "https://www.bbc.com/zhongwen/articles/c3057m5q127o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-07T06:39:29.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3057m5q127o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5b63/live/c35016e0-a872-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "title": "歐洲國家為何提走北美黃金儲備",
@@ -80,6 +80,14 @@
       "pubDate": "2026-08-30T12:37:59.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cnvl38dyyq0o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cb62/live/3f550e60-a46f-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "title": "氣候變暖如何影響你的飛行旅程？",
+      "description": "隨著氣候變遷的影響日益加劇，人們是否將不得不接受越來越多的延誤和改道？",
+      "link": "https://www.bbc.com/zhongwen/articles/c3057m5q127o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-07T06:39:29.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3057m5q127o/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5b63/live/c35016e0-a872-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "title": "女性「精神負擔」為何比男人大? 夫妻如何一同分擔？",
@@ -136,14 +144,6 @@
       "pubDate": "2026-09-04T01:39:26.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c87v19vx721o/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e1c5/live/4c29ec60-a626-11f1-b384-1f35d0eeee9d.jpg"
-    },
-    {
-      "title": "加拿大新鈔首印查爾斯國王肖像，為英國以外首例",
-      "description": "這張豎版紙幣上印有查爾斯三世國王的肖像，他是70多年來第一位出現在加拿大紙幣上的新君主。",
-      "link": "https://www.bbc.com/zhongwen/articles/clyk1degv1ro/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-04T08:09:11.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/clyk1degv1ro/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e5e3/live/e1398a40-a7c0-11f1-b5cf-8556ae508a51.jpg"
     },
     {
       "title": "韓國光州雙年展: 中國退展，「台灣館」風波透露什麼？",
