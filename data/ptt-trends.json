@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-10T09:38:11.259Z",
+  "updated": "2026-09-10T13:47:56.680Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "499",
-      "recommendCount": "962",
+      "recommendScore": "512",
+      "recommendCount": "997",
       "title": "[爆卦] 8月出生數7492人！",
       "link": "/bbs/Gossiping/M.1789005633.A.44A",
       "author": "cigxm",
@@ -14,18 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/IXmQDrm/s/f4c718eb81583c0645ddc5b9ff99258b"
     },
     {
-      "recommendScore": "328",
-      "recommendCount": "1087",
-      "title": "[新聞] 人口探底/台灣邁向「無子島」育兒大撒幣 孩子卻「血崩式」愈生愈少",
-      "link": "/bbs/Gossiping/M.1788993647.A.FFC",
-      "author": "ohfly",
-      "board": "Gossiping",
-      "publishTime": "2026/09/09 22:40",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "173",
-      "recommendCount": "993",
+      "recommendScore": "182",
+      "recommendCount": "1020",
       "title": "[新聞] 學者稱「副署權應制衡總統」卓榮泰批毫無道理：那閣揆馬上被換掉",
       "link": "/bbs/Gossiping/M.1788997497.A.4B7",
       "author": "james7923",
@@ -34,48 +24,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "372",
-      "recommendCount": "620",
-      "title": "[情報] 2330台積電8月營收 mom+10.1% yoy+53.3%",
-      "link": "/bbs/Stock/M.1789018403.A.A08",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2026/09/10 05:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "738",
-      "recommendCount": "1478",
-      "title": "[LIVE] Apple Event 2026",
-      "link": "/bbs/iOS/M.1788952633.A.233",
-      "author": "Annex",
-      "board": "iOS",
-      "publishTime": "2026/09/09 11:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "269",
-      "recommendCount": "560",
-      "title": "[新聞] 川普造勢又點名台灣！稱晶片早該課重稅「100%、200%都可以」",
-      "link": "/bbs/Stock/M.1789011526.A.284",
-      "author": "Kostolany",
-      "board": "Stock",
-      "publishTime": "2026/09/10 03:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "183",
-      "recommendCount": "652",
-      "title": "[新聞] 迎戰50年後人口減半！國發會祭3大處方：長靠出生、中靠升級、短靠「外」援",
-      "link": "/bbs/Gossiping/M.1788994376.A.BB5",
-      "author": "Joery1994",
+      "recommendScore": "334",
+      "recommendCount": "1104",
+      "title": "[新聞] 人口探底/台灣邁向「無子島」育兒大撒幣 孩子卻「血崩式」愈生愈少",
+      "link": "/bbs/Gossiping/M.1788993647.A.FFC",
+      "author": "ohfly",
       "board": "Gossiping",
-      "publishTime": "2026/09/09 22:52",
+      "publishTime": "2026/09/09 22:40",
       "imageUrl": ""
     },
     {
-      "recommendScore": "288",
-      "recommendCount": "590",
+      "recommendScore": "362",
+      "recommendCount": "741",
       "title": "[問卦] 為什麼2016~2026台灣人口雪崩式下滑？",
       "link": "/bbs/Gossiping/M.1789018493.A.71B",
       "author": "la1aco",
@@ -84,18 +44,48 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "759",
-      "title": "Re: [新聞] 政院不副署國會法案 胡佛研究所學者：理解政治動機 但公然違憲",
-      "link": "/bbs/Gossiping/M.1788947417.A.49E",
-      "author": "pipsqueak002",
-      "board": "Gossiping",
-      "publishTime": "2026/09/09 09:50",
+      "recommendScore": "392",
+      "recommendCount": "648",
+      "title": "[情報] 2330台積電8月營收 mom+10.1% yoy+53.3%",
+      "link": "/bbs/Stock/M.1789018403.A.A08",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2026/09/10 05:33",
       "imageUrl": ""
     },
     {
-      "recommendScore": "334",
-      "recommendCount": "615",
+      "recommendScore": "282",
+      "recommendCount": "589",
+      "title": "[新聞] 川普造勢又點名台灣！稱晶片早該課重稅「100%、200%都可以」",
+      "link": "/bbs/Stock/M.1789011526.A.284",
+      "author": "Kostolany",
+      "board": "Stock",
+      "publishTime": "2026/09/10 03:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "188",
+      "recommendCount": "667",
+      "title": "[新聞] 迎戰50年後人口減半！國發會祭3大處方：長靠出生、中靠升級、短靠「外」援",
+      "link": "/bbs/Gossiping/M.1788994376.A.BB5",
+      "author": "Joery1994",
+      "board": "Gossiping",
+      "publishTime": "2026/09/09 22:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "228",
+      "recommendCount": "700",
+      "title": "[問卦] 政府要怎麼做，大家才願意生小孩？",
+      "link": "/bbs/Gossiping/M.1789027048.A.FA9",
+      "author": "cigxm",
+      "board": "Gossiping",
+      "publishTime": "2026/09/10 07:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "340",
+      "recommendCount": "625",
       "title": "[新聞] 吉力吉撈・鞏冠衝突真相靠數據說話 4次觸身「0次來自悍將」",
       "link": "/bbs/Baseball/M.1789004335.A.7B0",
       "author": "micheal59",
@@ -104,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "213",
-      "recommendCount": "598",
+      "recommendScore": "218",
+      "recommendCount": "629",
       "title": "[問卦] 台灣35至39歲未婚比例47.6% 是誰的問題?",
       "link": "/bbs/Gossiping/M.1789006836.A.388",
       "author": "mark751019",
@@ -114,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "292",
-      "recommendCount": "573",
+      "recommendScore": "295",
+      "recommendCount": "578",
       "title": "[閒聊] 真的有人愛喝0卡可樂嗎",
       "link": "/bbs/C_Chat/M.1789007169.A.096",
       "author": "s7503228",
@@ -124,28 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "171",
-      "recommendCount": "494",
-      "title": "[新聞] 「把人拆了」電暈送中賣器官　嫌吹噓：做幾單就買豪宅、開法拉利",
-      "link": "/bbs/Gossiping/M.1788958199.A.9DA",
-      "author": "ayu5566",
-      "board": "Gossiping",
-      "publishTime": "2026/09/09 12:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "598",
-      "recommendCount": "1497",
-      "title": "[閒聊]2026/9/9任天堂Direct直播討論串",
-      "link": "/bbs/C_Chat/M.1788960039.A.411",
-      "author": "PealRay",
-      "board": "C_Chat",
-      "publishTime": "2026/09/09 13:20",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "185",
-      "recommendCount": "365",
+      "recommendScore": "190",
+      "recommendCount": "393",
       "title": "[問卦] 日本人：台灣出生率0.6 要滅亡了嗎？",
       "link": "/bbs/Gossiping/M.1789005104.A.6DD",
       "author": "beaver",
@@ -154,18 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "362",
-      "title": "[新聞] 國教署、廉政署、監察院接力查蔣得立 柳采葳轟：只對特定人積極",
-      "link": "/bbs/Gossiping/M.1788956750.A.977",
-      "author": "omanorboyo",
-      "board": "Gossiping",
-      "publishTime": "2026/09/09 12:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "160",
-      "recommendCount": "307",
+      "recommendScore": "171",
+      "recommendCount": "323",
       "title": "[新聞] 留言「殺賴清德全家」還罵垃圾總統　彰化男獲判無罪理由曝",
       "link": "/bbs/Gossiping/M.1789009661.A.3D3",
       "author": "seiya2000",
@@ -174,18 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "153",
-      "recommendCount": "328",
-      "title": "[閒聊] T1管理層：我們可以給選手最好的薪資待遇",
-      "link": "/bbs/LoL/M.1788947532.A.DF2",
-      "author": "keel90135",
-      "board": "LoL",
-      "publishTime": "2026/09/09 09:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "190",
-      "recommendCount": "330",
+      "recommendScore": "192",
+      "recommendCount": "332",
       "title": "[情報] iPhone 18 Pro / Duo 系列價格",
       "link": "/bbs/iOS/M.1788977927.A.F78",
       "author": "roman80010",
@@ -194,13 +144,63 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/IXmQDrm/s/f4c718eb81583c0645ddc5b9ff99258b"
     },
     {
-      "recommendScore": "192",
-      "recommendCount": "361",
+      "recommendScore": "194",
+      "recommendCount": "365",
       "title": "[分享] 台南Josh以數據探討昨日吉力吉撈的衝突",
       "link": "/bbs/Baseball/M.1788967304.A.ABE",
       "author": "WuSam",
       "board": "Baseball",
       "publishTime": "2026/09/09 15:21",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "200",
+      "recommendCount": "236",
+      "title": "[情報]張本勲 過世",
+      "link": "/bbs/Baseball/M.1789000941.A.000",
+      "author": "dragon803",
+      "board": "Baseball",
+      "publishTime": "2026/09/10 00:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "817",
+      "recommendCount": "1463",
+      "title": "[Live] 名古屋亞運 預賽 中華 VS 約旦",
+      "link": "/bbs/basketballTW/M.1789010855.A.EA5",
+      "author": "lb01833364",
+      "board": "basketballTW",
+      "publishTime": "2026/09/10 03:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "112",
+      "recommendCount": "280",
+      "title": "[新聞] 離職只剩23天卻撐不住！ 高雄地院書記官出事送醫急救",
+      "link": "/bbs/Gossiping/M.1789001173.A.A45",
+      "author": "zuvio",
+      "board": "Gossiping",
+      "publishTime": "2026/09/10 00:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "195",
+      "recommendCount": "204",
+      "title": "[情報] 卡比新作發錢",
+      "link": "/bbs/NSwitch/M.1788966154.A.57A",
+      "author": "sdtgfsrt",
+      "board": "NSwitch",
+      "publishTime": "2026/09/09 15:02",
+      "imageUrl": "https://cache.pttweb.cc/imgur/wpZ7OyO/s/8ec137b49d7fd090366c09ffea7c3fbb"
+    },
+    {
+      "recommendScore": "90",
+      "recommendCount": "278",
+      "title": "[新聞] 向外媒稱「台灣人覺得當兵浪費時間」？沈伯洋批扭曲原意：非常丟臉",
+      "link": "/bbs/Gossiping/M.1789033653.A.84E",
+      "author": "googolplex",
+      "board": "Gossiping",
+      "publishTime": "2026/09/10 09:47",
       "imageUrl": ""
     }
   ]
