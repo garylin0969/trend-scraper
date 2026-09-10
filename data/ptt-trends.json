@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-10T19:46:34.824Z",
+  "updated": "2026-09-10T21:57:35.139Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "514",
-      "recommendCount": "1004",
+      "recommendScore": "518",
+      "recommendCount": "1008",
       "title": "[爆卦] 8月出生數7492人！",
       "link": "/bbs/Gossiping/M.1789005633.A.44A",
       "author": "cigxm",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "334",
-      "recommendCount": "1113",
+      "recommendScore": "333",
+      "recommendCount": "1121",
       "title": "[新聞] 人口探底/台灣邁向「無子島」育兒大撒幣 孩子卻「血崩式」愈生愈少",
       "link": "/bbs/Gossiping/M.1788993647.A.FFC",
       "author": "ohfly",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "372",
-      "recommendCount": "767",
+      "recommendScore": "375",
+      "recommendCount": "771",
       "title": "[問卦] 為什麼2016~2026台灣人口雪崩式下滑？",
       "link": "/bbs/Gossiping/M.1789018493.A.71B",
       "author": "la1aco",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "395",
-      "recommendCount": "651",
+      "recommendCount": "652",
       "title": "[情報] 2330台積電8月營收 mom+10.1% yoy+53.3%",
       "link": "/bbs/Stock/M.1789018403.A.A08",
       "author": "DrowningPool",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "341",
-      "recommendCount": "626",
+      "recommendScore": "342",
+      "recommendCount": "627",
       "title": "[新聞] 吉力吉撈・鞏冠衝突真相靠數據說話 4次觸身「0次來自悍將」",
       "link": "/bbs/Baseball/M.1789004335.A.7B0",
       "author": "micheal59",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "172",
-      "recommendCount": "472",
+      "recommendScore": "183",
+      "recommendCount": "498",
       "title": "[問卦] 台灣是怎麼做到通膨只有2%的",
       "link": "/bbs/Gossiping/M.1789050418.A.D29",
       "author": "pmes9866",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "192",
-      "recommendCount": "398",
+      "recommendScore": "191",
+      "recommendCount": "399",
       "title": "[問卦] 日本人：台灣出生率0.6 要滅亡了嗎？",
       "link": "/bbs/Gossiping/M.1789005104.A.6DD",
       "author": "beaver",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "189",
-      "recommendCount": "324",
+      "recommendScore": "192",
+      "recommendCount": "328",
       "title": "[情報] 美國8月PPI年率 5.4%",
       "link": "/bbs/Stock/M.1789044697.A.B63",
       "author": "DAY1986",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "202",
-      "recommendCount": "239",
+      "recommendScore": "203",
+      "recommendCount": "240",
       "title": "[情報]張本勲 過世",
       "link": "/bbs/Baseball/M.1789000941.A.000",
       "author": "dragon803",
@@ -174,14 +174,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "113",
-      "recommendCount": "327",
+      "recommendScore": "115",
+      "recommendCount": "329",
       "title": "[新聞] 向外媒稱「台灣人覺得當兵浪費時間」？沈伯洋批扭曲原意：非常丟臉",
       "link": "/bbs/Gossiping/M.1789033653.A.84E",
       "author": "googolplex",
       "board": "Gossiping",
       "publishTime": "2026/09/10 09:47",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "166",
+      "recommendCount": "322",
+      "title": "[閒聊] X熱議：讓韓中日人們生氣的方法",
+      "link": "/bbs/C_Chat/M.1789027297.A.40A",
+      "author": "ClannadGood",
+      "board": "C_Chat",
+      "publishTime": "2026/09/10 08:01",
+      "imageUrl": "https://cache.pttweb.cc/imgur/rOBsvEk/s/28aca8814a8d03820b16e01e580cfc79"
     },
     {
       "recommendScore": "112",
@@ -191,16 +201,6 @@
       "author": "zuvio",
       "board": "Gossiping",
       "publishTime": "2026/09/10 00:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "105",
-      "recommendCount": "265",
-      "title": "[新聞] 年底選舉後換閣揆？民進黨團：如果大贏換人好奇怪",
-      "link": "/bbs/Gossiping/M.1789031906.A.F1C",
-      "author": "pttjordy",
-      "board": "Gossiping",
-      "publishTime": "2026/09/10 09:18",
       "imageUrl": ""
     }
   ]
