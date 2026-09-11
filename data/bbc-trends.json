@@ -1,21 +1,29 @@
 {
-  "updated": "2026-09-10T23:08:22.851Z",
+  "updated": "2026-09-11T01:02:30.615Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-09-10T23:08:15.000Z",
+    "lastBuildDate": "2026-09-11T01:02:22.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
     {
-      "title": "AI「性轉」視頻風靡中國網絡：一場「 新文化運動」的覺醒與侷限",
-      "description": "經典的「好太太」系列廣告以「好丈夫」的形象重出江湖：鏡頭前穿著清涼的不再是女性,而是男性。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn74d8mr640o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-10T00:14:34.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn74d8mr640o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c36d/live/87f5c790-aaff-11f1-a291-b542ee92de7c.jpg"
+      "title": "「無時無刻都在想」：911事件25年後審訊仍未了，遇難者家屬傷痛難癒",
+      "description": "四分之一個世紀過去了，被指策劃這場襲擊的主謀審訊仍未展開，遇難者家屬擔心，等待正義的時間已經所剩不多。",
+      "link": "https://www.bbc.com/zhongwen/articles/ckgwygp9nero/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-11T00:22:53.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckgwygp9nero/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e4b4/live/02617840-ac1c-11f1-a291-b542ee92de7c.png"
+    },
+    {
+      "title": "911事件25週年：震驚世界的襲擊如何發生，造成多少人死亡？",
+      "description": "2001年的襲擊造成數千名美國人喪生，並對全球產生了深遠影響。",
+      "link": "https://www.bbc.com/zhongwen/articles/ced7g3qpyyjo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-10T00:14:46.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ced7g3qpyyjo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/458e/live/d39357e0-8d59-11f0-89c5-f9c523ebae74.jpg"
     },
     {
       "title": "青島北海造船廠外籍貨輪大火 失聯25人已確定全部死亡",
@@ -34,20 +42,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1821/live/eca3b0d0-acfd-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "title": "蘋果摺疊式iPhone：新任掌舵人的豪賭，能轉化為實質銷量嗎？",
-      "description": "新款iPhone採用書本式的折疊設計，命名為Duo，是歷來最大尺寸的版本，也是最貴的型號。",
-      "link": "https://www.bbc.com/zhongwen/articles/cwyzp5561n2o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-10T05:37:21.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwyzp5561n2o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/569e/live/3eec7030-ac80-11f1-994b-c7df927931ed.png"
-    },
-    {
-      "title": "911事件25週年：震驚世界的襲擊如何發生，造成多少人死亡？",
-      "description": "2001年的襲擊造成數千名美國人喪生，並對全球產生了深遠影響。",
-      "link": "https://www.bbc.com/zhongwen/articles/ced7g3qpyyjo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-10T00:14:46.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ced7g3qpyyjo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/458e/live/d39357e0-8d59-11f0-89c5-f9c523ebae74.jpg"
+      "title": "AI「性轉」視頻風靡中國網絡：一場「 新文化運動」的覺醒與侷限",
+      "description": "經典的「好太太」系列廣告以「好丈夫」的形象重出江湖：鏡頭前穿著清涼的不再是女性,而是男性。",
+      "link": "https://www.bbc.com/zhongwen/articles/cn74d8mr640o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-10T00:14:34.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn74d8mr640o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c36d/live/87f5c790-aaff-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "title": "尼泊爾給水力發電押下重注，泥石流把問題徹底暴露",
