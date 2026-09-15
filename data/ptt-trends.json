@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-15T21:54:41.899Z",
+  "updated": "2026-09-15T23:57:14.703Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "611",
-      "recommendCount": "1095",
+      "recommendScore": "621",
+      "recommendCount": "1111",
       "title": "[新聞] 國際認證！台灣司法獨立「沒長進還開倒車」　與印度等4國同等級",
       "link": "/bbs/Gossiping/M.1789459347.A.431",
       "author": "keel90135",
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/Ng8kF43/s/0d2ea365ee399198ac20c25c6b9cda85"
     },
     {
-      "recommendScore": "410",
-      "recommendCount": "1307",
+      "recommendScore": "412",
+      "recommendCount": "1309",
       "title": "[新聞] 打毒打詐監所爆滿 法務部長：已修法罰金分期延長 下令檢察長「少關人」",
       "link": "/bbs/Gossiping/M.1789439959.A.8E6",
       "author": "a828215362",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "346",
-      "recommendCount": "427",
+      "recommendScore": "347",
+      "recommendCount": "429",
       "title": "[分享] 樂天桃猿球團公告-莊昕諺傷勢狀況",
       "link": "/bbs/Baseball/M.1789448140.A.640",
       "author": "wewe0403",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "191",
-      "recommendCount": "504",
+      "recommendScore": "192",
+      "recommendCount": "505",
       "title": "[問卦] 台灣什麼時候開始變這麼對立的？",
       "link": "/bbs/Gossiping/M.1789453387.A.7A7",
       "author": "Ruhaha",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "218",
-      "recommendCount": "416",
+      "recommendScore": "220",
+      "recommendCount": "418",
       "title": "[新聞] 高雄「水炸彈」多人爆皮膚過敏、蕁麻疹！衛生局：聯繫主辦釐清",
       "link": "/bbs/Gossiping/M.1789448254.A.8A5",
       "author": "kmter5566",
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "205",
+      "recommendCount": "389",
+      "title": "[新聞] 最新／黑人陳建州驚傳突發心肌梗塞倒下！最新病情曝光了",
+      "link": "/bbs/Gossiping/M.1789478973.A.051",
+      "author": "AoyamaNanami",
+      "board": "Gossiping",
+      "publishTime": "2026/09/15 13:29",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "274",
       "recommendCount": "360",
       "title": "[閒聊] 讓你記住整部遊戲的一句台詞",
@@ -82,16 +92,6 @@
       "board": "C_Chat",
       "publishTime": "2026/09/15 04:11",
       "imageUrl": "https://cache.pttweb.cc/imgur/Ng8kF43/s/0d2ea365ee399198ac20c25c6b9cda85"
-    },
-    {
-      "recommendScore": "199",
-      "recommendCount": "379",
-      "title": "[新聞] 最新／黑人陳建州驚傳突發心肌梗塞倒下！最新病情曝光了",
-      "link": "/bbs/Gossiping/M.1789478973.A.051",
-      "author": "AoyamaNanami",
-      "board": "Gossiping",
-      "publishTime": "2026/09/15 13:29",
-      "imageUrl": ""
     },
     {
       "recommendScore": "172",
@@ -104,24 +104,34 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/a43gvDO/s/63ac79a5483c927b79ff9809c379c1b3"
     },
     {
-      "recommendScore": "181",
-      "recommendCount": "586",
-      "title": "Re: [問卦] 中山商圈倒閉潮？",
-      "link": "/bbs/Gossiping/M.1789424180.A.689",
-      "author": "ohfly",
-      "board": "Gossiping",
-      "publishTime": "2026/09/14 22:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "155",
-      "recommendCount": "530",
+      "recommendScore": "158",
+      "recommendCount": "533",
       "title": "[新聞] 運動部劃紅線！明文禁止台灣人代表中國出",
       "link": "/bbs/Gossiping/M.1789460855.A.6C7",
       "author": "godshibainu",
       "board": "Gossiping",
       "publishTime": "2026/09/15 08:27",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "113",
+      "recommendCount": "322",
+      "title": "[新聞] 沈伯洋公館夜市掃街！ 支持者怒吼：我們都是自己來的啦",
+      "link": "/bbs/Gossiping/M.1789477207.A.A6C",
+      "author": "emuless",
+      "board": "Gossiping",
+      "publishTime": "2026/09/15 13:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "144",
+      "recommendCount": "295",
+      "title": "[問卦] 靠杯公館怎麼人山人海 發生什麼事",
+      "link": "/bbs/Gossiping/M.1789472667.A.B89",
+      "author": "renna038766",
+      "board": "Gossiping",
+      "publishTime": "2026/09/15 11:44",
+      "imageUrl": "https://cache.pttweb.cc/imgur/8lOyILT/s/96a4b093a33583629cb9986c4479ed59"
     },
     {
       "recommendScore": "193",
@@ -134,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "227",
-      "recommendCount": "286",
+      "recommendScore": "230",
+      "recommendCount": "289",
       "title": "[新聞] 漢測（7856）抽籤38萬人搶1048張！中籤率僅0.2724％  8656億元資金遭凍結",
       "link": "/bbs/Stock/M.1789465553.A.419",
       "author": "largan6075",
@@ -145,17 +155,7 @@
     },
     {
       "recommendScore": "141",
-      "recommendCount": "290",
-      "title": "[問卦] 靠杯公館怎麼人山人海 發生什麼事",
-      "link": "/bbs/Gossiping/M.1789472667.A.B89",
-      "author": "renna038766",
-      "board": "Gossiping",
-      "publishTime": "2026/09/15 11:44",
-      "imageUrl": "https://cache.pttweb.cc/imgur/8lOyILT/s/96a4b093a33583629cb9986c4479ed59"
-    },
-    {
-      "recommendScore": "140",
-      "recommendCount": "286",
+      "recommendCount": "287",
       "title": "[新聞] 罕同框！賴清德主動盛魚　蔡英文竟「秒蓋碗拒絕」現場畫面流出",
       "link": "/bbs/Gossiping/M.1789444223.A.789",
       "author": "STAV72",
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "145",
-      "recommendCount": "432",
-      "title": "[問卦] 鬼島 國旅住宿，活該7414吧= =",
-      "link": "/bbs/Gossiping/M.1789425703.A.FCB",
-      "author": "k44754",
-      "board": "Gossiping",
-      "publishTime": "2026/09/14 22:41",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "143",
       "recommendCount": "329",
       "title": "[新聞] 頂大碩士、身高184！39歲公務員當21次伴郎仍單身 媒人公曝關鍵",
@@ -201,6 +191,16 @@
       "author": "cl3bp6",
       "board": "Gossiping",
       "publishTime": "2026/09/15 08:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "130",
+      "recommendCount": "344",
+      "title": "[新聞] 台積電工程師帶女同事買CK內褲 未婚妻怒曝「超激抓猴影片」",
+      "link": "/bbs/Gossiping/M.1789452989.A.C83",
+      "author": "master56",
+      "board": "Gossiping",
+      "publishTime": "2026/09/15 06:16",
       "imageUrl": ""
     }
   ]
