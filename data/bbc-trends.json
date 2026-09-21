@@ -1,19 +1,27 @@
 {
-  "updated": "2026-09-21T07:09:12.672Z",
+  "updated": "2026-09-21T14:03:56.278Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-09-21T07:09:06.000Z",
+    "lastBuildDate": "2026-09-21T14:03:43.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
     {
-      "title": "Nvidia 執行長黃仁勳：AI滅絕人類說法，稱其為「末日敘事」",
+      "title": "中共五中全會日期敲定 習近平政治地位新提法成看點",
+      "description": "習近平執政後的兩次六中全會，均對其政治地位作出逐層遞進的確認。本屆五中全會同樣是黨建議題，會否出現新的提法，將是全會最值得觀察的看點。",
+      "link": "https://www.bbc.com/zhongwen/articles/c6vgyzdjzl9ko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-21T08:49:32.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c6vgyzdjzl9ko/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9972/live/29a84e10-b590-11f1-a6d4-5bd51477682a.jpg"
+    },
+    {
+      "title": "Nvidia執行長黃仁勳駁「AI滅絕人類」憂慮：是「末日敘事」",
       "description": "黃仁勳發表此番言論前，已有人工智能研究人員警告，這項技術可能導致人類滅絕。",
       "link": "https://www.bbc.com/zhongwen/articles/cv5yjx7n85rjo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-21T05:47:51.000Z",
+      "pubDate": "2026-09-21T07:31:24.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cv5yjx7n85rjo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ba1f/live/38ae4b30-b54a-11f1-a718-f1288d239f82.jpg"
     },
@@ -24,6 +32,14 @@
       "pubDate": "2026-09-21T06:22:19.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c6x2z19dgqn5o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8aa3/live/ce27ab50-b029-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "title": "中國與巴基斯坦新邊界安排為何引起印度不滿？",
+      "description": "中巴邊界協議挑戰印度的領土主張，也加深了印度對喀什米爾爭議地區的戰略憂慮。",
+      "link": "https://www.bbc.com/zhongwen/articles/c83v4236470lo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-21T10:22:47.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c83v4236470lo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d2fc/live/3d0b2790-b548-11f1-824d-bf0feba51094.jpg"
     },
     {
       "title": "特朗普據報將赴機場迎接習近平，待遇比肩教宗和赫魯曉夫",
@@ -38,7 +54,7 @@
       "description": "莫斯科市長稱，在夜間的襲擊中，有 450 架無人機被擊落，造成兩人死亡。",
       "link": "https://www.bbc.com/zhongwen/articles/ck0j32p3el72o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-21T00:10:13.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ck0j32p3el72o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/ck0j32p3el72o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/15c3/live/41153930-b4bb-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
@@ -46,7 +62,7 @@
       "description": "香港回歸後首任行政長官董建華周日（9月20日）在香港舉行公祭及出殯儀式。中國國家主席習近平和多名中共政治局常委以不同形式致哀，但並未親自出席。作為首位離世的香港特首，董建華獲得的國家級治喪安排不僅是對其個人政治生涯的評價，也為未來香港前特首的身後禮遇樹立先例。",
       "link": "https://www.bbc.com/zhongwen/articles/cky9z175jgdlo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-20T11:21:43.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cky9z175jgdlo/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cky9z175jgdlo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5c9d/live/582d7c20-b4cc-11f1-a3e9-194b7de0b4b7.jpg"
     },
     {
@@ -74,14 +90,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7d00/live/0b600d90-b33c-11f1-910c-69bc1dc40919.jpg"
     },
     {
-      "title": "澳洲收緊移民政策：管制留學生、背包客，打擊「簽證跳轉」",
-      "description": "澳洲政府希望在2028年前，將海外淨移民人數降至22.5萬人。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx24jdd1j59po/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-18T05:15:07.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx24jdd1j59po/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/afea/live/5a3af4c0-b31e-11f1-a4e6-7d47c873e4d3.jpg"
-    },
-    {
       "title": "Hyrox失禁風波：澳洲選手道歉、主辦方承諾退款",
       "description": "Hyrox已更新賽例，明文規定若參賽者的「血液、嘔吐物、尿液或糞便」構成健康風險，可被要求退賽。",
       "link": "https://www.bbc.com/zhongwen/articles/cq3d7zld42m0o/trad?at_medium=RSS&at_campaign=rss",
@@ -106,12 +114,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4317/live/97f51f30-b214-11f1-95f2-19e1a2e8eef2.jpg"
     },
     {
-      "title": "美中峰會前，蕭美琴訪歐背後的「利基」外交",
-      "description": "但在這樣的空間中，仍浮現出一條外交路徑：交往對象既不是一個主權國家，而是一個國際組織（即歐盟）；同時也不是其行政分支，而是其立法分支（歐洲議會）。這一雙重錯位，可以找到一個不容易受到中國壓力的外交場域。",
-      "link": "https://www.bbc.com/zhongwen/articles/cqn4k00yrpgxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-17T00:17:16.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cqn4k00yrpgxo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c871/live/eb4a0d40-b22c-11f1-8366-69bd8e92a4f2.jpg"
+      "title": "戴安娜弟弟出書談王室 查爾斯曾稱她「很快會被遺忘」",
+      "description": "戴安娜王妃逝世近30年之際，她的弟弟史賓賽伯爵出版新書，重提姐姐去世後的王室事件。他聲稱，時任王儲查爾斯曾認為戴安娜很快會被世人遺忘，但這項說法遭到王室否認。",
+      "link": "https://www.bbc.com/zhongwen/articles/c80462gvk1k0o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-21T10:03:53.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c80462gvk1k0o/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2503/live/da9dee10-b58f-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "title": "對台軍售成「特習會」談判籌碼？北京警告或取消峰會施壓特朗普",
@@ -146,12 +154,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/89b5/live/ec1c8e50-ade0-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "title": "為甚麼我們會記錯911事件？",
-      "description": "記憶可能是錯的？911事件發生後，大部分人也許能清楚記得自己當時身在何處，以及是如何得知這消息。其他重大新聞事件也有類似的鮮明記憶。",
-      "link": "https://www.bbc.com/zhongwen/articles/c74e03x93l7o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-11T05:31:27.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c74e03x93l7o/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1bf4/live/e2e144f0-ada1-11f1-bc1f-3f186ca4140c.jpg"
+      "title": "美中峰會前，蕭美琴訪歐背後的「利基」外交",
+      "description": "但在這樣的空間中，仍浮現出一條外交路徑：交往對象既不是一個主權國家，而是一個國際組織（即歐盟）；同時也不是其行政分支，而是其立法分支（歐洲議會）。這一雙重錯位，可以找到一個不容易受到中國壓力的外交場域。",
+      "link": "https://www.bbc.com/zhongwen/articles/cqn4k00yrpgxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-17T00:17:16.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cqn4k00yrpgxo/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c871/live/eb4a0d40-b22c-11f1-8366-69bd8e92a4f2.jpg"
     },
     {
       "title": "當白宮舉行宴會時，台灣會出現在「菜單」上嗎？",
