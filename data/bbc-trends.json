@@ -1,21 +1,29 @@
 {
-  "updated": "2026-09-21T01:39:55.454Z",
+  "updated": "2026-09-21T07:09:12.672Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-09-21T01:39:45.000Z",
+    "lastBuildDate": "2026-09-21T07:09:06.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
     {
-      "title": "特朗普稱美國將組建「人工智能部隊」並任命「AI沙皇」",
-      "description": "儘管有人警告這項新興技術存在風險，但總統表示，他的政府「絕不會以任何方式阻礙或扼殺其發展」。",
-      "link": "https://www.bbc.com/zhongwen/articles/ck5yw8p8jy4zo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-21T00:09:56.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ck5yw8p8jy4zo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg"
+      "title": "Nvidia 執行長黃仁勳：AI滅絕人類說法，稱其為「末日敘事」",
+      "description": "黃仁勳發表此番言論前，已有人工智能研究人員警告，這項技術可能導致人類滅絕。",
+      "link": "https://www.bbc.com/zhongwen/articles/cv5yjx7n85rjo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-21T05:47:51.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cv5yjx7n85rjo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ba1f/live/38ae4b30-b54a-11f1-a718-f1288d239f82.jpg"
+    },
+    {
+      "title": "他們聯手追查校長性侵指控，也在追尋公義的路上成為夫妻",
+      "description": "學生們花了多年蒐集證據，指控他們在印尼的校長，其後兩名學生墮入愛河並結為夫妻。",
+      "link": "https://www.bbc.com/zhongwen/articles/c6x2z19dgqn5o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-21T06:22:19.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c6x2z19dgqn5o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8aa3/live/ce27ab50-b029-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "title": "特朗普據報將赴機場迎接習近平，待遇比肩教宗和赫魯曉夫",
@@ -42,11 +50,19 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5c9d/live/582d7c20-b4cc-11f1-a3e9-194b7de0b4b7.jpg"
     },
     {
+      "title": "特朗普稱美國將組建「人工智能部隊」並任命「AI沙皇」",
+      "description": "儘管有人警告這項新興技術存在風險，但總統表示，他的政府「絕不會以任何方式阻礙或扼殺其發展」。",
+      "link": "https://www.bbc.com/zhongwen/articles/ck5yw8p8jy4zo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-21T00:09:56.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ck5yw8p8jy4zo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg"
+    },
+    {
       "title": "聯合國專家：有理由相信美國在伊朗襲擊行動中犯下戰爭罪",
       "description": "美國並未承認曾發動今年2月造成重大傷亡的襲擊，目標包括米納卜（Minab）一所小學及拉梅爾德（Lamerd）一個體育綜合設施。",
       "link": "https://www.bbc.com/zhongwen/articles/cwq63qj0119go/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-20T03:05:30.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwq63qj0119go/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwq63qj0119go/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/299b/live/f9fe6fb0-b49e-11f1-a88c-9b45413b5801.jpg"
     },
     {
@@ -96,22 +112,6 @@
       "pubDate": "2026-09-17T00:17:16.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cqn4k00yrpgxo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c871/live/eb4a0d40-b22c-11f1-8366-69bd8e92a4f2.jpg"
-    },
-    {
-      "title": "香港施政報告與「一五」同步公佈 聚焦北部都會區、國安與鼓勵生育",
-      "description": "有評論形容，香港制訂五年規劃是「範式轉移」，意味著「從西方式資本主義市場經濟，改為接上中國特色社會主義市場經濟。」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cm207gqz55r0o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-16T13:36:44.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm207gqz55r0o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8640/live/fac2b970-b1d2-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-      "title": "「我接受了11年化療，卻發現從未患癌」",
-      "description": "貝姬·瓊斯（Becky Jones）21歲被告知患有末期腦癌，接受了長達11年的化療，近期才發現根本不是癌症。和她有類似經歷的，還有同一間醫院的另外40多名病患。",
-      "link": "https://www.bbc.com/zhongwen/articles/cm62eve2y6xeo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-16T00:18:50.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm62eve2y6xeo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d40/live/fd679f40-ad33-11f1-9bc8-3509bd1a4ead.jpg"
     },
     {
       "title": "對台軍售成「特習會」談判籌碼？北京警告或取消峰會施壓特朗普",
@@ -282,6 +282,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/25bb/live/7b07e5c0-b27c-11f1-94d0-89db86965db8.jpg"
     },
     {
+      "title": "「我接受了11年化療，卻發現從未患癌」",
+      "description": "貝姬·瓊斯（Becky Jones）21歲被告知患有末期腦癌，接受了長達11年的化療，近期才發現根本不是癌症。和她有類似經歷的，還有同一間醫院的另外40多名病患。",
+      "link": "https://www.bbc.com/zhongwen/articles/cm62eve2y6xeo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-16T00:18:50.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cm62eve2y6xeo/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d40/live/fd679f40-ad33-11f1-9bc8-3509bd1a4ead.jpg"
+    },
+    {
       "title": "協助死亡：世界各地法律有何不同",
       "description": "全球約有4億人可以獲得某種形式的協助死亡（安樂死）服務，這些國家的政策都是怎樣的？",
       "link": "https://www.bbc.com/zhongwen/articles/c0lr7lx49l8o/trad?at_medium=RSS&at_campaign=rss",
@@ -296,14 +304,6 @@
       "pubDate": "2026-09-15T15:23:06.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cmvgyn5gywz1o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c33f/live/53e5a0d0-b00c-11f1-bc1f-3f186ca4140c.jpg"
-    },
-    {
-      "title": "多熱才算太熱？牛津大學研究警告滾燙飲品可增加患癌風險",
-      "description": "專家表示，滾燙的液體在進入胃部途中，可能損害食道內壁的細胞。",
-      "link": "https://www.bbc.com/zhongwen/articles/cjw595dw233o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-13T08:19:51.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cjw595dw233o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/084d/live/b7fa65b0-af49-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "title": "女性比男性更擅長耐力跑嗎？",
