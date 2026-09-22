@@ -1,14 +1,30 @@
 {
-  "updated": "2026-09-22T06:46:39.385Z",
+  "updated": "2026-09-22T12:34:30.862Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-09-22T06:46:34.000Z",
+    "lastBuildDate": "2026-09-22T12:34:18.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "香港提出「人民幣支付政府開支」為何引發「去美元化」憂慮？",
+      "description": "有經濟學者對BBC中文指出，港府希望建立「示範作用」，未來甚至「可能連收稅都收人民幣」，增加其他國家在香港使用人民幣買賣黃金、投資股票的信心。",
+      "link": "https://www.bbc.com/zhongwen/articles/c65y501pjww4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-22T01:42:30.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c65y501pjww4o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2882/live/94072490-b624-11f1-b7d1-4dd4889e8b44.jpg"
+    },
+    {
+      "title": "「雙休購」的爆紅與下架:一個網購平台如何撬動中國勞工權益討論",
+      "description": "提倡雙休的民間自發平台「雙休購」曇花一現後快速被下架，中國打工人開始在社交媒體上要求雙休正當權利。學者指這樣的消費抵制是正向的發展。",
+      "link": "https://www.bbc.com/zhongwen/articles/cr9dw3z7v01yo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-22T10:03:59.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cr9dw3z7v01yo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e45b/live/895c3240-b66c-11f1-b711-df5e4d50c2fd.jpg"
+    },
     {
       "title": "從年輕縣官到國家主席：習近平41年來的訪美影像",
       "description": "習近平即將到訪美國會晤特朗普（川普），這將是他歷來第11次以中國官方身份訪美。從31歲縣委書記到中國國家主席，BBC中文透過歷年照片，回顧他的訪美行程如何隨身份和中美關係變化。",
@@ -26,28 +42,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c5b8/live/fd47ee80-b5d4-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "title": "香港提出「用人民幣支付政府開支」，為何引發「去美元化」憂慮？",
-      "description": "有經濟學者對BBC中文指出，港府希望建立「示範作用」，未來甚至「可能連收稅都收人民幣」，增加其他國家在香港使用人民幣買賣黃金、投資股票的信心。",
-      "link": "https://www.bbc.com/zhongwen/articles/c65y501pjww4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-22T01:42:30.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c65y501pjww4o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2882/live/94072490-b624-11f1-b7d1-4dd4889e8b44.jpg"
+      "title": "CNN 等三家美國媒體被禁入白宮後 起訴特朗普政府",
+      "description": "隨後，當川普前往紐約參加聯合國峰會時，美國各大電視網暫停了白宮的電視轉播。",
+      "link": "https://www.bbc.com/zhongwen/articles/cjp30pv25xd7o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-22T06:52:50.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cjp30pv25xd7o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5aa1/live/5ce86ed0-b60e-11f1-a054-8fb9a369004b.jpg"
     },
     {
       "title": "中共五中全會日期敲定 習近平政治地位新提法成看點",
       "description": "習近平執政後的兩次六中全會，均對其政治地位作出逐層遞進的確認。本屆五中全會同樣是黨建議題，會否出現新的提法，將是全會最值得觀察的看點。",
       "link": "https://www.bbc.com/zhongwen/articles/c6vgyzdjzl9ko/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-21T08:49:32.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c6vgyzdjzl9ko/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/c6vgyzdjzl9ko/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9972/live/29a84e10-b590-11f1-a6d4-5bd51477682a.jpg"
-    },
-    {
-      "title": "Nvidia執行長黃仁勳駁「AI滅絕人類」憂慮：是「末日敘事」",
-      "description": "黃仁勳發表此番言論前，已有人工智能研究人員警告，這項技術可能導致人類滅絕。",
-      "link": "https://www.bbc.com/zhongwen/articles/cv5yjx7n85rjo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-21T07:31:24.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cv5yjx7n85rjo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ba1f/live/38ae4b30-b54a-11f1-a718-f1288d239f82.jpg"
     },
     {
       "title": "特朗普據報將赴機場迎接習近平，待遇比肩教宗和赫魯曉夫",
@@ -104,14 +112,6 @@
       "pubDate": "2026-09-18T09:24:15.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ckwyzg2v80elo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7d00/live/0b600d90-b33c-11f1-910c-69bc1dc40919.jpg"
-    },
-    {
-      "title": "美國科技巨頭呼籲放緩AI發展速度——中國怎麼看？",
-      "description": "隨著人工智能以驚人的速度發展，一些業內最傑出的領導者已經警告了它可能帶來的潛在風險。然而，世界兩大人工智能超級大國——中美之間的激烈競爭，可能會讓應對這項威脅的努力變得更加複雜。\n",
-      "link": "https://www.bbc.com/zhongwen/articles/c8y5z7y521eeo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-18T01:08:10.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c8y5z7y521eeo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e5ae/live/f4c8ad20-b2ab-11f1-819c-176371125270.jpg"
     },
     {
       "title": "戴安娜弟弟出書談王室 查爾斯曾稱她「很快會被遺忘」",
