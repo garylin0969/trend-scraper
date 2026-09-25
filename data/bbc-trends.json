@@ -1,14 +1,22 @@
 {
-  "updated": "2026-09-24T21:47:54.196Z",
+  "updated": "2026-09-25T00:32:00.973Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-09-24T21:47:48.000Z",
+    "lastBuildDate": "2026-09-25T00:31:51.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "習近平訪美排場十足，但迄今進展甚微",
+      "description": "有分析人士表示，峰會至今主要着眼於營造「正面氣氛」，但仍有多項迫切議題有待討論。",
+      "link": "https://www.bbc.com/zhongwen/articles/cqpvew870ezko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-24T23:51:17.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cqpvew870ezko/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/16ba/live/5491a2f0-b849-11f1-bc1f-3f186ca4140c.jpg"
+    },
     {
       "title": "特朗普為何親赴機場，超規格接待習近平？",
       "description": "這是習近平時隔11年再次國事訪問美國。更是相隔64年，再有美國總統親自迎接他國元首到訪。有學者向BBC中文分析特朗普的舉動，既是在與中方「做生意打交道」；也是在向美國民眾展示自己的能力。\n",
@@ -26,14 +34,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/49cd/live/2116e930-b7d6-11f1-9c18-37db5ed60d12.jpg"
     },
     {
-      "title": "習近平抵美，特朗普罕有接機——中美外交禮賓慣例解讀",
-      "description": "美國總統親赴機場迎接外國元首極為罕見。若不計教宗訪美的特例，這將是超過 60 年來美國總統首次以這種方式迎接他國元首。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx980mjemv73o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-23T23:46:37.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx980mjemv73o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/72a3/live/5843c0a0-b7a8-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
       "title": "OpenAI智能體入侵澳洲政府網站竊取資料 官方兩月後才發覺 ",
       "description": "OpenAI在事發後兩個月才察覺事件，並遲至本月中，才用一般電郵的方式通知澳洲政府。澳洲政府形容事件令人震驚，批評OpenAI的處理手法「不可接受」。",
       "link": "https://www.bbc.com/zhongwen/articles/cq39me0emplyo/trad?at_medium=RSS&at_campaign=rss",
@@ -42,12 +42,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bc46/live/db50c320-b7db-11f1-9329-25fd53239d64.jpg"
     },
     {
-      "title": "俄羅斯佔領烏克蘭城市：居民靠院中野菜維生，死者無法下葬，遺體「棄置街頭」",
-      "description": "BBC採訪了遭俄羅斯佔領的烏克蘭城鎮奧列什基居民，他們表示自己正「持續不斷遭受炮擊」。",
-      "link": "https://www.bbc.com/zhongwen/articles/c6zjzl7gl9ero/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-24T03:56:37.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c6zjzl7gl9ero/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3671/live/a0279100-b76a-11f1-a7b2-f3bdba1cd194.jpg"
+      "title": "「讓女性感到被看見」：為何荷蘭人為陰唇創造了一個新詞？",
+      "description": "倡議人士希望，這些新詞語能減少對身體的羞辱，並推動更正向的性觀念。",
+      "link": "https://www.bbc.com/zhongwen/articles/cqx2z782j7y7o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-25T00:03:23.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cqx2z782j7y7o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3b5f/live/11ea22b0-b736-11f1-aa9c-3d062fa3aea7.jpg"
     },
     {
       "title": "特朗普迎接習近平開展對美國事訪問 貝森特宣佈兩國貿易戰繼續「停火」",
@@ -80,6 +80,14 @@
       "pubDate": "2026-09-22T14:36:55.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c9zrz24j8pdvo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9542/live/762ecd10-b5b6-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
+      "title": "俄羅斯佔領烏克蘭城市：居民靠院中野菜維生，死者無法下葬，遺體「棄置街頭」",
+      "description": "BBC採訪了遭俄羅斯佔領的烏克蘭城鎮奧列什基居民，他們表示自己正「持續不斷遭受炮擊」。",
+      "link": "https://www.bbc.com/zhongwen/articles/c6zjzl7gl9ero/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-24T03:56:37.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c6zjzl7gl9ero/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3671/live/a0279100-b76a-11f1-a7b2-f3bdba1cd194.jpg"
     },
     {
       "title": "特朗普與習近平會面在即，中國的AI雄心正在烏蘭察布高歌猛進",
@@ -138,14 +146,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e45b/live/895c3240-b66c-11f1-b711-df5e4d50c2fd.jpg"
     },
     {
-      "title": "香港提出「人民幣支付政府開支」為何引發「去美元化」憂慮？",
-      "description": "有經濟學者對BBC中文指出，港府希望建立「示範作用」，未來甚至「可能連收稅都收人民幣」，增加其他國家在香港使用人民幣買賣黃金、投資股票的信心。",
-      "link": "https://www.bbc.com/zhongwen/articles/c65y501pjww4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-23T03:20:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c65y501pjww4o/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2882/live/94072490-b624-11f1-b7d1-4dd4889e8b44.jpg"
-    },
-    {
       "title": "習近平訪美晤特朗普：中美競賽誰領先？美國民眾怎麼看",
       "description": "「特習會2.0」即將登場，此時中美競爭白熱化、亦敵亦友，美國民眾認為誰正在領先？BBC中文走訪紐約街頭，聽聽他們最期待兩位元首討論哪些議題？美國大眾眼中的習近平與特朗普又是如何？",
       "link": "https://www.bbc.com/zhongwen/articles/ckddvj0jy3zgo/trad?at_medium=RSS&at_campaign=rss",
@@ -186,6 +186,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fa7c/live/2eed40d0-b1ba-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
+      "title": "習近平抵美，特朗普罕有接機——中美外交禮賓慣例解讀",
+      "description": "美國總統親赴機場迎接外國元首極為罕見。若不計教宗訪美的特例，這將是超過 60 年來美國總統首次以這種方式迎接他國元首。",
+      "link": "https://www.bbc.com/zhongwen/articles/cx980mjemv73o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-23T23:46:37.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx980mjemv73o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/72a3/live/5843c0a0-b7a8-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
       "title": "美中峰會前，蕭美琴訪歐背後的「利基」外交",
       "description": "但在這樣的空間中，仍浮現出一條外交路徑：交往對象既不是一個主權國家，而是一個國際組織（即歐盟）；同時也不是其行政分支，而是其立法分支（歐洲議會）。這一雙重錯位，可以找到一個不容易受到中國壓力的外交場域。",
       "link": "https://www.bbc.com/zhongwen/articles/cqn4k00yrpgxo/trad?at_medium=RSS&at_campaign=rss",
@@ -200,14 +208,6 @@
       "pubDate": "2026-09-18T00:19:45.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cq62j7my13l3o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a7fa/live/7db53200-b2a9-11f1-819c-176371125270.jpg"
-    },
-    {
-      "title": "美國能在外太空部署哪些武器？",
-      "description": "美國的宣佈顯示，地球軌道上的嶄新現代戰爭領域正在發展。",
-      "link": "https://www.bbc.com/zhongwen/articles/c60re4x41yejo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-16T14:57:03.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c60re4x41yejo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/501e/live/92c14ad0-b105-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "title": "人工智能踩「剎車」？特朗普：別忘了中美競爭",
@@ -274,6 +274,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/59df/live/f2881480-ab6f-11f1-b109-879e35c24276.jpg"
     },
     {
+      "title": "香港提出「人民幣支付政府開支」為何引發「去美元化」憂慮？",
+      "description": "有經濟學者對BBC中文指出，港府希望建立「示範作用」，未來甚至「可能連收稅都收人民幣」，增加其他國家在香港使用人民幣買賣黃金、投資股票的信心。",
+      "link": "https://www.bbc.com/zhongwen/articles/c65y501pjww4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-23T03:20:25.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c65y501pjww4o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2882/live/94072490-b624-11f1-b7d1-4dd4889e8b44.jpg"
+    },
+    {
       "title": "中國強勢下，歐洲電池工業謀求「重新充電」",
       "description": "歐洲擁有一些前景可期的電池技術，但它能否追回被中國電池巨頭拉開的差距？",
       "link": "https://www.bbc.com/zhongwen/articles/cn8ex870p05o/trad?at_medium=RSS&at_campaign=rss",
@@ -304,14 +312,6 @@
       "pubDate": "2026-09-16T04:47:26.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cp931k7xx4do/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d6bb/live/cb969e20-ac21-11f1-9bd9-7b7da208bd5c.jpg"
-    },
-    {
-      "title": "AI「性轉」視頻風靡中國網絡：一場「 新文化運動」的覺醒與侷限",
-      "description": "經典的「好太太」系列廣告以「好丈夫」的形象重出江湖：鏡頭前穿著清涼的不再是女性,而是男性。",
-      "link": "https://www.bbc.com/zhongwen/articles/cn74d8mr640o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-10T00:14:34.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn74d8mr640o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c36d/live/87f5c790-aaff-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "title": "外星生命會讓我們生病嗎？太空微生物帶來哪些風險",
