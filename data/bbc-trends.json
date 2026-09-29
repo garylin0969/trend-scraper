@@ -1,21 +1,37 @@
 {
-  "updated": "2026-09-29T01:15:10.490Z",
+  "updated": "2026-09-29T06:56:50.548Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-09-29T01:14:59.000Z",
+    "lastBuildDate": "2026-09-29T06:56:43.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
     {
-      "title": "白宮習特會更多內容公佈 可此刻無聲勝有聲",
+      "title": "亦敵亦友：澳洲如何在超級大國競爭中找平衡？",
+      "description": "澳洲越來越擔心中國的軍事實力——但北京也是其最大的貿易夥伴。",
+      "link": "https://www.bbc.com/zhongwen/articles/c6lyq5d3g9j8o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-29T05:46:42.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c6lyq5d3g9j8o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c6d3/live/86c72290-b8a8-11f1-8257-a79ccb54f692.jpg"
+    },
+    {
+      "title": "特朗普習近平峰會：沒有說出口的議題可能更重要",
       "description": "白宮峰會最耐人尋味之處，或許在於中美兩國領導人沒有說哪些事，以及我們至今仍不知道哪些事。",
       "link": "https://www.bbc.com/zhongwen/articles/cmzxzl450p2no/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-28T10:38:17.000Z",
+      "pubDate": "2026-09-29T03:48:29.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cmzxzl450p2no/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5990/live/f582afd0-bb26-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
+      "title": "美國檢方重啟調查康奈爾大學輪姦案指控",
+      "description": "此前，一名女子提起民事訴訟，聲稱她在2024年於一所兄弟會會所被下藥並遭到強姦。",
+      "link": "https://www.bbc.com/zhongwen/articles/cm3wjgpxdjxxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-29T04:30:30.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cm3wjgpxdjxxo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/019d/live/f41b88a0-bb7c-11f1-a430-4d16ee157c41.jpg"
     },
     {
       "title": "在印尼一座熱帶島嶼上，備受珍視的「永恆積雪」即將永遠消失",
@@ -32,22 +48,6 @@
       "pubDate": "2026-09-29T00:07:32.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c54g7dr9nlkpo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20c6/live/5ec04ba0-b367-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-      "title": "英國美軍在用基地發生反恐案件：我們目前知道什麼？",
-      "description": "反恐警方正主導調查該空軍基地附近發生的一起重大事件，目前已有五名男子被捕。",
-      "link": "https://www.bbc.com/zhongwen/articles/c30rel7xdql1o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-28T04:59:06.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c30rel7xdql1o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2d03/live/6a4c7c20-baf4-11f1-bc1f-3f186ca4140c.jpg"
-    },
-    {
-      "title": "帶一杯冰咖啡去面試，會令你失去工作機會嗎？",
-      "description": "員工和招募人員都參與了關於面試禮儀的線上討論。",
-      "link": "https://www.bbc.com/zhongwen/articles/cm9w4zv14lz2o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-29T00:07:38.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm9w4zv14lz2o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2add/live/03c9d510-b905-11f1-bc1f-3f186ca4140c.png"
     },
     {
       "title": "特習峰會成果盤點：關稅休戰、AI對話、未提台灣、暗指日本",
@@ -80,6 +80,22 @@
       "pubDate": "2026-09-25T04:56:06.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c3qjkx1wdyyxo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8b5e/live/bc2f2640-b87f-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
+      "title": "帶一杯冰咖啡去面試，會令你失去工作機會嗎？",
+      "description": "員工和招募人員都參與了關於面試禮儀的線上討論。",
+      "link": "https://www.bbc.com/zhongwen/articles/cm9w4zv14lz2o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-29T00:07:38.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cm9w4zv14lz2o/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2add/live/03c9d510-b905-11f1-bc1f-3f186ca4140c.png"
+    },
+    {
+      "title": "英國美軍在用基地發生反恐案件：我們目前知道什麼？",
+      "description": "反恐警方正主導調查該空軍基地附近發生的一起重大事件，目前已有五名男子被捕。",
+      "link": "https://www.bbc.com/zhongwen/articles/c30rel7xdql1o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-28T04:59:06.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c30rel7xdql1o/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2d03/live/6a4c7c20-baf4-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
       "title": "中美峰會後 伊朗提出七天達成協議 被特朗普拒絕",
@@ -122,28 +138,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/942b/live/73fb0ed0-8cd2-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
-      "title": "TikTok與阿拉巴馬州和解：一億美元、限兒童使用、禁美妝濾鏡",
-      "description": "阿拉巴馬州原計劃就TikTok涉嫌故意讓年輕用戶上癮一事對其提起訴訟。",
-      "link": "https://www.bbc.com/zhongwen/articles/c8zxzl6vr3zno/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-27T08:05:39.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c8zxzl6vr3zno/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0514/live/9c315500-b935-11f1-9f63-299d77d07e85.jpg"
-    },
-    {
       "title": "數百艘中國漁船出現在越南外海，北京想要什麼？",
       "description": "近年愈來愈多中國漁船在越南外海活動，部分更有執法和政府船隻伴隨。研究人員認為，這不只是捕魚，也涉及北京在南海的主權聲索和地緣政治盤算，而越南漁民的生計和作業空間正受到愈來愈大壓力。",
       "link": "https://www.bbc.com/zhongwen/articles/ck1l6ynmmvlvo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-25T07:22:44.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ck1l6ynmmvlvo/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/09a7/live/7bd33190-b267-11f1-a430-4d16ee157c41.png"
-    },
-    {
-      "title": "OpenAI智能體入侵澳洲政府網站竊取資料 官方兩月後才發覺 ",
-      "description": "OpenAI在事發後兩個月才察覺事件，並遲至本月中，才用一般電郵的方式通知澳洲政府。澳洲政府形容事件令人震驚，批評OpenAI的處理手法「不可接受」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cq39me0emplyo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-24T06:35:13.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cq39me0emplyo/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bc46/live/db50c320-b7db-11f1-9329-25fd53239d64.jpg"
     },
     {
       "title": "中國、台灣民眾如何看「習特會」？專家如何解讀峰會成果？",
