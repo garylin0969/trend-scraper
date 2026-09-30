@@ -1,14 +1,22 @@
 {
-  "updated": "2026-09-29T23:11:00.556Z",
+  "updated": "2026-09-30T02:05:23.904Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-09-29T23:10:52.000Z",
+    "lastBuildDate": "2026-09-30T02:05:11.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "美軍撤離伊拉克：駐軍20年留下什麼遺產？接下來會發生什麼？",
+      "description": "美國計劃於9月30日前從伊拉克撤出剩餘部隊，結束自2003年美國領導的推翻薩達姆·侯賽因政權的入侵以來在伊拉克的軍事存在。",
+      "link": "https://www.bbc.com/zhongwen/articles/cr5ye133p55qo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-30T00:18:50.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cr5ye133p55qo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/499c/live/b9e586f0-bb49-11f1-a071-65d2e11c8f4a.png"
+    },
     {
       "title": "亦敵亦友：澳洲如何在超級大國競爭中找平衡？",
       "description": "澳洲越來越擔心中國的軍事實力——但北京也是其最大的貿易夥伴。",
@@ -16,14 +24,6 @@
       "pubDate": "2026-09-29T05:46:42.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c6lyq5d3g9j8o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c6d3/live/86c72290-b8a8-11f1-8257-a79ccb54f692.jpg"
-    },
-    {
-      "title": "美國檢方重啟調查康奈爾大學輪姦案指控",
-      "description": "此前，一名女子提起民事訴訟，聲稱她在2024年於一所兄弟會會所被下藥並遭到強姦。",
-      "link": "https://www.bbc.com/zhongwen/articles/cm3wjgpxdjxxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-29T04:30:30.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm3wjgpxdjxxo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/019d/live/f41b88a0-bb7c-11f1-a430-4d16ee157c41.jpg"
     },
     {
       "title": "伊朗女歌手演出不戴頭巾遭判笞刑74鞭 上訴遭駁回",
@@ -34,59 +34,35 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "title": "特朗普習近平峰會：沒有說出口的議題可能更重要",
-      "description": "白宮峰會最耐人尋味之處，或許在於中美兩國領導人沒有說哪些事，以及我們至今仍不知道哪些事。",
-      "link": "https://www.bbc.com/zhongwen/articles/cmzxzl450p2no/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-29T03:48:29.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cmzxzl450p2no/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5990/live/f582afd0-bb26-11f1-bc1f-3f186ca4140c.jpg"
+      "title": "美國檢方重啟調查康奈爾大學輪姦案指控",
+      "description": "此前，一名女子提起民事訴訟，聲稱她在2024年於一所兄弟會會所被下藥並遭到強姦。",
+      "link": "https://www.bbc.com/zhongwen/articles/cm3wjgpxdjxxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-29T04:30:30.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cm3wjgpxdjxxo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/019d/live/f41b88a0-bb7c-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "title": "我付了3萬英鎊讀個「網紅」學位，這是為什麼",
+      "description": "內容創作學位旨在幫助人們透過社群媒體貼文賺錢。",
+      "link": "https://www.bbc.com/zhongwen/articles/ck0e3v1zjvj9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-30T00:18:57.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ck0e3v1zjvj9o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3bd8/live/052c6f10-b754-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
       "title": "在印尼一座熱帶島嶼上，備受珍視的「永恆積雪」即將永遠消失",
       "description": "氣候變化正改變著印尼巴布亞長年被積雪覆蓋的山峰，而這些山峰不但具有科學價值，還有其精神意義。",
       "link": "https://www.bbc.com/zhongwen/articles/cwly54drj5l1o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-29T00:07:17.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwly54drj5l1o/trad#0",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwly54drj5l1o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/390c/live/dabff6d0-b7c5-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "title": "特習峰會成果盤點：關稅休戰、AI對話、未提台灣、暗指日本",
-      "description": "BBC中文梳理兩國展現了什麼成果，以及外界如何解讀二人的舉措。",
-      "link": "https://www.bbc.com/zhongwen/articles/cqdr78l1x1mjo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-27T11:35:41.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cqdr78l1x1mjo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d0ec/live/fbea8a60-ba53-11f1-9a84-01517feb24bf.jpg"
-    },
-    {
-      "title": "習近平促特朗普「反對台獨」，北京措辭升級要的是什麼？",
-      "description": "分析指出，北京此次的表述更為直接，並試圖掌握峰會後的敘事主導權，未來台灣在美中台三角關係中的角色可能進一步被「邊緣化」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cm3eqkqq1pweo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-25T10:23:53.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm3eqkqq1pweo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d59f/live/21784cc0-b8cb-11f1-ad1f-538855f30ba1.jpg"
-    },
-    {
-      "title": "美中各從「白宮習特會」得到什麼？",
-      "description": "外界關注的人工智能、稀土等迫切議題，兩國似乎未有明顯進展。但有學者向BBC中文分析，會談最重要的成就在於展示兩國關係「正面友好的氛圍和形象」。\n",
-      "link": "https://www.bbc.com/zhongwen/articles/cq2dwkw2j0r4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-25T12:15:11.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cq2dwkw2j0r4o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8cb1/live/0b37bfa0-b8cf-11f1-bc1f-3f186ca4140c.jpg"
-    },
-    {
-      "title": "為何特朗普在國宴上送習近平一座華麗的白頭海鵰雕像？",
-      "description": "從紅杉木長椅到DVD，饋贈禮物一直是外交藝術的重要一環。",
-      "link": "https://www.bbc.com/zhongwen/articles/c3qjkx1wdyyxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-25T04:56:06.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c3qjkx1wdyyxo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8b5e/live/bc2f2640-b87f-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
       "title": "帶一杯冰咖啡去面試，會令你失去工作機會嗎？",
       "description": "員工和招募人員都參與了關於面試禮儀的線上討論。",
       "link": "https://www.bbc.com/zhongwen/articles/cm9w4zv14lz2o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-29T00:07:38.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm9w4zv14lz2o/trad#2",
+      "guid": "https://www.bbc.com/zhongwen/articles/cm9w4zv14lz2o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2add/live/03c9d510-b905-11f1-bc1f-3f186ca4140c.png"
     },
     {
@@ -94,47 +70,39 @@
       "description": "許多知名基督徒在 TikTok、播客、出版物等各種平台上開始討論人工智能是否會成為世界毀滅的催化劑。",
       "link": "https://www.bbc.com/zhongwen/articles/c54g7dr9nlkpo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-29T00:07:32.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c54g7dr9nlkpo/trad#2",
+      "guid": "https://www.bbc.com/zhongwen/articles/c54g7dr9nlkpo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20c6/live/5ec04ba0-b367-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "title": "特朗普習近平峰會：沒有說出口的議題可能更重要",
+      "description": "白宮峰會最耐人尋味之處，或許在於中美兩國領導人沒有說哪些事，以及我們至今仍不知道哪些事。",
+      "link": "https://www.bbc.com/zhongwen/articles/cmzxzl450p2no/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-29T03:48:29.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cmzxzl450p2no/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5990/live/f582afd0-bb26-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
       "title": "英國美軍在用基地發生反恐案件：我們目前知道什麼？",
       "description": "反恐警方正主導調查該空軍基地附近發生的一起重大事件，目前已有五名男子被捕。",
       "link": "https://www.bbc.com/zhongwen/articles/c30rel7xdql1o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-28T04:59:06.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c30rel7xdql1o/trad#2",
+      "guid": "https://www.bbc.com/zhongwen/articles/c30rel7xdql1o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2d03/live/6a4c7c20-baf4-11f1-bc1f-3f186ca4140c.jpg"
-    },
-    {
-      "title": "中美峰會後 伊朗提出七天達成協議 被特朗普拒絕",
-      "description": "「我拒絕他們的協議，」特朗普週六表示，並補充美國已對該海峽擁有「完全控制權」，「大量石油」經此通行，導致全球油價大幅上漲，消費者燃料成本急升。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx5yln334jq5o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-28T00:10:38.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx5yln334jq5o/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c2f6/live/86e0e040-ba15-11f1-851b-7de4b36a82e3.jpg"
     },
     {
       "title": "FBI遭黑客入侵起底 特工們的恐懼與憤怒",
       "description": "聲稱入侵美國聯邦調查局（FBI）的網絡罪犯表示，他們掌握數以千計特工極為敏感的醫療資料。現任及前任特工向BBC講述事件帶來的毀滅性影響。",
       "link": "https://www.bbc.com/zhongwen/articles/crgjq913xgxgo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-28T05:45:24.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crgjq913xgxgo/trad#2",
+      "guid": "https://www.bbc.com/zhongwen/articles/crgjq913xgxgo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d538/live/369f0e30-b903-11f1-83cd-2998f68d9572.jpg"
-    },
-    {
-      "title": "BigBang倫敦開唱：K-pop之王回來了",
-      "description": "Big Bang 在倫敦托特納姆熱刺體育場舉行了演唱會，這標誌著這個幫助奠定現代 K-pop 藍圖的組合回歸，可謂是萬眾期待。",
-      "link": "https://www.bbc.com/zhongwen/articles/ckjrxw02e7q3o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-28T06:40:03.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckjrxw02e7q3o/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d92/live/d59735e0-b8ee-11f1-a698-ff5dd8cb1a06.jpg"
     },
     {
       "title": "中國年輕人的「學術偶像」項飆：他讀懂了一代人的焦慮",
       "description": "中國的經濟和科技發展迅猛，但也有很多令Z世代擔憂的事情。",
       "link": "https://www.bbc.com/zhongwen/articles/crd6888x916go/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-27T01:35:32.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crd6888x916go/trad#2",
+      "guid": "https://www.bbc.com/zhongwen/articles/crd6888x916go/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9ee7/live/4e7a9f40-ba13-11f1-ab99-758cf41ba3f5.jpg"
     },
     {
@@ -142,7 +110,7 @@
       "description": "近年愈來愈多中國漁船在越南外海活動，部分更有執法和政府船隻伴隨。研究人員認為，這不只是捕魚，也涉及北京在南海的主權聲索和地緣政治盤算，而越南漁民的生計和作業空間正受到愈來愈大壓力。",
       "link": "https://www.bbc.com/zhongwen/articles/ck1l6ynmmvlvo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-25T07:22:44.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ck1l6ynmmvlvo/trad#2",
+      "guid": "https://www.bbc.com/zhongwen/articles/ck1l6ynmmvlvo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/09a7/live/7bd33190-b267-11f1-a430-4d16ee157c41.png"
     },
     {
@@ -150,7 +118,7 @@
       "description": "中國國家主席習近平時隔11年再次訪美進行國是訪問，與美國總統特朗普舉行今年第二次會晤。今次「習特會」有哪些成果？中國及台灣民眾又如何看待？",
       "link": "https://www.bbc.com/zhongwen/articles/cmq5x6557lqdo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-25T14:18:56.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cmq5x6557lqdo/trad#3",
+      "guid": "https://www.bbc.com/zhongwen/articles/cmq5x6557lqdo/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dbda/live/e3070730-b8eb-11f1-a430-4d16ee157c41.jpg"
     },
     {
@@ -158,7 +126,7 @@
       "description": "BBC與嘉賓將共同分析中美兩國在AI技術發展過程中面臨的挑戰、兩國在AI監管與發展等問題上的分歧。",
       "link": "https://www.bbc.com/zhongwen/articles/cwx2zmzd63gxo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-25T08:12:02.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwx2zmzd63gxo/trad#3",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwx2zmzd63gxo/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8981/live/b3925140-b8b8-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
@@ -166,7 +134,7 @@
       "description": "「特習會2.0」即將登場，此時中美競爭白熱化、亦敵亦友，美國民眾認為誰正在領先？BBC中文走訪紐約街頭，聽聽他們最期待兩位元首討論哪些議題？美國大眾眼中的習近平與特朗普又是如何？",
       "link": "https://www.bbc.com/zhongwen/articles/ckddvj0jy3zgo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-26T02:51:55.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckddvj0jy3zgo/trad#3",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckddvj0jy3zgo/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/33b4/live/d778dbc0-b7bd-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
@@ -174,7 +142,7 @@
       "description": "在中國內蒙古遼闊的草原上，數十座數據中心正以驚人速度拔地而起。曾經的農田與草原，正在快速轉變為支撐中國AI雄心的「引擎」，以滿足狂飆的算力需求。",
       "link": "https://www.bbc.com/zhongwen/articles/crje8gjn3nl5o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-23T13:24:03.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crje8gjn3nl5o/trad#3",
+      "guid": "https://www.bbc.com/zhongwen/articles/crje8gjn3nl5o/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da3c/live/ec54cb10-b751-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
@@ -182,15 +150,31 @@
       "description": "戴安娜王妃逝世近30年之際，她的弟弟史賓賽伯爵出版新書，重提姐姐去世後的王室事件。他聲稱，時任王儲查爾斯曾認為戴安娜很快會被世人遺忘，但這項說法遭到王室否認。",
       "link": "https://www.bbc.com/zhongwen/articles/c80462gvk1k0o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-21T10:03:53.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c80462gvk1k0o/trad#3",
+      "guid": "https://www.bbc.com/zhongwen/articles/c80462gvk1k0o/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2503/live/da9dee10-b58f-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "title": "美中各從「白宮習特會」得到什麼？",
+      "description": "外界關注的人工智能、稀土等迫切議題，兩國似乎未有明顯進展。但有學者向BBC中文分析，會談最重要的成就在於展示兩國關係「正面友好的氛圍和形象」。\n",
+      "link": "https://www.bbc.com/zhongwen/articles/cq2dwkw2j0r4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-25T12:15:11.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cq2dwkw2j0r4o/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8cb1/live/0b37bfa0-b8cf-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
+      "title": "為何特朗普在國宴上送習近平一座華麗的白頭海鵰雕像？",
+      "description": "從紅杉木長椅到DVD，饋贈禮物一直是外交藝術的重要一環。",
+      "link": "https://www.bbc.com/zhongwen/articles/c3qjkx1wdyyxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-25T04:56:06.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c3qjkx1wdyyxo/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8b5e/live/bc2f2640-b87f-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
       "title": "中國希望伊朗戰爭結束，但不是以特朗普想要的方式",
       "description": "分析人士指，北京可能推動德黑蘭重啟談判，但不太可能停止購買伊朗石油。",
       "link": "https://www.bbc.com/zhongwen/articles/cwp847n9n7m2o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-23T22:52:14.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwp847n9n7m2o/trad#4",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwp847n9n7m2o/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/84d4/live/74998e50-b73b-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
@@ -198,31 +182,15 @@
       "description": "這是習近平時隔11年再次國事訪問美國。更是相隔64年，再有美國總統親自迎接他國元首到訪。有學者向BBC中文分析特朗普的舉動，既是在與中方「做生意打交道」；也是在向美國民眾展示自己的能力。\n",
       "link": "https://www.bbc.com/zhongwen/articles/cmkgw6r62jr7o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-24T10:20:23.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cmkgw6r62jr7o/trad#4",
+      "guid": "https://www.bbc.com/zhongwen/articles/cmkgw6r62jr7o/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c4d/live/6227ce50-b801-11f1-97e1-83bf52ec4acd.jpg"
-    },
-    {
-      "title": "習近平訪美晤特朗普：中美AI超級強國的雄心成為焦點",
-      "description": "美國與中國正爭奪人工智能領先地位，同時尋求確保這項技術仍在人類掌控之中。",
-      "link": "https://www.bbc.com/zhongwen/articles/c9kgv31pg8eeo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-23T23:30:08.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c9kgv31pg8eeo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/149c/live/60c365b0-b306-11f1-aa6a-fb974fe212f6.jpg"
-    },
-    {
-      "title": "特朗普與習近平會面之際，中國的AI雄心正在烏蘭察布高歌猛進",
-      "description": "BBC探訪內蒙古，一名工人表示，北京的AI基礎設施正以「中國速度」推進。",
-      "link": "https://www.bbc.com/zhongwen/articles/cqjdvg991dmxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-23T07:30:41.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cqjdvg991dmxo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/de91/live/e1c3c1e0-b6b3-11f1-a430-4d16ee157c41.jpg"
     },
     {
       "title": "從年輕縣官到國家主席：習近平41年來的訪美影像",
       "description": "習近平即將到訪美國會晤特朗普（川普），這將是他歷來第11次以中國官方身份訪美。從31歲縣委書記到中國國家主席，BBC中文透過歷年照片，回顧他的訪美行程如何隨身份和中美關係變化。",
       "link": "https://www.bbc.com/zhongwen/articles/c9zrz24j8pdvo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-22T14:36:55.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c9zrz24j8pdvo/trad#4",
+      "guid": "https://www.bbc.com/zhongwen/articles/c9zrz24j8pdvo/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9542/live/762ecd10-b5b6-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
@@ -230,7 +198,7 @@
       "description": "提倡雙休的民間自發平台「雙休購」曇花一現後快速被下架，中國打工人開始在社交媒體上要求雙休正當權利。學者指這樣的消費抵制是正向的發展。",
       "link": "https://www.bbc.com/zhongwen/articles/cr9dw3z7v01yo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-22T10:03:59.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cr9dw3z7v01yo/trad#5",
+      "guid": "https://www.bbc.com/zhongwen/articles/cr9dw3z7v01yo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e45b/live/895c3240-b66c-11f1-b711-df5e4d50c2fd.jpg"
     },
     {
@@ -238,7 +206,7 @@
       "description": "如果你花一天時間在東京觀光，可能會發現自己一路拿著空咖啡杯、7-Eleven蛋三明治的包裝紙，以及愈來愈強烈的困惑感。日本以重視整潔聞名，那麼，為什麼卻找不到地方丟垃圾呢？",
       "link": "https://www.bbc.com/zhongwen/articles/c69v9207z2vwo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-23T06:50:29.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c69v9207z2vwo/trad#5",
+      "guid": "https://www.bbc.com/zhongwen/articles/c69v9207z2vwo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/871f/live/aee2e3d0-b714-11f1-8d21-19ad84e0e822.jpg"
     },
     {
@@ -246,7 +214,7 @@
       "description": "新法還首次明定，18至60歲男性、18至55歲女性原則上須擔負國防勤務；金融、交通、電信、能源、醫療、糧食等關鍵領域，在動員期間均可採取特別措施。",
       "link": "https://www.bbc.com/zhongwen/articles/c4gr202jdzpo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-14T00:19:09.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gr202jdzpo/trad#5",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gr202jdzpo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b9c0/live/e6a96e50-ad92-11f1-89c7-2d9bd86063c9.jpg"
     },
     {
@@ -254,7 +222,7 @@
       "description": "9月9日，就近期在中國引起轟動的「星宇股份解約107位應屆生」事件，上交所向星宇股份下發監管工作函，港交所延緩其上市審核，此前，公司董事長周曉萍已公開道歉。",
       "link": "https://www.bbc.com/zhongwen/articles/c4gkqekn7q7o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-15T00:17:18.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c4gkqekn7q7o/trad#5",
+      "guid": "https://www.bbc.com/zhongwen/articles/c4gkqekn7q7o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0b5e/live/0fc00c90-b02c-11f1-a8a9-13be82d23441.jpg"
     },
     {
@@ -262,7 +230,7 @@
       "description": "朝鮮（北韓）士兵於2024年底被平壤派遣，與俄羅斯部隊並肩作戰，試圖擊退烏克蘭的一次攻勢。烏克蘭總統澤連斯基表示，俄羅斯沃羅涅日地區正進行準備，以接收新一批朝鮮部隊。",
       "link": "https://www.bbc.com/zhongwen/articles/cr7dl0n178do/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-14T11:25:51.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cr7dl0n178do/trad#5",
+      "guid": "https://www.bbc.com/zhongwen/articles/cr7dl0n178do/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/59df/live/f2881480-ab6f-11f1-b109-879e35c24276.jpg"
     },
     {
@@ -270,7 +238,7 @@
       "description": "9月16日，香港特首李家超發表香港首個五年規劃文件及年度施政報告。但在網絡上，部分年輕人卻開始討論如何離開香港。BBC中文訪問三位香港青年，了解他們的看法。",
       "link": "https://www.bbc.com/zhongwen/articles/cw804230yrjzo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-23T18:19:34.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cw804230yrjzo/trad#6",
+      "guid": "https://www.bbc.com/zhongwen/articles/cw804230yrjzo/trad#5",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/50b1/live/c769e8e0-b6ec-11f1-af5e-b359cc50acc4.jpg"
     },
     {
@@ -278,7 +246,7 @@
       "description": "有經濟學者對BBC中文指出，港府希望建立「示範作用」，未來甚至「可能連收稅都收人民幣」，增加其他國家在香港使用人民幣買賣黃金、投資股票的信心。",
       "link": "https://www.bbc.com/zhongwen/articles/c65y501pjww4o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-23T03:20:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c65y501pjww4o/trad#6",
+      "guid": "https://www.bbc.com/zhongwen/articles/c65y501pjww4o/trad#5",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2882/live/94072490-b624-11f1-b7d1-4dd4889e8b44.jpg"
     },
     {
@@ -286,7 +254,7 @@
       "description": "歐洲擁有一些前景可期的電池技術，但它能否追回被中國電池巨頭拉開的差距？",
       "link": "https://www.bbc.com/zhongwen/articles/cn8ex870p05o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-14T00:19:18.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cn8ex870p05o/trad#6",
+      "guid": "https://www.bbc.com/zhongwen/articles/cn8ex870p05o/trad#5",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ac3e/live/cd5970d0-acf2-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
@@ -294,7 +262,7 @@
       "description": "金磚峰會《新德里宣言》呼籲對伊朗戰爭「最大克制」卻不點名美國。而習近平七年首訪印度，中印關係解凍了嗎？",
       "link": "https://www.bbc.com/zhongwen/articles/cg7knkpjr39o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-13T10:56:43.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cg7knkpjr39o/trad#6",
+      "guid": "https://www.bbc.com/zhongwen/articles/cg7knkpjr39o/trad#5",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ab3/live/7994a7f0-af61-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
@@ -302,23 +270,23 @@
       "description": "台灣的地方選舉又稱「九合一」選舉，每四年一次，多數落在總統任期中段的年底，故被視為總統的「期中考」。",
       "link": "https://www.bbc.com/zhongwen/articles/cp931k7xx4do/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-16T04:47:26.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cp931k7xx4do/trad#6",
+      "guid": "https://www.bbc.com/zhongwen/articles/cp931k7xx4do/trad#5",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d6bb/live/cb969e20-ac21-11f1-9bd9-7b7da208bd5c.jpg"
     },
     {
-      "title": "裸甲風潮為何跟「白人至上」發生關聯？",
-      "description": "裸甲——或者看起來像裸甲的指甲——正成為越來越流行的趨勢。但這真的像看起來那麼無害嗎？",
-      "link": "https://www.bbc.com/zhongwen/articles/cj5ydnw3pxr9o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-28T00:11:47.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cj5ydnw3pxr9o/trad#7",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/942b/live/73fb0ed0-8cd2-11f1-a7ab-8b30adf0800a.jpg"
+      "title": "「讓女性感到被看見」：為何荷蘭人為陰唇創造了一個新詞？",
+      "description": "倡議人士希望，這些新詞語能減少對身體的羞辱，並推動更正向的性觀念。",
+      "link": "https://www.bbc.com/zhongwen/articles/cqx2z782j7y7o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-25T00:03:23.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cqx2z782j7y7o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3b5f/live/11ea22b0-b736-11f1-aa9c-3d062fa3aea7.jpg"
     },
     {
       "title": "為何成年後才突然過敏？新冠、抗生素甚至蜱蟲都可能是誘因",
       "description": "我們往往以為，過敏是童年時期，甚至出生前就已埋下的「倒霉伏線」。但其實，「任何人在人生任何階段，都可能突然出現新的過敏」。",
       "link": "https://www.bbc.com/zhongwen/articles/ck05rqdz4zy3o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-27T04:39:59.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ck05rqdz4zy3o/trad#7",
+      "guid": "https://www.bbc.com/zhongwen/articles/ck05rqdz4zy3o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7423/live/3998e9e0-b8da-11f1-a430-4d16ee157c41.jpg"
     },
     {
@@ -326,7 +294,7 @@
       "description": "數十年來，我們一直在尋找地球以外的生命。然而，如果我們發現的是微生物，就必須確保它們不會令我們染病。",
       "link": "https://www.bbc.com/zhongwen/articles/crq5xp9n7gv2o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-23T00:29:19.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crq5xp9n7gv2o/trad#7",
+      "guid": "https://www.bbc.com/zhongwen/articles/crq5xp9n7gv2o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df2b/live/ce05b770-b376-11f1-a430-4d16ee157c41.jpg"
     },
     {
@@ -334,7 +302,7 @@
       "description": "從咖啡閒聊到領英訊息，以下是如何透過人脈關係找到下一份工作的方法。",
       "link": "https://www.bbc.com/zhongwen/articles/c63rezxeyw9qo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-17T09:48:06.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c63rezxeyw9qo/trad#7",
+      "guid": "https://www.bbc.com/zhongwen/articles/c63rezxeyw9qo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/25bb/live/7b07e5c0-b27c-11f1-94d0-89db86965db8.jpg"
     },
     {
@@ -342,7 +310,7 @@
       "description": "貝姬·瓊斯（Becky Jones）21歲被告知患有末期腦癌，接受了長達11年的化療，近期才發現根本不是癌症。和她有類似經歷的，還有同一間醫院的另外40多名病患。",
       "link": "https://www.bbc.com/zhongwen/articles/cm62eve2y6xeo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-16T00:18:50.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm62eve2y6xeo/trad#7",
+      "guid": "https://www.bbc.com/zhongwen/articles/cm62eve2y6xeo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d40/live/fd679f40-ad33-11f1-9bc8-3509bd1a4ead.jpg"
     }
   ]
