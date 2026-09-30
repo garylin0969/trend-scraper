@@ -1,14 +1,22 @@
 {
-  "updated": "2026-09-30T15:16:58.877Z",
+  "updated": "2026-09-30T20:17:27.823Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-09-30T15:16:50.000Z",
+    "lastBuildDate": "2026-09-30T20:17:18.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "軍情五處警告：中國資助英國研究，成果交予北京間諜機關",
+      "description": "當局敦促英國各大學，停止與中國通用技術研究院往來，該研究院與中國國家安全部有聯繫。",
+      "link": "https://www.bbc.com/zhongwen/articles/cmwyz8y494xvo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-30T16:46:19.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cmwyz8y494xvo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/347f/live/b70622b0-bcd3-11f1-9f83-d9975ff80416.jpg"
+    },
     {
       "title": "中國人工智慧工具「教導」研究人員製造生物武器",
       "description": "有研究機構發現月之暗面的Kimi模型可以繞過開發者的安全限制，提供製造生化武器的資訊。",
@@ -34,20 +42,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/499c/live/b9e586f0-bb49-11f1-a071-65d2e11c8f4a.png"
     },
     {
-      "title": "韓國「習近平餐館」遭中國人跨境噴漆襲擊",
-      "description": "老闆表示，他選擇這個名字，是因為希望經營「韓國最好的中餐館」。",
-      "link": "https://www.bbc.com/zhongwen/articles/cq74e2y0x2jno/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-30T08:23:06.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cq74e2y0x2jno/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0c90/live/65be9d30-bc81-11f1-a200-b9459c1e297a.jpg"
-    },
-    {
       "title": "貓眼如何啟發機器人的照相機技術發展",
       "description": "據說曾啟發反光道路標記發明數十年後，貓眼的形狀和「發光」現象如今正被工程師仿效，用於設計高科技相機。",
       "link": "https://www.bbc.com/zhongwen/articles/crz9zd51289jo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-30T04:54:09.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/crz9zd51289jo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/198c/live/9a84d010-bcaf-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "title": "韓國「習近平餐館」遭中國人跨境噴漆襲擊",
+      "description": "老闆表示，他選擇這個名字，是因為希望經營「韓國最好的中餐館」。",
+      "link": "https://www.bbc.com/zhongwen/articles/cq74e2y0x2jno/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-30T08:23:06.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cq74e2y0x2jno/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0c90/live/65be9d30-bc81-11f1-a200-b9459c1e297a.jpg"
     },
     {
       "title": "印度德里毛孩競逐「最肥狗狗」頭銜",
@@ -104,14 +112,6 @@
       "pubDate": "2026-09-29T00:07:32.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c54g7dr9nlkpo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20c6/live/5ec04ba0-b367-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-      "title": "中國年輕人的「學術偶像」項飆：他讀懂了一代人的焦慮",
-      "description": "中國的經濟和科技發展迅猛，但也有很多令Z世代擔憂的事情。",
-      "link": "https://www.bbc.com/zhongwen/articles/crd6888x916go/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-27T01:35:32.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crd6888x916go/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9ee7/live/4e7a9f40-ba13-11f1-ab99-758cf41ba3f5.jpg"
     },
     {
       "title": "中國、台灣民眾如何看「習特會」？專家如何解讀峰會成果？",
@@ -194,6 +194,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9542/live/762ecd10-b5b6-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
+      "title": "中國年輕人的「學術偶像」項飆：他讀懂了一代人的焦慮",
+      "description": "中國的經濟和科技發展迅猛，但也有很多令Z世代擔憂的事情。",
+      "link": "https://www.bbc.com/zhongwen/articles/crd6888x916go/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-27T01:35:32.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/crd6888x916go/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9ee7/live/4e7a9f40-ba13-11f1-ab99-758cf41ba3f5.jpg"
+    },
+    {
       "title": "「雙休購」爆紅與下架：一個網購平台如何撬動勞工權益討論",
       "description": "提倡雙休的民間自發平台「雙休購」曇花一現後快速被下架，中國打工人開始在社交媒體上要求雙休正當權利。學者指這樣的消費抵制是正向的發展。",
       "link": "https://www.bbc.com/zhongwen/articles/cr9dw3z7v01yo/trad?at_medium=RSS&at_campaign=rss",
@@ -224,14 +232,6 @@
       "pubDate": "2026-09-15T00:17:18.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c4gkqekn7q7o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0b5e/live/0fc00c90-b02c-11f1-a8a9-13be82d23441.jpg"
-    },
-    {
-      "title": "俄烏戰場為何或會迎來新一批朝鮮軍人",
-      "description": "朝鮮（北韓）士兵於2024年底被平壤派遣，與俄羅斯部隊並肩作戰，試圖擊退烏克蘭的一次攻勢。烏克蘭總統澤連斯基表示，俄羅斯沃羅涅日地區正進行準備，以接收新一批朝鮮部隊。",
-      "link": "https://www.bbc.com/zhongwen/articles/cr7dl0n178do/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-14T11:25:51.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cr7dl0n178do/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/59df/live/f2881480-ab6f-11f1-b109-879e35c24276.jpg"
     },
     {
       "title": "數百艘中國漁船出現在越南外海，北京想要什麼？",
