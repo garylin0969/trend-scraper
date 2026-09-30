@@ -1,22 +1,14 @@
 {
-  "updated": "2026-09-30T08:28:29.615Z",
+  "updated": "2026-09-30T15:16:58.877Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-09-30T08:28:27.000Z",
+    "lastBuildDate": "2026-09-30T15:16:50.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
-    {
-      "title": "特朗普排除美中合作開發人工智能",
-      "description": "美國總統繼續拒絕為人工智慧設立監管措施的呼籲，認為這將扼殺人工智慧的發展。",
-      "link": "https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-30T04:39:30.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/94a2/live/12c9a5e0-bc1b-11f1-b84f-b5367b64d530.jpg"
-    },
     {
       "title": "中國人工智慧工具「教導」研究人員製造生物武器",
       "description": "有研究機構發現月之暗面的Kimi模型可以繞過開發者的安全限制，提供製造生化武器的資訊。",
@@ -24,6 +16,14 @@
       "pubDate": "2026-09-30T02:20:26.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c64grn5g7em2o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/925f/live/79ba4b60-bc25-11f1-bd53-1b67dc8fba34.jpg"
+    },
+    {
+      "title": "特朗普排除美中合作開發人工智能",
+      "description": "美國總統繼續拒絕為人工智慧設立監管措施的呼籲，認為這將扼殺人工智慧的發展。",
+      "link": "https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-30T04:39:30.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/94a2/live/12c9a5e0-bc1b-11f1-b84f-b5367b64d530.jpg"
     },
     {
       "title": "美軍撤離伊拉克：駐軍20年留下什麼遺產？接下來會發生什麼？",
@@ -47,7 +47,15 @@
       "link": "https://www.bbc.com/zhongwen/articles/crz9zd51289jo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-09-30T04:54:09.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/crz9zd51289jo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6dfd/live/64147be0-b8ed-11f1-8220-a767279e7104.jpg"
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/198c/live/9a84d010-bcaf-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "title": "印度德里毛孩競逐「最肥狗狗」頭銜",
+      "description": "印度首都「最肥」小狗的評選活動吸引了數千張選票。",
+      "link": "https://www.bbc.com/zhongwen/articles/c674k2vl0ev0o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-30T10:20:50.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c674k2vl0ev0o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3762/live/3554f0a0-bbe5-11f1-bfea-9d5bb7e7d40b.jpg"
     },
     {
       "title": "我付了3萬英鎊讀個「網紅」學位，這是為什麼",
@@ -88,14 +96,6 @@
       "pubDate": "2026-09-29T05:46:42.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c6lyq5d3g9j8o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c6d3/live/86c72290-b8a8-11f1-8257-a79ccb54f692.jpg"
-    },
-    {
-      "title": "在印尼一座熱帶島嶼上，備受珍視的「永恆積雪」即將永遠消失",
-      "description": "氣候變化正改變著印尼巴布亞長年被積雪覆蓋的山峰，而這些山峰不但具有科學價值，還有其精神意義。",
-      "link": "https://www.bbc.com/zhongwen/articles/cwly54drj5l1o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-29T00:07:17.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwly54drj5l1o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/390c/live/dabff6d0-b7c5-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "title": "人工智能末世論：為什麼有人相信AI是敵基督，誘騙人類崇拜撒旦",
@@ -274,12 +274,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d6bb/live/cb969e20-ac21-11f1-9bd9-7b7da208bd5c.jpg"
     },
     {
-      "title": "「讓女性感到被看見」：為何荷蘭人為陰唇創造了一個新詞？",
-      "description": "倡議人士希望，這些新詞語能減少對身體的羞辱，並推動更正向的性觀念。",
-      "link": "https://www.bbc.com/zhongwen/articles/cqx2z782j7y7o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-25T00:03:23.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cqx2z782j7y7o/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3b5f/live/11ea22b0-b736-11f1-aa9c-3d062fa3aea7.jpg"
+      "title": "在印尼一座熱帶島嶼上，備受珍視的「永恆積雪」即將永遠消失",
+      "description": "氣候變化正改變著印尼巴布亞長年被積雪覆蓋的山峰，而這些山峰不但具有科學價值，還有其精神意義。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwly54drj5l1o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-29T00:07:17.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwly54drj5l1o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/390c/live/dabff6d0-b7c5-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "title": "為何成年後才突然過敏？新冠、抗生素甚至蜱蟲都可能是誘因",
@@ -288,6 +288,14 @@
       "pubDate": "2026-09-27T04:39:59.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ck05rqdz4zy3o/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7423/live/3998e9e0-b8da-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "title": "「讓女性感到被看見」：為何荷蘭人為陰唇創造了一個新詞？",
+      "description": "倡議人士希望，這些新詞語能減少對身體的羞辱，並推動更正向的性觀念。",
+      "link": "https://www.bbc.com/zhongwen/articles/cqx2z782j7y7o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-09-25T00:03:23.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cqx2z782j7y7o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3b5f/live/11ea22b0-b736-11f1-aa9c-3d062fa3aea7.jpg"
     },
     {
       "title": "外星生命會讓我們生病嗎？太空微生物帶來哪些風險",
@@ -304,14 +312,6 @@
       "pubDate": "2026-09-17T09:48:06.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c63rezxeyw9qo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/25bb/live/7b07e5c0-b27c-11f1-94d0-89db86965db8.jpg"
-    },
-    {
-      "title": "「我接受了11年化療，卻發現從未患癌」",
-      "description": "貝姬·瓊斯（Becky Jones）21歲被告知患有末期腦癌，接受了長達11年的化療，近期才發現根本不是癌症。和她有類似經歷的，還有同一間醫院的另外40多名病患。",
-      "link": "https://www.bbc.com/zhongwen/articles/cm62eve2y6xeo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-16T00:18:50.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm62eve2y6xeo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d40/live/fd679f40-ad33-11f1-9bc8-3509bd1a4ead.jpg"
     }
   ]
 }
