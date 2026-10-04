@@ -1,14 +1,22 @@
 {
-  "updated": "2026-10-04T05:46:59.312Z",
+  "updated": "2026-10-04T12:16:39.532Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-10-04T05:46:46.000Z",
+    "lastBuildDate": "2026-10-04T12:16:36.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "加拿大為何要為（概率極小的）美國入侵做準備",
+      "description": "加拿大總理馬克‧卡尼表示，軍方正在製定應對方案，以防美國入侵加拿大這種不太可能發生的情況。",
+      "link": "https://www.bbc.com/zhongwen/articles/cr89zllz31wdo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-10-04T11:51:41.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cr89zllz31wdo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4c81/live/804a5860-bd08-11f1-8a64-4f07fd1a6b57.jpg"
+    },
     {
       "title": "迪拜航空劫機案：阿聯酋官員稱副駕駛用應急斧頭砍傷機長",
       "description": "多家媒體報道稱，試圖劫持飛往以色列的飛機的男子名叫哈馬姆·哈馬米。",
@@ -26,14 +34,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/225b/live/a58f5d00-bf24-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "title": "西班牙與中國愈走愈近，歐盟多方為何不滿？",
-      "description": "全球局勢動盪之際，西班牙與中國意外走近，但這並非唯一不尋常的夥伴關係。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx9808vgjy09o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-02T05:09:30.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx9808vgjy09o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2923/live/f3557d50-bd9c-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
       "title": "康乃爾大學輪姦案調查：我們目前知道多少？",
       "description": "該女子指稱，兩年前她在該大學一處兄弟會宿舍遭人下藥並遭到性侵。",
       "link": "https://www.bbc.com/zhongwen/articles/ck0j3j415x0go/trad?at_medium=RSS&at_campaign=rss",
@@ -48,6 +48,14 @@
       "pubDate": "2026-10-03T04:19:55.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cq62yr0ndd5zo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b233/live/bbcbf7c0-be4a-11f1-a73b-295bdc9b9b7f.jpg"
+    },
+    {
+      "title": "西班牙與中國愈走愈近，歐盟多方為何不滿？",
+      "description": "全球局勢動盪之際，西班牙與中國意外走近，但這並非唯一不尋常的夥伴關係。",
+      "link": "https://www.bbc.com/zhongwen/articles/cx9808vgjy09o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-10-02T05:09:30.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx9808vgjy09o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2923/live/f3557d50-bd9c-11f1-bc2e-018d645d8d21.jpg"
     },
     {
       "title": "中國開始打擊AI戀愛關係，是過度干預還是先見之明？",
@@ -104,14 +112,6 @@
       "pubDate": "2026-09-30T02:20:26.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c64grn5g7em2o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/925f/live/79ba4b60-bc25-11f1-bd53-1b67dc8fba34.jpg"
-    },
-    {
-      "title": "美軍撤離伊拉克：駐軍20年留下什麼遺產？接下來會發生什麼？",
-      "description": "美國計劃於9月30日前從伊拉克撤出剩餘部隊，結束自2003年美國領導的推翻薩達姆·侯賽因政權的入侵以來在伊拉克的軍事存在。",
-      "link": "https://www.bbc.com/zhongwen/articles/cr5ye133p55qo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-09-30T00:18:50.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cr5ye133p55qo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/499c/live/b9e586f0-bb49-11f1-a071-65d2e11c8f4a.png"
     },
     {
       "title": "機師刀刺同僚企圖劫機 杜拜往以色列航班乘客化解空難",
