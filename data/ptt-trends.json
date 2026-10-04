@@ -1,21 +1,31 @@
 {
-  "updated": "2026-10-04T15:51:46.800Z",
+  "updated": "2026-10-04T19:09:36.803Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "236",
-      "recommendCount": "539",
+      "recommendScore": "286",
+      "recommendCount": "658",
+      "title": "[新聞] 毒駕撞飛台體大3學生...男大生頭顱凹陷",
+      "link": "/bbs/Gossiping/M.1791114096.A.30D",
+      "author": "yukihira",
+      "board": "Gossiping",
+      "publishTime": "2026/10/04 11:41",
+      "imageUrl": "https://cache.pttweb.cc/imgur/ZZKCC4q/s/3c1c1de09b6262931fe5cd3af553bc73"
+    },
+    {
+      "recommendScore": "245",
+      "recommendCount": "555",
       "title": "[新聞] 快訊／現場宣布超過十萬人　沈伯洋競總造勢一路塞到中山南路",
       "link": "/bbs/Gossiping/M.1791106649.A.186",
       "author": "Skyblueway",
       "board": "Gossiping",
       "publishTime": "2026/10/04 09:37",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ZZKCC4q/s/3c1c1de09b6262931fe5cd3af553bc73"
+      "imageUrl": ""
     },
     {
-      "recommendScore": "199",
-      "recommendCount": "680",
+      "recommendScore": "203",
+      "recommendCount": "693",
       "title": "[問卦] 幹！能不能趕快結束這場鬧劇==",
       "link": "/bbs/Gossiping/M.1791094070.A.A9E",
       "author": "kevin19528",
@@ -24,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "259",
-      "recommendCount": "686",
+      "recommendScore": "261",
+      "recommendCount": "691",
       "title": "[新聞] 蔣萬安臉書被灌爆為何不刪文？李忠憲：想營造出市長被網軍霸凌",
       "link": "/bbs/Gossiping/M.1791093461.A.18A",
       "author": "CrossroadMEI",
@@ -34,18 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "251",
-      "recommendCount": "583",
-      "title": "[新聞] 毒駕撞飛台體大3學生...男大生頭顱凹陷",
-      "link": "/bbs/Gossiping/M.1791114096.A.30D",
-      "author": "yukihira",
-      "board": "Gossiping",
-      "publishTime": "2026/10/04 11:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "363",
-      "recommendCount": "427",
+      "recommendScore": "372",
+      "recommendCount": "436",
       "title": "[公告] 大喜灌",
       "link": "/bbs/Elephants/M.1791114365.A.445",
       "author": "msarthur",
@@ -54,13 +54,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "283",
-      "recommendCount": "549",
+      "recommendScore": "284",
+      "recommendCount": "550",
       "title": "[問卦] 臉書24小時留言紀錄37.7萬則 快破了",
       "link": "/bbs/Gossiping/M.1791081065.A.AF9",
       "author": "EVGAMIS",
       "board": "Gossiping",
       "publishTime": "2026/10/04 02:31",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-243",
+      "recommendCount": "415",
+      "title": "[討論] 不是 兄弟這種玩法等於在助長投機",
+      "link": "/bbs/Baseball/M.1791121736.A.E25",
+      "author": "huipo",
+      "board": "Baseball",
+      "publishTime": "2026/10/04 13:48",
       "imageUrl": ""
     },
     {
@@ -84,18 +94,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ZZKCC4q/s/3c1c1de09b6262931fe5cd3af553bc73"
     },
     {
-      "recommendScore": "-208",
-      "recommendCount": "339",
-      "title": "[討論] 不是 兄弟這種玩法等於在助長投機",
-      "link": "/bbs/Baseball/M.1791121736.A.E25",
-      "author": "huipo",
-      "board": "Baseball",
-      "publishTime": "2026/10/04 13:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "106",
-      "recommendCount": "435",
+      "recommendScore": "107",
+      "recommendCount": "442",
       "title": "[問卦] 靠腰！真的是蔡康永耶~完了！真的完了~~",
       "link": "/bbs/Gossiping/M.1791096226.A.EFD",
       "author": "yniori",
@@ -104,18 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "199",
-      "recommendCount": "688",
-      "title": "[新聞] 蔣萬安臉書遭10萬留言灌爆！反嗆沈伯洋急了",
-      "link": "/bbs/Gossiping/M.1791044543.A.0B9",
-      "author": "IJS",
-      "board": "Gossiping",
-      "publishTime": "2026/10/03 16:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "227",
-      "recommendCount": "260",
+      "recommendScore": "240",
+      "recommendCount": "277",
       "title": "[分享] 今日王伯洋 生涯首勝",
       "link": "/bbs/Baseball/M.1791118199.A.5B1",
       "author": "eunhailoveu",
@@ -125,7 +115,7 @@
     },
     {
       "recommendScore": "122",
-      "recommendCount": "413",
+      "recommendCount": "424",
       "title": "[問卦] 到底有什麼方法能讓某族群適可而止？？",
       "link": "/bbs/Gossiping/M.1791095277.A.794",
       "author": "NTU87",
@@ -134,8 +124,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "110",
+      "recommendCount": "259",
+      "title": "[爆卦] 劉喬安慘了！運毒恐被判死刑",
+      "link": "/bbs/Gossiping/M.1791104700.A.EF6",
+      "author": "u1114224",
+      "board": "Gossiping",
+      "publishTime": "2026/10/04 09:05",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "172",
-      "recommendCount": "354",
+      "recommendCount": "355",
       "title": "[新聞] 臉書被灌40萬留言破金氏世界紀錄？ 蔣萬安：讓世界看到台灣選舉文化",
       "link": "/bbs/Gossiping/M.1791100692.A.2E6",
       "author": "seiya2000",
@@ -154,13 +154,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "106",
-      "recommendCount": "246",
-      "title": "[爆卦] 劉喬安慘了！運毒恐被判死刑",
-      "link": "/bbs/Gossiping/M.1791104700.A.EF6",
-      "author": "u1114224",
-      "board": "Gossiping",
-      "publishTime": "2026/10/04 09:05",
+      "recommendScore": "143",
+      "recommendCount": "266",
+      "title": "[分享] 錢公賽後落淚 官方影片",
+      "link": "/bbs/Baseball/M.1791117544.A.070",
+      "author": "jefflin0824",
+      "board": "Baseball",
+      "publishTime": "2026/10/04 12:39",
       "imageUrl": ""
     },
     {
@@ -174,14 +174,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "137",
-      "recommendCount": "251",
-      "title": "[分享] 錢公賽後落淚 官方影片",
-      "link": "/bbs/Baseball/M.1791117544.A.070",
-      "author": "jefflin0824",
-      "board": "Baseball",
-      "publishTime": "2026/10/04 12:39",
+      "recommendScore": "165",
+      "recommendCount": "293",
+      "title": "[爆卦] fb洗留言程式使用者 刪推特帳號了",
+      "link": "/bbs/Gossiping/M.1791108688.A.DB0",
+      "author": "LawLawDer",
+      "board": "Gossiping",
+      "publishTime": "2026/10/04 10:11",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "185",
+      "recommendCount": "215",
+      "title": "[閒聊] 五條悟模型被腰斬",
+      "link": "/bbs/C_Chat/M.1791087201.A.78B",
+      "author": "DKEE",
+      "board": "C_Chat",
+      "publishTime": "2026/10/04 04:13",
+      "imageUrl": "https://cache.pttweb.cc/imgur/MfWrFDK/s/c7d13c0234be5fd04544e2b0452a2bbc"
     },
     {
       "recommendScore": "193",
@@ -192,16 +202,6 @@
       "board": "BaseballXXXX",
       "publishTime": "2026/10/04 03:08",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "183",
-      "recommendCount": "213",
-      "title": "[閒聊] 五條悟模型被腰斬",
-      "link": "/bbs/C_Chat/M.1791087201.A.78B",
-      "author": "DKEE",
-      "board": "C_Chat",
-      "publishTime": "2026/10/04 04:13",
-      "imageUrl": "https://cache.pttweb.cc/imgur/MfWrFDK/s/c7d13c0234be5fd04544e2b0452a2bbc"
     }
   ]
 }
