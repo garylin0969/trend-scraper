@@ -1,17 +1,27 @@
 {
-  "updated": "2026-10-08T22:09:26.176Z",
+  "updated": "2026-10-09T02:06:43.450Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "473",
-      "recommendCount": "1179",
+      "recommendScore": "482",
+      "recommendCount": "1201",
       "title": "[新聞] TVBS民調／洋流上岸！蔣萬安49％、沈伯洋41％　差距從28％緊咬至8％",
       "link": "/bbs/Gossiping/M.1791454173.A.BC4",
       "author": "RAYNOR0327",
       "board": "Gossiping",
       "publishTime": "2026/10/08 10:09",
       "imageUrl": "https://cache.pttweb.cc/imgur/sMpsklL/s/e2cc22300fcf7d6fb2d1e1ac2cdd96d4"
+    },
+    {
+      "recommendScore": "353",
+      "recommendCount": "673",
+      "title": "[新聞] 早預言沈伯洋「選總統也會上」謝金河驚",
+      "link": "/bbs/Gossiping/M.1791457584.A.A39",
+      "author": "godofsex",
+      "board": "Gossiping",
+      "publishTime": "2026/10/08 11:06",
+      "imageUrl": ""
     },
     {
       "recommendScore": "394",
@@ -24,28 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "344",
-      "recommendCount": "1034",
-      "title": "Re: [新聞] 蔣萬安慘了？沈伯洋對決趙少康大破圈",
-      "link": "/bbs/Gossiping/M.1791422110.A.DAB",
-      "author": "chirex",
-      "board": "Gossiping",
-      "publishTime": "2026/10/08 01:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "334",
-      "recommendCount": "637",
-      "title": "[新聞] 早預言沈伯洋「選總統也會上」謝金河驚",
-      "link": "/bbs/Gossiping/M.1791457584.A.A39",
-      "author": "godofsex",
-      "board": "Gossiping",
-      "publishTime": "2026/10/08 11:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "154",
-      "recommendCount": "525",
+      "recommendScore": "156",
+      "recommendCount": "531",
       "title": "[新聞] 快新聞／建商挺沈伯洋出大招了！竟喊「得幾票就就折多少錢」　建案地點曝光",
       "link": "/bbs/Gossiping/M.1791431894.A.736",
       "author": "blueadam193",
@@ -54,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "252",
-      "recommendCount": "789",
+      "recommendScore": "257",
+      "recommendCount": "802",
       "title": "[問卦] 臺北人 松山機場遷走你真的可以？",
       "link": "/bbs/Gossiping/M.1791432778.A.C11",
       "author": "LeeAnAn",
@@ -74,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "295",
+      "recommendCount": "1069",
+      "title": "[無職] 作者：沒看完就不該對作品整體大談",
+      "link": "/bbs/C_Chat/M.1791450045.A.51B",
+      "author": "SuperSg",
+      "board": "C_Chat",
+      "publishTime": "2026/10/08 09:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "225",
       "recommendCount": "620",
       "title": "[新聞] 「整個民進黨圍剿我一個人」蔣萬安認壓力大 直言：選戰最激烈的一次",
@@ -81,16 +81,6 @@
       "author": "charles0939",
       "board": "HatePolitics",
       "publishTime": "2026/10/08 08:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "297",
-      "recommendCount": "1061",
-      "title": "[無職] 作者：沒看完就不該對作品整體大談",
-      "link": "/bbs/C_Chat/M.1791450045.A.51B",
-      "author": "SuperSg",
-      "board": "C_Chat",
-      "publishTime": "2026/10/08 09:00",
       "imageUrl": ""
     },
     {
@@ -114,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "181",
-      "recommendCount": "492",
+      "recommendScore": "183",
+      "recommendCount": "498",
       "title": "[新聞] 「整個民進黨圍剿我一個人」 蔣萬安坦言：確實是最激烈的一次",
       "link": "/bbs/Gossiping/M.1791445491.A.5DB",
       "author": "Toyosushij",
@@ -125,7 +115,7 @@
     },
     {
       "recommendScore": "312",
-      "recommendCount": "752",
+      "recommendCount": "753",
       "title": "[新聞] TVBS民調／中間選民流向他！蔣萬安49％、沈伯洋41％　差距減20百分點",
       "link": "/bbs/HatePolitics/M.1791454010.A.F01",
       "author": "Arthurseed",
@@ -134,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "184",
-      "recommendCount": "353",
+      "recommendScore": "185",
+      "recommendCount": "354",
       "title": "[新聞] 生不如死！9月僅7,704名新生兒、死亡人數逾兩倍 人口連33月負成長",
       "link": "/bbs/Gossiping/M.1791431150.A.82D",
       "author": "STAV72",
@@ -144,8 +134,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "156",
-      "recommendCount": "375",
+      "recommendScore": "170",
+      "recommendCount": "422",
+      "title": "[新聞] 問A答B！大法官說「殺3個人才能判死」？司法院：不服應循法定程序尋求救濟",
+      "link": "/bbs/Gossiping/M.1791497933.A.411",
+      "author": "BSScene",
+      "board": "Gossiping",
+      "publishTime": "2026/10/08 22:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "157",
+      "recommendCount": "381",
       "title": "[新聞] 簡舒培「抹黑基層」確定翻車！營養午餐檢驗合格　鍾沛君：出來道歉",
       "link": "/bbs/Gossiping/M.1791445619.A.4C5",
       "author": "Beziehung",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "269",
-      "recommendCount": "554",
+      "recommendScore": "271",
+      "recommendCount": "556",
       "title": "[新聞] 薪資全交前妻保管！前職棒球星離婚查帳氣",
       "link": "/bbs/Baseball/M.1791432021.A.ADE",
       "author": "troy30408",
@@ -164,13 +164,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "128",
-      "recommendCount": "395",
-      "title": "[爆卦] 發錢 美國開放電子菸 青年吸菸率創新低！",
-      "link": "/bbs/Gossiping/M.1791413326.A.118",
-      "author": "tobetwob",
+      "recommendScore": "180",
+      "recommendCount": "301",
+      "title": "[問卦] 各國神劇全到齊，我們「神作」一秒打趴",
+      "link": "/bbs/Gossiping/M.1791469177.A.A11",
+      "author": "mimi1020b",
       "board": "Gossiping",
-      "publishTime": "2026/10/07 22:48",
+      "publishTime": "2026/10/08 14:19",
       "imageUrl": ""
     },
     {
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "116",
-      "recommendCount": "293",
+      "recommendScore": "114",
+      "recommendCount": "296",
       "title": "[問卦] GAY吧老闆：不知道客人會進去倉庫親親抱抱？",
       "link": "/bbs/Gossiping/M.1791438077.A.24A",
       "author": "cowardlyman",
