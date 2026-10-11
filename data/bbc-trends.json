@@ -1,14 +1,22 @@
 {
-  "updated": "2026-10-10T22:55:35.800Z",
+  "updated": "2026-10-11T01:50:13.636Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-10-10T22:55:23.000Z",
+    "lastBuildDate": "2026-10-11T01:50:09.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "台北選戰掀美沙冬爭議　香港逾半世紀戒毒經驗有何啟示？",
+      "description": "美沙冬戒毒治療成為台北地方選舉議題，討論熱烈，香港早於半世紀前已開展門診計劃，BBC中文梳理其發展歷史，剖析社會迷思。",
+      "link": "https://www.bbc.com/zhongwen/articles/c6n8dx52dgj5o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-10-11T01:12:43.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c6n8dx52dgj5o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/593d/live/b97b50e0-c4b4-11f1-9a39-31b474234113.jpg"
+    },
     {
       "title": "以「山巔之城」論台灣：賴清德雙十演說想傳達什麼訊息？",
       "description": "台灣總統賴清德在「雙十」國慶大會引用《聖經》「山巔之城」概念，被外界認為是向華府釋出維持穩定台美關係的訊息。\n",
@@ -26,20 +34,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/68af/live/55b6b9d0-c4b1-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "title": "特朗普與普京達成協議允俄國出售柴油，澤連斯基批評「送大禮」",
-      "description": "烏克蘭總統表示，容許俄羅斯出售石油產品，只會延長這場本應結束的戰爭。",
-      "link": "https://www.bbc.com/zhongwen/articles/cwg7xz103032o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-09T20:33:46.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwg7xz103032o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a5d0/live/a1bc1010-c415-11f1-a175-8928617a734f.jpg"
-    },
-    {
-      "title": "老撾的班根軍用機場 中國能用來做甚麼？",
-      "description": "專家認為，未來的班根軍事設施可能承擔更多功能，而不僅僅是一個普通的訓練中心。",
-      "link": "https://www.bbc.com/zhongwen/articles/cmwy48r8ex41o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-09T00:18:18.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cmwy48r8ex41o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf83/live/c6e69f60-c332-11f1-babe-4199b0e7ccea.jpg"
+      "title": "什麼是「微笑抑鬱」？如何察覺徵兆？",
+      "description": "如果你表面上看起來很快樂，內心卻飽受煎熬，你可能患有非典型抑鬱症。然而，隱藏真實感受可能對心理健康造成傷害。",
+      "link": "https://www.bbc.com/zhongwen/articles/c53981jp28e0o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-10-11T00:41:33.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c53981jp28e0o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6a34/live/2e4df1f0-c331-11f1-9981-cf94ea240e40.jpg"
     },
     {
       "title": "這位丈夫15年來潛水760次，就為了「靠近」海嘯失蹤的妻子",
@@ -48,6 +48,14 @@
       "pubDate": "2026-10-10T07:48:57.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c60rlq5d24wwo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f9ca/live/e4acb640-b0fb-11f1-a451-6b1ff10ed362.jpg"
+    },
+    {
+      "title": "老撾的班根軍用機場 中國能用來做甚麼？",
+      "description": "專家認為，未來的班根軍事設施可能承擔更多功能，而不僅僅是一個普通的訓練中心。",
+      "link": "https://www.bbc.com/zhongwen/articles/cmwy48r8ex41o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-10-09T00:18:18.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cmwy48r8ex41o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf83/live/c6e69f60-c332-11f1-babe-4199b0e7ccea.jpg"
     },
     {
       "title": "法國學生示威：憤怒背後隱藏著什麼？",
@@ -72,14 +80,6 @@
       "pubDate": "2026-10-08T12:34:52.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ckwyq35pnxjno/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8293/live/a78051e0-c2e5-11f1-babe-4199b0e7ccea.jpg"
-    },
-    {
-      "title": "「那揮之不去的恐懼」：「宿醉焦慮」真的存在嗎？",
-      "description": "「宿醉焦慮」（hang-xiety），大約十年前在社交俚語中被創造出來的名字，用來形容可能伴隨宿醉而來的焦慮感。目前它的存在被研究證實。\n\n",
-      "link": "https://www.bbc.com/zhongwen/articles/c6d09ed707jxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-09T00:18:12.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c6d09ed707jxo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/093d/live/db4ed550-c376-11f1-8bdb-7d65c678c04d.jpg"
     },
     {
       "title": "扎克伯格有形象問題，為何Meta的業務卻蒸蒸日上？",
