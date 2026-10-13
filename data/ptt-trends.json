@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T17:14:34.138Z",
+  "updated": "2026-10-13T17:31:29.610Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "102",
-      "recommendCount": "691",
+      "recommendScore": "103",
+      "recommendCount": "692",
       "title": "[新聞] 快新聞／不是網軍！52萬則留言灌爆蔣萬安",
       "link": "/bbs/Gossiping/M.1791881676.A.BAA",
       "author": "lycppt",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "228",
-      "recommendCount": "686",
+      "recommendCount": "687",
       "title": "[新聞] 6架F-16V已出廠　空軍卻認全沒裝載電戰系統「蝮蛇之盾」",
       "link": "/bbs/Gossiping/M.1791845899.A.268",
       "author": "Workforme",
@@ -85,7 +85,7 @@
     },
     {
       "recommendScore": "164",
-      "recommendCount": "382",
+      "recommendCount": "383",
       "title": "[問卦] 整個台灣怎麼都騙來騙去的",
       "link": "/bbs/Gossiping/M.1791880189.A.9F0",
       "author": "frzqp3814396",
@@ -121,16 +121,6 @@
       "author": "lolahjy",
       "board": "Gossiping",
       "publishTime": "2026/10/13 02:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "138",
-      "recommendCount": "339",
-      "title": "[請益] 這一年來真的多數都賺錢嗎？",
-      "link": "/bbs/Stock/M.1791825454.A.C01",
-      "author": "SethBeer",
-      "board": "Stock",
-      "publishTime": "2026/10/12 17:17",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "rwhung",
       "board": "HatePolitics",
       "publishTime": "2026/10/13 12:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "146",
+      "recommendCount": "484",
+      "title": "[討論] 萬安又要改時間，說晚上比較可以，操",
+      "link": "/bbs/HatePolitics/M.1791887628.A.6D9",
+      "author": "signm",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/13 10:33",
       "imageUrl": ""
     }
   ]
