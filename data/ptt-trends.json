@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T05:52:39.787Z",
+  "updated": "2026-10-13T06:25:04.778Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "259",
-      "recommendCount": "741",
+      "recommendScore": "266",
+      "recommendCount": "765",
       "title": "[問卦] 奇怪 為什麼很多人都當台北人很蠢？",
       "link": "/bbs/Gossiping/M.1791849718.A.53D",
       "author": "sevenzgod",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "303",
-      "recommendCount": "645",
+      "recommendScore": "307",
+      "recommendCount": "651",
       "title": "[討論] 戴立安民調 蘇巧慧43.1% 李四川30.0%",
       "link": "/bbs/HatePolitics/M.1791857101.A.31E",
       "author": "nogood",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "213",
-      "recommendCount": "616",
+      "recommendScore": "219",
+      "recommendCount": "631",
       "title": "[新聞] 6架F-16V已出廠　空軍卻認全沒裝載電戰系統「蝮蛇之盾」",
       "link": "/bbs/Gossiping/M.1791845899.A.268",
       "author": "Workforme",
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "198",
+      "recommendCount": "437",
+      "title": "[新聞] 桃園25歲女遭割頸殺害！生前最後畫面曝光凌晨獨走巷子被尾隨",
+      "link": "/bbs/Gossiping/M.1791818467.A.82F",
+      "author": "WADE0616",
+      "board": "Gossiping",
+      "publishTime": "2026/10/12 15:21",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "597",
       "recommendCount": "1472",
       "title": "[轉播] 挑戰賽 G4 五下 統一0：1兄弟",
@@ -81,16 +91,6 @@
       "author": "hsuaninteen",
       "board": "Elephants",
       "publishTime": "2026/10/12 12:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "196",
-      "recommendCount": "430",
-      "title": "[新聞] 桃園25歲女遭割頸殺害！生前最後畫面曝光凌晨獨走巷子被尾隨",
-      "link": "/bbs/Gossiping/M.1791818467.A.82F",
-      "author": "WADE0616",
-      "board": "Gossiping",
-      "publishTime": "2026/10/12 15:21",
       "imageUrl": ""
     },
     {
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "136",
+      "recommendCount": "313",
+      "title": "[請益] 這一年來真的多數都賺錢嗎？",
+      "link": "/bbs/Stock/M.1791825454.A.C01",
+      "author": "SethBeer",
+      "board": "Stock",
+      "publishTime": "2026/10/12 17:17",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "140",
       "recommendCount": "294",
       "title": "[新聞] 桃園男疑吸「喪屍煙彈」隨機殺人！　尾隨25歲女割頸奪命還縱火滅證",
@@ -191,16 +201,6 @@
       "author": "a5687920",
       "board": "Gossiping",
       "publishTime": "2026/10/12 07:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "132",
-      "recommendCount": "301",
-      "title": "[請益] 這一年來真的多數都賺錢嗎？",
-      "link": "/bbs/Stock/M.1791825454.A.C01",
-      "author": "SethBeer",
-      "board": "Stock",
-      "publishTime": "2026/10/12 17:17",
       "imageUrl": ""
     }
   ]
