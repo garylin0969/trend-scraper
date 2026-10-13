@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T19:09:54.320Z",
+  "updated": "2026-10-13T19:22:13.529Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "197",
+      "recommendCount": "694",
+      "title": "[問卦] 台灣50年前怎麼知道要搞半導體",
+      "link": "/bbs/Gossiping/M.1791901151.A.9D5",
+      "author": "chopinmozart",
+      "board": "Gossiping",
+      "publishTime": "2026/10/13 14:19",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "106",
       "recommendCount": "564",
       "title": "[討論] 沈伯洋過去二年是不是裝的啊？",
@@ -171,16 +181,6 @@
       "author": "polanco",
       "board": "Baseball",
       "publishTime": "2026/10/13 02:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "191",
-      "recommendCount": "680",
-      "title": "[問卦] 台灣50年前怎麼知道要搞半導體",
-      "link": "/bbs/Gossiping/M.1791901151.A.9D5",
-      "author": "chopinmozart",
-      "board": "Gossiping",
-      "publishTime": "2026/10/13 14:19",
       "imageUrl": ""
     },
     {
