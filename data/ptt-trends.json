@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T15:34:34.357Z",
+  "updated": "2026-10-13T15:50:12.482Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "100",
-      "recommendCount": "676",
+      "recommendScore": "99",
+      "recommendCount": "677",
       "title": "[新聞] 快新聞／不是網軍！52萬則留言灌爆蔣萬安",
       "link": "/bbs/Gossiping/M.1791881676.A.BAA",
       "author": "lycppt",
@@ -55,7 +55,7 @@
     },
     {
       "recommendScore": "205",
-      "recommendCount": "540",
+      "recommendCount": "544",
       "title": "[新聞] 鄭銘謙：造勢場供便餐若不逾社會常情不成賄選 關鍵在對價",
       "link": "/bbs/Gossiping/M.1791884906.A.1ED",
       "author": "pttjordy",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "159",
-      "recommendCount": "376",
+      "recommendScore": "160",
+      "recommendCount": "377",
       "title": "[問卦] 整個台灣怎麼都騙來騙去的",
       "link": "/bbs/Gossiping/M.1791880189.A.9F0",
       "author": "frzqp3814396",
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "138",
-      "recommendCount": "329",
-      "title": "[新聞] 台積電讓熊本暴富5年後 日媒揭殘酷現實：塞車、缺工、倒閉潮全來了",
-      "link": "/bbs/Stock/M.1791819261.A.C93",
-      "author": "Gavatzky",
-      "board": "Stock",
-      "publishTime": "2026/10/12 15:34",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "172",
       "recommendCount": "277",
       "title": "[情報] 道奇隊 考慮G3讓大谷坐板凳",
@@ -201,6 +191,16 @@
       "author": "bopi5566",
       "board": "Gossiping",
       "publishTime": "2026/10/13 02:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "142",
+      "recommendCount": "298",
+      "title": "[問卦] 進音響店喊出十萬預算老闆會怎麼接待？",
+      "link": "/bbs/Gossiping/M.1791860632.A.742",
+      "author": "staxsrm",
+      "board": "Gossiping",
+      "publishTime": "2026/10/13 03:03",
       "imageUrl": ""
     }
   ]
