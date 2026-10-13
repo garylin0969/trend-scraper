@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T07:36:33.102Z",
+  "updated": "2026-10-13T07:57:03.431Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "517",
-      "recommendCount": "559",
+      "recommendScore": "518",
+      "recommendCount": "560",
       "title": "[發錢] 一個傳奇的落幕－陳鏞基",
       "link": "/bbs/Baseball/M.1791815705.A.17E",
       "author": "chainstay120",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "268",
-      "recommendCount": "774",
+      "recommendScore": "267",
+      "recommendCount": "776",
       "title": "[問卦] 奇怪 為什麼很多人都當台北人很蠢？",
       "link": "/bbs/Gossiping/M.1791849718.A.53D",
       "author": "sevenzgod",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "222",
-      "recommendCount": "640",
+      "recommendScore": "225",
+      "recommendCount": "643",
       "title": "[新聞] 6架F-16V已出廠　空軍卻認全沒裝載電戰系統「蝮蛇之盾」",
       "link": "/bbs/Gossiping/M.1791845899.A.268",
       "author": "Workforme",
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "186",
+      "recommendCount": "373",
+      "title": "[新聞] 快訊／新莊阿姨遺體解剖結束！　身中20多刀「頸部幾乎斷裂」慘死",
+      "link": "/bbs/Gossiping/M.1791864948.A.868",
+      "author": "WuSam",
+      "board": "Gossiping",
+      "publishTime": "2026/10/13 04:15",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "480",
       "recommendCount": "1146",
       "title": "[轉播] 挑戰賽 G4 九上 統一1：8兄弟",
@@ -131,16 +141,6 @@
       "author": "hsuaninteen",
       "board": "Elephants",
       "publishTime": "2026/10/12 13:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "175",
-      "recommendCount": "349",
-      "title": "[新聞] 快訊／新莊阿姨遺體解剖結束！　身中20多刀「頸部幾乎斷裂」慘死",
-      "link": "/bbs/Gossiping/M.1791864948.A.868",
-      "author": "WuSam",
-      "board": "Gossiping",
-      "publishTime": "2026/10/13 04:15",
       "imageUrl": ""
     },
     {
@@ -164,8 +164,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "136",
-      "recommendCount": "320",
+      "recommendScore": "180",
+      "recommendCount": "440",
+      "title": "[轉錄] 黃珊珊FB",
+      "link": "/bbs/HatePolitics/M.1791861264.A.D48",
+      "author": "imbj",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/13 03:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "137",
+      "recommendCount": "322",
       "title": "[請益] 這一年來真的多數都賺錢嗎？",
       "link": "/bbs/Stock/M.1791825454.A.C01",
       "author": "SethBeer",
@@ -191,16 +201,6 @@
       "author": "O300",
       "board": "Gossiping",
       "publishTime": "2026/10/12 12:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "177",
-      "recommendCount": "428",
-      "title": "[轉錄] 黃珊珊FB",
-      "link": "/bbs/HatePolitics/M.1791861264.A.D48",
-      "author": "imbj",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/13 03:14",
       "imageUrl": ""
     }
   ]
