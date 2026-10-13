@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-13T15:58:59.095Z",
+  "updated": "2026-10-13T16:43:11.272Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "400",
-      "recommendCount": "640",
+      "recommendScore": "401",
+      "recommendCount": "641",
       "title": "[情報] 115年10月13日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1791877168.A.493",
       "author": "coconing",
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "99",
-      "recommendCount": "679",
+      "recommendCount": "684",
       "title": "[新聞] 快新聞／不是網軍！52萬則留言灌爆蔣萬安",
       "link": "/bbs/Gossiping/M.1791881676.A.BAA",
       "author": "lycppt",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "317",
-      "recommendCount": "673",
+      "recommendScore": "318",
+      "recommendCount": "674",
       "title": "[討論] 戴立安民調 蘇巧慧43.1% 李四川30.0%",
       "link": "/bbs/HatePolitics/M.1791857101.A.31E",
       "author": "nogood",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "206",
-      "recommendCount": "547",
+      "recommendScore": "211",
+      "recommendCount": "558",
       "title": "[新聞] 鄭銘謙：造勢場供便餐若不逾社會常情不成賄選 關鍵在對價",
       "link": "/bbs/Gossiping/M.1791884906.A.1ED",
       "author": "pttjordy",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "160",
-      "recommendCount": "377",
+      "recommendScore": "164",
+      "recommendCount": "382",
       "title": "[問卦] 整個台灣怎麼都騙來騙去的",
       "link": "/bbs/Gossiping/M.1791880189.A.9F0",
       "author": "frzqp3814396",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "126",
-      "recommendCount": "372",
+      "recommendScore": "127",
+      "recommendCount": "373",
       "title": "[爆卦] 日本北海道神社繪馬慘遭青鳥洋流大量污染",
       "link": "/bbs/Gossiping/M.1791865133.A.800",
       "author": "eric2016",
@@ -174,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "159",
-      "recommendCount": "305",
-      "title": "[新聞] 沈伯洋自曝學生時「拿椅砸人、滿嘴髒話」 詹江村：青鳥不是最反霸凌？",
-      "link": "/bbs/Gossiping/M.1791822093.A.B76",
-      "author": "lwt501cx",
-      "board": "Gossiping",
-      "publishTime": "2026/10/12 16:21",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "85",
       "recommendCount": "299",
       "title": "[新聞] 新北最新民調 蘇巧慧領先李四川13.1個百分點",
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "142",
-      "recommendCount": "298",
+      "recommendScore": "144",
+      "recommendCount": "300",
       "title": "[問卦] 進音響店喊出十萬預算老闆會怎麼接待？",
       "link": "/bbs/Gossiping/M.1791860632.A.742",
       "author": "staxsrm",
       "board": "Gossiping",
       "publishTime": "2026/10/13 03:03",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "146",
+      "recommendCount": "484",
+      "title": "[討論] 萬安又要改時間，說晚上比較可以，操",
+      "link": "/bbs/HatePolitics/M.1791887628.A.6D9",
+      "author": "signm",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/13 10:33",
       "imageUrl": ""
     }
   ]
