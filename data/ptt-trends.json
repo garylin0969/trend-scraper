@@ -1,16 +1,26 @@
 {
-  "updated": "2026-10-13T09:18:33.794Z",
+  "updated": "2026-10-13T09:40:28.324Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "518",
-      "recommendCount": "560",
+      "recommendCount": "564",
       "title": "[發錢] 一個傳奇的落幕－陳鏞基",
       "link": "/bbs/Baseball/M.1791815705.A.17E",
       "author": "chainstay120",
       "board": "Baseball",
       "publishTime": "2026/10/12 14:35",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "355",
+      "recommendCount": "550",
+      "title": "[情報] 115年10月13日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1791877168.A.493",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2026/10/13 07:39",
       "imageUrl": ""
     },
     {
@@ -34,18 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "337",
-      "recommendCount": "524",
-      "title": "[情報] 115年10月13日 三大法人買賣金額統計表",
-      "link": "/bbs/Stock/M.1791877168.A.493",
-      "author": "coconing",
-      "board": "Stock",
-      "publishTime": "2026/10/13 07:39",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "228",
-      "recommendCount": "651",
+      "recommendCount": "652",
       "title": "[新聞] 6架F-16V已出廠　空軍卻認全沒裝載電戰系統「蝮蛇之盾」",
       "link": "/bbs/Gossiping/M.1791845899.A.268",
       "author": "Workforme",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "212",
-      "recommendCount": "419",
+      "recommendScore": "215",
+      "recommendCount": "424",
       "title": "[新聞] 快訊／新莊阿姨遺體解剖結束！　身中20多刀「頸部幾乎斷裂」慘死",
       "link": "/bbs/Gossiping/M.1791864948.A.868",
       "author": "WuSam",
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "249",
-      "recommendCount": "340",
-      "title": "[情報] 統一獅先發投手-布雷克",
-      "link": "/bbs/Baseball/M.1791797615.A.F0D",
-      "author": "micheal59",
-      "board": "Baseball",
-      "publishTime": "2026/10/12 09:33",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "183",
       "recommendCount": "456",
       "title": "[轉錄] 黃珊珊FB",
@@ -181,6 +171,16 @@
       "author": "SethBeer",
       "board": "Stock",
       "publishTime": "2026/10/12 17:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "108",
+      "recommendCount": "390",
+      "title": "[新聞] 信民民調／新北市長白熱化！蘇巧慧43.1％領先李四川　差距13.1％",
+      "link": "/bbs/Gossiping/M.1791858535.A.1E4",
+      "author": "lolahjy",
+      "board": "Gossiping",
+      "publishTime": "2026/10/13 02:28",
       "imageUrl": ""
     },
     {
