@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T13:42:10.131Z",
+  "updated": "2026-10-14T13:54:15.067Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "211",
-      "recommendCount": "872",
+      "recommendCount": "874",
       "title": "[新聞] 父親另一公司遭陸制裁 沈伯洋競辦：這種方式不會得到台灣人民信任",
       "link": "/bbs/Gossiping/M.1791958239.A.E01",
       "author": "Aqqqa",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "404",
-      "recommendCount": "785",
+      "recommendScore": "428",
+      "recommendCount": "836",
       "title": "[爆卦] 高雄8088賴瑞隆在脆上遭連爆狠料",
       "link": "/bbs/Gossiping/M.1791977045.A.049",
       "author": "shole",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "297",
-      "recommendCount": "1046",
+      "recommendScore": "298",
+      "recommendCount": "1048",
       "title": "[問卦] 台灣50年前怎麼知道要搞半導體",
       "link": "/bbs/Gossiping/M.1791901151.A.9D5",
       "author": "chopinmozart",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "230",
-      "recommendCount": "591",
+      "recommendScore": "233",
+      "recommendCount": "602",
       "title": "[新聞] 徐巧芯「留時間給沈伯洋來質詢」 王義川不滿罵「爛召委」",
       "link": "/bbs/Gossiping/M.1791968686.A.900",
       "author": "DORAQMON",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "211",
-      "recommendCount": "475",
+      "recommendScore": "212",
+      "recommendCount": "476",
       "title": "[新聞] 「天下第一檢」開缺了！北檢找檢察官左右手　薪資、報名資格曝",
       "link": "/bbs/Gossiping/M.1791947331.A.389",
       "author": "vdml",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "139",
-      "recommendCount": "500",
+      "recommendScore": "140",
+      "recommendCount": "502",
       "title": "[新聞] 新北國中割頸案！家屬捐500萬當獎學金 嫌犯律師批：故意轉移資產",
       "link": "/bbs/Gossiping/M.1791956845.A.7B1",
       "author": "the06512",
@@ -105,7 +105,7 @@
     },
     {
       "recommendScore": "169",
-      "recommendCount": "526",
+      "recommendCount": "528",
       "title": "[新聞] 穿著不夠純樸？台北101董事長賈永婕被立委噹",
       "link": "/bbs/Gossiping/M.1791959339.A.559",
       "author": "milleniue",
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "217",
+      "recommendCount": "352",
+      "title": "[情報] 美國9月份CPI",
+      "link": "/bbs/Stock/M.1791981027.A.EBD",
+      "author": "xephon",
+      "board": "Stock",
+      "publishTime": "2026/10/14 12:30",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "86",
       "recommendCount": "409",
       "title": "[新聞] 藍營挖出「學生時持椅砸人」 沈伯洋：接下來可能要挖到嬰兒時期",
@@ -164,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "166",
+      "recommendCount": "391",
+      "title": "[新聞] 籲黨內勿預測選情！民進黨示警：造勢人潮不代表選票",
+      "link": "/bbs/Gossiping/M.1791970674.A.E4C",
+      "author": "access4096",
+      "board": "Gossiping",
+      "publishTime": "2026/10/14 09:37",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "53",
       "recommendCount": "334",
       "title": "[新聞] 沈伯洋手劃傷狀況曝光！今晚將打點滴、明天強制休息半天",
@@ -175,32 +195,12 @@
     },
     {
       "recommendScore": "99",
-      "recommendCount": "360",
+      "recommendCount": "362",
       "title": "[新聞] 沈伯洋建中恩師發聲！讚「溫厚善良」　感性坦言：不敢以老師自居",
       "link": "/bbs/Gossiping/M.1791965144.A.F10",
       "author": "runa2",
       "board": "Gossiping",
       "publishTime": "2026/10/14 08:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "163",
-      "recommendCount": "501",
-      "title": "[新聞] 穿著不夠純樸？台北101董事長賈永婕被立委噹",
-      "link": "/bbs/HatePolitics/M.1791963904.A.9B1",
-      "author": "bang59487",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/14 07:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "164",
-      "recommendCount": "379",
-      "title": "[新聞] 籲黨內勿預測選情！民進黨示警：造勢人潮不代表選票",
-      "link": "/bbs/Gossiping/M.1791970674.A.E4C",
-      "author": "access4096",
-      "board": "Gossiping",
-      "publishTime": "2026/10/14 09:37",
       "imageUrl": ""
     }
   ]
