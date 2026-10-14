@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-14T21:23:20.021Z",
+  "updated": "2026-10-14T21:37:04.859Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "588",
-      "recommendCount": "1178",
+      "recommendScore": "589",
+      "recommendCount": "1183",
       "title": "[爆卦] 高雄8088賴瑞隆在脆上遭連爆狠料",
       "link": "/bbs/Gossiping/M.1791977045.A.049",
       "author": "shole",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "336",
-      "recommendCount": "542",
+      "recommendScore": "338",
+      "recommendCount": "545",
       "title": "[情報] 美國9月份CPI",
       "link": "/bbs/Stock/M.1791981027.A.EBD",
       "author": "xephon",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "190",
-      "recommendCount": "435",
+      "recommendScore": "191",
+      "recommendCount": "436",
       "title": "[新聞] 籲黨內勿預測選情！民進黨示警：造勢人潮不代表選票",
       "link": "/bbs/Gossiping/M.1791970674.A.E4C",
       "author": "access4096",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "113",
-      "recommendCount": "310",
+      "recommendScore": "115",
+      "recommendCount": "312",
       "title": "[新聞] 謝金河:台積電不出 誰與爭鋒？台股將向五萬",
       "link": "/bbs/Stock/M.1791983310.A.2AA",
       "author": "DrowningPool",
@@ -155,7 +155,7 @@
     },
     {
       "recommendScore": "88",
-      "recommendCount": "415",
+      "recommendCount": "416",
       "title": "[新聞] 藍營挖出「學生時持椅砸人」 沈伯洋：接下來可能要挖到嬰兒時期",
       "link": "/bbs/Gossiping/M.1791944326.A.44F",
       "author": "kuso2005",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "261",
+      "recommendCount": "274",
+      "title": "[活俠] 小梅…我的小梅呀……",
+      "link": "/bbs/C_Chat/M.1791990921.A.7FD",
+      "author": "WeiBirdFan",
+      "board": "C_Chat",
+      "publishTime": "2026/10/14 15:15",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "157",
       "recommendCount": "521",
       "title": "[新聞] 穿著不夠純樸？台北101董事長賈永婕被立委噹",
@@ -191,16 +201,6 @@
       "author": "bang59487",
       "board": "HatePolitics",
       "publishTime": "2026/10/14 07:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "257",
-      "recommendCount": "270",
-      "title": "[活俠] 小梅…我的小梅呀……",
-      "link": "/bbs/C_Chat/M.1791990921.A.7FD",
-      "author": "WeiBirdFan",
-      "board": "C_Chat",
-      "publishTime": "2026/10/14 15:15",
       "imageUrl": ""
     }
   ]
