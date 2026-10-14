@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-14T18:57:51.409Z",
+  "updated": "2026-10-14T19:15:20.730Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "578",
-      "recommendCount": "1153",
+      "recommendScore": "580",
+      "recommendCount": "1160",
       "title": "[爆卦] 高雄8088賴瑞隆在脆上遭連爆狠料",
       "link": "/bbs/Gossiping/M.1791977045.A.049",
       "author": "shole",
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "218",
+      "recommendCount": "902",
+      "title": "[新聞] 父親另一公司遭陸制裁 沈伯洋競辦：這種方式不會得到台灣人民信任",
+      "link": "/bbs/Gossiping/M.1791958239.A.E01",
+      "author": "Aqqqa",
+      "board": "Gossiping",
+      "publishTime": "2026/10/14 06:10",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "256",
       "recommendCount": "819",
       "title": "[新聞] 港媒控「賺紅錢」沈伯洋：為何選在這時候爆？",
@@ -34,18 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "217",
-      "recommendCount": "900",
-      "title": "[新聞] 父親另一公司遭陸制裁 沈伯洋競辦：這種方式不會得到台灣人民信任",
-      "link": "/bbs/Gossiping/M.1791958239.A.E01",
-      "author": "Aqqqa",
-      "board": "Gossiping",
-      "publishTime": "2026/10/14 06:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "280",
-      "recommendCount": "665",
+      "recommendScore": "281",
+      "recommendCount": "666",
       "title": "[新聞] 中共宣布制裁沈伯洋父親公司！國台辦：禁止與中企進行交易",
       "link": "/bbs/Gossiping/M.1791946656.A.550",
       "author": "seiya2000",
@@ -55,7 +55,7 @@
     },
     {
       "recommendScore": "256",
-      "recommendCount": "654",
+      "recommendCount": "656",
       "title": "[新聞] 徐巧芯「留時間給沈伯洋來質詢」 王義川不滿罵「爛召委」",
       "link": "/bbs/Gossiping/M.1791968686.A.900",
       "author": "DORAQMON",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "331",
-      "recommendCount": "532",
+      "recommendScore": "332",
+      "recommendCount": "533",
       "title": "[情報] 美國9月份CPI",
       "link": "/bbs/Stock/M.1791981027.A.EBD",
       "author": "xephon",
@@ -145,7 +145,7 @@
     },
     {
       "recommendScore": "114",
-      "recommendCount": "299",
+      "recommendCount": "302",
       "title": "[新聞] 謝金河:台積電不出 誰與爭鋒？台股將向五萬",
       "link": "/bbs/Stock/M.1791983310.A.2AA",
       "author": "DrowningPool",
