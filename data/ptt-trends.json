@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-14T16:56:51.945Z",
+  "updated": "2026-10-14T17:11:11.172Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "556",
-      "recommendCount": "1103",
+      "recommendScore": "562",
+      "recommendCount": "1111",
       "title": "[爆卦] 高雄8088賴瑞隆在脆上遭連爆狠料",
       "link": "/bbs/Gossiping/M.1791977045.A.049",
       "author": "shole",
@@ -64,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "321",
+      "recommendCount": "513",
+      "title": "[情報] 美國9月份CPI",
+      "link": "/bbs/Stock/M.1791981027.A.EBD",
+      "author": "xephon",
+      "board": "Stock",
+      "publishTime": "2026/10/14 12:30",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "264",
       "recommendCount": "564",
       "title": "[新聞] 川普稱台灣包下阿拉斯加3成天然氣！採購20年 加碼投資44億美元",
@@ -71,16 +81,6 @@
       "author": "mzwj",
       "board": "Stock",
       "publishTime": "2026/10/14 02:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "319",
-      "recommendCount": "511",
-      "title": "[情報] 美國9月份CPI",
-      "link": "/bbs/Stock/M.1791981027.A.EBD",
-      "author": "xephon",
-      "board": "Stock",
-      "publishTime": "2026/10/14 12:30",
       "imageUrl": ""
     },
     {
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "183",
-      "recommendCount": "424",
+      "recommendScore": "182",
+      "recommendCount": "425",
       "title": "[新聞] 籲黨內勿預測選情！民進黨示警：造勢人潮不代表選票",
       "link": "/bbs/Gossiping/M.1791970674.A.E4C",
       "author": "access4096",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "87",
-      "recommendCount": "411",
+      "recommendScore": "86",
+      "recommendCount": "412",
       "title": "[新聞] 藍營挖出「學生時持椅砸人」 沈伯洋：接下來可能要挖到嬰兒時期",
       "link": "/bbs/Gossiping/M.1791944326.A.44F",
       "author": "kuso2005",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "99",
-      "recommendCount": "268",
+      "recommendScore": "102",
+      "recommendCount": "278",
       "title": "[新聞] 謝金河:台積電不出 誰與爭鋒？台股將向五萬",
       "link": "/bbs/Stock/M.1791983310.A.2AA",
       "author": "DrowningPool",
