@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T02:42:42.479Z",
+  "updated": "2026-10-14T02:55:29.411Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "100",
-      "recommendCount": "723",
+      "recommendScore": "101",
+      "recommendCount": "724",
       "title": "[新聞] 快新聞／不是網軍！52萬則留言灌爆蔣萬安",
       "link": "/bbs/Gossiping/M.1791881676.A.BAA",
       "author": "lycppt",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "318",
-      "recommendCount": "537",
+      "recommendScore": "331",
+      "recommendCount": "566",
       "title": "[新聞] 影音／屏東雜貨店老闆1年遭毆3次「雙腿被打斷」　警仍抓嘸人",
       "link": "/bbs/Gossiping/M.1791932137.A.9B1",
       "author": "Workforme",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "237",
-      "recommendCount": "495",
+      "recommendScore": "238",
+      "recommendCount": "497",
       "title": "[新聞] 快訊／新莊阿姨遺體解剖結束！　身中20多刀「頸部幾乎斷裂」慘死",
       "link": "/bbs/Gossiping/M.1791864948.A.868",
       "author": "WuSam",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "279",
-      "recommendCount": "975",
+      "recommendScore": "282",
+      "recommendCount": "980",
       "title": "[問卦] 台灣50年前怎麼知道要搞半導體",
       "link": "/bbs/Gossiping/M.1791901151.A.9D5",
       "author": "chopinmozart",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "217",
-      "recommendCount": "342",
+      "recommendScore": "218",
+      "recommendCount": "343",
       "title": "[情報] 大谷堅決留在先發打線",
       "link": "/bbs/Baseball/M.1791934933.A.C2F",
       "author": "Axwell",
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "110",
+      "recommendCount": "603",
+      "title": "[討論] 沈伯洋過去二年是不是裝的啊？",
+      "link": "/bbs/HatePolitics/M.1791893173.A.E53",
+      "author": "rwhung",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/13 12:06",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "167",
       "recommendCount": "357",
       "title": "[新聞]請消防員免費吃11年！台中牛肉麵遭負評酸獨厚　老闆揭初衷超催淚",
@@ -111,16 +121,6 @@
       "author": "ztopip",
       "board": "Gossiping",
       "publishTime": "2026/10/13 13:00",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "109",
-      "recommendCount": "602",
-      "title": "[討論] 沈伯洋過去二年是不是裝的啊？",
-      "link": "/bbs/HatePolitics/M.1791893173.A.E53",
-      "author": "rwhung",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/13 12:06",
       "imageUrl": ""
     },
     {
@@ -144,23 +144,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "159",
-      "recommendCount": "323",
+      "recommendScore": "161",
+      "recommendCount": "329",
       "title": "[新聞] 日本星巴克推「牛奶、蜂蜜免費加」　網：台灣怎麼了？",
       "link": "/bbs/Gossiping/M.1791904929.A.84C",
       "author": "CREA",
       "board": "Gossiping",
       "publishTime": "2026/10/13 15:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "102",
-      "recommendCount": "247",
-      "title": "[新聞] 法人圈最高！高盛喊台股攻 57,500點 隱含約17%上漲空間",
-      "link": "/bbs/Stock/M.1791859999.A.033",
-      "author": "Lime5566",
-      "board": "Stock",
-      "publishTime": "2026/10/13 02:53",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "logical01",
       "board": "Gossiping",
       "publishTime": "2026/10/13 05:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "124",
+      "recommendCount": "419",
+      "title": "[問卦] 漂亮女生不該凌晨出現外面？",
+      "link": "/bbs/Gossiping/M.1791929773.A.E27",
+      "author": "sasolala",
+      "board": "Gossiping",
+      "publishTime": "2026/10/13 22:16",
       "imageUrl": ""
     }
   ]
