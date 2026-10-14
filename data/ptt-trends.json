@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T23:35:06.018Z",
+  "updated": "2026-10-14T23:43:22.200Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "344",
-      "recommendCount": "558",
+      "recommendScore": "345",
+      "recommendCount": "559",
       "title": "[情報] 美國9月份CPI",
       "link": "/bbs/Stock/M.1791981027.A.EBD",
       "author": "xephon",
@@ -104,18 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "249",
-      "recommendCount": "415",
-      "title": "[情報] 大谷堅決留在先發打線",
-      "link": "/bbs/Baseball/M.1791934933.A.C2F",
-      "author": "Axwell",
-      "board": "Baseball",
-      "publishTime": "2026/10/13 23:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "122",
-      "recommendCount": "337",
+      "recommendScore": "125",
+      "recommendCount": "340",
       "title": "[新聞] 謝金河:台積電不出 誰與爭鋒？台股將向五萬",
       "link": "/bbs/Stock/M.1791983310.A.2AA",
       "author": "DrowningPool",
@@ -134,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "191",
-      "recommendCount": "440",
+      "recommendScore": "192",
+      "recommendCount": "443",
       "title": "[新聞] 籲黨內勿預測選情！民進黨示警：造勢人潮不代表選票",
       "link": "/bbs/Gossiping/M.1791970674.A.E4C",
       "author": "access4096",
@@ -144,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "283",
-      "recommendCount": "298",
+      "recommendScore": "291",
+      "recommendCount": "306",
       "title": "[活俠] 小梅…我的小梅呀……",
       "link": "/bbs/C_Chat/M.1791990921.A.7FD",
       "author": "WeiBirdFan",
@@ -185,7 +175,7 @@
     },
     {
       "recommendScore": "113",
-      "recommendCount": "347",
+      "recommendCount": "348",
       "title": "[新聞] 人命剛沒了！北市女騎士撞死人隔天吸安",
       "link": "/bbs/Gossiping/M.1791945813.A.0F4",
       "author": "wellwed",
@@ -201,6 +191,16 @@
       "author": "googolplex",
       "board": "Gossiping",
       "publishTime": "2026/10/14 07:31",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "116",
+      "recommendCount": "356",
+      "title": "[新聞] 父遭爆換公司續向陸下單 沈伯洋挨轟「喝紅奶水」回應了",
+      "link": "/bbs/Gossiping/M.1791937366.A.215",
+      "author": "mongi",
+      "board": "Gossiping",
+      "publishTime": "2026/10/14 00:22",
       "imageUrl": ""
     }
   ]
