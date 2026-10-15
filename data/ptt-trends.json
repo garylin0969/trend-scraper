@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T23:38:34.285Z",
+  "updated": "2026-10-15T23:45:17.553Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "431",
-      "recommendCount": "642",
+      "recommendCount": "643",
       "title": "[情報] 美國9月PPI",
       "link": "/bbs/Stock/M.1792067509.A.07C",
       "author": "xephon",
@@ -64,23 +64,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "170",
-      "recommendCount": "715",
+      "recommendScore": "168",
+      "recommendCount": "718",
       "title": "[新聞] 梁文傑：沈伯洋父親是在幫中國廠商賺錢就像很多人賣淘寶貨",
       "link": "/bbs/Gossiping/M.1792057613.A.986",
       "author": "qazxc1156892",
       "board": "Gossiping",
       "publishTime": "2026/10/15 09:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "166",
-      "recommendCount": "678",
-      "title": "[新聞]港媒爆料沈伯洋家族企業 民進黨：上禮拜",
-      "link": "/bbs/Gossiping/M.1792021301.A.197",
-      "author": "james7923",
-      "board": "Gossiping",
-      "publishTime": "2026/10/14 23:41",
       "imageUrl": ""
     },
     {
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "583",
+      "recommendScore": "166",
+      "recommendCount": "586",
       "title": "[新聞] 被少年隊抓過 沈伯洋昔自爆：因德育不及格無法推甄建中",
       "link": "/bbs/Gossiping/M.1792078884.A.4E8",
       "author": "iam168888888",
       "board": "Gossiping",
       "publishTime": "2026/10/15 15:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "104",
+      "recommendCount": "393",
+      "title": "[新聞] 退休教授「助人反被告」心寒！ 法官暖勸令他重拾善念：再一次仍會幫忙",
+      "link": "/bbs/Gossiping/M.1792060233.A.D8F",
+      "author": "sunnydragon7",
+      "board": "Gossiping",
+      "publishTime": "2026/10/15 10:30",
       "imageUrl": ""
     }
   ]
