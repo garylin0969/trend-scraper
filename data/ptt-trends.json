@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-15T18:14:57.910Z",
+  "updated": "2026-10-15T18:36:47.243Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "1110",
-      "recommendCount": "1471",
+      "recommendScore": "1111",
+      "recommendCount": "1473",
       "title": "[情報] 外資賣超歷史前十名(今天第一名)",
       "link": "/bbs/Stock/M.1792048585.A.799",
       "author": "marginalFeng",
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "298",
-      "recommendCount": "829",
+      "recommendCount": "831",
       "title": "[問卦] 好心扶跌倒婦人反被告，法官竟勸11萬和解",
       "link": "/bbs/Gossiping/M.1792058026.A.0AE",
       "author": "cowardlyman",
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "427",
+      "recommendCount": "637",
+      "title": "[情報] 美國9月PPI",
+      "link": "/bbs/Stock/M.1792067509.A.07C",
+      "author": "xephon",
+      "board": "Stock",
+      "publishTime": "2026/10/15 12:31",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "311",
       "recommendCount": "659",
       "title": "[新聞] 天下第一檢出事了！檢察官呷毒遭攔檢 北檢火速發聲：已遞辭呈",
@@ -51,16 +61,6 @@
       "author": "eunhailoveu",
       "board": "Gossiping",
       "publishTime": "2026/10/15 04:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "426",
-      "recommendCount": "635",
-      "title": "[情報] 美國9月PPI",
-      "link": "/bbs/Stock/M.1792067509.A.07C",
-      "author": "xephon",
-      "board": "Stock",
-      "publishTime": "2026/10/15 12:31",
       "imageUrl": ""
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "166",
-      "recommendCount": "457",
+      "recommendCount": "459",
       "title": "[新聞] 台股恐跌回22500點？陳嘉偉示警「還有2萬多點要跌」 5年線成關鍵",
       "link": "/bbs/Stock/M.1792061171.A.99B",
       "author": "EstelleRinz",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "285",
-      "recommendCount": "543",
+      "recommendScore": "287",
+      "recommendCount": "546",
       "title": "[爆卦] 前綠營幕僚被霸凌 正國會動用衛福部封殺",
       "link": "/bbs/Gossiping/M.1792049824.A.EC1",
       "author": "Hyuui",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "214",
-      "recommendCount": "456",
+      "recommendScore": "215",
+      "recommendCount": "457",
       "title": "[新聞] 不爽「D棟」唸「豬棟」 工人飆罵三字經一、二審都無罪",
       "link": "/bbs/Gossiping/M.1792046294.A.790",
       "author": "CarlPainvano",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "219",
-      "recommendCount": "397",
+      "recommendScore": "220",
+      "recommendCount": "398",
       "title": "[新聞] 現職檢察官吸毒緩起訴  清潔隊員送32元舊電鍋被起訴   Cheap：我看了三小？",
       "link": "/bbs/Gossiping/M.1792062936.A.707",
       "author": "godofsex",
@@ -185,7 +185,7 @@
     },
     {
       "recommendScore": "146",
-      "recommendCount": "354",
+      "recommendCount": "356",
       "title": "[新聞] 印100多份「空白報告」送立院！李姸慧稱不是空白　馬文君傻眼",
       "link": "/bbs/Gossiping/M.1792057228.A.212",
       "author": "Beziehung",
