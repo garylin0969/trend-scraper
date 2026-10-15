@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-15T06:21:19.372Z",
+  "updated": "2026-10-15T06:49:03.498Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "645",
-      "recommendCount": "1368",
+      "recommendScore": "647",
+      "recommendCount": "1371",
       "title": "[爆卦] 高雄8088賴瑞隆在脆上遭連爆狠料",
       "link": "/bbs/Gossiping/M.1791977045.A.049",
       "author": "shole",
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "158",
-      "recommendCount": "650",
+      "recommendCount": "651",
       "title": "[新聞]港媒爆料沈伯洋家族企業 民進黨：上禮拜",
       "link": "/bbs/Gossiping/M.1792021301.A.197",
       "author": "james7923",
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "303",
+      "recommendCount": "582",
+      "title": "[新聞] 里長參選人爆虐童黑歷史！曾打死2歲童遭判囚7年半　鄰居、社會局這樣說",
+      "link": "/bbs/Gossiping/M.1792032036.A.8FD",
+      "author": "WuSam",
+      "board": "Gossiping",
+      "publishTime": "2026/10/15 02:40",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "351",
       "recommendCount": "570",
       "title": "[情報] 美國9月份CPI",
@@ -41,16 +51,6 @@
       "author": "xephon",
       "board": "Stock",
       "publishTime": "2026/10/14 12:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "293",
-      "recommendCount": "562",
-      "title": "[新聞] 里長參選人爆虐童黑歷史！曾打死2歲童遭判囚7年半　鄰居、社會局這樣說",
-      "link": "/bbs/Gossiping/M.1792032036.A.8FD",
-      "author": "WuSam",
-      "board": "Gossiping",
-      "publishTime": "2026/10/15 02:40",
       "imageUrl": ""
     },
     {
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "360",
-      "recommendCount": "380",
+      "recommendScore": "361",
+      "recommendCount": "381",
       "title": "[活俠] 小梅…我的小梅呀……",
       "link": "/bbs/C_Chat/M.1791990921.A.7FD",
       "author": "WeiBirdFan",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "166",
-      "recommendCount": "462",
+      "recommendScore": "172",
+      "recommendCount": "473",
       "title": "[請益] 需要用錢偏遇大跌，該如何面對",
       "link": "/bbs/Stock/M.1792036956.A.47F",
       "author": "sagat666",
@@ -84,18 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "171",
-      "recommendCount": "539",
-      "title": "[新聞] 穿著不夠純樸？台北101董事長賈永婕被立委噹",
-      "link": "/bbs/Gossiping/M.1791959339.A.559",
-      "author": "milleniue",
-      "board": "Gossiping",
-      "publishTime": "2026/10/14 06:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "197",
-      "recommendCount": "446",
+      "recommendScore": "229",
+      "recommendCount": "498",
       "title": "[新聞] 天下第一檢出事了！檢察官呷毒遭攔檢 北檢火速發聲：已遞辭呈",
       "link": "/bbs/Gossiping/M.1792038478.A.EAF",
       "author": "eunhailoveu",
@@ -105,7 +95,7 @@
     },
     {
       "recommendScore": "197",
-      "recommendCount": "453",
+      "recommendCount": "455",
       "title": "[新聞] 籲黨內勿預測選情！民進黨示警：造勢人潮不代表選票",
       "link": "/bbs/Gossiping/M.1791970674.A.E4C",
       "author": "access4096",
@@ -114,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "187",
-      "recommendCount": "382",
+      "recommendScore": "196",
+      "recommendCount": "397",
       "title": "[爆卦] 僑委會專案報告",
       "link": "/bbs/Gossiping/M.1792029819.A.EA1",
       "author": "kuwawa",
@@ -124,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "210",
-      "recommendCount": "317",
+      "recommendScore": "222",
+      "recommendCount": "334",
       "title": "[標的] 視陽6728 山椒魚復出多",
       "link": "/bbs/Stock/M.1792035514.A.941",
       "author": "homoho",
@@ -134,13 +124,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "104",
-      "recommendCount": "388",
+      "recommendScore": "105",
+      "recommendCount": "394",
       "title": "[新聞] 沈伯洋建中恩師發聲！讚「溫厚善良」　感性坦言：不敢以老師自居",
       "link": "/bbs/Gossiping/M.1791965144.A.F10",
       "author": "runa2",
       "board": "Gossiping",
       "publishTime": "2026/10/14 08:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "185",
+      "recommendCount": "335",
+      "title": "[情報] 2330台積電 Q3 29.43",
+      "link": "/bbs/Stock/M.1792042262.A.74F",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2026/10/15 05:31",
       "imageUrl": ""
     },
     {
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "210",
-      "recommendCount": "292",
+      "recommendScore": "212",
+      "recommendCount": "294",
       "title": "[新聞] 快訊／釀酒人3轟逆轉賞衛冕軍三連敗！宇宙道奇最快明回家放假",
       "link": "/bbs/Baseball/M.1792033980.A.4DA",
       "author": "DsLove710",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "155",
-      "recommendCount": "410",
+      "recommendScore": "156",
+      "recommendCount": "411",
       "title": "[新聞]淡江電機所僅1人上課 「全班大缺席」老師難過到不教了",
       "link": "/bbs/Gossiping/M.1791980176.A.A4E",
       "author": "la1aco",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "151",
-      "recommendCount": "288",
-      "title": "[情報] 2330台積電 Q3 29.43",
-      "link": "/bbs/Stock/M.1792042262.A.74F",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2026/10/15 05:31",
+      "recommendScore": "149",
+      "recommendCount": "367",
+      "title": "[新聞] 徐佳青住1晚17萬元日內瓦飯店？ 陳明祺：調查中",
+      "link": "/bbs/Gossiping/M.1792031552.A.ED7",
+      "author": "Fino5566",
+      "board": "Gossiping",
+      "publishTime": "2026/10/15 02:32",
       "imageUrl": ""
     }
   ]
