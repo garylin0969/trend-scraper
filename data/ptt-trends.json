@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-15T12:18:29.238Z",
+  "updated": "2026-10-15T12:43:15.461Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "1050",
-      "recommendCount": "1390",
+      "recommendScore": "1057",
+      "recommendCount": "1402",
       "title": "[情報] 外資賣超歷史前十名(今天第一名)",
       "link": "/bbs/Stock/M.1792048585.A.799",
       "author": "marginalFeng",
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/A99I5i9/s/a4d8729e24b3d070d41b1b000b4e07d9"
     },
     {
-      "recommendScore": "626",
-      "recommendCount": "900",
+      "recommendScore": "628",
+      "recommendCount": "902",
       "title": "[情報] 115年10月15日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1792049024.A.75F",
       "author": "coconing",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "308",
-      "recommendCount": "645",
+      "recommendScore": "310",
+      "recommendCount": "650",
       "title": "[新聞] 天下第一檢出事了！檢察官呷毒遭攔檢 北檢火速發聲：已遞辭呈",
       "link": "/bbs/Gossiping/M.1792038478.A.EAF",
       "author": "eunhailoveu",
@@ -64,14 +64,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "351",
-      "recommendCount": "570",
-      "title": "[情報] 美國9月份CPI",
-      "link": "/bbs/Stock/M.1791981027.A.EBD",
-      "author": "xephon",
-      "board": "Stock",
-      "publishTime": "2026/10/14 12:30",
-      "imageUrl": ""
+      "recommendScore": "216",
+      "recommendCount": "624",
+      "title": "[問卦] 好心扶跌倒婦人反被告，法官竟勸11萬和解",
+      "link": "/bbs/Gossiping/M.1792058026.A.0AE",
+      "author": "cowardlyman",
+      "board": "Gossiping",
+      "publishTime": "2026/10/15 09:53",
+      "imageUrl": "https://cache.pttweb.cc/imgur/BHpEOaF/s/d61093d77d1b4d4aa34d36a116eade81"
     },
     {
       "recommendScore": "158",
@@ -84,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "595",
-      "title": "[問卦] 好心扶跌倒婦人反被告，法官竟勸11萬和解",
-      "link": "/bbs/Gossiping/M.1792058026.A.0AE",
-      "author": "cowardlyman",
-      "board": "Gossiping",
-      "publishTime": "2026/10/15 09:53",
-      "imageUrl": "https://cache.pttweb.cc/imgur/BHpEOaF/s/d61093d77d1b4d4aa34d36a116eade81"
-    },
-    {
       "recommendScore": "366",
       "recommendCount": "386",
       "title": "[活俠] 小梅…我的小梅呀……",
@@ -104,23 +94,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "212",
-      "recommendCount": "435",
-      "title": "[爆卦] 僑委會專案報告",
-      "link": "/bbs/Gossiping/M.1792029819.A.EA1",
-      "author": "kuwawa",
+      "recommendScore": "110",
+      "recommendCount": "516",
+      "title": "[新聞] 梁文傑：沈伯洋父親是在幫中國廠商賺錢就像很多人賣淘寶貨",
+      "link": "/bbs/Gossiping/M.1792057613.A.986",
+      "author": "qazxc1156892",
       "board": "Gossiping",
-      "publishTime": "2026/10/15 02:03",
+      "publishTime": "2026/10/15 09:46",
       "imageUrl": ""
     },
     {
-      "recommendScore": "250",
-      "recommendCount": "447",
+      "recommendScore": "258",
+      "recommendCount": "459",
       "title": "[爆卦] 前綠營幕僚被霸凌 正國會動用衛福部封殺",
       "link": "/bbs/Gossiping/M.1792049824.A.EC1",
       "author": "Hyuui",
       "board": "Gossiping",
       "publishTime": "2026/10/15 07:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "212",
+      "recommendCount": "437",
+      "title": "[爆卦] 僑委會專案報告",
+      "link": "/bbs/Gossiping/M.1792029819.A.EA1",
+      "author": "kuwawa",
+      "board": "Gossiping",
+      "publishTime": "2026/10/15 02:03",
       "imageUrl": ""
     },
     {
@@ -144,18 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "105",
-      "recommendCount": "485",
-      "title": "[新聞] 梁文傑：沈伯洋父親是在幫中國廠商賺錢就像很多人賣淘寶貨",
-      "link": "/bbs/Gossiping/M.1792057613.A.986",
-      "author": "qazxc1156892",
-      "board": "Gossiping",
-      "publishTime": "2026/10/15 09:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "196",
-      "recommendCount": "425",
+      "recommendScore": "198",
+      "recommendCount": "427",
       "title": "[新聞] 不爽「D棟」唸「豬棟」 工人飆罵三字經一、二審都無罪",
       "link": "/bbs/Gossiping/M.1792046294.A.790",
       "author": "CarlPainvano",
@@ -164,8 +154,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "175",
-      "recommendCount": "440",
+      "recommendScore": "117",
+      "recommendCount": "365",
+      "title": "[新聞] 台股恐跌回22500點？陳嘉偉示警「還有2萬多點要跌」 5年線成關鍵",
+      "link": "/bbs/Stock/M.1792061171.A.99B",
+      "author": "EstelleRinz",
+      "board": "Stock",
+      "publishTime": "2026/10/15 10:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "174",
+      "recommendCount": "441",
       "title": "[新聞] 徐佳青住1晚17萬元日內瓦飯店？ 陳明祺：調查中",
       "link": "/bbs/Gossiping/M.1792031552.A.ED7",
       "author": "Fino5566",
@@ -184,13 +184,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "91",
-      "recommendCount": "314",
-      "title": "[新聞] 台股恐跌回22500點？陳嘉偉示警「還有2萬多點要跌」 5年線成關鍵",
-      "link": "/bbs/Stock/M.1792061171.A.99B",
-      "author": "EstelleRinz",
-      "board": "Stock",
-      "publishTime": "2026/10/15 10:46",
+      "recommendScore": "209",
+      "recommendCount": "282",
+      "title": "[情報] 《夜勤病棟Online》開放事前登錄",
+      "link": "/bbs/C_Chat/M.1792048690.A.B6E",
+      "author": "Winux",
+      "board": "C_Chat",
+      "publishTime": "2026/10/15 07:18",
       "imageUrl": ""
     },
     {
