@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-15T11:11:11.755Z",
+  "updated": "2026-10-15T11:24:29.331Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "1005",
-      "recommendCount": "1337",
+      "recommendScore": "1010",
+      "recommendCount": "1345",
       "title": "[情報] 外資賣超歷史前十名(今天第一名)",
       "link": "/bbs/Stock/M.1792048585.A.799",
       "author": "marginalFeng",
@@ -24,8 +24,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/1LIsB0a/s/3ab1f06585a3dd2b88f217a39a99ad28"
     },
     {
-      "recommendScore": "614",
-      "recommendCount": "879",
+      "recommendScore": "616",
+      "recommendCount": "885",
       "title": "[情報] 115年10月15日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1792049024.A.75F",
       "author": "coconing",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "340",
-      "recommendCount": "640",
+      "recommendScore": "342",
+      "recommendCount": "642",
       "title": "[新聞] 里長參選人爆虐童黑歷史！曾打死2歲童遭判囚7年半　鄰居、社會局這樣說",
       "link": "/bbs/Gossiping/M.1792032036.A.8FD",
       "author": "WuSam",
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "305",
-      "recommendCount": "636",
+      "recommendCount": "637",
       "title": "[新聞] 天下第一檢出事了！檢察官呷毒遭攔檢 北檢火速發聲：已遞辭呈",
       "link": "/bbs/Gossiping/M.1792038478.A.EAF",
       "author": "eunhailoveu",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "221",
-      "recommendCount": "402",
+      "recommendScore": "222",
+      "recommendCount": "403",
       "title": "[情報] 2330台積電 Q3 29.43",
       "link": "/bbs/Stock/M.1792042262.A.74F",
       "author": "DrowningPool",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "225",
-      "recommendCount": "402",
+      "recommendScore": "229",
+      "recommendCount": "409",
       "title": "[爆卦] 前綠營幕僚被霸凌 正國會動用衛福部封殺",
       "link": "/bbs/Gossiping/M.1792049824.A.EC1",
       "author": "Hyuui",
@@ -162,6 +162,16 @@
       "board": "Gossiping",
       "publishTime": "2026/10/15 06:38",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "144",
+      "recommendCount": "420",
+      "title": "[問卦] 好心扶跌倒婦人反被告，法官竟勸11萬和解",
+      "link": "/bbs/Gossiping/M.1792058026.A.0AE",
+      "author": "cowardlyman",
+      "board": "Gossiping",
+      "publishTime": "2026/10/15 09:53",
+      "imageUrl": "https://cache.pttweb.cc/imgur/BHpEOaF/s/d61093d77d1b4d4aa34d36a116eade81"
     },
     {
       "recommendScore": "248",
@@ -191,16 +201,6 @@
       "author": "DsLove710",
       "board": "Baseball",
       "publishTime": "2026/10/15 02:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "159",
-      "recommendCount": "420",
-      "title": "[新聞]淡江電機所僅1人上課 「全班大缺席」老師難過到不教了",
-      "link": "/bbs/Gossiping/M.1791980176.A.A4E",
-      "author": "la1aco",
-      "board": "Gossiping",
-      "publishTime": "2026/10/14 12:16",
       "imageUrl": ""
     }
   ]
