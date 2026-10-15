@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T13:47:41.819Z",
+  "updated": "2026-10-15T13:56:37.876Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "248",
+      "recommendCount": "713",
+      "title": "[問卦] 好心扶跌倒婦人反被告，法官竟勸11萬和解",
+      "link": "/bbs/Gossiping/M.1792058026.A.0AE",
+      "author": "cowardlyman",
+      "board": "Gossiping",
+      "publishTime": "2026/10/15 09:53",
+      "imageUrl": "https://cache.pttweb.cc/imgur/BHpEOaF/s/d61093d77d1b4d4aa34d36a116eade81"
+    },
+    {
       "recommendScore": "347",
       "recommendCount": "656",
       "title": "[新聞] 里長參選人爆虐童黑歷史！曾打死2歲童遭判囚7年半　鄰居、社會局這樣說",
@@ -32,16 +42,6 @@
       "board": "Gossiping",
       "publishTime": "2026/10/15 02:40",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "244",
-      "recommendCount": "704",
-      "title": "[問卦] 好心扶跌倒婦人反被告，法官竟勸11萬和解",
-      "link": "/bbs/Gossiping/M.1792058026.A.0AE",
-      "author": "cowardlyman",
-      "board": "Gossiping",
-      "publishTime": "2026/10/15 09:53",
-      "imageUrl": "https://cache.pttweb.cc/imgur/BHpEOaF/s/d61093d77d1b4d4aa34d36a116eade81"
     },
     {
       "recommendScore": "310",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "126",
-      "recommendCount": "579",
+      "recommendScore": "131",
+      "recommendCount": "597",
       "title": "[新聞] 梁文傑：沈伯洋父親是在幫中國廠商賺錢就像很多人賣淘寶貨",
       "link": "/bbs/Gossiping/M.1792057613.A.986",
       "author": "qazxc1156892",
@@ -104,13 +104,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "266",
-      "recommendCount": "469",
+      "recommendScore": "267",
+      "recommendCount": "472",
       "title": "[爆卦] 前綠營幕僚被霸凌 正國會動用衛福部封殺",
       "link": "/bbs/Gossiping/M.1792049824.A.EC1",
       "author": "Hyuui",
       "board": "Gossiping",
       "publishTime": "2026/10/15 07:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "138",
+      "recommendCount": "409",
+      "title": "[新聞] 台股恐跌回22500點？陳嘉偉示警「還有2萬多點要跌」 5年線成關鍵",
+      "link": "/bbs/Stock/M.1792061171.A.99B",
+      "author": "EstelleRinz",
+      "board": "Stock",
+      "publishTime": "2026/10/15 10:46",
       "imageUrl": ""
     },
     {
@@ -121,16 +131,6 @@
       "author": "kuwawa",
       "board": "Gossiping",
       "publishTime": "2026/10/15 02:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "134",
-      "recommendCount": "402",
-      "title": "[新聞] 台股恐跌回22500點？陳嘉偉示警「還有2萬多點要跌」 5年線成關鍵",
-      "link": "/bbs/Stock/M.1792061171.A.99B",
-      "author": "EstelleRinz",
-      "board": "Stock",
-      "publishTime": "2026/10/15 10:46",
       "imageUrl": ""
     },
     {
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "204",
-      "recommendCount": "435",
+      "recommendScore": "206",
+      "recommendCount": "440",
       "title": "[新聞] 不爽「D棟」唸「豬棟」 工人飆罵三字經一、二審都無罪",
       "link": "/bbs/Gossiping/M.1792046294.A.790",
       "author": "CarlPainvano",
