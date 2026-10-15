@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-15T01:05:41.802Z",
+  "updated": "2026-10-15T01:29:11.307Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "623",
-      "recommendCount": "1304",
+      "recommendScore": "630",
+      "recommendCount": "1321",
       "title": "[爆卦] 高雄8088賴瑞隆在脆上遭連爆狠料",
       "link": "/bbs/Gossiping/M.1791977045.A.049",
       "author": "shole",
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/1LIsB0a/s/3ab1f06585a3dd2b88f217a39a99ad28"
     },
     {
-      "recommendScore": "222",
-      "recommendCount": "908",
+      "recommendScore": "221",
+      "recommendCount": "909",
       "title": "[新聞] 父親另一公司遭陸制裁 沈伯洋競辦：這種方式不會得到台灣人民信任",
       "link": "/bbs/Gossiping/M.1791958239.A.E01",
       "author": "Aqqqa",
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "157",
+      "recommendCount": "527",
+      "title": "[新聞] 新北國中割頸案！家屬捐500萬當獎學金 嫌犯律師批：故意轉移資產",
+      "link": "/bbs/Gossiping/M.1791956845.A.7B1",
+      "author": "the06512",
+      "board": "Gossiping",
+      "publishTime": "2026/10/14 05:47",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "213",
       "recommendCount": "483",
       "title": "[新聞] 「天下第一檢」開缺了！北檢找檢察官左右手　薪資、報名資格曝",
@@ -81,16 +91,6 @@
       "author": "vdml",
       "board": "Gossiping",
       "publishTime": "2026/10/14 03:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "156",
-      "recommendCount": "524",
-      "title": "[新聞] 新北國中割頸案！家屬捐500萬當獎學金 嫌犯律師批：故意轉移資產",
-      "link": "/bbs/Gossiping/M.1791956845.A.7B1",
-      "author": "the06512",
-      "board": "Gossiping",
-      "publishTime": "2026/10/14 05:47",
       "imageUrl": ""
     },
     {
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "133",
-      "recommendCount": "367",
+      "recommendScore": "135",
+      "recommendCount": "375",
       "title": "[新聞] 謝金河:台積電不出 誰與爭鋒？台股將向五萬",
       "link": "/bbs/Stock/M.1791983310.A.2AA",
       "author": "DrowningPool",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "327",
-      "recommendCount": "343",
+      "recommendScore": "337",
+      "recommendCount": "353",
       "title": "[活俠] 小梅…我的小梅呀……",
       "link": "/bbs/C_Chat/M.1791990921.A.7FD",
       "author": "WeiBirdFan",
@@ -174,8 +174,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "78",
+      "recommendCount": "368",
+      "title": "[新聞]港媒爆料沈伯洋家族企業 民進黨：上禮拜",
+      "link": "/bbs/Gossiping/M.1792021301.A.197",
+      "author": "james7923",
+      "board": "Gossiping",
+      "publishTime": "2026/10/14 23:41",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "113",
-      "recommendCount": "348",
+      "recommendCount": "349",
       "title": "[新聞] 人命剛沒了！北市女騎士撞死人隔天吸安",
       "link": "/bbs/Gossiping/M.1791945813.A.0F4",
       "author": "wellwed",
@@ -185,22 +195,12 @@
     },
     {
       "recommendScore": "118",
-      "recommendCount": "377",
+      "recommendCount": "378",
       "title": "[新聞]港媒控「表面抗中、家族換殼賺紅錢」沈伯洋:為何選在這時候爆？",
       "link": "/bbs/Gossiping/M.1791963102.A.2C7",
       "author": "googolplex",
       "board": "Gossiping",
       "publishTime": "2026/10/14 07:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "147",
-      "recommendCount": "379",
-      "title": "[新聞]淡江電機所僅1人上課 「全班大缺席」老師難過到不教了",
-      "link": "/bbs/Gossiping/M.1791980176.A.A4E",
-      "author": "la1aco",
-      "board": "Gossiping",
-      "publishTime": "2026/10/14 12:16",
       "imageUrl": ""
     }
   ]
