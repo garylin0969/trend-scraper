@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-14T23:53:12.226Z",
+  "updated": "2026-10-15T00:30:50.488Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "609",
-      "recommendCount": "1258",
+      "recommendScore": "618",
+      "recommendCount": "1289",
       "title": "[爆卦] 高雄8088賴瑞隆在脆上遭連爆狠料",
       "link": "/bbs/Gossiping/M.1791977045.A.049",
       "author": "shole",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "268",
-      "recommendCount": "683",
+      "recommendScore": "270",
+      "recommendCount": "685",
       "title": "[新聞] 徐巧芯「留時間給沈伯洋來質詢」 王義川不滿罵「爛召委」",
       "link": "/bbs/Gossiping/M.1791968686.A.900",
       "author": "DORAQMON",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "346",
-      "recommendCount": "560",
+      "recommendScore": "348",
+      "recommendCount": "563",
       "title": "[情報] 美國9月份CPI",
       "link": "/bbs/Stock/M.1791981027.A.EBD",
       "author": "xephon",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "264",
-      "recommendCount": "564",
+      "recommendCount": "565",
       "title": "[新聞] 川普稱台灣包下阿拉斯加3成天然氣！採購20年 加碼投資44億美元",
       "link": "/bbs/Stock/M.1791944657.A.0D2",
       "author": "mzwj",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "212",
-      "recommendCount": "482",
+      "recommendScore": "213",
+      "recommendCount": "483",
       "title": "[新聞] 「天下第一檢」開缺了！北檢找檢察官左右手　薪資、報名資格曝",
       "link": "/bbs/Gossiping/M.1791947331.A.389",
       "author": "vdml",
@@ -104,13 +104,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "126",
-      "recommendCount": "343",
+      "recommendScore": "125",
+      "recommendCount": "356",
       "title": "[新聞] 謝金河:台積電不出 誰與爭鋒？台股將向五萬",
       "link": "/bbs/Stock/M.1791983310.A.2AA",
       "author": "DrowningPool",
       "board": "Stock",
       "publishTime": "2026/10/14 13:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "312",
+      "recommendCount": "328",
+      "title": "[活俠] 小梅…我的小梅呀……",
+      "link": "/bbs/C_Chat/M.1791990921.A.7FD",
+      "author": "WeiBirdFan",
+      "board": "C_Chat",
+      "publishTime": "2026/10/14 15:15",
       "imageUrl": ""
     },
     {
@@ -124,23 +134,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "192",
-      "recommendCount": "443",
+      "recommendScore": "193",
+      "recommendCount": "445",
       "title": "[新聞] 籲黨內勿預測選情！民進黨示警：造勢人潮不代表選票",
       "link": "/bbs/Gossiping/M.1791970674.A.E4C",
       "author": "access4096",
       "board": "Gossiping",
       "publishTime": "2026/10/14 09:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "291",
-      "recommendCount": "306",
-      "title": "[活俠] 小梅…我的小梅呀……",
-      "link": "/bbs/C_Chat/M.1791990921.A.7FD",
-      "author": "WeiBirdFan",
-      "board": "C_Chat",
-      "publishTime": "2026/10/14 15:15",
       "imageUrl": ""
     },
     {
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "103",
+      "recommendCount": "377",
+      "title": "[新聞] 沈伯洋建中恩師發聲！讚「溫厚善良」　感性坦言：不敢以老師自居",
+      "link": "/bbs/Gossiping/M.1791965144.A.F10",
+      "author": "runa2",
+      "board": "Gossiping",
+      "publishTime": "2026/10/14 08:05",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "154",
       "recommendCount": "526",
       "title": "[新聞] 穿著不夠純樸？台北101董事長賈永婕被立委噹",
@@ -161,16 +171,6 @@
       "author": "bang59487",
       "board": "HatePolitics",
       "publishTime": "2026/10/14 07:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "102",
-      "recommendCount": "376",
-      "title": "[新聞] 沈伯洋建中恩師發聲！讚「溫厚善良」　感性坦言：不敢以老師自居",
-      "link": "/bbs/Gossiping/M.1791965144.A.F10",
-      "author": "runa2",
-      "board": "Gossiping",
-      "publishTime": "2026/10/14 08:05",
       "imageUrl": ""
     },
     {
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "116",
-      "recommendCount": "368",
+      "recommendScore": "117",
+      "recommendCount": "370",
       "title": "[新聞]港媒控「表面抗中、家族換殼賺紅錢」沈伯洋:為何選在這時候爆？",
       "link": "/bbs/Gossiping/M.1791963102.A.2C7",
       "author": "googolplex",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "116",
-      "recommendCount": "356",
-      "title": "[新聞] 父遭爆換公司續向陸下單 沈伯洋挨轟「喝紅奶水」回應了",
-      "link": "/bbs/Gossiping/M.1791937366.A.215",
-      "author": "mongi",
+      "recommendScore": "145",
+      "recommendCount": "375",
+      "title": "[新聞]淡江電機所僅1人上課 「全班大缺席」老師難過到不教了",
+      "link": "/bbs/Gossiping/M.1791980176.A.A4E",
+      "author": "la1aco",
       "board": "Gossiping",
-      "publishTime": "2026/10/14 00:22",
+      "publishTime": "2026/10/14 12:16",
       "imageUrl": ""
     }
   ]
