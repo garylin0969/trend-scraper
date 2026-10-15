@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-15T01:50:04.969Z",
+  "updated": "2026-10-15T01:59:20.600Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "632",
-      "recommendCount": "1331",
+      "recommendScore": "631",
+      "recommendCount": "1333",
       "title": "[爆卦] 高雄8088賴瑞隆在脆上遭連爆狠料",
       "link": "/bbs/Gossiping/M.1791977045.A.049",
       "author": "shole",
@@ -105,7 +105,7 @@
     },
     {
       "recommendScore": "341",
-      "recommendCount": "358",
+      "recommendCount": "359",
       "title": "[活俠] 小梅…我的小梅呀……",
       "link": "/bbs/C_Chat/M.1791990921.A.7FD",
       "author": "WeiBirdFan",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "114",
+      "recommendCount": "350",
+      "title": "[新聞] 人命剛沒了！北市女騎士撞死人隔天吸安",
+      "link": "/bbs/Gossiping/M.1791945813.A.0F4",
+      "author": "wellwed",
+      "board": "Gossiping",
+      "publishTime": "2026/10/14 02:43",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "118",
       "recommendCount": "379",
       "title": "[新聞]港媒控「表面抗中、家族換殼賺紅錢」沈伯洋:為何選在這時候爆？",
@@ -191,16 +201,6 @@
       "author": "googolplex",
       "board": "Gossiping",
       "publishTime": "2026/10/14 07:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "113",
-      "recommendCount": "349",
-      "title": "[新聞] 人命剛沒了！北市女騎士撞死人隔天吸安",
-      "link": "/bbs/Gossiping/M.1791945813.A.0F4",
-      "author": "wellwed",
-      "board": "Gossiping",
-      "publishTime": "2026/10/14 02:43",
       "imageUrl": ""
     }
   ]
