@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T07:26:05.506Z",
+  "updated": "2026-10-16T07:40:21.188Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "177",
-      "recommendCount": "750",
+      "recommendCount": "751",
       "title": "[新聞] 梁文傑：沈伯洋父親是在幫中國廠商賺錢就像很多人賣淘寶貨",
       "link": "/bbs/Gossiping/M.1792057613.A.986",
       "author": "qazxc1156892",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "383",
-      "recommendCount": "678",
+      "recommendScore": "386",
+      "recommendCount": "683",
       "title": "[新聞] 特斯拉全新一代Roadster發表「真的能飛天」！馬斯克：挑戰物理極限",
       "link": "/bbs/Stock/M.1792117468.A.D88",
       "author": "yisky",
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "200",
+      "recommendCount": "814",
+      "title": "[新聞]每人一年多付3000！藍白硬闖 「65歲以上長者免健保費」三讀",
+      "link": "/bbs/Gossiping/M.1792128714.A.669",
+      "author": "medama",
+      "board": "Gossiping",
+      "publishTime": "2026/10/16 05:31",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "209",
       "recommendCount": "562",
       "title": "[新聞] 沈伯洋父親公司再被北京制裁 梁文傑：沈父是幫大陸廠商賺錢",
@@ -101,26 +111,6 @@
       "author": "STi2011",
       "board": "Gossiping",
       "publishTime": "2026/10/16 00:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "296",
-      "recommendCount": "565",
-      "title": "[爆卦] 前綠營幕僚被霸凌 正國會動用衛福部封殺",
-      "link": "/bbs/Gossiping/M.1792049824.A.EC1",
-      "author": "Hyuui",
-      "board": "Gossiping",
-      "publishTime": "2026/10/15 07:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "189",
-      "recommendCount": "756",
-      "title": "[新聞]每人一年多付3000！藍白硬闖 「65歲以上長者免健保費」三讀",
-      "link": "/bbs/Gossiping/M.1792128714.A.669",
-      "author": "medama",
-      "board": "Gossiping",
-      "publishTime": "2026/10/16 05:31",
       "imageUrl": ""
     },
     {
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "341",
-      "recommendCount": "545",
+      "recommendScore": "345",
+      "recommendCount": "552",
       "title": "[閒聊] tesla roster太屌了",
       "link": "/bbs/car/M.1792112955.A.8E1",
       "author": "ce0336ce",
       "board": "car",
       "publishTime": "2026/10/16 01:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "216",
+      "recommendCount": "325",
+      "title": "[情報] 道奇直落4慘遭橫掃 釀酒人獲得國聯冠軍",
+      "link": "/bbs/Baseball/M.1792120082.A.DC7",
+      "author": "DsLove710",
+      "board": "Baseball",
+      "publishTime": "2026/10/16 03:08",
       "imageUrl": ""
     }
   ]
