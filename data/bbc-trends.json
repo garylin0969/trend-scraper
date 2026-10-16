@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-16T09:26:27.414Z",
+  "updated": "2026-10-16T09:49:30.690Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-10-16T09:26:26.000Z",
+    "lastBuildDate": "2026-10-16T09:49:23.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -34,20 +34,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c435/live/7729bf90-c8d5-11f1-874f-2bba45330ab3.jpg"
     },
     {
-      "title": "法國總統大選前，學生抗議活動是否被人為操縱？",
-      "description": "法國總理暗示學生的憤怒情緒正被武器化，因為工會和其他抗議者也準備走上街頭。法國是否瀕臨崩潰？",
-      "link": "https://www.bbc.com/zhongwen/articles/crz65gxl2jxlo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-16T06:21:31.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crz65gxl2jxlo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/00d9/live/2e460170-c8bd-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
       "title": "「日子難熬」：美國人苦苦應對不斷上漲的通貨膨脹",
       "description": "美國通膨持續攀升，本月漲幅超乎預期。以下是一些人如何應對的方法。",
       "link": "https://www.bbc.com/zhongwen/articles/c6vgj9r0k18eo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-10-16T00:27:29.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c6vgj9r0k18eo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e691/live/4f2f6b20-adf0-11f1-ad53-0d91a06f3150.jpg"
+    },
+    {
+      "title": "「我今年12歲，該嘗試蛋白粉嗎？」",
+      "description": "BBC詢問專家，兒童和青少年服用蛋白質補充劑是否安全。",
+      "link": "https://www.bbc.com/zhongwen/articles/cqkgl3re7mnpo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-10-16T09:28:44.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cqkgl3re7mnpo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8554/live/d1f10220-c26e-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "title": "法國總統大選前，學生抗議活動是否被人為操縱？",
+      "description": "法國總理暗示學生的憤怒情緒正被武器化，因為工會和其他抗議者也準備走上街頭。法國是否瀕臨崩潰？",
+      "link": "https://www.bbc.com/zhongwen/articles/crz65gxl2jxlo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-10-16T06:21:31.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/crz65gxl2jxlo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/00d9/live/2e460170-c8bd-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "title": "特朗普叫停網上直播處決胡德堡槍擊案槍手",
@@ -104,14 +112,6 @@
       "pubDate": "2026-10-14T03:36:37.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c3n07pkpk5ggo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/815f/live/b7df6e90-be3a-11f1-883b-cfbfbf424e7e.jpg"
-    },
-    {
-      "title": "從今以後，不擇手段？普京新策略要讓烏克蘭全國片瓦無存",
-      "description": "從學校、醫院、酒店、數據中心、火車到橋樑，俄羅斯近數星期加強以導彈和無人機襲擊烏克蘭首都及其他主要城市，攻擊民用目標。",
-      "link": "https://www.bbc.com/zhongwen/articles/cwm235qpgrrdo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-14T09:09:43.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwm235qpgrrdo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ead/live/60029d80-c08a-11f1-a4af-19dbf5352a59.png"
     },
     {
       "title": "美沙冬是毒還是藥？從香港經驗看台灣選戰戒毒爭議",
@@ -194,6 +194,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9542/live/762ecd10-b5b6-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
+      "title": "從今以後，不擇手段？普京新策略要讓烏克蘭全國片瓦無存",
+      "description": "從學校、醫院、酒店、數據中心、火車到橋樑，俄羅斯近數星期加強以導彈和無人機襲擊烏克蘭首都及其他主要城市，攻擊民用目標。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwm235qpgrrdo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-10-14T09:09:43.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwm235qpgrrdo/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ead/live/60029d80-c08a-11f1-a4af-19dbf5352a59.png"
+    },
+    {
       "title": "中共中央紀委：薄熙來前搭檔黃奇帆接受調查",
       "description": "黃奇帆擔任重慶市長期間，上級薄熙來與同僚王立軍系列醜聞爆發。離任後，他仍以經濟學家身分周遊演說。",
       "link": "https://www.bbc.com/zhongwen/articles/c63r584g9xwpo/trad?at_medium=RSS&at_campaign=rss",
@@ -208,14 +216,6 @@
       "pubDate": "2026-10-08T04:41:43.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cq5ynx00d4leo/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0722/live/5cb72e20-be3c-11f1-a64c-550be9e3c66b.png"
-    },
-    {
-      "title": "伊朗與烏克蘭 哪場戰爭對柴油價格影響最大？",
-      "description": "兩場衝突都導致柴油出口減少，但數據顯示，中東地區減少的供應量更多。",
-      "link": "https://www.bbc.com/zhongwen/articles/c9p8gv3dnjmgo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-13T00:12:19.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c9p8gv3dnjmgo/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a889/live/0fd61050-c64b-11f1-a64c-550be9e3c66b.png"
     },
     {
       "title": "廣州開發電玩遊戲「喚醒」威爾士民間傳說潛力",
