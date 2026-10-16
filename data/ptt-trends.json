@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-16T12:59:30.675Z",
+  "updated": "2026-10-16T13:19:40.204Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "556",
+      "recommendScore": "555",
       "recommendCount": "1479",
       "title": "[新聞] 影/陸生借位拍「手捏賴清德」　移民署廢入境許可驅逐出境",
       "link": "/bbs/Gossiping/M.1792141072.A.347",
@@ -24,18 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "320",
-      "recommendCount": "1486",
-      "title": "[新聞]每人一年多付3000！藍白硬闖 「65歲以上長者免健保費」三讀",
-      "link": "/bbs/Gossiping/M.1792128714.A.669",
-      "author": "medama",
-      "board": "Gossiping",
-      "publishTime": "2026/10/16 05:31",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "581",
-      "recommendCount": "635",
+      "recommendScore": "583",
+      "recommendCount": "638",
       "title": "[分享] 川上拓斗裁判意識恢復",
       "link": "/bbs/Baseball/M.1792134514.A.87E",
       "author": "wutface",
@@ -75,7 +65,7 @@
     },
     {
       "recommendScore": "434",
-      "recommendCount": "765",
+      "recommendCount": "766",
       "title": "[新聞] 特斯拉全新一代Roadster發表「真的能飛天」！馬斯克：挑戰物理極限",
       "link": "/bbs/Stock/M.1792117468.A.D88",
       "author": "yisky",
@@ -84,13 +74,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "219",
-      "recommendCount": "569",
+      "recommendScore": "222",
+      "recommendCount": "575",
       "title": "[爆卦] threads熱議：我的小孩因為沈伯洋愛唸書",
       "link": "/bbs/Gossiping/M.1792135574.A.DA0",
       "author": "cowardlyman",
       "board": "Gossiping",
       "publishTime": "2026/10/16 07:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "291",
+      "recommendCount": "718",
+      "title": "[新聞] 陸生「捏賴清德」遭驅逐已離境　台大：尊重政府執法",
+      "link": "/bbs/Gossiping/M.1792145703.A.8B8",
+      "author": "Angels5566",
+      "board": "Gossiping",
+      "publishTime": "2026/10/16 10:15",
       "imageUrl": ""
     },
     {
@@ -101,16 +101,6 @@
       "author": "STi2011",
       "board": "Gossiping",
       "publishTime": "2026/10/16 00:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "272",
-      "recommendCount": "671",
-      "title": "[新聞] 陸生「捏賴清德」遭驅逐已離境　台大：尊重政府執法",
-      "link": "/bbs/Gossiping/M.1792145703.A.8B8",
-      "author": "Angels5566",
-      "board": "Gossiping",
-      "publishTime": "2026/10/16 10:15",
       "imageUrl": ""
     },
     {
@@ -134,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "228",
-      "recommendCount": "421",
+      "recommendScore": "231",
+      "recommendCount": "429",
       "title": "[新聞] 肌肉記憶害慘！「永豐大戶投」APP改版對調「買賣鍵」苦主崩潰：台積電被賣",
       "link": "/bbs/Stock/M.1792131731.A.F17",
       "author": "troy30408",
@@ -164,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "266",
+      "recommendCount": "688",
+      "title": "[討論] 中國交換生po捏賴清德頭喊拿下遭驅逐出境",
+      "link": "/bbs/HatePolitics/M.1792141362.A.219",
+      "author": "waymayday",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/16 09:02",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "223",
       "recommendCount": "333",
       "title": "[情報] 道奇直落4慘遭橫掃 釀酒人獲得國聯冠軍",
@@ -171,16 +171,6 @@
       "author": "DsLove710",
       "board": "Baseball",
       "publishTime": "2026/10/16 03:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "260",
-      "recommendCount": "675",
-      "title": "[討論] 中國交換生po捏賴清德頭喊拿下遭驅逐出境",
-      "link": "/bbs/HatePolitics/M.1792141362.A.219",
-      "author": "waymayday",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/16 09:02",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "LoL",
       "publishTime": "2026/10/15 13:24",
       "imageUrl": "https://cache.pttweb.cc/imgur/MpuIHg1/s/3df2a42b5bb2f51a8bb89ac7b650e978"
+    },
+    {
+      "recommendScore": "138",
+      "recommendCount": "294",
+      "title": "[新聞] 魏哲家「台積電法說會後」吐心聲：早就知道股票會跌 腦袋有點空",
+      "link": "/bbs/Stock/M.1792141306.A.53E",
+      "author": "keel90135",
+      "board": "Stock",
+      "publishTime": "2026/10/16 09:01",
+      "imageUrl": ""
     }
   ]
 }
