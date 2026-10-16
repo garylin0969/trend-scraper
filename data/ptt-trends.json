@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-16T11:55:06.908Z",
+  "updated": "2026-10-16T12:18:11.876Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "535",
+      "recommendScore": "543",
       "recommendCount": "1479",
       "title": "[新聞] 影/陸生借位拍「手捏賴清德」　移民署廢入境許可驅逐出境",
       "link": "/bbs/Gossiping/M.1792141072.A.347",
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/MpuIHg1/s/3df2a42b5bb2f51a8bb89ac7b650e978"
     },
     {
-      "recommendScore": "684",
-      "recommendCount": "793",
+      "recommendScore": "683",
+      "recommendCount": "796",
       "title": "[炸裂] 大谷翔平",
       "link": "/bbs/Baseball/M.1792111704.A.F4F",
       "author": "DsLove710",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "300",
-      "recommendCount": "1404",
+      "recommendScore": "307",
+      "recommendCount": "1435",
       "title": "[新聞]每人一年多付3000！藍白硬闖 「65歲以上長者免健保費」三讀",
       "link": "/bbs/Gossiping/M.1792128714.A.669",
       "author": "medama",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "564",
-      "recommendCount": "618",
+      "recommendScore": "574",
+      "recommendCount": "628",
       "title": "[分享] 川上拓斗裁判意識恢復",
       "link": "/bbs/Baseball/M.1792134514.A.87E",
       "author": "wutface",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "430",
-      "recommendCount": "761",
+      "recommendScore": "432",
+      "recommendCount": "763",
       "title": "[新聞] 特斯拉全新一代Roadster發表「真的能飛天」！馬斯克：挑戰物理極限",
       "link": "/bbs/Stock/M.1792117468.A.D88",
       "author": "yisky",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "206",
-      "recommendCount": "534",
+      "recommendScore": "211",
+      "recommendCount": "543",
       "title": "[爆卦] threads熱議：我的小孩因為沈伯洋愛唸書",
       "link": "/bbs/Gossiping/M.1792135574.A.DA0",
       "author": "cowardlyman",
@@ -134,8 +134,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "227",
-      "recommendCount": "416",
+      "recommendScore": "218",
+      "recommendCount": "526",
+      "title": "[新聞] 陸生「捏賴清德」遭驅逐已離境　台大：尊重政府執法",
+      "link": "/bbs/Gossiping/M.1792145703.A.8B8",
+      "author": "Angels5566",
+      "board": "Gossiping",
+      "publishTime": "2026/10/16 10:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "228",
+      "recommendCount": "419",
       "title": "[新聞] 肌肉記憶害慘！「永豐大戶投」APP改版對調「買賣鍵」苦主崩潰：台積電被賣",
       "link": "/bbs/Stock/M.1792131731.A.F17",
       "author": "troy30408",
@@ -144,23 +154,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "370",
-      "recommendCount": "609",
+      "recommendScore": "371",
+      "recommendCount": "610",
       "title": "[閒聊] tesla roster太屌了",
       "link": "/bbs/car/M.1792112955.A.8E1",
       "author": "ce0336ce",
       "board": "car",
       "publishTime": "2026/10/16 01:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "327",
-      "recommendCount": "349",
-      "title": "[活俠]賀「崆洞神威」版本更新！送活俠傳5份！",
-      "link": "/bbs/C_Chat/M.1792065559.A.FC8",
-      "author": "winloudy",
-      "board": "C_Chat",
-      "publishTime": "2026/10/15 11:59",
       "imageUrl": ""
     },
     {
@@ -184,23 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "185",
-      "recommendCount": "448",
-      "title": "[新聞] 陸生「捏賴清德」遭驅逐已離境　台大：尊重政府執法",
-      "link": "/bbs/Gossiping/M.1792145703.A.8B8",
-      "author": "Angels5566",
-      "board": "Gossiping",
-      "publishTime": "2026/10/16 10:15",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "226",
-      "recommendCount": "314",
+      "recommendCount": "316",
       "title": "[情報] 115年10月16日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1792135073.A.8A6",
       "author": "coconing",
       "board": "Stock",
       "publishTime": "2026/10/16 07:17",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "252",
+      "recommendCount": "659",
+      "title": "[討論] 中國交換生po捏賴清德頭喊拿下遭驅逐出境",
+      "link": "/bbs/HatePolitics/M.1792141362.A.219",
+      "author": "waymayday",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/16 09:02",
       "imageUrl": ""
     }
   ]
