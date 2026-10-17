@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T15:09:47.191Z",
+  "updated": "2026-10-17T15:20:45.663Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "225",
-      "recommendCount": "451",
+      "recommendScore": "228",
+      "recommendCount": "456",
       "title": "[請益] 這波下殺有比7月恐怖嗎？",
       "link": "/bbs/Stock/M.1792235124.A.8EB",
       "author": "tony5110",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "177",
-      "recommendCount": "1268",
+      "recommendScore": "176",
+      "recommendCount": "1269",
       "title": "[新聞]國民黨怒了！不滿陸生「手捏賴清德」遭驅逐：民主總統應接受嘲諷",
       "link": "/bbs/Gossiping/M.1792164858.A.651",
       "author": "ztopip",
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "165",
+      "recommendCount": "303",
+      "title": "[分享] 374家人被威脅了",
+      "link": "/bbs/Baseball/M.1792242416.A.D91",
+      "author": "tmacai0103",
+      "board": "Baseball",
+      "publishTime": "2026/10/17 13:06",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "140",
       "recommendCount": "405",
       "title": "[問卦] 遭驅逐陸生：我以前罵習近平 也被抓進",
@@ -191,16 +201,6 @@
       "author": "carlchang092",
       "board": "Baseball",
       "publishTime": "2026/10/17 11:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "171",
-      "recommendCount": "303",
-      "title": "Re: [新聞] 阿嬤淚崩跪求沈伯洋：照顧社子島窮苦人們",
-      "link": "/bbs/Gossiping/M.1792215459.A.4EF",
-      "author": "mmch",
-      "board": "Gossiping",
-      "publishTime": "2026/10/17 05:37",
       "imageUrl": ""
     }
   ]
