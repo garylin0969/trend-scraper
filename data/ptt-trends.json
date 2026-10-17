@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T07:47:41.258Z",
+  "updated": "2026-10-17T07:54:31.658Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "255",
-      "recommendCount": "435",
-      "title": "[討論] 什麼樣的人會想買Duo",
-      "link": "/bbs/iOS/M.1792137023.A.14C",
-      "author": "Ginru",
-      "board": "iOS",
-      "publishTime": "2026/10/16 07:50",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "123",
       "recommendCount": "390",
       "title": "[請益] 成本3500塊錢的聯發科一股沒賣 太貪心了?",
@@ -194,13 +184,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/1tg5WWf/s/c488ca0853f10002a1b070c698cd28c2"
     },
     {
-      "recommendScore": "212",
-      "recommendCount": "223",
+      "recommendScore": "213",
+      "recommendCount": "224",
       "title": "[討論] 發錢 猜勝隊及比數",
       "link": "/bbs/Baseball/M.1792198926.A.CB3",
       "author": "ben1013",
       "board": "Baseball",
       "publishTime": "2026/10/17 01:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "127",
+      "recommendCount": "382",
+      "title": "[問卦] 遭驅逐陸生：我以前罵習近平 也被抓進",
+      "link": "/bbs/Gossiping/M.1792197603.A.210",
+      "author": "oppo5566",
+      "board": "Gossiping",
+      "publishTime": "2026/10/17 00:40",
       "imageUrl": ""
     }
   ]
