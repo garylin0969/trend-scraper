@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T03:13:50.807Z",
+  "updated": "2026-10-17T03:33:20.692Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,18 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "484",
-      "recommendCount": "587",
-      "title": "[發錢] daaaaa dodgers lose!",
-      "link": "/bbs/Baseball/M.1792120462.A.AC9",
-      "author": "SwampDonkey",
-      "board": "Baseball",
-      "publishTime": "2026/10/16 03:14",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "251",
-      "recommendCount": "639",
+      "recommendCount": "640",
       "title": "[爆卦] threads熱議：我的小孩因為沈伯洋愛唸書",
       "link": "/bbs/Gossiping/M.1792135574.A.DA0",
       "author": "cowardlyman",
@@ -125,7 +115,7 @@
     },
     {
       "recommendScore": "153",
-      "recommendCount": "606",
+      "recommendCount": "607",
       "title": "[問卦] 撇除立場 你各位支持老人免健保費嗎",
       "link": "/bbs/Gossiping/M.1792158239.A.DF2",
       "author": "JinCheng5566",
@@ -154,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "98",
+      "recommendCount": "502",
+      "title": "[新聞] 民團批「長者免健保費」釀3惡果 呼籲行政院長不副署",
+      "link": "/bbs/Gossiping/M.1792198186.A.AF5",
+      "author": "omanorboyo",
+      "board": "Gossiping",
+      "publishTime": "2026/10/17 00:49",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "92",
       "recommendCount": "381",
       "title": "[討論] 事實證明 棒球抱團沒用吧？",
@@ -164,18 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "89",
-      "recommendCount": "474",
-      "title": "[新聞] 民團批「長者免健保費」釀3惡果 呼籲行政院長不副署",
-      "link": "/bbs/Gossiping/M.1792198186.A.AF5",
-      "author": "omanorboyo",
-      "board": "Gossiping",
-      "publishTime": "2026/10/17 00:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "246",
-      "recommendCount": "417",
+      "recommendScore": "247",
+      "recommendCount": "420",
       "title": "[討論] 什麼樣的人會想買Duo",
       "link": "/bbs/iOS/M.1792137023.A.14C",
       "author": "Ginru",
@@ -202,6 +192,16 @@
       "board": "LoL",
       "publishTime": "2026/10/16 13:20",
       "imageUrl": "https://cache.pttweb.cc/imgur/1tg5WWf/s/c488ca0853f10002a1b070c698cd28c2"
+    },
+    {
+      "recommendScore": "127",
+      "recommendCount": "260",
+      "title": "[新聞] 買午餐爆衝突！成功高中學生腳踹熱食部員工",
+      "link": "/bbs/Gossiping/M.1792166314.A.951",
+      "author": "Teentop",
+      "board": "Gossiping",
+      "publishTime": "2026/10/16 15:58",
+      "imageUrl": ""
     }
   ]
 }
