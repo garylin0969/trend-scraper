@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-17T12:15:30.060Z",
+  "updated": "2026-10-17T12:36:15.669Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "303",
-      "recommendCount": "647",
-      "title": "[新聞] 高醫心臟科名醫趕回救人卻撞橘貓身亡",
-      "link": "/bbs/Gossiping/M.1792208431.A.7C0",
-      "author": "diefishfish",
-      "board": "Gossiping",
-      "publishTime": "2026/10/17 03:40",
-      "imageUrl": "https://cache.pttweb.cc/imgur/8yaA8i7/s/0d1e54293d08543f8930bb60c2d38983"
-    },
-    {
-      "recommendScore": "208",
-      "recommendCount": "477",
+      "recommendScore": "217",
+      "recommendCount": "500",
       "title": "[新聞] 北檢檢察官吸毒緩起訴　曝光原因竟是承辦檢為「同期同學」",
       "link": "/bbs/Gossiping/M.1792226486.A.BDB",
       "author": "geofrania",
       "board": "Gossiping",
       "publishTime": "2026/10/17 08:41",
+      "imageUrl": "https://cache.pttweb.cc/imgur/8yaA8i7/s/0d1e54293d08543f8930bb60c2d38983"
+    },
+    {
+      "recommendScore": "305",
+      "recommendCount": "650",
+      "title": "[新聞] 高醫心臟科名醫趕回救人卻撞橘貓身亡",
+      "link": "/bbs/Gossiping/M.1792208431.A.7C0",
+      "author": "diefishfish",
+      "board": "Gossiping",
+      "publishTime": "2026/10/17 03:40",
       "imageUrl": ""
     },
     {
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "130",
-      "recommendCount": "672",
+      "recommendScore": "129",
+      "recommendCount": "673",
       "title": "[新聞] 民團批「長者免健保費」釀3惡果 呼籲行政院長不副署",
       "link": "/bbs/Gossiping/M.1792198186.A.AF5",
       "author": "omanorboyo",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "199",
-      "recommendCount": "462",
+      "recommendCount": "463",
       "title": "[問卦] 原來社子島問題這麼簡單？",
       "link": "/bbs/Gossiping/M.1792212636.A.AF6",
       "author": "omanorboyo",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "174",
-      "recommendCount": "1263",
+      "recommendScore": "175",
+      "recommendCount": "1266",
       "title": "[新聞]國民黨怒了！不滿陸生「手捏賴清德」遭驅逐：民主總統應接受嘲諷",
       "link": "/bbs/Gossiping/M.1792164858.A.651",
       "author": "ztopip",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "160",
-      "recommendCount": "631",
+      "recommendScore": "161",
+      "recommendCount": "632",
       "title": "[問卦] 撇除立場 你各位支持老人免健保費嗎",
       "link": "/bbs/Gossiping/M.1792158239.A.DF2",
       "author": "JinCheng5566",
@@ -135,13 +135,23 @@
     },
     {
       "recommendScore": "125",
-      "recommendCount": "418",
+      "recommendCount": "429",
       "title": "[閒聊] 台灣人被中國文化入侵多嚴重？",
       "link": "/bbs/C_Chat/M.1792230502.A.B8F",
       "author": "Kudomoemoe",
       "board": "C_Chat",
       "publishTime": "2026/10/17 09:48",
       "imageUrl": "https://cache.pttweb.cc/imgur/8yaA8i7/s/0d1e54293d08543f8930bb60c2d38983"
+    },
+    {
+      "recommendScore": "190",
+      "recommendCount": "264",
+      "title": "[新聞] 中職／兄弟亞軍訊號出現…僅敲2安打遭完封 締造隊史G1最慘紀錄",
+      "link": "/bbs/Baseball/M.1792236717.A.859",
+      "author": "tsukiji",
+      "board": "Baseball",
+      "publishTime": "2026/10/17 11:31",
+      "imageUrl": ""
     },
     {
       "recommendScore": "136",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/10/17 02:21",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "752",
-      "recommendCount": "1422",
-      "title": "[電競] 2026 World Championship 入圍賽 Day 2",
-      "link": "/bbs/LoL/M.1792156838.A.3FC",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2026/10/16 13:20",
-      "imageUrl": "https://cache.pttweb.cc/imgur/1tg5WWf/s/c488ca0853f10002a1b070c698cd28c2"
     }
   ]
 }
