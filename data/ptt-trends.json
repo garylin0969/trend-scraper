@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T11:38:13.422Z",
+  "updated": "2026-10-17T11:44:58.512Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,13 +24,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "264",
-      "recommendCount": "649",
+      "recommendScore": "265",
+      "recommendCount": "650",
       "title": "[新聞] 快訊／川普突簽行政命令！ 宣布「豁免多項俄羅斯制裁」",
       "link": "/bbs/Stock/M.1792205004.A.625",
       "author": "omanorboyo",
       "board": "Stock",
       "publishTime": "2026/10/17 02:43",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "191",
+      "recommendCount": "438",
+      "title": "[新聞] 北檢檢察官吸毒緩起訴　曝光原因竟是承辦檢為「同期同學」",
+      "link": "/bbs/Gossiping/M.1792226486.A.BDB",
+      "author": "geofrania",
+      "board": "Gossiping",
+      "publishTime": "2026/10/17 08:41",
       "imageUrl": ""
     },
     {
@@ -41,16 +51,6 @@
       "author": "omanorboyo",
       "board": "Gossiping",
       "publishTime": "2026/10/17 00:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "184",
-      "recommendCount": "420",
-      "title": "[新聞] 北檢檢察官吸毒緩起訴　曝光原因竟是承辦檢為「同期同學」",
-      "link": "/bbs/Gossiping/M.1792226486.A.BDB",
-      "author": "geofrania",
-      "board": "Gossiping",
-      "publishTime": "2026/10/17 08:41",
       "imageUrl": ""
     },
     {
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "197",
-      "recommendCount": "457",
+      "recommendCount": "460",
       "title": "[問卦] 原來社子島問題這麼簡單？",
       "link": "/bbs/Gossiping/M.1792212636.A.AF6",
       "author": "omanorboyo",
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "192",
-      "recommendCount": "311",
+      "recommendCount": "312",
       "title": "[新聞] 星鏈烏克蘭限速誰主使？川普：「不是我",
       "link": "/bbs/Stock/M.1792211819.A.7D6",
       "author": "thinksilver",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "157",
-      "recommendCount": "549",
+      "recommendScore": "156",
+      "recommendCount": "551",
       "title": "[新聞]大陸交換生Po捏頭「小小賴清德拿下」遭驅",
       "link": "/bbs/Gossiping/M.1792161861.A.08C",
       "author": "la1aco",
@@ -184,8 +184,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/1tg5WWf/s/c488ca0853f10002a1b070c698cd28c2"
     },
     {
-      "recommendScore": "73",
-      "recommendCount": "372",
+      "recommendScore": "75",
+      "recommendCount": "375",
       "title": "[新聞] 立院通過長者健保免費！卓榮泰怒轟韓國瑜「無視憲法、藐視法律」將出手反制",
       "link": "/bbs/Gossiping/M.1792203692.A.949",
       "author": "iolcst",
@@ -194,14 +194,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "168",
-      "recommendCount": "337",
-      "title": "[討論] 柯志恩岡山空拍圖來了",
-      "link": "/bbs/HatePolitics/M.1792156307.A.9A3",
-      "author": "tenfu",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/16 13:11",
-      "imageUrl": ""
+      "recommendScore": "117",
+      "recommendCount": "389",
+      "title": "[閒聊] 台灣人被中國文化入侵多嚴重？",
+      "link": "/bbs/C_Chat/M.1792230502.A.B8F",
+      "author": "Kudomoemoe",
+      "board": "C_Chat",
+      "publishTime": "2026/10/17 09:48",
+      "imageUrl": "https://cache.pttweb.cc/imgur/8yaA8i7/s/0d1e54293d08543f8930bb60c2d38983"
     }
   ]
 }
