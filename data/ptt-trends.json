@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T05:37:51.769Z",
+  "updated": "2026-10-17T05:45:37.472Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -85,12 +85,22 @@
     },
     {
       "recommendScore": "104",
-      "recommendCount": "770",
+      "recommendCount": "786",
       "title": "[問卦] 國家GDP多了3兆卻付不起390億健保",
       "link": "/bbs/Gossiping/M.1792195756.A.840",
       "author": "kqalea",
       "board": "Gossiping",
       "publishTime": "2026/10/17 00:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "220",
+      "recommendCount": "480",
+      "title": "[新聞] 快訊／川普突簽行政命令！　宣布「豁免多項俄羅斯制裁」",
+      "link": "/bbs/Gossiping/M.1792205000.A.F84",
+      "author": "zxcxxx",
+      "board": "Gossiping",
+      "publishTime": "2026/10/17 02:43",
       "imageUrl": ""
     },
     {
@@ -111,16 +121,6 @@
       "author": "coconing",
       "board": "Stock",
       "publishTime": "2026/10/16 07:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "215",
-      "recommendCount": "465",
-      "title": "[新聞] 快訊／川普突簽行政命令！　宣布「豁免多項俄羅斯制裁」",
-      "link": "/bbs/Gossiping/M.1792205000.A.F84",
-      "author": "zxcxxx",
-      "board": "Gossiping",
-      "publishTime": "2026/10/17 02:43",
       "imageUrl": ""
     },
     {
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "150",
-      "recommendCount": "446",
+      "recommendScore": "151",
+      "recommendCount": "450",
       "title": "Re: [新聞]大陸交換生Po捏頭「小小賴清德拿下」遭驅",
       "link": "/bbs/Gossiping/M.1792191295.A.16C",
       "author": "wiwi0526",
