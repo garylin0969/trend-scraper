@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-17T09:11:30.801Z",
+  "updated": "2026-10-17T09:24:39.520Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "383",
-      "recommendCount": "1009",
+      "recommendScore": "382",
+      "recommendCount": "1010",
       "title": "[新聞] 陸生「捏賴清德」遭驅逐已離境　台大：尊重政府執法",
       "link": "/bbs/Gossiping/M.1792145703.A.8B8",
       "author": "Angels5566",
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "265",
-      "recommendCount": "618",
+      "recommendCount": "619",
       "title": "[新聞] 快訊／川普突簽行政命令！　宣布「豁免多項俄羅斯制裁」",
       "link": "/bbs/Gossiping/M.1792205000.A.F84",
       "author": "zxcxxx",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "252",
-      "recommendCount": "627",
+      "recommendScore": "254",
+      "recommendCount": "630",
       "title": "[新聞] 快訊／川普突簽行政命令！ 宣布「豁免多項俄羅斯制裁」",
       "link": "/bbs/Stock/M.1792205004.A.625",
       "author": "omanorboyo",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "273",
-      "recommendCount": "564",
+      "recommendScore": "274",
+      "recommendCount": "570",
       "title": "[新聞] 高醫心臟科名醫趕回救人卻撞橘貓身亡",
       "link": "/bbs/Gossiping/M.1792208431.A.7C0",
       "author": "diefishfish",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "131",
-      "recommendCount": "668",
+      "recommendScore": "130",
+      "recommendCount": "669",
       "title": "[新聞] 民團批「長者免健保費」釀3惡果 呼籲行政院長不副署",
       "link": "/bbs/Gossiping/M.1792198186.A.AF5",
       "author": "omanorboyo",
@@ -55,7 +55,7 @@
     },
     {
       "recommendScore": "114",
-      "recommendCount": "845",
+      "recommendCount": "847",
       "title": "[問卦] 國家GDP多了3兆卻付不起390億健保",
       "link": "/bbs/Gossiping/M.1792195756.A.840",
       "author": "kqalea",
@@ -74,8 +74,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "164",
+      "recommendCount": "392",
+      "title": "[問卦] 原來社子島問題這麼簡單？",
+      "link": "/bbs/Gossiping/M.1792212636.A.AF6",
+      "author": "omanorboyo",
+      "board": "Gossiping",
+      "publishTime": "2026/10/17 04:50",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "159",
-      "recommendCount": "621",
+      "recommendCount": "623",
       "title": "[問卦] 撇除立場 你各位支持老人免健保費嗎",
       "link": "/bbs/Gossiping/M.1792158239.A.DF2",
       "author": "JinCheng5566",
@@ -84,13 +94,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "155",
-      "recommendCount": "370",
-      "title": "[問卦] 原來社子島問題這麼簡單？",
-      "link": "/bbs/Gossiping/M.1792212636.A.AF6",
-      "author": "omanorboyo",
-      "board": "Gossiping",
-      "publishTime": "2026/10/17 04:50",
+      "recommendScore": "186",
+      "recommendCount": "386",
+      "title": "[新聞] 費半連八黑創金融海嘯最長頹勢 黃仁勳：這一切都會過去 AI才剛起步",
+      "link": "/bbs/Stock/M.1792202323.A.55A",
+      "author": "bamama56",
+      "board": "Stock",
+      "publishTime": "2026/10/17 01:58",
       "imageUrl": ""
     },
     {
@@ -101,16 +111,6 @@
       "author": "la1aco",
       "board": "Gossiping",
       "publishTime": "2026/10/16 14:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "186",
-      "recommendCount": "385",
-      "title": "[新聞] 費半連八黑創金融海嘯最長頹勢 黃仁勳：這一切都會過去 AI才剛起步",
-      "link": "/bbs/Stock/M.1792202323.A.55A",
-      "author": "bamama56",
-      "board": "Stock",
-      "publishTime": "2026/10/17 01:58",
       "imageUrl": ""
     },
     {
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "104",
-      "recommendCount": "436",
-      "title": "[問卦] 原來十次車禍9次快根本是虎爛 剛看cheap",
-      "link": "/bbs/Gossiping/M.1792147420.A.C7F",
-      "author": "ptt987654321",
+      "recommendScore": "68",
+      "recommendCount": "358",
+      "title": "[新聞] 立院通過長者健保免費！卓榮泰怒轟韓國瑜「無視憲法、藐視法律」將出手反制",
+      "link": "/bbs/Gossiping/M.1792203692.A.949",
+      "author": "iolcst",
       "board": "Gossiping",
-      "publishTime": "2026/10/16 10:43",
+      "publishTime": "2026/10/17 02:21",
       "imageUrl": ""
     }
   ]
