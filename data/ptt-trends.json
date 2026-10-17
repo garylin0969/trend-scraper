@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-17T11:44:58.512Z",
+  "updated": "2026-10-17T11:53:17.219Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "298",
-      "recommendCount": "636",
+      "recommendScore": "299",
+      "recommendCount": "640",
       "title": "[新聞] 高醫心臟科名醫趕回救人卻撞橘貓身亡",
       "link": "/bbs/Gossiping/M.1792208431.A.7C0",
       "author": "diefishfish",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "191",
-      "recommendCount": "438",
+      "recommendScore": "198",
+      "recommendCount": "453",
       "title": "[新聞] 北檢檢察官吸毒緩起訴　曝光原因竟是承辦檢為「同期同學」",
       "link": "/bbs/Gossiping/M.1792226486.A.BDB",
       "author": "geofrania",
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "199",
+      "recommendCount": "462",
+      "title": "[問卦] 原來社子島問題這麼簡單？",
+      "link": "/bbs/Gossiping/M.1792212636.A.AF6",
+      "author": "omanorboyo",
+      "board": "Gossiping",
+      "publishTime": "2026/10/17 04:50",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "110",
       "recommendCount": "853",
       "title": "[問卦] 國家GDP多了3兆卻付不起390億健保",
@@ -61,16 +71,6 @@
       "author": "kqalea",
       "board": "Gossiping",
       "publishTime": "2026/10/17 00:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "197",
-      "recommendCount": "460",
-      "title": "[問卦] 原來社子島問題這麼簡單？",
-      "link": "/bbs/Gossiping/M.1792212636.A.AF6",
-      "author": "omanorboyo",
-      "board": "Gossiping",
-      "publishTime": "2026/10/17 04:50",
       "imageUrl": ""
     },
     {
@@ -184,24 +184,24 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/1tg5WWf/s/c488ca0853f10002a1b070c698cd28c2"
     },
     {
-      "recommendScore": "75",
-      "recommendCount": "375",
-      "title": "[新聞] 立院通過長者健保免費！卓榮泰怒轟韓國瑜「無視憲法、藐視法律」將出手反制",
-      "link": "/bbs/Gossiping/M.1792203692.A.949",
-      "author": "iolcst",
-      "board": "Gossiping",
-      "publishTime": "2026/10/17 02:21",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "117",
-      "recommendCount": "389",
+      "recommendScore": "123",
+      "recommendCount": "400",
       "title": "[閒聊] 台灣人被中國文化入侵多嚴重？",
       "link": "/bbs/C_Chat/M.1792230502.A.B8F",
       "author": "Kudomoemoe",
       "board": "C_Chat",
       "publishTime": "2026/10/17 09:48",
       "imageUrl": "https://cache.pttweb.cc/imgur/8yaA8i7/s/0d1e54293d08543f8930bb60c2d38983"
+    },
+    {
+      "recommendScore": "74",
+      "recommendCount": "376",
+      "title": "[新聞] 立院通過長者健保免費！卓榮泰怒轟韓國瑜「無視憲法、藐視法律」將出手反制",
+      "link": "/bbs/Gossiping/M.1792203692.A.949",
+      "author": "iolcst",
+      "board": "Gossiping",
+      "publishTime": "2026/10/17 02:21",
+      "imageUrl": ""
     }
   ]
 }
