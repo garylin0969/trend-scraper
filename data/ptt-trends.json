@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T07:17:48.774Z",
+  "updated": "2026-10-17T07:30:15.463Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,18 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "256",
-      "recommendCount": "647",
-      "title": "[爆卦] threads熱議：我的小孩因為沈伯洋愛唸書",
-      "link": "/bbs/Gossiping/M.1792135574.A.DA0",
-      "author": "cowardlyman",
-      "board": "Gossiping",
-      "publishTime": "2026/10/16 07:26",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "251",
-      "recommendCount": "559",
+      "recommendScore": "254",
+      "recommendCount": "569",
       "title": "[新聞] 快訊／川普突簽行政命令！　宣布「豁免多項俄羅斯制裁」",
       "link": "/bbs/Gossiping/M.1792205000.A.F84",
       "author": "zxcxxx",
@@ -64,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "126",
-      "recommendCount": "658",
+      "recommendScore": "127",
+      "recommendCount": "660",
       "title": "[新聞] 民團批「長者免健保費」釀3惡果 呼籲行政院長不副署",
       "link": "/bbs/Gossiping/M.1792198186.A.AF5",
       "author": "omanorboyo",
@@ -75,7 +65,7 @@
     },
     {
       "recommendScore": "109",
-      "recommendCount": "829",
+      "recommendCount": "831",
       "title": "[問卦] 國家GDP多了3兆卻付不起390億健保",
       "link": "/bbs/Gossiping/M.1792195756.A.840",
       "author": "kqalea",
@@ -104,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "232",
-      "recommendCount": "324",
-      "title": "[情報] 115年10月16日 三大法人買賣金額統計表",
-      "link": "/bbs/Stock/M.1792135073.A.8A6",
-      "author": "coconing",
-      "board": "Stock",
-      "publishTime": "2026/10/16 07:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "219",
-      "recommendCount": "468",
+      "recommendScore": "234",
+      "recommendCount": "494",
       "title": "[新聞] 高醫心臟科名醫趕回救人卻撞橘貓身亡",
       "link": "/bbs/Gossiping/M.1792208431.A.7C0",
       "author": "diefishfish",
@@ -134,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "154",
-      "recommendCount": "545",
+      "recommendScore": "155",
+      "recommendCount": "546",
       "title": "[新聞]大陸交換生Po捏頭「小小賴清德拿下」遭驅",
       "link": "/bbs/Gossiping/M.1792161861.A.08C",
       "author": "la1aco",
@@ -144,13 +124,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "176",
-      "recommendCount": "371",
+      "recommendScore": "177",
+      "recommendCount": "374",
       "title": "[新聞] 費半連八黑創金融海嘯最長頹勢 黃仁勳：這一切都會過去 AI才剛起步",
       "link": "/bbs/Stock/M.1792202323.A.55A",
       "author": "bamama56",
       "board": "Stock",
       "publishTime": "2026/10/17 01:58",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "255",
+      "recommendCount": "435",
+      "title": "[討論] 什麼樣的人會想買Duo",
+      "link": "/bbs/iOS/M.1792137023.A.14C",
+      "author": "Ginru",
+      "board": "iOS",
+      "publishTime": "2026/10/16 07:50",
       "imageUrl": ""
     },
     {
@@ -161,16 +151,6 @@
       "author": "wiwi0526",
       "board": "Gossiping",
       "publishTime": "2026/10/16 22:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "254",
-      "recommendCount": "434",
-      "title": "[討論] 什麼樣的人會想買Duo",
-      "link": "/bbs/iOS/M.1792137023.A.14C",
-      "author": "Ginru",
-      "board": "iOS",
-      "publishTime": "2026/10/16 07:50",
       "imageUrl": ""
     },
     {
@@ -202,6 +182,26 @@
       "board": "LoL",
       "publishTime": "2026/10/16 13:20",
       "imageUrl": "https://cache.pttweb.cc/imgur/1tg5WWf/s/c488ca0853f10002a1b070c698cd28c2"
+    },
+    {
+      "recommendScore": "138",
+      "recommendCount": "314",
+      "title": "[問卦] 原來社子島問題這麼簡單？",
+      "link": "/bbs/Gossiping/M.1792212636.A.AF6",
+      "author": "omanorboyo",
+      "board": "Gossiping",
+      "publishTime": "2026/10/17 04:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "211",
+      "recommendCount": "222",
+      "title": "[討論] 發錢 猜勝隊及比數",
+      "link": "/bbs/Baseball/M.1792198926.A.CB3",
+      "author": "ben1013",
+      "board": "Baseball",
+      "publishTime": "2026/10/17 01:02",
+      "imageUrl": ""
     }
   ]
 }
