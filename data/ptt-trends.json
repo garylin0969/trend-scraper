@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-18T05:23:16.860Z",
+  "updated": "2026-10-18T05:37:48.906Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "298",
-      "recommendCount": "691",
+      "recommendCount": "696",
       "title": "[新聞] 北檢檢察官吸毒緩起訴　曝光原因竟是承辦檢為「同期同學」",
       "link": "/bbs/Gossiping/M.1792226486.A.BDB",
       "author": "geofrania",
@@ -54,8 +54,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "196",
-      "recommendCount": "456",
+      "recommendScore": "201",
+      "recommendCount": "416",
+      "title": "[新聞] 離岸風電出包！九大行庫聯貸踩雷 台電董事長親自出面開會",
+      "link": "/bbs/Gossiping/M.1792284091.A.05F",
+      "author": "ljuber",
+      "board": "Gossiping",
+      "publishTime": "2026/10/18 00:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "197",
+      "recommendCount": "458",
       "title": "[問卦] 企鵝妹覺得中國比歐洲和美國安全 有八卦?",
       "link": "/bbs/Gossiping/M.1792234433.A.8E9",
       "author": "magic543",
@@ -71,16 +81,6 @@
       "author": "oscarwu3041",
       "board": "HatePolitics",
       "publishTime": "2026/10/17 14:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "200",
-      "recommendCount": "407",
-      "title": "[新聞] 離岸風電出包！九大行庫聯貸踩雷 台電董事長親自出面開會",
-      "link": "/bbs/Gossiping/M.1792284091.A.05F",
-      "author": "ljuber",
-      "board": "Gossiping",
-      "publishTime": "2026/10/18 00:41",
       "imageUrl": ""
     },
     {
@@ -134,13 +134,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "100",
-      "recommendCount": "291",
+      "recommendScore": "101",
+      "recommendCount": "296",
       "title": "[問卦] 幹, 台積電那些高官是真的會技術ㄟ",
       "link": "/bbs/Gossiping/M.1792246536.A.5F9",
       "author": "bota",
       "board": "Gossiping",
       "publishTime": "2026/10/17 14:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "136",
+      "recommendCount": "317",
+      "title": "[新聞] 沈伯洋很氣「我是犯罪學所長」 蔣萬安：你專業是認知作戰",
+      "link": "/bbs/Gossiping/M.1792288066.A.1B8",
+      "author": "william8403",
+      "board": "Gossiping",
+      "publishTime": "2026/10/18 01:47",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "192",
+      "recommendCount": "671",
+      "title": "[討論] 章萬安：大廠搬台北 晶片就能馬上生產",
+      "link": "/bbs/HatePolitics/M.1792289506.A.410",
+      "author": "kuninaka",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/18 02:11",
       "imageUrl": ""
     },
     {
@@ -154,28 +174,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "134",
-      "recommendCount": "311",
-      "title": "[新聞] 沈伯洋很氣「我是犯罪學所長」 蔣萬安：你專業是認知作戰",
-      "link": "/bbs/Gossiping/M.1792288066.A.1B8",
-      "author": "william8403",
-      "board": "Gossiping",
-      "publishTime": "2026/10/18 01:47",
-      "imageUrl": ""
+      "recommendScore": "784",
+      "recommendCount": "1424",
+      "title": "[電競] 2026 World Championship 入圍賽 Day 3",
+      "link": "/bbs/LoL/M.1792249424.A.AAC",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2026/10/17 15:03",
+      "imageUrl": "https://cache.pttweb.cc/imgur/jxWnl2h/s/3756d0a1d799f508e7e56c6dc218e64a"
     },
     {
-      "recommendScore": "189",
-      "recommendCount": "648",
-      "title": "[討論] 章萬安：大廠搬台北 晶片就能馬上生產",
-      "link": "/bbs/HatePolitics/M.1792289506.A.410",
-      "author": "kuninaka",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/18 02:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "168",
-      "recommendCount": "358",
+      "recommendScore": "169",
+      "recommendCount": "360",
       "title": "[分享] 橫濱打進日本大賽 日本網友出現異音",
       "link": "/bbs/Baseball/M.1792285323.A.A19",
       "author": "AisinGioro",
@@ -191,16 +201,6 @@
       "author": "Akun",
       "board": "HatePolitics",
       "publishTime": "2026/10/17 13:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "723",
-      "recommendCount": "1276",
-      "title": "[電競] 2026 德瑪西亞盃國際邀請賽 決賽",
-      "link": "/bbs/LoL/M.1792226975.A.745",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/10/17 08:49",
       "imageUrl": ""
     }
   ]
