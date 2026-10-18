@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T13:09:47.131Z",
+  "updated": "2026-10-18T13:20:42.099Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "395",
+      "recommendScore": "164",
+      "recommendCount": "396",
       "title": "[新聞] 接殺不一定出局？大聯盟測試守備新規",
       "link": "/bbs/Baseball/M.1792295284.A.F82",
       "author": "nybbnan",
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "144",
+      "recommendCount": "311",
+      "title": "[問卦] 台北松信區幹嘛，怎街道二旁站這麼多人 ?",
+      "link": "/bbs/Gossiping/M.1792318363.A.DCB",
+      "author": "nicholas0406",
+      "board": "Gossiping",
+      "publishTime": "2026/10/18 10:12",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "165",
       "recommendCount": "700",
       "title": "[新聞]不只QR Code點餐！餐廳「1要求」越來越常見　網吵翻：一律不去",
@@ -131,16 +141,6 @@
       "author": "XDGEE",
       "board": "Gossiping",
       "publishTime": "2026/10/18 06:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "142",
-      "recommendCount": "305",
-      "title": "[問卦] 台北松信區幹嘛，怎街道二旁站這麼多人 ?",
-      "link": "/bbs/Gossiping/M.1792318363.A.DCB",
-      "author": "nicholas0406",
-      "board": "Gossiping",
-      "publishTime": "2026/10/18 10:12",
       "imageUrl": ""
     },
     {
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "156",
-      "recommendCount": "259",
+      "recommendScore": "158",
+      "recommendCount": "264",
       "title": "[討論] 吵好球帶的都進來",
       "link": "/bbs/Baseball/M.1792320002.A.CA9",
       "author": "Blackie9211",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "177",
-      "recommendCount": "407",
-      "title": "[討論] 韓國瑜：愛情摩天輪",
-      "link": "/bbs/HatePolitics/M.1792242834.A.A75",
-      "author": "Akun",
+      "recommendScore": "137",
+      "recommendCount": "399",
+      "title": "[討論] 沈伯洋的人氣為什麼會那麼高",
+      "link": "/bbs/HatePolitics/M.1792319690.A.847",
+      "author": "Sunpayus",
       "board": "HatePolitics",
-      "publishTime": "2026/10/17 13:13",
+      "publishTime": "2026/10/18 10:34",
       "imageUrl": ""
     }
   ]
