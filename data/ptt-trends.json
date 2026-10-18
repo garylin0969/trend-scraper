@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T07:18:28.855Z",
+  "updated": "2026-10-18T07:30:32.489Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "209",
-      "recommendCount": "439",
+      "recommendScore": "212",
+      "recommendCount": "442",
       "title": "[新聞] 離岸風電出包！九大行庫聯貸踩雷 台電董事長親自出面開會",
       "link": "/bbs/Gossiping/M.1792284091.A.05F",
       "author": "ljuber",
@@ -134,13 +134,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "152",
-      "recommendCount": "349",
+      "recommendScore": "151",
+      "recommendCount": "354",
       "title": "[新聞] 接殺不一定出局？大聯盟測試守備新規",
       "link": "/bbs/Baseball/M.1792295284.A.F82",
       "author": "nybbnan",
       "board": "Baseball",
       "publishTime": "2026/10/18 03:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "206",
+      "recommendCount": "712",
+      "title": "[討論] 章萬安：大廠搬台北 晶片就能馬上生產",
+      "link": "/bbs/HatePolitics/M.1792289506.A.410",
+      "author": "kuninaka",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/18 02:11",
       "imageUrl": ""
     },
     {
@@ -154,18 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "204",
-      "recommendCount": "707",
-      "title": "[討論] 章萬安：大廠搬台北 晶片就能馬上生產",
-      "link": "/bbs/HatePolitics/M.1792289506.A.410",
-      "author": "kuninaka",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/18 02:11",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "131",
-      "recommendCount": "331",
+      "recommendCount": "333",
       "title": "[問卦] 法國快要內戰了",
       "link": "/bbs/Gossiping/M.1792284424.A.81E",
       "author": "mibbl0",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "176",
-      "recommendCount": "373",
+      "recommendScore": "175",
+      "recommendCount": "374",
       "title": "[分享] 橫濱打進日本大賽 日本網友出現異音",
       "link": "/bbs/Baseball/M.1792285323.A.A19",
       "author": "AisinGioro",
