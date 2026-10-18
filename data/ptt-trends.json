@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T05:53:16.214Z",
+  "updated": "2026-10-18T06:18:47.717Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "130",
+      "recommendCount": "492",
+      "title": "[閒聊] 台灣人被中國文化入侵多嚴重？",
+      "link": "/bbs/C_Chat/M.1792230502.A.B8F",
+      "author": "Kudomoemoe",
+      "board": "C_Chat",
+      "publishTime": "2026/10/17 09:48",
+      "imageUrl": "https://cache.pttweb.cc/imgur/8yaA8i7/s/0d1e54293d08543f8930bb60c2d38983"
+    },
+    {
       "recommendScore": "236",
       "recommendCount": "323",
       "title": "[新聞] 中職／兄弟亞軍訊號出現…僅敲2安打遭完封 締造隊史G1最慘紀錄",
@@ -34,18 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "129",
-      "recommendCount": "490",
-      "title": "[閒聊] 台灣人被中國文化入侵多嚴重？",
-      "link": "/bbs/C_Chat/M.1792230502.A.B8F",
-      "author": "Kudomoemoe",
-      "board": "C_Chat",
-      "publishTime": "2026/10/17 09:48",
-      "imageUrl": "https://cache.pttweb.cc/imgur/8yaA8i7/s/0d1e54293d08543f8930bb60c2d38983"
-    },
-    {
-      "recommendScore": "202",
-      "recommendCount": "419",
+      "recommendScore": "203",
+      "recommendCount": "427",
       "title": "[新聞] 離岸風電出包！九大行庫聯貸踩雷 台電董事長親自出面開會",
       "link": "/bbs/Gossiping/M.1792284091.A.05F",
       "author": "ljuber",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "197",
-      "recommendCount": "458",
+      "recommendScore": "198",
+      "recommendCount": "459",
       "title": "[問卦] 企鵝妹覺得中國比歐洲和美國安全 有八卦?",
       "link": "/bbs/Gossiping/M.1792234433.A.8E9",
       "author": "magic543",
@@ -85,7 +85,7 @@
     },
     {
       "recommendScore": "172",
-      "recommendCount": "359",
+      "recommendCount": "360",
       "title": "[爆卦] 台南車站新站 出現夾手手扶梯",
       "link": "/bbs/Gossiping/M.1792256440.A.71E",
       "author": "super1314159",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "61",
-      "recommendCount": "313",
+      "recommendScore": "62",
+      "recommendCount": "314",
       "title": "[新聞] 公開表態挺沈伯洋！作家列出「10大驚人特質」神預言1狀況：必當台北市長",
       "link": "/bbs/Gossiping/M.1792228868.A.0E8",
       "author": "iam168888888",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "143",
-      "recommendCount": "331",
+      "recommendScore": "153",
+      "recommendCount": "347",
       "title": "[新聞] 沈伯洋很氣「我是犯罪學所長」 蔣萬安：你專業是認知作戰",
       "link": "/bbs/Gossiping/M.1792288066.A.1B8",
       "author": "william8403",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "101",
-      "recommendCount": "296",
+      "recommendScore": "102",
+      "recommendCount": "302",
       "title": "[問卦] 幹, 台積電那些高官是真的會技術ㄟ",
       "link": "/bbs/Gossiping/M.1792246536.A.5F9",
       "author": "bota",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "195",
-      "recommendCount": "677",
+      "recommendScore": "197",
+      "recommendCount": "685",
       "title": "[討論] 章萬安：大廠搬台北 晶片就能馬上生產",
       "link": "/bbs/HatePolitics/M.1792289506.A.410",
       "author": "kuninaka",
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "118",
+      "recommendCount": "305",
+      "title": "[問卦] 法國快要內戰了",
+      "link": "/bbs/Gossiping/M.1792284424.A.81E",
+      "author": "mibbl0",
+      "board": "Gossiping",
+      "publishTime": "2026/10/18 00:47",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "784",
       "recommendCount": "1424",
       "title": "[電競] 2026 World Championship 入圍賽 Day 3",
@@ -184,23 +194,13 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/jxWnl2h/s/3756d0a1d799f508e7e56c6dc218e64a"
     },
     {
-      "recommendScore": "116",
-      "recommendCount": "296",
-      "title": "[問卦] 法國快要內戰了",
-      "link": "/bbs/Gossiping/M.1792284424.A.81E",
-      "author": "mibbl0",
-      "board": "Gossiping",
-      "publishTime": "2026/10/18 00:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "177",
-      "recommendCount": "407",
-      "title": "[討論] 韓國瑜：愛情摩天輪",
-      "link": "/bbs/HatePolitics/M.1792242834.A.A75",
-      "author": "Akun",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/17 13:13",
+      "recommendScore": "134",
+      "recommendCount": "303",
+      "title": "[新聞] 接殺不一定出局？大聯盟測試守備新規",
+      "link": "/bbs/Baseball/M.1792295284.A.F82",
+      "author": "nybbnan",
+      "board": "Baseball",
+      "publishTime": "2026/10/18 03:48",
       "imageUrl": ""
     }
   ]
