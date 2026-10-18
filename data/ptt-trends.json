@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T16:29:29.045Z",
+  "updated": "2026-10-18T16:40:20.510Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "164",
-      "recommendCount": "379",
+      "recommendScore": "165",
+      "recommendCount": "380",
       "title": "[問卦] 台北松信區幹嘛，怎街道二旁站這麼多人 ?",
       "link": "/bbs/Gossiping/M.1792318363.A.DCB",
       "author": "nicholas0406",
@@ -85,7 +85,7 @@
     },
     {
       "recommendScore": "180",
-      "recommendCount": "732",
+      "recommendCount": "734",
       "title": "[新聞]不只QR Code點餐！餐廳「1要求」越來越常見　網吵翻：一律不去",
       "link": "/bbs/Gossiping/M.1792304312.A.90C",
       "author": "XDGEE",
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "105",
+      "recommendCount": "245",
+      "title": "[新聞] 台股一周跌逾3000點！陳嘉偉示警M頭：年線對稱跌幅恐回測5年線",
+      "link": "/bbs/Stock/M.1792311210.A.AA9",
+      "author": "diefishfish",
+      "board": "Stock",
+      "publishTime": "2026/10/18 08:13",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "180",
       "recommendCount": "386",
       "title": "[分享] 橫濱打進日本大賽 日本網友出現異音",
@@ -121,16 +131,6 @@
       "author": "AisinGioro",
       "board": "Baseball",
       "publishTime": "2026/10/18 01:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "103",
-      "recommendCount": "243",
-      "title": "[新聞] 台股一周跌逾3000點！陳嘉偉示警M頭：年線對稱跌幅恐回測5年線",
-      "link": "/bbs/Stock/M.1792311210.A.AA9",
-      "author": "diefishfish",
-      "board": "Stock",
-      "publishTime": "2026/10/18 08:13",
       "imageUrl": ""
     },
     {
@@ -145,7 +145,7 @@
     },
     {
       "recommendScore": "147",
-      "recommendCount": "445",
+      "recommendCount": "446",
       "title": "[討論] 沈伯洋的人氣為什麼會那麼高",
       "link": "/bbs/HatePolitics/M.1792319690.A.847",
       "author": "Sunpayus",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "86",
-      "recommendCount": "236",
+      "recommendScore": "87",
+      "recommendCount": "237",
       "title": "[新聞] 范雲道歉了！　po沈伯洋影片出現「這標誌」被抓包",
       "link": "/bbs/Gossiping/M.1792315756.A.53F",
       "author": "mars1985",
