@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T19:08:54.791Z",
+  "updated": "2026-10-18T19:17:54.923Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "171",
-      "recommendCount": "392",
+      "recommendCount": "393",
       "title": "[問卦] 台北松信區幹嘛，怎街道二旁站這麼多人 ?",
       "link": "/bbs/Gossiping/M.1792318363.A.DCB",
       "author": "nicholas0406",
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "148",
+      "recommendCount": "452",
+      "title": "[討論] 沈伯洋的人氣為什麼會那麼高",
+      "link": "/bbs/HatePolitics/M.1792319690.A.847",
+      "author": "Sunpayus",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/18 10:34",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "133",
       "recommendCount": "239",
       "title": "[新聞] 下周一恐血洗1100點…千萬別做錯！「15檔有大人在顧」完整名單來了",
@@ -131,16 +141,6 @@
       "author": "icedog122",
       "board": "Stock",
       "publishTime": "2026/10/18 06:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "148",
-      "recommendCount": "451",
-      "title": "[討論] 沈伯洋的人氣為什麼會那麼高",
-      "link": "/bbs/HatePolitics/M.1792319690.A.847",
-      "author": "Sunpayus",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/18 10:34",
       "imageUrl": ""
     },
     {
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "192",
-      "recommendCount": "201",
+      "recommendScore": "193",
+      "recommendCount": "202",
       "title": "[發錢] 當選感言暨發錢",
       "link": "/bbs/NBA/M.1792327384.A.DDC",
       "author": "hasebe",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "175",
-      "recommendCount": "180",
-      "title": "[集氣] 橫濱日本一冠軍就發錢",
-      "link": "/bbs/Baseball/M.1792305805.A.C43",
-      "author": "l15",
-      "board": "Baseball",
-      "publishTime": "2026/10/18 06:43",
+      "recommendScore": "131",
+      "recommendCount": "353",
+      "title": "Re: [爆卦] movie版主被罷免掉了",
+      "link": "/bbs/Gossiping/M.1792313943.A.BC5",
+      "author": "andy199113",
+      "board": "Gossiping",
+      "publishTime": "2026/10/18 08:59",
       "imageUrl": ""
     }
   ]
