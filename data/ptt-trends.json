@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T05:37:48.906Z",
+  "updated": "2026-10-18T05:45:38.308Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,16 +104,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "183",
-      "recommendCount": "322",
-      "title": "Re: [新聞] 阿嬤淚崩跪求沈伯洋：照顧社子島窮苦人們",
-      "link": "/bbs/Gossiping/M.1792215459.A.4EF",
-      "author": "mmch",
-      "board": "Gossiping",
-      "publishTime": "2026/10/17 05:37",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "184",
       "recommendCount": "256",
       "title": "[今日] 蔣銲  八局無失分勝",
@@ -144,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "136",
-      "recommendCount": "317",
+      "recommendScore": "139",
+      "recommendCount": "322",
       "title": "[新聞] 沈伯洋很氣「我是犯罪學所長」 蔣萬安：你專業是認知作戰",
       "link": "/bbs/Gossiping/M.1792288066.A.1B8",
       "author": "william8403",
@@ -174,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "172",
+      "recommendCount": "363",
+      "title": "[分享] 橫濱打進日本大賽 日本網友出現異音",
+      "link": "/bbs/Baseball/M.1792285323.A.A19",
+      "author": "AisinGioro",
+      "board": "Baseball",
+      "publishTime": "2026/10/18 01:02",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "784",
       "recommendCount": "1424",
       "title": "[電競] 2026 World Championship 入圍賽 Day 3",
@@ -184,16 +184,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/jxWnl2h/s/3756d0a1d799f508e7e56c6dc218e64a"
     },
     {
-      "recommendScore": "169",
-      "recommendCount": "360",
-      "title": "[分享] 橫濱打進日本大賽 日本網友出現異音",
-      "link": "/bbs/Baseball/M.1792285323.A.A19",
-      "author": "AisinGioro",
-      "board": "Baseball",
-      "publishTime": "2026/10/18 01:02",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "177",
       "recommendCount": "407",
       "title": "[討論] 韓國瑜：愛情摩天輪",
@@ -201,6 +191,16 @@
       "author": "Akun",
       "board": "HatePolitics",
       "publishTime": "2026/10/17 13:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "723",
+      "recommendCount": "1276",
+      "title": "[電競] 2026 德瑪西亞盃國際邀請賽 決賽",
+      "link": "/bbs/LoL/M.1792226975.A.745",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/10/17 08:49",
       "imageUrl": ""
     }
   ]
