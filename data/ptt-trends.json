@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T11:53:15.420Z",
+  "updated": "2026-10-18T12:15:49.714Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "188",
-      "recommendCount": "297",
+      "recommendScore": "189",
+      "recommendCount": "298",
       "title": "[炸裂] 曾聖安",
       "link": "/bbs/Baseball/M.1792319128.A.704",
       "author": "lsj049",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "183",
-      "recommendCount": "398",
+      "recommendScore": "185",
+      "recommendCount": "404",
       "title": "[新聞] 沈伯洋很氣「我是犯罪學所長」 蔣萬安：你專業是認知作戰",
       "link": "/bbs/Gossiping/M.1792288066.A.1B8",
       "author": "william8403",
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "143",
+      "recommendCount": "358",
+      "title": "[問卦] 法國快要內戰了",
+      "link": "/bbs/Gossiping/M.1792284424.A.81E",
+      "author": "mibbl0",
+      "board": "Gossiping",
+      "publishTime": "2026/10/18 00:47",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "208",
       "recommendCount": "731",
       "title": "[討論] 章萬安：大廠搬台北 晶片就能馬上生產",
@@ -81,16 +91,6 @@
       "author": "kuninaka",
       "board": "HatePolitics",
       "publishTime": "2026/10/18 02:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "142",
-      "recommendCount": "357",
-      "title": "[問卦] 法國快要內戰了",
-      "link": "/bbs/Gossiping/M.1792284424.A.81E",
-      "author": "mibbl0",
-      "board": "Gossiping",
-      "publishTime": "2026/10/18 00:47",
       "imageUrl": ""
     },
     {
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "135",
-      "recommendCount": "240",
+      "recommendScore": "137",
+      "recommendCount": "243",
       "title": "[爆卦] 高雄捷運車廂有黑人尿尿",
       "link": "/bbs/Gossiping/M.1792296059.A.F3C",
       "author": "psychohero",
@@ -134,13 +134,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "162",
-      "recommendCount": "687",
+      "recommendScore": "163",
+      "recommendCount": "691",
       "title": "[新聞]不只QR Code點餐！餐廳「1要求」越來越常見　網吵翻：一律不去",
       "link": "/bbs/Gossiping/M.1792304312.A.90C",
       "author": "XDGEE",
       "board": "Gossiping",
       "publishTime": "2026/10/18 06:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-45",
+      "recommendCount": "249",
+      "title": "[討論] 味全直接總冠軍，謝謝主審",
+      "link": "/bbs/Baseball/M.1792324090.A.17A",
+      "author": "jojo9307006",
+      "board": "Baseball",
+      "publishTime": "2026/10/18 11:48",
       "imageUrl": ""
     },
     {
@@ -154,8 +164,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/jxWnl2h/s/3756d0a1d799f508e7e56c6dc218e64a"
     },
     {
-      "recommendScore": "111",
-      "recommendCount": "307",
+      "recommendScore": "112",
+      "recommendCount": "312",
       "title": "[標的] 大盤 歷史重演多",
       "link": "/bbs/Stock/M.1792245974.A.673",
       "author": "allen910106",
@@ -174,33 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "243",
-      "recommendCount": "713",
-      "title": "[轉播] TS G2 六上 兄弟1：3味全",
-      "link": "/bbs/Elephants/M.1792319818.A.25F",
-      "author": "hsuaninteen",
-      "board": "Elephants",
-      "publishTime": "2026/10/18 10:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "150",
-      "recommendCount": "213",
-      "title": "[新聞] WCY快訊／勝騎士挑戰賽G4缺席原因曝！",
-      "link": "/bbs/Baseball/M.1792248685.A.4AC",
-      "author": "WuSam",
-      "board": "Baseball",
-      "publishTime": "2026/10/17 14:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "109",
-      "recommendCount": "203",
+      "recommendScore": "115",
+      "recommendCount": "209",
       "title": "[新聞] 下周一恐血洗1100點…千萬別做錯！「15檔有大人在顧」完整名單來了",
       "link": "/bbs/Stock/M.1792306639.A.5DB",
       "author": "icedog122",
       "board": "Stock",
       "publishTime": "2026/10/18 06:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "153",
+      "recommendCount": "254",
+      "title": "[討論] 吵好球帶的都進來",
+      "link": "/bbs/Baseball/M.1792320002.A.CA9",
+      "author": "Blackie9211",
+      "board": "Baseball",
+      "publishTime": "2026/10/18 10:40",
       "imageUrl": ""
     }
   ]
