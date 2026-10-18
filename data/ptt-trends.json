@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T07:30:32.489Z",
+  "updated": "2026-10-18T07:41:12.976Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "367",
+      "recommendScore": "169",
+      "recommendCount": "372",
       "title": "[新聞] 沈伯洋很氣「我是犯罪學所長」 蔣萬安：你專業是認知作戰",
       "link": "/bbs/Gossiping/M.1792288066.A.1B8",
       "author": "william8403",
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "153",
+      "recommendCount": "359",
+      "title": "[新聞] 接殺不一定出局？大聯盟測試守備新規",
+      "link": "/bbs/Baseball/M.1792295284.A.F82",
+      "author": "nybbnan",
+      "board": "Baseball",
+      "publishTime": "2026/10/18 03:48",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "187",
       "recommendCount": "409",
       "title": "[新聞] 蔣萬安挨轟4年沒出席園長會議　副市長急緩頰：市長說連任後會參加",
@@ -134,18 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "151",
-      "recommendCount": "354",
-      "title": "[新聞] 接殺不一定出局？大聯盟測試守備新規",
-      "link": "/bbs/Baseball/M.1792295284.A.F82",
-      "author": "nybbnan",
-      "board": "Baseball",
-      "publishTime": "2026/10/18 03:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "206",
-      "recommendCount": "712",
+      "recommendScore": "209",
+      "recommendCount": "720",
       "title": "[討論] 章萬安：大廠搬台北 晶片就能馬上生產",
       "link": "/bbs/HatePolitics/M.1792289506.A.410",
       "author": "kuninaka",
@@ -174,23 +174,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "175",
-      "recommendCount": "374",
+      "recommendScore": "176",
+      "recommendCount": "376",
       "title": "[分享] 橫濱打進日本大賽 日本網友出現異音",
       "link": "/bbs/Baseball/M.1792285323.A.A19",
       "author": "AisinGioro",
       "board": "Baseball",
       "publishTime": "2026/10/18 01:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "131",
-      "recommendCount": "296",
-      "title": "[問卦] 「解決社子島不難」這句是不是吹牛呀",
-      "link": "/bbs/Gossiping/M.1792222244.A.FDD",
-      "author": "Elsie1999",
-      "board": "Gossiping",
-      "publishTime": "2026/10/17 07:30",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "LoL",
       "publishTime": "2026/10/17 15:03",
       "imageUrl": "https://cache.pttweb.cc/imgur/jxWnl2h/s/3756d0a1d799f508e7e56c6dc218e64a"
+    },
+    {
+      "recommendScore": "177",
+      "recommendCount": "407",
+      "title": "[討論] 韓國瑜：愛情摩天輪",
+      "link": "/bbs/HatePolitics/M.1792242834.A.A75",
+      "author": "Akun",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/17 13:13",
+      "imageUrl": ""
     }
   ]
 }
