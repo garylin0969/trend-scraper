@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T01:55:21.460Z",
+  "updated": "2026-10-18T02:16:07.832Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -85,7 +85,7 @@
     },
     {
       "recommendScore": "184",
-      "recommendCount": "351",
+      "recommendCount": "352",
       "title": "[分享] 374家人被威脅了",
       "link": "/bbs/Baseball/M.1792242416.A.D91",
       "author": "tmacai0103",
@@ -124,18 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "192",
-      "recommendCount": "400",
-      "title": "[新聞] 費半連八黑創金融海嘯最長頹勢 黃仁勳：這一切都會過去 AI才剛起步",
-      "link": "/bbs/Stock/M.1792202323.A.55A",
-      "author": "bamama56",
-      "board": "Stock",
-      "publishTime": "2026/10/17 01:58",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "61",
-      "recommendCount": "311",
+      "recommendCount": "312",
       "title": "[新聞] 公開表態挺沈伯洋！作家列出「10大驚人特質」神預言1狀況：必當台北市長",
       "link": "/bbs/Gossiping/M.1792228868.A.0E8",
       "author": "iam168888888",
@@ -164,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "152",
+      "recommendCount": "318",
+      "title": "[爆卦] 台南車站新站 出現夾手手扶梯",
+      "link": "/bbs/Gossiping/M.1792256440.A.71E",
+      "author": "super1314159",
+      "board": "Gossiping",
+      "publishTime": "2026/10/17 17:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "186",
       "recommendCount": "408",
       "title": "[新聞] 蔣萬安挨轟4年沒出席園長會議　副市長急緩頰：市長說連任後會參加",
@@ -171,16 +171,6 @@
       "author": "rickcoo",
       "board": "HatePolitics",
       "publishTime": "2026/10/17 10:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "149",
-      "recommendCount": "311",
-      "title": "[爆卦] 台南車站新站 出現夾手手扶梯",
-      "link": "/bbs/Gossiping/M.1792256440.A.71E",
-      "author": "super1314159",
-      "board": "Gossiping",
-      "publishTime": "2026/10/17 17:00",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "Tsuzichen",
       "board": "Gossiping",
       "publishTime": "2026/10/17 02:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "138",
+      "recommendCount": "256",
+      "title": "[爆卦] 台南後壁爐渣田清理工作幾乎確定跳票",
+      "link": "/bbs/Gossiping/M.1792204629.A.52D",
+      "author": "olctw",
+      "board": "Gossiping",
+      "publishTime": "2026/10/17 02:37",
       "imageUrl": ""
     }
   ]
