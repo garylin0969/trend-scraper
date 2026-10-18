@@ -1,30 +1,14 @@
 {
-  "updated": "2026-10-18T09:23:13.955Z",
+  "updated": "2026-10-18T09:46:33.424Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-10-18T09:23:05.000Z",
+    "lastBuildDate": "2026-10-18T09:46:26.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
-    {
-      "title": "法國抗議爆發暴力衝突、搶劫、建築物起火，逾千人被捕",
-      "description": "法國全國多座城市爆發騷亂，超過50萬人參加了反對生活成本上漲的抗議活動。",
-      "link": "https://www.bbc.com/zhongwen/articles/cq8ez1wny72xo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-18T05:12:41.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cq8ez1wny72xo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3812/live/6e8b04f0-cab2-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "title": "「我擔心得不敢去中國了」：韓國脫北者接連收到警方赴華警告",
-      "description": "為何已在韓國定居的脫北者，如今對前往中國感到憂慮？BBC深入了解韓國警方發出旅遊警告的背景，以及脫北者實際遭中國當局拒絕入境的個案。",
-      "link": "https://www.bbc.com/zhongwen/articles/cmd6dgj9jwp8o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-17T12:54:47.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cmd6dgj9jwp8o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ceeb/live/358939a0-c923-11f1-9a39-31b474234113.jpg"
-    },
     {
       "title": "遊艇上的水上滑梯、泳池：衛星影像揭示的金正恩「夏宮」生活",
       "description": "BBC追蹤了一艘長達80米、配有水上滑梯的船隻，旨在進一步了解金正恩如何度過假期——這對大多數朝鮮人而言，是遙不可及的體驗。",
@@ -34,12 +18,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a208/live/829d3600-c861-11f1-9a39-31b474234113.png"
     },
     {
+      "title": "法國抗議爆發暴力衝突、搶劫、建築物起火，逾千人被捕",
+      "description": "法國全國多座城市爆發騷亂，超過50萬人參加了反對生活成本上漲的抗議活動。",
+      "link": "https://www.bbc.com/zhongwen/articles/cq8ez1wny72xo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-10-18T05:12:41.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cq8ez1wny72xo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3812/live/6e8b04f0-cab2-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
       "title": "在美中國研究生涉毒害越南同學：大學與家屬怎麼說？",
       "description": "美國懷俄明大學一名越南籍研究生的家屬向BBC表示，受害人在辦公室的咖啡機內發現神經毒劑後，至今仍出現疲倦、食慾不振及睡眠欠佳等健康問題。",
       "link": "https://www.bbc.com/zhongwen/articles/c6vg08d0glp7o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-10-18T00:31:53.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c6vg08d0glp7o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ad95/live/f6d581c0-c920-11f1-9a39-31b474234113.png"
+    },
+    {
+      "title": "「我擔心得不敢去中國了」：韓國脫北者接連收到警方赴華警告",
+      "description": "為何已在韓國定居的脫北者，如今對前往中國感到憂慮？BBC深入了解韓國警方發出旅遊警告的背景，以及脫北者實際遭中國當局拒絕入境的個案。",
+      "link": "https://www.bbc.com/zhongwen/articles/cmd6dgj9jwp8o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-10-17T12:54:47.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cmd6dgj9jwp8o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ceeb/live/358939a0-c923-11f1-9a39-31b474234113.jpg"
     },
     {
       "title": "在這極速超越高鐵的賽車運動裏，女性車手盡展鋒芒",
