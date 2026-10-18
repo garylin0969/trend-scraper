@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T08:54:26.213Z",
+  "updated": "2026-10-18T09:11:30.564Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "157",
-      "recommendCount": "379",
+      "recommendScore": "159",
+      "recommendCount": "381",
       "title": "[新聞] 接殺不一定出局？大聯盟測試守備新規",
       "link": "/bbs/Baseball/M.1792295284.A.F82",
       "author": "nybbnan",
@@ -105,7 +105,7 @@
     },
     {
       "recommendScore": "174",
-      "recommendCount": "383",
+      "recommendCount": "386",
       "title": "[新聞] 沈伯洋很氣「我是犯罪學所長」 蔣萬安：你專業是認知作戰",
       "link": "/bbs/Gossiping/M.1792288066.A.1B8",
       "author": "william8403",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "209",
-      "recommendCount": "730",
+      "recommendScore": "208",
+      "recommendCount": "731",
       "title": "[討論] 章萬安：大廠搬台北 晶片就能馬上生產",
       "link": "/bbs/HatePolitics/M.1792289506.A.410",
       "author": "kuninaka",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "136",
-      "recommendCount": "345",
+      "recommendScore": "138",
+      "recommendCount": "350",
       "title": "[問卦] 法國快要內戰了",
       "link": "/bbs/Gossiping/M.1792284424.A.81E",
       "author": "mibbl0",
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "121",
+      "recommendCount": "214",
+      "title": "[爆卦] 高雄捷運車廂有黑人尿尿",
+      "link": "/bbs/Gossiping/M.1792296059.A.F3C",
+      "author": "psychohero",
+      "board": "Gossiping",
+      "publishTime": "2026/10/18 04:00",
+      "imageUrl": "https://cache.pttweb.cc/imgur/39J70f7/s/4714c07d81f4c300fe4d315b0375f9fe"
+    },
+    {
       "recommendScore": "784",
       "recommendCount": "1424",
       "title": "[電競] 2026 World Championship 入圍賽 Day 3",
@@ -184,23 +194,13 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/jxWnl2h/s/3756d0a1d799f508e7e56c6dc218e64a"
     },
     {
-      "recommendScore": "119",
-      "recommendCount": "211",
-      "title": "[爆卦] 高雄捷運車廂有黑人尿尿",
-      "link": "/bbs/Gossiping/M.1792296059.A.F3C",
-      "author": "psychohero",
-      "board": "Gossiping",
-      "publishTime": "2026/10/18 04:00",
-      "imageUrl": "https://cache.pttweb.cc/imgur/39J70f7/s/4714c07d81f4c300fe4d315b0375f9fe"
-    },
-    {
-      "recommendScore": "177",
-      "recommendCount": "407",
-      "title": "[討論] 韓國瑜：愛情摩天輪",
-      "link": "/bbs/HatePolitics/M.1792242834.A.A75",
-      "author": "Akun",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/17 13:13",
+      "recommendScore": "108",
+      "recommendCount": "300",
+      "title": "[標的] 大盤 歷史重演多",
+      "link": "/bbs/Stock/M.1792245974.A.673",
+      "author": "allen910106",
+      "board": "Stock",
+      "publishTime": "2026/10/17 14:06",
       "imageUrl": ""
     }
   ]
