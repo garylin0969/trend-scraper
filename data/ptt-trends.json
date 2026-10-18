@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T15:10:18.694Z",
+  "updated": "2026-10-18T15:21:28.874Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "158",
+      "recommendCount": "357",
+      "title": "[問卦] 台北松信區幹嘛，怎街道二旁站這麼多人 ?",
+      "link": "/bbs/Gossiping/M.1792318363.A.DCB",
+      "author": "nicholas0406",
+      "board": "Gossiping",
+      "publishTime": "2026/10/18 10:12",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "145",
       "recommendCount": "365",
       "title": "[問卦] 法國快要內戰了",
@@ -61,16 +71,6 @@
       "author": "mibbl0",
       "board": "Gossiping",
       "publishTime": "2026/10/18 00:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "160",
-      "recommendCount": "350",
-      "title": "[問卦] 台北松信區幹嘛，怎街道二旁站這麼多人 ?",
-      "link": "/bbs/Gossiping/M.1792318363.A.DCB",
-      "author": "nicholas0406",
-      "board": "Gossiping",
-      "publishTime": "2026/10/18 10:12",
       "imageUrl": ""
     },
     {
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "127",
-      "recommendCount": "231",
+      "recommendScore": "129",
+      "recommendCount": "233",
       "title": "[新聞] 下周一恐血洗1100點…千萬別做錯！「15檔有大人在顧」完整名單來了",
       "link": "/bbs/Stock/M.1792306639.A.5DB",
       "author": "icedog122",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "117",
-      "recommendCount": "465",
+      "recommendScore": "118",
+      "recommendCount": "466",
       "title": "[新聞] 獨／大型行庫集體踩雷離岸風電聯貸 經濟部指示曾文生出面會銀行團",
       "link": "/bbs/Stock/M.1792256253.A.EA1",
       "author": "troy30408",
@@ -195,7 +195,7 @@
     },
     {
       "recommendScore": "83",
-      "recommendCount": "225",
+      "recommendCount": "226",
       "title": "[新聞] 范雲道歉了！　po沈伯洋影片出現「這標誌」被抓包",
       "link": "/bbs/Gossiping/M.1792315756.A.53F",
       "author": "mars1985",
