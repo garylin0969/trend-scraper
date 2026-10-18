@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T02:36:33.286Z",
+  "updated": "2026-10-18T02:49:24.327Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -31,26 +31,6 @@
       "author": "tony5110",
       "board": "Stock",
       "publishTime": "2026/10/17 11:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "269",
-      "recommendCount": "661",
-      "title": "[新聞] 快訊／川普突簽行政命令！ 宣布「豁免多項俄羅斯制裁」",
-      "link": "/bbs/Stock/M.1792205004.A.625",
-      "author": "omanorboyo",
-      "board": "Stock",
-      "publishTime": "2026/10/17 02:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "274",
-      "recommendCount": "644",
-      "title": "[新聞] 快訊／川普突簽行政命令！　宣布「豁免多項俄羅斯制裁」",
-      "link": "/bbs/Gossiping/M.1792205000.A.F84",
-      "author": "zxcxxx",
-      "board": "Gossiping",
-      "publishTime": "2026/10/17 02:43",
       "imageUrl": ""
     },
     {
@@ -114,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "255",
-      "recommendCount": "794",
+      "recommendScore": "256",
+      "recommendCount": "795",
       "title": "[討論] 蔣萬安：黃仁勳以後來台北36分鐘 很方便",
       "link": "/bbs/HatePolitics/M.1792246143.A.90F",
       "author": "oscarwu3041",
@@ -144,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "154",
-      "recommendCount": "324",
+      "recommendScore": "156",
+      "recommendCount": "326",
       "title": "[爆卦] 台南車站新站 出現夾手手扶梯",
       "link": "/bbs/Gossiping/M.1792256440.A.71E",
       "author": "super1314159",
@@ -175,32 +155,52 @@
     },
     {
       "recommendScore": "131",
-      "recommendCount": "302",
-      "title": "[問卦] 社子島居民又出來哭了 他們到底要什麼",
-      "link": "/bbs/Gossiping/M.1792204778.A.033",
-      "author": "Tsuzichen",
-      "board": "Gossiping",
-      "publishTime": "2026/10/17 02:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "138",
-      "recommendCount": "256",
-      "title": "[爆卦] 台南後壁爐渣田清理工作幾乎確定跳票",
-      "link": "/bbs/Gossiping/M.1792204629.A.52D",
-      "author": "olctw",
-      "board": "Gossiping",
-      "publishTime": "2026/10/17 02:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "131",
       "recommendCount": "294",
       "title": "[問卦] 「解決社子島不難」這句是不是吹牛呀",
       "link": "/bbs/Gossiping/M.1792222244.A.FDD",
       "author": "Elsie1999",
       "board": "Gossiping",
       "publishTime": "2026/10/17 07:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "784",
+      "recommendCount": "1424",
+      "title": "[電競] 2026 World Championship 入圍賽 Day 3",
+      "link": "/bbs/LoL/M.1792249424.A.AAC",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2026/10/17 15:03",
+      "imageUrl": "https://cache.pttweb.cc/imgur/jxWnl2h/s/3756d0a1d799f508e7e56c6dc218e64a"
+    },
+    {
+      "recommendScore": "92",
+      "recommendCount": "261",
+      "title": "[問卦] 幹, 台積電那些高官是真的會技術ㄟ",
+      "link": "/bbs/Gossiping/M.1792246536.A.5F9",
+      "author": "bota",
+      "board": "Gossiping",
+      "publishTime": "2026/10/17 14:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "177",
+      "recommendCount": "406",
+      "title": "[討論] 韓國瑜：愛情摩天輪",
+      "link": "/bbs/HatePolitics/M.1792242834.A.A75",
+      "author": "Akun",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/17 13:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "723",
+      "recommendCount": "1276",
+      "title": "[電競] 2026 德瑪西亞盃國際邀請賽 決賽",
+      "link": "/bbs/LoL/M.1792226975.A.745",
+      "author": "laptic",
+      "board": "LoL",
+      "publishTime": "2026/10/17 08:49",
       "imageUrl": ""
     }
   ]
