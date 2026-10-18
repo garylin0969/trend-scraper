@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T14:46:52.171Z",
+  "updated": "2026-10-18T14:53:26.640Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "144",
-      "recommendCount": "362",
+      "recommendScore": "145",
+      "recommendCount": "365",
       "title": "[問卦] 法國快要內戰了",
       "link": "/bbs/Gossiping/M.1792284424.A.81E",
       "author": "mibbl0",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "160",
-      "recommendCount": "345",
+      "recommendScore": "161",
+      "recommendCount": "348",
       "title": "[問卦] 台北松信區幹嘛，怎街道二旁站這麼多人 ?",
       "link": "/bbs/Gossiping/M.1792318363.A.DCB",
       "author": "nicholas0406",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "174",
-      "recommendCount": "712",
+      "recommendScore": "175",
+      "recommendCount": "715",
       "title": "[新聞]不只QR Code點餐！餐廳「1要求」越來越常見　網吵翻：一律不去",
       "link": "/bbs/Gossiping/M.1792304312.A.90C",
       "author": "XDGEE",
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "145",
+      "recommendCount": "417",
+      "title": "[討論] 沈伯洋的人氣為什麼會那麼高",
+      "link": "/bbs/HatePolitics/M.1792319690.A.847",
+      "author": "Sunpayus",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/18 10:34",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-45",
       "recommendCount": "249",
       "title": "[討論] 味全直接總冠軍，謝謝主審",
@@ -144,18 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "141",
-      "recommendCount": "411",
-      "title": "[討論] 沈伯洋的人氣為什麼會那麼高",
-      "link": "/bbs/HatePolitics/M.1792319690.A.847",
-      "author": "Sunpayus",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/18 10:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "92",
-      "recommendCount": "227",
+      "recommendScore": "93",
+      "recommendCount": "229",
       "title": "[新聞] 台股一周跌逾3000點！陳嘉偉示警M頭：年線對稱跌幅恐回測5年線",
       "link": "/bbs/Stock/M.1792311210.A.AA9",
       "author": "diefishfish",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "150",
-      "recommendCount": "213",
-      "title": "[新聞] WCY快訊／勝騎士挑戰賽G4缺席原因曝！",
-      "link": "/bbs/Baseball/M.1792248685.A.4AC",
-      "author": "WuSam",
-      "board": "Baseball",
-      "publishTime": "2026/10/17 14:51",
+      "recommendScore": "83",
+      "recommendCount": "225",
+      "title": "[新聞] 范雲道歉了！　po沈伯洋影片出現「這標誌」被抓包",
+      "link": "/bbs/Gossiping/M.1792315756.A.53F",
+      "author": "mars1985",
+      "board": "Gossiping",
+      "publishTime": "2026/10/18 09:29",
       "imageUrl": ""
     }
   ]
