@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T05:45:38.308Z",
+  "updated": "2026-10-18T05:53:16.214Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,14 +34,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "128",
-      "recommendCount": "489",
+      "recommendScore": "129",
+      "recommendCount": "490",
       "title": "[閒聊] 台灣人被中國文化入侵多嚴重？",
       "link": "/bbs/C_Chat/M.1792230502.A.B8F",
       "author": "Kudomoemoe",
       "board": "C_Chat",
       "publishTime": "2026/10/17 09:48",
       "imageUrl": "https://cache.pttweb.cc/imgur/8yaA8i7/s/0d1e54293d08543f8930bb60c2d38983"
+    },
+    {
+      "recommendScore": "202",
+      "recommendCount": "419",
+      "title": "[新聞] 離岸風電出包！九大行庫聯貸踩雷 台電董事長親自出面開會",
+      "link": "/bbs/Gossiping/M.1792284091.A.05F",
+      "author": "ljuber",
+      "board": "Gossiping",
+      "publishTime": "2026/10/18 00:41",
+      "imageUrl": ""
     },
     {
       "recommendScore": "184",
@@ -51,16 +61,6 @@
       "author": "tmacai0103",
       "board": "Baseball",
       "publishTime": "2026/10/17 13:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "201",
-      "recommendCount": "416",
-      "title": "[新聞] 離岸風電出包！九大行庫聯貸踩雷 台電董事長親自出面開會",
-      "link": "/bbs/Gossiping/M.1792284091.A.05F",
-      "author": "ljuber",
-      "board": "Gossiping",
-      "publishTime": "2026/10/18 00:41",
       "imageUrl": ""
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "61",
-      "recommendCount": "312",
+      "recommendCount": "313",
       "title": "[新聞] 公開表態挺沈伯洋！作家列出「10大驚人特質」神預言1狀況：必當台北市長",
       "link": "/bbs/Gossiping/M.1792228868.A.0E8",
       "author": "iam168888888",
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "143",
+      "recommendCount": "331",
+      "title": "[新聞] 沈伯洋很氣「我是犯罪學所長」 蔣萬安：你專業是認知作戰",
+      "link": "/bbs/Gossiping/M.1792288066.A.1B8",
+      "author": "william8403",
+      "board": "Gossiping",
+      "publishTime": "2026/10/18 01:47",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "101",
       "recommendCount": "296",
       "title": "[問卦] 幹, 台積電那些高官是真的會技術ㄟ",
@@ -134,18 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "139",
-      "recommendCount": "322",
-      "title": "[新聞] 沈伯洋很氣「我是犯罪學所長」 蔣萬安：你專業是認知作戰",
-      "link": "/bbs/Gossiping/M.1792288066.A.1B8",
-      "author": "william8403",
-      "board": "Gossiping",
-      "publishTime": "2026/10/18 01:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "192",
-      "recommendCount": "671",
+      "recommendScore": "195",
+      "recommendCount": "677",
       "title": "[討論] 章萬安：大廠搬台北 晶片就能馬上生產",
       "link": "/bbs/HatePolitics/M.1792289506.A.410",
       "author": "kuninaka",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "172",
-      "recommendCount": "363",
+      "recommendScore": "173",
+      "recommendCount": "364",
       "title": "[分享] 橫濱打進日本大賽 日本網友出現異音",
       "link": "/bbs/Baseball/M.1792285323.A.A19",
       "author": "AisinGioro",
@@ -184,6 +184,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/jxWnl2h/s/3756d0a1d799f508e7e56c6dc218e64a"
     },
     {
+      "recommendScore": "116",
+      "recommendCount": "296",
+      "title": "[問卦] 法國快要內戰了",
+      "link": "/bbs/Gossiping/M.1792284424.A.81E",
+      "author": "mibbl0",
+      "board": "Gossiping",
+      "publishTime": "2026/10/18 00:47",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "177",
       "recommendCount": "407",
       "title": "[討論] 韓國瑜：愛情摩天輪",
@@ -191,16 +201,6 @@
       "author": "Akun",
       "board": "HatePolitics",
       "publishTime": "2026/10/17 13:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "723",
-      "recommendCount": "1276",
-      "title": "[電競] 2026 德瑪西亞盃國際邀請賽 決賽",
-      "link": "/bbs/LoL/M.1792226975.A.745",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/10/17 08:49",
       "imageUrl": ""
     }
   ]
