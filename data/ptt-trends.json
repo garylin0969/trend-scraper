@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T03:14:40.605Z",
+  "updated": "2026-10-18T03:34:45.452Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "195",
-      "recommendCount": "448",
+      "recommendCount": "449",
       "title": "[問卦] 企鵝妹覺得中國比歐洲和美國安全 有八卦?",
       "link": "/bbs/Gossiping/M.1792234433.A.8E9",
       "author": "magic543",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "156",
-      "recommendCount": "329",
+      "recommendScore": "159",
+      "recommendCount": "332",
       "title": "[爆卦] 台南車站新站 出現夾手手扶梯",
       "link": "/bbs/Gossiping/M.1792256440.A.71E",
       "author": "super1314159",
@@ -164,13 +164,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "94",
-      "recommendCount": "273",
+      "recommendScore": "96",
+      "recommendCount": "277",
       "title": "[問卦] 幹, 台積電那些高官是真的會技術ㄟ",
       "link": "/bbs/Gossiping/M.1792246536.A.5F9",
       "author": "bota",
       "board": "Gossiping",
       "publishTime": "2026/10/17 14:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "146",
+      "recommendCount": "289",
+      "title": "[新聞] 離岸風電出包！九大行庫聯貸踩雷 台電董事長親自出面開會",
+      "link": "/bbs/Gossiping/M.1792284091.A.05F",
+      "author": "ljuber",
+      "board": "Gossiping",
+      "publishTime": "2026/10/18 00:41",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "Akun",
       "board": "HatePolitics",
       "publishTime": "2026/10/17 13:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "723",
-      "recommendCount": "1276",
-      "title": "[電競] 2026 德瑪西亞盃國際邀請賽 決賽",
-      "link": "/bbs/LoL/M.1792226975.A.745",
-      "author": "laptic",
-      "board": "LoL",
-      "publishTime": "2026/10/17 08:49",
       "imageUrl": ""
     }
   ]
