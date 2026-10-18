@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T10:43:32.873Z",
+  "updated": "2026-10-18T10:53:15.377Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "180",
+      "recommendCount": "288",
+      "title": "[炸裂] 曾聖安",
+      "link": "/bbs/Baseball/M.1792319128.A.704",
+      "author": "lsj049",
+      "board": "Baseball",
+      "publishTime": "2026/10/18 10:25",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "165",
       "recommendCount": "392",
       "title": "[新聞] 接殺不一定出局？大聯盟測試守備新規",
@@ -91,16 +101,6 @@
       "author": "william8403",
       "board": "Gossiping",
       "publishTime": "2026/10/18 01:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "167",
-      "recommendCount": "264",
-      "title": "[炸裂] 曾聖安",
-      "link": "/bbs/Baseball/M.1792319128.A.704",
-      "author": "lsj049",
-      "board": "Baseball",
-      "publishTime": "2026/10/18 10:25",
       "imageUrl": ""
     },
     {
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "140",
-      "recommendCount": "353",
+      "recommendScore": "141",
+      "recommendCount": "354",
       "title": "[問卦] 法國快要內戰了",
       "link": "/bbs/Gossiping/M.1792284424.A.81E",
       "author": "mibbl0",
@@ -134,13 +134,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "109",
-      "recommendCount": "312",
+      "recommendScore": "110",
+      "recommendCount": "316",
       "title": "[問卦] 幹, 台積電那些高官是真的會技術ㄟ",
       "link": "/bbs/Gossiping/M.1792246536.A.5F9",
       "author": "bota",
       "board": "Gossiping",
       "publishTime": "2026/10/17 14:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "275",
+      "recommendCount": "754",
+      "title": "[轉播] TS G2 五下 兄弟1：0味全",
+      "link": "/bbs/Elephants/M.1792318475.A.07D",
+      "author": "hsuaninteen",
+      "board": "Elephants",
+      "publishTime": "2026/10/18 10:14",
       "imageUrl": ""
     },
     {
@@ -154,24 +164,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "130",
-      "recommendCount": "230",
+      "recommendScore": "131",
+      "recommendCount": "231",
       "title": "[爆卦] 高雄捷運車廂有黑人尿尿",
       "link": "/bbs/Gossiping/M.1792296059.A.F3C",
       "author": "psychohero",
       "board": "Gossiping",
       "publishTime": "2026/10/18 04:00",
       "imageUrl": "https://cache.pttweb.cc/imgur/39J70f7/s/4714c07d81f4c300fe4d315b0375f9fe"
-    },
-    {
-      "recommendScore": "247",
-      "recommendCount": "676",
-      "title": "[轉播] TS G2 五下 兄弟1：0味全",
-      "link": "/bbs/Elephants/M.1792318475.A.07D",
-      "author": "hsuaninteen",
-      "board": "Elephants",
-      "publishTime": "2026/10/18 10:14",
-      "imageUrl": ""
     },
     {
       "recommendScore": "784",
