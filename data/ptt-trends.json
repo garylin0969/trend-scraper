@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T14:30:58.974Z",
+  "updated": "2026-10-18T14:40:14.447Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "186",
-      "recommendCount": "405",
+      "recommendScore": "187",
+      "recommendCount": "406",
       "title": "[新聞] 沈伯洋很氣「我是犯罪學所長」 蔣萬安：你專業是認知作戰",
       "link": "/bbs/Gossiping/M.1792288066.A.1B8",
       "author": "william8403",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "173",
-      "recommendCount": "711",
+      "recommendScore": "174",
+      "recommendCount": "712",
       "title": "[新聞]不只QR Code點餐！餐廳「1要求」越來越常見　網吵翻：一律不去",
       "link": "/bbs/Gossiping/M.1792304312.A.90C",
       "author": "XDGEE",
@@ -124,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "128",
+      "recommendCount": "230",
+      "title": "[新聞] 下周一恐血洗1100點…千萬別做錯！「15檔有大人在顧」完整名單來了",
+      "link": "/bbs/Stock/M.1792306639.A.5DB",
+      "author": "icedog122",
+      "board": "Stock",
+      "publishTime": "2026/10/18 06:57",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "-45",
       "recommendCount": "249",
       "title": "[討論] 味全直接總冠軍，謝謝主審",
@@ -131,16 +141,6 @@
       "author": "jojo9307006",
       "board": "Baseball",
       "publishTime": "2026/10/18 11:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "124",
-      "recommendCount": "225",
-      "title": "[新聞] 下周一恐血洗1100點…千萬別做錯！「15檔有大人在顧」完整名單來了",
-      "link": "/bbs/Stock/M.1792306639.A.5DB",
-      "author": "icedog122",
-      "board": "Stock",
-      "publishTime": "2026/10/18 06:57",
       "imageUrl": ""
     },
     {
@@ -155,7 +155,7 @@
     },
     {
       "recommendScore": "92",
-      "recommendCount": "225",
+      "recommendCount": "227",
       "title": "[新聞] 台股一周跌逾3000點！陳嘉偉示警M頭：年線對稱跌幅恐回測5年線",
       "link": "/bbs/Stock/M.1792311210.A.AA9",
       "author": "diefishfish",
