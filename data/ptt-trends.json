@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T18:32:13.111Z",
+  "updated": "2026-10-18T18:45:50.277Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "192",
+      "recommendCount": "201",
+      "title": "[發錢] 當選感言暨發錢",
+      "link": "/bbs/NBA/M.1792327384.A.DDC",
+      "author": "hasebe",
+      "board": "NBA",
+      "publishTime": "2026/10/18 12:43",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "164",
       "recommendCount": "270",
       "title": "[討論] 吵好球帶的都進來",
@@ -164,18 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "189",
-      "recommendCount": "198",
-      "title": "[發錢] 當選感言暨發錢",
-      "link": "/bbs/NBA/M.1792327384.A.DDC",
-      "author": "hasebe",
-      "board": "NBA",
-      "publishTime": "2026/10/18 12:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "88",
-      "recommendCount": "242",
+      "recommendScore": "89",
+      "recommendCount": "244",
       "title": "[新聞] 范雲道歉了！　po沈伯洋影片出現「這標誌」被抓包",
       "link": "/bbs/Gossiping/M.1792315756.A.53F",
       "author": "mars1985",
