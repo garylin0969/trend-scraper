@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-18T06:18:47.717Z",
+  "updated": "2026-10-18T06:43:05.196Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "298",
-      "recommendCount": "696",
+      "recommendScore": "299",
+      "recommendCount": "697",
       "title": "[新聞] 北檢檢察官吸毒緩起訴　曝光原因竟是承辦檢為「同期同學」",
       "link": "/bbs/Gossiping/M.1792226486.A.BDB",
       "author": "geofrania",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "203",
-      "recommendCount": "427",
+      "recommendScore": "207",
+      "recommendCount": "432",
       "title": "[新聞] 離岸風電出包！九大行庫聯貸踩雷 台電董事長親自出面開會",
       "link": "/bbs/Gossiping/M.1792284091.A.05F",
       "author": "ljuber",
@@ -85,7 +85,7 @@
     },
     {
       "recommendScore": "172",
-      "recommendCount": "360",
+      "recommendCount": "362",
       "title": "[爆卦] 台南車站新站 出現夾手手扶梯",
       "link": "/bbs/Gossiping/M.1792256440.A.71E",
       "author": "super1314159",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "62",
-      "recommendCount": "314",
+      "recommendScore": "61",
+      "recommendCount": "318",
       "title": "[新聞] 公開表態挺沈伯洋！作家列出「10大驚人特質」神預言1狀況：必當台北市長",
       "link": "/bbs/Gossiping/M.1792228868.A.0E8",
       "author": "iam168888888",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "153",
-      "recommendCount": "347",
+      "recommendScore": "158",
+      "recommendCount": "353",
       "title": "[新聞] 沈伯洋很氣「我是犯罪學所長」 蔣萬安：你專業是認知作戰",
       "link": "/bbs/Gossiping/M.1792288066.A.1B8",
       "author": "william8403",
@@ -135,7 +135,7 @@
     },
     {
       "recommendScore": "102",
-      "recommendCount": "302",
+      "recommendCount": "303",
       "title": "[問卦] 幹, 台積電那些高官是真的會技術ㄟ",
       "link": "/bbs/Gossiping/M.1792246536.A.5F9",
       "author": "bota",
@@ -144,13 +144,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "197",
-      "recommendCount": "685",
+      "recommendScore": "200",
+      "recommendCount": "700",
       "title": "[討論] 章萬安：大廠搬台北 晶片就能馬上生產",
       "link": "/bbs/HatePolitics/M.1792289506.A.410",
       "author": "kuninaka",
       "board": "HatePolitics",
       "publishTime": "2026/10/18 02:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "138",
+      "recommendCount": "328",
+      "title": "[新聞] 接殺不一定出局？大聯盟測試守備新規",
+      "link": "/bbs/Baseball/M.1792295284.A.F82",
+      "author": "nybbnan",
+      "board": "Baseball",
+      "publishTime": "2026/10/18 03:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "124",
+      "recommendCount": "320",
+      "title": "[問卦] 法國快要內戰了",
+      "link": "/bbs/Gossiping/M.1792284424.A.81E",
+      "author": "mibbl0",
+      "board": "Gossiping",
+      "publishTime": "2026/10/18 00:47",
       "imageUrl": ""
     },
     {
@@ -164,23 +184,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "173",
-      "recommendCount": "364",
+      "recommendScore": "176",
+      "recommendCount": "369",
       "title": "[分享] 橫濱打進日本大賽 日本網友出現異音",
       "link": "/bbs/Baseball/M.1792285323.A.A19",
       "author": "AisinGioro",
       "board": "Baseball",
       "publishTime": "2026/10/18 01:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "118",
-      "recommendCount": "305",
-      "title": "[問卦] 法國快要內戰了",
-      "link": "/bbs/Gossiping/M.1792284424.A.81E",
-      "author": "mibbl0",
-      "board": "Gossiping",
-      "publishTime": "2026/10/18 00:47",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "LoL",
       "publishTime": "2026/10/17 15:03",
       "imageUrl": "https://cache.pttweb.cc/imgur/jxWnl2h/s/3756d0a1d799f508e7e56c6dc218e64a"
-    },
-    {
-      "recommendScore": "134",
-      "recommendCount": "303",
-      "title": "[新聞] 接殺不一定出局？大聯盟測試守備新規",
-      "link": "/bbs/Baseball/M.1792295284.A.F82",
-      "author": "nybbnan",
-      "board": "Baseball",
-      "publishTime": "2026/10/18 03:48",
-      "imageUrl": ""
     }
   ]
 }
