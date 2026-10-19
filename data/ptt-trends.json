@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-19T01:14:17.683Z",
+  "updated": "2026-10-19T01:42:57.808Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "478",
-      "recommendCount": "612",
+      "recommendScore": "534",
+      "recommendCount": "687",
       "title": "[情報] Ben Simmons 跟腱撕裂",
       "link": "/bbs/NBA/M.1792362930.A.9CB",
       "author": "Superman007",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "174",
-      "recommendCount": "399",
+      "recommendScore": "175",
+      "recommendCount": "400",
       "title": "[問卦] 台北松信區幹嘛，怎街道二旁站這麼多人 ?",
       "link": "/bbs/Gossiping/M.1792318363.A.DCB",
       "author": "nicholas0406",
@@ -54,13 +54,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "191",
-      "recommendCount": "761",
+      "recommendScore": "195",
+      "recommendCount": "774",
       "title": "[新聞]不只QR Code點餐！餐廳「1要求」越來越常見　網吵翻：一律不去",
       "link": "/bbs/Gossiping/M.1792304312.A.90C",
       "author": "XDGEE",
       "board": "Gossiping",
       "publishTime": "2026/10/18 06:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "226",
+      "recommendCount": "239",
+      "title": "[發錢] 當選感言暨發錢",
+      "link": "/bbs/NBA/M.1792327384.A.DDC",
+      "author": "hasebe",
+      "board": "NBA",
+      "publishTime": "2026/10/18 12:43",
       "imageUrl": ""
     },
     {
@@ -71,16 +81,6 @@
       "author": "kuninaka",
       "board": "HatePolitics",
       "publishTime": "2026/10/18 02:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "223",
-      "recommendCount": "236",
-      "title": "[發錢] 當選感言暨發錢",
-      "link": "/bbs/NBA/M.1792327384.A.DDC",
-      "author": "hasebe",
-      "board": "NBA",
-      "publishTime": "2026/10/18 12:43",
       "imageUrl": ""
     },
     {
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "142",
+      "recommendCount": "304",
+      "title": "[新聞] 好日子不多了？南韓財長：記憶體榮景至少能撐到2027年",
+      "link": "/bbs/Stock/M.1792331399.A.600",
+      "author": "justin531xx",
+      "board": "Stock",
+      "publishTime": "2026/10/18 13:49",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "96",
       "recommendCount": "258",
       "title": "[新聞] 范雲道歉了！　po沈伯洋影片出現「這標誌」被抓包",
@@ -144,13 +154,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "139",
-      "recommendCount": "300",
-      "title": "[新聞] 好日子不多了？南韓財長：記憶體榮景至少能撐到2027年",
-      "link": "/bbs/Stock/M.1792331399.A.600",
-      "author": "justin531xx",
-      "board": "Stock",
-      "publishTime": "2026/10/18 13:49",
+      "recommendScore": "134",
+      "recommendCount": "277",
+      "title": "[問卦] 法國電玩店肥宅老闆被搶還被飛踢",
+      "link": "/bbs/Gossiping/M.1792336478.A.A16",
+      "author": "omanorboyo",
+      "board": "Gossiping",
+      "publishTime": "2026/10/18 15:14",
       "imageUrl": ""
     },
     {
@@ -174,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "127",
-      "recommendCount": "267",
-      "title": "[問卦] 法國電玩店肥宅老闆被搶還被飛踢",
-      "link": "/bbs/Gossiping/M.1792336478.A.A16",
-      "author": "omanorboyo",
-      "board": "Gossiping",
-      "publishTime": "2026/10/18 15:14",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "604",
       "recommendCount": "1081",
       "title": "[電競] 2026 World Championship 入圍賽 Day 4",
@@ -195,7 +195,7 @@
     },
     {
       "recommendScore": "139",
-      "recommendCount": "374",
+      "recommendCount": "378",
       "title": "Re: [爆卦] movie版主被罷免掉了",
       "link": "/bbs/Gossiping/M.1792313943.A.BC5",
       "author": "andy199113",
