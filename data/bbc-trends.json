@@ -1,14 +1,22 @@
 {
-  "updated": "2026-10-19T02:54:40.551Z",
+  "updated": "2026-10-19T03:30:43.067Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-10-19T02:54:34.000Z",
+    "lastBuildDate": "2026-10-19T03:30:31.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "尊界V800「煞車門」：從產品安全之爭到「恨國」論戰",
+      "description": "華為尊界V800煞車踏板斷裂爭議迅速升溫，從產品安全問題延伸至「速成車」質疑、中美汽車技術比較，以及民族品牌形象之爭。隨著官媒下場評議，事件進一步演變為一場輿論與產業敘事的角力。",
+      "link": "https://www.bbc.com/zhongwen/articles/cmje5y4254qdo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-10-19T03:22:46.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cmje5y4254qdo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b961/live/18654bf0-cb50-11f1-8128-5942f144dabe.jpg"
+    },
     {
       "title": "法國多地抗議變暴力衝突 巴黎街頭滿是焚毀汽車和碎玻璃",
       "description": "法國全國多座城市反對生活成本上漲的抗議活動爆發暴力和破壞行為後，約有1800人被捕。",
@@ -34,14 +42,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ceeb/live/358939a0-c923-11f1-9a39-31b474234113.jpg"
     },
     {
-      "title": "矽谷這座城市垃圾太臭居民受不了 就讓科技來幫忙",
-      "description": "垃圾場和工業設施散發的氣味正受到更嚴格的監測，但這有幫助嗎？",
-      "link": "https://www.bbc.com/zhongwen/articles/c5kgl32d8443o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-19T00:08:13.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5kgl32d8443o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/80ac/live/fbba3b20-c652-11f1-9a39-31b474234113.jpg"
-    },
-    {
       "title": "我們的廣告提到了「懷孕」 結果給 Instagram 下架了",
       "description": "創作者們表示，她們在社群媒體上發布女性健康內容時遭到了「秘密封鎖」，這背後究竟發生了什麼事？",
       "link": "https://www.bbc.com/zhongwen/articles/cr1ex0l8l9z5o/trad?at_medium=RSS&at_campaign=rss",
@@ -58,12 +58,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a208/live/829d3600-c861-11f1-9a39-31b474234113.png"
     },
     {
-      "title": "在這極速超越高鐵的賽車運動裏，女性車手盡展鋒芒",
-      "description": "Top Fuel 直線競速是目前唯一一個女性經常擊敗男性、贏得重要冠軍頭銜的頂級賽車運動組別。",
-      "link": "https://www.bbc.com/zhongwen/articles/cr15jlq50vq5o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-18T09:09:19.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cr15jlq50vq5o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7685/live/a4f7ed00-c25b-11f1-babe-4199b0e7ccea.jpg"
+      "title": "矽谷這座城市垃圾太臭居民受不了 就讓科技來幫忙",
+      "description": "垃圾場和工業設施散發的氣味正受到更嚴格的監測，但這有幫助嗎？",
+      "link": "https://www.bbc.com/zhongwen/articles/c5kgl32d8443o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-10-19T00:08:13.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5kgl32d8443o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/80ac/live/fbba3b20-c652-11f1-9a39-31b474234113.jpg"
     },
     {
       "title": "「我申請了200份工作」——用AI「撒網」求職為何易弄巧成拙？",
