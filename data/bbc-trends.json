@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-19T04:30:18.594Z",
+  "updated": "2026-10-19T04:53:37.441Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-10-19T04:30:06.000Z",
+    "lastBuildDate": "2026-10-19T04:53:25.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -18,7 +18,15 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b961/live/18654bf0-cb50-11f1-8128-5942f144dabe.jpg"
     },
     {
-      "title": "法國各地騷亂：19世紀歷史建筑被焚燬  政客表態折射分歧",
+      "title": "烏克蘭鋼企老闆稱：歐盟對華關稅殃及本國",
+      "description": "烏克蘭最大鋼鐵企業之一的負責人表示，在針對廉價進口產品的限制措施中，烏克蘭被「一併捆綁」納入相關管制範圍。",
+      "link": "https://www.bbc.com/zhongwen/articles/cw0k0z264d0jo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-10-19T04:33:11.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cw0k0z264d0jo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/29eb/live/c667f2d0-c96f-11f1-80fc-ab418b149008.jpg"
+    },
+    {
+      "title": "法國各地騷亂：19世紀歷史建築被焚燬  政客表態折射分歧",
       "description": "法國總統馬克龍在巴黎發生大規模騷亂和搶劫事件後發表全國演說。",
       "link": "https://www.bbc.com/zhongwen/articles/cwvgd0z8l1p9o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-10-19T03:58:25.000Z",
@@ -42,14 +50,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ceeb/live/358939a0-c923-11f1-9a39-31b474234113.jpg"
     },
     {
-      "title": "我們的廣告提到了「懷孕」 結果給 Instagram 下架了",
-      "description": "創作者們表示，她們在社群媒體上發布女性健康內容時遭到了「秘密封鎖」，這背後究竟發生了什麼事？",
-      "link": "https://www.bbc.com/zhongwen/articles/cr1ex0l8l9z5o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-19T00:08:09.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cr1ex0l8l9z5o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a53c/live/281e7410-c315-11f1-8f04-85217d686658.jpg"
-    },
-    {
       "title": "遊艇上的水上滑梯、泳池：衛星影像揭示的金正恩「夏宮」生活",
       "description": "BBC追蹤了一艘長達80米、配有水上滑梯的船隻，旨在進一步了解金正恩如何度過假期——這對大多數朝鮮人而言，是遙不可及的體驗。",
       "link": "https://www.bbc.com/zhongwen/articles/cm9dzq7z7vw8o/trad?at_medium=RSS&at_campaign=rss",
@@ -58,12 +58,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a208/live/829d3600-c861-11f1-9a39-31b474234113.png"
     },
     {
-      "title": "矽谷這座城市垃圾太臭居民受不了 就讓科技來幫忙",
-      "description": "垃圾場和工業設施散發的氣味正受到更嚴格的監測，但這有幫助嗎？",
-      "link": "https://www.bbc.com/zhongwen/articles/c5kgl32d8443o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-19T00:08:13.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5kgl32d8443o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/80ac/live/fbba3b20-c652-11f1-9a39-31b474234113.jpg"
+      "title": "我們的廣告提到了「懷孕」 結果給 Instagram 下架了",
+      "description": "創作者們表示，她們在社群媒體上發布女性健康內容時遭到了「秘密封鎖」，這背後究竟發生了什麼事？",
+      "link": "https://www.bbc.com/zhongwen/articles/cr1ex0l8l9z5o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-10-19T00:08:09.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cr1ex0l8l9z5o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a53c/live/281e7410-c315-11f1-8f04-85217d686658.jpg"
     },
     {
       "title": "「我申請了200份工作」——用AI「撒網」求職為何易弄巧成拙？",
