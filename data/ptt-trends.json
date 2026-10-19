@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-19T02:34:55.510Z",
+  "updated": "2026-10-19T02:53:29.564Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "600",
-      "recommendCount": "775",
+      "recommendScore": "628",
+      "recommendCount": "816",
       "title": "[情報] Ben Simmons 跟腱撕裂",
       "link": "/bbs/NBA/M.1792362930.A.9CB",
       "author": "Superman007",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "237",
-      "recommendCount": "250",
+      "recommendScore": "239",
+      "recommendCount": "252",
       "title": "[發錢] 當選感言暨發錢",
       "link": "/bbs/NBA/M.1792327384.A.DDC",
       "author": "hasebe",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "148",
-      "recommendCount": "263",
+      "recommendCount": "264",
       "title": "[爆卦] 高雄捷運車廂有黑人尿尿",
       "link": "/bbs/Gossiping/M.1792296059.A.F3C",
       "author": "psychohero",
@@ -74,8 +74,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/39J70f7/s/4714c07d81f4c300fe4d315b0375f9fe"
     },
     {
-      "recommendScore": "108",
-      "recommendCount": "257",
+      "recommendScore": "109",
+      "recommendCount": "258",
       "title": "[新聞] 台股一周跌逾3000點！陳嘉偉示警M頭：年線對稱跌幅恐回測5年線",
       "link": "/bbs/Stock/M.1792311210.A.AA9",
       "author": "diefishfish",
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "146",
+      "recommendCount": "315",
+      "title": "[新聞] 好日子不多了？南韓財長：記憶體榮景至少能撐到2027年",
+      "link": "/bbs/Stock/M.1792331399.A.600",
+      "author": "justin531xx",
+      "board": "Stock",
+      "publishTime": "2026/10/18 13:49",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "143",
       "recommendCount": "289",
       "title": "[問卦] 法國電玩店肥宅老闆被搶還被飛踢",
@@ -121,16 +131,6 @@
       "author": "omanorboyo",
       "board": "Gossiping",
       "publishTime": "2026/10/18 15:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "146",
-      "recommendCount": "312",
-      "title": "[新聞] 好日子不多了？南韓財長：記憶體榮景至少能撐到2027年",
-      "link": "/bbs/Stock/M.1792331399.A.600",
-      "author": "justin531xx",
-      "board": "Stock",
-      "publishTime": "2026/10/18 13:49",
       "imageUrl": ""
     },
     {
@@ -174,14 +174,24 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/i8aG1pG/s/1cd0c669ab0939c1c38b0b8606a5b5f9"
     },
     {
-      "recommendScore": "139",
-      "recommendCount": "378",
+      "recommendScore": "140",
+      "recommendCount": "379",
       "title": "Re: [爆卦] movie版主被罷免掉了",
       "link": "/bbs/Gossiping/M.1792313943.A.BC5",
       "author": "andy199113",
       "board": "Gossiping",
       "publishTime": "2026/10/18 08:59",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "142",
+      "recommendCount": "205",
+      "title": "[花邊] Ben Simmons IG : 我會重新站起來",
+      "link": "/bbs/NBA/M.1792369234.A.471",
+      "author": "Kai877",
+      "board": "NBA",
+      "publishTime": "2026/10/19 00:20",
+      "imageUrl": "https://cache.pttweb.cc/imgur/MLmAa8y/s/e45ae5d28f540bb310a6c61bc0b2a34f"
     },
     {
       "recommendScore": "243",
@@ -191,16 +201,6 @@
       "author": "hsuaninteen",
       "board": "Elephants",
       "publishTime": "2026/10/18 10:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "102",
-      "recommendCount": "189",
-      "title": "Re: [討論] 味全直接總冠軍，謝謝主審",
-      "link": "/bbs/Baseball/M.1792324410.A.8E5",
-      "author": "bower1025",
-      "board": "Baseball",
-      "publishTime": "2026/10/18 11:53",
       "imageUrl": ""
     }
   ]
