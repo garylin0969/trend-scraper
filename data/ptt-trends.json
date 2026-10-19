@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-19T04:14:46.808Z",
+  "updated": "2026-10-19T04:36:57.539Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "692",
-      "recommendCount": "903",
+      "recommendScore": "707",
+      "recommendCount": "921",
       "title": "[情報] Ben Simmons 跟腱撕裂",
       "link": "/bbs/NBA/M.1792362930.A.9CB",
       "author": "Superman007",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "241",
-      "recommendCount": "256",
+      "recommendScore": "242",
+      "recommendCount": "258",
       "title": "[發錢] 當選感言暨發錢",
       "link": "/bbs/NBA/M.1792327384.A.DDC",
       "author": "hasebe",
@@ -54,14 +54,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "110",
-      "recommendCount": "263",
+      "recommendScore": "109",
+      "recommendCount": "264",
       "title": "[新聞] 台股一周跌逾3000點！陳嘉偉示警M頭：年線對稱跌幅恐回測5年線",
       "link": "/bbs/Stock/M.1792311210.A.AA9",
       "author": "diefishfish",
       "board": "Stock",
       "publishTime": "2026/10/18 08:13",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "186",
+      "recommendCount": "266",
+      "title": "[花邊] Ben Simmons IG : 我會重新站起來",
+      "link": "/bbs/NBA/M.1792369234.A.471",
+      "author": "Kai877",
+      "board": "NBA",
+      "publishTime": "2026/10/19 00:20",
+      "imageUrl": "https://cache.pttweb.cc/imgur/MLmAa8y/s/e45ae5d28f540bb310a6c61bc0b2a34f"
     },
     {
       "recommendScore": "275",
@@ -72,16 +82,6 @@
       "board": "Elephants",
       "publishTime": "2026/10/18 10:14",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "178",
-      "recommendCount": "252",
-      "title": "[花邊] Ben Simmons IG : 我會重新站起來",
-      "link": "/bbs/NBA/M.1792369234.A.471",
-      "author": "Kai877",
-      "board": "NBA",
-      "publishTime": "2026/10/19 00:20",
-      "imageUrl": "https://cache.pttweb.cc/imgur/MLmAa8y/s/e45ae5d28f540bb310a6c61bc0b2a34f"
     },
     {
       "recommendScore": "151",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "146",
-      "recommendCount": "292",
+      "recommendScore": "147",
+      "recommendCount": "293",
       "title": "[問卦] 法國電玩店肥宅老闆被搶還被飛踢",
       "link": "/bbs/Gossiping/M.1792336478.A.A16",
       "author": "omanorboyo",
@@ -155,12 +155,22 @@
     },
     {
       "recommendScore": "112",
-      "recommendCount": "321",
+      "recommendCount": "324",
       "title": "[新聞] 南鐵地下化受狂歡式開箱 當年反迫遷聲援學生：用別人的血在暖自己",
       "link": "/bbs/Gossiping/M.1792363789.A.8D3",
       "author": "godofsex",
       "board": "Gossiping",
       "publishTime": "2026/10/18 22:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "145",
+      "recommendCount": "391",
+      "title": "Re: [爆卦] movie版主被罷免掉了",
+      "link": "/bbs/Gossiping/M.1792313943.A.BC5",
+      "author": "andy199113",
+      "board": "Gossiping",
+      "publishTime": "2026/10/18 08:59",
       "imageUrl": ""
     },
     {
@@ -174,16 +184,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/i8aG1pG/s/1cd0c669ab0939c1c38b0b8606a5b5f9"
     },
     {
-      "recommendScore": "144",
-      "recommendCount": "390",
-      "title": "Re: [爆卦] movie版主被罷免掉了",
-      "link": "/bbs/Gossiping/M.1792313943.A.BC5",
-      "author": "andy199113",
-      "board": "Gossiping",
-      "publishTime": "2026/10/18 08:59",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "243",
       "recommendCount": "713",
       "title": "[轉播] TS G2 六上 兄弟1：3味全",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "176",
-      "recommendCount": "181",
-      "title": "[集氣] 橫濱日本一冠軍就發錢",
-      "link": "/bbs/Baseball/M.1792305805.A.C43",
-      "author": "l15",
+      "recommendScore": "101",
+      "recommendCount": "190",
+      "title": "Re: [討論] 味全直接總冠軍，謝謝主審",
+      "link": "/bbs/Baseball/M.1792324410.A.8E5",
+      "author": "bower1025",
       "board": "Baseball",
-      "publishTime": "2026/10/18 06:43",
+      "publishTime": "2026/10/18 11:53",
       "imageUrl": ""
     }
   ]
