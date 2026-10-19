@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T22:45:32.294Z",
+  "updated": "2026-10-19T22:53:17.356Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "216",
+      "recommendCount": "444",
+      "title": "[新聞] 澎湖男連中2期千萬發票？ 銀行拒兌報案",
+      "link": "/bbs/Gossiping/M.1792413263.A.C26",
+      "author": "siopp",
+      "board": "Gossiping",
+      "publishTime": "2026/10/19 12:34",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "194",
       "recommendCount": "315",
       "title": "[問卦] 屠龍後龍又找我了該去嗎",
@@ -114,18 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "215",
-      "recommendCount": "443",
-      "title": "[新聞] 澎湖男連中2期千萬發票？ 銀行拒兌報案",
-      "link": "/bbs/Gossiping/M.1792413263.A.C26",
-      "author": "siopp",
-      "board": "Gossiping",
-      "publishTime": "2026/10/19 12:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "293",
-      "recommendCount": "677",
+      "recommendScore": "296",
+      "recommendCount": "681",
       "title": "[爆掛] 澎湖千萬發票破解手法",
       "link": "/bbs/Gossiping/M.1792423413.A.28E",
       "author": "danny0830",
@@ -144,23 +144,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "107",
-      "recommendCount": "304",
+      "recommendScore": "108",
+      "recommendCount": "309",
       "title": "[新聞] 匿名人士爆料！國安會副秘林飛帆明赴國防大學演講 國防部尚未回應",
       "link": "/bbs/Gossiping/M.1792418750.A.514",
       "author": "Supergreen",
       "board": "Gossiping",
       "publishTime": "2026/10/19 14:05",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "114",
-      "recommendCount": "343",
-      "title": "[新聞] 南鐵地下化受狂歡式開箱 當年反迫遷聲援學生：用別人的血在暖自己",
-      "link": "/bbs/Gossiping/M.1792363789.A.8D3",
-      "author": "godofsex",
-      "board": "Gossiping",
-      "publishTime": "2026/10/18 22:49",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "whj0530",
       "board": "Gossiping",
       "publishTime": "2026/10/19 05:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "112",
+      "recommendCount": "262",
+      "title": "[討論] 羅智強:盧秀燕掌兵符 要迎頭趕上造成逆轉",
+      "link": "/bbs/HatePolitics/M.1792400432.A.7FD",
+      "author": "cblade",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/19 09:00",
       "imageUrl": ""
     }
   ]
