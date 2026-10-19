@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-19T04:36:57.539Z",
+  "updated": "2026-10-19T04:52:20.705Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "707",
-      "recommendCount": "921",
+      "recommendScore": "719",
+      "recommendCount": "935",
       "title": "[情報] Ben Simmons 跟腱撕裂",
       "link": "/bbs/NBA/M.1792362930.A.9CB",
       "author": "Superman007",
@@ -54,24 +54,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "109",
-      "recommendCount": "264",
-      "title": "[新聞] 台股一周跌逾3000點！陳嘉偉示警M頭：年線對稱跌幅恐回測5年線",
-      "link": "/bbs/Stock/M.1792311210.A.AA9",
-      "author": "diefishfish",
-      "board": "Stock",
-      "publishTime": "2026/10/18 08:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "186",
-      "recommendCount": "266",
+      "recommendScore": "194",
+      "recommendCount": "275",
       "title": "[花邊] Ben Simmons IG : 我會重新站起來",
       "link": "/bbs/NBA/M.1792369234.A.471",
       "author": "Kai877",
       "board": "NBA",
       "publishTime": "2026/10/19 00:20",
       "imageUrl": "https://cache.pttweb.cc/imgur/MLmAa8y/s/e45ae5d28f540bb310a6c61bc0b2a34f"
+    },
+    {
+      "recommendScore": "108",
+      "recommendCount": "265",
+      "title": "[新聞] 台股一周跌逾3000點！陳嘉偉示警M頭：年線對稱跌幅恐回測5年線",
+      "link": "/bbs/Stock/M.1792311210.A.AA9",
+      "author": "diefishfish",
+      "board": "Stock",
+      "publishTime": "2026/10/18 08:13",
+      "imageUrl": ""
     },
     {
       "recommendScore": "275",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "95",
-      "recommendCount": "259",
+      "recommendScore": "96",
+      "recommendCount": "260",
       "title": "[新聞] 范雲道歉了！　po沈伯洋影片出現「這標誌」被抓包",
       "link": "/bbs/Gossiping/M.1792315756.A.53F",
       "author": "mars1985",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "112",
-      "recommendCount": "324",
+      "recommendScore": "113",
+      "recommendCount": "326",
       "title": "[新聞] 南鐵地下化受狂歡式開箱 當年反迫遷聲援學生：用別人的血在暖自己",
       "link": "/bbs/Gossiping/M.1792363789.A.8D3",
       "author": "godofsex",
@@ -184,6 +184,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/i8aG1pG/s/1cd0c669ab0939c1c38b0b8606a5b5f9"
     },
     {
+      "recommendScore": "104",
+      "recommendCount": "248",
+      "title": "[新聞] 挺沈伯洋卻用中國剪輯軟體？范雲遭抓包後急下架道歉：會更謹慎",
+      "link": "/bbs/Gossiping/M.1792376842.A.A52",
+      "author": "lycppt",
+      "board": "Gossiping",
+      "publishTime": "2026/10/19 02:27",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "243",
       "recommendCount": "713",
       "title": "[轉播] TS G2 六上 兄弟1：3味全",
@@ -191,16 +201,6 @@
       "author": "hsuaninteen",
       "board": "Elephants",
       "publishTime": "2026/10/18 10:36",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "101",
-      "recommendCount": "190",
-      "title": "Re: [討論] 味全直接總冠軍，謝謝主審",
-      "link": "/bbs/Baseball/M.1792324410.A.8E5",
-      "author": "bower1025",
-      "board": "Baseball",
-      "publishTime": "2026/10/18 11:53",
       "imageUrl": ""
     }
   ]
