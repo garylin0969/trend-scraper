@@ -1,17 +1,27 @@
 {
-  "updated": "2026-10-18T23:53:17.238Z",
+  "updated": "2026-10-19T00:34:00.665Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
+      "recommendScore": "380",
+      "recommendCount": "480",
+      "title": "[情報] Ben Simmons 跟腱撕裂",
+      "link": "/bbs/NBA/M.1792362930.A.9CB",
+      "author": "Superman007",
+      "board": "NBA",
+      "publishTime": "2026/10/18 22:35",
+      "imageUrl": "https://cache.pttweb.cc/imgur/39J70f7/s/4714c07d81f4c300fe4d315b0375f9fe"
+    },
+    {
       "recommendScore": "223",
-      "recommendCount": "460",
+      "recommendCount": "461",
       "title": "[新聞] 離岸風電出包！九大行庫聯貸踩雷 台電董事長親自出面開會",
       "link": "/bbs/Gossiping/M.1792284091.A.05F",
       "author": "ljuber",
       "board": "Gossiping",
       "publishTime": "2026/10/18 00:41",
-      "imageUrl": "https://cache.pttweb.cc/imgur/39J70f7/s/4714c07d81f4c300fe4d315b0375f9fe"
+      "imageUrl": ""
     },
     {
       "recommendScore": "192",
@@ -25,7 +35,7 @@
     },
     {
       "recommendScore": "174",
-      "recommendCount": "398",
+      "recommendCount": "399",
       "title": "[問卦] 台北松信區幹嘛，怎街道二旁站這麼多人 ?",
       "link": "/bbs/Gossiping/M.1792318363.A.DCB",
       "author": "nicholas0406",
@@ -64,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "186",
-      "recommendCount": "746",
+      "recommendScore": "187",
+      "recommendCount": "747",
       "title": "[新聞]不只QR Code點餐！餐廳「1要求」越來越常見　網吵翻：一律不去",
       "link": "/bbs/Gossiping/M.1792304312.A.90C",
       "author": "XDGEE",
@@ -84,16 +94,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "225",
-      "recommendCount": "271",
-      "title": "[情報] Ben Simmons 跟腱撕裂",
-      "link": "/bbs/NBA/M.1792362930.A.9CB",
-      "author": "Superman007",
-      "board": "NBA",
-      "publishTime": "2026/10/18 22:35",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "145",
       "recommendCount": "259",
       "title": "[爆卦] 高雄捷運車廂有黑人尿尿",
@@ -102,6 +102,16 @@
       "board": "Gossiping",
       "publishTime": "2026/10/18 04:00",
       "imageUrl": "https://cache.pttweb.cc/imgur/39J70f7/s/4714c07d81f4c300fe4d315b0375f9fe"
+    },
+    {
+      "recommendScore": "220",
+      "recommendCount": "233",
+      "title": "[發錢] 當選感言暨發錢",
+      "link": "/bbs/NBA/M.1792327384.A.DDC",
+      "author": "hasebe",
+      "board": "NBA",
+      "publishTime": "2026/10/18 12:43",
+      "imageUrl": ""
     },
     {
       "recommendScore": "275",
@@ -114,18 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "211",
-      "recommendCount": "223",
-      "title": "[發錢] 當選感言暨發錢",
-      "link": "/bbs/NBA/M.1792327384.A.DDC",
-      "author": "hasebe",
-      "board": "NBA",
-      "publishTime": "2026/10/18 12:43",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "106",
-      "recommendCount": "252",
+      "recommendScore": "107",
+      "recommendCount": "254",
       "title": "[新聞] 台股一周跌逾3000點！陳嘉偉示警M頭：年線對稱跌幅恐回測5年線",
       "link": "/bbs/Stock/M.1792311210.A.AA9",
       "author": "diefishfish",
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "134",
+      "recommendCount": "240",
+      "title": "[新聞] 下周一恐血洗1100點…千萬別做錯！「15檔有大人在顧」完整名單來了",
+      "link": "/bbs/Stock/M.1792306639.A.5DB",
+      "author": "icedog122",
+      "board": "Stock",
+      "publishTime": "2026/10/18 06:57",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "181",
       "recommendCount": "387",
       "title": "[分享] 橫濱打進日本大賽 日本網友出現異音",
@@ -151,16 +161,6 @@
       "author": "AisinGioro",
       "board": "Baseball",
       "publishTime": "2026/10/18 01:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "133",
-      "recommendCount": "239",
-      "title": "[新聞] 下周一恐血洗1100點…千萬別做錯！「15檔有大人在顧」完整名單來了",
-      "link": "/bbs/Stock/M.1792306639.A.5DB",
-      "author": "icedog122",
-      "board": "Stock",
-      "publishTime": "2026/10/18 06:57",
       "imageUrl": ""
     },
     {
@@ -174,18 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "271",
-      "title": "[討論] 吵好球帶的都進來",
-      "link": "/bbs/Baseball/M.1792320002.A.CA9",
-      "author": "Blackie9211",
-      "board": "Baseball",
-      "publishTime": "2026/10/18 10:40",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "93",
-      "recommendCount": "250",
+      "recommendCount": "253",
       "title": "[新聞] 范雲道歉了！　po沈伯洋影片出現「這標誌」被抓包",
       "link": "/bbs/Gossiping/M.1792315756.A.53F",
       "author": "mars1985",
@@ -194,14 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "604",
-      "recommendCount": "1081",
-      "title": "[電競] 2026 World Championship 入圍賽 Day 4",
-      "link": "/bbs/LoL/M.1792332318.A.1E8",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2026/10/18 14:05",
-      "imageUrl": "https://cache.pttweb.cc/imgur/i8aG1pG/s/1cd0c669ab0939c1c38b0b8606a5b5f9"
+      "recommendScore": "137",
+      "recommendCount": "297",
+      "title": "[新聞] 好日子不多了？南韓財長：記憶體榮景至少能撐到2027年",
+      "link": "/bbs/Stock/M.1792331399.A.600",
+      "author": "justin531xx",
+      "board": "Stock",
+      "publishTime": "2026/10/18 13:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "165",
+      "recommendCount": "271",
+      "title": "[討論] 吵好球帶的都進來",
+      "link": "/bbs/Baseball/M.1792320002.A.CA9",
+      "author": "Blackie9211",
+      "board": "Baseball",
+      "publishTime": "2026/10/18 10:40",
+      "imageUrl": ""
     }
   ]
 }
