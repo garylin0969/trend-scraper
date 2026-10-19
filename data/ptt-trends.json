@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-19T09:19:05.199Z",
+  "updated": "2026-10-19T09:41:52.211Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "792",
-      "recommendCount": "1039",
+      "recommendScore": "794",
+      "recommendCount": "1043",
       "title": "[情報] Ben Simmons 跟腱撕裂",
       "link": "/bbs/NBA/M.1792362930.A.9CB",
       "author": "Superman007",
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/MLmAa8y/s/e45ae5d28f540bb310a6c61bc0b2a34f"
     },
     {
-      "recommendScore": "409",
-      "recommendCount": "594",
+      "recommendScore": "417",
+      "recommendCount": "606",
       "title": "[情報] 麻枝准 罹患咽喉癌",
       "link": "/bbs/C_Chat/M.1792394543.A.14B",
       "author": "StellaNe",
@@ -24,13 +24,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "209",
-      "recommendCount": "628",
+      "recommendScore": "212",
+      "recommendCount": "638",
       "title": "[新聞] 65歲免健保年燒388億遭政院批　白黨團攤預算轟：送美國人錢都很快",
       "link": "/bbs/Gossiping/M.1792383274.A.F45",
       "author": "iolcst",
       "board": "Gossiping",
       "publishTime": "2026/10/19 04:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "212",
+      "recommendCount": "325",
+      "title": "[情報] 115年10月19日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1792393878.A.EB8",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2026/10/19 07:11",
       "imageUrl": ""
     },
     {
@@ -44,16 +54,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/MLmAa8y/s/e45ae5d28f540bb310a6c61bc0b2a34f"
     },
     {
-      "recommendScore": "210",
-      "recommendCount": "317",
-      "title": "[情報] 115年10月19日 三大法人買賣金額統計表",
-      "link": "/bbs/Stock/M.1792393878.A.EB8",
-      "author": "coconing",
-      "board": "Stock",
-      "publishTime": "2026/10/19 07:11",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "192",
       "recommendCount": "301",
       "title": "[炸裂] 曾聖安",
@@ -61,6 +61,16 @@
       "author": "lsj049",
       "board": "Baseball",
       "publishTime": "2026/10/18 10:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "176",
+      "recommendCount": "307",
+      "title": "[新聞] 高盛建議放空台灣半導體！警告AI族群股價恐下殺15％",
+      "link": "/bbs/Stock/M.1792394134.A.32C",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2026/10/19 07:15",
       "imageUrl": ""
     },
     {
@@ -74,18 +84,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "169",
-      "recommendCount": "299",
-      "title": "[新聞] 高盛建議放空台灣半導體！警告AI族群股價恐下殺15％",
-      "link": "/bbs/Stock/M.1792394134.A.32C",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2026/10/19 07:15",
+      "recommendScore": "163",
+      "recommendCount": "360",
+      "title": "[新聞] 不滿沈伯洋車掃音量大？　民生社區住戶「噴水弄濕支持者」",
+      "link": "/bbs/Gossiping/M.1792389694.A.503",
+      "author": "blueadam193",
+      "board": "Gossiping",
+      "publishTime": "2026/10/19 06:01",
       "imageUrl": ""
     },
     {
       "recommendScore": "253",
-      "recommendCount": "271",
+      "recommendCount": "272",
       "title": "[發錢] 當選感言暨發錢",
       "link": "/bbs/NBA/M.1792327384.A.DDC",
       "author": "hasebe",
@@ -94,13 +104,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "157",
-      "recommendCount": "353",
-      "title": "[新聞] 不滿沈伯洋車掃音量大？　民生社區住戶「噴水弄濕支持者」",
-      "link": "/bbs/Gossiping/M.1792389694.A.503",
-      "author": "blueadam193",
-      "board": "Gossiping",
-      "publishTime": "2026/10/19 06:01",
+      "recommendScore": "246",
+      "recommendCount": "263",
+      "title": "[發錢] 感謝賜票",
+      "link": "/bbs/NBA/M.1792391814.A.78D",
+      "author": "joulin",
+      "board": "NBA",
+      "publishTime": "2026/10/19 06:36",
       "imageUrl": ""
     },
     {
@@ -111,16 +121,6 @@
       "author": "lycppt",
       "board": "Gossiping",
       "publishTime": "2026/10/19 02:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "229",
-      "recommendCount": "243",
-      "title": "[發錢] 感謝賜票",
-      "link": "/bbs/NBA/M.1792391814.A.78D",
-      "author": "joulin",
-      "board": "NBA",
-      "publishTime": "2026/10/19 06:36",
       "imageUrl": ""
     },
     {
@@ -164,23 +164,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "110",
-      "recommendCount": "338",
+      "recommendScore": "111",
+      "recommendCount": "340",
       "title": "[新聞] 南鐵地下化受狂歡式開箱 當年反迫遷聲援學生：用別人的血在暖自己",
       "link": "/bbs/Gossiping/M.1792363789.A.8D3",
       "author": "godofsex",
       "board": "Gossiping",
       "publishTime": "2026/10/18 22:49",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "97",
-      "recommendCount": "262",
-      "title": "[新聞] 范雲道歉了！　po沈伯洋影片出現「這標誌」被抓包",
-      "link": "/bbs/Gossiping/M.1792315756.A.53F",
-      "author": "mars1985",
-      "board": "Gossiping",
-      "publishTime": "2026/10/18 09:29",
       "imageUrl": ""
     },
     {
@@ -191,6 +181,16 @@
       "author": "jojo9307006",
       "board": "Baseball",
       "publishTime": "2026/10/18 11:48",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "191",
+      "recommendCount": "200",
+      "title": "[發錢] 戒菸挑戰",
+      "link": "/bbs/BaseballXXXX/M.1792379022.A.07E",
+      "author": "iamjojo",
+      "board": "BaseballXXXX",
+      "publishTime": "2026/10/19 03:03",
       "imageUrl": ""
     },
     {
