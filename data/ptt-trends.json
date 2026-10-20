@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-20T04:35:57.602Z",
+  "updated": "2026-10-20T04:48:55.064Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "547",
-      "recommendCount": "1100",
+      "recommendScore": "589",
+      "recommendCount": "1172",
       "title": "[新聞] 大翻盤！北市民調：沈伯洋50.3％反超蔣萬安33.3％ 領先17個百分點",
       "link": "/bbs/Gossiping/M.1792462201.A.2BD",
       "author": "Taiwan007",
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/9AYWYdL/s/c178303b0c758f3b229674dd5be811c9"
     },
     {
-      "recommendScore": "432",
-      "recommendCount": "920",
+      "recommendScore": "436",
+      "recommendCount": "926",
       "title": "[黑特] 戴立安台北市 沈伯洋50.3% 蔣萬安33.3%",
       "link": "/bbs/HatePolitics/M.1792461843.A.517",
       "author": "winall",
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "230",
+      "recommendCount": "645",
+      "title": "[問卦] 台女的擇偶條件，有掛嗎？",
+      "link": "/bbs/Gossiping/M.1792451226.A.C2E",
+      "author": "godofsex",
+      "board": "Gossiping",
+      "publishTime": "2026/10/19 23:07",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "375",
       "recommendCount": "401",
       "title": "[發錢] 感謝賜票",
@@ -44,18 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "222",
-      "recommendCount": "626",
-      "title": "[問卦] 台女的擇偶條件，有掛嗎？",
-      "link": "/bbs/Gossiping/M.1792451226.A.C2E",
-      "author": "godofsex",
-      "board": "Gossiping",
-      "publishTime": "2026/10/19 23:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "403",
-      "recommendCount": "877",
+      "recommendScore": "404",
+      "recommendCount": "878",
       "title": "[爆掛] 澎湖千萬發票破解手法",
       "link": "/bbs/Gossiping/M.1792423413.A.28E",
       "author": "danny0830",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "225",
-      "recommendCount": "394",
+      "recommendScore": "231",
+      "recommendCount": "411",
       "title": "[問卦] 歷史上最嚴重的集體失智事件是哪個？",
       "link": "/bbs/Gossiping/M.1792457921.A.773",
       "author": "staxsrm",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "150",
-      "recommendCount": "404",
+      "recommendScore": "152",
+      "recommendCount": "406",
       "title": "[新聞] 匿名人士爆料！國安會副秘林飛帆明赴國防大學演講 國防部尚未回應",
       "link": "/bbs/Gossiping/M.1792418750.A.514",
       "author": "Supergreen",
@@ -164,8 +164,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "148",
-      "recommendCount": "259",
+      "recommendScore": "129",
+      "recommendCount": "291",
+      "title": "[新聞] 一圖看／蔣萬安6選區全大幅落後沈伯洋",
+      "link": "/bbs/Gossiping/M.1792467514.A.D5C",
+      "author": "Skyblueway",
+      "board": "Gossiping",
+      "publishTime": "2026/10/20 03:38",
+      "imageUrl": "https://cache.pttweb.cc/imgur/9AYWYdL/s/c178303b0c758f3b229674dd5be811c9"
+    },
+    {
+      "recommendScore": "160",
+      "recommendCount": "284",
       "title": "[花邊] 庫名加：我在灰狼很自在，這裡沒人擺架子",
       "link": "/bbs/NBA/M.1792458163.A.3FA",
       "author": "SoulHsu",
@@ -174,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "134",
-      "recommendCount": "223",
+      "recommendScore": "136",
+      "recommendCount": "226",
       "title": "[新聞] 哲哲說話了！「台股年底沒5萬點」就發5千份雞排　網炸鍋：加珍奶",
       "link": "/bbs/Stock/M.1792401424.A.292",
       "author": "qazxc1156892",
@@ -184,18 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "13",
-      "recommendCount": "282",
-      "title": "[新聞] 洋流崛起 連遭「抹黑、抹毒、抹紅」》民",
-      "link": "/bbs/Gossiping/M.1792453276.A.FF6",
-      "author": "james7923",
-      "board": "Gossiping",
-      "publishTime": "2026/10/19 23:41",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "264",
-      "recommendCount": "672",
+      "recommendScore": "270",
+      "recommendCount": "683",
       "title": "[政治] 民調",
       "link": "/bbs/BaseballXXXX/M.1792462250.A.323",
       "author": "fash5896",
