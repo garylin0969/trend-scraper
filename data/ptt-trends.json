@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-20T03:50:41.460Z",
+  "updated": "2026-10-20T03:57:48.086Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "464",
-      "recommendCount": "948",
+      "recommendScore": "492",
+      "recommendCount": "995",
       "title": "[新聞] 大翻盤！北市民調：沈伯洋50.3％反超蔣萬安33.3％ 領先17個百分點",
       "link": "/bbs/Gossiping/M.1792462201.A.2BD",
       "author": "Taiwan007",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "405",
-      "recommendCount": "851",
+      "recommendScore": "411",
+      "recommendCount": "864",
       "title": "[黑特] 戴立安台北市 沈伯洋50.3% 蔣萬安33.3%",
       "link": "/bbs/HatePolitics/M.1792461843.A.517",
       "author": "winall",
@@ -44,13 +44,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "397",
-      "recommendCount": "865",
+      "recommendScore": "398",
+      "recommendCount": "866",
       "title": "[爆掛] 澎湖千萬發票破解手法",
       "link": "/bbs/Gossiping/M.1792423413.A.28E",
       "author": "danny0830",
       "board": "Gossiping",
       "publishTime": "2026/10/19 15:23",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "205",
+      "recommendCount": "584",
+      "title": "[問卦] 台女的擇偶條件，有掛嗎？",
+      "link": "/bbs/Gossiping/M.1792451226.A.C2E",
+      "author": "godofsex",
+      "board": "Gossiping",
+      "publishTime": "2026/10/19 23:07",
       "imageUrl": ""
     },
     {
@@ -71,16 +81,6 @@
       "author": "DrowningPool",
       "board": "Stock",
       "publishTime": "2026/10/19 07:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "198",
-      "recommendCount": "572",
-      "title": "[問卦] 台女的擇偶條件，有掛嗎？",
-      "link": "/bbs/Gossiping/M.1792451226.A.C2E",
-      "author": "godofsex",
-      "board": "Gossiping",
-      "publishTime": "2026/10/19 23:07",
       "imageUrl": ""
     },
     {
@@ -124,18 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "235",
-      "recommendCount": "475",
-      "title": "[新聞] 澎湖男連中2期千萬發票？ 銀行拒兌報案",
-      "link": "/bbs/Gossiping/M.1792413263.A.C26",
-      "author": "siopp",
-      "board": "Gossiping",
-      "publishTime": "2026/10/19 12:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "140",
-      "recommendCount": "387",
+      "recommendScore": "143",
+      "recommendCount": "391",
       "title": "[新聞] 匿名人士爆料！國安會副秘林飛帆明赴國防大學演講 國防部尚未回應",
       "link": "/bbs/Gossiping/M.1792418750.A.514",
       "author": "Supergreen",
@@ -144,8 +134,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "198",
-      "recommendCount": "357",
+      "recommendScore": "236",
+      "recommendCount": "477",
+      "title": "[新聞] 澎湖男連中2期千萬發票？ 銀行拒兌報案",
+      "link": "/bbs/Gossiping/M.1792413263.A.C26",
+      "author": "siopp",
+      "board": "Gossiping",
+      "publishTime": "2026/10/19 12:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "210",
+      "recommendCount": "373",
       "title": "[問卦] 歷史上最嚴重的集體失智事件是哪個？",
       "link": "/bbs/Gossiping/M.1792457921.A.773",
       "author": "staxsrm",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "133",
-      "recommendCount": "222",
+      "recommendScore": "134",
+      "recommendCount": "223",
       "title": "[新聞] 哲哲說話了！「台股年底沒5萬點」就發5千份雞排　網炸鍋：加珍奶",
       "link": "/bbs/Stock/M.1792401424.A.292",
       "author": "qazxc1156892",
