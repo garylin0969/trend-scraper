@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T18:15:20.628Z",
+  "updated": "2026-10-20T18:36:23.506Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "329",
-      "recommendCount": "533",
+      "recommendScore": "330",
+      "recommendCount": "534",
       "title": "[新聞] 拆廟！少年霸凌案引600人撻伐 張善政出手：下周二強拆中壢武和宮",
       "link": "/bbs/Gossiping/M.1792477940.A.FA7",
       "author": "enlong777",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "176",
-      "recommendCount": "597",
+      "recommendScore": "175",
+      "recommendCount": "598",
       "title": "[新聞] 發票領獎爭議 財政部賦稅署：如何冒領仍百思不得其解",
       "link": "/bbs/Gossiping/M.1792483668.A.CB0",
       "author": "Waitaha",
@@ -144,13 +144,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "203",
-      "recommendCount": "508",
+      "recommendScore": "201",
+      "recommendCount": "512",
       "title": "[爆卦] 財政部記者會 (確認冒領)",
       "link": "/bbs/Gossiping/M.1792480030.A.5A1",
       "author": "PCC9169",
       "board": "Gossiping",
       "publishTime": "2026/10/20 07:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "195",
+      "recommendCount": "255",
+      "title": "[新聞] 股市太瘋狂了！ 谷月涵預警：AI明年恐達高峰 股市提前至「這時」修正",
+      "link": "/bbs/Stock/M.1792495954.A.CBB",
+      "author": "wahaha5678",
+      "board": "Stock",
+      "publishTime": "2026/10/20 11:32",
       "imageUrl": ""
     },
     {
@@ -164,16 +174,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "193",
-      "recommendCount": "253",
-      "title": "[新聞] 股市太瘋狂了！ 谷月涵預警：AI明年恐達高峰 股市提前至「這時」修正",
-      "link": "/bbs/Stock/M.1792495954.A.CBB",
-      "author": "wahaha5678",
-      "board": "Stock",
-      "publishTime": "2026/10/20 11:32",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "151",
       "recommendCount": "250",
       "title": "[新聞] 大摩：低接美股時機到了",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "157",
-      "recommendCount": "337",
+      "recommendScore": "159",
+      "recommendCount": "344",
       "title": "[分享] 中信兄弟FB G4法批無法發放",
       "link": "/bbs/Baseball/M.1792508302.A.843",
       "author": "lee0820",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "139",
-      "recommendCount": "393",
-      "title": "[問卦] 喜歡藍色和白色的是不是不太表態",
-      "link": "/bbs/Gossiping/M.1792467331.A.A6E",
-      "author": "thouloveme",
+      "recommendScore": "90",
+      "recommendCount": "338",
+      "title": "[新聞] 快新聞／民進黨出大招！台北市全新競選政策曝光　6區力拚「洋流全壘打」",
+      "link": "/bbs/Gossiping/M.1792491263.A.020",
+      "author": "au4g3wk4k",
       "board": "Gossiping",
-      "publishTime": "2026/10/20 03:35",
+      "publishTime": "2026/10/20 10:14",
       "imageUrl": ""
     }
   ]
