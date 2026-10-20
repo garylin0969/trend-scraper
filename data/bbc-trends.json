@@ -1,14 +1,22 @@
 {
-  "updated": "2026-10-20T08:32:20.767Z",
+  "updated": "2026-10-20T08:53:09.562Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-10-20T08:32:15.000Z",
+    "lastBuildDate": "2026-10-20T08:53:05.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "普京提議中美俄「三方會談」：特朗普響應，北京未表態，基輔反對",
+      "description": "在普京建議三方於APEC期間進行會談後，特朗普表示願意參與，強調會談重點將是無核化問題。目前中方尚未就三方會談表態。\n",
+      "link": "https://www.bbc.com/zhongwen/articles/cmlyl0j445peo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-10-20T08:40:09.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cmlyl0j445peo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d11/live/c62034a0-cc52-11f1-9b08-37acac6be953.jpg"
+    },
     {
       "title": "法國騷亂：巴黎局部宵禁 被劫商品現身二手平台",
       "description": "此前，法國內政部長承認，警方在一些城市「失去了控制」。",
@@ -18,7 +26,7 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/35d7/live/673cf260-cc30-11f1-9a39-31b474234113.jpg"
     },
     {
-      "title": "美國禁止政府使用DeepSeek AI：中美科技緊張局勢持續",
+      "title": "美國下令政府系統禁用DeepSeek：中美AI競爭繼續升溫",
       "description": "DeepSeek的免費聊天機器人應用程式在Apple App Store下載排行榜上名列前茅，其AI模型也被美國科技企業採用。Snowflake、Vercel及OpenRouter等公司都已將DeepSeek整合至其提供給客戶的服務中。",
       "link": "https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-10-20T07:42:45.000Z",
@@ -34,20 +42,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/058b/live/9a7d0ca0-cbbd-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "title": "俄羅斯境內反普京破壞行動的隱秘世界",
-      "description": "兩名男子講述了他們聲稱在戰爭期間為烏克蘭情報部門提供支援所從事的工作。",
-      "link": "https://www.bbc.com/zhongwen/articles/c6d09dpdn294o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-20T01:14:38.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c6d09dpdn294o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b9f8/live/f9937b60-c943-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
       "title": "澳洲國會議員遭汽車「蓄意」撞擊重傷： 我們目前所知情況",
       "description": "海倫·海恩斯（Helen Haines）遭汽車撞擊，澳洲總理稱此為一起「蓄意行為」。",
       "link": "https://www.bbc.com/zhongwen/articles/cw5yngleml15o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-10-20T03:13:27.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cw5yngleml15o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3997/live/05ab1e70-cbac-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "title": "俄羅斯境內反普京破壞行動的隱秘世界",
+      "description": "兩名男子講述了他們聲稱在戰爭期間為烏克蘭情報部門提供支援所從事的工作。",
+      "link": "https://www.bbc.com/zhongwen/articles/c6d09dpdn294o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-10-20T01:14:38.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c6d09dpdn294o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b9f8/live/f9937b60-c943-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "title": "中國三季度增長4.5% 但出口暴增，樓市新開工面積暴跌",
@@ -64,14 +72,6 @@
       "pubDate": "2026-10-19T03:22:46.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cmje5y4254qdo/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b961/live/18654bf0-cb50-11f1-8128-5942f144dabe.jpg"
-    },
-    {
-      "title": "烏克蘭鋼企老闆稱：歐盟對華關稅殃及本國",
-      "description": "烏克蘭最大鋼鐵企業之一的負責人表示，在針對廉價進口產品的限制措施中，烏克蘭被「一併捆綁」納入相關管制範圍。",
-      "link": "https://www.bbc.com/zhongwen/articles/cw0k0z264d0jo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-19T04:33:11.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cw0k0z264d0jo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/29eb/live/c667f2d0-c96f-11f1-80fc-ab418b149008.jpg"
     },
     {
       "title": "矽谷這座城市垃圾太臭居民受不了 就讓科技來幫忙",
