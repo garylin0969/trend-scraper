@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-20T11:54:03.547Z",
+  "updated": "2026-10-20T12:18:11.548Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "744",
-      "recommendCount": "1464",
+      "recommendScore": "743",
+      "recommendCount": "1465",
       "title": "[新聞] 大翻盤！北市民調：沈伯洋50.3％反超蔣萬安33.3％ 領先17個百分點",
       "link": "/bbs/Gossiping/M.1792462201.A.2BD",
       "author": "Taiwan007",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "237",
-      "recommendCount": "499",
+      "recommendScore": "238",
+      "recommendCount": "500",
       "title": "[新聞] 一圖看／蔣萬安6選區全大幅落後沈伯洋",
       "link": "/bbs/Gossiping/M.1792467514.A.D5C",
       "author": "Skyblueway",
@@ -44,8 +44,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/9AYWYdL/s/c178303b0c758f3b229674dd5be811c9"
     },
     {
-      "recommendScore": "431",
-      "recommendCount": "921",
+      "recommendScore": "432",
+      "recommendCount": "923",
       "title": "[爆掛] 澎湖千萬發票破解手法",
       "link": "/bbs/Gossiping/M.1792423413.A.28E",
       "author": "danny0830",
@@ -54,13 +54,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "283",
-      "recommendCount": "470",
+      "recommendScore": "290",
+      "recommendCount": "480",
       "title": "[新聞] 拆廟！少年霸凌案引600人撻伐 張善政出手：下周二強拆中壢武和宮",
       "link": "/bbs/Gossiping/M.1792477940.A.FA7",
       "author": "enlong777",
       "board": "Gossiping",
       "publishTime": "2026/10/20 06:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "199",
+      "recommendCount": "439",
+      "title": "[新聞] 謝和弦挺洋流突嗆 11/28就知道哪些貪婪老人、低智商支持蔣萬安",
+      "link": "/bbs/Gossiping/M.1792474186.A.60D",
+      "author": "tsengcc",
+      "board": "Gossiping",
+      "publishTime": "2026/10/20 05:29",
       "imageUrl": ""
     },
     {
@@ -74,18 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "200",
-      "recommendCount": "436",
-      "title": "[新聞] 謝和弦挺洋流突嗆 11/28就知道哪些貪婪老人、低智商支持蔣萬安",
-      "link": "/bbs/Gossiping/M.1792474186.A.60D",
-      "author": "tsengcc",
-      "board": "Gossiping",
-      "publishTime": "2026/10/20 05:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "243",
-      "recommendCount": "402",
+      "recommendScore": "246",
+      "recommendCount": "407",
       "title": "[情報] 115年10月20日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1792480665.A.F67",
       "author": "coconing",
@@ -114,8 +114,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "368",
+      "recommendScore": "151",
+      "recommendCount": "480",
+      "title": "[新聞] 發票領獎爭議 財政部賦稅署：如何冒領仍百思不得其解",
+      "link": "/bbs/Gossiping/M.1792483668.A.CB0",
+      "author": "Waitaha",
+      "board": "Gossiping",
+      "publishTime": "2026/10/20 08:07",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "130",
+      "recommendCount": "424",
+      "title": "[新聞] 藝人閃兵案！廖人帥、阿達等9人 獲緩刑須支付公庫罰金",
+      "link": "/bbs/Gossiping/M.1792481897.A.850",
+      "author": "LoveMakeLove",
+      "board": "Gossiping",
+      "publishTime": "2026/10/20 07:38",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "212",
+      "recommendCount": "373",
       "title": "[花邊] 庫名加：我在灰狼很自在，這裡沒人擺架子",
       "link": "/bbs/NBA/M.1792458163.A.3FA",
       "author": "SoulHsu",
@@ -134,28 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "145",
-      "recommendCount": "465",
-      "title": "[新聞] 發票領獎爭議 財政部賦稅署：如何冒領仍百思不得其解",
-      "link": "/bbs/Gossiping/M.1792483668.A.CB0",
-      "author": "Waitaha",
-      "board": "Gossiping",
-      "publishTime": "2026/10/20 08:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "128",
-      "recommendCount": "408",
-      "title": "[新聞] 藝人閃兵案！廖人帥、阿達等9人 獲緩刑須支付公庫罰金",
-      "link": "/bbs/Gossiping/M.1792481897.A.850",
-      "author": "LoveMakeLove",
-      "board": "Gossiping",
-      "publishTime": "2026/10/20 07:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "235",
-      "recommendCount": "334",
+      "recommendScore": "244",
+      "recommendCount": "344",
       "title": "[新聞] SPC-不能接受肉圓是「炸」的!鄭宗哲透露",
       "link": "/bbs/Baseball/M.1792488317.A.0D1",
       "author": "keane9112",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "194",
-      "recommendCount": "473",
+      "recommendScore": "198",
+      "recommendCount": "477",
       "title": "[爆卦] 財政部記者會 (確認冒領)",
       "link": "/bbs/Gossiping/M.1792480030.A.5A1",
       "author": "PCC9169",
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "148",
-      "recommendCount": "244",
+      "recommendScore": "150",
+      "recommendCount": "246",
       "title": "[新聞] 大摩：低接美股時機到了",
       "link": "/bbs/Stock/M.1792470549.A.D45",
       "author": "Lime5566",
