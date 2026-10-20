@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T17:55:49.984Z",
+  "updated": "2026-10-20T18:15:20.628Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "192",
-      "recommendCount": "252",
+      "recommendScore": "193",
+      "recommendCount": "253",
       "title": "[新聞] 股市太瘋狂了！ 谷月涵預警：AI明年恐達高峰 股市提前至「這時」修正",
       "link": "/bbs/Stock/M.1792495954.A.CBB",
       "author": "wahaha5678",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "157",
+      "recommendCount": "337",
+      "title": "[分享] 中信兄弟FB G4法批無法發放",
+      "link": "/bbs/Baseball/M.1792508302.A.843",
+      "author": "lee0820",
+      "board": "Baseball",
+      "publishTime": "2026/10/20 14:58",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "139",
       "recommendCount": "393",
       "title": "[問卦] 喜歡藍色和白色的是不是不太表態",
@@ -191,16 +201,6 @@
       "author": "thouloveme",
       "board": "Gossiping",
       "publishTime": "2026/10/20 03:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "156",
-      "recommendCount": "334",
-      "title": "[分享] 中信兄弟FB G4法批無法發放",
-      "link": "/bbs/Baseball/M.1792508302.A.843",
-      "author": "lee0820",
-      "board": "Baseball",
-      "publishTime": "2026/10/20 14:58",
       "imageUrl": ""
     }
   ]
