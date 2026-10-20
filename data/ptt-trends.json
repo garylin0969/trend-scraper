@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T14:48:25.127Z",
+  "updated": "2026-10-20T14:57:06.097Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "321",
+      "recommendCount": "520",
+      "title": "[新聞] 拆廟！少年霸凌案引600人撻伐 張善政出手：下周二強拆中壢武和宮",
+      "link": "/bbs/Gossiping/M.1792477940.A.FA7",
+      "author": "enlong777",
+      "board": "Gossiping",
+      "publishTime": "2026/10/20 06:32",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "239",
       "recommendCount": "507",
       "title": "[新聞] 一圖看／蔣萬安6選區全大幅落後沈伯洋",
@@ -42,16 +52,6 @@
       "board": "Gossiping",
       "publishTime": "2026/10/20 03:38",
       "imageUrl": "https://cache.pttweb.cc/imgur/9AYWYdL/s/c178303b0c758f3b229674dd5be811c9"
-    },
-    {
-      "recommendScore": "319",
-      "recommendCount": "518",
-      "title": "[新聞] 拆廟！少年霸凌案引600人撻伐 張善政出手：下周二強拆中壢武和宮",
-      "link": "/bbs/Gossiping/M.1792477940.A.FA7",
-      "author": "enlong777",
-      "board": "Gossiping",
-      "publishTime": "2026/10/20 06:32",
-      "imageUrl": ""
     },
     {
       "recommendScore": "433",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "248",
-      "recommendCount": "411",
+      "recommendScore": "247",
+      "recommendCount": "413",
       "title": "[情報] 115年10月20日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1792480665.A.F67",
       "author": "coconing",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "145",
-      "recommendCount": "467",
+      "recommendScore": "144",
+      "recommendCount": "468",
       "title": "[新聞] 藝人閃兵案！廖人帥、阿達等9人 獲緩刑須支付公庫罰金",
       "link": "/bbs/Gossiping/M.1792481897.A.850",
       "author": "LoveMakeLove",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "393",
+      "recommendScore": "208",
+      "recommendCount": "394",
       "title": "[請益] 1000萬有家庭會留多少預備金其餘投股市？",
       "link": "/bbs/Stock/M.1792466879.A.8F3",
       "author": "sadness0830",
@@ -155,7 +155,7 @@
     },
     {
       "recommendScore": "201",
-      "recommendCount": "491",
+      "recommendCount": "502",
       "title": "[爆卦] 財政部記者會 (確認冒領)",
       "link": "/bbs/Gossiping/M.1792480030.A.5A1",
       "author": "PCC9169",
