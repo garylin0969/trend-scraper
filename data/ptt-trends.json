@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-21T07:30:16.904Z",
+  "updated": "2026-10-21T07:48:03.841Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "519",
-      "recommendCount": "1031",
+      "recommendScore": "522",
+      "recommendCount": "1034",
       "title": "[新聞] 報告：中國AI算力　55%用在製作短劇及影音",
       "link": "/bbs/Stock/M.1792543615.A.652",
       "author": "d8917936",
@@ -24,16 +24,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "153",
-      "recommendCount": "505",
-      "title": "[新聞] 藝人閃兵案！廖人帥、阿達等9人 獲緩刑須支付公庫罰金",
-      "link": "/bbs/Gossiping/M.1792481897.A.850",
-      "author": "LoveMakeLove",
-      "board": "Gossiping",
-      "publishTime": "2026/10/20 07:38",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "462",
       "recommendCount": "1324",
       "title": "[轉播] TS G3 七上 味全0：0兄弟",
@@ -44,8 +34,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "253",
-      "recommendCount": "539",
+      "recommendScore": "157",
+      "recommendCount": "514",
+      "title": "[新聞] 美陸軍最新作戰指南　若爆台海衝突「第1天就投入作戰」",
+      "link": "/bbs/Gossiping/M.1792552128.A.C3C",
+      "author": "luxuryer",
+      "board": "Gossiping",
+      "publishTime": "2026/10/21 03:08",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "254",
+      "recommendCount": "542",
       "title": "[新聞] 河口湖被併房！台女遭割頸放血慘死 27歲女凶刀來源曝",
       "link": "/bbs/Gossiping/M.1792515119.A.383",
       "author": "jing1219",
@@ -61,16 +61,6 @@
       "author": "keane9112",
       "board": "Baseball",
       "publishTime": "2026/10/20 09:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "153",
-      "recommendCount": "507",
-      "title": "[新聞] 美陸軍最新作戰指南　若爆台海衝突「第1天就投入作戰」",
-      "link": "/bbs/Gossiping/M.1792552128.A.C3C",
-      "author": "luxuryer",
-      "board": "Gossiping",
-      "publishTime": "2026/10/21 03:08",
       "imageUrl": ""
     },
     {
@@ -145,7 +135,7 @@
     },
     {
       "recommendScore": "85",
-      "recommendCount": "348",
+      "recommendCount": "352",
       "title": "[新聞] 最新民調變天！17％小草改挺沈伯洋　蔣萬安青年票狂掉26.8%",
       "link": "/bbs/Gossiping/M.1792552118.A.67E",
       "author": "keel90135",
@@ -164,8 +154,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "222",
-      "recommendCount": "240",
+      "recommendScore": "127",
+      "recommendCount": "318",
+      "title": "[新聞] 幕後／抓到了！「1歲打古寧頭」真相炸出國安官員揭中共介選奧步",
+      "link": "/bbs/Gossiping/M.1792561547.A.DE5",
+      "author": "au4g3wk4k",
+      "board": "Gossiping",
+      "publishTime": "2026/10/21 05:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "227",
+      "recommendCount": "245",
       "title": "[討論] 發錢 G4 猜勝隊及比數",
       "link": "/bbs/Baseball/M.1792547085.A.698",
       "author": "ben1013",
@@ -174,24 +174,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "467",
-      "recommendCount": "778",
+      "recommendScore": "158",
+      "recommendCount": "282",
+      "title": "[新聞] 美商務部長嫌台灣太遠了！川普宣布五角大廈砸15億美元推晶片製造回流",
+      "link": "/bbs/Stock/M.1792564043.A.3D8",
+      "author": "mzwj",
+      "board": "Stock",
+      "publishTime": "2026/10/21 06:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "487",
+      "recommendCount": "806",
       "title": "Re: [颱風] 2630 薔琵",
       "link": "/bbs/TY_Research/M.1792551986.A.F52",
       "author": "kadar",
       "board": "TY_Research",
       "publishTime": "2026/10/21 03:06",
       "imageUrl": "https://cache.pttweb.cc/imgur/Q2tNIgT/s/db410162dd2dd800d714a65e6e4a4b28"
-    },
-    {
-      "recommendScore": "105",
-      "recommendCount": "263",
-      "title": "[新聞] 幕後／抓到了！「1歲打古寧頭」真相炸出國安官員揭中共介選奧步",
-      "link": "/bbs/Gossiping/M.1792561547.A.DE5",
-      "author": "au4g3wk4k",
-      "board": "Gossiping",
-      "publishTime": "2026/10/21 05:45",
-      "imageUrl": ""
     },
     {
       "recommendScore": "88",
