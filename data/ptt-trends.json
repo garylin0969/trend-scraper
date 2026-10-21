@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-21T09:35:27.039Z",
+  "updated": "2026-10-21T09:48:56.221Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "524",
-      "recommendCount": "1050",
+      "recommendCount": "1051",
       "title": "[新聞] 報告：中國AI算力　55%用在製作短劇及影音",
       "link": "/bbs/Stock/M.1792543615.A.652",
       "author": "d8917936",
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/Q2tNIgT/s/db410162dd2dd800d714a65e6e4a4b28"
     },
     {
-      "recommendScore": "237",
-      "recommendCount": "490",
+      "recommendScore": "242",
+      "recommendCount": "500",
       "title": "[新聞] 美商務部長嫌台灣太遠了！川普宣布五角大廈砸15億美元推晶片製造回流",
       "link": "/bbs/Stock/M.1792564043.A.3D8",
       "author": "mzwj",
@@ -24,8 +24,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "163",
-      "recommendCount": "541",
+      "recommendScore": "185",
+      "recommendCount": "448",
+      "title": "[新聞] 幕後／抓到了！「1歲打古寧頭」真相炸出國安官員揭中共介選奧步",
+      "link": "/bbs/Gossiping/M.1792561547.A.DE5",
+      "author": "au4g3wk4k",
+      "board": "Gossiping",
+      "publishTime": "2026/10/21 05:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "164",
+      "recommendCount": "543",
       "title": "[新聞] 美陸軍最新作戰指南　若爆台海衝突「第1天就投入作戰」",
       "link": "/bbs/Gossiping/M.1792552128.A.C3C",
       "author": "luxuryer",
@@ -41,16 +51,6 @@
       "author": "mixneko",
       "board": "Elephants",
       "publishTime": "2026/10/20 12:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "185",
-      "recommendCount": "439",
-      "title": "[新聞] 幕後／抓到了！「1歲打古寧頭」真相炸出國安官員揭中共介選奧步",
-      "link": "/bbs/Gossiping/M.1792561547.A.DE5",
-      "author": "au4g3wk4k",
-      "board": "Gossiping",
-      "publishTime": "2026/10/21 05:45",
       "imageUrl": ""
     },
     {
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "139",
-      "recommendCount": "447",
+      "recommendScore": "140",
+      "recommendCount": "448",
       "title": "[新聞] 不意外沈伯洋贏17百分點　黃暐瀚：這份民調結果沈會贏得台北市長",
       "link": "/bbs/Gossiping/M.1792550469.A.1D1",
       "author": "blueadam193",
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "98",
+      "recommendCount": "387",
+      "title": "[新聞] 最新民調變天！17％小草改挺沈伯洋　蔣萬安青年票狂掉26.8%",
+      "link": "/bbs/Gossiping/M.1792552118.A.67E",
+      "author": "keel90135",
+      "board": "Gossiping",
+      "publishTime": "2026/10/21 03:08",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "212",
       "recommendCount": "282",
       "title": "[新聞] 股市太瘋狂了！ 谷月涵預警：AI明年恐達高峰 股市提前至「這時」修正",
@@ -111,16 +121,6 @@
       "author": "wahaha5678",
       "board": "Stock",
       "publishTime": "2026/10/20 11:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "94",
-      "recommendCount": "383",
-      "title": "[新聞] 最新民調變天！17％小草改挺沈伯洋　蔣萬安青年票狂掉26.8%",
-      "link": "/bbs/Gossiping/M.1792552118.A.67E",
-      "author": "keel90135",
-      "board": "Gossiping",
-      "publishTime": "2026/10/21 03:08",
       "imageUrl": ""
     },
     {
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "179",
+      "recommendCount": "273",
+      "title": "[情報] 115年10月21日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1792566931.A.0E9",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2026/10/21 07:15",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "150",
       "recommendCount": "451",
       "title": "[新聞] 蔣萬安：府院黨全部對我　對手是兩個沈伯洋",
@@ -144,18 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "177",
-      "recommendCount": "270",
-      "title": "[情報] 115年10月21日 三大法人買賣金額統計表",
-      "link": "/bbs/Stock/M.1792566931.A.0E9",
-      "author": "coconing",
-      "board": "Stock",
-      "publishTime": "2026/10/21 07:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "634",
-      "recommendCount": "1038",
+      "recommendScore": "635",
+      "recommendCount": "1040",
       "title": "Re: [颱風] 2630 薔琵",
       "link": "/bbs/TY_Research/M.1792551986.A.F52",
       "author": "kadar",
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "79",
+      "recommendCount": "438",
+      "title": "[新聞] 才開場就問A答B!謝震武不忍吐槽蔣萬安：你的回答跟我的題目有沒有搭?",
+      "link": "/bbs/Gossiping/M.1792564906.A.B92",
+      "author": "wartwo",
+      "board": "Gossiping",
+      "publishTime": "2026/10/21 06:41",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "99",
       "recommendCount": "365",
       "title": "[新聞] 快新聞／民進黨出大招！台北市全新競選政策曝光　6區力拚「洋流全壘打」",
@@ -184,23 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "227",
-      "recommendCount": "259",
+      "recommendScore": "229",
+      "recommendCount": "261",
       "title": "[分享] 3D球場視角預覽器：大巨蛋",
       "link": "/bbs/Baseball/M.1792557248.A.68A",
       "author": "legonavy",
       "board": "Baseball",
       "publishTime": "2026/10/21 04:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "76",
-      "recommendCount": "416",
-      "title": "[新聞] 才開場就問A答B!謝震武不忍吐槽蔣萬安：你的回答跟我的題目有沒有搭?",
-      "link": "/bbs/Gossiping/M.1792564906.A.B92",
-      "author": "wartwo",
-      "board": "Gossiping",
-      "publishTime": "2026/10/21 06:41",
       "imageUrl": ""
     }
   ]
