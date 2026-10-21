@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-21T15:57:15.984Z",
+  "updated": "2026-10-21T16:15:43.142Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "534",
-      "recommendCount": "1078",
+      "recommendCount": "1079",
       "title": "[新聞] 報告：中國AI算力　55%用在製作短劇及影音",
       "link": "/bbs/Stock/M.1792543615.A.652",
       "author": "d8917936",
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "209",
-      "recommendCount": "527",
+      "recommendCount": "529",
       "title": "[新聞] 幕後／抓到了！「1歲打古寧頭」真相炸出國安官員揭中共介選奧步",
       "link": "/bbs/Gossiping/M.1792561547.A.DE5",
       "author": "au4g3wk4k",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "201",
-      "recommendCount": "383",
+      "recommendScore": "203",
+      "recommendCount": "387",
       "title": "[新聞] 變身暖男呼籲不要人身攻擊　網友挖出沈伯洋立院嗆聲嘴臉",
       "link": "/bbs/Gossiping/M.1792576153.A.189",
       "author": "emuless",
@@ -104,13 +104,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "144",
-      "recommendCount": "464",
+      "recommendScore": "145",
+      "recommendCount": "465",
       "title": "[新聞] 不意外沈伯洋贏17百分點　黃暐瀚：這份民調結果沈會贏得台北市長",
       "link": "/bbs/Gossiping/M.1792550469.A.1D1",
       "author": "blueadam193",
       "board": "Gossiping",
       "publishTime": "2026/10/21 02:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "132",
+      "recommendCount": "351",
+      "title": "[新聞] 網紅頻翻車！十大最信任YTR出爐 HowHow奪冠、蔡阿嘎慘跌至50名",
+      "link": "/bbs/Gossiping/M.1792562484.A.1BA",
+      "author": "lycppt",
+      "board": "Gossiping",
+      "publishTime": "2026/10/21 06:01",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "ben1013",
       "board": "Baseball",
       "publishTime": "2026/10/21 01:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "241",
-      "recommendCount": "279",
-      "title": "[分享] 3D球場視角預覽器：大巨蛋",
-      "link": "/bbs/Baseball/M.1792557248.A.68A",
-      "author": "legonavy",
-      "board": "Baseball",
-      "publishTime": "2026/10/21 04:34",
       "imageUrl": ""
     }
   ]
