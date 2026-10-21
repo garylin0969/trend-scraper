@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-21T00:54:52.829Z",
+  "updated": "2026-10-21T01:32:57.792Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-10-21T00:54:47.000Z",
+    "lastBuildDate": "2026-10-21T01:32:48.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -26,6 +26,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d11/live/c62034a0-cc52-11f1-9b08-37acac6be953.jpg"
     },
     {
+      "title": "美國下令政府系統禁用DeepSeek：中美AI競爭繼續升溫",
+      "description": "DeepSeek的免費聊天機器人應用程式在Apple App Store下載排行榜上名列前茅，其AI模型也被美國科技企業採用。Snowflake、Vercel及OpenRouter等公司都已將DeepSeek整合至其提供給客戶的服務中。",
+      "link": "https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-10-20T07:42:45.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/76fb/live/a102f4a0-cbe9-11f1-ad7b-fd8c269705fe.jpg"
+    },
+    {
       "title": "香港演員鍾雪瑩、袁澧林發聲之後，她們親述被性別冒犯的經歷",
       "description": "BBC中文訪問了四位來自不同行業的女性，了解言語冒犯是如何在工作環境中出現；當性別冒犯被包裝成「玩笑」，她們是如何應對。",
       "link": "https://www.bbc.com/zhongwen/articles/cqly0v0xnxdvo/trad?at_medium=RSS&at_campaign=rss",
@@ -42,14 +50,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d5a8/live/e214ac90-ca31-11f1-9ab2-b325ce61f9d2.jpg"
     },
     {
-      "title": "在實體商店購物很令我心煩——為什麼我只在網上購物",
-      "description": "英國服飾零售巨頭Primark首次將推出宅配服務，以應對Shein等超快時尚競爭。網上零售佔比持續上升，專家稱退貨政策成關鍵。",
-      "link": "https://www.bbc.com/zhongwen/articles/c63elnjkg03jo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-21T00:17:29.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c63elnjkg03jo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e93/live/d56cced0-b75f-11f1-8e7f-6f99c81f3136.jpg"
-    },
-    {
       "title": "法國騷亂：巴黎局部宵禁 被劫商品現身二手平台",
       "description": "此前，法國內政部長承認，警方在一些城市「失去了控制」。",
       "link": "https://www.bbc.com/zhongwen/articles/cwp9g811d5ydo/trad?at_medium=RSS&at_campaign=rss",
@@ -58,20 +58,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/35d7/live/673cf260-cc30-11f1-9a39-31b474234113.jpg"
     },
     {
-      "title": "美國下令政府系統禁用DeepSeek：中美AI競爭繼續升溫",
-      "description": "DeepSeek的免費聊天機器人應用程式在Apple App Store下載排行榜上名列前茅，其AI模型也被美國科技企業採用。Snowflake、Vercel及OpenRouter等公司都已將DeepSeek整合至其提供給客戶的服務中。",
-      "link": "https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-20T07:42:45.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/76fb/live/a102f4a0-cbe9-11f1-ad7b-fd8c269705fe.jpg"
-    },
-    {
       "title": "緬甸軍政府：英王查爾斯贈書昂山素季",
       "description": "內比都罕有公布昂山素季接收這些書籍及一封密封信件的照片。",
       "link": "https://www.bbc.com/zhongwen/articles/cmd93yyzx2g8o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-10-20T09:20:03.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cmd93yyzx2g8o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/796a/live/b24b5350-cc35-11f1-80e1-0b704274f993.jpg"
+    },
+    {
+      "title": "在實體商店購物很令我心煩——為什麼我只在網上購物",
+      "description": "英國服飾零售巨頭Primark首次將推出宅配服務，以應對Shein等超快時尚競爭。網上零售佔比持續上升，專家稱退貨政策成關鍵。",
+      "link": "https://www.bbc.com/zhongwen/articles/c63elnjkg03jo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-10-21T00:17:29.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c63elnjkg03jo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e93/live/d56cced0-b75f-11f1-8e7f-6f99c81f3136.jpg"
     },
     {
       "title": "俄羅斯境內反普京破壞行動的隱秘世界",
