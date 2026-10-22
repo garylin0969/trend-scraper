@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-22T10:55:18.481Z",
+  "updated": "2026-10-22T11:11:12.049Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "502",
+      "recommendScore": "503",
       "recommendCount": "1490",
       "title": "[新聞] 沈伯洋提停班課「脫鉤股市」　蔣萬安回應了：",
       "link": "/bbs/Stock/M.1792637218.A.589",
@@ -24,8 +24,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "332",
+      "recommendCount": "618",
+      "title": "[爆卦] 高雄市明天(23日)停止上班上課",
+      "link": "/bbs/Gossiping/M.1792665106.A.FE1",
+      "author": "SEVENxELEVEN",
+      "board": "Gossiping",
+      "publishTime": "2026/10/22 10:31",
+      "imageUrl": "https://cache.pttweb.cc/imgur/dsJmojX/s/7fa6bfd6452a0a6e33e5f84ab582219c"
+    },
+    {
       "recommendScore": "256",
-      "recommendCount": "511",
+      "recommendCount": "518",
       "title": "[新聞] 林飛帆赴國防大學演講！陸軍退將氣炸：你能教軍人什麼？",
       "link": "/bbs/Gossiping/M.1792648916.A.C64",
       "author": "Ho1liday",
@@ -34,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "294",
-      "recommendCount": "555",
+      "recommendScore": "302",
+      "recommendCount": "567",
       "title": "[新聞] 快訊／吳子嘉突遭搜索　本人發聲：司法追殺！拒絕交保、絕食抗議",
       "link": "/bbs/Gossiping/M.1792654315.A.E11",
       "author": "a0580531",
@@ -54,23 +64,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "286",
-      "recommendCount": "432",
-      "title": "[情報] Yaxel：77不停抱怨，對他完全失去尊重了",
-      "link": "/bbs/NBA/M.1792646919.A.BE8",
-      "author": "Wojnarowski",
-      "board": "NBA",
-      "publishTime": "2026/10/22 05:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "183",
-      "recommendCount": "511",
+      "recommendScore": "184",
+      "recommendCount": "513",
       "title": "[問卦] 說真的 你會去松山機場搭飛機嗎",
       "link": "/bbs/Gossiping/M.1792644590.A.AA7",
       "author": "Imotucc",
       "board": "Gossiping",
       "publishTime": "2026/10/22 04:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "286",
+      "recommendCount": "434",
+      "title": "[情報] Yaxel：77不停抱怨，對他完全失去尊重了",
+      "link": "/bbs/NBA/M.1792646919.A.BE8",
+      "author": "Wojnarowski",
+      "board": "NBA",
+      "publishTime": "2026/10/22 05:28",
       "imageUrl": ""
     },
     {
@@ -84,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "119",
-      "recommendCount": "457",
+      "recommendScore": "120",
+      "recommendCount": "458",
       "title": "[新聞] 快新聞／蔣萬安選情真的爆了！又一份民調震撼炸出　沈伯洋再次領先「差距曝光」",
       "link": "/bbs/Gossiping/M.1792640466.A.461",
       "author": "tiger911",
@@ -94,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "196",
-      "recommendCount": "565",
+      "recommendScore": "200",
+      "recommendCount": "569",
       "title": "[問卦] 女友快40了甩不掉怎辦？",
       "link": "/bbs/Gossiping/M.1792632187.A.30A",
       "author": "ssjayss",
@@ -104,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "269",
-      "recommendCount": "481",
+      "recommendScore": "270",
+      "recommendCount": "484",
       "title": "[新聞] 快訊／吳子嘉驚傳遭搜索！竹檢突襲美麗島電子報辦公室、住處",
       "link": "/bbs/Gossiping/M.1792651119.A.691",
       "author": "Skyblueway",
@@ -124,28 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "290",
-      "recommendCount": "469",
-      "title": "[心得] 408勸世文",
-      "link": "/bbs/car/M.1792580964.A.D45",
-      "author": "thurs1223",
-      "board": "car",
-      "publishTime": "2026/10/21 11:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "204",
-      "recommendCount": "381",
-      "title": "[爆卦] 高雄市明天(23日)停止上班上課",
-      "link": "/bbs/Gossiping/M.1792665106.A.FE1",
-      "author": "SEVENxELEVEN",
-      "board": "Gossiping",
-      "publishTime": "2026/10/22 10:31",
-      "imageUrl": "https://cache.pttweb.cc/imgur/dsJmojX/s/7fa6bfd6452a0a6e33e5f84ab582219c"
-    },
-    {
-      "recommendScore": "71",
-      "recommendCount": "337",
+      "recommendScore": "72",
+      "recommendCount": "338",
       "title": "2026畢業文",
       "link": "/bbs/Stock/M.1792653746.A.0E7",
       "author": "BenFlick",
@@ -174,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "200",
-      "recommendCount": "339",
+      "recommendScore": "203",
+      "recommendCount": "343",
       "title": "[情報] 115年10月22日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1792653194.A.4CD",
       "author": "coconing",
@@ -201,6 +191,16 @@
       "author": "staxsrm",
       "board": "Gossiping",
       "publishTime": "2026/10/22 04:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "337",
+      "recommendCount": "728",
+      "title": "[轉播] TS G4 十一下 味全4:4中信",
+      "link": "/bbs/Elephants/M.1792591482.A.749",
+      "author": "Jason520395",
+      "board": "Elephants",
+      "publishTime": "2026/10/21 14:04",
       "imageUrl": ""
     }
   ]
