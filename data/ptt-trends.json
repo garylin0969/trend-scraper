@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T23:45:09.832Z",
+  "updated": "2026-10-22T00:31:24.386Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "305",
+      "recommendCount": "734",
+      "title": "[新聞] 攤牌了！美副總統：烏克蘭不是美正式盟友 也不該入北約 應停止攻擊俄能源設施",
+      "link": "/bbs/Gossiping/M.1792599948.A.CD7",
+      "author": "mongi",
+      "board": "Gossiping",
+      "publishTime": "2026/10/21 16:25",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "214",
       "recommendCount": "543",
       "title": "[新聞] 幕後／抓到了！「1歲打古寧頭」真相炸出國安官員揭中共介選奧步",
@@ -34,18 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "277",
-      "recommendCount": "667",
-      "title": "[新聞] 攤牌了！美副總統：烏克蘭不是美正式盟友 也不該入北約 應停止攻擊俄能源設施",
-      "link": "/bbs/Gossiping/M.1792599948.A.CD7",
-      "author": "mongi",
-      "board": "Gossiping",
-      "publishTime": "2026/10/21 16:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "170",
-      "recommendCount": "570",
+      "recommendScore": "169",
+      "recommendCount": "571",
       "title": "[新聞] 美陸軍最新作戰指南　若爆台海衝突「第1天就投入作戰」",
       "link": "/bbs/Gossiping/M.1792552128.A.C3C",
       "author": "luxuryer",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "110",
-      "recommendCount": "419",
+      "recommendScore": "111",
+      "recommendCount": "421",
       "title": "[新聞] 最新民調變天！17％小草改挺沈伯洋　蔣萬安青年票狂掉26.8%",
       "link": "/bbs/Gossiping/M.1792552118.A.67E",
       "author": "keel90135",
@@ -114,13 +114,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "131",
-      "recommendCount": "361",
+      "recommendScore": "132",
+      "recommendCount": "363",
       "title": "[新聞] 網紅頻翻車！十大最信任YTR出爐 HowHow奪冠、蔡阿嘎慘跌至50名",
       "link": "/bbs/Gossiping/M.1792562484.A.1BA",
       "author": "lycppt",
       "board": "Gossiping",
       "publishTime": "2026/10/21 06:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "147",
+      "recommendCount": "365",
+      "title": "[新聞] 國防部認了！砸8240萬請美軍退將觀摩漢光演習 2年計畫首曝光",
+      "link": "/bbs/Gossiping/M.1792588131.A.891",
+      "author": "runa2",
+      "board": "Gossiping",
+      "publishTime": "2026/10/21 13:08",
       "imageUrl": ""
     },
     {
@@ -131,16 +141,6 @@
       "author": "coconing",
       "board": "Stock",
       "publishTime": "2026/10/21 07:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "141",
-      "recommendCount": "351",
-      "title": "[新聞] 國防部認了！砸8240萬請美軍退將觀摩漢光演習 2年計畫首曝光",
-      "link": "/bbs/Gossiping/M.1792588131.A.891",
-      "author": "runa2",
-      "board": "Gossiping",
-      "publishTime": "2026/10/21 13:08",
       "imageUrl": ""
     },
     {
@@ -184,6 +184,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/hC3rBLN/s/be9b6a192f131a01b456232f5cb89050"
     },
     {
+      "recommendScore": "209",
+      "recommendCount": "574",
+      "title": "[新聞] 澤連斯基：願在保留至少75%領土控制權的基礎上達成和平協議",
+      "link": "/bbs/Stock/M.1792591572.A.CAD",
+      "author": "justin531xx",
+      "board": "Stock",
+      "publishTime": "2026/10/21 14:06",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "338",
       "recommendCount": "888",
       "title": "[轉播] TS G4 五上 味全0:2中信 BB H",
@@ -192,16 +202,6 @@
       "board": "Elephants",
       "publishTime": "2026/10/21 11:38",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "638",
-      "recommendCount": "1043",
-      "title": "Re: [颱風] 2630 薔琵",
-      "link": "/bbs/TY_Research/M.1792551986.A.F52",
-      "author": "kadar",
-      "board": "TY_Research",
-      "publishTime": "2026/10/21 03:06",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Q2tNIgT/s/db410162dd2dd800d714a65e6e4a4b28"
     }
   ]
 }
