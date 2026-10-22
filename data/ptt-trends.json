@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-22T08:21:57.774Z",
+  "updated": "2026-10-22T08:45:14.148Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "488",
-      "recommendCount": "1460",
+      "recommendScore": "491",
+      "recommendCount": "1472",
       "title": "[新聞] 沈伯洋提停班課「脫鉤股市」　蔣萬安回應了：",
       "link": "/bbs/Stock/M.1792637218.A.589",
       "author": "leaderweb",
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/hC3rBLN/s/be9b6a192f131a01b456232f5cb89050"
     },
     {
-      "recommendScore": "376",
-      "recommendCount": "919",
+      "recommendScore": "377",
+      "recommendCount": "923",
       "title": "[新聞] 攤牌了！美副總統：烏克蘭不是美正式盟友 也不該入北約 應停止攻擊俄能源設施",
       "link": "/bbs/Gossiping/M.1792599948.A.CD7",
       "author": "mongi",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "291",
-      "recommendCount": "615",
+      "recommendScore": "295",
+      "recommendCount": "620",
       "title": "[新聞] 鄭浩均退場沮喪丟球、不甩王建民？職業球員難做　要更加注意言行",
       "link": "/bbs/Baseball/M.1792636271.A.D47",
       "author": "AllStar5566",
@@ -34,8 +34,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-97",
-      "recommendCount": "488",
+      "recommendScore": "224",
+      "recommendCount": "436",
+      "title": "[新聞] 林飛帆赴國防大學演講！陸軍退將氣炸：你能教軍人什麼？",
+      "link": "/bbs/Gossiping/M.1792648916.A.C64",
+      "author": "Ho1liday",
+      "board": "Gossiping",
+      "publishTime": "2026/10/22 06:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-99",
+      "recommendCount": "491",
       "title": "[新聞] 被問放颱風假標準　沈伯洋：「股市與停班課脫鉤」值得討論",
       "link": "/bbs/Gossiping/M.1792631936.A.FF2",
       "author": "Wojnarowski",
@@ -54,23 +64,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "406",
-      "title": "[新聞] 林飛帆赴國防大學演講！陸軍退將氣炸：你能教軍人什麼？",
-      "link": "/bbs/Gossiping/M.1792648916.A.C64",
-      "author": "Ho1liday",
-      "board": "Gossiping",
-      "publishTime": "2026/10/22 06:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "115",
-      "recommendCount": "446",
+      "recommendScore": "118",
+      "recommendCount": "449",
       "title": "[新聞] 快新聞／蔣萬安選情真的爆了！又一份民調震撼炸出　沈伯洋再次領先「差距曝光」",
       "link": "/bbs/Gossiping/M.1792640466.A.461",
       "author": "tiger911",
       "board": "Gossiping",
       "publishTime": "2026/10/22 03:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "262",
+      "recommendCount": "394",
+      "title": "[情報] Yaxel：77不停抱怨，對他完全失去尊重了",
+      "link": "/bbs/NBA/M.1792646919.A.BE8",
+      "author": "Wojnarowski",
+      "board": "NBA",
+      "publishTime": "2026/10/22 05:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "178",
+      "recommendCount": "449",
+      "title": "[問卦] 說真的 你會去松山機場搭飛機嗎",
+      "link": "/bbs/Gossiping/M.1792644590.A.AA7",
+      "author": "Imotucc",
+      "board": "Gossiping",
+      "publishTime": "2026/10/22 04:49",
       "imageUrl": ""
     },
     {
@@ -84,33 +104,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "247",
-      "recommendCount": "368",
-      "title": "[情報] Yaxel：77不停抱怨，對他完全失去尊重了",
-      "link": "/bbs/NBA/M.1792646919.A.BE8",
-      "author": "Wojnarowski",
-      "board": "NBA",
-      "publishTime": "2026/10/22 05:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "176",
-      "recommendCount": "514",
+      "recommendScore": "179",
+      "recommendCount": "519",
       "title": "[問卦] 女友快40了甩不掉怎辦？",
       "link": "/bbs/Gossiping/M.1792632187.A.30A",
       "author": "ssjayss",
       "board": "Gossiping",
       "publishTime": "2026/10/22 01:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "168",
-      "recommendCount": "421",
-      "title": "[問卦] 說真的 你會去松山機場搭飛機嗎",
-      "link": "/bbs/Gossiping/M.1792644590.A.AA7",
-      "author": "Imotucc",
-      "board": "Gossiping",
-      "publishTime": "2026/10/22 04:49",
       "imageUrl": ""
     },
     {
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "280",
-      "recommendCount": "447",
+      "recommendScore": "282",
+      "recommendCount": "450",
       "title": "[心得] 408勸世文",
       "link": "/bbs/car/M.1792580964.A.D45",
       "author": "thurs1223",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "228",
-      "recommendCount": "397",
+      "recommendScore": "243",
+      "recommendCount": "429",
       "title": "[新聞] 快訊／吳子嘉驚傳遭搜索！竹檢突襲美麗島電子報辦公室、住處",
       "link": "/bbs/Gossiping/M.1792651119.A.691",
       "author": "Skyblueway",
@@ -154,13 +154,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "183",
-      "recommendCount": "338",
+      "recommendScore": "184",
+      "recommendCount": "339",
       "title": "[新聞] 「我即刻暫停一切競選活動！」　蔣萬安宣布防薔琵優先",
       "link": "/bbs/Gossiping/M.1792637865.A.292",
       "author": "robert2692",
       "board": "Gossiping",
       "publishTime": "2026/10/22 02:57",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "179",
+      "recommendCount": "301",
+      "title": "[情報] 115年10月22日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1792653194.A.4CD",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2026/10/22 07:13",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "TY_Research",
       "publishTime": "2026/10/21 09:07",
       "imageUrl": "https://cache.pttweb.cc/imgur/hC3rBLN/s/be9b6a192f131a01b456232f5cb89050"
-    },
-    {
-      "recommendScore": "338",
-      "recommendCount": "888",
-      "title": "[轉播] TS G4 五上 味全0:2中信 BB H",
-      "link": "/bbs/Elephants/M.1792582710.A.90F",
-      "author": "Jason520395",
-      "board": "Elephants",
-      "publishTime": "2026/10/21 11:38",
-      "imageUrl": ""
     }
   ]
 }
