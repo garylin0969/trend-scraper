@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-22T05:48:04.111Z",
+  "updated": "2026-10-22T05:56:32.491Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "421",
-      "recommendCount": "1296",
+      "recommendScore": "432",
+      "recommendCount": "1315",
       "title": "[新聞] 沈伯洋提停班課「脫鉤股市」　蔣萬安回應了：",
       "link": "/bbs/Stock/M.1792637218.A.589",
       "author": "leaderweb",
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "372",
-      "recommendCount": "906",
+      "recommendCount": "907",
       "title": "[新聞] 攤牌了！美副總統：烏克蘭不是美正式盟友 也不該入北約 應停止攻擊俄能源設施",
       "link": "/bbs/Gossiping/M.1792599948.A.CD7",
       "author": "mongi",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-93",
-      "recommendCount": "470",
+      "recommendScore": "-95",
+      "recommendCount": "473",
       "title": "[新聞] 被問放颱風假標準　沈伯洋：「股市與停班課脫鉤」值得討論",
       "link": "/bbs/Gossiping/M.1792631936.A.FF2",
       "author": "Wojnarowski",
@@ -114,13 +114,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "263",
-      "recommendCount": "417",
+      "recommendScore": "264",
+      "recommendCount": "419",
       "title": "[心得] 408勸世文",
       "link": "/bbs/car/M.1792580964.A.D45",
       "author": "thurs1223",
       "board": "car",
       "publishTime": "2026/10/21 11:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "162",
+      "recommendCount": "478",
+      "title": "[問卦] 女友快40了甩不掉怎辦？",
+      "link": "/bbs/Gossiping/M.1792632187.A.30A",
+      "author": "ssjayss",
+      "board": "Gossiping",
+      "publishTime": "2026/10/22 01:23",
       "imageUrl": ""
     },
     {
@@ -131,16 +141,6 @@
       "author": "coconing",
       "board": "Stock",
       "publishTime": "2026/10/21 07:15",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "159",
-      "recommendCount": "470",
-      "title": "[問卦] 女友快40了甩不掉怎辦？",
-      "link": "/bbs/Gossiping/M.1792632187.A.30A",
-      "author": "ssjayss",
-      "board": "Gossiping",
-      "publishTime": "2026/10/22 01:23",
       "imageUrl": ""
     },
     {
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "163",
-      "recommendCount": "417",
+      "recommendScore": "164",
+      "recommendCount": "419",
       "title": "[問卦] 斯基願意割讓25%領土了？！",
       "link": "/bbs/Gossiping/M.1792625784.A.7CC",
       "author": "sxy67230",
