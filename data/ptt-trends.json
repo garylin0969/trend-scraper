@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-22T13:50:26.897Z",
+  "updated": "2026-10-22T13:56:57.470Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "500",
+      "recommendScore": "498",
       "recommendCount": "1490",
       "title": "[新聞] 沈伯洋提停班課「脫鉤股市」　蔣萬安回應了：",
       "link": "/bbs/Stock/M.1792637218.A.589",
@@ -64,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "292",
+      "recommendCount": "443",
+      "title": "[情報] Yaxel：77不停抱怨，對他完全失去尊重了",
+      "link": "/bbs/NBA/M.1792646919.A.BE8",
+      "author": "Wojnarowski",
+      "board": "NBA",
+      "publishTime": "2026/10/22 05:28",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "185",
       "recommendCount": "519",
       "title": "[問卦] 說真的 你會去松山機場搭飛機嗎",
@@ -74,18 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "291",
-      "recommendCount": "442",
-      "title": "[情報] Yaxel：77不停抱怨，對他完全失去尊重了",
-      "link": "/bbs/NBA/M.1792646919.A.BE8",
-      "author": "Wojnarowski",
-      "board": "NBA",
-      "publishTime": "2026/10/22 05:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "256",
-      "recommendCount": "471",
+      "recommendScore": "259",
+      "recommendCount": "477",
       "title": "[新聞] 快訊／放假了！薔琵颱風來襲　北北基桃宣布明停班停課",
       "link": "/bbs/Gossiping/M.1792670496.A.678",
       "author": "bbbb25487",
@@ -175,7 +175,7 @@
     },
     {
       "recommendScore": "66",
-      "recommendCount": "445",
+      "recommendCount": "447",
       "title": "[新聞] 快新聞／黃暐瀚驚爆猛料！國民黨內部民調「早知蔣萬安慘了」　竟壓著不敢公布",
       "link": "/bbs/Gossiping/M.1792660686.A.C4B",
       "author": "lovea",
