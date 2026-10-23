@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T21:37:15.662Z",
+  "updated": "2026-10-23T21:44:33.061Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,16 +34,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/CT5qjvA/s/b9a5884796f1d43932ca5e4bf4c6815d"
     },
     {
-      "recommendScore": "769",
-      "recommendCount": "1329",
-      "title": "[電競] 2026 World Championship - 瑞士輪 Day1",
-      "link": "/bbs/LoL/M.1792757758.A.45D",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2026/10/23 12:15",
-      "imageUrl": "https://cache.pttweb.cc/imgur/cfA1jcK/s/ebab7e99ba2072acc7c0352f74190c68"
-    },
-    {
       "recommendScore": "188",
       "recommendCount": "522",
       "title": "[新聞]颱風假害隔宿露營被取消！國中生飆罵蔣萬安 反遭轟爆",
@@ -52,6 +42,16 @@
       "board": "Gossiping",
       "publishTime": "2026/10/23 00:52",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "774",
+      "recommendCount": "1329",
+      "title": "[電競] 2026 World Championship - 瑞士輪 Day1",
+      "link": "/bbs/LoL/M.1792757758.A.45D",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2026/10/23 12:15",
+      "imageUrl": "https://cache.pttweb.cc/imgur/cfA1jcK/s/ebab7e99ba2072acc7c0352f74190c68"
     },
     {
       "recommendScore": "556",
@@ -64,8 +64,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/e39OTEp/s/f9241c6f0ff842b8d6a50f216b99f559"
     },
     {
-      "recommendScore": "214",
-      "recommendCount": "364",
+      "recommendScore": "215",
+      "recommendCount": "365",
       "title": "[新聞] 北市米其林餐廳結帳員工「調包客人信用卡」 爽刷12萬買香奈兒包慘了",
       "link": "/bbs/Gossiping/M.1792744602.A.CCC",
       "author": "yu1164",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "209",
-      "recommendCount": "404",
+      "recommendScore": "210",
+      "recommendCount": "405",
       "title": "[新聞] 替徐佳青慶生、歡送？陳智菡爆僑委會砸1492萬 包下圓山飯店4天3夜",
       "link": "/bbs/Gossiping/M.1792767640.A.8C0",
       "author": "Bqqqa",
