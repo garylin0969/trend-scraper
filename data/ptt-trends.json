@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T01:11:26.852Z",
+  "updated": "2026-10-23T01:36:33.540Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "280",
-      "recommendCount": "571",
+      "recommendScore": "279",
+      "recommendCount": "572",
       "title": "[新聞] 林飛帆赴國防大學演講！陸軍退將氣炸：你能教軍人什麼？",
       "link": "/bbs/Gossiping/M.1792648916.A.C64",
       "author": "Ho1liday",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "305",
-      "recommendCount": "647",
+      "recommendScore": "306",
+      "recommendCount": "648",
       "title": "[新聞] 鄭浩均退場沮喪丟球、不甩王建民？職業球員難做　要更加注意言行",
       "link": "/bbs/Baseball/M.1792636271.A.D47",
       "author": "AllStar5566",
@@ -84,23 +84,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "200",
-      "recommendCount": "444",
+      "recommendScore": "201",
+      "recommendCount": "449",
       "title": "[新聞] 沈伯洋「越南金面龍王轉世、2032當總統」傳單曝 網傻眼",
       "link": "/bbs/Gossiping/M.1792674380.A.374",
       "author": "akila08539",
       "board": "Gossiping",
       "publishTime": "2026/10/22 13:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "-104",
-      "recommendCount": "501",
-      "title": "[新聞] 被問放颱風假標準　沈伯洋：「股市與停班課脫鉤」值得討論",
-      "link": "/bbs/Gossiping/M.1792631936.A.FF2",
-      "author": "Wojnarowski",
-      "board": "Gossiping",
-      "publishTime": "2026/10/22 01:18",
       "imageUrl": ""
     },
     {
@@ -121,16 +111,6 @@
       "author": "Skyblueway",
       "board": "Gossiping",
       "publishTime": "2026/10/22 06:38",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "204",
-      "recommendCount": "576",
-      "title": "[問卦] 女友快40了甩不掉怎辦？",
-      "link": "/bbs/Gossiping/M.1792632187.A.30A",
-      "author": "ssjayss",
-      "board": "Gossiping",
-      "publishTime": "2026/10/22 01:23",
       "imageUrl": ""
     },
     {
@@ -194,14 +174,34 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "168",
-      "recommendCount": "310",
+      "recommendScore": "169",
+      "recommendCount": "311",
       "title": "[情報] 臺北股匯市10/23(五)停止交易一日",
       "link": "/bbs/Stock/M.1792670440.A.745",
       "author": "marginalFeng",
       "board": "Stock",
       "publishTime": "2026/10/22 12:00",
       "imageUrl": "https://cache.pttweb.cc/imgur/hPdXk1q/s/88bddd4ca7ce8363e6550a96bfb8ff45"
+    },
+    {
+      "recommendScore": "301",
+      "recommendCount": "815",
+      "title": "[討論] 沈伯洋競選網站政策島",
+      "link": "/bbs/HatePolitics/M.1792651617.A.A6D",
+      "author": "DosTaLiCa",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/22 06:46",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "185",
+      "recommendCount": "342",
+      "title": "[新聞] 「我即刻暫停一切競選活動！」　蔣萬安宣布防薔琵優先",
+      "link": "/bbs/Gossiping/M.1792637865.A.292",
+      "author": "robert2692",
+      "board": "Gossiping",
+      "publishTime": "2026/10/22 02:57",
+      "imageUrl": ""
     }
   ]
 }
