@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T16:35:17.713Z",
+  "updated": "2026-10-23T16:48:59.929Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/e39OTEp/s/f9241c6f0ff842b8d6a50f216b99f559"
     },
     {
-      "recommendScore": "120",
-      "recommendCount": "902",
+      "recommendScore": "116",
+      "recommendCount": "907",
       "title": "[新聞] 年底重啟核電公投 總統府:非核家園已完成",
       "link": "/bbs/Gossiping/M.1792732188.A.589",
       "author": "OAO5566",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "544",
-      "recommendCount": "803",
+      "recommendScore": "554",
+      "recommendCount": "816",
       "title": "[颱風] 薔琵颱風 海上陸上颱風警報 第17報",
       "link": "/bbs/TY_Research/M.1792769606.A.890",
       "author": "willyer",
@@ -64,14 +64,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "205",
-      "recommendCount": "353",
+      "recommendScore": "206",
+      "recommendCount": "354",
       "title": "[新聞] 北市米其林餐廳結帳員工「調包客人信用卡」 爽刷12萬買香奈兒包慘了",
       "link": "/bbs/Gossiping/M.1792744602.A.CCC",
       "author": "yu1164",
       "board": "Gossiping",
       "publishTime": "2026/10/23 08:36",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "347",
+      "recommendCount": "455",
+      "title": "[颱風] 薔琵颱風 海上陸上颱風警報 第17-1報",
+      "link": "/bbs/TY_Research/M.1792772410.A.C92",
+      "author": "willyer",
+      "board": "TY_Research",
+      "publishTime": "2026/10/23 16:20",
+      "imageUrl": "https://cache.pttweb.cc/imgur/CT5qjvA/s/b9a5884796f1d43932ca5e4bf4c6815d"
     },
     {
       "recommendScore": "241",
@@ -84,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "139",
+      "recommendCount": "328",
+      "title": "[問卦] 高雄台南今天是以什麼名義放假？",
+      "link": "/bbs/Gossiping/M.1792753286.A.FA8",
+      "author": "lili712",
+      "board": "Gossiping",
+      "publishTime": "2026/10/23 11:01",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "168",
       "recommendCount": "347",
       "title": "[問卦] 高雄現在天氣如何？",
@@ -91,16 +111,6 @@
       "author": "sss1234",
       "board": "Gossiping",
       "publishTime": "2026/10/22 23:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "140",
-      "recommendCount": "325",
-      "title": "[問卦] 高雄台南今天是以什麼名義放假？",
-      "link": "/bbs/Gossiping/M.1792753286.A.FA8",
-      "author": "lili712",
-      "board": "Gossiping",
-      "publishTime": "2026/10/23 11:01",
       "imageUrl": ""
     },
     {
@@ -174,6 +184,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/e39OTEp/s/f9241c6f0ff842b8d6a50f216b99f559"
     },
     {
+      "recommendScore": "171",
+      "recommendCount": "329",
+      "title": "[新聞] 替徐佳青慶生、歡送？陳智菡爆僑委會砸1492萬 包下圓山飯店4天3夜",
+      "link": "/bbs/Gossiping/M.1792767640.A.8C0",
+      "author": "Bqqqa",
+      "board": "Gossiping",
+      "publishTime": "2026/10/23 15:00",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "166",
       "recommendCount": "472",
       "title": "Re: [新聞] 黃暐瀚：「洋流不是大罷免」沒有當時仇恨值　藍營明顯判斷錯誤",
@@ -182,26 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/10/23 02:13",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "151",
-      "recommendCount": "477",
-      "title": "[新聞] 追殺到底？陸配村長鄧萬華遭解職 兒子參選再被中選會撤資格",
-      "link": "/bbs/Gossiping/M.1792743410.A.CBB",
-      "author": "shawnm80",
-      "board": "Gossiping",
-      "publishTime": "2026/10/23 08:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "224",
-      "recommendCount": "304",
-      "title": "[颱風] 薔琵颱風 海上陸上颱風警報 第17-1報",
-      "link": "/bbs/TY_Research/M.1792772410.A.C92",
-      "author": "willyer",
-      "board": "TY_Research",
-      "publishTime": "2026/10/23 16:20",
-      "imageUrl": "https://cache.pttweb.cc/imgur/CT5qjvA/s/b9a5884796f1d43932ca5e4bf4c6815d"
     }
   ]
 }
