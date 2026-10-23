@@ -1,17 +1,27 @@
 {
-  "updated": "2026-10-23T05:11:49.557Z",
+  "updated": "2026-10-23T05:31:20.420Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "418",
-      "recommendCount": "846",
+      "recommendScore": "417",
+      "recommendCount": "847",
       "title": "[爆卦] 高雄市明天(23日)停止上班上課",
       "link": "/bbs/Gossiping/M.1792665106.A.FE1",
       "author": "SEVENxELEVEN",
       "board": "Gossiping",
       "publishTime": "2026/10/22 10:31",
       "imageUrl": "https://cache.pttweb.cc/imgur/dsJmojX/s/7fa6bfd6452a0a6e33e5f84ab582219c"
+    },
+    {
+      "recommendScore": "284",
+      "recommendCount": "580",
+      "title": "[新聞] 林飛帆赴國防大學演講！陸軍退將氣炸：你能教軍人什麼？",
+      "link": "/bbs/Gossiping/M.1792648916.A.C64",
+      "author": "Ho1liday",
+      "board": "Gossiping",
+      "publishTime": "2026/10/22 06:01",
+      "imageUrl": ""
     },
     {
       "recommendScore": "334",
@@ -24,28 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "282",
-      "recommendCount": "576",
-      "title": "[新聞] 林飛帆赴國防大學演講！陸軍退將氣炸：你能教軍人什麼？",
-      "link": "/bbs/Gossiping/M.1792648916.A.C64",
-      "author": "Ho1liday",
-      "board": "Gossiping",
-      "publishTime": "2026/10/22 06:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "300",
-      "recommendCount": "454",
-      "title": "[情報] Yaxel：77不停抱怨，對他完全失去尊重了",
-      "link": "/bbs/NBA/M.1792646919.A.BE8",
-      "author": "Wojnarowski",
-      "board": "NBA",
-      "publishTime": "2026/10/22 05:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "210",
-      "recommendCount": "466",
+      "recommendScore": "211",
+      "recommendCount": "467",
       "title": "[新聞] 沈伯洋「越南金面龍王轉世、2032當總統」傳單曝 網傻眼",
       "link": "/bbs/Gossiping/M.1792674380.A.374",
       "author": "akila08539",
@@ -61,6 +51,16 @@
       "author": "bbbb25487",
       "board": "Gossiping",
       "publishTime": "2026/10/22 12:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "154",
+      "recommendCount": "451",
+      "title": "[新聞]颱風假害隔宿露營被取消！國中生飆罵蔣萬安 反遭轟爆",
+      "link": "/bbs/Gossiping/M.1792716748.A.DBB",
+      "author": "abianisbitch",
+      "board": "Gossiping",
+      "publishTime": "2026/10/23 00:52",
       "imageUrl": ""
     },
     {
@@ -84,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "147",
-      "recommendCount": "430",
-      "title": "[新聞]颱風假害隔宿露營被取消！國中生飆罵蔣萬安 反遭轟爆",
-      "link": "/bbs/Gossiping/M.1792716748.A.DBB",
-      "author": "abianisbitch",
-      "board": "Gossiping",
-      "publishTime": "2026/10/23 00:52",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "208",
       "recommendCount": "358",
       "title": "[情報] 115年10月22日 三大法人買賣金額統計表",
@@ -114,8 +104,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/wE0jlIS/s/6f60d191ad8d3fe22d74c3f569055b84"
     },
     {
-      "recommendScore": "146",
-      "recommendCount": "414",
+      "recommendScore": "148",
+      "recommendCount": "416",
       "title": "[問卦] 高雄好天氣還放颱風假 好不好意思",
       "link": "/bbs/Gossiping/M.1792713828.A.BFD",
       "author": "enlong777",
@@ -164,8 +154,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/hPdXk1q/s/88bddd4ca7ce8363e6550a96bfb8ff45"
     },
     {
-      "recommendScore": "301",
-      "recommendCount": "815",
+      "recommendScore": "302",
+      "recommendCount": "816",
       "title": "[討論] 沈伯洋競選網站政策島",
       "link": "/bbs/HatePolitics/M.1792651617.A.A6D",
       "author": "DosTaLiCa",
@@ -175,7 +165,7 @@
     },
     {
       "recommendScore": "166",
-      "recommendCount": "317",
+      "recommendCount": "321",
       "title": "[問卦] 高雄現在天氣如何？",
       "link": "/bbs/Gossiping/M.1792712543.A.C79",
       "author": "sss1234",
@@ -185,7 +175,7 @@
     },
     {
       "recommendScore": "93",
-      "recommendCount": "346",
+      "recommendCount": "347",
       "title": "[新聞] 慘！「一開門就賠1億利息」台電舉債達1.85兆 利息負擔323億元",
       "link": "/bbs/Gossiping/M.1792662184.A.D6B",
       "author": "Aqqqa",
@@ -194,14 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "201",
-      "recommendCount": "308",
+      "recommendScore": "203",
+      "recommendCount": "313",
       "title": "[BOX ] Cavaliers 106:114 76ers",
       "link": "/bbs/NBA/M.1792720525.A.F56",
       "author": "jason911152",
       "board": "NBA",
       "publishTime": "2026/10/23 01:55",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "165",
+      "recommendCount": "289",
+      "title": "[問卦] 台東人氣瘋了!瘋狂刷全台停班課整理圖",
+      "link": "/bbs/Gossiping/M.1792671259.A.B46",
+      "author": "yyyyyuuuuu",
+      "board": "Gossiping",
+      "publishTime": "2026/10/22 12:14",
+      "imageUrl": "https://cache.pttweb.cc/imgur/bcKCeIl/s/60322533f42511405cd98a0ab2586180"
     }
   ]
 }
