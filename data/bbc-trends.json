@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-23T04:51:36.339Z",
+  "updated": "2026-10-23T05:24:38.831Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-10-23T04:51:30.000Z",
+    "lastBuildDate": "2026-10-23T05:24:37.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
@@ -26,12 +26,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7597/live/7ef98ae0-ce1e-11f1-906e-e3128518d85d.jpg"
     },
     {
-      "title": "西藏發生7級強烈地震，據報至少16死，已派翼龍無人機進行災情偵察",
+      "title": "西藏那曲7級地震16死54傷，當局派翼龍無人機進行災情偵察",
       "description": "地震發生在西藏東北部一個山區且人口稀少的地區。",
       "link": "https://www.bbc.com/zhongwen/articles/c9zrd1rd3jmyo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-23T03:50:56.000Z",
+      "pubDate": "2026-10-23T05:23:41.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c9zrd1rd3jmyo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d9bb/live/35523df0-ce6f-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "title": "PHP是什麼？為何它引發全球網絡安全危機？",
+      "description": "人工智能發現了長期未被察覺的程式漏洞，引發全球罕見的大規模網絡安全應對行動。",
+      "link": "https://www.bbc.com/zhongwen/articles/c370pr45nelgo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-10-23T05:01:50.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c370pr45nelgo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fccd/live/bf4a03d0-ce15-11f1-9a39-31b474234113.jpg"
     },
     {
       "title": "特朗普訴BBC誹謗案：法官下令總統須宣誓並答問作證",
@@ -40,14 +48,6 @@
       "pubDate": "2026-10-23T01:42:51.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/ckx2qdelv0jeo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6bf5/live/f171dec0-ce3b-11f1-a86f-f78305ec9987.jpg"
-    },
-    {
-      "title": "不點單，沒座位：星巴克中國推出新門店政策",
-      "description": "星巴克表示，隨著與本土競爭對手展開競爭，公司正致力改善顧客的店內體驗。",
-      "link": "https://www.bbc.com/zhongwen/articles/ckn9r7e4e8jpo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-22T09:50:32.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ckn9r7e4e8jpo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d52a/live/22a66e60-cdc5-11f1-ae0b-3f5d64e6a869.jpg"
     },
     {
       "title": "《決勝時刻》新遊戲設想朝鮮入侵韓國，真的會發生嗎？",
@@ -66,6 +66,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/711c/live/8e797e10-cbd7-11f1-a64c-550be9e3c66b.jpg"
     },
     {
+      "title": "不點單，沒座位：星巴克中國推出新門店政策",
+      "description": "星巴克表示，隨著與本土競爭對手展開競爭，公司正致力改善顧客的店內體驗。",
+      "link": "https://www.bbc.com/zhongwen/articles/ckn9r7e4e8jpo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-10-22T09:50:32.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckn9r7e4e8jpo/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d52a/live/22a66e60-cdc5-11f1-ae0b-3f5d64e6a869.jpg"
+    },
+    {
       "title": "特朗普收緊綠卡政策，印度科技從業者的「美國夢」面臨考驗",
       "description": "由於移民限制和科技公司削減外籍員工，獲得美國永久居留權對許多印度人來說正變得越來越遙不可及。",
       "link": "https://www.bbc.com/zhongwen/articles/crly0lw6g726o/trad?at_medium=RSS&at_campaign=rss",
@@ -80,14 +88,6 @@
       "pubDate": "2026-10-22T08:44:02.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c620re8ye3e4o/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7895/live/153f6660-cd6a-11f1-9a39-31b474234113.png"
-    },
-    {
-      "title": "為甚麼馬斯克要策劃 SpaceX 與特斯拉的超大型合併？",
-      "description": "馬斯克稱，透過合併這兩家公司，「有很多好處可獲得」，而這將會是歷來規模最大的合併案。",
-      "link": "https://www.bbc.com/zhongwen/articles/c6eq309002q3o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-22T00:21:24.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c6eq309002q3o/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a691/live/0777e580-cd28-11f1-bc2e-018d645d8d21.png"
     },
     {
       "title": "華東颱風強、印尼野火烈——厄爾尼諾現象影響世界的五個方面",
@@ -202,20 +202,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1f2b/live/cb87ca70-cc75-11f1-baeb-8d65d4bcd7ab.jpg"
     },
     {
+      "title": "為甚麼馬斯克要策劃 SpaceX 與特斯拉的超大型合併？",
+      "description": "馬斯克稱，透過合併這兩家公司，「有很多好處可獲得」，而這將會是歷來規模最大的合併案。",
+      "link": "https://www.bbc.com/zhongwen/articles/c6eq309002q3o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-10-22T00:21:24.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c6eq309002q3o/trad#4",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a691/live/0777e580-cd28-11f1-bc2e-018d645d8d21.png"
+    },
+    {
       "title": "俄羅斯境內反普京破壞行動的隱秘世界",
       "description": "兩名男子講述了他們聲稱在戰爭期間為烏克蘭情報部門提供支援所從事的工作。",
       "link": "https://www.bbc.com/zhongwen/articles/c6d09dpdn294o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-10-20T01:14:38.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c6d09dpdn294o/trad#4",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b9f8/live/f9937b60-c943-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "title": "在美中國研究生涉毒害越南同學：大學與家屬怎麼說？",
-      "description": "美國懷俄明大學一名越南籍研究生的家屬向BBC表示，受害人在辦公室的咖啡機內發現神經毒劑後，至今仍出現疲倦、食慾不振及睡眠欠佳等健康問題。",
-      "link": "https://www.bbc.com/zhongwen/articles/c6vg08d0glp7o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-18T00:31:53.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c6vg08d0glp7o/trad#4",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ad95/live/f6d581c0-c920-11f1-9a39-31b474234113.png"
     },
     {
       "title": "中國三季度增長4.5% 但出口暴增，樓市新開工面積暴跌",
