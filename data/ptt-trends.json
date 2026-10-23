@@ -1,18 +1,8 @@
 {
-  "updated": "2026-10-23T02:40:56.011Z",
+  "updated": "2026-10-23T02:55:11.219Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "494",
-      "recommendCount": "1490",
-      "title": "[新聞] 沈伯洋提停班課「脫鉤股市」　蔣萬安回應了：",
-      "link": "/bbs/Stock/M.1792637218.A.589",
-      "author": "leaderweb",
-      "board": "Stock",
-      "publishTime": "2026/10/22 02:46",
-      "imageUrl": "https://cache.pttweb.cc/imgur/dsJmojX/s/7fa6bfd6452a0a6e33e5f84ab582219c"
-    },
     {
       "recommendScore": "418",
       "recommendCount": "846",
@@ -84,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "124",
-      "recommendCount": "464",
+      "recommendScore": "125",
+      "recommendCount": "475",
       "title": "[新聞] 快新聞／蔣萬安選情真的爆了！又一份民調震撼炸出　沈伯洋再次領先「差距曝光」",
       "link": "/bbs/Gossiping/M.1792640466.A.461",
       "author": "tiger911",
@@ -201,6 +191,16 @@
       "author": "staxsrm",
       "board": "Gossiping",
       "publishTime": "2026/10/22 04:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "225",
+      "recommendCount": "333",
+      "title": "[BOX ] Warriors 105:127 Lakers",
+      "link": "/bbs/NBA/M.1792644161.A.496",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2026/10/22 04:42",
       "imageUrl": ""
     }
   ]
