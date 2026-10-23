@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T04:42:35.492Z",
+  "updated": "2026-10-23T04:55:56.413Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,16 +44,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "189",
-      "recommendCount": "537",
-      "title": "[問卦] 說真的 你會去松山機場搭飛機嗎",
-      "link": "/bbs/Gossiping/M.1792644590.A.AA7",
-      "author": "Imotucc",
-      "board": "Gossiping",
-      "publishTime": "2026/10/22 04:49",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "269",
       "recommendCount": "489",
       "title": "[新聞] 快訊／放假了！薔琵颱風來襲　北北基桃宣布明停班停課",
@@ -64,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "209",
-      "recommendCount": "463",
+      "recommendScore": "210",
+      "recommendCount": "464",
       "title": "[新聞] 沈伯洋「越南金面龍王轉世、2032當總統」傳單曝 網傻眼",
       "link": "/bbs/Gossiping/M.1792674380.A.374",
       "author": "akila08539",
@@ -94,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "129",
+      "recommendCount": "401",
+      "title": "[新聞]颱風假害隔宿露營被取消！國中生飆罵蔣萬安 反遭轟爆",
+      "link": "/bbs/Gossiping/M.1792716748.A.DBB",
+      "author": "abianisbitch",
+      "board": "Gossiping",
+      "publishTime": "2026/10/23 00:52",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "208",
       "recommendCount": "358",
       "title": "[情報] 115年10月22日 三大法人買賣金額統計表",
@@ -101,16 +101,6 @@
       "author": "coconing",
       "board": "Stock",
       "publishTime": "2026/10/22 07:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "129",
-      "recommendCount": "393",
-      "title": "[新聞]颱風假害隔宿露營被取消！國中生飆罵蔣萬安 反遭轟爆",
-      "link": "/bbs/Gossiping/M.1792716748.A.DBB",
-      "author": "abianisbitch",
-      "board": "Gossiping",
-      "publishTime": "2026/10/23 00:52",
       "imageUrl": ""
     },
     {
@@ -144,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "143",
+      "recommendCount": "407",
+      "title": "[問卦] 高雄好天氣還放颱風假 好不好意思",
+      "link": "/bbs/Gossiping/M.1792713828.A.BFD",
+      "author": "enlong777",
+      "board": "Gossiping",
+      "publishTime": "2026/10/23 00:03",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "160",
       "recommendCount": "317",
       "title": "[問卦] 南高屏明天放的是什麼假？",
@@ -151,16 +151,6 @@
       "author": "wtf556687",
       "board": "Gossiping",
       "publishTime": "2026/10/22 10:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "140",
-      "recommendCount": "402",
-      "title": "[問卦] 高雄好天氣還放颱風假 好不好意思",
-      "link": "/bbs/Gossiping/M.1792713828.A.BFD",
-      "author": "enlong777",
-      "board": "Gossiping",
-      "publishTime": "2026/10/23 00:03",
       "imageUrl": ""
     },
     {
@@ -184,13 +174,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "225",
-      "recommendCount": "333",
-      "title": "[BOX ] Warriors 105:127 Lakers",
-      "link": "/bbs/NBA/M.1792644161.A.496",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2026/10/22 04:42",
+      "recommendScore": "161",
+      "recommendCount": "311",
+      "title": "[問卦] 高雄現在天氣如何？",
+      "link": "/bbs/Gossiping/M.1792712543.A.C79",
+      "author": "sss1234",
+      "board": "Gossiping",
+      "publishTime": "2026/10/22 23:42",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "Aqqqa",
       "board": "Gossiping",
       "publishTime": "2026/10/22 09:43",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "199",
+      "recommendCount": "301",
+      "title": "[BOX ] Cavaliers 106:114 76ers",
+      "link": "/bbs/NBA/M.1792720525.A.F56",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2026/10/23 01:55",
       "imageUrl": ""
     }
   ]
