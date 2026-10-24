@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T18:12:56.370Z",
+  "updated": "2026-10-24T18:32:53.594Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "258",
-      "recommendCount": "624",
+      "recommendCount": "625",
       "title": "[請益] 台股真的不會再回到三萬多點嗎？",
       "link": "/bbs/Stock/M.1792830820.A.34F",
       "author": "aza0290",
@@ -34,24 +34,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "362",
-      "recommendCount": "371",
+      "recommendScore": "364",
+      "recommendCount": "373",
       "title": "Re: [推薦] 足球1400粗暴推薦",
       "link": "/bbs/SportLottery/M.1792850269.A.BCE",
       "author": "apparition10",
       "board": "SportLottery",
       "publishTime": "2026/10/24 13:57",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "700",
-      "recommendCount": "1327",
-      "title": "[電競] 2026 World Championship 瑞士輪 Day 2",
-      "link": "/bbs/LoL/M.1792847473.A.92B",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2026/10/24 13:11",
-      "imageUrl": "https://cache.pttweb.cc/imgur/ttYKDJ0/s/3d021316aeac1575eeb6e4653617c33d"
     },
     {
       "recommendScore": "87",
@@ -74,8 +64,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "75",
-      "recommendCount": "363",
+      "recommendScore": "738",
+      "recommendCount": "1327",
+      "title": "[電競] 2026 World Championship 瑞士輪 Day 2",
+      "link": "/bbs/LoL/M.1792847473.A.92B",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2026/10/24 13:11",
+      "imageUrl": "https://cache.pttweb.cc/imgur/ttYKDJ0/s/3d021316aeac1575eeb6e4653617c33d"
+    },
+    {
+      "recommendScore": "74",
+      "recommendCount": "364",
       "title": "[新聞] 藍白剉咧等！「洋流」外溢全台 沈伯洋助攻「這2市」拚翻轉",
       "link": "/bbs/Gossiping/M.1792828328.A.D0D",
       "author": "eunhailoveu",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "174",
-      "recommendCount": "249",
+      "recommendScore": "176",
+      "recommendCount": "251",
       "title": "[新聞] 通過薔琵考驗　新竹棒球場最新畫面曝：雨停後水快速排光",
       "link": "/bbs/Baseball/M.1792832646.A.3D4",
       "author": "JAL96",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "112",
-      "recommendCount": "260",
+      "recommendScore": "114",
+      "recommendCount": "265",
       "title": "[新聞] 徐佳青捲晚會慶生爭議　網湧賴清德臉書怒批：要查了嗎？",
       "link": "/bbs/Gossiping/M.1792846916.A.44B",
       "author": "kenny1300175",
@@ -184,24 +184,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "180",
-      "recommendCount": "191",
+      "recommendScore": "96",
+      "recommendCount": "570",
+      "title": "Re: [新聞] 「沈伯洋其實已經贏了」呱吉曝北市選戰變化：原本低迷打到這種熱度",
+      "link": "/bbs/Gossiping/M.1792858308.A.5C9",
+      "author": "renna038766",
+      "board": "Gossiping",
+      "publishTime": "2026/10/24 16:11",
+      "imageUrl": "https://cache.pttweb.cc/imgur/vi8oIYs/s/ecd5bd5ca8d22f5d557d25da923ec97b"
+    },
+    {
+      "recommendScore": "181",
+      "recommendCount": "192",
       "title": "[問卦] 健人蓋伊扛起140公斤美少女（發錢）",
       "link": "/bbs/Gossiping/M.1792849881.A.E1A",
       "author": "BIA",
       "board": "Gossiping",
       "publishTime": "2026/10/24 13:51",
       "imageUrl": "https://cache.pttweb.cc/imgur/vW7gTTS/s/bc6dc7e0a6f56ef097c608798a45a1dd"
-    },
-    {
-      "recommendScore": "159",
-      "recommendCount": "248",
-      "title": "[閒聊] 日本史：信長在本能寺被光秀襲擊第一句話",
-      "link": "/bbs/C_Chat/M.1792836830.A.607",
-      "author": "LABOYS",
-      "board": "C_Chat",
-      "publishTime": "2026/10/24 10:13",
-      "imageUrl": ""
     }
   ]
 }
