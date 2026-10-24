@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-24T19:26:45.456Z",
+  "updated": "2026-10-24T19:35:11.889Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "487",
-      "recommendCount": "741",
+      "recommendScore": "488",
+      "recommendCount": "742",
       "title": "Re: [新聞] 沈伯洋拋活化市民大道橋下空間 規劃",
       "link": "/bbs/Gossiping/M.1792821261.A.32F",
       "author": "jose50203",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "256",
-      "recommendCount": "627",
+      "recommendScore": "255",
+      "recommendCount": "632",
       "title": "[請益] 台股真的不會再回到三萬多點嗎？",
       "link": "/bbs/Stock/M.1792830820.A.34F",
       "author": "aza0290",
@@ -44,7 +44,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "679",
+      "recommendScore": "695",
       "recommendCount": "1326",
       "title": "[電競] 2026 World Championship 瑞士輪 Day 2",
       "link": "/bbs/LoL/M.1792847473.A.92B",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "188",
+      "recommendCount": "200",
+      "title": "[問卦] 健人蓋伊扛起140公斤美少女（發錢）",
+      "link": "/bbs/Gossiping/M.1792849881.A.E1A",
+      "author": "BIA",
+      "board": "Gossiping",
+      "publishTime": "2026/10/24 13:51",
+      "imageUrl": "https://cache.pttweb.cc/imgur/vW7gTTS/s/bc6dc7e0a6f56ef097c608798a45a1dd"
+    },
+    {
       "recommendScore": "102",
       "recommendCount": "322",
       "title": "[問卦] 李多慧以前怎麼不去當女團偶像?",
@@ -192,16 +202,6 @@
       "board": "Gossiping",
       "publishTime": "2026/10/24 02:38",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "185",
-      "recommendCount": "197",
-      "title": "[問卦] 健人蓋伊扛起140公斤美少女（發錢）",
-      "link": "/bbs/Gossiping/M.1792849881.A.E1A",
-      "author": "BIA",
-      "board": "Gossiping",
-      "publishTime": "2026/10/24 13:51",
-      "imageUrl": "https://cache.pttweb.cc/imgur/vW7gTTS/s/bc6dc7e0a6f56ef097c608798a45a1dd"
     }
   ]
 }
