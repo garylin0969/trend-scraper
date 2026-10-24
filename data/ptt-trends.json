@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T17:30:04.544Z",
+  "updated": "2026-10-24T17:39:05.866Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "398",
+      "recommendScore": "208",
+      "recommendCount": "399",
       "title": "[新聞] iPhone Duo災情！　苦主曝「同一位置」狂裂：不到6小時就GG",
       "link": "/bbs/Gossiping/M.1792817437.A.436",
       "author": "crashonU",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "107",
-      "recommendCount": "250",
+      "recommendScore": "109",
+      "recommendCount": "254",
       "title": "[新聞] 徐佳青捲晚會慶生爭議　網湧賴清德臉書怒批：要查了嗎？",
       "link": "/bbs/Gossiping/M.1792846916.A.44B",
       "author": "kenny1300175",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "175",
+      "recommendCount": "186",
+      "title": "[問卦] 健人蓋伊扛起140公斤美少女（發錢）",
+      "link": "/bbs/Gossiping/M.1792849881.A.E1A",
+      "author": "BIA",
+      "board": "Gossiping",
+      "publishTime": "2026/10/24 13:51",
+      "imageUrl": "https://cache.pttweb.cc/imgur/vW7gTTS/s/bc6dc7e0a6f56ef097c608798a45a1dd"
+    },
+    {
       "recommendScore": "159",
       "recommendCount": "248",
       "title": "[閒聊] 日本史：信長在本能寺被光秀襲擊第一句話",
@@ -192,16 +202,6 @@
       "board": "C_Chat",
       "publishTime": "2026/10/24 10:13",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "171",
-      "recommendCount": "182",
-      "title": "[問卦] 健人蓋伊扛起140公斤美少女（發錢）",
-      "link": "/bbs/Gossiping/M.1792849881.A.E1A",
-      "author": "BIA",
-      "board": "Gossiping",
-      "publishTime": "2026/10/24 13:51",
-      "imageUrl": "https://cache.pttweb.cc/imgur/vW7gTTS/s/bc6dc7e0a6f56ef097c608798a45a1dd"
     }
   ]
 }
