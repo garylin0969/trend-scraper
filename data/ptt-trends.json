@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T14:10:09.997Z",
+  "updated": "2026-10-24T14:22:16.697Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "227",
-      "recommendCount": "543",
+      "recommendScore": "236",
+      "recommendCount": "554",
       "title": "[請益] 台股真的不會再回到三萬多點嗎？",
       "link": "/bbs/Stock/M.1792830820.A.34F",
       "author": "aza0290",
@@ -124,24 +124,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "130",
-      "recommendCount": "309",
+      "recommendScore": "131",
+      "recommendCount": "310",
       "title": "[新聞] 川普警告伊朗不談判就再打！揚言來一場小規模史詩怒火行動",
       "link": "/bbs/Stock/M.1792806880.A.375",
       "author": "largan6075",
       "board": "Stock",
       "publishTime": "2026/10/24 01:54",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "523",
-      "recommendCount": "805",
-      "title": "[颱風] 薔琵颱風 海上陸上颱風警報 第16-2報",
-      "link": "/bbs/TY_Research/M.1792765165.A.35B",
-      "author": "willyer",
-      "board": "TY_Research",
-      "publishTime": "2026/10/23 14:19",
-      "imageUrl": "https://cache.pttweb.cc/imgur/e39OTEp/s/f9241c6f0ff842b8d6a50f216b99f559"
     },
     {
       "recommendScore": "181",
@@ -201,6 +191,16 @@
       "author": "took",
       "board": "Gossiping",
       "publishTime": "2026/10/23 17:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "153",
+      "recommendCount": "223",
+      "title": "[新聞] 通過薔琵考驗　新竹棒球場最新畫面曝：雨停後水快速排光",
+      "link": "/bbs/Baseball/M.1792832646.A.3D4",
+      "author": "JAL96",
+      "board": "Baseball",
+      "publishTime": "2026/10/24 09:04",
       "imageUrl": ""
     }
   ]
