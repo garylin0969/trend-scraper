@@ -1,6 +1,11 @@
 {
-  "updated": "2026-10-24T23:15:00.785Z",
+  "updated": "2026-10-24T23:37:59.364Z",
   "trends": [
+    {
+      "googleTrend": "76人 對 公鹿",
+      "searchVolume": "500+",
+      "started": "20 分鐘前"
+    },
     {
       "googleTrend": "台 股",
       "searchVolume": "500+",
@@ -24,7 +29,12 @@
     {
       "googleTrend": "新竹天氣",
       "searchVolume": "100+",
-      "started": "20 分鐘前"
+      "started": "40 分鐘前"
+    },
+    {
+      "googleTrend": "taipei weather",
+      "searchVolume": "100+",
+      "started": "1 小時前"
     },
     {
       "googleTrend": "f1",
@@ -34,7 +44,7 @@
     {
       "googleTrend": "金價",
       "searchVolume": "100+",
-      "started": "1 小時前"
+      "started": "2 小時前"
     }
   ]
 }
