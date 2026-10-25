@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T17:39:33.855Z",
+  "updated": "2026-10-25T17:46:38.159Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -75,7 +75,7 @@
     },
     {
       "recommendScore": "183",
-      "recommendCount": "561",
+      "recommendCount": "568",
       "title": "[新聞] 蔡康永澄清「從未挺台獨」！現身沈伯洋造勢遭中國封殺道歉",
       "link": "/bbs/Gossiping/M.1792939068.A.25F",
       "author": "benoaico",
@@ -85,7 +85,7 @@
     },
     {
       "recommendScore": "258",
-      "recommendCount": "636",
+      "recommendCount": "640",
       "title": "[問卦] 馬斯克：澤倫斯基他媽的智障",
       "link": "/bbs/Gossiping/M.1792929368.A.E8C",
       "author": "bluehttp",
@@ -124,8 +124,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "265",
-      "recommendCount": "289",
+      "recommendScore": "691",
+      "recommendCount": "1330",
+      "title": "[電競] 2026 World Championship 瑞士輪 Day 3",
+      "link": "/bbs/LoL/M.1792935118.A.40A",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2026/10/25 13:31",
+      "imageUrl": "https://cache.pttweb.cc/imgur/OQaz3su/s/44888710cda644a7f53a802d128d0eba"
+    },
+    {
+      "recommendScore": "266",
+      "recommendCount": "290",
       "title": "[祭品]  天時地利人和-兄弟絕境逆轉讓三追四的話",
       "link": "/bbs/Baseball/M.1792934074.A.484",
       "author": "dinosaur8484",
@@ -191,16 +201,6 @@
       "author": "hsuaninteen",
       "board": "Baseball",
       "publishTime": "2026/10/25 11:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "53",
-      "recommendCount": "363",
-      "title": "[新聞] 僑委會澄清:徐佳青過生日 唱首生日快樂歌合情理",
-      "link": "/bbs/Gossiping/M.1792922309.A.019",
-      "author": "au4g3wk4k",
-      "board": "Gossiping",
-      "publishTime": "2026/10/25 09:58",
       "imageUrl": ""
     }
   ]
