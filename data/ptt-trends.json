@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T18:47:41.779Z",
+  "updated": "2026-10-25T18:54:50.277Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "187",
-      "recommendCount": "598",
+      "recommendScore": "188",
+      "recommendCount": "604",
       "title": "[新聞] 蔡康永澄清「從未挺台獨」！現身沈伯洋造勢遭中國封殺道歉",
       "link": "/bbs/Gossiping/M.1792939068.A.25F",
       "author": "benoaico",
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "727",
+      "recommendCount": "1331",
+      "title": "[電競] 2026 World Championship 瑞士輪 Day 3",
+      "link": "/bbs/LoL/M.1792935118.A.40A",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2026/10/25 13:31",
+      "imageUrl": "https://cache.pttweb.cc/imgur/OQaz3su/s/44888710cda644a7f53a802d128d0eba"
+    },
+    {
       "recommendScore": "253",
       "recommendCount": "415",
       "title": "[情報] G7在桃園球場",
@@ -122,16 +132,6 @@
       "board": "Baseball",
       "publishTime": "2026/10/25 12:31",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "714",
-      "recommendCount": "1331",
-      "title": "[電競] 2026 World Championship 瑞士輪 Day 3",
-      "link": "/bbs/LoL/M.1792935118.A.40A",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2026/10/25 13:31",
-      "imageUrl": "https://cache.pttweb.cc/imgur/OQaz3su/s/44888710cda644a7f53a802d128d0eba"
     },
     {
       "recommendScore": "269",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "177",
-      "recommendCount": "313",
-      "title": "[情報] 呂彥青 劇場（BS",
-      "link": "/bbs/Baseball/M.1792927026.A.74E",
-      "author": "hsuaninteen",
-      "board": "Baseball",
-      "publishTime": "2026/10/25 11:17",
+      "recommendScore": "54",
+      "recommendCount": "365",
+      "title": "[新聞] 僑委會澄清:徐佳青過生日 唱首生日快樂歌合情理",
+      "link": "/bbs/Gossiping/M.1792922309.A.019",
+      "author": "au4g3wk4k",
+      "board": "Gossiping",
+      "publishTime": "2026/10/25 09:58",
       "imageUrl": ""
     }
   ]
