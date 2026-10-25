@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T19:17:50.097Z",
+  "updated": "2026-10-25T19:26:52.359Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "190",
-      "recommendCount": "792",
+      "recommendCount": "793",
       "title": "[新聞] 徐佳青壽宴遭抹黑？僑委怒駁「回台吃香喝辣」：47人捐回補助",
       "link": "/bbs/Gossiping/M.1792914657.A.73B",
       "author": "william8403",
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "190",
-      "recommendCount": "614",
+      "recommendScore": "191",
+      "recommendCount": "617",
       "title": "[新聞] 蔡康永澄清「從未挺台獨」！現身沈伯洋造勢遭中國封殺道歉",
       "link": "/bbs/Gossiping/M.1792939068.A.25F",
       "author": "benoaico",
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "139",
+      "recommendCount": "399",
+      "title": "[討論] 完了，真的洋流外溢變海嘯，新竹真的太扯",
+      "link": "/bbs/HatePolitics/M.1792895266.A.A21",
+      "author": "nicholas0406",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/25 02:27",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "420",
       "recommendCount": "1138",
       "title": "[轉播] 九局上 兄弟 3:3 味全",
@@ -174,13 +184,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "139",
-      "recommendCount": "398",
-      "title": "[討論] 完了，真的洋流外溢變海嘯，新竹真的太扯",
-      "link": "/bbs/HatePolitics/M.1792895266.A.A21",
-      "author": "nicholas0406",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/25 02:27",
+      "recommendScore": "55",
+      "recommendCount": "370",
+      "title": "[新聞] 僑委會澄清:徐佳青過生日 唱首生日快樂歌合情理",
+      "link": "/bbs/Gossiping/M.1792922309.A.019",
+      "author": "au4g3wk4k",
+      "board": "Gossiping",
+      "publishTime": "2026/10/25 09:58",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "lovea",
       "board": "Gossiping",
       "publishTime": "2026/10/25 00:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "55",
-      "recommendCount": "368",
-      "title": "[新聞] 僑委會澄清:徐佳青過生日 唱首生日快樂歌合情理",
-      "link": "/bbs/Gossiping/M.1792922309.A.019",
-      "author": "au4g3wk4k",
-      "board": "Gossiping",
-      "publishTime": "2026/10/25 09:58",
       "imageUrl": ""
     }
   ]
