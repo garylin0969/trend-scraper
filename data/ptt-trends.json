@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T01:39:52.770Z",
+  "updated": "2026-10-25T01:57:03.541Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -25,13 +25,23 @@
     },
     {
       "recommendScore": "259",
-      "recommendCount": "654",
+      "recommendCount": "655",
       "title": "[請益] 台股真的不會再回到三萬多點嗎？",
       "link": "/bbs/Stock/M.1792830820.A.34F",
       "author": "aza0290",
       "board": "Stock",
       "publishTime": "2026/10/24 08:33",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "203",
+      "recommendCount": "1052",
+      "title": "Re: [新聞] 「沈伯洋其實已經贏了」呱吉曝北市選戰變化：原本低迷打到這種熱度",
+      "link": "/bbs/Gossiping/M.1792858308.A.5C9",
+      "author": "renna038766",
+      "board": "Gossiping",
+      "publishTime": "2026/10/24 16:11",
+      "imageUrl": "https://cache.pttweb.cc/imgur/vi8oIYs/s/ecd5bd5ca8d22f5d557d25da923ec97b"
     },
     {
       "recommendScore": "386",
@@ -44,17 +54,17 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "202",
-      "recommendCount": "1023",
-      "title": "Re: [新聞] 「沈伯洋其實已經贏了」呱吉曝北市選戰變化：原本低迷打到這種熱度",
-      "link": "/bbs/Gossiping/M.1792858308.A.5C9",
-      "author": "renna038766",
+      "recommendScore": "210",
+      "recommendCount": "404",
+      "title": "[新聞] iPhone Duo災情！　苦主曝「同一位置」狂裂：不到6小時就GG",
+      "link": "/bbs/Gossiping/M.1792817437.A.436",
+      "author": "crashonU",
       "board": "Gossiping",
-      "publishTime": "2026/10/24 16:11",
-      "imageUrl": "https://cache.pttweb.cc/imgur/vi8oIYs/s/ecd5bd5ca8d22f5d557d25da923ec97b"
+      "publishTime": "2026/10/24 04:50",
+      "imageUrl": ""
     },
     {
-      "recommendScore": "643",
+      "recommendScore": "625",
       "recommendCount": "1324",
       "title": "[電競] 2026 World Championship 瑞士輪 Day 2",
       "link": "/bbs/LoL/M.1792847473.A.92B",
@@ -64,18 +74,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ttYKDJ0/s/3d021316aeac1575eeb6e4653617c33d"
     },
     {
-      "recommendScore": "209",
-      "recommendCount": "401",
-      "title": "[新聞] iPhone Duo災情！　苦主曝「同一位置」狂裂：不到6小時就GG",
-      "link": "/bbs/Gossiping/M.1792817437.A.436",
-      "author": "crashonU",
-      "board": "Gossiping",
-      "publishTime": "2026/10/24 04:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "75",
-      "recommendCount": "365",
+      "recommendScore": "76",
+      "recommendCount": "366",
       "title": "[新聞] 藍白剉咧等！「洋流」外溢全台 沈伯洋助攻「這2市」拚翻轉",
       "link": "/bbs/Gossiping/M.1792828328.A.D0D",
       "author": "eunhailoveu",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "169",
-      "recommendCount": "455",
+      "recommendScore": "170",
+      "recommendCount": "458",
       "title": "[問卦] 現在人死了連骨灰都不要了",
       "link": "/bbs/Gossiping/M.1792812288.A.67E",
       "author": "Goo4u",
@@ -114,18 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "136",
-      "recommendCount": "318",
-      "title": "[新聞] 川普警告伊朗不談判就再打！揚言來一場小規模史詩怒火行動",
-      "link": "/bbs/Stock/M.1792806880.A.375",
-      "author": "largan6075",
-      "board": "Stock",
-      "publishTime": "2026/10/24 01:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "136",
-      "recommendCount": "311",
+      "recommendScore": "135",
+      "recommendCount": "312",
       "title": "[新聞] 徐佳青捲晚會慶生爭議　網湧賴清德臉書怒批：要查了嗎？",
       "link": "/bbs/Gossiping/M.1792846916.A.44B",
       "author": "kenny1300175",
@@ -134,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "216",
-      "recommendCount": "229",
+      "recommendScore": "217",
+      "recommendCount": "231",
       "title": "[問卦] 健人蓋伊扛起140公斤美少女（發錢）",
       "link": "/bbs/Gossiping/M.1792849881.A.E1A",
       "author": "BIA",
@@ -144,8 +134,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/vW7gTTS/s/bc6dc7e0a6f56ef097c608798a45a1dd"
     },
     {
-      "recommendScore": "181",
-      "recommendCount": "256",
+      "recommendScore": "182",
+      "recommendCount": "257",
       "title": "[新聞] 通過薔琵考驗　新竹棒球場最新畫面曝：雨停後水快速排光",
       "link": "/bbs/Baseball/M.1792832646.A.3D4",
       "author": "JAL96",
@@ -201,6 +191,16 @@
       "author": "LABOYS",
       "board": "C_Chat",
       "publishTime": "2026/10/24 10:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "125",
+      "recommendCount": "469",
+      "title": "[討論] 蔣萬安是哪個點開始翻轉的？",
+      "link": "/bbs/HatePolitics/M.1792843749.A.603",
+      "author": "siahlin",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/24 12:09",
       "imageUrl": ""
     }
   ]
