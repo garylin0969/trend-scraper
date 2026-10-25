@@ -1,8 +1,18 @@
 {
-  "updated": "2026-10-25T07:45:56.886Z",
+  "updated": "2026-10-25T07:53:29.466Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "326",
+      "recommendCount": "982",
+      "title": "[新聞] 心臟名醫朱志生車禍「掙扎爬起」騎士冷默",
+      "link": "/bbs/Gossiping/M.1792904312.A.484",
+      "author": "pchunters",
+      "board": "Gossiping",
+      "publishTime": "2026/10/25 04:58",
+      "imageUrl": "https://cache.pttweb.cc/imgur/vi8oIYs/s/ecd5bd5ca8d22f5d557d25da923ec97b"
+    },
     {
       "recommendScore": "353",
       "recommendCount": "670",
@@ -11,16 +21,6 @@
       "author": "kent",
       "board": "Gossiping",
       "publishTime": "2026/10/25 02:54",
-      "imageUrl": "https://cache.pttweb.cc/imgur/vi8oIYs/s/ecd5bd5ca8d22f5d557d25da923ec97b"
-    },
-    {
-      "recommendScore": "309",
-      "recommendCount": "934",
-      "title": "[新聞] 心臟名醫朱志生車禍「掙扎爬起」騎士冷默",
-      "link": "/bbs/Gossiping/M.1792904312.A.484",
-      "author": "pchunters",
-      "board": "Gossiping",
-      "publishTime": "2026/10/25 04:58",
       "imageUrl": ""
     },
     {
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "172",
-      "recommendCount": "504",
+      "recommendScore": "171",
+      "recommendCount": "506",
       "title": "[新聞] 比照柯文哲案羈押沈伯洋！陳佩琪再酸：才符合綠掛嘴邊公平正義",
       "link": "/bbs/Gossiping/M.1792891315.A.E6A",
       "author": "kenny1300175",
@@ -84,18 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "77",
-      "recommendCount": "371",
-      "title": "[新聞] 藍白剉咧等！「洋流」外溢全台 沈伯洋助攻「這2市」拚翻轉",
-      "link": "/bbs/Gossiping/M.1792828328.A.D0D",
-      "author": "eunhailoveu",
-      "board": "Gossiping",
-      "publishTime": "2026/10/24 07:52",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "39",
-      "recommendCount": "420",
+      "recommendScore": "37",
+      "recommendCount": "433",
       "title": "[新聞] 百位僑務委員連署！秀單據駁幫徐佳青公帑慶生　談中共打壓數度哽咽",
       "link": "/bbs/Gossiping/M.1792905589.A.C42",
       "author": "seiya2000",
@@ -114,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "130",
-      "recommendCount": "374",
+      "recommendScore": "131",
+      "recommendCount": "378",
       "title": "[討論] 完了，真的洋流外溢變海嘯，新竹真的太扯",
       "link": "/bbs/HatePolitics/M.1792895266.A.A21",
       "author": "nicholas0406",
@@ -124,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "232",
-      "recommendCount": "247",
+      "recommendScore": "233",
+      "recommendCount": "248",
       "title": "[問卦] 健人蓋伊扛起140公斤美少女（發錢）",
       "link": "/bbs/Gossiping/M.1792849881.A.E1A",
       "author": "BIA",
@@ -134,8 +124,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/vW7gTTS/s/bc6dc7e0a6f56ef097c608798a45a1dd"
     },
     {
-      "recommendScore": "174",
-      "recommendCount": "567",
+      "recommendScore": "176",
+      "recommendCount": "570",
       "title": "[新聞] 澤倫斯基拒割讓25％領土　強調：不會為了結束衝突而妥協",
       "link": "/bbs/Gossiping/M.1792889448.A.42F",
       "author": "lovea",
@@ -144,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "222",
-      "recommendCount": "245",
+      "recommendScore": "223",
+      "recommendCount": "246",
       "title": "[討論] 發錢 猜G5勝隊及比數",
       "link": "/bbs/Baseball/M.1792890675.A.102",
       "author": "ben1013",
@@ -164,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "140",
-      "recommendCount": "348",
+      "recommendScore": "143",
+      "recommendCount": "352",
       "title": "[新聞] 沈伯洋拋市民大道「南北縫合」 柯文哲：愚人問題智者無法回答",
       "link": "/bbs/Gossiping/M.1792899030.A.00E",
       "author": "jal0309",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2026/10/24 10:45",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "96",
+      "recommendCount": "257",
+      "title": "[問卦] 新任007 最終名單3選1，大家選誰?",
+      "link": "/bbs/Gossiping/M.1792830757.A.99C",
+      "author": "PaulDavis",
+      "board": "Gossiping",
+      "publishTime": "2026/10/24 08:32",
+      "imageUrl": "https://cache.pttweb.cc/imgur/iuLVUDC/s/a185bb2940ca74eb1d6fd1a97c3ce1e3"
     }
   ]
 }
