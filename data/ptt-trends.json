@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-25T14:23:26.538Z",
+  "updated": "2026-10-25T14:37:08.359Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "541",
+      "recommendScore": "542",
       "recommendCount": "1488",
       "title": "[新聞] 心臟名醫朱志生車禍「掙扎爬起」騎士冷默",
       "link": "/bbs/Gossiping/M.1792904312.A.484",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "261",
-      "recommendCount": "1233",
+      "recommendScore": "262",
+      "recommendCount": "1235",
       "title": "Re: [新聞] 「沈伯洋其實已經贏了」呱吉曝北市選戰變化：原本低迷打到這種熱度",
       "link": "/bbs/Gossiping/M.1792858308.A.5C9",
       "author": "renna038766",
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "188",
-      "recommendCount": "770",
+      "recommendCount": "773",
       "title": "[新聞] 徐佳青壽宴遭抹黑？僑委怒駁「回台吃香喝辣」：47人捐回補助",
       "link": "/bbs/Gossiping/M.1792914657.A.73B",
       "author": "william8403",
@@ -94,8 +94,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "243",
-      "recommendCount": "399",
+      "recommendScore": "295",
+      "recommendCount": "312",
+      "title": "Re: [推薦] 足球[小律師]佛倫提那 @ 國際米蘭",
+      "link": "/bbs/SportLottery/M.1792935020.A.4E9",
+      "author": "lotterywin",
+      "board": "SportLottery",
+      "publishTime": "2026/10/25 13:30",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "245",
+      "recommendCount": "404",
       "title": "[情報] G7在桃園球場",
       "link": "/bbs/Baseball/M.1792931501.A.963",
       "author": "YuiiAnitima",
@@ -134,18 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "251",
-      "recommendCount": "267",
-      "title": "Re: [推薦] 足球[小律師]佛倫提那 @ 國際米蘭",
-      "link": "/bbs/SportLottery/M.1792935020.A.4E9",
-      "author": "lotterywin",
-      "board": "SportLottery",
-      "publishTime": "2026/10/25 13:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "108",
-      "recommendCount": "385",
+      "recommendScore": "107",
+      "recommendCount": "387",
       "title": "[新聞] 如何破解跨國鎮壓？ 李明哲建議有罪推定、避免孤立受害者",
       "link": "/bbs/Gossiping/M.1792905693.A.19D",
       "author": "MikaHakkinen",
@@ -174,13 +174,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "191",
-      "recommendCount": "462",
+      "recommendScore": "197",
+      "recommendCount": "486",
       "title": "[問卦] 馬斯克：澤倫斯基他媽的智障",
       "link": "/bbs/Gossiping/M.1792929368.A.E8C",
       "author": "bluehttp",
       "board": "Gossiping",
       "publishTime": "2026/10/25 11:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "48",
+      "recommendCount": "337",
+      "title": "[新聞] 僑委會澄清:徐佳青過生日 唱首生日快樂歌合情理",
+      "link": "/bbs/Gossiping/M.1792922309.A.019",
+      "author": "au4g3wk4k",
+      "board": "Gossiping",
+      "publishTime": "2026/10/25 09:58",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "ben1013",
       "board": "Baseball",
       "publishTime": "2026/10/25 01:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "50",
-      "recommendCount": "335",
-      "title": "[新聞] 僑委會澄清:徐佳青過生日 唱首生日快樂歌合情理",
-      "link": "/bbs/Gossiping/M.1792922309.A.019",
-      "author": "au4g3wk4k",
-      "board": "Gossiping",
-      "publishTime": "2026/10/25 09:58",
       "imageUrl": ""
     }
   ]
