@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-26T07:09:51.140Z",
+  "updated": "2026-10-26T07:40:53.410Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "242",
-      "recommendCount": "793",
+      "recommendScore": "243",
+      "recommendCount": "794",
       "title": "[新聞] 蔡康永澄清「從未挺台獨」！現身沈伯洋造勢遭中國封殺道歉",
       "link": "/bbs/Gossiping/M.1792939068.A.25F",
       "author": "benoaico",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "355",
-      "recommendCount": "498",
+      "recommendScore": "372",
+      "recommendCount": "520",
       "title": "Re: [爆卦] 新竹漁港禁航區出現沈伯洋造勢空拍畫面",
       "link": "/bbs/Gossiping/M.1792979700.A.B06",
       "author": "tvbb",
@@ -45,12 +45,22 @@
     },
     {
       "recommendScore": "288",
-      "recommendCount": "491",
+      "recommendCount": "493",
       "title": "[爆卦] 新竹漁港禁航區出現沈伯洋造勢空拍畫面",
       "link": "/bbs/Gossiping/M.1792972358.A.64A",
       "author": "BMWi3",
       "board": "Gossiping",
       "publishTime": "2026/10/25 23:52",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "274",
+      "recommendCount": "547",
+      "title": "[情報] LBJ：我來這裡不是為了長期打中鋒",
+      "link": "/bbs/NBA/M.1792984992.A.F47",
+      "author": "shaaan",
+      "board": "NBA",
+      "publishTime": "2026/10/26 03:23",
       "imageUrl": ""
     },
     {
@@ -64,16 +74,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "271",
-      "recommendCount": "539",
-      "title": "[情報] LBJ：我來這裡不是為了長期打中鋒",
-      "link": "/bbs/NBA/M.1792984992.A.F47",
-      "author": "shaaan",
-      "board": "NBA",
-      "publishTime": "2026/10/26 03:23",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "347",
       "recommendCount": "1209",
       "title": "[轉播] 七局下 兄弟 3:1 味全 Go",
@@ -81,6 +81,16 @@
       "author": "msarthur",
       "board": "Elephants",
       "publishTime": "2026/10/25 11:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "260",
+      "recommendCount": "394",
+      "title": "[問卦]玩過什麼PC Game代表你已經是老人了？",
+      "link": "/bbs/Gossiping/M.1792987123.A.342",
+      "author": "XDGEE",
+      "board": "Gossiping",
+      "publishTime": "2026/10/26 03:58",
       "imageUrl": ""
     },
     {
@@ -94,16 +104,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/OQaz3su/s/44888710cda644a7f53a802d128d0eba"
     },
     {
-      "recommendScore": "248",
-      "recommendCount": "380",
-      "title": "[問卦]玩過什麼PC Game代表你已經是老人了？",
-      "link": "/bbs/Gossiping/M.1792987123.A.342",
-      "author": "XDGEE",
-      "board": "Gossiping",
-      "publishTime": "2026/10/26 03:58",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "293",
       "recommendCount": "338",
       "title": "[閒聊] 菲力士連續兩場勝投",
@@ -115,7 +115,7 @@
     },
     {
       "recommendScore": "273",
-      "recommendCount": "506",
+      "recommendCount": "509",
       "title": "[情報] JDub被擔架抬出場",
       "link": "/bbs/NBA/M.1792977640.A.03C",
       "author": "star880613",
@@ -125,7 +125,7 @@
     },
     {
       "recommendScore": "286",
-      "recommendCount": "312",
+      "recommendCount": "313",
       "title": "[祭品]  天時地利人和-兄弟絕境逆轉讓三追四的話",
       "link": "/bbs/Baseball/M.1792934074.A.484",
       "author": "dinosaur8484",
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "159",
+      "recommendCount": "442",
+      "title": "[新聞] 心臟名醫朱志生摔車亡！友悲曝「曾掙扎爬起」：本有機會存活痊癒",
+      "link": "/bbs/Gossiping/M.1792928556.A.821",
+      "author": "s910222",
+      "board": "Gossiping",
+      "publishTime": "2026/10/25 11:42",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "57",
       "recommendCount": "387",
       "title": "[新聞] 僑委會澄清:徐佳青過生日 唱首生日快樂歌合情理",
@@ -151,16 +161,6 @@
       "author": "au4g3wk4k",
       "board": "Gossiping",
       "publishTime": "2026/10/25 09:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "157",
-      "recommendCount": "440",
-      "title": "[新聞] 心臟名醫朱志生摔車亡！友悲曝「曾掙扎爬起」：本有機會存活痊癒",
-      "link": "/bbs/Gossiping/M.1792928556.A.821",
-      "author": "s910222",
-      "board": "Gossiping",
-      "publishTime": "2026/10/25 11:42",
       "imageUrl": ""
     },
     {
@@ -174,18 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "420",
-      "recommendCount": "1138",
-      "title": "[轉播] 九局上 兄弟 3:3 味全",
-      "link": "/bbs/Elephants/M.1792929014.A.C0E",
-      "author": "msarthur",
-      "board": "Elephants",
-      "publishTime": "2026/10/25 11:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "232",
-      "recommendCount": "481",
+      "recommendScore": "235",
+      "recommendCount": "485",
       "title": "[BOX ] Pistons 106:93 76ers",
       "link": "/bbs/NBA/M.1792980796.A.7DA",
       "author": "jason911152",
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "169",
-      "recommendCount": "398",
+      "recommendScore": "172",
+      "recommendCount": "403",
       "title": "[問卦] 法院教我們冷漠？",
       "link": "/bbs/Gossiping/M.1792977120.A.5AC",
       "author": "popo1234",
       "board": "Gossiping",
       "publishTime": "2026/10/26 01:12",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "420",
+      "recommendCount": "1138",
+      "title": "[轉播] 九局上 兄弟 3:3 味全",
+      "link": "/bbs/Elephants/M.1792929014.A.C0E",
+      "author": "msarthur",
+      "board": "Elephants",
+      "publishTime": "2026/10/25 11:50",
       "imageUrl": ""
     }
   ]
