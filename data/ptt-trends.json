@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T13:58:40.818Z",
+  "updated": "2026-10-27T14:22:01.419Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "334",
-      "recommendCount": "607",
+      "recommendScore": "338",
+      "recommendCount": "617",
       "title": "[新聞] 獨／河口湖命案追蹤！主嫌分身帳號  赫見",
       "link": "/bbs/Gossiping/M.1793095820.A.B53",
       "author": "clw8",
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "152",
-      "recommendCount": "624",
+      "recommendCount": "626",
       "title": "[新聞] 國民黨會哭出來！最新民調「六都僅1市盼藍營執政」驚人數據來了",
       "link": "/bbs/Gossiping/M.1793075688.A.839",
       "author": "eunhailoveu",
@@ -34,8 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "275",
-      "recommendCount": "489",
+      "recommendScore": "276",
+      "recommendCount": "491",
       "title": "[新聞] 川普又點名台灣偷晶片！直指「價格荒謬」",
       "link": "/bbs/Stock/M.1793062151.A.616",
       "author": "Gavatzky",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "327",
-      "recommendCount": "388",
+      "recommendScore": "328",
+      "recommendCount": "389",
       "title": "[新聞] MLB／釀酒人教頭精心策畫 伍鐸夫從一度本季報銷到世界大賽登板",
       "link": "/bbs/Baseball/M.1793077402.A.8F2",
       "author": "betweenus020",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "156",
-      "recommendCount": "533",
+      "recommendScore": "155",
+      "recommendCount": "534",
       "title": "[新聞] 要講幾次？川普又點名台灣偷晶片：他們的價格極其荒謬",
       "link": "/bbs/Gossiping/M.1793051416.A.E3F",
       "author": "hbl420ii",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "7",
-      "recommendCount": "487",
+      "recommendScore": "10",
+      "recommendCount": "491",
       "title": "[新聞] 吳欣岱：不要再說台灣是光復了　只是從被殖民轉換到更悲慘狀態",
       "link": "/bbs/Gossiping/M.1793055924.A.5F3",
       "author": "betweenus020",
@@ -85,7 +85,7 @@
     },
     {
       "recommendScore": "161",
-      "recommendCount": "393",
+      "recommendCount": "396",
       "title": "[新聞] 曹興誠：沈伯洋展現「菩薩精神」、洋流像信徒參與媽祖遶境",
       "link": "/bbs/Gossiping/M.1793085226.A.EDA",
       "author": "stoneruler",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "156",
-      "recommendCount": "776",
+      "recommendScore": "155",
+      "recommendCount": "778",
       "title": "[討論] 我到現在不太懂為啥賴清德好感這麼高?",
       "link": "/bbs/HatePolitics/M.1793071295.A.D6A",
       "author": "kuninaka",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "193",
-      "recommendCount": "284",
+      "recommendScore": "194",
+      "recommendCount": "286",
       "title": "[新聞] 高雄市長抽籤抽中5號 賴瑞隆：吉祥數字",
       "link": "/bbs/Gossiping/M.1793068516.A.5F4",
       "author": "ptt987654321",
@@ -124,8 +124,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "133",
-      "recommendCount": "390",
+      "recommendScore": "191",
+      "recommendCount": "349",
+      "title": "[新聞] 河口湖命案／主嫌「臉書好友圈」曝光",
+      "link": "/bbs/Gossiping/M.1793098224.A.E2A",
+      "author": "touyuan",
+      "board": "Gossiping",
+      "publishTime": "2026/10/27 10:50",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "134",
+      "recommendCount": "392",
       "title": "[新聞] 菲律賓重申一中政策　稱未與台討論合作保護海底設施",
       "link": "/bbs/Gossiping/M.1793077433.A.316",
       "author": "noposo",
@@ -144,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "183",
-      "recommendCount": "337",
-      "title": "[新聞] 河口湖命案／主嫌「臉書好友圈」曝光",
-      "link": "/bbs/Gossiping/M.1793098224.A.E2A",
-      "author": "touyuan",
-      "board": "Gossiping",
-      "publishTime": "2026/10/27 10:50",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "162",
       "recommendCount": "506",
       "title": "[分享] FB 蔡其昌會長聲明",
@@ -161,6 +161,16 @@
       "author": "chyx741021",
       "board": "Baseball",
       "publishTime": "2026/10/26 15:25",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "194",
+      "recommendCount": "533",
+      "title": "[討論] 蔣萬安怒了：非常粗暴",
+      "link": "/bbs/HatePolitics/M.1793087194.A.FA8",
+      "author": "oftheday",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/27 07:46",
       "imageUrl": ""
     },
     {
@@ -174,13 +184,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "194",
-      "recommendCount": "532",
-      "title": "[討論] 蔣萬安怒了：非常粗暴",
-      "link": "/bbs/HatePolitics/M.1793087194.A.FA8",
-      "author": "oftheday",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/27 07:46",
+      "recommendScore": "221",
+      "recommendCount": "251",
+      "title": "[推投] BLEACH死神 最喜歡女角「1票」",
+      "link": "/bbs/C_Chat/M.1793094309.A.7B9",
+      "author": "MrSatan",
+      "board": "C_Chat",
+      "publishTime": "2026/10/27 09:45",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "carlchang092",
       "board": "Baseball",
       "publishTime": "2026/10/27 01:44",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "216",
-      "recommendCount": "246",
-      "title": "[推投] BLEACH死神 最喜歡女角「1票」",
-      "link": "/bbs/C_Chat/M.1793094309.A.7B9",
-      "author": "MrSatan",
-      "board": "C_Chat",
-      "publishTime": "2026/10/27 09:45",
       "imageUrl": ""
     }
   ]
