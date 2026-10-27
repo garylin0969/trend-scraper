@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T13:48:15.112Z",
+  "updated": "2026-10-27T13:58:40.818Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "219",
-      "recommendCount": "414",
+      "recommendCount": "415",
       "title": "[新聞]北京大學等10校學生發聲明　籲廢除中國國家主席無限期延任制",
       "link": "/bbs/Gossiping/M.1793061868.A.34C",
       "author": "joanzkow",
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "201",
+      "recommendCount": "330",
+      "title": "[BOX ] Mavericks 113:109 Heat",
+      "link": "/bbs/NBA/M.1793066697.A.38D",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2026/10/27 02:04",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "183",
       "recommendCount": "337",
       "title": "[新聞] 河口湖命案／主嫌「臉書好友圈」曝光",
@@ -141,16 +151,6 @@
       "author": "touyuan",
       "board": "Gossiping",
       "publishTime": "2026/10/27 10:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "200",
-      "recommendCount": "329",
-      "title": "[BOX ] Mavericks 113:109 Heat",
-      "link": "/bbs/NBA/M.1793066697.A.38D",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2026/10/27 02:04",
       "imageUrl": ""
     },
     {
