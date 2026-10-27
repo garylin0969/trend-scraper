@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T11:44:16.518Z",
+  "updated": "2026-10-27T11:55:56.519Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -124,16 +124,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "119",
-      "recommendCount": "350",
-      "title": "[新聞] 魏應交封王致詞惹議！稱「給兄弟一點希望」　感謝葉君璋精心策劃",
-      "link": "/bbs/Baseball/M.1793015530.A.ABA",
-      "author": "CREA",
-      "board": "Baseball",
-      "publishTime": "2026/10/26 11:52",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "187",
       "recommendCount": "276",
       "title": "[新聞] 高雄市長抽籤抽中5號 賴瑞隆：吉祥數字",
@@ -201,6 +191,16 @@
       "author": "carlchang092",
       "board": "Baseball",
       "publishTime": "2026/10/27 01:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "121",
+      "recommendCount": "369",
+      "title": "[新聞] 菲律賓重申一中政策　稱未與台討論合作保護海底設施",
+      "link": "/bbs/Gossiping/M.1793077433.A.316",
+      "author": "noposo",
+      "board": "Gossiping",
+      "publishTime": "2026/10/27 05:03",
       "imageUrl": ""
     }
   ]
