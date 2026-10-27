@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T14:44:29.336Z",
+  "updated": "2026-10-27T14:58:19.546Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "344",
-      "recommendCount": "633",
+      "recommendScore": "345",
+      "recommendCount": "634",
       "title": "[新聞] 獨／河口湖命案追蹤！主嫌分身帳號  赫見",
       "link": "/bbs/Gossiping/M.1793095820.A.B53",
       "author": "clw8",
@@ -75,7 +75,7 @@
     },
     {
       "recommendScore": "10",
-      "recommendCount": "491",
+      "recommendCount": "492",
       "title": "[新聞] 吳欣岱：不要再說台灣是光復了　只是從被殖民轉換到更悲慘狀態",
       "link": "/bbs/Gossiping/M.1793055924.A.5F3",
       "author": "betweenus020",
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "151",
-      "recommendCount": "607",
+      "recommendCount": "609",
       "title": "[討論] 歡呼！行政院宣布不副署老人免健保費！",
       "link": "/bbs/HatePolitics/M.1793088767.A.4B1",
       "author": "pigpigcom123",
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "195",
+      "recommendCount": "362",
+      "title": "[新聞] 河口湖命案／主嫌「臉書好友圈」曝光",
+      "link": "/bbs/Gossiping/M.1793098224.A.E2A",
+      "author": "touyuan",
+      "board": "Gossiping",
+      "publishTime": "2026/10/27 10:50",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "194",
       "recommendCount": "286",
       "title": "[新聞] 高雄市長抽籤抽中5號 賴瑞隆：吉祥數字",
@@ -121,16 +131,6 @@
       "author": "ptt987654321",
       "board": "Gossiping",
       "publishTime": "2026/10/27 02:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "196",
-      "recommendCount": "358",
-      "title": "[新聞] 河口湖命案／主嫌「臉書好友圈」曝光",
-      "link": "/bbs/Gossiping/M.1793098224.A.E2A",
-      "author": "touyuan",
-      "board": "Gossiping",
-      "publishTime": "2026/10/27 10:50",
       "imageUrl": ""
     },
     {
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "237",
+      "recommendCount": "447",
+      "title": "[新聞] ET民調／蔣萬安支持度48.6%、沈伯洋41.1％　喜好度＆討厭度曝！",
+      "link": "/bbs/HatePolitics/M.1793105870.A.30D",
+      "author": "Arthurseed",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/27 12:57",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "201",
       "recommendCount": "331",
       "title": "[BOX ] Mavericks 113:109 Heat",
@@ -151,6 +161,16 @@
       "author": "jason911152",
       "board": "NBA",
       "publishTime": "2026/10/27 02:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "194",
+      "recommendCount": "536",
+      "title": "[討論] 蔣萬安怒了：非常粗暴",
+      "link": "/bbs/HatePolitics/M.1793087194.A.FA8",
+      "author": "oftheday",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/27 07:46",
       "imageUrl": ""
     },
     {
@@ -164,23 +184,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "194",
-      "recommendCount": "535",
-      "title": "[討論] 蔣萬安怒了：非常粗暴",
-      "link": "/bbs/HatePolitics/M.1793087194.A.FA8",
-      "author": "oftheday",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/27 07:46",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "229",
-      "recommendCount": "434",
-      "title": "[新聞] ET民調／蔣萬安支持度48.6%、沈伯洋41.1％　喜好度＆討厭度曝！",
-      "link": "/bbs/HatePolitics/M.1793105870.A.30D",
-      "author": "Arthurseed",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/27 12:57",
+      "recommendScore": "228",
+      "recommendCount": "258",
+      "title": "[推投] BLEACH死神 最喜歡女角「1票」",
+      "link": "/bbs/C_Chat/M.1793094309.A.7B9",
+      "author": "MrSatan",
+      "board": "C_Chat",
+      "publishTime": "2026/10/27 09:45",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "Superman007",
       "board": "NBA",
       "publishTime": "2026/10/27 04:29",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "225",
-      "recommendCount": "255",
-      "title": "[推投] BLEACH死神 最喜歡女角「1票」",
-      "link": "/bbs/C_Chat/M.1793094309.A.7B9",
-      "author": "MrSatan",
-      "board": "C_Chat",
-      "publishTime": "2026/10/27 09:45",
       "imageUrl": ""
     }
   ]
