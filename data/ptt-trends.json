@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T08:26:50.031Z",
+  "updated": "2026-10-27T08:47:06.292Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,13 +24,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "404",
-      "recommendCount": "805",
+      "recommendScore": "408",
+      "recommendCount": "810",
       "title": "[新聞] 河口湖台女命案重大發展 檢證實：井女新婚夫買凶殺人",
       "link": "/bbs/Gossiping/M.1793061694.A.C55",
       "author": "l26921216",
       "board": "Gossiping",
       "publishTime": "2026/10/27 00:41",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "267",
+      "recommendCount": "469",
+      "title": "[新聞] 川普又點名台灣偷晶片！直指「價格荒謬」",
+      "link": "/bbs/Stock/M.1793062151.A.616",
+      "author": "Gavatzky",
+      "board": "Stock",
+      "publishTime": "2026/10/27 00:49",
       "imageUrl": ""
     },
     {
@@ -44,16 +54,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "267",
-      "recommendCount": "467",
-      "title": "[新聞] 川普又點名台灣偷晶片！直指「價格荒謬」",
-      "link": "/bbs/Stock/M.1793062151.A.616",
-      "author": "Gavatzky",
-      "board": "Stock",
-      "publishTime": "2026/10/27 00:49",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "693",
       "recommendCount": "1327",
       "title": "[電競] 2026 World Championship 瑞士輪 Day 4",
@@ -62,6 +62,16 @@
       "board": "LoL",
       "publishTime": "2026/10/26 13:31",
       "imageUrl": "https://cache.pttweb.cc/imgur/S0dIqME/s/23698361d5e381543af936f0879876bc"
+    },
+    {
+      "recommendScore": "134",
+      "recommendCount": "557",
+      "title": "[新聞] 國民黨會哭出來！最新民調「六都僅1市盼藍營執政」驚人數據來了",
+      "link": "/bbs/Gossiping/M.1793075688.A.839",
+      "author": "eunhailoveu",
+      "board": "Gossiping",
+      "publishTime": "2026/10/27 04:34",
+      "imageUrl": ""
     },
     {
       "recommendScore": "273",
@@ -74,18 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "130",
-      "recommendCount": "540",
-      "title": "[新聞] 國民黨會哭出來！最新民調「六都僅1市盼藍營執政」驚人數據來了",
-      "link": "/bbs/Gossiping/M.1793075688.A.839",
-      "author": "eunhailoveu",
-      "board": "Gossiping",
-      "publishTime": "2026/10/27 04:34",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "155",
-      "recommendCount": "525",
+      "recommendCount": "529",
       "title": "[新聞] 要講幾次？川普又點名台灣偷晶片：他們的價格極其荒謬",
       "link": "/bbs/Gossiping/M.1793051416.A.E3F",
       "author": "hbl420ii",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "291",
-      "recommendCount": "340",
+      "recommendScore": "299",
+      "recommendCount": "349",
       "title": "[新聞] MLB／釀酒人教頭精心策畫 伍鐸夫從一度本季報銷到世界大賽登板",
       "link": "/bbs/Baseball/M.1793077402.A.8F2",
       "author": "betweenus020",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "206",
-      "recommendCount": "395",
+      "recommendScore": "208",
+      "recommendCount": "398",
       "title": "[新聞]北京大學等10校學生發聲明　籲廢除中國國家主席無限期延任制",
       "link": "/bbs/Gossiping/M.1793061868.A.34C",
       "author": "joanzkow",
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "117",
-      "recommendCount": "347",
+      "recommendScore": "119",
+      "recommendCount": "350",
       "title": "[新聞] 魏應交封王致詞惹議！稱「給兄弟一點希望」　感謝葉君璋精心策劃",
       "link": "/bbs/Baseball/M.1793015530.A.ABA",
       "author": "CREA",
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "180",
+      "recommendCount": "267",
+      "title": "[新聞] 高雄市長抽籤抽中5號 賴瑞隆：吉祥數字",
+      "link": "/bbs/Gossiping/M.1793068516.A.5F4",
+      "author": "ptt987654321",
+      "board": "Gossiping",
+      "publishTime": "2026/10/27 02:35",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "160",
       "recommendCount": "501",
       "title": "[分享] FB 蔡其昌會長聲明",
@@ -181,16 +191,6 @@
       "author": "chyx741021",
       "board": "Baseball",
       "publishTime": "2026/10/26 15:25",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "178",
-      "recommendCount": "263",
-      "title": "[新聞] 高雄市長抽籤抽中5號 賴瑞隆：吉祥數字",
-      "link": "/bbs/Gossiping/M.1793068516.A.5F4",
-      "author": "ptt987654321",
-      "board": "Gossiping",
-      "publishTime": "2026/10/27 02:35",
       "imageUrl": ""
     },
     {
