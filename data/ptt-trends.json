@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T05:35:53.820Z",
+  "updated": "2026-10-28T05:43:13.898Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -64,8 +64,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "275",
-      "recommendCount": "306",
+      "recommendScore": "276",
+      "recommendCount": "307",
       "title": "[推投] BLEACH死神 最喜歡女角「1票」",
       "link": "/bbs/C_Chat/M.1793094309.A.7B9",
       "author": "MrSatan",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "184",
-      "recommendCount": "585",
+      "recommendScore": "185",
+      "recommendCount": "586",
       "title": "[新聞] 快新聞／台北市長民調來了！沈伯洋、蔣萬安最新差距出爐　驚人趨勢曝光",
       "link": "/bbs/Gossiping/M.1793142746.A.9D4",
       "author": "betweenus020",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "142",
-      "recommendCount": "331",
+      "recommendScore": "143",
+      "recommendCount": "332",
       "title": "[討論] 黃國昌：議員席次未達標 (28席) 就走人",
       "link": "/bbs/HatePolitics/M.1793140588.A.2CB",
       "author": "iamm",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "160",
+      "recommendCount": "247",
+      "title": "[討論] 這場G4是棒球之神精心策劃嗎？",
+      "link": "/bbs/Baseball/M.1793161850.A.924",
+      "author": "WeMo",
+      "board": "Baseball",
+      "publishTime": "2026/10/28 04:30",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "147",
       "recommendCount": "246",
       "title": "[問題] 看不懂為何酒人G4一直燒勝利組？",
@@ -192,16 +202,6 @@
       "board": "Baseball",
       "publishTime": "2026/10/28 02:52",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "259",
-      "recommendCount": "518",
-      "title": "[Vtub] 白上手滑爆破了齁Ark伺服器",
-      "link": "/bbs/C_Chat/M.1793154181.A.C79",
-      "author": "stevenchiang",
-      "board": "C_Chat",
-      "publishTime": "2026/10/28 02:23",
-      "imageUrl": "https://cache.pttweb.cc/imgur/N6AOkTB/s/5f3f23c0aff0998b4b6c5e497e551e46"
     }
   ]
 }
