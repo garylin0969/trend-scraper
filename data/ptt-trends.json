@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T01:45:13.571Z",
+  "updated": "2026-10-28T01:53:20.297Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "256",
+      "recommendCount": "513",
+      "title": "[新聞] ET民調／蔣萬安支持度48.6%、沈伯洋41.1％　喜好度＆討厭度曝！",
+      "link": "/bbs/HatePolitics/M.1793105870.A.30D",
+      "author": "Arthurseed",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/27 12:57",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "221",
       "recommendCount": "406",
       "title": "[新聞] 河口湖命案／主嫌「臉書好友圈」曝光",
@@ -51,16 +61,6 @@
       "author": "touyuan",
       "board": "Gossiping",
       "publishTime": "2026/10/27 10:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "255",
-      "recommendCount": "511",
-      "title": "[新聞] ET民調／蔣萬安支持度48.6%、沈伯洋41.1％　喜好度＆討厭度曝！",
-      "link": "/bbs/HatePolitics/M.1793105870.A.30D",
-      "author": "Arthurseed",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/27 12:57",
       "imageUrl": ""
     },
     {
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "186",
-      "recommendCount": "326",
+      "recommendScore": "185",
+      "recommendCount": "327",
       "title": "[新聞] 趁觸診吸女病患乳頭 女婦產科醫師認罪和解緩起訴",
       "link": "/bbs/Gossiping/M.1793096580.A.A7B",
       "author": "emperor",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "267",
-      "recommendCount": "563",
+      "recommendScore": "268",
+      "recommendCount": "567",
       "title": "[討論] 聯合報民調：蔣萬安41%沈伯洋45%",
       "link": "/bbs/HatePolitics/M.1793116983.A.D83",
       "author": "fsu0401",
@@ -164,16 +164,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "221",
-      "recommendCount": "289",
-      "title": "[情報] 光芒魯閣開張",
-      "link": "/bbs/Baseball/M.1793065480.A.2AA",
-      "author": "carlchang092",
-      "board": "Baseball",
-      "publishTime": "2026/10/27 01:44",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "148",
       "recommendCount": "336",
       "title": "[討論] 龍龍精心策劃會跑掉多少龍迷？",
@@ -201,6 +191,16 @@
       "author": "SeanLi1013",
       "board": "NBA",
       "publishTime": "2026/10/27 03:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "185",
+      "recommendCount": "360",
+      "title": "[花邊] Baron Davis: LBJ走後 湖人終於能正常打球",
+      "link": "/bbs/NBA/M.1793070118.A.DAE",
+      "author": "usnavyseal",
+      "board": "NBA",
+      "publishTime": "2026/10/27 03:01",
       "imageUrl": ""
     }
   ]
