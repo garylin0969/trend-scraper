@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-28T10:27:07.465Z",
+  "updated": "2026-10-28T10:35:27.275Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "219",
-      "recommendCount": "742",
+      "recommendScore": "220",
+      "recommendCount": "748",
       "title": "[新聞] 中油累虧破1200億瀕臨破產　董座坦言：不撥補將「資不抵債」",
       "link": "/bbs/Gossiping/M.1793164806.A.EB0",
       "author": "zoeapezoo",
@@ -24,8 +24,28 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "286",
+      "recommendCount": "416",
+      "title": "[情報]富邦悍將曾峻岳選手行使旅外",
+      "link": "/bbs/Baseball/M.1793175265.A.A9D",
+      "author": "eattting",
+      "board": "Baseball",
+      "publishTime": "2026/10/28 08:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "231",
+      "recommendCount": "469",
+      "title": "[問卦] 生育率0.59是怎麼辦到的啊？",
+      "link": "/bbs/Gossiping/M.1793175336.A.DAE",
+      "author": "s820912gmail",
+      "board": "Gossiping",
+      "publishTime": "2026/10/28 08:15",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "182",
-      "recommendCount": "535",
+      "recommendCount": "537",
       "title": "[問卦] 黨媒跟政黑一直洗，真能幫助選情嗎？",
       "link": "/bbs/Gossiping/M.1793159155.A.576",
       "author": "dodomen",
@@ -44,16 +64,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "277",
-      "recommendCount": "402",
-      "title": "[情報]富邦悍將曾峻岳選手行使旅外",
-      "link": "/bbs/Baseball/M.1793175265.A.A9D",
-      "author": "eattting",
-      "board": "Baseball",
-      "publishTime": "2026/10/28 08:14",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "256",
       "recommendCount": "513",
       "title": "[新聞] ET民調／蔣萬安支持度48.6%、沈伯洋41.1％　喜好度＆討厭度曝！",
@@ -61,16 +71,6 @@
       "author": "Arthurseed",
       "board": "HatePolitics",
       "publishTime": "2026/10/27 12:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "222",
-      "recommendCount": "444",
-      "title": "[問卦] 生育率0.59是怎麼辦到的啊？",
-      "link": "/bbs/Gossiping/M.1793175336.A.DAE",
-      "author": "s820912gmail",
-      "board": "Gossiping",
-      "publishTime": "2026/10/28 08:15",
       "imageUrl": ""
     },
     {
@@ -125,7 +125,7 @@
     },
     {
       "recommendScore": "211",
-      "recommendCount": "350",
+      "recommendCount": "352",
       "title": "[BOX ] Trail Blazers 136:129 Lakers",
       "link": "/bbs/NBA/M.1793167092.A.2E7",
       "author": "jason911152",
@@ -154,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "162",
+      "recommendCount": "261",
+      "title": "[新聞] 快訊／河口湖又有「外國人殺人案」！韓男遭韓女勒斃棄屍深山",
+      "link": "/bbs/Gossiping/M.1793175136.A.825",
+      "author": "Master5566",
+      "board": "Gossiping",
+      "publishTime": "2026/10/28 08:12",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "276",
       "recommendCount": "538",
       "title": "[Vtub] 白上手滑爆破了齁Ark伺服器",
@@ -174,33 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "157",
-      "recommendCount": "253",
-      "title": "[新聞] 快訊／河口湖又有「外國人殺人案」！韓男遭韓女勒斃棄屍深山",
-      "link": "/bbs/Gossiping/M.1793175136.A.825",
-      "author": "Master5566",
-      "board": "Gossiping",
-      "publishTime": "2026/10/28 08:12",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "230",
-      "recommendCount": "576",
-      "title": "[討論] 來說一些龍迷的想法",
-      "link": "/bbs/Baseball/M.1793171046.A.9C7",
-      "author": "lyliatw",
-      "board": "Baseball",
-      "publishTime": "2026/10/28 07:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "154",
-      "recommendCount": "223",
+      "recommendScore": "156",
+      "recommendCount": "227",
       "title": "[情報] 115年10月28日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1793171435.A.481",
       "author": "coconing",
       "board": "Stock",
       "publishTime": "2026/10/28 07:10",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "233",
+      "recommendCount": "584",
+      "title": "[討論] 來說一些龍迷的想法",
+      "link": "/bbs/Baseball/M.1793171046.A.9C7",
+      "author": "lyliatw",
+      "board": "Baseball",
+      "publishTime": "2026/10/28 07:04",
       "imageUrl": ""
     }
   ]
