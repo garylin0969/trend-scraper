@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T21:23:41.430Z",
+  "updated": "2026-10-28T21:34:54.135Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,16 +84,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "819",
-      "recommendCount": "1345",
-      "title": "[電競] 2026 World Championship 瑞士輪 Day 5",
-      "link": "/bbs/LoL/M.1793200438.A.BB5",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2026/10/28 15:13",
-      "imageUrl": "https://cache.pttweb.cc/imgur/j6AYRqb/s/4485cd7cb2ff97b2f53afbc4f35b0a87"
-    },
-    {
       "recommendScore": "207",
       "recommendCount": "339",
       "title": "[新聞] 快訊／河口湖又有「外國人殺人案」！韓男遭韓女勒斃棄屍深山",
@@ -104,14 +94,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "219",
-      "recommendCount": "451",
+      "recommendScore": "220",
+      "recommendCount": "452",
       "title": "[新聞] 被爆抄襲！蔣萬安網站竟是下AI指令「參考」沈伯洋　蔣團隊急切割",
       "link": "/bbs/HatePolitics/M.1793196831.A.08D",
       "author": "rickcoo",
       "board": "HatePolitics",
       "publishTime": "2026/10/28 14:13",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "821",
+      "recommendCount": "1345",
+      "title": "[電競] 2026 World Championship 瑞士輪 Day 5",
+      "link": "/bbs/LoL/M.1793200438.A.BB5",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2026/10/28 15:13",
+      "imageUrl": "https://cache.pttweb.cc/imgur/j6AYRqb/s/4485cd7cb2ff97b2f53afbc4f35b0a87"
     },
     {
       "recommendScore": "255",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "75",
-      "recommendCount": "454",
+      "recommendScore": "76",
+      "recommendCount": "455",
       "title": "[新聞] 趙少康不忍了大爆料！侯友宜「每次都被柯文哲羞辱」2024藍白合破局內幕曝光",
       "link": "/bbs/Gossiping/M.1793182474.A.75F",
       "author": "holiybo",
