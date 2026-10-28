@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-28T10:35:27.275Z",
+  "updated": "2026-10-28T10:53:15.745Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "220",
-      "recommendCount": "748",
+      "recommendScore": "222",
+      "recommendCount": "763",
       "title": "[新聞] 中油累虧破1200億瀕臨破產　董座坦言：不撥補將「資不抵債」",
       "link": "/bbs/Gossiping/M.1793164806.A.EB0",
       "author": "zoeapezoo",
@@ -14,28 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/N6AOkTB/s/5f3f23c0aff0998b4b6c5e497e551e46"
     },
     {
-      "recommendScore": "294",
-      "recommendCount": "391",
-      "title": "[情報] Ben Williamson 延長賽12局代打再見安打",
-      "link": "/bbs/Baseball/M.1793161738.A.A16",
-      "author": "carlchang092",
-      "board": "Baseball",
-      "publishTime": "2026/10/28 04:28",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "286",
-      "recommendCount": "416",
-      "title": "[情報]富邦悍將曾峻岳選手行使旅外",
-      "link": "/bbs/Baseball/M.1793175265.A.A9D",
-      "author": "eattting",
-      "board": "Baseball",
-      "publishTime": "2026/10/28 08:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "231",
-      "recommendCount": "469",
+      "recommendScore": "264",
+      "recommendCount": "537",
       "title": "[問卦] 生育率0.59是怎麼辦到的啊？",
       "link": "/bbs/Gossiping/M.1793175336.A.DAE",
       "author": "s820912gmail",
@@ -44,23 +24,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "182",
-      "recommendCount": "537",
+      "recommendScore": "295",
+      "recommendCount": "392",
+      "title": "[情報] Ben Williamson 延長賽12局代打再見安打",
+      "link": "/bbs/Baseball/M.1793161738.A.A16",
+      "author": "carlchang092",
+      "board": "Baseball",
+      "publishTime": "2026/10/28 04:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "297",
+      "recommendCount": "429",
+      "title": "[情報]富邦悍將曾峻岳選手行使旅外",
+      "link": "/bbs/Baseball/M.1793175265.A.A9D",
+      "author": "eattting",
+      "board": "Baseball",
+      "publishTime": "2026/10/28 08:14",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "185",
+      "recommendCount": "543",
       "title": "[問卦] 黨媒跟政黑一直洗，真能幫助選情嗎？",
       "link": "/bbs/Gossiping/M.1793159155.A.576",
       "author": "dodomen",
       "board": "Gossiping",
       "publishTime": "2026/10/28 03:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "224",
-      "recommendCount": "411",
-      "title": "[新聞] 河口湖命案／主嫌「臉書好友圈」曝光",
-      "link": "/bbs/Gossiping/M.1793098224.A.E2A",
-      "author": "touyuan",
-      "board": "Gossiping",
-      "publishTime": "2026/10/27 10:50",
       "imageUrl": ""
     },
     {
@@ -75,7 +65,7 @@
     },
     {
       "recommendScore": "191",
-      "recommendCount": "595",
+      "recommendCount": "596",
       "title": "[新聞] 快新聞／台北市長民調來了！沈伯洋、蔣萬安最新差距出爐　驚人趨勢曝光",
       "link": "/bbs/Gossiping/M.1793142746.A.9D4",
       "author": "betweenus020",
@@ -94,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "187",
-      "recommendCount": "477",
+      "recommendScore": "188",
+      "recommendCount": "478",
       "title": "[新聞] 蔣萬安贏沈伯洋7.5個百分點！最新台北市長選舉民調出爐",
       "link": "/bbs/Gossiping/M.1793109109.A.117",
       "author": "emuless",
@@ -134,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "168",
+      "recommendCount": "268",
+      "title": "[新聞] 快訊／河口湖又有「外國人殺人案」！韓男遭韓女勒斃棄屍深山",
+      "link": "/bbs/Gossiping/M.1793175136.A.825",
+      "author": "Master5566",
+      "board": "Gossiping",
+      "publishTime": "2026/10/28 08:12",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "147",
       "recommendCount": "339",
       "title": "[討論] 黃國昌：議員席次未達標 (28席) 就走人",
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "241",
+      "recommendCount": "612",
+      "title": "[討論] 來說一些龍迷的想法",
+      "link": "/bbs/Baseball/M.1793171046.A.9C7",
+      "author": "lyliatw",
+      "board": "Baseball",
+      "publishTime": "2026/10/28 07:04",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "155",
       "recommendCount": "284",
       "title": "[新聞] 河口湖命案主嫌臉書好友名單有他！沈伯洋回應了",
@@ -151,16 +161,6 @@
       "author": "Ho1liday",
       "board": "Gossiping",
       "publishTime": "2026/10/27 13:08",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "162",
-      "recommendCount": "261",
-      "title": "[新聞] 快訊／河口湖又有「外國人殺人案」！韓男遭韓女勒斃棄屍深山",
-      "link": "/bbs/Gossiping/M.1793175136.A.825",
-      "author": "Master5566",
-      "board": "Gossiping",
-      "publishTime": "2026/10/28 08:12",
       "imageUrl": ""
     },
     {
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "233",
-      "recommendCount": "584",
-      "title": "[討論] 來說一些龍迷的想法",
-      "link": "/bbs/Baseball/M.1793171046.A.9C7",
-      "author": "lyliatw",
+      "recommendScore": "147",
+      "recommendCount": "252",
+      "title": "[問題] 看不懂為何酒人G4一直燒勝利組？",
+      "link": "/bbs/Baseball/M.1793155974.A.D87",
+      "author": "Tanjiro",
       "board": "Baseball",
-      "publishTime": "2026/10/28 07:04",
+      "publishTime": "2026/10/28 02:52",
       "imageUrl": ""
     }
   ]
