@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T03:43:32.144Z",
+  "updated": "2026-10-28T03:53:24.243Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "172",
-      "recommendCount": "551",
+      "recommendScore": "173",
+      "recommendCount": "555",
       "title": "[新聞] 快新聞／台北市長民調來了！沈伯洋、蔣萬安最新差距出爐　驚人趨勢曝光",
       "link": "/bbs/Gossiping/M.1793142746.A.9D4",
       "author": "betweenus020",
@@ -164,23 +164,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "205",
-      "recommendCount": "292",
+      "recommendScore": "206",
+      "recommendCount": "293",
       "title": "[情報] Anthony Edwards 將缺席數月",
       "link": "/bbs/NBA/M.1793141231.A.C01",
       "author": "Superman007",
       "board": "NBA",
       "publishTime": "2026/10/27 22:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "116",
-      "recommendCount": "313",
-      "title": "[新聞] 川普再提台灣！轟晶片低價搶市　還扯「台海問題沒人在乎」",
-      "link": "/bbs/Gossiping/M.1793072969.A.AC6",
-      "author": "ravager",
-      "board": "Gossiping",
-      "publishTime": "2026/10/27 03:49",
       "imageUrl": ""
     },
     {
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "136",
-      "recommendCount": "320",
+      "recommendScore": "137",
+      "recommendCount": "322",
       "title": "[討論] 黃國昌：議員席次未達標 (28席) 就走人",
       "link": "/bbs/HatePolitics/M.1793140588.A.2CB",
       "author": "iamm",
       "board": "HatePolitics",
       "publishTime": "2026/10/27 22:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "205",
+      "recommendCount": "436",
+      "title": "[閒聊] 為什麼韓國人這麼喜歡吃午餐肉？",
+      "link": "/bbs/C_Chat/M.1793093345.A.387",
+      "author": "victor87710",
+      "board": "C_Chat",
+      "publishTime": "2026/10/27 09:29",
       "imageUrl": ""
     }
   ]
