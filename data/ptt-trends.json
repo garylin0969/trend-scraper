@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T02:53:19.740Z",
+  "updated": "2026-10-28T03:10:40.640Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "222",
-      "recommendCount": "408",
+      "recommendScore": "223",
+      "recommendCount": "409",
       "title": "[新聞] 河口湖命案／主嫌「臉書好友圈」曝光",
       "link": "/bbs/Gossiping/M.1793098224.A.E2A",
       "author": "touyuan",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "269",
-      "recommendCount": "300",
+      "recommendScore": "270",
+      "recommendCount": "301",
       "title": "[推投] BLEACH死神 最喜歡女角「1票」",
       "link": "/bbs/C_Chat/M.1793094309.A.7B9",
       "author": "MrSatan",
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "164",
+      "recommendCount": "525",
+      "title": "[新聞] 快新聞／台北市長民調來了！沈伯洋、蔣萬安最新差距出爐　驚人趨勢曝光",
+      "link": "/bbs/Gossiping/M.1793142746.A.9D4",
+      "author": "betweenus020",
+      "board": "Gossiping",
+      "publishTime": "2026/10/27 23:12",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "182",
       "recommendCount": "471",
       "title": "[新聞] 蔣萬安贏沈伯洋7.5個百分點！最新台北市長選舉民調出爐",
@@ -151,16 +161,6 @@
       "author": "emuless",
       "board": "Gossiping",
       "publishTime": "2026/10/27 13:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "158",
-      "recommendCount": "515",
-      "title": "[新聞] 快新聞／台北市長民調來了！沈伯洋、蔣萬安最新差距出爐　驚人趨勢曝光",
-      "link": "/bbs/Gossiping/M.1793142746.A.9D4",
-      "author": "betweenus020",
-      "board": "Gossiping",
-      "publishTime": "2026/10/27 23:12",
       "imageUrl": ""
     },
     {
@@ -184,23 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "185",
-      "recommendCount": "360",
-      "title": "[花邊] Baron Davis: LBJ走後 湖人終於能正常打球",
-      "link": "/bbs/NBA/M.1793070118.A.DAE",
-      "author": "usnavyseal",
-      "board": "NBA",
-      "publishTime": "2026/10/27 03:01",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "116",
-      "recommendCount": "311",
+      "recommendCount": "313",
       "title": "[新聞] 川普再提台灣！轟晶片低價搶市　還扯「台海問題沒人在乎」",
       "link": "/bbs/Gossiping/M.1793072969.A.AC6",
       "author": "ravager",
       "board": "Gossiping",
       "publishTime": "2026/10/27 03:49",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "201",
+      "recommendCount": "287",
+      "title": "[情報] Anthony Edwards 將缺席數月",
+      "link": "/bbs/NBA/M.1793141231.A.C01",
+      "author": "Superman007",
+      "board": "NBA",
+      "publishTime": "2026/10/27 22:47",
       "imageUrl": ""
     }
   ]
