@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T02:29:20.543Z",
+  "updated": "2026-10-28T02:38:56.948Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -11,7 +11,7 @@
       "author": "clw8",
       "board": "Gossiping",
       "publishTime": "2026/10/27 10:10",
-      "imageUrl": "https://cache.pttweb.cc/imgur/W0kSzFv/s/3c2df7e47efeef106fe29415f7d7beae"
+      "imageUrl": ""
     },
     {
       "recommendScore": "155",
@@ -44,6 +44,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "221",
+      "recommendCount": "407",
+      "title": "[新聞] 河口湖命案／主嫌「臉書好友圈」曝光",
+      "link": "/bbs/Gossiping/M.1793098224.A.E2A",
+      "author": "touyuan",
+      "board": "Gossiping",
+      "publishTime": "2026/10/27 10:50",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "256",
       "recommendCount": "513",
       "title": "[新聞] ET民調／蔣萬安支持度48.6%、沈伯洋41.1％　喜好度＆討厭度曝！",
@@ -51,16 +61,6 @@
       "author": "Arthurseed",
       "board": "HatePolitics",
       "publishTime": "2026/10/27 12:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "221",
-      "recommendCount": "406",
-      "title": "[新聞] 河口湖命案／主嫌「臉書好友圈」曝光",
-      "link": "/bbs/Gossiping/M.1793098224.A.E2A",
-      "author": "touyuan",
-      "board": "Gossiping",
-      "publishTime": "2026/10/27 10:50",
       "imageUrl": ""
     },
     {
@@ -94,23 +94,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "187",
-      "recommendCount": "330",
+      "recommendScore": "188",
+      "recommendCount": "331",
       "title": "[新聞] 趁觸診吸女病患乳頭 女婦產科醫師認罪和解緩起訴",
       "link": "/bbs/Gossiping/M.1793096580.A.A7B",
       "author": "emperor",
       "board": "Gossiping",
       "publishTime": "2026/10/27 10:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "194",
-      "recommendCount": "288",
-      "title": "[新聞] 高雄市長抽籤抽中5號 賴瑞隆：吉祥數字",
-      "link": "/bbs/Gossiping/M.1793068516.A.5F4",
-      "author": "ptt987654321",
-      "board": "Gossiping",
-      "publishTime": "2026/10/27 02:35",
       "imageUrl": ""
     },
     {
@@ -154,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "181",
-      "recommendCount": "469",
+      "recommendScore": "182",
+      "recommendCount": "471",
       "title": "[新聞] 蔣萬安贏沈伯洋7.5個百分點！最新台北市長選舉民調出爐",
       "link": "/bbs/Gossiping/M.1793109109.A.117",
       "author": "emuless",
@@ -174,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "156",
+      "recommendCount": "511",
+      "title": "[新聞] 快新聞／台北市長民調來了！沈伯洋、蔣萬安最新差距出爐　驚人趨勢曝光",
+      "link": "/bbs/Gossiping/M.1793142746.A.9D4",
+      "author": "betweenus020",
+      "board": "Gossiping",
+      "publishTime": "2026/10/27 23:12",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "170",
       "recommendCount": "249",
       "title": "[花邊] Bam Adebayo：你們就等著看吧",
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "156",
-      "recommendCount": "501",
-      "title": "[新聞] 快新聞／台北市長民調來了！沈伯洋、蔣萬安最新差距出爐　驚人趨勢曝光",
-      "link": "/bbs/Gossiping/M.1793142746.A.9D4",
-      "author": "betweenus020",
-      "board": "Gossiping",
-      "publishTime": "2026/10/27 23:12",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "185",
       "recommendCount": "360",
       "title": "[花邊] Baron Davis: LBJ走後 湖人終於能正常打球",
@@ -201,6 +191,16 @@
       "author": "usnavyseal",
       "board": "NBA",
       "publishTime": "2026/10/27 03:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "116",
+      "recommendCount": "311",
+      "title": "[新聞] 川普再提台灣！轟晶片低價搶市　還扯「台海問題沒人在乎」",
+      "link": "/bbs/Gossiping/M.1793072969.A.AC6",
+      "author": "ravager",
+      "board": "Gossiping",
+      "publishTime": "2026/10/27 03:49",
       "imageUrl": ""
     }
   ]
