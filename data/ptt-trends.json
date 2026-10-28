@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T23:16:20.219Z",
+  "updated": "2026-10-28T23:23:27.157Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "149",
+      "recommendCount": "601",
+      "title": "[新聞] 藍白合破局內幕！趙少康爆侯友宜遭多次羞辱　柯文哲嗆：你第三啦",
+      "link": "/bbs/Gossiping/M.1793192868.A.AF6",
+      "author": "jal809",
+      "board": "Gossiping",
+      "publishTime": "2026/10/28 13:07",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "221",
       "recommendCount": "405",
       "title": "[新聞] 前FBI副局長急籲全美「囤3天物資」歐洲多國也示警",
@@ -64,26 +74,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "147",
-      "recommendCount": "597",
-      "title": "[新聞] 藍白合破局內幕！趙少康爆侯友宜遭多次羞辱　柯文哲嗆：你第三啦",
-      "link": "/bbs/Gossiping/M.1793192868.A.AF6",
-      "author": "jal809",
-      "board": "Gossiping",
-      "publishTime": "2026/10/28 13:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "833",
-      "recommendCount": "1345",
-      "title": "[電競] 2026 World Championship 瑞士輪 Day 5",
-      "link": "/bbs/LoL/M.1793200438.A.BB5",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2026/10/28 15:13",
-      "imageUrl": "https://cache.pttweb.cc/imgur/j6AYRqb/s/4485cd7cb2ff97b2f53afbc4f35b0a87"
-    },
-    {
       "recommendScore": "206",
       "recommendCount": "342",
       "title": "[新聞] 快訊／河口湖又有「外國人殺人案」！韓男遭韓女勒斃棄屍深山",
@@ -92,6 +82,16 @@
       "board": "Gossiping",
       "publishTime": "2026/10/28 08:12",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "827",
+      "recommendCount": "1345",
+      "title": "[電競] 2026 World Championship 瑞士輪 Day 5",
+      "link": "/bbs/LoL/M.1793200438.A.BB5",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2026/10/28 15:13",
+      "imageUrl": "https://cache.pttweb.cc/imgur/j6AYRqb/s/4485cd7cb2ff97b2f53afbc4f35b0a87"
     },
     {
       "recommendScore": "226",
