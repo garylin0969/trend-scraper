@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T05:43:13.898Z",
+  "updated": "2026-10-28T05:53:09.304Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "269",
-      "recommendCount": "359",
+      "recommendScore": "275",
+      "recommendCount": "366",
       "title": "[情報] Ben Williamson 延長賽12局代打再見安打",
       "link": "/bbs/Baseball/M.1793161738.A.A16",
       "author": "carlchang092",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "185",
-      "recommendCount": "586",
+      "recommendScore": "186",
+      "recommendCount": "587",
       "title": "[新聞] 快新聞／台北市長民調來了！沈伯洋、蔣萬安最新差距出爐　驚人趨勢曝光",
       "link": "/bbs/Gossiping/M.1793142746.A.9D4",
       "author": "betweenus020",
@@ -164,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "166",
+      "recommendCount": "256",
+      "title": "[討論] 這場G4是棒球之神精心策劃嗎？",
+      "link": "/bbs/Baseball/M.1793161850.A.924",
+      "author": "WeMo",
+      "board": "Baseball",
+      "publishTime": "2026/10/28 04:30",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "112",
       "recommendCount": "304",
       "title": "[新聞] 快新聞／北市即將翻盤？小笠原欣幸：沈伯洋支持度已達陳水扁「天花板」",
@@ -184,23 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "160",
-      "recommendCount": "247",
-      "title": "[討論] 這場G4是棒球之神精心策劃嗎？",
-      "link": "/bbs/Baseball/M.1793161850.A.924",
-      "author": "WeMo",
-      "board": "Baseball",
-      "publishTime": "2026/10/28 04:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "147",
-      "recommendCount": "246",
-      "title": "[問題] 看不懂為何酒人G4一直燒勝利組？",
-      "link": "/bbs/Baseball/M.1793155974.A.D87",
-      "author": "Tanjiro",
-      "board": "Baseball",
-      "publishTime": "2026/10/28 02:52",
+      "recommendScore": "135",
+      "recommendCount": "367",
+      "title": "[問卦] 黨媒跟政黑一直洗，真能幫助選情嗎？",
+      "link": "/bbs/Gossiping/M.1793159155.A.576",
+      "author": "dodomen",
+      "board": "Gossiping",
+      "publishTime": "2026/10/28 03:45",
       "imageUrl": ""
     }
   ]
