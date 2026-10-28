@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T05:18:52.252Z",
+  "updated": "2026-10-28T05:27:15.506Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "223",
-      "recommendCount": "410",
+      "recommendScore": "264",
+      "recommendCount": "353",
+      "title": "[情報] Ben Williamson 延長賽12局代打再見安打",
+      "link": "/bbs/Baseball/M.1793161738.A.A16",
+      "author": "carlchang092",
+      "board": "Baseball",
+      "publishTime": "2026/10/28 04:28",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "224",
+      "recommendCount": "411",
       "title": "[新聞] 河口湖命案／主嫌「臉書好友圈」曝光",
       "link": "/bbs/Gossiping/M.1793098224.A.E2A",
       "author": "touyuan",
@@ -41,16 +51,6 @@
       "author": "Arthurseed",
       "board": "HatePolitics",
       "publishTime": "2026/10/27 12:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "259",
-      "recommendCount": "347",
-      "title": "[情報] Ben Williamson 延長賽12局代打再見安打",
-      "link": "/bbs/Baseball/M.1793161738.A.A16",
-      "author": "carlchang092",
-      "board": "Baseball",
-      "publishTime": "2026/10/28 04:28",
       "imageUrl": ""
     },
     {
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "256",
-      "recommendCount": "510",
+      "recommendScore": "259",
+      "recommendCount": "518",
       "title": "[Vtub] 白上手滑爆破了齁Ark伺服器",
       "link": "/bbs/C_Chat/M.1793154181.A.C79",
       "author": "stevenchiang",
@@ -194,14 +194,14 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/N6AOkTB/s/5f3f23c0aff0998b4b6c5e497e551e46"
     },
     {
-      "recommendScore": "125",
-      "recommendCount": "218",
-      "title": "[問卦] 欸欸38歲長這樣你真的ok？",
-      "link": "/bbs/Gossiping/M.1793083974.A.013",
-      "author": "YMGee",
-      "board": "Gossiping",
-      "publishTime": "2026/10/27 06:52",
-      "imageUrl": "https://cache.pttweb.cc/imgur/W0kSzFv/s/3c2df7e47efeef106fe29415f7d7beae"
+      "recommendScore": "147",
+      "recommendCount": "245",
+      "title": "[問題] 看不懂為何酒人G4一直燒勝利組？",
+      "link": "/bbs/Baseball/M.1793155974.A.D87",
+      "author": "Tanjiro",
+      "board": "Baseball",
+      "publishTime": "2026/10/28 02:52",
+      "imageUrl": ""
     }
   ]
 }
