@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T09:37:56.978Z",
+  "updated": "2026-10-28T09:44:33.721Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "253",
+      "recommendCount": "367",
+      "title": "[情報]富邦悍將曾峻岳選手行使旅外",
+      "link": "/bbs/Baseball/M.1793175265.A.A9D",
+      "author": "eattting",
+      "board": "Baseball",
+      "publishTime": "2026/10/28 08:14",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "191",
       "recommendCount": "594",
       "title": "[新聞] 快新聞／台北市長民調來了！沈伯洋、蔣萬安最新差距出爐　驚人趨勢曝光",
@@ -81,16 +91,6 @@
       "author": "betweenus020",
       "board": "Gossiping",
       "publishTime": "2026/10/27 23:12",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "246",
-      "recommendCount": "350",
-      "title": "[情報]富邦悍將曾峻岳選手行使旅外",
-      "link": "/bbs/Baseball/M.1793175265.A.A9D",
-      "author": "eattting",
-      "board": "Baseball",
-      "publishTime": "2026/10/28 08:14",
       "imageUrl": ""
     },
     {
@@ -144,6 +144,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "175",
+      "recommendCount": "330",
+      "title": "[問卦] 生育率0.59是怎麼辦到的啊？",
+      "link": "/bbs/Gossiping/M.1793175336.A.DAE",
+      "author": "s820912gmail",
+      "board": "Gossiping",
+      "publishTime": "2026/10/28 08:15",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "147",
       "recommendCount": "339",
       "title": "[討論] 黃國昌：議員席次未達標 (28席) 就走人",
@@ -191,16 +201,6 @@
       "author": "tsukiji",
       "board": "Gossiping",
       "publishTime": "2026/10/27 12:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "148",
-      "recommendCount": "251",
-      "title": "[問題] 看不懂為何酒人G4一直燒勝利組？",
-      "link": "/bbs/Baseball/M.1793155974.A.D87",
-      "author": "Tanjiro",
-      "board": "Baseball",
-      "publishTime": "2026/10/28 02:52",
       "imageUrl": ""
     }
   ]
