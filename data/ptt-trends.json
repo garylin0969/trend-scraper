@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T09:21:18.532Z",
+  "updated": "2026-10-28T09:30:03.804Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "213",
-      "recommendCount": "682",
+      "recommendCount": "692",
       "title": "[新聞] 中油累虧破1200億瀕臨破產　董座坦言：不撥補將「資不抵債」",
       "link": "/bbs/Gossiping/M.1793164806.A.EB0",
       "author": "zoeapezoo",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "293",
-      "recommendCount": "390",
+      "recommendScore": "294",
+      "recommendCount": "391",
       "title": "[情報] Ben Williamson 延長賽12局代打再見安打",
       "link": "/bbs/Baseball/M.1793161738.A.A16",
       "author": "carlchang092",
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "178",
+      "recommendCount": "520",
+      "title": "[問卦] 黨媒跟政黑一直洗，真能幫助選情嗎？",
+      "link": "/bbs/Gossiping/M.1793159155.A.576",
+      "author": "dodomen",
+      "board": "Gossiping",
+      "publishTime": "2026/10/28 03:45",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "281",
       "recommendCount": "313",
       "title": "[推投] BLEACH死神 最喜歡女角「1票」",
@@ -61,16 +71,6 @@
       "author": "MrSatan",
       "board": "C_Chat",
       "publishTime": "2026/10/27 09:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "174",
-      "recommendCount": "511",
-      "title": "[問卦] 黨媒跟政黑一直洗，真能幫助選情嗎？",
-      "link": "/bbs/Gossiping/M.1793159155.A.576",
-      "author": "dodomen",
-      "board": "Gossiping",
-      "publishTime": "2026/10/28 03:45",
       "imageUrl": ""
     },
     {
@@ -154,8 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "204",
-      "recommendCount": "338",
+      "recommendScore": "206",
+      "recommendCount": "340",
       "title": "[BOX ] Trail Blazers 136:129 Lakers",
       "link": "/bbs/NBA/M.1793167092.A.2E7",
       "author": "jason911152",
@@ -194,13 +194,13 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/N6AOkTB/s/5f3f23c0aff0998b4b6c5e497e551e46"
     },
     {
-      "recommendScore": "206",
-      "recommendCount": "437",
-      "title": "[閒聊] 為什麼韓國人這麼喜歡吃午餐肉？",
-      "link": "/bbs/C_Chat/M.1793093345.A.387",
-      "author": "victor87710",
-      "board": "C_Chat",
-      "publishTime": "2026/10/27 09:29",
+      "recommendScore": "148",
+      "recommendCount": "250",
+      "title": "[問題] 看不懂為何酒人G4一直燒勝利組？",
+      "link": "/bbs/Baseball/M.1793155974.A.D87",
+      "author": "Tanjiro",
+      "board": "Baseball",
+      "publishTime": "2026/10/28 02:52",
       "imageUrl": ""
     }
   ]
