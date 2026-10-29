@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T22:25:04.137Z",
+  "updated": "2026-10-29T22:34:42.583Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "253",
-      "recommendCount": "590",
+      "recommendCount": "591",
       "title": "[新聞] 吳思瑤暗酸台北市沒公共鋼琴 網嘆：沈伯洋團隊到底多不熟",
       "link": "/bbs/Gossiping/M.1793252820.A.355",
       "author": "william8403",
@@ -52,6 +52,16 @@
       "board": "Baseball",
       "publishTime": "2026/10/29 02:58",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "733",
+      "recommendCount": "1345",
+      "title": "[電競] 2026 World Championship 瑞士輪 Day 6",
+      "link": "/bbs/LoL/M.1793287727.A.06E",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2026/10/29 15:28",
+      "imageUrl": "https://cache.pttweb.cc/imgur/bPFmZxw/s/c13326f47e8683a830559e33d97d85d5"
     },
     {
       "recommendScore": "277",
@@ -72,16 +82,6 @@
       "board": "Gossiping",
       "publishTime": "2026/10/29 06:10",
       "imageUrl": "https://cache.pttweb.cc/imgur/gRCBXlt/s/d92c168e4e55edb4123e849759a3c2e3"
-    },
-    {
-      "recommendScore": "789",
-      "recommendCount": "1345",
-      "title": "[電競] 2026 World Championship 瑞士輪 Day 6",
-      "link": "/bbs/LoL/M.1793287727.A.06E",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2026/10/29 15:28",
-      "imageUrl": "https://cache.pttweb.cc/imgur/bPFmZxw/s/c13326f47e8683a830559e33d97d85d5"
     },
     {
       "recommendScore": "180",
@@ -165,7 +165,7 @@
     },
     {
       "recommendScore": "171",
-      "recommendCount": "280",
+      "recommendCount": "281",
       "title": "[討論] 哪個重量級人物表態挺蔣會造成大海嘯？",
       "link": "/bbs/HatePolitics/M.1793285556.A.6DA",
       "author": "iphone15",
