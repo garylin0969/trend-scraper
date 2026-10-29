@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T10:34:49.452Z",
+  "updated": "2026-10-29T10:43:18.180Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/KQE4TaS/s/da6881b001faab30850b0261bcba66e0"
     },
     {
-      "recommendScore": "269",
-      "recommendCount": "553",
+      "recommendScore": "270",
+      "recommendCount": "554",
       "title": "[新聞] 李正皓喊「髒活我們做」惹議 綠營急切割：來賓言論不代表本台立場",
       "link": "/bbs/Gossiping/M.1793245373.A.976",
       "author": "omanorboyo",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "333",
-      "recommendCount": "416",
+      "recommendScore": "335",
+      "recommendCount": "418",
       "title": "[情報] 釀酒人4-1打敗光芒 奪下創隊58年首冠！！",
       "link": "/bbs/Baseball/M.1793243602.A.566",
       "author": "carlchang092",
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "173",
+      "recommendCount": "296",
+      "title": "[情報] 115年10月29日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1793257856.A.D5B",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2026/10/29 07:10",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "190",
       "recommendCount": "440",
       "title": "[問卦] 生育率世界最低 這個國家出了什麼問題",
@@ -101,16 +111,6 @@
       "author": "morgankhs",
       "board": "Gossiping",
       "publishTime": "2026/10/28 12:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "172",
-      "recommendCount": "294",
-      "title": "[情報] 115年10月29日 三大法人買賣金額統計表",
-      "link": "/bbs/Stock/M.1793257856.A.D5B",
-      "author": "coconing",
-      "board": "Stock",
-      "publishTime": "2026/10/29 07:10",
       "imageUrl": ""
     },
     {
@@ -144,18 +144,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/BgiI3kr/s/5d2275a58a29330ecc283a440f73299e"
     },
     {
-      "recommendScore": "111",
-      "recommendCount": "285",
-      "title": "[新聞] 談北市選情喊「民調其實沒贏」　賴清德令黨內：別攻擊或嘲笑對手",
-      "link": "/bbs/Gossiping/M.1793183734.A.838",
-      "author": "emuless",
-      "board": "Gossiping",
-      "publishTime": "2026/10/28 10:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "188",
-      "recommendCount": "222",
+      "recommendScore": "190",
+      "recommendCount": "225",
       "title": "[情報]  William Contreras：我是世界上最棒捕手",
       "link": "/bbs/Baseball/M.1793256220.A.FC9",
       "author": "jin168chen",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2026/10/28 14:41",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "167",
+      "recommendCount": "246",
+      "title": "[分享] 2026日本大賽冠軍~福岡軟銀鷹",
+      "link": "/bbs/Baseball/M.1793187213.A.E46",
+      "author": "jerryyuan",
+      "board": "Baseball",
+      "publishTime": "2026/10/28 11:33",
+      "imageUrl": "https://cache.pttweb.cc/imgur/wyGA0yA/s/87e0a7fd90384c5e1e94cf3f2d05a6bb"
     }
   ]
 }
