@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T22:43:09.962Z",
+  "updated": "2026-10-29T22:53:14.552Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "277",
-      "recommendCount": "413",
+      "recommendScore": "278",
+      "recommendCount": "415",
       "title": "[情報] 林凱威選手行使旅外球員權利",
       "link": "/bbs/Baseball/M.1793253292.A.979",
       "author": "Axwell",
@@ -64,7 +64,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "712",
+      "recommendScore": "710",
       "recommendCount": "1345",
       "title": "[電競] 2026 World Championship 瑞士輪 Day 6",
       "link": "/bbs/LoL/M.1793287727.A.06E",
@@ -165,7 +165,7 @@
     },
     {
       "recommendScore": "171",
-      "recommendCount": "281",
+      "recommendCount": "282",
       "title": "[討論] 哪個重量級人物表態挺蔣會造成大海嘯？",
       "link": "/bbs/HatePolitics/M.1793285556.A.6DA",
       "author": "iphone15",
@@ -184,6 +184,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/pVQwyO8/s/efa6e956e694d53a936e4beb075cb82e"
     },
     {
+      "recommendScore": "171",
+      "recommendCount": "338",
+      "title": "[討論] 台北設計獎頒獎，官方刪除得獎者配掛洋流",
+      "link": "/bbs/HatePolitics/M.1793278532.A.BD9",
+      "author": "z3645230",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/29 12:55",
+      "imageUrl": "https://cache.pttweb.cc/imgur/JRalWgo/s/de36158f889bc0a6a773c68263c0f97b"
+    },
+    {
       "recommendScore": "163",
       "recommendCount": "299",
       "title": "[黑特]  沈伯洋願意配合辯論延期",
@@ -192,16 +202,6 @@
       "board": "HatePolitics",
       "publishTime": "2026/10/29 09:18",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "172",
-      "recommendCount": "337",
-      "title": "[討論] 台北設計獎頒獎，官方刪除得獎者配掛洋流",
-      "link": "/bbs/HatePolitics/M.1793278532.A.BD9",
-      "author": "z3645230",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/29 12:55",
-      "imageUrl": "https://cache.pttweb.cc/imgur/JRalWgo/s/de36158f889bc0a6a773c68263c0f97b"
     }
   ]
 }
