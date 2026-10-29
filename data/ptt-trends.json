@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T19:43:12.299Z",
+  "updated": "2026-10-29T19:53:16.932Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "227",
+      "recommendCount": "268",
+      "title": "[問卦] 20261104 大家要去獻花嗎？（發錢）",
+      "link": "/bbs/Gossiping/M.1793247545.A.8FB",
+      "author": "BIA",
+      "board": "Gossiping",
+      "publishTime": "2026/10/29 04:19",
+      "imageUrl": "https://cache.pttweb.cc/imgur/BgiI3kr/s/5d2275a58a29330ecc283a440f73299e"
+    },
+    {
       "recommendScore": "141",
       "recommendCount": "282",
       "title": "[問卦] 納坦亞胡：他們偷走以色列選舉",
@@ -112,16 +122,6 @@
       "board": "Gossiping",
       "publishTime": "2026/10/29 09:34",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "226",
-      "recommendCount": "267",
-      "title": "[問卦] 20261104 大家要去獻花嗎？（發錢）",
-      "link": "/bbs/Gossiping/M.1793247545.A.8FB",
-      "author": "BIA",
-      "board": "Gossiping",
-      "publishTime": "2026/10/29 04:19",
-      "imageUrl": "https://cache.pttweb.cc/imgur/BgiI3kr/s/5d2275a58a29330ecc283a440f73299e"
     },
     {
       "recommendScore": "124",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "270",
+      "recommendScore": "167",
+      "recommendCount": "274",
       "title": "[討論] 哪個重量級人物表態挺蔣會造成大海嘯？",
       "link": "/bbs/HatePolitics/M.1793285556.A.6DA",
       "author": "iphone15",
