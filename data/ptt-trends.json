@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T14:20:43.468Z",
+  "updated": "2026-10-29T14:29:49.049Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "222",
+      "recommendCount": "261",
+      "title": "[情報]  William Contreras：我是世界上最棒捕手",
+      "link": "/bbs/Baseball/M.1793256220.A.FC9",
+      "author": "jin168chen",
+      "board": "Baseball",
+      "publishTime": "2026/10/29 06:43",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "134",
       "recommendCount": "407",
       "title": "[新聞] 公務員出走…4年萬人離職 逾半數年資不到5年",
@@ -101,16 +111,6 @@
       "author": "wu73",
       "board": "Gossiping",
       "publishTime": "2026/10/28 23:13",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "221",
-      "recommendCount": "260",
-      "title": "[情報]  William Contreras：我是世界上最棒捕手",
-      "link": "/bbs/Baseball/M.1793256220.A.FC9",
-      "author": "jin168chen",
-      "board": "Baseball",
-      "publishTime": "2026/10/29 06:43",
       "imageUrl": ""
     },
     {
@@ -124,8 +124,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/BgiI3kr/s/5d2275a58a29330ecc283a440f73299e"
     },
     {
-      "recommendScore": "132",
-      "recommendCount": "257",
+      "recommendScore": "133",
+      "recommendCount": "259",
       "title": "[問卦] 納坦亞胡：他們偷走以色列選舉",
       "link": "/bbs/Gossiping/M.1793266480.A.E63",
       "author": "bluehttp",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "121",
-      "recommendCount": "601",
+      "recommendScore": "124",
+      "recommendCount": "612",
       "title": "[討論] 苗博雅怎麼仇恨值比沈伯洋高？",
       "link": "/bbs/HatePolitics/M.1793264111.A.EAF",
       "author": "TheoEpstein",
@@ -164,14 +164,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "178",
-      "recommendCount": "476",
-      "title": "[新聞] 被爆抄襲！蔣萬安網站竟是下AI指令「參考」沈伯洋 蔣團隊急切割",
-      "link": "/bbs/Gossiping/M.1793197293.A.4A0",
-      "author": "cheinshin",
+      "recommendScore": "65",
+      "recommendCount": "273",
+      "title": "[問卦] 台女：從第一餐看出一個男生的底牌",
+      "link": "/bbs/Gossiping/M.1793251542.A.1FB",
+      "author": "vamwill",
       "board": "Gossiping",
-      "publishTime": "2026/10/28 14:21",
-      "imageUrl": ""
+      "publishTime": "2026/10/29 05:25",
+      "imageUrl": "https://cache.pttweb.cc/imgur/pVQwyO8/s/efa6e956e694d53a936e4beb075cb82e"
     },
     {
       "recommendScore": "107",
@@ -184,23 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "63",
-      "recommendCount": "270",
-      "title": "[問卦] 台女：從第一餐看出一個男生的底牌",
-      "link": "/bbs/Gossiping/M.1793251542.A.1FB",
-      "author": "vamwill",
-      "board": "Gossiping",
-      "publishTime": "2026/10/29 05:25",
-      "imageUrl": "https://cache.pttweb.cc/imgur/pVQwyO8/s/efa6e956e694d53a936e4beb075cb82e"
-    },
-    {
-      "recommendScore": "156",
-      "recommendCount": "285",
+      "recommendScore": "158",
+      "recommendCount": "289",
       "title": "[黑特]  沈伯洋願意配合辯論延期",
       "link": "/bbs/HatePolitics/M.1793265499.A.230",
       "author": "Blastodern",
       "board": "HatePolitics",
       "publishTime": "2026/10/29 09:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "157",
+      "recommendCount": "261",
+      "title": "[討論] 1b廣洋涉賄選被帶回偵訊",
+      "link": "/bbs/HatePolitics/M.1793259575.A.A63",
+      "author": "smallweek",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/29 07:39",
       "imageUrl": ""
     }
   ]
