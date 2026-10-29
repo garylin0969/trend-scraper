@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T05:43:14.405Z",
+  "updated": "2026-10-29T05:53:12.675Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "317",
-      "recommendCount": "392",
+      "recommendScore": "322",
+      "recommendCount": "401",
       "title": "[情報] 釀酒人4-1打敗光芒 奪下創隊58年首冠！！",
       "link": "/bbs/Baseball/M.1793243602.A.566",
       "author": "carlchang092",
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "203",
+      "recommendCount": "427",
+      "title": "[新聞] 李正皓喊「髒活我們做」惹議 綠營急切割：來賓言論不代表本台立場",
+      "link": "/bbs/Gossiping/M.1793245373.A.976",
+      "author": "omanorboyo",
+      "board": "Gossiping",
+      "publishTime": "2026/10/29 03:42",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "206",
       "recommendCount": "345",
       "title": "[新聞] 快訊／河口湖又有「外國人殺人案」！韓男遭韓女勒斃棄屍深山",
@@ -91,16 +101,6 @@
       "author": "Master5566",
       "board": "Gossiping",
       "publishTime": "2026/10/28 08:12",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "193",
-      "recommendCount": "412",
-      "title": "[新聞] 李正皓喊「髒活我們做」惹議 綠營急切割：來賓言論不代表本台立場",
-      "link": "/bbs/Gossiping/M.1793245373.A.976",
-      "author": "omanorboyo",
-      "board": "Gossiping",
-      "publishTime": "2026/10/29 03:42",
       "imageUrl": ""
     },
     {
@@ -115,7 +115,7 @@
     },
     {
       "recommendScore": "187",
-      "recommendCount": "435",
+      "recommendCount": "437",
       "title": "[問卦] 生育率世界最低 這個國家出了什麼問題",
       "link": "/bbs/Gossiping/M.1793188923.A.A5A",
       "author": "morgankhs",
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "155",
-      "recommendCount": "330",
-      "title": "[情報] 76人先發5人正負值 只有LBJ是負的(-17)",
-      "link": "/bbs/NBA/M.1793166184.A.4BB",
-      "author": "usnavyseal",
-      "board": "NBA",
-      "publishTime": "2026/10/28 05:43",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "170",
       "recommendCount": "590",
       "title": "[新聞] 蔣萬安細數任內政策 陳智菡嗆「全是柯文哲政績」盼還公道",
@@ -201,6 +191,16 @@
       "author": "ericliu007",
       "board": "Gossiping",
       "publishTime": "2026/10/28 10:26",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "121",
+      "recommendCount": "378",
+      "title": "[新聞] 公務員出走…4年萬人離職 逾半數年資不到5年",
+      "link": "/bbs/Gossiping/M.1793229200.A.6C6",
+      "author": "wu73",
+      "board": "Gossiping",
+      "publishTime": "2026/10/28 23:13",
       "imageUrl": ""
     }
   ]
