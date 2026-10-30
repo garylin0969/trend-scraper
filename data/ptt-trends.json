@@ -1,18 +1,8 @@
 {
-  "updated": "2026-10-30T00:53:59.966Z",
+  "updated": "2026-10-30T01:10:59.793Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "333",
-      "recommendCount": "764",
-      "title": "[新聞] 爆收雲豹300萬獻金爭議！賴瑞隆親上火線回應",
-      "link": "/bbs/Gossiping/M.1793235182.A.AB3",
-      "author": "copybrown",
-      "board": "Gossiping",
-      "publishTime": "2026/10/29 00:53",
-      "imageUrl": "https://cache.pttweb.cc/imgur/KQE4TaS/s/da6881b001faab30850b0261bcba66e0"
-    },
     {
       "recommendScore": "275",
       "recommendCount": "577",
@@ -21,7 +11,7 @@
       "author": "omanorboyo",
       "board": "Gossiping",
       "publishTime": "2026/10/29 03:42",
-      "imageUrl": ""
+      "imageUrl": "https://cache.pttweb.cc/imgur/KQE4TaS/s/da6881b001faab30850b0261bcba66e0"
     },
     {
       "recommendScore": "344",
@@ -42,6 +32,16 @@
       "board": "Gossiping",
       "publishTime": "2026/10/29 05:47",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "736",
+      "recommendCount": "1345",
+      "title": "[電競] 2026 World Championship 瑞士輪 Day 6",
+      "link": "/bbs/LoL/M.1793287727.A.06E",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2026/10/29 15:28",
+      "imageUrl": "https://cache.pttweb.cc/imgur/bPFmZxw/s/c13326f47e8683a830559e33d97d85d5"
     },
     {
       "recommendScore": "322",
@@ -74,14 +74,14 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/gRCBXlt/s/d92c168e4e55edb4123e849759a3c2e3"
     },
     {
-      "recommendScore": "774",
-      "recommendCount": "1345",
-      "title": "[電競] 2026 World Championship 瑞士輪 Day 6",
-      "link": "/bbs/LoL/M.1793287727.A.06E",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2026/10/29 15:28",
-      "imageUrl": "https://cache.pttweb.cc/imgur/bPFmZxw/s/c13326f47e8683a830559e33d97d85d5"
+      "recommendScore": "252",
+      "recommendCount": "289",
+      "title": "[新聞] Patrick Stewart 過世",
+      "link": "/bbs/movie/M.1793305127.A.815",
+      "author": "Superman007",
+      "board": "movie",
+      "publishTime": "2026/10/29 20:18",
+      "imageUrl": ""
     },
     {
       "recommendScore": "180",
@@ -91,16 +91,6 @@
       "author": "coconing",
       "board": "Stock",
       "publishTime": "2026/10/29 07:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "234",
-      "recommendCount": "268",
-      "title": "[新聞] Patrick Stewart 過世",
-      "link": "/bbs/movie/M.1793305127.A.815",
-      "author": "Superman007",
-      "board": "movie",
-      "publishTime": "2026/10/29 20:18",
       "imageUrl": ""
     },
     {
@@ -114,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "144",
-      "recommendCount": "287",
+      "recommendScore": "145",
+      "recommendCount": "288",
       "title": "[問卦] 納坦亞胡：他們偷走以色列選舉",
       "link": "/bbs/Gossiping/M.1793266480.A.E63",
       "author": "bluehttp",
@@ -185,7 +175,7 @@
     },
     {
       "recommendScore": "69",
-      "recommendCount": "286",
+      "recommendCount": "287",
       "title": "[問卦] 台女：從第一餐看出一個男生的底牌",
       "link": "/bbs/Gossiping/M.1793251542.A.1FB",
       "author": "vamwill",
@@ -201,6 +191,16 @@
       "author": "Blastodern",
       "board": "HatePolitics",
       "publishTime": "2026/10/29 09:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "178",
+      "recommendCount": "212",
+      "title": "[閒聊] X教授 派翠克過世",
+      "link": "/bbs/C_Chat/M.1793303892.A.DEF",
+      "author": "Fatesoul",
+      "board": "C_Chat",
+      "publishTime": "2026/10/29 19:58",
       "imageUrl": ""
     }
   ]
