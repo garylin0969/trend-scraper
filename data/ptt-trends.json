@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-30T13:43:53.802Z",
+  "updated": "2026-10-30T13:53:34.176Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "211",
-      "recommendCount": "1246",
+      "recommendCount": "1247",
       "title": "[新聞] 蔣萬安「直接聯繫黃仁勳」輝達內部炸鍋！批石舫亘：太荒謬",
       "link": "/bbs/Gossiping/M.1793325008.A.115",
       "author": "yijyi",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "392",
+      "recommendScore": "206",
+      "recommendCount": "393",
       "title": "[外絮] LBJ是誰？ 湖人樂於卸下離隊球星的包袱",
       "link": "/bbs/NBA/M.1793344819.A.E28",
       "author": "usnavyseal",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "192",
-      "recommendCount": "279",
+      "recommendScore": "193",
+      "recommendCount": "280",
       "title": "[閒聊] Bin:比賽的輸贏是很正常的事吧",
       "link": "/bbs/LoL/M.1793342393.A.F89",
       "author": "sezna",
@@ -184,6 +184,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ra17ciN/s/1f0ea4e2bd1371233d86e0d37bb9cc82"
     },
     {
+      "recommendScore": "182",
+      "recommendCount": "472",
+      "title": "[情報] 日本正在拆除鳥山明的房子跟工作室",
+      "link": "/bbs/C_Chat/M.1793349177.A.A8E",
+      "author": "gaiaesque",
+      "board": "C_Chat",
+      "publishTime": "2026/10/30 08:32",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "119",
       "recommendCount": "804",
       "title": "[討論] 陳菊在高雄做了什麼才被罵爆",
@@ -191,16 +201,6 @@
       "author": "Justapig",
       "board": "HatePolitics",
       "publishTime": "2026/10/30 04:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "180",
-      "recommendCount": "468",
-      "title": "[情報] 日本正在拆除鳥山明的房子跟工作室",
-      "link": "/bbs/C_Chat/M.1793349177.A.A8E",
-      "author": "gaiaesque",
-      "board": "C_Chat",
-      "publishTime": "2026/10/30 08:32",
       "imageUrl": ""
     }
   ]
