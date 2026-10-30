@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T01:21:32.879Z",
+  "updated": "2026-10-30T01:41:32.669Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,16 +34,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "736",
-      "recommendCount": "1345",
-      "title": "[電競] 2026 World Championship 瑞士輪 Day 6",
-      "link": "/bbs/LoL/M.1793287727.A.06E",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2026/10/29 15:28",
-      "imageUrl": "https://cache.pttweb.cc/imgur/bPFmZxw/s/c13326f47e8683a830559e33d97d85d5"
-    },
-    {
       "recommendScore": "322",
       "recommendCount": "363",
       "title": "[競猜] 若酒鬼G5封王，猜FMVP",
@@ -52,6 +42,16 @@
       "board": "Baseball",
       "publishTime": "2026/10/29 02:58",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "746",
+      "recommendCount": "1345",
+      "title": "[電競] 2026 World Championship 瑞士輪 Day 6",
+      "link": "/bbs/LoL/M.1793287727.A.06E",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2026/10/29 15:28",
+      "imageUrl": "https://cache.pttweb.cc/imgur/bPFmZxw/s/c13326f47e8683a830559e33d97d85d5"
     },
     {
       "recommendScore": "278",
@@ -74,8 +74,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/gRCBXlt/s/d92c168e4e55edb4123e849759a3c2e3"
     },
     {
-      "recommendScore": "266",
-      "recommendCount": "305",
+      "recommendScore": "273",
+      "recommendCount": "313",
       "title": "[新聞] Patrick Stewart 過世",
       "link": "/bbs/movie/M.1793305127.A.815",
       "author": "Superman007",
@@ -124,8 +124,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/BgiI3kr/s/5d2275a58a29330ecc283a440f73299e"
     },
     {
-      "recommendScore": "126",
-      "recommendCount": "632",
+      "recommendScore": "125",
+      "recommendCount": "633",
       "title": "[討論] 苗博雅怎麼仇恨值比沈伯洋高？",
       "link": "/bbs/HatePolitics/M.1793264111.A.EAF",
       "author": "TheoEpstein",
@@ -141,6 +141,16 @@
       "author": "lelena",
       "board": "Gossiping",
       "publishTime": "2026/10/29 02:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "191",
+      "recommendCount": "227",
+      "title": "[閒聊] X教授 派翠克過世",
+      "link": "/bbs/C_Chat/M.1793303892.A.DEF",
+      "author": "Fatesoul",
+      "board": "C_Chat",
+      "publishTime": "2026/10/29 19:58",
       "imageUrl": ""
     },
     {
@@ -164,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "174",
-      "recommendCount": "359",
+      "recommendScore": "175",
+      "recommendCount": "360",
       "title": "[討論] 台北設計獎頒獎，官方刪除得獎者配掛洋流",
       "link": "/bbs/HatePolitics/M.1793278532.A.BD9",
       "author": "z3645230",
@@ -191,16 +201,6 @@
       "author": "Blastodern",
       "board": "HatePolitics",
       "publishTime": "2026/10/29 09:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "178",
-      "recommendCount": "212",
-      "title": "[閒聊] X教授 派翠克過世",
-      "link": "/bbs/C_Chat/M.1793303892.A.DEF",
-      "author": "Fatesoul",
-      "board": "C_Chat",
-      "publishTime": "2026/10/29 19:58",
       "imageUrl": ""
     }
   ]
