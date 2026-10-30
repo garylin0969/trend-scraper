@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T20:07:48.472Z",
+  "updated": "2026-10-30T20:14:31.479Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -154,16 +154,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "193",
-      "recommendCount": "233",
-      "title": "[新聞] 男星派屈克・史都華與阿茲海默症及路易",
-      "link": "/bbs/Gossiping/M.1793304670.A.D35",
-      "author": "jummy13",
-      "board": "Gossiping",
-      "publishTime": "2026/10/29 20:11",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "197",
       "recommendCount": "506",
       "title": "[外絮] Kuminga打出勇士當初期待的樣子",
@@ -201,6 +191,16 @@
       "author": "y12544",
       "board": "LoL",
       "publishTime": "2026/10/30 02:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "170",
+      "recommendCount": "262",
+      "title": "[情報] 鄭宗哲交易到老虎",
+      "link": "/bbs/Baseball/M.1793324525.A.B31",
+      "author": "EZ78",
+      "board": "Baseball",
+      "publishTime": "2026/10/30 01:42",
       "imageUrl": ""
     }
   ]
