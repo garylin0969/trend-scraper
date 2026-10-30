@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T20:14:31.479Z",
+  "updated": "2026-10-30T20:23:23.927Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -21,16 +21,6 @@
       "author": "j0912970189",
       "board": "Gossiping",
       "publishTime": "2026/10/30 07:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "435",
-      "recommendCount": "507",
-      "title": "[新聞] Patrick Stewart 過世",
-      "link": "/bbs/movie/M.1793305127.A.815",
-      "author": "Superman007",
-      "board": "movie",
-      "publishTime": "2026/10/29 20:18",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "EZ78",
       "board": "Baseball",
       "publishTime": "2026/10/30 01:42",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "175",
+      "recommendCount": "219",
+      "title": "[閒聊] 滔搏委託律師說明罪安P簽申請進度",
+      "link": "/bbs/LoL/M.1793358584.A.E17",
+      "author": "rainnawind",
+      "board": "LoL",
+      "publishTime": "2026/10/30 11:09",
       "imageUrl": ""
     }
   ]
