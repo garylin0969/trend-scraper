@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T19:53:27.582Z",
+  "updated": "2026-10-30T20:07:48.472Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "435",
-      "recommendCount": "506",
+      "recommendCount": "507",
       "title": "[新聞] Patrick Stewart 過世",
       "link": "/bbs/movie/M.1793305127.A.815",
       "author": "Superman007",
@@ -91,16 +91,6 @@
       "author": "ChanHoPark",
       "board": "Stock",
       "publishTime": "2026/10/30 05:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "244",
-      "recommendCount": "292",
-      "title": "[閒聊] X教授 派翠克過世",
-      "link": "/bbs/C_Chat/M.1793303892.A.DEF",
-      "author": "Fatesoul",
-      "board": "C_Chat",
-      "publishTime": "2026/10/29 19:58",
       "imageUrl": ""
     },
     {
@@ -201,6 +191,16 @@
       "author": "Justapig",
       "board": "HatePolitics",
       "publishTime": "2026/10/30 04:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "181",
+      "recommendCount": "274",
+      "title": "[閒聊] Viper：有人說潘森沒大 結果潘森直接跳",
+      "link": "/bbs/LoL/M.1793326017.A.B87",
+      "author": "y12544",
+      "board": "LoL",
+      "publishTime": "2026/10/30 02:06",
       "imageUrl": ""
     }
   ]
