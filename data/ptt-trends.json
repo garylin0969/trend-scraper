@@ -1,18 +1,8 @@
 {
-  "updated": "2026-10-30T03:43:21.578Z",
+  "updated": "2026-10-30T03:53:30.463Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "275",
-      "recommendCount": "577",
-      "title": "[新聞] 李正皓喊「髒活我們做」惹議 綠營急切割：來賓言論不代表本台立場",
-      "link": "/bbs/Gossiping/M.1793245373.A.976",
-      "author": "omanorboyo",
-      "board": "Gossiping",
-      "publishTime": "2026/10/29 03:42",
-      "imageUrl": "https://cache.pttweb.cc/imgur/bPFmZxw/s/c13326f47e8683a830559e33d97d85d5"
-    },
     {
       "recommendScore": "256",
       "recommendCount": "595",
@@ -21,11 +11,11 @@
       "author": "william8403",
       "board": "Gossiping",
       "publishTime": "2026/10/29 05:47",
-      "imageUrl": ""
+      "imageUrl": "https://cache.pttweb.cc/imgur/bPFmZxw/s/c13326f47e8683a830559e33d97d85d5"
     },
     {
-      "recommendScore": "343",
-      "recommendCount": "397",
+      "recommendScore": "348",
+      "recommendCount": "404",
       "title": "[新聞] Patrick Stewart 過世",
       "link": "/bbs/movie/M.1793305127.A.815",
       "author": "Superman007",
@@ -42,6 +32,16 @@
       "board": "LoL",
       "publishTime": "2026/10/29 15:28",
       "imageUrl": "https://cache.pttweb.cc/imgur/bPFmZxw/s/c13326f47e8683a830559e33d97d85d5"
+    },
+    {
+      "recommendScore": "115",
+      "recommendCount": "810",
+      "title": "[新聞] 蔣萬安「直接聯繫黃仁勳」輝達內部炸鍋！批石舫亘：太荒謬",
+      "link": "/bbs/Gossiping/M.1793325008.A.115",
+      "author": "yijyi",
+      "board": "Gossiping",
+      "publishTime": "2026/10/30 01:50",
+      "imageUrl": ""
     },
     {
       "recommendScore": "278",
@@ -62,16 +62,6 @@
       "board": "Gossiping",
       "publishTime": "2026/10/29 06:10",
       "imageUrl": "https://cache.pttweb.cc/imgur/gRCBXlt/s/d92c168e4e55edb4123e849759a3c2e3"
-    },
-    {
-      "recommendScore": "108",
-      "recommendCount": "763",
-      "title": "[新聞] 蔣萬安「直接聯繫黃仁勳」輝達內部炸鍋！批石舫亘：太荒謬",
-      "link": "/bbs/Gossiping/M.1793325008.A.115",
-      "author": "yijyi",
-      "board": "Gossiping",
-      "publishTime": "2026/10/30 01:50",
-      "imageUrl": ""
     },
     {
       "recommendScore": "180",
@@ -201,6 +191,16 @@
       "author": "ccugoo",
       "board": "Gossiping",
       "publishTime": "2026/10/29 15:05",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "163",
+      "recommendCount": "300",
+      "title": "[黑特]  沈伯洋願意配合辯論延期",
+      "link": "/bbs/HatePolitics/M.1793265499.A.230",
+      "author": "Blastodern",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/29 09:18",
       "imageUrl": ""
     }
   ]
