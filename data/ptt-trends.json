@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T14:37:48.278Z",
+  "updated": "2026-10-30T14:44:32.201Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -15,7 +15,7 @@
     },
     {
       "recommendScore": "399",
-      "recommendCount": "964",
+      "recommendCount": "968",
       "title": "[問卦] 洪仲丘案鬧這麼大 現在軍人自殺沒新聞",
       "link": "/bbs/Gossiping/M.1793346859.A.37D",
       "author": "j0912970189",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "430",
-      "recommendCount": "500",
+      "recommendScore": "431",
+      "recommendCount": "501",
       "title": "[新聞] Patrick Stewart 過世",
       "link": "/bbs/movie/M.1793305127.A.815",
       "author": "Superman007",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "169",
-      "recommendCount": "304",
+      "recommendScore": "170",
+      "recommendCount": "305",
       "title": "[新聞] 台股悲情10月！股民財富平均每人蒸發71萬元",
       "link": "/bbs/Stock/M.1793338338.A.08C",
       "author": "ChanHoPark",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "178",
-      "recommendCount": "276",
+      "recommendScore": "180",
+      "recommendCount": "278",
       "title": "[問卦] 洋洋 分析今天台股大跌原因！精華",
       "link": "/bbs/Gossiping/M.1793330283.A.DF3",
       "author": "HNCB2880",
@@ -184,6 +184,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ra17ciN/s/1f0ea4e2bd1371233d86e0d37bb9cc82"
     },
     {
+      "recommendScore": "89",
+      "recommendCount": "298",
+      "title": "[新聞] 快新聞／最後29天！賴瑞隆民調領先柯志恩喊話高雄人：給我8年拚黃金10年",
+      "link": "/bbs/Gossiping/M.1793362003.A.DE8",
+      "author": "tsukiji",
+      "board": "Gossiping",
+      "publishTime": "2026/10/30 12:06",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "183",
       "recommendCount": "474",
       "title": "[情報] 日本正在拆除鳥山明的房子跟工作室",
@@ -191,16 +201,6 @@
       "author": "gaiaesque",
       "board": "C_Chat",
       "publishTime": "2026/10/30 08:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "119",
-      "recommendCount": "804",
-      "title": "[討論] 陳菊在高雄做了什麼才被罵爆",
-      "link": "/bbs/HatePolitics/M.1793332864.A.BDD",
-      "author": "Justapig",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/30 04:01",
       "imageUrl": ""
     }
   ]
