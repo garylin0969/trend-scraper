@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T21:13:35.559Z",
+  "updated": "2026-10-30T21:23:13.139Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "99",
-      "recommendCount": "595",
+      "recommendScore": "100",
+      "recommendCount": "599",
       "title": "[新聞] 快訊／立院三讀！　毒駕「再犯害死人」最重可處死刑",
       "link": "/bbs/Gossiping/M.1793338311.A.703",
       "author": "qazxc1156892",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "281",
-      "recommendCount": "577",
+      "recommendScore": "282",
+      "recommendCount": "578",
       "title": "Re: [問卦] 洪仲丘案鬧這麼大 現在軍人自殺沒新聞",
       "link": "/bbs/Gossiping/M.1793365620.A.D4B",
       "author": "a34567",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "252",
-      "recommendCount": "575",
+      "recommendScore": "253",
+      "recommendCount": "576",
       "title": "[問卦] 這場辯論你給幾分",
       "link": "/bbs/Gossiping/M.1793366982.A.CEB",
       "author": "Max0406",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "103",
-      "recommendCount": "342",
+      "recommendScore": "104",
+      "recommendCount": "343",
       "title": "[新聞] 快新聞／最後29天！賴瑞隆民調領先柯志恩喊話高雄人：給我8年拚黃金10年",
       "link": "/bbs/Gossiping/M.1793362003.A.DE8",
       "author": "tsukiji",
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "179",
+      "recommendCount": "226",
+      "title": "[閒聊] 滔搏委託律師說明罪安P簽申請進度",
+      "link": "/bbs/LoL/M.1793358584.A.E17",
+      "author": "rainnawind",
+      "board": "LoL",
+      "publishTime": "2026/10/30 11:09",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "181",
       "recommendCount": "274",
       "title": "[閒聊] Viper：有人說潘森沒大 結果潘森直接跳",
@@ -191,16 +201,6 @@
       "author": "EZ78",
       "board": "Baseball",
       "publishTime": "2026/10/30 01:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "178",
-      "recommendCount": "224",
-      "title": "[閒聊] 滔搏委託律師說明罪安P簽申請進度",
-      "link": "/bbs/LoL/M.1793358584.A.E17",
-      "author": "rainnawind",
-      "board": "LoL",
-      "publishTime": "2026/10/30 11:09",
       "imageUrl": ""
     }
   ]
