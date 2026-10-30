@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T12:53:12.227Z",
+  "updated": "2026-10-30T13:09:11.252Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/bPFmZxw/s/c13326f47e8683a830559e33d97d85d5"
     },
     {
-      "recommendScore": "381",
-      "recommendCount": "918",
+      "recommendScore": "383",
+      "recommendCount": "924",
       "title": "[問卦] 洪仲丘案鬧這麼大 現在軍人自殺沒新聞",
       "link": "/bbs/Gossiping/M.1793346859.A.37D",
       "author": "j0912970189",
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "95",
-      "recommendCount": "581",
+      "recommendCount": "582",
       "title": "[新聞] 快訊／立院三讀！　毒駕「再犯害死人」最重可處死刑",
       "link": "/bbs/Gossiping/M.1793338311.A.703",
       "author": "qazxc1156892",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "310",
-      "recommendCount": "508",
+      "recommendScore": "311",
+      "recommendCount": "509",
       "title": "[情報] 115年10月30日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1793344169.A.FE7",
       "author": "coconing",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "176",
-      "recommendCount": "273",
+      "recommendScore": "177",
+      "recommendCount": "274",
       "title": "[問卦] 洋洋 分析今天台股大跌原因！精華",
       "link": "/bbs/Gossiping/M.1793330283.A.DF3",
       "author": "HNCB2880",
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "136",
-      "recommendCount": "315",
+      "recommendScore": "135",
+      "recommendCount": "317",
       "title": "[新聞] 聽ChatGPT建議擅自停藥！　31歲女工程師「癲癇發作」暴斃",
       "link": "/bbs/Gossiping/M.1793286310.A.387",
       "author": "ccugoo",
@@ -154,18 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "193",
-      "recommendCount": "233",
-      "title": "[新聞] 男星派屈克・史都華與阿茲海默症及路易",
-      "link": "/bbs/Gossiping/M.1793304670.A.D35",
-      "author": "jummy13",
-      "board": "Gossiping",
-      "publishTime": "2026/10/29 20:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "191",
-      "recommendCount": "277",
+      "recommendScore": "192",
+      "recommendCount": "278",
       "title": "[閒聊] Bin:比賽的輸贏是很正常的事吧",
       "link": "/bbs/LoL/M.1793342393.A.F89",
       "author": "sezna",
@@ -174,14 +164,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "177",
-      "recommendCount": "362",
-      "title": "[討論] 台北設計獎頒獎，官方刪除得獎者配掛洋流",
-      "link": "/bbs/HatePolitics/M.1793278532.A.BD9",
-      "author": "z3645230",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/29 12:55",
-      "imageUrl": "https://cache.pttweb.cc/imgur/JRalWgo/s/de36158f889bc0a6a773c68263c0f97b"
+      "recommendScore": "193",
+      "recommendCount": "233",
+      "title": "[新聞] 男星派屈克・史都華與阿茲海默症及路易",
+      "link": "/bbs/Gossiping/M.1793304670.A.D35",
+      "author": "jummy13",
+      "board": "Gossiping",
+      "publishTime": "2026/10/29 20:11",
+      "imageUrl": ""
     },
     {
       "recommendScore": "198",
@@ -201,6 +191,16 @@
       "author": "Justapig",
       "board": "HatePolitics",
       "publishTime": "2026/10/30 04:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "181",
+      "recommendCount": "274",
+      "title": "[閒聊] Viper：有人說潘森沒大 結果潘森直接跳",
+      "link": "/bbs/LoL/M.1793326017.A.B87",
+      "author": "y12544",
+      "board": "LoL",
+      "publishTime": "2026/10/30 02:06",
       "imageUrl": ""
     }
   ]
