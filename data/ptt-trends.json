@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T21:43:17.795Z",
+  "updated": "2026-10-30T21:53:11.539Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "253",
+      "recommendCount": "584",
+      "title": "[問卦] 這場辯論你給幾分",
+      "link": "/bbs/Gossiping/M.1793366982.A.CEB",
+      "author": "Max0406",
+      "board": "Gossiping",
+      "publishTime": "2026/10/30 13:29",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "173",
       "recommendCount": "308",
       "title": "[新聞] 台股悲情10月！股民財富平均每人蒸發71萬元",
@@ -81,16 +91,6 @@
       "author": "ChanHoPark",
       "board": "Stock",
       "publishTime": "2026/10/30 05:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "254",
-      "recommendCount": "579",
-      "title": "[問卦] 這場辯論你給幾分",
-      "link": "/bbs/Gossiping/M.1793366982.A.CEB",
-      "author": "Max0406",
-      "board": "Gossiping",
-      "publishTime": "2026/10/30 13:29",
       "imageUrl": ""
     },
     {
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "140",
+      "recommendCount": "251",
+      "title": "[請益] 資金從股市撤退會流向哪裡？",
+      "link": "/bbs/Stock/M.1793370907.A.AAD",
+      "author": "x0321j",
+      "board": "Stock",
+      "publishTime": "2026/10/30 14:35",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "179",
       "recommendCount": "226",
       "title": "[閒聊] 滔搏委託律師說明罪安P簽申請進度",
@@ -191,16 +201,6 @@
       "author": "y12544",
       "board": "LoL",
       "publishTime": "2026/10/30 02:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "171",
-      "recommendCount": "263",
-      "title": "[情報] 鄭宗哲交易到老虎",
-      "link": "/bbs/Baseball/M.1793324525.A.B31",
-      "author": "EZ78",
-      "board": "Baseball",
-      "publishTime": "2026/10/30 01:42",
       "imageUrl": ""
     }
   ]
