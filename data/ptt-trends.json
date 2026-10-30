@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T07:37:57.921Z",
+  "updated": "2026-10-30T07:44:34.478Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/bPFmZxw/s/c13326f47e8683a830559e33d97d85d5"
     },
     {
-      "recommendScore": "405",
-      "recommendCount": "472",
+      "recommendScore": "407",
+      "recommendCount": "474",
       "title": "[新聞] Patrick Stewart 過世",
       "link": "/bbs/movie/M.1793305127.A.815",
       "author": "Superman007",
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "162",
+      "recommendCount": "279",
+      "title": "[情報] 115年10月30日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1793344169.A.FE7",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2026/10/30 07:09",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "134",
       "recommendCount": "310",
       "title": "[新聞] 聽ChatGPT建議擅自停藥！　31歲女工程師「癲癇發作」暴斃",
@@ -124,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "187",
-      "recommendCount": "224",
+      "recommendScore": "188",
+      "recommendCount": "225",
       "title": "[新聞] 男星派屈克・史都華與阿茲海默症及路易",
       "link": "/bbs/Gossiping/M.1793304670.A.D35",
       "author": "jummy13",
@@ -174,18 +184,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/ra17ciN/s/1f0ea4e2bd1371233d86e0d37bb9cc82"
     },
     {
-      "recommendScore": "84",
-      "recommendCount": "413",
-      "title": "[討論] 蔣萬安為何從總統地位走到今天崩潰邊緣",
-      "link": "/bbs/HatePolitics/M.1793317050.A.F8F",
-      "author": "saufu08",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/29 23:37",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "151",
-      "recommendCount": "233",
+      "recommendScore": "154",
+      "recommendCount": "238",
       "title": "[問卦] 洋洋 分析今天台股大跌原因！精華",
       "link": "/bbs/Gossiping/M.1793330283.A.DF3",
       "author": "HNCB2880",
@@ -194,13 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "158",
-      "recommendCount": "263",
-      "title": "[討論] 1b廣洋涉賄選被帶回偵訊",
-      "link": "/bbs/HatePolitics/M.1793259575.A.A63",
-      "author": "smallweek",
+      "recommendScore": "84",
+      "recommendCount": "413",
+      "title": "[討論] 蔣萬安為何從總統地位走到今天崩潰邊緣",
+      "link": "/bbs/HatePolitics/M.1793317050.A.F8F",
+      "author": "saufu08",
       "board": "HatePolitics",
-      "publishTime": "2026/10/29 07:39",
+      "publishTime": "2026/10/29 23:37",
       "imageUrl": ""
     }
   ]
