@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T02:29:33.723Z",
+  "updated": "2026-10-30T02:39:22.021Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,8 +54,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/bPFmZxw/s/c13326f47e8683a830559e33d97d85d5"
     },
     {
-      "recommendScore": "303",
-      "recommendCount": "354",
+      "recommendScore": "304",
+      "recommendCount": "356",
       "title": "[新聞] Patrick Stewart 過世",
       "link": "/bbs/movie/M.1793305127.A.815",
       "author": "Superman007",
@@ -114,14 +114,24 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "227",
-      "recommendCount": "268",
+      "recommendScore": "229",
+      "recommendCount": "270",
       "title": "[問卦] 20261104 大家要去獻花嗎？（發錢）",
       "link": "/bbs/Gossiping/M.1793247545.A.8FB",
       "author": "BIA",
       "board": "Gossiping",
       "publishTime": "2026/10/29 04:19",
       "imageUrl": "https://cache.pttweb.cc/imgur/BgiI3kr/s/5d2275a58a29330ecc283a440f73299e"
+    },
+    {
+      "recommendScore": "212",
+      "recommendCount": "253",
+      "title": "[閒聊] X教授 派翠克過世",
+      "link": "/bbs/C_Chat/M.1793303892.A.DEF",
+      "author": "Fatesoul",
+      "board": "C_Chat",
+      "publishTime": "2026/10/29 19:58",
+      "imageUrl": ""
     },
     {
       "recommendScore": "125",
@@ -134,28 +144,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/XzSrCoa/s/ef0eb17339b2fffc5de5150133806c82"
     },
     {
-      "recommendScore": "208",
-      "recommendCount": "249",
-      "title": "[閒聊] X教授 派翠克過世",
-      "link": "/bbs/C_Chat/M.1793303892.A.DEF",
-      "author": "Fatesoul",
-      "board": "C_Chat",
-      "publishTime": "2026/10/29 19:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "106",
-      "recommendCount": "378",
-      "title": "[問卦] 沒老婆小孩,人生好像缺了點什麼?",
-      "link": "/bbs/Gossiping/M.1793241183.A.16F",
-      "author": "lelena",
-      "board": "Gossiping",
-      "publishTime": "2026/10/29 02:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "174",
-      "recommendCount": "291",
+      "recommendScore": "175",
+      "recommendCount": "292",
       "title": "[討論] 哪個重量級人物表態挺蔣會造成大海嘯？",
       "link": "/bbs/HatePolitics/M.1793285556.A.6DA",
       "author": "iphone15",
@@ -201,6 +191,16 @@
       "author": "Blastodern",
       "board": "HatePolitics",
       "publishTime": "2026/10/29 09:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "122",
+      "recommendCount": "287",
+      "title": "[新聞] 聽ChatGPT建議擅自停藥！　31歲女工程師「癲癇發作」暴斃",
+      "link": "/bbs/Gossiping/M.1793286310.A.387",
+      "author": "ccugoo",
+      "board": "Gossiping",
+      "publishTime": "2026/10/29 15:05",
       "imageUrl": ""
     }
   ]
