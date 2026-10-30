@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-30T07:29:00.084Z",
+  "updated": "2026-10-30T07:37:57.921Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "203",
-      "recommendCount": "1146",
+      "recommendScore": "205",
+      "recommendCount": "1159",
       "title": "[新聞] 蔣萬安「直接聯繫黃仁勳」輝達內部炸鍋！批石舫亘：太荒謬",
       "link": "/bbs/Gossiping/M.1793325008.A.115",
       "author": "yijyi",
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "173",
-      "recommendCount": "486",
+      "recommendCount": "488",
       "title": "[新聞] 影／選戰倒數一個月 沈伯洋：低劣的抹黑會變多",
       "link": "/bbs/Gossiping/M.1793323925.A.DAD",
       "author": "ccf52881",
@@ -44,8 +44,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/bPFmZxw/s/c13326f47e8683a830559e33d97d85d5"
     },
     {
-      "recommendScore": "176",
-      "recommendCount": "903",
+      "recommendScore": "177",
+      "recommendCount": "906",
       "title": "[新聞] 蔣萬安「直接聯繫黃仁勳」輝達內部炸鍋！批石舫亘：太荒謬",
       "link": "/bbs/HatePolitics/M.1793322609.A.14A",
       "author": "jganet",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "47",
-      "recommendCount": "340",
+      "recommendScore": "52",
+      "recommendCount": "357",
       "title": "[新聞] 快訊／立院三讀！　毒駕「再犯害死人」最重可處死刑",
       "link": "/bbs/Gossiping/M.1793338311.A.703",
       "author": "qazxc1156892",
@@ -105,7 +105,7 @@
     },
     {
       "recommendScore": "134",
-      "recommendCount": "309",
+      "recommendCount": "310",
       "title": "[新聞] 聽ChatGPT建議擅自停藥！　31歲女工程師「癲癇發作」暴斃",
       "link": "/bbs/Gossiping/M.1793286310.A.387",
       "author": "ccugoo",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "186",
-      "recommendCount": "223",
+      "recommendScore": "187",
+      "recommendCount": "224",
       "title": "[新聞] 男星派屈克・史都華與阿茲海默症及路易",
       "link": "/bbs/Gossiping/M.1793304670.A.D35",
       "author": "jummy13",
@@ -154,8 +154,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "185",
-      "recommendCount": "482",
+      "recommendScore": "131",
+      "recommendCount": "226",
+      "title": "[新聞] 台股悲情10月！股民財富平均每人蒸發71萬元",
+      "link": "/bbs/Stock/M.1793338338.A.08C",
+      "author": "ChanHoPark",
+      "board": "Stock",
+      "publishTime": "2026/10/30 05:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "187",
+      "recommendCount": "484",
       "title": "[外絮] Kuminga打出勇士當初期待的樣子",
       "link": "/bbs/NBA/M.1793325170.A.76C",
       "author": "ccccccccccc",
@@ -174,13 +184,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "124",
-      "recommendCount": "214",
-      "title": "[新聞] 台股悲情10月！股民財富平均每人蒸發71萬元",
-      "link": "/bbs/Stock/M.1793338338.A.08C",
-      "author": "ChanHoPark",
-      "board": "Stock",
-      "publishTime": "2026/10/30 05:32",
+      "recommendScore": "151",
+      "recommendCount": "233",
+      "title": "[問卦] 洋洋 分析今天台股大跌原因！精華",
+      "link": "/bbs/Gossiping/M.1793330283.A.DF3",
+      "author": "HNCB2880",
+      "board": "Gossiping",
+      "publishTime": "2026/10/30 03:18",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "smallweek",
       "board": "HatePolitics",
       "publishTime": "2026/10/29 07:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "150",
-      "recommendCount": "232",
-      "title": "[問卦] 洋洋 分析今天台股大跌原因！精華",
-      "link": "/bbs/Gossiping/M.1793330283.A.DF3",
-      "author": "HNCB2880",
-      "board": "Gossiping",
-      "publishTime": "2026/10/30 03:18",
       "imageUrl": ""
     }
   ]
