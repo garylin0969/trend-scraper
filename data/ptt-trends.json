@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T21:53:16.637Z",
+  "updated": "2026-10-31T22:06:58.207Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "128",
-      "recommendCount": "516",
+      "recommendScore": "129",
+      "recommendCount": "518",
       "title": "[新聞] 辯論結束PTT再現網軍攻擊沈伯洋 資安專家曝1狀況",
       "link": "/bbs/Gossiping/M.1793459658.A.D8D",
       "author": "chadmu",
@@ -74,7 +74,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "686",
+      "recommendScore": "702",
       "recommendCount": "1345",
       "title": "[電競] 2026 World Championship 瑞士輪 Day 8",
       "link": "/bbs/LoL/M.1793449786.A.571",
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "134",
+      "recommendCount": "354",
+      "title": "[新聞] 台股失半年線 國家隊急護盤",
+      "link": "/bbs/Stock/M.1793403550.A.454",
+      "author": "ChanHoPark",
+      "board": "Stock",
+      "publishTime": "2026/10/30 23:39",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "187",
       "recommendCount": "321",
       "title": "[新聞] 謝金河看AI恐慌力 台股賣鏟人衝擊沒那麼大",
@@ -124,18 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "134",
-      "recommendCount": "353",
-      "title": "[新聞] 台股失半年線 國家隊急護盤",
-      "link": "/bbs/Stock/M.1793403550.A.454",
-      "author": "ChanHoPark",
-      "board": "Stock",
-      "publishTime": "2026/10/30 23:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "209",
-      "recommendCount": "494",
+      "recommendScore": "210",
+      "recommendCount": "496",
       "title": "[爆卦] TVBS 辯論後民調",
       "link": "/bbs/Gossiping/M.1793450003.A.A40",
       "author": "cheinshin",
@@ -165,7 +165,7 @@
     },
     {
       "recommendScore": "270",
-      "recommendCount": "598",
+      "recommendCount": "599",
       "title": "[討論] TVBS民調 蔣萬安46% 沈伯洋42%",
       "link": "/bbs/HatePolitics/M.1793449484.A.E12",
       "author": "a10141013",
