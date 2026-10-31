@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-31T14:06:39.804Z",
+  "updated": "2026-10-31T14:13:39.451Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "431",
-      "recommendCount": "872",
+      "recommendScore": "432",
+      "recommendCount": "873",
       "title": "[爆卦] TVBS 聲明",
       "link": "/bbs/Gossiping/M.1793436505.A.48B",
       "author": "TPPKoWenJe",
       "board": "Gossiping",
       "publishTime": "2026/10/31 08:48",
-      "imageUrl": "https://cache.pttweb.cc/imgur/yNgpHYP/s/711c995aecc6f4bf97d45af925380d99"
+      "imageUrl": "https://cache.pttweb.cc/imgur/HBEJLZs/s/ee95faf70c8984bb5753c90b12ce6608"
     },
     {
       "recommendScore": "533",
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "162",
-      "recommendCount": "655",
+      "recommendCount": "658",
       "title": "[新聞] 沈伯洋再說明「都更陪伴」批對手：斷章取義我的話",
       "link": "/bbs/Gossiping/M.1793439895.A.197",
       "author": "lycppt",
@@ -94,16 +94,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "730",
-      "recommendCount": "1345",
-      "title": "[電競] 2026 World Championship 瑞士輪 Day 7",
-      "link": "/bbs/LoL/M.1793369349.A.5DD",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2026/10/30 14:09",
-      "imageUrl": "https://cache.pttweb.cc/imgur/yNgpHYP/s/711c995aecc6f4bf97d45af925380d99"
-    },
-    {
       "recommendScore": "133",
       "recommendCount": "349",
       "title": "[新聞] 台股失半年線 國家隊急護盤",
@@ -134,6 +124,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "179",
+      "recommendCount": "300",
+      "title": "[新聞] 謝金河看AI恐慌力 台股賣鏟人衝擊沒那麼大",
+      "link": "/bbs/Stock/M.1793420579.A.BFE",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2026/10/31 04:22",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "81",
       "recommendCount": "426",
       "title": "[新聞] 跨性別遊行！民團籲身分證增列男、女以外選項",
@@ -141,16 +141,6 @@
       "author": "razan",
       "board": "Gossiping",
       "publishTime": "2026/10/30 15:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "177",
-      "recommendCount": "298",
-      "title": "[新聞] 謝金河看AI恐慌力 台股賣鏟人衝擊沒那麼大",
-      "link": "/bbs/Stock/M.1793420579.A.BFE",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2026/10/31 04:22",
       "imageUrl": ""
     },
     {
@@ -164,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "254",
+      "recommendCount": "553",
+      "title": "[討論] TVBS民調 蔣萬安46% 沈伯洋42%",
+      "link": "/bbs/HatePolitics/M.1793449484.A.E12",
+      "author": "a10141013",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/31 12:24",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "79",
       "recommendCount": "312",
       "title": "[新聞] 曹興誠:北市長選舉是菩薩和邪靈對決 沈伯洋若敗後果不堪設想",
@@ -174,18 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "246",
-      "recommendCount": "539",
-      "title": "[討論] TVBS民調 蔣萬安46% 沈伯洋42%",
-      "link": "/bbs/HatePolitics/M.1793449484.A.E12",
-      "author": "a10141013",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/31 12:24",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "87",
-      "recommendCount": "310",
+      "recommendScore": "88",
+      "recommendCount": "311",
       "title": "[新聞] 辯論直播差距太驚人！沈伯洋YT衝17萬人",
       "link": "/bbs/Gossiping/M.1793426653.A.FD9",
       "author": "axxp",
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "176",
-      "recommendCount": "385",
+      "recommendScore": "177",
+      "recommendCount": "397",
       "title": "[爆卦] TVBS 辯論後民調",
       "link": "/bbs/Gossiping/M.1793450003.A.A40",
       "author": "cheinshin",
       "board": "Gossiping",
       "publishTime": "2026/10/31 12:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "160",
+      "recommendCount": "301",
+      "title": "[請益] 資金從股市撤退會流向哪裡？",
+      "link": "/bbs/Stock/M.1793370907.A.AAD",
+      "author": "x0321j",
+      "board": "Stock",
+      "publishTime": "2026/10/30 14:35",
       "imageUrl": ""
     }
   ]
