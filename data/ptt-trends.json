@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T05:43:14.439Z",
+  "updated": "2026-10-31T05:53:10.317Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,7 +24,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "498",
+      "recommendScore": "516",
       "recommendCount": "1489",
       "title": "[爆卦]LIVE／台北市長辯論會！蔣萬安、沈伯洋正",
       "link": "/bbs/Gossiping/M.1793418911.A.60D",
@@ -54,13 +54,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "286",
-      "recommendCount": "666",
+      "recommendScore": "285",
+      "recommendCount": "667",
       "title": "[問卦] 這場辯論你給幾分",
       "link": "/bbs/Gossiping/M.1793366982.A.CEB",
       "author": "Max0406",
       "board": "Gossiping",
       "publishTime": "2026/10/30 13:29",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "326",
+      "recommendCount": "521",
+      "title": "[BOX ] Lakers 95:112 Warriors",
+      "link": "/bbs/NBA/M.1793422286.A.260",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2026/10/31 04:51",
       "imageUrl": ""
     },
     {
@@ -84,16 +94,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "299",
-      "recommendCount": "470",
-      "title": "[BOX ] Lakers 95:112 Warriors",
-      "link": "/bbs/NBA/M.1793422286.A.260",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2026/10/31 04:51",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "217",
       "recommendCount": "376",
       "title": "[新聞] 高雄驚傳國小老師陳屍校園 屍體在雜物間內被發現",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "129",
-      "recommendCount": "334",
+      "recommendScore": "131",
+      "recommendCount": "337",
       "title": "[新聞] 台股失半年線 國家隊急護盤",
       "link": "/bbs/Stock/M.1793403550.A.454",
       "author": "ChanHoPark",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "79",
-      "recommendCount": "415",
+      "recommendScore": "77",
+      "recommendCount": "417",
       "title": "[新聞] 跨性別遊行！民團籲身分證增列男、女以外選項",
       "link": "/bbs/Gossiping/M.1793375409.A.C23",
       "author": "razan",
@@ -165,7 +165,7 @@
     },
     {
       "recommendScore": "159",
-      "recommendCount": "291",
+      "recommendCount": "293",
       "title": "[請益] 資金從股市撤退會流向哪裡？",
       "link": "/bbs/Stock/M.1793370907.A.AAD",
       "author": "x0321j",
@@ -175,7 +175,7 @@
     },
     {
       "recommendScore": "67",
-      "recommendCount": "280",
+      "recommendCount": "284",
       "title": "[新聞] 曹興誠:北市長選舉是菩薩和邪靈對決 沈伯洋若敗後果不堪設想",
       "link": "/bbs/Gossiping/M.1793409298.A.254",
       "author": "william8403",
@@ -195,7 +195,7 @@
     },
     {
       "recommendScore": "190",
-      "recommendCount": "496",
+      "recommendCount": "497",
       "title": "[情報] 日本正在拆除鳥山明的房子跟工作室",
       "link": "/bbs/C_Chat/M.1793349177.A.A8E",
       "author": "gaiaesque",
