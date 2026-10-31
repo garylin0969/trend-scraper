@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T20:07:01.582Z",
+  "updated": "2026-10-31T20:13:47.241Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "124",
+      "recommendCount": "496",
+      "title": "[新聞] 辯論結束PTT再現網軍攻擊沈伯洋 資安專家曝1狀況",
+      "link": "/bbs/Gossiping/M.1793459658.A.D8D",
+      "author": "chadmu",
+      "board": "Gossiping",
+      "publishTime": "2026/10/31 15:14",
+      "imageUrl": "https://cache.pttweb.cc/imgur/xDwB4B7/s/1e50fd3bac28a923e7a97c50a7322c22"
+    },
+    {
       "recommendScore": "574",
       "recommendCount": "1167",
       "title": "[政治] 萬安辯論",
@@ -62,16 +72,6 @@
       "board": "BaseballXXXX",
       "publishTime": "2026/10/31 04:19",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "123",
-      "recommendCount": "491",
-      "title": "[新聞] 辯論結束PTT再現網軍攻擊沈伯洋 資安專家曝1狀況",
-      "link": "/bbs/Gossiping/M.1793459658.A.D8D",
-      "author": "chadmu",
-      "board": "Gossiping",
-      "publishTime": "2026/10/31 15:14",
-      "imageUrl": "https://cache.pttweb.cc/imgur/xDwB4B7/s/1e50fd3bac28a923e7a97c50a7322c22"
     },
     {
       "recommendScore": "246",
@@ -145,7 +145,7 @@
     },
     {
       "recommendScore": "208",
-      "recommendCount": "492",
+      "recommendCount": "493",
       "title": "[爆卦] TVBS 辯論後民調",
       "link": "/bbs/Gossiping/M.1793450003.A.A40",
       "author": "cheinshin",
