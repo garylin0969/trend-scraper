@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-31T16:43:20.681Z",
+  "updated": "2026-10-31T16:53:24.347Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
       "recommendScore": "441",
-      "recommendCount": "889",
+      "recommendCount": "892",
       "title": "[爆卦] TVBS 聲明",
       "link": "/bbs/Gossiping/M.1793436505.A.48B",
       "author": "TPPKoWenJe",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "174",
-      "recommendCount": "693",
+      "recommendScore": "175",
+      "recommendCount": "694",
       "title": "[新聞] 沈伯洋再說明「都更陪伴」批對手：斷章取義我的話",
       "link": "/bbs/Gossiping/M.1793439895.A.197",
       "author": "lycppt",
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "250",
+      "recommendCount": "358",
+      "title": "[情報] Chet Holmgren右膝髕骨肌腱撕裂",
+      "link": "/bbs/NBA/M.1793408274.A.94D",
+      "author": "SeanLi1013",
+      "board": "NBA",
+      "publishTime": "2026/10/31 00:57",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "264",
       "recommendCount": "361",
       "title": "[討論] 發錢 認同蔣萬安贏的 幫推",
@@ -81,16 +91,6 @@
       "author": "Rrrxddd",
       "board": "HatePolitics",
       "publishTime": "2026/10/31 05:17",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "250",
-      "recommendCount": "357",
-      "title": "[情報] Chet Holmgren右膝髕骨肌腱撕裂",
-      "link": "/bbs/NBA/M.1793408274.A.94D",
-      "author": "SeanLi1013",
-      "board": "NBA",
-      "publishTime": "2026/10/31 00:57",
       "imageUrl": ""
     },
     {
@@ -114,18 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "218",
-      "recommendCount": "909",
-      "title": "[討論] 都更陪伴員",
-      "link": "/bbs/HatePolitics/M.1793432899.A.F3A",
-      "author": "Berotec",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/31 07:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "183",
-      "recommendCount": "313",
+      "recommendScore": "186",
+      "recommendCount": "317",
       "title": "[新聞] 謝金河看AI恐慌力 台股賣鏟人衝擊沒那麼大",
       "link": "/bbs/Stock/M.1793420579.A.BFE",
       "author": "DrowningPool",
@@ -134,13 +124,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "204",
-      "recommendCount": "473",
+      "recommendScore": "205",
+      "recommendCount": "476",
       "title": "[爆卦] TVBS 辯論後民調",
       "link": "/bbs/Gossiping/M.1793450003.A.A40",
       "author": "cheinshin",
       "board": "Gossiping",
       "publishTime": "2026/10/31 12:33",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "218",
+      "recommendCount": "909",
+      "title": "[討論] 都更陪伴員",
+      "link": "/bbs/HatePolitics/M.1793432899.A.F3A",
+      "author": "Berotec",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/31 07:48",
       "imageUrl": ""
     },
     {
