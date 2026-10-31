@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T06:11:29.592Z",
+  "updated": "2026-10-31T06:23:29.079Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,7 +14,7 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/yNgpHYP/s/711c995aecc6f4bf97d45af925380d99"
     },
     {
-      "recommendScore": "508",
+      "recommendScore": "523",
       "recommendCount": "1489",
       "title": "[爆卦]LIVE／台北市長辯論會！蔣萬安、沈伯洋正",
       "link": "/bbs/Gossiping/M.1793418911.A.60D",
@@ -44,7 +44,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "586",
+      "recommendScore": "599",
       "recommendCount": "1490",
       "title": "[LIVE] 2026台北市長辯論直播 討論區",
       "link": "/bbs/HatePolitics/M.1793409415.A.A6A",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "333",
-      "recommendCount": "533",
+      "recommendScore": "341",
+      "recommendCount": "549",
       "title": "[BOX ] Lakers 95:112 Warriors",
       "link": "/bbs/NBA/M.1793422286.A.260",
       "author": "jason911152",
@@ -84,8 +84,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/yNgpHYP/s/711c995aecc6f4bf97d45af925380d99"
     },
     {
-      "recommendScore": "241",
-      "recommendCount": "345",
+      "recommendScore": "242",
+      "recommendCount": "346",
       "title": "[情報] Chet Holmgren右膝髕骨肌腱撕裂",
       "link": "/bbs/NBA/M.1793408274.A.94D",
       "author": "SeanLi1013",
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "538",
+      "recommendCount": "1070",
+      "title": "[政治] 萬安辯論",
+      "link": "/bbs/BaseballXXXX/M.1793420352.A.A7F",
+      "author": "JRhokkaido",
+      "board": "BaseballXXXX",
+      "publishTime": "2026/10/31 04:19",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "132",
       "recommendCount": "340",
       "title": "[新聞] 台股失半年線 國家隊急護盤",
@@ -111,16 +121,6 @@
       "author": "ChanHoPark",
       "board": "Stock",
       "publishTime": "2026/10/30 23:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "489",
-      "recommendCount": "977",
-      "title": "[政治] 萬安辯論",
-      "link": "/bbs/BaseballXXXX/M.1793420352.A.A7F",
-      "author": "JRhokkaido",
-      "board": "BaseballXXXX",
-      "publishTime": "2026/10/31 04:19",
       "imageUrl": ""
     },
     {
@@ -134,8 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "77",
-      "recommendCount": "417",
+      "recommendScore": "76",
+      "recommendCount": "418",
       "title": "[新聞] 跨性別遊行！民團籲身分證增列男、女以外選項",
       "link": "/bbs/Gossiping/M.1793375409.A.C23",
       "author": "razan",
@@ -151,6 +151,16 @@
       "author": "usnavyseal",
       "board": "NBA",
       "publishTime": "2026/10/30 07:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "192",
+      "recommendCount": "257",
+      "title": "[討論] 發錢 認同蔣萬安贏的 幫推",
+      "link": "/bbs/HatePolitics/M.1793423831.A.43A",
+      "author": "Rrrxddd",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/31 05:17",
       "imageUrl": ""
     },
     {
@@ -174,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "96",
-      "recommendCount": "453",
+      "recommendScore": "98",
+      "recommendCount": "455",
       "title": "[問卦] 為什麼八卦對同志的敵意這麼高?",
       "link": "/bbs/Gossiping/M.1793411801.A.420",
       "author": "mowkow0611",
@@ -184,23 +194,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "68",
-      "recommendCount": "287",
+      "recommendScore": "70",
+      "recommendCount": "289",
       "title": "[新聞] 曹興誠:北市長選舉是菩薩和邪靈對決 沈伯洋若敗後果不堪設想",
       "link": "/bbs/Gossiping/M.1793409298.A.254",
       "author": "william8403",
       "board": "Gossiping",
       "publishTime": "2026/10/31 01:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "178",
-      "recommendCount": "239",
-      "title": "[討論] 發錢 認同蔣萬安贏的 幫推",
-      "link": "/bbs/HatePolitics/M.1793423831.A.43A",
-      "author": "Rrrxddd",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/31 05:17",
       "imageUrl": ""
     }
   ]
