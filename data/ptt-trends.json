@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T18:53:12.146Z",
+  "updated": "2026-10-31T19:05:44.017Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "119",
+      "recommendCount": "462",
+      "title": "[新聞] 辯論結束PTT再現網軍攻擊沈伯洋 資安專家曝1狀況",
+      "link": "/bbs/Gossiping/M.1793459658.A.D8D",
+      "author": "chadmu",
+      "board": "Gossiping",
+      "publishTime": "2026/10/31 15:14",
+      "imageUrl": "https://cache.pttweb.cc/imgur/xDwB4B7/s/1e50fd3bac28a923e7a97c50a7322c22"
+    },
+    {
       "recommendScore": "264",
       "recommendCount": "361",
       "title": "[討論] 發錢 認同蔣萬安贏的 幫推",
@@ -94,14 +104,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "119",
-      "recommendCount": "459",
-      "title": "[新聞] 辯論結束PTT再現網軍攻擊沈伯洋 資安專家曝1狀況",
-      "link": "/bbs/Gossiping/M.1793459658.A.D8D",
-      "author": "chadmu",
-      "board": "Gossiping",
-      "publishTime": "2026/10/31 15:14",
-      "imageUrl": "https://cache.pttweb.cc/imgur/xDwB4B7/s/1e50fd3bac28a923e7a97c50a7322c22"
+      "recommendScore": "187",
+      "recommendCount": "321",
+      "title": "[新聞] 謝金河看AI恐慌力 台股賣鏟人衝擊沒那麼大",
+      "link": "/bbs/Stock/M.1793420579.A.BFE",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2026/10/31 04:22",
+      "imageUrl": ""
     },
     {
       "recommendScore": "134",
@@ -111,16 +121,6 @@
       "author": "ChanHoPark",
       "board": "Stock",
       "publishTime": "2026/10/30 23:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "187",
-      "recommendCount": "320",
-      "title": "[新聞] 謝金河看AI恐慌力 台股賣鏟人衝擊沒那麼大",
-      "link": "/bbs/Stock/M.1793420579.A.BFE",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2026/10/31 04:22",
       "imageUrl": ""
     },
     {
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "649",
-      "recommendCount": "1145",
+      "recommendScore": "675",
+      "recommendCount": "1185",
       "title": "[電競] 2026 World Championship 瑞士輪 Day 8",
       "link": "/bbs/LoL/M.1793449786.A.571",
       "author": "f12345678900",
