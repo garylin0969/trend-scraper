@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T01:23:25.274Z",
+  "updated": "2026-10-31T01:36:04.522Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,18 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "187",
-      "recommendCount": "547",
-      "title": "[新聞] 影／選戰倒數一個月 沈伯洋：低劣的抹黑會變多",
-      "link": "/bbs/Gossiping/M.1793323925.A.DAD",
-      "author": "ccf52881",
-      "board": "Gossiping",
-      "publishTime": "2026/10/30 01:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "332",
-      "recommendCount": "678",
+      "recommendScore": "333",
+      "recommendCount": "682",
       "title": "Re: [問卦] 洪仲丘案鬧這麼大 現在軍人自殺沒新聞",
       "link": "/bbs/Gossiping/M.1793365620.A.D4B",
       "author": "a34567",
@@ -64,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "280",
-      "recommendCount": "641",
+      "recommendScore": "282",
+      "recommendCount": "643",
       "title": "[問卦] 這場辯論你給幾分",
       "link": "/bbs/Gossiping/M.1793366982.A.CEB",
       "author": "Max0406",
@@ -94,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "112",
+      "recommendCount": "360",
+      "title": "[新聞] 快新聞／最後29天！賴瑞隆民調領先柯志恩喊話高雄人：給我8年拚黃金10年",
+      "link": "/bbs/Gossiping/M.1793362003.A.DE8",
+      "author": "tsukiji",
+      "board": "Gossiping",
+      "publishTime": "2026/10/30 12:06",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "223",
       "recommendCount": "460",
       "title": "[外絮] LBJ是誰？ 湖人樂於卸下離隊球星的包袱",
@@ -101,16 +101,6 @@
       "author": "usnavyseal",
       "board": "NBA",
       "publishTime": "2026/10/30 07:20",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "111",
-      "recommendCount": "359",
-      "title": "[新聞] 快新聞／最後29天！賴瑞隆民調領先柯志恩喊話高雄人：給我8年拚黃金10年",
-      "link": "/bbs/Gossiping/M.1793362003.A.DE8",
-      "author": "tsukiji",
-      "board": "Gossiping",
-      "publishTime": "2026/10/30 12:06",
       "imageUrl": ""
     },
     {
@@ -164,6 +154,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "64",
+      "recommendCount": "344",
+      "title": "[新聞] 跨性別遊行！民團籲身分證增列男、女以外選項",
+      "link": "/bbs/Gossiping/M.1793375409.A.C23",
+      "author": "razan",
+      "board": "Gossiping",
+      "publishTime": "2026/10/30 15:50",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "182",
       "recommendCount": "230",
       "title": "[閒聊] 滔搏委託律師說明罪安P簽申請進度",
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "65",
-      "recommendCount": "331",
-      "title": "[新聞] 跨性別遊行！民團籲身分證增列男、女以外選項",
-      "link": "/bbs/Gossiping/M.1793375409.A.C23",
-      "author": "razan",
-      "board": "Gossiping",
-      "publishTime": "2026/10/30 15:50",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "136",
       "recommendCount": "225",
       "title": "[情報] 115年10月30日信用交易統計",
@@ -202,6 +192,16 @@
       "board": "Stock",
       "publishTime": "2026/10/30 13:10",
       "imageUrl": ""
+    },
+    {
+      "recommendScore": "187",
+      "recommendCount": "289",
+      "title": "[情報] 今日Cam Boozer大三元",
+      "link": "/bbs/NBA/M.1793334869.A.79D",
+      "author": "ClownT",
+      "board": "NBA",
+      "publishTime": "2026/10/30 04:34",
+      "imageUrl": "https://cache.pttweb.cc/imgur/lKI4uj5/s/ecd6ecf103ac1dc3403e48e4e3ec3cad"
     }
   ]
 }
