@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T11:43:13.431Z",
+  "updated": "2026-10-31T11:53:23.683Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/yNgpHYP/s/711c995aecc6f4bf97d45af925380d99"
     },
     {
-      "recommendScore": "380",
-      "recommendCount": "776",
+      "recommendScore": "385",
+      "recommendCount": "792",
       "title": "[爆卦] TVBS 聲明",
       "link": "/bbs/Gossiping/M.1793436505.A.48B",
       "author": "TPPKoWenJe",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "369",
-      "recommendCount": "753",
+      "recommendScore": "370",
+      "recommendCount": "756",
       "title": "Re: [問卦] 洪仲丘案鬧這麼大 現在軍人自殺沒新聞",
       "link": "/bbs/Gossiping/M.1793365620.A.D4B",
       "author": "a34567",
@@ -35,7 +35,7 @@
     },
     {
       "recommendScore": "372",
-      "recommendCount": "608",
+      "recommendCount": "609",
       "title": "[BOX ] Lakers 95:112 Warriors",
       "link": "/bbs/NBA/M.1793422286.A.260",
       "author": "jason911152",
@@ -74,8 +74,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "238",
-      "recommendCount": "406",
+      "recommendScore": "134",
+      "recommendCount": "533",
+      "title": "[新聞] 沈伯洋再說明「都更陪伴」批對手：斷章取義我的話",
+      "link": "/bbs/Gossiping/M.1793439895.A.197",
+      "author": "lycppt",
+      "board": "Gossiping",
+      "publishTime": "2026/10/31 09:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "239",
+      "recommendCount": "407",
       "title": "[新聞] 高雄驚傳國小老師陳屍校園 屍體在雜物間內被發現",
       "link": "/bbs/Gossiping/M.1793406129.A.B68",
       "author": "f544544f",
@@ -114,16 +124,6 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/yNgpHYP/s/711c995aecc6f4bf97d45af925380d99"
     },
     {
-      "recommendScore": "128",
-      "recommendCount": "512",
-      "title": "[新聞] 沈伯洋再說明「都更陪伴」批對手：斷章取義我的話",
-      "link": "/bbs/Gossiping/M.1793439895.A.197",
-      "author": "lycppt",
-      "board": "Gossiping",
-      "publishTime": "2026/10/31 09:44",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "133",
       "recommendCount": "349",
       "title": "[新聞] 台股失半年線 國家隊急護盤",
@@ -144,23 +144,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "122",
-      "recommendCount": "378",
-      "title": "[新聞] 快新聞／最後29天！賴瑞隆民調領先柯志恩喊話高雄人：給我8年拚黃金10年",
-      "link": "/bbs/Gossiping/M.1793362003.A.DE8",
-      "author": "tsukiji",
-      "board": "Gossiping",
-      "publishTime": "2026/10/30 12:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "129",
-      "recommendCount": "852",
+      "recommendScore": "131",
+      "recommendCount": "856",
       "title": "[討論] 今天這場辯論，蔣的表現比較好",
       "link": "/bbs/HatePolitics/M.1793427538.A.099",
       "author": "ke0119",
       "board": "HatePolitics",
       "publishTime": "2026/10/31 06:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "122",
+      "recommendCount": "379",
+      "title": "[新聞] 快新聞／最後29天！賴瑞隆民調領先柯志恩喊話高雄人：給我8年拚黃金10年",
+      "link": "/bbs/Gossiping/M.1793362003.A.DE8",
+      "author": "tsukiji",
+      "board": "Gossiping",
+      "publishTime": "2026/10/30 12:06",
       "imageUrl": ""
     },
     {
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "166",
-      "recommendCount": "277",
+      "recommendScore": "168",
+      "recommendCount": "279",
       "title": "[新聞] 謝金河看AI恐慌力 台股賣鏟人衝擊沒那麼大",
       "link": "/bbs/Stock/M.1793420579.A.BFE",
       "author": "DrowningPool",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "210",
-      "recommendCount": "826",
+      "recommendScore": "212",
+      "recommendCount": "832",
       "title": "[討論] 都更陪伴員",
       "link": "/bbs/HatePolitics/M.1793432899.A.F3A",
       "author": "Berotec",
