@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-31T02:53:26.468Z",
+  "updated": "2026-10-31T03:08:53.599Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "416",
-      "recommendCount": "1013",
+      "recommendScore": "415",
+      "recommendCount": "1015",
       "title": "[問卦] 洪仲丘案鬧這麼大 現在軍人自殺沒新聞",
       "link": "/bbs/Gossiping/M.1793346859.A.37D",
       "author": "j0912970189",
@@ -14,8 +14,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/yNgpHYP/s/711c995aecc6f4bf97d45af925380d99"
     },
     {
-      "recommendScore": "100",
-      "recommendCount": "599",
+      "recommendScore": "99",
+      "recommendCount": "600",
       "title": "[新聞] 快訊／立院三讀！　毒駕「再犯害死人」最重可處死刑",
       "link": "/bbs/Gossiping/M.1793338311.A.703",
       "author": "qazxc1156892",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "284",
-      "recommendCount": "655",
+      "recommendScore": "285",
+      "recommendCount": "656",
       "title": "[問卦] 這場辯論你給幾分",
       "link": "/bbs/Gossiping/M.1793366982.A.CEB",
       "author": "Max0406",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "114",
-      "recommendCount": "364",
+      "recommendScore": "115",
+      "recommendCount": "366",
       "title": "[新聞] 快新聞／最後29天！賴瑞隆民調領先柯志恩喊話高雄人：給我8年拚黃金10年",
       "link": "/bbs/Gossiping/M.1793362003.A.DE8",
       "author": "tsukiji",
@@ -94,8 +94,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "190",
-      "recommendCount": "273",
+      "recommendScore": "124",
+      "recommendCount": "290",
+      "title": "[新聞] 台股失半年線 國家隊急護盤",
+      "link": "/bbs/Stock/M.1793403550.A.454",
+      "author": "ChanHoPark",
+      "board": "Stock",
+      "publishTime": "2026/10/30 23:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "195",
+      "recommendCount": "281",
       "title": "[情報] Chet Holmgren右膝髕骨肌腱撕裂",
       "link": "/bbs/NBA/M.1793408274.A.94D",
       "author": "SeanLi1013",
@@ -104,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "76",
-      "recommendCount": "377",
+      "recommendScore": "79",
+      "recommendCount": "387",
       "title": "[新聞] 跨性別遊行！民團籲身分證增列男、女以外選項",
       "link": "/bbs/Gossiping/M.1793375409.A.C23",
       "author": "razan",
@@ -115,22 +125,12 @@
     },
     {
       "recommendScore": "181",
-      "recommendCount": "284",
+      "recommendCount": "285",
       "title": "[問卦] 洋洋 分析今天台股大跌原因！精華",
       "link": "/bbs/Gossiping/M.1793330283.A.DF3",
       "author": "HNCB2880",
       "board": "Gossiping",
       "publishTime": "2026/10/30 03:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "120",
-      "recommendCount": "270",
-      "title": "[新聞] 台股失半年線 國家隊急護盤",
-      "link": "/bbs/Stock/M.1793403550.A.454",
-      "author": "ChanHoPark",
-      "board": "Stock",
-      "publishTime": "2026/10/30 23:39",
       "imageUrl": ""
     },
     {
@@ -145,7 +145,7 @@
     },
     {
       "recommendScore": "158",
-      "recommendCount": "288",
+      "recommendCount": "289",
       "title": "[請益] 資金從股市撤退會流向哪裡？",
       "link": "/bbs/Stock/M.1793370907.A.AAD",
       "author": "x0321j",
@@ -154,8 +154,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "187",
-      "recommendCount": "487",
+      "recommendScore": "154",
+      "recommendCount": "285",
+      "title": "[新聞] 高雄驚傳國小老師陳屍校園 屍體在雜物間內被發現",
+      "link": "/bbs/Gossiping/M.1793406129.A.B68",
+      "author": "f544544f",
+      "board": "Gossiping",
+      "publishTime": "2026/10/31 00:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "188",
+      "recommendCount": "490",
       "title": "[情報] 日本正在拆除鳥山明的房子跟工作室",
       "link": "/bbs/C_Chat/M.1793349177.A.A8E",
       "author": "gaiaesque",
@@ -191,16 +201,6 @@
       "author": "steward135",
       "board": "Stock",
       "publishTime": "2026/10/30 13:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "118",
-      "recommendCount": "815",
-      "title": "[討論] 陳菊在高雄做了什麼才被罵爆",
-      "link": "/bbs/HatePolitics/M.1793332864.A.BDD",
-      "author": "Justapig",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/30 04:01",
       "imageUrl": ""
     }
   ]
