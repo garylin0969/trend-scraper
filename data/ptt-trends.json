@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-31T23:33:45.768Z",
+  "updated": "2026-10-31T23:43:23.004Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "442",
-      "recommendCount": "907",
+      "recommendScore": "443",
+      "recommendCount": "911",
       "title": "[爆卦] TVBS 聲明",
       "link": "/bbs/Gossiping/M.1793436505.A.48B",
       "author": "TPPKoWenJe",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "140",
-      "recommendCount": "555",
+      "recommendScore": "144",
+      "recommendCount": "562",
       "title": "[新聞] 辯論結束PTT再現網軍攻擊沈伯洋 資安專家曝1狀況",
       "link": "/bbs/Gossiping/M.1793459658.A.D8D",
       "author": "chadmu",
@@ -64,7 +64,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "748",
+      "recommendScore": "726",
       "recommendCount": "1345",
       "title": "[電競] 2026 World Championship 瑞士輪 Day 8",
       "link": "/bbs/LoL/M.1793449786.A.571",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "246",
-      "recommendCount": "416",
+      "recommendScore": "247",
+      "recommendCount": "417",
       "title": "[新聞] 高雄驚傳國小老師陳屍校園 屍體在雜物間內被發現",
       "link": "/bbs/Gossiping/M.1793406129.A.B68",
       "author": "f544544f",
@@ -115,22 +115,12 @@
     },
     {
       "recommendScore": "215",
-      "recommendCount": "505",
+      "recommendCount": "506",
       "title": "[爆卦] TVBS 辯論後民調",
       "link": "/bbs/Gossiping/M.1793450003.A.A40",
       "author": "cheinshin",
       "board": "Gossiping",
       "publishTime": "2026/10/31 12:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "134",
-      "recommendCount": "354",
-      "title": "[新聞] 台股失半年線 國家隊急護盤",
-      "link": "/bbs/Stock/M.1793403550.A.454",
-      "author": "ChanHoPark",
-      "board": "Stock",
-      "publishTime": "2026/10/30 23:39",
       "imageUrl": ""
     },
     {
@@ -174,6 +164,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "99",
+      "recommendCount": "777",
+      "title": "[新聞] TVBS新聞部主管認了！辯論會前就提供「媒體提問」題目",
+      "link": "/bbs/HatePolitics/M.1793458020.A.86A",
+      "author": "boogieman",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/31 14:47",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "116",
       "recommendCount": "504",
       "title": "[問卦] 為什麼八卦對同志的敵意這麼高?",
@@ -184,16 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "100",
-      "recommendCount": "771",
-      "title": "[新聞] TVBS新聞部主管認了！辯論會前就提供「媒體提問」題目",
-      "link": "/bbs/HatePolitics/M.1793458020.A.86A",
-      "author": "boogieman",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/31 14:47",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "91",
       "recommendCount": "316",
       "title": "[新聞] 辯論直播差距太驚人！沈伯洋YT衝17萬人",
@@ -201,6 +191,16 @@
       "author": "axxp",
       "board": "Gossiping",
       "publishTime": "2026/10/31 06:04",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "79",
+      "recommendCount": "312",
+      "title": "[新聞] 曹興誠:北市長選舉是菩薩和邪靈對決 沈伯洋若敗後果不堪設想",
+      "link": "/bbs/Gossiping/M.1793409298.A.254",
+      "author": "william8403",
+      "board": "Gossiping",
+      "publishTime": "2026/10/31 01:14",
       "imageUrl": ""
     }
   ]
