@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T19:13:19.591Z",
+  "updated": "2026-10-31T19:23:11.903Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "176",
-      "recommendCount": "709",
+      "recommendCount": "712",
       "title": "[新聞] 沈伯洋再說明「都更陪伴」批對手：斷章取義我的話",
       "link": "/bbs/Gossiping/M.1793439895.A.197",
       "author": "lycppt",
@@ -64,6 +64,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "117",
+      "recommendCount": "469",
+      "title": "[新聞] 辯論結束PTT再現網軍攻擊沈伯洋 資安專家曝1狀況",
+      "link": "/bbs/Gossiping/M.1793459658.A.D8D",
+      "author": "chadmu",
+      "board": "Gossiping",
+      "publishTime": "2026/10/31 15:14",
+      "imageUrl": "https://cache.pttweb.cc/imgur/xDwB4B7/s/1e50fd3bac28a923e7a97c50a7322c22"
+    },
+    {
       "recommendScore": "245",
       "recommendCount": "415",
       "title": "[新聞] 高雄驚傳國小老師陳屍校園 屍體在雜物間內被發現",
@@ -72,16 +82,6 @@
       "board": "Gossiping",
       "publishTime": "2026/10/31 00:22",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "118",
-      "recommendCount": "464",
-      "title": "[新聞] 辯論結束PTT再現網軍攻擊沈伯洋 資安專家曝1狀況",
-      "link": "/bbs/Gossiping/M.1793459658.A.D8D",
-      "author": "chadmu",
-      "board": "Gossiping",
-      "publishTime": "2026/10/31 15:14",
-      "imageUrl": "https://cache.pttweb.cc/imgur/xDwB4B7/s/1e50fd3bac28a923e7a97c50a7322c22"
     },
     {
       "recommendScore": "250",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "675",
-      "recommendCount": "1185",
+      "recommendScore": "743",
+      "recommendCount": "1295",
       "title": "[電競] 2026 World Championship 瑞士輪 Day 8",
       "link": "/bbs/LoL/M.1793449786.A.571",
       "author": "f12345678900",
