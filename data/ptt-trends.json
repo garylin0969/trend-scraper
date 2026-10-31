@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T11:34:09.509Z",
+  "updated": "2026-10-31T11:43:13.431Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,6 +14,16 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/yNgpHYP/s/711c995aecc6f4bf97d45af925380d99"
     },
     {
+      "recommendScore": "380",
+      "recommendCount": "776",
+      "title": "[爆卦] TVBS 聲明",
+      "link": "/bbs/Gossiping/M.1793436505.A.48B",
+      "author": "TPPKoWenJe",
+      "board": "Gossiping",
+      "publishTime": "2026/10/31 08:48",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "369",
       "recommendCount": "753",
       "title": "Re: [問卦] 洪仲丘案鬧這麼大 現在軍人自殺沒新聞",
@@ -21,16 +31,6 @@
       "author": "a34567",
       "board": "Gossiping",
       "publishTime": "2026/10/30 13:07",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "375",
-      "recommendCount": "757",
-      "title": "[爆卦] TVBS 聲明",
-      "link": "/bbs/Gossiping/M.1793436505.A.48B",
-      "author": "TPPKoWenJe",
-      "board": "Gossiping",
-      "publishTime": "2026/10/31 08:48",
       "imageUrl": ""
     },
     {
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "237",
-      "recommendCount": "405",
+      "recommendScore": "238",
+      "recommendCount": "406",
       "title": "[新聞] 高雄驚傳國小老師陳屍校園 屍體在雜物間內被發現",
       "link": "/bbs/Gossiping/M.1793406129.A.B68",
       "author": "f544544f",
@@ -114,8 +114,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/yNgpHYP/s/711c995aecc6f4bf97d45af925380d99"
     },
     {
-      "recommendScore": "120",
-      "recommendCount": "485",
+      "recommendScore": "128",
+      "recommendCount": "512",
       "title": "[新聞] 沈伯洋再說明「都更陪伴」批對手：斷章取義我的話",
       "link": "/bbs/Gossiping/M.1793439895.A.197",
       "author": "lycppt",
@@ -155,7 +155,7 @@
     },
     {
       "recommendScore": "129",
-      "recommendCount": "850",
+      "recommendCount": "852",
       "title": "[討論] 今天這場辯論，蔣的表現比較好",
       "link": "/bbs/HatePolitics/M.1793427538.A.099",
       "author": "ke0119",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "111",
-      "recommendCount": "492",
+      "recommendScore": "112",
+      "recommendCount": "493",
       "title": "[問卦] 為什麼八卦對同志的敵意這麼高?",
       "link": "/bbs/Gossiping/M.1793411801.A.420",
       "author": "mowkow0611",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "209",
-      "recommendCount": "818",
+      "recommendScore": "210",
+      "recommendCount": "826",
       "title": "[討論] 都更陪伴員",
       "link": "/bbs/HatePolitics/M.1793432899.A.F3A",
       "author": "Berotec",
