@@ -1,8 +1,18 @@
 {
-  "updated": "2026-10-31T12:10:01.435Z",
+  "updated": "2026-10-31T12:19:50.542Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
+    {
+      "recommendScore": "399",
+      "recommendCount": "815",
+      "title": "[爆卦] TVBS 聲明",
+      "link": "/bbs/Gossiping/M.1793436505.A.48B",
+      "author": "TPPKoWenJe",
+      "board": "Gossiping",
+      "publishTime": "2026/10/31 08:48",
+      "imageUrl": "https://cache.pttweb.cc/imgur/yNgpHYP/s/711c995aecc6f4bf97d45af925380d99"
+    },
     {
       "recommendScore": "533",
       "recommendCount": "1489",
@@ -11,16 +21,6 @@
       "author": "la1aco",
       "board": "Gossiping",
       "publishTime": "2026/10/31 03:55",
-      "imageUrl": "https://cache.pttweb.cc/imgur/yNgpHYP/s/711c995aecc6f4bf97d45af925380d99"
-    },
-    {
-      "recommendScore": "392",
-      "recommendCount": "807",
-      "title": "[爆卦] TVBS 聲明",
-      "link": "/bbs/Gossiping/M.1793436505.A.48B",
-      "author": "TPPKoWenJe",
-      "board": "Gossiping",
-      "publishTime": "2026/10/31 08:48",
       "imageUrl": ""
     },
     {
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "144",
-      "recommendCount": "561",
+      "recommendScore": "152",
+      "recommendCount": "571",
       "title": "[新聞] 沈伯洋再說明「都更陪伴」批對手：斷章取義我的話",
       "link": "/bbs/Gossiping/M.1793439895.A.197",
       "author": "lycppt",
@@ -134,6 +134,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "131",
+      "recommendCount": "859",
+      "title": "[討論] 今天這場辯論，蔣的表現比較好",
+      "link": "/bbs/HatePolitics/M.1793427538.A.099",
+      "author": "ke0119",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/31 06:18",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "81",
       "recommendCount": "426",
       "title": "[新聞] 跨性別遊行！民團籲身分證增列男、女以外選項",
@@ -144,13 +154,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "130",
-      "recommendCount": "857",
-      "title": "[討論] 今天這場辯論，蔣的表現比較好",
-      "link": "/bbs/HatePolitics/M.1793427538.A.099",
-      "author": "ke0119",
+      "recommendScore": "216",
+      "recommendCount": "872",
+      "title": "[討論] 都更陪伴員",
+      "link": "/bbs/HatePolitics/M.1793432899.A.F3A",
+      "author": "Berotec",
       "board": "HatePolitics",
-      "publishTime": "2026/10/31 06:18",
+      "publishTime": "2026/10/31 07:48",
       "imageUrl": ""
     },
     {
@@ -164,18 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "215",
-      "recommendCount": "858",
-      "title": "[討論] 都更陪伴員",
-      "link": "/bbs/HatePolitics/M.1793432899.A.F3A",
-      "author": "Berotec",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/31 07:48",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "112",
-      "recommendCount": "494",
+      "recommendScore": "113",
+      "recommendCount": "495",
       "title": "[問卦] 為什麼八卦對同志的敵意這麼高?",
       "link": "/bbs/Gossiping/M.1793411801.A.420",
       "author": "mowkow0611",
@@ -185,7 +185,7 @@
     },
     {
       "recommendScore": "77",
-      "recommendCount": "307",
+      "recommendCount": "308",
       "title": "[新聞] 曹興誠:北市長選舉是菩薩和邪靈對決 沈伯洋若敗後果不堪設想",
       "link": "/bbs/Gossiping/M.1793409298.A.254",
       "author": "william8403",
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "86",
-      "recommendCount": "302",
+      "recommendScore": "87",
+      "recommendCount": "303",
       "title": "[新聞] 辯論直播差距太驚人！沈伯洋YT衝17萬人",
       "link": "/bbs/Gossiping/M.1793426653.A.FD9",
       "author": "axxp",
