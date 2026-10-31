@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T02:10:07.741Z",
+  "updated": "2026-10-31T02:19:52.722Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -45,7 +45,7 @@
     },
     {
       "recommendScore": "284",
-      "recommendCount": "651",
+      "recommendCount": "653",
       "title": "[問卦] 這場辯論你給幾分",
       "link": "/bbs/Gossiping/M.1793366982.A.CEB",
       "author": "Max0406",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "113",
-      "recommendCount": "361",
+      "recommendScore": "114",
+      "recommendCount": "364",
       "title": "[新聞] 快新聞／最後29天！賴瑞隆民調領先柯志恩喊話高雄人：給我8年拚黃金10年",
       "link": "/bbs/Gossiping/M.1793362003.A.DE8",
       "author": "tsukiji",
@@ -94,13 +94,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "180",
-      "recommendCount": "282",
+      "recommendScore": "181",
+      "recommendCount": "284",
       "title": "[問卦] 洋洋 分析今天台股大跌原因！精華",
       "link": "/bbs/Gossiping/M.1793330283.A.DF3",
       "author": "HNCB2880",
       "board": "Gossiping",
       "publishTime": "2026/10/30 03:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "71",
+      "recommendCount": "370",
+      "title": "[新聞] 跨性別遊行！民團籲身分證增列男、女以外選項",
+      "link": "/bbs/Gossiping/M.1793375409.A.C23",
+      "author": "razan",
+      "board": "Gossiping",
+      "publishTime": "2026/10/30 15:50",
       "imageUrl": ""
     },
     {
@@ -114,18 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "71",
-      "recommendCount": "367",
-      "title": "[新聞] 跨性別遊行！民團籲身分證增列男、女以外選項",
-      "link": "/bbs/Gossiping/M.1793375409.A.C23",
-      "author": "razan",
-      "board": "Gossiping",
-      "publishTime": "2026/10/30 15:50",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "155",
-      "recommendCount": "279",
+      "recommendScore": "156",
+      "recommendCount": "283",
       "title": "[請益] 資金從股市撤退會流向哪裡？",
       "link": "/bbs/Stock/M.1793370907.A.AAD",
       "author": "x0321j",
@@ -141,6 +141,16 @@
       "author": "gaiaesque",
       "board": "C_Chat",
       "publishTime": "2026/10/30 08:32",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "166",
+      "recommendCount": "234",
+      "title": "[情報] Chet Holmgren右膝髕骨肌腱撕裂",
+      "link": "/bbs/NBA/M.1793408274.A.94D",
+      "author": "SeanLi1013",
+      "board": "NBA",
+      "publishTime": "2026/10/31 00:57",
       "imageUrl": ""
     },
     {
@@ -192,16 +202,6 @@
       "board": "NBA",
       "publishTime": "2026/10/30 04:34",
       "imageUrl": "https://cache.pttweb.cc/imgur/lKI4uj5/s/ecd6ecf103ac1dc3403e48e4e3ec3cad"
-    },
-    {
-      "recommendScore": "549",
-      "recommendCount": "1495",
-      "title": "[LIVE] 2026高雄市長辯論直播 討論區",
-      "link": "/bbs/HatePolitics/M.1793353468.A.8FC",
-      "author": "maga0525",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/30 09:44",
-      "imageUrl": ""
     }
   ]
 }
