@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T04:34:04.765Z",
+  "updated": "2026-10-31T04:43:25.152Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "353",
-      "recommendCount": "721",
+      "recommendScore": "506",
+      "recommendCount": "1489",
+      "title": "[爆卦]LIVE／台北市長辯論會！蔣萬安、沈伯洋正",
+      "link": "/bbs/Gossiping/M.1793418911.A.60D",
+      "author": "la1aco",
+      "board": "Gossiping",
+      "publishTime": "2026/10/31 03:55",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "357",
+      "recommendCount": "730",
       "title": "Re: [問卦] 洪仲丘案鬧這麼大 現在軍人自殺沒新聞",
       "link": "/bbs/Gossiping/M.1793365620.A.D4B",
       "author": "a34567",
@@ -44,18 +54,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "423",
-      "recommendCount": "1222",
-      "title": "[爆卦]LIVE／台北市長辯論會！蔣萬安、沈伯洋正",
-      "link": "/bbs/Gossiping/M.1793418911.A.60D",
-      "author": "la1aco",
-      "board": "Gossiping",
-      "publishTime": "2026/10/31 03:55",
+      "recommendScore": "538",
+      "recommendCount": "1490",
+      "title": "[LIVE] 2026台北市長辯論直播 討論區",
+      "link": "/bbs/HatePolitics/M.1793409415.A.A6A",
+      "author": "maga0525",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/31 01:16",
       "imageUrl": ""
     },
     {
       "recommendScore": "287",
-      "recommendCount": "662",
+      "recommendCount": "663",
       "title": "[問卦] 這場辯論你給幾分",
       "link": "/bbs/Gossiping/M.1793366982.A.CEB",
       "author": "Max0406",
@@ -72,16 +82,6 @@
       "board": "LoL",
       "publishTime": "2026/10/30 14:09",
       "imageUrl": "https://cache.pttweb.cc/imgur/yNgpHYP/s/711c995aecc6f4bf97d45af925380d99"
-    },
-    {
-      "recommendScore": "517",
-      "recommendCount": "1282",
-      "title": "[LIVE] 2026台北市長辯論直播 討論區",
-      "link": "/bbs/HatePolitics/M.1793409415.A.A6A",
-      "author": "maga0525",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/31 01:16",
-      "imageUrl": ""
     },
     {
       "recommendScore": "229",
@@ -104,18 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "126",
-      "recommendCount": "323",
-      "title": "[新聞] 台股失半年線 國家隊急護盤",
-      "link": "/bbs/Stock/M.1793403550.A.454",
-      "author": "ChanHoPark",
-      "board": "Stock",
-      "publishTime": "2026/10/30 23:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "197",
-      "recommendCount": "348",
+      "recommendScore": "199",
+      "recommendCount": "353",
       "title": "[新聞] 高雄驚傳國小老師陳屍校園 屍體在雜物間內被發現",
       "link": "/bbs/Gossiping/M.1793406129.A.B68",
       "author": "f544544f",
@@ -124,8 +114,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "119",
-      "recommendCount": "371",
+      "recommendScore": "126",
+      "recommendCount": "324",
+      "title": "[新聞] 台股失半年線 國家隊急護盤",
+      "link": "/bbs/Stock/M.1793403550.A.454",
+      "author": "ChanHoPark",
+      "board": "Stock",
+      "publishTime": "2026/10/30 23:39",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "120",
+      "recommendCount": "373",
       "title": "[新聞] 快新聞／最後29天！賴瑞隆民調領先柯志恩喊話高雄人：給我8年拚黃金10年",
       "link": "/bbs/Gossiping/M.1793362003.A.DE8",
       "author": "tsukiji",
