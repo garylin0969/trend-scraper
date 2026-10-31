@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T07:15:47.442Z",
+  "updated": "2026-10-31T07:23:29.841Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -14,7 +14,7 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/yNgpHYP/s/711c995aecc6f4bf97d45af925380d99"
     },
     {
-      "recommendScore": "533",
+      "recommendScore": "532",
       "recommendCount": "1489",
       "title": "[爆卦]LIVE／台北市長辯論會！蔣萬安、沈伯洋正",
       "link": "/bbs/Gossiping/M.1793418911.A.60D",
@@ -144,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "222",
-      "recommendCount": "476",
-      "title": "[外絮] LBJ是誰？ 湖人樂於卸下離隊球星的包袱",
-      "link": "/bbs/NBA/M.1793344819.A.E28",
-      "author": "usnavyseal",
-      "board": "NBA",
-      "publishTime": "2026/10/30 07:20",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "104",
       "recommendCount": "468",
       "title": "[問卦] 為什麼八卦對同志的敵意這麼高?",
@@ -202,6 +192,16 @@
       "board": "Gossiping",
       "publishTime": "2026/10/31 01:45",
       "imageUrl": "https://cache.pttweb.cc/imgur/HBEJLZs/s/ee95faf70c8984bb5753c90b12ce6608"
+    },
+    {
+      "recommendScore": "134",
+      "recommendCount": "450",
+      "title": "[問卦] 為什麼軍公教人員都在大逃亡",
+      "link": "/bbs/Gossiping/M.1793369018.A.56B",
+      "author": "swommy",
+      "board": "Gossiping",
+      "publishTime": "2026/10/30 14:03",
+      "imageUrl": ""
     }
   ]
 }
