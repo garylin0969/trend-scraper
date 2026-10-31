@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T23:43:23.004Z",
+  "updated": "2026-10-31T23:53:10.602Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -34,6 +34,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "146",
+      "recommendCount": "567",
+      "title": "[新聞] 辯論結束PTT再現網軍攻擊沈伯洋 資安專家曝1狀況",
+      "link": "/bbs/Gossiping/M.1793459658.A.D8D",
+      "author": "chadmu",
+      "board": "Gossiping",
+      "publishTime": "2026/10/31 15:14",
+      "imageUrl": "https://cache.pttweb.cc/imgur/xDwB4B7/s/1e50fd3bac28a923e7a97c50a7322c22"
+    },
+    {
       "recommendScore": "381",
       "recommendCount": "621",
       "title": "[BOX ] Lakers 95:112 Warriors",
@@ -44,14 +54,14 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "144",
-      "recommendCount": "562",
-      "title": "[新聞] 辯論結束PTT再現網軍攻擊沈伯洋 資安專家曝1狀況",
-      "link": "/bbs/Gossiping/M.1793459658.A.D8D",
-      "author": "chadmu",
-      "board": "Gossiping",
-      "publishTime": "2026/10/31 15:14",
-      "imageUrl": "https://cache.pttweb.cc/imgur/xDwB4B7/s/1e50fd3bac28a923e7a97c50a7322c22"
+      "recommendScore": "683",
+      "recommendCount": "1345",
+      "title": "[電競] 2026 World Championship 瑞士輪 Day 8",
+      "link": "/bbs/LoL/M.1793449786.A.571",
+      "author": "f12345678900",
+      "board": "LoL",
+      "publishTime": "2026/10/31 12:29",
+      "imageUrl": "https://cache.pttweb.cc/imgur/yQ9Wlj9/s/2ca1a3843f5bc86ccae554601cb6c7e9"
     },
     {
       "recommendScore": "591",
@@ -62,16 +72,6 @@
       "board": "HatePolitics",
       "publishTime": "2026/10/31 01:16",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "726",
-      "recommendCount": "1345",
-      "title": "[電競] 2026 World Championship 瑞士輪 Day 8",
-      "link": "/bbs/LoL/M.1793449786.A.571",
-      "author": "f12345678900",
-      "board": "LoL",
-      "publishTime": "2026/10/31 12:29",
-      "imageUrl": "https://cache.pttweb.cc/imgur/yQ9Wlj9/s/2ca1a3843f5bc86ccae554601cb6c7e9"
     },
     {
       "recommendScore": "575",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "215",
-      "recommendCount": "506",
+      "recommendScore": "216",
+      "recommendCount": "507",
       "title": "[爆卦] TVBS 辯論後民調",
       "link": "/bbs/Gossiping/M.1793450003.A.A40",
       "author": "cheinshin",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "99",
-      "recommendCount": "777",
+      "recommendScore": "97",
+      "recommendCount": "788",
       "title": "[新聞] TVBS新聞部主管認了！辯論會前就提供「媒體提問」題目",
       "link": "/bbs/HatePolitics/M.1793458020.A.86A",
       "author": "boogieman",
