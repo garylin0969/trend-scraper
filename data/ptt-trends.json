@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-31T15:53:07.986Z",
+  "updated": "2026-10-31T16:07:27.361Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "440",
-      "recommendCount": "887",
+      "recommendScore": "441",
+      "recommendCount": "889",
       "title": "[爆卦] TVBS 聲明",
       "link": "/bbs/Gossiping/M.1793436505.A.48B",
       "author": "TPPKoWenJe",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "170",
-      "recommendCount": "687",
+      "recommendScore": "171",
+      "recommendCount": "688",
       "title": "[新聞] 沈伯洋再說明「都更陪伴」批對手：斷章取義我的話",
       "link": "/bbs/Gossiping/M.1793439895.A.197",
       "author": "lycppt",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "133",
-      "recommendCount": "352",
+      "recommendScore": "134",
+      "recommendCount": "353",
       "title": "[新聞] 台股失半年線 國家隊急護盤",
       "link": "/bbs/Stock/M.1793403550.A.454",
       "author": "ChanHoPark",
@@ -114,6 +114,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "183",
+      "recommendCount": "312",
+      "title": "[新聞] 謝金河看AI恐慌力 台股賣鏟人衝擊沒那麼大",
+      "link": "/bbs/Stock/M.1793420579.A.BFE",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2026/10/31 04:22",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "219",
       "recommendCount": "905",
       "title": "[討論] 都更陪伴員",
@@ -124,18 +134,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "183",
-      "recommendCount": "310",
-      "title": "[新聞] 謝金河看AI恐慌力 台股賣鏟人衝擊沒那麼大",
-      "link": "/bbs/Stock/M.1793420579.A.BFE",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2026/10/31 04:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "201",
-      "recommendCount": "456",
+      "recommendScore": "205",
+      "recommendCount": "470",
       "title": "[爆卦] TVBS 辯論後民調",
       "link": "/bbs/Gossiping/M.1793450003.A.A40",
       "author": "cheinshin",
@@ -145,7 +145,7 @@
     },
     {
       "recommendScore": "268",
-      "recommendCount": "586",
+      "recommendCount": "589",
       "title": "[討論] TVBS民調 蔣萬安46% 沈伯洋42%",
       "link": "/bbs/HatePolitics/M.1793449484.A.E12",
       "author": "a10141013",
@@ -184,8 +184,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "232",
-      "recommendCount": "457",
+      "recommendScore": "233",
+      "recommendCount": "458",
       "title": "[閒聊] 法國議會通過網路流量稅",
       "link": "/bbs/C_Chat/M.1793426672.A.BB8",
       "author": "smart0eddie",
