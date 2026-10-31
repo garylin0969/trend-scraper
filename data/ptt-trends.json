@@ -1,18 +1,8 @@
 {
-  "updated": "2026-10-31T01:43:14.252Z",
+  "updated": "2026-10-31T01:53:30.112Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
-    {
-      "recommendScore": "210",
-      "recommendCount": "1264",
-      "title": "[新聞] 蔣萬安「直接聯繫黃仁勳」輝達內部炸鍋！批石舫亘：太荒謬",
-      "link": "/bbs/Gossiping/M.1793325008.A.115",
-      "author": "yijyi",
-      "board": "Gossiping",
-      "publishTime": "2026/10/30 01:50",
-      "imageUrl": "https://cache.pttweb.cc/imgur/yNgpHYP/s/711c995aecc6f4bf97d45af925380d99"
-    },
     {
       "recommendScore": "416",
       "recommendCount": "1013",
@@ -21,7 +11,7 @@
       "author": "j0912970189",
       "board": "Gossiping",
       "publishTime": "2026/10/30 07:54",
-      "imageUrl": ""
+      "imageUrl": "https://cache.pttweb.cc/imgur/yNgpHYP/s/711c995aecc6f4bf97d45af925380d99"
     },
     {
       "recommendScore": "100",
@@ -34,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "333",
-      "recommendCount": "682",
+      "recommendScore": "335",
+      "recommendCount": "691",
       "title": "Re: [問卦] 洪仲丘案鬧這麼大 現在軍人自殺沒新聞",
       "link": "/bbs/Gossiping/M.1793365620.A.D4B",
       "author": "a34567",
@@ -54,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "282",
-      "recommendCount": "643",
+      "recommendScore": "283",
+      "recommendCount": "647",
       "title": "[問卦] 這場辯論你給幾分",
       "link": "/bbs/Gossiping/M.1793366982.A.CEB",
       "author": "Max0406",
@@ -124,13 +114,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "154",
-      "recommendCount": "278",
+      "recommendScore": "155",
+      "recommendCount": "279",
       "title": "[請益] 資金從股市撤退會流向哪裡？",
       "link": "/bbs/Stock/M.1793370907.A.AAD",
       "author": "x0321j",
       "board": "Stock",
       "publishTime": "2026/10/30 14:35",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "65",
+      "recommendCount": "352",
+      "title": "[新聞] 跨性別遊行！民團籲身分證增列男、女以外選項",
+      "link": "/bbs/Gossiping/M.1793375409.A.C23",
+      "author": "razan",
+      "board": "Gossiping",
+      "publishTime": "2026/10/30 15:50",
       "imageUrl": ""
     },
     {
@@ -151,16 +151,6 @@
       "author": "gaiaesque",
       "board": "C_Chat",
       "publishTime": "2026/10/30 08:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "64",
-      "recommendCount": "344",
-      "title": "[新聞] 跨性別遊行！民團籲身分證增列男、女以外選項",
-      "link": "/bbs/Gossiping/M.1793375409.A.C23",
-      "author": "razan",
-      "board": "Gossiping",
-      "publishTime": "2026/10/30 15:50",
       "imageUrl": ""
     },
     {
@@ -202,6 +192,16 @@
       "board": "NBA",
       "publishTime": "2026/10/30 04:34",
       "imageUrl": "https://cache.pttweb.cc/imgur/lKI4uj5/s/ecd6ecf103ac1dc3403e48e4e3ec3cad"
+    },
+    {
+      "recommendScore": "181",
+      "recommendCount": "274",
+      "title": "[閒聊] Viper：有人說潘森沒大 結果潘森直接跳",
+      "link": "/bbs/LoL/M.1793326017.A.B87",
+      "author": "y12544",
+      "board": "LoL",
+      "publishTime": "2026/10/30 02:06",
+      "imageUrl": ""
     }
   ]
 }
