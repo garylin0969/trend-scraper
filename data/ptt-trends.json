@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-31T13:43:19.747Z",
+  "updated": "2026-10-31T13:53:13.431Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "428",
-      "recommendCount": "869",
+      "recommendScore": "429",
+      "recommendCount": "870",
       "title": "[爆卦] TVBS 聲明",
       "link": "/bbs/Gossiping/M.1793436505.A.48B",
       "author": "TPPKoWenJe",
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "165",
+      "recommendCount": "650",
+      "title": "[新聞] 沈伯洋再說明「都更陪伴」批對手：斷章取義我的話",
+      "link": "/bbs/Gossiping/M.1793439895.A.197",
+      "author": "lycppt",
+      "board": "Gossiping",
+      "publishTime": "2026/10/31 09:44",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "378",
       "recommendCount": "617",
       "title": "[BOX ] Lakers 95:112 Warriors",
@@ -31,16 +41,6 @@
       "author": "jason911152",
       "board": "NBA",
       "publishTime": "2026/10/31 04:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "165",
-      "recommendCount": "643",
-      "title": "[新聞] 沈伯洋再說明「都更陪伴」批對手：斷章取義我的話",
-      "link": "/bbs/Gossiping/M.1793439895.A.197",
-      "author": "lycppt",
-      "board": "Gossiping",
-      "publishTime": "2026/10/31 09:44",
       "imageUrl": ""
     },
     {
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "136",
-      "recommendCount": "881",
+      "recommendScore": "137",
+      "recommendCount": "882",
       "title": "[討論] 今天這場辯論，蔣的表現比較好",
       "link": "/bbs/HatePolitics/M.1793427538.A.099",
       "author": "ke0119",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "175",
-      "recommendCount": "295",
+      "recommendScore": "177",
+      "recommendCount": "298",
       "title": "[新聞] 謝金河看AI恐慌力 台股賣鏟人衝擊沒那麼大",
       "link": "/bbs/Stock/M.1793420579.A.BFE",
       "author": "DrowningPool",
@@ -184,6 +184,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "240",
+      "recommendCount": "528",
+      "title": "[討論] TVBS民調 蔣萬安46% 沈伯洋42%",
+      "link": "/bbs/HatePolitics/M.1793449484.A.E12",
+      "author": "a10141013",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/31 12:24",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "160",
       "recommendCount": "301",
       "title": "[請益] 資金從股市撤退會流向哪裡？",
@@ -191,16 +201,6 @@
       "author": "x0321j",
       "board": "Stock",
       "publishTime": "2026/10/30 14:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "236",
-      "recommendCount": "521",
-      "title": "[討論] TVBS民調 蔣萬安46% 沈伯洋42%",
-      "link": "/bbs/HatePolitics/M.1793449484.A.E12",
-      "author": "a10141013",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/31 12:24",
       "imageUrl": ""
     }
   ]
