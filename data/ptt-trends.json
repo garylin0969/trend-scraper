@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-31T03:43:34.922Z",
+  "updated": "2026-10-31T03:53:17.063Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "415",
-      "recommendCount": "1016",
+      "recommendScore": "416",
+      "recommendCount": "1017",
       "title": "[問卦] 洪仲丘案鬧這麼大 現在軍人自殺沒新聞",
       "link": "/bbs/Gossiping/M.1793346859.A.37D",
       "author": "j0912970189",
@@ -84,6 +84,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "125",
+      "recommendCount": "316",
+      "title": "[新聞] 台股失半年線 國家隊急護盤",
+      "link": "/bbs/Stock/M.1793403550.A.454",
+      "author": "ChanHoPark",
+      "board": "Stock",
+      "publishTime": "2026/10/30 23:39",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "116",
       "recommendCount": "367",
       "title": "[新聞] 快新聞／最後29天！賴瑞隆民調領先柯志恩喊話高雄人：給我8年拚黃金10年",
@@ -91,16 +101,6 @@
       "author": "tsukiji",
       "board": "Gossiping",
       "publishTime": "2026/10/30 12:06",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "128",
-      "recommendCount": "306",
-      "title": "[新聞] 台股失半年線 國家隊急護盤",
-      "link": "/bbs/Stock/M.1793403550.A.454",
-      "author": "ChanHoPark",
-      "board": "Stock",
-      "publishTime": "2026/10/30 23:39",
       "imageUrl": ""
     },
     {
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "76",
-      "recommendCount": "397",
+      "recommendScore": "75",
+      "recommendCount": "398",
       "title": "[新聞] 跨性別遊行！民團籲身分證增列男、女以外選項",
       "link": "/bbs/Gossiping/M.1793375409.A.C23",
       "author": "razan",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "171",
-      "recommendCount": "311",
+      "recommendScore": "174",
+      "recommendCount": "315",
       "title": "[新聞] 高雄驚傳國小老師陳屍校園 屍體在雜物間內被發現",
       "link": "/bbs/Gossiping/M.1793406129.A.B68",
       "author": "f544544f",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "131",
-      "recommendCount": "443",
+      "recommendScore": "133",
+      "recommendCount": "445",
       "title": "[問卦] 為什麼軍公教人員都在大逃亡",
       "link": "/bbs/Gossiping/M.1793369018.A.56B",
       "author": "swommy",
