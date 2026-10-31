@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T08:53:10.910Z",
+  "updated": "2026-10-31T09:07:28.513Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -25,7 +25,7 @@
     },
     {
       "recommendScore": "363",
-      "recommendCount": "593",
+      "recommendCount": "594",
       "title": "[BOX ] Lakers 95:112 Warriors",
       "link": "/bbs/NBA/M.1793422286.A.260",
       "author": "jason911152",
@@ -34,7 +34,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "598",
+      "recommendScore": "595",
       "recommendCount": "1490",
       "title": "[LIVE] 2026台北市長辯論直播 討論區",
       "link": "/bbs/HatePolitics/M.1793409415.A.A6A",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "567",
-      "recommendCount": "1128",
+      "recommendScore": "568",
+      "recommendCount": "1129",
       "title": "[政治] 萬安辯論",
       "link": "/bbs/BaseballXXXX/M.1793420352.A.A7F",
       "author": "JRhokkaido",
@@ -94,8 +94,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/yNgpHYP/s/711c995aecc6f4bf97d45af925380d99"
     },
     {
-      "recommendScore": "243",
-      "recommendCount": "327",
+      "recommendScore": "246",
+      "recommendCount": "335",
       "title": "[討論] 發錢 認同蔣萬安贏的 幫推",
       "link": "/bbs/HatePolitics/M.1793423831.A.43A",
       "author": "Rrrxddd",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "134",
-      "recommendCount": "347",
+      "recommendScore": "133",
+      "recommendCount": "349",
       "title": "[新聞] 台股失半年線 國家隊急護盤",
       "link": "/bbs/Stock/M.1793403550.A.454",
       "author": "ChanHoPark",
@@ -115,7 +115,7 @@
     },
     {
       "recommendScore": "79",
-      "recommendCount": "423",
+      "recommendCount": "424",
       "title": "[新聞] 跨性別遊行！民團籲身分證增列男、女以外選項",
       "link": "/bbs/Gossiping/M.1793375409.A.C23",
       "author": "razan",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "75",
-      "recommendCount": "301",
+      "recommendScore": "76",
+      "recommendCount": "302",
       "title": "[新聞] 曹興誠:北市長選舉是菩薩和邪靈對決 沈伯洋若敗後果不堪設想",
       "link": "/bbs/Gossiping/M.1793409298.A.254",
       "author": "william8403",
@@ -164,8 +164,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "117",
-      "recommendCount": "318",
+      "recommendScore": "147",
+      "recommendCount": "246",
+      "title": "[新聞] 謝金河看AI恐慌力 台股賣鏟人衝擊沒那麼大",
+      "link": "/bbs/Stock/M.1793420579.A.BFE",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2026/10/31 04:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "118",
+      "recommendCount": "319",
       "title": "[問卦] 今天辯論誰贏了",
       "link": "/bbs/Gossiping/M.1793424166.A.645",
       "author": "EVGA1",
@@ -184,23 +194,13 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/HBEJLZs/s/ee95faf70c8984bb5753c90b12ce6608"
     },
     {
-      "recommendScore": "145",
-      "recommendCount": "241",
-      "title": "[新聞] 謝金河看AI恐慌力 台股賣鏟人衝擊沒那麼大",
-      "link": "/bbs/Stock/M.1793420579.A.BFE",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2026/10/31 04:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "136",
-      "recommendCount": "453",
-      "title": "[問卦] 為什麼軍公教人員都在大逃亡",
-      "link": "/bbs/Gossiping/M.1793369018.A.56B",
-      "author": "swommy",
-      "board": "Gossiping",
-      "publishTime": "2026/10/30 14:03",
+      "recommendScore": "110",
+      "recommendCount": "750",
+      "title": "[討論] 今天這場辯論，蔣的表現比較好",
+      "link": "/bbs/HatePolitics/M.1793427538.A.099",
+      "author": "ke0119",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/31 06:18",
       "imageUrl": ""
     }
   ]
