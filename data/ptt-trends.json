@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T03:34:31.587Z",
+  "updated": "2026-10-31T03:43:34.922Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -74,6 +74,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "208",
+      "recommendCount": "302",
+      "title": "[情報] Chet Holmgren右膝髕骨肌腱撕裂",
+      "link": "/bbs/NBA/M.1793408274.A.94D",
+      "author": "SeanLi1013",
+      "board": "NBA",
+      "publishTime": "2026/10/31 00:57",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "116",
       "recommendCount": "367",
       "title": "[新聞] 快新聞／最後29天！賴瑞隆民調領先柯志恩喊話高雄人：給我8年拚黃金10年",
@@ -84,18 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "205",
-      "recommendCount": "297",
-      "title": "[情報] Chet Holmgren右膝髕骨肌腱撕裂",
-      "link": "/bbs/NBA/M.1793408274.A.94D",
-      "author": "SeanLi1013",
-      "board": "NBA",
-      "publishTime": "2026/10/31 00:57",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "129",
-      "recommendCount": "305",
+      "recommendScore": "128",
+      "recommendCount": "306",
       "title": "[新聞] 台股失半年線 國家隊急護盤",
       "link": "/bbs/Stock/M.1793403550.A.454",
       "author": "ChanHoPark",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "79",
-      "recommendCount": "391",
+      "recommendScore": "76",
+      "recommendCount": "397",
       "title": "[新聞] 跨性別遊行！民團籲身分證增列男、女以外選項",
       "link": "/bbs/Gossiping/M.1793375409.A.C23",
       "author": "razan",
@@ -124,8 +124,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "166",
-      "recommendCount": "304",
+      "recommendScore": "171",
+      "recommendCount": "311",
       "title": "[新聞] 高雄驚傳國小老師陳屍校園 屍體在雜物間內被發現",
       "link": "/bbs/Gossiping/M.1793406129.A.B68",
       "author": "f544544f",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "158",
-      "recommendCount": "289",
+      "recommendScore": "159",
+      "recommendCount": "290",
       "title": "[請益] 資金從股市撤退會流向哪裡？",
       "link": "/bbs/Stock/M.1793370907.A.AAD",
       "author": "x0321j",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "130",
-      "recommendCount": "440",
+      "recommendScore": "131",
+      "recommendCount": "443",
       "title": "[問卦] 為什麼軍公教人員都在大逃亡",
       "link": "/bbs/Gossiping/M.1793369018.A.56B",
       "author": "swommy",
