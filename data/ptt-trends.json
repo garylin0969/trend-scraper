@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-31T11:06:07.011Z",
+  "updated": "2026-10-31T11:13:14.198Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "534",
+      "recommendScore": "533",
       "recommendCount": "1489",
       "title": "[爆卦]LIVE／台北市長辯論會！蔣萬安、沈伯洋正",
       "link": "/bbs/Gossiping/M.1793418911.A.60D",
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "364",
-      "recommendCount": "738",
+      "recommendScore": "374",
+      "recommendCount": "752",
       "title": "[爆卦] TVBS 聲明",
       "link": "/bbs/Gossiping/M.1793436505.A.48B",
       "author": "TPPKoWenJe",
@@ -44,7 +44,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "594",
+      "recommendScore": "591",
       "recommendCount": "1490",
       "title": "[LIVE] 2026台北市長辯論直播 討論區",
       "link": "/bbs/HatePolitics/M.1793409415.A.A6A",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "570",
-      "recommendCount": "1152",
+      "recommendScore": "569",
+      "recommendCount": "1153",
       "title": "[政治] 萬安辯論",
       "link": "/bbs/BaseballXXXX/M.1793420352.A.A7F",
       "author": "JRhokkaido",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "235",
-      "recommendCount": "401",
+      "recommendScore": "236",
+      "recommendCount": "403",
       "title": "[新聞] 高雄驚傳國小老師陳屍校園 屍體在雜物間內被發現",
       "link": "/bbs/Gossiping/M.1793406129.A.B68",
       "author": "f544544f",
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "259",
-      "recommendCount": "353",
+      "recommendCount": "354",
       "title": "[討論] 發錢 認同蔣萬安贏的 幫推",
       "link": "/bbs/HatePolitics/M.1793423831.A.43A",
       "author": "Rrrxddd",
@@ -145,7 +145,7 @@
     },
     {
       "recommendScore": "129",
-      "recommendCount": "843",
+      "recommendCount": "846",
       "title": "[討論] 今天這場辯論，蔣的表現比較好",
       "link": "/bbs/HatePolitics/M.1793427538.A.099",
       "author": "ke0119",
@@ -154,18 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "109",
-      "recommendCount": "490",
-      "title": "[問卦] 為什麼八卦對同志的敵意這麼高?",
-      "link": "/bbs/Gossiping/M.1793411801.A.420",
-      "author": "mowkow0611",
-      "board": "Gossiping",
-      "publishTime": "2026/10/31 01:56",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "98",
-      "recommendCount": "408",
+      "recommendScore": "104",
+      "recommendCount": "436",
       "title": "[新聞] 沈伯洋再說明「都更陪伴」批對手：斷章取義我的話",
       "link": "/bbs/Gossiping/M.1793439895.A.197",
       "author": "lycppt",
@@ -174,13 +164,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "161",
-      "recommendCount": "272",
+      "recommendScore": "110",
+      "recommendCount": "491",
+      "title": "[問卦] 為什麼八卦對同志的敵意這麼高?",
+      "link": "/bbs/Gossiping/M.1793411801.A.420",
+      "author": "mowkow0611",
+      "board": "Gossiping",
+      "publishTime": "2026/10/31 01:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "163",
+      "recommendCount": "274",
       "title": "[新聞] 謝金河看AI恐慌力 台股賣鏟人衝擊沒那麼大",
       "link": "/bbs/Stock/M.1793420579.A.BFE",
       "author": "DrowningPool",
       "board": "Stock",
       "publishTime": "2026/10/31 04:22",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "211",
+      "recommendCount": "816",
+      "title": "[討論] 都更陪伴員",
+      "link": "/bbs/HatePolitics/M.1793432899.A.F3A",
+      "author": "Berotec",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/31 07:48",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "william8403",
       "board": "Gossiping",
       "publishTime": "2026/10/31 01:14",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "209",
-      "recommendCount": "797",
-      "title": "[討論] 都更陪伴員",
-      "link": "/bbs/HatePolitics/M.1793432899.A.F3A",
-      "author": "Berotec",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/31 07:48",
       "imageUrl": ""
     }
   ]
