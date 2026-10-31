@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T02:34:39.012Z",
+  "updated": "2026-10-31T02:43:15.961Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "337",
-      "recommendCount": "698",
+      "recommendScore": "339",
+      "recommendCount": "700",
       "title": "Re: [問卦] 洪仲丘案鬧這麼大 現在軍人自殺沒新聞",
       "link": "/bbs/Gossiping/M.1793365620.A.D4B",
       "author": "a34567",
@@ -54,7 +54,7 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "729",
+      "recommendScore": "730",
       "recommendCount": "1345",
       "title": "[電競] 2026 World Championship 瑞士輪 Day 7",
       "link": "/bbs/LoL/M.1793369349.A.5DD",
@@ -94,6 +94,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "75",
+      "recommendCount": "376",
+      "title": "[新聞] 跨性別遊行！民團籲身分證增列男、女以外選項",
+      "link": "/bbs/Gossiping/M.1793375409.A.C23",
+      "author": "razan",
+      "board": "Gossiping",
+      "publishTime": "2026/10/30 15:50",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "181",
       "recommendCount": "284",
       "title": "[問卦] 洋洋 分析今天台股大跌原因！精華",
@@ -104,13 +114,13 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "73",
-      "recommendCount": "373",
-      "title": "[新聞] 跨性別遊行！民團籲身分證增列男、女以外選項",
-      "link": "/bbs/Gossiping/M.1793375409.A.C23",
-      "author": "razan",
-      "board": "Gossiping",
-      "publishTime": "2026/10/30 15:50",
+      "recommendScore": "120",
+      "recommendCount": "270",
+      "title": "[新聞] 台股失半年線 國家隊急護盤",
+      "link": "/bbs/Stock/M.1793403550.A.454",
+      "author": "ChanHoPark",
+      "board": "Stock",
+      "publishTime": "2026/10/30 23:39",
       "imageUrl": ""
     },
     {
@@ -131,16 +141,6 @@
       "author": "x0321j",
       "board": "Stock",
       "publishTime": "2026/10/30 14:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "115",
-      "recommendCount": "256",
-      "title": "[新聞] 台股失半年線 國家隊急護盤",
-      "link": "/bbs/Stock/M.1793403550.A.454",
-      "author": "ChanHoPark",
-      "board": "Stock",
-      "publishTime": "2026/10/30 23:39",
       "imageUrl": ""
     },
     {
@@ -174,6 +174,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "129",
+      "recommendCount": "439",
+      "title": "[問卦] 為什麼軍公教人員都在大逃亡",
+      "link": "/bbs/Gossiping/M.1793369018.A.56B",
+      "author": "swommy",
+      "board": "Gossiping",
+      "publishTime": "2026/10/30 14:03",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "137",
       "recommendCount": "226",
       "title": "[情報] 115年10月30日信用交易統計",
@@ -191,16 +201,6 @@
       "author": "Justapig",
       "board": "HatePolitics",
       "publishTime": "2026/10/30 04:01",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "128",
-      "recommendCount": "438",
-      "title": "[問卦] 為什麼軍公教人員都在大逃亡",
-      "link": "/bbs/Gossiping/M.1793369018.A.56B",
-      "author": "swommy",
-      "board": "Gossiping",
-      "publishTime": "2026/10/30 14:03",
       "imageUrl": ""
     }
   ]
