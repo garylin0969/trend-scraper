@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T02:34:13.934Z",
+  "updated": "2026-11-01T02:43:17.399Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "172",
-      "recommendCount": "649",
+      "recommendScore": "173",
+      "recommendCount": "657",
       "title": "[新聞] 辯論結束PTT再現網軍攻擊沈伯洋 資安專家曝1狀況",
       "link": "/bbs/Gossiping/M.1793459658.A.D8D",
       "author": "chadmu",
@@ -144,6 +144,26 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "121",
+      "recommendCount": "456",
+      "title": "[新聞] 辯論會媒體提問先給題目 沈伯洋證實一天前收到：不知道為什麼這樣決定",
+      "link": "/bbs/Gossiping/M.1793494455.A.ECF",
+      "author": "james7923",
+      "board": "Gossiping",
+      "publishTime": "2026/11/01 00:54",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "242",
+      "recommendCount": "278",
+      "title": "[預測] S16世界大賽-冠軍隊伍預測",
+      "link": "/bbs/LoL/M.1793491156.A.3E8",
+      "author": "fairymomo",
+      "board": "LoL",
+      "publishTime": "2026/10/31 23:59",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "92",
       "recommendCount": "317",
       "title": "[新聞] 辯論直播差距太驚人！沈伯洋YT衝17萬人",
@@ -151,16 +171,6 @@
       "author": "axxp",
       "board": "Gossiping",
       "publishTime": "2026/10/31 06:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "235",
-      "recommendCount": "271",
-      "title": "[預測] S16世界大賽-冠軍隊伍預測",
-      "link": "/bbs/LoL/M.1793491156.A.3E8",
-      "author": "fairymomo",
-      "board": "LoL",
-      "publishTime": "2026/10/31 23:59",
       "imageUrl": ""
     },
     {
@@ -191,16 +201,6 @@
       "author": "smart0eddie",
       "board": "C_Chat",
       "publishTime": "2026/10/31 06:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "108",
-      "recommendCount": "389",
-      "title": "[新聞] 辯論會媒體提問先給題目 沈伯洋證實一天前收到：不知道為什麼這樣決定",
-      "link": "/bbs/Gossiping/M.1793494455.A.ECF",
-      "author": "james7923",
-      "board": "Gossiping",
-      "publishTime": "2026/11/01 00:54",
       "imageUrl": ""
     }
   ]
