@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T01:36:14.407Z",
+  "updated": "2026-11-01T01:43:36.010Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,6 +24,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "165",
+      "recommendCount": "635",
+      "title": "[新聞] 辯論結束PTT再現網軍攻擊沈伯洋 資安專家曝1狀況",
+      "link": "/bbs/Gossiping/M.1793459658.A.D8D",
+      "author": "chadmu",
+      "board": "Gossiping",
+      "publishTime": "2026/10/31 15:14",
+      "imageUrl": "https://cache.pttweb.cc/imgur/xDwB4B7/s/1e50fd3bac28a923e7a97c50a7322c22"
+    },
+    {
       "recommendScore": "179",
       "recommendCount": "727",
       "title": "[新聞] 沈伯洋再說明「都更陪伴」批對手：斷章取義我的話",
@@ -32,16 +42,6 @@
       "board": "Gossiping",
       "publishTime": "2026/10/31 09:44",
       "imageUrl": ""
-    },
-    {
-      "recommendScore": "164",
-      "recommendCount": "631",
-      "title": "[新聞] 辯論結束PTT再現網軍攻擊沈伯洋 資安專家曝1狀況",
-      "link": "/bbs/Gossiping/M.1793459658.A.D8D",
-      "author": "chadmu",
-      "board": "Gossiping",
-      "publishTime": "2026/10/31 15:14",
-      "imageUrl": "https://cache.pttweb.cc/imgur/xDwB4B7/s/1e50fd3bac28a923e7a97c50a7322c22"
     },
     {
       "recommendScore": "381",
