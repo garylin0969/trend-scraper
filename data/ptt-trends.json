@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T03:20:20.383Z",
+  "updated": "2026-11-01T03:29:58.292Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -24,8 +24,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "180",
-      "recommendCount": "666",
+      "recommendScore": "182",
+      "recommendCount": "669",
       "title": "[新聞] 辯論結束PTT再現網軍攻擊沈伯洋 資安專家曝1狀況",
       "link": "/bbs/Gossiping/M.1793459658.A.D8D",
       "author": "chadmu",
@@ -54,6 +54,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "175",
+      "recommendCount": "603",
+      "title": "[新聞] 辯論會媒體提問先給題目 沈伯洋證實一天前收到：不知道為什麼這樣決定",
+      "link": "/bbs/Gossiping/M.1793494455.A.ECF",
+      "author": "james7923",
+      "board": "Gossiping",
+      "publishTime": "2026/11/01 00:54",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "642",
       "recommendCount": "1319",
       "title": "[電競] 2026 World Championship 瑞士輪 Day 8",
@@ -71,16 +81,6 @@
       "author": "JRhokkaido",
       "board": "BaseballXXXX",
       "publishTime": "2026/10/31 04:19",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "148",
-      "recommendCount": "540",
-      "title": "[新聞] 辯論會媒體提問先給題目 沈伯洋證實一天前收到：不知道為什麼這樣決定",
-      "link": "/bbs/Gossiping/M.1793494455.A.ECF",
-      "author": "james7923",
-      "board": "Gossiping",
-      "publishTime": "2026/11/01 00:54",
       "imageUrl": ""
     },
     {
@@ -104,6 +104,16 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "80",
+      "recommendCount": "841",
+      "title": "[新聞] TVBS新聞部主管認了！辯論會前就提供「媒體提問」題目",
+      "link": "/bbs/HatePolitics/M.1793458020.A.86A",
+      "author": "boogieman",
+      "board": "HatePolitics",
+      "publishTime": "2026/10/31 14:47",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "187",
       "recommendCount": "324",
       "title": "[新聞] 謝金河看AI恐慌力 台股賣鏟人衝擊沒那麼大",
@@ -111,16 +121,6 @@
       "author": "DrowningPool",
       "board": "Stock",
       "publishTime": "2026/10/31 04:22",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "80",
-      "recommendCount": "839",
-      "title": "[新聞] TVBS新聞部主管認了！辯論會前就提供「媒體提問」題目",
-      "link": "/bbs/HatePolitics/M.1793458020.A.86A",
-      "author": "boogieman",
-      "board": "HatePolitics",
-      "publishTime": "2026/10/31 14:47",
       "imageUrl": ""
     },
     {
@@ -154,13 +154,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "253",
-      "recommendCount": "291",
+      "recommendScore": "255",
+      "recommendCount": "294",
       "title": "[預測] S16世界大賽-冠軍隊伍預測",
       "link": "/bbs/LoL/M.1793491156.A.3E8",
       "author": "fairymomo",
       "board": "LoL",
       "publishTime": "2026/10/31 23:59",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "55",
+      "recommendCount": "362",
+      "title": "[新聞] OpenAI奧特曼：個人電腦上裝記憶體太浪費、最好留給AI資料中心",
+      "link": "/bbs/Stock/M.1793459392.A.3F2",
+      "author": "d8917936",
+      "board": "Stock",
+      "publishTime": "2026/10/31 15:09",
       "imageUrl": ""
     },
     {
@@ -175,22 +185,12 @@
     },
     {
       "recommendScore": "161",
-      "recommendCount": "293",
+      "recommendCount": "294",
       "title": "[閒聊] 時間是不是證明宙斯姑媽都是靠Faker",
       "link": "/bbs/LoL/M.1793489981.A.D24",
       "author": "jumpballfan",
       "board": "LoL",
       "publishTime": "2026/10/31 23:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "54",
-      "recommendCount": "353",
-      "title": "[新聞] OpenAI奧特曼：個人電腦上裝記憶體太浪費、最好留給AI資料中心",
-      "link": "/bbs/Stock/M.1793459392.A.3F2",
-      "author": "d8917936",
-      "board": "Stock",
-      "publishTime": "2026/10/31 15:09",
       "imageUrl": ""
     },
     {
