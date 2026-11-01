@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-01T02:22:23.651Z",
+  "updated": "2026-11-01T02:34:13.934Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "442",
-      "recommendCount": "915",
+      "recommendScore": "443",
+      "recommendCount": "916",
       "title": "[爆卦] TVBS 聲明",
       "link": "/bbs/Gossiping/M.1793436505.A.48B",
       "author": "TPPKoWenJe",
@@ -95,7 +95,7 @@
     },
     {
       "recommendScore": "187",
-      "recommendCount": "323",
+      "recommendCount": "324",
       "title": "[新聞] 謝金河看AI恐慌力 台股賣鏟人衝擊沒那麼大",
       "link": "/bbs/Stock/M.1793420579.A.BFE",
       "author": "DrowningPool",
@@ -144,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "91",
-      "recommendCount": "316",
+      "recommendScore": "92",
+      "recommendCount": "317",
       "title": "[新聞] 辯論直播差距太驚人！沈伯洋YT衝17萬人",
       "link": "/bbs/Gossiping/M.1793426653.A.FD9",
       "author": "axxp",
@@ -154,8 +154,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "155",
-      "recommendCount": "284",
+      "recommendScore": "235",
+      "recommendCount": "271",
+      "title": "[預測] S16世界大賽-冠軍隊伍預測",
+      "link": "/bbs/LoL/M.1793491156.A.3E8",
+      "author": "fairymomo",
+      "board": "LoL",
+      "publishTime": "2026/10/31 23:59",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "156",
+      "recommendCount": "286",
       "title": "[閒聊] 時間是不是證明宙斯姑媽都是靠Faker",
       "link": "/bbs/LoL/M.1793489981.A.D24",
       "author": "jumpballfan",
@@ -191,16 +201,6 @@
       "author": "james7923",
       "board": "Gossiping",
       "publishTime": "2026/11/01 00:54",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "227",
-      "recommendCount": "262",
-      "title": "[預測] S16世界大賽-冠軍隊伍預測",
-      "link": "/bbs/LoL/M.1793491156.A.3E8",
-      "author": "fairymomo",
-      "board": "LoL",
-      "publishTime": "2026/10/31 23:59",
       "imageUrl": ""
     }
   ]
