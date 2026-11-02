@@ -1,25 +1,36 @@
 {
     "name": "trend-scraper",
-    "version": "2.0.0",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "scrape:google": "tsx src/scrapers/google.ts",
-        "scrape:ptt": "tsx src/scrapers/ptt.ts",
-        "scrape:komica": "tsx src/scrapers/komica.ts",
-        "scrape:bbc": "tsx src/scrapers/bbc.ts"
-    },
-    "keywords": [],
-    "author": "",
+    "version": "3.0.0",
+    "private": true,
+    "type": "module",
+    "description": "Scheduled trend collectors with stable public JSON feeds",
     "license": "ISC",
-    "description": "",
+    "engines": {
+        "node": ">=24 <27"
+    },
+    "packageManager": "pnpm@12.16.1",
+    "scripts": {
+        "scrape": "tsx src/cli.ts",
+        "scrape:bbc": "tsx src/cli.ts bbc",
+        "scrape:google": "tsx src/cli.ts google",
+        "scrape:ptt": "tsx src/cli.ts ptt",
+        "scrape:komica": "tsx src/cli.ts komica",
+        "typecheck": "tsc --noEmit",
+        "test": "tsx --test tests/*.test.ts",
+        "format": "prettier --write .",
+        "format:check": "prettier --check .",
+        "check": "pnpm typecheck && pnpm test && pnpm format:check"
+    },
     "dependencies": {
-        "puppeteer": "^24.11.2",
-        "rss-parser": "^3.13.0"
+        "cheerio": "1.2.0",
+        "playwright": "1.64.1",
+        "rss-parser": "3.13.0",
+        "zod": "4.6.7"
     },
     "devDependencies": {
-        "@types/node": "^24.0.10",
-        "tsx": "^4.20.3",
-        "typescript": "^5.8.3"
+        "@types/node": "^24.19.2",
+        "prettier": "3.9.10",
+        "tsx": "4.23.15",
+        "typescript": "7.0.2"
     }
 }

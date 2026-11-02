@@ -1,1 +1,6 @@
+# 安裝產物、失敗診斷與編譯暫存不納入版本控制。
 node_modules/
+artifacts/
+dist/
+*.tsbuildinfo
+.DS_Store

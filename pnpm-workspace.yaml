@@ -1,0 +1,4 @@
+# 僅允許 esbuild 的必要安裝腳本，供 tsx 轉譯 TypeScript 使用。
+# 新增需要安裝腳本的套件時，先確認用途，再明確列入此處。
+allowBuilds:
+    esbuild: true

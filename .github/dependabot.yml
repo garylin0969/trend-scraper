@@ -1,0 +1,19 @@
+# 每週提出依賴更新 PR；套件更新與 Actions 更新分開分組，方便檢查及測試。
+version: 2
+updates:
+    # npm 生態系包含本專案使用 pnpm 管理的 JavaScript／TypeScript 套件。
+    - package-ecosystem: npm
+      directory: /
+      schedule:
+          interval: weekly
+      groups:
+          dependencies:
+              patterns: ['*']
+    # 另外追蹤工作流程引用的 Actions 版本。
+    - package-ecosystem: github-actions
+      directory: /
+      schedule:
+          interval: weekly
+      groups:
+          actions:
+              patterns: ['*']

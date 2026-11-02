@@ -1,0 +1,67 @@
+# 四個來源共用的收集流程；排程及來源名稱由 update-*.yml 傳入。
+name: Collect and publish trends
+
+on:
+    # 此檔案只供其他 workflow 呼叫，不另外建立自己的定期排程。
+    workflow_call:
+        inputs:
+            source:
+                required: true
+                type: string
+            # 試跑照常連線與驗證，但不寫入或發布公開資料。
+            dry_run:
+                default: false
+                type: boolean
+
+# 更新資料需要提交權限；一般程式檢查使用另一份唯讀 workflow。
+permissions:
+    contents: write
+
+jobs:
+    update:
+        runs-on: ubuntu-latest
+        timeout-minutes: 10
+        steps:
+            - uses: actions/checkout@v7
+              with:
+                  ref: main
+                  # rebase 需要歷史紀錄，因此不使用淺層 checkout。
+                  fetch-depth: 0
+            - uses: actions/setup-node@v7
+              with:
+                  node-version-file: .node-version
+                  package-manager-cache: false
+            # pnpm 版本以 package.json 為單一來源，避免 CI 與本機版本不同。
+            - name: Install pnpm
+              run: npm install --global "$(node -p 'require("./package.json").packageManager')"
+            # 嚴格使用 lockfile；依賴宣告與鎖定檔不一致時直接失敗。
+            - name: Install dependencies
+              run: pnpm install --frozen-lockfile
+            # BBC 只讀 RSS；Komica 雖優先 HTTP，仍需準備瀏覽器作為備援。
+            - name: Install Chromium
+              if: inputs.source != 'bbc'
+              run: pnpm exec playwright install --with-deps chromium
+            - name: Collect data
+              env:
+                  SOURCE: ${{ inputs.source }}
+                  DRY_RUN: ${{ inputs.dry_run }}
+              # 透過環境變數及陣列傳入參數，避免直接把輸入拼接進 shell 程式碼。
+              run: |
+                  args=()
+                  if [[ "$DRY_RUN" == "true" ]]; then args+=(--dry-run); fi
+                  pnpm scrape "$SOURCE" "${args[@]}"
+            # 收集失敗時此步驟不會執行；試跑也不會提交。
+            - name: Commit and push results
+              if: ${{ !inputs.dry_run }}
+              env:
+                  SOURCE: ${{ inputs.source }}
+              run: bash scripts/publish-data.sh "$SOURCE"
+            # 即使爬取失敗仍上傳診斷；沒有診斷檔時略過，保留七天供查閱。
+            - name: Upload diagnostics
+              if: ${{ always() }}
+              uses: actions/upload-artifact@v7
+              with:
+                  name: diagnostics-${{ inputs.source }}-${{ github.run_id }}-${{ github.run_attempt }}
+                  path: artifacts/
+                  if-no-files-found: ignore
+                  retention-days: 7

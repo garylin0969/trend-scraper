@@ -1,327 +1,125 @@
-# 🔥 Hot Now 爬蟲專案
+# Trend Scraper
 
-這是為 [Hot Now](https://hotnow.garylin.dev) 網站提供資料的爬蟲專案，負責收集各種熱門內容的最新資訊。
+以 GitHub Actions 定期收集 BBC 中文新聞、Google 台灣熱搜、Komica 與 PTT 熱門文章，透過 GitHub Pages 提供 JSON。
 
-## 🌟 專案簡介
+## 公開資料介面
 
-Hot Now 是一個整合各大平台熱門內容的資訊聚合網站，讓使用者能夠一站式瀏覽各種熱門話題。
+**`data/` 是提供其他專案使用的固定入口。檔名、JSON 欄位名稱和型別保持相容。**
 
-- **網站連結**: [https://hotnow.garylin.dev](https://hotnow.garylin.dev)
-- **主專案**: [https://github.com/garylin0969/hot-now](https://github.com/garylin0969/hot-now)
-- **Chrome 擴充功能**: [Hot Now ｜熱門話題一把抓](https://chromewebstore.google.com/detail/hot-now%EF%BD%9C%E7%86%B1%E9%96%80%E8%A9%B1%E9%A1%8C%E4%B8%80%E6%8A%8A%E6%8A%93/pcgkeopgenagbemoagdogljeapjhapch)
+| 路徑                      | 頂層欄位                                               | 更新排程（UTC，每小時）  |
+| ------------------------- | ------------------------------------------------------ | ------------------------ |
+| `data/bbc-trends.json`    | `updated`, `channel`, `trends`                         | 15、45 分                |
+| `data/google-trends.json` | `updated`, `trends`                                    | 5、35 分                 |
+| `data/komica-trends.json` | `updated`, `trends`                                    | 18、48 分                |
+| `data/ptt-trends.json`    | `updated`, `total_found`, `returned_count`, `articles` | 1、11、21、31、41、51 分 |
 
-## 🎯 Chrome 擴充功能
+公開網址的基底是 [GitHub Pages](https://garylin0969.github.io/trend-scraper/)，例如 [Komica JSON](https://garylin0969.github.io/trend-scraper/data/komica-trends.json)。Actions 排程可能延遲，並非準點保證。
 
-Hot Now 提供了 Chrome 擴充功能，讓你每次開啟新分頁時都能即時掌握最受歡迎的熱門網路討論話題。
+- `updated`：本次成功收集資料的 ISO 8601 UTC 時間，不代表每篇文章的發布時間。
+- BBC `channel`：`title`, `description`, `link`, `lastBuildDate`, `language`, `copyright`。來源未提供的選用欄位沿用省略行為。
+- BBC `trends[]`：`title`, `description`, `link`, `pubDate`, `guid`，選用 `thumbnail`。日期轉為 ISO UTC；沒有發布日期時為空字串。
+- Google `trends[]`：`googleTrend`, `searchVolume`, `started`，皆為字串，保留 `2,000+`、`3 小時前` 等格式。
+- Komica `trends[]`：數字 `replyCount`，以及字串 `date`, `time`, `title`, `description`, `link`, `rawText`。
+- PTT `articles[]`：`recommendScore`, `recommendCount`, `title`, `link`, `author`, `board`, `publishTime`, `imageUrl`，皆為字串。保留相對連結、頁面原始熱門順序，去重後最多 20 篇；兩個計數欄位都等於輸出篇數。
+- Komica 優先使用 `Today`；不存在、清單空白或無法解析時改用 `All`。使用哪個清單只寫入日誌，不增加公開 JSON 欄位。`All` 的文章可能較舊。
+- 所有來源先驗證再以原子方式寫檔。失敗、空資料或格式不符時保留上次成功資料，執行程序回傳非零狀態。
 
-### 特色
+公開契約定義在 `src/contracts.ts`。測試會檢查 repository 既有四份 JSON 能完整通過驗證，不丟失或轉換欄位。
 
-- 開啟新分頁即可瀏覽熱門話題
-- 不收集個人身份資訊
-- 僅使用 Google Analytics 進行匿名使用行為分析
+## 環境與安裝
 
-## 📊 支援平台
-
-Hot Now 整合了以下平台的熱門內容：
-
-| 平台             | 內容類型     | 資料來源方式                     | 負責專案   |
-| ---------------- | ------------ | -------------------------------- | ---------- |
-| **YouTube**      | 發燒影片     | Google Cloud YouTube Data API v3 | 主專案     |
-| **PTT**          | 24H 熱門文章 | 爬蟲                             | **本專案** |
-| **Google**       | 熱搜榜       | 爬蟲                             | **本專案** |
-| **巴哈姆特**     | 熱門話題     | 官方 API                         | 主專案     |
-| **Komica(K 島)** | 熱門文章     | 爬蟲                             | **本專案** |
-| **BBC 中文**     | 熱門新聞     | RSS 爬蟲                         | **本專案** |
-
-## 🕷️ 本專案負責的爬蟲
-
-本專案專門負責以下平台的資料爬取：
-
-### 1. PTT 熱門文章
-
-- **目標網站**: https://www.pttweb.cc/hot/all/today
-- **資料內容**: 24 小時熱門文章
-- **爬蟲頻率**: **每 10 分鐘** (一天 144 次)
-- **執行時間**: 每小時第 1、11、21、31、41、51 分鐘
-- **儲存位置**: `data/ptt-trends.json`
-
-### 2. Google 熱搜榜
-
-- **目標網站**: https://trends.google.com.tw/trending?geo=TW&hours=4
-- **資料內容**: 台灣 4 小時內熱搜關鍵字
-- **爬蟲頻率**: **每 30 分鐘** (一天 48 次)
-- **執行時間**: 每小時第 5、35 分鐘
-- **儲存位置**: `data/google-trends.json`
-
-### 3. Komica(K 島) 熱門文章
-
-- **目標網站**: https://gita.komica1.org/00b/catlist.php
-- **資料內容**: 今日熱門文章 Top 50
-- **爬蟲頻率**: **每 30 分鐘** (一天 48 次)
-- **執行時間**: 每小時第 18、48 分鐘
-- **儲存位置**: `data/komica-trends.json`
-
-### 4. BBC 中文新聞
-
-- **目標網站**: https://feeds.bbci.co.uk/zhongwen/trad/rss.xml
-- **資料內容**: BBC 中文網最新新聞文章
-- **爬蟲頻率**: **每 30 分鐘** (一天 48 次)
-- **執行時間**: 每小時第 15、45 分鐘
-- **儲存位置**: `data/bbc-trends.json`
-
-## 🏗️ 技術架構
-
-### 技術棧
-
-- **執行環境**: Node.js 18
-- **程式語言**: TypeScript
-- **網頁爬蟲**: Puppeteer
-- **RSS 解析**: RSS Parser
-- **部署平台**: GitHub Page
-- **自動化**: GitHub Actions
-- **包管理器**: pnpm
-
-### 專案結構
-
-```
-trend-scraper/
-├── src/
-│   ├── scrapers/                 # 爬蟲腳本
-│   │   ├── bbc.ts                # BBC中文新聞爬蟲
-│   │   ├── google.ts             # Google熱搜爬蟲
-│   │   ├── komica.ts             # K島熱門文章爬蟲
-│   │   └── ptt.ts                # PTT熱門文章爬蟲
-│   ├── config/                   # 設定檔
-│   │   └── constants.ts          # 常數設定 (URL, User-Agents)
-│   ├── utils/                    # 工具函式
-│   │   ├── browser.ts            # Puppeteer 瀏覽器管理
-│   │   ├── common.ts             # 通用工具
-│   │   ├── file-manager.ts       # 檔案讀寫管理
-│   │   └── logger.ts             # 日誌系統
-│   └── types.ts                  # TypeScript 型別定義
-├── data/                         # 爬蟲資料儲存
-│   ├── bbc-trends.json           # BBC中文新聞資料
-│   ├── google-trends.json        # Google熱搜資料
-│   ├── komica-trends.json        # K島熱門資料
-│   └── ptt-trends.json           # PTT熱門資料
-├── .github/workflows/            # GitHub Actions工作流程
-│   ├── update-bbc.yml            # BBC中文新聞自動更新
-│   ├── update-google.yml         # Google熱搜自動更新
-│   ├── update-komica.yml         # K島自動更新
-│   └── update-ptt.yml            # PTT自動更新
-├── package.json                  # 專案設定
-├── tsconfig.json                 # TypeScript設定
-└── pnpm-lock.yaml                # 依賴鎖定檔
-```
-
-## 🚀 本地開發
-
-### 環境需求
-
-- Node.js 18+
-- pnpm
-
-### 安裝步驟
+使用 **Node.js 24 LTS**（`.node-version`）、**pnpm 12.16.1**（`package.json`），依賴以 `pnpm-lock.yaml` 鎖定。
 
 ```bash
-# 克隆專案
-git clone https://github.com/garylin0969/trend-scraper.git
-cd trend-scraper
-
-# 安裝依賴
-pnpm install
-
-# 安裝 Puppeteer Chromium
-npx puppeteer browsers install chrome
+npm install --global pnpm@12.16.1
+pnpm install --frozen-lockfile
+pnpm exec playwright install chromium
 ```
 
-### 執行爬蟲
+Linux / GitHub Actions 安裝 Chromium 與系統依賴：
 
 ```bash
-# 爬取 BBC 中文新聞
+pnpm exec playwright install --with-deps chromium
+```
+
+單獨執行 BBC 不需要安裝瀏覽器。`pnpm-workspace.yaml` 只允許 `esbuild` 必要的安裝腳本。
+
+## 執行
+
+舊有指令保留：
+
+```bash
 pnpm scrape:bbc
-
-# 爬取 Google 熱搜
 pnpm scrape:google
-
-# 爬取 PTT 熱門文章
-pnpm scrape:ptt
-
-# 爬取 K島 熱門文章
 pnpm scrape:komica
+pnpm scrape:ptt
 ```
 
-## 🤖 自動化部署
+統一入口也可執行任何來源。試抓時加上 `--dry-run`：仍然連線、解析並驗證資料，但不更新 `data/`。
 
-本專案使用 GitHub Actions 實現自動化爬蟲，每個平台都有獨立的工作流程：
-
-### BBC 中文新聞自動更新
-
-- **檔案**: `.github/workflows/update-bbc.yml`
-- **執行頻率**: 每小時第 15、45 分鐘
-- **cron 表達式**: `15,45 * * * *`
-
-### Google 熱搜自動更新
-
-- **檔案**: `.github/workflows/update-google.yml`
-- **執行頻率**: 每小時第 5、35 分鐘
-- **cron 表達式**: `5,35 * * * *`
-
-### K 島自動更新
-
-- **檔案**: `.github/workflows/update-komica.yml`
-- **執行頻率**: 每小時第 18、48 分鐘
-- **cron 表達式**: `18,48 * * * *`
-
-### PTT 自動更新
-
-- **檔案**: `.github/workflows/update-ptt.yml`
-- **執行頻率**: 每 10 分鐘
-- **cron 表達式**: `1,11,21,31,41,51 * * * *`
-
-## 📋 爬蟲特色
-
-### BBC 爬蟲
-
-- 使用 RSS Parser 解析 BBC 中文網 RSS feed
-- 支援縮圖圖片 URL 提取
-- 完整的頻道資訊保存
-- 標準化的日期格式處理
-
-### PTT 爬蟲
-
-- 智慧滾動策略，保持文章熱門度順序
-- 多層備用選擇器，確保穩定性
-- 支援圖片 URL 提取
-- 完整的去重機制
-
-### Google 熱搜爬蟲
-
-- 隨機 User-Agent 避免被偵測
-- 隨機延遲模擬人類行為
-- 精準提取搜尋量和時間資訊
-
-### K 島爬蟲
-
-- 解析 HTML 結構
-- 提取完整的討論串資訊
-- 支援回覆數量統計
-
-## 🛡️ 反爬蟲策略
-
-為了確保爬蟲穩定運作，本專案採用了多種反偵測技術：
-
-- **隨機 User-Agent**: 模擬不同瀏覽器和設備
-- **隨機延遲**: 避免規律性存取模式
-- **穩定選擇器**: 避免依賴動態 CSS 類名
-- **多層備用方案**: 確保在網站更新時仍能正常運作
-- **Headless 瀏覽器**: 使用 Puppeteer 模擬真實瀏覽器行為
-
-## 🌐 資料 API
-
-本專案使用 GitHub Pages 提供即時的 JSON 資料 API，任何人都可以透過以下端點取得最新資料：
-
-### API 端點
-
-| 平台              | API 端點                                                            | 更新頻率   |
-| ----------------- | ------------------------------------------------------------------- | ---------- |
-| **BBC 中文新聞**  | https://garylin0969.github.io/trend-scraper/data/bbc-trends.json    | 每 30 分鐘 |
-| **PTT 熱門文章**  | https://garylin0969.github.io/trend-scraper/data/ptt-trends.json    | 每 10 分鐘 |
-| **Google 熱搜榜** | https://garylin0969.github.io/trend-scraper/data/google-trends.json | 每 30 分鐘 |
-| **K 島熱門文章**  | https://garylin0969.github.io/trend-scraper/data/komica-trends.json | 每 30 分鐘 |
-
-### CORS 支援
-
-所有 API 端點都支援 CORS，可以直接在前端應用程式中使用，無需額外的代理服務。
-
-## 📈 資料格式
-
-### BBC 中文新聞
-
-```json
-{
-    "updated": "2025-07-15T07:41:30.769Z",
-    "channel": {
-        "title": "BBC Chinese",
-        "description": "BBC Chinese - BBC News , 中文 - 主頁",
-        "link": "https://www.bbc.com/zhongwen/trad",
-        "lastBuildDate": "2025-07-15T07:41:16.000Z",
-        "language": "zh-hant",
-        "copyright": "英國廣播公司 版權所有 "
-    },
-    "trends": [
-        {
-            "title": "「魷魚遊戲」下結業潮來襲，香港餐飲業能重返「美食天堂」嗎？",
-            "description": "BBC中文訪問研究飲食文化及經濟學者，以及業內人士，剖析香港餐飲業結業潮的癥結。",
-            "link": "https://www.bbc.com/zhongwen/articles/c1k8ge4zjw0o/trad",
-            "pubDate": "2025-07-15T01:10:24.000Z",
-            "guid": "https://www.bbc.com/zhongwen/articles/c1k8ge4zjw0o/trad#0",
-            "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ed09/live/e6eda9f0-5dbe-11f0-8328-5fcabfbdb3e1.jpg"
-        }
-    ]
-}
+```bash
+pnpm scrape komica --dry-run
+pnpm scrape google --dry-run
 ```
 
-### PTT 熱門文章
+輸出目錄以專案位置計算，不受啟動時工作目錄影響。每個來源最多執行兩次，第一次失敗等待 2 秒再重試；HTTP 請求上限 30 秒，瀏覽器導覽上限 60 秒，主要資料等待上限 30 秒。PTT 最多補充滾動 8 次，每次等待新連結最多 5 秒。
 
-```json
-{
-    "updated": "2025-07-05T09:53:34.781Z",
-    "total_found": 20,
-    "returned_count": 20,
-    "articles": [
-        {
-            "recommendScore": "673",
-            "recommendCount": "1018",
-            "title": "[問卦] 北檢撐法治，我們撐北檢！",
-            "link": "/bbs/Gossiping/M.1751680585.A.4E1",
-            "author": "ambitious",
-            "board": "Gossiping",
-            "publishTime": "2025/07/05 01:56",
-            "imageUrl": "https://cache.pttweb.cc/imgur/Y4T1d9a/s/..."
-        }
-    ]
-}
+## 架構
+
+```text
+src/
+  cli.ts                 統一命令入口與退出狀態
+  config.ts              來源網址、專案根目錄與 HTTP 設定
+  contracts.ts           公開 JSON schema、型別、固定檔名
+  core/
+    browser.ts           Playwright 生命週期與失敗診斷
+    http.ts              有逾時限制的 HTTP 請求與狀態檢查
+    logger.ts            帶時間與來源的日誌
+    runner.ts            重試、輸出驗證、dry-run 與儲存流程
+    storage.ts           驗證後原子替換 JSON
+  sources/
+    bbc.ts               HTTP + RSS Parser
+    google.ts            Playwright 載入 + Cheerio 解析
+    komica.ts            HTTP + Cheerio；必要時使用 Playwright
+    ptt.ts               Playwright 載入／補充滾動 + Cheerio 解析
+scripts/
+  publish-data.sh         提交單一來源、rebase 與有限次推送重試
+tests/
+  fixtures/              離線 HTML／RSS 範例
+  *.test.ts              解析、契約、儲存保護與 Git 發布整合測試
 ```
 
-### Google 熱搜
+動態頁面使用一致的桌面瀏覽器設定與 `zh-TW` 語系，等待有效資料出現，避免以隨機 User-Agent 或固定長時間休眠決定解析時機。解析函式可以獨立測試，不必啟動瀏覽器。
 
-```json
-{
-    "updated": "2025-07-05T09:47:00.588Z",
-    "trends": [
-        {
-            "googleTrend": "段宜恩",
-            "searchVolume": "500+",
-            "started": "3 小時前"
-        }
-    ]
-}
+## 驗證與維護
+
+```bash
+pnpm check          # 型別、離線測試、格式
+pnpm typecheck
+pnpm test
+pnpm format
 ```
 
-### K 島 熱門文章
+測試不連外、不修改正式資料，使用 Node 內建測試框架與暫存目錄。新增來源或更換選擇器時，加入對應 fixture；對外介面變更須先與使用者協調。
 
-```json
-{
-    "updated": "2025-07-05T09:39:36.119Z",
-    "trends": [
-        {
-            "replyCount": 130,
-            "date": "2025/07/05",
-            "time": "00:25",
-            "title": "中國水世界 夏日季節活動",
-            "description": "6月26日貴州榕江縣上游水庫洩洪，河水暴",
-            "link": "https://gita.komica1.org/00b/pixmicat.php?res=28143559",
-            "rawText": "130|28143559|2025/07/05|00:25|中國水世界 夏日季節活動|6月26日貴州榕江縣上游水庫洩洪，河水暴|在新分頁開啟"
-        }
-    ]
-}
+## GitHub Actions
+
+四個 `update-*.yml` 保留既有工作流程名稱和排程，共用 `scrape.yml`：
+
+1. Node 24 與鎖定的 pnpm / 依賴。
+2. 除 BBC 外安裝 Chromium（Komica 瀏覽器 fallback 仍需準備）。
+3. 收集、驗證並寫入對應 JSON。
+4. 只提交該來源檔案，先 commit 再 rebase，推送失敗最多重試 5 次，避免不同來源同時更新時互相覆蓋。
+5. 上傳瀏覽器失敗診斷，保留 7 天。
+
+同來源透過 workflow concurrency 避免並行執行，不同來源可並行。手動 **Run workflow** 可勾選 `dry_run`，驗證來源而不提交資料。
+
+`check.yml` 在 PR 與程式／設定變更時執行 `pnpm check`，純資料自動更新不觸發 push 檢查。Dependabot 每週提出套件與 Actions 更新。
+
+瀏覽器失敗時，本機 `artifacts/<source>/<timestamp>/` 包含 HTML、截圖與 `trace.zip`；Actions 可下載對應 diagnostics artifact。用以下指令檢查 trace：
+
+```bash
+pnpm exec playwright show-trace artifacts/<source>/<timestamp>/trace.zip
 ```
 
-## 🔗 相關連結
-
-- **Hot Now 網站**: https://hotnow.garylin.dev
-- **Hot Now 主專案**: https://github.com/garylin0969/hot-now
-- **資料 API (GitHub Pages)**: https://garylin0969.github.io/trend-scraper/
-- **API 配額資訊**:
-    - YouTube Data API v3: 10,000 Queries/day, 1,800,000 Queries/minute
+HTTP 失敗會記錄狀態或錯誤原因；若瀏覽器尚未啟動就失敗，可能沒有頁面診斷檔。診斷檔不進版控，也不放入公開 `data/`。

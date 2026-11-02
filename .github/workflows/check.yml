@@ -1,0 +1,38 @@
+# 程式品質檢查：型別、離線測試與格式；不執行外部網站的實際爬取。
+name: Check
+on:
+    # PR 全部檢查；main 的 push 則只在程式或設定變動時檢查。
+    pull_request:
+    push:
+        branches: [main]
+        # 不包含 data/**，避免純資料自動更新反覆觸發相同檢查。
+        paths:
+            - 'src/**'
+            - 'tests/**'
+            - 'scripts/**'
+            - '.github/**'
+            - 'package.json'
+            - 'pnpm-lock.yaml'
+            - 'pnpm-workspace.yaml'
+            - 'tsconfig.json'
+            - '.node-version'
+            - '.prettier*'
+            - 'README.md'
+# 品質檢查只需讀取程式，不需要寫入倉庫。
+permissions:
+    contents: read
+jobs:
+    check:
+        runs-on: ubuntu-latest
+        timeout-minutes: 10
+        steps:
+            - uses: actions/checkout@v7
+            - uses: actions/setup-node@v7
+              with:
+                  node-version-file: .node-version
+                  package-manager-cache: false
+            - name: Install pnpm
+              run: npm install --global "$(node -p 'require("./package.json").packageManager')"
+            - run: pnpm install --frozen-lockfile
+            # pnpm check 依序執行 typecheck、test 和 format:check。
+            - run: pnpm check

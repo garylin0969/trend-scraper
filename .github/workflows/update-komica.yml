@@ -1,59 +1,30 @@
+# KOMICA 的排程入口；實際安裝、收集與發布交給共用 scrape.yml。
 name: Update Komica Trends
 
 on:
+    # cron 使用 UTC；分鐘數沿用既有設定，實際啟動時間可能因平台排隊而延遲。
     schedule:
-        - cron: '18,48 * * * *' # 每小時第 18 和 48 分鐘執行
+        - cron: '18,48 * * * *'
+    # 允許在 Actions 手動啟動，並選擇只驗證、不發布的試跑模式。
     workflow_dispatch:
+        inputs:
+            dry_run:
+                description: Validate without publishing data
+                type: boolean
+                default: false
 
 permissions:
     contents: write
 
+# 同來源避免並行執行；不取消已在執行的工作，不同來源仍可並行。
+concurrency:
+    group: scrape-komica
+    cancel-in-progress: false
+
 jobs:
+    # 傳入固定來源名稱，避免在各排程重複維護相同的收集步驟。
     update:
-        runs-on: ubuntu-latest
-        timeout-minutes: 10
-
-        steps:
-            - name: Checkout Repo
-              uses: actions/checkout@v4
-
-            - name: Install pnpm
-              uses: pnpm/action-setup@v2
-              with:
-                  version: 9
-
-            - name: Setup Node.js
-              uses: actions/setup-node@v4
-              with:
-                  node-version: 20
-                  cache: 'pnpm'
-
-            - name: Install dependencies
-              run: pnpm install
-
-            - name: Force install Chromium for Puppeteer
-              run: npx puppeteer browsers install chrome
-
-            - name: Run Puppeteer Scraper
-              run: pnpm run scrape:komica
-
-            - name: Commit and Push Results
-              env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-              run: |
-                  git config --global user.name "github-actions[bot]"
-                  git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-                  # 先保存爬蟲的新資料
-                  cp data/komica-trends.json /tmp/komica-trends.json
-
-                  # 拉取最新的程式碼
-                  git pull origin main
-
-                  # 把新爬到的資料覆蓋回去
-                  cp /tmp/komica-trends.json data/komica-trends.json
-
-                  # 提交並推送
-                  git add data/komica-trends.json
-                  git commit -m "update komica trends [CI] $(TZ=Asia/Taipei date '+%Y-%m-%d %H:%M:%S')" || echo "Nothing to commit"
-                  git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
+        uses: ./.github/workflows/scrape.yml
+        with:
+            source: komica
+            dry_run: ${{ inputs.dry_run || false }}

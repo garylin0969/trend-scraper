@@ -1,0 +1,5 @@
+# 跳過公開資料、產生檔與套件鎖定檔，避免格式化時改動外部讀取介面。
+node_modules/
+data/
+artifacts/
+pnpm-lock.yaml

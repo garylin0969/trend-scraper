@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- RSS 樣本：一篇含日期與縮圖，一篇缺少這些選用資訊，用來驗證舊版輸出行為。 -->
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel><title>BBC Chinese</title><description>中文新聞</description><link>https://www.bbc.com/zhongwen/trad</link>
+<lastBuildDate>Mon, 02 Nov 2026 01:00:00 GMT</lastBuildDate><language>zh-hant</language><copyright>BBC</copyright>
+<item><title>新聞標題</title><description>新聞摘要</description><link>https://www.bbc.com/news/1</link>
+<pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate><guid>story-1</guid><media:thumbnail url="https://example.com/image.jpg" /></item>
+<item><title>無圖片新聞</title><description>摘要</description><link>https://www.bbc.com/news/2</link><guid>story-2</guid></item>
+</channel></rss>
