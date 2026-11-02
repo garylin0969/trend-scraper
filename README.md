@@ -1,125 +1,81 @@
-# Trend Scraper
+# 🔥 Hot Now 爬蟲專案
 
-以 GitHub Actions 定期收集 BBC 中文新聞、Google 台灣熱搜、Komica 與 PTT 熱門文章，透過 GitHub Pages 提供 JSON。
+為 [Hot Now](https://hotnow.garylin.dev) 收集熱門話題與新聞，透過 GitHub Actions 定期更新，並由 GitHub Pages 提供 JSON 資料。
 
-## 公開資料介面
+## 📊 資料來源
 
-**`data/` 是提供其他專案使用的固定入口。檔名、JSON 欄位名稱和型別保持相容。**
+| 平台                                                           | 收集內容                          | 更新頻率   | JSON 資料                                                                                 |
+| -------------------------------------------------------------- | --------------------------------- | ---------- | ----------------------------------------------------------------------------------------- |
+| [PTT](https://www.pttweb.cc/hot/all/today)                     | 24 小時熱門文章，最多 20 篇       | 每 10 分鐘 | [ptt-trends.json](https://garylin0969.github.io/trend-scraper/data/ptt-trends.json)       |
+| [Google](https://trends.google.com.tw/trending?geo=TW&hours=4) | 台灣近 4 小時熱搜                 | 每 30 分鐘 | [google-trends.json](https://garylin0969.github.io/trend-scraper/data/google-trends.json) |
+| [Komica（K 島）](https://gita.komica1.org/00b/catlist.php)     | 今日熱門 Top 50，無資料時改抓 All | 每 30 分鐘 | [komica-trends.json](https://garylin0969.github.io/trend-scraper/data/komica-trends.json) |
+| [BBC 中文](https://feeds.bbci.co.uk/zhongwen/trad/rss.xml)     | 最新 RSS 新聞                     | 每 30 分鐘 | [bbc-trends.json](https://garylin0969.github.io/trend-scraper/data/bbc-trends.json)       |
 
-| 路徑                      | 頂層欄位                                               | 更新排程（UTC，每小時）  |
-| ------------------------- | ------------------------------------------------------ | ------------------------ |
-| `data/bbc-trends.json`    | `updated`, `channel`, `trends`                         | 15、45 分                |
-| `data/google-trends.json` | `updated`, `trends`                                    | 5、35 分                 |
-| `data/komica-trends.json` | `updated`, `trends`                                    | 18、48 分                |
-| `data/ptt-trends.json`    | `updated`, `total_found`, `returned_count`, `articles` | 1、11、21、31、41、51 分 |
+**`data/` 的檔名與 JSON 格式是固定的對外介面。** 所有檔案都有 `updated` 更新時間；詳細欄位可直接查看 [data/](data/) 與 [格式定義](src/contracts.ts)。抓取失敗或資料為空時，保留上次成功的結果。
 
-公開網址的基底是 [GitHub Pages](https://garylin0969.github.io/trend-scraper/)，例如 [Komica JSON](https://garylin0969.github.io/trend-scraper/data/komica-trends.json)。Actions 排程可能延遲，並非準點保證。
+## 🚀 本地開發
 
-- `updated`：本次成功收集資料的 ISO 8601 UTC 時間，不代表每篇文章的發布時間。
-- BBC `channel`：`title`, `description`, `link`, `lastBuildDate`, `language`, `copyright`。來源未提供的選用欄位沿用省略行為。
-- BBC `trends[]`：`title`, `description`, `link`, `pubDate`, `guid`，選用 `thumbnail`。日期轉為 ISO UTC；沒有發布日期時為空字串。
-- Google `trends[]`：`googleTrend`, `searchVolume`, `started`，皆為字串，保留 `2,000+`、`3 小時前` 等格式。
-- Komica `trends[]`：數字 `replyCount`，以及字串 `date`, `time`, `title`, `description`, `link`, `rawText`。
-- PTT `articles[]`：`recommendScore`, `recommendCount`, `title`, `link`, `author`, `board`, `publishTime`, `imageUrl`，皆為字串。保留相對連結、頁面原始熱門順序，去重後最多 20 篇；兩個計數欄位都等於輸出篇數。
-- Komica 優先使用 `Today`；不存在、清單空白或無法解析時改用 `All`。使用哪個清單只寫入日誌，不增加公開 JSON 欄位。`All` 的文章可能較舊。
-- 所有來源先驗證再以原子方式寫檔。失敗、空資料或格式不符時保留上次成功資料，執行程序回傳非零狀態。
-
-公開契約定義在 `src/contracts.ts`。測試會檢查 repository 既有四份 JSON 能完整通過驗證，不丟失或轉換欄位。
-
-## 環境與安裝
-
-使用 **Node.js 24 LTS**（`.node-version`）、**pnpm 12.16.1**（`package.json`），依賴以 `pnpm-lock.yaml` 鎖定。
+環境：**Node.js 24 LTS**、**pnpm 12.16.1**。
 
 ```bash
+# 取得專案
+git clone https://github.com/garylin0969/trend-scraper.git
+cd trend-scraper
+
+# 尚未安裝指定版本的 pnpm 時執行
 npm install --global pnpm@12.16.1
+
+# 依鎖定版本安裝專案套件
 pnpm install --frozen-lockfile
+
+# 安裝爬蟲需要的 Chromium 瀏覽器
 pnpm exec playwright install chromium
 ```
 
-Linux / GitHub Actions 安裝 Chromium 與系統依賴：
+Linux 環境請將最後一行改為 `pnpm exec playwright install --with-deps chromium`，一併安裝系統依賴。只執行 BBC 爬蟲時不需安裝瀏覽器。
+
+### 執行爬蟲
 
 ```bash
-pnpm exec playwright install --with-deps chromium
-```
+pnpm scrape:ptt       # PTT 熱門文章
+pnpm scrape:google    # Google 熱搜
+pnpm scrape:komica    # K 島熱門文章
+pnpm scrape:bbc       # BBC 中文新聞
 
-單獨執行 BBC 不需要安裝瀏覽器。`pnpm-workspace.yaml` 只允許 `esbuild` 必要的安裝腳本。
-
-## 執行
-
-舊有指令保留：
-
-```bash
-pnpm scrape:bbc
-pnpm scrape:google
-pnpm scrape:komica
-pnpm scrape:ptt
-```
-
-統一入口也可執行任何來源。試抓時加上 `--dry-run`：仍然連線、解析並驗證資料，但不更新 `data/`。
-
-```bash
+# 試抓並驗證，不改寫 data/；來源可換成 ptt、google 或 bbc
 pnpm scrape komica --dry-run
-pnpm scrape google --dry-run
 ```
 
-輸出目錄以專案位置計算，不受啟動時工作目錄影響。每個來源最多執行兩次，第一次失敗等待 2 秒再重試；HTTP 請求上限 30 秒，瀏覽器導覽上限 60 秒，主要資料等待上限 30 秒。PTT 最多補充滾動 8 次，每次等待新連結最多 5 秒。
+### 程式檢查
 
-## 架構
+```bash
+pnpm check           # 型別檢查、離線測試、格式檢查
+pnpm format          # 自動整理程式格式
+```
+
+## 🏗️ 專案結構
+
+使用 TypeScript、Playwright、Cheerio 與 RSS Parser。Google／PTT 由瀏覽器載入；Komica 優先直接取得 HTML，必要時使用瀏覽器備援；BBC 直接讀取 RSS。
 
 ```text
 src/
-  cli.ts                 統一命令入口與退出狀態
-  config.ts              來源網址、專案根目錄與 HTTP 設定
-  contracts.ts           公開 JSON schema、型別、固定檔名
-  core/
-    browser.ts           Playwright 生命週期與失敗診斷
-    http.ts              有逾時限制的 HTTP 請求與狀態檢查
-    logger.ts            帶時間與來源的日誌
-    runner.ts            重試、輸出驗證、dry-run 與儲存流程
-    storage.ts           驗證後原子替換 JSON
-  sources/
-    bbc.ts               HTTP + RSS Parser
-    google.ts            Playwright 載入 + Cheerio 解析
-    komica.ts            HTTP + Cheerio；必要時使用 Playwright
-    ptt.ts               Playwright 載入／補充滾動 + Cheerio 解析
-scripts/
-  publish-data.sh         提交單一來源、rebase 與有限次推送重試
-tests/
-  fixtures/              離線 HTML／RSS 範例
-  *.test.ts              解析、契約、儲存保護與 Git 發布整合測試
+├── cli.ts           指令入口
+├── config.ts        來源網址與設定
+├── contracts.ts     固定檔名、JSON 格式與型別
+├── core/            瀏覽器、HTTP、重試、驗證與寫檔
+└── sources/         各平台的抓取與解析
+data/               對外提供的 JSON 資料
+tests/              解析、資料相容性與發布測試
+scripts/            Git 資料發布腳本
+.github/workflows/  排程與自動檢查
 ```
 
-動態頁面使用一致的桌面瀏覽器設定與 `zh-TW` 語系，等待有效資料出現，避免以隨機 User-Agent 或固定長時間休眠決定解析時機。解析函式可以獨立測試，不必啟動瀏覽器。
+## 🤖 自動更新與除錯
 
-## 驗證與維護
+- 四個 `update-*.yml` 各自設定排程，共用 `scrape.yml` 收集並提交資料。Actions 排程可能延遲。
+- 手動執行：進入 **Actions → 選擇來源 → Run workflow**；勾選 `dry_run` 可只驗證、不發布。
+- 瀏覽器抓取失敗時，診斷檔放在本機 `artifacts/`；Actions 的 diagnostics artifact 可下載 HTML、截圖與 trace，保留 7 天。
 
-```bash
-pnpm check          # 型別、離線測試、格式
-pnpm typecheck
-pnpm test
-pnpm format
-```
+## 🔗 相關連結
 
-測試不連外、不修改正式資料，使用 Node 內建測試框架與暫存目錄。新增來源或更換選擇器時，加入對應 fixture；對外介面變更須先與使用者協調。
-
-## GitHub Actions
-
-四個 `update-*.yml` 保留既有工作流程名稱和排程，共用 `scrape.yml`：
-
-1. Node 24 與鎖定的 pnpm / 依賴。
-2. 除 BBC 外安裝 Chromium（Komica 瀏覽器 fallback 仍需準備）。
-3. 收集、驗證並寫入對應 JSON。
-4. 只提交該來源檔案，先 commit 再 rebase，推送失敗最多重試 5 次，避免不同來源同時更新時互相覆蓋。
-5. 上傳瀏覽器失敗診斷，保留 7 天。
-
-同來源透過 workflow concurrency 避免並行執行，不同來源可並行。手動 **Run workflow** 可勾選 `dry_run`，驗證來源而不提交資料。
-
-`check.yml` 在 PR 與程式／設定變更時執行 `pnpm check`，純資料自動更新不觸發 push 檢查。Dependabot 每週提出套件與 Actions 更新。
-
-瀏覽器失敗時，本機 `artifacts/<source>/<timestamp>/` 包含 HTML、截圖與 `trace.zip`；Actions 可下載對應 diagnostics artifact。用以下指令檢查 trace：
-
-```bash
-pnpm exec playwright show-trace artifacts/<source>/<timestamp>/trace.zip
-```
-
-HTTP 失敗會記錄狀態或錯誤原因；若瀏覽器尚未啟動就失敗，可能沒有頁面診斷檔。診斷檔不進版控，也不放入公開 `data/`。
+[Hot Now 網站](https://hotnow.garylin.dev) · [主專案](https://github.com/garylin0969/hot-now) · [Chrome 擴充功能](https://chromewebstore.google.com/detail/hot-now%EF%BD%9C%E7%86%B1%E9%96%80%E8%A9%B1%E9%A1%8C%E4%B8%80%E6%8A%8A%E6%8A%93/pcgkeopgenagbemoagdogljeapjhapch)
