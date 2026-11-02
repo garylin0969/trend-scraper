@@ -1,14 +1,22 @@
 {
-  "updated": "2026-11-01T22:46:55.416Z",
+  "updated": "2026-11-02T02:27:15.918Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-11-01T22:46:44.000Z",
+    "lastBuildDate": "2026-11-02T02:27:08.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "人工智能泡沫將爆破？這群「新雲端」公司正加劇市場擔憂",
+      "description": "這些數據中心正滾存著數百億英鎊的債務。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5djvk2dm33xo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-02T00:17:42.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5djvk2dm33xo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/16f5/live/d2c08770-d493-11f1-93e1-3b657b665bcf.jpg"
+    },
     {
       "title": "德國生活成本抗議演變成暴力事件 商店遭洗劫",
       "description": "德國多座城市，包括柏林、漢堡和法蘭克福，都爆發了抗議活動。同一天，法國也有數十萬人走上街頭示威。",
@@ -34,20 +42,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5dbe/live/ef6456d0-d462-11f1-ab12-eb0c94f5b382.jpg"
     },
     {
-      "title": "「見鬼了」：為什麼我們會產生超自然體驗？",
-      "description": "人類講述鬼故事已有數千年歷史，科學的進步並未改變這一點。",
-      "link": "https://www.bbc.com/zhongwen/articles/cm3vqy5g204vo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-01T10:23:57.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm3vqy5g204vo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2e00/live/53688970-d5db-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "「我與鬼魂同住」：走進吸引人們撿便宜的日本「鬧鬼」住宅",
-      "description": "日本許多人會開始因為購買打折的「事故物件」（凶宅），他們稱毫不介意與幽靈同住。",
-      "link": "https://www.bbc.com/zhongwen/articles/c6vg9k3n5vj4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-01T00:03:15.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c6vg9k3n5vj4o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5c40/live/5436ab40-cc8d-11f1-bed8-c51b95c602ec.jpg"
+      "title": "不得要求房客清潔——Airbnb的新守則如何引發分歧",
+      "description": "根據11月生效的規定，愛彼迎（Airbnb）房東不得再要求房客清洗餐具或倒垃圾。",
+      "link": "https://www.bbc.com/zhongwen/articles/cw62y1qjqz7po/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-02T00:17:38.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cw62y1qjqz7po/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/52bf/live/c3b77ec0-d3b5-11f1-a340-478c8f3b9e55.jpg"
     },
     {
       "title": "美國中期選舉：選舉有何影響、為何重要？七個關鍵問題解析",
@@ -98,6 +98,22 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7311/live/9232e340-d440-11f1-97f9-27ebf08d99fe.jpg"
     },
     {
+      "title": "「見鬼了」：為什麼我們會產生超自然體驗？",
+      "description": "人類講述鬼故事已有數千年歷史，科學的進步並未改變這一點。",
+      "link": "https://www.bbc.com/zhongwen/articles/cm3vqy5g204vo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-01T10:23:57.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cm3vqy5g204vo/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2e00/live/53688970-d5db-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "「我與鬼魂同住」：走進吸引人們撿便宜的日本「鬧鬼」住宅",
+      "description": "日本許多人會開始因為購買打折的「事故物件」（凶宅），他們稱毫不介意與幽靈同住。",
+      "link": "https://www.bbc.com/zhongwen/articles/c6vg9k3n5vj4o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-01T00:03:15.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c6vg9k3n5vj4o/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5c40/live/5436ab40-cc8d-11f1-bed8-c51b95c602ec.jpg"
+    },
+    {
       "title": "中國施壓下姆巴佩道歉，但許多人仍不知道他究竟說了什麼",
       "description": "姆巴佩有關一名「中國領導人」的言論引發眾怒，但網絡審查令許多人仍不清楚事件究竟是怎麼回事。",
       "link": "https://www.bbc.com/zhongwen/articles/ck4g18ql0vj9o/trad?at_medium=RSS&at_campaign=rss",
@@ -128,22 +144,6 @@
       "pubDate": "2026-10-30T03:52:26.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cv8ez8w9edzxo/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/64cf/live/0f06e8c0-d2e9-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "中共五中全會：出席委員減少四分之一 張升民罕見增選入政治局",
-      "description": "專家稱，更好的激勵與監督可能減少浪費、提高政策可預期性，但更嚴厲的紀律約束也可能加深幹部不敢作為的局面，拖延支出和投資。",
-      "link": "https://www.bbc.com/zhongwen/articles/cmr4y17q4vxxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-29T13:01:39.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cmr4y17q4vxxo/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4c4e/live/693a2eb0-d393-11f1-b490-07d78ce4b8e5.jpg"
-    },
-    {
-      "title": "香港宏福苑大火報告公開：特首率官員鞠躬道歉，房屋局長請辭",
-      "description": "這場造成168人死亡的大火發生將近一年後，香港特首李家超首次率領官員鞠躬道歉。",
-      "link": "https://www.bbc.com/zhongwen/articles/c95ynv03lmk8o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-29T14:47:36.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c95ynv03lmk8o/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3a51/live/a764f160-d39e-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "title": "習近平之後，中國將走向何方？",
