@@ -1,21 +1,29 @@
 {
-  "updated": "2026-11-04T18:35:54.285Z",
+  "updated": "2026-11-04T23:55:00.872Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-11-04T18:35:43.000Z",
+    "lastBuildDate": "2026-11-04T23:54:50.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
     {
-      "title": "美國民主黨歷史性勝利 深入共和黨票倉攻城掠地",
-      "description": "兩場一年前還被認為將勢均力敵的美國參議院選舉，最終都成為民主黨輕鬆取勝的選戰。",
-      "link": "https://www.bbc.com/zhongwen/articles/c6kgq8l48q2po/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-04T10:52:01.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c6kgq8l48q2po/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20bf/live/a2cc78f0-d83d-11f1-b441-2b33b063138f.jpg"
+      "title": "美國中期選舉結果對中國和世界各國意味着什麼？",
+      "description": "民主黨在美國中期選舉中取得勝利，將在特朗普總統餘下的任期內掌控國會，標誌着美國政治格局出現重大變化。從烏克蘭和中東的衝突，到美國與中國的貿易關係，BBC記者分析這次選舉結果對世界其他地區意味着什麼。",
+      "link": "https://www.bbc.com/zhongwen/articles/ckreyrxvg3xyo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-04T21:02:11.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ckreyrxvg3xyo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/634f/live/515ba0a0-d887-11f1-ad49-25abedf165e8.jpg"
+    },
+    {
+      "title": "共和黨在美國中期選舉中慘敗的五大原因",
+      "description": "從選民的不滿情緒，到總統本人支持度低迷，本文分析為何傳統共和黨票倉的美國選民轉而支持民主黨。",
+      "link": "https://www.bbc.com/zhongwen/articles/cxyvrz6qrm2lo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-04T20:20:47.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cxyvrz6qrm2lo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/af16/live/b7f5b9f0-d84a-11f1-b870-55415e6a9944.jpg"
     },
     {
       "title": "德州翻藍：民主黨時隔38年首奪聯邦參議員席次",
@@ -24,14 +32,6 @@
       "pubDate": "2026-11-04T10:11:20.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cwzrdzl8v6jjo/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1741/live/d5cf9320-d82b-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "篤定成為首位穆斯林美國參議員，42歲的賽義德是誰？",
-      "description": "在密歇根州，民主黨候選人阿卜杜勒·賽義德如今將成為美國首位穆斯林聯邦參議員。",
-      "link": "https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-04T13:14:11.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7c81/live/e99e3940-d850-11f1-a701-fddedf244c16.jpg"
     },
     {
       "title": "美智庫解析「技術民族主義」下的中俄軍工合作細節與限度",
@@ -58,28 +58,28 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0722/live/5cb72e20-be3c-11f1-a64c-550be9e3c66b.png"
     },
     {
+      "title": "美國民主黨歷史性勝利 深入共和黨票倉攻城掠地",
+      "description": "兩場一年前還被認為將勢均力敵的美國參議院選舉，最終都成為民主黨輕鬆取勝的選戰。",
+      "link": "https://www.bbc.com/zhongwen/articles/c6kgq8l48q2po/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-04T10:52:01.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c6kgq8l48q2po/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20bf/live/a2cc78f0-d83d-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "篤定成為首位穆斯林美國參議員，42歲的賽義德是誰？",
+      "description": "在密歇根州，民主黨候選人阿卜杜勒·賽義德如今將成為美國首位穆斯林聯邦參議員。",
+      "link": "https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-04T13:14:11.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad#1",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7c81/live/e99e3940-d850-11f1-a701-fddedf244c16.jpg"
+    },
+    {
       "title": "美國中期選舉民調：選民最關心經濟與民主現況",
       "description": "選舉日的大型民調顯示，美國選民最不滿的是經濟狀況，接近三分之二人認為特朗普的政策讓美國經濟狀況惡化。",
       "link": "https://www.bbc.com/zhongwen/articles/c6kg5xn3rk9po/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-11-04T04:33:55.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c6kg5xn3rk9po/trad#1",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf83/live/f3608b00-d7e1-11f1-89b6-117585343da2.jpg"
-    },
-    {
-      "title": "美國中期選舉：競選開支120億美元打破紀錄，馬斯克已花5億",
-      "description": "「加密貨幣公司在本個周期亦非常活躍，Ripple與Coinbase合共捐出6300萬美元，資助推動加密貨幣行業利益的超級政治行動委員會。」",
-      "link": "https://www.bbc.com/zhongwen/articles/cw99z83yxg4jo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-03T04:59:47.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cw99z83yxg4jo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7007/live/c8ea35c0-d6f5-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "美國中期選舉：選舉有何影響、為何重要？七個關鍵問題解析",
-      "description": "美國選民將於11月3日投票，這場選舉的結果可能對總統特朗普餘下任期產生重大影響。",
-      "link": "https://www.bbc.com/zhongwen/articles/cmx2qg1nn1wlo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-28T00:47:37.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cmx2qg1nn1wlo/trad#1",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0722/live/5cb72e20-be3c-11f1-a64c-550be9e3c66b.png"
     },
     {
       "title": "《蘋果日報》前社長張劍虹提早獲釋，向官媒稱「好懊悔」",
