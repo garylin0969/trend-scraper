@@ -1,14 +1,30 @@
 {
-  "updated": "2026-11-09T16:50:41.324Z",
+  "updated": "2026-11-10T00:39:55.123Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-11-09T16:50:34.000Z",
+    "lastBuildDate": "2026-11-10T00:39:52.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "黃仁勳與疑似中國間諜婚外情風波：特朗普稱FBI已介入調查",
+      "description": "美國總統特朗普表示，他週一曾與黃仁勳通話，並向他詢問與被指是間諜的女子之間的婚外情。特朗普說黃仁勳向自己表示：「完全不知道她是間諜。」",
+      "link": "https://www.bbc.com/zhongwen/articles/cmx2q2pn5nv8o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-09T23:40:17.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cmx2q2pn5nv8o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d9ed/live/459f3140-dc93-11f1-b244-e54544344237.jpg"
+    },
+    {
+      "title": "黃仁勳與疑似中國間諜婚外情：目前我們知道什麼？",
+      "description": "這名科技業億萬富豪高層陷入一場涉及私人生活與國家安全的醜聞。",
+      "link": "https://www.bbc.com/zhongwen/articles/cw8dzd17n70no/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-09T17:25:50.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cw8dzd17n70no/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg"
+    },
     {
       "title": "黃仁勳婚外情掀起國安風暴：拆解五大看點",
       "description": "輝達（英偉達）總裁黃仁勳承認婚外情並向公眾致歉，為何引發國安及輿論風暴？新加坡的角色又是如何？會影響台灣的產業鏈嗎？中國為何嚴厲否認相關指控。",
@@ -16,14 +32,6 @@
       "pubDate": "2026-11-09T13:10:28.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c6rmym2gg9z1o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/92f8/live/549acbf0-dc3e-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "《巴黎協定》：為什麼將全球升溫控制在1.5攝氏度內如此重要？",
-      "description": "2015 年的這項協議是國際社會應對全球氣溫上升承諾的核心。",
-      "link": "https://www.bbc.com/zhongwen/articles/cmde8ende1exo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-09T08:54:59.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cmde8ende1exo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d106/live/fd72c160-dc1b-11f1-a701-fddedf244c16.jpg"
     },
     {
       "title": "白金漢宮幕僚：英王查爾斯「會考慮訪華」",
@@ -40,14 +48,6 @@
       "pubDate": "2026-11-09T00:20:25.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c50med2zn8dno/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b15/live/9cf3fa20-d9e1-11f1-a701-fddedf244c16.png"
-    },
-    {
-      "title": "波蘭克拉科夫「極右翼」槍擊案致六人死亡 我們所知多少",
-      "description": "六人在波蘭第二大城市克拉科夫主要廣場發生的一宗隨機槍擊案中喪生，其後警方在襲擊者家中發現另外三具遺體。",
-      "link": "https://www.bbc.com/zhongwen/articles/c64g1n74j259o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-09T10:08:05.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c64g1n74j259o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/612c/live/c1d015e0-dc20-11f1-a701-fddedf244c16.jpg"
     },
     {
       "title": "美國中期選舉：共和黨失去兩院，對華政策與對台軍售會轉向嗎？",
@@ -82,12 +82,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/af16/live/b7f5b9f0-d84a-11f1-b870-55415e6a9944.jpg"
     },
     {
-      "title": "Nvidia就黃仁勳與疑似中國間諜有婚外情展開調查",
-      "description": "黃仁勳承認對妻子「不忠」，並表示將配合安全部門調查。",
-      "link": "https://www.bbc.com/zhongwen/articles/cmewevvp5x5lo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-09T13:10:30.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cmewevvp5x5lo/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f2f1/live/a1fe10a0-dc07-11f1-a701-fddedf244c16.jpg"
+      "title": "《巴黎協定》：為什麼將全球升溫控制在1.5攝氏度內如此重要？",
+      "description": "2015 年的這項協議是國際社會應對全球氣溫上升承諾的核心。",
+      "link": "https://www.bbc.com/zhongwen/articles/cmde8ende1exo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-09T08:54:59.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cmde8ende1exo/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d106/live/fd72c160-dc1b-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "波蘭克拉科夫「極右翼」槍擊案致六人死亡 我們所知多少",
+      "description": "六人在波蘭第二大城市克拉科夫主要廣場發生的一宗隨機槍擊案中喪生，其後警方在襲擊者家中發現另外三具遺體。",
+      "link": "https://www.bbc.com/zhongwen/articles/c64g1n74j259o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-09T10:08:05.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c64g1n74j259o/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/612c/live/c1d015e0-dc20-11f1-a701-fddedf244c16.jpg"
     },
     {
       "title": "《薩爾達傳說：時之笛》重製版能否重現原作的魔力？",
@@ -136,14 +144,6 @@
       "pubDate": "2026-11-05T16:26:38.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cm5ynepe9578o/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d27/live/882ecf10-d848-11f1-b870-55415e6a9944.jpg"
-    },
-    {
-      "title": "前央視節目主講人程萬軍在台尋求庇護未果 被送返泰國",
-      "description": "程萬軍隨後在網上發布影片，指控台灣執法人員在遣返過程中使用暴力。移民署則稱，他在登機時激烈抗拒並有自傷行為，執法人員為維護飛航安全採取必要措施。BBC中文無法獨立核實雙方的說法。",
-      "link": "https://www.bbc.com/zhongwen/articles/ck1l36yzrq75o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-05T08:26:48.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ck1l36yzrq75o/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3261/live/8be2d1f0-d8ee-11f1-8a7f-8f03d11e3e4f.jpg"
     },
     {
       "title": "黃仁勳涉與中國間諜外遇：為何婚外情升溫至國安爭議？",
