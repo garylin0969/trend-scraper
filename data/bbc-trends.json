@@ -1,14 +1,30 @@
 {
-  "updated": "2026-11-11T09:17:54.576Z",
+  "updated": "2026-11-11T17:26:56.667Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-11-11T09:17:51.000Z",
+    "lastBuildDate": "2026-11-11T17:26:44.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "黃仁勳疑落入間諜戰「美人計」——韓國也曾中招",
+      "description": "黃仁勳的婚外情對象被懷疑是中國間諜，使「美人計」再度受到關注。在韓國，朝鮮特工元正花曾利用與軍官的關係蒐集軍事情報。",
+      "link": "https://www.bbc.com/zhongwen/articles/cj93rp9vzeg1o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-11T13:07:08.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cj93rp9vzeg1o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fea0/live/1af2ff40-dcb5-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "「中國間諜案」獲撤控男子BBC專訪：我是情報部門的替罪羊",
+      "description": "BBC取得並查閱的數千則訊息顯示，一名中國官員曾設法了解多項敏感政治事務的內情。",
+      "link": "https://www.bbc.com/zhongwen/articles/cm9d71qne5p9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-11T13:43:29.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cm9d71qne5p9o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d6d5/live/e01d22c0-dd3f-11f1-9ac0-6b8f7fc58221.jpg"
+    },
     {
       "title": "黃仁勳曾告訴我，那些關於中國與國家安全的問題",
       "description": "黃仁勳正因涉嫌與一名中國間諜出軌而接受調查，他對世界秩序的未來遠比其他科技巨頭老闆重要得多。",
@@ -26,28 +42,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/657d/live/f4c76600-dd1b-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "英國美軍在用基地反恐案件：華府稱三伊朗關聯者策劃",
-      "description": "美國司法部表示，這些男子涉及一連串陰謀，包括發生在英國空軍基地附近的一宗重大事件；該基地供美軍使用。",
-      "link": "https://www.bbc.com/zhongwen/articles/cmx20xpn40zyo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-11T03:12:53.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cmx20xpn40zyo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/31e7/live/ef3456f0-dd46-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
       "title": "一名公務員如何長期瞞天過海，身兼五職？",
       "description": "卡西姆·喬杜里（Kashim Chowdhury）在三年內將納稅人的錢挪用28.4萬英鎊後，被判犯有欺詐罪。",
       "link": "https://www.bbc.com/zhongwen/articles/c933x388j116o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-11-11T00:21:53.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c933x388j116o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/746e/live/fe04e600-dd1d-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "為何晚上睡前總是想吃零食？可以怎麼辦？",
-      "description": "你在睡前吃甜食是有生物學原因的，但你可以改變這個習慣。",
-      "link": "https://www.bbc.com/zhongwen/articles/cwly3ynk2rx1o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-11T00:21:56.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwly3ynk2rx1o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4c01/live/8242d1d0-d9f8-11f1-b441-2b33b063138f.jpg"
     },
     {
       "title": "四成「陸配」參選遭剔除，身分「法理死結」如何困住參政之路？",
@@ -82,12 +82,20 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/815f/live/b7df6e90-be3a-11f1-883b-cfbfbf424e7e.jpg"
     },
     {
-      "title": "黃仁勳婚外情：被指為「中共間諜」的黃樂是誰？",
-      "description": "輝達黃仁勳承認對妻子不忠，緋聞鎖定被指中共間諜的黃樂。這位女子曾任新加坡科技公司高管，大量採購輝達晶片，美情報稱她受國安部招募。但特朗普（川普）為黃仁勳辯護，中方则否认指控。",
-      "link": "https://www.bbc.com/zhongwen/articles/cjr4y41lv6zko/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-10T08:24:34.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cjr4y41lv6zko/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/163e/live/9001b4b0-dc3e-11f1-95cf-a38331e6cb4b.jpg"
+      "title": "英國美軍在用基地反恐案件：華府稱三伊朗關聯者策劃",
+      "description": "美國司法部表示，這些男子涉及一連串陰謀，包括發生在英國空軍基地附近的一宗重大事件；該基地供美軍使用。",
+      "link": "https://www.bbc.com/zhongwen/articles/cmx20xpn40zyo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-11T03:12:53.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cmx20xpn40zyo/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/31e7/live/ef3456f0-dd46-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "認識史蒂芬妮·凱斯——首位在南極洲跑完100英里的女性",
+      "description": "史蒂芬妮·凱斯創造了歷史，成為第一個完成南極洲100英里極限賽的女性。",
+      "link": "https://www.bbc.com/zhongwen/articles/cmg46yzz5vrxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-11T10:22:45.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cmg46yzz5vrxo/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b341/live/e94fc680-ddb3-11f1-b441-2b33b063138f.jpg"
     },
     {
       "title": "黃仁勳婚外情風波將在全球引發連鎖反應",
@@ -106,6 +114,22 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2941/live/db5dd330-dc11-11f1-a631-078d47c5aafb.jpg"
     },
     {
+      "title": "黃仁勳婚外情：被指為「中共間諜」的黃樂是誰？",
+      "description": "輝達黃仁勳承認對妻子不忠，緋聞鎖定被指中共間諜的黃樂。這位女子曾任新加坡科技公司高管，大量採購輝達晶片，美情報稱她受國安部招募。但特朗普（川普）為黃仁勳辯護，中方则否认指控。",
+      "link": "https://www.bbc.com/zhongwen/articles/cjr4y41lv6zko/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-10T08:24:34.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cjr4y41lv6zko/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/163e/live/9001b4b0-dc3e-11f1-95cf-a38331e6cb4b.jpg"
+    },
+    {
+      "title": "為何晚上睡前總是想吃零食？可以怎麼辦？",
+      "description": "你在睡前吃甜食是有生物學原因的，但你可以改變這個習慣。",
+      "link": "https://www.bbc.com/zhongwen/articles/cwly3ynk2rx1o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-11T00:21:56.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cwly3ynk2rx1o/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4c01/live/8242d1d0-d9f8-11f1-b441-2b33b063138f.jpg"
+    },
+    {
       "title": "全球最大排放國的拐點：中國煤電佔比跌破五成，碳排放幾乎停滯",
       "description": "分析指排放或已提前達峰，但新煤電機組仍大量上馬，拐點成色有待檢驗。",
       "link": "https://www.bbc.com/zhongwen/articles/cxnv0vgpj0qpo/trad?at_medium=RSS&at_campaign=rss",
@@ -114,36 +138,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/434e/live/d21b0550-dcba-11f1-bc9a-d176db862bf0.png"
     },
     {
-      "title": "英國笑匠布蘭德強姦案判刑 為何BBC和貝安德均作表態？",
-      "description": "這名聲名狼藉的藝人被判監禁十年半。英國首相貝安德表示，十年前曾與這名喜劇演員交往的工黨政治人物當時並不知道他的罪行。",
-      "link": "https://www.bbc.com/zhongwen/articles/cqly0yemem08o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-10T11:58:44.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cqly0yemem08o/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2f5f/live/8328c290-dcf9-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
       "title": "白金漢宮幕僚：英王查爾斯「會考慮訪華」",
       "description": "白金漢宮一名幕僚表示，若貝安德首相向王室提議查爾斯三世訪華，國王將「小心考慮」。",
       "link": "https://www.bbc.com/zhongwen/articles/cj20v0x3ze2no/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-11-09T16:31:02.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cj20v0x3ze2no/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/69bf/live/a61b3d90-dc55-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "中式微短劇浪潮席捲英國：為滑動時代而生的「碎片化」劇集",
-      "description": "這些節奏明快、張力十足的短篇劇集透過手機觀看，在中國大受歡迎，在英國也正迅速興起。",
-      "link": "https://www.bbc.com/zhongwen/articles/c50med2zn8dno/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-09T00:20:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c50med2zn8dno/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b15/live/9cf3fa20-d9e1-11f1-a701-fddedf244c16.png"
-    },
-    {
-      "title": "《薩爾達傳說：時之笛》重製版能否重現原作的魔力？",
-      "description": "任天堂發布了其重製版，這款遊戲被認為是史上最優秀的遊戲之一。",
-      "link": "https://www.bbc.com/zhongwen/articles/cm62yp24ypz0o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-09T05:51:58.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm62yp24ypz0o/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7e2f/live/adc5ae70-d699-11f1-8052-913cc7942a17.jpg"
     },
     {
       "title": "「台灣之光」形象重挫？民眾如何看黃仁勳婚外情風波",
@@ -226,6 +226,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9542/live/762ecd10-b5b6-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
+      "title": "中式微短劇浪潮席捲英國：為滑動時代而生的「碎片化」劇集",
+      "description": "這些節奏明快、張力十足的短篇劇集透過手機觀看，在中國大受歡迎，在英國也正迅速興起。",
+      "link": "https://www.bbc.com/zhongwen/articles/c50med2zn8dno/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-09T00:20:25.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c50med2zn8dno/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b15/live/9cf3fa20-d9e1-11f1-a701-fddedf244c16.png"
+    },
+    {
       "title": "他們在等西西弗斯：黃之鋒身後，那些寫信和探監的前戰友",
       "description": "香港民主派活動人士黃之鋒被控違反中國《香港國安法》下的「串謀勾結外國勢力危害國家安全」罪，被判囚10年。BBC中文訪問了三位一直探望並寄信予黃之鋒的前戰友，了解他在獄中的變化。",
       "link": "https://www.bbc.com/zhongwen/articles/c6zxz94yzngpo/trad?at_medium=RSS&at_campaign=rss",
@@ -250,20 +258,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/57da/live/1d6c20c0-d77f-11f1-a391-ad4d37bef273.jpg"
     },
     {
-      "title": "印尼有毒煙霾正令鄰國陷入政治難題",
-      "description": "新加坡和馬來西亞政府正夾在焦慮不安的民眾與脾氣暴躁的鄰國之間。",
-      "link": "https://www.bbc.com/zhongwen/articles/c91461p7mvv4o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-04T00:23:42.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c91461p7mvv4o/trad#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/302a/live/febcfd60-d293-11f1-9453-5fe901b3e69e.jpg"
-    },
-    {
-      "title": "朝鮮「精英」黑客為何成為幣安63億美元盜竊案的頭號嫌犯？",
-      "description": "如果有關指控屬實，這宗破紀錄的盜竊案顯示，涉嫌來自朝鮮的黑客如今已擁有多麼強大的能力。",
-      "link": "https://www.bbc.com/zhongwen/articles/cqe8rpl8wjd0o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-10-31T07:02:07.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cqe8rpl8wjd0o/trad#5",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg"
+      "title": "《薩爾達傳說：時之笛》重製版能否重現原作的魔力？",
+      "description": "任天堂發布了其重製版，這款遊戲被認為是史上最優秀的遊戲之一。",
+      "link": "https://www.bbc.com/zhongwen/articles/cm62yp24ypz0o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-09T05:51:58.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cm62yp24ypz0o/trad#5",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7e2f/live/adc5ae70-d699-11f1-8052-913cc7942a17.jpg"
     },
     {
       "title": "從蔡康永、《VIVANT》到姆巴佩，北京為何區別處理「辱華」？",
