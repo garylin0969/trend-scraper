@@ -1,21 +1,31 @@
 {
-  "updated": "2026-11-13T16:15:47.279Z",
+  "updated": "2026-11-13T22:00:25.860Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
+      "recommendScore": "318",
+      "recommendCount": "558",
+      "title": "[爆卦] 台派藝人叫戰羅大佑名單最終決定版！",
+      "link": "/bbs/Gossiping/M.1794565714.A.D3A",
+      "author": "eric2016",
+      "board": "Gossiping",
+      "publishTime": "2026/11/13 10:28",
+      "imageUrl": "https://cache.pttweb.cc/imgur/l141l6l/s/fe7b013f023dfe35b40528ee00124698"
+    },
+    {
       "recommendScore": "315",
-      "recommendCount": "749",
+      "recommendCount": "751",
       "title": "[新聞] 痛罵自己「爛透了」 黃仁勳無條件投降",
       "link": "/bbs/Stock/M.1794534070.A.3CE",
       "author": "jenchieh5",
       "board": "Stock",
       "publishTime": "2026/11/13 01:41",
-      "imageUrl": "https://cache.pttweb.cc/imgur/l141l6l/s/fe7b013f023dfe35b40528ee00124698"
+      "imageUrl": ""
     },
     {
       "recommendScore": "231",
-      "recommendCount": "608",
+      "recommendCount": "611",
       "title": "[新聞] 【獨家】洋流發威翻轉台中選情　綠營最新內參民調何欣純首度超車江啟臣",
       "link": "/bbs/Gossiping/M.1794550593.A.B83",
       "author": "chopper594",
@@ -24,18 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "293",
-      "recommendCount": "513",
-      "title": "[爆卦] 台派藝人叫戰羅大佑名單最終決定版！",
-      "link": "/bbs/Gossiping/M.1794565714.A.D3A",
-      "author": "eric2016",
-      "board": "Gossiping",
-      "publishTime": "2026/11/13 10:28",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "319",
-      "recommendCount": "717",
+      "recommendCount": "724",
       "title": "[新聞] 輝達代理 CEO，曾被黃仁勳批評只會看報表",
       "link": "/bbs/Stock/M.1794543197.A.3B6",
       "author": "AnimalSpirit",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "526",
-      "recommendCount": "993",
+      "recommendScore": "530",
+      "recommendCount": "999",
       "title": "[乳摸] 宙斯回歸",
       "link": "/bbs/LoL/M.1794557601.A.89F",
       "author": "brad123",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "-145",
-      "recommendCount": "537",
+      "recommendCount": "539",
       "title": "[新聞] 二度發文「沒有自己的孩子」 蔡英文：照顧下代心情不會改變",
       "link": "/bbs/Gossiping/M.1794553603.A.473",
       "author": "HANASUCIA",
@@ -74,8 +74,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "-177",
-      "recommendCount": "455",
+      "recommendScore": "213",
+      "recommendCount": "517",
+      "title": "[新聞] 全認了！4軍事無人機標案混用中製晶片 杜大森辯國內無法完全自製",
+      "link": "/bbs/Gossiping/M.1794564037.A.508",
+      "author": "ytkuang",
+      "board": "Gossiping",
+      "publishTime": "2026/11/13 10:00",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "236",
+      "recommendCount": "492",
+      "title": "[新聞] 育兒大禮包來了！立法院三讀產假14周",
+      "link": "/bbs/Gossiping/M.1794557882.A.383",
+      "author": "WuSam",
+      "board": "Gossiping",
+      "publishTime": "2026/11/13 08:18",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "-179",
+      "recommendCount": "457",
       "title": "[新聞] 「對黃仁勳的問號從穿唐裝開始」謝金河示警台灣影響",
       "link": "/bbs/Stock/M.1794535048.A.19D",
       "author": "xephon",
@@ -85,7 +105,7 @@
     },
     {
       "recommendScore": "326",
-      "recommendCount": "347",
+      "recommendCount": "348",
       "title": "[發錢] Cunningham史上首位單場50分10助0失誤",
       "link": "/bbs/NBA/M.1794541283.A.C8C",
       "author": "c27932589",
@@ -94,28 +114,18 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/l141l6l/s/fe7b013f023dfe35b40528ee00124698"
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "496",
-      "title": "[新聞] 全認了！4軍事無人機標案混用中製晶片 杜大森辯國內無法完全自製",
-      "link": "/bbs/Gossiping/M.1794564037.A.508",
-      "author": "ytkuang",
+      "recommendScore": "235",
+      "recommendCount": "470",
+      "title": "[問卦] CNN現在說黃樂不是女間諜了？",
+      "link": "/bbs/Gossiping/M.1794573540.A.3AB",
+      "author": "Yui5",
       "board": "Gossiping",
-      "publishTime": "2026/11/13 10:00",
+      "publishTime": "2026/11/13 12:39",
       "imageUrl": ""
     },
     {
-      "recommendScore": "226",
-      "recommendCount": "467",
-      "title": "[新聞] 育兒大禮包來了！立法院三讀產假14周",
-      "link": "/bbs/Gossiping/M.1794557882.A.383",
-      "author": "WuSam",
-      "board": "Gossiping",
-      "publishTime": "2026/11/13 08:18",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "422",
-      "recommendCount": "756",
+      "recommendScore": "425",
+      "recommendCount": "759",
       "title": "[乳摸] KRX Doran, Kanavi, Scout",
       "link": "/bbs/LoL/M.1794552544.A.556",
       "author": "brad123",
@@ -125,7 +135,7 @@
     },
     {
       "recommendScore": "205",
-      "recommendCount": "318",
+      "recommendCount": "319",
       "title": "[情報] 115年11月13日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1794553884.A.A76",
       "author": "coconing",
@@ -134,8 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "163",
-      "recommendCount": "298",
+      "recommendScore": "170",
+      "recommendCount": "310",
       "title": "[新聞] 高雄營養午餐狂出包！三杯雞竟藏「整隻小蟾蜍」...驚悚畫面曝",
       "link": "/bbs/Gossiping/M.1794568960.A.939",
       "author": "Skyblueway",
@@ -144,28 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "199",
-      "recommendCount": "397",
-      "title": "[問卦] CNN現在說黃樂不是女間諜了？",
-      "link": "/bbs/Gossiping/M.1794573540.A.3AB",
-      "author": "Yui5",
-      "board": "Gossiping",
-      "publishTime": "2026/11/13 12:39",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "230",
-      "recommendCount": "283",
-      "title": "[問卦] 美國戰爭部長赫格塞斯被衛兵呵斥（發錢",
-      "link": "/bbs/Gossiping/M.1794541666.A.5DF",
-      "author": "BIA",
-      "board": "Gossiping",
-      "publishTime": "2026/11/13 03:47",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "92",
-      "recommendCount": "356",
+      "recommendScore": "102",
+      "recommendCount": "376",
       "title": "[新聞] 快新聞／小水滴落淚了！包船迎大洋流疑遭施壓喊卡　支持者哽咽：很難過",
       "link": "/bbs/Gossiping/M.1794565195.A.4CC",
       "author": "au4g3wk4k",
@@ -174,18 +164,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "137",
-      "recommendCount": "321",
-      "title": "[問卦] 同志究竟為何一直辦遊行？高雄又有",
-      "link": "/bbs/Gossiping/M.1794530078.A.EBA",
-      "author": "kuso2005",
+      "recommendScore": "247",
+      "recommendCount": "556",
+      "title": "[爆卦] 竹北藍白合！？",
+      "link": "/bbs/Gossiping/M.1794569853.A.021",
+      "author": "a0580531",
       "board": "Gossiping",
-      "publishTime": "2026/11/13 00:34",
+      "publishTime": "2026/11/13 11:37",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "232",
+      "recommendCount": "286",
+      "title": "[問卦] 美國戰爭部長赫格塞斯被衛兵呵斥（發錢",
+      "link": "/bbs/Gossiping/M.1794541666.A.5DF",
+      "author": "BIA",
+      "board": "Gossiping",
+      "publishTime": "2026/11/13 03:47",
       "imageUrl": ""
     },
     {
       "recommendScore": "169",
-      "recommendCount": "463",
+      "recommendCount": "464",
       "title": "[新聞] 川普：黃仁勳正經歷地獄煎熬",
       "link": "/bbs/Stock/M.1794551451.A.1F8",
       "author": "misosiru",
@@ -194,8 +194,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "134",
-      "recommendCount": "309",
+      "recommendScore": "135",
+      "recommendCount": "311",
       "title": "[新聞] 請辭前最後一刻!黃仁勳崩潰罵:我是個爛人",
       "link": "/bbs/Gossiping/M.1794534301.A.DBA",
       "author": "william8403",
