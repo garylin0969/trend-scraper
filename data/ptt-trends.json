@@ -1,21 +1,31 @@
 {
-  "updated": "2026-11-15T22:04:45.058Z",
+  "updated": "2026-11-16T01:57:11.886Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "296",
-      "recommendCount": "760",
+      "recommendScore": "299",
+      "recommendCount": "763",
       "title": "[新聞] 國策民調／沈伯洋支持度46.3%、蔣萬安42.2%　差距4.1個百分點",
       "link": "/bbs/Gossiping/M.1794709567.A.6CC",
       "author": "hbl420ii",
       "board": "Gossiping",
       "publishTime": "2026/11/15 02:26",
-      "imageUrl": "https://cache.pttweb.cc/imgur/Ae02DqH/s/0ae84d2dc478226910aa4b84891960f0"
+      "imageUrl": ""
     },
     {
-      "recommendScore": "231",
-      "recommendCount": "744",
+      "recommendScore": "372",
+      "recommendCount": "729",
+      "title": "[情報] 黃仁勳考慮重返輝達擔任CEO",
+      "link": "/bbs/Stock/M.1794770143.A.F9A",
+      "author": "kuku951",
+      "board": "Stock",
+      "publishTime": "2026/11/15 19:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "236",
+      "recommendCount": "751",
       "title": "[新聞] 「東發號沒答應招待蔣萬安！」　許淑華：事後是基於客氣說不用",
       "link": "/bbs/Gossiping/M.1794724325.A.9B8",
       "author": "lwt501cx",
@@ -24,18 +34,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "412",
-      "recommendCount": "444",
-      "title": "[發錢] 最強件頭無敵神左終封神 奪FMVP 揚威LPL!",
-      "link": "/bbs/LoL/M.1794748218.A.4F3",
-      "author": "bear15328",
-      "board": "LoL",
-      "publishTime": "2026/11/15 13:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "198",
-      "recommendCount": "600",
+      "recommendScore": "199",
+      "recommendCount": "605",
       "title": "[問卦] 脆熱議：投降時間出爐，統一貨幣！",
       "link": "/bbs/Gossiping/M.1794708011.A.16F",
       "author": "pigpigcom123",
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "194",
-      "recommendCount": "499",
+      "recommendScore": "195",
+      "recommendCount": "502",
       "title": "[新聞]  影／蘇巧慧斷牙補起來了 見支持者直呼「整叢好好」、「美嗎」",
       "link": "/bbs/Gossiping/M.1794712933.A.3AC",
       "author": "jal809",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "221",
-      "recommendCount": "602",
+      "recommendScore": "233",
+      "recommendCount": "628",
       "title": "Re: [新聞] 初音串場「洋流祭」引動漫迷不滿 沈伯洋：未來推廣會更謹慎",
       "link": "/bbs/Gossiping/M.1794734626.A.1F3",
       "author": "gn1384181",
@@ -65,7 +65,7 @@
     },
     {
       "recommendScore": "291",
-      "recommendCount": "359",
+      "recommendCount": "365",
       "title": "Re: [閒聊] 初音不得用於政治相關是圈內人的常",
       "link": "/bbs/C_Chat/M.1794721462.A.88D",
       "author": "Watame",
@@ -74,28 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "124",
-      "recommendCount": "492",
-      "title": "[問卦] 紐時：黃仁勳的權力幾乎不受制衡",
-      "link": "/bbs/Gossiping/M.1794695607.A.E23",
-      "author": "usnavyseal",
-      "board": "Gossiping",
-      "publishTime": "2026/11/14 22:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "83",
-      "recommendCount": "341",
-      "title": "[情報] 2026 世界賽 FMVP: 左手",
-      "link": "/bbs/LoL/M.1794702232.A.AD9",
-      "author": "jumpballfan",
-      "board": "LoL",
-      "publishTime": "2026/11/15 00:23",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "159",
-      "recommendCount": "430",
+      "recommendScore": "164",
+      "recommendCount": "484",
       "title": "[討論] 沈伯洋這場關渡宮造勢是不是很難超越？",
       "link": "/bbs/HatePolitics/M.1794751624.A.AC7",
       "author": "kcbill",
@@ -104,33 +84,43 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "176",
-      "recommendCount": "284",
-      "title": "[閒聊] BLG這冠有多純？",
-      "link": "/bbs/LoL/M.1794701141.A.B59",
-      "author": "Vanced",
+      "recommendScore": "200",
+      "recommendCount": "496",
+      "title": "[新聞] 美財長貝森特：輝達須「從公司外部」尋找",
+      "link": "/bbs/Stock/M.1794762707.A.101",
+      "author": "pucca978",
+      "board": "Stock",
+      "publishTime": "2026/11/15 17:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "283",
+      "recommendCount": "310",
+      "title": "[發錢] 最強件頭無敵神左終封神 奪FMVP 揚威LPL!",
+      "link": "/bbs/LoL/M.1794748218.A.4F3",
+      "author": "bear15328",
       "board": "LoL",
-      "publishTime": "2026/11/15 00:05",
+      "publishTime": "2026/11/15 13:10",
       "imageUrl": ""
     },
     {
-      "recommendScore": "84",
-      "recommendCount": "342",
-      "title": "[新聞] 初音串場「洋流祭」引動漫迷不滿 沈伯洋：未來推廣會更謹慎",
-      "link": "/bbs/Gossiping/M.1794706543.A.699",
-      "author": "chopper594",
-      "board": "Gossiping",
-      "publishTime": "2026/11/15 01:35",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "242",
-      "recommendCount": "853",
+      "recommendScore": "244",
+      "recommendCount": "858",
       "title": "Re: [新聞] 連鎖效應？輝達5千億美元融資計畫恐喊卡華爾街驚傳「一毛沒給」",
       "link": "/bbs/Stock/M.1794728744.A.9DB",
       "author": "zzahoward",
       "board": "Stock",
       "publishTime": "2026/11/15 07:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "88",
+      "recommendCount": "340",
+      "title": "[新聞] 羅大佑酸「沒料才拿補助」！滅火器反擊「分化人民」：我們問心無愧",
+      "link": "/bbs/Gossiping/M.1794762716.A.723",
+      "author": "godofsex",
+      "board": "Gossiping",
+      "publishTime": "2026/11/15 17:11",
       "imageUrl": ""
     },
     {
@@ -144,16 +134,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "153",
-      "recommendCount": "451",
-      "title": "[閒聊] KIIN 是今天最可惜的吧",
-      "link": "/bbs/LoL/M.1794703986.A.FC5",
-      "author": "aaronshell",
-      "board": "LoL",
-      "publishTime": "2026/11/15 00:53",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "817",
       "recommendCount": "1495",
       "title": "[LIVE] 沈伯洋車掃第六站！士林 北投 直播討論區",
@@ -164,18 +144,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "186",
-      "recommendCount": "227",
-      "title": "[發錢] 恭喜BLG拿下2026年英雄聯盟世界冠軍",
-      "link": "/bbs/LoL/M.1794701752.A.83B",
-      "author": "lb01833364",
-      "board": "LoL",
-      "publishTime": "2026/11/15 00:15",
+      "recommendScore": "131",
+      "recommendCount": "547",
+      "title": "[新聞] 統派拋統一10年進程、兩岸統一貨幣　沈伯洋：國民黨要怎麼切割是自己的事",
+      "link": "/bbs/Gossiping/M.1794726671.A.BB8",
+      "author": "axxp",
+      "board": "Gossiping",
+      "publishTime": "2026/11/15 07:11",
       "imageUrl": ""
     },
     {
-      "recommendScore": "165",
-      "recommendCount": "323",
+      "recommendScore": "166",
+      "recommendCount": "325",
       "title": "[問卦] 新手入坑金庸小說，推薦先看哪一部？",
       "link": "/bbs/Gossiping/M.1794711946.A.2B4",
       "author": "Ruhaha",
@@ -194,13 +174,33 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "132",
-      "recommendCount": "531",
-      "title": "[新聞] 統派拋統一10年進程、兩岸統一貨幣　沈伯洋：國民黨要怎麼切割是自己的事",
-      "link": "/bbs/Gossiping/M.1794726671.A.BB8",
-      "author": "axxp",
+      "recommendScore": "143",
+      "recommendCount": "218",
+      "title": "[問卦] 工程師一定要會的英文單字是",
+      "link": "/bbs/Gossiping/M.1794734432.A.673",
+      "author": "er2",
       "board": "Gossiping",
-      "publishTime": "2026/11/15 07:11",
+      "publishTime": "2026/11/15 09:20",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "178",
+      "recommendCount": "235",
+      "title": "[炸裂] 正木智也",
+      "link": "/bbs/Baseball/M.1794743066.A.7E2",
+      "author": "carlchang092",
+      "board": "Baseball",
+      "publishTime": "2026/11/15 11:44",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "174",
+      "recommendCount": "270",
+      "title": "[閒聊] Knight：Chovy一分鐘就不對勁，今天對線",
+      "link": "/bbs/LoL/M.1794720096.A.A39",
+      "author": "csy0922",
+      "board": "LoL",
+      "publishTime": "2026/11/15 05:21",
       "imageUrl": ""
     }
   ]
