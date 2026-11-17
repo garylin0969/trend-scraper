@@ -1,41 +1,21 @@
 {
-  "updated": "2026-11-16T19:27:17.006Z",
+  "updated": "2026-11-17T02:33:11.100Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "396",
-      "recommendCount": "751",
+      "recommendScore": "419",
+      "recommendCount": "802",
       "title": "Re: [新聞] 柯文哲火力全開　批檢察官羅織、騙票搜索「把我關到死」！",
       "link": "/bbs/Gossiping/M.1794820658.A.8B9",
       "author": "xa9277178",
       "board": "Gossiping",
       "publishTime": "2026/11/16 09:17",
-      "imageUrl": "https://cache.pttweb.cc/imgur/75VGtKn/s/a0fd97e89adc1b85d17debbaa76c49a5"
+      "imageUrl": "https://cache.pttweb.cc/imgur/nkn83WK/s/49a19a06bcbbe0365552819da442a767"
     },
     {
-      "recommendScore": "371",
-      "recommendCount": "577",
-      "title": "[情報] 115年11月16日 三大法人買賣金額統計表",
-      "link": "/bbs/Stock/M.1794812983.A.369",
-      "author": "coconing",
-      "board": "Stock",
-      "publishTime": "2026/11/16 07:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "300",
-      "recommendCount": "680",
-      "title": "[新聞] 證交所：若市場非理性連續下跌 將配合政策採穩定措施",
-      "link": "/bbs/Stock/M.1794823347.A.21E",
-      "author": "largan6075",
-      "board": "Stock",
-      "publishTime": "2026/11/16 10:02",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "181",
-      "recommendCount": "668",
+      "recommendScore": "198",
+      "recommendCount": "733",
       "title": "[新聞] 綠委：水庫光電早已證實沒有造成污染",
       "link": "/bbs/Gossiping/M.1794827870.A.2D7",
       "author": "chopper594",
@@ -44,8 +24,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "299",
-      "recommendCount": "673",
+      "recommendScore": "305",
+      "recommendCount": "687",
+      "title": "[新聞] 證交所：若市場非理性連續下跌 將配合政策採穩定措施",
+      "link": "/bbs/Stock/M.1794823347.A.21E",
+      "author": "largan6075",
+      "board": "Stock",
+      "publishTime": "2026/11/16 10:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "371",
+      "recommendCount": "578",
+      "title": "[情報] 115年11月16日 三大法人買賣金額統計表",
+      "link": "/bbs/Stock/M.1794812983.A.369",
+      "author": "coconing",
+      "board": "Stock",
+      "publishTime": "2026/11/16 07:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "301",
+      "recommendCount": "680",
       "title": "[新聞] 民主黨鎖定馬斯克！要求SpaceX交出星鏈限",
       "link": "/bbs/Stock/M.1794807962.A.E53",
       "author": "thinksilver",
@@ -55,7 +55,7 @@
     },
     {
       "recommendScore": "210",
-      "recommendCount": "509",
+      "recommendCount": "512",
       "title": "[新聞] 台股再暴跌　楊金龍：國安基金若未進場台股波動會更大",
       "link": "/bbs/Stock/M.1794809655.A.72D",
       "author": "KotoriCute",
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "399",
-      "recommendCount": "912",
+      "recommendScore": "404",
+      "recommendCount": "919",
       "title": "[新聞] TVBS封關民調／北市膠著！蔣萬安46%領先沈伯洋僅2％ 估3萬票險勝連任",
       "link": "/bbs/Gossiping/M.1794815541.A.A98",
       "author": "cheinshin",
@@ -84,8 +84,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "169",
-      "recommendCount": "552",
+      "recommendScore": "175",
+      "recommendCount": "562",
       "title": "[新聞] 認同翡翠水庫裝光電板？沈伯洋：經濟部無計畫、先把建物能源做好",
       "link": "/bbs/Gossiping/M.1794814499.A.D47",
       "author": "william8403",
@@ -94,8 +94,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "233",
-      "recommendCount": "465",
+      "recommendScore": "236",
+      "recommendCount": "469",
       "title": "[新聞] 綠能你不能？蕭美琴站台何欣純送炒麵餐盒 江和樹：一看就知道超過30元",
       "link": "/bbs/Gossiping/M.1794801534.A.D2E",
       "author": "goodday5566",
@@ -104,8 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "263",
-      "recommendCount": "515",
+      "recommendScore": "267",
+      "recommendCount": "519",
       "title": "Re: [新聞]「教主」回鍋？矽谷盟友施壓輝達高層 傳黃仁勳考慮中",
       "link": "/bbs/Stock/M.1794809836.A.2AD",
       "author": "a000000000",
@@ -114,13 +114,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "190",
-      "recommendCount": "436",
-      "title": "[新聞] 揭大罷免和洋流參與者獲政府經費逾16億",
-      "link": "/bbs/Gossiping/M.1794787491.A.21F",
-      "author": "STi2011",
-      "board": "Gossiping",
-      "publishTime": "2026/11/16 00:04",
+      "recommendScore": "310",
+      "recommendCount": "343",
+      "title": "[創作] NVIDIA (飛兒樂團)",
+      "link": "/bbs/Stock/M.1794828470.A.9CA",
+      "author": "autokey",
+      "board": "Stock",
+      "publishTime": "2026/11/16 11:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "250",
+      "recommendCount": "470",
+      "title": "[討論] 湖人是在強什麼？",
+      "link": "/bbs/NBA/M.1794801535.A.1E6",
+      "author": "VeryGoodBoy",
+      "board": "NBA",
+      "publishTime": "2026/11/16 03:58",
       "imageUrl": ""
     },
     {
@@ -134,18 +144,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "244",
-      "recommendCount": "462",
-      "title": "[討論] 湖人是在強什麼？",
-      "link": "/bbs/NBA/M.1794801535.A.1E6",
-      "author": "VeryGoodBoy",
-      "board": "NBA",
-      "publishTime": "2026/11/16 03:58",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "190",
-      "recommendCount": "500",
+      "recommendScore": "194",
+      "recommendCount": "508",
       "title": "[新聞] 柯文哲火力全開　批檢察官羅織、騙票搜索「把我關到死」！",
       "link": "/bbs/Gossiping/M.1794818954.A.74F",
       "author": "lazyjohn",
@@ -154,18 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "290",
-      "recommendCount": "319",
-      "title": "[創作] NVIDIA (飛兒樂團)",
-      "link": "/bbs/Stock/M.1794828470.A.9CA",
-      "author": "autokey",
-      "board": "Stock",
-      "publishTime": "2026/11/16 11:27",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "204",
-      "recommendCount": "445",
+      "recommendScore": "209",
+      "recommendCount": "451",
       "title": "[新聞] 中央要求翡翠水庫種光電公文曝...北市府1",
       "link": "/bbs/Gossiping/M.1794809982.A.50B",
       "author": "Bqqqa",
@@ -174,18 +164,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "147",
-      "recommendCount": "438",
-      "title": "[爆卦] Live 戴立安信民協會 臺北市封關民調公布",
-      "link": "/bbs/Gossiping/M.1794794913.A.401",
-      "author": "chopper594",
+      "recommendScore": "182",
+      "recommendCount": "338",
+      "title": "[爆卦] 洋流水路大會師在河裡亂灑冥紙！",
+      "link": "/bbs/Gossiping/M.1794806565.A.F95",
+      "author": "pigpigcom123",
       "board": "Gossiping",
-      "publishTime": "2026/11/16 02:08",
+      "publishTime": "2026/11/16 05:22",
       "imageUrl": ""
     },
     {
-      "recommendScore": "395",
-      "recommendCount": "957",
+      "recommendScore": "394",
+      "recommendCount": "958",
       "title": "[閒聊] 韓網乳摸：Zeus確定會回T1",
       "link": "/bbs/LoL/M.1794800524.A.FE0",
       "author": "ubiqui",
@@ -194,13 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "180",
-      "recommendCount": "335",
-      "title": "[爆卦] 洋流水路大會師在河裡亂灑冥紙！",
-      "link": "/bbs/Gossiping/M.1794806565.A.F95",
-      "author": "pigpigcom123",
+      "recommendScore": "184",
+      "recommendCount": "348",
+      "title": "[爆卦] 柯文哲回應toyz講他被特殊關照",
+      "link": "/bbs/Gossiping/M.1794834923.A.C0D",
+      "author": "keroro39",
       "board": "Gossiping",
-      "publishTime": "2026/11/16 05:22",
+      "publishTime": "2026/11/16 13:15",
+      "imageUrl": "https://cache.pttweb.cc/imgur/nkn83WK/s/49a19a06bcbbe0365552819da442a767"
+    },
+    {
+      "recommendScore": "87",
+      "recommendCount": "298",
+      "title": "[新聞] 吳乃仁3個月未協調還款 台糖下「最後通牒」限7天內答覆",
+      "link": "/bbs/Gossiping/M.1794833305.A.273",
+      "author": "boppin",
+      "board": "Gossiping",
+      "publishTime": "2026/11/16 12:48",
       "imageUrl": ""
     }
   ]
