@@ -1,14 +1,22 @@
 {
-  "updated": "2026-11-18T01:17:13.408Z",
+  "updated": "2026-11-18T09:05:14.601Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-11-18T01:16:59.000Z",
+    "lastBuildDate": "2026-11-18T09:05:03.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "美中俄峰會：為何選在深圳麒麟山莊？習仲勳、金正日都曾下榻",
+      "description": "麒麟山莊離APEC主會場約30分鐘車程，三面環山、一面臨水，封閉性和安保條件都很好。它也與習近平的父親習仲勳有淵源，還接待過已故朝鮮領導人金正日。",
+      "link": "https://www.bbc.com/zhongwen/articles/cqn0dy4ppxp7o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-18T08:06:49.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cqn0dy4ppxp7o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f1ea/live/ab525c80-e326-11f1-baab-4b3b35d174b7.jpg"
+    },
     {
       "title": "特朗普訪華之際 美國封堵中國公司在東南亞租用AI算力的「後門」",
       "description": "在美國限制最先進英偉達芯片直接銷往中國的背景下，中國大型互聯網公司和AI實驗室逐漸轉向「只租算力、不買硬件」的模式。芯片部署在第三國數據中心，中國企業再通過互聯網遠程調用算力訓練模型，而無須把相關硬件運入中國。",
@@ -18,12 +26,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f965/live/d542c590-e275-11f1-b639-73d1df360b76.jpg"
     },
     {
-      "title": "中國以AI奇境接待各國領袖，但他們看不到的另一面是什麼？",
-      "description": "離開深圳充滿科技感的天際線後，你將會看到習近平治下中國所面臨的種種挑戰。",
-      "link": "https://www.bbc.com/zhongwen/articles/crgj360lnqv6o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-17T11:44:02.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crgj360lnqv6o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c637/live/5938bed0-e1b4-11f1-9a3f-99aca912798e.jpg"
+      "title": "美國今年已10人死於麻疹 26年後失去「麻疹消除狀態」",
+      "description": "美國時隔26年失去麻疹消除狀態，今年病例達5400例、死亡10人，創1990年代以來新高。「疫苗懷疑論」持續遭到質疑。",
+      "link": "https://www.bbc.com/zhongwen/articles/c5y4jmvxr9vyo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-18T08:16:22.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c5y4jmvxr9vyo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg"
     },
     {
       "title": "高雄選戰「知識藍」對決「新潮流」，國民黨能複製「韓流」嗎？",
@@ -32,14 +40,6 @@
       "pubDate": "2026-11-17T16:25:49.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c6n4ex4y9837o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df33/live/318af0f0-e2a0-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "APEC深圳峰會：賴清德派施振榮出席 台灣參會空間再成焦點",
-      "description": "台灣試圖以企業家身分與科技優勢擴大能見度，中國則以原則框架維持主導權。APEC作為平台，或許能讓雙方同時在場，但仍難以消弭兩岸在全球外交參與的既有分歧。",
-      "link": "https://www.bbc.com/zhongwen/articles/ck5y1g89jnnxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-17T08:44:40.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ck5y1g89jnnxo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e760/live/fbdccce0-e262-11f1-900c-895604014268.jpg"
     },
     {
       "title": "身體最常受傷、卻很少人會刻意鍛鍊的部位：腳踝",
@@ -82,6 +82,30 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5997/live/fdfeb670-d293-11f1-a701-fddedf244c16.jpg"
     },
     {
+      "title": "APEC深圳峰會：賴清德派施振榮出席 台灣參會空間再成焦點",
+      "description": "台灣試圖以企業家身分與科技優勢擴大能見度，中國則以原則框架維持主導權。APEC作為平台，或許能讓雙方同時在場，但仍難以消弭兩岸在全球外交參與的既有分歧。",
+      "link": "https://www.bbc.com/zhongwen/articles/ck5y1g89jnnxo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-17T08:44:40.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ck5y1g89jnnxo/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e760/live/fbdccce0-e262-11f1-900c-895604014268.jpg"
+    },
+    {
+      "title": "APEC深圳觀察：習近平想告訴世界，中國掌握著未來",
+      "description": "當世界領導人本週齊聚深圳，他們將看到一座代表中國未來的科技之城：機器人、AI、摩天大樓，處處展現蓬勃的創新活力。但這很可能只是故事的一半：因為峰會停工的建築工人、為生計奔波的零工群體，對未來有著不同的想像。",
+      "link": "https://www.bbc.com/zhongwen/articles/c893rg46x0ygo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-17T02:09:22.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c893rg46x0ygo/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a64b/live/ec420ab0-e1b4-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "title": "中國以AI奇境接待各國領袖，但他們看不到的另一面是什麼？",
+      "description": "離開深圳充滿科技感的天際線後，你將會看到習近平治下中國所面臨的種種挑戰。",
+      "link": "https://www.bbc.com/zhongwen/articles/crgj360lnqv6o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-17T11:44:02.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/crgj360lnqv6o/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c637/live/5938bed0-e1b4-11f1-9a3f-99aca912798e.jpg"
+    },
+    {
       "title": "歐盟峰會前夕 貝安德稱英國脫歐「得不償失」",
       "description": "英國首相在倫敦金融城市長晚宴上向與會人士表示，「我們得到的脫歐結果並沒有奏效」。",
       "link": "https://www.bbc.com/zhongwen/articles/c68x0j2r8lkyo/trad?at_medium=RSS&at_campaign=rss",
@@ -96,14 +120,6 @@
       "pubDate": "2026-11-17T00:34:50.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cmx27v835864o/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0d12/live/ba3084e0-de83-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "APEC深圳觀察：習近平想告訴世界，中國掌握著未來",
-      "description": "當世界領導人本週齊聚深圳，他們將看到一座代表中國未來的科技之城：機器人、AI、摩天大樓，處處展現蓬勃的創新活力。但這很可能只是故事的一半：因為峰會停工的建築工人、為生計奔波的零工群體，對未來有著不同的想像。",
-      "link": "https://www.bbc.com/zhongwen/articles/c893rg46x0ygo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-17T02:09:22.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c893rg46x0ygo/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a64b/live/ec420ab0-e1b4-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "title": "「讓黃仁勳回歸」運動：輝達駁斥、特朗普支持恢復其CEO職位",
@@ -128,22 +144,6 @@
       "pubDate": "2026-11-17T02:38:11.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c893rgw9zrxqo/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f95/live/31a7c6d0-e1e7-11f1-9f14-b33806cfd783.jpg"
-    },
-    {
-      "title": "習近平、特朗普與普京歷史性會晤，將對世界意味什麼？",
-      "description": "中國、俄羅斯和美國領導人正籌備首次三方會晤，引發歐洲憂慮。一些人認為，這令人聯想到第二次世界大戰後，大國將世界劃分為不同勢力範圍的歷史。",
-      "link": "https://www.bbc.com/zhongwen/articles/cwe85djzkkv5o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-16T14:38:25.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cwe85djzkkv5o/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f9de/live/369f6d80-df7d-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "APEC深圳峰會：中方確認美中俄會晤，日方盼習近平與高市握手",
-      "description": "深圳APEC2026到來，特朗普（川普）稱將與中俄領袖在深圳會面，中俄確認正協調三方會晤。BBC中文專訪APEC執行秘書長討論敏感議，稱對領導人出席保持樂觀。",
-      "link": "https://www.bbc.com/zhongwen/articles/c6wy4373q50go/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-16T01:43:29.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c6wy4373q50go/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f0ac/live/5861faf0-df50-11f1-8364-2717a13d3b08.jpg"
     },
     {
       "title": "中國AI之都：「夢想之城」深圳背後的兩個世界",
