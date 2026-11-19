@@ -1,14 +1,22 @@
 {
-  "updated": "2026-11-19T07:55:00.925Z",
+  "updated": "2026-11-19T17:19:45.078Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-11-19T07:54:56.000Z",
+    "lastBuildDate": "2026-11-19T17:19:32.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "中美俄「三巨頭」峰會結束：涉及烏克蘭、伊朗議題，發表和平宣言承諾核對話",
+      "description": "會後發表的中俄美元首和平宣言顯示，三國領導人承諾就「減少核風險、防止核擴散」展開對話，並就聯合國改革、能源穩定和國際刑事法院管轄權等議題達成四點共識。",
+      "link": "https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-19T12:22:04.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1b0f/live/68aa4e30-e40f-11f1-b37c-b3a71d7200af.jpg"
+    },
     {
       "title": "中美俄「三巨頭」坐在了一起，世界正滑向大國共管嗎？",
       "description": "「他們能坐下來，就說明這個世界還沒有到第一次或第二次世界大戰那個狀況。」香港科技大學榮休教授丁學良對BBC說。",
@@ -16,6 +24,14 @@
       "pubDate": "2026-11-19T00:11:57.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cvglr9r243x6o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ace6/live/728fbf50-e353-11f1-acd4-25eaaa5def63.jpg"
+    },
+    {
+      "title": "美中俄峰會：為何選在深圳麒麟山莊？習仲勳、金正日都曾下榻",
+      "description": "麒麟山莊離APEC主會場約30分鐘車程，三面環山、一面臨水，封閉性和安保條件都很好。它也與習近平的父親習仲勳有淵源，還接待過已故朝鮮領導人金正日。",
+      "link": "https://www.bbc.com/zhongwen/articles/cqn0dy4ppxp7o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-18T08:06:49.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cqn0dy4ppxp7o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f1ea/live/ab525c80-e326-11f1-baab-4b3b35d174b7.jpg"
     },
     {
       "title": "APEC的特色服飾：從克林頓皮衣到深圳「鯤鵬展翅」絲巾",
@@ -26,28 +42,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fefc/live/96bdd5d0-e3e7-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "title": "APEC深圳峰會：習近平親赴機場迎接特朗普，46年來首次中國元首接機",
-      "description": "這是中國自1980年以來，首次有最高領導人親赴機場迎接外國元首。1980年前，華國鋒、毛澤東都有多次赴機場迎接外國領袖的歷史。",
-      "link": "https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-18T13:21:40.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2476/live/e169d970-e352-11f1-99aa-0f40b013ad11.jpg"
-    },
-    {
-      "title": "Anthropic上市：七位即將成為億萬富翁的創辦人",
-      "description": "開發AI聊天機器人Claude的Anthropic在美國上市，這將使其創辦人身價暴增。",
-      "link": "https://www.bbc.com/zhongwen/articles/cw4gn9359q37o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-19T06:43:09.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cw4gn9359q37o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg"
-    },
-    {
-      "title": "美中俄峰會：為何選在深圳麒麟山莊？習仲勳、金正日都曾下榻",
-      "description": "麒麟山莊離APEC主會場約30分鐘車程，三面環山、一面臨水，封閉性和安保條件都很好。它也與習近平的父親習仲勳有淵源，還接待過已故朝鮮領導人金正日。",
-      "link": "https://www.bbc.com/zhongwen/articles/cqn0dy4ppxp7o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-18T08:06:49.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cqn0dy4ppxp7o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f1ea/live/ab525c80-e326-11f1-baab-4b3b35d174b7.jpg"
+      "title": "AI是做精神導師，發佈教法裁決？穆斯林對此意見不一",
+      "description": "穆斯林社群因伊斯蘭AI助手Qaf能否頒布教法裁決爆發爭議。開發者強調僅供學習，學者則警告不可取代專業裁決，反映AI與傳統宗教的張力。",
+      "link": "https://www.bbc.com/zhongwen/articles/cmdx1eqdl9vpo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-19T09:16:44.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cmdx1eqdl9vpo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/420f/live/c60929f0-d6b5-11f1-aacc-5b5f23abff4b.jpg"
     },
     {
       "title": "高雄選戰「知識藍」對決「新潮流」，國民黨能複製「韓流」嗎？",
@@ -82,6 +82,30 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5997/live/fdfeb670-d293-11f1-a701-fddedf244c16.jpg"
     },
     {
+      "title": "假裝身在紐西蘭、提前請假、搶購遊戲主機：粉絲為《GTA 6》發佈做足準備",
+      "description": "Sensor Tower估計，該遊戲透過PlayStation與Xbox平台的預購，已創造11.8億美元收入。",
+      "link": "https://www.bbc.com/zhongwen/articles/cmg4659lx27ro/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-19T12:43:05.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cmg4659lx27ro/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg"
+    },
+    {
+      "title": "Anthropic上市：七位即將成為億萬富翁的創辦人",
+      "description": "開發AI聊天機器人Claude的Anthropic在美國上市，這將使其創辦人身價暴增。",
+      "link": "https://www.bbc.com/zhongwen/articles/cw4gn9359q37o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-19T06:43:09.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cw4gn9359q37o/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg"
+    },
+    {
+      "title": "APEC深圳峰會：習近平親赴機場迎接特朗普，46年來首次中國元首接機",
+      "description": "這是中國自1980年以來，首次有最高領導人親赴機場迎接外國元首。1980年前，華國鋒、毛澤東都有多次赴機場迎接外國領袖的歷史。",
+      "link": "https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-18T13:21:40.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2476/live/e169d970-e352-11f1-99aa-0f40b013ad11.jpg"
+    },
+    {
       "title": "黃仁勳婚外情掀「中國間諜」迷因：幽默與偏見之間，亞裔女性如何自處？",
       "description": "黃仁勳醜聞曝光後，網上湧現大量「中國間諜」、「美人計」笑話。這些看似無傷大雅的時事迷因，卻讓部分亞裔女性感到困擾。",
       "link": "https://www.bbc.com/zhongwen/articles/cvze7n4gp5rro/trad?at_medium=RSS&at_campaign=rss",
@@ -98,36 +122,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg"
     },
     {
-      "title": "APEC深圳峰會：賴清德派施振榮出席 台灣參會空間再成焦點",
-      "description": "台灣試圖以企業家身分與科技優勢擴大能見度，中國則以原則框架維持主導權。APEC作為平台，或許能讓雙方同時在場，但仍難以消弭兩岸在全球外交參與的既有分歧。",
-      "link": "https://www.bbc.com/zhongwen/articles/ck5y1g89jnnxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-17T08:44:40.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/ck5y1g89jnnxo/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e760/live/fbdccce0-e262-11f1-900c-895604014268.jpg"
-    },
-    {
       "title": "APEC深圳觀察：習近平想告訴世界，中國掌握著未來",
       "description": "當世界領導人本週齊聚深圳，他們將看到一座代表中國未來的科技之城：機器人、AI、摩天大樓，處處展現蓬勃的創新活力。但這很可能只是故事的一半：因為峰會停工的建築工人、為生計奔波的零工群體，對未來有著不同的想像。",
       "link": "https://www.bbc.com/zhongwen/articles/c893rg46x0ygo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-11-17T02:09:22.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c893rg46x0ygo/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a64b/live/ec420ab0-e1b4-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "中國以AI奇境接待各國領袖，但他們看不到的另一面是什麼？",
-      "description": "離開深圳充滿科技感的天際線後，你將會看到習近平治下中國所面臨的種種挑戰。",
-      "link": "https://www.bbc.com/zhongwen/articles/crgj360lnqv6o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-17T11:44:02.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/crgj360lnqv6o/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c637/live/5938bed0-e1b4-11f1-9a3f-99aca912798e.jpg"
-    },
-    {
-      "title": "俄羅斯超級富豪們已經在設想一個「後普京時代」",
-      "description": "一些俄羅斯富豪渴望回到90年代的寡頭政治體制，當時商人掌握著權力。 ",
-      "link": "https://www.bbc.com/zhongwen/articles/cmx27v835864o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-17T00:34:50.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cmx27v835864o/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0d12/live/ba3084e0-de83-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "title": "里長赴中旅遊受關注：為何北京鎖定里長？里長怎麼看？",
@@ -144,6 +144,14 @@
       "pubDate": "2026-11-16T09:03:27.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cr7428z1wx74o/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/885c/live/600cf080-e175-11f1-93f3-8bc2b127a55c.jpg"
+    },
+    {
+      "title": "從領導人合照到場邊會談：高市早苗的APEC外交觀察",
+      "description": "高市早苗在歡迎晚宴前與中國國家主席習近平握手，兩人短暫互動。不過，高市抵達深圳時的接待安排相對低調。",
+      "link": "https://www.bbc.com/zhongwen/articles/ck782e5dxeygo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-19T10:20:44.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/ck782e5dxeygo/trad#3",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/328a/live/c294b870-e402-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "title": "中國AI之都：「夢想之城」深圳背後的兩個世界",
@@ -176,14 +184,6 @@
       "pubDate": "2026-11-11T04:28:59.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cm0e0ey0qx7yo/trad#3",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1db5/live/50a21410-dcfa-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "美國中期選舉掀「藍色浪潮」 將怎樣影響世界",
-      "description": "在剛剛結束的美國中期選舉中，多個支持共和黨的州「翻藍」，民主黨奪得國會參眾兩院控制權。這次選舉結果為何具有重大意義？又將如何影響美國與世界其他國家的關係？",
-      "link": "https://www.bbc.com/zhongwen/watch/c5vgjjr77wvxo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-06T14:58:15.000Z",
-      "guid": "https://www.bbc.com/zhongwen/watch/c5vgjjr77wvxo/trad#3",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9773/live/5ebf89c0-d9f2-11f1-b441-2b33b063138f.jpg"
     },
     {
       "title": "「讓黃仁勳回歸」運動：輝達駁斥、特朗普支持恢復其CEO職位",
