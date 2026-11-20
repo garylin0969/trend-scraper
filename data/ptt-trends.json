@@ -1,21 +1,21 @@
 {
-  "updated": "2026-11-20T12:52:18.283Z",
+  "updated": "2026-11-20T20:54:57.270Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "588",
-      "recommendCount": "1101",
+      "recommendScore": "596",
+      "recommendCount": "1109",
       "title": "[情報] 115年11月20日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1795158555.A.B89",
       "author": "coconing",
       "board": "Stock",
       "publishTime": "2026/11/20 07:09",
-      "imageUrl": "https://cache.pttweb.cc/imgur/YiFk8fj/s/0f6b17e6e5fadb6baf905120e273fb97"
+      "imageUrl": "https://cache.pttweb.cc/imgur/k0vebHh/s/d9d033e1906f2c30e8efd5dbb1ea4beb"
     },
     {
-      "recommendScore": "342",
-      "recommendCount": "1017",
+      "recommendScore": "401",
+      "recommendCount": "1189",
       "title": "[新聞] 獨／副閣揆鄭麗君緊急召跨部會議 研議提出第三波護盤措施",
       "link": "/bbs/Stock/M.1795172090.A.FAA",
       "author": "mzwj",
@@ -24,8 +24,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "381",
-      "recommendCount": "707",
+      "recommendScore": "573",
+      "recommendCount": "943",
+      "title": "[情報] 115年11月20日信用交易統計(資減491.41億)",
+      "link": "/bbs/Stock/M.1795179678.A.AA1",
+      "author": "steward135",
+      "board": "Stock",
+      "publishTime": "2026/11/20 13:01",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "384",
+      "recommendCount": "714",
       "title": "[新聞] 郭哲榮再加碼3000萬抄底0050！總額2.3億喊：還有現金就用力買",
       "link": "/bbs/Stock/M.1795147946.A.46A",
       "author": "omanorboyo",
@@ -44,8 +54,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "255",
-      "recommendCount": "673",
+      "recommendScore": "287",
+      "recommendCount": "737",
+      "title": "[新聞] 限空令3.0要來了？傳卓榮泰召開護盤會議",
+      "link": "/bbs/Stock/M.1795183571.A.A43",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2026/11/20 14:06",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "256",
+      "recommendCount": "676",
       "title": "[新聞] 藍營猛打水庫光電板議題　沈伯洋揭關鍵：造謠需時間、大家別焦慮",
       "link": "/bbs/Gossiping/M.1795131459.A.F4D",
       "author": "james7923",
@@ -54,58 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "121",
-      "recommendCount": "510",
-      "title": "[心得] 股齡9年老手告訴你今天就是超底日",
-      "link": "/bbs/Stock/M.1795140578.A.97B",
-      "author": "h713107",
-      "board": "Stock",
-      "publishTime": "2026/11/20 02:09",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "306",
-      "recommendCount": "790",
-      "title": "[新聞] 獨／秦慧珠正式掰了！黃復興開鍘：不支持參與競選",
-      "link": "/bbs/Gossiping/M.1795147905.A.FD5",
-      "author": "Skyblueway",
-      "board": "Gossiping",
-      "publishTime": "2026/11/20 04:11",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "329",
-      "recommendCount": "1006",
-      "title": "[新聞] 快訊／普發2萬三讀　罕見「綠白合」卻12綠委缺席仍表決落敗",
-      "link": "/bbs/Gossiping/M.1795160303.A.5AE",
-      "author": "BSScene",
-      "board": "Gossiping",
-      "publishTime": "2026/11/20 07:38",
-      "imageUrl": "https://cache.pttweb.cc/imgur/YiFk8fj/s/0f6b17e6e5fadb6baf905120e273fb97"
-    },
-    {
-      "recommendScore": "289",
-      "recommendCount": "421",
-      "title": "[情報] 台股前十大跌點紀錄(今天第三名)",
-      "link": "/bbs/Stock/M.1795152891.A.BF0",
-      "author": "paidzou",
-      "board": "Stock",
-      "publishTime": "2026/11/20 05:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "411",
-      "recommendCount": "667",
-      "title": "[情報] DK X(ShowMaker/Smash/cvMax續約)",
-      "link": "/bbs/LoL/M.1795095167.A.60B",
-      "author": "oDNSoIce",
-      "board": "LoL",
-      "publishTime": "2026/11/19 13:32",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "350",
-      "recommendCount": "432",
+      "recommendScore": "421",
+      "recommendCount": "517",
       "title": "[教學] 關閉line today功能",
       "link": "/bbs/Gossiping/M.1795162090.A.DE7",
       "author": "onit",
@@ -114,8 +84,28 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/k0vebHh/s/d9d033e1906f2c30e8efd5dbb1ea4beb"
     },
     {
-      "recommendScore": "273",
-      "recommendCount": "519",
+      "recommendScore": "120",
+      "recommendCount": "513",
+      "title": "[心得] 股齡9年老手告訴你今天就是超底日",
+      "link": "/bbs/Stock/M.1795140578.A.97B",
+      "author": "h713107",
+      "board": "Stock",
+      "publishTime": "2026/11/20 02:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "342",
+      "recommendCount": "1039",
+      "title": "[新聞] 快訊／普發2萬三讀　罕見「綠白合」卻12綠委缺席仍表決落敗",
+      "link": "/bbs/Gossiping/M.1795160303.A.5AE",
+      "author": "BSScene",
+      "board": "Gossiping",
+      "publishTime": "2026/11/20 07:38",
+      "imageUrl": "https://cache.pttweb.cc/imgur/YiFk8fj/s/0f6b17e6e5fadb6baf905120e273fb97"
+    },
+    {
+      "recommendScore": "295",
+      "recommendCount": "552",
       "title": "[新聞] 人類能活1400歲！　學者揭「AI抗衰老」潛力：還只是保守估計",
       "link": "/bbs/Stock/M.1795164711.A.0BC",
       "author": "sinana",
@@ -124,8 +114,38 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "446",
-      "recommendCount": "869",
+      "recommendScore": "311",
+      "recommendCount": "797",
+      "title": "[新聞] 獨／秦慧珠正式掰了！黃復興開鍘：不支持參與競選",
+      "link": "/bbs/Gossiping/M.1795147905.A.FD5",
+      "author": "Skyblueway",
+      "board": "Gossiping",
+      "publishTime": "2026/11/20 04:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "291",
+      "recommendCount": "423",
+      "title": "[情報] 台股前十大跌點紀錄(今天第三名)",
+      "link": "/bbs/Stock/M.1795152891.A.BF0",
+      "author": "paidzou",
+      "board": "Stock",
+      "publishTime": "2026/11/20 05:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "224",
+      "recommendCount": "728",
+      "title": "[轉錄] 沈伯洋Threads-給北市公務員的一封信",
+      "link": "/bbs/HatePolitics/M.1795171015.A.73D",
+      "author": "yudeifish",
+      "board": "HatePolitics",
+      "publishTime": "2026/11/20 10:36",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "449",
+      "recommendCount": "872",
       "title": "[閒聊] 韓網熱議：DK 2027準官宣陣容",
       "link": "/bbs/LoL/M.1795160321.A.79E",
       "author": "Minguo1016",
@@ -134,33 +154,23 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/qtGkbek/s/2ede4489f27a0146184b6e04bbd00fa1"
     },
     {
-      "recommendScore": "150",
-      "recommendCount": "366",
+      "recommendScore": "319",
+      "recommendCount": "442",
+      "title": "[閒聊] dk x: kanavi doran welcome",
+      "link": "/bbs/LoL/M.1795175807.A.1F4",
+      "author": "rswa",
+      "board": "LoL",
+      "publishTime": "2026/11/20 11:56",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "155",
+      "recommendCount": "374",
       "title": "[心得] 7年存款賠光 畢業了",
       "link": "/bbs/Stock/M.1795158212.A.866",
       "author": "mvp020713",
       "board": "Stock",
       "publishTime": "2026/11/20 07:03",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "205",
-      "recommendCount": "364",
-      "title": "[新聞] 美國超微公司AMD執行長蘇姿丰出售價值3548.99萬美元股票",
-      "link": "/bbs/Stock/M.1795103149.A.3D0",
-      "author": "yipi1357",
-      "board": "Stock",
-      "publishTime": "2026/11/19 15:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "222",
-      "recommendCount": "387",
-      "title": "[情報] 115年11月19日信用交易統計",
-      "link": "/bbs/Stock/M.1795093478.A.043",
-      "author": "steward135",
-      "board": "Stock",
-      "publishTime": "2026/11/19 13:04",
       "imageUrl": ""
     },
     {
@@ -174,33 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "194",
-      "recommendCount": "575",
-      "title": "[轉錄] 沈伯洋Threads-給北市公務員的一封信",
-      "link": "/bbs/HatePolitics/M.1795171015.A.73D",
-      "author": "yudeifish",
-      "board": "HatePolitics",
-      "publishTime": "2026/11/20 10:36",
+      "recommendScore": "93",
+      "recommendCount": "384",
+      "title": "[新聞] 紐時記者：輝達晶片流入共軍實驗室　協助攻台研究",
+      "link": "/bbs/Stock/M.1795187762.A.F8D",
+      "author": "lazyjohn",
+      "board": "Stock",
+      "publishTime": "2026/11/20 15:16",
       "imageUrl": ""
     },
     {
-      "recommendScore": "151",
-      "recommendCount": "368",
+      "recommendScore": "153",
+      "recommendCount": "371",
       "title": "[請益] 這波為了什麼跌？",
       "link": "/bbs/Stock/M.1795143067.A.EF2",
       "author": "funnyday",
       "board": "Stock",
       "publishTime": "2026/11/20 02:51",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "166",
-      "recommendCount": "456",
-      "title": "目前跌幅已經逼近歷年股災",
-      "link": "/bbs/Stock/M.1795125303.A.AC6",
-      "author": "aqswdefrgt",
-      "board": "Stock",
-      "publishTime": "2026/11/19 21:55",
       "imageUrl": ""
     }
   ]
