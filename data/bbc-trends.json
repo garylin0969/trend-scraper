@@ -1,16 +1,32 @@
 {
-  "updated": "2026-11-19T23:48:07.497Z",
+  "updated": "2026-11-20T07:05:27.406Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-11-19T23:48:00.000Z",
+    "lastBuildDate": "2026-11-20T07:05:14.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
     {
-      "title": "中美俄「三巨頭」峰會結束：涉及烏克蘭、伊朗議題，發表和平宣言承諾核對話",
+      "title": "中俄美三方峰會「場面大於實質成果」",
+      "description": "BBC駐北美記者澤克爾：這次高峰唯一讓人留下的持久印象，或許只是歷史性的三方會晤的畫面。",
+      "link": "https://www.bbc.com/zhongwen/articles/cm5y120z0pw0o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-20T05:46:09.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cm5y120z0pw0o/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e1f4/live/f36e5af0-e448-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "title": "從倉頡換成漢語拼音：電腦輸入法會影響下一代學習中文嗎？",
+      "description": "香港教育局提出小學二年級學生應該初步掌握以「漢語拼音輸入法」在電腦上輸入中文。打字方式的改變，會如何影響下一代學習語言？",
+      "link": "https://www.bbc.com/zhongwen/articles/cxq6e216p7ylo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-20T06:12:18.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cxq6e216p7ylo/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7c0d/live/e9fc49e0-e4a8-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "title": "中美俄元首峰會：從烏克蘭、伊朗、和平宣言到承諾核對話",
       "description": "會後發表的中俄美元首和平宣言顯示，三國領導人承諾就「減少核風險、防止核擴散」展開對話，並就聯合國改革、能源穩定和國際刑事法院管轄權等議題達成四點共識。",
       "link": "https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-11-19T12:22:04.000Z",
@@ -32,22 +48,6 @@
       "pubDate": "2026-11-18T08:06:49.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cqn0dy4ppxp7o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f1ea/live/ab525c80-e326-11f1-baab-4b3b35d174b7.jpg"
-    },
-    {
-      "title": "APEC的特色服飾：從克林頓皮衣到深圳「鯤鵬展翅」絲巾",
-      "description": "在每一年的亞太經合組織峰會上，人們除了關心哪個國的領導人出席、他們之間的互動和談話，還有他們大合照時穿了什麼。",
-      "link": "https://www.bbc.com/zhongwen/articles/cmly7er4rze9o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-19T07:05:39.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cmly7er4rze9o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fefc/live/96bdd5d0-e3e7-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "AI是做精神導師，發佈教法裁決？穆斯林對此意見不一",
-      "description": "穆斯林社群因伊斯蘭AI助手Qaf能否頒布教法裁決爆發爭議。開發者強調僅供學習，學者則警告不可取代專業裁決，反映AI與傳統宗教的張力。",
-      "link": "https://www.bbc.com/zhongwen/articles/cmdx1eqdl9vpo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-19T09:16:44.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cmdx1eqdl9vpo/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/420f/live/c60929f0-d6b5-11f1-aacc-5b5f23abff4b.jpg"
     },
     {
       "title": "高雄選戰「知識藍」對決「新潮流」，國民黨能複製「韓流」嗎？",
@@ -82,7 +82,23 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5997/live/fdfeb670-d293-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "假裝身在紐西蘭、提前請假、搶購遊戲主機：粉絲為《GTA 6》發佈做足準備",
+      "title": "APEC的特色服飾：從克林頓皮衣到深圳「鯤鵬展翅」絲巾",
+      "description": "在每一年的亞太經合組織峰會上，人們除了關心哪個國的領導人出席、他們之間的互動和談話，還有他們大合照時穿了什麼。",
+      "link": "https://www.bbc.com/zhongwen/articles/cmly7er4rze9o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-19T07:05:39.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cmly7er4rze9o/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fefc/live/96bdd5d0-e3e7-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "title": "AI是做精神導師，發佈教法裁決？穆斯林對此意見不一",
+      "description": "穆斯林社群因伊斯蘭AI助手Qaf能否頒布教法裁決爆發爭議。開發者強調僅供學習，學者則警告不可取代專業裁決，反映AI與傳統宗教的張力。",
+      "link": "https://www.bbc.com/zhongwen/articles/cmdx1eqdl9vpo/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-19T09:16:44.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cmdx1eqdl9vpo/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/420f/live/c60929f0-d6b5-11f1-aacc-5b5f23abff4b.jpg"
+    },
+    {
+      "title": "假裝在新西蘭、提前請假、搶購主機：粉絲為《GTA 6》做足準備",
       "description": "Sensor Tower估計，該遊戲透過PlayStation與Xbox平台的預購，已創造11.8億美元收入。",
       "link": "https://www.bbc.com/zhongwen/articles/cmg4659lx27ro/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-11-19T12:43:05.000Z",
@@ -98,7 +114,7 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg"
     },
     {
-      "title": "APEC深圳峰會：習近平親赴機場迎接特朗普，46年來首次中國元首接機",
+      "title": "APEC深圳峰會：習近平親迎特朗普，46年來首次中國元首接機",
       "description": "這是中國自1980年以來，首次有最高領導人親赴機場迎接外國元首。1980年前，華國鋒、毛澤東都有多次赴機場迎接外國領袖的歷史。",
       "link": "https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-11-18T13:21:40.000Z",
@@ -106,20 +122,12 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2476/live/e169d970-e352-11f1-99aa-0f40b013ad11.jpg"
     },
     {
-      "title": "黃仁勳婚外情掀「中國間諜」迷因：幽默與偏見之間，亞裔女性如何自處？",
+      "title": "黃仁勳掀「中國間諜」迷因：幽默與偏見之間，亞裔女性如何自處？",
       "description": "黃仁勳醜聞曝光後，網上湧現大量「中國間諜」、「美人計」笑話。這些看似無傷大雅的時事迷因，卻讓部分亞裔女性感到困擾。",
       "link": "https://www.bbc.com/zhongwen/articles/cvze7n4gp5rro/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-11-18T12:17:23.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cvze7n4gp5rro/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cdfb/live/3e3fdc00-e103-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "美國今年已10人死於麻疹 26年後失去「麻疹消除狀態」",
-      "description": "美國時隔26年失去麻疹消除狀態，今年病例達5400例、死亡10人，創1990年代以來新高。「疫苗懷疑論」持續遭到質疑。",
-      "link": "https://www.bbc.com/zhongwen/articles/c5y4jmvxr9vyo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-18T08:16:22.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c5y4jmvxr9vyo/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg"
     },
     {
       "title": "APEC深圳觀察：習近平想告訴世界，中國掌握著未來",
@@ -128,14 +136,6 @@
       "pubDate": "2026-11-17T02:09:22.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c893rg46x0ygo/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a64b/live/ec420ab0-e1b4-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "里長赴中旅遊受關注：為何北京鎖定里長？里長怎麼看？",
-      "description": "台灣地方選舉即將到來，近年北京對台統戰工作重心從政商菁英轉向基層社會，而里長作為選舉期間的地方「樁腳」，就成為了北京的重要接觸對象。",
-      "link": "https://www.bbc.com/zhongwen/articles/cm3elx8gxdn3o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-16T09:03:22.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cm3elx8gxdn3o/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7e59/live/86a92b40-d75d-11f1-b441-2b33b063138f.jpg"
     },
     {
       "title": "里長赴中旅遊：台灣《反滲透法》為何「查辦多、定罪少」？",
@@ -170,7 +170,7 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2e6d/live/c16688e0-e266-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "title": "無法複製的奇蹟？深圳如何從改革開放樣板變為「中國矽谷」",
+      "title": "無法複製的奇蹟？深圳如何從改革開放樣板到「中國矽谷」",
       "description": "深圳首次主辦亞太經濟合作組織（APEC）領導人峰會，成為中國的第三座主辦城市。深圳的崛起往往被視為中國改革開放最成功的一場實驗。而在中國和世界變幻莫測的今天，這個高速發展的奇蹟還能延續嗎？",
       "link": "https://www.bbc.com/zhongwen/articles/cmg46q2nl5n2o/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-11-15T18:21:42.000Z",
@@ -178,7 +178,7 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0fff/live/97a75100-df3d-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "台灣村里長：最基層的民選公職，如何牽動選舉動員與兩岸關係？",
+      "title": "台灣村里長：最基層的民選公職如何牽動兩岸關係？",
       "description": "村里長是台灣最基層的民選公職，因為掌握地方人脈，在社區服務與選舉動員中扮演重要角色。近年部分里長赴中國交流，引發北京透過基層網絡影響台灣政治的疑慮。BBC中文走訪台灣多個縣市，訪問三位不同世代、不同政治背景的里長，探討地方政治、兩岸交流與統戰之間的界線。",
       "link": "https://www.bbc.com/zhongwen/articles/c6kg7mdzj12no/trad?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-11-15T04:28:35.000Z",
@@ -266,6 +266,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/434e/live/d21b0550-dcba-11f1-bc9a-d176db862bf0.png"
     },
     {
+      "title": "里長赴中旅遊受關注：為何北京鎖定里長？里長怎麼看？",
+      "description": "台灣地方選舉即將到來，近年北京對台統戰工作重心從政商菁英轉向基層社會，而里長作為選舉期間的地方「樁腳」，就成為了北京的重要接觸對象。",
+      "link": "https://www.bbc.com/zhongwen/articles/cm3elx8gxdn3o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-16T09:03:22.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cm3elx8gxdn3o/trad#6",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7e59/live/86a92b40-d75d-11f1-b441-2b33b063138f.jpg"
+    },
+    {
       "title": "BBC調查揭英國「全球人才簽證」造假產業：中介助移民冒充藝術家及科技專才",
       "description": "BBC臥底調查揭露一場精心策劃的騙局，協助富裕移民透過快速通道取得英國永久居留權。",
       "link": "https://www.bbc.com/zhongwen/articles/cw4gn0mgz1m3o/trad?at_medium=RSS&at_campaign=rss",
@@ -288,14 +296,6 @@
       "pubDate": "2026-11-06T00:21:23.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c6gm0rdzm0rdo/trad#6",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/744d/live/a1131d00-d8e9-11f1-8a29-751f921d505b.jpg"
-    },
-    {
-      "title": "美智庫解析「技術民族主義」下的中俄軍工合作細節與限度",
-      "description": "深圳APEC前夕，中俄「無上限」合有任何挑戰嗎？北京對烏克蘭停火興趣如何？在APEC中美俄三方領袖會面能有所突破？",
-      "link": "https://www.bbc.com/zhongwen/articles/c977pge1jkmdo/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-04T00:23:34.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/c977pge1jkmdo/trad#6",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a107/live/7865a970-f296-11f0-a422-4ba8a094a8fa.jpg"
     },
     {
       "title": "為什麼歐洲各國年輕人走上街頭？背後的共同訴求和暴力隱憂",
