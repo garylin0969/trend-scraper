@@ -1,27 +1,17 @@
 {
-  "updated": "2026-11-19T23:29:06.572Z",
+  "updated": "2026-11-20T04:11:32.131Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "510",
-      "recommendCount": "898",
+      "recommendScore": "511",
+      "recommendCount": "899",
       "title": "[情報] 115年11月19日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1795071943.A.82F",
       "author": "coconing",
       "board": "Stock",
       "publishTime": "2026/11/19 07:05",
       "imageUrl": "https://cache.pttweb.cc/imgur/chI6JuV/s/0a54d9c15c57d8da5e39f0bc778edcfb"
-    },
-    {
-      "recommendScore": "367",
-      "recommendCount": "790",
-      "title": "[請益] 是不是乾脆不用護盤 加速落底才對??",
-      "link": "/bbs/Stock/M.1795054495.A.339",
-      "author": "fish19831012",
-      "board": "Stock",
-      "publishTime": "2026/11/19 02:14",
-      "imageUrl": ""
     },
     {
       "recommendScore": "265",
@@ -31,6 +21,16 @@
       "author": "lili712",
       "board": "Stock",
       "publishTime": "2026/11/19 06:24",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "392",
+      "recommendCount": "526",
+      "title": "[請益] 現在散戶圖走到哪裡了",
+      "link": "/bbs/Stock/M.1795139150.A.744",
+      "author": "crystal0100",
+      "board": "Stock",
+      "publishTime": "2026/11/20 01:45",
       "imageUrl": ""
     },
     {
@@ -44,8 +44,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "313",
-      "recommendCount": "611",
+      "recommendScore": "315",
+      "recommendCount": "614",
       "title": "[新聞] 烏山頭水庫上游遭偷埋廢棄物，黑泥驗出",
       "link": "/bbs/Gossiping/M.1795066192.A.97D",
       "author": "stormsnow",
@@ -54,8 +54,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "445",
-      "recommendCount": "580",
+      "recommendScore": "448",
+      "recommendCount": "583",
       "title": "[情報] T1 Thank you Doran",
       "link": "/bbs/LoL/M.1795078887.A.821",
       "author": "serding",
@@ -64,23 +64,33 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/chI6JuV/s/0a54d9c15c57d8da5e39f0bc778edcfb"
     },
     {
-      "recommendScore": "289",
-      "recommendCount": "591",
-      "title": "[新聞] 防人才出走！輝達代理CEO拍板「提前加薪、增股」董事會重申排除黃仁勳回鍋",
-      "link": "/bbs/Stock/M.1795049827.A.FAD",
-      "author": "xephon",
-      "board": "Stock",
-      "publishTime": "2026/11/19 00:57",
+      "recommendScore": "226",
+      "recommendCount": "590",
+      "title": "[新聞] 藍營猛打水庫光電板議題　沈伯洋揭關鍵：造謠需時間、大家別焦慮",
+      "link": "/bbs/Gossiping/M.1795131459.A.F4D",
+      "author": "james7923",
+      "board": "Gossiping",
+      "publishTime": "2026/11/19 23:37",
       "imageUrl": ""
     },
     {
-      "recommendScore": "169",
-      "recommendCount": "561",
-      "title": "[新聞] 陳亭妃喊抹黑已開始批遭斷章取義 重申台南水庫不新增光電板",
-      "link": "/bbs/Gossiping/M.1795060405.A.9B0",
-      "author": "william8403",
-      "board": "Gossiping",
-      "publishTime": "2026/11/19 03:53",
+      "recommendScore": "98",
+      "recommendCount": "452",
+      "title": "[心得] 股齡9年老手告訴你今天就是超底日",
+      "link": "/bbs/Stock/M.1795140578.A.97B",
+      "author": "h713107",
+      "board": "Stock",
+      "publishTime": "2026/11/20 02:09",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "407",
+      "recommendCount": "659",
+      "title": "[情報] DK X(ShowMaker/Smash/cvMax續約)",
+      "link": "/bbs/LoL/M.1795095167.A.60B",
+      "author": "oDNSoIce",
+      "board": "LoL",
+      "publishTime": "2026/11/19 13:32",
       "imageUrl": ""
     },
     {
@@ -94,18 +104,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "399",
-      "recommendCount": "650",
-      "title": "[情報] DK X(ShowMaker/Smash/cvMax續約)",
-      "link": "/bbs/LoL/M.1795095167.A.60B",
-      "author": "oDNSoIce",
-      "board": "LoL",
-      "publishTime": "2026/11/19 13:32",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "193",
-      "recommendCount": "443",
+      "recommendCount": "444",
       "title": "[新聞] 快訊／限空令2.0來了！台股3天跌5248點金管會出重手",
       "link": "/bbs/Stock/M.1795069747.A.3BA",
       "author": "chunchie",
@@ -114,8 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "218",
-      "recommendCount": "396",
+      "recommendScore": "219",
+      "recommendCount": "397",
       "title": "[情報] 台股前十大跌點紀錄(今天第七名)",
       "link": "/bbs/Stock/M.1795066520.A.9CE",
       "author": "paidzou",
@@ -134,8 +134,18 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "202",
+      "recommendCount": "360",
+      "title": "[新聞] 美國超微公司AMD執行長蘇姿丰出售價值3548.99萬美元股票",
+      "link": "/bbs/Stock/M.1795103149.A.3D0",
+      "author": "yipi1357",
+      "board": "Stock",
+      "publishTime": "2026/11/19 15:45",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "222",
-      "recommendCount": "386",
+      "recommendCount": "387",
       "title": "[情報] 115年11月19日信用交易統計",
       "link": "/bbs/Stock/M.1795093478.A.043",
       "author": "steward135",
@@ -144,18 +154,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "205",
-      "recommendCount": "453",
-      "title": "[新聞] 輝達董事長「重申不讓黃仁勳回鍋」",
-      "link": "/bbs/Stock/M.1795047360.A.BE4",
-      "author": "starport",
-      "board": "Stock",
-      "publishTime": "2026/11/19 00:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "245",
-      "recommendCount": "671",
+      "recommendScore": "249",
+      "recommendCount": "677",
       "title": "[新聞] 打臉？故宮喊從未提園區設光電板 王鴻薇秀公文轟說謊：還要拗什麼",
       "link": "/bbs/Gossiping/M.1795082055.A.1C8",
       "author": "chopper594",
@@ -164,8 +164,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "239",
-      "recommendCount": "604",
+      "recommendScore": "241",
+      "recommendCount": "606",
       "title": "[新聞] 復康巴士爆羞辱視障者！只因對方「要投沈伯洋」",
       "link": "/bbs/HatePolitics/M.1795068017.A.273",
       "author": "genjuromkiii",
@@ -174,8 +174,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "168",
-      "recommendCount": "462",
+      "recommendScore": "169",
+      "recommendCount": "464",
       "title": "[新聞] 沈伯洋想搶小草票？　柯文哲開嗆：除了順起來、紅起來有什麼政見",
       "link": "/bbs/Gossiping/M.1795061616.A.1D2",
       "author": "Skyblueway",
@@ -184,23 +184,23 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "187",
-      "recommendCount": "648",
-      "title": "[討論] 八卦淪落到要護航自己公信力",
-      "link": "/bbs/HatePolitics/M.1795045076.A.948",
-      "author": "shirman",
-      "board": "HatePolitics",
-      "publishTime": "2026/11/18 23:37",
-      "imageUrl": "https://cache.pttweb.cc/imgur/E0ukicF/s/66ef6b204f9a9a80bb5131c158d0a6ce"
+      "recommendScore": "144",
+      "recommendCount": "334",
+      "title": "[新聞] 國安基金喊全力護盤 官員證實已實質進場",
+      "link": "/bbs/Stock/M.1795130763.A.FFD",
+      "author": "xephon",
+      "board": "Stock",
+      "publishTime": "2026/11/19 23:26",
+      "imageUrl": ""
     },
     {
-      "recommendScore": "-92",
-      "recommendCount": "343",
-      "title": "[新聞] 快新聞／大翻車了！藍營狂打烏山頭水庫光電板　一查驚呆「是馬政府核准的」",
-      "link": "/bbs/Gossiping/M.1795064849.A.084",
-      "author": "kinjk01",
-      "board": "Gossiping",
-      "publishTime": "2026/11/19 05:07",
+      "recommendScore": "166",
+      "recommendCount": "456",
+      "title": "目前跌幅已經逼近歷年股災",
+      "link": "/bbs/Stock/M.1795125303.A.AC6",
+      "author": "aqswdefrgt",
+      "board": "Stock",
+      "publishTime": "2026/11/19 21:55",
       "imageUrl": ""
     }
   ]
