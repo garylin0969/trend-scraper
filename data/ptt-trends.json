@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T16:50:03.316Z",
+  "updated": "2026-11-21T21:56:27.275Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
@@ -11,16 +11,26 @@
       "author": "ergostepo",
       "board": "Stock",
       "publishTime": "2026/11/21 03:30",
-      "imageUrl": "https://cache.pttweb.cc/imgur/bPM1COs/s/28cd851002808588800a3db7b8e4f90a"
+      "imageUrl": ""
     },
     {
-      "recommendScore": "288",
-      "recommendCount": "599",
+      "recommendScore": "290",
+      "recommendCount": "604",
       "title": "[新聞] 台股周一穩了？金管會5大狠招穩市「全面限空」　國安基金罕見證實已進場",
       "link": "/bbs/Stock/M.1795252591.A.C5F",
       "author": "b9002052",
       "board": "Stock",
       "publishTime": "2026/11/21 09:16",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "312",
+      "recommendCount": "761",
+      "title": "[新聞] 藍委站台民眾黨　開罵「沈伯洋就是人渣」",
+      "link": "/bbs/Gossiping/M.1795266201.A.8A9",
+      "author": "kcbill",
+      "board": "Gossiping",
+      "publishTime": "2026/11/21 13:03",
       "imageUrl": ""
     },
     {
@@ -35,7 +45,7 @@
     },
     {
       "recommendScore": "248",
-      "recommendCount": "604",
+      "recommendCount": "608",
       "title": "[新聞] 燒了10億！數位身分證「頭洗一半喊卡」",
       "link": "/bbs/Gossiping/M.1795235812.A.515",
       "author": "ChanHoPark",
@@ -45,22 +55,12 @@
     },
     {
       "recommendScore": "280",
-      "recommendCount": "779",
+      "recommendCount": "788",
       "title": "[請益] 這次大跌體感有金融海嘯強嗎？",
       "link": "/bbs/Stock/M.1795257950.A.317",
       "author": "xu3",
       "board": "Stock",
       "publishTime": "2026/11/21 10:45",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "294",
-      "recommendCount": "713",
-      "title": "[新聞] 藍委站台民眾黨　開罵「沈伯洋就是人渣」",
-      "link": "/bbs/Gossiping/M.1795266201.A.8A9",
-      "author": "kcbill",
-      "board": "Gossiping",
-      "publishTime": "2026/11/21 13:03",
       "imageUrl": ""
     },
     {
@@ -74,8 +74,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "158",
-      "recommendCount": "578",
+      "recommendScore": "165",
+      "recommendCount": "601",
       "title": "[新聞] 黃仁勳爆「羞辱式管理」20年　喊挖心臟、頭上撒尿！砸百萬封口費",
       "link": "/bbs/Gossiping/M.1795246317.A.5E6",
       "author": "lovea",
@@ -85,7 +85,7 @@
     },
     {
       "recommendScore": "144",
-      "recommendCount": "631",
+      "recommendCount": "632",
       "title": "[新聞] 黃仁勳的「說謊」在辭職前已引起輝達董事會警惕",
       "link": "/bbs/Stock/M.1795231260.A.611",
       "author": "LoveSports",
@@ -94,13 +94,43 @@
       "imageUrl": ""
     },
     {
+      "recommendScore": "268",
+      "recommendCount": "528",
+      "title": "[新聞] 蘇巧慧造勢場突爆驚句！林淑芬台上竟喊「大罷免大成功」",
+      "link": "/bbs/Gossiping/M.1795275955.A.DF4",
+      "author": "orange7",
+      "board": "Gossiping",
+      "publishTime": "2026/11/21 15:45",
+      "imageUrl": ""
+    },
+    {
       "recommendScore": "152",
-      "recommendCount": "417",
+      "recommendCount": "422",
       "title": "[新聞] 紐時追打黃仁勳！揭露羞辱員工內幕 威脅挖心臟、扯斷雙臂",
       "link": "/bbs/Stock/M.1795237874.A.9AA",
       "author": "KotoriCute",
       "board": "Stock",
       "publishTime": "2026/11/21 05:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "246",
+      "recommendCount": "469",
+      "title": "[新聞] 獨／沈伯洋造勢無人機爆用陸製晶片 獲民進黨政府標案補助破4億",
+      "link": "/bbs/Gossiping/M.1795271693.A.5F7",
+      "author": "razan",
+      "board": "Gossiping",
+      "publishTime": "2026/11/21 14:34",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "159",
+      "recommendCount": "362",
+      "title": "[新聞] 不買單「尊柯牌」？蔣萬安今晚合體柯文哲 鍾小平：1、2名藍議員候選人恐落選",
+      "link": "/bbs/Gossiping/M.1795260714.A.524",
+      "author": "jal99",
+      "board": "Gossiping",
+      "publishTime": "2026/11/21 11:31",
       "imageUrl": ""
     },
     {
@@ -114,16 +144,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "158",
-      "recommendCount": "348",
-      "title": "[新聞] 不買單「尊柯牌」？蔣萬安今晚合體柯文哲 鍾小平：1、2名藍議員候選人恐落選",
-      "link": "/bbs/Gossiping/M.1795260714.A.524",
-      "author": "jal99",
-      "board": "Gossiping",
-      "publishTime": "2026/11/21 11:31",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "175",
       "recommendCount": "338",
       "title": "[請益] 如果股災過後誰最具投資價值？",
@@ -134,8 +154,18 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "138",
-      "recommendCount": "387",
+      "recommendScore": "160",
+      "recommendCount": "459",
+      "title": "[問卦] 台灣有在做未來50年的規劃嗎",
+      "link": "/bbs/Gossiping/M.1795259505.A.AE5",
+      "author": "swommy",
+      "board": "Gossiping",
+      "publishTime": "2026/11/21 11:11",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "139",
+      "recommendCount": "391",
       "title": "[請益] 為何要護盤  護盤的意義是什麼？",
       "link": "/bbs/Stock/M.1795254603.A.FFA",
       "author": "mvp020713",
@@ -154,26 +184,6 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "207",
-      "recommendCount": "382",
-      "title": "[新聞] 獨／沈伯洋造勢無人機爆用陸製晶片 獲民進黨政府標案補助破4億",
-      "link": "/bbs/Gossiping/M.1795271693.A.5F7",
-      "author": "razan",
-      "board": "Gossiping",
-      "publishTime": "2026/11/21 14:34",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "149",
-      "recommendCount": "429",
-      "title": "[問卦] 台灣有在做未來50年的規劃嗎",
-      "link": "/bbs/Gossiping/M.1795259505.A.AE5",
-      "author": "swommy",
-      "board": "Gossiping",
-      "publishTime": "2026/11/21 11:11",
-      "imageUrl": ""
-    },
-    {
       "recommendScore": "132",
       "recommendCount": "307",
       "title": "[新聞] 快訊/國安基金罕見假日喊話！財部喊「已",
@@ -185,22 +195,12 @@
     },
     {
       "recommendScore": "155",
-      "recommendCount": "289",
+      "recommendCount": "290",
       "title": "[新聞] 台股重挫散戶進場抄台積電、0050！曬超甜成交價嗨喊：遲來雙11折扣優惠",
       "link": "/bbs/Stock/M.1795223093.A.118",
       "author": "NTD300w",
       "board": "Stock",
       "publishTime": "2026/11/21 01:04",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "157",
-      "recommendCount": "330",
-      "title": "[新聞] 「洋流」塞爆校門捷運口！高中生PO抱怨文慘遭「出征」 支持者急緩頰",
-      "link": "/bbs/Gossiping/M.1795244118.A.833",
-      "author": "Supergreen",
-      "board": "Gossiping",
-      "publishTime": "2026/11/21 06:55",
       "imageUrl": ""
     }
   ]
