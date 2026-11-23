@@ -1,31 +1,61 @@
 {
-  "updated": "2026-11-23T12:11:27.266Z",
+  "updated": "2026-11-23T23:51:39.828Z",
   "total_found": 20,
   "returned_count": 20,
   "articles": [
     {
-      "recommendScore": "513",
-      "recommendCount": "804",
+      "recommendScore": "1192",
+      "recommendCount": "1497",
+      "title": "[情報] 消息：英偉達董事會恢復黃仁勳CEO",
+      "link": "/bbs/Stock/M.1795442301.A.5F4",
+      "author": "xephon",
+      "board": "Stock",
+      "publishTime": "2026/11/23 13:58",
+      "imageUrl": "https://cache.pttweb.cc/imgur/CRUxSbg/s/5f0dacaf8e9b4d043c1b8c655511218f"
+    },
+    {
+      "recommendScore": "940",
+      "recommendCount": "1174",
+      "title": "[情報] NVIDIA Board Reinstates Jensen Huang a",
+      "link": "/bbs/Stock/M.1795442568.A.4CC",
+      "author": "ChengSandy",
+      "board": "Stock",
+      "publishTime": "2026/11/23 14:02",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "946",
+      "recommendCount": "1070",
+      "title": "[心得] 夜盤漲幅、漲點紀錄！今歷史第一！",
+      "link": "/bbs/Stock/M.1795448738.A.094",
+      "author": "blackpudding",
+      "board": "Stock",
+      "publishTime": "2026/11/23 15:45",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "521",
+      "recommendCount": "817",
       "title": "[情報] 115年11月23日 三大法人買賣金額統計表",
       "link": "/bbs/Stock/M.1795418359.A.C21",
       "author": "coconing",
       "board": "Stock",
       "publishTime": "2026/11/23 07:19",
-      "imageUrl": "https://cache.pttweb.cc/imgur/CRUxSbg/s/5f0dacaf8e9b4d043c1b8c655511218f"
-    },
-    {
-      "recommendScore": "159",
-      "recommendCount": "729",
-      "title": "[新聞] 卓榮泰：翡翠水庫以前、現在、以後、都",
-      "link": "/bbs/Gossiping/M.1795383872.A.0A7",
-      "author": "sartan",
-      "board": "Gossiping",
-      "publishTime": "2026/11/22 21:44",
       "imageUrl": ""
     },
     {
-      "recommendScore": "297",
-      "recommendCount": "588",
+      "recommendScore": "410",
+      "recommendCount": "670",
+      "title": "[新聞] 快訊／輝達宣布：黃仁勳重返CEO",
+      "link": "/bbs/Stock/M.1795443301.A.6B4",
+      "author": "qazxc1156892",
+      "board": "Stock",
+      "publishTime": "2026/11/23 14:15",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "331",
+      "recommendCount": "634",
       "title": "[心得]  上週五畢業，但我不後悔",
       "link": "/bbs/Stock/M.1795402955.A.89B",
       "author": "Macedo",
@@ -35,7 +65,7 @@
     },
     {
       "recommendScore": "295",
-      "recommendCount": "714",
+      "recommendCount": "718",
       "title": "[爆卦] 洋流支持者要把排雲山莊國旗換成洋流旗",
       "link": "/bbs/Gossiping/M.1795397287.A.74B",
       "author": "Skyblueway",
@@ -44,28 +74,8 @@
       "imageUrl": "https://cache.pttweb.cc/imgur/CRUxSbg/s/5f0dacaf8e9b4d043c1b8c655511218f"
     },
     {
-      "recommendScore": "383",
+      "recommendScore": "467",
       "recommendCount": "858",
-      "title": "[新聞] 貝森特的幽默：黃仁勳現在就是外部人士",
-      "link": "/bbs/Stock/M.1795368656.A.4C8",
-      "author": "netsphere",
-      "board": "Stock",
-      "publishTime": "2026/11/22 17:30",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "247",
-      "recommendCount": "546",
-      "title": "[新聞] 玉山國旗險被換成「洋流旗」！官方證實：剛展開就被制止",
-      "link": "/bbs/Gossiping/M.1795402488.A.E92",
-      "author": "BSScene",
-      "board": "Gossiping",
-      "publishTime": "2026/11/23 02:54",
-      "imageUrl": "https://cache.pttweb.cc/imgur/KwQTNG9/s/487119ec93c52cb6f43b87e740d77269"
-    },
-    {
-      "recommendScore": "441",
-      "recommendCount": "798",
       "title": "[討論] 周軒預告選前之夜會有意想不到的來賓",
       "link": "/bbs/HatePolitics/M.1795424151.A.15F",
       "author": "oscarwu3041",
@@ -74,18 +84,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "168",
-      "recommendCount": "575",
-      "title": "[新聞] 矽谷大老搶救黃仁勳！諾貝爾得主轟：科技公司根本是「威權王國」",
-      "link": "/bbs/Stock/M.1795398024.A.8F5",
-      "author": "abc12812",
+      "recommendScore": "252",
+      "recommendCount": "562",
+      "title": "[新聞] 玉山國旗險被換成「洋流旗」！官方證實：剛展開就被制止",
+      "link": "/bbs/Gossiping/M.1795402488.A.E92",
+      "author": "BSScene",
+      "board": "Gossiping",
+      "publishTime": "2026/11/23 02:54",
+      "imageUrl": "https://cache.pttweb.cc/imgur/KwQTNG9/s/487119ec93c52cb6f43b87e740d77269"
+    },
+    {
+      "recommendScore": "252",
+      "recommendCount": "545",
+      "title": "[新聞] 黃仁勳回鍋華府炸鍋！ 參院轟「魯莽決定」逼白宮交出背書高層名單",
+      "link": "/bbs/Stock/M.1795451890.A.3EE",
+      "author": "neowfish",
       "board": "Stock",
-      "publishTime": "2026/11/23 01:40",
+      "publishTime": "2026/11/23 16:38",
       "imageUrl": ""
     },
     {
-      "recommendScore": "277",
-      "recommendCount": "484",
+      "recommendScore": "288",
+      "recommendCount": "507",
       "title": "[新聞] 為何黃珊珊送3本書給沈伯洋？柯文哲：因3",
       "link": "/bbs/Gossiping/M.1795405670.A.7C8",
       "author": "copybrown",
@@ -94,28 +114,8 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "264",
-      "recommendCount": "810",
-      "title": "Re: [問卦] 台南難道真的不會變天嗎？",
-      "link": "/bbs/Gossiping/M.1795364193.A.2F3",
-      "author": "ok020402",
-      "board": "Gossiping",
-      "publishTime": "2026/11/22 16:16",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "194",
-      "recommendCount": "440",
-      "title": "[情報] 明天起 信用交易維持率130%降至120%",
-      "link": "/bbs/Stock/M.1795417858.A.C78",
-      "author": "DrowningPool",
-      "board": "Stock",
-      "publishTime": "2026/11/23 07:10",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "284",
-      "recommendCount": "501",
+      "recommendScore": "306",
+      "recommendCount": "550",
       "title": "[新聞] 「蔡英文比馬英九還蠢」！沈伯洋昔日發言遭挖出",
       "link": "/bbs/Gossiping/M.1795418219.A.14F",
       "author": "chopper594",
@@ -124,58 +124,28 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "237",
-      "recommendCount": "632",
-      "title": "[新聞] 獨／卓揆明天下午邀產業界開財經會議 金控大老受邀",
-      "link": "/bbs/Stock/M.1795359868.A.D07",
-      "author": "mzwj",
+      "recommendScore": "168",
+      "recommendCount": "579",
+      "title": "[新聞] 矽谷大老搶救黃仁勳！諾貝爾得主轟：科技公司根本是「威權王國」",
+      "link": "/bbs/Stock/M.1795398024.A.8F5",
+      "author": "abc12812",
       "board": "Stock",
-      "publishTime": "2026/11/22 15:04",
+      "publishTime": "2026/11/23 01:40",
       "imageUrl": ""
     },
     {
-      "recommendScore": "277",
-      "recommendCount": "445",
-      "title": "[BOX ] Celtics 87:88 Warriors",
-      "link": "/bbs/NBA/M.1795406387.A.7F1",
-      "author": "jason911152",
-      "board": "NBA",
-      "publishTime": "2026/11/23 03:59",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "260",
-      "recommendCount": "492",
-      "title": "[情報] 1123 上市外資買賣超排行",
-      "link": "/bbs/Stock/M.1795421786.A.CFC",
-      "author": "saber50116",
+      "recommendScore": "272",
+      "recommendCount": "436",
+      "title": "[新聞] 黃仁勳王者歸來喊「等不及上班」　輝達董事會一致投票通過",
+      "link": "/bbs/Stock/M.1795443691.A.A06",
+      "author": "IzumiKonata",
       "board": "Stock",
-      "publishTime": "2026/11/23 08:16",
+      "publishTime": "2026/11/23 14:21",
       "imageUrl": ""
     },
     {
-      "recommendScore": "159",
-      "recommendCount": "392",
-      "title": "[新聞] 被柯文哲嗆當市長「頭殼壞去」　沈伯洋：柯市長言論總是如此美妙",
-      "link": "/bbs/Gossiping/M.1795411983.A.0E8",
-      "author": "mife103",
-      "board": "Gossiping",
-      "publishTime": "2026/11/23 05:33",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "172",
-      "recommendCount": "352",
-      "title": "[新聞] 證交所董座發函「道德勸說」上市公司啟動庫藏股、辦理法說會",
-      "link": "/bbs/Stock/M.1795419720.A.EF8",
-      "author": "ipipwrong",
-      "board": "Stock",
-      "publishTime": "2026/11/23 07:42",
-      "imageUrl": ""
-    },
-    {
-      "recommendScore": "188",
-      "recommendCount": "326",
+      "recommendScore": "276",
+      "recommendCount": "472",
       "title": "[標的] 大盤-空",
       "link": "/bbs/Stock/M.1795401484.A.1DC",
       "author": "KenKCY",
@@ -184,23 +154,53 @@
       "imageUrl": ""
     },
     {
-      "recommendScore": "175",
-      "recommendCount": "361",
-      "title": "[問卦] 台南難道真的不會變天嗎？真的穩到不行?",
-      "link": "/bbs/Gossiping/M.1795357343.A.C7F",
-      "author": "abianisbitch",
-      "board": "Gossiping",
-      "publishTime": "2026/11/22 14:22",
+      "recommendScore": "193",
+      "recommendCount": "448",
+      "title": "[情報] 明天起 信用交易維持率130%降至120%",
+      "link": "/bbs/Stock/M.1795417858.A.C78",
+      "author": "DrowningPool",
+      "board": "Stock",
+      "publishTime": "2026/11/23 07:10",
       "imageUrl": ""
     },
     {
-      "recommendScore": "143",
-      "recommendCount": "399",
-      "title": "[討論] 柯文哲:沈伯洋沒辦法像我這樣8年吃苦耐勞",
-      "link": "/bbs/HatePolitics/M.1795402301.A.1CA",
-      "author": "nicholas0406",
-      "board": "HatePolitics",
-      "publishTime": "2026/11/23 02:51",
+      "recommendScore": "261",
+      "recommendCount": "440",
+      "title": "[新聞] 川普恭喜黃仁勳復職！強調美國沒證據顯示黃仁勳有違法行為",
+      "link": "/bbs/Stock/M.1795444034.A.825",
+      "author": "largan6075",
+      "board": "Stock",
+      "publishTime": "2026/11/23 14:27",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "283",
+      "recommendCount": "452",
+      "title": "[BOX ] Celtics 87:88 Warriors",
+      "link": "/bbs/NBA/M.1795406387.A.7F1",
+      "author": "jason911152",
+      "board": "NBA",
+      "publishTime": "2026/11/23 03:59",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "188",
+      "recommendCount": "420",
+      "title": "[新聞] 史上最短命執行長之一！克雷斯只當11天就讓位　過去曾槓黃家父女",
+      "link": "/bbs/Stock/M.1795446781.A.AEE",
+      "author": "TZUYIC",
+      "board": "Stock",
+      "publishTime": "2026/11/23 15:13",
+      "imageUrl": ""
+    },
+    {
+      "recommendScore": "236",
+      "recommendCount": "392",
+      "title": "[新聞] 2.3億買0050「虧損3000萬」哲哲堅持不賣：沒有All in你會後悔",
+      "link": "/bbs/Stock/M.1795444819.A.0D6",
+      "author": "asd63312337",
+      "board": "Stock",
+      "publishTime": "2026/11/23 14:40",
       "imageUrl": ""
     }
   ]
