@@ -1,14 +1,22 @@
 {
-  "updated": "2026-11-27T22:40:09.320Z",
+  "updated": "2026-11-28T04:13:04.228Z",
   "channel": {
     "title": "BBC Chinese",
     "description": "BBC Chinese - BBC News , 中文 - 主頁",
     "link": "https://www.bbc.com/zhongwen/trad",
-    "lastBuildDate": "2026-11-27T22:39:59.000Z",
+    "lastBuildDate": "2026-11-28T04:12:52.000Z",
     "language": "zh-hant",
     "copyright": "英國廣播公司 版權所有 "
   },
   "trends": [
+    {
+      "title": "台灣「九合一」選舉開始投票 核電政策公投同步舉行",
+      "description": "台灣1965萬選民將票選縣市長、地方議員、鄉鎮村里長等將近1.11萬名公職人員，同時公投決定日後能源政策。",
+      "link": "https://www.bbc.com/zhongwen/live/c60evlqlpx32t/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-28T00:00:00.000Z",
+      "guid": "https://www.bbc.com/zhongwen/live/c60evlqlpx32t/trad#0",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a64/live/b45cee90-eadc-11f1-81da-2ff518b71d00.jpg"
+    },
     {
       "title": "為何特朗普新一輪關稅的威脅不如以往？",
       "description": "面對特朗普首輪關稅攻勢，世界各國已調整貿易流向，繞過美國的關稅壁壘。如今，各國更將目光投向特朗普卸任後的時代。",
@@ -16,14 +24,6 @@
       "pubDate": "2026-11-27T04:22:48.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/c3j4rw1r4p29o/trad#0",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg"
-    },
-    {
-      "title": "台中市選戰：江啟臣對決何欣純，盧秀燕問鼎總統前哨戰",
-      "description": "台灣選舉傳統中，素有「決戰中台灣」一稱。江啟臣若當選，盧路線將得到選民加持，其在國民黨內的聲望也有望進一步升高。",
-      "link": "https://www.bbc.com/zhongwen/articles/cx053e8yr348o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-27T05:47:37.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cx053e8yr348o/trad#0",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ed63/live/743f96d0-ea25-11f1-a968-f30728b956c0.jpg"
     },
     {
       "title": "押注英偉達發展AI，亞洲在黃仁勳復職後前景如何？",
@@ -82,6 +82,14 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7fb4/live/8bdc5170-e985-11f1-99b6-a35a62fa4264.jpg"
     },
     {
+      "title": "台中市選戰：江啟臣對決何欣純，盧秀燕問鼎總統前哨戰",
+      "description": "台灣選舉傳統中，素有「決戰中台灣」一稱。江啟臣若當選，盧路線將得到選民加持，其在國民黨內的聲望也有望進一步升高。",
+      "link": "https://www.bbc.com/zhongwen/articles/cx053e8yr348o/trad?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-11-27T05:47:37.000Z",
+      "guid": "https://www.bbc.com/zhongwen/articles/cx053e8yr348o/trad#2",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ed63/live/743f96d0-ea25-11f1-a968-f30728b956c0.jpg"
+    },
+    {
       "title": "宏福苑大火一周年：居民受壓、媒體噤聲，為何悼念變得小心翼翼？",
       "description": "宏福苑大火一周年前夕，港府官員稱「政府絕對容許」合法活動，但有遺屬表示悼念活動受壓，也有新聞工作者向BBC中文透露，相關周年報導在製作完成後突然「被抽起」。",
       "link": "https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/trad?at_medium=RSS&at_campaign=rss",
@@ -128,14 +136,6 @@
       "pubDate": "2026-11-26T09:11:54.000Z",
       "guid": "https://www.bbc.com/zhongwen/articles/cmewv0vkgwplo/trad#2",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1c04/live/270d0cc0-e8b4-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "美國法院裁定：中國科技巨頭華為，共謀竊取商業機密罪名成立",
-      "description": "華為在美被判10項罪成，包括竊取商業機密與銀行欺詐，但敲詐勒索組織罪無罪。",
-      "link": "https://www.bbc.com/zhongwen/articles/cmq8lz8ddyg9o/trad?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-11-26T07:35:10.000Z",
-      "guid": "https://www.bbc.com/zhongwen/articles/cmq8lz8ddyg9o/trad#2",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
     },
     {
       "title": "陳吉寧：「清華系」失勢、「上海跳板」失靈與政治局委員落馬",
